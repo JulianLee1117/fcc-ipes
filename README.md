@@ -170,8 +170,8 @@ Three additional passes (no LLM calls):
 
 ### Confidence Distribution
 - High: 54 companies (multiple confirming signals)
-- Medium: 87 companies (some signals)
-- Low: 59 companies (FCC data only)
+- Medium: 122 companies (some signals or gap-filled via search/rules)
+- Low: 24 companies (FCC data only)
 
 ---
 

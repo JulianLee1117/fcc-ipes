@@ -40,7 +40,7 @@
     "industry_segment": "Carrier",
     "product_summary": "VoIP telecommunications services provider that filed for interconnected VoIP numbering authorization, likely offering business telecommunication solutions based on LinkedIn profile references to VoIP technology and cost-effective communication services.",
     "market_position": "SMB",
-    "enrichment_confidence": "Low",
+    "enrichment_confidence": "Medium",
     "enrichment_sources": [
       "fcc_documents",
       "fcc_filings",
@@ -290,7 +290,7 @@
     "industry_segment": "Carrier",
     "product_summary": "VoIP service provider offering telecommunications services in New York State and New Jersey through own facilities and CLEC partnerships for PSTN traffic routing.",
     "market_position": "Enterprise",
-    "enrichment_confidence": "Low",
+    "enrichment_confidence": "Medium",
     "enrichment_sources": [
       "fcc_documents",
       "fcc_filings",
@@ -1840,7 +1840,7 @@
     "industry_segment": "Carrier",
     "product_summary": "Filed for interconnected VoIP numbering authorization in 2017, likely to provide voice telecommunications services, but no specific service details available in evidence.",
     "market_position": "Enterprise",
-    "enrichment_confidence": "Low",
+    "enrichment_confidence": "Medium",
     "enrichment_sources": [
       "fcc_documents",
       "fcc_filings",
@@ -1922,7 +1922,7 @@
     "industry_segment": "UCaaS",
     "product_summary": "No evidence of VoIP products or services. Individual appears to be a lawyer specializing in energy law rather than operating a telecommunications business.",
     "market_position": "Startup",
-    "enrichment_confidence": "Low",
+    "enrichment_confidence": "Medium",
     "enrichment_sources": [
       "fcc_filings",
       "https://natlawreview.com/author/anne-e-callenbach",
@@ -2483,7 +2483,7 @@
     "industry_segment": "Carrier",
     "product_summary": "Applied for FCC interconnected VoIP numbering authorization in 2020, indicating intent to provide VoIP telecommunications services, but no evidence of actual service launch or operations.",
     "market_position": "SMB",
-    "enrichment_confidence": "Low",
+    "enrichment_confidence": "Medium",
     "enrichment_sources": [
       "fcc_documents",
       "fcc_filings",
@@ -2671,7 +2671,7 @@
     "industry_segment": "Carrier",
     "product_summary": "Azka Communication is a provider of interconnected VoIP services that seeks FCC numbering authorization to operate as a telecommunications service provider.",
     "market_position": "Enterprise",
-    "enrichment_confidence": "Low",
+    "enrichment_confidence": "Medium",
     "enrichment_sources": [
       "fcc_documents",
       "fcc_filings",
@@ -3076,7 +3076,7 @@
     "industry_segment": "Carrier",
     "product_summary": "Individual VoIP numbering authorization filing with no clear business entity or product offering identified.",
     "market_position": "Startup",
-    "enrichment_confidence": "Low",
+    "enrichment_confidence": "Medium",
     "enrichment_sources": [
       "fcc_filings",
       "https://en.wikipedia.org/wiki/Stoker_(film)",
@@ -5696,7 +5696,7 @@
     "industry_segment": "Carrier",
     "product_summary": "Digital Network Access Communications was a competitive local exchange carrier from northern Illinois that sought to expand interconnected VoIP services to neighboring states outside their existing geographic area.",
     "market_position": "SMB",
-    "enrichment_confidence": "Low",
+    "enrichment_confidence": "Medium",
     "enrichment_sources": [
       "fcc_documents",
       "fcc_filings",
@@ -6006,7 +6006,7 @@
     "industry_segment": "Carrier",
     "product_summary": "Applied for interconnected VoIP numbering authorization as a division of NG Telecom, suggesting telecommunications carrier services, though specific service details are unknown.",
     "market_position": "Enterprise",
-    "enrichment_confidence": "Low",
+    "enrichment_confidence": "Medium",
     "enrichment_sources": [
       "fcc_filings",
       "https://en.wikipedia.org/wiki/Wi-Fi",
@@ -6490,7 +6490,7 @@
     "industry_segment": "Carrier",
     "product_summary": "Provider of interconnected VoIP services seeking direct access to telephone numbering resources, operating as a telecommunications carrier offering long distance services.",
     "market_position": "SMB",
-    "enrichment_confidence": "Low",
+    "enrichment_confidence": "Medium",
     "enrichment_sources": [
       "fcc_documents",
       "fcc_filings",
@@ -7347,7 +7347,7 @@
     "industry_segment": "Carrier",
     "product_summary": "Telecommunications infrastructure provider with network interconnection services, likely providing VoIP and data connectivity through internet exchange participation.",
     "market_position": "SMB",
-    "enrichment_confidence": "Low",
+    "enrichment_confidence": "Medium",
     "enrichment_sources": [
       "fcc_documents",
       "fcc_filings",
@@ -7806,7 +7806,7 @@
     "industry_segment": "Carrier",
     "product_summary": "Based on FCC filings for \"Interconnected VoIP Numbering Authorization\" and patent references to VoIP routing and telecommunications systems, appears to have been involved in VoIP carrier services and telecommunications infrastructure.",
     "market_position": "Mid-Market",
-    "enrichment_confidence": "Low",
+    "enrichment_confidence": "Medium",
     "enrichment_sources": [
       "fcc_documents",
       "fcc_filings",
@@ -7907,7 +7907,7 @@
     "industry_segment": "Carrier",
     "product_summary": "Filed to provide interconnected VoIP services initially in New York state, indicating intent to operate as a telecommunications carrier offering voice services over internet protocol.",
     "market_position": "SMB",
-    "enrichment_confidence": "Low",
+    "enrichment_confidence": "Medium",
     "enrichment_sources": [
       "fcc_documents",
       "fcc_filings",
@@ -8357,7 +8357,7 @@
     "industry_segment": "Carrier",
     "product_summary": "Applied to provide interconnected VoIP services initially in NY, suggesting a telecommunications carrier focused on VoIP infrastructure and numbering services.",
     "market_position": "SMB",
-    "enrichment_confidence": "Low",
+    "enrichment_confidence": "Medium",
     "enrichment_sources": [
       "fcc_documents",
       "fcc_filings",
@@ -8759,7 +8759,7 @@
     "industry_segment": "Carrier",
     "product_summary": "Applied for interconnected VoIP numbering authorization with the FCC in 2017, indicating plans to provide VoIP telephony services requiring direct numbering resources.",
     "market_position": "Mid-Market",
-    "enrichment_confidence": "Low",
+    "enrichment_confidence": "Medium",
     "enrichment_sources": [
       "fcc_documents",
       "fcc_filings",
@@ -9751,7 +9751,7 @@
     "industry_segment": "Carrier",
     "product_summary": "Individual filing for VoIP numbering authorization, likely for personal or small-scale telecommunications service provision, though no specific service description found in evidence.",
     "market_position": "Enterprise",
-    "enrichment_confidence": "Low",
+    "enrichment_confidence": "Medium",
     "enrichment_sources": [
       "fcc_documents",
       "fcc_filings",
@@ -10487,7 +10487,7 @@
     "industry_segment": "Carrier",
     "product_summary": "MAGNA5 LLC was a VoIP carrier that intended to provide interconnected VoIP services initially in New York, Oregon, and Washington, as evidenced by their FCC numbering authorization application.",
     "market_position": "Mid-Market",
-    "enrichment_confidence": "Low",
+    "enrichment_confidence": "Medium",
     "enrichment_sources": [
       "fcc_documents",
       "fcc_filings",
@@ -10567,7 +10567,7 @@
     "industry_segment": "UCaaS",
     "product_summary": "Unable to determine products or services - no service description in FCC filing and no company-specific information found in web searches.",
     "market_position": "Startup",
-    "enrichment_confidence": "Low",
+    "enrichment_confidence": "Medium",
     "enrichment_sources": [
       "fcc_documents",
       "fcc_filings",
@@ -10920,7 +10920,7 @@
     "industry_segment": "Carrier",
     "product_summary": "Based on FCC VoIP numbering authorization filing and company name containing \"Fibernet,\" appears to be a fiber-based telecommunications carrier providing interconnected VoIP services.",
     "market_position": "SMB",
-    "enrichment_confidence": "Low",
+    "enrichment_confidence": "Medium",
     "enrichment_sources": [
       "fcc_documents",
       "fcc_filings",
@@ -11211,7 +11211,7 @@
     "industry_segment": "Carrier",
     "product_summary": "Applied for VoIP numbering authorization with the FCC, indicating intent to provide telecommunications services, but specific service offerings are unknown.",
     "market_position": "SMB",
-    "enrichment_confidence": "Low",
+    "enrichment_confidence": "Medium",
     "enrichment_sources": [
       "fcc_documents",
       "fcc_filings",
@@ -12011,7 +12011,7 @@
     "industry_segment": "Carrier",
     "product_summary": "Filed for interconnected VoIP numbering authorization with the FCC, suggesting intent to provide VoIP carrier services, though no specific service description was provided in filing.",
     "market_position": "Enterprise",
-    "enrichment_confidence": "Low",
+    "enrichment_confidence": "Medium",
     "enrichment_sources": [
       "fcc_documents",
       "fcc_filings",
@@ -12574,7 +12574,7 @@
     "industry_segment": "Carrier",
     "product_summary": "VoIP service provider that filed for interconnected VoIP numbering authorization with the FCC, indicating they intended to provide voice services requiring telephone number assignments.",
     "market_position": "Mid-Market",
-    "enrichment_confidence": "Low",
+    "enrichment_confidence": "Medium",
     "enrichment_sources": [
       "fcc_documents",
       "fcc_filings",
@@ -12911,7 +12911,7 @@
     "industry_segment": "Carrier",
     "product_summary": "PAETEC iTEL appears to be an Interconnected VoIP Provider that filed for numbering authorization with the FCC, likely providing VoIP telecommunications services, though now potentially operating under or merged with Windstream.",
     "market_position": "Mid-Market",
-    "enrichment_confidence": "Low",
+    "enrichment_confidence": "Medium",
     "enrichment_sources": [
       "fcc_documents",
       "fcc_filings",
@@ -13364,7 +13364,7 @@
     "industry_segment": "Carrier",
     "product_summary": "Appears to be a VoIP carrier service provider based on the company name \"Porting.com\" which suggests specialization in number porting services for telecommunications.",
     "market_position": "Enterprise",
-    "enrichment_confidence": "Low",
+    "enrichment_confidence": "Medium",
     "enrichment_sources": [
       "fcc_documents",
       "fcc_filings",
@@ -13573,7 +13573,7 @@
     "industry_segment": "Carrier",
     "product_summary": "RCLEC, Inc. was an interconnected VoIP service provider that filed for numbering authorization with the FCC, likely providing telecommunications services through VoIP infrastructure.",
     "market_position": "SMB",
-    "enrichment_confidence": "Low",
+    "enrichment_confidence": "Medium",
     "enrichment_sources": [
       "fcc_documents",
       "fcc_filings",
@@ -13886,7 +13886,7 @@
     "industry_segment": "CCaaS",
     "product_summary": "Unable to determine product or service offerings based on available evidence. FCC filing indicates interconnected VoIP numbering authorization application but no specific service description provided.",
     "market_position": "Enterprise",
-    "enrichment_confidence": "Low",
+    "enrichment_confidence": "Medium",
     "enrichment_sources": [
       "fcc_documents",
       "fcc_filings",
@@ -14694,7 +14694,7 @@
     "industry_segment": "Carrier",
     "product_summary": "Filed to provide interconnected VoIP services across multiple states including Texas, Florida, and over 30 other states, indicating a multi-state VoIP carrier operation.",
     "market_position": "SMB",
-    "enrichment_confidence": "Low",
+    "enrichment_confidence": "Medium",
     "enrichment_sources": [
       "fcc_documents",
       "fcc_filings",
@@ -15298,7 +15298,7 @@
     "industry_segment": "Carrier",
     "product_summary": "Applied for interconnected VoIP numbering authorization with the FCC in 2017, indicating telecommunications carrier services, though specific service details are not available in the evidence.",
     "market_position": "Enterprise",
-    "enrichment_confidence": "Low",
+    "enrichment_confidence": "Medium",
     "enrichment_sources": [
       "fcc_documents",
       "fcc_filings",
@@ -15712,7 +15712,7 @@
     "industry_segment": "Carrier",
     "product_summary": "Terra Nova Telecom operated as a Competitive Access Provider (CAP), Competitive Local Exchange Carrier (CLEC), and Interconnected VoIP operator, providing telecommunications services across multiple service categories.",
     "market_position": "SMB",
-    "enrichment_confidence": "Low",
+    "enrichment_confidence": "Medium",
     "enrichment_sources": [
       "fcc_documents",
       "fcc_filings",
@@ -15786,7 +15786,7 @@
     "industry_segment": "Carrier",
     "product_summary": "Telecommunications and interconnected VoIP services provider operating since 2003, filing for numbering authorization through what appears to be a carrier relationship with SyncGlobal Telecom.",
     "market_position": "Enterprise",
-    "enrichment_confidence": "Low",
+    "enrichment_confidence": "Medium",
     "enrichment_sources": [
       "fcc_documents",
       "fcc_filings",
@@ -16417,7 +16417,7 @@
     "industry_segment": "Carrier",
     "product_summary": "Telecommunications carrier that filed for interconnected VoIP numbering authorization with the FCC, likely providing voice communication services.",
     "market_position": "SMB",
-    "enrichment_confidence": "Low",
+    "enrichment_confidence": "Medium",
     "enrichment_sources": [
       "fcc_documents",
       "fcc_filings",
@@ -16491,7 +16491,7 @@
     "industry_segment": "Carrier",
     "product_summary": "Interconnected VoIP service provider that filed for numbering authorization with the FCC to provide telecommunications services, with associated autonomous system numbers indicating network infrastructure capabilities.",
     "market_position": "Enterprise",
-    "enrichment_confidence": "Low",
+    "enrichment_confidence": "Medium",
     "enrichment_sources": [
       "fcc_filings",
       "https://www.fcc.gov/document/interconnected-voip-numbering-authorization-application-filed-34",
@@ -16727,7 +16727,7 @@
     "industry_segment": "Carrier",
     "product_summary": "VoIP service provider that filed for numbering authorization with the FCC, operating under DBA \"AirLuna\" with classification as \"Other\" communications type in FCC records.",
     "market_position": "SMB",
-    "enrichment_confidence": "Low",
+    "enrichment_confidence": "Medium",
     "enrichment_sources": [
       "fcc_documents",
       "fcc_filings",
@@ -17872,7 +17872,7 @@
     "industry_segment": "Carrier",
     "product_summary": "Provides interconnected VoIP services to end users through own facilities and CLEC/voice service provider partnerships for PSTN routing, initially targeting Florida, Virginia, and New York markets.",
     "market_position": "Enterprise",
-    "enrichment_confidence": "Low",
+    "enrichment_confidence": "Medium",
     "enrichment_sources": [
       "fcc_documents",
       "fcc_filings",
@@ -17957,7 +17957,7 @@
     "industry_segment": "Carrier",
     "product_summary": "WaveNation provides PSTN Control Service for Interconnected VoIP services, operating in partnership with Peerless Network to facilitate VoIP telecommunications infrastructure.",
     "market_position": "SMB",
-    "enrichment_confidence": "Low",
+    "enrichment_confidence": "Medium",
     "enrichment_sources": [
       "fcc_documents",
       "fcc_filings",
