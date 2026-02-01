@@ -1,0 +1,1492 @@
+Before the
+FEDERAL COMMUNICATIONS COMMISSION
+Washington, D.C. 20554
+In the Matter of )
+)
+Application of Alaska Communications ) WC Docket No. 19-____
+Internet, LLC For Certification As an )
+Interconnected VOIP Provider For Direct )
+Access To Numbering Resources Pursuant )
+To Section 52.15(g)(3) of the Commission’s )
+Rules1 )
+AMENDMENT TO APPLICATION
+Alaska Communications Internet, LLC (“Alaska Communications”) filed the above-
+captioned application on or about December 6, 2017 (the “Application”). Alaska
+Communications hereby respectfully requests that the additional information provided herein be
+associated with and made part of the Application, and that the Application be placed on public
+notice as complete and acceptable for filing.
+The Application affirms that Alaska Communications currently is able to provide, and
+upon grant of the subject application will continue providing, interconnected voice over Internet
+Protocol (“i-VoIP”) service using the facilities of its ILEC affiliates. The Application states that
+Alaska Communications currently offers i-VoIP services by accessing the facilities of its
+corporate affiliates serving the Anchorage rate center under the terms of an intra-corporate
+interconnection agreement. Application at ¶3.
+The Application is hereby amended by enclosing an interconnection agreement (the
+“ICA”) between and among Alaska Communications Internet, LLC and the following corporate
+affiliates (each an incumbent local exchange carrier or “ILEC” owned by the parent of ACS
+1 47 CFR §52.15(g)(3).
+
+Internet, LLC): ACS of Alaska, LLC (serving Juneau and the southeast Alaska area), ACS of
+the Northland, LLC (serving two study areas in the rural interior of Alaska), ACS of Anchorage,
+LLC (serving Anchorage and the surrounding area) and ACS of Fairbanks, LLC (serving
+Fairbanks and the surrounding area).
+The ICA establishes that Alaska Communications is capable of providing interconnected
+VoIP service within sixty days of the numbering resource activation date in accordance with
+Section 52.15(g)(2) of the Commission’s rules.2 Specifically, pursuant to the ICA, Alaska
+Communications is capable of accessing the public switched telephone network (“PSTN”) for
+the purpose of providing i-VoIP service, including providing users the ability to originate calls to
+the PSTN and receive calls terminating from the PSTN. Alaska Communications thus has
+demonstrated “facilities readiness” as required by the Commission’s rules.3
+Respectfully submitted,
+Karen Brinkmann
+Counsel to Alaska Communications Internet, LLC
+1800 M Street, NW
+Suite 800-North
+Washington, DC 20036
+202.365.0325
+KB@KarenBrinkmann.com
+February 28, 2019
+2 47 CFR §52.15(g)(2).
+3 See Numbering Policies for Modern Communications, et al., WC Docket No. 13-97 et
+al., 30 FCC Rcd 6839, 6856-57 (2015) (requiring “facilities readiness” including interconnection
+with the public switched telephone network (“PSTN”) and readiness to permit users to receive
+calls from the PSTN and terminate calls to the PSTN, which may be evidenced by an
+interconnection agreement), citing 47 CFR §52.15(g)(2).
+
+ALASKA COMMUNICATIONS INTERNET, LLC
+APPLICATION FOR DIRECT ACCESS TO NUMBERING RESOURCES
+AMENDMENT
+February 28, 2019
+EXHIBIT A
+Interconnection and Traffic Exchange Agreement
+
+INTERCONNECTION AND TRAFFIC EXCHANGE AGREEMENT
+This Interconnection and Traffic Exchange Agreement ("Agreement") shall be deemed
+February 1, 2019 (the "Effective Date"), between ACS of Alaska, LLC, ACS of the Northland, LLC,
+Anchorage, LLC, and ACS of Fairbanks, LLC (collectively, "the LECs"), and Alaska Communications
+Internet, LLC ("Alaska Communications"). (Alaska Communications and the LECs may be referred to
+hereinafter, each, individually as a "Party", and, collectively, as the "Parties").
+GENERAL TERMS AND CONDITIONS
+In consideration of the mutual promises contained in this Agreement, and intending to be legally
+bound, Alaska Communications and the LECs hereby agree as follows:
+1. Application of Law
+1.1 The construction, interpretation and performance of this Agreement shall be
+governed by (a) the laws of the United States of America and (b) the laws of the State
+of Alaska, without regard to its conflicts of laws rules. All disputes relating to this
+Agreement shall be resolved through the application of such laws.
+1.2 Each Party shall remain in compliance with Applicable Law in the course of performing
+its obligations under this Agreement.
+1.3 Neither Party shall be liable for any delay or failure in performance by it that results
+from requirements of Applicable Law, or acts or failures to act of any Governmental
+Authority.
+1.4 Each Party shall promptly notify the other Party in writing of any action of a
+Governmental Authority that limits, suspends, cancels, terminates, withdraws, or
+otherwise materially affects, the notifying Party's ability to perform its obligations
+under this Agreement.
+1.5 If any provision of this Agreement shall be invalid or unenforceable under Applicable
+Law, such invalidity or unenforceability shall not invalidate or render unenforceable
+any other provision of this Agreement, and this Agreement shall be construed as if it
+did not contain such invalid or unenforceable provision; provided, that if the invalid or
+unenforceable provision is a material provision of this Agreement, or the invalidity or
+unenforceability materially affects the rights or obligations of a Party hereunder or the
+ability of a Party to perform any material provision of this Agreement, the Parties shall
+promptly renegotiate in good faith and amend in writing this Agreement in order to
+make such mutually acceptable revisions to this Agreement as may be required in
+order to conform the Agreement to Applicable Law.
+1.6 If any legislative, regulatory, judicial or other governmental decision, order,
+determination or action, or any change in Applicable Law, materially affects any
+material provision of this Agreement, the rights or obligations of a Party hereunder, or
+the ability of a Party to perform any material provision of this Agreement, the Parties
+shall promptly renegotiate in good faith and amend in writing this Agreement in order
+to make such mutually acceptable revisions to this Agreement as may be required in
+order to conform the Agreement to Applicable Law. If within 30 days of the effective
+date of such decision, determination, action or change, the Parties are unable to agree
+in writing upon mutually acceptable revisions to this Agreement, either Party may, in
+its sole discretion, pursue any remedies available to it under this Agreement, at law, in
+
+INTERCONNECTION AND TRAFFIC EXCHANGE AGREEMENT
+Alaska Communications
+February 2019
+equity, or otherwise, including, but not limited to, instituting an appropriate
+proceeding before a court of competent jurisdiction, without first pursuing dispute
+resolution in accordance with Section 10 of this Agreement.
+2. Assignment
+Neither Party may assign this Agreement or any right or interest under this Agreement, nor
+delegate any obligation under this Agreement, without the prior written consent of the other
+Party, which consent shall not be unreasonably withheld, conditioned or delayed. Any
+attempted assignment or delegation in violation of this Section 2 shall be void and ineffective
+and constitute default of this Agreement. Notwithstanding the foregoing, either Party may
+assign this Agreement without the other Party's consent: (a) to any parent, subsidiary or
+Affiliate entity; or (b) to any successor in interest of all or substantially all of the assets, stock
+or business of that Party to which this Agreement pertains.
+3. [Reserviced]
+4. Authorization
+4.1 Alaska Communications represents and warrants that it is an LLC duly organized,
+validly existing and in good standing under the laws of the State of Alaska, and that it
+has full power and authority to execute and deliver this Agreement and perform its
+obligations hereunder.
+4.2 The LECs represent and warrants that they are LLCs, validly existing and in good
+standing under the laws of the State of Alaska, and that each has full power and
+authority to execute and deliver this Agreement and perform its obligations
+hereunder.
+5. Billing and Payment; Disputed Amounts
+5.1 Except as otherwise provided in this Agreement, each Party shall submit (or
+otherwise make available) to the other Party, on a monthly basis in an itemized form,
+statement(s) of charges incurred by the other Party under this Agreement.
+5.2 Except as otherwise provided in this Agreement, payment of amounts billed for
+Services provided under this Agreement, whether billed on a monthly basis or as
+otherwise provided in this Agreement, shall be due, in immediately available U.S.
+funds, on the later of the following dates (the "Due Date"): (a) the due date specified
+on the billing Party's statement; or (b) twenty (20) Business Days after the date the
+statement is received by the billed Party. Payments shall be transmitted by electronic
+funds transfer.
+5.3 If any portion of an amount billed by a Party under this Agreement is subject to a
+good faith dispute between the Parties, the billed Party shall give written notice to
+the billing Party of the amounts it disputes ("Disputed Amounts") and include in such
+notice the specific details and reasons for disputing each item. A Party may also
+dispute prospectively with a single written notice a class of charges that it disputes.
+Notice of a dispute may be given by a Party at any time, either before or after an
+amount is paid, and a Party's payment of an amount shall not constitute a waiver of
+such Party's right to subsequently dispute its obligation to pay such amount or to seek
+a refund of any amount paid. The billed Party shall pay by the Due Date all undisputed
+amounts. Billing disputes shall be subject to the terms of Section 10, Dispute
+Page 2 of 32
+
+INTERCONNECTION AND TRAFFIC EXCHANGE AGREEMENT
+Alaska Communications
+February 2019
+Resolution.
+5.4 Charges due to the billing Party that are not paid by the Due Date shall be subject to a
+late payment charge. The late payment charge shall be in an amount specified by the
+billing Party which shall not exceed a rate of one-and- one-half percent (1.5%) ofthe
+overdue amount (including any unpaid previously billed late payment charges) per
+month.
+5.5 The Parties shall submit timely statements of charges to the other Party. Neither Party
+shall initiate credit claims or bill the other Party for previously unbilled, underbilled or
+over-billed charges for Services that were provided more than 2 years prior to the
+applicable bill date.
+6. Confidentiality
+6.1 As used in this Section 6, "Confidential Information" means the following information
+that is disclosed by one Party ("Disclosing Party") to the other Party ("Receiving
+Party") in connection with, or anticipation of, this Agreement:
+6.1.1 [reserved];
+6.1.2 any forecasting information provided pursuant to this Agreement;
+6.1.3 Customer Information (except to the extent that (a) the Customer
+Information is published in a directory, (b) the Customer Information is
+disclosed through or in the course of furnishing directory assistance,
+operator service, Caller ID, LIDB or a similar service or (c) the Customer to
+whom the Customer Information is related has authorized the Receiving
+Party to use and/or disclose the Customer Information);
+6.1.4 information related to specific facilities or equipment;
+6.1.5 any information that is in written, graphic, electromagnetic or other
+tangible form, and marked at the time of disclosure as "Confidential" or
+"Proprietary"; and
+6.1.6 any other information that a reasonable person would understand to be
+confidential based on the nature of the information or the circumstances of
+its disclosure.
+Notwithstanding any other provision of this Agreement, a Party shall have the right to
+refuse to accept Confidential Information.
+6.2 Except as otherwise provided in this Agreement, the Receiving Party shall:
+6.2.1 use the Confidential Information received from the Disclosing Party only in
+performance of this Agreement; and
+6.2.2 use the same degree of care that it uses with similar confidential
+information of its own (but in no case a degree of care that is less than
+commercially reasonable), hold Confidential Information received from the
+Disclosing Party in confidence and restrict disclosure ofthe Confidential
+Information solely to those of the Receiving Party's Affiliates and the
+directors, officers, employees, Agents and contractors of the Receiving
+Party and the Receiving Party's Affiliates, that have a need to receive such
+Page 3 of 32
+
+INTERCONNECTION AND TRAFFIC EXCHANGE AGREEMENT
+Alaska Communications
+February 2019
+Confidential Information in order to perform the Receiving Party's
+obligations under this Agreement. The Receiving Party's Affiliates and the
+directors, officers, employees, Agents and contractors of the Receiving
+Party and the Receiving Party's Affiliates shall be required by the Receiving
+Party to comply with the provisions of this Section 6 in the same manner as
+the Receiving Party. The Receiving Party shall be liable for any failure ofthe
+Receiving Party's Affiliates or the directors, officers, employees, Agents or
+contractors of the Receiving Party or the Receiving Party's Affiliates to
+comply with the provisions of this Section 6.
+6.3 The Receiving Party shall return or destroy all Confidential Information received from
+the Disclosing Party, including, without limitation, any copies made by the Receiving
+Party, within 30 days after a written request by the Disclosing Party is delivered to the
+Receiving Party, except for (a) Confidential Information that the Receiving Party
+reasonably requires to perform its obligations under this Agreement and (b) one copy
+for archival purposes only.
+6.4 Unless otherwise agreed, the obligations of Sections 6.2 and 6.3 do not apply to
+information that:
+6.4.1 was, at the time of receipt, already in the possession of or known to the
+Receiving Party free of any obligation of confidentiality and restriction on
+use;
+6.4.2 is or becomes publicly available or known through no wrongful act of the
+Receiving Party, the Receiving Party's Affiliates, or the directors, officers,
+employees, Agents or contractors of the Receiving Party or the Receiving
+Party's Affiliates;
+6.4.3 is rightfully received from a third person having no direct or indirect
+obligation of confidentiality or restriction on use to the Disclosing Party
+with respect to such information;
+6.4.4 is independently developed by the Receiving Party;
+6.4.5 is approved for disclosure or use by written authorization of the
+Disclosing Party (including, but not limited to, in this Agreement); or
+6.4.6 is required to be disclosed by the Receiving Party pursuant to Applicable
+Law, provided that the Receiving Party shall have made commercially
+reasonable efforts to give adequate written notice of the requirement to
+the Disclosing Party in order to enable the Disclosing Party to seek
+protective arrangements.
+6.5 Notwithstanding the provisions of Sections 6.1 through 6.4, the Receiving Party may
+use and disclose Confidential Information received from the Disclosing Party to the
+extent necessary to enforce the Receiving Party's rights under this Agreement or
+Applicable Law. In making any such disclosure, the Receiving Party shall make
+reasonable efforts to preserve the confidentiality and restrict the use of the
+Confidential Information while it is in the possession of any person to whom it is
+disclosed, including, but not limited to, by requesting any Governmental Authority to
+whom the Confidential Information is disclosed to treat it as confidential and restrict
+Page 4 of 32
+
+INTERCONNECTION AND TRAFFIC EXCHANGE AGREEMENT
+Alaska Communications
+February 2019
+its use to purposes related to the proceeding pending before it.
+6.6 The Disclosing Party shall retain all of the Disclosing Party's right, title and interest in
+any Confidential Information disclosed by the Disclosing Party to the Receiving Party.
+Except as otherwise expressly provided in this Agreement, no license is granted by
+this Agreement with respect to any Confidential Information (including, but not
+limited to, under any patent, trademark or copyright), nor is any such license to be
+implied solely by virtue of the disclosure of Confidential Information.
+6.7 The provisions of this Section 6 shall be in addition to and not in derogation of any
+provisions of Applicable Law, including, but not limited to, 47 U.S.C. § 222, and are not
+intended to constitute a waiver by a Party of any right with regard to the use, or
+protection of the confidentiality of, CPNI provided by Applicable Law.
+6.8 Each Party has implemented and shall maintain a commercially reasonable written
+information security program intended to prevent unauthorized access to or use of
+the Party's network and business systems and to protect the security of information
+on the Party's network and business systems. A Party shall immediately notify the
+other Party if it learns of any situation that may have resulted in the unauthorized
+use or disclosure of the other Party's Confidential Information and assist that Party in
+investigating, assessing and mitigating the extent and nature of the unauthorized use
+or disclosure. the LECs will provide notice to Alaska Communications if the
+municipality must divulge information Alaska Communications considers
+confidential.
+6.9 Each Party represents and warrants that its arrangements with its subcontractors and
+interconnecting carriers with respect to transport and delivery of network based
+communications are consistent with customary practice and usage in the
+telecommunications industry with respect to implementing appropriate safeguards
+intended to protect the security and confidentiality ofthe information transmitted
+over shared networks, and comply with Applicable Law including, without limitation,
+the CPNI requirements under Section 222 of the Act, and the Electronic
+Communications Privacy Act, as amended.
+6.10 Each Party's obligations under this Section 6 shall extend for a period of ten (10)
+years following the date of initial disclosure of that Confidential Information, and
+such obligations shall survive expiration, cancellation or termination of this
+Agreement.
+6.11 INTENTIONALLY LEFT BLANK.
+6.12 the LECs agrees that, in event it comes into possession of any Alaska Communications
+customer data, no such data shall be stored or transmitted, at, in or through, a site
+located outside of the United States without the advance written consent of Alaska
+Communications. For purposes of this Section 6.12, the term "Alaska Communications
+customer data" shall mean: (a) any subscriber information, including, without
+limitation, name, address, phone number or other personal information of any Alaska
+Communications subscriber; (b) any call-associated data, including, without limitation,
+the telephone number, internet address or similar identifying designator associated
+with a communication; (c) any billing records; (d) the time, date, size, duration of a
+communication or the physical location of equipment used in connection with a
+c
+Page 5 of 32
+
+INTERCONNECTION AND TRAFFIC EXCHANGE AGREEMENT
+Alaska Communications
+February 2019
+communication; or (e) the content of any Alaska Communications customer
+communication.
+6.13 It is agreed that a violation of any of the provisions of this Section 6 regarding
+unauthorized disclosure of Confidential Information will cause irreparable harm and
+injury to the disclosing Party and that Party shall be entitled, in addition to any other
+rights and remedies it may have at law or in equity, to seek an injunction enjoining
+and restraining the receiving Party from doing or continuing to do any such act and
+any other violations or threatened violations of this Section 6.
+7. Counterparts
+This Agreement may be executed in 2 or more counterparts, each of which shall be deemed
+an original and all of which together shall constitute one and the same instrument.
+8. Default
+If either Party ("Defaulting Party") fails to make a payment required by this Agreement
+(including, but not limited to, any payment required by Section 5.3 to the billing Party of
+amounts not subject to a good faith dispute) or materially breaches any other material
+provision of this Agreement, and such failure or breach continues for 30 days after written
+notice thereof from the other Party, the other Party may, by written notice to the Defaulting
+Party, (a) suspend the provision of any or all Services hereunder or (b) terminate this
+Agreement and the provision of all Services hereunder (as set forth in Section 34.5).
+9. Discontinuance of Service
+9.1 If either Party proposes to discontinue, or actually discontinues, its provision of
+service to all or substantially all of its Customers, whether voluntarily, as a result of
+bankruptcy, or for any other reason, such Party shall send written notice of such
+discontinuance to the other Party. The discontinuing Party shall provide such notice
+at least thirty (30} days in advance of discontinuance of its service or, if a longer
+period of notice is required by Applicable Law, such longer period in advance of
+discontinuance.
+9.2 Nothing in this Section 9 shall limit either Party's right to terminate this Agreement or
+suspend provision of Services under this Agreement.
+10. Dispute Resolution
+10.1 Except as otherwise provided in this Agreement, any dispute between the Parties
+regarding the interpretation or enforcement of this Agreement or any of its terms
+shall be addressed by good faith negotiation between the Parties. To initiate such
+negotiation, a Party shall provide to the other Party written notice of the dispute that
+includes both a detailed description of the dispute or alleged nonperformance or
+breach, and the name of an individual who will serve as the initiating Party's
+representative in the negotiation. The other Party shall have ten (10} Business Days
+to designate its own representative in the negotiation. The Parties' representatives
+shall meet at least once within forty-five (45} days after the date of the initiating
+Party's written notice in an attempt to reach a good faith resolution of the dispute.
+Upon agreement which, for the avoidance of any doubt, the Parties in their
+respective sole discretion may choose to enter into or not, the Parties'
+representatives may utilize other alternative dispute resolution procedures such as
+c
+Page 6 of 32
+
+INTERCONNECTION AND TRAFFIC EXCHANGE AGREEMENT
+Alaska Communications
+February 2019
+private mediation to assist in the negotiations.
+10.2 If the Parties have been unable to resolve the dispute within forty-five (45} days of
+the date of the initiating Party's written notice, each Party may pursue any remedies
+available to it under this Agreement, at law, in equity, or otherwise.
+11. Force Majeure
+11.1 Neither Party shall be responsible for any delay or failure in performance that results
+from causes beyond its reasonable control ("Force Majeure Events"}, whether or not
+foreseeable by such Party. Such Force Majeure Events include, but are not limited to,
+adverse weather conditions, floods, fires, explosions, government requirements, acts
+of civil or military authorities, earthquakes, volcanic actions, power failures,
+embargoes, boycotts, wars, revolutions, civil commotions, acts of public enemies,
+labor unrest (including, but not limited to, strikes, work stoppages, slowdowns,
+picketing or boycotts), inability to obtain equipment, parts, software or repairs
+thereof, acts or omissions of the other Party, and acts of God.
+11.2 If a Force Majeure Event occurs, the non-performing Party shall give prompt
+notification of its inability to perform to the other Party. During the period that the
+non-performing Party is unable to perform, the other Party shall also be excused from
+performance of its obligations to the extent such obligations are reciprocal to, or
+depend upon, the performance of the non-performing Party that has been prevented
+by the Force Majeure Event. The non-performing Party shall use commercially
+reasonable efforts to avoid or remove the cause(s} of its non- performance and both
+Parties shall proceed to perform once the cause(s) are removed or cease.
+11.3 INTENTIONALLY LEFT BLANK.
+11.4 Nothing in this Agreement shall require the non-performing Party to settle any labor
+dispute except as the non-performing Party, in its sole discretion, determines
+appropriate.
+12. Entire Agreement
+This Agreement, which includes without limitation the Glossary, Attachments and any
+Appendices and Exhibits hereto, constitutes the entire agreement between the Parties on the
+subject matter hereof, and supersedes any prior or contemporaneous agreement,
+understanding or representation on the subject matter hereof.
+13. Fraud
+13.1 the LECs assumes responsibility for all fraud associated with its Customers and
+accounts. Alaska Communications shall bear no responsibility for, and shall have no
+obligation to investigate or make adjustments to the LECs' account in cases of, fraud
+by (or affecting) the LECs' Customers or other third parties.
+13.2 Alaska Communications assumes responsibility for all fraud associated with its
+Customers and accounts. the LECs shall bear no responsibility for, and shall have no
+obligation to investigate or make adjustments to Alaska Communications' account in
+cases of, fraud by (or affecting) Alaska Communications' Customers or other third
+parties.
+14. Good Faith Performance
+Page 7 of 32
+
+INTERCONNECTION AND TRAFFIC EXCHANGE AGREEMENT
+Alaska Communications
+February 2019
+The Parties shall act in good faith in their performance of this Agreement. Except as
+otherwise expressly stated in this Agreement (including, but not limited to, where consent,
+approval, agreement or a similar action is stated to be within a Party's sole discretion), where
+consent, approval, mutual agreement or a similar action is required by any provision of this
+Agreement, such action shall not be unreasonably withheld, conditioned or delayed.
+15. Headings
+The headings used in the Agreement are inserted for convenience of reference only and are
+not intended to be a part of or to affect the meaning or interpretation of the Agreement.
+16. Indemnification
+16.1 Each Party ("Indemnifying Party") shall indemnify, defend and hold harmless the other
+Party ("Indemnified Party"), the Indemnified Party's Affiliates, and the directors,
+officers and employees of the Indemnified Party and the Indemnified Party's Affiliates,
+from and against any and all Claims that arise out of bodily injury to or death of any
+person, or damage to, or destruction or Joss of, tangible real and/or personal property
+of any person, to the extent such injury, death, damage, destruction or loss was
+proximately caused by the grossly negligent or intentionally wrongful acts or
+omissions of the Indemnifying Party, the Indemnifying Party's Affiliates, or the
+directors, officers, employees, Agents or contractors (excluding the Indemnified Party)
+of the Indemnifying Party or the Indemnifying Party's Affiliates, in connection with this
+Agreement.
+16.2 Indemnification Process.
+16.2.1 As used in this Section 16, "Indemnified Person" means a person whom an
+Indemnifying Party is obligated to indemnify, defend and/or hold harmless
+under Section 16.1.
+16.2.2 An Indemnifying Party's obligations under Section 16.1 shall be
+conditioned upon the following (i.e., the remainder of Section 16, below):
+16.2.3 The Indemnified Person: (a) shall give the Indemnifying Party written
+notice ofthe Claim promptly after becoming aware thereof (including,
+without limitation, a statement of facts known to the Indemnified Person
+related to the Claim and an estimate of the amount thereof); (b) prior to
+taking any material action with respect to a Third Party Claim, shall consult
+with the Indemnifying Party as to the procedure to be followed in
+defending, settling or compromising the Claim; (c) shall not consent to any
+settlement or compromise of a Third Party Claim without the written
+consent of the Indemnifying Party; (d) shall permit the Indemnifying Party
+to assume the defense of a Third Party Claim (including, without limitation,
+except as provided below, the compromise or settlement thereof) at the
+Indemnifying Party's own cost and expense, provided, however, that the
+Indemnified Person shall have the right to approve the Indemnifying
+Party's choice of legal
+counsel, which approval shall not be unreasonably withheld, conditioned
+or delayed.
+16.2.4 If the Indemnified Person fails to comply with Section 16.2.3 with respect
+Page 8 of 32
+
+INTERCONNECTION AND TRAFFIC EXCHANGE AGREEMENT
+Alaska Communications
+February 2019
+to a Claim, to the extent such failure shall have a material adverse effect
+upon the Indemnifying Party, the Indemnifying Party shall be relieved of its
+obligation to indemnify, defend and hold harmless the Indemnified Person
+with respect to such Claim under this Agreement.
+16.2.5 Subject to Sections 16.2.6 and 16.2.7, the Indemnifying Party shall have the
+authority to defend and settle any Third Party Claim.
+16.2.6 With respect to any Third Party Claim, the Indemnified Person shall be
+entitled to participate with the Indemnifying Party in the defense of the
+Third Party Claim if the Third Party Claim requests equitable relief or other
+relief that could affect the rights of the Indemnified Person. In so
+participating, the Indemnified Person shall be entitled to employ separate
+counsel for the defense at the Indemnified Person's expense. The
+Indemnified Person shall also be entitled to participate, at its own expense,
+in the defense of any Third Party Claim, as to any portion ofthe Third Party
+Claim as to which it is not entitled to be indemnified, defended and held
+harmless by the Indemnifying Party.
+16.2.7 In no event shall the Indemnifying Party settle a Third Party Claim or
+consent to any judgment with regard to a Third Party Claim without the
+prior written consent of the Indemnified Party, which shall not be
+unreasonably withheld, conditioned or delayed. In the event the
+settlement or judgment requires a contribution from or affects the rights
+of an Indemnified Person, the Indemnified Person shall have the right to
+refuse such settlement or judgment with respect to itself and, at its own
+cost and expense, take over the defense against the Third Party Claim,
+provided that in such event the Indemnifying Party shall not be responsible
+for, nor shall it be obligated to indemnify or hold harmless the Indemnified
+Person against, the Third Party Claim for any amount in excess of such
+refused settlement or judgment.
+16.2.8 The Indemnified Person shall, in all cases, assert any and all provisions in
+applicable Tariffs and Customer contracts that limit liability to third
+persons as a bar to, or limitation on, any recovery by a third person
+claimant.
+16.2.9 The Indemnifying Party and the Indemnified Person shall offer each other
+all reasonable cooperation and assistance in the defense of any Third Party
+Claim.
+16.3 Each Party agrees that it will not implead or bring any action against the other Party,
+the other Party's Affiliates, or any of the directors, officers or employees of the other
+Party or the other Party's Affiliates, based on any claim by any person for personal
+injury or death that occurs in the course or scope of employment of such person by
+the other Party or the other Party's Affiliate and that arises out of performance of this
+Agreement.
+16.4 Each Party's obligations under this Section 16 shall survive expiration, cancellation or
+termination of this Agreement.
+17. Insurance
+Page 9 of 32
+
+INTERCONNECTION AND TRAFFIC EXCHANGE AGREEMENT
+Alaska Communications
+February 2019
+Each Party shall maintain during the term ofthis Agreement and for a period of 2 years
+thereafter all insurance required to satisfy its obligations under this Agreement {including, but
+not limited to, its obligations set forth in Section 16 hereof) and all insurance required by
+Applicable Law. Nothing in this Agreement shall prevent either Party from self-insuring to the
+extent permitted by Applicable Law.
+18. Intellectual Property
+18.1 Except as expressly stated in this Agreement, this Agreement shall not be construed
+as granting a license with respect to any patent, copyright, trade name, trademark,
+service mark, trade secret or any other intellectual property, now or hereafter owned,
+controlled or licensable by either Party. Except as expressly stated in this Agreement,
+neither Party may use any patent, copyrightable materials, trademark, trade name,
+trade secret or other intellectual property right, of the other Party except in
+accordance with the terms of a separate license agreement between the Parties
+granting such rights.
+18.2 Except as stated in Section 18.4, neither Party shall have any obligation to defend,
+indemnify or hold harmless, or acquire any license or right for the benefit of, or owe
+any other obl,igation or have any liability to, the other Party or its Affiliates or
+Customers based on or arising from any Third Party Claim alleging or asserting that
+the provision or use of any service, facility, arrangement or
+software by either Party under this Agreement, or the performance of any service
+or method, either alone or in combination with the other Party, constitutes direct,
+vicarious or contributory infringement or inducement to infringe, or misuse or
+misappropriation of any patent, copyright, trademark, trade secret or any other
+proprietary or intellectual property right of any Party or third person. Each Party,
+however, shall offer to the other reasonable cooperation and assistance in the
+defense of any such claim.
+18.3 NOTWITHSTANDING ANY OTHER PROVISION OF THIS AGREEMENT, THE PARTIES
+AGREE THAT NEITHER PARTY HAS MADE, AND THAT THERE DOES NOT EXIST, ANY
+WARRANTY, EXPRESS OR IMPLIED, THAT THE USE BY EACH PARTY OF THE OTHER'S
+SERVICES PROVIDED UNDER THIS AGREEMENT SHALL NOT GIVE RISE TO A CLAIM OF
+INFRINGEMENT, MISUSE OR MISAPPROPRIATION OF ANY INTELLECTUAL PROPERTY
+RIGHT.
+18.4 The Parties agree that the Services provided hereunder shall be subject to the terms,
+conditions and restrictions contained in any applicable agreements {including, but
+not limited to software or other intellectual property license agreements) between a
+Party and such Party's vendors. Each Party agrees to advise the other Party, directly
+or through a third party, of any such terms, conditions or restrictions that may limit
+the other Party's use of a Service that is otherwise permitted by this Agreement.
+19. Joint Work Product
+This Agreement is the joint work product of the Parties, has been negotiated by the Parties,
+and shall be fairly interpreted in accordance with its terms. In the event of any ambiguities,
+no inferences shall be drawn against either Party.
+20. Law Enforcement
+c
+Page 10 of 32
+
+INTERCONNECTION AND TRAFFIC EXCHANGE AGREEMENT
+Alaska Communications
+February 2019
+20.1 Each Party may cooperate with law enforcement authorities and national security
+authorities to the full extent required or permitted by Applicable Law in matters
+related to Services provided by it under this Agreement in order to support law
+enforcement and/or national security operations, including, without limitation, with
+respect to the installation of wiretaps, trap-and-trace facilities and equipment, and
+dialed number recording facilities and equipment.
+20.2 A Party shall not have the obligation to inform the other Party or the Customers of
+the other Party of actions taken in cooperating with law enforcement or national
+security authorities, except to the extent required by Applicable Law.
+20.1 Where a law enforcement or national security request relates to the establishment of
+lines (including, but not limited to, lines established to support interception of
+communications on other lines), or the installation of other services, facilities or
+arrangements, a Party may act to prevent the other Party from obtaining access to
+information concerning such lines, services, facilities and arrangements, through
+operations support system interfaces.
+21. Limitation of Liability
+21.1 As used in this Section 21, "Service Failure" means a failure to comply with a direction
+to install, restore or terminate Services under this Agreement, a failure to provide
+Services under this Agreement, and failures, mistakes, omissions, interruptions,
+delays, errors, defects or the like, occurring in the course of the provision of any
+Services under this Agreement.
+21.2 Except as otherwise stated in Section 21.5, the liability, if any, of a Party, a Party's
+Affiliates and the directors, officers and employees of a Party and a Party's Affiliates, to
+the other Party, the other Party's Customers and to any other person, for Claims arising
+out of a Service Failure shall not exceed an amount equal to the pro rata applicable
+monthly charge for the Services that are subject to the Service Failure for the period in
+which such Service Failure occurs or the sum of one dollar ($1.00), whichever is
+greater.
+21.3 Except as otherwise stated in Section 21.5, a Party, a Party's Affiliates and the
+directors, officers and employees of a Party and a Party's Affiliates shall not be liable
+to the other Party, the other Party's Customers or to any other person in connection
+with this Agreement (including, but not limited to, in connection with a Service Failure
+or any breach, delay or failure in performance, of this Agreement} for special, indirect,
+incidental, consequential, reliance, exemplary, punitive or like damages, including,
+but not limited to, damages for lost revenues, profits or savings, or other commercial
+or economic loss, even if the person whose liability is excluded by this Section has
+been advised of the possibility of such damages.
+21.4 The limitations and exclusions of liability stated in Sections 21.1 through 21.3 shall
+apply regardless of the form of a claim or action, whether statutory, in contract,
+warranty, strict liability, tort (including, but not limited to, negligence of a Party} or
+otherwise.
+21.5 Nothing contained in Sections 21.1 through 21.4 shall exclude or limit liability:
+• under Sections 16, Indemnification, or 35, Taxes;
+• for any obligation to indemnify, defend and/or hold harmless that a Party may
+Page 11 of 32
+
+INTERCONNECTION AND TRAFFIC EXCHANGE AGREEMENT
+Alaska Communications
+February 2019
+have under this Agreement;
+• for damages arising out of or resulting from bodily injury to or death of any person,
+or damage to, or destruction or loss of, tangible real and/or personal property of
+any person, or Toxic or Hazardous Substances, to the extent such damages are
+otherwise recoverable under Applicable Law;
+• for a claim for infringement of any patent, copyright, trade name, trade mark,
+service mark or other intellectual property interest; or
+• under Section 258 of the Act.
+22. Modification of Agreement
+This Agreement may not be modified or waived except by a written document that is signed
+by authorized representatives of both Parties.
+23. Non-Exclusive Remedies
+Except as otherwise expressly provided in this Agreement, each of the remedies provided
+under this Agreement is cumulative and is in addition to any other remedies that may be
+available under this Agreement or at law or in equity.
+24. Notices
+24.1 Except as otherwise provided in this Agreement, notices given by one Party to the
+other Party under this Agreement:
+• shall be in writing;
+• shall be delivered (a) personally, (b) by express delivery service (by a nationally
+recognized firm in this business) with next Business Day delivery, (c) by first class,
+certified or registered U.S. mail, postage prepaid; and
+• shall be delivered to the following addresses of the Parties:
+To the LECS:
+Contract Management
+ACS of Anchorage, ACS of Fairbanks, ACS of Alaska, ACS of the Northland
+600 Telephone Ave,
+Anchorage AK 99503
+To Alaska Communications:
+Contract Management
+Alaska Communications Internet, LLC
+600 Telephone Ave,
+Anchorage AK 99503
+• or to such other address as either Party shall designate by proper notice.
+• Notices will be deemed given as of the earlier of (a) where there is personal
+delivery of the notice, the date of actual receipt, (b) where the notice is sent
+via express delivery service for next Business Day delivery, the next Business
+Day after the notice is sent, (c) where the notice is sent via First Class U.S. Mail,
+three (3) Business Days after mailing, and (d) where notice is sent via certified
+or registered U.S. mail, the date of receipt shown on the Postal Service receipt
+• Each Party shall notify the other Party, by written notice pursuant to this
+Section 24, of any changes in the addresses or other contact information
+c
+Page 12 of 32
+
+INTERCONNECTION AND TRAFFIC EXCHANGE AGREEMENT
+Alaska Communications
+February 2019
+identified under Section 24.1.3.
+25. Point of Contact for Customers
+25.1 Each Party shall establish telephone numbers and/or email addresses at which such
+Party's Customers may communicate with such Party and shall advise such Party's
+Customers of these telephone numbers and/or email addresses.
+25.2 Except as otherwise agreed to by a Party, neither Party shall have an obligation, and
+may decline, to accept a communication from the other Party's Customer.
+26. Publicity and Use of Trademarks or Service Marks
+26.1 A Party, its Affiliates and their respective directors, officers, employees, contractors
+and Agents shall not use the other Party's trademarks, service marks, logos or other
+proprietary trade dress, in connection with the sale of products or services, or in any
+advertising, press releases, publicity matters or other promotional materials, unless
+the other Party has given its written consent for such use, which consent the other
+Party may grant or withhold in its sole discretion.
+26.2 Neither Party may imply any direct or indirect affiliation with or sponsorship or
+endorsement of it or its services or products by the other Party.
+26.3 Any violation of this Section 26 shall be considered a material breach of this
+Agreement.
+27. References
+27.1 All references to Sections, Attachments, Appendices and Exhibits shall be deemed to
+be references to Sections, Attachments, Appendices and Exhibits of this Agreement
+unless the context shall otherwise require.
+27.2 Unless the context shall otherwise require, any reference to an agreement, technical
+or other document (including, without limitation, Alaska Communications or third
+party guides, practices or handbooks), or provision of Applicable Law, is to such
+agreement, document or provision of Applicable Law as amended, supplemented
+and in effect from time to time (and, in the case of a provision of Applicable Law, to
+any successor provision).
+28. Relationship of the Parties
+28.1 The relationship of the Parties under this Agreement shall be that of independent
+contractors and nothing herein shall be construed as creating any other relationship
+between the Parties.
+28.2 Nothing contained in this Agreement shall make either Party the employee of the
+other, create a partnership, joint venture, or other similar relationship between
+the Parties, or grant to either Party a franchise, distributorship or similar interest.
+28.3 Except for provisions herein expressly authorizing a Party to act for another
+Party, nothing in this Agreement shall constitute a Party as a legal representative or
+Agent of the other Party, nor shall a Party have the right or authority to assume,
+create or incur any liability or any obligation of any kind, express or implied, against,
+in the name or on behalf of the other Party unless otherwise expressly permitted by
+c
+Page 13 of 32
+
+INTERCONNECTION AND TRAFFIC EXCHANGE AGREEMENT
+Alaska Communications
+February 2019
+such other Party in writing, which permission may be granted or withheld by the
+other Party in its sole discretion.
+28.4 Each Party shall have sole authority and responsibility to hire, fire, compensate,
+supervise and otherwise control its employees, Agents and contractors. Each Party
+shall be solely responsible for payment of any Social Security or other taxes that it is
+required by Applicable Law to pay in conjunction with its employees, Agents and
+contractors, and for withholding and remitting to the applicable taxing authorities
+any taxes that it is required by Applicable Law to collect from its employees.
+28.5 Except as otherwise expressly provided in this Agreement, no Party undertakes to
+perform any obligation of the other Party, whether regulatory or contractual, or to
+assume any responsibility for the management of the other Party's business.
+28.6 The relationship of the Parties under this Agreement is a non-exclusive relationship.
+29. Reservation of Rights
+Nothing in this Agreement shall be deemed to limit or prejudice any position a Party has
+taken or may take before the Commission, the FCC, any other state or federal regulatory or
+legislative bodies, courts of applicable jurisdiction or industry fora, except that this
+reservation of rights shall not be deemed to permit a Party to take any action that wouid
+otherwise constitute a breach of one of that Party's obligations under this Agreement. The
+provisions of this Section 29 shall survive the expiration, cancellation or termination of this
+Agreement.
+30. Sections 251/252/271 of the Act
+30.1 The Parties agree that this Agreement is subject to Sections 251, 252 or 271 of the
+Act, including, without limitation, any requirement to negotiate, mediate or arbitrate
+this Agreement pursuant to Section 252 of the Act, or to file this Agreement with any
+state utility commission, the FCC or elsewhere. The Parties understand and agree that
+this Agreement will be filed with the Commission, and to the extent required by FCC
+rules may thereafter be filed with the FCC. Each Party covenants and agrees to fully
+support approval of this Agreement by the Commission or the FCC under Section
+252(e) of the Act without modification. The Parties, however, reserve the right to seek
+regulatory relief and otherwise seck redress from each other regarding performance
+and implementation of this Agreement.
+30.2 In the event the Commission or FCC rejects this Agreement in whole or in part, the
+Parties agree to meet and negotiate in good faith to arrive at a mutually acceptable
+modification of the rejected portion(s). The Parties further agree that this Agreement
+is subject to change, modification, cancellation or termination as may be required by a
+regulatory authority or court in the exercise of its lawful jurisdiction.
+31. Subcontractors
+A Party may use a contractor of the Party (including, but not limited to, an Affiliate of the
+Party) to perform the Party's obligations under this Agreement; provided, that a Party's use of
+a contractor shall not release the Party from any duty or liability to fulfill the Party's
+obligations under this Agreement.
+32. Successors and Assigns
+Page 14 of 32 G
+
+INTERCONNECTION AND TRAFFIC EXCHANGE AGREEMENT
+Alaska Communications
+February 2019
+This Agreement shall be binding on and inure to the benefit of the Parties and their respective
+legal successors and permitted assigns.
+33. Survival
+The following shall survive the expiration, cancellation or termination of this Agreement: (a)
+the rights, liabilities and obligations of a Party for acts or omissions occurring prior to the
+expiration, cancellation or termination of this Agreement; (b) the rights, liabilities and
+obligations of a Party under any provision of this Agreement regarding confidential
+information (including but not limited to, Section 6); (c) the rights, liabilities and obligations of
+a Party under any provision of this Agreement regarding indemnification or defense
+(including, but not limited to, Section 16); (d) the rights, liabilities and obligations of a Party
+under any provision of this Agreement regarding limitation or exclusion of liability (including,
+but not limited to, Section 21); (e) the rights, liabilities and obligations of a Party under any
+provision ofthis Agreement regarding reservation of rights (including, but not limited to,
+Section 29); and (f) the rights, liabilities and obligations of a Party under any provision of this
+Agreement which by its terms or nature is intended to continue beyond or to be performed
+after the expiration, cancellation or termination of this Agreement.
+34. Term and Termination
+34.1 This Agreement shall become effective as of the Effective Date and, unless cancelled
+or terminated earlier in accordance with the terms hereof, shall continue in effect
+until February 1, 2019 (the "Initial Term"). Thereafter, this Agreement shall
+automatically renew for successive 1 month periods (each a "Renewal Term") (the
+Initial Term and the Renewal Term(s) may collectively be referred to as the "Term")
+unless terminated in accordance with this Agreement.
+34.2 Either the LECs or Alaska Communications may terminate this Agreement effective as
+of the end of the Initial Term or any Renewal Term by providing written notice of
+termination at least 90 days in advance of the date of termination.
+34.3 If either the LECs or Alaska Communications provides notice of termination pursuant
+to Section 34.2 and on or before the proposed date of termination either the LECs or
+Alaska Communications has requested negotiation of a new interconnection and
+traffic exchange agreement, unless this Agreement is cancelled or terminated earlier
+in accordance with the terms hereof (including, but not limited to, pursuant to Section
+8}, this Agreement shall remain in effect until the earlier of: (a) the effective date of a
+new interconnection and traffic exchange agreement between the LECs and Alaska
+Communications; or (b) the date 160 days after the proposed date of termination.
+34.4 If either the LECs or Alaska Communications provides notice of termination pursuant
+to Section 34.2 and by 11:59 PM Eastern Time on the proposed date of termination
+neither the LECs nor Alaska Communications has requested negotiation of a new
+interconnection and traffic exchange agreement, (a) this Agreement will terminate at
+11:59 PM Eastern Time on the proposed date of termination and (b) the Services
+being provided under this Agreement at the time of termination will be terminated.
+34.5 Except as otherwise provided in this Agreement, if either Party is in material breach or
+default of this Agreement, and such breach continues for a period of 30 days after
+such Party's receipt of written notice thereof from the other Party, then, in addition
+to all other rights and remedies at law or in equity or otherwise, the nonbreaching
+Page 15 of 32
+
+INTERCONNECTION AND TRAFFIC EXCHANGE AGREEMENT
+Alaska Communications
+February 2019
+Party shall have the right, upon provision of written notice to the breaching Party
+consistent with Section 24, to terminate the Agreement without further obligation or
+liability to the other Party for said termination.
+35. Taxes
+35.1 In General. With respect to any purchase of Services under this Agreement, if any
+federal, state or local tax, fee, surcharge or other tax-like charge, excluding any tax
+levied on property or net income (a "Tax"), is required or permitted by Applicable Law
+to be collected from the purchasing Party ("the "Purchasing Party") by the providing
+Party (the "Providing Party"), then (a) the Providing Party shall bill the Purchasing Party
+for such Tax, as a separately stated item on the invoice, (b) the Purchasing Party shall
+timely remit such Tax to the Providing Party and (c) the Providing Party shall timely
+remit such collected Tax to the applicable taxing authority as and to the extent
+required by Applicable Law.
+35.2 Taxes Imposed on the Providing Party on Receipts. With respect to any purchase of
+Services under this Agreement, if any federal, state or local Tax is imposed by
+Applicable Law on the receipts of the Providing Party, and such Applicable Law
+permits the Providing Party to exclude certain receipts received from sales to a public
+utility, distributor, telephone company, local exchange carrier, telecommunications
+company or other communications company ("Telecommunications Company"), such
+exclusion being based on the fact that the Purchasing Party is also subject to a tax
+based upon receipts ("Receipts Tax"), then the Purchasing Party shall pay and remit
+the Receipts Tax as required by Applicable Law.
+35.3 Taxes Imposed on Subscriber. With respect to any purchase of Services under this
+Agreement that are resold to a third party, if any federal, state or local Tax is imposed
+by Applicable Law on the subscriber, end user, customer or ultimate consumer
+("Subscriber") in connection with any such purchase, which a Telecommunications
+Company is required to impose and/or collect from a Subscriber, or if any federal,
+state or local Tax is imposed on the Providing Party and required by Applicable Law to
+be passed through to the Subscriber, then the Purchasing Party (a) shall impose
+and/or collect such Tax from the Subscriber and (b) shall timely remit such Tax to the
+applicable taxing authority.
+35.4 Tax Exemptions and Exemption Certificates. If Applicable Law clearly exempts a
+purchase hereunder from a Tax, and if such Applicable Law also provides an
+exemption procedure, such as an exemption certificate requirement, then, if the
+Purchasing Party complies with such procedure, the Providing Party shall not collect
+such Tax during the effective period of such exemption. Such exemption shall be
+effective upon receipt of the exemption certificate or affidavit in accordance with the
+terms set forth in Section 35.7. If Applicable Law clearly exempts a purchase
+hereunder from a Tax, but does not also provide an exemption procedure, then the
+Providing Party shall not collect such Tax if the Purchasing Party (a) furnishes the
+Providing Party with a letter signed by an officer requesting such an exemption and
+citing the provision in the Applicable Law which clearly allows such exemption and (b)
+supplies the Providing Party with an indemnification agreement, acceptable to the
+Providing Party, which
+holds the Providing Party harmless on an after-tax basis with respect to its forbearing
+Page 16 of 32
+
+INTERCONNECTION AND TRAFFIC EXCHANGE AGREEMENT
+Alaska Communications
+February 2019
+to collect such Tax.
+35.5 Liability for Uncollected Tax, Interest and Penalty.
+• If the Providing Party has not received an exemption certificate from the Purchasing
+Party and the Providing Party fails to bill the Purchasing Party for any Tax as required
+by Section 35.1, then, as between the Providing Party and the Purchasing Party, (a)
+the Purchasing Party shalf remain liable for such unbilled Tax and any interest
+assessed thereon and (b) the Providing Party shalf be liable for any penalty assessed
+with respect to such unbilfed Tax by a taxing authority. If the Providing Party properly
+bills the Purchasing Party for any Tax but the Purchasing Party fails to remit such Tax
+to the Providing Party as required by Section 35.2, then, as between the Providing
+Party and the Purchasing Party, the Purchasing Party shalf be liable for such
+uncollected Tax and any interest assessed thereon, as well as any penalty assessed
+with respect to such uncollected Tax by the applicable taxing authority.
+• If the Providing Party does not collect any Tax as required by Section 35.1 because the
+Purchasing Party has provided such Providing Party with an exemption certificate that
+is later found to be inadequate, invalid or inapplicable by a taxing authority, then, as
+between the Providing Party and the Purchasing Party, the Purchasing Party shall be
+liable for such uncollected Tax and any interest assessed thereon, as well as any
+penalty assessed with respect to such uncollected Tax by the applicable taxing
+authority.
+• If the Purchasing Party fails to pay the Receipts Tax as required by Section 35.1, then,
+as between the Providing Party and the Purchasing Party, (a) the Providing Party shall
+be liable for any Tax imposed on its receipts and (b) the Purchasing Party shalf be
+liable for any interest assessed thereon and any penalty assessed upon the Providing
+Party with respect to such Tax by the applicable taxing authority.
+• If the Purchasing Party fails to impose and/or collect any Tax from Subscribers as
+required by Section 35.3, then, as between the Providing Party and the Purchasing
+Party, the Purchasing Party shalf remain liable for such uncollected Tax and any
+interest assessed thereon, as well as any penalty assessed with respect to such
+uncollected Tax by the applicable taxing authority. With respect to any Tax that the
+Purchasing Party has agreed to pay, or is required to impose on and/or collect from
+Subscribers, the Purchasing Party agrees to indemnify and hold the Providing Party
+harmless on an after-tax basis for any costs incurred by the Providing Party as a
+result of actions taken by the applicable taxing authority to recover the Tax from the
+Providing Party due to the failure of the Purchasing Party to timely pay, or collect and
+timely remit, such Tax to such authority.
+35.6 Audit Cooperation. In the event either Party is audited by a taxing authority, the other
+Party agrees to cooperate fully with the Party being audited in order to respond to any
+audit inquiries in a proper and timely manner so that the audit and/or any resulting
+controversy may be resolved expeditiously.
+35.7 Notices. All notices, affidavits, exemption certificates or other communications
+required or permitted to be given by either Party to the other, for purposes of this
+Section 35, shall be made in writing and shall be delivered in person or sent by
+certified mail, return receipt requested, or registered mail, or a courier service
+providing proof of service, and sent to the addressees set forth in Section 24 as well as
+to the following by one or more of the delivery methods set forth in Section 24:
+Page 17 of 32
+
+INTERCONNECTION AND TRAFFIC EXCHANGE AGREEMENT
+Alaska Communications
+February 2019
+To the LECS:
+Contract Management
+ACS of Anchorage, ACS of Fairbanks, ACS of Alaska, ACS of the Northland
+600 Telephone Ave,
+Anchorage AK 99503
+To Alaska Communications:
+Contract Management
+Alaska Communications Internet, LLC
+600 Telephone Ave,
+Anchorage AK 99503
+Each Party may from time to time designate another address or other addressees by
+giving notice in accordance with the terms of this Section. Any notice or other
+communication shall be deemed to be given when received.
+36. Technology Upgrades
+Notwithstanding any other provision of this Agreement, Alaska Communications shall have
+the right to deploy, upgrade, migrate and maintain its network at its sole discretion. Nothing
+in this Agreement shall limit Alaska Communications' ability to modify its network through
+the incorporation of new equipment or software or otherwise.
+37. Third Party Beneficiaries
+Except as may be expressly set forth in this Agreement, this Agreement is for the sole benefit
+of the Parties and their permitted assigns, and nothing herein shall create or be construed to
+provide any third persons (including, but not limited to, Customers or contractors of a Party)
+with any rights (including, but not limited to, any third-party beneficiary rights) hereunder.
+Except as may be expressly set forth in this Agreement, a Party shall have no liability under
+this Agreement to the Customers of the other Party or to any other third person.
+38. Use of Service
+Each Party shall make commercially reasonable efforts to ensure that its Customers comply
+with the provisions ofthis Agreement applicable to the use of Services purchased by it under
+this Agreement.
+39. Waiver
+A failure or delay of either Party to enforce any of the provisions of this Agreement, or any
+right or remedy available under this Agreement or at law or in equity, or to require
+performance of any of the provisions of this Agreement, or to exercise any option that is
+provided under this Agreement, shall in no way be construed to be a waiver of such
+provisions, rights, remedies or options.
+40. Warranties
+EXCEPT AS EXPRESSLY STATED IN THIS AGREEMENT, NEITHER PARTY MAKES OR RECEIVES
+ANY WARRANTY, EXPRESS OR IMPLIED, WITH RESPECT TO THE SERVICES PROVIDED, OR TO BE
+PROVIDED, UNDER THIS AGREEMENT AND THE PARTIES DISCLAIM ANY OTHER WARRANTIES,
+INCLUDING BUT NOT LIMITED TO, WARRANTIES OF MERCHANTABILITY, WARRANTIES OF
+FITNESS FOR A PARTICULAR PURPOSE, WARRANTIES AGAINST INFRINGEMENT, AND
+Page 18 of 32
+
+INTERCONNECTION AND TRAFFIC EXCHANGE AGREEMENT
+Alaska Communications
+February 2019
+WARRANTIES ARISING BY TRADE CUSTOM, TRADE USAGE, COURSE OF DEALING OR
+PERFORMANCE, OR OTHERWISE.
+[SIGNATURE PAGE FOLLOWS]
+SIGNATURE PAGE
+IN WITNESS WHEREOF, the Parties hereto have caused this Agreement to be executed as of the
+Effective Date.
+THE LECS
+ACS of Alaska, LLC,
+ACS of the Northland, LLC,
+ACS of Anchorage, LLC, and
+ACS of Fairbanks, LLC
+--J&.-=---~--'--LP--- -----
+---'-k--='t_._/'l.A_L-
+By:
+Name:
+Title:
+Page 19 of 32
+
+INTERCONNECTION AND TRAFFIC EXCHANGE AGREEMENT
+Alaska Communications
+February 2019
+GLOSSARY:
+1. General Rule
+1.1 Unless the context clearly indicates otherwise, when a term listed in this Glossary is
+used in the Agreement, the term shall have the meaning stated in this Glossary. A
+defined term intended to convey the meaning stated in this Glossary is capitalized
+when used. Other terms that are capitalized, and not defined in this Glossary or
+elsewhere in the Agreement, shall have the meaning stated in the Act. Additional
+definitions that are specific to the matters covered in a particular provision ofthe
+Agreement may appear in that provision. To the extent that there may be any conflict
+between a definition set forth in this Glossary and any definition in a specific
+provision, the definition set forth in the specific provision shall control with respect to
+that provision.
+1.2 Unless the context clearly indicates otherwise, any term defined in this Glossary that
+is defined or used in the singular shall include the plural, and any term defined in this
+Glossary that is defined or used in the plural shall include the singular.
+1.3 The words "shall" and "will" are used interchangeably throughout the Agreement and
+the use of either indicates a mandatory requirement. The use of one or the other shall
+not confer a different degree of right or obligation for either Party.
+2. Definitions
+2.1 Act.
+The Communications Act of 1934 (47 U.S.C. §151 et seq.), as from time to time
+amended (including, but not limited to, by the Telecommunications Act of 1996).
+2.2 Affiliate.
+Shall have the meaning set forth in the Act.
+2.3 Agent.
+An agent or servant.
+2.4 Applicable Law.
+All effective laws, government regulations and government orders applicable to each
+Party's performance of its obligations under this Agreement.
+2.5 ATIS.
+The Alliance for Telecommunications Industry Solutions.
+2.6 Bill-and-Keep Arrangement.
+Shall have the meaning as set forth in FCC Rule 51.713,47 C.F.R. § 51.713.
+2.7 Business Day.
+Monday through Friday, except for holidays observed by Alaska Communications.
+2.8 Calendar Quarter.
+Page 20 of 32
+
+INTERCONNECTION AND TRAFFIC EXCHANGE AGREEMENT
+Alaska Communications
+February 2019
+January through March, April through June, July through September, or October
+through December.
+2.9 Calendar Year.
+January through December.
+2.10 Central Office Switch.
+A switch used to provide Telecommunications Services, including, but not limited to:
+End Office Switch. A switch in which the subscriber station loops are
+terminated for connection to either lines or trunks. The subscriber receives
+terminating, switching, signaling, transmission and related functions for a
+defined geographic area by means of an End Office Switch.
+Tandem Office Switch. A switching system that establishes trunk-to-trunk
+connections between End Office Switches and between Telecommunications
+Carriers.
+2.11 Claims.
+Any and all claims, demands, suits, actions, settlements, judgments, fines, penalties,
+liabilities, injuries, damages, losses, costs (including, but not limited to, court costs)
+and expenses (including, but not limited to, reasonable attorney's fees).
+2.12 CLEC (Competitive Local Exchange Carrier).
+A Local Exchange Carrier that is not an Incumbent Local Exchange Carrier.
+2.13 Commission.
+The state government agency, commission, department, board or other entity that has
+competent jurisdiction over applicable Telecommunications Services provided within
+Alaska.
+2.14 CPN (Calling Party Number).
+A signaling parameter that identifies the calling party's ten (10) digit telephone
+number.
+2.15 CPNI (Customer Proprietary Network Information).
+Shall have the meaning set forth in Section 222 of the Act, 47 U.S.C. § 222.
+2.16 CTN (Called Telephone Number).
+A ten-digit number in NANP format dialed by a calling party.
+2.17 Customer.
+A third party residence or business end user subscriber to voice Telecommunication
+Service or Voice over Internet Protocol services provided by either of the Parties. The
+term Customer includes a person that uses a Party's network to originate and/or
+terminate Voice Calls on a roaming, resale or lease basis.
+2.18 Direct Interconnection Facilities.
+Transport facilities, if any, deployed by each Party to interconnect the Parties'
+respective networks at the POls and used to exchange Voice Calls between their
+Page 21 of 32
+
+INTERCONNECTION AND TRAFFIC EXCHANGE AGREEMENT
+Alaska Communications
+February 2019
+respective Customers.
+2.19 End Office Access Service.
+Shall have the meaning set forth in the FCC Regulations.
+2.20 FCC.
+The Federal Communications Commission.
+2.21 FCC Regulations.
+The unstayed, effective regulations promulgated by the FCC, as amended from time
+to time.
+2.22 Governmental Authority
+Any transnational, domestic or foreign federal, state or local governmental, regulatory
+or administrative authority, department, court, agency, commission or official,
+including, without limitation, any political subdivision thereof.
+2.23 ICC Order.
+In the Matter of Connect America Fund, eta/., 10-90, eta/., FCC 11-161 (rei.
+Nov. 18, 2011), as modified by the Order On Reconsideration in the same docket
+(rei. Dec. 23, 2011), as modified and in effect from time to time.
+2.24 ILEC (Incumbent Local Exchange Carrier).
+Shall have the meaning stated in the Act.
+2.25 Indirect Interconnection Facilities.
+The facilities, if any, used by the Parties to connect their respective networks to a
+third party Tandem Office Switch to exchange Voice Calls.
+2.26 Interconnection Facilities.
+Direct Interconnection Facilities and/or Indirect Interconnection Facilities under this
+Agreement.
+2.27 Interconnected VoiP Service or IP Enabled Service Provider (IPES)
+As defined in Section 9.3 "Definitions" of FCC rules, Alaska Communications is an
+Interconnected VoiP Service Provider.
+2.28 lnterMTA Voice Call.
+A Voice Call that that originates on Alaska Communications' network and terminates
+on the the LECs' network that, at the beginning of the call, originates in one Major
+Trading Area ("MTA"), as defined by the FCC, and terminates in a different MTA. The
+originating point for Alaska Communications is the cell site serving the Customer at
+the beginning of the call, and the terminating point for the LECs is the location of the
+End Office Switch serving the the LECs' Customer.
+2.29 lntraMTA Voice Call.
+A Voice Call that originates on one Party's network and terminates on the other
+Party's network that, at the beginning of the call, originates and terminates in the
+Page 22 of 32
+
+INTERCONNECTION AND TRAFFIC EXCHANGE AGREEMENT
+Alaska Communications
+February 2019
+same Major Trading Area ("MTA"), as defined by the FCC. The originating or
+terminating point for Alaska Communications is the cell site serving the Customer at
+the beginning of the call, and the originating or terminating point for the LECs is the
+location of the End Office Switch serving the the LECs' Customer.
+2.30 LEG (Local Exchange Carrier).
+Shall have the meaning set forth in the Act.
+2.31 LERG (Local Exchange Routing Guide).
+A Telcordia Technologies reference containing NXX Code and LRN
+assignments.
+2.32 LNP Call Routing Database.
+A public database that service providers can query to determine the LRN for a specific
+Called Telephone Number (CTN).
+2.33 LRN (Location Routing Number).
+A ten-digit number in the format of the NANP that uniquely identifies the switch
+associated with a Called Telephone Number (CTN) that has been ported. The LRN for
+a ported CTN can be obtained by querying the LNP Call Routing Database. The LRN
+can be cross-referenced in the LERG to identify the service provider for a specific CTN.
+2.34 MOUs (Minutes of Use).
+The elapsed minutes in full second increments (without rounding) beginning when a
+Voice Call is answered by the called party and ending when that Voice Call is
+terminated by the calling and/or called party.
+2.35 NANP (North American Numbering Plan).
+The system of telephone numbering employed in the United States, Canada,
+Bermuda, Puerto Rico and certain Caribbean islands. The NANP format is a 10-digit
+telephone number that consists of a three-digit NPA Code (commonly referred to as
+the area code), followed by a three-digit NXX Code and four-digit
+line number.
+2.36 NPA (Numbering Plan Area).
+Also sometimes referred to as an area code, is the first three-digit sequence of each
+10-digit telephone number within the NANP (i.e., NPA-NXX-XXXX). There are 2 general
+categories of NPA, "Geographic NPAs" and "Non-Geographic NPAs". A Geographic
+NPA is associated with a defined geographic area, and all telephone numbers bearing
+such NPA are associated with services provided within that geographic area, subject
+to local number porting (LNP) variations. A Non-Geographic NPA, also known as a
+"Service Access Code" or "SAC Code" is typically associated with a specialized
+Telecommunications Service that may be provided across multiple geographic NPA
+areas. 500, 700, 800, 888 and 900 are examples of Non-Geographic NPAs.
+2.37 NXX Code.
+The second three-digit sequence of each 10-digit telephone number within the
+Page 23 of 32
+
+INTERCONNECTION AND TRAFFIC EXCHANGE AGREEMENT
+Alaska Communications
+February 2019
+NANP (i.e., NPA-NXX-XXXX).
+2.38 Order.
+An order or application to provide, change or terminate a Service (including, but not
+limited to, a commitment to purchase a stated number or minimum number of lines
+or other Services for a stated period or minimum period of time).
+2.39 PO/ (Point of Interconnection).
+The physical location where the Parties' respective Interconnection Facilities physically
+interconnect for the purpose of exchanging Voice Calls under this Agreement.
+2.40 Rate Center.
+The geographic area to which a particular NXX Code has been assigned under the
+Central Office Code (NXX) Assignment Guidelines issued by AT IS, as revised from time
+to time.
+2.41 Reciprocal Compensation.
+The arrangement for recovering, in accordance with Section 251(b)(S) of the Act, the
+ICC Order, and applicable FCC Regulations, costs incurred for the transport and
+termination of lntraMTA Voice Calls.
+2.42 Service.
+Any interconnection arrangement, Telecommunications Service, or other service,
+facility or arrangement, offered by a Party under this Agreement.
+2.43 Telcordia Technologies.
+Telcordia Technologies, Inc., a Subsidiary of Telefonaktiebo/aget LM Ericsson and
+formerly known as Bell Communications Research, Inc. (Bellcore).
+2.44 Telecommunications Service.
+Shall have the meaning set forth in the Act.
+2.45 Third Party Claim.
+A Claim where there is (a) a claim, demand, suit or action by a person who is not a
+Party, (b) a settlement with, judgment by, or liability to, a person who is not a Party
+or (c) a fine or penalty imposed by a person who is not a Party.
+2.46 Toxic or Hazardous Substance.
+Any substance designated or defined as toxic or hazardous under any "Environmental
+Law" or that poses a risk to human health or safety, or the environment, and products
+and materials containing such substance. "Environmental Laws" means the
+Comprehensive Environmental Response, Compensation, and Liability Act, the
+Emergency Planning and Community Right-to-Know Act, the Water Pollution Control
+Act, the Air Pollution Control Act, the Toxic Substances Control Act, the Resource
+Conservation and Recovery Act, the Occupational Safety and Health Act, and all other
+Federal, State or local laws or governmental regulations or requirements that are
+similar to the above- referenced laws or that otherwise govern releases, chemicals,
+products,
+Page 24 of 32
+
+INTERCONNECTION AND TRAFFIC EXCHANGE AGREEMENT
+Alaska Communications
+February 2019
+materials or wastes that may pose risks to human health or safety, or the
+environment, or that relate to the protection of wetlands or other natural resources.
+2.47 United States.
+The United States of America including all of its States, districts, territories,
+possessions, commonwealths, and the special maritime and territorial jurisdiction of
+the United States.
+2.48 Voice Call.
+A two-way voice communication originated by a Customer of one Party and
+terminated to the Customer of the other Party, where the CTN is assigned to or
+associated with the terminating Party's Customer.
+Page 25 of 32
+
+INTERCONNECTION AND TRAFFIC EXCHANGE AGREEMENT
+Alaska Communications
+February 2019
+INTERCONNECTION AND TRAFFIC EXCHANGE ATTACHMENT
+1. General
+The Parties desire to interconnect their networks to exchange Voice Calls. The Parties shall
+use Indirect Interconnection and may, by mutual agreement, use Direct Interconnection to
+exchange Voice Calls. In the event of emergency or equipment failure, the Parties may
+exchange Voice Calls by using alternative methods that are not provided for in this
+Agreement. The Parties shall develop and mutually agree upon a Disaster Recovery Plan.
+2. Indirect Interconnection
+2.1 Alaska Communications and the LECs may interconnect their respective networks via
+one or more third party Tandem Office Switches serving the State of Alaska.
+2.2 For Voice Calls exchanged by Indirect Interconnection, the Party originating the Voice
+Call shall be responsible for charges assessed by the third party Tandem Office Switch
+provider for delivering such Voice Calls to the terminating Party.
+2.3 Each Party is responsible for the ordering, provisioning and maintenance of its
+respective Indirect Interconnection Facilities with each third party Tandem Office
+Switch provider.
+3. Direct Interconnection
+3.1 Alaska Communications may request that the Parties establish Direct Interconnection
+by deploying 1 or more two-way facilities directly connecting Alaska Communications
+IP Enabled Switch to the LECs' End Office Switch.
+3.2 Upon receiving a request for Direct Interconnection Facilities pursuant to Section
+3.1, the Parties shall work cooperatively to develop the specifications for and to
+deploy such Direct Interconnection Facilities. All Direct Interconnection Facilities shall
+be via VoiP SIP Trunks or TDM Facilities at a DS11evel, multiple DS11evel, DS3 level, or
+such other level as the Parties mutually agree. All Direct Interconnection Facilities
+shall carry Voice Calls in both directions and shall conform to industry standards as
+revised from time to time.
+3.3 In establishing Direct Interconnection of their networks pursuant to this Attachment,
+the Parties' shall use, as appropriate, the following separate and distinct trunk groups:
+3.3.1 Type 2B Interconnection Trunks for the transmission and routing of
+lntraMTA Voice Calls and lnterMTA Voice Calls between a Alaska
+Communications IP Enabled Switch and a the LECs End Office Switch. Type
+2B arrangements and variations are in accordance with this Attachment
+and Telcordia Technologies Technical Reference GR-145-Core, Issue 2, May
+1998, as in effect from time to time (or any successor thereto). In the event
+of a conflict between GR-145-Core and requirements of this Agreement,
+this Agreement shall govern.
+3.4 The Parties shall agree on the POl for each Direct Interconnection Facility. Each Party
+shall be responsible for all costs incurred on its respective side of the POl, including,
+without limitation, all costs of constructing and maintaining Direct Interconnection
+Facilities and all costs associated with the management and administration of Direct
+Interconnection Facilities.
+Page 26 of 32
+
+INTERCONNECTION AND TRAFFIC EXCHANGE AGREEMENT
+Alaska Communications
+February 2019
+3.5 The originating Party shall query the lNP Call Routing Database before delivering a
+Voice Call over Direct Interconnection facilities. Based on the information returned
+from such query for a Voice Call (e.g., lRN), each Party shall deliver over the Direct
+Interconnection Facilities only those Voice Calls that are destined for the terminating
+Party's Customers (e.g., Voice Calls for which the lRN is assigned to the terminating
+Party). Each Party shall bear any and all
+costs associated with lNP queries and associated routing of its originating Voice
+Calls under this Agreement.
+3.6 Each Party shall have access to its Direct Interconnection Facilities at each POl
+at all times (i.e., 24 hours per day, seven days per week, and 365 days per year). ·
+3.7 All Direct Interconnection Facilities shall be engineered to a P.01 grade of service.
+4. Traffic Exchange.
+4.1 Each Party agrees to query the lNP Call Routing Database on each of its originated
+Voice Calls and to route a Voice Call over the Direct Interconnection Facilities only to
+the extent the lRN returned from such query, if any, belongs to the other Party or if
+no lRN is returned, the dialed number belongs to a Customer of the other Party. Each
+Party shall bear any and all costs associated with lNP queries and associated routing
+of its originating Voice Calls under this Agreement.
+4.2 The Parties agree to route lntraMTA Voice Calls in accordance with the lERG.
+4.3 The Parties shall provide each other with dialing parity in accordance with
+Applicable law.
+4.4 the lECs shall classify Voice Calls as local or toll based solely upon the Rate Center
+associated with the NXX Code of the dialed CTN. For the avoidance of any doubt, the
+lECs shall not rate a Voice Call from a particular Customer as a toll call unless it would
+rate as a toll call any other call from that same Customer to a third party's customer
+with a CTN associated with the same Rate Center as the Voice Call.
+4.5 Each Party is solely responsible for the services it provides to its Customers.
+4.6 Each Party is responsible for managing its assigned NXX Codes and thousand blocks
+within NXX Codes.
+4.7 Each Party shall use the lERG or its successor to obtain routing information and shall
+provide to the lERG publisher in a timely manner all information required to maintain
+the accuracy of the lERG for routing traffic to such Party.
+4.8 Neither Party shall route 911/E911 traffic to the other Party. Each Party shall be
+responsible for delivering its Customers' 911/E911 calls to the 911/E911 service
+provider.
+5. Signaling for Traffic Exchange
+5.1 For traffic exchanged under this Agreement, the Parties agree to transmit signaling
+information in accordance with Applicable law and industry standards as revised
+from time to time.
+5.2 The Parties agree to use Signaling System 7 ("SST') for exchanging Voice Calls and
+Page 27 of 32
+
+INTERCONNECTION AND TRAFFIC EXCHANGE AGREEMENT
+Alaska Communications
+February 2019
+other traffic under this Agreement. Where mutually agreed in writing, the
+Parties shall directly interconnect their networks for exchanging SS7 Signaling
+Messages. Either Party may obtain SS7 trunks and connectivity from a third- party
+provider of SS7 trunks for exchanging SS7 Signaling Messages, provided such
+connections meet generally accepted industry standards as revised from time to time.
+Each Party shall be financially responsible for its own SS7
+Signaling Messages. Neither Party shall bill the other Party for SS7 Signaling
+Messages.
+5.3 Where technically feasible, the SS7 Signaling Message for a Voice Call shall meet
+industry standards as revised from time to time.
+5.3.1 Called Telephone Number (CTN). For all Voice Calls and except as otherwise
+required by Applicable Law, the originating Party shall deliver SS? Signaling
+Messages to the terminating Party that include, without limitation, the
+CTN.
+5.3.2 Calling Party Number (CPN). For all Voice Calls and except as otherwise
+required by Applicable Law, the originating Party shall deliver 557 Signaling
+Messages to the terminating Party that include, without limitation, CPN
+used by the Customer to originate the Voice Call.
+5.3.3 Privacy Indicators.
+5.3.3.1 Except as otherwise required by Applicable Law, each Party shall
+offer its Customers the ability to activate a privacy indicator that
+will suppress the display ofthe Customer's CPN on the called
+party's device.
+5.3.3.2 For all Voice Calls where the calling party has activated the
+privacy indicator, the originating Party shall deliver the privacy
+indicator in the SS? Signaling Messages along with the calling
+party's CPN. For the avoidance of any doubt,
+the originating Party shall not suppress CPN on Voice Calls where
+the calling party has requested privacy.
+5.3.3.3 For all Voice Calls where the terminating Party has received a
+privacy indicator from the originating Party that prohibits
+delivery of the CPN to the terminating Party's Customer, the
+terminating Party shall not deliver the calling party's CPN to the
+called party and may instead deliver a privacy message (e.g.,
+"anonymous call", "private").
+5.3.4 Integrity of SS7 Signaling Messages. The Parties shall cooperate fully and
+shall use commercially reasonable efforts in investigating any issues
+relating to the processing or delivery of SS7 Signaling Messages.
+6. Traffic Monitoring
+6.1 Each Party shall monitor volumes of Voice Calls (i.e., MOUs) exchanged under this
+Agreement. Upon reasonable request, the Parties shall exchange such traffic volume
+Page 28 of 32
+
+INTERCONNECTION AND TRAFFIC EXCHANGE AGREEMENT
+Alaska Communications
+February 2019
+data.
+6.2 The Parties shall meet (telephonically or in person) from time to time, as needed, to
+review data on Voice Call traffic volumes to determine the need for additional Indirect
+or Direct Interconnection Facilities or bandwidth and to plan any necessary changes in
+such Interconnection Facilities.
+6.3 When either Party detects that the other Party is generating Voice Call traffic or Voice
+Call attempts with duplicate, or repeated, CTNs dialed in succession and/or
+abnormally short duration Voice Calls, such Party may give written notice to the other
+Party and both Parties shall use commercially reasonable efforts to resolve such issue
+in an expeditious manner. Each Party reserves the right to take action to protect the
+integrity of its network.
+6.4 Except as otherwise required by Applicable Law, neither Party shall monitor the
+contents or subject matter of any Voice Calls exchanged under this Agreement with the
+exception of Voice Calls and test calls used for operational and engineering needs
+(including, but not limited to, performance, support, security, abuse and privacy
+needs).
+7. Network Management.
+7.1 The Parties shall work cooperatively in a commercially reasonable manner to install
+and maintain reliable Interconnection Facilities and networks.
+7.2 Each Party shall maintain a professionally managed Network Operations Center (NOC)
+with continuous staffing (i.e., 24 hours per day, seven days per week and 365 days per
+year). The Parties shall provide and timely update their respective NOC contact
+information, trouble reporting process and escalation procedures.
+7.3 The Parties shall work cooperatively in a commercially reasonable manner to apply
+sound network management principles to alleviate and prevent Voice Call traffic
+congestion. Nothing in this Agreement limits or restricts the ability or rights of each
+Party to impose usage restrictions or controls on its own Customers or third parties and
+to assist its Customers in imposing Customer-requested usage restrictions or controls
+on Voice Call traffic exchanged under this Agreement.
+7.4 Each Party shall use commercially reasonable efforts to secure its Voice Calls from
+unauthorized access, transmission or use. The Parties shall work cooperatively to
+address security issues and develop security procedures consistent with generally
+accepted communications industry standards as revised from time to time.
+7.5 Each Party represents and warrants that its communications services, including,
+without limitation, any Party-provided software, are "GALEA Compliant" under the
+provisions of the Communications Assistance for Law Enforcement Act (Pub. L. 103-
+414, Title 1, October 25, 1994, 108 Stat. 4279, as amended), as well as any regulations
+or industry standards that implement the provisions of GALEA. The Parties shall provide
+and update their respective contact information for compliance with requirements of
+law enforcement and national security agencies.
+7.6 If a Party contemplates a change in its network that it believes will materially affect the
+Page 29 of 32
+
+INTERCONNECTION AND TRAFFIC EXCHANGE AGREEMENT
+Alaska Communications
+February 2019
+inter-operability of its network with the other Party's network, the Party making the
+change shall provide at least 90 days' advance written notice of such change to the
+other Party, provided, however, that this provision shall not apply to network changes
+necessitated by emergencies or other circumstances outside the control of the Party
+modifying its network.
+7.7 Nothing in this Agreement shall prohibit Alaska Communications from enlarging its
+network through management contracts with third parties for the construction and
+operation of a mobile network under the Alaska Communications brand name and
+license. Traffic traversing such extended networks shall be deemed to be and treated
+under this Agreement as the originating Party's traffic when it originates on such
+extended network and as the terminating Party's traffic when it terminates on such
+extended network. Traffic traversing on such extended networks shall be subject to the
+terms, conditions and rates of this Agreement.
+7.8 Interference and Impairment. Each of the Parties recognizes a responsibility to follow
+industry standards as revised from time to time, and to employ characteristics and
+methods of operation that will not interfere with or impair the service, network or
+facilities of the other Party or any third parties connected with or involved directly in
+the network or facilities of the other Party. If a Party ("Impaired Party") reasonably
+determines that the Voice Calls, services, network, facilities, or methods of operation
+of the other Party ("Interfering Party") will or are likely to interfere with or impair the
+Impaired Party's provision of Voice Calls, services or the operation of the Impaired
+Party's network or facilities, the Impaired Party may interrupt or suspend the
+Interconnection Facilities and/or the exchange of Voice Calls with the Interfering Party
+to the extent necessary to prevent such interference or impairment, subject to the
+following: 7.8.1 The Impaired Party shall use commercially reasonable efforts to
+contact the Interfering Party's NOC with a trouble report describing the interruption or
+suspension immediately after taking such action; 7.8.2 Except in emergency situations
+(e.g., situations involving a risk of bodily injury to persons or damage to tangible
+property, or an interruption in Customer service) or as otherwise provided in this
+Agreement, the Impaired Party shall give the Interfering Party at least ten {10) Business
+Days' prior written notice of the interference or impairment or potential interference
+or impairment and the need to correct the condition within ten (10) Business Days; and
+7 .8.3 Upon correction of the interference or impairment, the Impaired Party shall
+promptly restore the interrupted or suspended exchange of Voice Calls. The
+Impaired Party shall not be obligated to provide an out of service credit
+allowance or other compensation to the Interfering Party in connection with
+suspending the exchange of Voice Calls.
+8. Number Resources and Rate Center Areas
+8.1 Nothing in this Agreement shall be construed to limit or otherwise adversely affect in
+any manner either Party's right to employ or to request and be assigned any NXX
+Codes pursuant to the Central Office Code Assignment Guidelines published by AT IS
+and any relevant FCC or Commission orders, as may be amended from time to time, or
+to assign NXX Codes to specific Rate Centers.
+Page 30 of 32
+
+INTERCONNECTION AND TRAFFIC EXCHANGE AGREEMENT
+Alaska Communications
+February 2019
+8.2 It shall be the responsibility of the Party obtaining a new NXX Code or LRN to timely
+update the LERG. It shall be the other Party's responsibility to program and update its
+own switches and network systems pursuant to information provided in the LERG, as
+revised from time to time, in order to recognize and rate traffic to the other Party's
+assigned NXX Codes. Except as may be expressly set forth in this Agreement, neither
+Party shall impose any fees or charges whatsoever on the other Party for such
+activities.
+8.3 Nothing in this Agreement constrains either Party's ability to establish the size of local
+calling area(s) or service plans for its respective Customers.
+9. Local Number Portability (LNP)
+9.1 The Parties shall provide Local Number Portability (LNP) in accordance with rules and
+regulations as from time to time prescribed by the FCC or the Commission.
+9.2 [Reserved]
+9.3 The Parties shall follow the applicable LNP provisioning processes recommended by
+the North American Numbering Council (NANG) and the Industry Numbering Council
+(INC), and adopted by the FCC or the Commission. In addition, the Parties agree to
+follow the applicable LNP ordering procedures established by industry standards
+bodies. The Parties shall provide LNP on a reciprocal basis.
+9.4 Each Party shall submit Orders to port telephone numbers from the other Party by
+using the other Party's established LNP ordering processes, business rules and
+guidelines, as revised from time to time.
+10. INTENTIONALLY LEFT BLANK
+11. Traffic Measurement and Billing
+11.1 Each Party shall use commercially reasonable efforts to implement capabilities to
+measure MOUs transited and terminated over Interconnection Facilities under this
+Agreement and to determine the jurisdiction of such MOUs (e.g., Local, lntraMTA,
+interstate, intrastate). If a Party has not deployed such measurement capability, such
+Party may instead use commercially reasonable and mutually agreed techniques to
+estimate MOUs and their associated jurisdiction. Nothing in this Agreement shall
+require either Party to provide call detail billing records to any third party.
+11.2 Each Party reserves the right to audit all Voice Call traffic exchanged over
+Interconnection Facilities, up to a maximum of two {2) audits per Calendar Year, to
+ensure compliance with this Agreement; provided, however, that either Party shall
+have the right to conduct additional audit(s) if the preceding audit disclosed material
+breaches, errors or discrepancies. Each Party agrees to provide the necessary Voice
+Call traffic data in conjunction with any such audit in a timely manner.
+11.3 Nothing in this Agreement shall be construed to limit either Party's ability to
+designate the areas within which that Party's Customers may make telephone calls
+which that Party rates as "local" in its agreements with its Customers. Nothing in this
+Agreement shall prohibit either Party from enlarging the geographic scope of its
+network through acquisitions or through management contracts with third parties for
+the construction and operation of a system. Voice Calls originating on a Party's
+c
+Page 31 of 32
+
+INTERCONNECTION AND TRAFFIC EXCHANGE AGREEMENT
+Alaska Communications
+February 2019
+extended networks shall be deemed to be that Party's originating Voice Calls under
+this Agreement and subject to the rates, terms and conditions of this Agreement.
+Voice Calls terminating on a Party's extended network shall be deemed to be that
+Party's terminating Voice Calls and subject to the rates, terms and conditions ofthis
+Agreement.
+11.4 Both Parties shall make commercially reasonable efforts to prepare and deliver
+electronic invoices, if any, under this Agreement.
+12. Compensation Arrangements
+12.1 The Parties acknowledge that the FCC, pursuant the ICC Order, adopted a Bill- and
+Keep Arrangement as the default compensation for lntraMTA Voice Calls exchanged
+on and after July 1, 2012 between providers. Pursuant to the ICC Order, for Voice
+Calls exchanged between the Parties on and after July 1, 2012, the Reciprocal
+Compensation rate that shall apply pursuant to Section 251(b)(S) of the Act for the
+transport and termination of such traffic shall be $0.00 per minute of use (Bill-and
+Keep Arrangement) so long as the ICC Order is effective and unstayed, or such other
+rate, if any, set by a subsequent effective and unstayed order, if any, ofthe FCC or a
+court of competent jurisdiction.
+12.2 The Reciprocal Compensation rate provided for in Section 12.1 shall apply to the
+Parties in an equal and symmetrical manner.
+12.3 INTENTIONALLY LEFT BLANK
+12.4 the LECs' lnterMTA Voice Call rate shall be the LECs' tariffed End Office Access Service
+rate, provided such tariff rate is effective and lawful. Alaska Communications shall
+compensate the LECs for all Alaska Communications-originated lnterMTA Voice Calls
+only to the extent that such calls are not handed off to an interexchange carrier for
+delivery to the LECs and such compensation shall be at the LECs' applicable access
+tariff rates. Recognizing that the LECs is not able to measure lnterMTA Voice Calls,
+both Parties agree that lnterMTA Voice Calls are negligible and that there shail be no
+payment or compensation between the Parties for lnterMTA Voice Calls. Such
+arrangements for lnterMTA Voice Calls shall remain in effect until the Parties' execute
+a written amendment that: (i) establishes an lnterMTA Factor based on current traffic
+study data; or (ii) institutes billing for lnterMTA Voice Calls based on actual recorded
+usage that is available and verifiable by both Parties.
+Page 32 of 32

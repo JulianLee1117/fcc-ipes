@@ -1,0 +1,131 @@
+Before the
+FEDERAL COMMUNICATIONS COMMISSION
+Washington, D.C. 20554
+In the Matter of MobileSphere LLC, ) WC Docket No. 20- ________
+For Authorization to Obtain Numbering )
+Resources Pursuant to Section 52.15(g) of )
+The Commission's Rules )
+APPLICATION OF MOBILESPHERE LLC,
+FOR AUTHORIZATION TO OBTAIN NUMBERING RESOURCES
+MobileSphere LLC (“MobileSphere”), pursuant to Section 52.15(g)(3)(i) of the Commission’s
+Rules, respectfully requests authorization to obtain numbering as described below. Under the
+Commission's Numbering Order,1 an interconnected voice over internet protocol (“VoIP”)
+provider may obtain numbering resources from the Numbering Administrator upon a showing that
+it is authorized to provide service in the area for which the numbering resources are requested.
+MobileSphere is submitting the application in compliance with the STI-GA policy for service
+providers as established and administered by iconectiv. Such authorization may be obtained upon
+an application to the Commission containing the information detailed in Section 52.15(g)(3)(i)(A)-
+(G) of the Commission’s Rules. MobileSphere hereby requests the Commission grant it that
+authorization. In support of this application, MobileSphere provides the following information:
+I. INFORMATION REQUIRED BY SECTION 52.15(g)(3)(i)
+A. § 52.15(g)(3)(i)(A)
+Name: MobileSphere, Inc.
+Address: 7 Faneuil Hall Marketplace
+City: Boston
+State: MA
+ZIP Code: 02109
+Telephone: 617.399.9980
+1 Numbering Policies for Modern Communications, FCC 15-70 (rel. June 22, 2015).
+1
+
+Contact for Regulatory Requirements, Compliance, 911 and Law Enforcement:
+Name: Toufic Mobarak
+Address: 7 Faneuil Hall Marketplace
+City: Boston
+State: MA
+ZIP Code: 02109
+Telephone: 617.399.9980
+Email: toufic@mobile-sphere.com
+B. § 52.15(g)(3)(i)(B)
+MobileSphere hereby acknowledges that authorization to obtain numbering resources under
+Section 52.15(g) of the Commission's Rules is subject to compliance with applicable
+Commission numbering rules as well as to the numbering authority delegated to the states. The
+Company hereby also acknowledges that this authorization is subject to compliance with
+industry guidelines and practices regarding numbering, as applicable to telecommunications
+carriers. The numbering resources that are the subject of this Application will be used to provide
+interconnected VoIP services initially in Massachusetts. Customers will use a mobile VoIP
+application being developed by MobileSphere to initiate and receive VoIP calls similar to non-
+interconnected VoIP providers Skype and WhatsApp, but with a traditional telephone number
+assigned to the customer for interconnected VoIP.
+C. § 52.15(g)(3)(i)(C)
+MobileSphere acknowledges that it must file requests for numbers with the relevant state
+commission(s) at least 30 days before requesting numbers from the Numbering Administrators.
+2
+
+D. § 52.15(g)(3)(i)(D)
+MobileSphere hereby sets forth its capability to provide service within sixty (60) days of the
+numbering resources activation date. MobileSphere provides mobile communications and mobile
+messaging solutions to enterprises, non-profit organizations, and consumers. Among its
+customers are respected entities such as Chipotle, Mary Kay, eHarmony, KellerWilliams, Make
+A Wish Foundation and Princeton University. Founded in 2003, MobileSphere pioneered the
+wireless international long-distance market with its CellularLD solution, enabling U.S.
+consumers to place low-cost overseas calls from a mobile phone. Shortly thereafter,
+MobileSphere began partnering with major universities, enterprises and wireless carriers to
+develop and launch tailored international calling solutions for mobile users. The company has
+been featured in the Washington Post, New York Times, and PCWorld for its innovative
+services. More information about the company can be found at www2.mobile-sphere.com
+In 2009, MobileSphere created the concept of ringless voice messaging and entered the market
+with slydial. Slydial is a voice messaging solution that enables consumers to connect directly to
+another person’s mobile voicemail. MobileSphere filed and was awarded the patent on the
+ringless voicemail technology, shortly thereafter. Following the success of slydial, MobileSphere
+launched slybroadcast in 2014. Slybroadcast allows for one audio messages to be delivered
+directly to the voicemail-box of thousands of mobile phones. One of the application’s uses is to
+instantly provide public safety announcements. Recently, MobileSphere entered the multimedia
+messaging market with slyText, the industry’s first two-way web-to-mobile multimedia
+messaging service enabling interactive, real-time communications from the web to mobile
+phones.
+3
+
+The Company has an agreement in place with Inteliquent for the termination of its customers’
+traffic. Inteliquent is a competitive local exchange carrier with dozens of interconnection
+agreements with incumbent local exchange carriers nationwide to carry voice traffic among
+access tandems and terminate to end user customers. Relevant portions of Inteliquent’s
+interconnection agreement with Verizon New England is attached as Exhibit A. MobileSphere
+will interconnect with and broadcast the appropriate carriers’ tandem platforms for the purposes
+of managing all codes assigned to MobileSphere’s OCN.
+MobileSphere has also entered into an agreement with Inteliquent for access to DIDs. Inteliquent
+provides PSTN connectivity for inbound calls to these numbers. The service schedule is attached
+as Exhibit B.
+E. § 52.15(g)(3)(i)(E)
+MobileSphere hereby certifies that it will comply with its Universal Service Fund contribution
+obligations under 47 CFR part 54, subpart H, its Telecommunications Relay Service contribution
+obligations under 47 CFR § 64.604(c)(5)(iii), its North American Numbering Plan and Local
+Number Portability Administration contribution obligations under 47 CFR §§ 52.17 and 52.32,
+its obligations to pay regulatory fees under 47 CFR § 1.1154, and its 911 obligations under 47
+CFR part 9.
+F. § 52.15(g)(3)(i)(F)
+The Company certifies that it has the financial, managerial, and technical expertise to provide
+reliable service. MobileSphere is financially stable, led by a strong, experienced team with
+substantial managerial experience in the telecommunications industry, and has sufficient
+4
+
+technical expertise and infrastructure in place to provide reliable numbering services.
+MobileSphere’s management members and their biographies are listed below. None of the
+identified personnel are being or have been investigated by the Commission or any law
+enforcement or regulatory agency for failure to comply with any law, rule, or order.
+G. § 52.15(g)(3)(i)(G)
+MobileSphere hereby certifies that no party to this application is subject to a denial of Federal
+benefits pursuant to Section 5301 of the Anti-Drug Abuse Act of 1988, 21 U.S.C. § 862.
+II. ACKNOWLEDGEMENT OF CONDITIONS IN SECTION 52.15(g)(3)(iv)
+As required by Section 52.15(g)(3)(iv), MobileSphere will maintain the accuracy of all contact
+information and certifications in this application, and will file a correction with the Commission
+and each applicable state within thirty (30) days of any changes. MobileSphere will also furnish
+accurate regulatory and numbering contact information to each state commission when
+requesting numbers in that state.
+III. CONCLUSION
+Pursuant to Section 52.15(g)(3)(i) of the Commission’s Rules, MobileSphere respectfully
+requests the Commission grant this application for authorization to obtain numbering resources.
+5
+
+Respectfully submitted,
+MOBILESPHERE, INC.
+through counsel,
+_________________________
+Kristopher E. Twomey
+Law Office of Kristopher E. Twomey, P.C.
+1725 I Street, NW, Suite 300
+Washington, DC 20006
+202 681-1850
+kris@lokt.net
+Date: August 7, 2020
+6

@@ -1,0 +1,219 @@
+!
+Telengy,!LLC!
+11!Broadway,!Suite!1015!
+New!York,!NY!10004!
+!
+Gregory!Borodiansky!
+CTO!
+(212)!379E4041!
+gregory@telengy.net!
+!
+!
+September(20,(2016(
+(
+VIA(ECFS(
+!
+Ms.!Marlene!H.!Dortch!
+Secretary!
+Federal!Communications!Commission!
+445!12th!Street!SW!
+Washington,!DC!20554!
+!
+Re:!Telengy!LLC,!Number!Authorization!Application!
+!
+Dear!Ms.!Dortch:!
+!
+Pursuant!to!Section!52.15(g)(3)!of!the!Commission's!rules,!Telengy,!LLC!hereby!submits!
+its!Numbering!Authorization!Application!to!obtain!telephone!numbers!directly!from!the!North!
+American!Numbering!Plan!Administrator!and!the!Pooling!Administrator.!!!
+!
+Please!direct!any!questions!regarding!this!matter!to!the!undersigned!or!the!personnel!listed!in!
+paragraph!3!of!the!Application.!
+!
+!
+!
+Sincerely,!
+!
+!
+Gregory!Borodiansky!
+CTO!
+Telengy,!LLC!
+!
+1
+
+Before(the(
+FEDERAL(COMMUNICATIONS(COMMISSION(
+Washington,(D.C.((20554(
+!
+!
+!
+In!the!Matter!of!!!!!!!!!!!!!!!!!!! ! ! !!!!!)!
+!!!!!)!
+Telengy,(LLC( ! ! ! !!!!!!!!!!!!!!!!!!)!!!!!WC!Docket!No.!_______________!
+!!!!!)!
+Application!To!Obtain!Telephone!Numbers!!!!!!!!)!
+Directly!From!The!North!American!Numbering!!)!
+Plan!Administrator!And!The!Pooling!!!!!!!!!!!!!!!!!!!!!)!
+Administrator!
+!
+!
+NUMBERING(AUTHORIZATION(APPLICATION(
+!
+Telengy,!LLC!(“Applicant”),1!hereby!applies!for!authorization!to!obtain!telephone!numbers!directly!
+from!the!North!American(Numbering!Plan!Administrator!and!the!Pooling!Administrator!
+(collectively,!"Numbering(Administrators")!pursuant!to!and!in!accordance!with!Section!52.15(g)!of!
+the!Commission's!rules.!In!support!hereof,!Applicant!respectfully!states:!
+!
+1. Applicant’s!name,!headquarters’!address!and!telephone!number!are!as!follows:!
+!
+Telengy,!LLC!
+11!Broadway,!Suite!1015!
+New!York,!NY!10004!
+(212)!379E4000!
+!
+2. The!primary!type!of!business!of!Applicant!is!telecommunications!services,!which!
+includes!interconnected!VoIP.!The!numbering!resources!that!are!the!subject!of!this!
+Application!will!be!used!to!provide!interconnected!VoIP!services!initially!in!California,!
+Florida,!Maryland,!Massachusetts,!New!Jersey,!Pennsylvania,!Rhode!Island,!Virginia,!and!
+Washington!DC.!Applicant!intends!to!eventually!use!the!numbering!resources!to!provide!
+such!services!throughout!the!United!States,!including!its!territories!and!possessions.!
+!
+1!Applicant!does!not!have!a!parent!and!is!not!owned,!in!whole!or!in!part,!by!any!foreign!
+individual!or!entity.!
+2
+
+3. The!names!and!contact!information!for!personnel!of!Applicant!qualified!to!address!
+issues!relating!to!regulatory!requirements,!compliance!with!Commission!rules,!911!and!law!
+enforcement!are!as!follows2:!
+!
+Yishai!Shapir!(CEO)!–!yishai@telengy.net;!(212)!379E4044!
+Gregory!Borodiansky!(CTO)!–!gregory@telengy.net;!(212)!379E4041!
+Yana!Borodiansky!(CFO)!–!yana@telengy.net;!(212)!379E4043!
+Stephen!Irwin!(VP!Operations)!–!stephen@telengy.net;!(212)!379E4038!
+!
+4. Applicant!acknowledges!that!the!authorization!is!subject!to!compliance!with!
+applicable!Commission!numbering!rules,!numbering!authority!delegated!to!the!states!and!
+industry!guidelines!and!practices!regarding!numbering!applicable!to!telecommunications!
+carriers.!
+!
+5. Applicant!acknowledges!that!it!must!file!requests!for!telephone!numbers!with!the!
+relevant!state!commissions!at!least!thirty!(30)!days!before!requesting!telephone!numbers!
+from!the!Numbering!Administrators.!
+!
+6. As!proof!of!facilities!readiness,!namely!that!Applicant!is!capable!of!providing!service!
+within!sixty!(60)!days!of!the!numbering!resources!activation!date,!Applicant!submits!that!it!
+already!has!interconnection!with!the!PSTN!pursuant!to!a!commercial!arrangement!that!
+provides!access!to!the!PSTN;!in!particular,!Applicant!has!an!agreement!with!its!carrier!
+partner,!Inteliquent,!who,!in!turn,!has!interconnection!agreements!in!effect!with!all!of!the!
+relevant!local!exchange!carriers!for!the!states!that!are!the!subject!of!the!Application!and!in!
+which!such!carriers!provide!access!to!the!PSTN,!including!AT&T,!Verizon,!and!CenturyLink.!
+Applicant!further!states!that!it!has!in!place!the!practices!and!procedures!that!already!enable!
+it!to!successfully!route!and!port!numbers(as!a!licensed!CLEC!in!New!York!State!since!2011;!in!
+particular,!Applicant!has!an!OCN!(473G),!appears!in!the!LERG!and!NPAC!in(the!CLEC!
+category,!has!an!agreement!with!Inteliquent!to!support(number!routing,!is!assigned!an!
+AOCN!by!iconectiv!which!already!allows!direct!access!to!the!BIRRDS!system,!has!a!full!staff!
+of!provisioners!prepared!for!porting!and!has!listed!all!contact!information!with!the!LNPA!
+WG!and!ATIS.!
+(
+7. Applicant!certifies!that!it!complies!with!its!Universal!Service!Fund!contribution!
+obligations!under!47!CFR!part!54,!subpart!H,!its!Telecommunications!Relay!Service!
+contribution!obligations!under!47!CFR!§!64.604(c)(5)(iii),!its!North!American!Numbering!Plan!
+and!Local!Number!Portability!Administration!contribution!obligations!under!47!CFR!§!§!!
+52.17,!52.32,!its!obligations!to!pay!regulatory!fees!under!47!CFR!§!1.1154!and!its!911!
+obligations!under!47!CFR!part!9.!
+!
+8. As!demonstrated!by!its!successful!operations!as!a!licensed!facilities!based!CLEC!in!
+New!York!State!since!2011,!and!as!a!FCC!International!Bureau!Section!214!licensed!carrier!
+since!2003,!Applicant!certifies!that!it!possesses!the!financial,!managerial!and!technical!
+2!The!mailing!address!of!each!such!personnel!is!the!mailing!address!of!the!Applicant!set!forth!in!
+paragraph!1.!
+3
+
+expertise!to!provide!reliable!service.!!Attached!hereto!as!Attachment!A!are!the!names!and!
+descriptions!of!Applicant's!key!management!and!technical!personnel.!Applicant!states!that!
+none!of!the!identified!personnel!are!being!or!have!been!investigated!by!the!Commission!or!
+any!law!enforcement!or!regulatory!agency!for!failure!to!comply!with!any!law,!rule!or!order.!
+!
+9. Applicant!certifies!pursuant!to!Sections!1.2001!and!1.2002!of!the!Commission's!rules!
+that!no!party!to!this!Application!is!subject!to!a!denial!of!Federal!benefits!pursuant!to!Section!
+5301!of!the!AntiEDrug!Abuse!Act!of!1988.!!See!21!U.S.C.!§!862.!
+(
+WHEREFORE,!Applicant!respectfully!requests!the!Commission!to!grant!this!Application!for!
+numbering!resources.!
+! ! ! !
+!
+! ! ! ! ! Respectfully!Submitted,!
+!
+!
+!
+! ! ! ! ! ! ! ! Gregory!Borodiansky!
+! ! ! ! ! ! ! ! CTO!
+! ! ! ! ! ! ! ! Telengy,!LLC.!
+! ! ! ! ! ! ! ! 11!Broadway,!Suite!1015!
+! ! ! ! ! ! ! ! New!York,!NY!10004!
+! ! ! ! ! ! ! ! (212)!379E4041!
+! ! ! ! ! ! ! ! gregory@telengy.net!
+!
+!
+September!20,!2016!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+4
+
+ATTACHMENT(A(
+Numbering!Authorization!Application!of!Telengy,!LLC!
+!
+!
+Yishai(Shapir(P(CEO(
+Mr.!Shapir!brings!to!Telengy!over!20!years!of!upper!management!and!sales!experience!in!the!
+wholesale!telecommunications!business.!Prior!to!coEfounding!Telengy!in!2001,!Mr.!Shapir!was!
+previously!the!Vice!President!of!Sales!for!an!FCC!licensed!214!carrier,!Gamma!Telecom!Intl.!Inc.;!
+designed!and!contracted!a!telecom!switching!facility!for!Sakon!LLC;!and!is!the!founder!of!
+Motion! Media! a! company! providing! integration,! network! and! workstation! design! for! the!
+motion!picture!industry!in!Hollywood,!California.!Mr.!Shapir!has!studied!software!and!database!
+design!at!UCLA,!as!well!as!mathematics!and!physics.!
+!
+Gregory(Borodiansky(P(CTO(
+Mr.!Borodiansky!has!been!involved!in!the!telecommunications!industry!for!that!past!19!years!
+and!has!decades!of!experience!developing!systems!and!systems!architectures,!as!well!as!TDM,!
+VoIP,!IP!networks,!and!switching!systems.!Prior!to!coEfounding!Telengy,!Mr.!Borodiansky!has!
+previously!held!positions!as!VP!of!Sales!and!Engineering!at!Arelnet!USA,!Inc.,!Director!of!
+Network!Architecture!at!Gamma!Telecom!Intl.!Inc,!and!has!also!worked!in!Electronic!Data!
+Management!at!Optifile!Systems.!Mr.!Borodiansky!holds!a!M.S.!degree!in!Computer!Science!
+from!Lvov!Polytechnic!Institute.!
+!
+Yana(Borodiansky(P(CFO(
+Mrs.!Borodiansky!has!over!19!years!experience!in!the!wholesale!telecommunications!business!
+covering!accounting,!provisioning,!network!engineering,!switch!and!session!border!controller!
+management,!and!database!design.!Prior!to!coEfounding!Telengy,!she!held!numerous!positions!
+at!Gamma!Telecom!Intl.!Inc.!and!Optifile!Systems.!Mrs.!Borodiansky!holds!a!M.S.!degree!in!
+Electrical!Engineering!from!Tashkent!Polytechnic!Institute.((
+(
+Stephen(Irwin(–(VP(Operations(
+As!VP!of!Operations!at!Telengy,!Mr.!Irwin!manages!the!regulatory!aspects!of!the!business,!
+oversees!the!company's!support/provisioning!teams,!and!is!also!responsible!for!developing!and!
+executing!strategies!to!both!fortify!and!expand!the!company's!operations.!!Mr.!Irwin!excels!at!
+building!and!maintaining!longstanding,!mutually!beneficial!partnerships!and!in!his!over!14+!
+years! in! the! industry! has! established! a! proven! track! record! for! meeting! and! exceeding!
+companyEwide!goals.!His!unique!skill!set!has!been!molded!by!his!prior!work!experience!at!
+AT&T,!Dialogic,!and!VoicePulse.!Mr.!Irwin!graduated!with!honors!from!Rider!University!and!
+holds!a!degree!in!Computer!Information!Systems!with!a!minor!in!Marketing.!
+!
+5

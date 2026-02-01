@@ -1,0 +1,91 @@
+FCC VoIP Numbering Authorization Application – Supplemental Filing
+Applicant Information:
+• Company Name: ConnectTo Communications, Inc.
+• Website: http://www.ConnectTo.com
+• Address: 555 Riverdale, Suite A, Glendale, CA 91204
+• Primary Contact: Aram Ter-Martirosyan
+• Email: aram@ConnectTo.com
+• Phone: 818.546.4601
+• Fax: 818.546.4617
+Response to Missing Information in Initial Application:
+Form 477 / Broadband Data Collection Filing (52.15(g)(3)(ii)(I)) ConnectTo
+Communications is currently in the process of making its BDC submission. Proof of filing
+will be submitted as a supplement to this application. If ConnectTo determines that a BDC
+filing is not required, we will submit a written explanation accordingly.
+State List – Intended State of Initial Service ConnectTo Communications currently
+operates in California. Upon receipt of VoIP numbering authorization, ConnectTo intends to
+
+begin offering services in California and expand to neighboring states before scaling
+nationwide to all 50 states and U.S. territories.
+Certifications (per 47 CFR § 52.15(g)(3)(ii)):
+(iii)(B) – "The applicant certifies that it will comply with the requirements of this section and
+other applicable Commission rules and orders, including compliance with number
+utilization and optimization requirements, local number portability, and contribution to the
+Federal cost recovery mechanisms."
+(iii)(C) – "The applicant certifies that it is in compliance with the applicable service provider
+obligations under part 64, subpart BBB of this chapter (relating to the prevention of illegal
+robocalls)."
+(iii)(J) – "The applicant certifies that it is not subject to denial of Federal benefits pursuant to
+the Anti-Drug Abuse Act of 1988, 21 U.S.C. § 862."
+(iii)(K) – "The applicant certifies that it possesses the requisite technical qualifications to
+provide the proposed service and has identified technical personnel responsible for
+compliance with the Commission’s rules. Contact: Aram Ter-Martirosyan, CIO,
+aram@connectto.com"
+(iii)(L) – "The applicant certifies that it is in compliance with the requirements of § 68.18(h)
+and (i):
+• 68.18(h)(1): Applicant is not subject to revocation, suspension, or cease operations
+order.
+• 68.18(h)(2): Applicant is not subject to any unresolved enforcement action.
+• 68.18(h)(3): Applicant has not been denied numbering resources for
+misrepresentation.
+• 68.18(i): Applicant is not using numbering resources in violation of FCC rules."
+(iii)(M) – "The applicant certifies that it will file any required regulatory fees with the
+Commission, including annual and/or quarterly filings as appropriate."
+Facilities Readiness Proof (52.15(g)(3)(ii)(H)) ConnectTo Communications has existing
+interconnection agreements with AT&T and Verizon, as well as other ILECs in California.
+These agreements is already submitted as exhibits in redacted or public form to
+
+demonstrate facilities readiness and the ability to originate and terminate traffic to/from
+the PSTN.
+Proof of 911 / CALEA Compliance ConnectTo is a CLEC operating in California and has
+active agreements in place with carrier partners providing E911 routing and PSAP callback
+capabilities. Supporting documentation and agreements are already submitted as exhibits
+to original filing.
+Business Purpose Clarification ConnectTo is a CLEC only within the state of California,
+specifically operating in LATA 730. Our interconnection agreement is state-mandated,
+executed in California in 2006, and is still active and valid. There have been no
+amendments or replacements since the ICA continues to meet the necessary regulatory
+and operational requirements.
+ConnectTo is seeking Direct Access authorization to expand our VoIP service operations
+beyond the boundaries of LATA 730. We currently obtain numbering blocks through
+NANPA, but only for use within LATA 730. With Direct Access, we aim to acquire Direct
+Inward Dialing (DID) across all other U.S. states and territories. This expansion supports our
+nationwide cloud-based VoIP service strategy designed for residential and business
+customers. While ConnectTo is a CLEC, it intends to obtain numbers under Direct Access
+as an VoIP provider to support nationwide expansion of its cloud-based VoIP services
+offered over broadband. These services are designed for residential and small business
+users, utilizing IP-based infrastructure and softswitch platforms.
+Technical Personnel Contact Information
+The following technical personnel is designated for compliance and regulatory
+communications regarding numbering authorization:
+• Name: Aram Ter-Martirosyan
+• Title: Chief Information Officer
+• Company: ConnectTo Communications, Inc.
+
+• Email: aram@connectto.com
+• Phone: 818.546.4601
+Declaration for Supplemental Filing I, Aram Ter-Martirosyan, hereby declare under
+penalty of perjury that the foregoing supplemental filing and all attached exhibits are true
+and accurate to the best of my knowledge.
+Signature: _ ___
+Printed Name: Aram Ter-Martirosyan
+Title: Chief Information Officer
+Date: ___3/28/2025____________________
+List of Supplemental Exhibits (submitted to original filing):
+1. Interconnection Agreements (updated ICA, ideally post-2006) - Is up to date and
+active
+2. Commercial service agreements demonstrating routing capabilities - Is part of ICA
+and is with AT&T, Version and Frontier
+3. BDC filing confirmation or explanatory statement
+4. 911 service provider agreement and CALEA compliance documentation
+5. Declaration of Supplemental Filing

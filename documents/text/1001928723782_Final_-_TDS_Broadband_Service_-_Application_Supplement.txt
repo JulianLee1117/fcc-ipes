@@ -1,0 +1,406 @@
+Docusign Envelope ID: 1E2E5126-D043-44B4-8828-D52E8A5C747B
+September 30, 2024
+VIA ECFS AND EMAIL
+Marlene H. Dortch, Secretary
+Federal Communications Commission
+45 L Street NE
+Washington, DC 20554
+Re: Request for Confidential Treatment, Supplement to
+Application of TDS Broadband Service, LLC for Authority
+to Obtain Numbering Resources Pursuant to Section
+52.15(g) of the Commission’s Rules
+Dear Ms. Dortch:
+Pursuant to section 52.15(g) of the Commission’s rules, TDS Broadband Service, LLC
+(“TDS Broadband Service”) hereby submits the enclosed supplement to its application for
+authorization to obtain numbering resources and requests confidential treatment of Exhibits A-2
+and A-3 contained within the supplement.1 Consistent with sections 0.457 and 0.459 of the
+Commission’s rules,2 TDS Broadband Service has labeled the relevant exhibits “Confidential –
+Not for Public Inspection.”
+TDS Broadband Service respectfully requests confidential treatment for Exhibits A-2 and
+A-3, which contain evidence of TDS Broadband Service’s compliance with its 911 obligations
+under part 9 of the Commission’s rules, as well as with the provisions of the Communications
+Assistance with Law Enforcement Act, 47 U.S.C. § 1001 et seq (“CALEA”). These Exhibits contain
+commercially sensitive agreements between TDS Broadband Service and its 911 service provider,
+as well as technologically sensitive diagrams showing how TDS Broadband Service complies with
+CALEA. TDS Broadband Service therefore requests that the information in Exhibits A-2 and A-3
+be withheld from public inspection pursuant to Exemption 4 of the Freedom of Information Act
+(“FOIA”) and section 0.457 of the Commission’s rules.3
+1 This Request for Confidential Treatment is submitted in addition to the May 17 Request for
+Confidential Treatment to cover newly submitted confidential exhibits in this supplement.
+2 See 47 CFR §§ 0.457, 0.459.
+3 See 5 U.S.C. § 552(b)(4); see also 47 CFR § 0.457(d)(2).
+
+Docusign Envelope ID: 1E2E5126-D043-44B4-8828-D52E8A5C747B
+Marlene H. Dortch, Secretary
+September 30, 2024
+Page 2
+In support of this request, TDS Broadband Service provides the following information, as
+required by sections 0.457(d)(2) and 0.459(b) of the Commission’s rules.4
+1. Identification of the specific information for which confidential treatment
+is sought.
+TDS Broadband Service requests that Exhibits A-2 and A-3 be withheld from public
+disclosure under 5 U.S.C. § 552(b)(4) and 47 C.F.R. § 0.457(d)(2). These Exhibits
+contain proprietary and commercially sensitive information concerning TDS
+Broadband Service’s commercial agreement with its 911 service provider and technical
+diagrams showing how TDS Broadband Service complies with CALEA.
+2. Identification of the Commission proceeding in which the information
+was submitted or a description of the circumstances giving rise to the
+submission.
+TDS Broadband Service is submitting Exhibits A-2 and A-3 with the supplement to its
+application for numbering resources as proof that it complies with its 911 obligations
+under part 9 of the Commission’s rules, as well as with the provisions of CALEA,
+pursuant to section 52.15(g)(3)(ii)(E) of the Commission’s rules governing such
+applications.
+3. Explanation of the degree to which the information is commercial or
+financial, or contains a trade secret or is privileged
+Exhibits A-2 and A-3 contain business confidential agreements between TDS
+Broadband Service and its 911 service provider, and technical diagrams showing how
+TDS Broadband Service transmits voice traffic to the PSTN in compliance with CALEA.
+This information is subject to exemption from public disclosure under FOIA
+Exemption 4.5 The Commission has long held that, for the purposes of Exemption 4,
+“records are ‘commercial’ as long as the submitter has a commercial interest in them.”6
+4. Explanation of the degree to which the information concerns a service that
+is subject to competition
+The interconnected voice over internet protocol (VoIP) market is highly competitive.
+The commercial information at issue concerns TDS Broadband Service’s ability to
+comply with the 911 service and CALEA obligations applicable to all VoIP service
+4 See 47 CFR §§ 0.457(d)(2), 0.459.
+5 See 5 U.S.C. § 552(b)(4).
+6 Robert J. Butler, 6 FCC Rcd 5414, 5415 (1991) (citing Pub. Citizen Rsch. Grp. v. FDA, 704 F.2d
+1280, 1290 (D.C. Cir. 1983) and Am. Airlines v. Nat’l Mediation Bd., 588 F.2d 863, 868 (2d Cir.
+1978)).
+
+Docusign Envelope ID: 1E2E5126-D043-44B4-8828-D52E8A5C747B
+Marlene H. Dortch, Secretary
+September 30, 2024
+Page 3
+providers, and thus “concerns a service subject to competition.”7 As such, this
+information qualifies as sensitive internal business and commercial information
+entitled to protection under FOIA and the Commission’s rules.8
+5. Explanation of how disclosure of the information could result in
+substantial competitive harm
+Release of the confidential information contained in Exhibits A-2 and A-3 likely would
+cause competitive harm to TDS Broadband Service. As the U.S. Court of Appeals for
+the D.C. Circuit has stated, parties do not have to “‘show actual competitive harm’” to
+justify confidential treatment; rather, “‘[a]ctual competition and the likelihood of
+substantial competitive injury’ is sufficient to bring commercial information within the
+realm of confidentiality.”9 The VoIP industry is highly competitive, and TDS
+Broadband Service’s competitors could take advantage of the commercially sensitive
+agreements and technical information contained in the Exhibits.
+6. Identification of any measures taken by the submitting party to prevent
+unauthorized disclosure
+TDS Broadband Service treats the agreement and diagrams contained in Exhibits A-2
+and A-3 respectively as confidential and proprietary. It does not publicly disclose this
+information.
+7. Identification of whether the information is available to the public and the
+extent of any previous disclosure of the information to third parties
+TDS Broadband Service has not publicly disclosed the information for which it is
+seeking protection. This information is provided to TDS Broadband Service’s
+commercial partners subject to confidentiality provisions in the agreements to the
+extent necessary for TDS Broadband Service to comply with its 911 service and CALEA
+obligations.
+8. Justification of the period during which the submitting party asserts that
+material should not be available for public disclosure
+The confidential information contained in Exhibits A-2 and A-3 should never be
+released for public inspection. The information is commercially sensitive and
+7 47 CFR § 0.459(b)(4).
+8 See 5 U.S.C. § 552(b)(4), 47 CFR § 0.457(d)(2).
+9 Pub. Citizen Rsch. Grp. v. FDA, 704 F.2d 1280, 1291 (D.C. Cir. 1983) (quoting Gulf & W.
+Indus. v. United States, 615 F.2d 527, 530 (D.C. Cir. 1979)).
+
+Docusign Envelope ID: 1E2E5126-D043-44B4-8828-D52E8A5C747B
+Marlene H. Dortch, Secretary
+September 30, 2024
+Page 4
+confidential and any release would commercially disadvantage TDS Broadband
+Service.
+For the foregoing reasons, TDS Broadband Service respectfully requests that the
+Commission keep Exhibits A-2 and A-3 within the enclosed supplement confidential and withhold
+them from public inspection.
+Please direct any questions regarding this request to the undersigned.
+Respectfully submitted,
+/s/ .
+Yaron Dori
+John Cobb
+COVINGTON & BURLING LLP
+850 Tenth Street, NW
+Washington, DC 20001
+(202)662-6000
+Counsel for TDS Broadband Service
+Enclosure
+
+Docusign Envelope ID: 1E2E5126-D043-44B4-8828-D52E8A5C747B
+Before the
+FEDERAL COMMUNICATIONS COMMISSION
+Washington, D.C. 20554
+)
+In the Matter of ) WC Docket No. 24-156
+TDS Broadband Service, LLC )
+For Authority to Obtain Numbering )
+Resources Pursuant to Section 52.15(g) of )
+The Commission’s Rules )
+SUPPLEMENT TO APPLICATION OF TDS BROADBAND SERVICE, LLC
+FOR AUTHORIZATION TO OBTAIN NUMBERING RESOURCES
+TDS Broadband Service, LLC (“TDS Broadband Service”), pursuant to Section 52.15(g)(3) of
+the Commission’s rules, hereby submits this supplement to its May 16, 2024 Application for
+Authorization to Obtain Numbering Resources. On September 21, 2023, the Commission adopted a
+Second Report and Order that amended Section 52.15 to require additional certifications by applicants for
+direct access to numbering resources.1 At the time of adoption, the effective date of certain of these new
+requirements was delayed indefinitely pending review by the Office of Management and Budget
+(“OMB”) pursuant to the Paperwork Reduction Act.2 Based on guidance from Commission staff, TDS
+Broadband Service understands that the these rules were approved by OMB on April 19, 2024.3
+Accordingly, TDS Broadband Service hereby submits the following additional information required by
+the revised Section 52.15.4
+1 Numbering Policies for Modern Communications, et al., WC Docket No. 13-97 et al., Second Report
+and Order and Second Further Notice of Proposed Rulemaking, FCC 23-75 (Sept. 21, 2023).
+2 See id., at 48, ¶ 105 (delaying the effective date of 47 CFR § 52.15(g)(3)(ii)(B)-(F), (I), (K)-(L), and
+(N), and (x)(A) pending review by OMB).
+3 Numbering Policies for Modern Communications, et al., WC Docket No. 13-97 et al., 89 Fed Reg.
+64832 (Aug. 8, 2024).
+4 Based on guidance from FCC staff, TDS Broadband Service does not include here the information and
+certifications previously filed on May 16, 2024. TDS Broadband Service affirms that the information
+contained therein remains true and correct.
+
+Docusign Envelope ID: 1E2E5126-D043-44B4-8828-D52E8A5C747B
+I. ADDITIONAL INFORMATION REQUIRED BY SECTION 52.15(g)(3)(ii).
+a. § 52.15(g)(3)(ii)(C). TDS Broadband Service hereby certifies that it will not use the
+numbers obtained pursuant to an authorization under Section 52.15(g) to knowingly
+transmit, encourage, assist, or facilitate illegal robocalls, illegal spoofing, or fraud, in
+violation of robocall, spoofing, and deceptive telemarketing obligations under Sections
+64.1200, 64.1604, and 64.6300 et seq. of the Commission’s rules, and 16 CFR §
+310.3(b).
+b. § 52.15(g)(3)(ii)(D). TDS Broadband Service hereby certifies that it has fully complied
+with all applicable STIR/SHAKEN caller ID authentication and robocall mitigation
+program requirements and filed a certification in the Robocall Mitigation Database as
+required by Sections 64.6301 to 64.305 of the Commission’s rules.
+c. § 52.15(g)(3)(ii)(E). TDS Broadband Service hereby certifies that it complies with its
+911 obligations under part 9 of the Commission’s rules, as well as with the provisions of
+the Communications Assistance with Law Enforcement Act, 47 U.S.C. § 1001 et seq.
+Evidence that TDS Broadband Service has complied with these requirements is attached
+hereto as Exhibit A.
+d. § 52.15(g)(3)(ii)(F). TDS Broadband Service hereby certifies that it complies with the
+Access Stimulation rules under Section 51.914 of the Commission’s rules.
+e. § 52.15(g)(3)(ii)(I). Proof that TDS Broadband Service has filed FCC Forms 477 and
+499 is attached hereto as Exhibit B.
+f. § 52.15(g)(3)(ii)(L). Attached hereto as Exhibit C is a list containing the name, address,
+citizenship and principal businesses of all entities that directly or indirectly owns at least
+ten percent of the equity of TDS Broadband Service, and the percentage of equity owned
+by each of those entities (to the nearest one percent). Specifically, three entities hold
+equity in Telephone & Data Systems, Inc. (TDS), and thus indirectly hold an interest in
+TDS Broadband Service (no persons hold a greater than ten percent equity interest in
+
+Docusign Envelope ID: 1E2E5126-D043-44B4-8828-D52E8A5C747B
+TDS Broadband Service). TDS Broadband Service is a wholly-owned subsidiary of TDS
+Broadband LLC, which is a wholly-owned subsidiary of TDS Telecommunications LLC
+(TDS Telecom), which is wholly-owned a subsidiary of TDS. TDS Broadband Service
+does not have any interlocking directorates with any foreign carrier. TDS Broadband
+Service hereby certifies that it is not affiliated with a foreign carrier.
+g. § 52.15(g)(3)(ii)(N). A declaration prepared pursuant to Section 1.16 of the
+Commission’s rules is attached hereto as Exhibit D.
+II. ACKNOWLEDGEMENT OF CONDITIONS IN SECTION 53.15(g)(3)(x).
+As required by Section 52.15(g)(3)(x) of the Commission’s rules, TDS Broadband Service will
+maintain the accuracy of all contact information, certifications, and ownership or affiliation information
+in this application, and will notify the Commission within 30 days of any changes to the above.
+III. CONCLUSION
+Pursuant to Section 52.15(g)(3)(ii) of the Commission’s Rules, TDS Broadband Service
+respectfully requests the Commission grant this application for authorization to obtain numbering
+resources.
+Respectfully submitted,
+Jennifer R. Heise
+Manager - Regulatory Compliance
+TDS Broadband Service, LLC
+525 Junction Road
+Madison, WI 53717
+(608) 664-4148
+jennifer.heise@tdstelecom.com
+September 30, 2024
+
+Docusign Envelope ID: 1E2E5126-D043-44B4-8828-D52E8A5C747B
+Exhibit A
+Exhibit A-1: 911 Reliability Certification for 2023
+Exhibit A-2: Master Services Agreement and 911-Terms
+and Conditions with 911 Service Provider
+(Submitted Pursuant to Confidentiality Request)
+Exhibit A-3: Diagrams Showing CALEA Compliance
+(Submitted Pursuant to Confidentiality Request)
+
+Docusign Envelope ID: 1E2E5126-D043-44B4-8828-D52E8A5C747B
+Exhibit A-1: 911 Reliability Certification for 2023
+
+DDooccuuSsiiggnn EEnnvveellooppee IIDD:: 18EE2FEF5B102F60--DA054F39--4446BE43--8A8E2F8-0D-75C2E9A8AE59C0471487CB1
+Attestation by Certifying Official
+911 Reliability Certification for 2023
+Pursuant to Federal Communications Commission Rule 12.4, 47 C.F.R. § 12.4, I hereby attest
+that I am a corporate officer with supervisory and budgetary authority over network operations of
+a Covered 911 Service Provider in all relevant service areas.
+I further attest, under penalty and perjury, that covered 911 Service Provider TDS TELECOM:
+1. Has satisfied applicable certification obligations with respect to circuit diversity, backup
+power and network monitoring set forth in Federal Communications Commission Rule
+12.4(c), 47 C.F.R. § 12.4 (c).
+2. Has adequate internal controls to bring to my attention material information regarding
+network architecture, operations, and maintenance that would affect the certification.
+3. Has made me aware of all material information reasonably necessary to complete the
+certification.
+Signature
+Shane West
+Print Name
+Senior Vice President – Network Operations
+Title
+10/12/2023 | 4:31 PM CDT
+Date
+
+Docusign Envelope ID: 1E2E5126-D043-44B4-8828-D52E8A5C747B
+Exhibit A-2: Master Services Agreement and 911-Terms
+and Conditions with 911 Service Provider
+(Submitted Pursuant to Confidentiality Request)
+REDACTED FOR PUBLIC INSPECTION
+
+Docusign Envelope ID: 1E2E5126-D043-44B4-8828-D52E8A5C747B
+Exhibit A-3: Diagrams Showing CALEA Compliance
+(Submitted Pursuant to Confidentiality Request)
+REDACTED FOR PUBLIC INSPECTION
+
+Docusign Envelope ID: 1E2E5126-D043-44B4-8828-D52E8A5C747B
+Exhibit B
+Proof of Filing for FCC Forms 477 and 499
+
+Docusign Envelope ID: 1E2E5126-D043-44B4-8828-D52E8A5C747B
+(cid:15)(cid:16)(cid:17)(cid:18)(cid:19)(cid:15)(cid:15)(cid:19)(cid:20)(cid:21)(cid:9)(cid:22)(cid:23)(cid:24)(cid:25)(cid:19)(cid:26)(cid:19)(cid:23)(cid:27)
+(cid:17)(cid:29)(cid:30)(cid:31)(cid:31) (cid:30)!(cid:9)(cid:26)(cid:29)!(cid:29)(cid:31)"(cid:9)#(cid:29)(cid:31)$%& (cid:26)(cid:29)./$(cid:9)(cid:27)(cid:30)0(cid:30) (cid:18)%3(cid:29)!/
+(cid:27)’(cid:25)’(cid:9)’(cid:15)((cid:20)(cid:26)(cid:9)(cid:27)’(cid:25)(cid:23) #(cid:19)(cid:21)(cid:27)(cid:20)#(cid:9)(cid:20)+(cid:23)(cid:21)
+(cid:24)/1 /202 (cid:27)(cid:30)0(cid:30)
+(cid:0)(cid:2)(cid:3)(cid:4)(cid:5)(cid:6)(cid:6)(cid:5)(cid:7)(cid:8)(cid:9)(cid:10)(cid:11)(cid:12)(cid:13)(cid:11)(cid:5)(cid:12)(cid:14)
+(cid:24)/1 /202
+(cid:25)(cid:20)(cid:27)’)*(cid:15)(cid:9)(cid:27)’(cid:25)(cid:23) #(cid:19)(cid:21)(cid:27)(cid:20)#(cid:9)(cid:22),(cid:20)(cid:15)(cid:23)
+#(cid:19)(cid:21)(cid:27)(cid:20)#(cid:9)(cid:15)(cid:25)’(cid:25)(cid:16)(cid:15)
+(cid:20)+(cid:23)(cid:21)
+(cid:26)(cid:19),(cid:19)(cid:21)-(cid:9)(cid:15)(cid:25)’(cid:25)(cid:16)(cid:15)
+(cid:15) 3245(cid:29)60(cid:29)%(cid:31) ’8(cid:30)(cid:29)!(cid:30)3(cid:29)!(cid:29)09 (cid:15) 66%50(cid:29)(cid:31)"
+(cid:27)(cid:30)0(cid:30)
+(cid:28) (cid:28)
+7 7
+(cid:26)(cid:29)(cid:31)(cid:30)!(cid:9)(cid:27)(cid:30)0(cid:30)(cid:9)(cid:22):/4;2 (cid:22)/50(cid:29)<4(cid:30)0(cid:29)%(cid:31)
+7
+(cid:28)
+7 7
+
+Docusign Envelope ID: 1E2E5126-D043-44B4-8828-D52E8A5C747B
+(cid:0)(cid:2)(cid:3)(cid:4)(cid:5)(cid:6)(cid:7)(cid:8)(cid:9)(cid:7)(cid:10)(cid:11)(cid:12)(cid:13)(cid:14)(cid:9)(cid:14)
+(cid:15)(cid:16)(cid:14)(cid:7)(cid:17)(cid:14)(cid:3)(cid:7)(cid:17)(cid:7)(cid:9)(cid:18)(cid:12)(cid:13)(cid:14)(cid:9)(cid:14)
+(cid:0)(cid:2)(cid:8)(cid:8)(cid:10)(cid:6)(cid:9)(cid:7)(cid:11)(cid:21)
+(cid:0)(cid:19)(cid:6)(cid:16)(cid:7)(cid:5)(cid:19) (cid:0)(cid:2)(cid:3)(cid:4)(cid:5)(cid:6)(cid:7)(cid:3)(cid:19)(cid:6)(cid:4) (cid:20)(cid:10)(cid:5)(cid:14)(cid:9)(cid:7)(cid:10)(cid:11)(cid:4) (cid:13)(cid:14)(cid:9)(cid:14)
+(cid:22)
+(cid:22)
+(cid:22)
+
+Cellular & broadband PCS:
+829912
+TDS Baja Broadband LLC
+90-0945006
+TDS Baja Broadband LLC
+TDS Broadband Service LLC
+Docusign Envelope ID: 1E2E5126-D043-44B4-8828-D52E8A5C747B
+FCC Form 499-Q Telecommunications Reporting Worksheet Approval by OMB
+Quarterly Filing for Universal Service Contributors >Please read instructions before completing < 3060-0855
+Block 1: Contributor Identification Information 101 Filer 499 ID 829912
+102 Legal name of reporting entity TDS Baja Broadband LLC
+103 Filer’s IRS employer identification number 90-0945006
+104 Name telecommunications provider is doing business as TDS Baja Broadband LLC
+105 Affiliated Filers Name/Holding Company Name Check if filier has no affiliates:
+[All affiliated companies should show same name here. In most cases, the
+Affiliated Filers Name will be the holding company name.] TDS Broadband Service LLC
+105.1 Affiliated Filers Name/Holding Company Name IRS employer 90-0945006
+identification number
+106 Filer’s FCC Registration Number (FRN) 0002-5163-30
+107 Complete mailing address of reporting entity's corporate headquarters 525 Junction Rd , US
+Block 2: Contact Information
+108 Person who completed this worksheet Melanie Arp
+First MI Last
+109 Telephone number of this person ( 865 ) - 218-9367 ext
+110 Fax number of this person ( ) -
+111 Email of this person melanie.arp@tdstelecom.com
+112 Billing address and billing contact person: Sharon Tisdale
+525 Junction Rd
+[Bills for Universal Service contributions
+Madison WI 53717 0000 United States
+will be sent to this address.]
+sharon.tisdale@tdsinc.com 802 485-9741 0 608 830-5580
+Block 3: Contributor Historical and Projected Revenue Information
+113 Indicate which Filing due Historical revenues (lines 115-118) for Projected revenues (lines 119-120) for
+quarterly filing
+this represents November 1, 2023 July 1 - September 30, 2023 January 1 - March 31, 2024
+February 1, 2024 October 1 - December 31, 2023 April 1 - June 30, 2024
+May 1, 2024 January 1 – March 31, 2024 July 1 - September 30, 2024
+8
+August 1, 2024 April 1 – June 30, 2024 October 1 - December 31, 2024
+114 Check if using safe harbor to allocate interstate/intrastate revenues for each of the following (as applicable):
+Cellular & broadband PCS: Paging: Analog SMR: Interconnected VoIP: 8
+Historical billed revenues with no allowance or deductions for Total Revenues Interstate Revenues International Revenues
+uncollectibles. See Instructions. (a) (b) (c)
+115 Telecommunications provided to other universal service
+contributors for resale as telecommunications or as $807,708.00 $799,908.00 $0.00
+interconnected VoIP
+116 End-user telecommunications revenues including any
+pass-through charges for universal service contributions, $5,202,246.00 $749,041.00 $3,871.00
+but excluding international-to-international revenues
+117 All other goods and services
+$73,972,284.00 Column (b) and (c) not requested
+118 Gross-billed revenues from all sources [sum of above]
+$79,982,238.00 for Lines 117 and 118
+119 Projected gross-billed end-user interstate and international telecommunications
+revenues including any pass-through charges for universal service contributions, but $749,040.00 $3,870.00
+excluding international-to-international revenues
+120 Projected collected end-user interstate and international telecommunications
+revenues including any pass-through charges for universal service contributions, but $744,200.00 $3,800.00
+excluding international-to-international revenues
+Block 4: CERTIFICATION: to be signed by an officer of the reporting entity
+121 I certify that the revenue data contained herein are privileged and confidential and that public disclosure of such information
+8
+would likely cause substantial harm to the competitive position of the company. I request nondisclosure of the revenue
+information contained herein pursuant to sections 0.459, 52.17, 54.711 and 64.604 of the Commission's Rules.
+I certify that I am an officer of the above-named reporting entity, that I have examined the foregoing report and to the best of my knowledge,
+information and belief, all statements of fact contained in this Worksheet are true, that said Worksheet is an accurate statement of the affairs of
+the above-named company for the quarter and that the projections of gross-billed and collected revenues represent a good-faith estimate
+based on company procedures and policies.
+122 Signature
+123 Printed name of officer Sharon Tisdale
+First MI Last
+124 Position with reporting entity Assistant Treasurer
+125 Email of officer (Required if available) sharon.tisdale@tdsinc.com
+126 Date 7/31/2024
+8
+127 This filing is: Original filing Revised filing [revisions due within 45 days of original filing deadline]
+Do not mail checks with this form. File this form online https://forms.universalservice.org/portal/login For additional information regarding this worksheet contact:
+Telecommunications Reporting Worksheet Info: (888)641-8722 or via email: Form499@usac.org
+PERSONS WILLFULLY MAKING FALSE STATEMENTS IN THE WORKSHEET CAN BE PUNISHED BY FINE OR IMPRISONMENT UNDER TITLE 18 OF THE UNITED STATES CODE, 18 U.S.C. §1001
+http://forms.universalservice.org
+Save time, avoid problems -- file electronically at FCC Form 499-Q/2024
+
+Docusign Envelope ID: 1E2E5126-D043-44B4-8828-D52E8A5C747B
+Exhibit C
+Entities Holding Greater than Ten Percent Equity
+
+Docusign Envelope ID: 1E2E5126-D043-44B4-8828-D52E8A5C747B
+Name Address Citizenship Principal Percentage of
+Business Equity Owned1
+BlackRock, Inc. 55 East 52nd Street DE Financial 15.7%
+New York, NY 10022 Services
+TDS Voting Trust c/o LeRoy T. Carlson, Jr. DE n/a 12%
+Telephone and Data
+Systems, Inc.
+30 N. LaSalle St.
+Suite 4000
+Chicago, IL 60602
+The Vanguard 100 Vanguard Blvd. PA Financial 10.8%
+Group Malvern, PA 19355 Services
+1 Ownership data drawn from the TDS Notice of the 2024 Annual Meeting of Shareholders and
+Proxy Statement filed with the U.S. Securities and Exchange Commission. See Telephone and
+Data Systems, Inc., 2024 Annual Meeting of Shareholders and Proxy Statement, April 19, 2024,
+pp. 70-71, available at https://www.tdsinc.com/investor-relations/financials/sec-
+filings/default.aspx.
+
+Docusign Envelope ID: 1E2E5126-D043-44B4-8828-D52E8A5C747B
+Exhibit D
+Officer’s Declaration
+
+Docusign Envelope ID: 1E2E5126-D043-44B4-8828-D52E8A5C747B

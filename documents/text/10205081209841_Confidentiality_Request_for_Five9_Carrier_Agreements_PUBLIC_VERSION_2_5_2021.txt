@@ -1,0 +1,103 @@
+51 LOUISIANA AVENUE, N.W. • WASHINGTON, D.C. 20001.2113
+TELEPHONE: +1.202.879.3939 • FACSIMILE: +1.202.626.1700
+Direct Number: (202) 879-3630
+bolcott@jonesday.com
+February 5, 2021
+REDACTED PUBLIC VERSION
+BY ELECTRONIC DELIVERY
+Marlene H. Dortch, Secretary
+Federal Communications Commission
+445 12th Street S.W.
+Washington D.C. 20554
+Re: Supplement to Application of Five9, Inc. for
+Authorization to Obtain Numbering Resources
+WC Docket No. 20-____
+Dear Ms. Dortch:
+Five9, Inc. (“Five9”), by its counsel and pursuant to Sections 0.457 and 0.459 of the
+Commission’s Rules, 47 C.F.R. §§ 0.457, 0.459, hereby requests that the attached contracts
+included in Exhibits A and B be treated as confidential and withheld from public inspection.
+Five9 is filing with the Commission the attached Application for Authorization to Obtain
+Numbering Resources. As required by Section 52.15(g)(3)(i)(D) of the Commission’s rules and
+paragraph 37 of the Commission’s Order addressing the provision of numbering resources to
+interconnected VoIP providers, Five9’s application includes copies of agreements between Five9
+and its carrier partners.1 The Commission’s Order on numbering resources acknowledged that
+applicants for numbering resources may need to file these materials on a confidential basis,2 which
+is what Five9 is requesting. In support of this request for confidential treatment, and in accordance
+with the requirements of Section 0.459(b) of the Commission’s rules, 47 C.F.R. § 0.459(b), Five9
+herein provides the following information:
+0.459(b)(1) Identification of the specific information for which confidential treatment is
+sought. Five9 seek confidential treatment for its attached agreement with Teliax, Inc. and
+1 See Numbering Policies for Modern Communications et al., Report and Order, 30 FCC Rcd.
+6839, ¶ 37 (2015).
+2 See id., ¶ 38 n.130.
+ALKHOBAR • AMSTERDAM • ATLANTA • BEIJING • BOSTON • BRUSSELS • CHICAGO • CLEVELAND • COLUMBUS • DALLAS
+DUBAI • DÜSSELDORF • FRANKFURT • HONG KONG • HOUSTON • IRVINE • JEDDAH • LONDON • LOS ANGELES • MADRID
+MEXICO CITY • MIAMI • MILAN • MOSCOW • MUNICH • NEW YORK • PARIS • PERTH • PITTSBURGH • RIYADH • SAN DIEGO
+SAN FRANCISCO • SÃO PAULO • SHANGHAI • SILICON VALLEY • SINGAPORE • SYDNEY • TAIPEI • TOKYO • WASHINGTON
+
+PUBLIC VERSION
+Marlene H. Dortch
+February 5, 2021
+Page 2
+Bandwidth Inc., both addressing the provision of carrier services to support Five9’s
+interconnected VoIP services, hereinafter referred to together as the “Carrier Agreements.”
+0.459(b)(2) Identification of the Commission proceeding in which the information was
+submitted or a description of the circumstances giving rise to the submission. Five9 is
+filing the Carrier Agreements in support of its Application for Authorization to Obtain
+Numbering Resources. The submission of the Carrier Agreements is required by Section
+52.15(g)(3)(i)(D) of the Commission’s rules and paragraph 37 of the Commission’s Order
+addressing the provision of numbering resources to interconnected VoIP providers.3
+0.459(b)(3) Explanation of the degree to which the information is commercial or
+financial, or contains a trade secret or is privileged. The Carrier Agreements include
+commercial, technical and financial information regarding the contractual arrangements
+between Five9 and its carrier partners and therefore qualify as information that should be
+protected from disclosure under the Freedom of Information Act (“FOIA”) as “commercial or
+financial information obtained from a person and privileged or confidential.” 5 U.S.C. §
+552(b)(4).
+0.459(b)(4) Explanation of the degree to which the information concerns a service that
+is subject to competition. The market for telecommunications services is highly competitive
+with numerous carriers providing transport services and competition also existing in the
+market for local exchange services. As a result, the individual terms of the Carrier Agreements
+are subject to significant negotiation between the parties.
+0.459(b)(5) Explanation of how disclosure of the information could result in substantial
+competitive harm. Five9’s carrier partners are subject to significant competition in the
+telecommunications industry. The prices and terms for the provision of such services are a
+substantial differentiator between competing carriers. Therefore, disclosure of the Carrier
+Agreements would result in significant competitive harm to Five9’s carrier partners.
+0.459(b)(6) Identification of any measures taken by the submitting party to prevent
+unauthorized disclosure. Five9 understands that each of its carrier partners maintain
+extensive procedures to protect the confidential nature of their commercial agreements. For
+example, Five9 is prohibited by contract from publicly disclosing the Carrier Agreements,
+except as expressly authorized by the carriers. Further, Five9 is required by its carrier partners
+3 See id., ¶ 37
+
+PUBLIC VERSION
+Marlene H. Dortch
+February 5, 2021
+Page 3
+to require the implementation of a non-disclosure agreement or, as in the present case, to
+request confidential treatment for the Carrier Agreements.
+0.459(b)(7) Identification of whether the information is available to the public and the
+extent of any previous disclosure of the information to third parties. Five9 does not
+believe that the Carrier Agreements, or their substance, is available to the public or that the
+Carrier Agreements have ever been disclosed to third parties absent the protection of a non-
+disclosure agreement regarding their contents.
+0.459(b)(8) Justification of the period during which the submitting party asserts that
+material should not be available for public disclosure. Five9 requests that the Carrier
+Agreements be withheld from public disclosure indefinitely. Five9 and its carrier partners
+intend for the Carrier Agreements to remain in effect indefinitely and therefore any disclosure
+of the Carrier Agreements or their substance would cause competitive harm to Five9’s carrier
+partners regardless of the timing of the disclosure.
+For the foregoing reasons, Five9 respectfully request that the Carrier Agreements be
+granted confidential status and withheld from public inspection. If confidential treatment is not
+granted for the attached Carrier Agreements, Five9 request that all copies of the Carrier
+Agreements be returned to Five9.
+Please contact the undersigned if you have any questions about this matter.
+Sincerely,
+Bruce A. Olcott
+
+EXHIBIT A
+[REDACTED]
+
+EXHIBIT B
+[REDACTED]

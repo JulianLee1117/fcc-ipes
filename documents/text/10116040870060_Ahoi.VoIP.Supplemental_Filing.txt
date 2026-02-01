@@ -1,0 +1,276 @@
+F D LLP
+OSTER ANOWSKY
+904 West Ave, Ste. 107
+Jason A. Danowsky Austin, Texas 78701 Writer’s Email:
+Attorney at Law (512) 708-8700 jdanowsky@fosterdanowsky.com
+Fax (512) 697-0058
+www.fosterdanowsky.com
+January 16, 2025
+VIA ECFS
+Ms. Marlene Dortch
+Secretary
+Federal Communications Commission
+445 12th Street SW
+Washington, DC 20554
+RE: Docket 25-12
+Supplement to Application
+Request for Confidential Treatment to Application of Ahoi Telecom, Inc. for
+Authorization to Obtain Numbering Resources Pursuant to Section 52.15(g) of the
+Commission’s Rules
+Dear Ms. Dortch,
+Please see the attached supplement to the above-referenced Application. If you
+should have any questions or concerns, please feel free to contact me at your convenience.
+Respectfully submitted,
+By: _________________________
+FosterDanowsky
+Jason Danowsky
+Texas Bar No. 24092318
+jdanowsky@fosterdanowsky.com
+904 West Ave., Ste. 107
+Austin, TX 78701
+(512) 708-8700
+(512) 697-0058/fax
+
+Certifications
+Ahoi LLC (“Ahoi) hereby certifies as follows:
+Robocall Mitigation and STIR/SHAKEN
+Ahoi has fully complied with all applicable STIR/SHAKEN caller ID authentication and
+robocall mitigation program requirements and filed a certification in the Robocall Mitigation
+Database as required by §§ 64.6301 to 64.6305. The Company will provide the necessary “KYC”
+documentation for their customers as required by STI-GA Authorities. In addition, Ahoi will pass
+the STIR/SHAKEN certificate, without modification, to each carrier with which it exchanges call
+traffic. A copy of the filed Robocall Mitigation Database documentation is attached to this
+Certification as Attachment A.
+Robocall Mitigation and Blocking
+Ahoi is committed to providing full support for its customers concerning Robocall
+Mitigation and call Blocking where appropriate. The Company certifies that it will not use the
+numbers obtained pursuant to an authorization to knowingly transmit, encourage, assist, or
+facilitate illegal robocalls, illegal spoofing, or fraud, in violation of robocall, spoofing, and
+deceptive telemarketing obligations under §§ 64.1200, 64.1604, and 64.6300 et seq. of this chapter,
+and 16 CFR 310.3(b).
+Contribution Obligations
+Ahoi hereby certifies that it will comply with its: Universal Service Fund contribution
+obligations under 47 CFR part 54, subpart H; Telecommunications Relay Service contribution
+obligations under 47 CFR § 64.604(c)(5)(iii); North American Numbering Plan and Local Number
+Portability Administration contribution obligations under 47 CFR §§ 52.17 and 52.32; obligations
+to pay regulatory fees under 47 CFR §1.1154; and 911 obligations under 47 CFR part 9. Ahoi’s
+FRN and 499 filer ID are included in Attachment B.
+Access Stimulation
+Ahoi hereby certifies that it complies with the Access Stimulation rules under § 51.914.
+911 and 988
+
+Ahoi hereby certifies that it complies with its 911 and 988 obligations under part 9 of the
+relevant chapter. The Company also complies with the provisions of the Communications
+Assistance with Law Enforcement Act, 47 U.S.C. 1001 et seq. (CALEA).
+Foreign Ownership
+Ahoi is not affiliated with, a foreign carrier nor has any interlocking directorates with a
+foreign carrier. Brian Ford, a citizen of the United States, is the only individual that beneficially
+owns greater than 33.3 percent (33.3%) of the equity of Ahoi.
+Accuracy of Information
+As required by Section 52.15(g)(3)(iv), Verification Technologies will maintain the
+accuracy of all contact information and certifications in this application and will file a correction
+with the Commission and each applicable state within 30 days of any changes. Verification
+Technologies will also furnish accurate regulatory and numbering contact information to each state
+commission when requesting numbers in that state.
+Brian Ford
+President, Ahoi LLC
+
+Attachment A
+Robocall Mitigation Database Documentation
+
+Attachments
+ Download PDF
+Ahoi llc
+Robocall Mitigation Database
+Number
+RMD0019588
+Provider Details
+*FCC Registration Number (FRN)
+0034766931
+*Business Name
+Ahoi llc
+Business Address
+8 The Green,
+STE A
+Dover DE 19901
+*Foreign Voice Service Provider
+No
+*Principals, Affiliates, Subsidiaries, and Parent Companies
+Brian Ford
+*Other FRNs (enter 'None' if you have none)
+None
+*Other DBA Name(s) (enter 'None' if you have none)
+None
+
+*Previous Business Names (enter 'None' if you have none)
+None
+*Robocall Mitigation Contact Name
+Brian Ford
+*Contact Title
+President
+*Contact Department
+Operations
+Contact Business Address
+8 The Green,
+STE A
+Dover DE 19901
+*Contact Telephone Number
+7202522343
+Contact Phone Extension
+*Contact Email
+brian@ahoi.org
+Additional Information
+Voice Service Provider Role in the Call Chain
+Voice Service Provider with a STIR/SHAKEN obligation acting as a wholesale provider originatin…
+The filing entity has, at any time in the prior two years, been the subject of a formal
+Commission, law enforcement, or regulatory agency action or investigation with
+accompanying findings of actual or suspected wrongdoing due to the filing entity transmitting,
+encouraging, assisting, or otherwise facilitating illegal robocalls or spoofing, or a deficient
+Robocall Mitigation Database certification or mitigation program description.
+No
+*OCN
+
+883K
+Voice Service Provider Certification
+Option 1: Complete STIR/SHAKEN Implementation. The filer certifies that all of the calls
+that it originates on its network are subject to a robocall mitigation program consistent
+with 47 CFR § 64.6305(a), which shall include reasonable steps to avoid originating illegal
+robocall traffic and shall include a commitment to respond fully and within 24 hours to all
+traceback requests from the Commission, law enforcement, and the industry traceback
+consortium, and to cooperate with such entities in investigating and stopping any illegal
+robocallers that use its service to originate calls. The filer also certifies that any prior
+certification has not been removed by Commission action and it has not been prohibited
+from filing in the Robocall Mitigation Database by the Commission, and that it has fully
+implemented the STIR/SHAKEN authentication framework across its entire network and
+all calls it originates are compliant with 47 CFR § 64.6301(a)(1) and (2).
+Option 2: Partial STIR/SHAKEN Implementation. The filer certifies that all of the calls that it
+originates on its network are subject to a robocall mitigation program consistent with 47
+CFR § 64.6305(a), which shall include reasonable steps to avoid originating illegal robocall
+traffic and shall include a commitment to respond fully and within 24 hours to all
+traceback requests from the Commission, law enforcement, and the industry traceback
+consortium, and to cooperate with such entities in investigating and stopping any illegal
+robocallers that use its service to originate calls. The filer also certifies that any prior
+certification has not been removed by Commission action and it has not been prohibited
+from filing in the Robocall Mitigation Database by the Commission, and that it has
+implemented the STIR/SHAKEN authentication framework on a portion of its network and
+all calls it originates on that portion of its network are compliant with 47 CFR § 64.6301(a)
+(1) and (2).
+Option 3: No STIR/SHAKEN Implementation. The filer certifies that all of the calls that it
+originates on its network are subject to a robocall mitigation program consistent with 47
+CFR § 64.6305(a), which shall include reasonable steps to avoid originating illegal robocall
+traffic and shall include a commitment to respond fully and within 24 hours to all
+traceback requests from the Commission, law enforcement, and the industry traceback
+consortium, and to cooperate with such entities in investigating and stopping any illegal
+robocallers that use its service to originate calls. The filer also certifies that any prior
+certification has not been removed by Commission action and it has not been prohibited
+from filing in the Robocall Mitigation Database by the Commission, and that it has not
+implemented the STIR/SHAKEN authentication framework on any portion of its network.
+Uploads
+Declarations
+*I declare (or certify, verify, or state) under penalty of perjury under the laws of the
+United States of America that the foregoing is true and correct. Executed on 3/19/2024.
+Declaration Date
+
+2024-03-19
+*Officer e-Signature
+Brian Ford
+
+Attachment B
+FRN and 499 filer ID
+
+Close Window
+Registration Detail
+FRN: 0034766931
+Registration Date: 01/17/2024 02:33:23 PM
+Last Updated:
+Entity Name:Ahoi llc
+Entity Type: Private Sector , Limited Liability Corporation
+Contact Organization: Ahoi llc
+Contact Position: Presidsent/CEO
+Contact Name: Mr Brian Ford
+8 The Green,
+STE A
+Contact Address:
+Dover, DE 19901
+United States
+Contact Email: brian@ahoi.org
+ContactPhone: (720) 252-2343
+ContactFax:
+
+Search | RSS | News | E-Filing | Initiatives | Consumers | Find People
+FCC Form 499 Filer Database Detailed Information
+FCC > CGB Home > FCC Form 499 Filer Database > FCC Form 499 Filer Database Detailed Information
+FCC Form 499 Filer Database
+DETAILED INFORMATION
+Form 499 Filer 836607 RSS Feed
+Filer Identification Information:
+499 Filer ID Number: 836607
+Registration Current as of: 4/1/2024
+Legal Name of Reporting Entity: Ahoi llc
+Doing Business As: Ahoi
+Principal Communications Type: Interconnected VoIP
+Universal Service Fund Contributor: No
+(Contact USAC at 888-641-8722 if this is not correct.)
+Holding Company:
+Registration Number (CORESID): 0034766931
+Management Company:
+Headquarters Address: 8 The Green STE A
+City: Dover
+State: DE
+ZIP Code: 19901
+Customer Inquiries Address: 5803 W Maplewood Dr.
+City: Littleton
+State: CO
+ZIP Code: 80123
+Customer Inquiries Telephone: 720-252-2343
+Other Trade Names: Ahoi, ahoi, ahoi llc,
+Agent for Service of Process:
+Local/Alternate Agent for Service
+of Process:
+Telephone:
+Extension:
+Fax:
+E-mail:
+Business Address of Agent for
+Mail or Hand Service of Documents:
+City:
+State:
+ZIP Code:
+D.C. Agent for Service of Process: Brian Ford
+Ahoi LLC
+Telephone: 720-252-2343
+Extension:
+Fax:
+E-Mail: brian@ahoi.org
+Business Address of D.C. Agent for
+Mail or Hand Service of Documents: 1717 N Street NW
+STE 1
+City: Washington
+State: DC
+ZIP Code: 20036
+FCC Registration Information:
+Chief Executive Officer: Brian Ford
+Business Address: 5803 W Maplewood Dr.
+City: Littleton
+State: CO
+ZIP Code: 80123
+Chairman or Other Senior Officer:
+Business Address:
+City:
+State:
+ZIP Code:
+President or Other Senior Officer:
+Business Address:
+City:
+State:
+ZIP Code:
+Jurisdictions in Which the Filing Entity Provides Telecommunications Services:
+Colorado
+Use browser "Back" button to return to results page.
+Return to Search Form
+This database reflects filings received by USAC as of Dec. 23, 2024 FCC Form 499 Filer Database Software Version 01.03.06 July 21, 2011
+FCC Home | Search | RSS | News | E-Filing | Initiatives | Consumers | Find People
+Federal Communications Commission Phone: 1-888-CALL-FCC (1-888-225-5322) - Privacy Policy
+45 L Street NE TTY: 1-888-TELL-FCC (1-888-835-5322) - Website Policies & Notices
+Washington, DC 20554 Fax: 1-866-418-0232 - Required Browser Plug-ins
+More FCC Contact Information... - Freedom of Information Act

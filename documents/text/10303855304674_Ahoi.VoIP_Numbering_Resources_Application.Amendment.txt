@@ -1,0 +1,152 @@
+Before the
+FEDERAL COMMUNICATIONS COMMISSION
+Washington, D.C. 20554
+In the Matter Ahoi LLC ) WC Docket No. 25-12
+For Authorization to Obtain Numbering )
+Resources Pursuant to Section 52.15(g) of )
+The Commission's Rules )
+AMENDMENT TO APPLICATION OF AHOI LLC
+FOR AUTHORIZATION TO OBTAIN NUMBERING RESOURCES
+Ahoi LLC, pursuant to Section 52.15(g)(3) of the Commission’s Rules, respectfully
+requests authorization to obtain numbering as described below. This Amendment to the
+Application incorporates and replaces the original Application and Supplemental Filing, and
+further supplements those prior filings. This Amendment does not replace the previously-filed
+Exhibits.
+Under the Commission's Numbering Order,1 an interconnected VoIP provider may obtain
+numbering resources from the Numbering Administrator upon a showing that it is authorized to
+provide service in the area for which the numbering resources are requested. Such authorization
+may be obtained upon an application to the Commission containing the information detailed in
+Section 52.15 (g)(3) of the Commission’s Rules. Ahoi hereby requests the Commission grant it
+that authorization. In support of this application, Ahoi provides the following information:
+I. INFORMATION REQUIRED BY SECTION 52.15(g)(3)(i)
+§ 52.15(g)(3)(ii)(A)
+Name: Ahoi LLC
+Address: 8 The Green Ste. A
+Dover, Delaware 19901
+Telephone: 1-888-900-2464
+Contact for Regulatory Requirements, Compliance, 911 and Law Enforcement:
+Name: Brian Ford
+Address: 8 The Green Ste. A
+Dover, Delaware 19901
+Telephone: 1-888-900-2464
+Fax: N/A
+Email: legal@ahoi.net
+1 Numbering Policies for Modern Communications, FCC 15-70 (rel. June 22, 2015).
+1
+
+§ 52.15(g)(3)(ii)(B)
+Ahoi hereby acknowledges that authorization to obtain numbering resources under Section
+52.15(g) of the Commission's Rules is subject to compliance with applicable Commission
+numbering rules as well as to the numbering authority delegated to the states. The Company hereby
+also acknowledges that this authorization is subject to compliance with industry guidelines and
+practices regarding numbering, as applicable to telecommunications carriers. Ahoi intends to offer
+services upon approval in California, Colorado, New York, and Florida, but seeks authority to
+access numbering resources throughout the United States.
+§ 52.15(g)(3)(ii)(C)
+Ahoi is committed to providing full support for its customers concerning Robocall
+Mitigation and Call Blocking where appropriate. The Company certifies that it will not use
+the numbers obtained pursuant to an authorization to knowingly transmit, encourage,
+assist, or facilitate illegal robocalls, illegal spoofing, or fraud, in violation of robocall,
+spoofing, and deceptive telemarketing obligations under §§ 64.1200, 64.1604, and 64.6300 et
+seq., and 16 CFR 310.3(b).
+§ 52.15(g)(3)(ii)(D)
+Ahoi has fully complied with all applicable STIR/SHAKEN caller ID authentication and
+robocall mitigation program requirements and filed a certification in the Robocall Mitigation
+Database as required by §§ 64.6301 to 64.6305. The Company will provide the necessary “KYC”
+documentation for their customers as required by STI-GA Authorities. In addition, Ahoi will pass
+the STIR/SHAKEN certificate, without modification, to each carrier with which it exchanges call
+traffic. A copy of the filed Robocall Mitigation Database documentation was submitted as
+Exhibit E.
+§ 52.15(g)(3)(ii)(E)
+Ahoi hereby certifies that it complies with its 911 and 988 obligations under part 9 of the
+relevant chapter. The Company also complies with the provisions of the Communications
+Assistance with Law Enforcement Act, 47 U.S.C. 1001 et seq.
+§52.15(g)(3)(ii)(F)
+Ahoi hereby certifies that it complies with the Access Stimulation rules under § 51.914.
+§52.15(g)(3)(ii)(G)
+Ahoi acknowledges that it must file requests for numbers with the relevant state
+commission(s) at least 30 days before requesting numbers from the Numbering Administrators.
+Further, Ahoi will provide accurate regulatory and numbering contact information to each state
+commission when requesting numbers in that state per § 52.15(g)(3)(x)(D). Additionally, Ahoi
+will comply with the applicable Commission numbering rules in this part, numbering authority
+delegated to the states; and industry guidelines and practices regarding numbering as applicable to
+telecommunications carriers per § 52.15(g)(3)(x)(B).
+2
+
+§ 52.15(g)(3)(ii)(H)
+Ahoi hereby sets forth its capability to provide service within 60 days of the numbering
+resources activation date. Ahoi is a recently-established interconnected VoIP providing messaging
+and network services for businesses located in the United States. The Company was founded by
+experienced telecommunications professionals and has an agreement in place with Peerless
+Network, Inc. Peerless will provide PSTN Control Service to the Customer to originate and
+terminate traffic to and from the Public Switched Telephone Network. The agreement
+demonstrating the access to this platform and capability is attached to this application
+as Confidential Exhibit A. Evidence of Peerless’ ability to connect to the PSTN was submitted as
+Exhibit B.
+Additionally, Ahoi has an agreement in place with Lincoln Communications Group, LLC
+to provide E911 services; this was submitted as Confidential Exhibit C.
+§ 52.15(g)(3)(ii)(I)
+Ahoi has made its biannual filing in the Broadband Data Collection System. See
+attached Exhibit G.
+§ 52.15(g)(3)(ii)(J)
+Ahoi hereby certifies that it will comply with its: Universal Service Fund
+contribution obligations under 47 CFR part 54, subpart H; Telecommunications Relay Service
+contribution obligations under 47 CFR § 64.604(c)(5)(iii); North American Numbering Plan and
+Local Number Portability Administration contribution obligations under 47 CFR §§ 52.17 and
+52.32; obligations to pay regulatory fees under 47 CFR §1.1154; and 911 obligations under 47
+CFR part 9. Ahoi’s FRN and 499 filer ID were submitted as Exhibit F.
+§ 52.15(g)(3)(ii)(K)
+The Company certifies that it has the financial, managerial, and technical expertise
+to provide reliable service. It is financially stable, led by a strong, experienced management
+team with substantial managerial experience in the telecommunications industry, and has
+sufficient technical expertise and infrastructure in place to provide reliable numbering services.
+Ahoi’s key management and technical personnel are identified in attached Exhibit D. None of
+the identified personnel are being or have been investigated by the Commission or any law
+enforcement or regulatory agency for failure to comply with any law, rule, or order, including
+the Commission's rules applicable to unlawful robocalls or unlawful spoofing.
+3
+
+§52.15(g)(3)(ii)(L)
+Ahoi hereby certifies the following with regards to Brian Ford:
+Ownership Interest in Ahoi: 100%
+Title President
+Address 5803 W Maplewood Dr. Littleton, CO. 80123
+Email address: brian@ahoi.net
+Phone: 720-252-2343
+Citizenship: USA
+Principle Business: Telecommunications
+Ahoi’s ownership diagram is as follows:
+Brian Ford
+Ahoi LLC
+Ahoi further certifies that Ahoi has no interlocking directorates with a foreign carrier. Ahoi
+certifies that it is not affiliated with any foreign carrier. There are no equity interests held indirectly
+in the carrier.
+§52.15(g)(3)(ii)(M)
+Ahoi hereby certifies that no party to this application is subject to a denial of Federal
+benefits pursuant to Section 5301 of the Anti-Drug Abuse Act of 1988,21 U.S.C. § 862.
+II. ACKNOWLEDGEMENT OF CONDITIONS IN SECTION 52.15(g)(3)(iv)
+As required by Section 52.15(g)(3)(x)(A), Ahoi will maintain the accuracy of all contact
+information, certification, and affiliate information in this application and will file a correction
+with the Commission and each applicable state within 30 days of any changes. Ahoi will also
+furnish accurate regulatory and numbering contact information to each state commission when
+requesting numbers in that state.
+4
+
+III. CONCLUSION
+Pursuant to Section 52.15(g)(3) of the Commission’s Rules, Ahoi Telecom, Inc.
+respectfully requests the Commission grant this application for authorization to obtain numbering
+resources.
+Respectfully submitted,
+By: _________________________
+FosterDanowsky
+Jason Danowsky
+Texas Bar No. 24092318
+jdanowsky@fosterdanowsky.com
+904 West Ave., Ste. 107
+Austin, TX 78701
+(512) 708-8700
+(512) 697-0058/fax
+5
+
+Exhibit G
+Evidence of Broadband Data Collection System Filing

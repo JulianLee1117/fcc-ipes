@@ -1,0 +1,102 @@
+Serlice Ordcr for U.S. llonrcstic Local nnd Long l)istitttr:e Scrvice
+X5 OpCo. LLC
+Pursuant to the temrs and conditions ol'Custonrcr''s Master Selvicc Agrccntent ("N4SA") rvith Inteliqucnt
+and this Scrvice Order, Custoniel lrcreby subscribes to lnteliqucnt's tJ.S. [)orrrestic l.ocal and [-ong
+Distance Servicc (the "'Service").
+L Dcfinition of "LLD,Scrlicc 'l'ral'fic":
+i-t-D Scrvice'l'raffic mcans (a) tral'lic that originates in a local L'xcllarlqc iuld tcnnilliltcs irt cithcr the satttc
+cxchangc'or another calling arc.a associltcrl rlith thc originating clchan{e. us gcncntllr dcllrrcd and
+specified in the general subscriber service taril'l'ol'the applicable lncrrnilrr'nt Local [schange Carrier
+("t-ocal 'fraf1ic") and (b) all otJrcl tral'llc. rlhctlrcr inrt'rLA'l-A. inlcrlVl'l'A or intrir[-A'l A toll tral'llc ("[-ong
+'l'raffic").
+Distancc
+[.[.D Scrvicc-fraffic that is.iurisdictionnllv indctcrnrinate due lo lack oi'sigrraling inlonnation rvill be
+'l'rallic.
+trcalcd as Long Distancc
+2. Te rnrination of Originatinq l,[,D Scn ice Traffic to Certain Carricrs:
+- Custonrcr rvill deiiver to Can'icr originating LI-D Service Tral'llc lor tcrrninutiurr to Nl)A-NXXs that (i)
+arc locatcd in the 50 states in tlrc l.Jnitcd Statcs r;r the District o1'Colurnbiu untl that (2) conlirnn to the
+Noltlr Anrelican Numbering l)lan. Clarlicr rvilrdelivcr tltese calls lil'tenuirtirtion Lrv tlte terttrinating
+'foll
+scrvicr- providr.r'nehvork. NPn 0XX, N I I ancl Free calls ale excludcd lionr tcrrtrination undcr'lltis
+Scrvice Orde'r.
+- Cr-rstonrcr acknorvledges lhat thc Selvicc is onlv intended to ternrinatc tral'llc ricstincd to the pernritted
+NI'A-NXX's described abnvc. arrd that il'Custorncr routL's other calls to Carricr. llrosc calls ri ill tlil to
+corn plr'lc.
+- If'a dialed nuniber has been portcd. it irill havc an [-RN. 'l-he NI)r\-r'vXX ol'thr"'LItN u'ill b!'Ireated as
+the terntinatin-s NPA-NXX lbl all llurposcs under .'ris Servicc Order.
+l. Facilities: lntercortncctitnl poirlts lbr tlre Service are currcntlv uvailublc using l'DN''l l.nrnkins. ll)
+'l'nrnking (Dedicated Elhemct Conncction via Sl[) intertace). orVirtual ll)-l'runking (public Intemet
+accc'ss). Custonrer sclects lhc lbllorr,irrg rnctho(l and *'ill pay the associatcd chirrgcs:
+Declicated Ethernet IP Tlunkinri (lustomr'r Provided (lustonrct' [)rovided
+Corrcurrent Session Fec -
+llRC
+I t,ublic ll) Access (\\raivcd)
+}IRC
+Customer ProVicled Custorrrer l)rovided
+'Cttstont.-r is responsible lbr otrtainins, ancl paving lbr the transporl lacilil)'lo intcrcorirrcct rvith Carrier
+(c.g.. liorn Customer's srvilch to Carricr's srvitch or Can'icr designatcd l)oint ol'lrrtclconncct). Carrier has
+rro rcsponsibility for any scrvicc problerns rclatcd to the above Custornr:r providccl transport lacilily, LLD
+Scrvicc''fraf fic must be sent ovcr trunk gloups separate fionr tralllc associaled rvitlr any olher service
+Custorncr purchascs lronr Carricr'.
+Ternrination arrtl Other Clrargcs:
+Confidential
+I
+
+- The minutes of use charges for the Service will be set forth on a pricing sheet provided to Customer. The
+pricing will be based on whether the taflic is long Distance Traffic or Local Traffic and the NPA-NXX to
+which the call is terminating. The pricing attachment will include a rate for any NPA-NXX not listed on the
+rate sheet.
+- Customer will pay these charges pursuant to the terms of the MSA.
+- Charges are billed in six-second initial and six-second additional increments (6/6).
+- Carrier will periodically send Customer rate updates via electronic transmission of an Excel spreadsheet.
+- Price changes applicable to existing NPA-N)'Xs are effective upon seven days written notice; price
+decreases may be effective on less than seven days notice ifa shorter notice period is stated in the notice.
+Price updates rvill be sent to: x5ratechanges@x5solutions.com. Customer will provide notice to Canier of
+any changes to this email address.
+- When nerv NPA-N)O(s are delivered to Customer, pricing associated with these new NPA-NXXs is
+effective immediately.
+- Customer's termination of taffic to the authorized NPA-NXXS, including any updates thereto, conftrms
+Customer's acceptance ofany new or revised rates and routing codes.
+- If Customer chooses not to acc€pt any revised or new rates or routing codes, Customer agrees not to send
+traffic terminating to the aflected NPA-NXXs.
+5. Sbort Duration Cslls:
+- ff2Ao/o or more of Customer's cornpleted calls are equal to or less than 6 seconds in length (each a "Shorl
+Duration Call'), or if more than25o/o of Customer's total call attempts do not complete during any given
+month per trunk group during any billing cycle (the "lncomplete Call Threshold"), then Canier may bill
+and Customer will pay Canier a $0.015 surcharge for (i) for each Short Duration Call or (ii) each
+incomplete call. This surcharge will be in addition to Customer's per minute usage rates described above.
+Additionally, Carrier may terminate Customer's use of the Service and disconnect all relevant Connections
+on 30 days prior written notice.
+- Carrier may in its sole discretion temporarily block duplicate or rcpeated numbers dialed in succession or
+abnormally short duration calls where Carrier considers the number of attempts to be potentially harmful to
+the network. Carrier shall have no liability for damages of any type to Customer for actions taken under this
+clause to protect the integnty of its network, "
+- If Carrier needs to exercises this right, where r.racticable, Carrier will attempt to inform Customer of its
+intention to apply such conrols, however the Canier reserves ttre right to apply such measures without
+advance notice should immediate action be required to prot€ct the integrity of its network.
+- Customer will not route auto-dialer traffic under this Service Order. For purposes of this Service Order,
+auto-dialer traffic means machine generated calls associated with outbound call center sales/solicitation
+campaigns.
+6.
+Cause Code - Reroutins:
+- Canier will use commercially reasonable efforts';o send to Customer a cause code "503" (for customen
+interfacing with Carrier via SIP) or cause code "34" (for customers interfacing TDM) for calls that cannot
+be completed so that the call can be re-routed accordingly.
+- Customer represents and wa:rants it is able to receive and process a cause code from Carrier.
+7,
+Additionsl Terms and Conditions:
+- Custom€r will provide Carier with a forecast of minutes expected in the first full month following service
+activafion with Carrier
+- Carrier and Customer mutually agfee to tum down under-utilized tunks. After a 3 month ramp period
+commencing when interconnection has been completed by Carrier, if taffrc volumes are below 500,000
+MOUVmonth, Carrier reserves the right to request disconnection of all facilities, which will be conducted
+over a reasonable timefiame.
+[Signatures on Next Page]
+Confidentisl
+2
+
+Inteliquent, Inc. acceptance signature:
+This offer expires 30 days lront the datc listed on the Pricing Attachmcnt.
+Confidential
+3

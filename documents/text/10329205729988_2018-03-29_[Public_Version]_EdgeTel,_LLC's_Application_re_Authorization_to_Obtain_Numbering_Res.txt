@@ -1,0 +1,1044 @@
+PUBLIC VERSION
+Joseph P. Bowser | Member
+joseph.bowser@innovistalaw.com
+RICHMOND: 804.729.0051
+WASHINGTON: 202.869.1501
+March 29, 2018
+VIA ECFS & FIRST-CLASS MAIL
+Marlene H. Dortch
+Office of the Secretary
+Federal Communications Commission
+445 12th Street SW
+Washington, D.C. 20554
+Re: Request for Confidential Treatment of Filing of EdgeTel, LLC; Application
+of EdgeTel, LLC for Authorization to Obtain Numbering Resources, WC
+Docket No. 18-__
+Dear Ms. Dortch:
+Pursuant to Section 52.15(g)(3)(i) of the Commission’s Rules, EdgeTel, LLC (“EdgeTel”),
+hereby submits its application requesting authorization to obtain numbering resources.
+This filing includes confidential information. As contemplated by the Commission’s rules, we
+are filing the public version electronically and the confidential version via first-class mail.
+EdgeTel respectfully requests that, pursuant to Sections 0.457 and 0.459 of the Commission’s
+rules, 47 C.F.R. §§ 0.457 and 0.459, the Commission withhold from public inspection and grant
+confidential treatment to Exhibit A, a document that contains sensitive trade secrets and
+commercial information that falls within Exemption 4 of the Freedom of Information Act
+(“FOIA”).1 EdgeTel is voluntarily providing this information, “of a kind that would customarily
+not be released to the public”; therefore, this information is “confidential” under FOIA.2
+Moreover, EdgeTel would suffer substantial competitive harm if this information were
+disclosed.3 As such, Exhibit A is marked with the header “SUBJECT TO REQUEST FOR
+CONFIDENTIAL TREATMENT – NOT FOR PUBLIC INSPECTION.”
+In support of this request and pursuant to Section 0.459(b) of the Commission’s rules,4 EdgeTel
+hereby states as follows:
+1 5 U.S.C. § 552(b)(4).
+2 Critical Mass Energy Project v. NRC, 975 F.2d 871, 879 (D.C. Cir. 1992).
+3 See Nat’l Parks & Conservation Ass’n v. Morton, 498 F.2d 765 (D.C. Cir. 1974).
+4 47 C.F.R. § 0.459(b).
+115 E. Broad Street | Richmond, VA 23219 | TEL: 804.729.0050
+1825 K Street, NW | Suite 508 | Washington, DC 20006 | TEL: 202.869.1500 | FAX: 202.869.1503
+
+PUBLIC VERSION
+March 29, 2018
+Page 2 of 3
+1. IDENTIFICATION OF THE SPECIFIC INFORMATION FOR WHICH
+CONFIDENTIAL TREATMENT IS SOUGHT.5
+EdgeTel seeks confidential treatment of Exhibit A to the enclosed application.
+2. DESCRIPTION OF CIRCUMSTANCES GIVING RISE TO THE SUBMISSION.6
+As proof of EdgeTel’s facilities readiness as required by Section 52.15(b)(3)(i)(D) of the
+Commission’s rules, EdgeTel is submitting the agreement between it and its carrier partner as
+Exhibit A.
+3. EXPLANATION OF THE DEGREE TO WHICH THE INFORMATION IS
+COMMERCIAL OR FINANCIAL, OR CONTAINS A TRADE SECRET OR IS
+PRIVILEGED.7
+The information for which EdgeTel seeks confidential treatment contains sensitive commercial
+information which would customarily be guarded from competitors.8 Exhibit A describes the
+agreement between EdgeTel and its carrier partner and contains proprietary commercial
+information concerning the operations and pricing of EdgeTel’s carrier partner and EdgeTel’s
+network, services, and operating costs and expenses.
+4. EXPLANATION OF THE DEGREE TO WHICH THE INFORMATION CONCERNS
+A SERVICE THAT IS SUBJECT TO COMPETITION.9
+Exhibit A contains information relating to commercial matters that could be used by competitors
+to EdgeTel’s disadvantage. EdgeTel has numerous competitors in the Voice over Internet
+Protocol (“VoIP”) services sector in which it operates. Detailed operations and commercial
+information of the type provided by EdgeTel could compromise EdgeTel’s position in this highly
+competitive industry. Release would therefore result in substantial competitive harm to EdgeTel.
+5. EXPLANATION OF HOW DISCLOSURE OF THE INFORMATION COULD
+RESULT IN SUBSTANTIAL COMPETITIVE HARM.10
+Competitors could use EdgeTel’s proprietary commercial and operational information to
+EdgeTel’s detriment as they would gain access to sensitive information about how EdgeTel
+provides services as well as about EdgeTel’s commercial agreements with others in the market
+that are not normally disclosed to the public.
+5 47 C.F.R. § 0.459(b)(1).
+6 47 C.F.R. § 0.459(b)(2).
+7 47 C.F.R. § 0.459(b)(3).
+8 47 C.F.R. §§ 0.457(d) and 0.459.
+9 47 C.F.R. § 0.459(b)(4).
+10 47 C.F.R. § 0.459(b)(5).
+
+PUBLIC VERSION
+March 29, 2018
+Page 3 of 3
+6. IDENTIFICATION OF ANY MEASURES TAKEN BY THE SUBMITTING PARTY
+TO PREVENT UNAUTHORIZED DISCLOSURE.11
+EdgeTel has not distributed the information in Exhibit A to the public.
+7. IDENTIFICATION OF WHETHER THE INFORMATION IS AVAILABLE TO THE
+PUBLIC AND THE EXTENT OF ANY PREVIOUS DISCLOSURE OF THE
+INFORMATION TO THIRD PARTIES.12
+EdgeTel has not previously disclosed the information in Exhibit A to the public or to third
+parties.
+8. JUSTIFICATION OF THE PERIOD DURING WHICH THE SUBMITTING PARTY
+ASSERTS THAT MATERIAL SHOULD NOT BE AVAILABLE FOR PUBLIC
+DISCLOSURE.13
+EdgeTel requests that Exhibit A be treated as confidential for a period of ten years. This period
+is necessary due to the proprietary nature of the information in Exhibit A.
+9. OTHER INFORMATION THAT EDGETEL BELIEVES MAY BE USEFUL IN
+ASSESSING WHETHER ITS REQUEST FOR CONFIDENTIALITY SHOULD BE
+GRANTED.14
+The information concerns EdgeTel’s proprietary network information, related to current and
+planned commercial and operational information, and, as such, is commercially sensitive.
+Any questions you may have regarding this filing should be directed to my attention at
+(804) 729-0051 or via email to joseph.bowser@innovistalaw.com. Thank you for your
+assistance in this matter.
+Sincerely,
+Joseph P. Bowser
+115 E. Broad Street
+Richmond, VA 23219
+(804) 729-0051
+(202) 750-3503 (fax)
+joseph.bowser@innovistalaw.com
+Counsel to EdgeTel
+11 47 C.F.R. § 0.459(b)(6).
+12 47 C.F.R. § 0.459(b)(7).
+13 47 C.F.R. § 0.459(b)(8).
+14 47 C.F.R. § 0.459(b)(9).
+
+PUBLIC VERSION
+Before the
+Federal Communications Commission
+Washington, D.C. 20554
+In the Matter of )
+)
+EdgeTel, LLC ) WC Docket No. 18-____
+)
+For Authorization to Obtain Numbering )
+Resources Pursuant to Section 52.15(g) of )
+The Commission’s Rules )
+APPLICATION OF EDGETEL, LLC FOR AUTHORIZATION TO
+OBTAIN NUMBERING RESOURCES
+EdgeTel, LLC (“EdgeTel”), pursuant to Section 52.15(g)(3)(i) of the Commission’s
+Rules, respectfully requests authorization to obtain numbering resources as described below.
+As set forth in the Commission’s Numbering Order,1 an interconnected VoIP provider
+may obtain numbering resources from the Numbering Administrator upon a showing that it is
+authorized to provide service in the area for which the numbering resources are requested. Such
+authorization may be obtained upon an application to the Commission containing the information
+detailed in Sections 52.15(g)(3)(i)(A)-(F) of the Commission’s Rules. EdgeTel, a VoIP provider,
+hereby requests the Commission grant it that authorization. In support of this application,
+EdgeTel provides the following information.
+1 Numbering Policies for Modern Communications et al., Report and Order, 30 FCC Rcd.
+6839 (2015).
+
+PUBLIC VERSION
+I. INFORMATION REQUIRED BY SECTION 52.15(g)(3)(i)
+(A) § 52.15(g)(3)(i)(A)
+Name: EdgeTel, LLC
+Address: 1501 35th Avenue West
+Spencer, Iowa 51301
+Telephone: (855) 617-2530
+Qualified Personnel: Kellie Beneke, President
+John Hass, Chief Technology Officer
+Stevin Dahl, Business Development Manager
+Contact for Regulatory Requirements, Compliance, 911, and Law Enforcement:
+Name: Kellie Beneke, President
+Address: 1501 35th Avenue West
+Spencer, Iowa 51301
+Telephone: (712) 584-2025
+Email: kellie@edgetelecom.com
+(B) § 52.15(g)(3)(i)(B)
+EdgeTel hereby acknowledges that authorization to obtain numbering resources under
+Section 52.15(g) of the Commission’s Rules is subject to compliance with applicable
+Commission numbering rules as well as to the numbering authority delegated to the states.
+EdgeTel hereby also acknowledges that this authorization is subject to compliance with industry
+guidelines and practices regarding numbering, as applicable to telecommunications carriers.
+(C) § 52.15(g)(3)(i)(C)
+EdgeTel hereby acknowledges that is must file requests for numbers with the relevant
+state commission(s) at least 30 days before requesting numbers from the Numbering
+Administrators.
+
+PUBLIC VERSION
+(D) § 52.15(g)(3)(i)(D)
+EdgeTel hereby sets forth its capability to provide service within 60 days of the
+numbering resources activation date.
+EdgeTel intends to initially provide VoIP services in the District of Columbia, Maryland,
+Massachusetts, New Jersey, New York, Pennsylvania, Rhode Island, and Virginia through its
+own facilities and those of its CLEC partner with which it has arrangements in place for routing
+traffic to the PSTN. Under its current agreements and established procedures, EdgeTel will be
+able to place nearly all numbers into service within a short timeframe, and all numbers will be
+placed into service within 60 days of activation. As further proof of its facilities readiness,
+EdgeTel has attached to this application, as Exhibit A, a confidential agreement between
+EdgeTel and its carrier partner providing that the carrier partner will provide switching and
+transport services for traffic associated with EdgeTel’s numbers and, in that connection, provide
+connectivity to the PSTN for inbound calls to and outbound calls from EdgeTel numbers.
+(EdgeTel has requested confidential treatment under the Commission’s rules for Exhibit A.)
+Also attached, as Exhibit B, is evidence of interconnection agreements between EdgeTel’s
+carrier partner and incumbent local exchange carriers in the District of Columbia, Maryland,
+Massachusetts, New Jersey, New York, Pennsylvania, Rhode Island, and Virginia.
+(E) § 52.15(g)(3)(i)(E)
+EdgeTel hereby certifies that it complies with its Universal Service Fund contribution
+obligations under 47 CFR part 54, subpart H; its Telecommunications Relay Service contribution
+obligations under 47 CFR § 64.604(c)(5)(iii); its North American Numbering Plan and Local
+Number Portability Administration contribution obligations under 47 CFR §§ 52.17 and 52.32;
+
+PUBLIC VERSION
+its obligations to pay regulatory fees under 47 CFR § 1.1154; and its 911 obligations under 47
+CFR part 9.
+(F) § 52.15(g)(3)(i)(F)
+EdgeTel hereby certifies that it has the financial, managerial, and technical expertise to
+provide reliable service. It is financially stable, led by a strong, experienced management team
+with substantial managerial experience in the telecommunications industry, and has sufficient
+technical expertise and infrastructure in place to provide reliable numbering and related VoIP
+services.
+EdgeTel has the superior technical qualifications necessary to provide and maintain
+successful operations within its service area. EdgeTel has the capabilities to efficiently port and
+place numbers into service and successfully route calls. Additionally, EdgeTel’s management
+team’s lengthy experience with number porting enables it, along with its carrier partners, to
+create routing arrangements that seamlessly deliver calls to numbers directly assigned to
+EdgeTel.
+Furthermore, EdgeTel’s personnel have extensive business and network management
+experience in telecommunications-related businesses and in serving its targeted customer
+segment, including telecommunications carriers, IP service providers, enterprises and residential
+customers of IP, communications and information services. These individuals lead a team that is
+highly qualified to manage the operations of EdgeTel throughout its service area. EdgeTel’s key
+management and technical personnel are listed below. None of the identified personnel is being
+or has been investigated by the Commission or any law enforcement or regulatory agency for
+failure to comply with any law, rule, or order.
+
+PUBLIC VERSION
+Key Personnel:2 Kellie Beneke, President
+John Hass, Chief Technology Officer
+Stevin Dahl, Business Development Manager
+(G) § 52.15(g)(3)(i)(G)
+EdgeTel hereby certifies that no party to this application is subject to a denial of Federal
+benefits pursuant to Section 5301 of the Anti-Drug Abuse Act of 1988, 21 U.S.C. § 862.
+II. ACKNOWLEDGEMENT OF CONDITIONS IN SECTION 52.15(g)(3)(iv)
+As required by Section 52.15(g)(3)(iv), EdgeTel will maintain the accuracy of all contact
+information and certifications in this application, and will file a correction with the Commission
+and each applicable state within 30 days of any changes. EdgeTel will also furnish accurate
+regulatory and numbering contact information to each state commission when requesting
+numbers in that state.
+III. CONCLUSION
+Pursuant to Section 52.15(g)(3)(i) of the Commission’s Rules, EdgeTel respectfully
+requests the Commission grant this application for authorization to obtain numbering resources.
+Respectfully submitted,
+___________________________
+Joseph P. Bowser
+115 East Broad Street
+Richmond, Virginia 23219
+(804) 729-0051
+(202) 869-1503 (fax)
+joseph.bowser@innovistalaw.com
+Counsel to EdgeTel
+2 Attached hereto, as Exhibit C, are the names, titles, biographies, and contact information
+of EdgeTel’s key management and technical personnel.
+
+PUBLIC VERSION
+EXHIBIT A
+CONFIDENTIAL MATERIALS OMITTED
+AGREEMENT BETWEEN EDGETEL, LLC, AND CARRIER PARTNER
+SUBJECT TO REQUEST FOR CONFIDENTIAL TREATMENT –
+NOT FOR PUBLIC INSPECTION
+
+PUBLIC VERSION
+EXHIBIT B
+CARRIER PARTNER-LOCAL EXCHANGE CARRIER AGREEMENTS IN
+DC, MD, MA, NJ, NY, PA, RI, AND VA
+
+PUBLIC VERSION
+AGREEMENT
+by and between
+WIDE VOICE, LLC
+and
+VERIZON WASHINGTON, DC INC.
+FOR THE DISTRICT OF COLUMBIA
+Wide Voice Comprehensive Ver3.4b-1-DC.doc
+
+PUBLIC VERSION
+AGREEMENT
+PREFACE
+This Agreement (“Agreement”) shall be deemed effective as of September 1, 2015 (the “Effective
+Date”), between Wide Voice, LLC (“Wide Voice”), a limited liability company organized under the
+laws of the State of Nevada, with offices at 410 South Rampart, Suite 390, Las Vegas, NV 89145
+and Verizon Washington, DC Inc. (“Verizon”), a corporation organized under the laws of the State
+of New York with offices at 1300 I Street, N.W., Suite 400 West, Washington, DC 20005 (Verizon
+and Wide Voice may be referred to hereinafter, each, individually as a “Party”, and, collectively,
+as the “Parties”).
+GENERAL TERMS AND CONDITIONS
+In consideration of the mutual promises contained in this Agreement, and intending to be legally
+bound, pursuant to Section 252 of the Act, Verizon and Wide Voice hereby agree as follows:
+1. The Agreement
+1.1 This Agreement includes: (a) the Principal Document; (b) the Tariffs of each
+Party applicable to the Services that are offered for sale by it in the Principal
+Document (which Tariffs are incorporated into and made a part of this Agreement
+by reference); and, (c) an Order by a Party that has been accepted by the other
+Party.
+1.2 Except as otherwise expressly provided in the Principal Document (including, but
+not limited to, the Pricing Attachment), conflicts among provisions in the Principal
+Document, Tariffs, and an Order by a Party that has been accepted by the other
+Party, shall be resolved in accordance with the following order of precedence,
+where the document identified in subsection “(a)” shall have the highest
+precedence: (a) the Principal Document; (b) the Tariffs; and, (c) an Order by a
+Party that has been accepted by the other Party. The fact that a provision
+appears in the Principal Document but not in a Tariff, or in a Tariff but not in the
+Principal Document, shall not be interpreted as, or deemed grounds for finding, a
+conflict for the purposes of this Section 1.2.
+1.3 This Agreement constitutes the entire agreement between the Parties on the
+subject matter hereof, and supersedes any prior or contemporaneous
+agreement, understanding, or representation, on the subject matter hereof,
+provided, however, notwithstanding any other provision of this Agreement or
+otherwise, this Agreement is an amendment, extension and restatement of the
+Parties’ prior interconnection and resale agreement(s), if any, and, as such, this
+Agreement is not intended to be, nor shall it be construed to create, a novation or
+accord and satisfaction with respect to any prior interconnection or resale
+agreements and, accordingly, all monetary obligations of the Parties to one
+another under any prior interconnection or resale agreements shall remain in full
+force and effect and shall constitute monetary obligations of the Parties under
+this Agreement (provided, however, that nothing contained in this Agreement
+shall convert any claim or debt that would otherwise constitute a prepetition claim
+or debt in a bankruptcy case into a postpetition claim or debt). In connection with
+the foregoing, Verizon expressly reserves all of its rights under the Bankruptcy
+Code and Applicable Law to seek or oppose any relief in respect of the
+assumption, assumption and assignment, or rejection of any interconnection or
+resale agreements between Verizon and Wide Voice.
+Wide Voice Comprehensive Ver3.4b-1-DC.doc 1
+
+PUBLIC VERSION
+1.4 Except as otherwise provided in the Principal Document, the Principal Document
+may not be waived or modified except by a written document that is signed by
+the Parties. Subject to the requirements of Applicable Law, a Party shall have
+the right to add, modify, or withdraw, its Tariff(s) at any time, without the consent
+of, or notice to, the other Party.
+2. Term and Termination
+2.1 This Agreement shall be effective as of the Effective Date and, unless cancelled
+or terminated earlier in accordance with the terms hereof, shall continue in effect
+until August 31, 2017 (the “Initial Term”). Thereafter, this Agreement shall
+continue in force and effect unless and until cancelled or terminated as provided
+in this Agreement.
+2.2 Either Wide Voice or Verizon may terminate this Agreement effective upon the
+expiration of the Initial Term or effective upon any date after expiration of the
+Initial Term by providing written notice of termination at least ninety (90) days in
+advance of the date of termination.
+2.3 If Wide Voice or Verizon provides notice of termination pursuant to Section 2.2
+and on or before the proposed date of termination either Wide Voice or Verizon
+has requested negotiation of a new interconnection agreement, unless this
+Agreement is cancelled or terminated earlier in accordance with the terms hereof
+(including, but not limited to, pursuant to Section 12), this Agreement shall
+remain in effect until the earlier of: (a) the effective date of a new interconnection
+agreement between Wide Voice and Verizon; or, (b) the date one (1) year after
+the proposed date of termination.
+2.4 If Wide Voice or Verizon provides notice of termination pursuant to Section 2.2,
+and by 11:59 PM Eastern Time on the proposed date of termination neither Wide
+Voice nor Verizon has requested negotiation of a new interconnection agreement
+(or, in accordance with Subsection 2.3(b), if no new agreement is reached by the
+date one (1) year after the proposed date of termination), then (a) this Agreement
+will terminate at 11:59 PM Eastern Time on the proposed date of termination (or
+in the case of termination in accordance with Subsection 2.3(b), at 11:59 PM
+Eastern Time on the date one (1) year after the proposed date of termination),
+and (b) the Services being provided under this Agreement at the time of
+termination will be terminated, except to the extent that the Purchasing Party has
+requested that such Services continue to be provided pursuant to an applicable
+Tariff or Statement of Generally Available Terms (SGAT).
+3. Glossary and Attachments
+The Glossary and the following Attachments are a part of this Agreement:
+Additional Services Attachment
+Interconnection Attachment
+Resale Attachment
+Network Elements Attachment
+Collocation Attachment
+911 Attachment
+Pricing Attachment
+4. Applicable Law
+Wide Voice Comprehensive Ver3.4b-1-DC.doc 2
+
+PUBLIC VERSION
+
+PUBLIC VERSION
+AGREEMENT
+by and between
+WIDE VOICE, LLC
+and
+VERIZON MARYLAND LLC
+FOR THE STATE OF
+MARYLAND
+Wide Voice2 Comprehensive Ver3.4b-1-MD.doc
+
+PUBLIC VERSION
+AGREEMENT
+PREFACE
+This Agreement (“Agreement”) shall be deemed effective as of March 2, 2015 (the “Effective
+Date”), between Wide Voice, LLC (“Wide Voice”), a limited liability company organized under the
+laws of the State of Nevada, with offices at 410 South Rampart, Suite 390, Las Vegas, NV 89145
+and Verizon Maryland LLC (“Verizon”), a limited liability company organized under the laws of the
+State of Delaware with offices at 1 East Pratt Street, Baltimore, MD 21202 (Verizon and Wide
+Voice may be referred to hereinafter, each, individually as a “Party”, and, collectively, as the
+“Parties”).
+GENERAL TERMS AND CONDITIONS
+In consideration of the mutual promises contained in this Agreement, and intending to be legally
+bound, pursuant to Section 252 of the Act, Verizon and Wide Voice hereby agree as follows:
+1. The Agreement
+1.1 This Agreement includes: (a) the Principal Document; (b) the Tariffs of each
+Party applicable to the Services that are offered for sale by it in the Principal
+Document (which Tariffs are incorporated into and made a part of this Agreement
+by reference); and, (c) an Order by a Party that has been accepted by the other
+Party.
+1.2 Except as otherwise expressly provided in the Principal Document (including, but
+not limited to, the Pricing Attachment), conflicts among provisions in the Principal
+Document, Tariffs, and an Order by a Party that has been accepted by the other
+Party, shall be resolved in accordance with the following order of precedence,
+where the document identified in subsection “(a)” shall have the highest
+precedence: (a) the Principal Document; (b) the Tariffs; and, (c) an Order by a
+Party that has been accepted by the other Party. The fact that a provision
+appears in the Principal Document but not in a Tariff, or in a Tariff but not in the
+Principal Document, shall not be interpreted as, or deemed grounds for finding, a
+conflict for the purposes of this Section 1.2.
+1.3 This Agreement constitutes the entire agreement between the Parties on the
+subject matter hereof, and supersedes any prior or contemporaneous
+agreement, understanding, or representation, on the subject matter hereof,
+provided, however, notwithstanding any other provision of this Agreement or
+otherwise, this Agreement is an amendment, extension and restatement of the
+Parties’ prior interconnection and resale agreement(s), if any, and, as such, this
+Agreement is not intended to be, nor shall it be construed to create, a novation or
+accord and satisfaction with respect to any prior interconnection or resale
+agreements and, accordingly, all monetary obligations of the Parties to one
+another under any prior interconnection or resale agreements shall remain in full
+force and effect and shall constitute monetary obligations of the Parties under
+this Agreement (provided, however, that nothing contained in this Agreement
+shall convert any claim or debt that would otherwise constitute a prepetition claim
+or debt in a bankruptcy case into a postpetition claim or debt). In connection with
+the foregoing, Verizon expressly reserves all of its rights under the Bankruptcy
+Code and Applicable Law to seek or oppose any relief in respect of the
+assumption, assumption and assignment, or rejection of any interconnection or
+resale agreements between Verizon and Wide Voice.
+Wide Voice2 Comprehensive Ver3.4b-1-MD.doc 1
+
+PUBLIC VERSION
+1.4 Except as otherwise provided in the Principal Document, the Principal Document
+may not be waived or modified except by a written document that is signed by
+the Parties. Subject to the requirements of Applicable Law, a Party shall have
+the right to add, modify, or withdraw, its Tariff(s) at any time, without the consent
+of, or notice to, the other Party.
+2. Term and Termination
+2.1 This Agreement shall be effective as of the Effective Date and, unless cancelled
+or terminated earlier in accordance with the terms hereof, shall continue in effect
+until March 1, 2017 (the “Initial Term”). Thereafter, this Agreement shall continue
+in force and effect unless and until cancelled or terminated as provided in this
+Agreement.
+2.2 Either Wide Voice or Verizon may terminate this Agreement effective upon the
+expiration of the Initial Term or effective upon any date after expiration of the
+Initial Term by providing written notice of termination at least ninety (90) days in
+advance of the date of termination.
+2.3 If Wide Voice or Verizon provides notice of termination pursuant to Section 2.2
+and on or before the proposed date of termination either Wide Voice or Verizon
+has requested negotiation of a new interconnection agreement, unless this
+Agreement is cancelled or terminated earlier in accordance with the terms hereof
+(including, but not limited to, pursuant to Section 12), this Agreement shall
+remain in effect until the earlier of: (a) the effective date of a new interconnection
+agreement between Wide Voice and Verizon; or, (b) the date one (1) year after
+the proposed date of termination.
+2.4 If Wide Voice or Verizon provides notice of termination pursuant to Section 2.2,
+and by 11:59 PM Eastern Time on the proposed date of termination neither Wide
+Voice nor Verizon has requested negotiation of a new interconnection agreement
+(or, in accordance with Subsection 2.3(b), if no new agreement is reached by the
+date one (1) year after the proposed date of termination), then (a) this Agreement
+will terminate at 11:59 PM Eastern Time on the proposed date of termination (or
+in the case of termination in accordance with Subsection 2.3(b), at 11:59 PM
+Eastern Time on the date one (1) year after the proposed date of termination),
+and (b) the Services being provided under this Agreement at the time of
+termination will be terminated, except to the extent that the Purchasing Party has
+requested that such Services continue to be provided pursuant to an applicable
+Tariff or Statement of Generally Available Terms (SGAT).
+3. Glossary and Attachments
+The Glossary and the following Attachments are a part of this Agreement:
+Additional Services Attachment
+Interconnection Attachment
+Resale Attachment
+Network Elements Attachment
+Collocation Attachment
+911 Attachment
+Pricing Attachment
+4. Applicable Law
+Wide Voice2 Comprehensive Ver3.4b-1-MD.doc 2
+
+PUBLIC VERSION
+
+PUBLIC VERSION
+AGREEMENT
+by and between
+WIDE VOICE, LLC
+and
+VERIZON NEW ENGLAND INC., D/B/A VERIZON MASSACHUSETTS
+FOR THE COMMONWEALTH OF
+MASSACHUSETTS
+Wide Voice Comprehensive Ver 3.4b-1-MA.doc
+
+PUBLIC VERSION
+AGREEMENT(cid:2)
+PREFACE
+This Agreement (“Agreement”) shall be deemed effective as of November 1, 2013 (the “Effective
+Date”), between Wide Voice, LLC (“Wide Voice”), a limited liability company organized under the
+laws of the State of Nevada, with offices at 410 South Rampart, Suite 390, Las Vegas, NV 89145
+and Verizon New England Inc., d/b/a Verizon Massachusetts (“Verizon”), a corporation organized
+under the laws of the State of New York with offices at 185 Franklin Street, Boston, MA 02110
+(Verizon and Wide Voice may be referred to hereinafter, each, individually as a “Party”, and,
+collectively, as the “Parties”).
+GENERAL TERMS AND CONDITIONS
+In consideration of the mutual promises contained in this Agreement, and intending to be legally
+bound, pursuant to Section 252 of the Act, Verizon and Wide Voice hereby agree as follows:
+1. The Agreement
+1.1 This Agreement includes: (a) the Principal Document; (b) the Tariffs of each
+Party applicable to the Services that are offered for sale by it in the Principal
+Document (which Tariffs are incorporated into and made a part of this Agreement
+by reference); and, (c) an Order by a Party that has been accepted by the other
+Party.
+1.2 Except as otherwise expressly provided in the Principal Document (including, but
+not limited to, the Pricing Attachment), conflicts among provisions in the Principal
+Document, Tariffs, and an Order by a Party that has been accepted by the other
+Party, shall be resolved in accordance with the following order of precedence,
+where the document identified in subsection “(a)” shall have the highest
+precedence: (a) the Principal Document; (b) the Tariffs; and, (c) an Order by a
+Party that has been accepted by the other Party. The fact that a provision
+appears in the Principal Document but not in a Tariff, or in a Tariff but not in the
+Principal Document, shall not be interpreted as, or deemed grounds for finding, a
+conflict for the purposes of this Section 1.2.
+1.3 This Agreement constitutes the entire agreement between the Parties on the
+subject matter hereof, and supersedes any prior or contemporaneous
+agreement, understanding, or representation, on the subject matter hereof,
+provided, however, notwithstanding any other provision of this Agreement or
+otherwise, this Agreement is an amendment, extension and restatement of the
+Parties’ prior interconnection and resale agreement(s), if any, and, as such, this
+Agreement is not intended to be, nor shall it be construed to create, a novation or
+accord and satisfaction with respect to any prior interconnection or resale
+agreements and, accordingly, all monetary obligations of the Parties to one
+another under any prior interconnection or resale agreements shall remain in full
+force and effect and shall constitute monetary obligations of the Parties under
+this Agreement (provided, however, that nothing contained in this Agreement
+shall convert any claim or debt that would otherwise constitute a prepetition claim
+or debt in a bankruptcy case into a postpetition claim or debt). In connection with
+the foregoing, Verizon expressly reserves all of its rights under the Bankruptcy
+Code and Applicable Law to seek or oppose any relief in respect of the
+assumption, assumption and assignment, or rejection of any interconnection or
+resale agreements between Verizon and Wide Voice.
+Wide Voice Comprehensive Ver 3.4b-1-MA.doc 1
+
+PUBLIC VERSION
+1.4 Except as otherwise provided in the Principal Document, the Principal Document
+may not be waived or modified except by a written document that is signed by
+the Parties. Subject to the requirements of Applicable Law, a Party shall have
+the right to add, modify, or withdraw, its Tariff(s) at any time, without the consent
+of, or notice to, the other Party.
+2. Term and Termination
+2.1 This Agreement shall be effective as of the Effective Date and, unless cancelled
+or terminated earlier in accordance with the terms hereof, shall continue in effect
+until October 31, 2015 (the “Initial Term”). Thereafter, this Agreement shall
+continue in force and effect unless and until cancelled or terminated as provided
+in this Agreement.
+2.2 Either Wide Voice or Verizon may terminate this Agreement effective upon the
+expiration of the Initial Term or effective upon any date after expiration of the
+Initial Term by providing written notice of termination at least ninety (90) days in
+advance of the date of termination.
+2.3 If Wide Voice or Verizon provides notice of termination pursuant to Section 2.2
+and on or before the proposed date of termination either Wide Voice or Verizon
+has requested negotiation of a new interconnection agreement, unless this
+Agreement is cancelled or terminated earlier in accordance with the terms hereof
+(including, but not limited to, pursuant to Section 12), this Agreement shall
+remain in effect until the earlier of: (a) the effective date of a new interconnection
+agreement between Wide Voice and Verizon; or, (b) the date one (1) year after
+the proposed date of termination.
+2.4 If Wide Voice or Verizon provides notice of termination pursuant to Section 2.2,
+and by 11:59 PM Eastern Time on the proposed date of termination neither Wide
+Voice nor Verizon has requested negotiation of a new interconnection agreement
+(or, in accordance with Subsection 2.3(b), if no new agreement is reached by the
+date one (1) year after the proposed date of termination), then (a) this Agreement
+will terminate at 11:59 PM Eastern Time on the proposed date of termination (or
+in the case of termination in accordance with Subsection 2.3(b), at 11:59 PM
+Eastern Time on the date one (1) year after the proposed date of termination),
+and (b) the Services being provided under this Agreement at the time of
+termination will be terminated, except to the extent that the Purchasing Party has
+requested that such Services continue to be provided pursuant to an applicable
+Tariff or Statement of Generally Available Terms (SGAT).
+3. Glossary and Attachments
+The Glossary and the following Attachments are a part of this Agreement:
+Additional Services Attachment
+Interconnection Attachment
+Resale Attachment
+Network Elements Attachment
+Collocation Attachment
+911 Attachment
+Pricing Attachment
+4. Applicable Law
+Wide Voice Comprehensive Ver 3.4b-1-MA.doc 2
+
+PUBLIC VERSION
+
+PUBLIC VERSION
+AGREEMENT
+by and between
+WIDE VOICE, LLC
+and
+VERIZON NEW JERSEY INC.
+FOR THE STATE OF
+NEW JERSEY
+Wide Voice Comprehensive Ver3.4b-1-NJ.doc
+
+PUBLIC VERSION
+AGREEMENT
+PREFACE
+This Agreement (“Agreement”) shall be deemed effective as of May 27, 2014 (the “Effective
+Date”), between Wide Voice, LLC (“Wide Voice”), a limited liability company organized under the
+laws of the State of Nevada, with offices at 410 South Rampart, Suite 390, Las Vegas, NV 89145
+and Verizon New Jersey Inc. (“Verizon”), a corporation organized under the laws of the State of
+New Jersey with offices at 540 Broad Street, Newark, NJ 07102 (Verizon and Wide Voice may
+be referred to hereinafter, each, individually as a “Party”, and, collectively, as the “Parties”).
+GENERAL TERMS AND CONDITIONS
+In consideration of the mutual promises contained in this Agreement, and intending to be legally
+bound, pursuant to Section 252 of the Act, Verizon and Wide Voice hereby agree as follows:
+1. The Agreement
+1.1 This Agreement includes: (a) the Principal Document; (b) the Tariffs of each
+Party applicable to the Services that are offered for sale by it in the Principal
+Document (which Tariffs are incorporated into and made a part of this Agreement
+by reference); and, (c) an Order by a Party that has been accepted by the other
+Party.
+1.2 Except as otherwise expressly provided in the Principal Document (including, but
+not limited to, the Pricing Attachment), conflicts among provisions in the Principal
+Document, Tariffs, and an Order by a Party that has been accepted by the other
+Party, shall be resolved in accordance with the following order of precedence,
+where the document identified in subsection “(a)” shall have the highest
+precedence: (a) the Principal Document; (b) the Tariffs; and, (c) an Order by a
+Party that has been accepted by the other Party. The fact that a provision
+appears in the Principal Document but not in a Tariff, or in a Tariff but not in the
+Principal Document, shall not be interpreted as, or deemed grounds for finding, a
+conflict for the purposes of this Section 1.2.
+1.3 This Agreement constitutes the entire agreement between the Parties on the
+subject matter hereof, and supersedes any prior or contemporaneous
+agreement, understanding, or representation, on the subject matter hereof,
+provided, however, notwithstanding any other provision of this Agreement or
+otherwise, this Agreement is an amendment, extension and restatement of the
+Parties’ prior interconnection and resale agreement(s), if any, and, as such, this
+Agreement is not intended to be, nor shall it be construed to create, a novation or
+accord and satisfaction with respect to any prior interconnection or resale
+agreements and, accordingly, all monetary obligations of the Parties to one
+another under any prior interconnection or resale agreements shall remain in full
+force and effect and shall constitute monetary obligations of the Parties under
+this Agreement (provided, however, that nothing contained in this Agreement
+shall convert any claim or debt that would otherwise constitute a prepetition claim
+or debt in a bankruptcy case into a postpetition claim or debt). In connection with
+the foregoing, Verizon expressly reserves all of its rights under the Bankruptcy
+Code and Applicable Law to seek or oppose any relief in respect of the
+assumption, assumption and assignment, or rejection of any interconnection or
+resale agreements between Verizon and Wide Voice.
+Wide Voice Comprehensive Ver3.4b-1-NJ.doc 1
+
+PUBLIC VERSION
+1.4 Except as otherwise provided in the Principal Document, the Principal Document
+may not be waived or modified except by a written document that is signed by
+the Parties. Subject to the requirements of Applicable Law, a Party shall have
+the right to add, modify, or withdraw, its Tariff(s) at any time, without the consent
+of, or notice to, the other Party.
+2. Term and Termination
+2.1 This Agreement shall be effective as of the Effective Date and, unless cancelled
+or terminated earlier in accordance with the terms hereof, shall continue in effect
+until May 26, 2016 (the “Initial Term”). Thereafter, this Agreement shall continue
+in force and effect unless and until cancelled or terminated as provided in this
+Agreement.
+2.2 Either Wide Voice or Verizon may terminate this Agreement effective upon the
+expiration of the Initial Term or effective upon any date after expiration of the
+Initial Term by providing written notice of termination at least ninety (90) days in
+advance of the date of termination.
+2.3 If Wide Voice or Verizon provides notice of termination pursuant to Section 2.2
+and on or before the proposed date of termination either Wide Voice or Verizon
+has requested negotiation of a new interconnection agreement, unless this
+Agreement is cancelled or terminated earlier in accordance with the terms hereof
+(including, but not limited to, pursuant to Section 12), this Agreement shall
+remain in effect until the earlier of: (a) the effective date of a new interconnection
+agreement between Wide Voice and Verizon; or, (b) the date one (1) year after
+the proposed date of termination.
+2.4 If Wide Voice or Verizon provides notice of termination pursuant to Section 2.2,
+and by 11:59 PM Eastern Time on the proposed date of termination neither Wide
+Voice nor Verizon has requested negotiation of a new interconnection agreement
+(or, in accordance with Subsection 2.3(b), if no new agreement is reached by the
+date one (1) year after the proposed date of termination), then (a) this Agreement
+will terminate at 11:59 PM Eastern Time on the proposed date of termination (or
+in the case of termination in accordance with Subsection 2.3(b), at 11:59 PM
+Eastern Time on the date one (1) year after the proposed date of termination),
+and (b) the Services being provided under this Agreement at the time of
+termination will be terminated, except to the extent that the Purchasing Party has
+requested that such Services continue to be provided pursuant to an applicable
+Tariff or Statement of Generally Available Terms (SGAT).
+3. Glossary and Attachments
+The Glossary and the following Attachments are a part of this Agreement:
+Additional Services Attachment
+Interconnection Attachment
+Resale Attachment
+Network Elements Attachment
+Collocation Attachment
+911 Attachment
+Pricing Attachment
+4. Applicable Law
+Wide Voice Comprehensive Ver3.4b-1-NJ.doc 2
+
+PUBLIC VERSION
+
+PUBLIC VERSION
+Jennifer Ross
+Director - Interconnection
+Global Wholesale
+Global Wholesale
+ONE VERIZON WAY
+2 Floor, Room VC 32-W412B
+Basking Ridge, NJ 07920
+Phone: 908-559-4556
+jennifer.e.ross@one.verizon.com
+February 10, 2012
+Patrick J. Chicas
+President
+Wide Voice, LLC
+410 South Rampart
+Suite 390
+Las Vegas, NV 89145
+Re: Requested Adoption Under Section 252(i) of the Communications Act
+Dear Mr. Chicas:
+Verizon New York Inc. (“Verizon”), a New York corporation, with principal place of business at
+140 West Street, New York, NY 10007, has received correspondence stating that Wide Voice,
+LLC (“WID”), a Nevada limited liability company, with principal place of business at 410 South
+Rampart, Suite 390, Las Vegas, Nevada 89145 wishes, pursuant to Section 252(i) of the
+Communications Act, to adopt the terms of the Interconnection Agreement between Cincinnati
+Bell Any Distance Inc. (“CBAD”) and Verizon that was approved by the New York State Public
+Service Commission (the “Commission”) as an effective agreement in the State of New York, as
+such agreement exists on the date hereof (including, without limitation, Amendment 1 thereto)
+after giving effect to operation of law (the “Terms”). I understand WID has a copy of the Terms.
+Please note the following with respect to WID’s adoption of the Terms.
+1. By WID’s countersignature on this letter, WID hereby represents and agrees to the
+following seven points:
+A. WID adopts (and agrees to be bound by) the Terms and, in applying the Terms,
+agrees that WID shall be substituted in place of Cincinnati Bell Any Distance Inc.
+and CBAD in the Terms wherever appropriate.
+B. For the avoidance of any doubt, adoption of the Terms does not include adoption
+of any provision imposing an unbundling obligation on Verizon (i) that no longer
+WID NY Comp v113010 1
+
+PUBLIC VERSION
+Appendix A hereto) shall apply to WID’s adoption of the Terms; provided,
+however, that if the Terms memorialize acceptance of Verizon’s offer of an
+optional reciprocal compensation rate plan for non-Internet traffic subject to
+Section 251(b)(5) pursuant to the industry letter described in footnote 2 of this
+Letter, then the optional reciprocal compensation rate plan in the Terms shall
+apply to this adoption instead of the reciprocal compensation rates set forth in
+Appendix A. WID should note that the aforementioned pricing schedule may
+contain rates for certain services the terms for which are not included in the
+Terms or that are otherwise not part of this adoption, and may include phrases or
+wording not identical to those utilized in the Terms. In an effort to expedite the
+adoption process, Verizon has not deleted such rates from the pricing schedule
+or attempted to customize the wording in the pricing schedule to match the
+Terms. However, the inclusion of such rates in no way obligates Verizon to
+provide the subject services and in no way waives Verizon’s rights, and the use
+of different wording or phrasing in the pricing schedule does not alter the
+obligations and rights set forth in the Terms.
+G. WID's adoption of the Terms shall become effective on February 6, 2012.
+Verizon shall file this adoption letter with the Commission promptly upon receipt
+of an original of this letter countersigned by WID as to the points set out in
+Paragraph One hereof. The term and termination provisions of the Terms shall
+govern WID’s adoption of the Terms. The adoption of the Terms is currently
+scheduled to expire on November 28, 2012.
+2. As the Terms are being adopted by WID pursuant to Section 252(i) of the Act, Verizon
+does not provide the Terms to you as either a voluntary or negotiated agreement. The
+filing and performance by Verizon of the Terms does not in any way constitute a waiver
+by Verizon of any position as to the Terms or a portion thereof, nor does it constitute a
+waiver by Verizon of all rights and remedies it may have to seek review of the Terms, or
+to seek review in any way of any provisions included in the Terms as a result of WID’s
+adoption of the Terms.
+3. Nothing herein shall be construed as or is intended to be a concession or admission by
+Verizon that any provision in the Terms complies with the rights and duties imposed by
+the Act, the decisions of the FCC and the Commission, the decisions of the courts, or
+other law, and Verizon expressly reserves its full right to assert and pursue claims arising
+from or related to the Terms.
+4. Verizon reserves the right to deny WID’s application of the Terms, in whole or in part, at
+any time:
+A. when the costs of providing the Terms to WID are greater than the costs of
+providing them to CBAD;
+B. if the provision of the Terms to WID is not technically feasible; and/or
+C. to the extent that Verizon otherwise is not required to make the Terms available
+to WID under applicable law.
+5. For the avoidance of any doubt, please note that adoption of the Terms will not result in
+reciprocal compensation payments for Internet traffic. Verizon has always taken the
+position that reciprocal compensation was not due to be paid for Internet traffic under
+section 251(b)(5) of the Act. Verizon’s position that reciprocal compensation is not to be
+WID NY Comp v113010 3
+
+PUBLIC VERSION
+
+PUBLIC VERSION
+AGREEMENT
+by and between
+CINCINNATI BELL ANY DISTANCE INC.
+and
+VERIZON NEW YORK INC.
+FOR THE STATE OF
+NEW YORK
+CBAD NY Comp Eff 112910.doc
+
+PUBLIC VERSION
+AGREEMENT
+PREFACE
+This Agreement (“Agreement”) shall be deemed effective as of November 29, 2010 (the “Effective
+Date”), between Cincinnati Bell Any Distance Inc. (“CBAD”), a corporation organized under the
+laws of the State of Delaware, with offices at 221 East 4th Street, Room 700, Cincinnati, OH
+45201 and Verizon New York Inc. (“Verizon”), a corporation organized under the laws of the State
+of New York with offices at 140 West Street, New York, NY 10007 (Verizon and CBAD may be
+referred to hereinafter, each, individually as a “Party”, and, collectively, as the “Parties”).
+GENERAL TERMS AND CONDITIONS
+In consideration of the mutual promises contained in this Agreement, and intending to be legally
+bound, pursuant to Section 252 of the Act, Verizon and CBAD hereby agree as follows:
+1. The Agreement
+1.1 This Agreement includes: (a) the Principal Document; (b) the Tariffs of each
+Party applicable to the Services that are offered for sale by it in the Principal
+Document (which Tariffs are incorporated into and made a part of this Agreement
+by reference); and, (c) an Order by a Party that has been accepted by the other
+Party.
+1.2 Except as otherwise expressly provided in the Principal Document (including, but
+not limited to, the Pricing Attachment), conflicts among provisions in the Principal
+Document, Tariffs, and an Order by a Party that has been accepted by the other
+Party, shall be resolved in accordance with the following order of precedence,
+where the document identified in subsection “(a)” shall have the highest
+precedence: (a) the Principal Document; (b) the Tariffs; and, (c) an Order by a
+Party that has been accepted by the other Party. The fact that a provision
+appears in the Principal Document but not in a Tariff, or in a Tariff but not in the
+Principal Document, shall not be interpreted as, or deemed grounds for finding, a
+conflict for the purposes of this Section 1.2.
+1.3 This Agreement constitutes the entire agreement between the Parties on the
+subject matter hereof, and supersedes any prior or contemporaneous
+agreement, understanding, or representation, on the subject matter hereof,
+provided, however, notwithstanding any other provision of this Agreement or
+otherwise, this Agreement is an amendment, extension and restatement of the
+Parties’ prior interconnection and resale agreement(s), if any, and, as such, this
+Agreement is not intended to be, nor shall it be construed to create, a novation or
+accord and satisfaction with respect to any prior interconnection or resale
+agreements and, accordingly, all monetary obligations of the Parties to one
+another under any prior interconnection or resale agreements shall remain in full
+force and effect and shall constitute monetary obligations of the Parties under
+this Agreement (provided, however, that nothing contained in this Agreement
+shall convert any claim or debt that would otherwise constitute a prepetition claim
+or debt in a bankruptcy case into a postpetition claim or debt). In connection with
+the foregoing, Verizon expressly reserves all of its rights under the Bankruptcy
+Code and Applicable Law to seek or oppose any relief in respect of the
+assumption, assumption and assignment, or rejection of any interconnection or
+resale agreements between Verizon and CBAD.
+1.4 Except as otherwise provided in the Principal Document, the Principal Document
+may not be waived or modified except by a written document that is signed by
+CBAD NY Comp Eff 112910.doc 1
+
+PUBLIC VERSION
+the Parties. Subject to the requirements of Applicable Law, a Party shall have
+the right to add, modify, or withdraw, its Tariff(s) at any time, without the consent
+of, or notice to, the other Party.
+2. Term and Termination
+2.1 This Agreement shall be effective as of the Effective Date and, unless cancelled
+or terminated earlier in accordance with the terms hereof, shall continue in effect
+until November 28, 2012 (the “Initial Term”). Thereafter, this Agreement shall
+continue in force and effect unless and until cancelled or terminated as provided
+in this Agreement.
+2.2 Either CBAD or Verizon may terminate this Agreement effective upon the
+expiration of the Initial Term or effective upon any date after expiration of the
+Initial Term by providing written notice of termination at least ninety (90) days in
+advance of the date of termination.
+2.3 If either CBAD or Verizon provides notice of termination pursuant to Section 2.2
+and on or before the proposed date of termination either CBAD or Verizon has
+requested negotiation of a new interconnection agreement, unless this
+Agreement is cancelled or terminated earlier in accordance with the terms hereof
+(including, but not limited to, pursuant to Section 12), this Agreement shall
+remain in effect until the earlier of: (a) the effective date of a new interconnection
+agreement between CBAD and Verizon; or, (b) the date one (1) year after the
+proposed date of termination.
+2.4 If either CBAD or Verizon provides notice of termination pursuant to Section 2.2
+and by 11:59 PM Eastern Time on the proposed date of termination neither
+CBAD nor Verizon has requested negotiation of a new interconnection
+agreement, (a) this Agreement will terminate at 11:59 PM Eastern Time on the
+proposed date of termination, and (b) the Services being provided under this
+Agreement at the time of termination will be terminated, except to the extent that
+the Purchasing Party has requested that such Services continue to be provided
+pursuant to an applicable Tariff or Statement of Generally Available Terms
+(SGAT).
+3. Glossary and Attachments
+The Glossary and the following Attachments are a part of this Agreement:
+Additional Services Attachment
+Interconnection Attachment
+Resale Attachment
+Network Elements Attachment
+Collocation Attachment
+911 Attachment
+Pricing Attachment
+4. Applicable Law
+4.1 The construction, interpretation and performance of this Agreement shall be
+governed by (a) the laws of the United States of America and (b) the laws of the
+State of New York, without regard to its conflicts of laws rules. All disputes
+relating to this Agreement shall be resolved through the application of such laws.
+CBAD NY Comp Eff 112910.doc 2
+
+PUBLIC VERSION
+
+PUBLIC VERSION
+AGREEMENT
+by and between
+WIDE VOICE, LLC
+and
+VERIZON PENNSYLVANIA INC.
+FOR THE COMMONWEALTH OF
+PENNSYLVANIA
+Wide Voice Comprehensive Ver3.4a-1-PAe.doc
+
+PUBLIC VERSION
+AGREEMENT
+PREFACE
+This Agreement (“Agreement”) shall be deemed effective as of July 2, 2012 (the “Effective Date”),
+between Wide Voice, LLC (“Wide Voice”), a limited liability company organized under the laws of
+the State of Nevada, with offices at 410 South Rampart, Suite 390, Las Vegas, NV 89145 and
+Verizon Pennsylvania Inc. (“Verizon”), a corporation organized under the laws of the
+Commonwealth of Pennsylvania with offices at 1717 Arch Street, Philadelphia, PA 19103
+(Verizon and Wide Voice may be referred to hereinafter, each, individually as a “Party”, and,
+collectively, as the “Parties”).
+GENERAL TERMS AND CONDITIONS
+In consideration of the mutual promises contained in this Agreement, and intending to be legally
+bound, pursuant to Section 252 of the Act, Verizon and Wide Voice hereby agree as follows:
+1. The Agreement
+1.1 This Agreement includes: (a) the Principal Document; (b) the Tariffs of each
+Party applicable to the Services that are offered for sale by it in the Principal
+Document (which Tariffs are incorporated into and made a part of this Agreement
+by reference); and, (c) an Order by a Party that has been accepted by the other
+Party.
+1.2 Except as otherwise expressly provided in the Principal Document (including, but
+not limited to, the Pricing Attachment), conflicts among provisions in the Principal
+Document, Tariffs, and an Order by a Party that has been accepted by the other
+Party, shall be resolved in accordance with the following order of precedence,
+where the document identified in subsection “(a)” shall have the highest
+precedence: (a) the Principal Document; (b) the Tariffs; and, (c) an Order by a
+Party that has been accepted by the other Party. The fact that a provision
+appears in the Principal Document but not in a Tariff, or in a Tariff but not in the
+Principal Document, shall not be interpreted as, or deemed grounds for finding, a
+conflict for the purposes of this Section 1.2.
+1.3 This Agreement constitutes the entire agreement between the Parties on the
+subject matter hereof, and supersedes any prior or contemporaneous
+agreement, understanding, or representation, on the subject matter hereof,
+provided, however, notwithstanding any other provision of this Agreement or
+otherwise, this Agreement is an amendment, extension and restatement of the
+Parties’ prior interconnection and resale agreement(s), if any, and, as such, this
+Agreement is not intended to be, nor shall it be construed to create, a novation or
+accord and satisfaction with respect to any prior interconnection or resale
+agreements and, accordingly, all monetary obligations of the Parties to one
+another under any prior interconnection or resale agreements shall remain in full
+force and effect and shall constitute monetary obligations of the Parties under
+this Agreement (provided, however, that nothing contained in this Agreement
+shall convert any claim or debt that would otherwise constitute a prepetition claim
+or debt in a bankruptcy case into a postpetition claim or debt). In connection with
+the foregoing, Verizon expressly reserves all of its rights under the Bankruptcy
+Code and Applicable Law to seek or oppose any relief in respect of the
+assumption, assumption and assignment, or rejection of any interconnection or
+resale agreements between Verizon and Wide Voice.
+Wide Voice Comprehensive Ver3.4a-1-PAe.doc 1
+
+PUBLIC VERSION
+1.4 Except as otherwise provided in the Principal Document, the Principal Document
+may not be waived or modified except by a written document that is signed by
+the Parties. Subject to the requirements of Applicable Law, a Party shall have
+the right to add, modify, or withdraw, its Tariff(s) at any time, without the consent
+of, or notice to, the other Party.
+2. Term and Termination
+2.1 This Agreement shall be effective as of the Effective Date and, unless cancelled
+or terminated earlier in accordance with the terms hereof, shall continue in effect
+until July 1, 2014 (the “Initial Term”). Thereafter, this Agreement shall continue in
+force and effect unless and until cancelled or terminated as provided in this
+Agreement.
+2.2 Either Wide Voice or Verizon may terminate this Agreement effective upon the
+expiration of the Initial Term or effective upon any date after expiration of the
+Initial Term by providing written notice of termination at least ninety (90) days in
+advance of the date of termination.
+2.3 If either Wide Voice or Verizon provides notice of termination pursuant to Section
+2.2 and on or before the proposed date of termination either Wide Voice or
+Verizon has requested negotiation of a new interconnection agreement, unless
+this Agreement is cancelled or terminated earlier in accordance with the terms
+hereof (including, but not limited to, pursuant to Section 12), this Agreement shall
+remain in effect until the earlier of: (a) the effective date of a new interconnection
+agreement between Wide Voice and Verizon; or, (b) the date one (1) year after
+the proposed date of termination.
+2.4 If either Wide Voice or Verizon provides notice of termination pursuant to Section
+2.2 and by 11:59 PM Eastern Time on the proposed date of termination neither
+Wide Voice nor Verizon has requested negotiation of a new interconnection
+agreement, (a) this Agreement will terminate at 11:59 PM Eastern Time on the
+proposed date of termination, and (b) the Services being provided under this
+Agreement at the time of termination will be terminated, except to the extent that
+the Purchasing Party has requested that such Services continue to be provided
+pursuant to an applicable Tariff or Statement of Generally Available Terms
+(SGAT).
+3. Glossary and Attachments
+The Glossary and the following Attachments are a part of this Agreement:
+Additional Services Attachment
+Interconnection Attachment
+Resale Attachment
+Network Elements Attachment
+Collocation Attachment
+911 Attachment
+Pricing Attachment
+4. Applicable Law
+4.1 The construction, interpretation and performance of this Agreement shall be
+governed by (a) the laws of the United States of America and (b) the laws of the
+Wide Voice Comprehensive Ver3.4a-1-PAe.doc 2
+
+PUBLIC VERSION
+
+PUBLIC VERSION
+
+PUBLIC VERSION
+
+PUBLIC VERSION
+
+PUBLIC VERSION
+
+PUBLIC VERSION
+
+PUBLIC VERSION
+
+PUBLIC VERSION
+
+PUBLIC VERSION
+
+PUBLIC VERSION
+EXHIBIT C
+KEY MANAGEMENT AND TECHNICAL PERSONNEL
+The following are the names, titles, biographies, and contact information of EdgeTel’s
+key management and technical personnel:
+Kellie Beneke
+President
+kellie@edgetelecom.com
+Phone: (712) 584-2025
+Kellie Beneke is the President of EdgeTel and oversees all facets of the EdgeTel business model.
+Kellie has an extensive background in management, regulatory compliance, accounting,
+purchasing, billing coordination, and customer engagement. She excels in strategic planning and
+effectively coordinates multiples projects for EdgeTel. She has twenty-five years of business
+experience.
+John Hass
+Chief Technology Officer
+john@edgetelecom.com
+Phone: (712) 584-2026
+John Hass is EdgeTel’s Chief Technology Officer and lead developer. John has been in the
+communications business for well over a decade and specializes in VoIP and PSTN services, as
+well as various information services related to the communications industry. John’s primary
+focus at EdgeTel is developing in-house systems, network development and routing, and
+provisioning customers. He leads the R&D team and works on unique projects, including
+developing applications for iPhone, Android, and Windows Phone.
+Stevin Dahl
+Business Development Manager
+stevin@edgetelecom.com
+Phone: (712) 432-4730
+Stevin Dahl is the business development manager and has the primary leadership role in building
+strong collaborative relationships with professionals in the telecommunications, voice
+applications, and software communities. Along with regulatory experience working with ILECs,
+CLECs, carriers, retail merchants, and community leaders, he leverages technology and
+telecommunications networks to promote economic growth. Using these skills he strives to
+provide a customer-first philosophy to ensure clients receive value-based solutions optimized to
+reduce costs and promote business continuity goals. Stevin received a Masters degree in
+Community and Regional Planning from Iowa State University.

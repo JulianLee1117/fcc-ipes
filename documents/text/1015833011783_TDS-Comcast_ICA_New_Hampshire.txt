@@ -1,0 +1,2177 @@
+COM-42646
+INTERCONNECTION AGREEMENT- UNDER SECTIONS 251
+AND 252 OF THE TELECOMMUNICATIONS ACT OF 1996
+Between
+TDSTELECOM
+and
+COMCAST Phone of New Hampshire, LLC
+d/b/a Comcast Digital Phone
+TDS TELECOMIComcast
+Interconnection Agreement September 2009
+
+Interconnection Agreement
+COM-42646
+General Terms and Conditions
+Page 2
+TABLE OF CONTENTS
+1. INTRODUCTION AND SCOPE OF AGREEMENT 4
+2. DEFINITIONS 5
+3. EFFECTIVE DATE 14
+4. INTERVENING LAW 14
+5. TERM OF AGREEMENT 14
+6. ASSIGNMENT 16
+7. DELEGATION TO AFFILIATE 16
+8. CONFIDENTIALITY AND PROPRIETARY INFORMATION 16
+9. LIABILITY AND INDEMNIFICATION 21
+10. REMEDIES 22
+11. INTELLECTUAL PROPERTY 22
+12. INDEMNITY 23
+13. OSHA STATEMENT 25
+14. DEPOSITS 26
+15. BILLING AND PAYMENT OF RATES AND CHARGES 26
+16. DISPUTE RESOLUTION 28
+17. TERMINATION OF SERVICE TO CLEC 31
+18. NOTICES 32
+19. TAXES 34
+20. FORCE MAJEURE 35
+21. PUBLICITY 36
+22. NETWORK MAINTENANCE AND MANAGEMENT 36
+23. LAW ENFORCEMENT AND CIVIL PROCESS 37
+24. CHANGES IN SUBSCRIBER CARRIER SELECTION 38
+25. AMENDMENTS OR WAIVERS 39
+26. GENERAL RESPONSIBILITIES OF THE PARTIES 39
+27. AUTHORITy 42
+28. BINDING EFFECT 42
+29. CONSENT 42
+30. EXPENSES 42
+31. HEADINGS 43
+32. RELATIONSHIP OF PARTIES/INDEPENDANT CONTRACTOR .43
+33. MULTIPLE COUNTERPARTS 43
+34. THIRD PARTY BENEFICIARIES 43
+35. REGULATORY APPROVAL 44
+36. REGULATORY AUTHORITY 44
+37. COMPLIANCE AND CERTIFICATION 44
+38. AUDITS 45
+39. COMPLETE TERMS 46
+40. COOPERATION ON PREVENTING END USER FRAUD .47
+41. NOTICE OF NETWORK CHANGES 47
+42. GOOD FAITH PERFORMANCE 47
+43. GOVERNMENTAL COMPLIANCE 47
+44. RESPONSIBILITY FOR ENVIRONMENTAL CONTAMINATION 48
+45. SUBCONTRACTING 48
+46. REFERENCED DOCUMENTS 49
+47. SEVERABILITY 50
+48. SURVIVAL OF OBLIGATIONS 51
+49. GOVERNING LAW 51
+50. OTHER REQUIREMENTS 51
+TDS TELECOMIComcast
+Interconnection Agreement September 2009
+
+COM-42646 Interconnection Agreement
+General Terms and Conditions
+Page 3
+51. APPENDICES INCORPORATED BY REFERENCE 52
+52. CUSTOMER INQUIRIES 53
+53. DISCLAIMER OF WARRANTIES 54
+TDS TELECOMIComcast
+Interconnection Agreement September 2009
+
+COM-42646 Interconnection Agreement
+General Terms and Conditions
+Page 4
+INTERCONNECTION AGREEMENT
+This Interconnection Agreement under Sections 251 and 252 of the
+Telecommunications Act of 1996 ("Agreement") is dated as of September 15, 2009 by and
+between TDS Telecommunications Corporation, a Delaware corporation, as agent for the New
+Hampshire operating companies listed in Appendix A, ("TDS TELECOM") and, Comcast Phone
+of New Hampshire, LLC, d/b/a Comcast Digital Phone, ("COMCAST"), a Delaware Limited
+Liability Company, with its principal place of business at One Comcast Center, Philadelphia, PA
+19103.
+WHEREAS, the Parties desire to interconnect their networks at mutually agreed upon
+points of interconnection to provide, directly or indirectly, Telephone Exchange Services
+and Exchange Access to residential and/or business End Users in the state of New
+Hampshire; and
+WHEREAS, the Parties are entering into this Agreement to set forth the respective
+obligations of the Parties and the terms and conditions under which the Parties will
+interconnect their networks and facilities and provide to each other services as required
+by Sections 251(a) and (b) of the Telecommunications Act of 1996 as specifically set
+forth herein.
+NOW, THEREFORE, in consideration of the premises and the mutual covenants of this
+Agreement COMCAST and TDS TELECOM hereby agree as follows:
+This Agreement is composed of General Terms and Conditions, which are set forth
+below, together with certain Appendices, Schedules, Exhibits and Addenda which
+immediately follow this Agreement, all of which are hereby incorporated in this
+Agreement by this reference and constitute a part of this Agreement.
+GENERAL TERMS AND CONDITIONS
+1. INTRODUCTION AND SCOPE OF AGREEMENT
+1.1 Pursuant to Sections 251(a) and (b) of the Telecommunications Act of 1996
+("Act"), this Agreement sets forth the terms and conditions for the interconnection
+of COMCAST's network to TDS TELECOM's network, compensation for the
+transport and termination of telecommunications traffic between TDS TELECOM
+and COMCAST, and the provision of ancillary functions by TDS TELECOM and
+COMCAST.
+1.2 The Parties acknowledge and agree that by entering into and performing in
+accordance with this Agreement, the Parties have not waived any applicable
+TDS TELECOM/Comcast
+Interconnection Agreement September 2009
+
+COM-42646 Interconnection Agreement
+General Terms and Conditions
+Page 5
+exemptions that are provided by or available under the Act, including but not
+limited to those described in 47 USC 251(f), or under state law, if any.
+1.3 Either Party may fulfill the requirements imposed upon it by this Agreement by
+itself or may cause its Affiliates to take such actions to fulfill the responsibilities.
+2. DEFINITIONS
+2.1 Capitalized Terms used in this Agreement shall have the respective meanings
+specified below, in Section 2.2.x of each Appendix attached hereto, and/or as
+defined elsewhere in this Agreement.
+2.2 GENERAL DEFINITIONS
+2.2.1 "Access Service Request" (ASR) is an industry standard form used by the
+Parties to add, establish, change or disconnect trunks for the purposes of
+Interconnection.
+2.2.2 "Act" means the Communications Act of 1934 [47 U.S.C. 153(R)], as
+amended by the Telecommunications Act of 1996, Public Law 104-104,
+110 Stat. 56 (1996) codified throughout 47 U.S.C.
+2.2.3 Intentionally left blank.
+2.2.4 "Affiliate" is As Defined in the Act.
+2.2.5 "Alternate Billing Service (ABS)" means a service that allows End Users
+to bill calls to accounts that may not be associated with the originating
+line. There are three types of ABS calls: calling card, collect and third
+number billed calls.
+2.2.6 "Applicable Law" means all laws, statutes, common law, regulations,
+ordinances, codes, rules, guidelines, orders, permits, tariffs and approvals,
+including those relating to the environment or health and safety, of any
+Governmental Authority that apply to the Parties or the subject matter of
+this Agreement.
+2.2.7 "As Defined in the Act" means as specifically defined by the Act.
+2.2.8 "As Described in the Act" means as described in or required by the Act.
+2.2.9 "Automatic Message Accounting" (AMA) is a structure inherent in
+switch technology that initially records Telecommunication message
+information. AMA format is contained in the Automated Message
+TDS TELECOM/Comcast
+Interconnection Agreement September 2009
+
+COM-42646 Interconnection Agreement
+General Terms and Conditions
+Page 6
+Accounting document published by Telcordia (formerly known as
+Bellcore) as GR-II00-CORE, which defines and amends the industry
+standard for message recording.
+2.2.10 "Business Day" means Monday through Friday, excluding holidays
+observed by either Party. A list of recognized holidays will be exchanged
+between the Parties. Either Party will provide notice of any changes to the
+recognized holidays.
+2.2.11 "Calling Party Number" (CPN) means a Signaling System 7 "SST'
+parameter whereby the seven (7) or ten (10) digit number of the calling
+Party is forwarded from the End Office.
+2.2.12 "Central Office switch" (Central Office) is a switching entity within the
+public switched telecommunications network, including but not limited to:
+2.2.12.1 "End Office Switch" or "End Office" is a switching
+machine that directly terminates traffic to and receives traffic from
+purchasers of local exchange services. An End Office Switch does
+not include a PBX.
+2.2.12.2 "Tandem Office Switch" or "Tandem(s)" are used to
+connect and switch trunk circuits between and among other Central
+Office Switches. A Tandem Switch does not include a PBX.
+2.2.13 "Commission" means the New Hampshire Public Utilities Commission.
+2.2.14 "Common Channel Signaling" (CCS) means an out-of-band, packet-
+switched, signaling network used to transport supervision signals, control
+signals, and data messages. It is a special network, fully separate from the
+transmission path of the public switched network. Unless otherwise
+agreed by the Parties, the CCS protocol used by the Parties shall be SS7.
+2.2.15 "Common Language Location Identifier" (CLLI) codes provide a
+unique ll-character representation of a network interconnection point. The
+first 8 characters identify the city, state and building location, while the
+last 3 characters identify the network component.
+2.2.16 "Consequential Damages" means Losses claimed to have resulted from
+any indirect, incidental, reliance, special, consequential, punitive,
+exemplary, multiple or any other Loss, including damages claimed to have
+resulted from harm to business, loss of anticipated revenues, savings, or
+profits, or other economic Loss claimed to have been suffered not
+measured by the prevailing Party's actual damages, and regardless of
+TDS TELECOMIComcast
+Interconnection Agreement September 2009
+
+COM-42646 Interconnection Agreement
+General Terms and Conditions
+Page 7
+whether the Parties knew or had been advised of the possibility that such
+damages could result in connection with or arising from anything said,
+omitted, or done hereunder or related hereto, including willful acts or
+omISSIOns.
+2.2.17 "Custom Local Area Signaling Service Features" (CLASS Features)
+means certain Common Channel Signaling based features available to End
+Users, including: Automatic Call Back; Call Trace; Distinctive
+Ringing/Call Waiting; Selective Call Forward; and Selective Call
+Rejection.
+2.2.18 "Customer" or "End Users" means a third-party residence or business
+that subscribes to Telecommunications Services provided by any of the
+Parties. As used herein, the term "End Users" does not include any of the
+Parties to this Agreement with respect to any item or service obtained
+under this Agreement.
+2.2.19 "Delaying Event" means (a) any failure of a Party to perform any of its
+obligations set forth in this Agreement, caused in whole or in part by:
+2.2.19.1 the failure of the other Party to perform any of its
+obligations set forth in this Agreement, including but not limited to
+a Party's failure to provide the other Party with accurate and
+complete Service Orders;
+2.2.19.2 any delay, act or failure to act by the other Party or its End
+User, agent or subcontractor; or
+2.2.19.3 any Force Majeure Event.
+2.2.20 "Dialing Parity" is As Defined in the Act. As used in this Agreement,
+Dialing Parity refers to both Local Dialing Parity and Toll Dialing Parity.
+2.2.21 "Digital Signal Level" is one of several transmission rates in the
+time-division multiplex hierarchy.
+2.2.21.1 "Digital Signal Level 0" (DS-O) is the 64 Kbps zero-level
+signal in the time-division multiplex hierarchy.
+2.2.21.2 "Digital Signal Level I" (DS-l) is the 1.544 Mbps
+first-level signal in the time-division multiplex hierarchy.
+2.2.21.3 "Digital Signal Level 3" (DS-3) is the 44.736 Mbps
+third-level signal in the time-division multiplex hierarchy.
+TDS TELECOM/Comcast
+Interconnection Agreement September 2009
+
+COM-42646 Interconnection Agreement
+General Terms and Conditions
+Page 8
+2.2.22 "Exchange Access" is As Defined in the Act.
+2.2.23 "Exchange Area" means an area, defined by the Commission, for which a
+distinct local rate schedule is in effect.
+2.2.24 "Exchange Service" means Telephone Exchange Service, As Defined in
+the Act.
+2.2.25 "FCC" means the Federal Communications Commission.
+2.2.26 "Feature Group D" (FG-D) is access available to all customers,
+providing trunk side access to a Party's End Office Switches with an
+associated uniform 101XXXX access code for customer's use in
+originating and terminating communications.
+2.2.27 "Fiber Meet" means an Interconnection architecture method whereby the
+Parties physically interconnect their networks via an optical fiber interface
+(as opposed to an electrical interface) at a mutually agreed upon location,
+which is the demarcation point for each Party's financial and operational
+responsibility .
+2.2.28 "Governmental Authority" means any federal, state, local, foreign, or
+international court, government, department, commission, board, bureau,
+agency, official, or other regulatory, administrative, legislative, or judicial
+authority with jurisdiction over the subject matter at issue.
+2.2.29 "Incumbent Local Exchange Carrier" (ILEC) is As Defined in the Act.
+2.2.30 "Indirect Interconnection" provides for network interconnection
+between the Parties through a third party tandem provider performing a
+transit function.
+2.2.31 "Integrated Services Digital Network" (ISDN) means a switched
+network service that provides end-to-end digital connectivity for the
+simultaneous transmission of voice and data.
+2.2.32 "Intellectual Property" means copyrights, patents, trademarks, trade
+secrets, mask works and all other intellectual property rights.
+2.2.33 "Interconnection" is As Defined in the Act.
+2.2.34 "Interconnection Activation Date" is the date that the construction of the
+joint facility Interconnection arrangement has been completed, trunk
+TDS TELECOM/Comcast
+Interconnection Agreement September 2009
+
+COM-42646 Interconnection Agreement
+General Terms and Conditions
+Page 9
+groups have been established, joint trunk testing is completed and trunks
+have been mutually accepted by the Parties.
+2.2.35 "Interexchange Carrier" (IXC) means a carrier that provides, directly or
+indirectly, interLATA or intraLATA Telephone Toll Services.
+2.2.36 "InterLATA" is As Defined in the Act.
+2.2.37 "Internet Service Provider" (ISP) is an Enhanced Service Provider that
+provides Internet Services, and is defined in paragraph 341 of the FCC's
+First Report and Order in CC Docket No. 97-158.
+2.2.38 Intentionally left blank.
+2.2.39 "IntraLATA Toll Traffic" means the IntraLATA traffic between two
+locations within one LATA where one of the locations lies outside of the
+normal local calling area as defined by the applicable Commission.
+Optional extended local calling area service within a LATA is IntraLATA
+Toll Traffic, with the exception of Optional Local Measured Calling
+Service in effect in TDS Telecom's tariffs as of the Effective date of this
+Agreement.
+2.2.40 "Line Information Data Base" (LIDB) means a transaction-oriented
+database system that functions as a centralized repository for data storage
+and retrieval. LIDB is accessible through CCS networks. LIDB contains
+records associated with End User line numbers and special billing
+numbers. LIDB accepts queries from other network elements and provides
+return result, return error, and return reject responses as appropriate.
+Examples of information that Data Owners might store in LIDB and in
+their Line Records are: ABS Validation Data, Originating Line Number
+Screening (OLNS) data, ZIP Code data, and Calling Name Information.
+2.2.41 "Line Record" means information in LIDB and/or the LIDB
+administrative system that is specific to a single telephone number or
+Special Billing Number.
+2.2.42 "Local Access Transport Area" (LATA) is As Defined in the Act.
+2.2.43 "Local Traffic", for purposes of intercarrier compensation, is
+Telecommunications traffic originated by a End User Customer of one
+Party in an exchange on that Party's network and terminated to a End User
+Customer of the other Party on that other Party's network located within
+the same exchange or other non-optional extended local calling area
+associated with the originating customer's exchange as defined by TDS
+TDS TELECOM/Comcast
+Interconnection Agreement September 2009
+
+COM-42646 Interconnection Agreement
+General Terms and Conditions
+Page 10
+TELECOM's applicable local exchange tariff. Local Traffic does not
+include: (1) any ISP-Bound Traffic; (2) traffic that does not originate and
+terminate within the same TDS TELECOM local calling area as such local
+calling area is defined by TDS TELECOM's applicable local exchange
+tariff; (3) Toll Traffic, including, but not limited to, calls originated on a
+1+ presubscription basis, or on a casual dialed (1OXXXll 0lXXXX) basis;
+(4) optional extended local calling area traffic; (5) special access, private
+line, Frame Relay, ATM, or any other traffic that is not switched by the
+terminating Party; or, (6) Tandem Transit Traffic.
+2.2.44 "Local Exchange Carrier" (LEC) is As Defined in the Act.
+2.2.45 "Local Exchange Routing Guide" (LERG) is a Telcordia Reference
+document used by Telecommunications Carriers to identify NPA-NXX
+routing and homing information as well as equipment designations.
+2.2.46 "Local Number Portability" (LNP) is as defined by the Act.
+2.2.47 "Location Routing Number" (LRN) is a ten (10) digit number that is
+assigned to the network switching elements (Central Office - Host and
+Remotes as required) for the routing of calls in the network. The first six
+(6) digits of the LRN will be one of the assigned NPA NXX of the
+switching element. The purpose and functionality of the last four (4) digits
+of the LRN have not yet been defined but are passed across the network to
+the terminating switch.
+2.2.48 "Loss" or "Losses" means any and all losses, costs (including court
+costs), claims, damages (including fines, penalties, and criminal or civil
+judgments and settlements), injuries, liabilities and expenses (including
+attorneys' fees).
+2.2.49 "MECAB" refers to the Multiple Exchange Carrier Access Billing
+document prepared by the Billing Committee of the Ordering and Billing
+Forum "OBF", which functions under the auspices of the Carrier Liaison
+Committee "CLC of the Alliance for Telecommunications Industry
+Solutions "ATIS". The MECAB document contains the recommended
+guidelines for the billing of access services provided to an IXC by two or
+more LECs, or by one LEC in two or more states within a single LATA.
+2.2.50 "Meet-Point Billing" (MPB) refers to the billing associated with
+interconnection of facilities between two or more LECs for the routing of
+traffic to and from an IXC with which one of the LECs does not have a
+direct connection. In a multi-bill environment, each Party bills the
+TDS TELECOM/Comcast
+Interconnection Agreement September 2009
+
+COM-42646 Interconnection Agreement
+General Terms and Conditions
+Page 11
+appropriate tariffed rate for its portion of a jointly provided Switched
+Exchange Access Service.
+2.2.51 "Multiple Bill/Single Tariff' is the meet-point billing method where each
+LEC prepares and renders its own meet point bill to the IXC in accordance
+with its own tariff for that portion of the jointly provided Switched Access
+Service which that LEC provides. The MECAB documents refer to this
+method as Multiple Billireflecting a single tariff (MM).
+2.2.52 "Mutual Compensation" is the compensation agreed upon by the Parties
+for "Local Calls" that originate on one network and terminate on the other
+network.
+2.2.53 "North American Numbering Plan" (NANP) A numbering architecture
+in which every station in the NANP Area is identified by a unique ten-digit
+address consisting of a three-digit NPA code, a three digit central office
+code of the form NXX, and a four-digit line number of the form XXXx.
+2.2.54 "Number Portability" is As Defined in the Act.
+2.2.55 "Numbering Plan Area" (NPA) also called area code. An NPA is the 3-
+digit code that occupies the A, B, C positions in the 10-digit NANP format
+that applies throughout the NANP Area. NPAs are of the form NXX,
+where N represents the digits 2-9 and X represents any digit 0-9. In the
+NANP, NPAs are classified as either geographic or non-geographic. a)
+Geographic NPAs are NPAs that correspond to discrete geographic areas
+within the NANP Area. b) Non-geographic NPAs are NPAs that do not
+correspond to discrete geographic areas, but which are instead assigned for
+services with attributes, functionalities, or requirements that transcend
+specific geographic boundaries. The common examples are NPAs in the
+NOOor 8xx format, e.g., 800, 866, 877 or 888.
+2.2.56 "NXX" or "Central Office Code" is the three-digit switch entity
+indicator that is defined by the fourth through sixth digits of a 10-digit
+telephone number within the NANP. Each NXX Code contains 10,000
+station numbers.
+2.2.57 "Ordering and Billing Forum" (OBF) is a forum comprised of local
+telephone companies and interexchange carriers whose responsibility is to
+create and document Telecommunication industry guidelines and
+standards.
+2.2.58 "Party" means either COMCAST or TDS TELECOM that is a party to
+this Agreement. "Parties" means both COMCAST and TDS TELECOM.
+TDS TELECOM/Comcast
+Interconnection Agreement September 2009
+
+COM-42646 Interconnection Agreement
+General Terms and Conditions
+Page 12
+2.2.59 Intentionally left blank.
+2.2.60 "Point of Interconnection" (POI) is a physical location at which the
+Parties' networks meet for the purpose of establishing Interconnection and
+serve as the operational responsibility hand-off between the Parties'
+networks. pals include a number of different technologies and technical
+interfaces based on the Parties' mutual agreement.
+2.2.61 "Rate Center" means the specific geographic point that has been
+designated by a given LEC as being associated with a particular NPA-
+NXX code that has been assigned to the LEC for its provision of
+Telephone Exchange Service. The Rate Center is the finite geographic
+point identified by a specific V&H coordinate, which is used by that LEC
+to measure, for billing purposes, distance sensitive transmission services
+associated with the specific Rate Center.
+2.2.62 "Rating Point" means the V&H coordinates associated with a particular
+telephone number for rating purposes.
+2.2.63 "Referral Announcement" refers to a process by which calls are routed
+to an announcement that states the new telephone number of an End User.
+2.2.64 Intentionally Left Blank.
+2.2.65 Intentionally Left Blank.
+2.2.66 Signaling Transport Signal level (STS-n) is an electrical signal that is
+converted to or from SONET's optically based signal. Levell is 51.84
+Mb/s or the electrical equivalent to OC-l optical signal, level 2 is 155.52
+Mb/s or the electrical equivalent to OC-3.
+2.2.67 "Signaling System 7" (SS7) means a signaling protocol used by the CCS
+Network.
+2.2.68 "Switched Exchange Access Service" means the offering of transmission
+or switching services to Telecommunications Carriers for the purpose of
+the origination or termination of telephone toll service. Switched
+Exchange Access Services include: Feature Group A, Feature Group B,
+Feature Group D, 800/8xx access, and 900 access and their successors or
+similar Switched Exchange Access Services.
+2.2.69 "Synchronous Optical Network" (SONET) is an optical interface
+standard that allows inter-networking of transmission products from
+TDS TELECOM/Comcast
+Interconnection Agreement September 2009
+
+COM-42646 Interconnection Agreement
+General Terms and Conditions
+Page 13
+multiple vendors. The base rate is 51.84 Mbps ("OC-1/STS-1") and
+higher rates are direct multiples of the base rate, up to 13.22 Gbps.
+2.2.70 "Tandem Transit Traffic" is defined as local traffic or ISP-bound traffic
+originated on one Party's network, transited through the other Party's
+network, and terminated to a third party telecommunications carrier's
+network or that is originated on a third party telecommunications carrier's
+network, transited through a Party's network and terminated to the other
+Party's network. For purposes of this Agreement, Tandem Transit
+Traffic does not include overflow traffic between the Parties that is routed
+through a third party tandem provider.
+2.2.71 "Telecommunications" is As Defined in the Act.
+2.2.72 "Telecommunications Carrier" is As Defined in the Act.
+2.2.73 "Telecommunications Service" is As Defined in the Act.
+2.2.74 "Telephone Exchange Service" is As Defined in the Act.
+2.2.75 "Telephone Toll Service" is As Defined in the Act.
+2.2.76 "Trunk" means a communication line between two switching systems.
+2.2.77 "Wire Center" is the location of one or more local switching systems. A
+point at which End User's loops within a defined geographic area
+converge. Such local loops may be served by one (1) or more Central
+Office Switches within such premises.
+2.3 For purposes of this Agreement, certain terms have been defined in this
+Agreement to encompass meanings that may differ from, or be in addition to, the
+normal connotation of the defined word. Unless the context clearly indicates
+otherwise, any term defined or used in the singular will include the plural. The
+words "include," "includes," and "including" shall be deemed to be followed by
+the phrase "without limitation" and/or "but not limited to." The words "will" and
+"shall" are used interchangeably throughout this Agreement and the use of either
+connotes a mandatory requirement. The use of one or the other will not mean a
+different degree of right or obligation for either Party. A defined word intended to
+convey its special meaning is capitalized when used. Other terms that are
+capitalized and not defined in this Agreement will have the meaning in the Act, or
+in the absence of their inclusion in the Act, their customary usage in the
+Telecommunications industry as of the Effective Date.
+TDS TELECOM/Comcast
+Interconnection Agreement September 2009
+
+COM-42646 Interconnection Agreement
+General Terms and Conditions
+Page 14
+3. EFFECTIVE DATE
+3.1 This Agreement becomes effective ("Effective Date") (1) when executed by each
+Party and after approval by the Commission under Section 252(e) of the Act; or
+(2) absent such Commission approval, by operation of law pursuant to Section
+252(e)(4) of the Act.
+4. INTERVENING LAW
+4.1 The Parties acknowledge that the respective rights and obligations of each Party as
+set forth in this Agreement are based upon the Act and the rules and regulations
+promulgated thereunder by the FCC and the Commission as of the Effective Date
+("Applicable Rules"). In the event of any amendment of the Act, any effective
+legislative action or any effective regulatory or judicial order, rule, regulation,
+arbitration award, Commission or court decision pursuant to dispute resolution
+procedures under this Agreement or other legal action purporting to apply the
+provisions of the Act to the Parties or in which the court, FCC or the Commission
+makes a generic determination that is generally applicable which revises, modifies
+or reverses the Applicable Rules (individually, "Amended Rules"), either Party
+may, by providing written notice to the other Party, require that the affected
+provisions of this Agreement be renegotiated in good faith and this Agreement
+shall be amended accordingly to reflect the pricing, terms and conditions of each
+such Amended Rules relating to any of the provisions in this Agreement. If
+negotiations fail, disputes between the Parties concerning the interpretation of the
+actions required or provisions affected by such governmental actions shall be
+resolved pursuant to the dispute resolution process provided for in this
+Agreement. The Parties further acknowledge and agree that by executing this
+Agreement, neither Party waives any of its rights, remedies, or arguments with
+respect to such decisions and any remand thereof, including its right to seek legal
+review or a stay pending appeal of such decisions or its rights under this
+Intervening Law paragraph.
+5. TERM OF AGREEMENT
+5.1 This Agreement will become effective as of the Effective Date stated above, and
+unless terminated earlier in accordance with the terms hereof, shall continue in
+effect until September 14,2011 (the "Initial Term"), and thereafter the Agreement
+shall continue in force and effect unless and until terminated as provided herein.
+5.2 Notwithstanding any other provision of this Agreement, either Party (the
+"Terminating Party") may terminate this Agreement and the provision of any
+Interconnection, functions, facilities, products or services provided pursuant to
+this Agreement in the event that the other Party fails to perform a material
+obligation or breaches a material term of this Agreement and the other Party (i)
+fails to cure such nonperformance or breach within forty-five (45) calendar days
+TDS TELECOMIComcast
+Interconnection Agreement September 2009
+
+COM-42646 Interconnection Agreement
+General Terms and Conditions
+Page 15
+after receiving written notice thereof pursuant to this Section 5.2; and (ii) has not
+commenced a dispute regarding the subject of the breach pursuant to Section
+16.2.1 within the same forty-five (45) calendar days; and (iii) fails to obtain and
+provide to the Terminating Party within that same forty-five (45) calendar days an
+Order by the Commission prohibiting or delaying such termination. Any
+termination pursuant to this Section 5.2 shall take effect on or after the forty-fifth
+(45th calendar day where conditions (i), (ii), and (iii) above pertain.
+)
+5.3 Upon the expiration of the Initial Term or any time thereafter, either Party may
+terminate this Agreement by providing written notice to the other Party of its
+intention to terminate, such written notice to be received at least ninety (90) days
+in advance of the date of termination. Neither Party shall have any liability to the
+other Party for termination of this Agreement pursuant to this Section 5.3 other
+than its obligations under Sections 5.4, 5.5, 5.6 and 5.7.
+5.4 Upon termination or expiration of this Agreement in accordance with Section 5.2:
+5.4.1 Each Party shall continue to comply with its obligations set forth in
+Section 44; and
+5.4.2 Each Party shall promptly pay all amounts owed under this Agreement, or
+follow the procedures for billing disputes as set forth herein.
+5.4.3 Each Party's confidentiality obligations shall survive; and
+5.4.4 Each Party's indemnification obligations shall survive.
+5.5 In the event of termination of this Agreement pursuant to Section 5.3, where
+neither Party has requested renegotiation under Section 5.6, TDS TELECOM and
+COMCAST shall cooperate in good faith to effect an orderly transition of service
+under this Agreement; provided that each Party shall be solely responsible (from a
+financial, operational and administrative standpoint) to ensure that its End Users
+have been transitioned to a new LEC by the expiration date or termination date of
+this Agreement.
+5.6 If either Party terminates this Agreement pursuant to Section 5.3, the other Party
+may request renegotiation of the Agreement by providing written notice thereof to
+the terminating Party within thirty (30) days of the other Party's receipt of the
+termination notice. Any such request shall be deemed by both Parties to be a good
+faith request for Interconnection pursuant to Section 252 of the Act (or any
+successor provision), regardless of which Party made such request. If the Parties
+do not execute a new interconnection agreement within the respective periods set
+under the Act, either Party may exercise its applicable rights under the Act.
+TDS TELECOMlComcast
+Interconnection Agreement September 2009
+
+COM-42646 Interconnection Agreement
+General Terms and Conditions
+Page 16
+5.7 If either Party requests renegotiation of this Agreement pursuant to Sections 4.1 or
+5.6 above, the rates, terms and conditions of this Agreement shall continue in full
+force and effect until the effective date of its successor agreement, whether such
+successor agreement is established via negotiation, arbitration or pursuant to
+Section 252(i) of the Act; provided, however, when a successor agreement
+becomes effective and the Parties agree that the terms, rates and charges of such
+successor Agreement shall apply retroactively back to the date this Agreement is
+terminated or expires, whichever is later, and that the retro-active true-up shall be
+completed within ninety (90) calendar days following the effective date of such
+successor Agreement. Notwithstanding the forgoing, no retroactive true-up shall
+be made for any charges that were incurred more than twelve (12) months prior to
+the true-up date.
+6. ASSIGNMENT
+6.1 Neither Party hereto may assign or otherwise transfer its rights or obligations
+under this Agreement, except with the prior written consent of the other Party
+hereto, which consent will not be unreasonably withheld; provided, that either
+Party may assign its rights and delegate its benefits, duties and obligations under
+this Agreement without the consent of the other Party to any Affiliate, provided
+the obligations and duties of either Party under this Agreement shall be binding on
+all successors in interest and assigns of such Party. Nothing in this Section is
+intended to impair the right of either Party to utilize subcontractors.
+6.2 Each Party will notify the other in writing not less than thirty (30) days in advance
+of anticipated assignment.
+7. DELEGATION TO AFFILIATE
+7.1 Each Party may, without the consent of the other Party, fulfill its obligations under
+this Agreement by itself or may cause its Affiliate(s) to take some or all of such
+actions to fulfill such obligations. Upon such delegation, the Affiliate shall
+become a primary obligor hereunder with respect to the delegated matter, but such
+delegation shall not relieve the delegating Party of its obligations as co-obligor
+hereunder. Any Party which elects to perform its obligations through an Affiliate
+shall cause its Affiliate to take all action necessary for the performance of such
+Party's obligations hereunder. Each Party represents and warrants that if an
+obligation under this Agreement is to be performed by an Affiliate, such Party has
+the authority to cause such Affiliate to perform such obligation and such Affiliate
+will have the licensure, certification, and all other legal authority required to
+accomplish the delegated performance.
+8. CONFIDENTIALITY AND PROPRIETARY INFORMATION
+TDS TELECOM/Comcast
+Interconnection Agreement September 2009
+
+COM-42646 Interconnection Agreement
+General Terms and Conditions
+Page 17
+8.1 For the purposes of this Agreement, "Proprietary Information" means confidential
+or proprietary technical or business information given by one Party ("the
+Disclosing Party") or its agent, employee, representative or Affiliate to the other
+Party ("the Receiving Party") in connection with this Agreement, during
+negotiations and the term of this Agreement:
+8.1.1 In written, graphic, electromagnetic, or other tangible form and marked at
+the time of delivery as "Confidential" or "Proprietary" however, regardless
+of whether so marked, any non-public information which, because of
+legends or other markings, the circumstances of disclosure or the
+information itself, is otherwise reasonably understood by the Receiving
+Party to be proprietary and confidential to the Disclosing Party, shall be
+deemed to be Proprietary Information; or
+8.1.2 Any portion of any notes, analyses, data, compilations, studies,
+interpretations or other documents prepared by any Receiving Party to the
+extent the same contain, reflect, are derived from, or are based upon, any
+of the information described in this Section 8, unless such information
+contained or reflected in such notes, analyses, etc. is so commingled with
+the Receiving Party's information that disclosure could not possibly
+disclose the underlying proprietary or confidential information (such
+portions of such notes, analyses, etc. referred to herein as "Derivative
+Information").
+8.2 Proprietary Information Shall be Held in Confidence
+8.2.1 Each Receiving Party agrees that:
+8.2.1.1 all Proprietary Information communicated to it or any of its agents,
+attorneys, employees, representatives and Affiliates in connection
+with this Agreement shall be held in confidence to the same extent
+as such Receiving Party holds its own confidential information of
+like importance; provided that such Receiving Party and its agents,
+attorneys, employees, representatives and Affiliates shall not use
+less than a reasonable standard of care in maintaining the
+confidentiality of such information;
+8.2.1.2 it will not, and it will not permit any of its agents, attorneys,
+employees, representatives and Affiliates to disclose such
+Proprietary Information to any non-party to this Agreement ("Third
+Party");
+8.2.1.3 it will disclose Proprietary Information only to those of its agents,
+attorneys, employees, representatives and Affiliates who have a
+TDS TELECOM/Comcast
+Interconnection Agreement September 2009
+
+Interconnection Agreement
+COM-42646
+General Terms and Conditions
+Page 18
+need for it in connection with the use or provision of any services
+required to fulfill this Agreement; and
+8.2.1.4 it will, and will cause each of its agents, attorneys, employees,
+representatives and Affiliates, to use such Proprietary Information
+only to perform its obligations under this Agreement or to use
+services provided by the Disclosing Party hereunder and for no
+other purpose, including its own marketing purposes.
+8.2.2 A Receiving Party may disclose Proprietary Information of a Disclosing
+Party to the Receiving Party's agents, attorneys, employees, representatives
+and Affiliates who need to know such information to perform their
+obligations under this Agreement; provided that before disclosing any
+Proprietary Information to any agent, employee, representative or Affiliate,
+the Receiving Party shall notify such agent, employee, representative or
+Affiliate of such Party's obligation to comply with this Agreement. Each
+Receiving Party making such disclosure shall notify the Disclosing Party
+as soon as possible if it has knowledge of a breach of this Agreement in
+any material respect.
+8.2.3 Proprietary Information shall not be reproduced by any Receiving Party in
+any form except to the extent (i) necessary to comply with the provisions
+of Section 8.5 and (ii) reasonably necessary to perform its obligations
+under this Agreement.
+8.3 Unless otherwise agreed, the obligations of confidentiality and non-use set forth in
+this Agreement do not apply to such Proprietary Information that:
+8.3.1 Was at the time of receipt, already known to the Receiving Party, free of
+any obligation to keep confidential and evidenced by written records
+prepared prior to delivery by the Disclosing Party; or
+8.3.2 Is, or becomes publicly known through no wrongful act of the Receiving
+Party; or
+8.3.3 Is rightfully received from a Third Party having no direct or indirect
+secrecy or confidentiality obligation to the Disclosing Party with respect to
+such information; provided that such Receiving Party has exercised
+commercially reasonable efforts to determine whether such Third Party
+has any such obligation; or
+8.3.4 Is independently developed by an agent, employee representative or
+Affiliate of the Receiving Party and such Party is not involved in any
+TDS TELECOM/Comcast
+Interconnection Agreement September 2009
+
+COM-42646 Interconnection Agreement
+General Terms and Conditions
+Page 19
+manner with the provision of services pursuant to this Agreement and does
+not have any direct or indirect access to the Proprietary Information; or
+8.3.5 Is disclosed to a Third Party by the Disclosing Party without similar
+restrictions on such Third Party's rights; or
+8.3.6 Is approved for release by written authorization of the Disclosing Party,
+but only to the extent of the authorization granted; or
+8.3.7 Is required to be made public by the Receiving Party pursuant to
+Applicable Law or regulation, provided that such production or disclosure
+shall have been made in accordance with Section 8.5.
+8.4 Proposed Disclosure of Proprietary Information to a Governmental Authority
+8.4.1 If a Receiving Party desires to disclose or provide to a Commission, the
+FCC or any other governmental authority any Proprietary Information of
+the Disclosing Party, such Receiving Party shall, prior to and as a
+condition of such disclosure, (i) provide the Disclosing Party with written
+notice and the form of such proposed disclosure as soon as possible but in
+any event early enough to allow the Disclosing Party to protect its interests
+in the Proprietary Information to be disclosed and (ii) attempt to obtain in
+accordance with the applicable procedures of the intended recipient of
+such Proprietary Information an appropriate order for protective relief or
+other reliable assurance that confidential treatment shall be accorded to
+such Proprietary Information.
+8.4.2 If a Receiving Party is required by any Governmental Authority or by
+Applicable Law to disclose any Proprietary Information, then such
+Receiving Party shall provide the Disclosing Party with written notice of
+such requirement as soon as possible, and in no event later than five (5)
+calendar days after receipt of such requirement, and prior to such
+disclosure. Upon receipt of written notice of the requirement to disclose
+Proprietary Information, the Disclosing Party at its expense, may then
+either seek appropriate protective relief in advance of such requirement to
+prevent all or part of such disclosure or waive the Receiving Party's
+compliance with this Section 8.4 with respect to all or part of such
+requirement.
+8.4.3 The Receiving Party shall use all commercially reasonable efforts to
+cooperate with the Disclosing Party in attempting to obtain any protective
+relief which such Disclosing Party chooses to seek pursuant to this Section
+8.4. In the absence of such relief, if the Receiving Party is legally
+compelled to disclose any Proprietary Information, then the Receiving
+TDS TELECOMIComcast
+Interconnection Agreement September 2009
+
+Interconnection Agreement
+COM-42646
+General Terms and Conditions
+Page 20
+Party shall exercise all commercially reasonable efforts to preserve the
+confidentiality of the Proprietary information, including cooperating with
+the Disclosing Party to obtain an appropriate order for protective relief or
+other reliable assurance that confidential treatment will be accorded the
+Proprietary Information.
+8.5 Notwithstanding any of the foregoing, each Party shall be entitled to disclose
+Proprietary Information on a confidential basis to regulatory agencies upon
+request for information as to a Disclosing Party'S activities under the Act if the
+Party has provided reasonable prior written notice to the other Party and obtained
+an appropriate order for protective relief or other reliable assurance that
+confidential treatment shall be accorded to such Proprietary Information.
+8.6 Return of Proprietary Information
+8.6.1 All Proprietary Information, other than Derivative Information, shall
+remain the property of the Disclosing Party, and all documents or other
+tangible media delivered to the Receiving Party that embody such
+Proprietary Information shall be, at the option of the Disclosing Party,
+either promptly returned to Disclosing Party or destroyed, except as
+otherwise may be required from time to time by Applicable Law (in which
+case the use and disclosure of such Proprietary Information will continue
+to be subject to this Agreement), upon the earlier of (i) the date on which
+the Receiving Party's need for it has expired and (ii) the expiration or
+termination of this Agreement.
+8.6.2 At the request of the Disclosing Party, any Derivative Information shall be,
+at the option of the Receiving Party, either promptly returned to the
+Disclosing Party or destroyed, except as otherwise may be required from
+time to time by Applicable Law (in which case the use and disclosure of
+such Derivative Information will continue to be subject to this
+Agreement), upon the earlier of (i) the date on which the Receiving Party's
+need for it has expired and (ii) the expiration or termination of this
+Agreement.
+8.6.3 The Receiving Party may at any time either return the Proprietary
+Information to the Disclosing Party or destroy such Proprietary
+Information. If the Receiving Party elects to destroy Proprietary
+Information, all copies of such information shall be destroyed and upon
+the written request of the Disclosing Party, the Receiving Party shall
+provide to the Disclosing Party written certification of such destruction.
+The destruction or return of Proprietary information shall not relieve any
+Receiving Party of its obligation to continue to treat such Proprietary
+Information in the manner required by this Agreement.
+TDS TELECOM/Comcast
+Interconnection Agreement September 2009
+
+COM-42646 Interconnection Agreement
+General Terms and Conditions
+Page 21
+8.7 Notwithstanding any other prOVISIOn of this Agreement, the Proprietary
+Information provisions of this Agreement shall apply to all information furnished
+by either Party to the other in furtherance of the purpose of this Agreement, even
+if furnished before the date of this Agreement and each Party's obligation to
+safeguard Proprietary Information disclosed prior to expiration or termination of
+this Agreement will survive such expiration or termination.
+8.8 Pursuant to Section 222(b) of the Act, both Parties agree to limit their use of
+Proprietary Information received from the other to the permitted purposes
+identified in the Act.
+8.9 Each Party has the right to refuse to accept any Confidential Information under
+this Agreement, and nothing in this Section 8 shall obligate either Party to
+disclose to the other Party any particular information.
+8.10 The Parties agree that an impending or existing violation of any provision of this
+Section 8 would cause the Disclosing Party irreparable injury for which it would
+have no adequate remedy at law, and agree that Disclosing Party shall be entitled
+to obtain immediate injunctive relief prohibiting such violation, in addition to any
+other rights and remedies available to it at law or in equity, including both specific
+performance and monetary damages. In the event of any breach of this Section 8
+for which legal or equitable relief is sought, all reasonable attorney's fees and
+other reasonable costs associated therewith shall be recoverable by the prevailing
+Party.
+9. LIABILITY AND INDEMNIFICATION
+9.1 Limitation of Liabilities
+9.1.1 Except for indemnity obligations expressly set forth herein, each Party's
+liability to the other Party for any Loss relating to or arising out of such
+Party's performance under this Agreement, including any negligent act or
+omission (whether willful or inadvertent), whether in contract, tort or
+otherwise, including alleged breaches of this Agreement and causes of
+action alleged to arise from allegations that breach of this Agreement also
+constitute a violation of a statute, including the Act, shall not exceed in
+total the amount TDS TELECOM or COMCAST has charged or would
+have charged to the other Party for the affected Interconnection, functions,
+facilities, products and service(s) that were not performed or were
+improperly performed.
+9.1.2 Except for losses alleged or made by an end user of either Party, in the
+case of any loss alleged or made by a third party arising under the
+TDS TELECOM/Comcast
+Interconnection Agreement September 2009
+
+COM-42646 Interconnection Agreement
+General Terms and Conditions
+Page 22
+negligence or willful misconduct of both Parties, each Party shall bear, and
+its obligation under this section shall be limited to, that portion (as
+mutually agreed to by the Parties) of the resulting expense caused by its
+own negligence or willful misconduct or that of its agents, servants,
+contractors, or others acting in aid or concert with it.
+9.2 NO CONSEQUENTIAL DAMAGES
+9.2.1 NEITHER COMCAST NOR TDS TELECOM WILL BE LIABLE TO
+THE OTHER PARTY FOR ANY INDIRECT, INCIDENTAL
+CONSEQUENTIAL, RELIANCE, OR SPECIAL DAMAGES
+SUFFERED BY SUCH OTHER PARTIES (INCLUDING WITHOUT
+LIMITATION DAMAGES FOR HARM TO BUSINESS, LOST
+REVENUES, LOST SAVINGS, OR LOST PROFITS SUFFERED BY
+SUCH OTHER PARTIES), REGARDLESS OF THE FORM OF
+ACTION, WHETHER IN CONTRACT, WARRANTY, STRICT
+LIABILITY, OR TORT, INCLUDING WITHOUT LIMITATION
+NEGLIGENCE OF ANY KIND WHETHER ACTIVE OR PASSIVE,
+AND REGARDLESS OF WHETHER THE PARTIES KNEW OF THE
+POSSIBILITY THAT SUCH DAMAGES COULD RESULT. EACH
+PARTY HEREBY RELEASES THE OTHER PARTY (AND SUCH
+OTHER PARTY'S SUBSIDIARIES AND AFFILIATES, AND THEIR
+RESPECTIVE OFFICERS, DIRECTORS, EMPLOYEES, AND
+AGENTS FROM ANY SUCH CLAIM. NOTHING CONTAINED IN
+THIS SECTION WILL LIMIT TDS TELECOM's OR COMCAST's
+LIABILITY TO THE OTHER FOR (i) WILLFUL OR INTENTIONAL
+MISCONDUCT (INCLUDING GROSS NEGLIGENCE); AND (ii)
+BODILY INJURY, DEATH, OR DAMAGE TO TANGIBLE REAL OR
+TANGIBLE PERSONAL PROPERTY PROXIMATELY CAUSED BY
+TDS TELECOM's OR COMCAST's NEGLIGENT ACT OR OMISSION
+OR THAT OF THEIR RESPECTIVE AGENTS, SUBCONTRACTORS
+OR EMPLOYEES, NOR WILL ANYTHING CONTAINED IN THIS
+SECTION LIMIT THE PARTIES INDEMNIFICATION OBLIGATIONS,
+AS SPECIFIED BELOW.
+10. REMEDIES
+10.1 Except as otherwise provided in this Agreement, no remedy set forth herein is
+intended to be exclusive and each and every remedy shall be cumulative and in
+addition to any other rights or remedies now or hereafter existing under
+Applicable Law or otherwise.
+11. INTELLECTUAL PROPERTY
+TDS TELECOM/Comcast
+Interconnection Agreement September 2009
+
+COM-42646 Interconnection Agreement
+General Terms and Conditions
+Page 23
+11.1 Any Intellectual Property originating from or developed by a Party shall remain in
+the exclusive ownership of that Party.
+12. INDEMNITY
+12.1 Except as otherwise expressly provided herein, and to the extent not prohibited by
+Applicable Law, each Party (the "Indemnifying Party") shall release, defend and
+indemnify the other Party (the "Indemnified Party") and hold such Indemnified
+Party harmless against any Loss to a Third Party arising out of the negligence or
+willful misconduct ("Fault") of such Indemnifying Party, its agents, its End Users,
+contractors, or others retained by such Parties, in connection with the
+Indemnifying Party's provision of Interconnection, functions, facilities, products
+and services under this Agreement; provided, however, that (i) with respect to
+employees or agents of the Indemnifying Party, such Fault occurs while
+performing within the scope of their employment, (ii) with respect to
+subcontractors of the Indemnifying Party, such Fault occurs in the course of
+performing duties of the subcontractor under its subcontract with the
+Indemnifying Party, and (iii) with respect to the Fault of employees or agents of
+such subcontractor, such Fault occurs while performing within the scope of their
+employment by the subcontractor with respect to such duties of the subcontractor
+under the subcontract.
+12.2 A Party (the "Indemnifying Party") shall defend, indemnify and hold harmless
+the other Party ("Indemnified Party") against any claim or Loss arising from the
+Indemnifying Party's use of Interconnection, functions, facilities, products and
+services provided under this Agreement involving:
+12.2.1 Any claim or Loss ansmg from such Indemnifying Party's use of
+Interconnection, functions, facilities, products and services offered under
+this Agreement, involving any claim for libel, slander, invasion of privacy,
+or infringement of Intellectual Property rights arising from the
+Indemnifying Party's or its End User's use.
+12.2.2 The foregoing includes any claims or Losses arising from disclosure of any
+End User-specific information associated with either the originating or
+terminating numbers used to provision Interconnection, functions,
+facilities, products or services provided hereunder and all other claims
+arising out of any act or omission of the End User in the course of using
+any Interconnection, functions, facilities, products or services provided
+pursuant to this Agreement.
+12.2.3 The foregoing includes any Losses ansmg from claims for actual or
+alleged infringement of any Intellectual Property right of a Third Party to
+the extent that such Loss arises from an Indemnifying Party's or an
+TDS TELECOM/Comcast
+Interconnection Agreement September 2009
+
+Interconnection Agreement
+COM-42646
+General Terms and Conditions
+Page 24
+Indemnifying Party's End User's use of Interconnection, functions,
+facilities, products or services provided under this Agreement; provided,
+however, that an Indemnifying Party's obligation to defend and indemnify
+the Indemnified Party shall not apply:
+12.2.3.1 where an Indemnified Party or its End User modifies
+Interconnection, functions, facilities, products or services; provided
+under this Agreement without authorization of the Indemnifying
+Party; and
+12.2.3.2 no infringement would have occurred without such
+modification.
+12.3 Consistent with and subject to the waiver of subrogation set forth under Section
+26.6.2, COMCAST shall reimburse TDS TELECOM for damages to TDS
+TELECOM's facilities utilized to provide Interconnection hereunder caused by the
+negligence or willful act of COMCAST, its agents or subcontractors or
+COMCAST's End User or resulting from COMCAST's improper use of TDS
+TELECOM's facilities, or due to malfunction of any facilities, functions, products,
+services or equipment provided by COMCAST, its agents or subcontractors or
+COMCAST's End User. Upon reimbursement for damages, TDS TELECOM will
+cooperate with COMCAST in prosecuting a claim against the person causing such
+damage. COMCAST shall be subrogated to the right of recovery by TDS
+TELECOM for the damages to the extent of such payment.
+12.4 Consistent with and subject to the waiver of subrogation set forth under Section
+26.6.2, TDS TELECOM shall reimburse COMCAST for damages to
+COMCAST's facilities utilized to provide or access Interconnection hereunder
+caused by the negligence or willful act of TDS TELECOM, its agents or
+subcontractors or End User or resulting from TDS TELECOM's improper use of
+COMCAST's facilities, or due to malfunction of any facilities, functions,
+products, services or equipment provided by TDS TELECOM, its agents or
+subcontractors or TDS TELECOM's End User. Upon reimbursement for
+damages, COMCAST will cooperate with TDS TELECOM in prosecuting a claim
+against the person causing such damage. TDS TELECOM shall be subrogated to
+the right of recovery by COMCAST for the damages to the extent of such
+payment.
+12.5 Obligation to Defend; Notice; Cooperation
+12.5.1 Should a claim arise for indemnification under this Section, the relevant
+Indemnified Party, as appropriate, will promptly notify the Indemnifying
+Party and request in writing the Indemnifying Party to defend the same.
+Failure to so notify the Indemnifying Party will not relieve the
+TDS TELECOM/Comcast
+Interconnection Agreement September 2009
+
+COM-42646 Interconnection Agreement
+General Terms and Conditions
+Page 25
+Indemnifying Party of any liability that the Indemnifying Party might have,
+except to the extent that such failure prejudices the Indemnifying Party's
+ability to defend such claim. The Indemnifying Party will have the right to
+defend against such liability or assertion in which event the Indemnifying
+Party will give written notice to the Indemnified Party of acceptance of the
+defense of such claim and the identity of counsel selected by the
+Indemnifying Party.
+12.5.2 Until such time as Indemnifying Party provides written notice of
+acceptance of the defense of such claim, the Indemnified Party shall
+defend such claim, at the expense of the Indemnifying Party, subject to any
+right of the Indemnifying Party to seek reimbursement for the costs of such
+defense in the event that it is determined that Indemnifying Party had no
+obligation to indemnify the Indemnified Party for such claim.
+12.5.3 Upon accepting the defense, the Indemnifying Party shall have exclusive
+right to control and conduct the defense and settlement of any such claims,
+subject to consultation with the Indemnified Party. So long as the
+Indemnifying Party is controlling and conducting the defense, the
+Indemnifying Party shall not be liable for any settlement by the
+Indemnified Party unless such Indemnifying Party has approved such
+settlement in advance and agrees to be bound by the agreement
+incorporating such settlement.
+12.6 At any time, an Indemnified Party will have the right to refuse such compromise
+or settlement and, at the refusing Party's cost, to take over such defense, provided
+that in such event the Indemnifying Party will not be responsible for, nor will it be
+obligated to indemnify the refusing Party against any cost or liability in excess of
+such refused compromise or settlement.
+12.7 In the event the Indemnifying Party does not accept the defense of any
+indemnified claim as provided above, the Indemnified Party will have the right to
+employ counsel for such defense at the expense of the Indemnifying Party unless
+it is determined that Indemnifying Party had no obligation to indemnify the
+Indemnified Party for such claim.
+12.8 Each Party agrees to cooperate and to cause its employees and agents to cooperate
+with the other Party in the defense of any such claim and the relevant records of
+each Party shall be available to the other Party with respect to any such defense,
+subject to the restrictions and limitations set forth in Section 8.
+13. OSHASTATEMENT
+TDS TELECOMfComcast
+Interconnection Agreement September 2009
+
+COM-42646 Interconnection Agreement
+General Terms and Conditions
+Page 26
+13.1 Each Party, in recognition of the other Party's status as an employer, agrees to
+abide by and to undertake the duty of compliance with all federal, state and local
+laws, safety and health regulations relating to the space which Party has assumed
+the duty to maintain pursuant to this Agreement, and to indemnify and hold the
+other Party harmless for any judgments, citations, fines, or other penalties which
+are assessed against the indemnified Party as the result of the indemnifying Party's
+failure to comply with any of the foregoing.
+14. DEPOSITS
+14.1 The Parties will, in order to safeguard their interests, only require the billed Party
+which has a proven history of late payments, defined as two consecutive late
+payments within a twelve (12) month period, or does not have established credit
+to make a deposit, prior to or at any time after the provision of service, to be held
+by the billing Party as a guarantee of the payment of rates and charges. No such
+deposit will be required of the billed Party which is a successor of a company
+which has established credit and has no history of late payments to the billing
+Party. Such deposit may not exceed the actual or estimated rates and charges for
+the service for a two-month period. The fact that a deposit has been made in no
+way relieves the billed Party from complying with the billing Party's regulations as
+to the prompt payment of bills. At such time as the provision of the service to the
+billed Party is terminated, the amount of the deposit, plus any interest accrued on
+a cash deposit pursuant to Section 14.2 below, will be credited to the billed
+Party's account and any credit balance which may remain will be refunded.
+14.2 Such a deposit will be refunded or credited to the billed Party's account when the
+billed Party has established credit or, in any event, after the billed Party has
+established a one-year prompt payment record at any time prior to the termination
+of the provision of the service to the billed Party. In the case of a cash deposit, for
+the period the deposit is held by the billing Party, the billed Party will receive
+simple interest at the lower of: the rate of 1% per month (12% annually) or the
+highest rate allowed by applicable law. The rate will be calculated from the date
+the billed Party's deposit is received by the billing Party up to and including the
+date such deposit is credited to the billed Party's account or the date the deposit is
+refunded by the billing Party. Should a deposit be credited to the billed Party's
+account, as indicated above, no interest will accrue on the deposit from the date
+such deposit is credited to the customer's account.
+15. BILLING AND PAYMENT OFRATESANDCHARGES
+15.1 Unless otherwise stated, each Party will render monthly bill(s) to the other for
+Interconnection, functions, facilities, products and services provided hereunder at
+the rates set forth in the applicable Appendix Pricing, as set forth in applicable
+TDS TELECOM/Comcast
+Interconnection Agreement September 2009
+
+COM-42646 Interconnection Agreement
+General Terms and Conditions
+Page 27
+tariffs or other documents specifically referenced herein and, as applicable, as
+agreed upon by the Parties or authorized by a Party.
+15.1.1 Remittance in full of all bills rendered by TDS TELECOM is due within
+thirty (30) calendar days of each bill date (the "Bill Due Date").
+15.1.2 Remittance in full of all bills rendered by COMCAST is due within thirty
+(30) calendar days of each bill date (the "Bill Due Date").
+15.1.3 If either Party fails to remit payment for any undisputed charges for
+services by the Bill Due Date, or if a payment or any portion of a payment
+is received after the Bill Due Date, or if a payment or any portion of a
+payment is received in funds which are not immediately available as of the
+Bill Due Date (individually and collectively, "Past Due"), then a late
+payment charge shall be assessed as provided in Section 15.1.3.1 as
+applicable.
+15.1.3.1 If any charge incurred under this Agreement is Past Due by
+fifteen days or more, the unpaid amounts shall accrue interest from
+the Bill Due Date at the lesser of (i) one and one-half percent (1
+Yz%) per month and (ii) the highest rate of interest that may be
+charged under Applicable Law, to and including the date that the
+payment is actually made and available.
+15.2 If any portion of an amount due to a Party (the "Billing Party") under this
+Agreement is subject to a bona fide dispute between the Parties, the Party billed
+(the "Non-Paying Party") shall give written notice to the Billing Party of the
+amounts it disputes ("Disputed Amounts") and include in such written notice the
+specific details and reasons for disputing each item listed in Section 16.3.1.l. The
+Non-Paying Party shall pay when due all undisputed amounts to the Billing Party.
+15.3 Issues related to Disputed Amounts shall be resolved in accordance with the
+procedures identified in the Dispute Resolution provisions set forth in Section 16.
+15.4 If the Non-Paying Party disputes any charges and any portion of the dispute is
+resolved in favor of such Non-Paying Party, the Parties shall cooperate to ensure
+that all of the following actions are taken:
+15.4.1 the Billing Party shall credit the invoice of the Non-Paying Party for that
+portion of the Disputed Amounts resolved in favor of the Non-Paying
+Party, together with any Late Payment Charges assessed with respect
+thereto no later than the second Bill Due Date after the resolution of the
+Dispute; and
+TDS TELECOM/Comcast
+Interconnection Agreement September 2009
+
+COM-42646 Interconnection Agreement
+General Terms and Conditions
+Page 28
+15.4.2 no later than the third Bill Due Date after the resolution of the dispute
+regarding the Disputed Amounts, the Non-Paying Party shall pay the
+Billing Party for that portion of the Disputed Amounts resolved in favor of
+the Billing Party, together with any Late Payment Charges such Billing
+Party is entitled to receive pursuant to this Section.
+15.5 Failure by the Non-Paying Party to pay any charges determined by final non-
+appealable order resulting from the dispute resolution process to be owed to the
+Billing Party within the time specified in the order or if no time is specified, then
+within the time set forth in Section 15.4.2 shall be grounds for termination of this
+Agreement.
+15.6 If either Party request one or more additional copies of a bill, the requesting Party
+will pay the Billing Party a reasonable fee for each additional copy, unless such
+copy was requested due to failure in delivery of the original bill or correction(s) to
+the original bill.
+15.7 Notwithstanding the foregoing, in no event shall the Billing Party be allowed to
+back bill any charge or charges more than twelve (12) months after the billing
+period in which the charges were incurred.
+16. DISPUTERESOLUTION
+16.1 Finality of Disputes
+16.1.1 Except as otherwise specifically provided in this Agreement, no claims
+will be brought for disputes arising from this Agreement more than
+twenty-four (24) months from the date the occurrence which gives rise to
+the dispute is discovered or reasonably should have been discovered with
+the exercise of due care and attention.
+16.1.2 The Parties desire to resolve disputes ansmg out of this Agreement
+without litigation. Accordingly, except for action seeking a temporary
+restraining order or an injunction related to the purposes of this
+Agreement, or suit to compel compliance with this Dispute Resolution
+process, the Parties agree to use the following Dispute Resolution
+procedure with respect to any controversy or claim arising out of or
+relating to this Agreement or its breach. Services as provided under this
+Agreement shall continue during the pendency of a dispute pursuant to this
+Section 16.
+16.2 Commencing Dispute Resolution
+TDS TELECOM/Comcast
+Interconnection Agreement September 2009
+
+COM-42646 Interconnection Agreement
+General Terms and Conditions
+Page 29
+16.2.1 Dispute Resolution shall commence upon one Party's receipt of written
+notice of a controversy or claim arising out of or relating to this
+Agreement or its breach. No Party may pursue any claim unless such
+written notice has first been given to the other Party. There are three (3)
+separate Dispute Resolution methods each of which is described below:
+16.2.1.1 Service Center;
+16.2.1.2 Informal Dispute Resolution; and
+16.2.1.3 Formal Dispute Resolution.
+16.3 Service Center Dispute Resolution
+16.3.1 The following Dispute Resolution procedures will apply with respect to
+any billing dispute arising out of or relating to the Agreement.
+16.3.1.1 If the written notice given pursuant to Section 15.2
+discloses that a dispute relates to billing, then the procedures set
+forth in this Section 16.3.1 shall be used and the dispute shall first
+be referred to the appropriate service center for resolution. In order
+to resolve a billing dispute, one Party shall furnish the other Party
+written notice of (i) the date of the bill in question, (ii) BAN
+number of the bill in question, (iii) telephone number, circuit ID
+number or trunk number in question, (iv) any USOC information
+relating to the item questioned, (v) amount billed, (vi) amount in
+question, and (vii) the reason that the Party disputes the billed
+amount.
+16.3.1.2 The Parties shall attempt to resolve Disputed Amounts
+appearing on current billing statements thirty (30) to sixty (60)
+calendar days from the Bill Due Date (provided the disputing Party
+furnishes all requisite information and evidence under Section
+16.3.1.1 by the Bill Due Date). If not resolved within thirty (30)
+calendar days, upon request, the Parties will notify each other of
+the status of the dispute and the expected resolution date.
+16.3.1.3 The Parties shall attempt to resolve Disputed Amounts
+appearing on statements prior to the current billing statement
+within thirty (30) to ninety (90) calendar days, but resolution may
+take longer depending on the complexity of the dispute. Either
+Party may initiate Informal Resolution of Disputes identified in
+Section 16.4 prior to initiating Formal Resolution of Disputes
+TDS TELECOMIComcast
+Interconnection Agreement September 2009
+
+COM-42646 Interconnection Agreement
+General Terms and Conditions
+Page 30
+identified in Section 16.5 if the Parties are unable to resolve the
+Disputed Amounts.
+16.4 Informal Resolution of Disputes
+16.4.1 Upon receipt by one Party of notice of a dispute by the other Party
+pursuant to Section 16.2 or Section 16.3, each Party will appoint a
+knowledgeable, responsible representative to meet and negotiate in good
+faith to resolve any dispute arising under this Agreement. The location,
+form, frequency, duration, and conclusion of these discussions will be left
+to the discretion of the representatives. Upon agreement, the
+representatives may utilize other alternative Dispute Resolution
+procedures such as mediation to assist in the negotiations. Discussions and
+the correspondence among the representatives for purposes of settlement
+are exempt from discovery and production and will not be admissible in
+the arbitration described below or in any lawsuit without the concurrence
+of both Parties. Documents identified in or provided with such
+communications that were not prepared for purposes of the negotiations
+are not so exempted, and, if otherwise admissible, may be admitted in
+evidence in the arbitration or lawsuit.
+16.5 Formal Resolution of Disputes
+16.5.1 Except as otherwise specifically set forth in this Agreement, for all
+disputes arising out of or pertaining to this Agreement, including but not
+limited to matters not specifically addressed elsewhere in this Agreement
+which require clarification, re-negotiation, modifications or additions to
+this Agreement, either Party may invoke dispute resolution procedures
+available pursuant to the dispute resolution rules, as amended from time to
+time, of the Commission. Also, upon mutual agreement, the Parties may
+seek commercial binding arbitration as specified in Section 16.6.1.
+16.5.2 The Parties agree that the Dispute Resolution procedures set forth in this
+Agreement are not intended to conflict with applicable requirements of the
+Act or the Commission with regard to procedures for the resolution of
+disputes arising out of this Agreement.
+16.6 Arbitration
+16.6.1 When both Parties agree to binding arbitration, disputes will be submitted
+to a single arbitrator pursuant to the Commercial Arbitration Rules of the
+American Arbitration Association or pursuant to such other provider of
+arbitration services or rules as the Parties may agree. The arbitrator shall
+be a person knowledgeable in the area of telecommunications. The place
+TDS TELECOM/Comcast
+Interconnection Agreement September 2009
+
+COM-42646 Interconnection Agreement
+General Terms and Conditions
+Page 31
+where each separate arbitration will be held will be Philadelphia, PA,
+unless the Parties agree otherwise. The arbitration hearing will be
+requested to commence within sixty (60) days of the demand for
+arbitration. The arbitrator will control the scheduling so as to process the
+matter expeditiously. The Parties may submit written briefs upon a
+schedule determined by the arbitrator. The Parties will request that the
+arbitrator rule on the dispute by issuing a written opinion within thirty (30)
+days after the close of hearings. The arbitrator has no authority to order
+punitive or consequential damages. The times specified in this Section
+may be extended or shortened upon mutual agreement of the Parties or by
+the arbitrator upon a showing of good cause. Each Party will bear its own
+costs of these procedures. The Parties will equally split the fees of the
+arbitration and the arbitrator. Judgment upon the award rendered by the
+arbitrator may be entered in any court having jurisdiction.
+17. TERMINATION OF SERVICE FOR NON-PAYMENT
+17.1 Unless otherwise specified therein, Sections 17.1, 17.2, 17.3, and 17.4 shall apply
+to all charges billed for all products and services furnished under this Agreement.
+17.2 Failure of a Party to pay charges or, by the due date, provide reasonably specific
+notice of any disputed charges, may be grounds for disconnection of
+Interconnection, functions, facilities, products and services furnished under this
+Agreement. If a Party fails to pay by the Bill Due Date, any and all undisputed
+charges billed to them under this Agreement, including any Late Payment Charges
+as provided for in Section 15.1.3 or miscellaneous charges ("Unpaid Charges"),
+and any portion of such Unpaid Charges remain unpaid after the Bill Due Date,
+the Billing Party shall notify the Non-Paying Party in writing that in order to avoid
+disruption or disconnection of the applicable Interconnection, functions, facilities,
+products and services furnished under this Agreement, the Non-Paying Party must
+remit all undisputed Unpaid Charges to the Billing Party.
+17.3 Disputes hereunder will be resolved in accordance with the Dispute Resolution
+Procedures set out in Section 16of this Agreement.
+17.4 If any the Non-Paying Party's undisputed charges remain unpaid at the conclusion
+of the time period as set forth in Section 15.1.1 above (thirty (30) calendar days
+from the due date of such unpaid charges), the Billing Party will notify the Non-
+paying Party and the appropriate commission(s) in writing, that unless all charges
+are paid within thirty (30) calendar days from the date of such notice, all services
+rendered to may be disconnected in accordance with the appropriate
+commission(s) rules for discontinuance.
+TDS TELECOM/Comcast
+Interconnection Agreement September 2009
+
+COM-42646 Interconnection Agreement
+General Terms and Conditions
+Page 32
+17.5 In the event the Billing Party discontinues service to the Non-Paying Party upon
+failure to pay undisputed charges only as provided in this section, the Billing Party
+will have no liability to the Non-Paying Party in the event of such disconnection.
+17.6 After disconnect procedures have begun, the Billing Party will not accept service
+orders from the Non-Paying Party until all unpaid, undisputed charges are paid.
+The Non-Paying Party will have the right to require a deposit equal to one
+month's charges (based on the highest previous month of service from the Billing
+Party) prior to resuming service after disconnect for nonpayment.
+17.7 Beyond the specifically set out limitations in this section and the appropriate
+commission(s) rules, nothing herein will be interpreted to obligate the Billing
+Party to continue to provide service to any such end users or to limit any and all
+disconnection rights the Billing Party may have with regard to such end users.
+17.8 If the Non-Paying Party desires to dispute any portion of the Unpaid Charges,
+such Party shall take all of the following actions not later than fourteen (14)
+calendar days following receipt of notice of Unpaid Charges:
+17.8.1 The Non-Paying Party shall notify the Billing Party in writing which
+portiones) of the Unpaid Charges it disputes, including the total amount
+disputed ("Disputed Amounts") and the specific details listed in Section
+16.3.1 ofthis Agreement, together with the reasons for its dispute; and
+17.8.2 The Non-Paying Party shall immediately pay all undisputed Unpaid
+Charges.
+18. NOTICES
+18.1 In the event any notices are required to be sent under the terms of this Agreement,
+they may be sent by mail and are deemed to have been given on the date received.
+Notice may also be effected by personal delivery or by overnight courier, and will
+be effective upon receipt. Notice may also be provided by facsimile, which will
+be effective on the next business day following the date of transmission; provided,
+however, notices to a Party's 24-hour maintenance contact number will be by
+telephone and/or facsimile and will be deemed to have been received on the date
+transmitted. The Parties will provide the appropriate telephone and facsimile
+numbers to each other.
+18.2 Initial communications may be provided via email messages to the Parties set
+forth below. However, such e-mail communications shall be followed by one of
+the notice methods set forth above in Section 18.1, and notice shall be deemed
+given only pursuant to the terms of Section 18.1.
+TDS TELECOM/Comcast
+September 2009
+Interconnection Agreement
+
+COM-42646 Interconnection Agreement
+General Terms and Conditions
+Page 33
+18.3 Unless otherwise specifically provided in this Agreement, notice will be directed
+as follows:
+Ifto COMCAST:
+ATTN: Mr. Brian Rankin
+Assistant General Counsel
+One Comcast Center
+Philadelphia, PA 19103
+Phone: 215-286-7325
+Fax: 215-286-5039
+Email: BrianRankin@comcast.com
+with a copy to:
+Ms. Beth Choroser
+Senior Director of Regulatory Compliance
+One Comcast Center
+Philadelphia, PA 19103
+Phone: 215-286-7893
+Fax: 215-286-5039
+Email: beth_choroser@comcast.com
+Ifto TDS TELECOM:
+TDS TELECOM
+ATTN: Carrier Relations
+10025 Investment Dr., Suite 200
+Knoxville, TN 37932
+Fax: (865)966-4720
+carrierrelations@tdstelecom.com
+With a copy to:
+TDS TELECOM
+ATTN: Regulatory & Corporate Counsel
+P.O. Box 5366
+Madison, WI 53705-0366
+Fax: (608) 664-4519
+Peter.healy@tdstelecom.com
+18.4 Either Party may unilaterally change its designated representative and/or address,
+telephone contact number or facsimile number for the receipt of notices by giving
+written notice to the other Party in compliance with this Section. Any notice to
+TDS TELECOM/Comcast
+Interconnection Agreement September 2009
+
+COM-42646 Interconnection Agreement
+General Terms and Conditions
+Page 34
+change the designated contact, address, telephone and/or facsimile number for
+receipt of notices will be deemed effective ten (10) calendar days following
+receipt by the other Party.
+19. TAXES
+19.1 With respect to any purchase of service under this Agreement, if any Federal, state
+or local government tax, fee, surcharge, or other tax-like charge (a "Tax") is
+required or permitted by applicable law, ordinance or tariff to be collected from a
+purchasing Party by the providing Party, then (i) the providing Party will bill, as a
+separately stated item, the purchasing Party for such Tax, (ii) the purchasing Party
+will timely remit such Tax to the providing Party, and (iii) the providing Party will
+remit such collected Tax to the applicable taxing authority.
+19.2 If the providing Party does not collect a Tax because the purchasing Party asserts
+that it is not responsible for the tax, or is otherwise excepted from the obligation
+which is later determined by formal action to be wrong then, as between the
+providing Party and the purchasing Party, the purchasing Party will be liable for
+such uncollected Tax and any interest due and/or penalty assessed on the
+uncollected Tax by the applicable taxing authority or governmental entity.
+19.3 If either Party is audited by a taxing authority or other governmental entity, the
+other Party agrees to reasonably cooperate with the Party being audited in order to
+respond to any audit inquiries in a proper and timely manner so that the audit
+and/or any resulting controversy may be resolved expeditiously.
+19.4 If applicable law excludes or exempts a purchase of services under this
+Agreement from a Tax, and if such applicable law also provides an exemption
+procedure, such as an exemption certificate requirement, then, if the purchasing
+Party complies with such procedure, the providing Party, subject to Section 19.2,
+will not collect such Tax during the effective period of the exemption. Such
+exemption will be effective upon receipt of the exemption certificate or affidavit
+in accordance with Section 19.6.
+19.5 If applicable law excludes or exempts a purchase of services under this
+Agreement from a Tax, including but not limited to Taxes levied on the providing
+Party's gross revenue or Taxes that do not apply to carrier's carrier revenue, then
+the providing Party will not collect such Tax. Where a Tax is required to be
+levied on the purchasing Party if the purchasing Party meets a de minimis
+threshold (e.g., the federal Universal Service Fund surcharge), the purchasing
+Party may be asked to supply the providing Party with a letter or form signed by
+an officer of the purchasing Party claiming an exemption.
+TDS TELECOM/Comcast
+Interconnection Agreement September 2009
+
+COM-42646 Interconnection Agreement
+General Terms and Conditions
+Page 35
+19.6 To the extent a sale is claimed to be for resale and thus subject to tax exemption,
+the purchasing Party shall furnish the providing Party a proper resale tax
+exemption certificate as authorized or required by statute or regulation of the
+jurisdiction providing said resale tax exemption. Failure to timely provide said
+resale tax exemption certificate will result in no exemption being available to the
+purchasing Party for any period prior to the date that the purchasing Party presents
+a valid certificate. If Applicable Law excludes or exempts a purchase of
+Interconnection, functions, facilities, products and services under this Agreement
+from a Tax, but does not also provide an exemption procedure, then the providing
+Party will not collect such Tax. Where a Tax is required to be levied on the
+purchasing Party if the purchasing Party meets a de minimis threshold (e.g., the
+federal Universal Service Fund surcharge), the purchasing Party may be asked to
+supply the providing Party with a letter or form signed by an officer of the
+purchasing Party claiming an exemption.
+19.7 With respect to any Tax or Tax controversy covered by this Section 19, the
+purchasing Party is entitled to contest with the imposing jurisdiction, pursuant to
+Applicable Law and at its own expense, any Tax that it is ultimately obligated to
+pay or collect. The purchasing Party will ensure that no lien is attached to any
+asset of the providing Party as a result of any contest. The purchasing Party shall
+be entitled to the benefit of any refund or recovery of amounts that it had
+previously paid resulting from such a contest. Amounts previously paid by the
+providing Party shall be refunded to the providing Party. The providing Party will
+cooperate in any such contest.
+19.8 All notices, affidavits, exemption certificates or other communications required or
+permitted to be given by either Party to the other under this Section shall be sent
+in accordance with Section 18hereof.
+20. FORCE MAJEURE
+20.1 Except as otherwise specifically provided in this Agreement, neither Party will be
+liable for any delay or failure in performance of any part of this Agreement caused
+by a Force Majeure condition, including acts of the United States of America or
+any state, territory, or political subdivision thereof, acts of God or a public enemy,
+fires, floods, labor disputes such as strikes and lockouts, freight embargoes,
+earthquakes, volcanic actions, wars, acts of terrorism, civil disturbances, cable
+cuts, or other causes beyond the reasonable control of the Party claiming
+excusable delay or other failure to perform. Provided, Force Majeure will not
+include acts of any Governmental Authority relating to environmental, health, or
+safety conditions at work locations. If any Force Majeure condition occurs the
+Party whose performance fails or is delayed because of such Force Majeure
+conditions will give prompt notice to the other Party, and upon cessation of such
+TDS TELECOM/Comcast
+Interconnection Agreement September 2009
+
+Interconnection Agreement
+COM-42646
+General Terms and Conditions
+Page 36
+Force Majeure condition, will give like notice and commence performance
+hereunder as promptly as reasonably practicable.
+21. PUBLICITY
+21.1 The Parties agree not to use in any advertising or sales promotion, press releases
+or other publicity matters, any endorsements, direct or indirect quotes or pictures
+implying endorsement by the other Party or any of its employees without such
+Party's prior written approval. The Parties will submit to each other for written
+approval, prior to publication, all such publicity endorsement matters that mention
+or display the other's name and/or marks or contain language from which a
+connection to said name and/or marks may be inferred or implied; the Party to
+whom a request is directed shall respond promptly. Nothing herein, however,
+shall be construed as preventing either Party from publicly stating the fact that it
+has executed this Agreement with the other Party. This does not prohibit the use
+of valid comparison advertising.
+21.2 Nothing in this Agreement shall grant, suggest, or imply any authority for either
+Party to use the name, trademarks, service marks, trade names, brand names,
+logos, proprietary trade dress or trade names, insignia, symbols or decorative
+designs of the other Party or its affiliates without the other Party's prior written
+authorization.
+22. NETWORK MAINTENANCE ANDMANAGEMENT
+22.1 The Parties will work cooperatively to implement this Agreement. The Parties
+will exchange appropriate information (e.g., maintenance contact numbers,
+network information, information required to comply with law enforcement and
+other security agencies of the federal and state governments, etc.) to achieve this
+desired result.
+22.2 Each Party will provide a 24-hour contact number for Network Traffic
+Management issues to the other's surveillance management center. Each Party
+will administer its network to ensure acceptable service levels to all users of its
+network services. Service levels are generally considered acceptable only when
+End Users are able to establish connections with little or no delay encountered in
+the network. A facsimile (FAX) number must also be provided to facilitate event
+notifications for planned mass calling events. Each Party will maintain the right
+to implement protective network traffic management controls such as "cancel to"
+or "call gapping" or 7-digit and 10-digit code gaps, to selectively cancel the
+completion of traffic over its network, including traffic destined for the other
+Party's network, when required to protect the public-switched network from
+congestion as a result of occurrences such as facility failures, switch congestion or
+TDS TELECOMIComcast
+Interconnection Agreement September 2009
+
+COM-42646 Interconnection Agreement
+General Terms and Conditions
+Page 37
+failure or focused overload. Each Party shall immediately notify the other Party of
+any protective control action planned or executed.
+22.3 Where the capability exists, originating or terminating traffic reroutes may be
+implemented by either Party to temporarily relieve network congestion due to
+facility failures or abnormal calling patterns. Reroutes shall not be used to
+circumvent normal trunk servicing. Expansive controls shall be used only when
+mutually agreed to by the Parties.
+22.4 The Parties shall cooperate and share pre-planning information regarding cross-
+network call-ins expected to generate large or focused temporary increases in call
+volumes to prevent or mitigate the impact of these events on the public-switched
+network, including any disruption or loss of service to the other Party's End
+Users.
+22.5 In the event of interference or impairment of the quality of service between
+services or facilities of COMCAST and TDS TELECOM the Parties agree to the
+following:
+22.5.1 The Party that first becomes aware of the interference will provide notice
+to the other Party as soon as possible.
+22.5.2 The Parties will work cooperatively to determine the source of the
+interference and to implement mutually agreeable solutions that provide
+for the minimum negative impact to either Party's products and services.
+However, the Parties acknowledge that multiple carriers and end users
+connect to each Party's network and in some instances the solution that
+minimizes the impact to the greatest number of carriers and end users may
+require that a facility, product, or service of a Party be temporarily
+disconnected until the interference can be corrected.
+22.5.3 If the Parties are unable to agree upon a solution, either Party may invoke
+the dispute resolution provisions of the Agreement, provided that a Party
+may apply for injunctive relief immediately if such is required to prevent
+irreparable harm.
+23. LAW ENFORCEMENT AND CIVILPROCESS
+23.1 TDS TELECOM and COMCAST shall reasonably cooperate with the other Party
+in handling law enforcement requests as follows:
+23.1.1 Intercept Devices
+TDS TELECOMIComcast
+Interconnection Agreement September 2009
+
+Interconnection Agreement
+COM-42646
+General Terms and Conditions
+Page 38
+Local and federal law enforcement agencies periodically request
+information or assistance from local telephone service providers. When
+either Party receives a request associated with a customer of the other
+Party, the receiving Party will refer such request to the appropriate Party,
+unless the request directs the receiving Party to attach a pen register, trap-
+and-trace or form of intercept on the Party's own facilities, in which case
+that Party will comply with any valid request, to the extent the receiving
+Party is able to do so; if such compliance requires the assistance of the
+other Party such assistance will be provided.
+23.1.2 Subpoenas
+If a Party receives a subpoena for information concerning an end user the
+Party knows to be an end user of the other Party, the receiving Party will
+refer the subpoena to the requesting entity with an indication that the other
+Party is the responsible company. Provided, however, if the subpoena
+requests records for a period of time during which the receiving Party was
+the end user's service provider, the receiving Party will respond to any
+valid request to the extent the receiving Party is able to do so; if response
+requires the assistance of the other Party such assistance will be provided.
+23.1.3 Law Enforcement Emergencies
+If a Party receives a request from a law enforcement agency to implement
+at its switch a temporary number change, temporary disconnect, or one-
+way denial of outbound calls for an end user of the other Party, the
+receiving Party will comply so long as it is a valid emergency request.
+Neither Party will be held liable for any claims or damages arising from
+compliance with such requests, and the Party serving the end user agrees
+to indemnify and hold the other Party harmless against any and all such
+claims.
+24. CHANGES IN SUBSCRIBER CARRIER SELECTION
+24.1 Each Party will abide by applicable federal and state laws and regulations in
+obtaining End User authorization prior to changing an End User's Local Exchange
+Carrier to itself and in assuming responsibility for any applicable charges as
+specified in Section 258(b) of the Telecommunications Act of 1996 and as
+implemented by the relevant orders of the FCC. Pursuant to 47 C.F.R. Section
+64.1120, neither Party may request to view an individual End-User authorization
+before releasing a customer service record (CSR) to the other Party, nor may such
+authorization be requested before processing a local service request (LSR).
+TDS TELECOMIComcast
+Interconnection Agreement September 2009
+
+COM-42646 Interconnection Agreement
+General Terms and Conditions
+Page 39
+25. AMENDMENTS ORWAIVERS
+25.1 Except as otherwise provided in this Agreement, no amendment or waiver of any
+provision of this Agreement and no consent to any default under this Agreement
+will be effective unless the same is in writing and signed by an officer of the Party
+against whom such amendment, waiver or consent is claimed. In addition, no
+course of dealing or failure of a Party strictly to enforce any term, right or
+condition of this Agreement will be construed as a waiver of such term, right, or
+condition. Waiver by either Party of any default by the other Party shall not be
+deemed a waiver of any other default. Failure of either Party to insist on
+performance of any term or condition of this Agreement or to exercise any right or
+privilege hereunder shall not be construed as a continuing or future waiver of such
+term, condition, right or privilege. By entering into this Agreement, the Parties do
+not waive any right granted to them pursuant to the Act; however, the Parties enter
+into this Agreement without prejudice to any positions they have taken previously,
+or may take in the future in any legislative, regulatory or other public forum
+addressing any matters, including matters related to the types of arrangements
+prescribed by this Agreement.
+25.2 At anytime during the effective term of this Agreement and upon request by the
+COMCAST, COMCAST shall be entitled to obtain from TDS TELECOM
+any interconnection agreement in its entirety provided by TDS TELECOM to any
+other telecommunications provider that has been filed and approved by the
+Commission on the same terms and conditions. The Parties agree that such terms
+and conditions shall be effective immediately upon request by the COMCAST.
+26. GENERAL RESPONSIBILITIES OFTHEPARTIES
+26.1 TDS TELECOM and COMCAST shall each use commercially reasonable efforts
+to meet the Interconnection Activation Dates.
+26.2 Each Party is individually responsible to provide facilities within its network that
+are necessary for routing, transporting, measuring, and billing traffic from the
+other Party's network and for delivering such traffic to the other Party's network in
+the standard format and to terminate the traffic it receives in that standard format
+to the proper address on its network.
+26.3 The Parties shall exchange technical descriptions and forecasts of their
+Interconnection and traffic requirements in sufficient detail necessary to establish
+the facilities required to assure traffic completion to and from all End Users in
+their respective designated service areas.
+26.4 Each Party is solely responsible for all products and services it provides to its End
+Users and to other Telecommunications Carriers.
+TDS TELECOM/Comcast
+Interconnection Agreement September 2009
+
+COM-42646 Interconnection Agreement
+General Terms and Conditions
+Page 40
+26.5 Facilities-based carriers are responsible for administering their End User records
+in a LIDB.
+26.6 At all times during the term of this Agreement, each Party shall keep and maintain
+in force at its own expense the following minimum insurance coverage and limits
+and any additional insurance and/or bonds required by Applicable Law:
+26.6.1 Workers' Compensation insurance with benefits afforded under the laws
+of each state covered by this Agreement and Employers Liability insurance
+with minimum limits of $1,000,000 for Bodily Injury-each accident,
+$1,000,000 for Bodily Injury by disease-policy limits and $1,000,000 for
+Bodily Injury by disease-each employee.
+26.6.2 Commercial General Liability insurance with rmrumum limits of:
+$5,000,000 General Aggregate limit; $1,000,000 each occurrence sub-limit
+for all bodily injury or property damage incurred in anyone occurrence;
+$1,000,000 each occurrence sub-limit for Personal Injury and Advertising;
+$5,000,000 Products/Completed Operations Aggregate limit, with a
+$1,000,000 each occurrence sub-limit for Products/Completed Operations.
+The other Party must be named as an Additional Insured on the
+Commercial General Liability policy. Each Party agrees to waive its
+respective rights of subrogation in favor of the other Party on the
+Commercial General Liability policy.
+26.6.3 If use of an automobile is required, Automobile Liability insurance with
+minimum limits of $1,000,000 combined single limits per occurrence for
+bodily injury and property damage, which coverage shall extend to all
+owned, hired and non-owned vehicles.
+26.6.4 Each Party shall require subcontractors providing services under this
+Agreement to maintain in force the insurance coverage and limits required
+in Sections 26.6 through 26.6.3 of this Agreement provided that a Party
+may, with consent of the other Party, utilize a subcontractor with different
+limits of insurance if appropriate to the scope of work to be performed,
+consent not to be unreasonably withheld.
+26.6.5 The Parties agree that companies affording the insurance coverage
+required under Section 26.6 shall have a rating of A- or better and a
+Financial Size Category rating of VII or better, as rated in the A.M. Best
+Key Rating Guide for Property and Casualty Insurance Companies. Upon
+request from the other Party, each Party shall provide to the other Party
+evidence of such insurance coverage.
+TDS TELECOM/Corncast
+Interconnection Agreement September 2009
+
+COM-42646 Interconnection Agreement
+General Terms and Conditions
+Page 41
+26.6.6 Each Party agrees to provide the other Party with at least thirty (30)
+calendar days advance written notice of cancellation, material reduction or
+non-renewal of any of the insurance policies required herein.
+26.6.7 This Section 26.6 is a general statement of insurance requirements and
+shall be in addition to any specific requirement of insurance referenced
+elsewhere in this Agreement or a Referenced Instrument.
+26.7 Upon the Parties' signature of this Agreement, the Parties shall exchange state-
+specific authorized and nationally recognized OCN/AOCNs for facilities-based
+Interconnection.
+26.8 In the event that either Party makes any corporate name change (including
+addition or deletion of a d/b/a), change in OCN/AOCN, or makes or accepts a
+transfer or assignment of interconnection trunks or facilities (including leased
+facilities), or a change in any other identifier (collectively, a "Party Change"),
+changing Party shall submit written notice to the other Party within thirty (30)
+calendar days of the first action taken to implement such Party Change. Within
+thirty (30) calendar days following receipt of that notice, the Parties shall
+negotiate rates to compensate the non-changed Party for the direct costs to be
+incurred to make the change to the applicable non-changed Party's databases,
+systems, records and/or recording announcement(s). In addition, the Party
+requesting the change shall compensate the other Party for any service order
+charges and/or service request charges associated with such Party Change. The
+Party's agreement to implement a Party Change is conditioned upon the
+requesting Party's agreement to pay all reasonable charges billed for such Party
+Change.
+26.9 When an End User changes its service provider from TDS TELECOM to
+COMCAST or from COMCAST to TDS TELECOM and does not retain its
+original telephone number, the Party formerly providing service to such End User
+shall furnish, upon request, a referral announcement ("Referral
+Announcement") on the original telephone number that specifies the End User's
+new telephone number.
+26.9.1 Referral Announcements shall be provided by a Party to the other Party for
+the period of time and at the rates set forth in the referring Party's tariff(s);
+provided, however, if either Party provides Referral Announcements for a
+period different (either shorter or longer) than the period(s) stated in its
+tariff(s) when its End Users change their telephone numbers, such Party
+shall provide the same level of service to End Users ofthe other Party.
+26.10 Each Party agrees to notify the other Party as soon as practicable whenever such
+Party has knowledge that a labor dispute concerning its employees is delaying or
+TDS TELECOM/Comcast
+Interconnection Agreement September 2009
+
+Interconnection Agreement
+COM-42646
+General Terms and Conditions
+Page 42
+threatens to delay such Party's timely performance of its obligations under this
+Agreement and shall endeavor to minimize impairment of service to the other
+Party.
+27. AUTHORITY
+27.1 Each person whose signature appears below represents that he or she has authority
+to bind the Party on whose behalf he or she has executed this Agreement.
+27.2 Each of the TDS TELECOM operating companies, for which this Agreement is
+executed represents and warrants that it is a corporation duly organized, validly
+existing and in good standing under the laws of the State of New Hampshire.
+27.3 COMCAST represents that it is a corporation duly organized, validly existing and
+in good standing under the laws of the State of New Hampshire and has full
+power and authority to execute and deliver this Agreement and to perform its
+obligations hereunder. COMCAST represents that it has been certified to provide
+intrastate telecommunications in New Hampshire, including local exchange
+service, by the Commission prior to submitting any orders hereunder and is or will
+be authorized to provide the Telecommunications Services contemplated
+hereunder in the territory contemplated hereunder prior to submission of orders
+for such Service.
+28. BINDINGEFFECT
+28.1 This Agreement will be binding on and inure to the benefit of the respective
+successors and permitted assigns of the Parties.
+29. CONSENT
+29.1 Where consent, approval, or mutual agreement is required of a Party, it will not be
+unreasonably withheld, conditioned or delayed.
+30. EXPENSES
+30.1 Except as specifically set out in this Agreement, each Party will be solely
+responsible for its own expenses involved in all activities related to the subject of
+this Agreement.
+30.2 TDS TELECOM and COMCAST shall each be responsible for one-half (1/2) of
+any applicable expenses payable to a Third Party for Commission fees or other
+charges (including regulatory fees and any costs of notice or publication, but not
+including attorney's fees) associated with the filing of this agreement.
+TDS TELECOM/Comcast
+September 2009
+Interconnection Agreement
+
+COM-42646 Interconnection Agreement
+General Terms and Conditions
+Page 43
+31. HEADINGS
+31.1 The headings and number of Sections, Parts, Appendices, Schedules and Exhibits
+to this Agreement are inserted for convenience and identification only and will not
+be considered to define or limit any of the terms herein or affect the meaning or
+interpretation of this Agreement.
+32. RELATIONSHIP OFPARTIESIINDEPENDENTCONTRACTOR
+32.1 Each Party is an independent contractor, and has and hereby retains the right to
+exercise full control of and supervision over its own performance of its
+obligations under this Agreement and retains full control over the employment,
+direction, compensation and discharge of its employees assisting in the
+performance of such obligations. Each Party and each Party's contractor(s) shall
+be solely responsible for all matters relating to payment of such employees,
+including the withholding or payment of all applicable federal, state and local
+income taxes, social security taxes and other payroll taxes with respect to its
+employees, as well as any taxes, contributions or other obligations imposed by
+applicable state unemployment or workers' compensation acts and all other
+regulations governing such matters. Each Party has sole authority and
+responsibility to hire, fire and otherwise control its employees.
+32.2 Nothing contained herein shall constitute the Parties as joint venturers, partners,
+employees or agents of one another, and neither Party shall have the right or
+power to bind or obligate the other. Nothing herein will be construed as making
+either Party responsible or liable for the obligations and undertakings of the other
+Party. Except for provisions herein expressly authorizing a Party to act for
+another, nothing in this Agreement shall constitute a Party as a legal
+representative or agent of the other Party, nor shall a Party have the right or
+authority to assume, create or incur any liability or any obligation of any kind,
+express or implied, against or in the name or on behalf of the other Party unless
+otherwise expressly permitted by such other Party. Except as otherwise expressly
+provided in this Agreement, no Party undertakes to perform any obligation of the
+other Party, whether regulatory or contractual, or to assume any responsibility for
+the management of the other Party's business.
+33. MULTIPLE COUNTERPARTS
+33.1 This Agreement may be executed in multiple counterparts, each of which will be
+deemed an original but all of which will together constitute but one, and the same
+document.
+34. THIRDPARTY BENEFICIARIES
+TDS TELECOMIComcast
+Interconnection Agreement September 2009
+
+COM-42646 Interconnection Agreement
+General Terms and Conditions
+Page 44
+34.1 This Agreement is for the sole benefit of the Parties and their permitted assigns,
+and nothing herein expressed or implied shall create or be construed to create any
+Third Party beneficiary rights hereunder. This Agreement shall not provide and
+will not be construed to provide any Person not a party hereto with any remedy,
+claim, liability, reimbursement, cause of action, or other right in excess of those
+existing without reference hereto.
+35. REGULATORY APPROVAL
+35.1 The Parties understand and agree that this Agreement and any amendment or
+modification hereto will be filed with the Commission for approval in accordance
+with Section 252 of the Act and may thereafter be filed with the FCC. Each Party
+covenants and agrees to fully support approval of this Agreement by the
+Commission or the FCC under Section 252 of the Act without modification.
+36. REGULATORY AUTHORITY
+36.1 TDS TELECOM will be responsible for obtaining and keeping in effect all FCC,
+state regulatory commission, franchise authority and other regulatory approvals
+that may be required in connection with the performance of its obligations under
+this Agreement. COMCAST will be responsible for obtaining and keeping in
+effect all FCC, state regulatory commission, franchise authority and other
+regulatory approvals that may be required in connection with its obligations under
+this Agreement. COMCAST will reasonably cooperate with TDS TELECOM in
+obtaining and maintaining any required approvals for which TDS TELECOM is
+responsible, and TDS TELECOM will reasonably cooperate with COMCAST in
+obtaining and maintaining any required approvals for which COMCAST is
+responsible.
+37. COMPLIANCEAND CERTIFICATION
+37.1 Each Party shall comply at its own expense with all Applicable Laws that relate to
+that Party's obligations to the other Party under this Agreement. Nothing in this
+Agreement shall be construed as requiring or permitting either Party to contravene
+any mandatory requirement of Applicable Law.
+37.2 Each Party represents that it has obtained all necessary state certification prior to
+ordering any Interconnection, functions, facilities, products and services from the
+other Party pursuant to this Agreement. Upon request, each Party shall provide
+proof of certification.
+37.3 Each Party shall be responsible for obtaining and keeping in effect all approvals
+from, and rights granted by, Governmental Authorities, building and property
+TDS TELECOM/Comcast
+Interconnection Agreement September 2009
+
+COM-42646 Interconnection Agreement
+General Terms and Conditions
+Page 45
+owners, other carriers, and any other Third Parties that may be required m
+connection with the performance of its obligations under this Agreement.
+38. AUDITS
+38.1 Subject to the restrictions set forth in Section 8 and except as may be otherwise
+expressly provided in this Agreement, a Party (the "Auditing Party") may audit
+the other Party's (the "Audited Party") books, records, data and other documents,
+as provided herein, once annually, with the audit period commencing not earlier
+than the date on which services were first supplied under this Agreement ("service
+start date") for the purpose of evaluating (i) the accuracy of Audited Party's billing
+and invoicing of the services provided hereunder and (ii) verification of
+compliance with any provision of this Agreement that affects the accuracy of
+Auditing Party's billing and invoicing of the services provided to Audited Party
+hereunder. Notwithstanding the foregoing, an Auditing Party may audit the
+Audited Party's books, records and documents more than once annually if the
+previous audit found (i) previously uncorrected net variances or errors in invoices
+in Audited Party's favor with an aggregate value of at least ten percent (10%) of
+the amounts payable by Auditing Party for audited services provided during the
+period covered by the audit or (ii) non-compliance by Audited Party with any
+provision of this Agreement affecting Auditing Party's billing and invoicing of the
+services provided to Audited Party with an aggregate value of at least ten percent
+(10%) of the amounts payable by Audited Party for audited services provided
+during the period covered by the audit.
+38.1.1 The scope of the audit shall be limited to the period which is the shorter of
+(i) the period subsequent to the last day of the period covered by the audit
+which was last performed (or if no audit has been performed, the service
+start date) and (ii) the twelve (12) month period immediately preceding the
+date the Audited Party received notice of such requested audit, but in any
+event not prior to the service start date. Such audit shall begin no fewer
+than thirty (30) calendar days after Audited Party receives a written notice
+requesting an audit and shall be completed no later than thirty (30)
+calendar days after the start of such audit.
+38.1.2 Such audit shall be conducted either by the Auditing Party's employee(s)
+or an independent auditor acceptable to both Parties. If an independent
+auditor is to be engaged, the Parties shall select an auditor by the thirtieth
+(30th day following Audited Party's receipt of a written audit notice.
+)
+Auditing Party shall cause the independent auditor to execute a
+nondisclosure agreement in a form agreed upon by the Parties. Audits shall
+be performed at Auditing Party's expense.
+TDS TELECOMIComcast
+Interconnection Agreement September 2009
+
+COM-42646 Interconnection Agreement
+General Terms and Conditions
+Page 46
+38.1.3 Each audit shall be conducted on the premises of the Audited Party during
+normal business hours. Audited Party shall cooperate fully in any such
+audit and shall provide the auditor reasonable access to any and all
+appropriate Audited Party employees and any books, records and other
+documents reasonably necessary to assess (i) the accuracy of Audited
+Party's bills and (ii) Audited Party's compliance with the provisions of this
+Agreement that affect the accuracy of Auditing Party's billing and
+invoicing of the services provided to Audited Party hereunder. Audited
+Party may redact from the books, records and other documents provided to
+the auditor any Audited Party Proprietary Information that reveals the
+identity of End Users of Audited Party.
+38.1.4 Each Party shall maintain reports, records and data relevant to the billing
+of any services that are the subject matter of this Agreement for a period of
+not less than twenty-four (24) months after creation thereof, unless a
+longer period is required by Applicable Law.
+38.1.5 If any audit confirms any undercharge or overcharge, then Audited Party
+shall (i) promptly correct any billing error, including making refund of any
+overpayment by Auditing Party in the form of a credit on the invoice for
+the first full billing cycle after the Parties have agreed upon the accuracy of
+the audit results and (ii) for any undercharge caused by the actions of the
+Audited Party, immediately compensate Auditing Party for such
+undercharge, and (iii) in each case, calculate and pay interest as provided
+in Section 15.1.3.1 for the number of calendar days from the date on which
+such undercharge or overcharge originated until the date on which such
+credit is issued or payment is made and available.
+38.1.6 Any disputes concerning audit results shall be referred to the Parties'
+respective personnel responsible for informal resolution. If these
+individuals cannot resolve the dispute within thirty (30) calendar days of
+the referral, either Party may request in writing that an additional audit
+shall be conducted by an independent auditor acceptable to both Parties,
+subject to the requirements set out in this section. Any additional audit
+shall be at the requesting Party's expense.
+39. COMPLETETERMS
+39.1 The terms contained in this Agreement and any Appendices, Attachments,
+Exhibits, Schedules, and Addenda constitute the entire agreement between the
+Parties with respect to the subject matter hereof, superseding all prior
+understandings, proposals and other communications, oral or written.
+TDS TELECOM/Comcast
+Interconnection Agreement September 2009
+
+COM-42646 Interconnection Agreement
+General Terms and Conditions
+Page 47
+40. COOPERATION ON PREVENTING END USER FRAUD
+40.1 Neither Party shall be liable for any fraud associated with the other Party's End
+User's account, including 1+ IntraLATA toll, ported numbers, and Alternate
+Billing Service (ABS). ABS is a service that allows End Users to bill calls to
+account(s) that might not be associated with the originating line. There are three
+(3) types of ABS calls: calling card, collect, and third number billed calls.
+40.2 The Parties agree to cooperate with one another to investigate, minimize, and take
+corrective action in cases of fraud. The Parties' fraud minimization procedures are
+to be cost-effective and implemented so as not to unduly burden or harm one Party
+as compared to the other.
+41. NOTICE OF NETWORK CHANGES
+41.1 Nothing in this Agreement shall limit either Party's ability to upgrade its network
+through the incorporation of new equipment, new software or otherwise. Each
+Party agrees to provide reasonable notice of changes in the information necessary
+for the transmission and routing of services using facilities or networks, as well as
+other changes that affect the interoperability of those respective facilities and
+networks.
+42. GOOD FAITH PERFORMANCE
+42.1 In the performance oftheir obligations under this Agreement the Parties will act in
+good faith and consistently with the intent of the Act. Where notice, approval or
+similar action by a Party is permitted or required by any provision of this
+Agreement, (including, without limitation, the obligation of the Parties to further
+negotiate the resolution of new or open issues under this Agreement) such action
+will not be unreasonably delayed, withheld or conditioned.
+43. GOVERNMENTAL COMPLIANCE
+43.1 COMCAST and TDS TELECOM each will comply at its own expense with all
+applicable law related to (i) its obligations under or activities in connection with
+this Agreement; of (ii) its activities undertaken at, in connection with or relating to
+work locations. COMCAST and TDS TELECOM each agree to indemnify,
+defend, (at the other Party's request) and save harmless the other, each of its
+officers, directors and employees from and against any losses, damages, claims,
+demands, suits, liabilities, fines, penalties, and expenses (including reasonable
+attorneys' fees) that arise out of or result from its failure or the failure of its
+contractors or agents to so comply. Except as expressly specified in this
+Agreement, TDS TELECOM, at its own expense, will be solely responsible for
+obtaining from governmental authorities, building owners, other carriers, and any
+TDS TELECOMIComcast
+Interconnection Agreement September 2009
+
+COM-42646 Interconnection Agreement
+General Terms and Conditions
+Page 48
+other persons or entities, all rights and privileges (including, but not limited to,
+space and power), which are necessary for TDS TELECOM to provide services
+pursuant to this Agreement.
+44. RESPONSIBILITY FOR ENVIRONMENTALCONTAMINATION
+44.1 Each Party will be solely responsible at it own expense for the proper handling,
+storage, transport, treatment, disposal and use of all Hazardous Substances by
+such Party and its contractors and agents. "Hazardous Substances" includes those
+substances:
+44.1.1 included within the definition of hazardous substance, hazardous waste,
+hazardous material, toxic substance, solid waste or pollutant or
+contaminant under any Applicable Law, and
+44.1.2 listed by any governmental agency as a hazardous substance.
+44.2 COMCAST will in no event be liable to TDS TELECOM for any costs
+whatsoever resulting from the presence or Release of any Environmental Hazard,
+including Hazardous Substances, that COMCAST did not introduce to the
+affected work location. TDS TELECOM will indemnify, defend (at
+COMCAST's request) and hold harmless COMCAST, each of its officers,
+directors and employees from and against any losses, damages, claims, demands,
+suits, liabilities, fines, penalties and expenses (including reasonable attorneys'
+fees) that arises out of or result from (i) any Environmental Hazard that TDS
+TELECOM, its contractors or agents introduce to the work locations or (ii) the
+presence or Release of any Environmental Hazard for which TDS TELECOM is
+responsible under Applicable Law.
+44.3 TDS TELECOM will in no event be liable to COMCAST for any costs
+whatsoever resulting from the presence or Release of any Environmental Hazard
+that TDS TELECOM did not introduce to the affected work location. COMCAST
+will indemnify, defend (at TDS TELECOM's request) and hold harmless TDS
+TELECOM, each of its officers, directors and employees from and against any
+losses, damages, claims, demands, suits, liabilities, fines, penalties and expenses
+(including reasonable attorneys' fees) that arise out of or result from i) any
+Environmental Hazard that COMCAST, its contractors or agents introduce to the
+work locations or ii) the presence or Release of any Environmental Hazard for
+which COMCAST is responsible under Applicable Law.
+45. SUBCONTRACTING
+TDS TELECOM/Comcast
+Interconnection Agreement September 2009
+
+COM-42646 Interconnection Agreement
+General Terms and Conditions
+Page 49
+45.1 If any obligation is performed through a subcontractor, each Party will remain
+fully responsible for the performance of this Agreement in accordance with its
+terms, including any obligations either Party performs through subcontractors, and
+each Party will be solely responsible for payments due the Party's subcontractors.
+No subcontractor will be deemed a third party beneficiary for any purposes under
+this Agreement. Any subcontractor who gains access to CPNI or Confidential
+Information covered by this Agreement will be required by the subcontracting
+Party to protect such CPNI or Confidential Information to the same extent the
+subcontracting Party is required to protect the same under the terms of this
+Agreement.
+46. REFERENCED DOCUMENTS
+46.1 Unless the context shall otherwise specifically require, and subject to Section 21,
+whenever any provision of this Agreement refers to a technical reference,
+technical publication, any publication of telecommunications industry
+administrative or technical standards, or any other document specifically
+incorporated into this Agreement, it will be deemed to be a reference to the most
+recent version or edition (including any amendments, supplements, addenda, or
+successors) of each document that is in effect, and will include the most recent
+version or edition (including any amendments, supplements, addenda, or
+successors) of each document incorporated by reference in such a technical
+reference, technical publication, or publication of industry standards.
+46.2 References
+References herein to Sections, Paragraphs, Exhibits, Parts, Schedules, and
+Appendices shall be deemed to be references to Sections, Paragraphs and Parts of,
+and Exhibits, Schedules and Appendices to, this Agreement unless the context
+shall otherwise require.
+46.3 Tariff References
+46.3.1 Wherever any Commission ordered tariff provision or rate is cited or
+quoted herein, it is understood that said cite encompasses any revisions or
+modifications to said tariff.
+46.3.2 Wherever any Commission ordered tariff provision or rate is incorporated,
+cited or quoted herein, it is understood that said incorporation or reference
+applies only to the entity within the state whose Commission ordered that
+tariff.
+46.4 Conflict in Provisions
+TDS TELECOM/Comcast
+Interconnection Agreement September 2009
+
+COM-42646 Interconnection Agreement
+General Terms and Conditions
+Page 50
+46.4.1 In the event of a conflict between the provisions of this Agreement, either
+Party's operational guidelines and the Act, the order of control shall be the
+Act, followed by this Agreement and finally the operational guidelines.
+46.4.2 If any definitions, terms or conditions in any given Appendix, Attachment,
+Exhibit, Schedule or Addenda differ from those contained in the main
+body of this Agreement, the definitions, terms or conditions in the main
+body of this Agreement will supersede those contained in any given
+Appendix, Attachment, Exhibit, Schedule or Addenda; provided, however
+unless the Appendix, Attachment, Exhibit, Schedule or Addenda explicitly
+calls for its definition, terms or conditions to control, which effect shall be
+limited to that particular Appendix, Attachment, Exhibit, Schedule or
+Addenda and such Appendix, Attachment, Exhibit, Schedule or Addenda
+is executed by an officer (at the vice president level or higher) of both
+parties). If an Appendix contains a Term length that differs from the Term
+length in the main body of this Agreement, the Term length of that
+Appendix will control the length of time that services or activities are to
+occur under that Appendix, but will not affect the Term length of the
+remainder of this Agreement. Notwithstanding the foregoing provisions in
+this subsection 46.4.2, the provisions of Section 5 (Liability and
+Indemnification) and Section 6 (Breach of Contract) of Appendix WP
+(White Pages Directory) shall supersede the liability, indemnification and
+breach provisions contained in the main body of this Agreement with
+respect to services or activities that are to occur under Appendix WP.
+46.5 Joint Work Product
+46.5.1 This Agreement is the joint work product of the Parties and has been
+negotiated by the Parties and their respective counsel and shall be fairly
+interpreted in accordance with its terms and, in the event of any
+ambiguities, no inferences shall be drawn against either Party.
+47. SEVERABILITY
+47.1 Subject to the provisions set forth in Section 4 of the General Terms and
+Conditions, if any term, condition or provision of this Agreement is held to be
+invalid or unenforceable for any reason, each Party agrees that such provision
+shall be enforced to the maximum extent permissible so as to effect the intent of
+the Parties, and the validity, legality and enforceability of the remaining
+provisions of this Agreement shall not in any way be impaired or affected thereby.
+If necessary to effectuate the intent of the Parties, the Parties will promptly
+negotiate in good faith to amend this Agreement with a replacement provision or
+provisions for the unenforceable language that reflects such intent as closely as
+TDS TELECOM/Comcast
+Interconnection Agreement September 2009
+
+COM-42646 Interconnection Agreement
+General Terms and Conditions
+Page 51
+possible. If impasse is reached, the Parties will resolve said impasse under the
+dispute resolution procedures set forth in Section 16.
+47.2 Incorporation by Reference
+The General Terms and Conditions of this Agreement, and every Interconnection,
+function, facility, product or service provided hereunder, shall be subject to all
+rates, terms and conditions contained in the Appendices to this Agreement which
+are legitimately related to such Interconnection, function, facility, product or
+service.
+48. SURVIVALOF OBLIGATIONS
+48.1 Any liabilities or obligations of a Party for acts or omISSIOns prior to the
+cancellation or termination of this Agreement, any obligation of a Party under the
+provisions regarding indemnification, Confidential Information, limitations on
+liability, and any other provisions of this Agreement which, by their terms, are
+contemplated to survive (or to be performed after) termination of this Agreement,
+will survive cancellation or termination thereof.
+49. GOVERNINGLAW
+49.1 Unless otherwise provided by Applicable Law, this Agreement shall be governed
+by and construed in accordance with the Act, the FCC Rules and Regulations
+interpreting the Act and other applicable federal law, as well as the laws of the
+State of New Hampshire, and the rules and regulations of the Commission. To
+the extent that federal law would apply state law in interpreting this Agreement,
+the domestic laws of the state in which the Interconnection, functions, facilities,
+products and services at issue are furnished or sought shall apply, without regard
+to that state's conflict of laws principles. The Parties submit to personal
+jurisdiction in New Hampshire, and waive any and all objection to any such
+venue.
+50. OTHERREQUIREMENTS
+50.1 ACCESS TO RIGHTS-OF-WAY - SECTION 251(b)(4)
+50.1.1 TDS TELECOM shall provide to COMCAST non-discriminatory access
+to Poles, Ducts, Conduits and Rights of Way owned or controlled by TDS
+TELECOM. Such access shall be provided in accordance with, but only to
+the extent required by, Applicable Law, pursuant to TDS TELECOM's
+applicable tariffs, or, in the absence of an applicable TDS TELECOM
+TDS TELECOM/Comcast
+Interconnection Agreement September 2009
+
+COM-42646 Interconnection Agreement
+General Terms and Conditions
+Page 52
+tariff, TDS TELECOM's generally offered form oflicense agreement or a
+mutually acceptable agreement negotiated, or to be negotiated, by the
+Parties.
+50.2 DIALING PARITY - SECTION 251(b)(3)
+50.2.1 The Parties shall provide Dialing Parity to each other as required under
+Section 251(b)(3) of the Act.
+51. APPENDICES INCORPORATEDBY REFERENCE
+51.1 This Agreement incorporates the following listed Appendices. These appendices
+along with their associated Attachments, Exhibits and Addenda constitute the
+entire Agreement between the Parties.
+ITR- Interconnection Trunking Requirements
+NIM- Network Interconnection Methods
+Number Portability
+Numbering
+Pricing
+Reciprocal Compensation
+WP- White Pages
+911
+51.2 LOCAL NUMBER PORTABILITY- SECTION 251(b)(2)
+51.2.1 The Parties shall provide to each other Local Number Portability (LNP) on
+a reciprocal basis as outlined in the applicable Appendix Number
+Portability, which is/are attached hereto and incorporated herein by
+reference.
+51.3 INTERCONNECTION TRUNKING REQUIREMENTS- SECTION 251(a)
+51.3.1 TDS TELECOM shall provide to COMCAST Interconnection of the
+Parties' facilities and equipment for the transmission and routing of
+Telephone Exchange Service traffic and Exchange Access traffic pursuant
+to the Appendix ITR, which is attached hereto and incorporated herein by
+reference. Methods for Interconnection and Physical Architecture shall be
+as defined in the Appendix NIM, which is attached hereto and
+incorporated herein by reference.
+51.4 TRANSMISSION AND ROUTING OF TELEPHONE EXCHANGE SERVICE
+TRAFFIC
+TDS TELECOM/Comcast
+Interconnection Agreement September 2009
+
+COM-42646 Interconnection Agreement
+General Terms and Conditions
+Page 53
+51.4.1 The Appendix Reciprocal Compensation, which is attached hereto and
+incorporated herein by reference, prescribe traffic routing parameters for
+Local Interconnection Trunk Group(s) the Parties shall establish over the
+Interconnections specified in the Appendix ITR, which is attached hereto
+and incorporated herein by reference.
+51.5 COMPENSATION FOR DELIVERY OF TRAFFIC- SECTION 251(b)(5)
+51.5.1 The Parties agree to compensate each other for the transport and
+termination of traffic as provided in Appendix Reciprocal Compensation.
+52. CUSTOMERINQUIRIES
+52.1 Each Party will refer all questions regarding the other Party's services or products
+directly to the other Party at atelephone number specified by that Party.
+52.2 Each Party will ensure that all of their representatives who receive inquiries
+regarding the other Party's services: (i) provide the numbers described in Section
+52.1 to callers who inquire about the other Party's services or products; and (ii) do
+not in any way disparage or discriminate against the other Party or its products or
+services.
+TDS TELECOMIComcast
+Interconnection Agreement September 2009
+
+COM-42646 Interconnection Agreement
+General Terms and Conditions
+Page 54
+53. DISCLAIMER OF WARRANTIES
+53.1 EXCEPT AS EXPRESSLY PROVIDED UNDER THIS AGREEMENT, NO
+PARTY MAKES OR RECEIVES ANY WARRANTY, EXPRESS OR
+IMPLIED, WITH RESPECT TO THE INTERCONNECTION, FUNCTIONS,
+FACILITIES, PRODUCTS AND SERVICES IT PROVIDES UNDER OR IS
+CONTEMPLATED TO PROVIDE UNDER THIS AGREEMENT AND EACH
+PARTY DISCLAIMS THE IMPLIED WARRANTIES OF
+MERCHANTABILITY AND/OR OF FITNESS FOR A PARTICULAR
+PURPOSE. ADDITIONALLY, NO PARTY TO THIS AGREEMENT
+ASSUMES RESPONSIBILITY WITH REGARD TO THE CORRECTNESS OF
+DATA OR INFORMATION SUPPLIED BY ANY OTHER PARTY TO THIS
+AGREEMENT WHEN SUCH DATA OR INFORMATION IS ACCESSED
+AND USED BY A THIRD PARTY.
+TDS Telecommunications Corporation,
+agent
+Susan Jin-Davis Katherine S. Bamekow
+Printed Name Printed Name
+Vice President, Corp. Development Director- Carrier Relations
+Position/Title Position/Title
+Signature Page to the Interconnection Agreement TDS Telecommunications Corporation
+(New Hampshire Cos.) and Comcast Phone of New Hampshire, LLC d/b/a Comcast
+Digital Phone (COMCAST) dated the 15th day of September, 2009.
+TDS TELECOMIComcast
+Interconnection Agreement September 2009

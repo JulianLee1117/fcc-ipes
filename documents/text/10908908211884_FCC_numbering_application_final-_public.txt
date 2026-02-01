@@ -1,0 +1,403 @@
+September 8, 2025
+VIA ECFS AND EMAIL
+Marlene H. Dortch, Secretary
+Federal Communications Commission
+45 L Street NE
+Washington, DC 20554
+Re: Request for Confidential Treatment, Application of X-Nets Inc. for Authority to
+Obtain Numbering Resources Pursuant to Section 52.15(g) of the Commission’s
+Rules
+Dear Ms. Dortch:
+Pursuant to section 52.15(g) of the Commission’s rules, X-Nets Inc. (“X-Nets”) hereby
+submits the enclosed application for authorization to obtain numbering resources and requests
+confidential treatment of Exhibits A-2, A-3, and B contained therein. Consistent with sections
+0.457 and 0.459 of the Commission’s rules,1 X-Nets has labeled the relevant exhibits “Confidential
+– Not for Public Inspection.”
+X-Nets respectfully requests confidential treatment for Exhibits A-2 and A-3, which
+contain evidence of X-Nets’ compliance with its 911 obligations under part 9 of the Commission’s
+rules, as well as with the provisions of the Communications Assistance with Law Enforcement
+Act, 47 U.S.C. § 1001 et seq (“CALEA”). These Exhibits contain commercially sensitive
+agreements between X-Nets and its 911 service provider, as well as technologically sensitive
+diagrams showing how X-Nets complies with CALEA.
+Additionally, X-Nets respectfully requests confidential treatment for Exhibit B, which
+contains the interconnect agreement between X-Nets and its Competitive Local Exchange Carrier
+(“CLEC”) partner. This Exhibit contains commercially sensitive pricing information and
+proprietary technical information that X-Nets does not make publicly available in the normal
+course of business. X-Nets therefore requests that the information in Exhibits A-2, A-3, and B be
+withheld from public inspection pursuant to Exemption 4 of the Freedom of Information Act
+(“FOIA”) and section 0.457 of the Commission’s rules.2
+1. Identification of the specific information for which confidential treatment is sought.
+X-Nets requests that Exhibits A-2, A-3, and B be withheld from public disclosure
+1 See 47 CFR §§ 0.457, 0.459.
+2 See 5 U.S.C. § 552(b)(4); see also 47 CFR § 0.457(d)(2)
+
+under 5 U.S.C. § 552(b)(4) and 47 CFR § 0.457(d)(2). These Exhibits contain
+proprietary and commercially sensitive information concerning X-Nets’ commercial
+agreement with its 911 service provider, technical diagrams showing how X-Nets
+complies with CALEA, and the pricing and terms of the agreement between X-Nets
+and its telecommunications partner to serve as X-Nets’ homing tandem and to route
+local and access traffic (both originating and terminating) to the public switched
+telephone network (“PSTN”).
+2. Identification of the Commission proceeding in which the information was submitted
+or a description of the circumstances giving rise to the submission.
+X-Nets is submitting Exhibits A-2, A-3, and B with its application for numbering
+resources as proof that it complies with its 911 obligations under part 9 of the
+Commission’s rules, as well as with the provisions of CALEA, pursuant to section
+52.15(g)(3)(ii)(E) of the Commission’s rules, and as proof that it is capable of providing
+service within sixty days of the numbering resources activation date, pursuant to section
+52.15(g)(3)(ii)(H) of the Commission’s rules.
+3. Explanation of the degree to which the information is commercial or financial, or
+contains a trade secret or is privileged.
+Exhibits A-2 and A-3 contain business confidential agreements between X-Nets and its
+911 service provider, and technical diagrams showing how X-Nets transmits voice
+traffic to the PSTN in compliance with CALEA. Exhibit B contains the interconnect
+agreement between X-Nets and its CLEC partner with confidential pricing and
+technical terms. This information is subject to exemption from public disclosure under
+FOIA Exemption 4.3 The Commission has long held that, for the purposes of
+Exemption 4, “records are ‘commercial’ as long as the submitter has a commercial interest
+in them.”4
+4. Justification of the period during which the submitting party asserts that material
+should not be available for public disclosure
+The confidential information contained in Exhibits A-2, A-3, and B should never be
+released for public inspection. The information is commercially sensitive and
+3 See 5 U.S.C. § 552(b)(4).
+4 Pub. Citizen Rsch. Grp. v. FDA, 704 F.2d 1280, 1291 (D.C. Cir. 1983) (quoting Gulf & W. Indus. v. United States, 615 F.2d
+527, 530 (D.C. Cir. 1979)).
+
+confidential and any release would commercially disadvantage X-Nets.
+For the foregoing reasons, X-Nets respectfully requests that the Commission keep Exhibits
+A-2, A-3, and B within the enclosed supplement confidential and withhold them from public
+inspection.
+Please direct any questions regarding this request to the undersigned.
+Respectfully submitted,
+/s/
+Majdi Abdulqader
+Chief Technical Officer
+X-Nets Inc.
+Enc.
+
+Before the
+FEDERAL COMMUNICATIONS COMMISSION
+Washington, D.C. 20554
+___________________________________
+In the Matter of )
+X-Nets Inc. )
+For Authority to Obtain Numbering )
+Resources Pursuant to Section 52.15(g) of )
+The Commission's rules )
+_______________________________________)
+WC Docket No. _____________
+APPLICATION OF X-NETS INC.
+FOR AUTHORIZATION TO OBTAIN NUMBERING RESOURCES
+X-Nets Inc. (“X-Nets”), a provider of interconnected Voice over Internet
+Protocol (“VoIP”) service, hereby respectfully requests authorization from the
+Federal Communications Commission (“FCC” or “Commission”) for numbering
+resources pursuant to Commission Rule Section 52.15(g)(3)(ii). The Company is
+headquartered in San Jose, CA, and does not have a parent corporation. NECA has
+assigned the Company an Operating Company Number (“OCN”)- 741L.
+Under the Commission's Numbering Order, an interconnected VoIP
+provider may obtain numbering resources from the Numbering Administrator
+upon a showing that it is authorized to provide service in the area for which the
+numbering resources are requested. Such authorization may be obtained upon an
+application to the Commission containing the information detailed in Section
+52.15.(g)(3)(ii)(A)- (N) of the Commission's Rules. The number resources that
+are the subject of this Application will be used to provide interconnected VoIP
+services initially in the state of California, although X-Nets ultimately intends to
+provide such service in all states.
+X-Nets has negotiated a traffic roaming agreement with BICS and it will serve
+as X-Nets’ access homing tandem and to route local and access traffic (both
+originating and terminating) to the PSTN. BICS interconnects with its
+
+telecommunications provider partners that will broadcast their tandem platforms
+for the purposes of managing X-Nets’ assigned OCN. To further support this
+application, X-Nets provides the following additional information:
+I. INFORMATION REQUIRED BY SECTION 52.15(g)(3)(ii)
+A. § 52.15(g)(3)(ii)(A)
+Name: X-Nets Inc.
+Address: 1625 The Alameda, Suite 700
+City: San Jose
+State: CA
+ZIP Code: 95126
+Country: USA
+Telephone: (925) 383-0904
+Website: x-nets.com
+Contact for regulatory requirements and compliance with the Commission’s rules:
+Name: Majdi Abdulqader
+Title: Chief Technical Officer
+Address: 1625 The Alameda, Suite 700
+City: San Jose
+State: CA
+ZIP Code: 95126
+Country: USA
+Telephone: (925) 383-0904
+Email: majdi.abdulqader@x-nets.com
+Contact for 911 and Law Enforcement:
+Name: Majdi Abdulqader
+Title: Chief Technical Officer
+Address: 1625 The Alameda, Suite 700
+City: San Jose
+State: CA
+ZIP Code: 95126
+Country: USA
+Telephone: (925) 383-0904
+Email: majdi.abdulqader@x-nets.com
+B. § 52.15(g)(3)(ii)(B)
+X-Nets hereby acknowledges that authorization to obtain numbering resources
+under Section 52.15(g) of the Commission's Rules is subject to compliance with
+
+applicable Commission numbering rules, to the numbering authority delegated to
+the states, and the state laws, regulations, and registration requirements applicable
+to businesses operating in each state where X-Nets seeks numbering resources.
+The Company hereby also acknowledges that this authorization is subject to
+compliance with industry guidelines and practices regarding numbering, as
+applicable to telecommunications carriers.
+C. § 52.15(g)(3)(ii)(C)
+X-Nets hereby certifies that it will not use the numbers obtained pursuant to an
+authorization under Section 52.1S(g) to knowingly transmit, encourage, assist, or
+facilitate illegal robocalls, illegal spoofing, or fraud, in violation of robocall,
+spoofing, and deceptive telemarketing obligations under 47 CFR §§ 64.1200,
+64.1604, and 64.6300 et seq., and 16 CFR 310.3(b).
+D. § 52.15(g)(3)(ii)(D)
+X-Nets hereby certifies that it has fully complied with all applicable
+STIR/SHAKEN caller ID authentication and robocall mitigation program
+requirements and filed a certification in the Robocall Mitigation Database as
+required by 47 CFR §§ 64.6301 to 64.6305.
+E. § 52.15(g)(3)(ii)(E)
+X-Nets hereby certifies that it complies with its 911 obligations under part 9 of the
+Commission's rules, as well as with the provisions of the Communications
+Assistance with Law Enforcement Act, 47 U.S.C. § 1001 et seq. Evidence that X-
+Nets has complied with these requirements is attached hereto as Exhibit A. The
+Company requests confidential treatment under the Commission's rules for parts
+of Exhibit A.
+F. § 52.15(g)(3)(ii)(F)
+X-Nets hereby certifies that it complies with the Access Stimulation rules under
+47 CFR § 51.914.
+
+G. § 52.15(g)(3)(ii)(G)
+X-Nets hereby acknowledges that it must file requests for numbers with the
+relevant state commission(s) at least 30 days before requesting numbers from the
+Numbering Administrators.
+H. § 52.15(g)(3)(ii)(H)
+X-Nets hereby sets forth its capability to provide service within sixty (60) days of
+the numbering resources activation date. A roaming agreement demonstrating the
+access to the platform and capability of BICS’ network is attached to this
+application as Exhibit B. The Company requests confidential treatment under the
+Commission's rules for Exhibit B. Also attached, as Exhibit C, is a network
+diagram showing the call flow for the origination and termination of X-Nets’
+customers' calling traffic.
+I. § 52.15(g)(3)(ii)(I)
+X-Nets has not yet begun providing service. Its roaming agreement was effective
+September 1 with BICS. As such, X-Nets has not yet filed a Broadband Data
+Collection report nor obtained a USF filer ID from USAC.
+J. § 52.15(g)(3)(ii)(J)
+X-Nets hereby certifies that it will comply with its Universal Service Fund
+contribution obligations under 47 CFR part 54, subpart H, its
+Telecommunications Relay Service contribution obligations under 47 CFR
+§ 64.604(c)(5)(iii), its North American Numbering Plan and Local Number
+Portability Administration contribution obligations under 47 CFR §§ 52.17 and
+52.32, its obligations to pay regulatory fees under 47 CFR § 1.1154, and its 911
+obligations under 47 CFR part 9. X-Nets’ FRN is 0036854842 and will provide
+its 499 Filer ID after customer service activation begins in the following weeks.
+
+K. § 52.15(g)(3)(ii)(K)
+X-Nets certifies that it has the financial, managerial, and technical expertise to
+provide reliable service. It is financially stable, led by a strong, experienced
+management team with substantial managerial experience in the
+telecommunications industry, and has sufficient technical expertise and
+infrastructure in place to provide reliable numbering services. The Company's key
+management and technical personnel are below.
+Key Personnel:
+Majdi Abdulqader PhD – Chief Technical Officer
+Sam Nassar – Chief Operating Officer
+Minchul Ho – Chief Revenue Officer
+Ghada Samir CPA/MBA - Chief Financial Officer
+Attached as Exhibit D is a description of the experience for each individual. None
+of the identified personnel are being or have been investigated by the Commission
+or any law enforcement or regulatory agency for failure to comply with any law,
+rule, or order, including the Commission's rules applicable to unlawful robocalls
+or unlawful spoofing.
+L. § 52.15(g)(3)(ii)(L)
+Attached hereto as Exhibit E is a list containing the name, address, citizenship,
+and principal businesses of all individuals and entities that directly or indirectly
+own at least ten percent of the equity of X-Nets, and the percentage of equity
+owned by each of those entities (to the nearest one percent). X-Nets does not have
+any interlocking directorates with any foreign carrier. X-Nets hereby certifies that
+it is not affiliated with a foreign carrier.
+M. § 52.15(g)(3)(i)(M)
+X-Nets hereby certifies that no party to this application is subject to a denial of
+Federal benefits pursuant to Section 5301 of the Anti-Drug Abuse Act of 1988, 21
+
+U.S.C. § 862.
+N. § 52.15(g)(3)(ii)(N)
+A declaration prepared pursuant to Section 1.16 of the Commission's rules is
+attached hereto as Exhibit F.
+II. ACKNOWLEDGEMENT OF CONDITIONS IN SECTION 52.15(g)(3)(x)
+As required by Section 52.15(g)(3)(x), X-Nets will maintain the accuracy of all
+contact information, certifications, and ownership or affiliation information in this
+application, and will file a correction with the Commission and each applicable
+state within thirty (30) days of any changes.
+III. CONCLUSION
+Pursuant to Section 52.15(g)(3)(ii) of the Commission's Rules, X-Nets respectfully
+requests the Commission grant this application for authorization to obtain
+numbering resources.
+Respectfully submitted,
+/s/
+Majdi Abdulqader
+Chief Technical Officer
+X-Nets Inc.
+September 8, 2025
+Attachments
+
+Exhibit A
+Exhibit A-1: 911 Reliability Certification for 2023
+Exhibit A-2: Master Services Agreement and 911-Terms and Conditions with 911 Service
+Provider (Submitted Pursuant to Confidentiality Request)
+Exhibit A-3: CALEA Compliance (Submitted Pursuant to Confidentiality Request)
+
+Exhibit A-1
+911 Reliability Certification
+
+Attestation by Certifying Official
+911 Reliability Certification for 2025
+Pursuant to Federal Communications Commission Rule 12.4, 47 C.F.R. § 12.4, I hereby
+attest that I am a corporate officer with supervisory and budgetary authority over network
+operations of a Covered 911 Service Provider in all relevant service areas.
+I further attest, under penalty and perjury, that covered 911 Service Provider X-Nets Inc.:
+1. Has satisfied applicable certification obligations with respect to circuit diversity, backup
+power and network monitoring set forth in Federal Communications Commission Rule
+12.4(c), 47 C.F.R. § 12.4 (c).
+2. Has adequate internal controls to bring to my attention material information regarding
+network architecture, operations, and maintenance that would affect the certification.
+3. Has made me aware of all material information reasonably necessary to complete the
+certification.
+_________/s/________________
+Majdi Abdulqader
+Chief Technical Officer, X-Nets Inc.
+
+Exhibit A-2: Master Services Agreement and 911-Terms and Conditions with 911
+Service Provider (Submitted Pursuant to Confidentiality Request)
+REDACTED FOR PUBLIC INSPECTION
+
+Exhibit A-3: CALEA Compliance (Submitted Pursuant to Confidentiality
+Request)
+REDACTED FOR PUBLIC INSPECTION
+
+Exhibit B
+Contract for Call Origination and Termination Showing Capability to Provide
+VoIP Services
+REDACTED FOR PUBLIC INSPECTION
+
+Exhibit C
+Call Flow Network Diagram
+REDACTED FOR PUBLIC INSPECTION
+
+Exhibit D
+Management
+Majdi Abdulqader PhD
+X-Nets Chief Technical Officer
+With dual PhDs in Telecommunications and Applied Mathematics from Harvard University
+and Dundee University, and a distinguished career spanning more than two decades, Majdi is a
+recognized leader in advanced communications and computing technologies. Over 20 years at
+AT&T Labs and Intel Inc., he successfully drove the development and launch of hundreds of
+innovative products, combining deep academic expertise with practical industry impact.
+An accomplished researcher with numerous peer-reviewed publications, Majdi has consistently
+bridged the gap between cutting-edge theory and real-world implementation. His work has
+influenced network architectures, data systems, and AI-driven platforms, delivering both
+technical innovation and measurable business value.
+• First 5G Modem Design, and prototype.
+• Different Security and Encryption protocols for Communication channels.
+• Enhanced 911 beyond Terrestrial,
+• Locating and Tracking in Modern Networks.
+• Multitenant Networking.
+• Telco AI, the next phase of Smart Networking
+• Embedding Satellite Communication with Terrestrial applications
+https://www.linkedin.com/in/majdi-abdulqader-ph-d-048517267/
+Sam Nassar
+X-Nets Chief Operation Officer
+IT Executive | Information Technology Management | Digital Transformation | Data Insights | AI
+& ML | Solutions | Technical Account Management | Customer Support | Customer Success
+Experienced Transformational leader aligning technical strategy with operations that drive
+revenue, maximize efficiencies, and reduce costs. Background includes proven track record
+managing teams across industries including Data Carriers, and IP Services,
+Semiconductor/Manufacturing, Retail, and Call Centers.
+
+Led large scale digital transformation programs, customer value creation through robust product
+offerings, go-to-market, and monetization, innovated by leveraging data and technology with a
+strong focus on P&L.
+https://www.linkedin.com/in/samernassar/
+Minchul Ho
+X-Nets Chief Revenue Officer
+Minchul is a results-oriented leader with a proven track record of driving revenue growth and
+delivering business success across competitive markets. With deep expertise in strategy,
+execution, and customer engagement, he consistently identifies new market opportunities,
+expands customer adoption, and translates innovation into measurable financial results.
+Minchul key strengths include:
+• Revenue Acceleration: Skilled at building and scaling go-to-market strategies, creating
+sustainable revenue streams, and unlocking new business channels.
+• Customer Success: Focused on delivering value-driven solutions that strengthen client
+relationships, improve retention, and expand long-term partnerships.
+• Strategic Leadership: Aligns cross-functional teams around clear business goals, enabling
+both operational efficiency and accelerated growth.
+• Innovation in Practice: Combines vision with execution to turn emerging technologies
+into real-world, profitable solutions.
+Through these capabilities, Minchul has repeatedly proven the ability to transform business
+strategy into profitable outcomes, while inspiring teams and partners to achieve lasting success.
+https://www.linkedin.com/in/minchul-ho-276984/
+Ghada Samir CPA/MBA
+X-Nets Chief Finance Officer
+Ghada is a highly accomplished Chief Financial Officer (CFO), holding both a CPA and an
+MBA, with a proven track record of driving financial success across multiple industries. With
+her deep expertise in financial strategy, corporate governance, and operational efficiency, she has
+guided companies through periods of rapid growth, transformation, and market expansion.
+Throughout her career, Ghada has successfully optimized capital structures, streamlined
+operations, and maximized shareholder value, enabling organizations to achieve sustained
+
+profitability and long-term financial stability. Her leadership is marked by strategic foresight,
+disciplined execution, and strong stakeholder engagement, making her a trusted advisor to
+executive teams and boards alike.
+
+Exhibit E
+Equity Holders
+This statement certifies that all authorized shares of X-Nets Inc., a corporation organized and
+existing under the laws of the State of Wyoming, remain fully owned by the Corporation and
+have not been distributed, assigned, or transferred to any individual or entity.
+As of the date of this statement:
+• Company Name: X-Nets Inc.
+• State of Incorporation: Wyoming
+• Date of Incorporation: [03/24/2025]
+• Authorized Shares: [10,000]
+• Issued Shares: None (all authorized shares remain unissued and are the property of the
+Corporation)
+The Corporation affirms that the equity has not been distributed to any shareholder and remains
+under the ownership of the Company as a corporate entity.
+The officers of the Corporation are as follows:
+• President: Majdi Abdulqader
+• Treasurer: Ghada Samir
+This statement is issued to confirm the ownership status of the Company’s equity as of
+[09/07/2025].
+Authorized By:
+[Majdi Abdulqader]
+President
+[X-Nets, Inc.]
+[09/07/2025]
+[Ghada Samir]
+Treasurer
+[X-Nets, Inc.]
+[09/07/2025]
+
+Exhibit F
+Section 1.16 Officer Declaration
+
+DECLARATION OF MAJDI ABDULQADER
+I, Majdi Abdulqader, hereby declare under the penalty of perjury, pursuant to 47 C.F.R. §
+1.16, that the following is true and correct:
+1. I am the Chief Technical Officer for X-Nets Inc. (“X-Nets”). I have served in this role since
+March 26, 2025.
+2. I have reviewed the foregoing Application of X-Nets for Authorization to Obtain
+Numbering Resources, and the exhibits thereto, and I am familiar with their contents.
+3. To the best of my knowledge, information, and belief, the information outlined in the
+foregoing Supplement is true and accurate.
+____/s/____________________
+Majdi Abdulqader
+Chief Technical Officer
+September 8, 2025

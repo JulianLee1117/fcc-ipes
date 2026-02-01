@@ -1,0 +1,47 @@
+Before the
+Federal Communications Commission
+Washington, D.C. 20554
+In the Matter of )
+)
+NobelBiz, Inc., Applicant ) WC Docket No. 20-385
+For Authorization to Obtain Numbering Resources )
+Pursuant to Section 52.15(g) of )
+the Commission’s Rules )
+WITHDRAWAL OF NOBELBIZ, INC.’S APPLICATION FOR
+INTERCONNECTED VoIP NUMBERING AUTHORIZATION
+On November 10, 2020, NobelBiz, Inc. (“NobelBiz”) filed an Application for
+Interconnected VoIP Numbering Authorization (“Application”) with the Federal Communications
+Commission (“Commission” or “FCC”).1 On March 2, 2021, the Commission opened WC Docket
+No. 20-385 and placed the Application on non-streamlined review.2 The Application has been
+under review by the Committee for the Assessment of Foreign Participation in the United States
+Telecommunications Services Sector (“Committee”), and NobelBiz has provided complete
+responses to the Committee’s requests for information.
+At the time of the Application, direct access to numbers was a requirement for NobelBiz
+to obtain token access authorization for purposes of deploying the STIR/SHAKEN call
+authentication framework. Since that time, however, the Governing Authority has changed its
+1 Application of NobelBiz, Inc. for Authorization to Obtain Numbering Resources, WC Docket No. 20-385
+(filed Nov. 10, 2020).
+2 Public Notice, INTERCONNECTED VOIP NUMBERING AUTHORIZATION APPLICATION FILED
+BY NOBELBIZ, INC. PURSUANT TO SECTION 52.15(g)(3) OF THE COMMISSION’S RULES NON-
+STREAMLINED PLEADING CYCLE ESTABLISHED, DA 21-254, WC Docket No 20-385 (rel. Mar. 2,
+2021).
+1
+
+policy and direct access to numbers is no longer necessary.3 Although NobelBiz initially continued
+to pursue its Application before the Commission, upon further consideration of its business needs,
+NobelBiz has decided that it does not have a sufficient need for direct access to numbers at this
+time to pursue the Application further. Therefore, NobelBiz requests leave to withdraw its
+Application and requests that the Commission close WC Docket No. 20-385 as a result.
+Respectfully submitted,
+Steven A. Augustino
+KELLEY DRYE & WARREN LLP
+3050 K Street, NW
+Suite 400
+Washington, D.C. 20007
+(202) 342-8612
+saugustino@kelleydrye.com
+Counsel for NobelBiz, Inc
+August 31, 2021
+3 Public Notice, STIR/SHAKEN Caller ID Authentication Governance Framework Revised to Expand
+Participation, WC Docket No. 17-97, DA 20-1374 (rel. Nov. 18, 2020).
+2

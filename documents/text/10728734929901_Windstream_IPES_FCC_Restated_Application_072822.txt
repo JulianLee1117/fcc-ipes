@@ -1,0 +1,285 @@
+WINDSTREAM SERVICES II, LLC
+4001 N. Rodney Parham Road
+Little Rock, Arkansas 72212
+Nicole Winters
+Senior Counsel
+501.748.6313
+Email: Nicole.Winters@windstream.com
+July 28, 2022
+VIA ECFS
+Marlene H. Dortch
+Secretary
+Federal Communications Commission
+45 L Street, NE
+Washington, DC 20554
+Re: PAETEC iTEL, L.L.C.’s Restated Application for Interconnected VoIP
+Numbering Authorization
+WC 20-416
+Dear Ms. Dortch:
+PAETEC iTEL, L.L.C. (“Windstream IPES”) submits this Restated Application for
+Interconnected VoIP Numbering Authorization (“Restated Application”) to incorporate
+information provided in supplements filed on March 9, 2021 as well as a request for confidential
+treatment.
+This Restated Application includes confidential information, pursuant to 47 C.F.R. §§
+0.457 and 0.459, Windstream IPES respectfully requests the Commission grant confidential
+treatment to Exhibit A, which contains sensitive trade secrets and commercial information that
+falls within Exemption 4 of the Freedom of Information Act (“FOIA”).1 Windstream IPES would
+suffer substantial competitive harm if this information were disclosed, as such it has marked
+Exhibit A with the header “SUBJECT TO REQUEST FOR CONFIDENTIAL TREATMENT –
+NOT FOR PUBLIC INSPECTION.”
+In support of this request and pursuant to Section 0.459(b) of the Commission’s rules2
+1. IDENTIFICATION OF THE SPECIFIC INFORMATION FOR WHICH
+CONFIDENTIAL TREATMENT IS SOUGHT:3
+Windstream IPES seeks confidential treatment of Exhibit A to the enclosed restated
+application.
+1 5 U.S.C. § 552(b)(4).
+2 47 C.F.R. § 0.459(b).
+3 47 C.F.R. § 0.459(b)(1).
+
+July 28, 2022
+Page 2 of 3
+2. DESCRIPTION OF CIRCUMSTANCES GIVING RISE TO THE SUBMISSION.4
+As proof of Windstream IPES facilities readiness as required by Section 52.15(b)(3)(i)(D)
+of the Commission’s rules, Windstream IPES is submitting the agreement between it and
+its carrier partner as Exhibit A.
+3. EXPLANATION OF THE DEGREE TO WHICH THE INFORMATION IS
+COMMERCIAL OR FINANCIAL, OR CONTAINS A TRADE SECRET OR IS
+PRIVILEGED.5
+The information for which Windstream IPES seeks confidential treatment contains
+sensitive commercial information which would customarily be guarded from competitors.6
+Exhibit A is a copy of its carrier partner and contains proprietary commercial information
+concerning the operations and pricing of Windstream IPES’ carrier partner and
+Windstream IPES’ network, services, and operating costs and expenses.
+4. EXPLANATION OF THE DEGREE TO WHICH THE INFORMATION
+CONCERNS A SERVICE THAT IS SUBJECT TO COMPETITION.7
+Exhibit A contains information relating to commercial matters that could be used by
+competitors to Windstream IPES’ disadvantage. Windstream IPES has numerous
+competitors in the Voice over Internet Protocol (“VoIP”) services sector in which it
+operates. Detailed operations and commercial information of the type provided by
+Windstream IPES could compromise Windstream IPES’ position in this highly competitive
+industry. Release would therefore result in substantial competitive harm to Windstream
+IPES.
+5. EXPLANATION OF HOW DISCLOSURE OF THE INFORMATION COULD
+RESULT IN SUBSTANTIAL COMPETITIVE HARM.8
+Competitors could use Windstream IPES’ proprietary commercial and operational
+information to Windstream IPES’ detriment as they would gain access to sensitive
+information about how Windstream IPES provides services as well as about Windstream
+IPES’ commercial agreements with others in the market that are not normally disclosed to
+the public.
+4 47 C.F.R. § 0.459(b)(2).
+5 47 C.F.R. § 0.459(b)(3).
+6 47 C.F.R. § 0.457(d) and 0.459
+7 47 C.F.R. § 0.459(b)(4)
+8 47 C.F.R. § 0.459(b)(5)
+
+July 28, 2022
+Page 3 of 3
+6. IDENTIFICATION OF ANY MEASURES TAKEN BY THE SUBMITTING
+PARTY TO PREVENT UNAUTHORIZED DISCLOSURE.9
+Windstream IPES has not distributed the information in Exhibit A to the public.
+7. IDENTIFICATION OF WHETHER THE INFORMATION IS AVAILABLE TO
+THE PUBLIC AND THE EXTENT OF ANY PREVIOUS DISCLOSURE OF THE
+INFORMATION TO THIRD PARTIES.10
+Windstream IPES has not previously disclosed the information in Exhibit A to the public
+or to the third parties.
+8. JUSTIFICATION OF THE PERIOD DURING WHICH THE SUBMITTING
+PARTY ASSERTS THAT MATERIAL SHOULD NOT BE AVAILABLE FOR
+PUBLIC DISCLOSURE.11
+Windstream IPES requests that Exhibit A be treated as confidential for a period of ten
+years. This period is necessary due to proprietary nature of the information in Exhibit A.
+9. OTHER INFORMATION THAT WINDSTREAM IPES BELIEVES MAY BE
+USEFUL IN ASSESSING WHETHER ITS REQUEST FOR CONFIDENTIALITY
+SHOULD BE GRANTED.12
+The information concerns Windstream IPES’ proprietary network information, related to
+current and planned commercial and operational information, and, as such, is commercially
+sensitive.
+Should you have any questions or need additional information please feel free to contact me.
+Sincerely,
+Nicole Winters
+Senior Counsel
+9 47 C.F.R. § 0.459(b)(6).
+10 47 C.F.R. § 0.459(b)(7).
+11 47 C.F.R. § 0.459(b)(8).
+12 47 C.F.R. § 0.459(b)(9)
+
+BEFORE THEN
+FEDERAL COMMUNICATIONS COMMISSION
+WASHINGTON, D.C. 20554
+In the Matter of )
+)
+PAETEC iTEL, L.L.C., Applicant )
+For Authorization to Obtain Numbering ) WC Docket No. 20-416
+Resources Pursuant to Section 52.15(g) of )
+the Commission’s Rules )
+RESTATED APPLICATION OF PAETEC iTEL, L.L.C. FOR
+INTERCONNECTED VOIP NUMBERING AUTHORIZATION
+PAETEC iTEL, L.L.C. (“Windstream IPES”), is a provider of interconnected voice over
+internet protocol (“iVoIP”) service, and files this restated application with the Federal
+Communications Commission (the “Commission”) for authorization to acquire telephone numbers
+directly from the North American Numbering Plan Administrator and the Pooling Administrator
+(the “Numbering Administrators”) pursuant to Commission rule section 52.15(g)(3).1
+In support of its Application, Windstream IPES provides the following information:
+1. Company Information.
+a. Address: 4001 N. Rodney Parham Road, Little Rock, AR 72212
+b. General corporate telephone number: (501) 748-5000.
+c. For purposes of this Application, inquiries pertaining to issues associated with 9-1-
+1, law enforcement, and general compliance with Commission rules can be directed to
+Nicole Winters, Senior Counsel, by telephone at (501) 748-6313 or by electronic mail at
+nicole.winters@windstream.com.
+d. Windstream IPES’ ultimate parent company Windstream Holdings II, LLC
+1 47 C.F.R. § 52.15(g)(3).
+1
+
+(“Holdings II”) holds its interest in Windstream IPES through a vertical chain of several
+wholly-owned subsidiary companies that are U.S. domestic entities. On August 28, 2020,
+the FCC approved the transfer of control of Holdings II, which was simultaneously
+converted from a corporation to a limited liability company, in connection with its
+emergence from Chapter 11 bankruptcy protection. See DA 20-985, WC Docket No. 20-
+151 et al. (“Emergence Order”). The Emergence Order permitted the transfer of control to
+occur in two steps. At the end of Step One, which occurred on September 21, 2020,
+Holdings II’s equity ownership by non-U.S. holders is approximately 3.64%. The
+Emergence Order permitted Holdings II and two of its direct investors to issue Special
+Warrants to foreign investors. Pursuant to the Emergence Order, Holdings II was also
+required to file within 30 days of emergence a Petition for Declaratory Ruling requesting a
+waiver to exceed the 25% statutory foreign ownership benchmark, to secure specific
+approval for a number of foreign entities to hold direct or indirect equity and voting
+interests in Holdings II, and to have up to 100% aggregate non-U.S. ownership. Holdings
+II filed the required Petition for Declaratory Ruling on October 21, 2020, in IBFS File No.
+ISP-PDR-20201021-00010, on March 18, 2022, the Commission issued a Public Notice on
+the Petition and the matter is currently under review by Team Telecom. Step Two, the
+exercise of the Special Warrants, will not be consummated until the Commission has
+granted the requested Declaratory Ruling.
+2. Acknowledgements.
+Windstream IPES acknowledges that:
+a. grant of the authorization sought by this Application is subject to compliance with
+applicable Commission numbering rules, numbering authority delegated to the States, and industry
+2
+
+guidelines and practices regarding numbering as applicable to telecommunications carriers; and
+b. it must file requests for numbers with the relevant State commissions at least thirty
+(30) days before requesting numbers from the Numbering Administrators.
+3. Service Readiness.
+a. Windstream IPES intends to provide interconnected VoIP service in the following
+states: Florida, Georgia, Indiana, North Carolina, South Carolina, Washington, and Wisconsin.
+b. Windstream IPES is capable of providing iVoIP service within sixty (60) days of the
+numbering resources activation date in accordance with Commission Rule Section 52.15(g)(2)2
+because its affiliates own and operate facilities for the provision of iVoIP services and it has
+secured an agreement with at least one third party network provider to use their network. A
+copy of the confidential agreement is included in Exhibit A, Windstream IPES has requested
+confidential treatment under the Commission’s rules. Windstream IPES’ and its affiliates have
+provided iVoIP services for several years and continue to provide those services. In addition to
+local voice and long-distance services, Windstream IPES’s iVoIP’s affiliates portfolio includes
+but is not limited to: Office Suite UC3 (a cloud-based phone and unified communications system)
+and Dynamic IP4. Windstream IPES’ and its affiliates contribute to the Universal Services Fund
+(“USF”) and Telecommunications Relay Services Fund (“TRSF”) applicable to the provision of
+services. Such services are offered to enterprise and medium size business customers via
+multiple sales channels, including its website at www.windstreambusiness.com.
+c. Windstream IPES, via its affiliates, owns and operates some of the network facilities it
+2 47 C.F.R. § 52.15(g)(2).
+3 Office Suite product and service information available at https://business.windstream.com/office-suite-uc#/
+4 Dynamic IP product and service information available at https://windstreamenterprise.com/wp-
+content/uploads/2018/02/wol-guide-for-voip.pdf
+3
+
+uses to serve its base of enterprise and mid-market business customers. In areas where neither
+Windstream IPES or its affiliates own and operate the networks Windstream IPES has secured
+an agreement with at least one third party for the use of their network. Numbers acquired directly
+from the Numbering Administrators will be used for customers subscribing to the services
+provided over these facilities. Windstream IPES is obtaining a separate operating company
+number (“OCN”) for its iVoIP services and will use this OCN to acquire numbers for its iVoIP
+services only, directly from the Numbering Administrators following grant of this Application.
+Once this Application is approved, affiliates of Windstream IPES intend to transfer some
+existing numbers to Windstream IPES.
+4. Certifications.
+Windstream IPES certifies to the following, as supported by the attached
+certification of Tim Loken, Director – Regulatory Reporting:
+a. Windstream IPES complies with its USF contribution obligations under
+Commission Rule Part 54,5 its TRSF contribution obligations under Commission Rule Section
+64.604(c)(5)(iii),6 its NANP and LNP administration contribution obligations under
+Commission Rule Sections 52.17 and 52.32,7 its obligations to pay regulatory fees under
+Commission Rule Section 1.1154,8 and its 911 obligations under Commission Rule Part 9.9.9
+b. Windstream IPES possesses the financial, managerial, and technical expertise to
+provide reliable iVoIP service. The senior management of Windstream IPES has extensive
+experience in the telecommunications industry and offers widespread telecommunications
+5 47 C.F.R. Part 54, Subpart H.
+6 47 C.F.R. § 64.604(c)(5)(iii).
+7 47 C.F.R. §§ 52.17, 52.32.
+8 47 C.F.R. § 1.1154.
+9 47 C.F.R. Part 9.
+4
+
+business, technical and managerial expertise. Key management and technical personnel
+include, among others:
+Tony Thomas, President & Chief Executive Officer
+Ron “Buddy” Bayer – Windstream Enterprise & Wholesale President
+Stephen Farkouh – Chief Information Officer
+None of whom are currently or have previously been investigated by the Commission
+or any law enforcement or regulatory agency for failure to comply with any law, rule, or order.
+5. No party to the Application, as defined in Commission rule section 1.2002(b) is subject
+to a denial of Federal benefits pursuant to section 5301 of the Anti-Drug Abuse Act of 1988.
+6. Pursuant to Commission Rule Section 52.l5(g)(3), Windstream IPES respectfully
+requests the Commission authorize it to obtain numbering resources directly from the Numbering
+Administrators.
+Respect fully submitted,
+PAETEC iTEL, L.L.C.
+By:_____________________
+Nicole Winters
+Senior Counsel
+4001 N. Rodney Parham Road
+Little Rock, AR 72212
+501-748-6313
+Nicole.Winters@windstream.com
+Dated: July 28, 2022
+5
+
+Certification of
+Tim Loken, Director – Regulatory Reporting
+I certify as follows:
+My name is Tim Loken and my business address is 4001 N. Rodney Parham Road,
+Little Rock, AR 72212. I am Director – Regulatory Reporting for Windstream Services, LLC,
+the parent company of PAETEC iTEL, L.L.C. (“Windstream IPES”). I am authorized to provide
+this testimony on behalf of Windstream Services II, LLC and its subsidiary Windstream IPES.
+In addition to local voice and long-distance services, Windstream IPES will be capable
+of providing interconnected VoIP service, including but not limited to services like Office Suite
+UC (a cloud-based phone and unified communications system)10 and Dynamic IP11. Such services
+are offered to enterprise and medium size business customers via multiple sales channels,
+including its website at www.windstreambusiness.com.
+1. Numbers acquired by authorization obtained through this application will be
+put into use within sixty (60) days.
+2. Windstream IPES will comply with its USF contribution obligations under
+Commission Rule Part 54, its TRSF contribution obligations under Commission Rule
+Section 64.604(c)(5)(iii), its NANP and LNP administration contribution obligations
+under Commission Rule Sections 52.17 and 52.32, its obligations to pay regulatory
+fees under Commission Rule Section 1.1154, and its 911 obligations under
+Commission Rule Part 9.9.
+10 OfficeSuite UC product and service information available at https://business.windstream.com/office-suite-uc#/.
+11 Dynamic IP product and service information available at https://www.windstreamenterprise.com/wp-
+content/uploads/2018/02/wol-guide-for-voip.pdf
+6
+
+3. Windstream IPES possesses the financial, managerial, and technical expertise
+to provide reliable interconnected VoIP service. Key management and technical
+personnel include, among others:
+Tony Thomas, President & Chief Executive Officer
+Ron “Buddy” Bayer – Windstream Enterprise & Wholesale President
+Stephen Farkouh – Chief Information Officer
+None of whom are currently or have previously been investigated by the Commission
+or any law enforcement or regulatory agency for failure to comply with any law, rule,
+or order.
+4. No party to the Application, as defined in Commission rule section l.2002(b), is
+subject to a denial of Federal benefits pursuant to section 5301 of the Anti-Drug Abuse
+Act of 1988.
+The foregoing is true and correct based upon my personal knowledge, review of
+corporate and business records, and information provided to me by persons knowledgeable about
+Windstream IPES and its operations.
+Executed on July 28, 2022
+_________________________
+Tim Loken
+Director - Regulatory Reporting
+7
+
+EXHIBIT A
+CONFIDENTIAL MATERIALS OMITTED
+AGREEMENT BETWEEN PAETEC iTel, L.L.C. AND CARRIER PARTNER
+SUBJECT TO REQUEST FOR CONFIDENTIAL TREATMENT – NOT FOR PUBLIC
+INSPECTION

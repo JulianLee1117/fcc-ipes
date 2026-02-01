@@ -1,0 +1,412 @@
+....
+.~ 151SouthhallLane.Ste450
+Inteserra Maitland.FL32751
+P.O.Drawer200
+INinterPark.FL32790-0200
+www.inleserra.com
+September4, 2020
+Via ECFS Filing
+REDACTED FOR PUBLICINSPECTION
+Secretary, Federal Communications Commission
+Washington, DC20554
+Attn: Wireline Competition Bureau
+RE: Requestfor Confidential Treatment ofFilingofLeapTelecom, LLC; ApplicationofLeapTelecom,
+LLC for Authorization to Obtain Numbering Resources Pursuant to Section 52.15(g) of the
+Commission'sRules, WCDocketNo. 20- _
+DearMs. Dortch:
+Pursuantto Section 52.15(g)(3)(i) ofthe Commission's Rules, LeapTelecom, LLC ("LeapTelecom") hereby
+submits its application requesting authorization to obtain numbering resources.
+Leap Telecom respectfully requests that, pursuant to Sections 0.457 and 0.459 of the Commission's
+rules, 47 C.F.R. §§ 0.457 and 0.459, the Commission withhold from public inspection and accord
+confidential treatment to Exhibit A to the application because that document contains sensitive trade
+secrets and commercial information that falls within Exemption 4 of the Freedom of Information Act
+("FOIA").l Leap Telecom is voluntarily providing this information, "of a kind that would not customarily
+be released to the public"; therefore, this information is "confidential" under FOIA2 . Moreover, Leap
+Telecom would suffersubstantial competitive harm ifthis information were disclosed.3
+Exhibit Ais accordingly marked with the header "SUBJECTTO REQUEST FOR CONFIDENTIALTREATMENT
+-NOTFOR PUBLIC INSPECTION."
+5U.S.c. § 552(b)(4).
+2 See CriticalMass EnergyProjectv. NRC, 975 F.2d871, 879 (D.C. Cir. 1992).
+SeeNationalParks andConservationAss'nv. Morton, 498 F.2d 765 (D.C. Cir. 1974).
+
+September4, 2020
+Page 2of4
+In support of this request and pursuant to Section 0.459(b) of the Commission's rules4 , Leap
+Telecom herebystates asfollows:
+1. IDENTIFICATION OFTHESPECIFICINFORMATION FORWHICH CONFIDENTIALTREATMENTIS
+SOUGHT.5
+LeapTelecom seeks confidential treatmentofExhibitAto the enclosed application.
+2. DESCRIPTION OFCIRCUMSTANCESGIVING RISETOTHESUBMISSION.6
+Leap Telecom is submitting as Exhibit A the agreement between it and its carrier partner, as
+proof of Leap Telecom's facilities readiness as required by Section 52. 15(g)(3)(i)(D) of the
+Commission's rules.
+3. EXPLANATION OFTHE DEGREETO WHICH THE INFORMATION IS COMMERCIALOR FINANCIAL,
+OR CONTAINSATRADESECRETOR IS PRIVILEGED.7
+The information for which Leap Telecom seeks confidential treatment contains sensitive
+commercial information "which would customarily be guarded from competitors"8 . Exhibit A
+describes the agreement between Leap Telecom and its carrier partnerand contains proprietary
+commercial information concerning LeapTelecom's network, customers, and services.
+4. EXPLANATION OF THE DEGREE TO WHICH THE INFORMATION CONCERNS A SERVICE THAT IS
+SUBJECTTOCOMPETITION.9
+ExhibitAcontains information relatingto commercial mattersthatcould be used bycompetitors
+to Leap Telecom's disadvantage. Leap Telecom has numerous competitors in the Voice over
+Internet Protocol ("Volp") services sector in which it operates. Detailed operations and
+commercial information of the type provided by Leap Telecom could compromise Leap
+Telecom's position in this highly competitive industry. Release would therefore result in
+substantial competitive harm to LeapTelecom.
+4 47 C.F.R. § 0.459(b).
+5 47 C.F.R. § 0.459(b)(1).
+6 47 C.F.R. §0.459(b)(2).
+7 47 C.F.R. §0.459(b)(3).
+8 47 C.F.R. § 0.457(d)(2).
+9 47 C.F.R. § 0.459(b)(4).
+
+September4,2020
+Page 3of4
+5. EXPLANATION OF HOW DISCLOSURE OF THE INFORMATION COULD RESULT IN SUBSTANTIAL
+COMPETITIVEHARM10
+Competitors could use Leap Telecom's proprietary commercial and operational information to
+Leap Telecom's detriment as they would gain access to sensitive information about how Leap
+Telecom provides services as well as about LeapTelecom's commercial agreements with others
+in the marketthat are notnormallydisclosedto the public.
+6. IDENTIFICATION OF ANY MEASURES TAKEN BY THE SUBMITIING PARTY TO PREVENT
+UNAUTHORIZED DISCLOSURE.11
+LeapTelecom has not distributed the information in ExhibitAto the public.
+7. IDENTIFICATION OF WHETHER THE INFORMATION IS AVAILABLE TO THE PUBLIC AND THE
+EXTENTOFANY PREVIOUSDISCLOSURE OFTHE INFORMATION TOTHIRD PARTIES.12
+LeapTelecom has not previouslydisclosedthe information in ExhibitA.
+8. JUSTIFICATION OF THE PERIOD DURING WHICH THE SUBMITIING PARTY ASSERTS THAT
+MATERIALSHOULD NOTBE AVAILABLE FOR PUBLICDISCLOSURE.13
+LeapTelecom requests that ExhibitAbetreated as confidential foraperiod often years.This
+period is necessarydueto the proprietary nature ofthe information in ExhibitA.
+10 47 C.P.R. § 0.459(b)(5).
+11 47 C.P.R. § 0.459(b)(6).
+12 47 C.F.R. § 0.459(b)(7).
+13 47 C.F.R. § 0.459(b)(8).
+
+September4, 2020
+Page4of4
+9. OTHER INFORMATION THAT LEAP TELECOM BELIEVES MAY BE USEFUL IN ASSESSING
+WHETHER ITSREQUESTFORCONFIDENTIALITYSHOULD BE GRANTED.14
+The information concerns Leap Telecom's proprietary network information, related to current
+and planned commercial and operational information, and as such, is commerciallysensitive.
+Any questions you may have regarding this filing should be directed to my attention at 407-740-3005 or
+via email toswarren@inteserra.com.Thank you foryourassistance in this matter.
+Sincerely,
+/s/Sharon R. Warren
+Sharon R. Warren
+Consultant
+cc: Melinda Ferguson
+David Aldworth
+tms: FCx2001
+SW/mp
+14 47 C.F.R. § 0.459(b)(9).
+
+Before the
+FEDERAL COMMUNICATIONS COMMISSION
+Washington, D.C. 20554
+In theMatterof )
+)
+Leap Telecom, LLC )
+ApplicationForAuthorizationto Obtain ) WC DocketNo. 20- _
+Numbering Resources Pursuant to Section )
+52.15(g) oftheCommission's Rules )
+APPLICATION OFLEAP TELECOM, LLC FORAUTHORIZATION TO OBTAIN
+NUMBERING RESOURCES
+LeapTelecom,LLC("Leap"or"Company"),pursuanttoSection52.15(g)(3)(i)oftheCommission's
+Rules, respectfully requests authorization to obtain numbering resources as described below.
+UndertheCommission'sNumberingOrder,IaninterconnectedVoIPprovidermayobtainnumbering
+resources from the NumberingAdministratorupon a showing that it is authorized to provide service in the
+area for which the numbering resources are requested. Such authorization may be obtained upon an
+application to the Commission containing the informationdetailed in Section 52.15.(g)(3)(i)(A)-(G) ofthe
+Commission's Rules. Leap hereby requests the Commission grant it that authorization. In support ofthis
+application, Leap provides the following information:
+I. INFORMATION REQUIRED BYSECTION 52.15(g)(3)(i)
+A. §52.15(g)(3)(i)(A)
+Name: Leap Telecom, LLC
+Address: 2150 W 29th Ave
+Suite200
+City: Denver
+State: CO
+ZIP Code: 80211
+Telephone: 833-532-7835
+1NumberingPoliciesforModern Communications, FCC 15-70(reI. June 22, 2015).
+
+Contact for Regulatory Requirements, Compliance, 911 and LawEnforcement:
+Name: MelindaFerguson
+Address: 2150 W 29th Ave
+Suite200
+City: Denver
+State: CO
+ZIP Code: 80211
+Telephone: 303-731-2000
+Facsimile: 303-629-8344
+B. §52.15(g)(3)(i)(B)
+Leapherebyacknowledges thatauthorization toobtainnumberingresourcesunderSection
+52.15(g)oftheCommission'sRulesissubjecttocompliancewithapplicableCommissionnumberingrulesas
+wellasto thenumberingauthoritydelegatedto thestates.TheCompanyherebyalsoacknowledgesthatgrant
+oftheauthorizationsoughtbythisapplicationissubjecttocompliancewithindustryguidelinesandpractices
+regarding numbering, as applicable to telecommunications carriers. The numbering resources thatare the
+subject of this Application will be used to provide interconnected VoIP services initially in Colorado,
+howevertheCompanyanticipatesthatitwillprovideVoIPservicesnationwide,andaccordingly,willrequest
+numbers from other states in tum after its initial request in Colorado. Accordingly, to the extentrequired,
+Leap requests theCommission grant it authority to obtain numbering resources in all states.
+C. §52.15(g)(3)(i)(C)
+Leap hereby acknowledges that it must file requests for numbers with the relevant state
+commissions at least (30) days beforerequesting numbers from the Numbering Administrators.
+
+D. §52.15(g)(3)(i)(D)
+Leap submits that itis capableofproviding servicewithin (60) days ofthe numbering resources activation
+dateinaccordancewithCommissionRuleSection52.15(g)(2)2becauseoftheexistinginventoryofnumbers
+that will be natively ported by current administrative staff. Leap is an interconnected VoIP provider that
+intendsto initiallyprovideVoIP services inthestateofColoradoutilizingthefacilities ofitsCLECpartner
+with which ithas an agreement in place for routing traffic to the PSTN. The Companyhas entered into an
+InterconnectionAgreementwithaCLECpartnertoprovideinterconnectiontothePSTNforroutingitsVoIP
+traffic to ILECs. A copy ofthis agreement is attached as ExhibitA to this Application. Leap respectfully
+requests thisagreementbeaccordingconfidentialtreatment,pursuantto §0.459oftheCommission'srules.3
+Pursuantto thisagreement, theCLECpartnerwillhosttheCompany'snumbersonitsswitchesandprovide
+connectivity to the PSTN for inbound calls to Leap numbers. As Exhibit B, Leap provides a current
+interconnection agreement between its carrierpartnerand an incumbent local exchange carrier("ILEC").
+Leap'sfocus isonbusinessIPcommunications.Thecompanyhasdevelopedanetworkand
+softwareservicethatisfeaturerich,stableandscalablefromthegroundup. TheCompanyservesallbusiness
+sizes, from large global companies to enterprise and small businesses. The Company has highly skilled,
+technical employees on staff to ensure the Company will be able to provide service within the 60 day
+timeframe.
+E. §52.15(g)(3)(i)(E)
+LeapherebycertifiesthatitcomplieswithitsUniversalServiceFundcontributionobligations
+under47 CFRpart54, subpartH, its TelecommunicationsRelay Service contributionobligationsunder47
+CFR§64.604(c)(5)(iii), itsNorthAmericanNumberingPlanandLocalNumberPortabilityAdministration
+247C.F.R. §52.l5(g)(2).
+347 C.F.R. §0.459. The agreement contains trade secretinformation that is not publicly available, the disclosure of
+which wouldcauseeconomicharm to Leap.
+
+contribution obligations under47 CFR §§ 52.17 and 52.32, its obligations to pay regulatory fees under47
+CFR § 1.1154, and its 911 obligationsunder47 CFR part9.
+F. § 52.15(g)(3)(i)(F)
+Leapherebycertifiesthatithasthefinancial, managerial,andtechnicalexpertisetoprovide
+reliable service. It is financially stable, led by a strong, experienced management team with substantial
+managerial experience in the telecommunications industry, and has sufficient technical expertise and
+infrastructureinplacetoprovidereliableservices.Leap'skeymanagementandtechnicalpersonnelarelisted
+below. Noneofthe identifiedpersonnel arebeingorhave been investigated bythe Commissionorany law
+enforcementorregulatory agency for failure to complywithany law, rule, ororder.
+Key Personnel:
+ChiefOperating Officer- MelindaFerguson
+G. §52.15(g)(3)(i)(G)
+LeapherebycertifiesthatnopartytothisapplicationissubjecttoadenialofFederalbenefits
+pursuantto Section 5301 ofthe Anti-Drug Abuse Actof1988,21 U.S.C. § 862.
+II. ACKNOWLEDGEMENT OF CONDITIONS IN SECTION 52.15(g)(3)(iv)
+As required by Section 52.15(g)(3)(iv), Leap will maintain the accuracy of all contact
+informationandcertificationsinthisApplicationandwillfileacorrectionwiththeCommissionand
+eachapplicable statewithin 30days ofany changes. Leap will also furnish accurateregulatoryand
+numberingcontactinformationto each state commissionwhenrequesting numbers in thatstate.
+
+III. CONCLUSION
+PursuanttoSection52.15(g)(3)(i)oftheCommission'sRules,Leaprespectfullyrequeststhe
+CommissiongrantthisApplicationforauthorizationtoobtainnumberingresourcesdirectlyfromthe
+Numbering Administrators.
+Respectfullysubmitted,
+/s/Sharon R. Warren
+SharonR. Warren, Consultant
+InteserraConsulting Group, Inc.
+151 Southhall Lane, Suite450
+Maitland, FL 32751
+Submittedon September4,2020
+
+Exhibit A
+AGREEMENT BETWEEN LEAP TELECOM, LLC AND
+CARRIER PARTNER
+(Confidential exhibit submitted separately)
+
+Exhibit B
+AGREEMENT BY AND BETWEEN TELIAX, INC.
+AND
+CENTURYLINK.
+
+INTERCONNECTION AGREEMENT
+TERMS AND CONDITIONS FOR INTERCONNECTION,
+UNBUNDLED NETWORK ELEMENTS, ANCILLARY SERVICES,
+AND RESALE OF TELECOMMUNICATIONS SERVICES
+BETWEEN
+QWEST CORPORATION
+AND
+BANDWIDTH.COM CLEC, LLC
+FOR THE STATE OF COLORADO
+AGREEMENT NUMBER
+CDS-080225-0002
+February26, 2008/msd/Bandwidth.com/CO/CDS-080225-0002
+QwestFourteen State NegotiationsTemplate, November5, 2007
+
+Section 1
+GeneralTerms
+Section 1.0 - GENERAL TERMS
+1.1 This Agreement for Interconnection, Unbundled Network Elements, ancillary
+services, and resale of Telecommunications Services is between Owest Corporation ("Owest"),
+aColorado corporation, and Bandwidth.com CLEC, LLC ("CLEC"), a Delaware LLC, pursuantto
+Section 252(f) of the Telecommunications Act of 1996, for purposes of fulfilling Owest's
+obligations under Sections 222, 251(a), (b), and (c), 252, and other relevant provisions of the
+Act and the rules and regulations promulgated there under.
+1.2 Intentionally Left Blank.
+1.3 This Agreement sets forth the terms, conditions and pricing under which Qwest
+will provide to CLEC network Interconnection, access to Unbundled Network Elements, ancillary
+services, and Telecommunications Services available for resale within the geographical areas in
+which Owest is providing local Exchange Service at that time, and for which Owest is the
+incumbent Local Exchange Carrier within the state of Colorado, for purposes of providing local
+Telecommunications Services.
+1.4 Intentionally Left Blank.
+1.5 Intentionally Left Blank.
+1.6 Intentionally Left Blank.
+1.7 Intentionally Left Blank
+1.8 With respect to the terms and provIsions of this Agreement, Owest has
+negotiated the Agreement in its entirety, and the inclusion of any particular provision, or rate,
+term and condition, is not evidence of the reasonableness thereof when considered apart from
+all other provisions ofthe Agreement.
+February26, 2008/msd/Bandwidth.com/CO/CDS-080225-0002
+QwestFourteenState NegotiationsTemplate, November5, 2007
+
+Section5
+Termsand Conditions
+5.1.3.4 It is the responsibility of either Party to inform its End User Customers of
+service impacting impairmentthat may result in discontinuance ofservice as soon as the
+Party receives notice ofsame.
+5.1.4 Each Party is solely responsible for the services it provides to its End User
+Customers and to otherTelecommunications Carriers. This provision is not intended to limit the
+liability ofeither Party for its failure to perform underthis Agreement.
+5.1.5 The Parties shall work cooperatively to minimize fraud associated with third-
+numberbilled calls, calling card calls, and any otherservices related to this Agreement.
+5.1.6 Nothing in this Agreement shall prevent either Party from seeking to recover the
+costs and expenses, if any, it may incur in (a) complying with and implementing its obligations
+under this Agreement, the Act, and the rules, regulations and orders of the FCC and the
+Commission, and (b) the development, modification, technical installation and maintenance of
+any systems or other infrastructure which it requires to comply with and to continue complying
+with its responsibilities and obligations under this Agreement. Notwithstanding the foregoing,
+Qwest shall not assess any charges against CLEC for services, facilities, Unbundled Network
+Elements, ancillary services and other related work or services covered by this Agreement,
+unless the charges are expressly provided for in this Agreement. All services and capabilities
+currently provided hereunder (including resold Telecommunications Services, Unbundled
+Network Elements, UNE Combinations and ancillary services) and all new and additional
+services or Unbundled Network Elements to be provided hereunder, shall be priced in
+accordance with all applicable provisions of the Act and the rules and orders of the Federal
+Communications Commission and orders ofthe Commission.
+5.2 Term ofAgreement
+5.2.1 This Agreement shall become effective on the date of Commission Approval
+("Effective Date"). This Agreement shall be binding upon the Parties for a term of three (3)
+years and shall expire on June 1, 2011.
+5.2.2 Upon expiration of the term of this Agreement, this Agreement shall continue in
+full force and effect until superseded by a successor agreement in accordance with this Section
+5.2.2. Any Party may request negotiation of a successor agreement by written notice to the
+other Party no earlier than one hundred sixty (160) Days prior to the expiration of the term, or
+the Agreement shall renew on a month to month basis. The date of this notice will be the
+starting point for the negotiation window under Section 252 of the Act. This Agreement will
+terminate on the date asuccessoragreement is approved by the Commission.
+5.3 ProofofAuthorization
+5.3.1 Each Party shall be responsible for obtaining and maintaining Proof of
+Authorization (POA) as required by applicable federal and state law, as amended from time to
+time.
+5.3.2 The Parties shall make POAs available to each other upon request in the event
+of an allegation of an unauthorized change in accordance with all Applicable Laws and rules
+and shall be subjectto any penalties contained therein.
+February26, 2008/msd/Bandwidth.com/CO/CDS-080225-0002
+QwestFourteen State NegotiationsTemplate, November5, 2007 28
+
+Section 22
+SignaturePage
+Section 22.0 - SIGNATURE PAGE
+By signing below, and in consideration ofthe mutual promises set forth herein, and other good
+and valuable consideration, the Parties agree to abide by the terms and conditions set forth in
+this Interconnection Agreement.
+Bandwidth.com ClEC, llC Qwest Corporation
+Signature Signature
+Kade Ross L.T. Christensen
+NamePrintedfTyped NamePrintedfTyped
+ChiefOperating Officer Director- InterconnectionAgreements
+Title Title
+Date Date
+February26, 2008/msd/Bandwidth.com/CO/CDS-080225-0002
+QwestFourteen State NegotiationsTemplate, November5, 2007 298
+
+OocuSignEnvelope10:2150COB2-7C81-40FF-AF34-89AA1EEF5708
+Qwest:-i2
+June22, 2011
+TeliaxColorado, LLC
+DavidAldworth, President
+1001 16thStreet, B180#102
+Denver, CO 80265
+DearMr. Aldworth,
+We have received your request that, under Section 252(i) ofthe Telecommunications Act of 1996, Teliax
+Colorado LLC. ("CLEC") wishes to adopt in its entirety, the terms of the Wireline Interconnection
+Agreement and any associated amendments, if applicable, (the "Underlying Agreement") between
+Bandwidth.com CLEC, LLC (Agreement#CDS-080225-0002) and Qwest Corporation ("Qwest"), thatwas
+approved by the Commission on June 11, 2008, as an effective agreement in the State of Colorado.
+CLEC is incorporated in the State of Colorado. We understand you have a complete copy of the
+UnderlyingAgreement.
+By their respective signatures below, Qwest and CLEC (individually, a, "Party," or collectively, the
+"Parties") intend that this letter serves as their agreement ("Letter Agreement") for CLEC to adopt the
+UnderlyingAgreement underthefollowing terms and conditions:
+1. The Parties shall request the Commission to expedite its review and approval of this Letter
+Agreement. This Letter Agreement shall become effective upon such approval. Pursuant to the
+UnderlyingAgreement CLEC is adopting, thisAgreement shall expireon the samedate asthe Underlying
+Agreement. If for some reason the Commission rejects all or part of the Letter Agreement either Party
+may at its option declare the remainder of the Agreement void and be excused from any performance
+thereunder.
+2. Notwithstanding the mutual commitments set forth herein, Qwest is entering into this Letter
+Agreement without prejUdice to any positions it has taken previOUSly, or may take in the future, in any
+legislative, regulatory, or other public forum addressing any matters, including those relating to the types
+of arrangements contained in the Underlying Agreement. During the proceeding in which the
+Commission is to review and approve the Letter Agreement, a Party may point out that it has objected,
+and continues to object, to the inclusion of the terms and conditions to which it objected in the
+proceedings involvingtheapproval ofthe UnderlyingAgreement.
+3. CLEC adopts the terms and conditions of the Underlying Agreement for interconnection with
+Qwest Corporation and in applying the terms and conditions, agrees that Teliax Colorado LLC. be
+substituted in place of "Bandwidth.com CLEC, LLC" throughout the Underlying Agreement wherever the
+latterappears.
+4. Qwest requests that notice to Qwest Corporation as may be required under the Underlying
+Agreement shall be provided asfollows:
+With copyto:
+QwestCorporation Qwest Law Department
+DirectorInterconnectionAgreements Wholesale Interconnection
+930 15th Street, 6th floor 1801 California Street, 10th Floor
+Denver, CO 80202 Denver, CO 80202
+Phone: 303-672-2879 Phone: 303-383-6553
+Email: intagree@qwest.com Email: Legal.lnterconnection@qwest.com
+June22, 2011/swd-cclTeliaxColoradoLLC.lColorado (AdoptionofBandwidth.com CLEC, LLC)
+AgreementNumberCDS-110621-0001(v.06.22.10) 1
+
+DocuSignEnvelopeID:2150COB2-7C81-4DFF-AF34-89AA1EEF5708
+CLEC requests that notice to CLEC as may be required under the Underlying Agreement shall be
+provided asfollows:
+TeliaxColorado
+David Aldworth, President
+1001 16th Street, 8180#102
+Denver, CO 80265
+Phone 303-629-8301
+Fax 303-629-8344
+Email daldworth@teliax.com
+5. CLEC represents and warrants that it is a certified provider of local telecommunication service in
+the StateofColorado and thatthis Agreementwill coverservices in thatstate only.
+6. Pleasesign electronicallyviathe DocuSign®process within thirty (30) days. Afterthirty (30) days
+Qwestmayrescind itswillingness toconsiderthis LetterAgreement's terms and conditions.
+7. Please note that Qwest will file this Letter Agreement with the appropriate state commission for
+approval; however, some state commissions will not approve the Letter Agreement until the CLEC is
+certified by the state commission. You may want to contact the appropriate state commission to
+determinethe requisite filing guidelines.
+Sincerely,
+05E9FC68BD57454...
+I- r~--., 6/24/2011
+L. T. Christense DocuSignedBy:LTChristensen Date
+Director- Wholesale Contracts
+Qwest Corporation
+930 15th Street, 6thfloor
+Denver, Colorado 80202
+Iagreetoallterms and conditions contained inthis letteras indicated bymy signature below:
+TeliaxColorado, LLC
+-::--
+r;::e~~
+Signature l:::::::72ECBOODB2004E9".
+DavidAldworth
+NamePrinted
+President
+Title
+6/24/2011
+Date
+June22, 2011/swd-ccITeliaxColorado LLC.lColorado (AdoptionofBandwidth.com CLEC, LLC)
+AgreementNumberCDS-110621-0001(v.06.22.10) 2

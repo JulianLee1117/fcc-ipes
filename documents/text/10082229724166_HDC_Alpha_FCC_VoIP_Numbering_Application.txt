@@ -1,0 +1,303 @@
+151SouthhallLane.Sle450
+Maitland,FL32751
+serra
+P.O.Drawer200
+\/\linterPark,FL32790-0200
+www.inleserra.com
+October8, 2019
+Via ECFSFiling
+REDACTED FOR PUBLICINSPECTION
+Secretary, Federal Communications Commission
+Washington, DC20554
+Attn: Wireline Competition Bureau
+RE: Request for Confidential Treatment ofFiling of HOCAlpha, llC;Application ofHDCAlpha, LLC
+for Authorization to Obtain Numbering Resources Pursuant to Section 52.15(g) of the
+Commission'sRules, WCDocketNo. 19-.
+DearSecretary:
+Pursuant to Section 52.15(g)(3)(i) of the Commission's Rules, HDC Alpha, LLC ("HDC Alpha") hereby
+submits its application requesting authorizationto obtain numbering resources.
+HDC Alpha respectfully requests that, pursuant to Sections 0.457 and 0.459 of the Commission's rules,
+47 C.F.R. §§ 0.457 and 0.459, the Commission withhold from public inspection and accord confidential
+treatment to Exhibit A to the application because that document contains sensitive trade secrets and
+commercial information that falls within Exemption 4 ofthe Freedom ofInformation Act ("FOIA").l HDC
+Alpha is voluntarily providing this information, "ofa kind that would not customarily be released to the
+public"; therefore, this information is "confidential" under FOIA2 • Moreover, HDC Alpha would suffer
+substantial competitive harm ifthis information were disclosed.3
+Exhibit A is accordingly marked with the header "SUBJECT TO REQUEST FOR CONFIDENTIAL TREATMENT
+NOTFOR PUBLICINSPECTION."
+5U.S.c. § 552(b)(4).
+2 See CriticalMass EnergyProjectv. NRC, 975 F.2d 871, 879 (D.C. Cir. 1992).
+SeeNationalParks andConservationAss'nv. Morton, 498 F.2d 765 (D.C. Cir. 1974).
+
+October8, 2019
+Page 2of4
+In support of this request and pursuant to Section 0.459(b) of the Commission's rules4 , HDC
+Alpha herebystates as follows:
+1. IDENTIFICATION OFTHESPECIFICINFORMATION FORWHICH CONFIDENTIALTREATMENTIS
+SOUGHT.5
+HDCAlpha seeksconfidential treatmentofExhibitAto the enclosed application.
+2. DESCRIPTION OFCIRCUMSTANCESGIVING RISETOTHESUBMISSION.6
+HDC Alpha is submitting as Exhibit Athe agreement between it and its carrier partner, as proof
+of HDC Alpha's facilities readiness as required by Section 52. 15(g)(3)(i)(D) of the Commission's
+rules.
+3. EXPLANATION OF THE DEGREE TO WHICH THE INFORMATION IS COMMERCIAL OR FINANCIAL
+OR CONTAINSATRADESECRETOR ISPRIVILEGED.7
+The information for which HDC Alpha seeks confidential treatment contains sensitive
+commercial information "which would customarily be guarded from competitors"s. Exhibit A
+describes the agreement between HDC Alpha and its carrier partner and contains proprietary
+commercial information concerning HDCAlpha's network, customers, and services.
+4. EXPLANATION OF THE DEGREE TO WHICH THE INFORMATION CONCERNS A SERVICE THAT IS
+SUBJECTTOCOMPETITION.9
+ExhibitAcontains information relatingto commercial mattersthat could be used bycompetitors
+to HDC Alpha's disadvantage. HDC Alpha has numerous competitors in the Voice over Internet
+Protocol ("VoIP") services sector in which it operates. Detailed operations and commercial
+information ofthe type provided by HDC Alpha could compromise HDC Alpha's position in this
+highly competitive industry. Release would therefore result in substantial competitive harm to
+HDCAlpha.
+4 47 C.F.R. § O.459(b).
+5 47 C.F.R. § 0.459(b)(1).
+6 47 C.F.R. § O.459(b)(2).
+7 47 C.F.R. § O.459(b)(3).
+S 47 C.F.R. § 0.457(d)(2).
+9 47 C.F.R. § O.459(b)(4).
+
+October8, 2019
+Page 3of4
+5. EXPLANATION OF HOW DISCLOSURE OF THE INFORMATION COULD RESULT IN SUBSTANTIAL
+COMPETITIVEHARM10
+Competitors could use HOC Alpha's proprietarycommercial and operational informationto HOC
+Alpha's detriment as they would gain access to sensitive information about how HOC Alpha
+provides services as well as about HOC Alpha's commercial agreements with others in the
+marketthat are not normallydisclosedtothe public.
+6. IDENTIFICATION OF ANY MEASURES TAKEN BY THE SUBMITIING PARTY TO PREVENT
+UNAUTHORIZEDDISCLOSURE.ll
+HOCAlpha has notdistributed the information in ExhibitAto the public.
+7. IDENTIFICATION OF WHETHER THE INFORMATION IS AVAILABLE TO THE PUBLIC AND THE
+EXTENTOFANYPREVIOUSDISCLOSURE OFTHE INFORMATION TOTHIRD PARTIES.12
+HOCAlpha has notpreviouslydisclosedthe information in ExhibitA.
+8. JUSTIFICATION OF THE PERIOD DURING WHICH THE SUBMITIING PARTY ASSERTS THAT
+MATERIALSHOULD NOTBEAVAILABLE FORPUBLIC DISCLOSURE.13
+HOCAlpha requests that ExhibitAbetreated as confidential for aperiod often years. This
+period is necessarydueto the proprietary natureofthe information in ExhibitA.
+10 47 C.P.R. § 0.459(b)(5).
+11 47 C.P.R. § 0.459(b)(6).
+12 47 C.F.R. § 0.459(b)(7).
+13 47 C.F.R. § 0.459(b)(8).
+
+October8, 2019
+Page4of4
+9. OTHER INFORMATION THAT HOC ALPHA BELIEVES MAY BE USEFUL IN ASSESSING WHETHER
+ITSREQUESTFORCONFIDENTIALITYSHOULDBEGRANTED.14
+The information concerns HOC Alpha's proprietary network information, related to current and
+planned commercial and operational information, and assuch, iscommerciallysensitive.
+Any questions you may have regarding this filing should be directed to my attention at407-740-3006 or
+via emailtocroesel@inteserra.com.Thankyou foryourassistance inthis matter.
+Sincerely,
+lsi Carey Roesel
+Carey Roesel
+Consultantto HOCAlpha, LLC
+cc: Kathryn Glaser- HOCAlpha
+tms: FCCv1901 HOCAlpha
+CRlgs
+14 47 C.F.R. § 0.459(b)(9).
+
+Beforethe
+FEDERAL COMMUNICATIONS COMMISSION
+Washington, D.C. 20554
+In theMatterof )
+)
+HDC Alpha, LLC )
+) WC DocketNo. 19- _
+ForAuthorization to ObtainNumbering )
+Resources Pursuantto Section52.15(g) of )
+TheCommission's Rules )
+APPLICATIONOFHDC ALPHA,LLC
+FORAUTHORIZATIONTO OBTAINNUMBERING RESOURCES
+HDC Alpha, LLC ("HDC Alpha"), pursuantto Section52.15(g)(3)(i) oftheCommission's Rules,
+respectfully requests authorization to obtainnumbering as described below.
+UndertheCommission'sNumberingOrder,1aninterconnectedVoIPprovidermayobtainnumbering
+resources from the Numbering Administratorupon ashowingthatitis authorized to provide serviceinthe
+area for which the numbering resources are requested. Such authorization may be obtained upon an
+application to the Commission containingthe informationdetailed in Section52.15.(g)(3)(i)(A)-(G)ofthe
+Commission'sRules. HDCAlphaherebyrequeststheCommissiongrantitthatauthorization. Insupportof
+this application, the Companyprovides the following information:
+I. INFORMATION REQUIRED BY SECTION 52.15(g)(3)(i)
+A. §52.15(g)(3)(i)(A)
+Name: HDC Alpha, LLC
+Address: 170 S. Green ValleyPkwy.
+Suite300
+City: Henderson
+State: Nevada
+ZIP Code: 89012
+Telephone: 844-852-4444
+Website: https://alpha.hdcarrierholdings.com
+JNumberingPoliciesforModern Communications, FCC 15-70(reI.June22,2015).
+
+Contact for Regulatory Requirements, Compliance, 911 and LawEnforcement:
+Name: DavidErickson
+Address: 170 S. Green ValleyPkwy.
+Suite 300
+City: Henderson
+State: Nevada
+ZIP Code: 89012
+Telephone: 844-852-4444
+B. §52.15(g)(3)(i)(B)
+HDC Alpha hereby acknowledges thatauthorization to obtainnumbering resources under
+Section52.15(g)oftheCommission'sRulesissubjecttocompliancewithapplicableCommissionnumbering
+rulesaswellastothenumberingauthoritydelegatedtothestates. HDCAlphaherebyalsoacknowledgesthat
+this authorization is subject to compliance with industry guidelines and practices regarding numbering, as
+applicableto telecommunicationscarriers. Thenumberingresources thatarethesubjectofthisApplication
+will be used to provide interconnectedVoIP servicesinitiallyinCO.
+c.
+§52.15(g)(3)(i)(C)
+HDC Alpha hereby acknowledges that it must file requests for numbers with the relevant
+state commission(s) at least30 days beforerequestingnumbers from theNumberingAdministrators.
+D. §52.15(g)(3)(i)(D)
+HDC Alpha hereby sets forth its capability to provide service within 60 days of the
+numbering resources activation date.
+To demonstrate its facilities readiness, HDC Alpha will have the following resources
+availableatitsdisposal: afullyintegratedbackofficesupportsystemwiththeabilitytoscheduleandprocess
+LNP orders from customers and an experiencedprovisioningdepartmentcapableofhandlingbulknumber
+ports with over 10 years LNP experience. HDC Alpha has an agreementin place with a CLEC partner to
+routetrafficto theILECs. HDCAlphahasattachedto thisapplication, asExhibitA,anagreementbetween
+HDC Alpha and its carrierpartnerproviding that thecarrierpartnerwill hostHDC Alpha's numbers on its
+
+switchesand provideconnectivityto thePSTNfor inboundcalls to HDC Alphanumbers. HDCAlphahas
+requestedconfidentialtreatmentundertheCommission'srulesforExhibitA. Alsoattached,asExhibitB,is
+evidenceofinterconnectionagreementsbetweenHDCAlpha'scarrierpartnerandlocalexchangecarriersin
+CO.
+E. § 52.15(g)(3)(i)(E)
+HDC Alpha hereby certifies that it complies with its Universal ServiceFund contribution
+obligationsunder47CFRpart54,subpartH,itsTelecommunicationsRelayServicecontributionobligations
+under 47 CFR § 64.604(c)(5)(iii), its North American Numbering Plan and Local Number Portability
+Administrationcontributionobligationsunder47 CFR§§ 52.17 and52.32, itsobligationstopayregulatory
+fees under47 CFR§ 1.1154, and its 911 obligationsunder47 CFRpart9.
+F. § 52.15(g)(3)(i)(F)
+HDCAlphacertifiesthatithasthefinancial, managerial,andtechnicalexpertisetoprovide
+reliable service. It is financially stable, led by a strong, experienced management team with substantial
+managerial experience in the telecommunications industry, and has sufficient technical expertise and
+infrastructureinplacetoprovidereliablenumberingservices. HDCAlpha'skeymanagementandtechnical
+personnel are listed below. None ofthe identified personnel are being or have been investigated by the
+Commissionoranylawenforcementorregulatoryagencyforfailuretocomplywithanylaw,rule,ororder.
+Key Personnel:
+Managing Member- DavidErickson
+ManagingMember- Kathryn Glaser
+ManagingMember- Scott Southron
+G. § 52.15(g)(3)(i)(G)
+HDCAlphaherebycertifiesthatnopartytothisapplicationissubjectto adenialoffederal
+benefitspursuantto Section 5301 oftheAnti-DrugAbuseActof1988,21 U.S.C. § 862.
+
+II. ACKNOWLEDGEMENT OF CONDITIONS IN SECTION 52.15(g)(3)(iv)
+As required by Section 52.15(g)(3)(iv), HDC Alpha will maintain the accuracy of all contact
+information and certifications in this application and will file a correction with the Commission and each
+applicable state within 30 days of any changes. HDC Alpha will also furnish accurate regulatory and
+numbering contactinformation to each state commissionwhenrequesting numbers in thatstate.
+III. CONCLUSION
+Pursuant to Section 52.15(g)(3)(i) ofthe Commission's Rules, HDC Alpha respectfully
+requests theCommission grantthis application for authorization to obtainnumberingresources.
+Respectfully submitted,
+CareyRoesel, Consultrrrt
+InteserraConsultingGroup, Inc.
+407-740-3006
+croesel@inteserra.com
+and
+DavidErickson, ManagingMember
+HDC Alpha, LLC
+844-852-4444
+info@alpha.hdcarrierholdings.com
+October 8, 2019
+
+Exhibit A
+AGREEMENT BETWEEN
+HDC ALPHA, LLC
+ANDCARIDERPARTNER
+(Confidential exhibit submitted separately)
+
+Exhibit B
+(for each state listed)
+INTERCONNECTION AGREEMENTS BY AND
+BETWEEN
+CARRIER PARTNER
+AND
+CENTURYLINK QC (FKA QWEST)
+
+OocuSignEnvelope10:5E4619FC-230F-4502-8A70-668549908260
+Interconnection Agreement
+Terms and Conditions for Interconnection, Unbundled Network Elements,
+Ancillary Services, and Resale ofTelecommunications Services
+between
+Qwest Corporation dba CenturyLink QC
+and
+Wide Voice LLC
+For the State ofColorado
+Agreement Number
+CDS-150325-0001
+
+OocuSignEnvelope10:5E4619FC-230F-4502-8A70-668549908260
+Section5
+TermsandConditions
+5.1.3.4 It is the responsibility of either Party to inform its End User Customers of
+service impacting impairmentthat may result in discontinuance ofservice as soon as the
+Party receives notice ofsame.
+5.1.4 Each Party is solely responsible for the services it provides to its End User
+Customers and to otherTelecommunications Carriers. This provision is not intended to limit the
+liability ofeither Partyfor itsfailure to perform underthis Agreement.
+5.1.5 The Parties shall work cooperatively to minimize fraud associated with third-
+numberbilled calls, calling card calls, and any other services related to this Agreement.
+5.1.6 Nothing in this Agreement shall prevent either Party from seeking to recover the
+costs and expenses, if any, it may incur in (a) complying with and implementing its obligations
+under this Agreement, the Act, and the rules, regulations and orders of the FCC and the
+Commission, and (b) the development, modification, technical installation and maintenance of
+any systems or other infrastructure which it requires to comply with and to continue complying
+with its responsibilities and obligations under this Agreement. Notwithstanding the foregoing,
+CenturyLink shall not assess any charges against CLEC for services, facilities, Unbundled
+Network Elements, ancillary services and other related work or services covered by this
+Agreement, unless the charges are expressly provided for in this Agreement. All services and
+capabilities currently provided hereunder (including resold Telecommunications Services,
+Unbundled Network Elements, UNE Combinations and ancillary services) and all new and
+additional services or Unbundled Network Elements to be provided hereunder, shall be priced in
+accordance with all applicable provisions of the Act and the rules and orders of the Federal
+Communications Commission and orders ofthe Commission.
+5.2 Term ofAgreement
+5.2.1 This Agreement shall become effective on the date of Commission Approval
+("Effective Date"); however, the Parties.may agre~ to implement the. provisions of.this
+Agreement upon execution. This Agreemel'1tshall be binding upon the Parties for a term of
+three (3) years.
+5.2.2... ..•.. .•.. LJpo~~xpir~ti.qpi2ftHert~rrYIqfitbis<,A.~r~~rt'l§nt,ttJ.i~,A.~r§~.rl)entshall iconti.puein
+fuIIJorce and••effectuntilsupersE3dedbya.slJCCE3$S()r~grE3ement inaccordance.•with thisS.ection
+5.2.2. Any Party may request negotiation of a successor agreement by written notice to the
+other Party no earlier than one hundred sixty (160) Days prior to the expiration of the term, or
+the Agreement shall renew on a month to month basis. The date of this notice will be the
+starting point for the negotiation window under Section 252 of the Act. This Agreement will
+terminate on the date a successor agreement is approved by the Commission. However,
+nothing relieves CLECfrom fulfilling the obligations incurred underthe priorAgreement.
+5.3 ProofofAuthorization
+5.3.1 Each Party shall be responsible for obtaining and maintaining Proof of
+Authorization (POA) as required by applicable federal and state law, as amended from time to
+time.
+5.3.2 The Parties shall make POAs available to each other upon request in the event
+of an allegation of an unauthorized change in accordance with all Applicable Laws and rules
+and shall be subjectto any penalties contained therein.
+March 25, 2015/kjclWideVoice/CDS-1 50325-0001/CO
+CenturyLink Fourteen StateNegotiationsTemplate- (v1-21-15) 29
+
+DocuSignEnvelopeID:5E4619FC-230F-4502-8A7D-668549908260
+Section22
+SignaturePage
+Section 22.0· SIGNATURE PAGE
+By signing below, and in consideration ofthe mutual promises set forth herein, and othergood
+and valuable consideration, the Parties agree to abide by the terms and conditions set forth in
+this Interconnection Agreement.
+WideVoice LLC QwestCorporation dbaCenturyLinkQC
+0DOCUSi9nedby: E~;:::J------
+'P..a"#c4 (}Iv;,~
+~F971'9F8"28H81 .,
+Signature Signature
+PatrickJ. Chicas L. T. Christensen
+Name·PrintedlTyped NamePrintedlTyped
+President Director- Wholesale Contracts
+Title Title
+3/30/2015 3/30/2015
+Date Date
+March 25, 2015/kjclWideVoice/CDS-1 50325-0001/CO
+CenturyLink Fourteen State NegotiationsTemplate- (v1-21-15) 310

@@ -1,0 +1,177 @@
+Before the
+FEDERAL COMMUNICATIONS COMMISSION
+Washington, D.C. 20554
+(cid:3)
+In the Matter of ) (cid:3)
+(cid:3)
+) (cid:3)
+Telnyx LLC, Applicant ) WC Docket No. 15-
+)
+For Authorization to Obtain Numbering )
+Resources Pursuant to Section 52.15(g) of )
+the Commission’s Rules )
+(cid:3)
+(cid:3)
+(cid:3)
+APPLICATION OF TELNYX LLC FOR AUTHORIZATION TO OBTAIN
+NUMBERING RESOURCES
+(cid:3)
+(cid:3)
+Telnyx LLC (“Telnyx”), pursuant to Section 52.15(g)(3)(i) of the Commission’s Rules,
+respectfully requests authorization to obtain numbering resources as described below.
+Under the Commission’s Numbering Order,1 an interconnected VoIP provider may obtain
+numbering resources from the Numbering Administrator upon a showing that it is authorized to
+provide service in the area for which the numbering resources are requested. Such authorization
+may be obtained upon an application to the Commission containing the information detailed in
+Sections 52.15(g)(3)(i)(A)-(F) of the Commission’s Rules. Telnyx hereby requests the
+Commission grant it that authorization. In support of this application, Telnyx states that its OCN is
+073H and that the numbers will be primarily used in providing voice over Internet protocol services.
+It also provides the following information:(cid:3)
+I. INFORMATION REQUIRED BY SECTION 52.15(g)(3)(i)
+(cid:3)
+(A) § 52.15(g)(3)(i)(A) (cid:3)
+(cid:3) (cid:3) (cid:3)
+Name: Telnyx LLC
+Address: 212 West Superior St., Suite 200,
+Telephone: Chicago, IL 60654
+(cid:3)
+(cid:3)
+1 Numbering Policies for Modern Communications, FCC 15-70 (rel. June 22, 2015).
+1
+(cid:3)
+
+Qualified Personnel: David Casem, Chief Executive Officer, Chief Technical
+Officer
+Ian Reither, Chief Operating Officer
+(cid:3)
+(B) § 52.15(g)(3)(i)(B)
+(cid:3)
+Telnyx acknowledges that authorization to obtain numbering resources under Section
+52.15(g) of the Commission’s Rules is subject to compliance with applicable Commission
+numbering rules as well as to the numbering authority delegated to the states. Telnyx also
+acknowledges that this authorization is subject to compliance with industry guidelines and
+practices regarding numbering, as applicable to telecommunications carriers.
+(cid:3)
+(C) § 52.15(g)(3)(i)(C)
+(cid:3)
+Telnyx acknowledges that it must file requests for numbers with the relevant state
+commission(s) at least 30 days before requesting numbers from the Numbering Administrators.
+(cid:3)
+(D) § 52.15(g)(3)(i)(D)
+(cid:3)
+Telnyx is fully capable of providing service within 60 days of the numbering resources
+activation date. Telnyx has an OCN, appears in the LERG and NPAC in the IPES category, has
+an agreement in place with its CLEC partner for routing traffic to ILECs, and has, in some cases,
+negotiated direct IP interconnection with ILECs. In addition, Telnyx has developed porting
+processes to enable carriers to submit porting requests and has accomplished bulk ports with no
+difficulty. As a result, Telnyx already has in place the necessary procedures to enable it to place
+numbers into service within 60 days of activation. Under its current agreements and established
+procedures, Telnyx will be able to place nearly all numbers into service within 60 days of
+activation.
+As proof of its facilities readiness, Telnyx has attached to this application (1) an
+agreement between Telnyx and its carrier partner providing that the carrier partner will host
+2
+(cid:3)
+
+Telnyx numbers on its switches and provide PSTN connectivity for inbound calls to Telnyx
+numbers and (2) an interconnection agreement between Telnyx’s carrier partner (under a previous
+company name) and a local exchange carrier. These documents are Exhibits A and B to this
+application. Telnyx has requested confidential treatment under the Commission’s rules for both
+Exhibits and has filed them separately.
+(E) § 52.15(g)(3)(i)(E)
+(cid:3)
+Telnyx certifies that it complies with its Universal Service Fund contribution obligations
+under 47 CFR part 54, subpart H, its Telecommunications Relay Service contribution obligations
+under 47 CFR § 64.604(c)(5)(iii), its North American Numbering Plan and Local Number
+Portability Administration contribution obligations under 47 CFR §§ 52.17 and 52.32, its
+obligations to pay regulatory fees under 47 CFR § 1.1154, and its 911 obligations under 47 CFR
+part 9.
+(F) § 52.15(g)(3)(i)(F)
+Telnyx certifies that it has the financial, managerial, and technical expertise to provide
+reliable service. It is financially stable, is led by a strong, experienced team of individuals with
+substantial managerial experience in the telecommunications industry, and has sufficient technical
+expertise and infrastructure in place to provide reliable numbering services.
+Telnyx has the financial stability required to ensure the reliable provisioning of its
+communications services, including numbering, throughout its service area. Telnyx has
+successfully operated its communications business since 2009. It anticipates much of the funding
+for its network buildout and operations will come from revenues from existing operations, as well
+as a debt facility with Comerica Incorporated.
+One factor in this long-term stability has been Telnyx’s consistent fulfillment of its
+regulatory obligations and membership in the regulated community. Telnyx remains in good
+3
+(cid:3)
+
+regulatory standing with the FCC and possesses an FCC authorization under Section 214 of the
+Communications Act.
+Telnyx also has the superior technical and managerial qualifications necessary to provide
+and maintain successful operations within its service area. The company is a Tier II Internet
+Service Provider that currently operates its own private fiber backhaul network with points of
+presence in three of the busiest Internet hubs globally: San Jose, CA, Chicago, IL, and Ashburn,
+VA. Telnyx owns and manages a substantial amount of IP address space, is a participant on
+numerous Internet Exchanges, and physically interconnects with the four largest public cloud
+operators in the world. Telnyx also successfully passes IP voice traffic directly to several large
+carriers, including Verizon, AT&T, Windstream and Comcast. These interconnections, combined
+with its own private network, provide Telnyx with the capability to ensure the continued
+provisioning of quality services to customers.
+Telnyx’s management team has extensive business and network management experience
+in telecommunications-related businesses and in serving its targeted customer segment –
+telecommunications carriers, IP service providers, and enterprises. These individuals lead a team
+of 20+ network, telephony, and software engineers that is highly qualified to manage the
+operations of Telnyx throughout its service area. Telnyx’s key management and technical
+personnel are listed below. None of the identified personnel are being or have been investigated
+by the Commission or any law enforcement or regulatory agency for failure to comply with any
+law, rule, or order.
+Key Personnel: David Casem, Chief Executive Officer, Chief Technology Officer
+Ian Reither, Chief Operating Officer
+Rogelio Perez, Senior Telephony Engineer
+Jason Craft, Senior Network Engineer, CCIE #37524
+(cid:3)
+(cid:3)
+(G) § 52.15(g)(3)(i)(G)
+4
+(cid:3)
+
+Telnyx certifies that no party to this application is subject to a denial of Federal benefits
+pursuant to Section 5301 of the Anti-Drug Abuse Act of 1988, 21 U.S.C. § 862.
+(cid:3)
+II. ACKNOWLEDGEMENT OF CONDITIONS IN SECTION 52.15(g)(3)(iv)
+(cid:3)
+As required by Section 52.15(g)(3)(iv), Telnyx will maintain the accuracy of all contact
+information and certifications in this application, and will file a correction with the Commission
+and each applicable state within 30 days of any changes. Telnyx will also furnish accurate
+regulatory and numbering contact information to each state commission when requesting numbers
+in that state.
+(cid:3)
+CONCLUSION
+(cid:3)
+Pursuant to Section 52.15(g)(3)(i) of the Commission’s Rules, Telnyx respectfully
+requests the Commission grant this application for authorization to obtain numbering resources.
+(cid:3)
+Respectfully submitted,(cid:3)(cid:3)
+(cid:3)
+David Casem Mark C. Del Bianco
+Chief Executive Officer Law Office of Mark C. Del Bianco
+TELNYX LLC 3929 Washington Street
+212 West Superior Street Kensington, MD 20895
+Suite 200
+(301) 602-5892(cid:3)
+(cid:3)(cid:3) Chicago, IL 60654
+(cid:3) mark@markdelbianco.com
+(cid:3)
+(cid:3)
+(cid:3)
+Counsel to Telnyx LLC
+(cid:3)
+May 13, 2016
+5
+(cid:3)
+
+EXHIBIT A
+[Confidential exhibit submitted separately.]
+6
+(cid:3)
+
+EXHIBIT B
+[Confidential exhibit submitted separately.]
+7
+(cid:3)

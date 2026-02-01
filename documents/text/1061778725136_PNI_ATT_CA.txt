@@ -1,0 +1,221 @@
+Customer Name: Peerless Network of California, LLC
+Peerless 2009 ICA 2
+Table of Contents 3
+General Terms and Conditions 6
+Signature Page 57
+Attachment 02 - ISP - Network Interconnection 58
+Attachment 03 - Structure Access 100
+Attachment 04 - Local Number Portability and Numbering 133
+Attachment 05 - 911 - E911 141
+Attachment 06 - Customer Information Services 149
+Attachment 07 - Operations Support Systems 162
+Attachment 08 - Bona Fide Request 176
+Attachment 09 - Performance Measurements 180
+Attachment 10SW - ABT - Billing - Collecting - Remitting and Clearinghouse 184
+Attachment 10MWSE - ABT-Non-Intercompany Settlements 190
+Attachment 10W - ABT - Data Exchange 194
+Attachment 11 - Daily Usage File 202
+Attachment 12 - Collocation 205
+Attachment 13 - 251c3 UNES 240
+Attachment 14 - xDSL Loops 265
+Attachment 15 - Coordinated Hot Cut 270
+Attachment 16 - Resale 274
+Pricing Schedule 280
+CA Pricing Schedule - UNE Rec ISP 285
+CA Pricing Schedule - UNE Non-Rec 292
+CA Pricing Schedule - Collocation 296
+Page 1 oNf o4t9e7: This page is not part of the actual signed contract/amendment, but is present for record keeping purposes only.
+
+General Terms and Conditions/AT&T-22STATE
+Page 4 of 51
+Peerless Network
+Version: 3Q08 – CLEC ICA 09/10/08
+INTERCONNECTION AND/OR RESALE AGREEMENT
+UNDER SECTIONS 251 AND 252 OF THE TELECOMMUNICATIONS ACT OF 1996
+This Interconnection and/or Resale Agreement under Sections 251 and 252 of the Telecommunications Act of 1996
+(the Agreement), by and between one or more of the AT&T Inc. owned ILECs: BellSouth Telecommunications, Inc., d/b/a
+AT&T Alabama, AT&T Florida, AT&T Georgia, AT&T Kentucky, AT&T Louisiana, AT&T Mississippi, AT&T North
+Carolina, AT&T South Carolina, AT&T Tennessee; Illinois Bell Telephone Company d/b/a AT&T Illinois, Indiana Bell
+Telephone Company Incorporated d/b/a AT&T Indiana, Michigan Bell Telephone Company d/b/a AT&T Michigan,
+Nevada Bell Telephone Company d/b/a AT&T Nevada, The Ohio Bell Telephone Company d/b/a AT&T Ohio, Pacific
+Bell Telephone Company d/b/a AT&T California, The Southern New England Telephone Company d/b/a AT&T
+Connecticut, Southwestern Bell Telephone Company d/b/a AT&T Arkansas, AT&T Kansas, AT&T Missouri, AT&T
+Oklahoma, AT&T Texas and Wisconsin Bell, Inc. d/b/a AT&T Wisconsin, (only to the extent that the agent for each such
+AT&T-owned ILEC executes this Agreement for such AT&T Inc. owned ILEC and only to the extent that such AT&T Inc.
+owned ILEC provides Telephone Exchange Services as an ILEC in each of the State(s) listed below) and Peerless Network of
+California, LLC (“CLEC” also referenced as “Peerless Network”), (a California Limited Liability Company), shall apply to the
+State of California.
+WHEREAS, CLEC represents that it is, or intends to become, a provider of Telephone Exchange Service to
+residential and business End Users offered exclusively over its own Telephone Exchange Service facilities or predominantly
+over its own Telephone Exchange Service facilities in combination with the use of 251(c)(3) Unbundled Network Elements
+purchased from other entity(ies) and the Resale of Telecommunications Services of other carriers.
+WHEREAS, the Parties want to Interconnect their networks at mutually agreed upon Points of Interconnection to
+provide Telephone Exchange Services and Exchange Access to residential and business End Users over their respective
+Telephone Exchange Service facilities in the state or states which are subject to this Agreement; and
+WHEREAS, the Parties are entering into this Agreement to set forth the respective obligations of the Parties and the
+terms and conditions under which the Parties will Interconnect their networks and facilities and provide to each other services
+as required by the Telecommunications Act of 1996 as specifically set forth herein; and
+WHEREAS, for purposes of this Agreement, CLEC intends to operate where one or more of the AT&T Inc. entities,
+hereinafter referred to as, BellSouth Telecommunications, Inc., d/b/a AT&T Alabama, AT&T Florida, AT&T Georgia,
+AT&T Kentucky, AT&T Louisiana, AT&T Mississippi, AT&T North Carolina, AT&T South Carolina, AT&T Tennessee;
+Illinois Bell Telephone Company d/b/a AT&T Illinois, Indiana Bell Telephone Company Incorporated d/b/a AT&T
+Indiana, Michigan Bell Telephone Company d/b/a AT&T Michigan, Nevada Bell Telephone Company d/b/a AT&T
+Nevada, The Ohio Bell Telephone Company d/b/a AT&T Ohio, Pacific Bell Telephone Company d/b/a AT&T California,
+The Southern New England Telephone Company d/b/a AT&T Connecticut, Southwestern Bell Telephone Company
+d/b/a AT&T Arkansas, AT&T Kansas, AT&T Missouri, AT&T Oklahoma, AT&T Texas and Wisconsin Bell, Inc. d/b/a
+AT&T Wisconsin, the Incumbent Local Exchange Carrier(s) and CLEC, a Competitive Local Exchange Carrier, has or, prior
+to the provisioning of any Interconnection, access to 251(c)(3) Unbundled Network Elements, Telecommunications Services or
+any other functions, facilities, products or services hereunder, will have been granted authority to provide certain local
+Telephone Exchange Services in the foregoing ILEC Service areas by the appropriate State Commission(s);
+NOW, THEREFORE, the Parties hereby agree as follows:
+Page 9 of 497 CCCS 9 of 307
+
+General Terms and Conditions/AT&T-22STATE
+Page 22 of 51
+Peerless Network
+Version: 3Q08 – CLEC ICA 09/10/08
+appropriate charges to AT&T-22STATE for each service order submitted to accomplish a Company Code
+Change. In addition, CLEC shall submit a new OSQ to update any OS/DA Rate Reference information and
+Branding pursuant to the rates specified in the Pricing Schedule to this Agreement. In addition, CLEC shall
+pay any and all charges to AT&T-22STATE required for re-stenciling, re-engineering, changing locks and
+any other work necessary with respect to Collocation, as determined on an individual case basis.
+7.5 Assignment of any Interconnection Service:
+7.5.1 Any assignment or transfer of any Interconnection Resale Service, 251(c)(3) UNEs, function, facility, product
+or Service provisioned pursuant to this Agreement without the transfer or the assignment of this Agreement
+shall be deemed a CLEC to CLEC Mass Migration. The CLEC that is a Party to this Agreement shall
+provide AT&T-22STATE with ninety (90) calendar days advance written Notice of any CLEC to CLEC Mass
+Migration. CLEC’s written Notice shall include the anticipated effective date of the assignment or transfer.
+The acquiring CLEC must cure any outstanding charges associated with any Interconnection Service to be
+transferred. In addition, the acquiring CLEC may be required to tender additional assurance of payment if
+requested under the terms of the acquiring CLEC’s agreement.
+7.5.2 Both CLECs involved in any CLEC to CLEC Mass Migration shall comply with all Applicable Law relating
+thereto, including but not limited to all FCC and state Commission rules relating to notice(s) to End Users.
+The acquiring CLEC shall be responsible for issuing all service orders required to migrate any
+Interconnection, Resale Service, 251(c)(3) UNEs, function, facility, product or service provided hereunder.
+The appropriate service order charge or administration fee (for Interconnection) will apply as specified in the
+Pricing Schedule to the acquiring CLEC’s agreement. The acquiring CLEC shall also submit a new
+Operator Services Questionnaire (OSQ) to update any OS/DA Rate Reference information and Branding
+pursuant to the rates specified in the Pricing Schedule to the acquiring CLEC’s agreement. In addition, the
+acquiring CLEC shall pay any and all charges required for re-stenciling, re-engineering, changing locks and
+any other work necessary with respect to Collocation, as determined on an individual case basis.
+7.6 Project Coordination:
+7.6.1 AT&T-22STATE will provide project management support to effectuate changes of the types identified in
+Section 7.5 above.
+7.6.2 AT&T-22STATE will provide project management support to minimize any possible service outages during
+any CLEC to CLEC Mass Migration. Should AT&T-22STATE’s most current version of LSOR or ASOR
+guidelines not support the required order activity, AT&T-22STATE will issue service orders at the manual
+rate, as specified in the Pricing Schedule to this Agreement, based upon type of service provided, and on
+the condition that CLEC provides to AT&T-22STATE any and all information AT&T-22STATE reasonably
+requests to effectuate such changes.
+7.7 Referral Announcement
+7.7.1 When an End User changes its service provider from AT&T-22STATE to CLEC or from CLEC to AT&T-
+22STATE and does not retain its original telephone number, the Party formerly providing service to such
+End User shall furnish a referral announcement (“Referral Announcement”) on the original telephone
+number that specifies the End User’s new telephone number in accordance with any applicable state laws,
+rules and tariffs.
+8.0 Effective Date, Term and Termination
+8.1 Effective Date:
+8.1.1 In AT&T-22STATE, with the exception of AT&T OHIO, the Effective Date of this Agreement shall be ten
+(10) calendar days after the Commission approves this Agreement under Section 252(e) of the Act or,
+absent such Commission approval, the date this Agreement is deemed approved under Section 252(e)(4) of
+Page 27 of 497 CCCS 27 of 307
+
+General Terms and Conditions/AT&T-22STATE
+Page 23 of 51
+Peerless Network
+Version: 3Q08 – CLEC ICA 09/10/08
+the Act. In AT&T OHIO, based on the PUC-OH, the Agreement is Effective upon filing and is deemed
+approved by operation of law on the 91st day after filing.
+8.2 Term:
+8.2.1 Unless terminated for breach (including nonpayment), the term of this Agreement shall commence upon the
+Effective Date of this Agreement and shall expire on April 11, 2012 (the “Initial Term”).
+8.3 Termination for Nonperformance or Breach:
+8.3.1 Notwithstanding any other provision of this Agreement, either Party may terminate this Agreement and the
+provision of any Interconnection Services provided pursuant to this Agreement, at the sole discretion of the
+terminating Party, in the event that the other Party fails to perform a material obligation or breaches a
+material term of this Agreement and the other Party fails to cure such nonperformance or breach within
+forty-five (45) calendar days after written Notice thereof. If the nonperforming Party fails to cure such
+nonperformance or breach within the forty-five (45) calendar day period provided for within the original
+Notice, then the terminating Party will provide a subsequent written Notice of the termination of this
+Agreement and such termination shall take effect immediately upon delivery of written Notice to the other
+Party.
+8.3.2 If, at any time during the term of this Agreement, AT&T-22STATE is unable to contact CLEC pursuant to the
+Notices provision hereof or any other contact information provided by CLEC under this Agreement, and
+there are no active services being provisioned under this Agreement, then AT&T-22STATE may, at its
+discretion, terminate this Agreement, without any liability whatsoever, upon sending of notification to CLEC
+pursuant to the Notices section hereof.
+8.4 Termination of Agreement after initial term expiration:
+8.4.1 Where CLEC has no End Users or is no longer purchasing any services under this Agreement, CLEC may
+terminate the Agreement by providing “Notice of Termination” to AT&T-22STATE at any time after the initial
+term of this Agreement. After termination the Parties’ liability for termination of this Agreement shall be
+limited to obligations under the Survival 40.1 below of this GTC.
+8.4.2 Where CLEC has End Users and/or is purchasing Interconnection Services under this Agreement and either
+Party seeks to terminate this Agreement, CLEC shall cooperate in good faith to effect an orderly transition of
+service under this Agreement. CLEC shall be solely responsible (from a financial, operational and
+administrative standpoint) to ensure that its End Users are transitioned to a new LEC prior to the expiration
+or termination date of this Agreement.
+8.4.3 If at any time within one hundred and eighty (180) days or any time thereafter of the expiration of the Term,
+if either Party serves “Notice of Expiration,” CLEC shall have ten (10) calendar days to provide AT&T-
+22STATE written confirmation to the Notice of Expiration indicating if CLEC wishes to pursue a successor
+agreement with AT&T-22STATE or terminate its Agreement. CLEC shall identify the action to be taken in
+each of the applicable state(s). If CLEC wishes to pursue a successor agreement with AT&T-22STATE,
+CLEC shall attach to its written confirmation or Notice of Expiration, a written request to commence
+negotiations with AT&T-22STATE under Sections 251/252 of the Act and identify each of the state(s) to
+which the successor agreement will apply. Upon receipt of CLEC’s Section 252(a)(1) request, the Parties
+shall commence good faith negotiations for a successor agreement.
+8.4.4 If the Parties are in “Active Negotiations” (negotiations within the statutory clock established in the Act under
+Section 252(b)) or have filed for arbitration with the Commission upon expiration date of the Agreement
+AT&T-22STATE shall continue to offer services to CLEC pursuant to the rates, terms and conditions set
+forth in this Agreement until a successor agreement becomes effective between the Parties. AT&T-
+22STATE’s obligation to provide services under this Agreement beyond the expiration date conditions upon
+the Parties adherence to the timeframes established within Section 252(b) of the Act. If CLEC does not
+Page 28 of 497 CCCS 28 of 307
+
+General Terms and Conditions/AT&T-22STATE
+Page 24 of 51
+Peerless Network
+Version: 3Q08 – CLEC ICA 09/10/08
+adhere to said timeframes or CLEC withdraws its arbitration or seeks an extension of time or continuance of
+such arbitration with AT&T-22STATE’s consent, AT&T-22STATE may provide Notice to CLEC that all
+services provided thereafter shall be pursuant to the rates, terms and conditions set forth in AT&T-
+22STATE’s then current standard interconnection agreement (“Generic”) as found on AT&T’s CLEC Online
+website.
+8.4.5 Either on or following the expiration date of this Agreement, if the Parties have not entered into a new
+agreement or are not in Active Negotiations as described in Section 8.4.4 above, then upon written Notice to
+CLEC by AT&T-22STATE, AT&T-22STATE may continue to offer services to CLEC pursuant to the rates,
+terms and conditions set forth in AT&T-22STATE’s then current Generic found at the AT&T CLEC Online
+website. At any time thereafter, the Parties may initiate negotiations for a new agreement by providing a
+written Notice under Section 252 to the other Party.
+9.0 End User Fraud
+9.1 AT&T-22STATE shall not be liable to CLEC for any fraud associated with CLEC’s End User account, including 1+
+IntraLATA toll, ported numbers, and ABT.
+9.2 The Parties agree to cooperate with one another to investigate, minimize, and take corrective action in cases of fraud
+involving 1+ IntraLATA toll calls, ABT, and ported numbers. The Parties' fraud minimization procedures are to be
+cost-effective and implemented so as not to unduly burden or harm one Party as compared to the other.
+9.3 In cases of suspected fraudulent activity by an End User, at a minimum, the cooperation referenced in Section 9.1
+above will include providing to the other Party, upon request, information concerning End Users who terminate
+services to that Party without paying all outstanding charges. The Party seeking such information is responsible for
+securing the End User's permission to obtain such information.
+9.4 AT&T-22STATE will use a Fraud Monitoring System to determine suspected occurrences of ABT-related fraud and
+will provide notification messages to CLEC on suspected occurrences of ABT-related fraud on CLEC accounts stored
+in the applicable LIDB.
+9.5 CLEC understands that Fraud Monitoring System alerts only identify potential occurrences of fraud. CLEC
+understands and agrees that it will need to perform its own investigations to determine whether a fraud situation
+actually exists. CLEC understands and agrees that it will also need to determine what, if any, action CLEC should
+take as a result of a Fraud Monitoring System alert.
+9.6 The Parties will provide contact names and numbers to each other for the exchange of Fraud Monitoring System alert
+notification.
+10.0 Assurance of Payment
+10.1 Upon request by AT&T-22STATE, CLEC will provide AT&T-22STATE with the AT&T-22STATE Credit Profile form
+and provide information to AT&T-22STATE regarding CLEC’s credit and financial condition.
+10.2 Assurance of payment may be requested by AT&T-22STATE:
+10.2.1 If based on AT&T-22STATE’s analysis of the AT&T-22STATE Credit Profile and other relevant information
+regarding CLEC’s credit and financial condition, there is an impairment of the credit, financial health, or
+credit worthiness of CLEC. Such impairment will be determined from information available from Third Party
+financial sources; or
+10.2.2 CLEC fails to timely pay a bill rendered to CLEC by AT&T-22STATE (except such portion of a bill that is
+subject to a good faith, bona fide dispute and as to which CLEC has complied with all requirements set forth
+in Section 12.4 below); and/or
+Page 29 of 497 CCCS 29 of 307
+
+Page 57 of 497 CCCS 57 of 307

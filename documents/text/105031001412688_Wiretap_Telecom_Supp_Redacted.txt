@@ -1,0 +1,122 @@
+May 3rd, 2021
+Marlene Dortch
+Secretary
+Federal Communications Commission
+445 12th Street SW
+Washington, DC 20554
+Via ECFS
+RE: WC Docket No. 21-84 – Supplement to Wiretap Telecom, LLC’s Application for
+Authorization to Obtain Number Resources.
+Dear Ms. Dortch:
+Wiretap Telecom, LLC (“Wiretap”) hereby submits this Supplement to its Application for
+Authorization to Obtain Number Resources (“Application”), which was filed with the Federal
+Communications Commission (“Commission”) on March 9, 2021. As requested, Wiretap hereby
+provides the Inteliquent (Neutral Tandem) Interconnection Agreement (Exhibit C) and the GTS
+Service Schedule Agreement between Wiretap and Inteliquent, Inc. (Exhibit D).
+Wiretap respectively requests that, pursuant to Sections 0.457 and 0.459 of the
+Commission’s rules, 47 C.F.R. § 0.457 and 0.459, the Commission withhold from public
+inspection, the GTS Service Schedule agreement between Wiretap and Inteliquent, Inc.
+(Exhibit D) in its entirety as confidential because the document contains trade secrets and
+commercially sensitive “Pricing” information that falls within Exemption 4 of the Freedom of
+Information Act (“FOIA”), 5 U.S.C. § 552(b)(4). The information in the document is “of a kind
+that would not customarily be released to the public” and therefore, this information qualifies for
+confidential treatment under FOIA. Wiretap respectfully submits that it would suffer substantial
+competitive harm if this information was disclosed.
+For any questions regarding this Supplement or Wiretap’s Application please contact Cody
+Schilke at (405) 471-8000.
+
+Respectfully Submitted,
+Cody Schilke
+President & CEO
+Wiretap Telecom, LLC.
+(405)471-8000
+Email: cody.schilke@wiretaptelecom.com
+
+EXHIBIT C
+
+EXHIBIT D
+
+DocuSign Envelope ID:
+GTS Service Schedule (Shared)
+This GTS Service Schedule (Shared) (this “Service Schedule”) is made between Wiretap Telecom, LLC
+(“Customer”) and Inteliquent, Inc. (“Carrier”). This Service Schedule is made under the terms of the Master
+Services Agreement between Customer and Carrier dated (as amended, the “MSA”).
+Under the MSA and this Service Schedule, Customer will receive and Carrier will provide the “Services” as more
+specifically described in Sections 2 and 3 below. In the event of a conflict between a term in this Service Schedule
+and a term in the MSA, the term in this Service Schedule will govern with respect to the Services. The definitions
+in the MSA apply to any term that is not defined in this Service Schedule. This Service Schedule is effective on
+(“Effective Date”).
+1.
+2. The Services; and Certain Definitions.
+2.1 For the purposes of this Service Schedule:
+a. “Host Switch” has the meaning defined in the next paragraph.
+b. “ILEC” means an Incumbent Local Exchange Carrier.
+c. “Inbound Traffic” means Local Traffic, Local Transit Traffic and Switched Access Traffic.
+d. “IXC” means an Inter-exchange Carrier
+e. “Local Traffic” means calls that Carrier receives from the ILEC over its local trunks with the applicable
+ILEC. “Local Traffic” includes traffic originating from a third party that the ILEC treats as local transit
+traffic.
+f. “Local Transit Traffic” means calls that that Carrier receives over its local transit service trunks from an
+On-net carrier. “Local Transit Traffic” excludes Local Traffic.
+g. “Off-net carrier” or “Off-net IXC carrier” means a third party carrier to which Carrier is not directly
+connected.
+h. “On-net carrier” or “On-net IXC carrier” means a third party carrier to which Carrier is directly
+connected.
+i. “Switched Access Traffic” means InterLATA or IntraLATA toll calls terminating to Customer via
+Carrier’s FGD tandem.
+2.2 Customer will use Carrier’s interconnection trunks to the applicable ILECs by populating Carrier’s switch
+(the “Host Switch”) as the ‘Actual SW ID’ in the LERG for Customer’s NPA/NXX’s for the purpose of receiving:
+a. Local Traffic originating from an ILEC subscriber; and
+1
+Confidential
+
+DocuSign Envelope ID:
+7.3
+7.4 All third-party Inbound Traffic destined to telephone numbers associated with the Service must be
+delivered through Inteliquent. No direct peering (bypassing Carrier’s tandem) will be allowed.
+7.5
+7.6 In addition to the above, Customer must use Carrier for all outbound minutes, required emergency
+services (9-1-1) and messaging services (SMS and MMS) for telephone numbers (“TNs”) associated with the
+Service. These services will be provided under separate service schedules/orders.
+8. Carrier Responsibilities. If applicable, Carrier will provide Customer with a letter of authorization (LOA)
+allowing Customer to use Carrier’s Host Switch as the Actual Switch in the LERG. Upon the completion of
+installation and testing of interconnection facilities and implementation of the Services using a Host Switch in a
+LATA, Carrier will notify Customer, in writing or email, that the Service is available for use.
+9.
+10.
+11.
+3
+Confidential
+
+DocuSign Envelope ID:
+Exhibit 1
+Pricing
+A. Per Minute Fee
+Regions Per Minute Rate
+Other Regions
+*Shared GTS service outside of locations where are the LEC
+is dependent on customer utilizing an IPES OCN and obtaining FCC Numbering
+Authorization
+B. Interconnection Fees
+Interconnection Type SIP Session Fee
+If the parties interconnect using public IP
+transport
+C. Telephone Number Fees
+Associated TNs Telephone Number Fee
+All Customer TNs associated with the
+Service
+D. Port-Out of Inteliquent Telephone Numbers
+Port-Out of Inteliquent TNs Port-Out Fee
+Port-Out of existing Inteliquent TNs to Customer OCN and Port-
+Out of TNs associated with the Service to any other carrier and
+remaining under Customer’s control
+E. Monthly Minimum Usage Fee
+Monthly Minimum Account Fee
+Monthly Minimum
+Account Fee
+5
+Confidential
+
+DocuSign Envelope ID:
+6
+Confidential

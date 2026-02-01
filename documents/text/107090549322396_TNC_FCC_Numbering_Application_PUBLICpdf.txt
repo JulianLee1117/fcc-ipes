@@ -1,0 +1,250 @@
+Before the
+FEDERAL COMMUNICATIONS COMMISSION
+Washington, D.C. 20554
+In the Matter of )
+)
+TNC Communications, Inc. Application )
+For Authorization to Obtain Number ) WC Docket No. 20-__________
+Resources Pursuant to Section 52.15(g) )
+of the Commission’s Rules )
+APPLICATION OF TNC COMMUNICATIONS HOLDING CORP.
+FOR AUTHORIZATION TO OBTAIN NUMBERING RESOURCES
+TNC Communications, Inc. (“TNC”), pursuant to Section 51.15(g)(3)(i) of the
+Commission’s Rules, requests authorization to obtain numbering resources. The Commission
+authorized interconnected VoIP providers such as TNC to obtain numbering resources from the
+Number Administrator in its Numbering Order.1 This Application complies with the requirements
+set forth in Sections 52.15(g)(3)(i)(A)-(F) of the Commission’s Rules. In support of this
+application, TNC provides the following information:
+1) INFORMATION REQUIRED BY SECTION 52.15(g)(3)(i)
+(A) § 52.15(g)(3)(i)(A)
+Name: TNC Communications, Inc.
+Address: 624 Holly Springs Road, Suite 409
+Holly Springs, NC 27540
+Telephone: (919) 275.5172
+Qualified Regulatory and Compliance Contact: Addam Holdorf
+___________________
+1 Numbering Policies for Modern Communications, FCC 15-70 (rel. June 22, 2015).
+(B) § 52.15(g)(3)(i)(B)
+TNC hereby acknowledges that authorization to obtain numbering resources under
+Section 52.15(g) of the Commission’s Rules is subject to compliance with applicable
+Commission numbering rules as well as to the numbering authority delegated to the states. TNC
+hereby also acknowledges that this authorization is subject to compliance with industry
+guidelines and practices regarding numbering, just as to telecommunication carriers
+(C) § 52.15(g)(3)(i)(C)
+4 | P a g e
+
+TNC hereby acknowledges that it must file requests for numbers with the relevant state
+commission(s) at least 30 days before requesting numbers from the Numbering Administrators.
+(D) § 52.15(g)(3)(i)(D)
+TNC submits that it is capable of providing service within 60 days of the number resources
+activation date. TNC obtains interconnection with the PSTN pursuant to an agreement with a
+CLEC partner for routing its VoIP traffic to ILECs. TNC has attached the agreement to this
+application as Exhibit 1. TNC has requested confidential treatment under the Commission’s rules
+for Exhibit 1. Pursuant to this agreement, the CLEC partner will provide PSTN connectivity for
+inbound calls to TNC numbers via the CLEC’s tandem switches.
+TNC currently has telephone numbers in service in Georgia, South Carolina, North
+Carolina, Florida, and Texas. It currently obtains telephone numbers from CLEC partners. TNC
+has obtained an OCN (479J), that is associated with a NECA category of Internet Protocol Enabled
+Services. TNC will ensure that its OCN is listed in the LERG and NPAC by the time it received
+authority to obtain numbers directly. While TNC currently relies on CLEC partners to perform
+number portability, TNC is familiar with the FCC’s requirements for porting telephone numbers
+and acknowledges its obligations to comply with those requirements.
+(E) § 52.15(g)(3)(i)(E)
+TNC hereby certifies that it complies with its Universal Service Fund contribution
+obligations under 47 CFR part 54, subpart H, its Telecommunications Relay Service contribution
+obligation under 47 CFR § 64.604(c)(5)(iii), its North American Numbering Plan and Local
+Number Portability Administration contribution obligations under 47 CFR §§ 52.17, 52.32, its
+obligation to pay regulatory fees under 47 CFR § 1.1154, and its 911 obligations under 47 CFR
+part 9. A written certification confirming compliance with all these obligations is provided as
+Exhibit 2.
+(F) § 52.15(g)(3)(i)(F)
+TNC hereby certifies that it has the managerial, technical, and financial ability to provide
+reliable service. TNC is a wireless and fiber provider that provides high speed internet and phone
+services via VoIP primarily to commercial customers.
+5 | P a g e
+
+TNC’s key management and technical personnel are listed below. None of the identified
+personnel are being or have been investigated by the Commission or any regulatory agency for
+failure to comply with any law, rule, or order.
+Key Personnel:
+Chief Executive Officer: Addam Holdorf has been an executive in the telecommunication
+industry for over 15 years. He has overseen regulatory issues, financial and technical issues with
+each of the companies he has worked for or owned. Addam has numerous educational
+achievements.
+Vice President of Operations: Thomas Miller has been an executive in the
+telecommunications industry for over 10 years. He has overseen financials, operations, and
+technical requirements as well as regulatory issues for the companies he has worked for or owned.
+Lead Technical Engineer III: Jeremy Marsh has been an expert in the
+telecommunications industry for over 25 years. He has overseen the technical requirements and
+background of all issues related to telecommunications for each of the companies he has worked
+for or owned.
+(G) § 52.15(g)(3)(i)(G)
+TNC hereby certifies that no party to this application is subject to a denial of Federal
+benefits pursuant to Section 5301 of the Anti-Drug Abuse Act of 1988, 21 U.S.C. § 862.
+2) ACKNOWLEDGEMENT OF CONDITIONS IN SECTION 52.15(g)(3)(iv)
+As required by Section 52.15(g)(3)(iv), TNC will maintain the accuracy of all contact information
+and certification in this application and will file a correction with the Commission and each
+applicable state within 30 days of any changes. TNC will also furnish accurate regulatory and
+numbering contact information to each state commission when requesting numbers in that state.
+3) CONCLUSION
+Pursuant to Section 52.15(g)(3)(i) of the Commissions’ Rules, TNC respectfully requests that
+the Commission grant this application for authorization to obtain number resources in North
+Carolina, South Carolina, Georgia, Florida, and Texas.
+Respectfully submitted,
+/s/ Addam Holdorf
+CEO for TNC Communications, Inc.
+6 | P a g e
+
+OFFICER VERIFICATION
+I, Addam Holdorf, CEO of TNC Communications, Inc. do hereby declare under penalty of
+perjury that the above Application is true and correct as written to the best of my knowledge
+and belief. Further I attest that the submission is complete and accurate, with no material
+omissions.
+Executed on this 1st day of July in 2020 at Raleigh, North Carolina.
+______________________________________
+Addam Holdorf
+7 | P a g e
+
+STATES IN WHICH NUMBERS WILL BE REQUESTED
+1) North Carolina
+2) South Carolina
+3) Georgia
+4) Florida
+5) Texas
+8 | P a g e
+
+Exhibit 1
+AGREEMENT BETWEEN TNC COMMUNICATIONS,
+INC AND CARRIER PARTNER
+(Confidential exhibit submitted separately)
+
+E X H I B I T 2
+(cid:0)
+(cid:2)(cid:3)(cid:0)(cid:0)(cid:0)(cid:4)(cid:5)(cid:3)(cid:6)(cid:0)(cid:0)(cid:0)(cid:7)(cid:8)(cid:0)(cid:0)(cid:9)(cid:0)(cid:10)(cid:11)(cid:0)(cid:0)(cid:0)(cid:12)(cid:3)(cid:13)(cid:14)(cid:15)(cid:16)(cid:13)(cid:17)(cid:0)(cid:0)
+(cid:0)
+(cid:18)(cid:19)(cid:0)(cid:0)(cid:0)(cid:10)(cid:13)(cid:0)(cid:0)(cid:0)(cid:20)(cid:21)(cid:14)(cid:15)(cid:16)(cid:0)(cid:0)(cid:0)(cid:3)(cid:22)(cid:0)(cid:0)(cid:0)(cid:2)(cid:23)(cid:12)(cid:0)(cid:0)(cid:0)(cid:12)(cid:3)(cid:6)(cid:6)(cid:24)(cid:13)(cid:25)(cid:14)(cid:10)(cid:26)(cid:3)(cid:13)(cid:19)(cid:27)(cid:0)(cid:0)(cid:0)(cid:7)(cid:0)(cid:0)(cid:0)(cid:14)(cid:15)(cid:16)(cid:26)(cid:22)(cid:11)(cid:0)(cid:0)(cid:0)(cid:8)(cid:5)(cid:15)(cid:0)(cid:0)(cid:0)(cid:22)(cid:3)(cid:28)(cid:28)(cid:3)(cid:29)(cid:25)(cid:13)(cid:30)(cid:17)(cid:0)(cid:0)
+(cid:0)
+(cid:31) (cid:2)(cid:23)(cid:12)(cid:0)(cid:0)(cid:0)(cid:12)(cid:3)(cid:6)(cid:6)(cid:24)(cid:13)(cid:25)(cid:14)(cid:10)(cid:26)(cid:3)(cid:13)(cid:19)(cid:0)(cid:0)(cid:0)(cid:25)(cid:19)(cid:0)(cid:0)(cid:0)(cid:24) (cid:0)(cid:0)(cid:0)(cid:8)(cid:3)(cid:0)(cid:0)(cid:0)!(cid:10)(cid:8)(cid:15)(cid:0)(cid:0)(cid:0)(cid:3)(cid:13)(cid:0)(cid:0)(cid:0)(cid:25)(cid:8)(cid:19)(cid:0)(cid:0)(cid:0)(cid:3)"(cid:28)(cid:25)(cid:30)(cid:10)(cid:26)(cid:3)(cid:13)(cid:19)(cid:0)(cid:0)(cid:0)(cid:8)(cid:3)(cid:0)(cid:0)(cid:0) (cid:10)(cid:11)(cid:0)(cid:0)(cid:0)(cid:16)(cid:15)(cid:30)(cid:24)(cid:28)(cid:10)(cid:8)(cid:3)(cid:16)(cid:11)(cid:0)(cid:0)(cid:0)(cid:22)(cid:15)(cid:15)(cid:19)#(cid:0)(cid:0)
+(cid:31) (cid:2)(cid:23)(cid:12)(cid:0)(cid:0)(cid:0)(cid:12)(cid:3)(cid:6)(cid:6)(cid:24)(cid:13)(cid:25)(cid:14)(cid:10)(cid:26)(cid:3)(cid:13)(cid:19)(cid:0)(cid:0)(cid:0)(cid:25)(cid:19)(cid:0)(cid:0)(cid:0)(cid:24) (cid:0)(cid:0)(cid:0)(cid:8)(cid:3)(cid:0)(cid:0)(cid:0)!(cid:10)(cid:8)(cid:15)(cid:0)(cid:0)(cid:0)(cid:3)(cid:13)(cid:0)(cid:0)(cid:0)(cid:25)(cid:8)(cid:19)(cid:0)(cid:0)(cid:0)(cid:23)(cid:3)(cid:16)(cid:8)(cid:5)(cid:0)(cid:0)(cid:0)(cid:18)(cid:6)(cid:15)(cid:16)(cid:25)(cid:14)(cid:10)(cid:13)(cid:0)(cid:0)(cid:0)(cid:23)(cid:24)(cid:6)"(cid:15)(cid:16)(cid:25)(cid:13)(cid:30)(cid:0)(cid:0)(cid:0)$(cid:28)(cid:10)(cid:13)(cid:0)(cid:0)(cid:0)(cid:10)(cid:13)!(cid:0)(cid:0)(cid:0)%(cid:3)(cid:14)(cid:10)(cid:28)(cid:0)(cid:0)
+(cid:23)(cid:24)(cid:6)"(cid:15)(cid:16)(cid:0)(cid:0)(cid:0)$(cid:3)(cid:16)(cid:8)(cid:10)"(cid:25)(cid:28)(cid:25)(cid:8)(cid:11)(cid:0)(cid:0)(cid:0)(cid:18)!(cid:6)(cid:25)(cid:13)(cid:25)(cid:19)(cid:8)(cid:16)(cid:10)(cid:26)(cid:3)(cid:13)(cid:0)(cid:0)(cid:0)(cid:14)(cid:3)(cid:13)(cid:8)(cid:16)(cid:25)"(cid:24)(cid:26)(cid:3)(cid:13)(cid:19)(cid:0)(cid:0)
+(cid:31) (cid:2)(cid:23)(cid:12)(cid:0)(cid:0)(cid:0)(cid:12)(cid:3)(cid:6)(cid:6)(cid:24)(cid:13)(cid:25)(cid:14)(cid:10)(cid:26)(cid:3)(cid:13)(cid:19)(cid:0)(cid:0)(cid:0)(cid:25)(cid:19)(cid:0)(cid:0)(cid:0)(cid:24) (cid:0)(cid:0)(cid:0)(cid:8)(cid:3)(cid:0)(cid:0)(cid:0)!(cid:10)(cid:8)(cid:15)(cid:0)(cid:0)(cid:0)(cid:3)(cid:13)(cid:0)(cid:0)(cid:0)(cid:3)(cid:24)(cid:16)(cid:0)(cid:0)(cid:0)&(cid:13)(cid:25)’(cid:15)(cid:16)(cid:19)(cid:10)(cid:28)(cid:0)(cid:0)(cid:0)((cid:15)(cid:16)’(cid:25)(cid:14)(cid:15)(cid:0)(cid:0)(cid:0))(cid:24)(cid:13)!(cid:0)(cid:0)(cid:0)(cid:14)(cid:3)(cid:13)(cid:8)(cid:16)(cid:25)"(cid:24)(cid:26)(cid:3)(cid:13)(cid:19)#(cid:0)(cid:0)
+(cid:31) (cid:2)(cid:23)(cid:12)(cid:0)(cid:0)(cid:0)(cid:12)(cid:3)(cid:6)(cid:6)(cid:24)(cid:13)(cid:25)(cid:14)(cid:10)(cid:26)(cid:3)(cid:13)(cid:19)(cid:0)(cid:0)(cid:0)(cid:25)(cid:19)(cid:0)(cid:0)(cid:0)(cid:24) (cid:0)(cid:0)(cid:0)(cid:8)(cid:3)(cid:0)(cid:0)(cid:0)!(cid:10)(cid:8)(cid:15)(cid:0)(cid:0)(cid:0)(cid:3)(cid:13)(cid:0)(cid:0)(cid:0)(cid:3)(cid:24)(cid:16)(cid:0)(cid:0)(cid:0)(cid:2)(cid:15)(cid:28)(cid:15)(cid:14)(cid:3)(cid:6)(cid:6)(cid:24)(cid:13)(cid:25)(cid:14)(cid:10)(cid:26)(cid:3)(cid:13)(cid:19)(cid:0)(cid:0)(cid:0)*(cid:15)(cid:28)(cid:10)(cid:11)(cid:0)(cid:0)(cid:0)((cid:15)(cid:16)’(cid:25)(cid:14)(cid:15)(cid:0)(cid:0)
+(cid:14)(cid:3)(cid:13)(cid:8)(cid:16)(cid:25)"(cid:24)(cid:26)(cid:3)(cid:13)(cid:19)#(cid:0)(cid:0)
+(cid:31) (cid:2)(cid:23)(cid:12)(cid:0)(cid:0)(cid:0)(cid:12)(cid:3)(cid:6)(cid:6)(cid:24)(cid:13)(cid:25)(cid:14)(cid:10)(cid:26)(cid:3)(cid:13)(cid:19)(cid:0)(cid:0)(cid:0)(cid:25)(cid:19)(cid:0)(cid:0)(cid:0)(cid:24) (cid:0)(cid:0)(cid:0)(cid:8)(cid:3)(cid:0)(cid:0)(cid:0)!(cid:10)(cid:8)(cid:15)(cid:0)(cid:0)(cid:0)(cid:3)(cid:13)(cid:0)(cid:0)(cid:0)(cid:25)(cid:8)(cid:19)(cid:0)(cid:0)(cid:0)+,,(cid:0)(cid:0)(cid:0)(cid:3)"(cid:28)(cid:25)(cid:30)(cid:10)(cid:26)(cid:3)(cid:13)(cid:19)(cid:0)(cid:0)(cid:0)(cid:24)(cid:13)!(cid:15)(cid:16)(cid:0)(cid:0)(cid:0)-.(cid:0)(cid:0)(cid:0)(cid:12))*(cid:0)(cid:0)(cid:0) (cid:10)(cid:16)(cid:8)(cid:0)(cid:0)(cid:0)+#(cid:0)(cid:0)
+(cid:31) (cid:23)(cid:3)(cid:0)(cid:0)(cid:0) (cid:10)(cid:16)(cid:8)(cid:11)(cid:0)(cid:0)(cid:0)(cid:8)(cid:3)(cid:0)(cid:0)(cid:0)(cid:8)(cid:5)(cid:25)(cid:19)(cid:0)(cid:0)(cid:0)(cid:10) (cid:28)(cid:25)(cid:14)(cid:10)(cid:26)(cid:3)(cid:13)(cid:0)(cid:0)(cid:0)(cid:25)(cid:19)(cid:0)(cid:0)(cid:0)(cid:19)(cid:24)"/(cid:15)(cid:14)(cid:8)(cid:0)(cid:0)(cid:0)(cid:8)(cid:3)(cid:0)(cid:0)(cid:0)(cid:10)(cid:0)(cid:0)(cid:0)!(cid:15)(cid:13)(cid:25)(cid:10)(cid:28)(cid:0)(cid:0)(cid:0)(cid:3)(cid:22)(cid:0)(cid:0)(cid:0))(cid:15)!(cid:15)(cid:16)(cid:10)(cid:28)(cid:0)(cid:0)(cid:0)"(cid:15)(cid:13)(cid:15)0(cid:8)(cid:19)(cid:0)(cid:0)(cid:0) (cid:24)(cid:16)(cid:19)(cid:24)(cid:10)(cid:13)(cid:8)(cid:0)(cid:0)(cid:0)(cid:8)(cid:3)(cid:0)(cid:0)(cid:0)(cid:8)(cid:5)(cid:15)(cid:0)(cid:0)
+(cid:18)(cid:13)(cid:26)12(cid:16)(cid:24)(cid:30)(cid:0)(cid:0)(cid:0)(cid:18)"(cid:24)(cid:19)(cid:15)(cid:0)(cid:0)(cid:0)(cid:18)(cid:14)(cid:8)(cid:0)(cid:0)(cid:0)3(cid:14)(cid:3)(cid:13)’(cid:25)(cid:14)(cid:26)(cid:3)(cid:13)(cid:19)(cid:0)(cid:0)(cid:0)(cid:24)(cid:13)!(cid:15)(cid:16)(cid:0)(cid:0)(cid:0))(cid:15)!(cid:15)(cid:16)(cid:10)(cid:28)(cid:0)(cid:0)(cid:0)(cid:3)(cid:16)(cid:0)(cid:0)(cid:0)((cid:8)(cid:10)(cid:8)(cid:15)(cid:0)(cid:0)(cid:0)(cid:28)(cid:10)(cid:29)(cid:19)(cid:0)(cid:0)(cid:0)(cid:22)(cid:3)(cid:16)(cid:0)(cid:0)(cid:0) (cid:3)(cid:19)(cid:19)(cid:15)(cid:19)(cid:19)(cid:25)(cid:3)(cid:13)(cid:0)(cid:0)(cid:0)(cid:3)(cid:16)(cid:0)(cid:0)
+!(cid:25)(cid:19)(cid:8)(cid:16)(cid:25)"(cid:24)(cid:26)(cid:3)(cid:13)(cid:0)(cid:0)(cid:0)(cid:3)(cid:22)(cid:0)(cid:0)(cid:0)(cid:14)(cid:3)(cid:13)(cid:8)(cid:16)(cid:3)(cid:28)(cid:28)(cid:15)!(cid:0)(cid:0)(cid:0)(cid:19)(cid:24)"(cid:19)(cid:8)(cid:10)(cid:13)(cid:14)(cid:15)(cid:19)4(cid:0)(cid:0)
+(cid:0)
+(cid:7)(cid:22)(cid:0)(cid:0)(cid:0)(cid:11)(cid:3)(cid:24)(cid:0)(cid:0)(cid:0)(cid:5)(cid:10)’(cid:15)(cid:0)(cid:0)(cid:0)(cid:10)(cid:13)(cid:11)(cid:0)(cid:0)(cid:0)5(cid:24)(cid:15)(cid:19)(cid:26)(cid:3)(cid:13)(cid:19)(cid:0)(cid:0)(cid:0)(cid:3)(cid:16)(cid:0)(cid:0)(cid:0)(cid:14)(cid:3)(cid:13)(cid:14)(cid:15)(cid:16)(cid:13)(cid:19)(cid:27)(cid:0)(cid:0)(cid:0) (cid:28)(cid:15)(cid:10)(cid:19)(cid:15)(cid:0)(cid:0)(cid:0)(cid:14)(cid:3)(cid:13)(cid:8)(cid:10)(cid:14)(cid:8)(cid:0)(cid:0)(cid:0)(cid:6)(cid:15)(cid:0)(cid:0)(cid:0)(cid:10)(cid:8)(cid:0)(cid:0)(cid:10)(cid:0)(cid:0)!!(cid:10)(cid:6)6(cid:8)(cid:13)(cid:14)(cid:14)(cid:3)(cid:13)(cid:13)(cid:15)(cid:14)(cid:8)(cid:15)!#(cid:14)(cid:3)(cid:6)(cid:0)(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+*(cid:15)(cid:19) (cid:15)(cid:14)7(cid:24)(cid:28)(cid:28)(cid:11)(cid:27)(cid:0)(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:18)!!(cid:10)(cid:6)(cid:0)(cid:0)(cid:0)8(cid:3)(cid:28)!(cid:3)(cid:16)(cid:22)(cid:0)(cid:0)
+(cid:12)9(cid:20)(cid:0)(cid:0)
+(cid:2)(cid:23)(cid:12)(cid:0)(cid:0)(cid:0)(cid:12)(cid:3)(cid:6)(cid:6)(cid:24)(cid:13)(cid:25)(cid:14)(cid:10)(cid:26)(cid:3)(cid:13)(cid:19)(cid:27)(cid:0)(cid:0)(cid:0)(cid:7)(cid:13)(cid:14)#(cid:0)(cid:0)
+(cid:0)
+
+TNC Communications T 919.275.5172
+624 Holly Springs Rd. addam@tncconnected.com
+Suite 409 tncconnected.com
+Holly Springs, NC 27540
+Addam Holdorf
+CxO Emerging Markets & Hospitality Team
+Via Electronic Comment Filing System & Federal Express
+Date: 1‐JULY‐2020
+Ms. Marlene Dortch
+Secretary
+Federal Communications Commission
+445 12th Street SW
+Washington, DC 20554
+Re: Request for Confidential Treatment for Application of TNC Communications, Inc. For Authorization to
+Obtain Numbering Resources Pursuant to Section 52.15(g) of the Commission’s Rules
+Dear Ms. Dortch:
+Pursuant to Section 51.15(g)(3)(i) of the Commission’s Rules, TNC Communications, Inc. (“TNC”) hereby
+submits its application requesting authorization to obtain numbering resources.
+TNC respectfully requests that, pursuant to Sections 0.457 and 0.459 of the Commission’s rules, 47 C.F.R.
+§§ 0.457 and 0.459, the Commission withhold from public inspection and treatment Exhibit 1 to this
+application as confidential because that document contains sensitive trade secrets and commercial
+information that falls within Exemption 4 of the Freedom of Information Act (“FOIA”).1 The information in
+Exhibit 1 is “of a kind that would not customarily be released to the public,” therefore, this information
+qualified for confidential treatment under FOIA2. TNC respectfully submits that it would suffer substantial
+competitive harm if this information were disclosed.3
+Exhibit 1 is accordingly marked with the header “SUBJECT TO REQUEST FOR CONFIDENTIAL TREATMENT ‐
+NOT FOR PUBLIC INSPECTION.”
+________________________
+1 5 U.S.C. § 552(b)(4).
+2 See Critical Mass Energy Project v. NRC, 975 F.2d 871, 879 (D.C. Cir. 1992).
+3 See National Parks and Conservation Ass’n v. Morton, 498 F.2d 765 (D.C. Cir. 1974).
+
+Ms. Marlene H. Dortch
+1‐JULY‐2020
+Page 2 of 3
+In support of this request and pursuant to Section 0.459(b) of the Commission’s rules,4 TNC hereby states
+as follows:
+1. IDENTIFICATION OF THE SPECIFIC INFORMATION FOR WHICH CONFIDENTIAL TREATMENT IS
+SOUGHT5
+TNC seeks confidential treatment of Exhibit 1 to the enclosed application.
+2. DESCRIPTION OF CIRCUMSTANCES GIVING RISE TO THE SUBMISSION6
+TNC is submitting the Confidential agreement between it and its carrier partner, as proof of TNC’s
+facilities readiness as required by Section 52.15(g)(3)(i)(D) of the Commission's rules.
+3. EXPLANATION OF THE DEGREE TO WHICH THE INFORMATION IS COMMERCIAL OR FINANCIAL,
+OR CONTAINS A TRADE SECRET OR IS PRIVILEGED7
+The information for which TNC seeks confidential treatment contains sensitive commercial
+information “which would customarily be guarded from competitors.”8 Exhibit 1 consists of a
+commercial agreement between TNC and its carrier partner and contains proprietary commercial
+information concerning TNC’s network, customers, and services.
+4. EXPLANATION OF THE DEGREE TO WHICH THE INFORMATION CONCERNS A SERVICE THAT IS
+SUBJECT TO COMPETITION9
+Exhibit 1 contains information relating to commercial matters that could be used by competitors
+to TNC’s disadvantage. TNC has numerous competitors in the Voice over Internet Protocol
+(“VoIP”) services sector in which it operates. Detailed operations and commercial information of
+the type provided by TNC could compromise TNC’s positions in this highly competitive industry.
+Release would therefore result in substantial competitive harm to TNC.
+______________________________
+4 47 C.F.R. § 0.459(b).
+5 47 C.F.R. § 0.459(b)(1).
+6 47 C.F.R. § 0.459(b)(2).
+7 47 C.F.R. § 0.459(b)(3).
+8 47 C.F.R. § 0.459(b)(2).
+9 47 C.F.R. § 0.459(b)(4).
+
+Ms. Marlene H. Dortch
+1‐JULY‐2020
+Page 3 of 3
+5. EXPLANATION OF HOW DISCLOSURE OF THE INFORMATION COULD RESULT IN SUBSTANTIAL
+COMPETITIVE HARM10
+Competitors could use TNC’s proprietary commercial and operational information to TNC’s
+detriment as they would gain access to sensitive information about how TNC provides services as
+well as about TNC’s commercial agreements with others in the market that are not normally
+disclosed to the public.
+6. IDENTIFICATION OF ANY MEASURE TAKEN BY THE SUBMITTING PARTY TO PREVENT
+UNAUTHORIZED DISCLOSURE11
+TNC has not distributed the information in Exhibit 1 to the public.
+7. IDENTIFICATION OF WHETHER THE INFORMATION IS AVAILABLE TO THE PUBLIC AND THE
+EXTENT OF ANY PREVIOUS DISCLOSURE OF THE INFORMATION TO THIRD PARTIES12
+TNC has not previously disclosed the information in Exhibit 1.
+8. JUSTIFICATION OF THE PERIOD DURING WHICH THE SUBMITTING PARTY ASSERTS THAT
+MATERIAL SHOULD NOT BE AVAILABLE FOR PUBLIC DISCLOSURE13
+TNC requests that Exhibit 1 be treated as confidential for a period of ten years. This period is
+necessary due to the proprietary nature of the information in Exhibit 1.
+9. OTHER INFORMATION THAT TNC BELIEVES MAY BE USEFUL IN ASSESSING WHETHER ITS
+REQUEST FOR CONFIDENTIALITY SHOULD BE GRANTED 14
+The information concerns TNC’s proprietary network information, related to current and planned
+commercial and operational information, and as such, is commercially sensitive.
+Should you have any questions regarding the foregoing information, please don’t hesitate to
+contact me.
+Respectfully submitted,
+/s/ Addam Holdorf
+_______________________________
+10 47 C.F.R. § 0.459(b)(5).
+11 47 C.F.R. § 0.459(b)(6).
+12 47 C.F.R. § 0.459(b)(7).
+13 47 C.F.R. § 0.459(b)(8).
+14 47 C.F.R. § 0.459(b)(9).

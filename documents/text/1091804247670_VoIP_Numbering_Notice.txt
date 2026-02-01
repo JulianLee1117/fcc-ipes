@@ -1,0 +1,137 @@
+1800 M STREET, NW
+SUITE 800N
+WASHINGTON, DC 20036
+TEL 202.783.4141
+FAX 202.783.5851
+WWW.WBKLAW.COM
+September 17, 2018
+By Electronic Filing
+Ms. Marlene H. Dortch, Secretary
+Federal Communications Commission
+445 12th Street S.W.
+Washington D.C. 20554
+Re: Interconnected VoIP Numbering Authorization Held by Flowroute Inc.;
+WC Docket No. 16-265
+Dear Ms. Dortch:
+Flowroute Inc. (“Flowroute”), pursuant to Section 52.15(g)(3)(iv)(A) of the Commission’s
+rules,1 respectfully notifies the Commission of changes to the information associated with its
+authorization to obtain numbering resources2 resulting from the acquisition by West Corporation
+(“West”) of ultimate control of Flowroute and Flowroute’s wholly owned subsidiary Flowroute
+CLEC Inc. (“Flowroute CLEC” and together with Flowroute and West, the “Parties”).3 The
+Commission approved this transfer of control of Flowroute and Flowroute CLEC to West on
+August 10, 2018,4 and the transaction was consummated on August 15, 2018.
+Flowroute currently holds authorization to obtain numbering resources from the
+Numbering Administrator as an interconnected Voice over Internet Protocol (“VoIP”) provider.5
+1 47 C.F.R. § 52.15(g)(3)(iv)(A).
+2 Notice of Interconnected VoIP Numbering Authorization Granted, Public Notice, 31 FCC Rcd
+11681 (2016) (“2016 Public Notice”); see also Interconnected VoIP Numbering Authorization
+Application Filed by Flowroute Inc. Pursuant to Section 52.15(g)(3) of the Commission’s Rules,
+WC Docket No. 16-265 (Aug. 15, 2016) (“Flowroute Application”).
+3 On June 29, 2018, Flowroute and West submitted to the Commission a Joint Application for
+Consent to Transfer Control of International Authorization Pursuant to Section 214 of the
+Communications Act. See File No. ITC-T/C-20180629-00141.
+4 International Authorizations Granted, Public Notice, Report No. TEL-01921, DA No. 18-855
+(rel. Aug. 16, 2018).
+5 See 2016 Public Notice.
+
+Pursuant to the Commission’s numbering policies and rules, the Parties submit this letter for
+informational purposes to ensure the accuracy of the Commission’s records in connection with
+Flowroute’s numbering authorization.
+I. INFORMATION REQUIRED BY SECTION 52.15(g)
+Section 52.15(g)(1). The Commission’s rules require that an applicant for numbering
+resources include in its application any operating company numbers (“OCNs”) its parent company
+may hold. As a result of the transaction, Flowroute is now a wholly owned, indirect subsidiary of
+West, and a direct subsidiary of West Telecom Services, LLC (“West Telecom”). The Parties
+hereby submit to the Commission the OCNs held by West Telecom, attached hereto as Attachment
+A.
+Section 52.15(g)(3)(i)(F). The transaction resulted only in a change in the ownership of
+Flowroute, and did not affect the identity of Flowroute’s key management and technical personnel,
+which are listed below and were set forth in the Flowroute Application.6
+Key Personnel: Bayan Towfiq, Chief Executive Officer
+Eric Harber, Chief Operating Officer
+Justin Grow, Director Carrier Operations
+Jeff Heinen, Vice President of Engineering
+Section 52.15(g)(3)(i)(B). Flowroute acknowledges that the numbering authorization it
+holds is subject to compliance with applicable Commission numbering rules, numbering authority
+delegated to the states, and industry guidelines and practices. Flowroute certifies that it currently
+complies with such rules and will continue to do so under the ultimate control of West.
+Section 52.15(g)(3)(iv). As required by Section 52.15(g)(3)(iv), the Parties will continue
+to maintain the accuracy of all contact information and certifications in the Flowroute Application
+and will file a correction with the Commission within 30 days of any future changes. Flowroute
+will also furnish accurate regulatory and numbering contact information to each state commission
+when requesting numbers in that state.
+6 See Flowroute Application.
+2
+
+Please date-stamp the extra copy of this letter that we provided and return it in the enclosed
+envelope. If you have any questions regarding this notification, please contact the undersigned.
+Respectfully submitted,
+/s/ Phillip Marchesiello
+Phillip Marchesiello
+Wilkinson Barker Knauer, LLP
+1800 M Street, N.W., Suite 800N
+Washington, D.C. 20036
+Tel: (202) 783-4141
+Fax: (202) 783-5851
+PMarchesiello@wbklaw.com
+Counsel to West Corporation and Flowroute Inc.
+Enclosure
+3
+
+ATTACHMENT A
+OPERATING COMPANY NUMBERS HELD BY WEST TELECOM SERVICES, LLC
+Number Name State Category Overall OCN
+116E WEST TELECOM SERVICES, LLC - MA MA CLEC 9555
+807C WEST TELECOM SERVICES, LLC - AL AL CLEC 9555
+808C WEST TELECOM SERVICES, LLC - CA CA CLEC 9555
+809C WEST TELECOM SERVICES, LLC - CO CO CLEC 9555
+810C WEST TELECOM SERVICES, LLC - CT CT CLEC 9555
+811C WEST TELECOM SERVICES, LLC - DE DE CLEC 9555
+812C WEST TELECOM SERVICES, LLC - DC DC CLEC 9555
+813C WEST TELECOM SERVICES, LLC - FL FL CLEC 9555
+814C WEST TELECOM SERVICES, LLC - GA GA CLEC 9555
+815C WEST TELECOM SERVICES, LLC - ID ID CLEC 9555
+816C WEST TELECOM SERVICES, LLC - IL IL CLEC 9555
+817C WEST TELECOM SERVICES, LLC - IN IN CLEC 9555
+818C WEST TELECOM SERVICES, LLC - KS KS CLEC 9555
+819C WEST TELECOM SERVICES, LLC - LA LA CLEC 9555
+820C WEST TELECOM SERVICES, LLC - MD MD CLEC 9555
+821C WEST TELECOM SERVICES, LLC - MI MI CLEC 9555
+822C WEST TELECOM SERVICES, LLC - MN MN CLEC 9555
+823C WEST TELECOM SERVICES, LLC - MS MS CLEC 9555
+824C WEST TELECOM SERVICES, LLC - MO MO CLEC 9555
+825C WEST TELECOM SERVICES, LLC - MT MT CLEC 9555
+826C WEST TELECOM SERVICES, LLC - NE NE CLEC 9555
+827C WEST TELECOM SERVICES, LLC - NV NV CLEC 9555
+828C WEST TELECOM SERVICES, LLC - NH NH CLEC 9555
+829C WEST TELECOM SERVICES, LLC - NJ NJ CLEC 9555
+830C WEST TELECOM SERVICES, LLC - NM NM CLEC 9555
+831C WEST TELECOM SERVICES, LLC - NY NY CLEC 9555
+832C WEST TELECOM SERVICES, LLC - NC NC CLEC 9555
+833C WEST TELECOM SERVICES, LLC - OK OK CLEC 9555
+834C WEST TELECOM SERVICES, LLC - OR OR CLEC 9555
+835C WEST TELECOM SERVICES, LLC - PA PA CLEC 9555
+836C WEST TELECOM SERVICES, LLC - RI RI CLEC 9555
+837C WEST TELECOM SERVICES, LLC - SC SC CLEC 9555
+838C WEST TELECOM SERVICES, LLC - SD SD CLEC 9555
+839C WEST TELECOM SERVICES, LLC - VT VT CLEC 9555
+840C WEST TELECOM SERVICES, LLC - VA VA CLEC 9555
+841C WEST TELECOM SERVICES, LLC - WA WA CLEC 9555
+842C WEST TELECOM SERVICES, LLC - WV WV CLEC 9555
+4
+
+843C WEST TELECOM SERVICES, LLC - WI WI CLEC 9555
+844C WEST TELECOM SERVICES, LLC - WY WY CLEC 9555
+845C WEST TELECOM SERVICES, LLC - TN TN CLEC 9555
+860C WEST TELECOM SERVICES, LLC - IA IA CLEC 9555
+861C WEST TELECOM SERVICES, LLC - KY KY CLEC 9555
+890G WEST TELECOM SERVICES, LLC - AZ AZ CLEC 9555
+891G WEST TELECOM SERVICES, LLC - ND ND CLEC 9555
+893C KMC DATA LLC - TX7 TX CLEC 9555
+9555 WEST TELECOM SERVICES, LLC GA CLEC 9555
+9556 WEST TELECOM SERVICES, LLC - AR AR CLEC 9555
+9557 WEST TELECOM SERVICES, LLC - OH OH CLEC 9555
+9558 WEST TELECOM SERVICES, LLC - TX TX CLEC 9555
+7 KMC Data, LLC was acquired by HyperCube Telecom, LLC in 2005 and West Telecom Services, LLC
+in 2012.
+5

@@ -1,0 +1,223 @@
+December 6, 2021
+Via ECFS Filing
+REDACTED FOR PUBLIC INSPECTION
+Secretary, Federal Communications Commission
+Washington, DC 20554
+Attn: Wireline Competition Bureau
+RE: Request for Confidential Treatment of Filing of IDT Domestic Telecom, Inc.; Application of IDT
+Domestic Telecom, Inc. for Authorization to Obtain Numbering Resources Pursuant to Section
+52.15(g) of the Commission's Rules, WC Docket No. 21-
+Dear Ms. Dortch,
+Pursuant to Section §52.l5(g)(3)(i) of the Commission's Rules,1 IDT Domestic Telecom, Inc. ("IDT
+Domestic Telecom") hereby submits its Application for Authorization to Obtain Numbering Resources.
+IDT Domestic Telecom respectfully requests that, pursuant to Sections §0.457 and §0.459 of the
+Commission's Rules,2 the Commission withhold from public inspection and accord confidential
+treatment to Exhibit A to the application because that document contains sensitive trade secrets and
+commercial information that falls within Exemption 4 of the Freedom of Information Act ("FOIA").3
+Moreover, IDT Domestic Telecom would suffer substantial competitive harm if this information were
+disclosed.
+Exhibit A is accordingly marked with the header "SUBJECT TO REQUEST FOR CONFIDENTIAL TREATMENT -
+NOT FOR PUBLIC INSPECTION."
+In support of this request, IDT Domestic Telecom hereby states the following:
+1. IDENTIFICATION OF THE SPECIFIC INFORMATION FOR WHICH CONFIDENTIAL TREATMENT IS
+SOUGHT.
+IDT Domestic Telecom seeks confidential treatment of Exhibit A to its Application.
+2. DESCRIPTION OF CIRCUMSTANCES GIVING RISE TO THE SUBMISSION.
+IDT Domestic Telecom is submitting as Exhibit A the agreement between its carrier partner as
+proof of IDT Domestic Telecom's facilities readiness as required by Section 52. 15(g)(3)(i)(D) of
+the Commission's Rules.
+1 47 C.F.R. § 52.15(g).
+2 47 C.F.R. § 0.457 & §0.459.
+3 See 5 U.S.C. § 552(b)(4). Public disclosure is not required for “trade secrets and commercial or financial
+information obtained from a person and privileged or confidential.”
+
+Page 2 of 3
+3. EXPLANATION OF THE DEGREE TO WHICH THE INFORMATION IS COMMERCIAL OR FINANCIAL,
+OR CONTAINS A TRADE SECRET OR IS PRIVILEGED.
+The information for which IDT Domestic Telecom seeks confidential treatment contains sensitive
+commercial information "which would customarily be guarded from competitors". Exhibit A
+describes the agreement between IDT Domestic Telecom and its carrier partner and contains
+proprietary commercial information concerning IDT Domestic Telecom's network, customers,
+and services.
+4. EXPLANATION OF THE DEGREE TO WHICH THE INFORMATION CONCERNS A SERVICE THAT IS
+SUBJECT TO COMPETITION.
+Exhibit A contains information relating to commercial matters which can be used by other
+interconnected VoIP providers to compromise IDT Domestic Telecom’s position in the highly
+competitive interconnected VoIP business sector. Detailed operations and commercial
+information of the type provided by IDT Domestic Telecom could compromise IDT Domestic
+Telecom's position in this highly competitive industry. Accordingly, release of this information
+would result in substantial competitive harm to IDT Domestic Telecom.
+5. EXPLANATION OF HOW DISCLOSURE OF THE INFORMATION COULD RESULT IN SUBSTANTIAL
+COMPETITIVE HARM.
+Competitors could use IDT Domestic Telecom's proprietary commercial and operational
+information to IDT Domestic Telecom's detriment as they would gain access to sensitive
+information concerning IDT Domestic Telecom’s commercial agreements, as well as information
+as to how IDT Domestic Telecom provides its services. The prices and terms for the provision of
+such services are a substantial differentiator between competing carriers. Therefore, disclosure
+of the Carrier Agreement would result in significant competitive harm to IDT Domestic
+Telecom’s carrier partner. This information is not normally disclosed to the public.
+6. IDENTIFICATION OF ANY MEASURES TAKEN BY THE SUBMITTING PARTY TO PREVENT
+UNAUTHORIZED DISCLOSURE.
+IDT Domestic Telecom has not distributed the information in Exhibit A to the public; IDT
+Domestic Telecom is prohibited by contract from publicly disclosing the Carrier Agreement,
+except as expressly authorized by the carrier partner.
+7. IDENTIFICATION OF WHETHER THE INFORMATION IS AVAILABLE TO THE PUBLIC AND THE
+EXTENT OF ANY PREVIOUS DISCLOSURE OF THE INFORMATION TO THIRD PARTIES.
+IDT Domestic Telecom does not believe that the Carrier Agreement is available to the public or
+that the Carrier Agreement has ever been disclosed to third parties absent the protection of a
+non-disclosure agreement regarding their contents.
+
+Page 3 of 3
+8. JUSTIFICATION OF THE PERIOD DURING WHICH THE SUBMITTING PARTY ASSERTS THAT
+MATERIAL SHOULD NOT BE AVAILABLE FOR PUBLIC DISCLOSURE.
+IDT Domestic Telecom requests that Exhibit A be withheld from public disclosure indefinitely.
+IDT Domestic Telecom and its carrier partner intend for the Carrier Agreement to remain in
+effect indefinitely and therefore any disclosure of the Carrier Agreement or their substance
+would cause competitive harm to IDT Domestic Telecom’s carrier partner regarding of the
+timing of the disclosure.
+9. OTHER INFORMATION THAT IDT DOMESTIC TELECOM BELIEVES MAY BE USEFUL IN ASSESSING
+WHETHER ITS REQUEST FOR CONFIDENTIALITY SHOULD BE GRANTED.
+The information concerns IDT Domestic Telecom's proprietary network information, related to
+current and planned commercial and operational information, and as such, is commercially
+sensitive.
+For the foregoing reasons, IDT Domestic Telecom respectfully requests the Carrier Agreement be
+granted confidential status and withheld from public inspection.
+Any questions you may have regarding this filing should be directed to my attention at 407-740-3006 or
+via email to croesel@inteserra.com. Thank you for your assistance in this matter.
+Sincerely,
+/s/ Carey Roesel
+Carey Roesel
+Consultant
+cc: Carl Billek - IDT
+tms: FCx2101
+CR/mp
+
+Before the
+FEDERAL COMMUNICATIONS COMMISSION
+Washington, D.C. 20554
+In the Matter of )
+)
+IDT Domestic Telecom, Inc. )
+For Authorization to Obtain Numbering ) WC Docket No. 21-________
+Resources Pursuant to Section 52.15(g) of )
+The Commission’s Rules )
+APPLICATION OF IDT DOMESTIC TELECOM, INC.
+FOR AUTHORIZATION TO OBTAIN NUMBERING RESOURCES
+IDT Domestic Telecom, Inc. (“IDT Domestic Telecom”) pursuant to Section 52.15(g)(3)(i) of the
+Commission’s Rules, respectfully requests authorization to obtain numbering as described below.
+Under the Commission’s Numbering Order,1 an interconnected VoIP provider may obtain numbering
+resources from the Numbering Administrator upon a showing that it is authorized to provide service in the
+area for which the numbering resources are requested. Such authorization may be obtained upon an
+application to the Commission containing the information detailed in Section 52.15.(g)(3)(i)(A)-(G) of the
+Commission’s Rules. IDT Domestic Telecom hereby requests the Commission grant it that authorization. In
+support of this application, IDT Domestic Telecom provides the following information:
+I. INFORMATION REQUIRED BY SECTION 52.15(g)(3)(i)
+A. § 52.15(g)(3)(i)(A)
+Name: IDT Domestic Telecom, Inc.
+Address: 520 Broad Street
+City: Newark
+State: New Jersey
+ZIP Code: 07102
+Country: U.S.A.
+Telephone: 973-438-4854
+Website: https://www.idt.net/
+1 Numbering Policies for Modern Communications, FCC 15-70 (rel. June 22, 2015).
+
+Contact for Regulatory Requirements, Compliance, 911, and Law Enforcement:
+Name: Carl Billek
+Address: 520 Broad Street
+City: Newark
+State: New Jersey
+ZIP Code: 07102
+Country U.S.A.
+Telephone: (973) 438-4854
+E-mail Address carl.billek@idt.net
+B. § 52.15(g)(3)(i)(B)
+IDT Domestic Telecom hereby acknowledges that authorization to obtain numbering
+resources under Section 52.15(g) of the Commission’s Rules is subject to compliance with applicable
+Commission numbering rules as well as to the numbering authority delegated to the states. IDT Domestic
+Telecom hereby also acknowledges that this authorization is subject to compliance with industry guidelines
+and practices regarding numbering, as applicable to telecommunications carriers. The numbering resources
+that are the subject of this Application will be used to provide interconnected VoIP services initially in the
+state of Ohio.
+C. § 52.15(g)(3)(i)(C)
+IDT Domestic Telecom hereby acknowledges that it must file requests for numbers with the
+relevant state commission(s) at least 30 days before requesting numbers from the Numbering Administrators.
+D. § 52.15(g)(3)(i)(D)
+IDT Domestic Telecom hereby sets forth its capability to provide service within 60 days of
+the numbering resources activation date.
+To demonstrate its facilities readiness, IDT Domestic Telecom will have the following
+resources available at its disposal: a fully integrated back office support system with the ability to schedule
+and process LNP orders from customers and an experienced provisioning department capable of handling
+bulk number ports with over 15 years LNP experience. IDT Domestic Telecom has an agreement in place
+with a carrier partner to route traffic to the ILECs. IDT Domestic Telecom has attached to this application, as
+Exhibit A, an agreement between IDT Domestic Telecom and its carrier partner providing that the carrier
+
+partner will host IDT Domestic Telecom’s numbers on its switches and provide connectivity to the PSTN for
+inbound calls to IDT Domestic Telecom numbers. IDT Domestic Telecom has requested confidential
+treatment under the Commission’s rules for Exhibit A. Also attached, as Exhibit B, is evidence of
+interconnection agreement between IDT Domestic Telecom’s carrier partner and a local exchange carrier in
+the state of Ohio.
+E. § 52.15(g)(3)(i)(E)
+IDT Telecom hereby certifies that it complies with its Universal Service Fund contribution
+obligations under 47 CFR part 54, subpart H, its Telecommunications Relay Service contribution obligations
+under 47 CFR § 64.604(c)(5)(iii), its North American Numbering Plan and Local Number Portability
+Administration contribution obligations under 47 CFR §§ 52.17 and 52.32, its obligations to pay regulatory
+fees under 47 CFR § 1.1154, and its 911 obligations under 47 CFR part 9.
+F. § 52.15(g)(3)(i)(F)
+IDT Domestic Telecom certifies that it has the financial, managerial, and technical expertise
+to provide reliable service. It is financially stable, led by a strong, experienced management team with
+substantial managerial experience in the telecommunications industry and has sufficient technical expertise
+and infrastructure in place to provide reliable numbering services. IDT Domestic Telecom’s key management
+and technical personnel are listed below. None of the identified personnel are being or have been investigated
+by the Commission or any law enforcement or regulatory agency for failure to comply with any law, rule, or
+order.
+Key Personnel:
+Shmuel Jonas - Chief Executive Officer
+Bill Pereira – Executive Vice President
+David Wartell – Chief Technical Officer
+Marcelo Fischer - Chief Financial Officer
+Yona Katz - Chief Operating Officer
+Carl Billek - VP Regulatory
+Joyce Mason – Secretary
+Daniel Sturm - Treasurer
+
+G. § 52.15(g)(3)(i)(G)
+IDT Domestic Telecom hereby certifies that no party to this application is subject to a denial
+of Federal benefits pursuant to Section 5301 of the Anti-Drug Abuse Act of 1988, 21 U.S.C. § 862.
+II. ACKNOWLEDGEMENT OF CONDITIONS IN SECTION 52.15(g)(3)(iv)
+As required by Section 52.15(g)(3)(iv), IDT Domestic Telecom will maintain the accuracy of all
+contact information and certifications in this application and will file a correction with the Commission and
+each applicable state within 30 days of any changes. IDT Domestic Telecom will also furnish accurate
+regulatory and numbering contact information to each state commission when requesting numbers in that
+state.
+III. CONCLUSION
+Pursuant to Section 52.15(g)(3)(i) of the Commission’s Rules, IDT Domestic Telecom respectfully
+requests the Commission grant this application for authorization to obtain numbering resources.
+Respectfully submitted,
+/s/ Carey Roesel
+Carey Roesel, Consultant
+Inteserra Consulting Group, Inc.
+(407) 740-3006
+croesel@inteserra.com
+and
+Carl Billek - VP Regulatory
+IDT Domestic Telecom, Inc.
+520 Broad St
+Newark, NJ 07102
+(973) 438-4854
+November 30, 2021
+
+Exhibit A
+AGREEMENT BETWEEN
+IDT DOMESTIC TELECOM AND CARRIER PARTNER
+(Confidential exhibit submitted separately)
+
+Exhibit B
+(for each state listed)
+INTERCONNECTION AGREEMENTS BY AND
+BETWEEN CARRIER PARTNER
+AND
+THE OHIO BELL TELEPHONE COMPANY
+D/B/A SBC AMERITECH OHIO
+FOR THE STATE OF OHIO

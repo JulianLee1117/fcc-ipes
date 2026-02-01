@@ -1,0 +1,98 @@
+Attachment A
+BIOGRAPHIES OF KEY MANAGEMENT AND TECHNICAL PERSONNEL
+
+John(cid:3)Marlow, (cid:51)(cid:85)(cid:72)(cid:86)(cid:76)(cid:71)(cid:72)(cid:81)(cid:87)(cid:3)(cid:68)(cid:81)(cid:71)(cid:3)Chief Executive Officer of RCLEC,(cid:3)Inc.
+Mr. Marlow serves as (cid:51)(cid:85)(cid:72)(cid:86)(cid:76)(cid:71)(cid:72)(cid:81)(cid:87)(cid:3)(cid:68)(cid:81)(cid:71)(cid:3)Chief Executive Officer of RCLEC, Inc. Mr. Marlow also
+oversees business and legal affairs at RingCentral, RCLEC’s parent company. For the last six(cid:3)
+years, Mr. Marlow has worked as RingCentral's General Counsel and Senior Vice President of
+Corporate Development.
+Before joining RingCentral, Mr. Marlow was the founding and managing partner of
+Entrepreneurs Law Group (ELG), a boutique law firm based in San Francisco specializing in
+corporate, securities, tax, intellectual property, venture capital, mergers and acquisitions and
+licensing matters. During his five years at ELG, Mr. Marlow represented companies in a broad
+range of industries, including software, hardware, information technology, and
+telecommunications.
+Before founding ELG, Marlow was a partner in the San Francisco office of Reed Smith, a full-
+service international law firm. Prior to that, Mr. Marlow was a partner at Crosby, Heafey,
+Roach & May, LLP, a law firm that was acquired by Reed Smith.
+Mr. Marlow received his law degree from University of California Berkeley School of Law
+(Boalt Hall) in 1994, and a Bachelor’s degree, summa cum laude, from Colgate University.
+
+Mitesh Dhruv, Chief Financial(cid:3)Officer(cid:3)of(cid:3)RCLEC,(cid:3)Inc.
+Mr. Dhruv serves as Chief Executive Officer of RCLEC, Inc. Mr. Dhruv also serves in this capacity
+for RingCentral, RCLEC’s parent company. He is closely involved in driving business strategy,
+corporate finance, partnerships, and growth opportunities. He joined RingCentral in 2012 and is
+responsible for RingCentral’s global finance functions, including financial planning, controllership,
+tax, treasury, and investor relations.
+Dhruv began his career at PricewaterhouseCoopers and has more than 15 years of experience in
+accounting and finance. Before joining RingCentral, he worked at Bank of America-Merrill Lynch
+as an equity analyst, covering software and cloud companies, and worked on several multi-billion-
+dollar IPOs.
+Dhruv is a Chartered Accountant as well as a CFA Charterholder, and has an undergraduate degree
+in accounting from the University of Mumbai, India.
+
+Bruce Johnson, Secretary of RCLEC, Inc.
+Mr. Johnson serves as Secretary of RCLEC, Inc. Mr. Johnson also serves as Vice President,
+Legal, of RCLEC’s parent company, RingCentral, Inc.
+Mr. Johnson has over 25 years’ experience as an attorney, and has served as in–house legal
+counsel to telecommunications-related companies for 14 years. Mr. Johnson served as Associate
+General Counsel of Atheros Communications, Inc., a provider of wireless and wired connectivity
+semiconductors and systems, where he handled and effectively managed every aspect of Atheros
+becoming and remaining a publically traded company in good legal standing. He served as Senior
+Director and Legal Counsel for Qualcomm Atheros, Inc. following the acquisition of Atheros by
+Qualcomm Incorporated. Prior to that, Mr. Johnson served as General Counsel to Vyyo, Inc., and
+prior to that, Mr. Johnson was an Associate and Partner at Bay Venture Counsel, LLP, a law firm,
+andan Associate atBrobeck, Phleger & Harrison, a law firm.
+Mr. Johnson holds a Juris Doctorate degree from University of California at Los Angeles, School
+of Law. Mr. Johnson received his Bachelor of Arts degree in Economics and English from Duke
+University.
+
+Jeff Slater, (cid:54)(cid:72)(cid:81)(cid:76)(cid:82)(cid:85)(cid:3)Director of Voice Gateways of RCLEC, Inc.
+Mr. Slater serves as the Senior Director of Voice Gateways at RCLEC, Inc.
+Mr. Slater has 30 years managerial experience in the telecommunications industry. Mr. Slater’s
+experience includes executive management, business plan development, product and service
+development, engineering, network implementation, operations management, back office
+integration, vendor and facility contract negotiations, regulatory and compliance processes,
+and development of new sales channels both domestically and internationally.
+Mr. Slater has served as theChiefOperating Officer of Covista Communications, providing
+traditional longdistance,UNE-based local serviceand next generation SIP trunkingand hosted
+PBXproducts to residential and business customers throughout theUS. Prior to that, he was
+President of Broadvox, a CLEC providingnext-generation local service usingand providing IP
+originated and terminated calls.
+As Vice President of Business Development at CIMCO, Mr. Slater was responsible for planning
+thenext generation of products, services and network topologies forthecompany. Mr. Slater
+was responsible for managing the IP-based SMB business initiative, building network strategies
+to overcome UNE regulatory issues, mapping CoEu, wireless and fiber network strategies, and
+auditing all internal process to secure retroactive and prospective cost savings.
+As the President ofCedar Valley Communications, Mr. Slater succeeded indeveloping and
+implementinga reorganization plan, attainingpositivecash flow, and attracting equity
+investmentsresultingin the sale of theCompany.
+Mr. Slater has also held executive positions as Founder and President ofJTek Systems, Chief
+Operating Officer of TotalTel, a Covista Communications Company, VicePresident of
+Operations ofCharter Network, and Director of Lexicom.
+Mr. Slater receivedhis degree in Business from DePaul University.
+
+Curtis Lee Peterson
+Mr. Peterson serves (cid:53)(cid:38)(cid:47)(cid:40)(cid:38)(cid:3)in a consulting(cid:3)capacity(cid:3)to contribute(cid:3)his(cid:3)technological(cid:3)and(cid:3)(cid:3)(cid:3)(cid:3)
+managerialknowledge(cid:3)to RCLEC,Inc.
+Mr. Peterson has established his ability to rapidly growbusinesses when he helped NuVox grow
+from a$550,000 business to $550M in ten years. Mr. Peterson also has strongskills in VOIP, IP
+Networking, and Information Technology. His information technology experience includes
+softwaredesign and design management, hardware and network design, security,
+implementation and deployment, virtualization/cloudservices management of rapid application
+development, and multi-department project management. His network operations experience
+includesVOIP, TDM, wireless, aggregation, content deliverynetworks, data centers, high
+availabilityapplications, network design and operation, and SAAS.
+Mr. Peterson developed his technical and managerial skills in his long careerat NuVox
+(previouslyNewSouth Communications, Inc.). As VicePresident ofCenter Operations of
+NuVox, he managed 120 technical professionals, improving thecustomerbaseand reliabilityof
+theVoIP network. Mr. Peterson oversaw theoperationsof29 Class 5 switches, 40 Central
+OfficeSites, 500+ collocations, 4 Customer (SAS-70 II certified) data centers, 24 Softswitch
+gateways, 16 state MPLS / IP network with over 550 routers, and the VOIP platform.
+Mr. Peterson worked in diverse managerial positions throughout his career at NuVox, including
+Director of Data Product Development/Senior Manager of DataProducts, Director ofCustomer
+Marketing, and Director of IT. Prior to that, Mr. Peterson was Directorof IP Operations at
+Talk.com (formerlyOmnicall), and District TechnologyCoordinatory for amulti-campusschool
+district.
+Mr. Peterson holds adegree in Computer Engineeringfrom Auburn University in Auburn,
+Alabama.

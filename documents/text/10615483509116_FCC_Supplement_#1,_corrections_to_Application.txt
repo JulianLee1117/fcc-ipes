@@ -1,0 +1,143 @@
+										June 15, 2021
+
+BY ELECTRONIC DELIVERY 
+
+Marlene H. Dortch, Secretary 
+
+Federal Communications Commission 
+
+445 12th Street S.W. 
+
+Washington D.C. 20554 
+
+Re: Supplement to Application of Advanced Communications, LLC. for Authorization to Obtain Numbering Resources 
+
+WC Docket No. 21-132
+
+Dear Ms. Dortch: 
+
+Advanced Communications, LLC., by its consultant, hereby provides this revision to Application for Authorization to Obtain Numbering Resources supplementing its initial filing, dated March 31, 2020. Advanced Communications is submitting this supplement to correct errors as suggested by Commission Staff in sections 52.15(g)(3)(i)(A) and 52.15(g)(3)(i)(F).  
+
+Thank you for your attention to this matter. Please contact the undersigned if you have any questions. 
+
+Sincerely, 
+
+Ron Shelton
+
+Compliance Solutions, Inc.
+
+Consultant to Advanced Communications, LLC.
+
+Before the
+
+FEDERAL COMMUNICATIONS COMMISSION
+
+Washington, D.C. 20554
+
+In the Matter of 
+
+Advanced Communications, L.L.C.		)
+
+						)	WC Docket No. 21-132
+
+For Authorization to Obtain Numbering 	)
+
+Resources Pursuant to Section 52.15(g) of 	)
+
+The Commission's Rules 			)
+
+APPLICATION OF ADVANCED COMMUNICATIONS, L.L.C.
+
+FOR AUTHORIZATION TO OBTAIN NUMBERING RESOURCES
+
+Advanced Communications, L.L.C. pursuant to Section S2.1S(g)(3)(i) of the Commission's Rules, respectfully requests authorization to obtain numbering resources as an interconnected VoIP provider. Advanced Communications, L.L.C. seeks authorization by the Commission through an application containing the information detailed in Section 52.15 (g)(3)(i)(A)-(G) of the Commission's Rules. In support of this application, Advanced Communications, L.L.C. provides the following information: 
+
+I. INFORMATION REQUIRED BY SECTION 52.15(g)(3)(i) 
+
+A. § 52.15(g)(3)(i)(A) 
+
+Name: Patrick Brangan
+
+Advanced Communications, L.L.C.
+
+Address: 2211 E. 7th Avenue
+
+City: Tampa
+
+State: FL
+
+ZIP Code: 33605
+
+Telephone: 813-805-8963
+
+B. § S2.15(g)(3)(i)(B) 
+
+Advanced Communications, L.L.C. hereby acknowledges that authorization to obtain numbering resources under Section 52.15(g) of the Commission's Rules is subject to compliance with applicable Commission numbering rules as well as to the numbering authority delegated to the states. Advanced Communications, L.L.C. hereby also acknowledges that this authorization is subject to compliance with industry guidelines and practices regarding numbering, as applicable to telecommunications carriers. 
+
+C. § 52.15(g)(3)(i)(C) 
+
+Advanced Communications, L.L.C. acknowledges that it must file requests for numbers with the relevant state commission(s) at least 30 days before requesting numbers from the Numbering Administrators.  Advanced Communications herein confirms that, once it receives authority from the Commission to secure numbering resources, it will secure such resources in Florida, wherein Advanced Communications, L.L.C. operates. Any additional states will be added at a later date. 
+
+D. § 52.15(g)(3)(i)(D) 
+
+Advanced Communications, L.L.C. hereby sets forth its capability to provide service within 60 days of the numbering resources activation date.   As proof of readiness, Advanced Communications, L.L.C. has attached to this application, as Exhibit A, an agreement between Advanced Communications, L.L.C. and the carrier partner to provide connectivity to the PSTN. Also included is a publicly available ICA between Advanced Communications’ carrier partner and local exchange carriers in the states of Advanced Communications’ operations (url: https://psc.ky.gov/PSCICA/0000/00944/00944-AI_040108.pdf). Advanced Communications, L.L.C. has requested confidential treatment under the Commission’s rules for Exhibit A.
+
+E. § 52.15(g)(3)(i)(E) 
+
+Advanced Communications, L.L.C. hereby certifies that it will comply with its Universal Service Fund contribution obligations under 47 CFR part 54, subpart H, its Telecommunications Relay Service contribution obligations under 47 CFR § 64.604(c)(5)(iii), its North American Numbering Plan and Local Number Portability Administration contribution obligations under 47 CFR §§ 52.17 and 52.32, its obligations to pay regulatory fees under 47 CFR § 1.1154, and its 911 obligations under 47 CFR part 9. 
+
+F. § 52.15(g)(3)(i)(F) 
+
+Advanced Communications, L.L.C. certifies that it has the financial, managerial, and technical expertise to provide reliable service. It is financially stable, led by a strong, experienced management team with substantial managerial experience in the telecommunications industry, and has sufficient technical expertise and infrastructure in place to provide reliable numbering services. 
+
+Advanced Communications, L.L.C.'s key management and technical personnel are Patrick Brangan, President; Patrick Fulgham, Service Delivery Manager. None of the identified personnel are being nor have been investigated by the Commission or any law enforcement or regulatory agency for failure to comply with any law, rule, or order. 
+
+G. § 52.15(g)(3)(i)(G) 
+
+Advanced Communications, L.L.C. hereby certifies that no party to this application is subject to a denial of Federal benefits pursuant to Section 5301 of the Anti-Drug Abuse Act of 1988,21 U.S.c. § 862. 
+
+II. ACKNOWLEDGEMENT OF CONDITIONS IN SECTION 52.15(g)(3)(iv) 
+
+As required by Section 52.15(g)(3)(iv), Advanced Communications, L.L.C. will maintain the accuracy of all contact information and certifications in this application and will file a correction with the Commission and each applicable state within 30 days of any changes. Advanced Communications, L.L.C. will also furnish accurate regulatory and numbering contact information to each state commission when requesting numbers in that state. 
+
+III. CONCLUSION 
+
+Pursuant to Section 52.15(g)(3)(i) of the Commission's Rules, Advanced Communications, L.L.C. respectfully requests the Commission grant this application for authorization to obtain numbering resources. 
+
+Respectfully submitted, 
+
+Ron Shelton, Consultant
+
+Compliance Solutions, Inc.
+
+(407) 794-3510
+
+ron@csilongwood.com
+
+AND
+
+Patrick Brangan, 
+
+President,
+
+ Advanced Communications, L.L.C. 
+
+2211 E. 7th. Avenue
+
+Tampa, FL  33605
+
+03/31/2021
+
+Confidential Public Facing Document
+
+Exhibit A
+
+AGREEMENT BETWEEN ADVANCED COMMUNICATIONS, L.L.C. 
+
+AND
+
+CARRIER PARTNER
+
+Confidential and Proprietary – Filed Separately Under Seal
+
+Pursuant to 47 C.F.R. §0.459

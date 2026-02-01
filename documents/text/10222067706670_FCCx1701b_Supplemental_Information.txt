@@ -1,0 +1,139 @@
+..
+".,.," 151SouthhallLane,Ste450
+Maitland,FL32751
+Infeserra
+PO,Drawer200
+WinterParkFL32790-0200
+\'fI.yw.inleserra.com
+February22, 2018
+Via ECFS Filing
+Marlene Dortch
+Secretary
+Federal Communications Commission
+445 12thStreetSW
+Washington, DC20554
+RE: SupplementalInformationforApplicationofHDCarrier, LLCforAuthorization toObtain
+NumberingResourcesPursuanttoSection52.15(g)oftheCommission'sRules
+WCDocketNo. 17-241
+DearMs. Dortch:
+Pursuant to Section 52.15(g)(3)(i) of the Commission's Rules, HD Carrier, LLC ("HD Carrier") hereby
+submits the following supplemental information to its application requesting authorization to obtain
+numberingresources.
+1. HDCarrieris aVolP provider.
+2. Josh Lowenthal's direct numberis725-333-1011.
+3. Keith Williams serves as Director of Network Services and can be contacted at 725-333
+1013orkeith@hdcarrier.com.
+4. Please see attached CA ICAwith PacBell evergreen provision.
+Any questionsyou may have regarding this filing should be directed to my attention at407-740-3006or
+via email tocroesel@inteserra.com.Thank you foryourassistance in this matter.
+Sincerely,
+/s/Carey Roesel
+Carey Roesel
+Consultant
+cc: Josh Lowenthal- HDCarrier
+tms: FCCx1701b
+CR/gs
+
+GENERALTERMSANDCONDITIONS
+AT&TCALIFORNIA/COMITY
+Page8of407 PAGE70F44
+such UNEs, Collocation, Interconnectionand/orResaleto CLEC forthe purposes ofCLEC providingand/or
+extending service outside of SBC-12STATE's incumbent local exchange areas. In addition, AT&T is not
+obligated to provision UNEs orto provide access to UNEs under Section 251(c)(3) ofthe Act, Collocation
+underSection 251(c)(6) oftheAct, Interconnection underSection 251(c)(2) ofthe Act and/orResaleunder
+Section 251(c)(4) of the Act and is not otherwise bound by any 251(c) obligations in geographic areas
+other than AT&T's incumbent local exchange areas. Therefore, the Parties understand and agree that the
+rates, terms and conditions set forth in AT&T's current Interconnection Agreement, and any associated
+provisions setforth elsewhere in CLEC'scurrent InterconnectionAgreement(including butnotlimitedto the
+ratessetforth inthisAgreementassociatedwith UNEsunderSection 251(c)(3)oftheAct,Collocationunder
+Section 251(c)(6)oftheAct, InterconnectionunderSection 251(c)(2)oftheActand/orResaleunderSection
+251(c)(4) of the Act), shall only apply to the Parties and be available to CLEC for provisioning
+telecommunication serviceswithin an AT&Tincumbentlocalexchange area(s) inthe State inwhich CLEC's
+current InterconnectionAgreementwith AT&Thas been approved bythe relevantstate Commissionand is
+ineffect.
+2.0 EFFECIIVEDAlE,lERM ANDlERMINAlION
+2.1 Theeffectivedateofthis Agreement(the"EffectiveDate")shall beasfollows: (i)unlessthis Agreementisa
+successor agreement to an effective interconnection agreement between the Parties under Sections
+251/252 of the Act, then the Effective Date of this Agreement shall be ten (10) calendar days after the
+California Public Utility Commission (the "Commission") approves this Agreement under Section 252(e) of
+the Act or, absentsuch Commission approval, the date this Agreement is deemed approved underSection
+252(e)(4) of the Act; or (ii) if this Agreement is a successor agreement to an effective interconnection
+agreement between the Parties under Sections 251/252, then the Effective Date shall be the date upon
+which the Commission approves the Agreementunderthe Act, orabsentsuch Commission approval, the
+datethis AgreementisdeemedapprovedunderSection252(e)(4)oftheAct.
+2.2 The Agreementshall expire on November27,2011. Absentthe receipt byone Partyofwritten noticefrom
+the otherParty not earlierthan 180 calendardays priorto the expiration ofthe Term tothe.effectthatsuch
+Party does not intend to extend the Term ("Notice ofExpiration"), this Agreementshanremain in fullforce
+and effect, on amonth to month basis, on and after the expiration ofthe Term until terminated byeither
+Party.
+2.2.1 If either Party serves Notice of Expiration pursuant to Section 2.2, CLEC shall have twenty (20)
+calendar days to provide AT&T written confirmation if CLEC wishes to pursue a successor
+agreementwith AT&Toralternatively, ifCLEC wishes to anow the currentAgreement to expire. If
+CLEC wishes to pursue a successor agreement with AT&T, CLEC shan attach to its written
+confirmation or Notice of Expiration, as applicable, awritten request to commence negotiations
+with AT&T under Sections 251/252 ofthe Act. Upon receipt ofGLEC's Section 252(a)(1) request,
+the Partiesshallcommencegoodfaith negotiationson asuccessoragreement.
+2.2.1.1 IfCLEC does not affirmatively state that itwishes to pursue asuccessoragreementwith
+AT&T in its, as applicable, Notice of Expiration or the written confirmation required after
+receipt of AT&T's Notice of Expiration, then the rates, terms and conditions of this
+Agreement shall continue in full force and effect until the later of 1) the expiration ofthe
+Term ofthis Agreement, or 2) the expiration of ninety (90) calendar days after the date
+CLEC provided orreceived Notice ofExpiration. Unless otherwiseagreed bythe Parties,
+ifthe Term ofthis Agreement has expired, on the ninety-first (91st) day following CLEC
+provided or received Notice of Expiration, the Parties shan have no further obligations
+underthisAgreement,exceptthosedescribed in Sections2.4 and48.
+2.3 The termsand conditionsand ratesandchargescontained hereinwillcontinuetoapplyuntiltheearlierof(i)
+termination byeitherPartyunderthe termsofthisAgreement; (ii)thedateasuccessoragreementbecomes
+Page8of423
+
+GENERALTERMSANDCONDITIONS
+AT&TCALIFORNIA/COMITY
+Page9of407 PAGE80F44
+effective or (iii) the date that is ten (10) months after the date on which AT&T received CLEC's Section
+252(a)(1) request, unlessan arbitration petition has been filed byeither Party, in which case (ii) applies. If
+CLEC requests negotiationofasuccessoragreement,therates, termsandconditionsofthisAgreementwill
+continue ineffectduringthependencyoftheparties' negotiationsand, ifapplicable, arbitration.
+2.4 CLEC mayterminatethisAgreementinwholeorin partatanytimeforanyreasonupon sixty(60)daysprior
+noticebutitsliabilitiesandobligationsshallcontinueinaccordancewith Section48below.
+2.5 Notwithstanding anyother provision ofthis Agreement, either Party may terminate this Agreement and the
+provision of any Interconnection, Resale Services, Unbundled Network Elements, functions, facilities,
+products orservices provided pursuantto this Agreement, atthe sole discretion ofthe terminating Party, in
+the event that the other Party fails to perform a material obligation or breaches a material term of this
+Agreement, otherthan as setforth in Section 10, and the other Partyfails to cure such nonperformance or
+breach within forty-five (45) calendar days afterwritten notice thereof. Any termination ofthis Agreement
+pursuant to this Section 2.5 shall take effect immediately upon delivery ofwritten notice to the other Party
+that itfailed to cure such nonperformance orbreach within forty-five (45) calendardays afterwritten notice
+thereof.
+2.6 As long as anon-paying Party has disputed unpaid amounts in good faith and pursuantto the termsofthis
+Agreement, non-payment is not to be deemed, nor should it be construed as, a material breach of this
+Agreement.
+2.7 In the event of expiration or termination ofthis Agreement other than pursuant to Section 2.5, AT&T and
+CLEC shall cooperate in goodfaith toeffectanorderlyandtimelytransition ofservice underthisAgreement
+to CLEC or to another vendor. So long as CLEC fulfills said obligation to effect an orderly and timely
+transition of service, AT&T shall not terminate service to CLEC's end users and such service shall be
+provided pursuant to the terms of the interconnection agreement during this transition period. AT&T and
+CLEC shall continue their responsibilities under the terms and conditions of the terminated or expired
+Agreementforanyordersubmitted toAT&Tin connectionwiththistransitionofservice.
+3.0 CHANJElNIAVI;RESERVATIONOFRIGHIS
+3.1 ThisAgreementisthe resultofnegotiationsbetweenthe Partiesand mayincorporatecertain provisionsthat
+resulted from arbitration bythe PartiesbeforetheCommission. The Partiesacknowledgethatthe respective
+rights and obligations ofeach Partyas setforth in this Agreement are based on the following: theAct, the
+applicable rules, regulations and Orders promulgated underthe Act by the FCC, and applicable California
+statutes, rules, regulations and Commission orders, and judicial decisions by courts of competent
+jurisdiction interpreting and applying said federal and California statutes, rules, regulations and Orders. In
+entering into this Agreement and any Amendments to such Agreement and carrying out the provisions
+herein, neither Party waives, but instead expressly reserves, all ofits rights, remedies and arguments with
+respectto anyorders, decisions, legislation or proceedings and any remands thereofand anyotherfederal
+or state regulatory, legislative orjudicial action(s) that are issued, rendered, or adopted after January 23,
+2004. Additionally, each Party expressly reserves its intervening law rights relating to the following actions:
+the impairmentproceedings thatwill be heard before the Commission and any pending appeals thatrelate
+to, orarisefrom, the FCC'sTriennial ReviewOrder, released onAugust21, 2003, IntheMatterofReviewof
+the Section 251 Unbundling Obligations of Incumbent Local Exchange Carriers, CC Docket No. 01-338,
+Implementationofthe Local Competition Provisionsofthe TelecommunicationsActof1996,CC DocketNo.
+96-98, DeploymentofWireline Services Offering AdvancedTelecommunications Capability, CC DocketNo.
+98-147 (FCC 03-36) (the"TRO")andthe D.C. Circuit'sdecisionin United StatesTelecomAssociation, et. al
+v. FCC, 290 F.3d 415 (D.C. Cir. 2002) ("USTA") Forpurposesofthis Agreement, "Change in Law"shall be
+defined as any legally binding judicial decision byacourt ofcompetentjurisdiction, amendmentofthe Act
+or applicable California statute, or legislative, federal or state regulatory action, rule, regulation or other
+legal action that materially revises, reverses, modifies or clarifies the meaning of the Act, an applicable
+Page9of423

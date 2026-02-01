@@ -1,0 +1,57 @@
+Before the
+FEDERAL COMMUNICATIONS COMMISSION
+Washington, D.C. 20554
+In the Matter of )
+)
+8x8, Inc., Applicant ) WC Docket No. 20-19
+)
+For Authorization to Obtain Numbering )
+Resources Pursuant to Section 52.15(g) of )
+the Commission’s Rules )
+SUPPLEMENT TO THE APPLICATION OF 8X8, INC.
+FOR AUTHORIZATION TO OBTAIN NUMBERING RESOURCES
+On December 19, 2019, 8x8, Inc. (“8x8”) respectfully requested authorization to obtain
+numbering resources as an interconnected VoIP provider pursuant to Section 52.15(g)(3)(i) of the
+Commission’s Rules.
+In response to 8x8’s application, the Wireline Competition Bureau requested additional
+information to demonstrate proof of facilities readiness under Direct Access Order (FCC 15-70)
+paragraph 37. In support of this application, 8x8 provides the following information:
+I. INFORMATION REQUIRED BY SECTION 52.15(g)(3)(i)
+c) § 52.15(g)(3)(i)(C)
+Prior to requesting numbers from the Numbering Administrators, 8x8 will file requests for
+numbers with the relevant state authorities. 8x8 meant to list the states where it will request
+numbering resources in Appendix A of its initial application, but omitted the Appendix in error.
+8x8 now attaches Appendix A to this supplement.
+d) § 52.15(g)(3)(i)(D)
+As stated in its initial application, 8x8 has agreements in place with a carrier partner who
+in turn has interconnection agreements with local exchange carriers. Attached to 8x8’s application
+
+as Confidential Exhibit A was an interconnection agreement between 8x8 and its carrier partner.
+8x8 now attaches to this supplement an additional agreement between 8x8 and an affiliate of its
+carrier partner that clarifies the terms within Confidential Exhibit A and further demonstrates 8x8’s
+facilities readiness.1 This document is attached as Confidential Exhibit C and is submitted
+pursuant to 8x8’s concurrently-filed request for confidential treatment.
+II. CONCLUSION
+8x8 respectfully submits this additional information.
+Respectfully submitted,
+________________________________
+Brita D. Strandberg
+HARRIS, WILTSHIRE & GRANNIS LLP
+1919 M Street N.W.
+Eighth Floor
+Washington, D.C. 20036
+Tel.: (202) 730-1300
+Fax: (202) 730-1301
+Counsel to 8x8, Inc.
+1 The attached interconnection agreement, as amended and assigned, is between 8x8 and Broadvox, LLC.
+Broadvox, LLC is owned by Inteliquent, Inc. Accordingly, the attached agreement governs 8x8’s interconnection
+with this carrier partner.
+
+APPENDIX A
+
+LIST OF STATES IN WHICH 8x8 PLANS TO SEEK NUMBERS
+California
+
+Confidential Exhibit C
+
+Exhibit Redacted in its Entirety

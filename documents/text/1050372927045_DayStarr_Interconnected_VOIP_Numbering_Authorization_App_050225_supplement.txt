@@ -1,0 +1,151 @@
+May 2, 2025
+Marlene Dortch, Secretary
+Federal Communications Commission
+45 L Street NE
+Washington, DC 20554
+RE: DayStarr, LLC DBA DayStarr Communications , Applicant to Obtain Number Resources \
+Pursuant to Section 52.15(g) of the Commissions Rules
+Dear Ms. Dortch,
+Pursuant to Section 52.15(g)(3)(i) of the Commissions Rules, DayStarr, LLC hereby submits its supplemental filing for
+the application requesting authorization to obtain numbering resources.
+DayStarr, LLC respectfully requests that, pursuant to Sections 0.457 and 0.459 of the Commission's rules, 47 C.F.R. §§
+0.457 and 0.459, the Commission withhold from public inspection and accord confidential treatment to Exhibit B, D, E
+and F to the application because those documents contains sensitive trade secrets and commercial information that falls
+within Exemption 4 of the Freedom of Information Act ("FOIA"). DayStarr, LLC voluntarily provides this information, "of
+a kind that would not customarily be released to the public"; therefore, this information is "confidential" under FOIA2
+Moreover, DayStarr, LLC would suffer substantial competitive harm if this information were disclosed.
+Exhibit B, D, E and F are accordingly marked with the header "SUBJECT TO REQUEST FOR CONFIDENTIAL TREATMENT -
+NOT FOR PUBLIC INSPECTION."
+For any question regarding this application please contact me at (615) 796-1111 or e-mail me at
+marylou@backuptelecom.com.
+RReessppeeccttffuullllyy,,
+____________________
+Mary Lou Carey
+BackUP Telecom Consulting
+Telecom Consultant filing on behalf of DayStarr, LLC
+
+Before the
+FEDERAL COMMUNICATIONS COMMISSION
+Washington, DC 20054
+In the matter of:
+DayStarr, LLC DBA DayStarr Communications )
+Applicant For Authorization to Obtain )
+Numbering Resources Pursuant to Section )
+52.15(g) of the Commission Rules )
+APPLICATION OF DAYSTARR, LLC DBA DAYSTARR COMMUNICATIONS FOR AUTHORIZATION
+TO OBTAIN NUMBERING RESOURCES
+DayStarr, LLC DBA DayStarr Communications (hereinafter DayStarr), pursuant to Section 52.15(g)(3)(i) of the
+Commissions Rules, respectfully requests authorization to obtain numbering resources as described below.
+Applicant requests the Commission grant it authorization as set forth in the Commissions Numbering and
+Policies for Modern Communications, FCC 15-70 (June 22, 2015) to obtain numbering resources from the North
+American Numbering Administrator. In support of this application DayStarr provides the following information:
+I. INFORMATION REQUIRED BY SECTION 52.15(G)(3)(I)
+(A) § 52.15(G)(3)(i)(A)
+Name: DayStarr, LLC DBA DayStarr Communications
+Address: 307 North Ball St PO Box 698
+Owosso, Michigan 48867
+Telephone: (989) 720-6000
+Person qualified to address issues relating to regulatory requirements, compliance with Commission
+rules, 911, and law enforcement.
+Caitlin Brewer
+Administrative Services Manager
+307 North Ball St PO Box 698
+
+Owosso, Michigan 48867
+(989) 720-6000
+regulatory@daystarrfiber.net, Caitlin.brewer@daystarrfiber.net
+(B) § 52.15(G)(3)(i)(B)
+DayStarr acknowledges that authorization to obtain numbering resources under Section 52.15 (g) of the
+Commissions Rules is subject to compliance with applicable Commission numbering rules, numbering authority
+delegated to the states, and industry guidelines, and practices regarding numbering as applicable to
+telecommunications carriers. DayStarr has been in contact with NEUSTAR and will within 30 days have the
+necessary NPAC connections and completed NPACs training to ensure they are fully capable of managing the
+responsibilities of local number portability.
+(C) § 52.15(G)(3)(i)(C)
+DayStarr hereby certifies that it will not use the numbers obtained pursuant to an authorization
+under Section 52.1S(g) to knowingly transmit, encourage, assist, or facilitate illegal robocalls, illegal
+spoofing, or fraud, in violation of robocall, spoofing, and deceptive telemarketing obligations under 47 CFR
+§§ 64.1200, 64.1604, and 64.6300 et seq., and 16 CFR 310.3(b). Daystarr has filed a Robocall Mitigation
+plan under RMD0001961.
+(D) § 52.15(G)(3)(i)(D)
+DayStarr hereby certifies that it has fully complied with all applicable STIR/SHAKEN
+caller ID authentication and robocall mitigation program requirements and filed a certification
+in the Robocall Mitigation Database as required by 47 CFR §§ 64.6301 to 64.6305. DayStarr
+LLC appears on iconectivs approved service provider list found at
+https://authenticate.iconectiv.com/authorized-service-providers-authenticate.
+(E) § 52.15(G)(3)(i)(E)
+DayStarr hereby certifies that it complies with its 911 obligations under part 9 of the
+Commission's rules, as well as with the provisions of the Communications Assistance with Law
+Enforcement Act, 47 U.S.C. § 1001 et seq. Evidence that DayStarr has complied with these
+requirements is attached hereto as Exhibit F. The Company requests confidential treatment
+under the Commission's rules for parts of Exhibit F.
+
+(F) § 52.15(G)(3)(i)(F)
+DayStarr hereby certifies that it complies with the Access Stimulation rules under 47
+CFR § 51.914.
+(G) § 52.15(G)(3)(i)(G)
+DayStarr hereby acknowledges that it must file requests for numbers with the relevant state
+commission(s) at least 30 days before requesting numbers from the Numbering Administrators.
+(H) § 52.15(G)(3)(i)(H)
+DayStarr is a limited liability company organized in the State of Michigan, and has been providing
+internet services in mid-Michigan since 2001. It has over 5,000 subscribers in service areas including Owosso,
+Corunna, Ovid, Saint Johns, Perry, Laingsburg, Chesaning, Bancroft, Durand, Morrice, and Flint. DayStarr
+provides phone and internet service to business, residential customers as well as ethernet services to wholesale
+customers. DayStarrs delivery mechanism has changed over the years with technology, currently all our
+customers have internet service provided over a fiber optic network.
+DayStarr acquired its numbering resources as a CLEC, but due to changing technologies and the
+increased cost of managing the SS7 network, it wishes to transition to being an Interconnected VOIP Provider
+with Numbering Resources. This will allow DayStarr to move away from operating its costly SS7 switch platform
+and lease PSTN Connection Services through their PSTN Host Provider. DayStarr currently operates in the 344,
+346, and 348 LATAs and intends to begin implementing its Interconnected VOIP network in those Michigan
+LATAs.
+I § 52.15(g)(3)(ii)(I)
+Proof that DayStarr has filed FCC Forms 499 is attached hereto as Exhibit D. DayStarr has requested
+confidential treatment under the Commissions rules for exhibit D and has filed them separately
+J § 52.15(g)(3)(ii)(J)
+
+DayStarr hereby certifies that it complies with its Universal Service Fund contribution
+obligations under 47 CFR part 54, subpart H, its Telecommunications Relay Service contribution
+obligations under 47 CFR § 64.604(c)(5)(iii), its North American Numbering Plan and Local
+Number Portability Administration contribution obligations under 47 CFR §§ 52.17 and 52.32, its
+obligations to pay regulatory fees under 47 CFR § 1.1154, and its 911 obligations under 47 CFR
+part 9. DayStarrs FRN is 0008616757 and 499 Filer ID is 823344. All 499s have been filed and all fees
+are up to date as certified in Exhibit D. DayStarr has requested confidential treatment under the
+Commissions rules for exhibit D and has filed them separately
+K § 52.15(g)(3)(ii)(K)
+DayStarr certifies that it has the financial, managerial, and technical expertise to provide
+reliable service. It is financially stable, led by a strong, experienced management team with
+substantial managerial experience in the telecommunications industry and has sufficient
+technical expertise and infrastructure in place to provide reliable numbering services.
+The Company's key management and technical personnel are identified in attached Exhibit
+E and listed below. None of the identified personnel are being or have been investigated by the
+Commission or any law enforcement or regulatory agency for failure to comply with any law,
+rule, or order, including the Commission's rules applicable to unlawful robocalls or unlawful
+spoofing.
+Key Personnel: Collin Rose, President
+Tom Kerns, Fractional Chief Financial Officer
+L § 52.15(g)(3)(ii)(L)
+Attached hereto as Exhibit E also contains the name, address, citizenship and principal
+businesses of all entities that directly or indirectly owns at least ten percent of the equity of
+DayStarr, and the percentage of equity owned by each of those entities (to the nearest one
+percent).
+DayStarr is a limited liability company organized in the State of Michigan and hereby
+certifies that it is not affiliated with a foreign carrier.
+M § 52.15(g)(3)(ii)(M)
+
+DayStarr certifies that no party to this application is subject to a denial of Federal benefits pursuant to
+section 5301 of the Anti-Drug Abuse Act of 1988. See 21.U.S.C. § 862.
+N § 52.15(g)(3)(ii)(N)
+A declaration prepared pursuant to Section 1.16 of the Commission's rules is attached hereto as
+Exhibit G.
+II. ACKNOWLEDGEMENT OF CONDITIONS IN SECTION 52.15(G)(3)(iv)
+As required by Section 52.15(g)(3)(iv), DayStarr will maintain the accuracy of all contact information and
+certifications in this application, and will also furnish accurate regulatory and numbering contact
+information to each state commission when requesting numbers in that state.
+III. CONCLUSION
+Pursuant to Section 52.15(g)(3)(I) of the Commissions Rules, DayStarr respectfully requests the
+Commission grant this application for authorization to obtain number resources.
+Respectfully,
+_________
+Collin Rose
+DayStarr LLC President

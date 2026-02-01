@@ -1,0 +1,94 @@
+Steven A. Augustino
+Kelley Drye & Warren LLP
+Washington Harbour, Suite 400
+3050 K Street, NW
+Washington, DC 20007
+Tel: (202) 342-8612
+saugustino@kelleydrye.com
+October 15, 2020
+Via ECFS
+Marlene H. Dortch
+Secretary
+Federal Communications Commission
+45 L Street NE
+Washington, DC 20554
+Re: Business Telecommunications Services, Inc. Request for Confidential Treatment, WC Docket
+No. 20-166
+Dear Ms. Dortch:
+Business Telecommunications Services, Inc. (“BTS”), by its attorneys, hereby requests confidential
+treatment of confidential information contained in the attachment (“Attachment”) to its Second Supplement
+(“Second Supplement”) to its application requesting authority, in its capacity as a provider of interconnected
+Voice-over-Internet Protocol (“VoIP”) services, to directly obtain numbering resources from the North
+American Numbering Plan Administrator and the Pooling Administrator (“Application”).1 At the request of
+the Wireline Competition Bureau, a public copy of the Second Supplement and its Attachment are being
+filed via ECFS today.
+The Second Supplement contains confidential proprietary business information. Such information is
+exempted from mandatory disclosure under Exemption 4 of the Freedom of Information Act (“FOIA”)2 and
+Section 0.457(d) of the Commission’s rules.3 Exemption 4 allows the withholding of commercial or
+financial information that is privileged or confidential.4 The Supreme Court recently clarified that the
+confidentiality requirement is satisfied when confidential proprietary business information is “customarily
+1 See Business Telecommunications Services, Inc., Application for Authority to Obtain Direct Access
+to Numbering Resources Pursuant to 52.15(g) of the Commission’s Rules, WC Docket No. 20-166
+(filed Jun. 11, 2020) (“Application”).
+2 See 5 U.S.C. § 552(b)(4). Public disclosure is not required for “trade secrets and commercial or
+financial information obtained from a person and privileged or confidential.” Id.
+3 47 C.F.R. § 0.457(d). See S. Co., Request for Waiver of Section 90.629 of the Commission’s Rules,
+Memorandum Opinion and Order, 14 FCC Rcd 1851, para. 17 (WTB 1998).
+4 5 U.S.C. § 552(b)(4).
+4849-3297-4030v.1
+
+Marlene H. Dortch
+October 14, 2020
+and actually treated as private by its owner and provided to the government under an assurance of privacy.”5
+Accordingly, pursuant to Section 0.459 of the Commission’s rules, BTS requests that the information and
+documents included in the Attachment to this Second Supplement to the Application be withheld from
+public inspection.6
+The information for which BTS requests confidential treatment provides completely sensitive
+information about BTS’s contractual arrangements with other service providers. In particular, the
+Attachment contains a service order between BTS and Peerless Networks, Inc. The Attachment includes
+proprietary and completely sensitive information, such as the rates, terms and conditions upon which it
+receives wholesale inputs to its services, that is not customarily disclosed to the public or within the
+industry.7 The market for the services provided, including the services offered by BTS, is highly
+competitive.8 BTS derives independent economic value from the fact that such significant, detailed
+proprietary information regarding its internal operations and business activities is unknown to its
+competitors.9 Moreover, failure to treat the Company’s designated information and documents as
+confidential would provide competitors with an unfair competitive advantage by being granted access to
+valuable commercial and financial information of BTS.10 The designated confidential information in the
+Attachment to the Second Supplement is provided only to those employees and contractors that require such
+information to perform the requirements of their duties to BTS.11 The information that is the subject of this
+confidential treatment request is not part of the public record in any jurisdiction.12
+In the event that any person or entity requests disclosure of the designated confidential information
+or documents, please notify counsel for BTS immediately in order to permit it to oppose such a request or
+take such other action to safeguard its interests as it deems necessary.13 After the Commission concludes its
+review, BTS requests the return of the confidential information to counsel. However, in the event that the
+Commission has reason to keep the confidential materials after the conclusion of this proceeding, BTS
+requests that all materials be kept under protective seal, as no passage of time will negate the confidential
+nature of the designated information and documents in the Second Supplement.14
+5 Food Mktg. Inst. v. Argus Leader Media, 588 U.S. ___ (2019) (slip op. at 12).
+6 47 C.F.R. § 0.459.
+7 See 47 C.F.R. § 0.459(b)(3).
+8 See 47 C.F.R. § 0.459(b)(4).
+9 See 47 C.F.R. § 0.459(b)(5).
+10 See id.
+11 See 47 C.F.R. § 0.459(b)(6).
+12 See 47 C.F.R. § 0.459(b)(7).
+13 See 47 C.F.R. § 0.459(d).
+14 See 47 C.F.R. § 0.459(b)(8).
+KELLEY DRYE & WARREN LLP
+2
+4849-3297-4030v.1
+
+Marlene H. Dortch
+October 14, 2020
+Please direct any questions as to this matter, including the request for confidential treatment, to the
+undersigned.
+Respectfully Submitted,
+Steven A. Augustino
+Counsel to Business Telecommunications
+Services, Inc.
+Cc: Jordan Marie Reth
+Margaux Brown
+Michele Sclater
+KELLEY DRYE & WARREN LLP
+3
+4849-3297-4030v.1

@@ -1,0 +1,74 @@
+!
+Telengy,!LLC!
+11!Broadway,!Suite!1015!
+New!York,!NY!10004!
+!
+Gregory!Borodiansky!
+CTO!
+(212)!379E4041!
+gregory@telengy.net!
+!
+March&9,&2017&
+VIA&ECFS&
+!
+Ms.!Marlene!H.!Dortch!
+Secretary!
+Federal!Communications!Commission!
+445!12th!Street!SW!
+Washington,!DC!20554!
+!
+Re:!Docket!WC&16;297&;&Telengy!LLC,!Number!Authorization!Application&
+!
+Dear!Ms.!Dortch:!
+!
+Pursuant!to!Section!52.15(g)(3)(i)!of!the!Commission’s!Rules,!Telengy,!LLC!hereby!submits!the!following!
+additional!information!and!documentation!to!its!Numbering!Authorization!Application,!originally!filed!
+September!21,!2016!under!Docket!WC!16E297,!as!requested!by!FCC!staff.!
+!
+Attached!is!documentation!showing!proof!of!its!facilities!readiness!and!demonstrating!an!established!
+interconnect! between! Telengy! and! its! carrier! partner,! Inteliquent! (formerly! Neutral! Tandem),! for!
+terminating!traffic!from!Telengy!to!the!PSTN.!
+!
+The! attached! document! shows! the! outbound! trunks! in! service! between! Telengy! and! Inteliquent!
+(Attachment!A),!which!provide!traffic!termination!to!the!United!States.!Telengy!previously!provided!
+documentation!via!ECFS!on!January!3,!2017!showing!inbound!trunks!from!Inteliquent!to!Telengy.!
+!
+Telengy! also! has! agreements! and! trunking! in! place! with! other! carriers! for! both! domestic! and!
+international!traffic!termination!to!the!PSTN.!
+!
+Should!you!have!any!questions,!please!feel!free!to!contact!me!at!any!time.!
+!
+Sincerely,!
+!
+Gregory!Borodiansky!
+CTO!
+Telengy,!LLC!
+
+!
+!
+!
+Attachment!A!
+!
+
+!
+This notification is provided to validate that the following trunk group(s) have been
+completed, activated and are in service.
+Service type: Outbound
+Inteliquent customer: Telengy
+Date of activation: 3/9/2017
+CUSTOMER! CUST_SWITCH_CLLI! TRK_NUM!
+Telengy! NYCMNYBX3MD! 1217!
+Telengy! NYCMNYBX3MD! 1032!
+!
+!
+Thank!you,!
+John!Nickey!
+!
+John!Nickey!!
+Dir!Product!Development,!Inteliquent!
+o:!312.380.4560!m:!303.818.3364!!!24Vhr!NOC:!866.388.7258!
+550!West!Adams!Street,!Suite!900,!Chicago,!IL!60661!
+www.inteliquent.com!e:!john.nickey@inteliquent.com!
+!
+! !
+inteliquent. 550 West Adams Street. Suite 900. Chicago, IL 60661. 855.404.4768. inteliquent.com

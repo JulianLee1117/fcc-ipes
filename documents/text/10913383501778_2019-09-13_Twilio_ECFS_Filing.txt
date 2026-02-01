@@ -1,0 +1,299 @@
+September 13, 2019
+VIA HAND DELIVERY
+Marlene H. Dortch REQUEST FOR
+Secretary CONFIDENTIAL TREATMENT
+Federal Communications Commission
+445 12th Street, SW
+Washington, DC 20554
+Re: Twilio International Inc., Application for Authorization to Obtain Numbering
+Resources & Request for Confidential Treatment, WC Docket No. 19-______
+Dear Ms. Dortch:
+Twilio International Inc. (“Twilio”) hereby encloses for filing its Application to Obtain
+Numbering Resources (“Application”) and corresponding Confidential Exhibit A, an agreement
+between Twilio and its carrier partner (Confidential Exhibit A or “Carrier Agreement”) and
+Confidential Exhibit B, an interconnection agreement between Twilio’s carrier partner and an
+incumbent local exchange carrier (Confidential Exhibit B or “Interconnection Agreement”). The
+Application, Carrier Agreement, and Interconnection Agreement are sent to you for filing
+pursuant to Section 52.15(g)(3)(i) of the Commission’s Rules.
+Twilio respectfully requests that, pursuant to Sections 0.457 and 0.459 of the
+Commission’s rules, 47 C.F.R. §§ 0.457 and 0.459, the Commission withhold from public
+inspection and accord confidential treatment to the Carrier Agreement and the Interconnection
+Agreement. These documents contain trade secrets and commercial, technical and financial
+information that falls within Exemption 4 of the Freedom of Information Act (“FOIA”).1
+Exemption 4 of FOIA provides that the public disclosure requirement of the statute “does
+not apply to matters that are . . . (4) trade secrets and commercial or financial information
+obtained from a person and privileged or confidential.”2 Twilio is voluntarily providing this
+trade secret and commercial and financial information “of a kind that would not customarily be
+released to the public”; therefore, this information is “confidential” under Exemption 4 of
+FOIA.3 Moreover, Twilio would suffer substantial competitive harm if the Carrier Agreement
+was disclosed and if the identity of its carrier partner was disclosed by disclosure of the
+Interconnection Agreement.4
+1 5 U.S.C. § 552(b)(4).
+2 Id.
+3 See Critical Mass Energy Project v. NRC, 975 F.2d 871, 879 (D.C. Cir. 1992).
+4 See National Parks and Conservation Ass’n v. Morton, 498 F.2d 765 (D.C. Cir. 1974).
+
+In support of this request and pursuant to Section 0.459(b) of the Commission’s rules,5
+Twilio hereby states as follows:
+1. IDENTIFICATION OF THE SPECIFIC INFORMATION FOR WHICH CONFIDENTIAL
+TREATMENT IS SOUGHT6
+Twilio seeks confidential treatment of the Carrier Agreement, submitted with the
+Application as Confidential Exhibit A, and the Interconnection Agreement, submitted with the
+Application as Confidential Exhibit B.
+2. DESCRIPTION OF CIRCUMSTANCES GIVING RISE TO THE SUBMISSION7
+The Carrier Agreement and Interconnection Agreement are being submitted to the
+Commission as proof of facilities readiness, as required by Section 52.15(g)(3)(i)(D) of the
+Commission’s rules.
+3. EXPLANATION OF THE DEGREE TO WHICH THE INFORMATION IS COMMERCIAL OR
+FINANCIAL, OR CONTAINS A TRADE SECRET OR IS PRIVILEGED8
+The information for which Twilio seeks confidential treatment contains sensitive
+commercial, financial, and technical information “which would customarily be guarded from
+competitors.”9 The Carrier Agreement and Interconnection Agreement contain trade secrets and
+proprietary commercial and technical information relating to the manner in which Twilio and its
+carrier partner conduct network operations.
+4. EXPLANATION OF THE DEGREE TO WHICH THE INFORMATION CONCERNS A SERVICE
+THAT IS SUBJECT TO COMPETITION10
+The Carrier Agreement and the Interconnection Agreement provide detailed information
+relating to commercial and operational matters that could be used by competitors to the
+disadvantage of Twilio. Disclosure of Twilio’s confidential information would cause substantial
+competitive harm.
+5. EXPLANATION OF HOW DISCLOSURE OF THE INFORMATION COULD RESULT IN
+SUBSTANTIAL COMPETITIVE HARM11
+Competitors could use the information in the Carrier Agreement and the Interconnection
+Agreement to Twilio’s detriment as they would gain access to sensitive and proprietary
+5 47 C.F.R. § 0.459(b).
+6 47 C.F.R. § 0.459(b)(1).
+7 47 C.F.R. § 0.459(b)(2).
+8 47 C.F.R. § 0.459(b)(3).
+9 47 C.F.R. § 0.457.
+10 47 C.F.R. § 0.459(b)(4).
+11 47 C.F.R. § 0.459(b)(5).
+
+information about how Twilio provides services as well as about Twilio’s commercial
+agreements with others that are not ordinarily disclosed to the public.
+6. IDENTIFICATION OF ANY MEASURES TAKEN BY THE SUBMITTING PARTY TO PREVENT
+UNAUTHORIZED DISCLOSURE12
+Twilio has made the substance of the Carrier Agreement and the identity of its carrier
+partner as disclosed in the Interconnection Agreement known only to those employees who have
+a need to know the subject matter and those employees are aware of the confidential and
+sensitive nature of the information. The Carrier Agreement and the Interconnection Agreement
+have not been disclosed by Twilio to any non-signatories outside Twilio except pursuant to
+appropriate confidentiality agreements.
+7. IDENTIFICATION OF WHETHER THE INFORMATION IS AVAILABLE TO THE PUBLIC AND
+THE EXTENT OF ANY PREVIOUS DISCLOSURE OF THE INFORMATION TO THIRD
+PARTIES13
+Twilio has not previously disclosed the Carrier Agreement or the Interconnection
+Agreement.
+8. JUSTIFICATION OF THE PERIOD DURING WHICH THE SUBMITTING PARTY ASSERTS
+THAT MATERIAL SHOULD NOT BE AVAILABLE FOR PUBLIC DISCLOSURE14
+Twilio requests that the Carrier Agreement and the Interconnection Agreement be treated
+as confidential for a period of ten years. This period is necessary due to the sensitive nature of
+the information in the Carrier Agreement and the Interconnection Agreement.
+9. OTHER INFORMATION THAT TWILIO BELIEVES MAY BE USEFUL IN ASSESSING
+WHETHER ITS REQUEST FOR CONFIDENTIALITY SHOULD BE GRANTED15
+Under applicable Commission and federal court precedent, the information provided by
+Twilio on a confidential basis should be shielded from public disclosure. Exemption 4 of FOIA
+shields information that is: (1) commercial or financial in nature; (2) obtained from a person
+outside government; and (3) privileged or confidential. The commercial and financial
+information in question clearly satisfies this test.
+12 47 C.F.R. § 0.459(b)(6).
+13 47 C.F.R. § 0.459(b)(7).
+14 47 C.F.R. § 0.459(b)(8).
+15 47 C.F.R. § 0.459(b)(9).
+
+Respectfully submitted,
+________________________________
+Jennifer P. Bagg
+Kristine L. Devine
+HARRIS, WILTSHIRE & GRANNIS LLP
+1919 M Street N.W.
+Eighth Floor
+Washington, D.C. 20036
+Tel.: (202) 730-1316
+Fax: (202) 730-1301
+Counsel to Twilio International Inc.
+
+Before the
+FEDERAL COMMUNICATIONS COMMISSION
+Washington, D.C. 20554
+In the Matter of )
+)
+Twilio International Inc. Applicant ) WC Docket No. 19-_________________
+)
+For Authorization to Obtain Numbering )
+Resources Pursuant to Section 52.15(g) of )
+the Commission’s Rules )
+APPLICATION OF TWILIO INTERNATIONAL INC.
+FOR AUTHORIZATION TO OBTAIN NUMBERING RESOURCES
+Twilio International Inc. (“Twilio”) files this application with the Federal Communications
+Commission (the “Commission”) for authorization to acquire telephone numbers directly from the
+North American Numbering Plan Administrator and the Pooling Administrator (the “Numbering
+Administrators”) pursuant to Commission rule Section 52.15(g)(3).1
+As set forth in the Commission’s Numbering Order,2 an interconnected VoIP provider3
+may obtain numbering resources from the Numbering Administrators upon showing that it is
+authorized to provide service in the area for which the numbering resources are requested. Such
+authorization may be obtained upon an application to the Commission containing the information
+in Sections 52.15(g)(3)(i)(A)-(F) of the Commission’s Rules. Twilio hereby requests the
+Commission grant it the authorization.
+Twilio provides the following information in support of its application:
+1 47 C.F.R. § 52.15(g)(3).
+2 Numbering Policies for Modern Communications, 30 FCC Rcd. 6839 (2015).
+3 Twilio is currently preparing to offer interconnected VoIP service to end user customers and
+will be capable of providing service within sixty (60) days of the numbering resources
+activation date as required by 47 C.F.R. § 52.15(g)(2).
+
+I. INFORMATION REQUIRED BY SECTION 52.15(g)(3)(i)
+a) § 52.15(g)(3)(i)(A)
+Name: Twilio International Inc.
+Address: 375 Beale St.
+Suite 300
+San Francisco, CA 94105
+Telephone: (202) 550-6054
+Qualified Personnel: Rebecca Murphy Thompson, Head, Communications Policy
+Email: rthompson@twilio.com
+b) § 52.15(g)(3)(i)(B)
+Twilio hereby acknowledges that authorization to obtain numbering resources under
+Section 52.15(g) of the Commission’s Rules is subject to compliance with applicable Commission
+numbering rules, numbering authority delegated to the states, and industry guidelines and practices
+regarding numbering as applicable to telecommunications carriers.
+c) § 52.15(g)(3)(i)(C)
+Twilio hereby acknowledges that it must file requests for numbers with the relevant state
+commissions at least 30 days before requesting numbers from the Numbering Administrators.
+Appendix A to this application lists states where Twilio intends to request numbering resources.
+d) § 52.15(g)(3)(i)(D)
+Twilio hereby sets forth its capability to provide service within 60 days of the numbering
+activation date. Twilio has an agreement in place with its carrier partner who in turn has
+interconnection agreements in effect with the relevant local exchange carriers, as well as full staff
+for number porting. As proof of its facilities readiness, Twilio has attached to this application an
+agreement between Twilio and its carrier partner, as Confidential Exhibit A, and an
+interconnection agreement between that carrier partner and a local exchange carrier, as
+
+Confidential Exhibit B, both submitted pursuant to Twilio’s concurrently filed request for
+confidential treatment.
+e) § 52.15(g)(3)(i)(E)
+Twilio certifies that it complies with its Universal Service Fund contribution obligations
+under 47 CFR part 54, subpart H; its Telecommunications Relay Service contribution obligations
+under 47 CFR § 64.604(c)(5)(iii); its North American Numbering Plan and Local Number
+Portability Administration contribution obligations under 47 CFR §§ 52.17 and 52.32; its
+obligations to pay regulatory fees under 47 CFR § 1.1154; and its 911 obligations under 47 CFR
+part 9.
+f) § 52.15(g)(3)(i)(F)
+Twilio certifies that it possesses the financial, managerial, and technical expertise to
+provide reliable service. Twilio’s key management are:
+Chief Financial Officer: Khozema Shipchandler
+Chief Product Officer: Chee Chew
+Chief Technology Officer: Ott Kaukver
+General Counsel: Karyn Smith
+Twilio’s key technical personnel include:
+Head of Network Engineering and Interconnections: Nico Strina
+Telecom Engineering and Operations: Kanwart Randhawa
+Software Architect: Christer Fahlgren
+Twilio states that none of the identified personnel is being or has been investigated by the
+Commission or any law enforcement or regulatory agency for failure to comply with any law, rule
+or order.
+Appendix B to this application provides summary bios of key staff.
+
+g) § 52.15(g)(3)(i)(G)
+Twilio hereby certifies that no party to this application is subject to a denial of Federal
+benefits pursuant to Section 5301 of the Anti-Drug Abuse Act of 1988, 21 U.S.C. § 862.
+II. ACKNOWLEDGEMENT OF CONDITIONS IN SECTION 52.15(g)(3)(iv)
+As required by Section 52.15(g)(3)(iv), Twilio will maintain the accuracy of all contact
+information and certifications in the application and will file a correction with the Commission
+and each applicable state within 30 days of any changes. Twilio will also furnish accurate
+regulatory and numbering contact information to each state commission when requesting numbers
+in that state.
+III. CONCLUSION
+Pursuant to Section 52.15(g)(3)(i) of the Commissions’ Rules, Twilio respectfully requests
+the Commission grant this application for authorization to obtain numbering resources.
+Respectfully submitted,
+Rebecca Murphy Thompson Jennifer P. Bagg
+Head, Communications Policy Kristine L. Devine
+TWILIO INC. HARRIS, WILTSHIRE & GRANNIS LLP
+1101 Pennsylvania Ave, NW 1919 M Street N.W., Eighth Floor
+Washington, DC 20004 Washington, D.C. 20036
+(202) 550-6054 Tel.: (202) 730-1300
+Fax: (202) 730-1301
+Counsel to Twilio International Inc.
+
+Appendix A
+The list of states where Twilio intends to request numbering resources:
+- Alabama - Nevada
+- Arizona - New Hampshire
+- Arkansas - New Jersey
+- California - New Mexico
+- Connecticut - New York
+- Colorado - North Carolina
+- District of Columbia (DC) - North Dakota
+- Delaware - Pennsylvania
+- Florida - Ohio
+- Georgia - Oklahoma
+- Illinois - Oregon
+- Indiana - Rhode Island
+- Kansas - South Carolina
+- Kentucky - South Dakota
+- Louisiana - Tennessee
+- Maine - Texas
+- Maryland - Utah
+- Massachusetts - Virginia
+- Michigan - Washington
+- Minnesota - Wisconsin
+- Missouri - West Virginia
+
+Appendix B
+Twilio’s key management and technical personnel are:
+Chee Chew – Chief Product Officer
+Chee Chew brings more than 25 years of experience in the technology industry formerly
+working at companies such as Amazon, Hewlett-Packard, Google, and Microsoft. He has
+focused his career on telephony and mobile product design and development. Chew holds
+a Bachelor’s and Master’s in Computer Science from the Massachusetts Institute of
+Technology (MIT). He currently sits on the Board of Trustees for the Olin College of
+Engineering.
+Ott Kaukver – Chief Technology Officer
+Ott serves as the chief of the leader of Twilio’s engineering platforms and architecture.
+Before Twilio, he was an early employee at Skype, where he built the engineering team to
+over 300 in three years. Under Ott, Skype launched SkypeOut, and grew the business into
+a $1 billion product line. Prior to joining Skype, Ott served as General Manager of Software
+Development Business Unit at Helmes. Ott grew up in Estonia and earned his BA in
+International Business Administration from the Estonian Business School, and his MBA
+from INSEAD.
+Khozema Shipchandler - Chief Financial Officer
+Khozema brings over 20 years of experience in finance, most recently serving as GE
+Digital’s chief commercial officer. In addition to his role as CFO, Khozema also oversees
+Twilio’s trust and security teams. Khozema previously served in a variety of positions
+within GE, including as the chief financial officer and EVP of corporate development at
+GE Digital and the vice president of corporate audit staff of GE. Khozema earned his
+bachelor’s degree from the Indiana University Bloomington and graduate coursework at
+The University of Chicago Booth School of Business.
+Karyn Smith - General Counsel and Corporate Secretary
+Karyn leads the Company’s legal and government affairs teams. Prior to Twilio, Karyn
+was Vice President and Deputy General Counsel at Zynga, where she oversaw all corporate
+matters and led Zynga through its $1B IPO in 2011. Before Zynga, Karyn was a partner of
+Cooley LLP, representing emerging growth companies at all stages of growth, from
+formation through liquidity event and beyond. Karyn has been recognized numerous times
+for her leadership, including most recently the National Women in Law’s thought
+leadership award in 2018. Karyn earned her Bachelor of Journalism from the University of
+Missouri, Columbia, and her JD cum laude from Santa Clara University School of Law.
+Karyn currently sits on the board of the Business Software Alliance.
+
+Christer Fahlgren – Software Architect
+Christer is an experienced and accomplished technical architect of SIP and IP based
+telephony systems. He is one of the primary software architects at Twilio for IP based
+voice products and has had key roles in a number of other world leading companies.
+Christer earned his master’s degree in computer science from the Institute of Technology
+at Linköping University in Sweden.
+Nico Strina – Head of Network Engineering and Interconnections
+Nico is a seasoned network engineering leader with over 20 years of experience in the
+industry. Responsible for designing, building and operating highly scaled, secured and
+reliable network based services at Twitch (an Amazon company), Jaguar Network, and
+many other firms in France and Switzerland.
+Kanwar Randhawa - Telecom Engineering and Operations
+Kanwar has a deep background in network and VoIP operations and engineering. He has
+experience engineering and operating high scale VoIP systems at organizations and has
+worked in the VoIP Research Lab at the Illinois Institute of Technology, where he earned
+his master’s degree in Computer Science.
+
+REDACTED – NOT FOR PUBLIC INSPECTION
+EXHIBIT A
+
+REDACTED – NOT FOR PUBLIC INSPECTION
+EXHIBIT B

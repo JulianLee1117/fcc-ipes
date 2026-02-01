@@ -1,0 +1,350 @@
+April 7th, 2021
+Marlene Dortch
+Secretary
+Federal Communications Commission
+445 12th St. SW
+Washington, DC 20554
+Via ECFS
+RE: Dovetel Communications, LLC Application for Authorization to Obtain Number
+Resources Pursuant to Section 52.15(g) of the Commission’s Rules
+Dear Ms. Dortch:
+Pursuant to Section 52.15(g)(3)(i) of the Commission’s Rules, Dovetel Communications, LLC
+hereby submits its application requesting authorization to obtain numbering resources. For
+any questions regarding this application please contact Terry Williamson at (678) 821-1120.
+Type text here
+Respectfully Submitted,
+Terry Williamson
+Dovetel Communications, LLC
+Telephone: (678) 821-1120
+Email: terry_williamson@syncglobal.net
+
+Before the
+FEDERAL COMMUNICATIONS COMMISSION
+Washington, D.C. 20554
+In the Matter of )
+)
+Dovetel Communications, LLC ) WC Docket No.
+)
+For Authorization to Obtain Numbering )
+Resources Pursuant to Section 52.15(g) of )
+the Commission’s Rules )
+APPLICATION OF DOVETEL COMMUNICATIONS, LLC
+FOR AUTHORIZATION TO OBTAIN NUMBERING RESOURCES
+Dovetel Communications, LLC (“Dovetel”), pursuant to Section 52.15(g)(3)(i) of the
+Commission’s Rules, respectfully requests authorization to obtain numbering resources as
+described below.
+As set forth in the Commission’s Numbering Order1, an interconnected VoIP provider may
+obtain numbering resources from the Numbering Administrator upon a showing that it is
+authorized to provide service in the area for which the numbering resources are requested. Such
+authorization may be obtained upon an application to the Commission containing the
+information detailed in Sections 52.15(g)(3)(i)(A)‐(G) of the Commission’s Rules. Dovetel hereby
+requests the Commission grant it that authorization. In support of this application, Dovetel
+provides the following information:
+WC Docket No. 13-97, et al. (FCC 15-70), Report and Order, rel. June 22, 2015.
+1
+
+I. INFORMATION REQUIRED BY SECTION 52.15(g)(3)(i)
+(A) § 52.15(g)(3)(i)(A)
+Name: Dovetel Communications, LLC
+Address: 1090A Pacific Avenue, Bremen, Georgia, 30110.
+Telephone: 678-821-1120
+Personnel qualified to address regulatory/compliance/911/law enforcement
+issues:
+Kyle Williamson, CEO
+1090A Pacific Avenue, Bremen, Georgia, 30110
+Phone: (678) 821-1110
+Fax: (678) 390-1120
+Email: kyle_williamson@syncglobal.net
+(B) § 52.15(g)(3)(i)(B)
+Dovetel hereby acknowledges that authorization to obtain numbering resources under
+Section 52.15(g) of the Commission’s Rules is subject to: compliance with applicable Commission
+numbering rules; numbering authority delegated to the states; and industry guidelines and
+practices regarding numbering as applicable to telecommunications carriers.
+(C) § 52.15(g)(3)(i)(C)
+Dovetel hereby acknowledges that it must file requests for numbers with the relevant
+state commission(s) at least 30 days before requesting numbers from the Numbering
+Administrators.
+(D) § 52.15(g)(3)(i)(D)
+Dovetel hereby provides its capability to provide service within 60 days of the numbering
+resources activation date. Dovetel has entered into agreements with Bandwidth.Com and Level
+Three and with AT&T and Windsteam and Centurylink and has been providing voice and data
+2
+
+services in Alabama and Georgia for several years as a CLEC in both states.
+Under these agreements, Bandwidth.Com will provide Dovetel with services which will allow Dovetel
+to use Bandwidth’s interconnection trunks to exchange traffic with the Public Switched Network and
+other local exchange carriers throughout the seven regions of the US. AT&T agreements enable
+services connecting us to the PSTN. Furthermore, Level Three and others provide our LD services
+nationally and internationally. Separate agreements and trunks connect us to Centurylink switches
+and Windstream switches in parts of the Southeast currently served by Dovetel. Exhibit A list a
+sampling of the trunks in place to facilitate the current services Dovetel provides in Georgia and
+Alabama. (1) Exhibit A – a Facilities Readiness document showing a partial list of trunks that Dovetel
+has established and activated, (2) Exhibit B – relevant pages from an interconnection agreement
+between AT&T and Dovetel.
+Dovetel is capable of providing service within sixty days in the states where it proposes to request
+numbering resources. Dovetel initially seeks access to numbers only in the states of Alabama and
+Georgia. Dovetel has provided telecommunications and interconnected VoIP services for over 20
+years. The Company, based in Bremen, Ga., has interconnection agreements with AT&T and
+Centurylink and Windstream. Dovetel Communications LLC does business as Syncglobal Telecom.
+Background information on Syncglobal Telecom and its history is provided at
+http://www.syncglobal.net/company/leadership.html.
+(E) § 52.15(g)(3)(i)(E)
+Dovetel hereby certifies that it will comply with applicable: Universal Service Fund
+Contribution obligations under 47 CFR part 54, subpart H; Telecommunications Relay Service
+contribution obligations under 47 CFR § 64.604(c)(5)(iii); North American Numbering Plan and
+Local Number Portability Administration contribution obligations under 47 CFR §§ 52.17, 52.32;
+3
+
+regulatory fee obligations under 47 CFR § 1.1154; and 911 obligations under 47 CFR part 9.
+(F) § 52.15(g)(3)(i)(F)
+Dovetel hereby certifies that it has the financial, managerial, and technical expertise to
+provide reliable service. It is financially stable, is led by a strong, experienced team of individuals
+with substantial managerial experience in the telecommunications industry, and has sufficient
+technical expertise and infrastructure in place to provide reliable services. The Dovetel Key
+Personnel listed below have decades of experience in the telecommunications industry and have
+designed, built and maintained many telecommunications services.
+(G) § 52.15(g)(3)(i)(G)
+Dovetel hereby certifies that no party to this application is subject to a denial of Federal
+benefits pursuant to Section 5301 of the Anti‐Drug Abuse Act of 1988, 21 U.S.C. § 862.
+II. ACKNOWLEDGEMENT OF CONDITIONS IN SECTION 52.15(g)(3)(iv)
+As required by Section 52.15(g)(3)(iv), Dovetel will maintain the accuracy of all contact
+information and certifications in this application; comply with applicable Commission numbering
+rules and industry guidelines; file requests for numbers with relevant state commission(s) at least
+thirty days before requesting numbers from the Number Administrators; and provide accurate
+regulatory and numbering contact information to each state commission when requesting
+numbers in that state.
+4
+
+Key Personnel:
+Dovetel’s key management and technical personnel are listed below. None of personnel listed
+below are being (or have been) investigated by the Federal Communications Commission or any
+law enforcement or regulatory agency for failure to comply with any law, rule or order.
+Kyle P. Williamson, Founder and CEO
+Kyle Williamson is the owner and founder of DoveTel Communications, LLC., DBA SyncGlobal
+Telecom, and serves as the company’s CEO. In 2000 Kyle began marshaling support from
+municipal organizations and the local business community to improve West Georgia’s
+communications infrastructure. This local support, coupled with his experience in the
+telecommunications industry, culminated in the establishment of SyncGlobal (DoveTel
+Communications, LLC.) as a registered CLEC in 2003.
+Kyle has founded other successful ventures including SyncGlobal’s parent company, SynchroNet,
+Inc., a telecommunications EF&I (engineering, furnishing, and installation) company for which he
+also serves as CEO. Prior to his entrepreneurial successes, Kyle was fast-tracked to the position of
+Senior Systems Engineer in Northern Telecommunications’ Broadband Network Engineering
+division and was on the front lines of the telecom industry during the chaotic boom years that
+followed the 1996 Telecommunications Act.
+5
+
+As an engineer and chief executive, Kyle’s telecommunications expertise is wide-ranging. From
+designing some of the first CLEC transmission and access networks, to working with OEM’s on
+next-generation technology development, to tackling the regulatory issues that affect providers
+and consumers alike, Kyle’s deep understanding of the industry makes him uniquely qualified to
+anticipate trends and position SyncGlobal for long-term, sustainable growth.
+Kyle received a bachelor’s degree in Electrical Engineering from the Georgia Institute of Technology.
+Jim Clotfelter has been with SyncGlobal Telecom since 2003. Utilizing his sales and organizational
+development experience, Jim initially served as Business Development Manager during SyncGlobal’s start-
+up years. He was promoted to Sales Director in 2005 where he led all customer-facing activity during a 12-
+month project to migrate over 16,000 wholesale subscriber lines to SyncGlobal’s facility-based softswitch. In
+2010 Jim was promoted to his current position as Vice President of Sales and Business Development. He is
+responsible for strategic growth and retention planning, product implementation, interdepartmental
+coordination, and management of all sales and business development activity.
+Jim brought over eight years of sales, sales management, and organizational development experience to
+SyncGlobal. This experience includes organizational and human resource development consultancy with
+such clients as Delta Airlines, Allied Signal, Capital One, and Home Depot.
+Jim holds a bachelor’s degree in English from Virginia Military Institute, and a master’s degree in Human
+Resource Development from Georgia State University.
+6
+
+Todd Holdridge, CFO
+Todd Holdridge joined SyncGlobal Telecom as CFO in 2005. In this role, Todd oversees all corporate
+financial functions and is responsible for the development of financial and operational strategy along with
+metrics to evaluate strategic effectiveness. Todd has over 25 years of financial leadership experience and a
+unique aptitude for efficiency improvement and resource optimization within complex telecommunications
+environments.
+Previously, Todd held a senior management position at DeltaCom, now EarthLink, where he led a multi
+discipline team that was given broad responsibility to identify procedural inefficiencies, analyze
+expenditures, create budgets, and develop operational improvement initiatives.
+Todd received a bachelor’s degree in Accounting from Jacksonville State University.
+7
+
+Kevin Turner, COO
+Kevin Turner started with SyncGlobal Telecom in 2006 as an Information Systems Architect
+providing technical customer support and directing internal IT initiatives. Kevin quickly
+established himself as a key contributor. His first assignment was the greenfield development of
+an operations management software solution to centralize customer billing and regulatory
+reporting. The result was SCRIBE, which evolved into SyncGlobal’s mission-critical integrated
+business management platform for billing, regulatory reporting, ticketing, circuit inventory,
+telephone number assignment, CRM, project management, and work flow assignment.
+In 2010 Kevin was promoted to Engineering/IT Department Manager. In this role he assumed
+departmental budgeting and staff management responsibilities, supervised customer network
+design, and spearheaded core infrastructure advancements.
+Kevin was promoted to the position of COO in 2011. He oversees all daily operational functions of
+the company with direct responsibility for network planning, service delivery, systems
+development, and IT operations.
+Kevin is a University of West Georgia graduate where he earned a bachelor’s degree in Chemistry.
+He holds several IT certifications and is also a board-certified forensic toxicologist.
+8
+
+CONCLUSION
+Pursuant to Section 52.15(g)(3)(i) of the Commissions’ Rules, Dovetel respectfully
+requests the Commission grant this application for authorization to obtain numbering resources.
+Respectfully Submitted,
+Terry Williamson
+Dovetel Communications, LLC
+1090A Pacific Avenue
+Bremen, Ga. 30110
+Telephone: (678) 821-1120
+Fax: (678) 390-1122
+Email: terry_williamson@syncglobal.net
+Date: April 7, 2021
+LIST OF EXHIBITS
+Exhibit A: Facilities Readiness Confirmation
+Exhibit B: Interconnection Agreement
+Exhibit C: State(s) in which Dovetel may request telephone number resources for initial roll‐out.
+9
+
+EXHIBIT A
+
+To whom it may concern:
+This notification is provided to document that a minimum of 12 AT&T trunk group(s) have
+been completed, along with many others, and activated and are in-service for Dovetel
+Communications, LLC.
+Included in the trunk groups in place with AT&T are 911 trunks, and DA trunks, interconnect
+trunks, and super group trunks.
+This notification is provided to document that the following Lumens trunk group(s) have been
+completed, along with others, and activated and are in-service for Dovetel Communications, LLC.
+Level 3 which is now Lumens currently used for LD/Toll Free but we could us to serve remote lata’s
+Level 3 voice product Vector IP CID BBKV5981
+Assigned NBS SIP IP Trunk Group
+Customer IP NBS Address NBS RTP IP Address ID SW/TG
+Sip Trunk 4.55.15.130,
+#1 199.16.178.18 DALNBS234 4.55.15.161 4.55.15.134 TG103429765 066/663
+Sip Trunk
+#2 199.16.178.19 DALNBS229 4.55.14.161 4.55.14.130 TG103429766 066/664
+Sip Trunk 4.55.40.194 ,
+#3 199.16.178.18 DALNBS241 4.55.40.225 4.55.40.198 TG102741268 066/1039
+Sip Trunk 4.55.39.194 ,
+#4 199.16.178.19 mclnbs238 4.55.39.225 4.55.39.198 TG102741266
+
+Bandwidth trunks we use to support remote lata’s we do not have interconnects with.
+This notification is provided to document that the following Bandwidth.com trunk group(s) have
+been completed, along with others, and activated and are in-service for Dovetel Communications,
+LLC.
+NOTES:
+We have now turned up two "Internet Based " Bandwidth Sip trunks and will be using these trunk to port TNS to
+Bandwidth for Rate centers where we do not have a presence
+Bandwidth Sip Trunks
+Bandwith Local 67.231.5.176 Metaswitch SIP Trunk Media channel 1080
+Bandwith Intr/Interstate 67.231.1.154 IP address Metaswitch SIP Trunk Media channel 1081
+Bandwidth LD1 67.231.8.75
+Bandwidth LD2 67.231.12.12
+
+EXHIBIT B
+Dovetel Communications LLC certifies that Dovetel has a Wholesale Agreement in place with AT&T and
+that the ICA has been in place since 2008 with various amendments over the years. In conjunction with
+this wholesale agreement are all necessary interconnect trunks for the latas served by Dovetel
+Communications LLC.
+Page 1 oNf o4t4e8 : This page is not part of the actual signed contract/amendment, but is present for record keeping purposes only.
+
+Wholesale Agreement With DoveTel Communications, LLC
+The CLEC agreement between AT&T and Dovetel Communications, LLC, was
+executed in 3/10/2008. Dovetel currently serves two states as a CLEC in
+Georgia and as a CLEC in Alabama.
+Copies of the agreement can be provided if necessary but are
+intentionally omitted from the application for confidentiality reasons.
+Page 2 of 448 CCCS 2 of 388
+
+Dear Kyle Williamson,
+This is confirmation that AT&T has electronically signed the below contracts.
+With eSignature, AT&T’s electronic signature is equivalent to a hand written signature.
+AT&T Contract
+eSign ID Signed and Countersigned Contract Details
+ID
+7169251 WHLSREG - Mutual Agreement
+WHLSREG-
+Mutual_Agreement_CONTRACT_ID_7169251_Signed_.pdf
+Sincerely,
+Karrie Shinpaugh
+Disclaimer:
+This message and any attachments to it contain PRIVILEGED AND CONFIDENTIAL
+CLIENT INFORMATION AND/OR CONTRACT DOCUMENTATION, solely intended for
+parties with a need to know. Any attached contracts may not be altered.
+Signature Page/AT&T-21STATE
+Page 1 of 2
+DOVETEL
+Version: 4Q15 – 10/19/15
+
+Georgia PSC Amendment to CLEC Certificate
+AMENDMENT TO
+CERTIFICATE OF AUTHORITY TO
+CONSTRUCT OR OPERATE TELEPHONE LINE,
+PLANT OR SYSTEM
+IN RE: DOCKET NO. 15193: Application of DoveTel Communications, LLC to
+Change the Name on Its Certificate of Authority to Construct or Operate
+Telephone Line, Plant or System.
+Certificate No. X-1048 Approved: June 6, 2002
+Amended: March 20, 2012
+Effective: ____________________
+BY THE COMMISSION
+On March 28, 2002, DoveTel Communications, LLC (hereinafter referred to as the
+“Company”) filed with the Georgia Public Service Commission (hereinafter referred to as
+the “Commission”) an application for a Certificate of Authority to Construct or Operate
+Telephone Line Plant or System pursuant to O.C.G.A. § 46-5-163(b). The application was
+approved by the Commission on June 6, 2002 and a certificate of authority was issued.
+On March 12, 2012, DoveTel Communications, LLC filed with the Commission a
+request to change the business name on its Certificate of Authority to DoveTel
+Communications, LLC d/b/a SyncGlobal Telecom.
+FINDINGS OF FACT AND CONCLUSIONS OF LAW
+The Company provided a written request for name change on March 12, 2012,
+which included a copy of Trade Name Registration Affidavit filed with the Clerk of Superior
+Court in Haralson County Georgia. The Commission finds that the request appears to be
+reasonable and notes there has been no objection to the request.
+The Commission concludes as a matter of law that it has the authority to modify this
+certificate pursuant to O.C.G.A. § 46-5-168(b)(2).
+WHEREFORE, it is
+ORDERED, that the certificate of authority to construct or operate telephone line,
+plant or system, certificate number X-1048, that was approved on June 6, 2002 is hereby
+amended to reflect the name change from DoveTel Communications, LLC to DoveTel
+Communications, LLC d/b/a SyncGlobal Telecom.
+
+ORDERED FURTHER, that all ordering paragraphs as contained in the certificate
+order approved June 6, 2002, that are not modified by this Order, as well as all
+amendments and supplements filed in this docket remain in full force and effect.
+ORDERED FURTHER, that if the Company desires to do business in Georgia under
+any name which does not appear on this certificate, Applicant shall submit an application
+for amendment to its certification stating the name under which it plans to conduct business.
+ORDERED FURTHER, that the Company shall contribute to the Universal Access
+Fund pursuant to O.C.G.A. § 46-5-167 and Docket No. 5825-U.
+ORDERED FURTHER, that the Company must comply with O.C.G.A. § 25-9-1 et
+seq. regarding the practices and procedures that must be employed when a
+telecommunications provider or its designee is excavating in the state of Georgia.
+ORDERED FURTHER, that pursuant to O.C.G.A. § 46-5-168(b)(2) the certificate
+granted herein shall be subject to revocation if the Company fails to notify the Commission
+of any change in its contact address on file with the Commission, fails to comply with
+Commission requirements or orders, or violates any applicable law or Commission rule.
+ORDERED FURTHER, that all statements of fact, law and regulatory policy
+contained within the preceding sections of this Order be adopted as findings of facts and
+conclusions of law, and conclusions of regulatory policy of the Commission.
+ORDERED FURTHER, that jurisdiction over this matter is expressly retained for the
+purpose of entering such further Order or Orders as this Commission may deem just and
+proper.
+ORDERED FURTHER, that any motion for reconsideration or rehearing in this case
+shall not have the effect of staying this Order of the Commission, except insofar as the
+Commission may otherwise provide.
+BY ORDER OF THE GEORGIA PUBLIC SERVICE COMMISSION, this 20th day
+of March 2012.
+BY ORDER OF THE GEORGIA PUBLIC SERVICE COMMISSION, this 20th day
+of March 2012.
+_______________________________ _______________________________
+Reece McAlister Tim G. Echols
+Executive Secretary Chairman
+DATE: __________________________ DATE: ___________________________
+
+EXHIBIT C
+
+EXHIBIT C
+Dovetel Communications, LLC (“Dovetel”) anticipates requesting telephone number resources
+in two states during its initial roll-out, including Alabama and Georgia.
+As Dovetel expands, it will request numbers in all additional states to include all seven
+geographical regions.
+Dovetel will file 30-day notices with the state public utility commissions before requesting
+numbers from the numbering administrator.

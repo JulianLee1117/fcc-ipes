@@ -1,0 +1,585 @@
+Friend, Hudak & Harris, LLP
+Attorneys at Law
+Three Ravinia Drive | Suite 1700
+Atlanta, GA 30346
+770.399.9500 I FH2.com
+770.395.0000 Facsimile
+CHudak@fh2.com
+REDACTED – FOR PUBLIC INSPECTION
+April 27, 2023
+VIA ECFS REQUEST FOR
+CONFIDENTIAL TREATMENT
+Marlene H. Dortch, Secretary
+Federal Communications Commission
+45 L Street NE
+Washington, DC 20554
+Re: TWC IP Enabled Services, LLC, Application for Authorization to Obtain
+Numbering Resources & Request for Confidential Treatment
+WC Docket No. 23-______
+Dear Ms. Dortch:
+TWC IP Enabled Services, LLC (“Charter”) encloses for filing its Application to Obtain
+Numbering Resources (“Application”) and corresponding Confidential Exhibit A, an agreement
+between Charter (through its affiliate, Charter Communications Operating, LLC) and its carrier
+partner (Confidential Exhibit A or “Carrier Agreement”). The Application and Carrier Agreement
+are sent to you for filing pursuant to Section 52.15(g)(3)(i) of the Commission’s Rules.
+Charter respectfully requests that, pursuant to Sections 0.457 and 0.459 of the
+Commission’s rules, 47 C.F.R. §§ 0.457 and 0.459, the Commission withhold from public
+inspection and accord confidential treatment to the Carrier Agreement. The document contains
+trade secrets and commercial, technical and financial information that falls within Exemption 4 of
+the Freedom of Information Act (“FOIA”).1
+Exemption 4 of FOIA provides that the public disclosure requirement of the statute “does
+not apply to matters that are . . . (4) trade secrets and commercial or financial information obtained
+from a person and privileged or confidential.”2 Charter is voluntarily providing this trade secret
+and commercial and financial information “of a kind that would not customarily be released to the
+public”; therefore, this information is “confidential” under Exemption 4 of FOIA.3 Moreover,
+1 5 U.S.C. § 552(b)(4).
+2 Id.
+3 See Critical Mass Energy Project v. NRC, 975 F.2d 871, 879 (D.C. Cir. 1992).
+
+REDACTED – FOR PUBLIC INSPECTION
+Marlene H. Dortch, Secretary
+April 27, 2023
+Page 2
+Charter would suffer substantial competitive harm if the Carrier Agreement was disclosed and if
+the identity of its carrier partner was disclosed.4
+In support of this request and pursuant to Section 0.459(b) of the Commission’s rules,5
+Charter hereby states as follows:
+1. IDENTIFICATION OF THE SPECIFIC INFORMATION FOR WHICH
+CONFIDENTIAL TREATMENT IS SOUGHT6
+Charter seeks confidential treatment of the Carrier Agreement, submitted with the
+Application as Confidential Exhibit A.
+2. DESCRIPTION OF CIRCUMSTANCES GIVING RISE TO THE SUBMISSION7
+The Carrier Agreement is being submitted to the Commission as proof of facilities
+readiness, as required by Section 52.15(g)(3)(i)(D) of the Commission’s rules.
+3. EXPLANATION OF THE DEGREE TO WHICH THE INFORMATION IS
+COMMERCIAL OR FINANCIAL, OR CONTAINS A TRADE SECRET OR IS
+PRIVILEGED8
+The information for which Charter seeks confidential treatment contains sensitive
+commercial, financial, and technical information as described in Section 0.457(d) of the
+Commission’s rules.9 The Carrier Agreement contains trade secrets and proprietary commercial
+and technical information relating to the manner in which Charter and its carrier partner conduct
+network operations.
+4. EXPLANATION OF THE DEGREE TO WHICH THE INFORMATION
+CONCERNS A SERVICE THAT IS SUBJECT TO COMPETITION10
+The Carrier Agreement provides detailed information relating to commercial and
+operational matters that could be used by competitors to the disadvantage of Charter. Disclosure
+of Charter’s confidential information would cause substantial competitive harm.
+4 See National Parks and Conservation Ass’n v. Morton, 498 F.2d 765 (D.C. Cir. 1974).
+5 47 C.F.R. § 0.459(b).
+6 47 C.F.R. § 0.459(b)(1).
+7 47 C.F.R. § 0.459(b)(2).
+8 47 C.F.R. § 0.459(b)(3).
+9 47 C.F.R. § 0.457(d).
+10 47 C.F.R. § 0.459(b)(4).
+
+REDACTED – FOR PUBLIC INSPECTION
+Marlene H. Dortch, Secretary
+April 27, 2023
+Page 3
+5. EXPLANATION OF HOW DISCLOSURE OF THE INFORMATION COULD
+RESULT IN SUBSTANTIAL COMPETITIVE HARM11
+Competitors could use the information in the Carrier Agreement to Charter’s detriment as
+they would gain access to sensitive and proprietary information about how Charter provides
+services as well as about Charter’s commercial agreements with others that are not ordinarily
+disclosed to the public.
+6. IDENTIFICATION OF ANY MEASURES TAKEN BY THE SUBMITTING
+PARTY TO PREVENT UNAUTHORIZED DISCLOSURE12
+Charter has made the substance of the Carrier Agreement and the identity of its carrier
+partner known only to those employees who have a need to know the subject matter and those
+employees are aware of the confidential and sensitive nature of the information. The Carrier
+Agreement has not been disclosed by Charter to any non-signatories outside Charter except
+pursuant to appropriate confidentiality agreements.
+7. IDENTIFICATION OF WHETHER THE INFORMATION IS AVAILABLE TO
+THE PUBLIC AND THE EXTENT OF ANY PREVIOUS DISCLOSURE OF THE
+INFORMATION TO THIRD PARTIES13
+Charter has not previously disclosed the Carrier Agreement.
+8. JUSTIFICATION OF THE PERIOD DURING WHICH THE SUBMITTING
+PARTY ASSERTS THAT MATERIAL SHOULD NOT BE AVAILABLE FOR
+PUBLIC DISCLOSURE14
+Charter requests that the Carrier Agreement be treated as confidential for a period of ten
+years. This period is necessary due to the sensitive nature of the information in the Carrier
+Agreement.
+9. OTHER INFORMATION THAT CHARTER BELIEVES MAY BE USEFUL IN
+ASSESSING WHETHER ITS REQUEST FOR CONFIDENTIALITY SHOULD BE
+GRANTED15
+Under applicable Commission and federal court precedent, the information provided by
+Charter on a confidential basis should be shielded from public disclosure. Exemption 4 of FOIA
+11 47 C.F.R. § 0.459(b)(5).
+12 47 C.F.R. § 0.459(b)(6).
+13 47 C.F.R. § 0.459(b)(7).
+14 47 C.F.R. § 0.459(b)(8).
+15 47 C.F.R. § 0.459(b)(9).
+
+REDACTED – FOR PUBLIC INSPECTION
+Marlene H. Dortch, Secretary
+April 27, 2023
+Page 4
+shields information that is: (1) commercial or financial in nature; (2) obtained from a person
+outside government; and (3) privileged or confidential. The commercial and financial information
+in question clearly satisfies this test.
+Respectfully submitted,
+Charles A. Hudak
+Counsel for TWC IP Enabled Services, LLC
+
+Before the
+FEDERAL COMMUNICATIONS COMMISSION
+Washington, D.C. 20554
+In the Matter of )
+)
+TWC IP Enabled Services, LLC, )
+Applicant )
+WC Docket No. 23-_____
+)
+For Authorization to Obtain Numbering )
+Resources Pursuant to Section 52.15(g) of the )
+Commission’s Rules
+APPLICATION OF TWC IP ENABLED SERVICES, LLC FOR AUTHORIZATION TO
+OBTAIN NUMBERING RESOURCES
+TWC IP Enabled Services, LLC (“Charter”), a provider of interconnected voice over
+Internet protocol (“VoIP”) service, hereby respectfully requests authorization from the Federal
+Communications Commission (“FCC” or “Commission”) for numbering resources pursuant to
+Commission rule Section 52.15(g)(3)(i).1
+As set forth in the Commission’s Numbering Order,2 an interconnected VoIP provider may
+obtain numbering resources from the Numbering Administrator upon a showing that it is
+authorized to provide service in the area for which the numbering resources are requested. Such
+authorization may be obtained upon an application to the Commission containing the information
+described in Sections 52.15(g)(3)(i)(A)-(G) of the Commission’s Rules. Charter requests the
+Commission grant it such authorization.
+Charter provides the following information in support of this application:
+1 47 C.F.R. § 52.15(g)(3)(i).
+2 Numbering Policies for Modern Communications, 30 FCC Rcd. 6839 (2015).
+REDACTED – FOR PUBLIC INSPECTION
+1
+
+1. Company Information (47 C.F.R. § 52.15(g)(3)(i)(A))
+Applicant Name, Address, Telephone Number, and Operating Company Number:
+TWC IP Enabled Services, LLC
+12405 Powerscourt Drive
+St. Louis, Missouri 63131
+Tel: (314) 394-9856
+Website: www.spectrum.com
+Contact Information for Issues Related to Regulatory Requirements, Compliance with
+FCC Rules, 911, and Law Enforcement:
+Regulatory and Compliance:
+Michael R. Moore
+GVP Law – Telephone Regulatory
+Charter Communications, Inc.
+12405 Powerscourt Drive
+St. Louis, Missouri 63131
+Tel: (314) 394-9007
+Email: Michael.Moore@Charter.com
+911:
+John Cummings
+Director – Telephone Regulatory
+Charter Communications, Inc.
+4145 S. Falkenburg Road, Suite 7
+Riverview, FL 33578
+Tel: (813) 302-0002
+Email: John.Cummings@Charter.com
+Law Enforcement:
+Tammy Deloach
+Manager – Legal Response Ops Center
+Charter Communications, Inc.
+12405 Powerscourt Drive
+St. Louis, Missouri 63131
+Tel: (314) 394-9746
+Email: Tammy.Deloach@Charter.com
+REDACTED – FOR PUBLIC INSPECTION
+2
+
+2. Acknowledgments (47 C.F.R. § 52.15(g)(3)(i)(B)-(C))
+Charter acknowledges that: (1) grant of the authorization sought by this application is
+subject to compliance with applicable Commission numbering rules, numbering authority
+delegated to the states, and industry guidelines and practices regarding numbering as applicable to
+telecommunications carriers; and (2) Charter must file requests for numbers with the relevant state
+commission(s) at least thirty days before requesting numbers from the Numbering Administrators.
+3. Service Readiness (47 C.F.R. § 52.15(g)(3)(i)(D))
+Charter initially intends to provide service using numbers it obtains directly in the States
+of Colorado, Alabama and Florida, although Charter ultimately intends to provide such service
+throughout its footprint.3
+Charter is capable of providing service within sixty days of the numbering resources
+activation date. As proof of its facilities readiness, Charter has attached to this application (1) as
+Attachment A, an agreement between Charter (through its affiliate, Charter Communications
+Operating, LLC) and its carrier partner providing that the carrier partner will host Charter numbers
+on its switches and provide PSTN connectivity, which is the subject of a request for confidential
+treatment, and (2) as Attachment B, evidence of interconnection agreements between Charter’s
+carrier partner and local exchange carriers in the States of Colorado, Alabama and Florida.
+4. Certifications (47 C.F.R. § 52.15(g)(3)(i)(E)-(G))
+Charter hereby certifies to the following:
+a. Charter complies with its Universal Service Fund contribution obligations under 47
+C.F.R. part 54, subpart H; its Telecommunications Relay Service contribution obligations under
+3 Charter’s footprint includes service areas in the following states: Alabama, Arizona, California, Colorado,
+Florida, Georgia, Hawaii, Idaho, Illinois, Indiana, Kansas, Kentucky, Massachusetts, Maine, Michigan, Missouri,
+North Carolina, Nebraska, New Hampshire, New Jersey, New Mexico, New York, Ohio, Pennsylvania, South
+Carolina, Tennessee, Texas, Virginia, Washington, Wisconsin, and West Virginia.
+REDACTED – FOR PUBLIC INSPECTION
+3
+
+47 C.F.R. § 64.604(c)(5)(iii); its North American Numbering Plan and Local Number Portability
+Administration contribution obligations under 47 C.F.R. §§ 52.17 and 52.32; its obligations to pay
+regulatory fees under 47 C.F.R. § 1.1154; and its 911 obligations under 47 C.F.R. part 9.
+b. Charter possesses the financial, managerial, and technical expertise to provide
+reliable service. Indeed, Charter has the superior technical qualifications necessary to provide and
+maintain successful operations within its service area. For example, Charter has the capabilities to
+efficiently port and place telephone numbers into service and successfully route calls. In particular,
+the Charter management team’s lengthy experience with number porting enables it, along with its
+carrier partner, to create routing arrangements that seamlessly deliver calls to numbers directly
+assigned to Charter. Furthermore, Charter’s personnel have extensive business and network
+management experience in communications-related businesses and in serving its targeted customer
+segments. These individuals lead a team that is highly qualified to manage Charter’s operations
+throughout its service area. The names of Charter’s key management and technical personnel
+follow:
+President and Chief Executive Officer: Christopher Winfrey
+President, Product and Technology: Richard DiGeronimo
+EVP, Network Operations: Magesh Srinivasan
+Chief Financial Officer: Jessica Fischer
+EVP, General Counsel & Corporate Secretary: Richard R. Dykhouse
+None of the identified personnel are being or have been investigated by the FCC or any law
+enforcement or regulatory agency for failure to comply with any law, rule, or order.
+c. Pursuant to 47 C.F.R. §§ 1.2001 and 1.2002, no party to the application is subject
+to a denial of Federal benefits pursuant to Section 5301 of the Anti-Drug Abuse Act of 1988.4
+5. Acknowledgment (47 C.F.R. § 52.15(g)(3)(iv))
+4 See 21 U.S.C. § 862.
+REDACTED – FOR PUBLIC INSPECTION
+4
+
+Charter acknowledges that it will maintain the accuracy of all contact information and
+certifications in this application and will file a correction with the Commission and each applicable
+state within thirty days of any changes. Charter will also furnish accurate regulatory and
+numbering contact information to each state commission when requesting numbers in that state.
+6. Conclusion
+Pursuant to Section 52.15(g)(3)(i) of the Commission’s rules, Charter respectfully requests
+the Commission grant this application for authorization to obtain numbering resources.
+Respectfully submitted,
+/s/ Michael R. Moore
+Michael R. Moore
+GVP Law – Telephone Regulatory
+Charter Communications, Inc.
+12405 Powerscourt Drive
+St. Louis, Missouri 63131
+(314) 394-9007
+Email: Michael.Moore@Charter.com
+Dated: April 27, 2023
+REDACTED – FOR PUBLIC INSPECTION
+5
+
+ATTACHMENT A
+Agreement Between Charter and Carrier Partner
+[CONFIDENTIAL – REDACTED IN ITS ENTIRETY]
+REDACTED – FOR PUBLIC INSPECTION
+
+REDACTED – FOR PUBLIC INSPECTION
+ATTACHMENT B
+Agreements Between Carrier Partner and Local Exchange Carriers
+
+REDACTED – FOR PUBLIC INSPECTION
+
+REDACTED – FOR PUBLIC INSPECTION
+
+REDACTED – FOR PUBLIC INSPECTION
+
+REDACTED – FOR PUBLIC INSPECTION
+General Terms and Conditions
+Page 1
+AGREEMENT
+GENERAL TERMS AND CONDITIONS
+THIS AGREEMENT is made by and between BellSouth Telecommunications, Inc.,
+(BellSouth), a Georgia corporation, and Level 3 Communications, LLC (“Level 3”), a Delaware
+limited liability company, and shall be effective on the Effective Date, as defined herein. This
+Agreement may refer to either BellSouth or Level 3 or both as a “Party” or “Parties.”
+W I T N E S S E T H
+WHEREAS, BellSouth is a local exchange telecommunications company authorized
+to provide telecommunications services in the states of Alabama, Florida, Georgia, Kentucky,
+Louisiana, Mississippi, North Carolina, South Carolina and Tennessee; and
+WHEREAS, Level 3 is or seeks to become a CLEC authorized to provide
+telecommunications services in the states of Alabama, Florida, Georgia, Kentucky, Louisiana,
+Mississippi, North Carolina, South Carolina, and Tennessee; and
+WHEREAS, Level 3 wishes to resell BellSouth’s telecommunications services and
+purchase network elements and other services, and, solely in connection therewith, may wish to
+utilize collocation space as set forth in Attachment 4 of this Agreement; and
+WHEREAS, the Parties wish to interconnect their facilities and exchange traffic
+pursuant to Sections 251 and 252 of the Act.
+NOW THEREFORE, in consideration of the mutual agreements contained herein,
+BellSouth and Level 3 agree as follows:
+Definitions
+In the event a modification occurs pursuant to an effective change in law to the
+definitions set forth below in this Agreement during the term of this Agreement,
+the Parties will modify the Agreement as provided forth in Section 14.3 of the
+Agreement.
+Affiliate is defined as a person that (directly or indirectly) owns or controls, is
+owned or controlled by, or is under common ownership or control with, another
+person. For purposes of this paragraph, the term “own” means to own an equity
+interest (or equivalent thereof) of more than 10 percent.
+Commission is defined as the appropriate regulatory agency in each state of
+BellSouth’s nine-state region (Alabama, Florida, Georgia, Kentucky, Louisiana,
+Mississippi, North Carolina, South Carolina, and Tennessee).
+Version 1Q03: 02/28/03
+CCCS 5 of 840
+
+REDACTED – FOR PUBLIC INSPECTION
+General Terms and Conditions
+Page 3
+2.1 The term of this Agreement shall be three years, beginning on the Effective Date
+and shall apply to the BellSouth territory in the state(s) of Alabama, Florida,
+Georgia, Kentucky, Louisiana, Mississippi, North Carolina, South Carolina and
+Tennessee. Notwithstanding any prior agreement of the Parties, the rates, terms
+and conditions of this Agreement shall not be applied retroactively prior to the
+Effective Date.
+2.2 The Parties agree that by no earlier than two hundred seventy (270) days and no
+later than one hundred and eighty (180) days prior to the expiration of this
+Agreement, either Party may provide notice of intent to renegotiate, and the
+Parties shall commence negotiations for a new agreement to be effective
+beginning on the expiration date of this Agreement (Subsequent Agreement).
+2.3 If, within one hundred and thirty-five (135) days of commencing the negotiation
+referred to in Section 2.2 above, the Parties are unable to negotiate new terms,
+conditions and prices for a Subsequent Agreement, either Party may petition the
+Commission to establish appropriate terms, conditions and prices for the
+Subsequent Agreement pursuant to 47 U.S.C. 252.
+2.4 If, as of the expiration of this Agreement, a Subsequent Agreement has not been
+executed by the Parties, and the Parties are not yet in arbitration, this Agreement
+shall continue on a month-to-month basis while a Subsequent Agreement is
+actively being negotiated in good faith or alternatively, a timely petition has been
+filed with the respective state public service commission and the Subsequent
+Agreement is subject to the respective state Commission arbitration pursuant to
+252 of the Act. Upon conversion to a month-to-month term, during such
+negotiations, provided that the Parties are not in arbitration, then either Party, in its
+discretion, may terminate this Agreement upon sixty (60) days written notice to the
+other Party. Notwithstanding the foregoing, the Agreement cannot be terminated
+prior to 180 days after the original expiration date. In the event that BellSouth
+terminates this Agreement as provided herein, BellSouth shall continue to provide
+services to Level 3 pursuant to (1) the terms, conditions and rates set forth in
+BellSouth's standard interconnection agreement then in effect and made available
+to CLECs requesting negotiations pursuant to Section 251 of the Act, or (2) an
+agreement adopted by Level 3 pursuant to Section 13 of this Agreement. Neither
+Party shall refuse to provide services to the other Party during the negotiation of
+the Subsequent Agreement or the transition from this Agreement to the
+Subsequent Agreement.
+2.5 In the event that BellSouth’s standard interconnection agreement, or an agreement
+adopted by Level 3 under Section 13 becomes effective between the Parties, the
+Parties may continue to negotiate a Subsequent Agreement or arbitrate disputed
+issues to reach a Subsequent Agreement as set forth in Section 2.3 above, and the
+terms of such Subsequent Agreement shall be effective as of the effective date
+stated in such Subsequent Agreement and shall not be applied retroactively to the
+expiration date of this Agreement unless the Parties agree otherwise.
+Version 1Q03: 02/28/03
+CCCS 7 of 840
+
+REDACTED – FOR PUBLIC INSPECTION
+CCCS 27 of 840
+
+REDACTED – FOR PUBLIC INSPECTION
+AGREEMENT
+PREFACE
+This Agreement (“Agreement”) shall be deemed effective January 1, 2021 (the “Effective Date”),
+between Level 3 Communications, LLC (“Carrier”), a limited liability company organized under the
+laws of the Delaware, with offices at 1025 Eldorado Blvd, Broomfield, CO 80021 and Frontier
+Communications of the South, LLC (“Frontier”), a limited liability company organized under the
+laws of the state of Alabama with offices at 610 Zack Street, Tampa, FL 33602 (Frontier and
+Carrier may be referred to hereinafter, each, individually as a “Party”, and, collectively, as the
+“Parties”).
+GENERAL TERMS AND CONDITIONS
+Frontier is a telecommunications company authorized to provide telecommunications services in
+the State of Florida; and
+Carrier is a telecommunications company authorized by the Commission to provide local
+exchange telecommunications services in the State of Florida; and
+The Parties have in good faith negotiated, and agreed on local Interconnection terms and
+conditions as set forth below; and
+In consideration of the mutual promises contained in this Agreement and other good and valuable
+consideration, the receipt and sufficiency of which are hereby acknowledged, and intending to be
+legally bound, pursuant to Section 252 of the Act, Frontier and Carrier hereby covenant and
+agree as follows:
+1. The Agreement
+1.1 This Agreement includes: (a) the Principal Document; (b) the Tariffs of each
+Party applicable to the Services that are offered for sale by it in the Principal
+Document (which Tariffs are incorporated into and made a part of this Agreement
+by reference); and, (c) an Order by a Party that has been accepted by the other
+Party.
+1.2 Except as otherwise expressly provided in the Principal Document (including, but
+not limited to, the Pricing Attachment), conflicts among provisions in the Principal
+Document, Tariffs, and an Order by a Party that has been accepted by the other
+Party, shall be resolved in accordance with the following order of precedence,
+where the document identified in subsection “(a)” shall have the highest
+precedence: (a) the Principal Document; (b) the Tariffs; and, (c) an Order by a
+Party that has been accepted by the other Party. The fact that a provision
+appears in the Principal Document but not in a Tariff, or in a Tariff but not in the
+Principal Document, shall not be interpreted as, or deemed grounds for finding, a
+conflict for the purposes of this Section 1.2.
+1.3 This Agreement constitutes the entire agreement between the Parties on the
+subject matter hereof, and supersedes any prior or contemporaneous
+agreement, understanding, or representation, on the subject matter hereof, and
+neither Party will be bound by any definition, condition, provision, representation,
+warranty, covenant or promise other than as expressly stated in this Agreement
+or as is contemporaneously or subsequently set forth in writing and executed by
+a duly authorized officer or representative of the Party to be bound thereby,
+provided, however, notwithstanding any other provision of this Agreement or
+otherwise, this Agreement is an amendment, extension and restatement of the
+Level 3 Communications, LLC FC South FL
+Frontier Comp Agreement-v4.1-042720 6
+
+REDACTED – FOR PUBLIC INSPECTION
+Parties’ prior interconnection and resale agreement(s) (“Prior Agreement(s)”), if
+any, and, as such, this Agreement is not intended to be, nor shall it be construed
+to create, a novation or accord and satisfaction with respect to any prior
+interconnection or resale agreements and, accordingly, all monetary obligations
+of the Parties to one another under any prior interconnection or resale
+agreements shall remain in full force and effect and shall constitute monetary
+obligations of the Parties under this Agreement (provided, however, that nothing
+contained in this Agreement shall convert any claim or debt that would otherwise
+constitute a prepetition claim or debt in a bankruptcy case into a post-petition
+claim or debt). In connection with the foregoing, Frontier expressly reserves all
+of its rights under the Bankruptcy Code and Applicable Law to seek or oppose
+any relief in respect of the assumption, assumption and assignment, or rejection
+of any interconnection or resale agreements between Frontier and Carrier.
+2. Term and Termination
+2.1 This Agreement shall be effective as of the Effective Date and, unless cancelled
+or terminated earlier in accordance with the terms hereof, shall continue in effect
+until January 1, 2023 (the “Initial Term”). Thereafter, this Agreement shall
+continue in force and effect unless and until cancelled or terminated as provided
+in this Agreement.
+2.2 Either Carrier or Frontier may terminate this Agreement effective upon the
+expiration of the Initial Term or effective upon any date after expiration of the
+Initial Term by providing written notice of termination at least ninety (90) days in
+advance of the date of termination. If Carrier does not respond to Frontier’s
+written notification of the intent to terminate the Agreement, the Agreement will
+terminate and not renew at the later of the end of the Initial Term or ninety (90)
+days after notice is provided.
+2.3 If Carrier or Frontier provides notice of termination pursuant to Section 2.2 and
+on or before the proposed date of termination either Carrier or Frontier has
+requested negotiation of a new interconnection agreement, unless this
+Agreement is cancelled or terminated earlier in accordance with the terms hereof
+(including, but not limited to, pursuant to Section 12), this Agreement shall
+remain in effect until the earlier of: (a) the effective date of a new interconnection
+agreement between Carrier and Frontier; or, (b) the date one (1) year after the
+proposed date of termination.
+2.4 Either Party may provide the other Party with at least ninety (90) day’s written
+notification of its desire to renegotiate the Agreement at the end of the Initial
+Term or any Subsequent Term. If either Party provides the other Party with
+written notification to renegotiate this Agreement, the negotiation and arbitration
+processes of the Act will be applicable and the date of the notice to negotiate a
+successor agreement will be the starting point for the negotiation window under
+Section 252 of the Act. If Frontier provides notice of termination pursuant to
+Section 2.2, and at least ninety (90) days before the proposed date of termination
+either, and Carrier or Frontier has requested negotiation of a new interconnection
+agreement, unless this Agreement is cancelled or terminated earlier in
+accordance with the terms hereof (including, but not limited to, pursuant to
+Section 12), this Agreement shall remain in effect until the earlier of: (a) the
+effective date of a new interconnection agreement between Carrier and Frontier;
+or, (b) the date one (1) year after the proposed date of termination. The effective
+date of a successor interconnection agreement between Carrier and Frontier will
+be as of the date of termination of this Agreement. Any changes in rates will
+Level 3 Communications, LLC FC South FL
+Frontier Comp Agreement-v4.1-042720 7
+
+REDACTED – FOR PUBLIC INSPECTION
+SIGNATURE PAGE
+IN WITNESS WHEREOF, the Parties hereto have caused this Agreement to be executed as of
+the Effective Date.
+LEVEL 3 COMMUNICATIONS, LLC FRONTIER COMMUNICATIONS OF THE SOUTH,
+LLC
+By: G{{a*ry_ eR sB_la:cski gJnrer1:signature}} By: R{{o*de_riceks C_a:mseirgonner2:signature}}
+Gary R Black Jr (Jan 19, 2021 11:33 MST) Roderick Cameron (Jan 29, 2021 17:31 EST)
+Printed: {G{*a_rey sR_ :Bsligancke rJ1r:fullname}} Printed: Roderick Cameron
+Title: {V{*P_ Ceas_rr:iseigr nReerl1a:ttiiotlnes}} Title: VP, Carrier Services
+Date: {J{*a_ne 1s9_,: s2i0g2n1er1:date}} Date: {J{*a_ne 2s9_,: s2i0g2n1er2:date}}
+Level 3 Communications, LLC FC South FL
+Frontier Comp Agreement-v4.1-042720 38
+
+DocuSign Envelope ID: 3B30EDD6-5222-4715-ACB2-6CBCAC1CCC41
+REDACTED – FOR PUBLIC INSPECTION
+This Interconnection Agreement is entered into by and between CenturyTel of Alabama, LLC
+dba CenturyLink; Gulf Telephone Company dba CenturyLink, (CenturyLink), and Level 3
+Communications L.L.C., in its capacity as a certified provider of local wireline
+Telecommunications Service, (CLEC). CenturyLink and Level 3 Communications, L.L.C., CLEC
+are herein referred to collectively as the “Parties” and each individually as a “Party” provided
+however, that even though this Agreement refers to the Incumbent Local Exchange Carriers
+(ILECs) doing business as “CenturyLink” by a single name, the terms and provisions of this
+Agreement shall apply separately and independently with respect to each of such separate,
+legal, entities, not as a collective group, and the exercise, assertion, application, waiver or
+enforcement of each and any of the terms, obligations, duties, liabilities, rights, privileges or
+other interests embodied in this Agreement by or against any of such ILECs shall pertain, in
+each instance, only with respect to a single, individual ILEC, and shall not be deemed to apply
+in an aggregate fashion to any of the other ILECs who are signatory parties to this Agreement,
+unless mutually agreed upon in a separate written instrument executed by each affected entity.
+This Agreement covers services in the State of Alabama (State) and only in areas which both
+Parties are certificated.
+WHEREAS, the Parties wish to interconnect their local exchange networks for the purposes of
+transmission and termination of Local Traffic (as hereinafter defined), so that customers of each
+can receive calls that originate on the other’s network and place calls that terminate on the
+other’s network; and
+WHEREAS, the Parties desire to exchange such traffic and related signaling in a technically
+and economically efficient manner at defined and mutually agreed upon Interconnection points;
+and
+WHEREAS, the Parties wish to set forth terms for the purchase of Interconnection and
+exchange of traffic for the provision of Telecommunications Services; and
+NOW, THEREFORE, in consideration of the mutual provisions contained herein and other good
+and valuable consideration, the receipt and sufficiency of which are hereby acknowledged, and
+without waiving any reservation of rights set forth herein, CenturyLink and CLEC hereby
+covenant and agree as follows:
+6 8 15 /cjq / Level 3 /AL
+Traffic Exchange Agreement (TEA) Template - (v7-1-14) 4
+
+DocuSign Envelope ID: 3B30EDD6-5222-4715-ACB2-6CBCAC1CCC41
+REDACTED – FOR PUBLIC INSPECTION
+7.2 Term. This Agreement shall continue for a period of three (3) years after
+execution by both Parties (the “Initial Term), unless terminated earlier in
+accordance with the terms of this Agreement. If neither Party terminates this
+Agreement as of the last day of the Initial Term, this Agreement shall continue in
+force and effect on a month-to-month basis unless and until terminated as
+provided in this Agreement.
+7.2.1 Notwithstanding the above, CenturyLink may terminate this Agreement
+after six consecutive months of inactivity on the part of CLEC. Inactivity is
+defined as CLEC’s failure, as required in this Agreement, to initiate the
+required pre-ordering activities, CLEC’s failure to submit any orders, or
+CLEC’s failure to originate or terminate any Local Traffic, absent Force
+Majeure.
+7.3 Notice of Termination. Either Party may terminate this Agreement effective upon
+the expiration of the Initial Term by providing written notice of termination (Notice
+of Termination) at least ninety (90) Days prior to the last day of the Initial Term.
+Either Party may terminate this Agreement after the Initial Term by providing a
+Notice of Termination at least thirty (30) Days prior to the effective date of such
+termination.
+7.4 Effect on Termination of Negotiating Successor Agreement. If either Party
+provides Notice of Termination pursuant to Section 7.3 and, on or before the
+noticed date of termination (the “End Date), either Party has requested
+negotiation of a new Interconnection agreement, such notice shall be deemed to
+constitute a Bona Fide Request to negotiate a replacement agreement for
+Interconnection services pursuant to §252 of the Act and this Agreement shall
+remain in effect until the earlier of: (a) the effective date of a new Interconnection
+agreement between CLEC and CenturyLink; or, (b) one hundred sixty (160) Days
+after the requested negotiation or such longer period as may be mutually agreed
+upon, in writing, by the Parties, or (c) the issuance of an order (or orders) by the
+Commission resolving each issue raised in connection with any arbitration
+commenced within the timeframe contemplated in (b) above. If a replacement
+agreement has not been reached when the timeframe contemplated in (b) above
+expires and neither Party has commenced arbitration, then CenturyLink and
+CLEC may mutually agree in writing to continue to operate on a month-to-month
+basis under the terms set forth herein, subject to written notice of termination
+pursuant to Section 7.3. Should the Parties not agree to continue to operate
+under the terms set forth herein after one hundred eighty (180) Days, if either
+Party has not initiated Commission arbitration proceedings to resolve disputed terms,
+then the provisions of Section 7.5 shall apply. The foregoing shall not apply to
+the extent that this Agreement is terminated in accordance with Section 7.6 or
+Section 7.7.
+7.5 Termination and Post-Termination Continuation of Services. If either Party
+provides Notice of Termination pursuant to Section 7.3 and, by 11:59 p.m.
+Central Time on the stated date of termination, neither Party has requested
+negotiation of a new Interconnection agreement, (a) this Agreement will
+terminate at 11:59 p.m. Central Time on the termination date identified in the
+Notice of Termination, and (b) the services and functions being provided by
+CenturyLink under this Agreement at the time of termination, including
+6 8 15 /cjq / Level 3 /AL
+Traffic Exchange Agreement (TEA) Template - (v7-1-14) 20
+
+DocuSign Envelope ID: 3B30EDD6-5222-4715-ACB2-6CBCAC1CCC41
+REDACTED – FOR PUBLIC INSPECTION
+SIGNATURE PAGE
+IN WITNESS WHEREOF, each of the Parties has caused this Agreement to be executed and
+accepted by its duly authorized representatives
+Level 3 Communications, L.L.C. CenturyTel of Alabama, LLC dba CenturyLink;
+Gulf Telephone Company dba CenturyLink
+By: By:
+Name : Gary Black Name: L. T. Christensen
+Title: VP-Carrier Relations Title: Director – Wholesale Contracts
+Date: 6 /12/2015 Date: 6/ 12/2015
+6 8 15 /cjq / Level 3 /AL
+Traffic Exchange Agreement (TEA) Template - (v7-1-14) 105

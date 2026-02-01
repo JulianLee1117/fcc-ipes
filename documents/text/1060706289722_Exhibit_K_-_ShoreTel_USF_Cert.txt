@@ -1,0 +1,19 @@
+Certification
+
+Application for i-VoIP providers for authorization to obtain telephone numbers
+
+I, Brian Sullivan, VP of Infrastructure Engineering of ShoreTel, Inc. (the “Applicant” or “ShoreTel”), hereby certify that ShoreTel complies with:
+
+a) its Universal Service Fund contribution obligations under 47 CFR part 54, subpart H; b) its Telecommunications Relay Service contribution obligations under 47 CFR § 64.604(c)(5)(iii); c) its North American Numbering Plan and Local Number Portability Administration contribution obligations under 47 CFR §§ 52.17, 52.32; d) its obligations to pay regulatory fees under 47 CFR § 1.1154; and e) its 911 obligations under 47 CFR part 9.
+
+b) I also certify that ShoreTel possesses the financial, managerial, and technical expertise to provide reliable service. 
+
+In addition, I certify that the Applicant is not being investigated by the Federal Communications Commission or any law enforcement or regulatory agency for failure to comply with any law, rule, or order; and that pursuant to 47 CFR §§ 1.2001-1.2002 no party to the application is subject to a denial of Federal benefits pursuant to section 5301 of the Anti-Drug Abuse Act of 1988. 
+
+Brian Sullivan
+
+Brian Sullivan
+
+VP Infrastructure Engineering
+
+February 06, 2017

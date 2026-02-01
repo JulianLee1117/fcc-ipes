@@ -1,0 +1,507 @@
+151SouthhallLane.Sle450
+Maitland.FL32751
+I
+P.O.Drawer200
+\MnlerPark,FL32790-0200
+www.inleserra.com
+October8, 2019
+Via ECFS Filing
+REDACTED FOR PUBLICINSPECTION
+Secretary, Federal Communications Commission
+Washington, DC20554
+Attn: Wireline Competition Bureau
+RE: Requestfor Confidential Treatment ofFilingofHOCBeta, llCiApplicationofHDCBeta, LLCfor
+Authorization to Obtain Numbering Resources Pursuant to Section 52.15(g) of the
+Commission'sRules, WCDocketNo. 19-.
+DearSecretary:
+Pursuantto Section 52.15(g)(3)(i) ofthe Commission's Rules, HDC Beta, LLC ("HDC Beta") herebysubmits
+its application requesting authorizationto obtain numberingresources.
+HDC Beta respectfully requests that, pursuantto Sections 0.457 and 0.459 ofthe Commission's rules, 47
+C.F.R. §§ 0.457 and 0.459, the Commission withhold from public inspection and accord confidential
+treatment to Exhibit A to the application because that document contains sensitive trade secrets and
+commercial information that falls within Exemption 4 ofthe Freedom ofInformation Act ("FOIA").l HDC
+Beta is voluntarily providing this information, "ofa kind that would not customarily be released to the
+public"; therefore, this information is "confidential" under FOIN. Moreover, HDC Beta would suffer
+substantial competitive harm ifthis informationweredisclosed.3
+Exhibit A is accordingly marked with the header "SUBJECT TO REQUEST FOR CONFIDENTIAL TREATMENT
+NOTFORPUBLICINSPECTION."
+1 5U.S.c. § 552(b)(4).
+See CriticalMass EnergyProjectv. NRC, 975 F.2d871, 879 (D.C.Cir. 1992).
+See NationalParks andConservationAss'nv. Morton, 498F.2d 765 (D.C. Cir. 1974).
+
+October8, 2019
+Page 2of4
+In supportofthis request and pursuantto Section 0.459(b) ofthe Commission's rules4 , HOC Beta
+herebystates asfollows:
+1. IDENTIFICATION OFTHESPECIFICINFORMATION FORWHICH CONFIDENTIALTREATMENTIS
+s
+SOUGHT.
+HOC Beta seeks confidential treatmentofExhibitAto the enclosed application.
+2. DESCRIPTION OFCIRCUMSTANCESGIVING RISETOTHESUBMISSION.6
+HOC Beta is submittingas Exhibit Athe agreement between it and its carrier partner, as proofof
+HOC Beta's facilities readiness as required by Section 52. 15(g)(3)(i)(O) of the Commission's
+rules.
+3. EXPLANATION OF THE DEGREE TO WHICH THE INFORMATION IS COMMERCIAL OR FINANCIAL
+OR CONTAINSATRADESECRETOR IS PRIVllEGED.7
+The information for which HDC Beta seeks confidential treatment contains sensitive commercial
+information "which would customarily be guarded from competitors"8 . Exhibit A describes the
+agreement between HDC Beta and its carrier partner and contains proprietary commercial
+informationconcerning HDCBeta's network, customers, and services.
+4. EXPLANATION OF THE DEGREE TO WHICH THE INFORMATION CONCERNS ASERVICE THAT IS
+SUBJECTTOCOMPETITION.9
+ExhibitAcontains information relatingto commercial mattersthatcould be used bycompetitors
+to HDC Beta's disadvantage. HDC Beta has numerous competitors in the Voice over Internet
+Protocol ("Volp") services sector in which it operates. Detailed operations and commercial
+information of the type provided by HDC Beta could compromise HDC Beta's position in this
+highly competitive industry. Release would therefore result in substantial competitive harm to
+HDC Beta.
+4 47 C.F.R. § 0.459(b).
+47 C.F.R. § 0.459(b)(1).
+6 47 C.F.R. § 0.459(b)(2).
+47 C.F.R. §0.459(b)(3).
+8 47 C.F.R. § 0.457(d)(2).
+9 47 C.F.R. § 0.459(b)(4).
+
+October8, 2019
+Page 3of4
+S. EXPLANATION OF HOW DISCLOSURE OF THE INFORMATION COULD RESULT IN SUBSTANTIAL
+COMPETITIVEHARM10
+Competitors could use HOC Beta's proprietary commercial and operational information to HOC
+Beta's detriment as they would gain access to sensitive information about how HDC Beta
+provides services as well as about HOC Beta's commercial agreements with others in the market
+thatare notnormallydisclosedto the public.
+6. IDENTIFICATION OF ANY MEASURES TAKEN BY THE SUBMITTING PARTY TO PREVENT
+UNAUTHORIZEDDISCLOSURE.11
+HDCBeta has notdistributedthe information in ExhibitAto the public.
+7. IDENTIFICATION OF WHETHER THE INFORMATION IS AVAILABLE TO THE PUBLIC AND THE
+EXTENTOFANY PREVIOUSDISCLOSUREOFTHEINFORMATION TOTHIRD PARTIES.12
+HOC Beta has notpreviouslydisclosedthe information in ExhibitA.
+8. JUSTIFICATION OF THE PERIOD DURING WHICH THE SUBMITTING PARTY ASSERTS THAT
+MATERIALSHOULDNOTBEAVAILABLE FOR PUBLIC DISCLOSURE,13
+HOCBeta requeststhat ExhibitAbetreated asconfidential for aperiod often years. This period
+is necessarydueto the proprietary natureofthe information in ExhibitA.
+10 47 C.P.R. § 0.459(b)(5).
+11 47 C.P.R. §0.459(b)(6).
+12 47 C.F.R. §0.459(b)(7).
+13 47 C.F.R. § 0.459(b)(8).
+
+October8, 2019
+Page4of4
+9. OTHER INFORMATION THAT HOC BETA BELIEVES MAYBE USEFULIN ASSESSING WHETHER ITS
+REQUESTFORCONFIDENTIALITYSHOULDBEGRANTED.14
+The information concerns HOC Beta's proprietary network information, related to current and
+planned commercial and operational information, and as such, iscommerciallysensitive.
+Any questions you may have regarding this filing should be directed to my attention at407-740-3006 or
+via email tocroesel@inteserra.com.Thank you foryourassistance in this matter.
+Sincerely,
+lsiCarey Roesel
+Carey Roesel
+Consultantto HOCBeta, LLC
+cc: Kathryn Glaser- HOCBeta
+tms: FCCv1901 HOC Beta
+CRlgs
+14 47 C.F.R. § 0.459(b)(9}.
+
+Beforethe
+FEDERAL COMMUNICATIONS COMMISSION
+Washington, D.C. 20554
+In the Matterof )
+)
+HDC Beta, LLC )
+) WC DocketNo. 19- _
+ForAuthorization to Obtain Numbering )
+Resources Pursuantto Section52.15(g) of )
+The Commission's Rules )
+APPLICATION OFHDC BETA, LLC
+FORAUTHORIZATION TO OBTAIN NUMBERINGRESOURCES
+HDC Beta, LLC ("HDC Beta"), pursuant to Section 52.l5(g)(3)(i) ofthe Commission's Rules,
+respectfully requests authorization to obtainnumbering as describedbelow.
+UndertheCommission'sNumberingOrder, aninterconnectedVoIPprovidermayobtainnumbering
+I
+resources from the Numbering Administratorupon a showing thatitis authorized to provide servicein the
+area for which the numbering resources are requested. Such authorization may be obtained upon an
+application to the Commission containing the informationdetailedin Section52.15.(g)(3)(i)(A)-(G)ofthe
+Commission'sRules. HDCBetaherebyrequests theCommissiongrantitthatauthorization. In supportof
+this application, theCompanyprovides the following information:
+I. INFORMATIONREQUIRED BYSECTION 52.15(g)(3)(i)
+A. §52.15(g)(3)(i)(A)
+Name: HDC Beta, LLC
+Address: 170 S. Green ValleyPkwy.
+Suite 300
+City: Henderson
+State: Nevada
+ZIP Code: 89012
+Telephone: 844-852-5555
+Website https://beta.hdcarrierholdings.com
+I NumberingPoliciesforModern Communications,FCC 15-70(reI. June22,2015).
+
+Contact for Regulatory Requirements, Compliance, 911 and LawEnforcement:
+Name: DavidErickson
+Address: 170 S. Green Valley Pkwy.
+Suite 300
+City: Henderson
+State: Nevada
+ZIP Code: 89012
+Telephone: 844-852-5555
+B. §52.15(g)(3)(i)(B)
+HDC Beta hereby acknowledges that authorization to obtain numbering resources under
+Section52.15(g)oftheCommission'sRulesissubjecttocompliancewithapplicableCommissionnumbering
+rules aswellastothenumberingauthoritydelegatedtothestates. HDCBetaherebyalsoacknowledgesthat
+this authorization is subjectto compliancewith industry guidelines andpractices regarding numbering, as
+applicableto telecommunicationscarriers. Thenumberingresources thatare thesubjectofthisApplication
+will beused to provide interconnectedVoIP services initiallyinWA.
+C. § 52.15(g)(3)(i)(C)
+HDCBetaherebyacknowledgesthatitmustfilerequestsfornumberswiththerelevantstate
+commission(s) atleast 30days beforerequestingnumbers from theNumbering Administrators.
+D. §52.15(g)(3)(i)(D)
+HDCBetaherebysetsforthitscapabilitytoprovideservicewithin60daysofthenumbering
+resources activation date.
+Todemonstrateitsfacilitiesreadiness,HDCBetawillhavethefollowingresourcesavailable
+at its disposal: a fully integrated backoffice support system with the ability to schedule and process LNP
+orders from customers and an experiencedprovisioningdepartmentcapableofhandling bulknumberports
+with over 10 years LNP experience. HDC Beta has an agreement in place with a CLEC partner to route
+traffic to the ILECs. HDC Betahas attached to this application, asExhibitA, anagreementbetweenHDC
+Betaand its carrierpartnerprovidingthatthecarrierpartnerwill hostHDCBeta'snumberson its switches
+
+and provide connectivity to the PSTN for inbound calls to HDC Beta numbers. HDC Beta has requested
+confidentialtreatmentundertheCommission'srulesforExhibitA. Alsoattached,asExhibitB,isevidence
+ofinterconnection agreements betweenHDC Beta's carrierpartnerand local exchange carriers inWA.
+E. §52.15(g)(3)(i)(E)
+HDC Beta hereby certifies that it complies with its Universal Service Fund contribution
+obligationsunder47CFRpart54,subpartH,itsTelecommunicationsRelayServicecontributionobligations
+under 47 CFR § 64.604(c)(5)(iii), its North American Numbering Plan and Local Number Portability
+Administrationcontributionobligationsunder47 CFR§§ 52.17and52.32, itsobligationsto payregulatory
+fees under47 CFR§ 1.1154, and its 911 obligationsunder47 CFRpart9.
+F. §52.15(g)(3)(i)(F)
+HDC Betacertifies that ithas thefinancial, managerial, and technical expertise to provide
+reliable service. It is financially stable, led by a strong, experienced management team with substantial
+managerial experience in the telecommunications industry, and has sufficient technical expertise and
+infrastructure in place to providereliable numbering services. HDC Beta's key management and technical
+personnel are listed below. None ofthe identified personnel are being or have been investigated by the
+Commissionoranylawenforcementorregulatoryagencyforfailure tocomplywithanylaw, rule,ororder.
+KeyPersonnel:
+ManagingMember- David Erickson
+ManagingMember- Kathryn Glaser
+Managing Member- ScottSouthron
+G. §52.15(g)(3)(i)(G)
+HDC Betaherebycertifies thatno partyto this application is subjectto adenial offederal
+benefitspursuantto Section 5301 ofthe Anti-DrugAbuse Actof1988,21 U.S.C. § 862.
+
+II. ACKNOWLEDGEMENT OF CONDITIONS IN SECTION 52.15(g)(3)(iv)
+As required by Section 52.15(g)(3)(iv), HDC Beta will maintain the accuracy of all contact
+information and certifications in this application and will file a correction with the Commission and each
+applicable state within 30 days of any changes. HDC Beta will also furnish accurate regulatory and
+numbering contact information to each statecommissionwhen requesting numbers in thatstate.
+III. CONCLUSION
+Pursuant to Section 52.15(g)(3)(i) of the Commission's Rules, HDC Beta respectfully
+requests theCommission grant this application for authorization to obtain numbering resources.
+Respectfully submitted,
+CareyRoesel, Consultant
+Inteserra ConsultingGroup, Inc.
+407-740-3006
+croesel@inteserra.com
+and
+DavidErickson, ManagingMember
+HDC Beta, LLC
+844-852-5555
+info@beta.hdcarrierholdings.com
+October8,2019
+
+Exhibit A
+AGREEMENT BETWEEN
+HDC BETA, LLC
+AND CARRiER PARTNER
+(Confidential exhibit submitted separately)
+
+Exhibit B
+(for each state listed)
+INTERCONNECTION AGREEMENTS BY AND
+BETWEEN
+CARRIER PARTNER
+AND
+CENTURYLINK QC (FKA QWEST)
+AND
+FRONTIER (FKA VERIZON)
+
+RECEIVED
+RECORDS MANAGEMENT
+CENTURYLINK ~"'t:
+C L- k
+16007lhAvenue.Room1506 2013DEC 23 AH II: 15 ~4~~ entury In
+Seattle.Washington 98191
+(206)733-5178 TM
+Facsimile(206)343-4040 or-
+STATE'
+l"
+\
+•
+'<v/.A•(
+\
+'
+~
+:~...;.
+MauraE.Peterson
+UTIL. AND TRMiS?
+Paralegal
+RegulatoryLaw
+COMMISS10":
+December20, 2013
+Via Web PortalandOvernightDelivery
+Mr. StevenKing, ExecutiveDirectorandSecretary
+Washington Utilities & TransportationCommission
+1300 S. Evergreen Park Drive SW
+P.O. Box47250
+Olympia, WA 98504-7250
+Re: DocketNo. UT-[NotYetAssigned]
+Adoption ofthe WirelineInterconnectionAgreementbyWide
+Voice,LLCAdoptingthe WireIineInterconnectionAgreement
+betweenQwestCorporationdbaCenturyLinkQC andSprint
+Communications CompanyL.P.
+DearMr. King:
+In accordance with WAC 480-07-640, please find enclosedanoriginalAdoptionofthe Wireline
+InterconnectionAgreement by Wide Voice, LLC Adopting the Wireline Interconnection
+AgreementBetweenQwestCorporation dbaCenturyLinkQC and SprintCommuications
+CompanyL.P. forthe State ofWashington. Wide Voice, LLC hasadopted, in its entirety,the
+previouslyapproved Agreement between QwestCorporation dbaCenturyLinkQC and Aprint
+Communications CompanyL.P., DocketNo. UT-133020, approved bythe Commission on
+November8, 2013.
+The enclosedAgreementdoes notdiscriminateagainstnon-partycarriers. Itis consistentwith
+state and federal law, and is inthe public interest. CenturyLinkrespectfully requests thatthe
+CommissionapprovethisAgreement.
+MauraE. Peterso
+MEP/jga
+Enclosure
+ee: Tandy DeCosta(w/o Ene!.)
+Patrick Chieas (w/o Enc!.)
+www.centuryliT1k.com
+
+OocuSignEnvelope10:86090883-3AC7-4CFO-P".~·5A01A4ECO01E
+~,,~
+~4~~
+CenturyLink'"
+ADOPTION OFTHE
+WIRELINE INTERCONNECTION AGREEMENT
+BY
+WIDE VOICE, LLC
+ADOPTING THE
+WIRELINE INTERCONNECTIONAGREEMENT
+BETWEEN
+QWESTCORPORATION DBACENTURYLINK QC
+AND
+SPRINT COMMUNICATIONS COMPANYL.P.
+FORTHE STATEOF:
+WASHINGTON
+c - ~ "'" :::':1
+-i(J) --"
+n;=;;! "'" :~"J
+O' _.r 0 C">
+", ;'::1
+~ ~.; O Z p. m O , N ("") : > :: :: ' : 0 I ; : - :n u
+(j) "'Tl eN ;- :z. n:-."_C- ' .> l
+Z 0 - (/ ; ) 0 Z » 0 -f , > ( " - . ., , . . .-- , - :: ; - -: 3 . : . z lIo m C ~r ) i l i :: i J
+(/) ~
+m
+:"lJ"
+~
+O"l -l
+
+OocuSignEnvelope10:86090883-3AC7-4CFD-f .'-5A01A4EC001E
+Adoption oftheWirelineInterconnectionAgreement
+This Adoption ofthe Wireline Interconnection Agreement ("Agreement") is entered into by and between
+Qwest Corporation dba Centurylink QC ("CenturyLink"), a Colorado corporation, and Wide Voice, LLC
+("CLEC"), a Nevadacorporation, eachofwhich may be referred tohereinas "Party', orcollectivelyasthe
+·Parties", to establishthe terms, conditions and rates for local interconnection and theexchangeofLocal
+trafficfortheStateofWashington.
+NOWTHEREFORE, thePartiesagreeasfollows:
+1. ADOPTEDAGREEMENT
+1.1 This Agreement between the Parties shall consist of the Wireline Interconnection
+Agreement entered into by and between Qwest Corporation dba CenturyLink QC and
+Sprint Communications Company L.P. approved by the Commission in 2004, for the
+StateofWashington.
+1.2 This Agreement is made a part of and incorporates the terms and conditions of the
+AdoptedAgreement, includingallamendmentstothatAdopted Agreement(the"Terms").
+1.3 Except as set forth herein, the Adopted Agreement remains unchanged and in full force
+and effect. In the eventofa conflict between the Terms ofthe Adopted Agreement and
+thisAgreement, thisAgreementwill control.
+2. PARTY
+For the purposes of this Agreement, CLEC is hereby substituted in the Adopted Agreement for
+SprintCommunicationsCompanyL.P.
+3. PROVISIONS
+3.1 TheTermsofthe SprintCommunicationsCompanyL.P. Agreementarebeingadoptedin
+its entirety by ClEC pursuantto ClEC's statutory rights underSection 252(i). The filing
+and performancebyCenturyLinkoftheTermsdoesnotin anywayconstituteawaiverby
+CenturyLink ofanyposition as to the Terms ora portionthereof, nordoes itconstitutea
+waiverbyCenturyLinkofanyorall rights and remedies itmayhavetoseekreviewofthe
+Terms, orto seekreviewin anywayofanyprovisions included intheseTerms asaresult
+ofCLEC's252(i) election.
+3.2 Should CLEC attempt to apply the adopted Terms in a manner that conflicts with the
+provisions set forth herein, CenturyLink reserves its rights to seek appropriate legal
+and/orequitablerelief.
+4. EFFECTIVEDATEANDTERM
+4.1 ThisAgreement, ifaninitialAgreementshallbecomeeffectiveonthedateofCommission
+Approval ("Effective Date"); however the Parties may agree to implement the provisions
+of this Agreement upon execution by both Parties. However, the initiation of a new
+account, any new provision of service or obligation or any revision to currently existing
+services or obligations may take up to 60 days to accommodate any reqUired initial
+processes.
+4.2 In the event that the Parties currently have an existing Wireline Interconnection
+Agreement, thisAgreementshall replacetheexistingWireline InterconnectionAgreement
+initsentirety beginning onthe EffectiveDate. However, nothingrelievesthePC}rtiesfrom
+fulfilling all obligations incurredunderthatpriorWireline InterconnectionAgreement.
+4.3 The.expirationd;ateofthis Agreemel'ltishallibetheexpiration/dateiofthe Adopted
+Agreement,<which is listed above, however, notwithstanding the forgoing, the Expiration
+Date ofthe Adopted Agreement and this Agreement are extended until March 31, 2014
+November27, 2013/swd-kcIWideVoice,LLCIWA-(v9-12-13)
+AgreementNumberCDS-131127-0004 Page2
+
+OocuSignEnvelope10:86090883-3AC7-4CFO-P .·5AD1A4ECOO1E
+pursuanttotheOwest/CenturyLinkmergersettlementagreement.
+5. NOTICES
+Except as otherwise provided, all notices and communication hereunderwill be deemed to have
+been duly given when made in writing and delivered in person or deposited in the U.S. mail,
+certified, postagepaid, retumreceiptrequested, andaddressedasfollows:
+ToCenturyLlnk: WithCopyto:
+CenturyLink CenturyLinkLegal Department
+DirectorWholesaleContracts WholesaleInterconnection
+930 15thStreet,6thFloor 1801 CaliforniaStreet, 9thFloor
+Denver, CO 80202 Denver, CO 80202
+Phone: 303-672-2879 Phone: 303-383-6553
+Email: intagree@centurylink.com Email: Legal.lnterconnection@centurylink.com
+ToCLEC: With Copyto:
+WideVoice, LLC WideVoice, LLC
+TandyDeCosta, DirTelephoneSvcs PatrickChicas, President
+410 SouthRampart, Suite30- 410SouthRampart, Suite390
+LasVegas, NV 89145 LasVegas, NV 89145
+702-553-3007 702-553-3007
+Email: tdecosta@widevoice.com Email: pjc@widevoice.com
+6. REGULATORYREQUIREMENTS
+6.1 CLEC represents and warrants that it is authorized to provide telecommunications
+servicesintheStateof.Washington.
+6.2 The Parties will cooperate to file this Agreement with the Commission for approval and
+completeallattendantrequirementsoftheCommissionforsuch approval.
+IN WITNESS WHEREOF, CLEC andCenturyLink have caused this Agreement to be executed by their
+respective dulyauthorized representatives.
+WideVoice, llC QwestCorporationdba CenturylinkQC
+Signature
+PatrickChicas L.T. Christensen
+Printed Name PrintedName
+President Director...WholesaleContracts
+Title Title
+12/2/2013 12/2/2013
+Date .Date
+November27,2013/swd-kcNVideVoice,LLCflNA-(v9-12-13)
+AgreementNumberCDS-131127-0004 Page3
+
+Section 5
+Terms and Conditions
+5.1.3.4 It is the responsibility ofeither Party to inform its End User Customers of
+service impacting impairmentthat may result in discontinuance ofservice as soon as the
+Party receives notice ofsame.
+5.1.4 Each Party is solely responsible for the services it provides to its End User
+Customers and to otherTelecommunications Carriers. This provision is not intended to limitthe
+liability ofeitherPartyfor itsfailure to perform underthis Agreement.
+5.1.5 The Parties shall work cooperatively to minimize fraud associated with third-
+numberbilled calls, calling card calls, and any otherservices related to thisAgreement.
+5.1.6 Nothing in this Agreement shall prevent either Party from seeking to recover the
+costs and expenses, if any, it may incur in (a) complying with and implementing its obligations
+under this Agreement, the Act, and the rules, regulations and orders of the FCC and the
+Commission, and (b) the development, modification, technical installation and maintenance of
+any systems or other infrastructure which it requires to comply with and to continue complying
+with its responsibilities and obligations under this Agreement. Notwithstanding the foregoing,
+Owest shall not assess any charges against Sprint for services, facilities, Unbundled Network
+Elements, ancillary service and other related works or services covered by this Agreement,
+unless the charges are expressly provided for in this Agreement. All services and capabilities
+currently provided hereunder (including resold Telecommunications Services, Unbundled
+Network Elements, UNE combinations and ancillary services) and all new and additional
+services or Unbundled Network Elements to be provided hereunder, shall be priced in
+accordance with all applicable provisions of the Act and the rules and orders of the Federal
+Communications Commission and orders ofthe Commission.
+5.2 Term ofAgreement
+5.2.1 This Agreement shall be deemed effective upon Commission approval, pursuant
+to Section 252 of the Act ("the Effective Date"); however, the Parties agree to implement the
+provisions ofthis Agreement upon execution. This Agreement shall be binding upon the Parties
+for aterm ofthree (3) years and shall expire on January 1, 2007.
+5.2.2• ....•.. Upon)expira.ti()r()fthe.t~rrn)9f<tgi~.if1.gr~l11.ent,ithis~greeI11E:mtshallcoDtinuein
+force and effect untilsuperse(jed .byasuccessoriagreementin (iccqrdancewith•this Section
+<
+5.2.2. Any Party may request negotiation of a successor agreement by written notice to the
+other Party no earlier than one hundred sixty (160) Days prior to the expiration of the term, or
+the Agreement shall renew on a month to month basis. The date of this notice will be the
+starting point for the negotiation window under Section 252 of the Act. This Agreement will
+terminate on the date asuccessoragreement is approved bythe Commission.
+5.2.2.1 Prior to the conclusion of the term specified above, Sprint may obtain
+Interconnection services under the terms and conditions of a then-existing SGAT or
+agreementto become effective atthe conclusion ofthe term or priorto the conclusion of
+the term ifSprintso chooses.
+5.3 ProofofAuthorization
+5.3.1 Each Party shall be responsible for obtaining and maintaining Proof of
+Authorization (POA), as required by applicable federal and state law, as amended from time to
+time. POAmay be acquired in the following ways:
+November21, 2003/jld/Sprint-WA 30
+CDS-031104-0001
+
+FRONTIERCOMMUNICATIONSNORTHWESTINC.
+FORTHESTATEOF
+WASHINGTON
+WideVoiceWACompv3.3a
+
+1.4 Exceptas otherwise provided in the Principal Document, the Principal Document
+maynotbewaived ormodified exceptby awritten documentthat is signed by
+the Parties. Subjecttothe requirements ofApplicable Law, a Partyshall have
+the righttoadd, modify, orwithdraw, itsTariff(s) atanytime, without theconsent
+of, or noticeto, theotherParty.
+2. Term and Termination
+2.1 ThisAgreementshall beeffectiveasofthe EffectiveDateand, unlesscancelled
+orterminated earlierin accordancewiththeterms hereof, shall continue in effect
+fortwo(2)years(the"InitialTerm"). Thereafter, thisAgreementshallcontinuein
+forceand effectunless and untilcancelledorterminated as proVided inthis
+Agreement.
+2.2 EitherWideVoice orFrontiermayterminate thisAgreement effective upon the
+expiration ofthe InitialTerm oreffective upon anydate afterexpiration ofthe
+Initial Term by providingwritten noticeoftermination at leastninety(90) days in
+advanceofthedateoftermination.
+2.3 IfeitherWideVoiceorFrontierprovides noticeoftermination pursuantto Section
+2.2 and on orbeforethe proposed dateoftermination eitherWideVoiceor
+Frontierhasrequested negotiation ofa newinterconnection agreement, unless
+thisAgreement iscancelled orterminated earlierin accordancewith theterms
+hereof(including, but notlimited to, pursuantto Section 12), thisAgreement shall
+remain in effect untiltheearlierof: (a)theeffectivedateofa newinterconnection
+agreement between WideVoiceand Frontier; or, (b)thedateone (1) yearafter
+the proposed dateoftermination.
+2.4 IfeitherWideVoiceorFrontierprovides noticeoftermination pursuanttoSection
+2.2 and by 11:59 PM Eastern Timeon theproposed dateoftermination neither
+Wide Voice norFrontierhas requested negotiation ofa newinterconnection
+agreement, (a) thisAgreementwillterminateat 11:59PM Eastern Timeonthe
+proposed dateoftermination, and (b)the Services being provided underthis
+Agreementatthetime oftermination will beterminated, excepttotheextentthat
+the Purchasing Party hasrequested thatsuch Services continueto be provided
+pursuantto an applicableTarifforStatementofGenerallyAvailable Terms
+(SGAT).
+3. Glossary and Attachments
+The Glossaryand thefollowing AttachmentsareapartofthisAgreement:
+Additional ServicesAttachment
+InterconnectionAttachment
+ResaleAttachment
+NetworkElementsAttachment
+CollocationAttachment
+911 Attachment
+PricingAttachment
+4. Applicable Law
+4.1 The construction, interpretation and performanceofthisAgreement shall be
+governed by (a) the laws ofthe United StatesofAmerica and (b)the laws ofthe
+WideVoiceWACompv3.3a_07142010 2
+
+SIGNATUREPAGE
+INWITNESS WHEREOF, the Partiesheretohavecaused thisAgreementtobeexecutedasof
+the EffectiveDate.
+WideVoice, LLC FRONTIERCOMMUNICATIONSNORTHWEST
+INC.~
+---'7~~~~--
+_~=~....,:~-=~
+_
+By:
+By:
+Printed: PatrickJ. Chicas Printed: StephenLevan
+Title: President
+Date: Date: (o-({-(3>
+WideVoiceWACompv3.3a_07142010 27

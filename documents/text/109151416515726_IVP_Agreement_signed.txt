@@ -1,0 +1,239 @@
+Coeur d’Alene Tribe
+Red Spectrum Communications
+INTERCONNECTED VOIP PROVIDER (IVP) AGREEMENT WITH NATIVE NETWORK
+This Interconnected Inbound/Outbound Voice Over Internet Protocol (“VoIP”) Provider
+Agreement (“IVP Agreement”) is subject to and made a part of the Interconnection Agreement
+(“ICA”) Number RSC 052017-0007 between the Coeur d’Alene Tribe, 850 A Street, (“Tribe"), by
+and through its company, Red Spectrum Communications, LLC (“Red Spectrum”) and Native
+Network, Inc. (“Native Network”), located at 250 East Penny Road, Suite 200 Wenatchee, WA
+9880. Red Spectrum and Native Network are collectively referred to herein as “Parties” and
+individually as a “Party.” This IVP Agreement and the Master Service Agreement (“MSA”)
+govern the sale and purchase of the services described below.
+1.0 Description.
+Native Network will provide a suite of telecommunications services required to support
+customer telephony via this IVP Agreement.
+2.0 Local Market Inbound and Outbound Traffic.
+Local Market Inbound and Outbound Traffic is included with Red Spectrum’s purchase of
+Interconnected VoIP Provider (“IVP”) trunks and includes all calling areas where Red Spectrum:
+i) is established as a state-authorized IVP, ii) has acquired telephone resources from the FCC
+North American Numbering Plan Administrator (“NANPA”), and iii) has indicated to Native
+Network that this traffic is to be included on Red Spectrum’s trunk order.
+3.0 Interexchange Outbound Service.
+Interexchange (“IXC”) Outbound Service is traffic between Red Spectrum’s network and
+other telecommunications carriers. Red Spectrum may pass both Domestic U.S. Originated and
+Non-Domestic Originated traffic to Native Network to be terminated to any of the locations listed
+on the pricing schedule as outlined in this IVP Agreement.
+4.0 Local Access IVP Inbound and Outbound
+This product includes traffic from the Access Tandem, Local Tandem and End Office
+connections within the local calling areas where the customer owns Telephone Number
+resources as well as any ported numbers within same area. This product also includes any
+NATIVE NETWORK, INC. & RED SPECTRUM COMMUNICATIONS, LLC
+IVP AGREEMENT
+Page 1 of 9
+CONFIDENTIAL
+
+inbound traffic from national and international VoIP provider connections that traverse the
+Native Network.
+4.1 Access Tandem. Inbound traffic from the world that flows through traditional Public
+Switched Telephone Network (PSTN). This includes National and International traffic
+destined for customers Local Routing Number (LRN) and blocks of number resources.
+The access tandem for customers region will be Couer D’ Alene.
+4.2 Local Tandem. Two way traffic originated or terminated from a specific Local Tandem to
+customers switch and within supported calling areas. A supported calling area is one
+which the customer has telephone resources authorized by NANPA and as recorded in
+the Local Exchange Routing Guide (LERG). The LERG shall be the default calling area
+identifier. Calling area may be revised from time to time to accommodate customers
+marketing and business objectives. Any modifications will be authorized in writing by
+both parties prior to any changes going into effect.
+4.3 End Office. Two way traffic originated or terminated from a specific Incumbent Local
+Exchange Carrier (“ILEC”) End Office to customers switch and within the supported
+calling areas. A supported calling area is one which the customer has telephone
+resources authorized by NANPA and as recorded in the Local Exchange Routing Guide
+(LERG). The LERG shall be the default calling area identifier. Calling area may be
+revised from time to time to accommodate customers marketing and business
+objectives. Any modifications will be authorized in writing by both parties prior to any
+changes going into effect.
+4.4 Session Initiated Protocol (“SIP”)- VoIP Interexchange (“IXC”) Inbound. One way
+traffic originated on direct connected 3rd party IXC or Transit networks and terminated on
+the Native Network SIP IXC network utilizing the SIP protocol. This traffic is then
+NATIVE NETWORK, INC. & RED SPECTRUM COMMUNICATIONS, LLC
+IVP AGREEMENT
+Page 2 of 9
+CONFIDENTIAL
+
+terminated on the customers IVP trunks and is considered equivalent to Access Tandem
+Traffic and therefore is covered by IVP trunk charges as described in section.
+5.0 Interexchange Service Type.
+5.1 Red Spectrum has elected to only send interexchange calls that originate within the fifty
+(50) United States and are routed to Native Network for termination to destinations listed
+in the pricing schedule (“Domestic-Originated Traffic”) through Native Network’s network.
+Except as otherwise noted, the point of origination is determined by the originating
+Automatic Number Identification (“ANI”) and must follow the North American Numbering
+Plan (“NANP”) format.
+5.2 Red Spectrum agrees to be bound by the pricing and terms associated with this selected
+Traffic and Trunk Group.
+5.3 Red Spectrum may deliver traffic destined to any location specified in the applicable
+Traffic and Trunk Group (Domestic-Originated Traffic).
+5.4 Native Network shall provide Red Spectrum with the applicable pricing schedule as
+updated from time to time.
+5.5 If Red Spectrum delivers traffic to destinations other than what is listed in the applicable
+pricing schedule, Native Network may issue a redirection message or a surcharge to
+Red Spectrum.
+5.6 Red Spectrum shall connect to Native Network’s network in a manner and at locations
+determined by Native Network. Start of service will be concurrent with Red Spectrum’s
+directing SIP-Configured calls via the public Internet to the Internet Protocol (“IP”)
+addresses designated by Native Network, dedicated SIP connection, or Time-Division
+Multiplexing (“TDM”) circuit.
+NATIVE NETWORK, INC. & RED SPECTRUM COMMUNICATIONS, LLC
+IVP AGREEMENT
+Page 3 of 9
+CONFIDENTIAL
+
+6.0 Signaling.
+6.1 Concerning all traffic handled for Red Spectrum, Native Network agrees to pass through,
+without change, all ANI components containing call detail information used in billing
+access and reciprocal compensation charges.
+6.2 The Parties agree not to change, manipulate, or in any way intentionally modify traffic
+line records, including, but not limited to, Calling Party Number (“CPN”) and ANI, except
+as specified in this IVP Agreement.
+7.0 Pricing.
+7.1 IXC Call Terminations. Native Network offers both national and non-national IXC call
+terminations based upon rate decks.
+7.2 Local Access Call Terminations. Native Network offers call origination and terminations
+of local and intra-lata traffic from customer’s switch to and from the identified Access
+Tandem and /or the Local Tandems as well as the any End Office locations to support
+the customer’s contracted calling areas.
+7.3 Rates for IXC. Native Network shall provide Red Spectrum with rates for termination of
+Domestic and Non-Domestic Originated Traffic. Rates are calculated per minute and via
+rate deck with pricing and availability updates on a regular basis by LATA/OCN or by
+NPANXX at Red Spectrum’s choice (“Routing Member and Pricing List”).
+7.4 The Routing Member and Pricing List identify the appropriate footprint and associated
+rate. Traffic sent outside of the footprint will be billed at the default rate identified in the
+Routing Member and Pricing List. Unless explicitly stated, any pricing not covered in this
+Service Order is subject to the applicable Native Network Tariff covering such service.
+The currency of settlement shall be US Dollar (US$). Every minute is billed at a single
+rate.
+NATIVE NETWORK, INC. & RED SPECTRUM COMMUNICATIONS, LLC
+IVP AGREEMENT
+Page 4 of 9
+CONFIDENTIAL
+
+7.5 Rates for Local IVP Access. Rates for local Termination and Originated Traffic are
+covered by the monthly SIP Trunk charge. A minimum of 20 Trunks inbound and 20
+trunks outbound is minimum requirement. As traffic increases additional trunks will be
+added to accommodate the additional traffic, based on a mutually agreed upon metric
+that accounts for maximum busy hour traffic and acceptable congestion levels.
+7.6 Rate Changes. Rates for all traffic are subject to change on thirty (30) days’ notice.
+Modification in rates may be in the form of new rates, charges and/or surcharges or
+through modification of existing rate elements which are used to determine rates and/or
+charges. Red Spectrum is liable for payment on any rate changes past the effective date
+as documented in a delivered rate modification notice.
+7.7 Call Jurisdiction. For rating purposes, Red Spectrum acknowledges that the call
+jurisdiction will be determined based upon available call stream data. Red Spectrum
+warrants that it will not delete, or modify in any way, call stream data. Non-Domestic
+Originated Traffic that does not conform to the North American Numbering Plan format
+for the originating ANI and terminating within the United States, will be rated as
+INTERstate only if such traffic adheres to the standards established in recommendations
+by the ITU Telecommunication Standardization Sector in the International Public
+Telecommunication Numbering Plan (“E.164”) strings for all fields, including a (+)
+preceding the originating ANI or using SIP-T with the Nature of Address.
+7.8 Indeterminate/Non-Domestic, Non-E.164/Outside Footprint. Native Network will charge,
+and Red Spectrum shall pay, the INTRAstate per minute rate for traffic that does not
+adhere to the E.164(+) standard for non-domestic originated calls or where call
+jurisdiction is otherwise unknown or indeterminate. Any call terminated by Native
+Network that is not on the most current Routing Member and Pricing List provided to
+Red Spectrum will be charged at the INTRAState default rate for calls terminating in the
+NATIVE NETWORK, INC. & RED SPECTRUM COMMUNICATIONS, LLC
+IVP AGREEMENT
+Page 5 of 9
+CONFIDENTIAL
+
+fifty (50) United States and International default rate for calls terminating outside of the
+fifty (50) United States.
+7.9 For the purposes of this IVP Agreement, Native Network is not responsible for fees,
+duties, taxes or assessments related to any portion of the Non-Domestic traffic delivered
+to Native Network, and therefore Red Spectrum shall pay such duties and taxes at the
+rate and in the manner prescribed by law in Red Spectrum’s country and/ or the country
+from which the call originated.
+7.10 Call Parameters and Surcharges. Red Spectrum shall adhere to the following
+call parameters or the applicable surcharges will apply.
+7.10.1 Calls Per Second. Calls Per Second (“CPS”) refers to how many
+telephone calls that can be handled in a second. Native Network will
+provision services to not exceed ten (10) calls per second per 672 ports.
+7.10.2 Short Duration Surcharge. A Short Duration (“SD”) call is a completed
+call that is six (6) seconds or less in duration. Red Spectrum shall not
+intentionally send SD traffic. It is Red Spectrum’s responsibility to monitor
+its traffic for SD traffic. If, however, SD traffic is sent to Native Network,
+the number of SD calls during any billing cycle must not exceed 15% SD
+Threshold.
+7.10.3 SD traffic percentages are calculated based on the total traffic associated
+with a product pricing list. If Red Spectrum has traffic associated with
+multiple product pricing lists, an SD percentage will be calculated per
+product pricing list. For SD Threshold violations, Native Network will
+charge, without notice and in addition to the per minute rates (Interstate
+Long Distance, Intrastate Long Distance and Local, if applicable) a
+NATIVE NETWORK, INC. & RED SPECTRUM COMMUNICATIONS, LLC
+IVP AGREEMENT
+Page 6 of 9
+CONFIDENTIAL
+
+surcharge equal to $0.01 per SD call exceeding the applicable SD
+Threshold during that billing cycle under this IVP Agreement.
+7.10.4 Incomplete Call Ratio Surcharges. A Completed Call is a call where
+Native Network receives answer supervision from the terminating end.
+The Total Call Attempts equals the total calls attempted (both answered
+and incomplete). The Incomplete Call Ratio (“ICR”) is the ratio of the total
+call attempts less the completed calls to the total number of attempted
+calls expressed as a percentage. ICR = ((Total Call Attempts – Total
+Completed Calls)/Total Call Attempts) *100. Customer’s ICR shall not
+exceed fifty-five (55) percent (“ICR Threshold”). Native Network may, in
+its sole discretion and upon notice, modify the ICR Threshold if industry
+standards change. If Red Spectrum’s ICR is above the ICR Threshold,
+Native Network reserves the right, at its sole discretion to impose a
+surcharge, in addition to the per minutes rates (Interstate Long Distance,
+Intrastate Long Distance and Local, if applicable) equal to $0.01 per
+incomplete call exceeding the ICR Threshold during that billing cycle
+under this IVP Agreement.
+7.10.5 If Red Spectrum is in violation of this section, Red Spectrum shall take
+immediate remedial action. Notwithstanding, if Red Spectrum’s remedial
+actions do not result in immediate resolution of the issue, Native Network
+may, in addition to applying applicable surcharges and in its sole
+discretion (i) modify the CPS; (ii) modify the ICR; and (iii) take curative
+action that may result in the modification, suspension or cancellation of
+Red Spectrum’s Services.
+NATIVE NETWORK, INC. & RED SPECTRUM COMMUNICATIONS, LLC
+IVP AGREEMENT
+Page 7 of 9
+CONFIDENTIAL
+
+7.11 Routing List Contact. Red Spectrum shall provide Native Network with the
+proper contact information for the distribution of the Routing Member and Pricing List as
+provided in this section.
+Routing Member and Pricing List Customer Contact:
+Name: Tami Williams, Office Manager
+Address: Red Spectrum Communications, LLC
+PO Box 229
+850 A Street, Plummer, ID 83851
+Phone: (208) 686-2079
+Email: twilliams@cdatribe-nsn.gov
+With a Copy To:
+Name: Valerie Fast Horse, Director, Coeur d’Alene Tribe
+Address: PO Box 408, Plummer, ID 83851
+Phone: (208) 686-5059
+Email: vjfasthorse@cdatribe-nsn.gov
+8.0 Additional Terms.
+8.1 Native Network, at its sole discretion, may return a redirect message to Red Spectrum
+for any destination it is unable to deliver traffic. On certain destinations volume
+restrictions may be applied. These volume restrictions become effective on the first of
+each month after a fourteen (14) day written notice period.
+8.2 Nothing in this IVP Agreement shall be construed as obligating Red Spectrum to utilize
+Native Network exclusively for delivery, or routing of, traffic that is destined for the
+subscribers of Native Network’s Carrier Customers.
+8.3 Red Spectrum, in accordance with the terms of this IVP Agreement, shall not send any
+E911, 911, operator services or any other traffic destined for any emergency 911 Center
+or any other local, state or federal emergency organization, and Native Network will
+return this traffic to Red Spectrum’s originating equipment and will be held harmless
+NATIVE NETWORK, INC. & RED SPECTRUM COMMUNICATIONS, LLC
+IVP AGREEMENT
+Page 8 of 9
+CONFIDENTIAL

@@ -1,0 +1,121 @@
+Before the
+Federal Communications Commission
+Washington, D.C. 20554
+In the Matter of )
+)
+Union Telephone Company ) WC Docket No. 23-____
+)
+For Authorization to Obtain Numbering )
+Resources Pursuant to Section 52.15(g) of )
+The Commission’s Rules )
+APPLICATION OF UNION TELEPHONE COMPANY FOR AUTHORIZATION
+TO OBTAIN NUMBERING RESOURCES
+Union Telephone Company (“UTC”), pursuant to Section 52.15(g)(3)(i) of the Commission’s
+rules, respectfully requests authorization to obtain numbering resources as described below.
+As set forth in the Commission’s Numbering Order,1 an interconnected VoIP provider may
+obtain numbering resources from the Numbering Administrator upon a showing that it is authorized to
+provide service in the area for which the numbering resources are requested. Such authorization may be
+obtained upon an application to the Commission containing the information detailed in Sections
+52.15(g)(3)(i)(A)-(F) of the Commission’s Rules. UTC, a long-standing Commission licensee that
+provides both local exchange and wireless telecommunications services and who is seeking to expand
+its service offerings by providing interconnected VoIP service within its current wireless, CAF-II, and
+ACAM service areas, hereby requests the Commission grant it that authorization. In support of this
+application, UTC provides the following information.
+1 Numbering Policies for Modern Communications et al., Report and Order, 30 FCC Rcd. 6839 (2015).
+1
+
+I. INFORMATION REQUIRED BY SECTION 52.15(g)(3)(i)
+(A) § 52.15(g)(3)(i)(A)
+Name: Union Telephone Company
+Address: 850 N. Highway 414
+Mountain View, WY 82939
+Telephone: 307-782-6131
+Qualified Personnel: Eric Woody
+Chief Executive Officer
+Brian Woody
+Chief Customer Relations Officer
+Contact for Regulatory Requirements, Compliance, 911, and Law Enforcement:
+Name: Eric Woody
+Address: 850 N. Highway 414
+Mountain View, WY 82939
+Telephone: 307-782-6131
+Email: ewoody@unionwireless.com
+(B) § 52.15(g)(3)(i)(B)
+UTC hereby acknowledges that authorization to obtain numbering resources under Section
+52.15(g) of the Commission’s rules is subject to compliance with applicable Commission numbering
+rules as well as to the numbering authority delegated to the states. UTC hereby also acknowledges
+that this authorization is subject to compliance with industry guidelines and practices regarding
+numbering, as applicable to telecommunications carriers.
+(C) § 52.15(g)(3)(i)(C)
+UTC hereby acknowledges that is must file requests for numbers with the relevant state
+commission(s) at least 30 days before requesting numbers from the Numbering Administrators.
+2
+
+(D) § 52.15(g)(3)(i)(D)
+UTC hereby sets forth its capability to provide service within 60 days of the numbering
+resources activation date.
+UTC plans to provide VoIP services in Wyoming using its own facilities including routing its
+traffic to the PSTN.2 UTC will be able to begin placing numbers into service almost immediately
+and, in any event, within sixty (60) days of the numbering resources activation date. As further proof
+of its facilities readiness, UTC is a long-standing facilities-based provider offering local exchange
+service covering 7,400 square miles in Wyoming, Utah, and Colorado. UTC also provides wireless
+service, which covers over 122,000 square miles across Wyoming and parts of Colorado, Idaho,
+Montana, and Utah.
+(E) § 52.15(g)(3)(i)(E)
+UTC hereby certifies that it complies with its Universal Service Fund contribution obligations
+under 47 CFR part 54, subpart H; its Telecommunications Relay Service contribution obligations under
+47 CFR § 64.604(c)(5)(iii); its North American Numbering Plan and Local Number Portability
+Administration contribution obligations under 47 CFR §§ 52.17 and 52.32 its obligations to pay
+regulatory fees under 47 CFR § 1.1154; and its 911 obligations under 47 CFR part 9.
+(F) § 52.15(g)(3)(i)(F)
+UTC hereby certifies that it has the financial, managerial, and technical expertise to provide
+reliable service. We reiterate that UTC is a long-standing family-owned facilities-based carrier that
+offers both local exchange and wireless services in predominantly rural areas of the United States.
+It’s led by a strong, experienced management team with substantial managerial experience in the
+telecommunications industry and has sufficient technical expertise and existing infrastructure in
+place to provide reliable numbering and related VoIP services.
+2 UTC is also seeking numbering blocks to assign local routing numbers and local numbers for use in the
+Lumen, Wyoming exchange area only.
+3
+
+UTC has the superior technical qualifications necessary to provide and maintain successful
+operations within its existing service area. UTC has the capabilities to efficiently port and place
+numbers into service and successfully route calls.
+UTC’s key management and technical personnel are listed below. None of the identified
+personnel is being or has been investigated by the Commission or any law enforcement or regulatory
+agency for failure to comply with any law, rule, or order.
+Key Personnel:
+Eric Woody: Mr. Woody is UTC’s Chief Executive Officer. A veteran of the U.S. Navy, he
+has a B.S. in Electrical Engineering and has been working at UTC since 1997.
+Brian Woody: Mr. Woody is UTC’s Chief Customer Relations Officer. He has a B.S. in
+Electrical Engineering and has been working at UTC since 2001. His expertise is technology,
+marketing, and customer relations.
+Alan Hinman: Mr. Hinman is a network engineer. He has a B.S. in Computer Science, a B.S.
+in Electrical Engineering, is an inactive Professional Engineer (WY PE#11065 electrical/inactive)
+and has been working for Union Wireless Since 1994. His expertise is in routing, switching,
+transport networks, wireless telephony and wireline telephony.
+Lehi Hazen: Mr. Hazen is a network engineer. He has a B.S. in Electrical Engineering and
+has been working at UTC since 2017. His expertise is in routing, switching, transport networks, and
+project engineering.
+(G) § 52.15(g)(3)(i)(G)
+UTC hereby certifies that no party to this application is subject to a denial of Federal benefits
+pursuant to Section 5301 of the Anti-Drug Abuse Act of 1988, 21 U.S.C. § 862.
+4
+
+II. ACKNOWLEDGEMENT OF CONDITIONS IN SECTION 52.15(g)(3)(iv)
+As required by Section 52.15(g)(3)(iv), UTC will maintain the accuracy of all contact
+information and certifications in this application and will file a correction with the Commission and
+each applicable state within 30 days of any changes. UTC will also furnish accurate regulatory and
+numbering contact information to each state commission when requesting numbers in that state.
+III. CONCLUSION
+Pursuant to Section 52.15(g)(3)(i) of the Commission’s Rules, UTC respectfully requests the
+Commission grant this application for authorization to obtain numbering resources.
+Respectfully submitted,
+Todd Slamowitz
+Lukas, LaFuria, Lantor & Sachs, LLP
+8350 Broad Street, Suite 1450
+Tysons, VA 22102
+(703)584-8673
+Counsel to Union Telephone Company
+September 11, 2023
+5

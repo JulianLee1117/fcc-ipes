@@ -1,0 +1,198 @@
+June 10, 2025
+Marlene Dortch
+Secretary
+Federal Communications
+th
+Commission 445 12 St. SW
+Washington, DC 20554
+Via ECFS
+RE: ActionVox Inc. Application for Authorization to Obtain Number Resources
+Pursuant to Section 52.15(g) of the Commission’s Rules
+Dear Ms. Dortch:
+Pursuant to Section 52.15(g)(3)(i) of the Commission’s Rules, ActionVox Inc. hereby
+submits its application requesting authorization to obtain numbering resources. For any
+questions regarding this application, please get in touch with Allan Noorda at (541) 280-2588.
+Respectfully Submitted,
+Allan Noorda
+President
+Email: allan.noorda@action-vox.com
+Phone: 541-280-2588
+
+Before the
+FEDERAL COMMUNICATIONS COMMISSION
+Washington, D.C. 20554
+In the Matter of )
+)
+ActionVox Inc. ) WC Docket No.
+)
+For Authorization to Obtain Numbering )
+Resources Pursuant to Section 52.15(g) of )
+the Commission’s Rules )
+APPLICATION OF ACTIONVOX, LLC
+FOR AUTHORIZATION TO OBTAIN NUMBERING RESOURCES
+ActionVox, Inc. (“ActionVox”), pursuant to Section 52.15(g)(3)(i) of the
+Commission’s Rules, respectfully requests authorization to obtain numbering resources as
+described below.
+1
+As set forth in the Commission’s Numbering Order , an interconnected VoIP
+provider may obtain numbering resources from the Numbering Administrator upon a
+showing that it is authorized to provide service in the area for which the numbering
+resources are requested. Such authorization may be obtained upon an application to
+the Commission containing the information detailed in Sections 52.15(g)(3)(i)(A)-(G) of the
+Commission’s Rules. ActionVox hereby requests the Commission grant it that
+authorization. In support of this application, ActionVox provides the following
+information:
+
+I. INFORMATION REQUIRED BY SECTION 52.15(g)(3)(i)
+(A) § 52.15(g)(3)(i)(A)
+Name: ActionVox Inc.
+Address: 304 S. Jones Rd. Suite 3708 Las Vegas, NV 89107
+Telephone: (541)280-2588
+Personnel qualified to address regulatory/compliance/911/law
+enforcement issues:
+Allan Noorda, President
+304 S. Jones Rd. Suite 3708 Las Vegas, NV 89107
+Phone: (541) 280-2588
+Email: operations@action-vox.com
+(B) § 52.15(g)(3)(i)(B)
+ActionVox hereby acknowledges that authorization to obtain numbering resources
+under Section 52.15(g) of the Commission’s Rules is subject to: compliance with applicable
+Commission numbering rules; numbering authority delegated to the states; and industry
+guidelines and practices regarding numbering as applicable to telecommunications carriers.
+(C) § 52.15(g)(3)(i)(C)
+ActionVox hereby acknowledges that it must file requests for numbers with the
+relevant state commission(s) at least 30 days before requesting numbers from the Numbering
+Administrators.
+(D) § 52.15(g)(3)(i)(D)
+ActionVox hereby provides its capability to provide service within 60 days of the
+numbering resources activation date. ActionVox has entered into an agreement with
+Peerless
+
+Network. Under this agreement, Peerless Network will provide ActionVox with services
+which will allow ActionVox to use Peerless Network’s interconnection trunks to exchange
+traffic with the Public Switched Network and other local exchange carriers. Furthermore,
+Peerless Network provisioned a trunk group for ActionVox. As proof of readiness, ActionVox
+provides: (1) Exhibit A – a Facilities Readiness confirmation document showing that
+ActionVox has established and activated a trunk group with Peerless Network, and (2)
+Exhibit B – relevant pages from an interconnection agreement between Peerless
+Network and an incumbent local exchange carrier.
+(E) § 52.15(g)(3)(i)(E)
+ActionVox hereby certifies that it will comply with applicable: Universal Service Fund
+Contribution obligations under 47 CFR part 54, subpart H; Telecommunications Relay Service
+contribution obligations under 47 CFR § 64.604(c)(5)(iii); North American Numbering Plan and
+Local Number Portability Administration contribution obligations under 47 CFR §§ 52.17,
+52.32; regulatory fee obligations under 47 CFR § 1.1154; and 911 obligations under 47
+CFR part 9.
+(F) § 52.15(g)(3)(i)(F)
+ActionVox hereby certifies that it has the financial, managerial, and technical
+expertise to provide reliable service. It is financially stable, is led by a strong,
+experienced team of individuals with substantial managerial experience in the
+telecommunications industry, and has sufficient technical expertise and infrastructure in
+place to provide reliable services. The ActionVox Key Personnel listed below have
+decades of experience in the telecommunications industry and have designed, built
+
+and maintained many telecommunications services.
+ActionVox’s key management and technical personnel are listed below. None of personnel
+listed below are being (or have been) investigated by the Federal Communications
+Commission or any law enforcement or regulatory agency for failure to comply with any law,
+rule or order.
+Key Personnel:
+Allan Noorda
+CEO & CTO
+Allan Noorda has 25 years of leadership experience in the telecommunications
+industry. Prior to founding ActionVox, Allan was Chief Executive Officer of Fractel
+LLC, and CTO of V-Tell/GloTell. Under his leadership, the company grew and
+expanded its resources before he departed to found ActionVox.
+Allan has gone on to assist multiple companies with their IPES deployment and
+best effort management practices.
+Joshua Keim
+CFO
+Joshua Keim has over 30 years of experience in finance and accounting, and
+extensive practical experience transforming companies. Joshua has driven results
+by advising CEOs, senior executives, and lenders. His continued organizational
+skills have proven to be essential for ActionVox’s current growth trends.
+(G) § 52.15(g)(3)(i)(G)
+ActionVox hereby certifies that no party to this application is subject to a denial of
+Federal benefits pursuant to Section 5301 of the Anti-Drug Abuse Act of 1988, 21
+U.S.C. § 862.
+II. ACKNOWLEDGEMENT OF CONDITIONS IN SECTION 52.15(g)(3)(iv)
+As required by Section 52.15(g)(3)(iv), ActionVox will maintain the accuracy of all
+contact information and certifications in this application; comply with applicable Commission
+
+numbering rules and industry guidelines; file requests for numbers with relevant state
+commission(s) at least thirty days before requesting numbers from the Number Administrators;
+and provide accurate regulatory and numbering contact information to each state commission
+when requesting numbers in that state.
+III. CONCLUSION
+Pursuant to Section 52.15(g)(3)(i) of the Commissions’ Rules, ActionVox respectfully
+requests the Commission grant this application for authorization to obtain
+numbering resources.
+Respectfully Submitted,
+Allan Noorda
+President
+Contracts ActionVox Inc.
+304 S. Jones Rd. Suite 3708
+Las Vegas, NV 89107
+Telephone: (541) 280-2588
+Email: operation@action-vox.com
+
+Date: June 13, 2025
+LIST OF EXHIBITS
+Exhibit A: Facilities Readiness Confirmation
+Exhibit B: Interconnection Agreement
+Exhibit C: State(s) in which ActionVox may request telephone number resources for initial
+roll-out
+
+EXHIBIT A
+To whom it may concern:
+This notification is provided to validate that the following trunk group(s) have been completed,
+activated, and are in-service for ActionVox Inc.
+Peerless Network Customer: ActionVox Inc.
+Date of Activation: 6/13/2025
+
+LD Term Standard TKG
+#1
+Peerless Signaling IP 208.79.52.137
+129.80.157.200; 172.236.103.249;
+Cust IP
+140.80.11.56
+PNTG Name 112319_SIP_ACTIONVOX
+Order Ref 35783
+Codec(s) G.711U, G.711a, G.729B, T.38
+LD Term Standard TKG
+#2
+Peerless Signaling IP 208.93.44.235
+129.80.157.200; 172.236.103.249;
+Cust IP
+140.80.11.56
+PNTG Name 112320_SIP_ACTIONVOX
+Order Ref 35784
+Codec(s) G.711U, G.711a, G.729B, T.38
+Access Homing Tandem TKG #1
+Peerless Signaling IP 208.79.52.137
+129.80.157.200; 172.236.103.249;
+Cust IP
+140.80.11.56
+PNTG Name 112319_SIP_ACTIONVOX
+Order Ref 35783
+Codec(s) G.711U, G.711a, G.729B, T.38
+Access Homing Tandem TKG #2
+Peerless Signaling IP 208.93.44.235
+129.80.157.200; 172.236.103.249;
+Cust IP
+140.80.11.56
+PNTG Name 112320_SIP_ACTIONVOX
+Order Ref 35784
+Codec(s) G.711U, G.711a, G.729B, T.38
+
+EXHIBIT B
+Peerless service agreements and CLEC Interconnect agreements are attached for review.
+
+EXHIBIT C
+EXHIBIT C
+ActionVox, Inc. (“ActionVox”) anticipates requesting telephone number resources in several states during its
+initial roll-out, including Washington, Oregon, California, Arizona, Colorado, Texas, Michigan, Illinois and New
+York.
+As ActionVox expands, it will request numbers in additional states.
+ActionVox will file 30-day notices with the state public utility commissions before requesting numbers from the
+numbering administrator.

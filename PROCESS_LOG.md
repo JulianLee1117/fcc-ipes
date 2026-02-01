@@ -86,3 +86,40 @@ The actual company name often appears in `proceeding_types`. Kept as-is — AI e
 ### Result
 
 **200 unique IPES companies** from 896 filtered filings. 166 clearly corporate, 34 individual filers.
+
+---
+
+## 2026-02-01 02:02 — Phase 4: Document Downloads
+
+### FCC Server Quirks
+
+The FCC ECFS document server is finicky. Standard requests fail. Required settings:
+
+| Setting | Value | Why |
+|---------|-------|-----|
+| HTTP/1.1 | `http2=False` | HTTP/2 causes connection drops |
+| TLS 1.2 | `--tlsv1.2` | Required for FCC servers |
+| User-Agent | `PostmanRuntime/7.47.1` | Server rejects generic agents |
+| Cookie | `lmao=1` | Bypasses some validation |
+
+### URL Transform
+
+API returns viewer URLs:
+```
+/ecfs/document/{id}/{seq}  (singular)
+```
+Download requires:
+```
+/ecfs/documents/{id}/{seq} (plural)
+```
+
+### Result
+
+| Metric | Value |
+|--------|-------|
+| Documents downloaded | **512** |
+| Success rate | 100% |
+| Total size | 620.3 MB |
+| File types | 492 PDF, 18 DOCX, 2 DOC |
+
+Filename format: `{filing_id}_{original_filename}`

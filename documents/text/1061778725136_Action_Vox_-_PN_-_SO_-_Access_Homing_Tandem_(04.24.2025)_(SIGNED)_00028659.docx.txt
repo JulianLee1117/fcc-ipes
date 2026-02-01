@@ -1,0 +1,120 @@
+Docusign Envelope ID: 778F8EDD-BBBA-4957-8E09-89C33762EEC6
+Service Order - Access Homing Tandem
+This Service Order – Access Homing Tandem, dated April 24, 2025, is subject to and made a part of the Master Service
+Agreement Number ACVX180831-3002018 between Action Vox Inc. (“Customer”) and Peerless Network, Inc. (“Peerless”)
+collectively referred to as the “Parties”. This Service Order and the Master Service Agreement governs the sale and
+purchase of the Services described below. This Service Order Initial Term is one (1) year from the Service Commencement
+Date and renews for one (1) month periods unless either Party cancels the Service Order or MSA.
+Section 1. Service Description. Parties agree that Customer may name Peerless in the Local Exchange Routing Guide
+(“LERG”) as Customer’s switched access homing tandem (H-TRM D TDM) for Customers’ end office switches. As a result,
+Customer and Peerless will directly interconnect their respective networks as provided herein in order to exchange
+switched access traffic that is sent from an interexchange carrier (“IXC”) to Peerless and then to Customer (“Inbound Access
+Traffic”) for termination. In the event Customer chooses to route additional traffic types, Customer agrees to enter into the
+appropriate Service Orders.
+Section 2. Designation of Peerless as Customer’s Access Tandem. As of the Effective Date of this Service Order
+Customer may, at its own cost, program and update its switches and network systems to recognize and route IXC Traffic
+received from one or more Peerless tandem(s) as mutually agreed to by the Parties.
+2.1 Customer will be responsible to designate the Peerless tandem(s) in the LERG as its Access Tandem(s) for
+the Customer Switch(es) as mutually agreed to by the parties.
+2.2 Peerless will perform the Access Tandem and related functions, including delivery of IXC Traffic destined
+to the Customer Subscribers served by the Customer Switch(es) homed to such Tandem.
+2.3 Customer will perform the functions necessary to receive the IXC Traffic delivered via a Peerless Tandem
+and terminate the IXC Traffic to the Customer Subscribers served by the Customer Switch(es) homed to such Tandem.
+Section 3. Direct Interconnection. The Parties will interconnect their networks at mutually agreed POIs by means
+of Direct Interconnection Facilities. Where technically feasible and as mutually agreed, the Parties may establish industry
+standard Session Initiation Protocol (SIP) trunks over Direct Interconnection Facilities. Unless otherwise mutually agreed,
+Peerless will establish and pay for all Direct Interconnection Facilities to establish connectivity between Peerless’s network
+and the POI(s) established on Customer’s network. Peerless will deliver IXC Traffic to the applicable POI via the Direct
+Interconnection Facilities.
+3.1 To optimize direct interconnection under this Agreement, the Parties agree to designate network
+planning points of contact that will meet within thirty (30) days after the last Party to this Agreement has executed it.
+Section 4. Forecast and Commitment. As part of the implementation process, Customer will provide Peerless with
+a forecast detailing the amount of inbound access traffic it expects the parties to exchange (by switch and IXC) as a result
+of this Service Order within thirty (30) days after the Effective Date of this Service Order; and no less than once in each six
+month period thereafter, the other Party shall provide a confidential rolling, six (6) calendar months good faith forecast of
+the expected volume of IXC traffic at the other Party’s request.
+In agreed upon LATAs, Customer will provision and maintain an LRN to Peerless in the LERG as Customer’s designated
+access homing tandem for a minimum of twelve (12) months after the completion of this designation (i.e., all IXC’s treat
+Peerless’ tandem switch as the access homing tandem for Customer’s end-office switch). Peerless will assist in
+troubleshooting if issues arrive after LRN is provisioned in the LERG. Customer maintains more than one LRN and cannot
+commit to the mix of traffic and volume that will be carried on an LRN.
+Section 5. Fees for IXC Traffic. Parties will compensate each other for IXC Traffic as follows:
+5.1 Customer will pay Peerless applicable fees as set forth in the corresponding Service Orders.
+5.2 Peerless will provide AHT compensation in the form of a Termination Fee. The Termination Fee applies,
+on a per minute of use (“MOU”) basis to all IXC Traffic delivered by Peerless pursuant to this Agreement. Peerless will
+measure all IXC Traffic MOUs delivered to Customer and generate and deliver to Customer a monthly statement detailing
+the IXC Traffic volume recorded by Peerless at each Peerless Tandem and total Termination Fee amounts due to Customer
+SERVICE ORDER – PSTN CONTROL CONFIDENTIAL Page 1 of 3
+CONFIDENTIAL
+
+Docusign Envelope ID: 778F8EDD-BBBA-4957-8E09-89C33762EEC6
+for the month based on a percentage of Peerless’ collected tandem tariffed revenue. Peerless will aggregate the IXC Traffic
+volume by state and total Termination Fee amounts due to Customer for the following Termination Fee statement and
+Peerless will provide a cash payment for accrued monthly Termination Fee credits within sixty (60) calendar days after the
+end of the monthly usage period.
+The Termination Fee applies to all IXC Traffic delivered by Peerless to a Customer switch that is homed to a Peerless Access
+Tandem in the LERG or advertised on the Peerless Access Routing Member List that is facilitated through PSTN Control
+services.
+5.3 Either Party reserves the right, following the initial term and upon thirty days’ notice to discontinue the
+Termination Fee Statement and credit mechanism described in Section 5.2 and to commence billing Peerless directly for
+the Termination Fee amounts due Customer from Peerless. Customer will render monthly statements to Peerless for
+Termination Fee amounts due based upon Customer’s measurement of the Peerless Traffic delivered to Customer in the
+prior month, and Peerless will pay such undisputed Termination Fee amounts within thirty (30) days of the Customer
+statement date. Peerless may withhold payment of an invoiced amount if Peerless disputes the amount in good faith and
+provides full documentation of such dispute to Customer in writing within sixty (60) days of billing invoice date. Customer
+shall not interrupt, delay, suspend, or terminate the provision of services to Peerless during the resolution of any dispute.
+Upon resolution of the matter, if Peerless should be issued a credit for an improperly billed amount, Customer will apply
+the credit to the immediately following invoice; if Peerless is required to pay a disputed amount, Peerless will pay the
+amount in the following month.
+5.4 This Service Order shall not restrict, and Customer reserves all rights to bill a third party for IXC Traffic
+delivered by Peerless to Customer pursuant to this Service Order.
+Section 6. Other Terms.
+6.1 “Access Tandem” means a Peerless Tandem to which one or more Customer switch(es) is designated in
+the LERG to receive IXC Traffic that is destined for Customer subscribers served by such Customer switch(es).
+6.2 “Direct Interconnection Facilities” means dedicated transport facilities that are established to connect,
+and over which IXC Traffic is delivered by Peerless to Customer to the Point of Interconnection. Such facilities include, but
+are not limited to, the establishment of a mutually acceptable separate IXC-Traffic-specific trunk over existing facilities.
+6.3 For IXC traffic delivered by Peerless to Customer, Peerless will pass unaltered from the receiving carrier
+the signaling information Peerless receives (e.g., originating Calling Party Number (CPN), Destination Called Party Number
+(DCPN) and Originating Line Information Parameter (OLIP), calling party category, charge number, IXC identifiers, etc.) to
+enable each Party to track IXC Traffic and issue its credits/bills, as applicable, in a complete and timely fashion. All privacy
+indicators and signaling functions will be honored. The Parties will cooperate, coordinate and exchange data (to the extent
+such data is reasonably available) to (a) determine the cause of any missing information failures and (b) ensure all
+appropriate information is provided to Customer by Peerless. Peerless will not knowingly strip or alter call records to
+disguise the jurisdiction of a call or permit third parties to do so for IXC Traffic that it delivers to Customer.
+6.4 Non-Exclusivity of Service. Customer and Peerless acknowledge and agree that Customer has no
+obligation to designate any Peerless Tandem for all or any portion of the IXC Traffic Customer expects to terminate from
+Third Parties. Notwithstanding the foregoing, Customer will accept IXC Traffic delivered by Peerless pursuant to the
+arrangements implemented in accordance with this Service Order.
+6.5 Access Stimulation Certification. In accordance with C.F.R. § 51.914, as of November 27, 2019 a LEC
+engaged in access stimulation (as defined in C.F.R. § 61.3(bbb)) must: (1) designate in the Local Exchange Routing Guide
+(LERG) or by contract the route through which an interexchange carrier can reach that LEC’s end office (or equivalent) and
+bear financial responsibility for all interstate and intrastate terminating tandem switching and transport charges (whether
+terminated directly or indirectly); (2) a LEC engaged in access stimulation must not bill interexchange carriers for terminating
+tandem switching and transport charges for traffic between that LEC’s end office (or equivalent) and the associated access
+tandem switch; and (3) notify the FCC, all intermediate access providers it subtends, and interexchange carriers with which
+they do business in writing: (i) that the LEC is engaged in access stimulation and (ii) designate the intermediate access
+providers that will provide the terminating switched access tandem switching and transport to that LEC and that the LEC
+SERVICE ORDER – PSTN CONTROL CONFIDENTIAL Page 2 of 3
+CONFIDENTIAL
+
+Docusign Envelope ID: 778F8EDD-BBBA-4957-8E09-89C33762EEC6
+will pay for those services. Further, an intermediate access provider that receives notice that it has been designated to
+provide terminating tandem switching and transport to a LEC engaged in access stimulation must not bill the interexchange
+carrier for those services and instead bill that LEC.
+As of the Effective Date of this Service Order, Customer states that is X is not an access stimulator as
+defined by C.F.R. § 61.3 (bbb). Customers submitting access stimulation notices to the FCC shall provide notice to Peerless
+simultaneously via email at: regulatory@peerlessnetwork.com with copy to contracts@peerlessnetwork.com. Further, if
+Customer is deemed to be an access stimulator or Peerless compensates an IXC for traffic associated with Customer credits,
+Customer shall reimburse Peerless on the subsequent invoice or within fifteen (15) days, whichever is sooner. Customer
+shall not be entitled to withhold reimbursement if Peerless demonstrates that it compensated the IXC. Failure to notify or
+reimburse Peerless as described above may result in immediate service suspension, including the suspension of any credits.
+IN WITNESS WHEROF, the Parties hereto have caused this Service Order – Access Homing Tandem to be executed
+as of the day and year first above written.
+Customer: Action Vox Inc. Peerless Network, Inc. and its Affiliates
+Master Services Agreement (MSA): ACVX180831-3002018
+Signature: Signature:
+Name: Allan Noorda Name: Mijo Soldin
+Title: President Title: VP Telecom Strategy and Partherships
+Date: 24 April 2025 Date: 24 April 2025
+CONFIDENTIAL

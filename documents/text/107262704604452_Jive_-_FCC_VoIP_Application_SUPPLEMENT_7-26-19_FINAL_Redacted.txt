@@ -1,0 +1,156 @@
+July 26, 2019
+VIA FIRST CLASS MAIL
+Marlene H. Dortch REQUEST FOR
+Secretary CONFIDENTIAL TREATMENT
+Federal Communications Commission
+445 12th Street, SW
+Washington, DC 20554
+Re: Jive Communications, Inc. Supplement to Application for Authorization to Obtain
+Numbering Resources & Request for Confidential Treatment
+WC Docket No. 19-154
+Dear Ms. Dortch:
+Jive Communications, Inc. (“Jive”) hereby encloses for filing a Supplement to its previously-
+filed Application to Obtain Numbering Resources (“Application”) and corresponding
+Confidential Exhibit 2, an interconnection agreement between Jive and its carrier partner (“Jive
+Interconnection Agreement”). The Jive Interconnection Agreement consists of the original
+Master Services Agreement between the carrier partner and Jive’s predecessor-affiliate, a First
+Amendment, and an Assignment and Assumption Agreement by which Jive’s affiliate assumed
+the Amended Master Services Agreement on behalf of Jive and others. The Supplement and Jive
+Interconnection Agreement are sent to you for filing pursuant to Section 52.15(g)(3)(i) of the
+Commission’s Rules.
+Jive respectfully requests that, pursuant to Sections 0.457 and 0.459 of the Commission’s rules,
+47 C.F.R. §§ 0.457 and 0.459, the Commission withhold from public inspection and accord
+confidential treatment to the Jive Interconnection Agreement. This document contains trade
+secrets and commercial, technical and financial information that fall within Exemption 4 of the
+Freedom of Information Act (“FOIA”).1
+Exemption 4 of FOIA provides that the public disclosure requirement of the statute “does not
+apply to matters that are . . . (4) trade secrets and commercial or financial information obtained
+from a person and privileged or confidential.”2 Jive is voluntarily providing this trade secret and
+commercial and financial information “of a kind that would not customarily be released to the
+public”; therefore, this information is “confidential” under Exemption 4 of FOIA.3 Moreover,
+Jive would suffer substantial competitive harm if the Jive Interconnection Agreement were
+1 5 U.S.C. § 552(b)(4).
+2 Id.
+3 See Critical Mass Energy Project v. NRC, 975 F.2d 871, 879 (D.C. Cir. 1992).
+
+disclosed.4 Jive treats the Jive Interconnection Agreement as private and provides it with the
+understanding that the Bureau will treat it as private.5
+In support of this request and pursuant to Section 0.459(b) of the Commission’s rules,6 Jive
+hereby states as follows:
+1. IDENTIFICATION OF THE SPECIFIC INFORMATION FOR WHICH CONFIDENTIAL
+TREATMENT IS SOUGHT7
+Jive seeks confidential treatment of Confidential Exhibit 2, an interconnection agreement
+between Jive’s affiliate (on behalf of Jive) and its carrier partner (“Jive Interconnection
+Agreement”).
+2. DESCRIPTION OF CIRCUMSTANCES GIVING RISE TO THE SUBMISSION8
+The Jive Interconnection Agreement is being submitted to the Commission in conformity
+with the referenced docket number.
+3. EXPLANATION OF THE DEGREE TO WHICH THE INFORMATION IS COMMERCIAL OR
+FINANCIAL, OR CONTAINS A TRADE SECRET OR IS PRIVILEGED9
+The information for which Jive seeks confidential treatment contains sensitive
+commercial, financial, and technical information “which would customarily be guarded from
+competitors.”10 The Jive Interconnection Agreement contains trade secrets and technical
+information relating to the manner in which Jive and its carrier partner conduct network
+operations.
+4. EXPLANATION OF THE DEGREE TO WHICH THE INFORMATION CONCERNS A SERVICE
+THAT IS SUBJECT TO COMPETITION11
+The Jive Interconnection Agreement contains detailed information relating to operational
+matters that could be used by competitors to the disadvantage of Jive. Disclosure of Jive’s
+confidential information would cause substantial competitive harm.
+5. EXPLANATION OF HOW DISCLOSURE OF THE INFORMATION COULD RESULT IN
+SUBSTANTIAL COMPETITIVE HARM12
+Competitors could use the information in the Jive Interconnection Agreement to Jive’s
+detriment.
+4 See National Parks and Conservation Ass’n v. Morton, 498 F.2d 765 (D.C. Cir. 1974).
+5 See Food Marketing Inst. v. Argus Leader Media, 588 U.S. __, 2019 WL 2570624, at *7 (2019).
+6 47 C.F.R. § 0.459(b).
+7 47 C.F.R. § 0.459(b)(1).
+8 47 C.F.R. § 0.459(b)(2).
+9 47 C.F.R. § 0.459(b)(3).
+10 47 C.F.R. § 0.457.
+11 47 C.F.R. § 0.459(b)(4).
+12 47 C.F.R. § 0.459(b)(5).
+
+6. IDENTIFICATION OF ANY MEASURES TAKEN BY THE SUBMITTING PARTY TO PREVENT
+UNAUTHORIZED DISCLOSURE13
+Jive has made the substance of the Jive Interconnection Agreement known only to those
+employees who have a need to know the subject matter, and those employees are aware of the
+confidential and sensitive nature of the information. The Jive Interconnection Agreement has not
+been disclosed by Jive to any non-signatories outside Jive except pursuant to appropriate
+confidentiality agreements.
+7. IDENTIFICATION OF WHETHER THE INFORMATION IS AVAILABLE TO THE PUBLIC AND
+THE EXTENT OF ANY PREVIOUS DISCLOSURE OF THE INFORMATION TO THIRD
+PARTIES14
+Jive has not previously disclosed the Jive Interconnection Agreement to the public.
+8. JUSTIFICATION OF THE PERIOD DURING WHICH THE SUBMITTING PARTY ASSERTS
+THAT MATERIAL SHOULD NOT BE AVAILABLE FOR PUBLIC DISCLOSURE15
+Jive requests that the Jive Interconnection Agreement be treated as confidential for a
+period of ten years. This period is necessary due to the sensitive nature of the information in the
+Jive Interconnection Agreement.
+9. OTHER INFORMATION THAT JIVE BELIEVES MAY BE USEFUL IN ASSESSING WHETHER
+ITS REQUEST FOR CONFIDENTIALITY SHOULD BE GRANTED16
+The disclosure of the name of Jive’s carrier partner could be used to the competitive
+detriment of Jive.
+Respectfully submitted,
+________________________________
+Brita D. Strandberg
+HARRIS, WILTSHIRE & GRANNIS LLP
+1919 M Street N.W.
+Eighth Floor
+Washington, D.C. 20036
+Tel.: (202) 730-1316
+Fax: (202) 730-1301
+Counsel to Jive Communications, Inc.
+13 47 C.F.R. § 0.459(b)(6).
+14 47 C.F.R. § 0.459(b)(7).
+15 47 C.F.R. § 0.459(b)(8).
+16 47 C.F.R. § 0.459(b)(9).
+
+Before the
+FEDERAL COMMUNICATIONS COMMISSION
+Washington, D.C. 20554
+In the Matter of )
+)
+Jive Communications, Inc., Applicant ) WC Docket No. 19-154
+)
+For Authorization to Obtain Numbering )
+Resources Pursuant to Section 52.15(g) of )
+the Commission’s Rules )
+SUPPLEMENT TO THE APPLICATION OF JIVE COMMUNICATIONS, INC.
+FOR AUTHORIZATION TO OBTAIN NUMBERING RESOURCES
+On May 23, 2019, Jive Communications, Inc. (“Jive”), pursuant to Section 52.15(g)(3)(i)
+of the Commission’s Rules, respectfully requested authorization to obtain numbering resources as
+an interconnected VoIP provider.
+In response to Jive’s application, the Wireline Competition Bureau requested additional
+information to demonstrate proof of facilities readiness under Direct Access Order (FCC 15-70)
+paragraph 37. In support of this application, Jive provides the following information:
+I. INFORMATION REQUIRED BY SECTION 52.15(g)(3)(i)
+d) § 52.15(g)(3)(i)(D)
+As stated in its initial application, Jive has agreements in place with a carrier partner who
+in turn has interconnection agreements with local exchange carriers. Attached to Jive’s application
+as Confidential Exhibit 1 was an interconnection agreement between Jive’s carrier partner and a
+local exchange carrier. Jive now attaches to this supplement an interconnection agreement
+between Jive and its carrier partner as further proof of its facilities readiness.1 This document is
+1 The attached interconnection agreement, as amended and assigned, is between Jive’s carrier partner and the
+affiliates of GetGo Audio, LLC. Both Jive and GetGo Audio, LLC are owned by the same parent company,
+LogMeIn USA, Inc. Accordingly, the attached agreement governs Jive’s interconnection with this carrier partner.
+
+attached as Confidential Exhibit 2 and is submitted pursuant to Jive’s concurrently-filed request
+for confidential treatment.
+II. CONCLUSION
+Jive respectfully submits this additional information.
+Respectfully submitted,
+________________________________
+Brita D. Strandberg
+HARRIS, WILTSHIRE & GRANNIS LLP
+1919 M Street N.W.
+Eighth Floor
+Washington, D.C. 20036
+Tel.: (202) 730-1300
+Fax: (202) 730-1301
+Counsel to Jive Communications, Inc.
+
+Confidential Exhibit 2
+
+Entire Exhibit Subject to Request for
+Confidential Treatment

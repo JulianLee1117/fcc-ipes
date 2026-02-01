@@ -1,0 +1,87 @@
+INTERCONNECTION AGREEMENT
+TERMS AND CONDITIONS FOR INTERCONNECTION,
+UNBUNDLED NETWORK ELEMENTS, ANCILLARY SERVICES,
+AND RESALE OF TELECOMMUNICATIONS SERVICES
+BETWEEN
+Qwest Corporation
+and
+Peerless Network of Arizona, LLC
+For the State of Arizona
+Agreement Number
+CDS-090513-0001
+
+Section 1
+General Terms
+Section 1.0 - GENERAL TERMS
+1.1 This Agreement for Interconnection, Unbundled Network Elements, ancillary services,
+and resale of Telecommunications Services is between Peerless Network of Arizona, LLC, a
+Colorado Corporation with offices at 225 West Washingon Street, Suite 1285, Chicago, IL
+60606 and Qwest Corporation (Qwest), a Colorado Corporation with offices at 1801 California
+Street, Denver, Colorado 80202, pursuant to Section 252(f) of the Telecommunications Act of
+1996, for purposes of fulfilling Qwest's obligations under Sections 222, 251(a), (b), and (c), 252,
+and other relevant provisions of the Act and the rules and regulations promulgated there under.
+1.2 Intentionally Left Blank.
+1.3 This Agreement sets forth the terms, conditions and pricing under which Qwest
+will provide to CLEC network Interconnection, access to Unbundled Network Elements, ancillary
+services, and Telecommunications Services available for resale within the geographical areas in
+which Qwest is providing local Exchange Service at that time, and for which Qwest is the
+incumbent Local Exchange Carrier within the state of Arizona, for purposes of providing local
+Telecommunications Services.
+1.4 Intentionally Left Blank.
+1.5 Intentionally Left Blank.
+1.6 Intentionally Left Blank.
+1.7 Intentionally Left Blank
+1.8 With respect to the terms and provisions of this Agreement, Qwest has
+negotiated the Agreement in its entirety, and the inclusion of any particular provision, or rate,
+term and condition, is not evidence of the reasonableness thereof when considered apart from
+all other provisions of the Agreement.
+May 13, 2009/mcd/Peerless Network/AZ/CDS-090513-0001
+Qwest Negotiations Template, December 29, 2008
+1
+
+Section 5
+Terms and Conditions
+5.1.3.4 It is the responsibility of either Party to inform its End User Customers of
+service impacting impairment that may result in discontinuance of service as soon as the
+Party receives notice of same.
+5.1.4 Each Party is solely responsible for the services it provides to its End User
+Customers and to other Telecommunications Carriers. This provision is not intended to limit the
+liability of either Party for its failure to perform under this Agreement.
+5.1.5 The Parties shall work cooperatively to minimize fraud associated with third-
+number billed calls, calling card calls, and any other services related to this Agreement.
+5.1.6 Nothing in this Agreement shall prevent either Party from seeking to recover the
+costs and expenses, if any, it may incur in (a) complying with and implementing its obligations
+under this Agreement, the Act, and the rules, regulations and orders of the FCC and the
+Commission, and (b) the development, modification, technical installation and maintenance of
+any systems or other infrastructure which it requires to comply with and to continue complying
+with its responsibilities and obligations under this Agreement. Notwithstanding the foregoing,
+Qwest shall not assess any charges against CLEC for services, facilities, Unbundled Network
+Elements, ancillary services and other related work or services covered by this Agreement,
+unless the charges are expressly provided for in this Agreement. All services and capabilities
+currently provided hereunder (including resold Telecommunications Services, Unbundled
+Network Elements, UNE Combinations and ancillary services) and all new and additional
+services or Unbundled Network Elements to be provided hereunder, shall be priced in
+accordance with all applicable provisions of the Act and the rules and orders of the Federal
+Communications Commission and orders of the Commission.
+5.2 Term of Agreement
+5.2.1 This Agreement shall become effective on the date of Commission Approval.
+This Agreement shall be binding upon the Parties for a term of three (3) years and shall expire
+on September 20, 2012.
+5.2.2 Upon expiration of the term of this Agreement, this Agreement shall continue in
+full force and effect until superseded by a successor agreement in accordance with this Section
+5.2.2. Any Party may request negotiation of a successor agreement by written notice to the
+other Party no earlier than one hundred sixty (160) Days prior to the expiration of the term, or
+the Agreement shall renew on a month to month basis. The date of this notice will be the
+starting point for the negotiation window under Section 252 of the Act. This Agreement will
+terminate on the date a successor agreement is approved by the Commission. However,
+nothing relieves CLEC from fulfilling the obligations incurred under the prior Agreement.
+5.3 Proof of Authorization
+5.3.1 Each Party shall be responsible for obtaining and maintaining Proof of
+Authorization (POA) as required by applicable federal and state law, as amended from time to
+time.
+5.3.2 The Parties shall make POAs available to each other upon request in the event
+of an allegation of an unauthorized change in accordance with all Applicable Laws and rules
+and shall be subject to any penalties contained therein.
+May 13, 2009/mcd/Peerless Network/AZ/CDS-090513-0001
+Qwest Negotiations Template, December 29, 2008
+28

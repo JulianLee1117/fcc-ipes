@@ -1,0 +1,114 @@
+.
+...·
+151 Southhall Lane, Ste 450
+lnteserra Maitland, FL 32751
+P.O. Drawer 200
+IMnter Park, FL 32790.0200
+----- CONSUL Tl G GROUP www.inteserra.com
+July 15, 2021
+Via ECFS Filing
+REDACTED FOR PUBLIC INSPECTION
+Marlene H. Dortch
+Federal Communications Commission
+Office of the Secretary
+9050 Junction Drive
+Annapolis Junction, MD 20701
+RE: Request for Confidential Treatment of Filing of lntrado IP Communications, Inc.; Supplemental
+Information to Application of lntrado IP Communications, Inc. for Authorization to Obtain
+Numbering Resources Pursuant to Section 52.15(g) of the Commission's Rules, WC Docket No.
+21-179
+Dear Ms. Dortch:
+Pursuant to Section §52.15(g)(3)(i) of the Commission's Rules,llntrado IP Communications, Inc. ("lntrado
+IP") hereby submits supplemental information to its Application for Authorization to Obtain Numbering
+Resources originally filed in the above-mentioned docket number based upon correspondence with
+staff.
+lntrado IP respectfully requests that, pursuant to Sections §0.457 and §0.459 of the Commission's
+Rules/ the Commission withhold from public inspection and accord confidential treatment to the
+attached Exhibit A, which supplements the application, because this document contains sensitive trade
+secrets and commercial information that falls within Exemption 4 of the Freedom of Information Act
+("FOIA").3 Moreover, lntrado IP would suffer substantial competitive harm if this information were
+disclosed.
+Exhibit A is accordingly marked with the header "SUBJECT TO REQUEST FOR CONFIDENTIAL TREATMENT
+NOT FOR PUBLIC INSPECTION."
+47 C.F.R. § 52.15(g).
+47 C.F.R. § 0.457 & §0.459.
+See 5 U.S.C. § 552(b)(4). Public disclosure is not required for "trade secrets and commercial or financial
+information obtained from a person and privileged or confidential."
+
+July 15, 2021
+Page 2 of 4
+In support of this request and pursuant to Section 0.459(b) of the Commission's rules, Intra do IP
+hereby states as follows:
+1. IDENTIFICATION OF THE SPECIFIC INFORMATION FOR WHICH CONFIDENTIAL TREATMENT IS
+SOUGHT.
+lntrado IP seeks confidential treatment of Exhibit A to its Application.
+2. DESCRIPTION OF CIRCUMSTANCES GIVING RISE TO THE SUBMISSION.
+lntrado IP is submitting as Exhibit A the agreement between it and its carrier partner, as proof of
+lntrado IP' s facilities readiness as required by Section 52. 1S(g)(3)(i)(D) of the Commission's
+rules.
+3. EXPLANATION OF THE DEGREE TO WHICH THE INFORMATION IS COMMERCIAL OR FINANCIAL,
+OR CONTAINS A TRADE SECRET OR IS PRIVILEGED.
+The information for which lntrado IP seeks confidential treatment contains sensitive commercial
+information "which would customarily be guarded from competitors". Exhibit A describes the
+agreement between lntrado IP and its carrier partner and contains proprietary commercial
+information concerning lntrado IP's network, customers, and services.
+4. EXPLANATION OF THE DEGREE TO WHICH THE INFORMATION CONCERNS A SERVICE THAT IS
+SUBJECT TO COMPETITION.
+Exhibit A contains information relating to commercial matters that could be used by competitors
+to lntrado IP's disadvantage. lntrado IP has numerous competitors in the Voice over Internet
+Protocol ("VoiP") services sector in which it operates. Detailed operations and commercial
+information of the type provided by lntrado IP could compromise lntrado IP's position in this
+highly competitive industry. Release would therefore result in substantial competitive harm to
+lntrado IP.
+
+July 15, 2021
+Page 3 of4
+5. EXPLANATION OF HOW DISCLOSURE OF THE INFORMATION COULD RESULT IN SUBSTANTIAL
+COMPETITIVE HARM
+Competitors could use lntrado IP's proprietary commercial and operational information to
+lntrado IP's detriment as they would gain access to sensitive information concerning lntrado IP's
+commercial agreements, as well as information as to how lntrado IP provides its services. The
+prices and terms for the provision of such services are a substantial differentiator between
+competing carriers. Therefore, disclosure of the Carrier Agreements would result in significant
+competitive harm to lntrado IP's carrier partner. This information is not normally disclosed to
+the public.
+6. IDENTIFICATION OF ANY MEASURES TAKEN BY THE SUBMITTING PARTY TO PREVENT
+UNAUTHORIZED DISCLOSURE.
+lntrado IP has not distributed the information in Exhibit A to the public; lntrado IP is prohibited
+by contract from publicly disclosing the Carrier Agreements, except as expressly authorized by
+the carrier partner.
+7. IDENTIFICATION OF WHETHER THE INFORMATION IS AVAILABLE TO THE PUBLIC AND THE
+EXTENT OF ANY PREVIOUS DISCLOSURE OF THE INFORMATION TO THIRD PARTIES.
+lntrado IP does not believe that the Carrier Agreement is available to the public or that the
+Carrier Agreement has ever been disclosed to third parties absent the protection of a non
+disclosure agreement regarding their contents.
+8. JUSTIFICATION OF THE PERIOD DURING WHICH THE SUBMITTING PARTY ASSERTS THAT
+MATERIAL SHOULD NOT BE AVAILABLE FOR PUBLIC DISCLOSURE.
+lntrado IP requests that Exhibit A be withheld from public disclosure indefinitely. lntrado IP and
+its carrier partner intend for the Carrier Agreement to remain in effect indefinitely and therefore
+any disclosure of the Carrier Agreement or their substance would cause competitive harm to
+Intra do IP's carrier partner regarding of the timing of the disclosure.
+
+July 15, 2021
+Page 4 of 4
+9. OTHER INFORMATION THAT INTRADO IP BELIEVES MAY BE USEFUL IN ASSESSING WHETHER
+ITS REQUEST FOR CONFIDENTIALITY SHOULD BE GRANTED.
+The information concerns lntrado IP's proprietary network information, related to current and
+planned commercial and operational information, and as such, is commercially sensitive.
+For the foregoing reasons, lntrado IP respectfully requests the Carrier Agreement be granted
+confidential status and withheld from public inspection.
+A copy of the Confidential version of this filing has been emailed to assigned FCC staff.
+Any questions you may have regarding this filing should be directed to my attention at 407-740-3031 or
+via email to Sthomas@inteserra.com. Thank you for your assistance in this matter.
+Sincerely,
+/s/Sharon Thomas
+Sharon Thomas
+Consultant
+cc: Sean Ward - lntrado IP
+tms: FCx2101a
+ST/mp
+
+Exhibit A
+AGREEMENTS BETWEEN INTRADO IP COMMUNICATIONS, INC.
+AND CARRIER PARTNER
+(Confidential exhibit submitted separately)

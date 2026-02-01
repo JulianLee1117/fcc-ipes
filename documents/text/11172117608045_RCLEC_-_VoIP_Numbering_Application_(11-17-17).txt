@@ -1,0 +1,311 @@
+November 17, 2017
+VIA ECFS
+Marlene Dortch
+Secretary REDACTED FOR
+Federal Communications Commission PUBLIC INSPECTION
+445 12th Street SW
+Washington, DC 20554
+Re: Request for Confidential Treatment of Filing of RCLEC, Inc.; RCLEC, Inc..,
+Applicant, For Authorization to Obtain Numbering Resources Pursuant to Section
+52.15(g) of the Commission’s Rules, WC Docket No. 17-___
+Dear Ms. Dortch:
+Pursuant to Section 52.15(g)(3)(i) of the Commission’s Rules, RCLEC, Inc. (“RCLEC”)
+hereby submits its application requesting authorization to obtain numbering resources.
+RCLEC respectfully requests that, pursuant to Sections 0.457 and 0.459 of the
+Commission’s rules, 47 C.F.R. §§ 0.457 and 0.459, the Commission withhold from public
+inspection and accord confidential treatment to Exhibits A, B, and C to the application because
+those documents contain sensitive trade secrets and commercial information that falls within
+Exemption 4 of the Freedom of Information Act (“FOIA”).1 RCLEC is voluntarily providing this
+information, “of a kind that would not customarily be released to the public”; therefore, this
+information is “confidential” under FOIA2 Moreover, RCLEC would suffer substantial
+competitive harm if this information were disclosed.3
+Exhibits A, B, and C are accordingly marked with the header “REDACTED FOR
+PUBLIC INSPECTION.”
+In support of this request and pursuant to Section 0.459(b) of the Commission’s rules,4
+RCLEC hereby states as follows:
+1 5 U.S.C. § 552(b)(4).
+2 See Critical Mass Energy Project v. NRC, 975 F.2d 871, 879 (D.C. Cir. 1992).
+3 See National Parks and Conservation Ass’n v. Morton, 498 F.2d 765 (D.C. Cir. 1974).
+4 47 C.F.R. § 0.459(b).
+
+Ms. Marlene H. Dortch
+November 17, 2017
+Page 2 of 4
+1. IDENTIFICATION OF THE SPECIFIC INFORMATION FOR WHICH CONFIDENTIAL
+TREATMENT IS SOUGHT 5
+RCLEC seeks confidential treatment of Exhibits A, B, and C to the enclosed application.
+2. DESCRIPTION OF CIRCUMSTANCES GIVING RISE TO THE SUBMISSION 6
+RCLEC is submitting, as Exhibit A, the agreement between itself and its carrier partner,
+and as Exhibit B, an interconnection agreement between its carrier partner and a local exchange
+carrier in one of the states in which RCLEC expects to request numbers, which together provide
+proof of RCLEC’s facilities readiness as required by Section 52.15(g)(3)(i)(D) of the
+Commission’s rules. RCLEC is submitting, as Exhibit C, a list of those states in which RCLEC
+expects to seek numbers under the authorization requested.
+3. EXPLANATION OF THE DEGREE TO WHICH THE INFORMATION IS COMMERCIAL OR
+FINANCIAL, OR CONTAINS A TRADE SECRET OR IS PRIVILEGED 7
+The information for which RCLEC seeks confidential treatment contains sensitive
+commercial information “which would customarily be guarded from competitors.”8 Exhibit A
+consists of a confidential commercial agreement between RCLEC and its carrier partner and
+contains proprietary commercial information concerning RCLEC’s network, customers, and
+services. Exhibit B discloses the identity of RCLEC’s carrier partner as well as one of the states
+in which RCLEC expects to seek numbers; Exhibit C consists of a list of states in which RCLEC
+expects to seek numbers under the authorization requested. Both Exhibits B and C reflect
+competitively sensitive, confidential commercial information about RCLEC’s commercial and
+deployment planning.
+4. EXPLANATION OF THE DEGREE TO WHICH THE INFORMATION CONCERNS A SERVICE
+THAT IS SUBJECT TO COMPETITION 9
+Exhibits A, B, and C contain information relating to commercial matters that could be
+used by competitors to RCLEC’s disadvantage. The Voice over Internet Protocol (“VoIP”)
+services sector is highly competitive. Detailed operations and commercial information of the
+type provided by RCLEC could compromise RCLEC’s position in this highly competitive
+industry. Release would therefore result in substantial competitive harm to RCLEC.
+5 47 C.F.R. § 0.459(b)(1).
+6 47 C.F.R. § 0.459(b)(2).
+7 47 C.F.R. § 0.459(b)(3).
+8 47 C.F.R. § 0.457(d)(2).
+9 47 C.F.R. § 0.459(b)(4).
+
+Ms. Marlene H. Dortch
+November 17, 2017
+Page 3 of 4
+5. EXPLANATION OF HOW DISCLOSURE OF THE INFORMATION COULD RESULT IN
+SUBSTANTIAL COMPETITIVE HARM 10
+Competitors could use RCLEC’s proprietary commercial and operational information to
+RCLEC’s detriment as they would gain access to sensitive information about how RCLEC
+provides services, about RCLEC’s commercial agreements with others in the market that are not
+normally disclosed to the public, and about RCLEC’s commercial and deployment plans.
+6. IDENTIFICATION OF ANY MEASURES TAKEN BY THE SUBMITTING PARTY TO PREVENT
+UNAUTHORIZED DISCLOSURE 11
+RCLEC has not distributed the information in Exhibits A, B, or C to the public.
+7. IDENTIFICATION OF WHETHER THE INFORMATION IS AVAILABLE TO THE PUBLIC AND
+THE EXTENT OF ANY PREVIOUS DISCLOSURE OF THE INFORMATION TO THIRD
+PARTIES 12
+RCLEC has not previously disclosed the information in Exhibits A, B, or C.
+8. JUSTIFICATION OF THE PERIOD DURING WHICH THE SUBMITTING PARTY ASSERTS
+THAT MATERIAL SHOULD NOT BE AVAILABLE FOR PUBLIC DISCLOSURE 13
+RCLEC requests that Exhibits A, B, and C be treated as confidential for a period of ten
+years. This period is necessary due to the proprietary nature of the information in the enclosed
+proposal.
+9. OTHER INFORMATION THAT RCLEC BELIEVES MAY BE USEFUL IN ASSESSING
+WHETHER ITS REQUEST FOR CONFIDENTIALITY SHOULD BE GRANTED 14
+The information concerns RCLEC’s proprietary network information, related to current
+and planned commercial and operational information, and as such, is commercially sensitive.
+10 47 C.F.R. § 0.459(b)(5).
+11 47 C.F.R. § 0.459(b)(6).
+12 47 C.F.R. § 0.459(b)(7).
+13 47 C.F.R. § 0.459(b)(8).
+14 47 C.F.R. § 0.459(b)(9).
+
+Ms. Marlene H. Dortch
+November 17, 2017
+Page 4 of 4
+Should you have any questions regarding the foregoing information, please contact the
+undersigned at (202) 730-1338.
+Respectfully submitted,
+Kristine Laudadio Devine
+Counsel to RCLEC, Inc.
+cc: Jean Anne Collins
+
+Before the
+FEDERAL COMMUNICATIONS COMMISSION
+Washington, D.C. 20554
+In the Matter of )
+)
+RCLEC, Inc., Applicant ) WC Docket No. 17-_________________
+)
+For Authorization to Obtain Numbering )
+Resources Pursuant to Section 52.15(g) of )
+the Commission’s Rules )
+APPLICATION OF RCLEC, INC.
+FOR AUTHORIZATION TO OBTAIN NUMBERING RESOURCES
+RCLEC, Inc. (“RCLEC”) files this application with the Federal Communications
+Commission ( the “Commission”) for authorization to acquire telephone numbers directly from
+the North American Numbering Plan Administrator and the Pooling Administrator (the
+“Numbering Administrators”) pursuant to Section 52.15(g)(3) of the Commission’s Rules.1
+As set forth in the Commission’s Numbering Order,2 an interconnected VoIP provider may
+obtain numbering resources from the Numbering Administrator upon showing that it is authorized
+to provide service in the area for which the numbering resources are requested. Such authorization
+may be obtained upon an application to the Commission containing the information in Sections
+52.15(g)(3)(i)(A)-(F) of the Commission’s Rules. RCLEC hereby requests the Commission grant
+it the authorization.
+RCLEC provides the following information in support of its application:
+1 47 C.F.R. § 52.15(g)(3).
+2 Numbering Policies for Modern Communications, 30 FCC Rcd. 6839 (2015).
+
+I. INFORMATION REQUIRED BY SECTION 52.15(g)(3)(i)
+a) §52.15(g)(3)(i)(A)
+Name: RCLEC, Inc.
+Address: 20 Davis Drive, Belmont, CA 94002
+Telephone: (415) 964-4933
+Qualified Personnel: Rachel Petty, Assistant General Counsel
+Email: rachel.petty@ringcentral.com
+b) §52.15(g)(3)(i)(B)
+RCLEC hereby acknowledges that authorization to obtain numbering resources under
+Section 52.15(g) of the Commission’s Rules is subject to compliance with applicable Commission
+numbering rules as well as to the numbering authority delegated to the states. RCLEC also
+acknowledges that this authorization is subject to compliance with industry guidelines and
+practices regarding numbering, as applicable to telecommunications carriers.
+c) §52.15(g)(3)(i)(C)
+RCLEC hereby acknowledges that it must file requests for numbers with the relevant state
+commission(s) at least 30 days before requesting numbers from the Numbering Administrators.
+d) §52.15(g)(3)(i)(D)
+RCLEC hereby sets forth its capability to provide service within 60 days of the numbering
+activation date. RCLEC is engaged in the provision of telecommunications services, which
+includes interconnected VoIP, and currently interconnects with the PSTN in 32 states through
+interconnection agreements with AT&T, CenturyLink, Frontier and Verizon. In those states where
+RCLEC does not have interconnection agreements, RCLEC has agreements in place with carrier
+partners who in turn have interconnection agreements in effect with the relevant local exchange
+carriers. RCLEC has been in operation as a CLEC for 4 years and, as a result, has internal
+operations in place to support number requests and routing as supported by its AOCN. RCLEC
+
+has a full staff for porting. RCLEC submits, as Exhibit A to this application a copy of a commercial
+agreement between it and its carrier partner, as Exhibit B an interconnection agreement between
+that carrier partner and a local exchange carrier, and as Exhibit C the states in its initial
+implementation plan. RCLEC has requested confidential treatment for each exhibit.
+e) §52.15(g)(3)(i)(E)
+RCLEC certifies that it complies with its Universal Service Fund contribution obligations
+under 47 CFR part 54, subpart H; its Telecommunications Relay Service contribution obligations
+under 47 CFR § 64.604(c)(5)(iii); its North American Numbering Plan and Local Number
+Portability Administration contribution obligations under 47 CFR §§ 52.17 and 52.32; its
+obligations to pay regulatory fees under 47 CFR § 1.1154; and its 911 obligations under 47 CFR
+part 9.
+f) §52.15(g)(3)(i)(F)
+RCLEC has successfully operated as a licensed facilities-based carrier California since
+January 2014; it also operates as a licensed facilities-based carrier in 32 other states and the District
+of Columbia. RCLEC certifies that it possesses the financial, managerial, and technical expertise
+to provide reliable service. Attached hereto as Exhibit D are the names and titles of RCLEC’s key
+management and technical personnel. RCLEC states that none of the identified personnel are
+being or have been investigated by the Commission or any law enforcement or regulatory agency
+for failure to comply with any law, rule or order.
+g) §52.15(g)(3)(i)(G)
+RCLEC hereby certifies that no party to this application is subject to a denial of Federal
+benefits pursuant to Section 5301 of the Anti-Drug Abuse Act of 1988, 21 U.S.C. § 862.
+
+II. ACKNOWLEDGEMENT OF CONDITIONS IN SECTION 52.15(g)(3)(iv)
+As required by Section 52.15(g)(3)(iv), RCLEC will maintain the accuracy of all contact
+information and certifications in the application, and will file a correction with the Commission
+and each applicable state within 30 days of any changes. RCLEC will also furnish accurate
+regulatory and numbering contact information to each state commission when requesting numbers
+in that state.
+III. CONCLUSION
+Pursuant to Section 52.15(g)(3)(i) of the Commissions’ Rules, RCLEC respectfully
+requests the Commission grant this application for authorization to obtain numbering resources.
+Respectfully Submitted,
+Kristine Laudadio Devine
+HARRIS, WILTSHIRE & GRANNIS LLP
+1919 M Street NW, Eighth Floor
+Washington, DC 20036
+(202) 730-1300
+Counsel to RCLEC, Inc.
+
+[REDACTED FOR PUBLIC INSPECTION]
+EXHIBIT A
+AGREEMENT BETWEEN RCLEC, INC. AND ITS CARRIER PARTNER
+
+[REDACTED FOR PUBLIC INSPECTION]
+EXHIBIT B
+INTERCONNECTION AGREEMENT BETWEEN RCLEC, INC.’S CARRIER
+PARTNER AND A LOCAL EXCHANGE CARRIER
+
+[REDACTED FOR PUBLIC INSPECTION]
+EXHIBIT C
+RCLEC, INC.’S INITIAL IMPLEMENTATION PLAN
+
+EXHIBIT D
+KEY MANAGEMENT AND TECHNICAL PERSONNEL
+
+John(cid:3)Marlow, (cid:51)(cid:85)(cid:72)(cid:86)(cid:76)(cid:71)(cid:72)(cid:81)(cid:87)(cid:3)(cid:68)(cid:81)(cid:71)(cid:3)Chief Executive Officer of RCLEC,(cid:3)Inc.
+Mr. Marlow serves as (cid:51)(cid:85)(cid:72)(cid:86)(cid:76)(cid:71)(cid:72)(cid:81)(cid:87)(cid:3)(cid:68)(cid:81)(cid:71)(cid:3)Chief Executive Officer of RCLEC, Inc. Mr. Marlow also
+oversees business and legal affairs at RingCentral, RCLEC’s parent company. For the last six(cid:3)
+years, Mr. Marlow has worked as RingCentral's General Counsel and Senior Vice President of
+Corporate Development.
+Before joining RingCentral, Mr. Marlow was the founding and managing partner of
+Entrepreneurs Law Group (ELG), a boutique law firm based in San Francisco specializing in
+corporate, securities, tax, intellectual property, venture capital, mergers and acquisitions and
+licensing matters. During his five years at ELG, Mr. Marlow represented companies in a broad
+range of industries, including software, hardware, information technology, and
+telecommunications.
+Before founding ELG, Marlow was a partner in the San Francisco office of Reed Smith, a full-
+service international law firm. Prior to that, Mr. Marlow was a partner at Crosby, Heafey,
+Roach & May, LLP, a law firm that was acquired by Reed Smith.
+Mr. Marlow received his law degree from University of California Berkeley School of Law
+(Boalt Hall) in 1994, and a Bachelor’s degree, summa cum laude, from Colgate University.
+
+Mitesh Dhruv, Chief Financial(cid:3)Officer(cid:3)of(cid:3)RCLEC,(cid:3)Inc.
+Mr. Dhruv serves as Chief Executive Officer of RCLEC, Inc. Mr. Dhruv also serves in this capacity
+for RingCentral, RCLEC’s parent company. He is closely involved in driving business strategy,
+corporate finance, partnerships, and growth opportunities. He joined RingCentral in 2012 and is
+responsible for RingCentral’s global finance functions, including financial planning, controllership,
+tax, treasury, and investor relations.
+Dhruv began his career at PricewaterhouseCoopers and has more than 15 years of experience in
+accounting and finance. Before joining RingCentral, he worked at Bank of America-Merrill Lynch
+as an equity analyst, covering software and cloud companies, and worked on several multi-billion-
+dollar IPOs.
+Dhruv is a Chartered Accountant as well as a CFA Charterholder, and has an undergraduate degree
+in accounting from the University of Mumbai, India.
+
+Bruce Johnson, Secretary of RCLEC, Inc.
+Mr. Johnson serves as Secretary of RCLEC, Inc. Mr. Johnson also serves as Vice President,
+Legal, of RCLEC’s parent company, RingCentral, Inc.
+Mr. Johnson has over 25 years’ experience as an attorney, and has served as in–house legal
+counsel to telecommunications-related companies for 14 years. Mr. Johnson served as Associate
+General Counsel of Atheros Communications, Inc., a provider of wireless and wired connectivity
+semiconductors and systems, where he handled and effectively managed every aspect of Atheros
+becoming and remaining a publically traded company in good legal standing. He served as Senior
+Director and Legal Counsel for Qualcomm Atheros, Inc. following the acquisition of Atheros by
+Qualcomm Incorporated. Prior to that, Mr. Johnson served as General Counsel to Vyyo, Inc., and
+prior to that, Mr. Johnson was an Associate and Partner at Bay Venture Counsel, LLP, a law firm,
+andan Associate atBrobeck, Phleger & Harrison, a law firm.
+Mr. Johnson holds a Juris Doctorate degree from University of California at Los Angeles, School
+of Law. Mr. Johnson received his Bachelor of Arts degree in Economics and English from Duke
+University.
+
+Jeff Slater, (cid:54)(cid:72)(cid:81)(cid:76)(cid:82)(cid:85)(cid:3)Director of Voice Gateways of RCLEC, Inc.
+Mr. Slater serves as the Senior Director of Voice Gateways at RCLEC, Inc.
+Mr. Slater has 30 years managerial experience in the telecommunications industry. Mr. Slater’s
+experience includes executive management, business plan development, product and service
+development, engineering, network implementation, operations management, back office
+integration, vendor and facility contract negotiations, regulatory and compliance processes,
+and development of new sales channels both domestically and internationally.
+Mr. Slater has served as theChiefOperating Officer of Covista Communications, providing
+traditional longdistance,UNE-based local serviceand next generation SIP trunkingand hosted
+PBXproducts to residential and business customers throughout theUS. Prior to that, he was
+President of Broadvox, a CLEC providingnext-generation local service usingand providing IP
+originated and terminated calls.
+As Vice President of Business Development at CIMCO, Mr. Slater was responsible for planning
+thenext generation of products, services and network topologies forthecompany. Mr. Slater
+was responsible for managing the IP-based SMB business initiative, building network strategies
+to overcome UNE regulatory issues, mapping CoEu, wireless and fiber network strategies, and
+auditing all internal process to secure retroactive and prospective cost savings.
+As the President ofCedar Valley Communications, Mr. Slater succeeded indeveloping and
+implementinga reorganization plan, attainingpositivecash flow, and attracting equity
+investmentsresultingin the sale of theCompany.
+Mr. Slater has also held executive positions as Founder and President ofJTek Systems, Chief
+Operating Officer of TotalTel, a Covista Communications Company, VicePresident of
+Operations ofCharter Network, and Director of Lexicom.
+Mr. Slater receivedhis degree in Business from DePaul University.
+
+Curtis Lee Peterson
+Mr. Peterson serves (cid:53)(cid:38)(cid:47)(cid:40)(cid:38)(cid:3)in a consulting(cid:3)capacity(cid:3)to contribute(cid:3)his(cid:3)technological(cid:3)and(cid:3)(cid:3)(cid:3)(cid:3)
+managerialknowledge(cid:3)to RCLEC,Inc.
+Mr. Peterson has established his ability to rapidly growbusinesses when he helped NuVox grow
+from a$550,000 business to $550M in ten years. Mr. Peterson also has strongskills in VOIP, IP
+Networking, and Information Technology. His information technology experience includes
+softwaredesign and design management, hardware and network design, security,
+implementation and deployment, virtualization/cloudservices management of rapid application
+development, and multi-department project management. His network operations experience
+includesVOIP, TDM, wireless, aggregation, content deliverynetworks, data centers, high
+availabilityapplications, network design and operation, and SAAS.
+Mr. Peterson developed his technical and managerial skills in his long careerat NuVox
+(previouslyNewSouth Communications, Inc.). As VicePresident ofCenter Operations of
+NuVox, he managed 120 technical professionals, improving thecustomerbaseand reliabilityof
+theVoIP network. Mr. Peterson oversaw theoperationsof29 Class 5 switches, 40 Central
+OfficeSites, 500+ collocations, 4 Customer (SAS-70 II certified) data centers, 24 Softswitch
+gateways, 16 state MPLS / IP network with over 550 routers, and the VOIP platform.
+Mr. Peterson worked in diverse managerial positions throughout his career at NuVox, including
+Director of Data Product Development/Senior Manager of DataProducts, Director ofCustomer
+Marketing, and Director of IT. Prior to that, Mr. Peterson was Directorof IP Operations at
+Talk.com (formerlyOmnicall), and District TechnologyCoordinatory for amulti-campusschool
+district.
+Mr. Peterson holds adegree in Computer Engineeringfrom Auburn University in Auburn,
+Alabama.

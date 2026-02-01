@@ -1,0 +1,105 @@
+Exhibit B
+Key Managerial and Technical Personnel
+2
+
+CEO/Head of Engineering
+Simon Woodhead’s early career was in finance as a fund manager, within what became
+Deutsche Bank and Barclays Wealth. Simon had discretion to manage over 40m+ of funds
+before age 21, becoming the youngest qualified member of the Securities Institute. Simwood
+(https://simwood.com) was founded in 1996 (as 'eSMS': the world's first global gateway
+between the Internet and Mobile Phones), and Simon left finance in 1999 to focus on it and a
+number of other start-ups, eventually exiting all of them except Simwood by 2005. As CEO
+and architect, he shaped the current business of Simwood to be the wholesale voice and
+mobile operator it is today. In 2016 he was elected a Director of the London Internet
+Exchange (http://www.linx.net), the world's largest member-owned peering exchange
+operator. LINX operates peering exchanges across the UK and in North Virginia USA. In
+that role he speaks widely at industry events, often around the company's extensive research
+on voice fraud and infrastructure.)
+COO
+Mr. Hadden has more than twenty-five years of experience in the design, development, and
+marketing of telecommunications, VoIP, wide-area networking and storage management
+products.
+As Chief Operating Officer “COO” of Simwood Inc., Mr Hadden is responsible for day to
+day operations. Currently Mr. Hadden is involved in achieving IPES status and a 214 in
+addition to the current CLEC status Simwood currently holds.
+Prior to Simwood Mr. Hadden was responsible for the merger and acquisition of the
+independent CLECs. He was responsible for the strategic CLEC portions of the individual
+holdings, including TNE Telephone, Inc., focusing on key contractual agreements with Tier 1
+carriers such as AT&T, Verizon, Centurylink, and Level 3.
+Prior to starting TNE Telephone, Inc., he served as Chairman of the Board and CEO for a
+Georgia-based CLEC, Kinloch Telephone, Inc.; Anderson Telephone, Inc., a South Carolina
+CLEC; and Carrboro Telephone, Inc., a North Carolina CLEC. Mr. Hadden also cofounded
+Vault Telephone, Inc., which is a wholesale telecom solutions provider offering VoIP, SS7,
+SMS/800, and LNP.
+Around the time of the millennium, Mr. Hadden served as the Chief Network Officer for
+Universal Access, Inc., which went public in 2000 with stock symbol “UAXS”. During this
+period, Universal Access built out 12 carrier colocation sites and completed CLEC status in 6
+States. Hadden was responsible for all carrier interconnections, colocation, network
+operations, network monitoring and 24 x 7 Network Operations Centers (NOCs).
+Prior to employment with Universal Access, Inc., Mr. Hadden was President of Vaultline,
+Inc. in California. Vaultline was one of the first unregulated carriers to operate an OC48
+SONET ring around the entire San Francisco Bay Area with what was Pacific Bell at that
+time.
+
+Mr. Hadden also cofounded Synergistic Networking Solutions, Inc. in 1993, a software
+developing company providing OEMs with innovative storage management software capable
+of modular data storage from the desktop environment.
+As manager of Intel’s application-specific servers and network products in the early ‘90s, Mr.
+Hadden was responsible for assessing market needs and employing strategic product
+development.
+While with Tecmar, Inc., a data storage and communications product manufacturer, he
+developed a series of products including the entire line of ProLine tape backup systems, and
+ProServe software, traveling across Europe, and running the “train the trainer” programs to
+develop key distributors of Tecmar in Europe.
+Recognized as an expert in network disaster prevention and recovery, Mr. Hadden worked
+with NASA at its headquarters in Cocoa Beach, Florida, on networking facilities prior to the
+testbed for Pre Launch Shuttle sequencing.
+Mr. Hadden also served as Technical Editor for Patrick H. Corrigan’s Backing Up NetWare
+LANs (M&T Books) and has had articles published in LAN Times, LAN Technology,
+NetWare Technical Journal, Computer Technology Review and Computing Canada.
+Additionally, he has spoken publicly at trade events such as Interop, NetWorld, Networks
+Expo and PC Expo.
+Chairman
+Grahame Davies has 30+ year’s experience in the telecoms and technology sector, Grahame
+has built up several large organizations with tremendous success, Grahame took Demon
+internet from 5 to 80 staff in three years, Grahame was Managing Director of Easynet 1992-
+95 growing the business to revenues of £70M+ and 350 staff, Grahame has gone on to work
+with many businesses in the telecoms space adding structure with many achievements and
+accolades.
+In his spare time Grahame enjoys running, tennis and running a sheet music business.
+Head Of Porting / Head Of Customer Service
+Rachel Dowling is a Senior Manager at Simwood. She joined the team in 2011 as first line
+support and has progressed through the company to become Head of Porting and a point of
+escalation for the Operations Desk. Rachel was involved in setting up Simwood’s first
+porting agreements in 2013 and now focuses on number exports and Non-geographic
+portability. In addition to this Rachel is responsible for processing and paying supplier
+invoices and company Payroll.
+In her spare time Rachel enjoys spending time with her young family on their smallholding in
+rural Wales.
+
+Head Of Networks
+Alex Richards is a Senior Network Engineer who joined the network team at Simwood in
+2017. Having previously overseen the running of the core and access network for another UK
+ITSP and ISP, Alex oversees the day to day running of Simwood's UK and global network.
+Alex enjoys cheesy B-movies and 50s Sci-Fi, and working on his home automation project in
+his spare time.
+Head of Support
+Ross McKillop is Associate Director - A Linux sysadmin / VoIP engineer professionally
+working with Simwood as their Head of support. He joined in 2013. Ross has worked for
+several Telecoms companies over the past decade, Ross has been involved in building and
+testing various networks and platforms for large voice companies. Ross has completed
+several in depth expansion projects of the Simwood network to increase our capacity, Ross
+also manages the deployment of new numbers and the deployment of our website. Ross can
+code many languages and understands the TDM voice world as well as IP.
+In his spare time Ross enjoys theatre, family and his dog Roxy
+Head of Sales/Marketing and Operations
+Frazer Barnett is Head of Sales and Marketing, he has worked in telecoms for 17+ years
+starting his career at Virgin Mobile learning his trade as Customer service, moving into
+technical support. He then entered the Sales arena moving to a VoIP provider in the South
+West of England, rising from cold calling Sales to Sales management leading a team of 15
+over a period of 7 years, taking the company from £5M turnover to £7M in a couple of years.
+Having joined Simwood 2+ years, Frazer has continued growing the company’s turnover in
+similar fashion whilst mentoring and scaling the Operations desk as the company grows from
+5 to 15+ employees.
+In his spare time he enjoys practicing close-up magic and spending time with his son and
+wife to be.

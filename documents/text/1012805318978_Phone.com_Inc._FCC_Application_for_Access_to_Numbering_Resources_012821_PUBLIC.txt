@@ -1,0 +1,226 @@
+Before the
+Public Version –
+FEDERAL COMMUNICATIONS COMMISSION
+Confidential
+Washington, D.C. 20554
+Information Excluded
+In the Matter of Phone.com, Inc. )
+) WC Docket No. 21-_____
+Application For Authorization to Obtain Numbering )
+Resources Pursuant to Section 52.15(g) of )
+The Commission’s Rules )
+APPLICATION OF PHONE.COM, INC.
+FOR AUTHORIZATION TO OBTAIN NUMBERING RESOURCES
+By this Application, Phone.com, Inc. (“Phone.com” or “Company”), an interconnected
+Voice over Internet Protocol (“VoIP”) provider, seeks to obtain direct access to numbering
+resources from the North American Numbering Plan Administrator and the Pooling Administrator
+(“Numbering Administrators”) pursuant to Section 52.15(g)(3)(i) of the Commission’s Rules.1
+Phone.com provides the following information in support of this Application:
+I. INFORMATION REQUIRED BY 47 C.F.R. § 52.15(g)(3)(i)
+A. § 52.15(g)(3)(i)(A)
+Phone.com, Inc.
+184 So. Livingston Ave. Suite # 9-222
+Livingston , NJ 07039
+Telephone: (877) 746-6310
+Facsimile: (973) 577-6384
+Website: www.phone.com
+Contact for Regulatory Requirements, Compliance, 911 and Law Enforcement:
+Michael Robinson
+VP Finance and Controller
+Phone.com, Inc.
+184 So. Livingston Ave. Suite # 9-222
+Livingston , NJ 07039
+Telephone: (877) 746-6310
+Facsimile: (973) 577-6384
+E-Mail: mrobinson@phone.com
+1 47 C.F.R. § 52.15(g)(3).
+
+B. § 52.15(g)(3)(i)(B)
+Phone.com hereby acknowledges that authorization to obtain numbering resources under
+Section 52.15(g) of the Commission’s Rules is subject to compliance with applicable Commission
+numbering rules, as well as to the numbering authority delegated to the states. The Company
+hereby also acknowledges that this authorization is subject to compliance with industry guidelines
+and practices regarding numbering, as applicable to telecommunications carriers. The numbering
+resources that are the subject of this Application will be used to provide interconnected VoIP
+services initially in California, and ultimately nationwide. Accordingly, to the extent required,
+Phone.com requests the Commission grant it authority to obtain numbering resources in all states.
+C. § 52.15(g)(3)(i)(C)
+Phone.com acknowledges that it must file requests for numbers with the relevant state
+commission(s) at least 30 days before requesting numbers from the Numbering Administrators.
+D. § 52.15(g)(3)(i)(D)
+Phone.com hereby sets forth its capability to provide service within 60 days of the
+numbering resources activation date. Phone.com has agreements in place with nationally
+recognized carrier partners that have interconnection agreements in effect with all relevant
+incumbent local exchange carriers in order to route traffic. Copies of its agreements are attached
+as Exhibit A to this Application. Phone.com respectfully requests that these agreements be
+accorded confidential treatment pursuant to Section 0.459 of the Commission’s Rules.2 As Exhibit
+B, Phone.com provides evidence of current interconnection agreements between its carrier partners
+2 47 C.F.R. § 0.459. These agreements contain trade secret information that is not publicly
+available, the disclosure of which would cause competitive and economic harm to Phone.com.
+
+and incumbent local exchange carriers (“ILECs”).
+In addition, the Company has a back-office support system with the ability to schedule and
+process Local Number Portability (“LNP”) orders from customers, and has staff experienced in
+handling LNP between itself and other carriers and interconnected VoIP providers.
+E. § 52.15(g)(3)(i)(E)
+Phone.com hereby certifies that it will comply with its Universal Service Fund contribution
+obligations under 47 C.F.R. part 54, subpart H, its Telecommunications Relay Service contribution
+obligations under 47 C.F.R. § 64.604(c)(5)(iii), its North American Numbering Plan and Local
+Number Portability Administration contribution obligations under 47 C.F.R. §§ 52.17 and 52.32,
+its obligations to pay regulatory fees under 47 C.F.R. § 1.1154, and its 911 obligations under 47
+C.F.R. part 9.3
+F. § 52.15(g)(3)(i)(F)
+Phone.com certifies that it has the financial, managerial, and technical expertise to provide
+reliable service. It is financially stable, led by a strong, management team with substantial
+experience in the telecommunications industry, and has sufficient technical expertise and
+infrastructure in place to provide reliable service.
+Phone.com’s key management and technical personnel, along with their respective
+experience, are identified in Exhibit C. None of the identified personnel are being, or have been,
+investigated by the Commission or any law enforcement or regulatory agency for failure to comply
+with any law, rule, or order. Phone.com’s shareholder information is provided at Exhibit D.
+G. § 52.15(g)(3)(i)(G)
+Phone.com hereby certifies that no party to this Application is subject to a denial of Federal
+3 Phone.com’s 499 Filer ID is 827009.
+
+benefits pursuant to Section 5301 of the Anti-Drug Abuse Act of 1988, 21 U.S.C. § 862.
+II. ACKNOWLEDGEMENT OF CONDITIONS IN 47 C.F.R. § 52.15(g)(3)(iv)
+As required by Section 52.15(g)(3)(iv), Phone.com will maintain the accuracy of all
+contact information and certifications in this Application, and will file a correction with the
+Commission and each applicable state within 30 days of any changes.4 Phone.com will also
+furnish accurate regulatory and numbering contact information to each state commission when
+requesting numbers in that state.
+III. CONCLUSION
+Pursuant to Section 52.15(g)(3)(i) of the Commission’s Rules, Phone.com, Inc.
+respectfully requests that the Commission grant this Application for authorization to obtain
+numbering resources.
+Respectfully submitted,
+PHONE.COM, INC.
+By:
+Katherine E. Barker Marshall
+Potomac Law Group, PLLC
+1300 Pennsylvania Ave NW, Suite 700
+Washington, DC 20004
+Telephone: (202) 792-6422
+E-mail: kmarshall@potomaclaw.com
+Date: January 28, 2021
+4 47 C.F.R. § 52.15(g)(3)(iv).
+
+Exhibit A
+Agreement with Underlying CLEC
+Confidential and Proprietary – Filed Under Seal
+Pursuant to 47 C.F.R. § 0.459
+
+Exhibit B
+Interconnection Agreements
+Confidential and Proprietary – Filed Under Seal
+Pursuant to 47 C.F.R. § 0.459
+
+Exhibit C
+Managerial Information
+Phone.com’s key management and technical personnel are listed below. None of the
+identified personnel are being or have been investigated by the Commission or any law
+enforcement or regulatory agency for failure to comply with any law, rule, or order.
+Ari Rabban, Co-Founder and Chief Executive Officer
+Co-Founder and CEO Ari Rabban is an IP communications industry veteran, with specific
+expertise in the start-up environment, moving companies from concept to operation. He joins
+Phone.com from Pulver Ventures, an incubator for new IT companies, where he served as
+managing director and vice president. Previously, Rabban served as vice president of corporate
+development and marketing for VocalTec Communications, the VoIP market pioneer and
+developer of the first Internet phone. During his tenure at VocalTec he served as president of two
+subsidiaries that were ultimately spun out: Surf and Call Solutions, one of the initial voice-
+enhanced ecommerce solutions companies, and Truly Global Inc., a web based communications
+service. Rabban joined VocalTec from Lucent Technologies. Frequently cited as a VoIP market
+expert, Rabban has been involved with the Internet telephony industry from its very early days;
+he has been widely quoted in trade publications and has been interviewed for media outlets
+around the world. Rabban is also a member of the board of directors of the NJTC. Rabban
+received an MBA from Carnegie-Mellon University; he also has a law degree and bachelors in
+economics from Tel Aviv University. He practiced corporate law in Tel Aviv, Israel prior to his
+arrival in the US. Preferred Return | Valuation of Phone.com, Inc.
+Alon Cohen, Executive Vice President and Chief Technology Officer
+Executive VP and CTO Alon Cohen is an entrepreneur, inventor and is widely recognized as one
+of the creators of the Voice over IP industry. He joins Phone.com after founding and managing a
+successful series of recent business ventures, including BitWine and RemoteAbility. Cohen was
+the co-founder of VocalTec Communications, the first company to provide Internet voice
+technology worldwide, which in 1996 was one of the earliest successful Internet IPOs. As an
+innovator Alon Cohen holds 4 US patents on different communications technologies, including
+the “Audio Transceiver” which is the basis for Voice over the Internet (VoIP) technology. The
+recipient of many awards and accolades for his innovative work including the “VoIP Visionary
+Award” (2005) from Pulvermedia. Cohen represented the State of Israel in the United Nations
+negotiations of the ITU Study Group 16 for the development and ratification of global VoIP
+standards. Alon was also named, by “The Marker”, the leading Israeli Business Newspaper, as
+one of the “100 Most Influential Israelis” in Israel’s High Technology history in September
+2005. Cohen received an MBA and BSC.EE from Tel Aviv University, both Magna Cum Laude.
+
+Michael Robinson VP Finance and Controller
+Michael has worked every facet of finance across the telecom industry over the years. Previously
+he held Controller positions in banking and also worked internationally as an auditor with
+KPMG and PricewaterhouseCoopers. Michael is a CPA with a BA in Accounting from the
+University of Birmingham, UK.
+Joel Maloff VP Channel Development
+In his role with Phone.com Joel leads all channel and business development, Joel has been a
+frequent speaker at industry conferences on topics such as SIP trunking – Ready for Prime Time,
+Enhancing Quality of Experience via Network Planning, and IP Peer-to–Peer Networking. Joel
+has previously served as Senior Vice President of Sales and Marketing at BandTel, Senior Vice
+President of Corporate Strategies at GlobalTouch Telecom, and CTO at Fusion Telecom. Prior to
+joining Fusion, He was Principal Consultant for Maloff Group International and consulted for
+corporations in North America, South America, Asia, Europe, and Australia.
+Brent Barbara SVP Business Development
+Brent Barbara is the SVP of Business Development at Phone.com. With over three decades of
+experience in growth strategy and execution, Brent is responsible for driving growth with our
+fast-growing customer base across all regions. His role also allows him to craft unique editorial
+pieces, moderate conference panels, and leverage Phone.com's large footprint to foster greater
+brand-building and revenue-gaining opportunities. He holds a BA Economics from the
+University of Rochester.
+Ian Honcharuk VP Software Engineering
+Ian Honcharuk is the Director of Software Engineering at Phone.com, where he oversees and the
+development teams and the development of all of Phone.com’s products. Ian brings more than
+two decades of experience in the tech industry as a founder, engineering, and business leader. He
+holds a BS in Computer Science from Stevens Institute of Technology.
+Martin Viau VP New Products and Technology
+Martin combines experience as a product innovator and software engineer who has worked with
+start-ups selling SaaS solutions and products primarily to SMB customers here in the US. Martin
+worked with SMB focused Shopkeep.com and ran their innovation lab where he created the API
+gateway, managed 3 acquisitions, as well as created a cloud-based functional delivery model. He
+is familiar with working in a high-availability, high-volume 24/7 environment- having worked
+for 14 years owning products in Finance (trading), and aviation, plus as an entrepreneur, having
+founded and raised VC funding for his own start-up ($1.5MM successfully raised).
+
+Exhibit D
+Ownership Information
+The following shareholders can assert a 10% or more fully diluted ownership interest in
+Phone.com:
+Washington Technology Associates
+c/o Michael Mann
+102 NE 2nd Street, #217
+Boca Raton, FL 33432
+Percentage of Ownership: 28.6%
+Principal Business: Investment Vehicle, wholly owned by Michael Mann,
+a US Citizen
+Citizenship: USA
+TierraNet Inc.
+P.O. Box 502010
+San Diego, CA 92150-2010
+Percentage of Ownership: 21.9%
+Principal Business: Internet Services
+Citizenship: USA
+ff Venture Capital (through several different funds)
+989 6th Ave, Floor 3
+New York, NY 10018
+Percentage of Ownership: 18.9%
+Principal Business: Investment Fund
+Citizenship: USA
+No other entity can assert a 10% or more interest in Phone.com, Inc.
+
+DECLARATION
+Ari Rabban, under penalty of perjury deposes and states as follows:
+1. My name is Ari Rabban. I am the Chief Executive Officer of Phone.com, Inc.
+(“Phone.com”).
+2. I have reviewed the information set forth in Phone.com’s Application to Obtain
+Numbering Resources to which this declaration is attached.
+3. The statements set forth in Phone.com’s Application are true and correct to the best
+of my knowledge, information, and belief.
+_________________________________
+Ari Rabban
+Chief Executive Officer
+Phone.com, Inc.
+Dated: January 27, 2021

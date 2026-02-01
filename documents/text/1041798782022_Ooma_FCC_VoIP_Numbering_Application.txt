@@ -1,0 +1,560 @@
+...
+" 151SouthhallLane.Ste450
+Maitland.FL32751
+Inteserra
+P.O.Drawer200
+IMnterPark,FL3279().0200
+www.inteserra.com
+April 17, 2020
+Via ECFS Filing
+REDACTED FOR PUBLICINSPECTION
+Secretary, Federal Communications Commission
+Washington, DC20554
+Attn: Wireline Competition Bureau
+RE: Request for Confidential Treatment of Filing of Ooma, Inc.; Application of Ooma, Inc. for
+Authorization to Obtain Numbering Resources Pursuant to Section 52.15(g) of the
+Commission'sRules, WCDocketNo. 20- _
+DearMs. Dortch:
+Pursuant to Section 52.15(g)(3)(i) of the Commission's Rules, Ooma, Inc. ("Ooma") hereby submits its
+application requesting authorizationtoobtain numbering resources.
+Ooma respectfully requests that, pursuant to Sections 0.457 and 0.459 of the Commission's rules, 47
+C.F.R. §§ 0.457 and 0.459, the Commission withhold from public inspection and accord confidential
+treatment to Exhibit A to the application because that document contains sensitive trade secrets and
+commercial information that falls within Exemption 4 of the Freedom of Information Act ("FOIA").l
+Ooma is voluntarily providing this information, "ofa kind that would notcustomarily be released to the
+public"; therefore, this information is "confidential" under FOIA2 • Moreover, Ooma would suffer
+substantial competitive harm ifthisinformation weredisclosed.3
+ExhibitAis accordingly marked with the header "SUBJECTTO REQUEST FOR CONFIDENTIALTREATMENT
+-NOTFOR PUBLIC INSPECTION."
+5U.S.c. § 552(b)(4).
+2 See CriticalMass EnergyProjectv. NRC, 975 F.2d 871, 879 (D.C.Cir. 1992).
+3 SeeNationalParks andConservationAss'nv. Morton, 498 F.2d 765 (D.C. Cir. 1974).
+
+April 17, 2020
+Page 2of4
+In support of this request and pursuant to Section 0.459(b) of the Commission's rules4 , Ooma
+herebystates asfollows:
+1. IDENTIFICATION OFTHESPECIFICINFORMATION FORWHICHCONFIDENTIALTREATMENTIS
+s
+SOUGHT.
+Ooma seeks confidential treatmentofExhibitAto the enclosed application.
+2. DESCRIPTION OFCIRCUMSTANCESGIVING RISETOTHESUBMISSION.6
+Ooma is submitting as Exhibit A the agreement between it and its carrier partner, as proof of
+Ooma'sfacilities readiness as required bySection 52. 15(g)(3)(i)(D)oftheCommission's rules.
+3. EXPLANATION OFTHE DEGREETO WHICH THE INFORMATION IS COMMERCIALOR FINANCIAL,
+OR CONTAINSATRADESECRETOR ISPRIVILEGED.7
+The information for which Ooma seeks confidential treatment contains sensitive commercial
+information "which would customarily be guarded from competitors"s. Exhibit A describes the
+agreement between Ooma and its carrier partner and contains proprietary commercial
+information concerning Ooma's network, customers, and services.
+4. EXPLANATION OF THE DEGREE TO WHICH THE INFORMATION CONCERNS A SERVICE THAT IS
+SUBJECTTOCOMPETITION.9
+ExhibitAcontains information relatingto commercial mattersthatcould be used bycompetitors
+to Ooma's disadvantage. Ooma has numerous competitors in the Voice over Internet Protocol
+("VoIP") services sector in which it operates. Detailed operations and commercial information of
+the type provided by Ooma could compromise Ooma's position in this highly competitive
+industry. Release would therefore result in substantial competitive harm to Ooma.
+4 47 C.F.R. § 0.459(b).
+5 47 C.F.R. § 0.459(b)(1).
+6 47 C.F.R. §0.459(b)(2).
+7 47 C.F.R. §0.459(b)(3).
+S 47 C.F.R. § 0.457(d)(2).
+9 47 C.F.R. § 0.459(b)(4).
+
+April 17,2020
+Page 3of4
+S. EXPLANATION OF HOW DISCLOSURE OF THE INFORMATION COULD RESULT IN SUBSTANTIAL
+COMPETITIVEHARM10
+Competitors could use Ooma's proprietary commercial and operational information to Ooma's
+detriment astheywould gain accessto sensitive information about howOoma providesservices
+as well as about Ooma's commercial agreements with others in the market that are not
+normallydisclosedtothe public.
+6. IDENTIFICATION OF ANY MEASURES TAKEN BY THE SUBMITIING PARTY TO PREVENT
+UNAUTHORIZEDDISCLOSURE.11
+Ooma has notdistributed the information in ExhibitAto the public.
+7. IDENTIFICATION OF WHETHER THE INFORMATION IS AVAILABLE TO THE PUBLIC AND THE
+EXTENTOFANY PREVIOUSDISCLOSUREOFTHE INFORMATIONTOTHIRD PARTIES.12
+Ooma has not previouslydisclosed the information in ExhibitA.
+8. JUSTIFICATION OF THE PERIOD DURING WHICH THE SUBMITIING PARTY ASSERTS THAT
+MATERIALSHOULDNOTBEAVAILABLE FOR PUBLICDISCLOSURE.13
+Ooma requeststhat ExhibitAbetreated as confidential for aperiod often years. This period is
+necessary duetothe proprietary nature ofthe information in ExhibitA.
+10 47 C.P.R. §0.459(b){5).
+11 47 C.P.R. §0.459(b){6).
+12 47 C.F.R. § 0.459(b){7).
+13 47 C.F.R. § 0.459(b){8).
+
+April 17, 2020
+Page4of4
+9. OTHER INFORMATION THAT OOMA BELIEVES MAY BE USEFUL IN ASSESSING WHETHER ITS
+REQUESTFORCONFIDENTIALITYSHOULD BEGRANTED.14
+The information concerns Ooma's proprietary network information, related to current and
+planned commercial and operational information, and assuch, iscommercially sensitive.
+Any questions you may have regarding this filing should be directed to my attention at407-740-3005 or
+via emailtoswarren@inteserra.com.Thankyou foryourassistance inthis matter.
+Sincerely,
+/s/Sharon R. Warren
+Sharon R. Warren
+Consultant
+cc: JohnSummers
+tms: FCx2001
+SW/mp
+14 47 C.F.R. § 0.459(b)(9).
+
+Beforethe
+FEDERAL COMMUNICATIONS COMMISSION
+Washington, D.C. 20554
+In theMatter of )
+)
+Ooma, Inc. )
+) WC DocketNo. 20- ----
+ForAuthorization to ObtainNumbering )
+Resources Pursuantto Section 52.15(g) of
+TheCommission's Rules
+APPLICATION OF OOMA, INC.
+FORAUTHORIZATION TO OBTAIN NUMBERINGRESOURCES
+Ooma, Inc. ("Ooma"), pursuantto Section 52.15(g)(3)(i) ofthe Commission's Rules, respectfully
+requests authorization to obtain numbering as described below.
+UndertheCommission'sNumberingOrder,1aninterconnectedVoIPprovidermayobtainnumbering
+resources from theNumbering Administratorupon a showing that it is authorized to provide service inthe
+area for which the numbering resources are requested. Such authorization may be obtained upon an
+application to the Commission containingthe infonnationdetailed in Section 52.15.(g)(3)(i)(A)-(G) ofthe
+Commission's Rules. Oomahereby requests the Commission grant it that authorization. In supportofthis
+application, Oomaprovides the following infonnation:
+I. INFORMATION REQUIRED BYSECTION 52.15(g)(3)(i)
+A. § 52.15(g)(3)(i)(A)
+Name: Ooma, Inc.
+Address: 525 AlmanorAve
+City: Sunnyvale
+State: CA
+ZIP Code: 94085
+Telephone: (650) 518-7200
+1NumberingPoliciesforModern Communications, FCC 15-70(reI.June 22, 2015).
+
+Contact for RegulatoryRequirements, Compliance, 911 and LawEnforcement:
+Name: John Summers
+Address: 525 AlmanorAve
+City: Sunnyvale
+State: California
+ZIP Code: 94085
+Telephone: (241) 676-8176
+B. §52.15(g)(3)(i)(B)
+OomaherebyacknowledgesthatauthorizationtoobtainnumberingresourcesunderSection
+52.15(g)oftheCommission'sRulesissubjecttocompliancewithapplicableCommissionnumberingrulesas
+well as to the numbering authority delegated to the states. Ooma hereby also acknowledges that this
+authorization is subject to compliance with industry guidelines and practices regarding numbering, as
+applicable to telecommunicationscarriers. Thenumberingresourcesthatare thesubjectofthisApplication
+will beused to provide interconnectedVoIP services initially in the stateofTexas.
+C. § 52.15(g)(3)(i)(C)
+Ooma hereby acknowledges that it must file requests for numbers with the relevant state
+commission(s) at least 30days beforerequesting numbers from theNumbering Administrators.
+D. §52.15(g)(3)(i)(D)
+Ooma hereby sets forth its capability to provide service within 60 days ofthe numbering
+resources activationdate.
+Todemonstrateitsfacilitiesreadiness,Oomawillhavethefollowingresourcesavailableatits
+disposal: afully integratedbackoffice support systemwith the ability to scheduleandprocess LNP orders
+from customers and an experienced provisioning department capable ofhandling bulk number ports with
+severalyears LNP experience. Oomahas an agreement inplacewith aCLECpartnerto route traffic to the
+ILECs. Ooma has attached to this application, as ExhibitA, an agreement between Ooma and its carrier
+partnerprovidingthatthecarrierpartnerwillhostOoma'snumbersonitsswitchesandprovideconnectivity
+to the PSTN for inbound calls to Ooma numbers. Ooma has requested confidential treatment under the
+
+Commission's rules for ExhibitA. Also attached, as ExhibitB, is evidence ofinterconnection agreements
+betweenOoma's carrierpartnerand local exchange carriers inthe state ofTexas.
+E. § 52.15(g)(3)(i)(E)
+Ooma hereby certifies that it complies with its Universal Service Fund contribution
+obligationsunder47CFRpart54,subpartH,itsTelecommunicationsRelayServicecontributionobligations
+under 47 CFR § 64.604(c)(5)(iii), its North American Numbering Plan and Local Number Portability
+Administrationcontributionobligationsunder47 CFR§§ 52.17 and52.32, itsobligationstopayregulatory
+fees under47 CFR § 1.1154, and its 911 obligationsunder47 CFRpart9.
+F. §52.15(g)(3)(i)(F)
+Oomacertifiesthatithasthefinancial,managerial,andtechnicalexpertisetoprovidereliable
+service. Itis financially stable, led by astrong, experiencedmanagementteamwith substantialmanagerial
+experience in the telecommunications industry and has sufficient technical expertise and infrastructure in
+place to provide reliable numbering services. Ooma's key management and technical personnel are listed
+below. Noneofthe identifiedpersonnelarebeingorhavebeen investigatedbytheCommissionorany law
+enforcementorregulatory agency for failure to complywithany law, rule, ororder.
+Key Personnel:
+CEO - Eric Stang
+VicePresident -Ravi Narula
+Director-CarrierOperations -John Summers
+G. §52.15(g)(3)(i)(G)
+Ooma hereby certifies that no party to this application is subject to a denial ofFederal
+benefits pursuantto Section 5301 ofthe Anti-Drug AbuseActof1988,21 U.S.C. §862.
+II. ACKNOWLEDGEMENT OF CONDITIONS IN SECTION 52.15(g)(3)(iv)
+As required by Section 52.15(g)(3)(iv), Ooma will maintain the accuracy ofall contact information and
+
+certifications in this application and will file a correction with the Commission and each applicable state
+within30daysofanychanges.Oomawillalsofurnishaccurateregulatoryandnumberingcontactinformation
+to each statecommissionwhen requestingnumbers in thatstate.
+III. CONCLUSION
+Pursuant to Section 52.l5(g)(3)(i) of the Commission's Rules, Ooma respectfully requests the
+Commissiongrant this application for authorization to obtain numberingresources.
+Respectfullysubmitted,
+SharonWarren, InteserraConsultingGroup
+Consultant to Ooma, Inc.
+(407) 740-3005
+swarren@inteserra.com
+And
+John Summers, Director-CarrierOperations
+Ooma, Inc.
+525 AlmanorAve
+Sunnyvale, CA 94085
+(241) 676-8176
+April 17,2020
+
+Exhibit A
+AGREEMENT BETWEEN OOMA, INC.
+AND CARRIER PARTNER
+(Confidential exhibit submitted separately)
+
+Exhibit B
+(for each state listed)
+INTERCONNECTION AGREEMENTS BY AND
+BETWEEN CARRIER PARTNER
+AND
+SOUTHWESTERN BELL TELEPHONE COMPANY
+D/B/A SBC TEXAS
+AND
+FRONTIER SOUTHWEST INCORPORATED
+
+AMENDED, EXTENDEDAND RESTATED AGREEMENT FOR
+LOCALINTERCONNECTION
+by and between
+ONVOY, LLC
+and
+FRONTIERSOUTHWESTINCORPORATED
+FORTHE STATEOF
+TEXAS
+
+1.4 Exceptasotherwise provided inthe Principal Document, the Principal Document
+maynotbewaived ormodified exceptby awritten documentthat is signed by
+the Parties. Subjecttothe requirements ofApplicable Law, aPartyshall have
+the rightto add, modify, orwithdraw, itsTariff(s) atanytime, withouttheconsent
+of, ornoticeto, theotherParty.
+2. Term and Termination
+2.1 ThisAgreement shall beeffectiveas ofthe EffectiveDateand, unless cancelled
+orterminated earlierin accordancewith theterms hereof, shall continue in effect
+untilApril 14, 2020 (the"InitialTerm"). Thereafter, thisAgreement shallcontinue
+in force and effect unless and until cancelled orterminated as provided inthis
+Agreement.
+2.2 EitherOnvoy orFrontiermayterminatethisAgreement effective upon the
+expiration ofthe Initial Termoreffective upon anydateafterexpiration ofthe
+Initial Term by providingwritten noticeoftermination at leastninety(90) daysin
+advanceofthedateoftermination.
+2.3 IfeitherOnvoyorFrontierprovides noticeoftermination pursuantto Section 2.2
+and on orbeforethe proposed dateoftermination eitherOnvoyorFrontierhas
+requested negotiation ofa newinterconnection agreement, unlessthis
+Agreement iscancelled orterminated earlierin accordancewith theterms hereof
+(including, but notlimited to, pursuanttoSection 12),thisAgreement shall
+remain in effect untiltheearlierof: (a)theeffective dateofa newinterconnection
+agreement between Onvoyand Frontier; or, (b)thedateone (1) yearafterthe
+proposed date oftermination.
+2.4 IfeitherOnvoyorFrontierprovides noticeoftermination pursuanttoSection 2.2
+and by 11:59 PM Eastern Timeonthe proposed dateoftermination neither
+Onvoy norFrontierhasrequested negotiation ofa newinterconnection
+agreement, (a) thisAgreementwill terminate at 11:59 PM Eastern Timeonthe
+proposed date oftermination, and (b)the Services being provided underthis
+Agreement atthetime oftermination will beterminated, excepttotheextentthat
+the Purchasing Party has requested thatsuch Servicescontinueto be provided
+pursuantto an applicableTarifforStatementofGenerallyAvailable Terms
+(SGAT).
+3. Glossary and Attachments
+TheGlossaryand the following Attachments area partofthisAgreement:
+Additional ServicesAttachment
+InterconnectionAttachment
+Traffic ExchangeAttachment
+ResaleAttachment
+Network ElementsAttachment
+Collocation Attachment
+9-1-1 Attachment
+PricingAttachment
+4. Applicable Law
+OnvoyComprehensiveICATXCTF020518 .docx 2
+
+To Frontier:
+FrontierCommunications
+TaxDepartment
+401 Merritt7
+Norwalk, CT 06851
+To Onvoy:
+Onvoy, LLC
+TaxDepartment
+Attention: Connie Loepke
+550WestAdamsStreet, Suite 900
+Chicago, Illinois60661
+Each Party mayfrom timetotimedesignate anotheraddressorother
+addressees bygiving noticein accordancewith thetermsofthis Section. Any
+noticeorothercommunication shall bedeemed to begivenwhen received.
+42. Technology Upgrades
+Notwithstanding anyotherprovision ofthisAgreement, Frontiershall havethe rightto
+deploy, upgrade. migrateand maintain its networkat itsdiscretion. The Parties
+acknowledgethat Frontier, at its election, maydeployfiberthroughout its network and
+thatsuchfiberdeploymentmay inhibitorfacilitate Onvoy'sabilitytoprovideservice using
+certain technologies. Nothing inthisAgreement shall limitFrontier's abilitytomodify its
+networkthrough the incorporation ofnewequipmentorsoftwareorotherwise. Onvoy
+shall be solely responsibleforthecostand activities associated with accommodating
+such changes in itsown network.
+43. Territory
+43.1 ThisAgreementappliestotheterritory in which Frontieroperates as an
+IncumbentLocal Exchange Carrierinthe State ofTexas. Frontiershall be
+obligated to provide Services underthisAgreementonlywithin this territory.
+43.2 Notwithstanding anyotherprovision ofthisAgreement, Frontiermayterminate
+thisAgreement astoa specificoperating territory orportion thereofifFrontier
+sells orotherwisetransfers itsoperations in suchterritoryorportion thereoftoa
+third-person. Frontiershall provide Onvoywith at least 90 calendardaysprior
+written noticeofsuch termination, which shall beeffective upon thedate
+specified inthe notice.
+44. Third Party Beneficiaries
+Exceptasexpressly setforth in thisAgreement;thisAgreement isforthe sole benefitof
+the Parties andtheirpermitted assigns, and nothing herein shallcreateorbeconstrued
+to provideanythird-persons (including, but notlimited to, Customersorcontractors ofa
+Party)with any rights (inclUding, but notlimitedto, anythird-party beneficiary rights)
+hereunder. Except as expressly setforth in thisAgreement, a Party shall have noliability
+underthisAgreementtothe Customers oftheotherPartyortoany otherthird person.
+45. [This Section IntentionallyLeftBlank]
+46. 252(i) Obligations
+Totheextent required byApplicable Law. each Partyshall complywith Section 252(i)of
+theAct. Totheextentthattheexerciseby Onvoyofany rights itmayhave underSection
+OnvoyComprehensiveICATXCTF020518 .docx 24
+
+OocuSlgnEnvelope10:3EA2COF3-5741-4CAE-8A71-2E436B1nSE5
+SIGNATUREPAGE
+INWITNESSWHEREOF,theParties heretohavecausedthisAgreementtobeexecutedasof
+the EffectiveDate. .
+ONVOY,LLC FRONTIERSOUTHWESTINCORPORATED
+By:
+Printed: Kyle v. Bertrand
+Printed: MichaelDaniel
+Title: VP procurement MGMT and Ntwk Opt. Title: SVP.CarrierServices
+Date: 3/6/2018 Date: _S-=--_~_'1_~_I_q~ _
+OnvoyComprehensiveICATXCTF020518 26
+
+~ T.AaronMorris -.
+~at&t SeniorAttorney
+Legal
+AT&'tT.xu ' T:512.870.5717
+400W.15111Street,Suite1030 F:512.870.3420
+Austin,Texas78701 llron,rnorrlSCatt,COID
+May 8,2008
+Cornmissio'n Filing Clerk
+Public UtilityCommission ofTexas
+1701' N.Congress Avenue
+Austin, iexas 78701
+RE: DOCket 35525,·JointApplication of Southwestern Bell Telephone Company
+dlb/~ AT&T Texas and Neutral Tandem-Texas, LLSt for Approval of
+,Amendment to Interconnection Agreement under PURA and the
+TelecommunicationsAct of 1996
+O'eat Filing Clerk:
+--,
+•
+In response to Order No.2, Approving Amendment to Interconnection Agreement, issued
+Aprir 17, 2008, attached is the complete amended interconnection agreement between
+Southwestern 8ell Telephone Company d/b/a AT&T Texas and Neutral Tandem·Texas,
+~Q "
+Pleasedonothesitatetocall me ifyou haveanyquestions regardingthis matter.
+Sinc~er~ly, '
+T. Aaron Morris
+SeniorAttom~y
+co: DaVid Tatak, Vice-Presidentof Billing &Revenue Services forNeutralTandem..
+Texas, LLC (U.S. mail)
+General Counsel, PUC (Hand delivered)
+Central Aecords; PUC (Hand delivered)
+•
+I
+----_._------------------
+--,._-- ,.. _-"
+
+•
+AT&T/NEUTRAL
+TANDEM-TEXAS, LLC
+. • INTERCONNECTION
+AGREEMENT AMENDED
+AS OF 4/17/08
+•
+3
+
+GENERAlTERMSANDCONDITlONSlSBC·13SIATE
+PAGE10F61
+• SBC=13STATEINEUTRALTANDEM-{ARINKSMONVOKTX).LLC.
+032405
+INTERCONNECTION AND/OR RESALE AGREEMENT UNDER
+SECTIONS 251 AND 252 OF THE TELECOMMUNICATIONS ACT OF
+1996
+between one or more of
+Illinois Bell Telephone Company d/b/a SBC Illinois,
+Indiana Bell Telephone Company Incorporated d/b/a SBC Indiana,
+Michigan Bell Telephone Company d/b/a SBC Michigan,
+Nevada Bell Telephone Company d/b/a SBC Nevada,
+The Ohio Bell Telephone Company d/b/a SBC Ohio,
+Pacific Bell Telephone Company d/b/a SBC California,
+•
+The Southern New England Telephone Company d/b/a SBC
+Connecticut,
+Southwestern Bell Telephone, L.P. d/b/a SSC Arkansas, SSC
+Kansas, SSC Missouri, SBC Oklahoma and/or SSC Texas,.
+Wisconsin Bell, Inc. d/b/a SBC Wisconsin
+and
+Neutral Tandem-Arkansas, LLC; Neutral Tandem-Indiana, LLC;
+Neutral Tandem-Kansas, LLC; Neutral Tandem-Missouri, LLC;
+Neutral Tandem-Nevada, LLC; Neutral Tandem-Oklahoma, LLC;
+Neutral Tandem-Texas, LLC
+•
+7
+
+GENERALTERMSANDCONDmONSJSBC=13SIAIE
+PAGE13OF61
+SBC·13SIATEINEUTRALTANDEM-{ARINKSMONVOKTX),LLG.
+• .
+ro2~
+Pointneed natbethe sameastheRating Point, normustitbelocatedwithintheRateCenter
+area,~utmustbeInthesameLATAastheNPA-NXX.
+1.1.100·SBC Communications Inc." (SBC) means the holding company which directly or indirectly
+owns the following ILECs: illinois Bell Telephone Company dlb/a SBC Illinois, Indiana Bell
+TelephoneCompanyIncorporatedd/b/aSBCIndiana,MichiganBellTelephoneCompanyd/b/a
+SBCMichigan,NevadaBellTelephoneCompanyd/b/aSBCNevada,TheOhioBellTelephone
+Company d/b/a SBC Ohio, Pacific Bell Telephone Company dIbIa SBC California, The
+Southern New England Telephone Company d/b/a SBC Connecticut, Southwestem Bell
+Telephone,L.P.d/b/a SBCArkansas,SBCKansas,SBCMissouri,SBCOklahomaand/orSBC
+Texas,and/orWisconsinBell,Inc.d/b/aSBCWisconsin.
+1.1.101"SBC·2STATE" - As used herein, SBc.2STATE means SBC· CALIFORNIA and SBC
+NEVADA,theapplicableSBC-<>wnedILEC(s)doingbusinessinCaliforniaandNevada.
+1.1.102"SBC-4STATE" -As used herein, SBC-4STATE means Southwestern Bell Telephone, L.P..
+d/b/a SBC Arkansas, SBC Kansas, SBC Missouri, and SBC Oklahoma, the applicable SBC
+ownedILEC(s)doingbusinessinArkansas,Kansas,MissouriandOklahoma.
+1.1.103"SBC·7STATE" - As used herein, SBC·7STATE means SBC SOUTHWEST REGION 5
+STATE, SBC CALIFORNIA and SBC NEVADA, the applicable 8BC-owned ILEC(s) doing
+businessinArkansas,California,Kansas,Missouri,Nevada,Oklahoma,andTexas.
+1.1.104"SBC·8STATE" - As used herein, SBC-8STATE means SBC SOUTHWEST REGION 5
+STATE~ SBC CALIFORNIA. SBC NEVADA. and SBC CONNECTICUTthe applicableSBC
+ownedILEC(s)doingbusinessInArkansas,California,Connecticut Kansas,Missouri,Nevada,
+• Oklahoma,andTexas. .
+1.1.105"SBC·10STATE" - As used herein, SBC·10STATE means SBC SOUTHWEST REGION 5
+STATE and SBC MIDWESTREGION 5-STATEan the applicable SBC-<>wned ILEC(s) doing
+business in Arkansas, Illinois, Indiana, Kansas, Michigan, Missouri, Ohio, Oklahoma, Texas,
+andWisconsin. ..
+s..
+1.1.106"SBC·12STATE" -As used herein, SBC·12STATE means SBC SOUTHWEST REGION
+STATE. SBC MIDWEST REGION 5-STATE and.SBc.2STATE the applicable SBC-<>wned
+ILEC(s) doing business In Arkansas, California, illinois, Indiana, Kansas, Michigan, Missouri,
+Nevada,Ohio,Oklahoma,Texas,andWisconsin.
+1~1i1..Qi~SBC413ST:A1'e'J'~~1J$QdMf'Qi.",SBC413STATE;m~arl~ ·SBC'SOUTHWEST;fREGION:s;..
+STATEtSBCrMIDWEST@REGIONis.;sTATEw{JJSSc.2STATE;till'l.d,SBCyCQNNECTICUT'tti.13
+tilPPli~pleSae1QWliedl~~e(~) :dglU9Qli$ln~sin~§i'I~$,etillif()l1'Ila,eonl'l.~¢I.lt, IIl1nol$,
+Il'Iditill'la,Kal'l~.$,MigtUg~u,MI$$(.)pdi:N~'lfl(f~,.Qbi()i;QkltilMmtil,:m13X~§il;ll'l(l':WI$¢cln$ll'l.
+1.1.108"SBCARKANSAS"-Asusedherein,SBCARKANSASmeansSouthwesternBellTelephone,
+L.P.d/b/a SBCArkansas,theapplicableSBC-<>wnedILECdoingbusinessinArkansas.
+1.1.109"SBC CALIFORNIA" - As used herein, SBC CALIFORNIA means Pacific Bell Telephone
+Companyd/b/aSBCCalifornia,theapplicable.SBC-<>wnedILECdoingbusinessInCalifornia.
+1.1.110"SBC CONNECTICUT" ~ As used herein, SBC CONNECTICUT means The Southern New
+England Telephone Companyd/b/a SBC Connecticut, the applicable above listed ILECdoing
+businessinConnectlcut.
+1.1.111"SBCKANSAS"-As used herein, SBC KANSAS meansSouthwestern 8ellTelephone, L.P.
+d/b/aSBCKansas,theapplicableSBC-<>wnedILECdoingbusinessInKansas.
+• 1.1.112"SBC ILLINOIS" -As used herein, SBC ILLINOIS means Illinois Bell Telephone Company
+d/b/aSBCillinois,theapplicableSBC-<>wnedILECdoingbusinessInIllinois.
+1.1.113"SBC INDIANA" -As used herein, SBC INDIANAmeans Indiana Bell Telephone Company,
+Incorporatedd/b/aSBCIndiana,theapplicableSBC-<>wnedILECdoingbusinessinIndiana.
+19
+
+GENERALTERMS-ANOCONDITIONSlSBC:13STATE
+PAGE24Of61
+SBC":SSTAIEIN~UTRAL TANDEM-{ARINI<SMeNVOIC'TX),LtC. •
+032405
+referring PartYstariff(s). However,ifeitherPartyprovides Referral Announcementsfor
+aperiod longerthan the above periOd(s) when its End Users change theirtelephone
+numbers, such Partyshall providethe samelevel ofservicetoEnd Usersoftheother
+Party.
+,4.~.4 ThefollowingappliestossCOHIOonly:
+4.9.4,1 Referral Announcements shallbe provided'byaPartytotheotherPartyfortheperiod
+oftime specified In Rule 4901:1-5-12, OhioAdministrative Code and atthe rates set
+forth In the referring 'Party's tariff(s). However, If either Party provides Referral
+Announcements for a period longer than the above period(s) when its·End Users
+change'theirtelephonenumbers, such PartyshaD providethesamelevelofserviceto
+EndUsersoftheother-Party.
+4.10, Eacti-PartyshallberesponsllJleforlaborrelationswithitsownemployees. EachPartyagreestonotify
+the other Party as soon as practicable whenever such 'Party has knowledge that alabor dispute
+.. concerning Its employees Is delaying or threatens·to delay such Party's timely performance of "s
+obligations under this Agreement and shall endeavorto minimize impairment ofservice to the other
+Party(forexample,byusingitsmanagementpersonneltoperformworkorbyothermeans)Intheevent
+ofa,labordisputetotheextentpermittedbyApplicableLaw,
+4.11 Each PartyshallactIngoodfaithIn ItsperformanceunderthisAgreementand, Ineachcaseinwhicha
+Party's consentoragreementIs reqUired orrequested hereunder, suchParty shall notunreasonably
+withholdordelaysuchconsentoragreement .
+4.12 This Agreementcontains comprehensive OSSterms and conditions; however, CLEC represents and •
+covenantsthatItwillonlylISeOSSfumlshedpursuanttothisAgreementforactlvltiesrelatedto Lawful
+UNEs, resoldservicesorotherservicescoveredbythisAgreement,forwhichthisAgreementcontains
+explicittenns,conditionsandrates. "
+4,13 The Parties acknowledge and agreethattheydqnot Intend to Include prodUcts and services inthis
+i.. Agreement that do not have con:espondlng rates and charges; Accordingly, if this Agreement Is
+, executedand/orapprovedbythe,CommissionandthePartieslaterdiscoverthataprodUctorserviceis
+Included·inthisAgreementwithoutanassociatedrateorcharge,'the PartiesagreethattheyWIllagree
+!lpon a rate or charge to lnclude In this Agreement before the product or $8rvlce Is prOVided or
+1•
+perfonned. IfthePartiescannotagree,eitherPartymaypursuedisputeresolutionundertheapplicable
+provisionsofthisAgreement.
+5. EFFECTIVEDATE,TERM,ANDTERMINATION
+5.1 Tn SBC-13STAIE,withthe exceptionofSSCOHIO.the EffectiveDateofthis Agreementshall beten
+(10)'calendardaysafterthe CommissionapprovesthisAgreementunderSection252(e)oftheActor,
+,; ~ .'. absent such Commission approval, the date this Agreement is deemed approved under SElGtIon
+"
+, 252(e](4)oftheAct.In§SCOHIO basedonlflePUC-OH,theAgreementisEffectiveuponfilingandIs
+I, I
+deemedapprovedbyoperationoHawonthe911tdayafterfiling.
+'J' .
+5.2 The'termofthisAgreementshallcommenceupontheEffectiveDateofthisAgreementahdshallexpire
+on July 18,2006, provided; however, should CLEO Implement Q.e. PrQvlded assurance of payment,
+orderedfacilities,andsubmittedASRsfortrunking)thisAgreementwithinsix(6)monthsoftheEffective
+Date,thenthisAgreementwill automaticallyrenewforoneadditionalyearandexpireonJuly18,2007
+, (the"Tennj.Ab.~l'lt0~tglptpYi~~~~rty·Qt0Wl'1ttenf1l:1U~mtb~;!:'Itb~r~~J:lYwttbln ;1§p;~~~~r
+r.
+ga~pfI.grt9'f11e,~t,ignQf:#I.mcmn·toi'1tl,'·~«@;tblit0$qOO g@rtyi.~l1l:1tlnt~~'~l'td1!'l~m@mri
+I
+1h1~~~m~t$b@'I~m~If1'!'Ifi.JU .~~Md \~ff~OO;0~n<fift~.r.;1tn:te~lmt,ign~f0;1!'I~ ijI~rmYO#1
+'1' •
+,\ ,t~rmln~~.~y~ltJ'i~r.~@rtypgl'lS!Jj!l'1ttl:l·$m#i~oifiI~\9t0i§;~i
+" 1 .' .' 5.2.1 Notwithstanding anything to th~ contrarY In this Section 5, the original expiration date ofthis
+Agteemflnt,asmodifiedbythisAmendment,willbeextendedforaperiodofthree(3)yearsfro.m
+I':
+January11,2008untilJanuaryii,2011 (the"ExtendedexpirationDatej. TheAgreementshall
+i.,'
+,I '
+, If!
+30
+~.'i
+•..._" ~ " ._._"_.• ---..J
+
+GENERALTERMSANDCONOmONSlSBC·13STATE
+PAGE611):'61
+SBC.13STATE/NEUTRAlTANDEM-(ARINKSMONYOKlX),LlC.
+•
+032405
+SBC·13STATEAgreement
+Signatures
+THIS AGREEMENTCONTAINSABINDING
+ARBITRATIONPROVISIONWHICHMAYBE .
+ENFORCEDBYTHEPARTIES.
+CLEC'sSTATE-SPECIFIC:
+FACILITIES-BASEDOCN# __,....-_
+RESALEOCN# _
+ACNA
+NeutralTandem-Arkansas,LLC;NeutralTandem IndianaBellTelephoneCompanyIncorporateddIbIaSBC
+Indiana,LLC; NeutralTandem-Kansas,LLCjNeutral Indiana, Nevada Bell Telephone Company dIbIa SBC
+•
+Tandem.Mlssouri,LlC; NeutralTandem-NeVada, Nevada, andlorSouthwestern Ben Telepho.ne, LP. d/bla
+sac
+LLC; NeutralTandem-Oklahoma,LLC;Neutral SBC Arkansas, SBC Kansas, SBC Missouri,
+Tandem-Texas, LLC Oklahoma, SBC Texas; by SB Operations, Inc.! Its
+authorizedagent ,-
+D...J)~
+Signature:
+J:> -r;;,..
+Name: P\v I b -A.'f( Name: M_fik~e_A_u1...n...b.._.auh:--- _
+(PrintorType) (PrintorType)
+Title:.llP -:C~(,~ ...
+Title: AVP·locallnterconnectionMarketing
+~orType)
+Date: S LuJ_o_s" _ .lIN • 2_
+Date:
+•
+67

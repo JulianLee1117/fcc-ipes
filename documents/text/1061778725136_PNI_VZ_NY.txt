@@ -1,0 +1,143 @@
+140 West Street
+27th Floor
+New York, NY 10007-2109
+Tel (212) 321-8136
+Fax (212) 962-1687
+keefe.b.clemons@verizon.com
+Keefe B. Clemons
+Associate General Counsel – NY & CT
+October 16, 2007
+BY HAND
+Honorable Jaclyn A. Brilling
+Secretary
+New York Public Service Commission
+Three Empire State Plaza
+Albany, New York 12223
+Re: Interconnection Agreement between
+Verizon New York Inc. and Peerless Network of New York, LLC
+Dear Secretary Brilling:
+Enclosed please find the Interconnection Agreement, effective October 11, 2007,
+between Verizon New York Inc. and Peerless Network of New York, LLC. The contact person
+for Peerless Network of New York, LLC is:
+Scott Kell
+Peerless Network of New York, LLC
+27 North Wacker Street, Suite 244
+Chicago, IL 60606
+(312) 282-9323
+skell@peerlessnetwork.com
+If you have any questions regarding this matter, please feel free to contact me.
+Respectfully submitted,
+Keefe B. Clemons
+cc: Scott Kell (By E-Mail)
+
+AGREEMENT
+by and between
+PEERLESS NETWORK OF NEW YORK, LLC
+and
+VERIZON NEW YORK INC.
+FOR THE STATE OF
+NEW YORK
+PN NY Comp v3.1.doc
+
+AGREEMENT
+PREFACE
+This Agreement (“Agreement”) shall be deemed effective as of October 11, 2007 (the “Effective
+Date”), between Peerless Network of New York, LLC (“PN”), a Limited Liability Company
+organized under the laws of the State of Delaware, with offices at 27 N. Wacker St., Suite 444,
+Chicago, IL 60606 and Verizon New York Inc. (“Verizon”), a corporation organized under the
+laws of the State of New York with offices at 140 West Street, New York, NY 10007 (Verizon and
+PN may be referred to hereinafter, each, individually as a “Party”, and, collectively, as the
+“Parties”).
+GENERAL TERMS AND CONDITIONS
+In consideration of the mutual promises contained in this Agreement, and intending to be legally
+bound, pursuant to Section 252 of the Act, Verizon and PN hereby agree as follows:
+1. The Agreement
+1.1 This Agreement includes: (a) the Principal Document; (b) the Tariffs of each
+Party applicable to the Services that are offered for sale by it in the Principal
+Document (which Tariffs are incorporated into and made a part of this Agreement
+by reference); and, (c) an Order by a Party that has been accepted by the other
+Party.
+1.2 Except as otherwise expressly provided in the Principal Document (including, but
+not limited to, the Pricing Attachment), conflicts among provisions in the Principal
+Document, Tariffs, and an Order by a Party that has been accepted by the other
+Party, shall be resolved in accordance with the following order of precedence,
+where the document identified in subsection “(a)” shall have the highest
+precedence: (a) the Principal Document; (b) the Tariffs; and, (c) an Order by a
+Party that has been accepted by the other Party. The fact that a provision
+appears in the Principal Document but not in a Tariff, or in a Tariff but not in the
+Principal Document, shall not be interpreted as, or deemed grounds for finding, a
+conflict for the purposes of this Section 1.2.
+1.3 This Agreement constitutes the entire agreement between the Parties on the
+subject matter hereof, and supersedes any prior or contemporaneous
+agreement, understanding, or representation, on the subject matter hereof,
+provided, however, notwithstanding any other provision of this Agreement or
+otherwise, this Agreement is an amendment, extension and restatement of the
+Parties’ prior interconnection and resale agreement(s), if any, and, as such, this
+Agreement is not intended to be, nor shall it be construed to create, a novation or
+accord and satisfaction with respect to any prior interconnection or resale
+agreements and, accordingly, all monetary obligations of the Parties to one
+another under any prior interconnection or resale agreements shall remain in full
+force and effect and shall constitute monetary obligations of the Parties under
+this Agreement (provided, however, that nothing contained in this Agreement
+shall convert any claim or debt that would otherwise constitute a prepetition claim
+or debt in a bankruptcy case into a postpetition claim or debt). In connection with
+the foregoing, Verizon expressly reserves all of its rights under the Bankruptcy
+Code and Applicable Law to seek or oppose any relief in respect of the
+assumption, assumption and assignment, or rejection of any interconnection or
+resale agreements between Verizon and PN.
+PN NY Comp v3.1.doc 1
+
+1.4 Except as otherwise provided in the Principal Document, the Principal Document
+may not be waived or modified except by a written document that is signed by
+the Parties. Subject to the requirements of Applicable Law, a Party shall have
+the right to add, modify, or withdraw, its Tariff(s) at any time, without the consent
+of, or notice to, the other Party.
+2. Term and Termination
+2.1 This Agreement shall be effective as of the Effective Date and, unless cancelled
+or terminated earlier in accordance with the terms hereof, shall continue in effect
+until October 10, 2009 (the “Initial Term”). Thereafter, this Agreement shall
+continue in force and effect unless and until cancelled or terminated as provided
+in this Agreement.
+2.2 Either PN or Verizon may terminate this Agreement effective upon the expiration
+of the Initial Term or effective upon any date after expiration of the Initial Term by
+providing written notice of termination at least ninety (90) days in advance of the
+date of termination.
+2.3 If either PN or Verizon provides notice of termination pursuant to Section 2.2 and
+on or before the proposed date of termination either PN or Verizon has requested
+negotiation of a new interconnection agreement, unless this Agreement is
+cancelled or terminated earlier in accordance with the terms hereof (including,
+but not limited to, pursuant to Section 12), this Agreement shall remain in effect
+until the earlier of: (a) the effective date of a new interconnection agreement
+between PN and Verizon; or, (b) the date one (1) year after the proposed date of
+termination.
+2.4 If either PN or Verizon provides notice of termination pursuant to Section 2.2 and
+by 11:59 PM Eastern Time on the proposed date of termination neither PN nor
+Verizon has requested negotiation of a new interconnection agreement, (a) this
+Agreement will terminate at 11:59 PM Eastern Time on the proposed date of
+termination, and (b) the Services being provided under this Agreement at the
+time of termination will be terminated, except to the extent that the Purchasing
+Party has requested that such Services continue to be provided pursuant to an
+applicable Tariff or Statement of Generally Available Terms (SGAT).
+3. Glossary and Attachments
+The Glossary and the following Attachments are a part of this Agreement:
+Additional Services Attachment
+Interconnection Attachment
+Resale Attachment
+Network Elements Attachment
+Collocation Attachment
+911 Attachment
+Pricing Attachment
+4. Applicable Law
+4.1 The construction, interpretation and performance of this Agreement shall be
+governed by (a) the laws of the United States of America and (b) the laws of the
+PN NY Comp v3.1.doc 2
+
+SIGNATURE PAGE
+INWITNESS WHEREOF, the Parties hereto have caused this Agreement to beexecuted as of
+the Effective Date.
+PEERLESS NETWORK OF NEW YORK, LLC VERIZON NE
+By:
+BY~
+Printed: Scott Kell Printed: Gary Librizzi
+Title: SVP Operations and Engineering Title: Director - Negotiations
+PN NY Comp v3.1.doc 26

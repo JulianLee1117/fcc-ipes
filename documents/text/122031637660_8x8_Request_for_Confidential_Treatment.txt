@@ -1,0 +1,111 @@
+December 19, 2019
+REQUEST FOR CONFIDENTIAL TREATMENT
+Via Hand Delivery
+Marlene H. Dortch
+Secretary
+Federal Communications Commission
+445 12th Street, SW
+Washington, DC 20554
+Re: 8x8, Inc.’s Application for Numbering Authorization, WC Docket No. 19-_____
+Dear Ms. Dortch,
+8x8, Inc. (“8x8”) hereby encloses for filing its Application for Numbering Authorization
+(“Application”) and corresponding Confidential Exhibits A and B. Confidential Exhibit A is an
+interconnection agreement between 8x8 and its carrier partner, and Confidential Exhibit B
+consists of relevant pages of an interconnection agreement between that carrier partner and a
+local exchange carrier (collectively, “Interconnection Agreements”). These documents are sent
+to you for filing pursuant to Section 52.15(g)(3)(i) of the Commission’s rules.
+8x8 respectfully requests that, pursuant to 47 C.F.R. § 0.457 and § 0.459, the Commission
+withhold from public inspection and accord confidential treatment to the Interconnection
+Agreements. The documents contain trade secrets and commercial, technical, and financial
+information that fall within Exemption 4 of the Freedom of Information Act (“FOIA”).1
+Exemption 4 of FOIA provides that the public disclosure requirement of the statute “does not
+apply to matters that are . . . (4) trade secrets and commercial or financial information obtained
+from a person and privileged or confidential.”2 The information contained in the Interconnection
+Agreements constitutes trade secret and commercial and financial information, which is “of a
+kind that would not customarily be released to the public.”3 In addition, 8x8 treats the
+Interconnection Agreements as private, and provides them to the Commission with the
+understanding that the Commission will likewise treat them as private.4
+Under the recent Supreme Court decision in Food Marketing Institute v. Argus Leader Media,
+this is sufficient to show that the information is “confidential” under Exemption 4 of FOIA. The
+submitter is not required to show that the information’s disclosure is likely to cause substantial
+1 5 U.S.C. § 552(b)(4).
+2 Id.
+3 See Critical Mass Energy Project v. NRC, 975 F.2d 871, 879 (D.C. Cir. 1992).
+4 See Food Mktg. Inst. v. Argus Leader Media, 139 S. Ct. 2356, 2361 (2019).
+HARRIS, WILTSHIRE & GRANNIS LLP | 1919 M STREET NW | EIGHTH FLOOR | WASHINGTON DC 20036 | T 202 730 1300 | F 202 730 1301 | HWGLAW.COM
+
+competitive harm. Rejecting such a requirement as inconsistent with the plain text of the FOIA
+statute, the Court clarified: “At least where commercial or financial information is both
+customarily and actually treated as private by its owner and provided to the government under an
+assurance of privacy, the information is ‘confidential’ within the meaning of Exemption 4.”5
+Nonetheless, because the Commission’s rules ostensibly necessitate a showing of substantial
+competitive harm,6 8x8 addresses that prong of the analysis below.
+In support of this request and pursuant to 47 C.F.R. § 0.459(b), 8x8 hereby states as follows:
+1. Identification of Specific Information for Which Confidential Treatment Is
+Sought (47 C.F.R. § 0.459(b)(1))
+8x8 seeks confidential treatment of Confidential Exhibits A and B. Confidential Exhibit
+A is an interconnection agreement between 8x8 and its carrier partner, and Confidential Exhibit
+B consists of relevant pages of an interconnection agreement between that carrier partner and a
+local exchange carrier (collectively, “Interconnection Agreements”). These documents contain
+the following header: “Confidential Treatment Requested—Not for Public Disclosure.”
+2. Description of Circumstances Giving Rise to the Submission (47 C.F.R.
+§ 0.459(b)(2))
+The Interconnection Agreements are being submitted to the Commission in conformity
+with the rules for obtaining an authorization for numbering resources.
+3. Explanation of the Degree to Which the Information Is Commercial or
+Financial, or Contains a Trade Secret or Is Privileged (47 C.F.R.
+§ 0.459(b)(3))
+The information contained in the Interconnection Agreements relates to the manner in
+which 8x8, its carrier partner, and the carrier partner’s local exchange carrier conduct network
+operations. This constitutes sensitive commercial, financial, and technical information “which
+would customarily be guarded from competitors.”7
+4. Explanation of the Degree to Which the Information Concerns a Service that
+Is Subject to Competition (47 C.F.R. § 0.459(b)(4))
+The Interconnection Agreements contain information pertaining to the provision of
+interconnected Voice over Internet Protocol (“VoIP”) service. The market for VoIP service is
+highly competitive.
+5 Id. at 2366.
+6 47 C.F.R. § 0.459(b)(5).
+7 Id. § 0.457.
+2
+
+5. Explanation of How Disclosure of the Information Could Result in
+Substantial Competitive Harm (47 C.F.R. § 0.459(b)(5))
+The Interconnection Agreements contain detailed information relating to operations
+matters that could be used by competitors to 8x8’s detriment. Disclosure of that information
+would thereby cause substantial competitive harm.8 In addition, the disclosure of the name of
+8x8’s carrier partner and interconnecting local exchange carrier could be used to 8x8’s
+competitive detriment.
+6. Identification of Any Measures Taken by the Submitting Party to Prevent
+Unauthorized Disclosure (47 C.F.R. § 0.459(b)(6))
+8x8 has made the substance of the Interconnection Agreements known only to those
+employees who have a need to know the subject matter, and those employees are aware of the
+confidential and sensitive nature of the information. 8x8 has not disclosed the Interconnection
+Agreements to any non-signatories except pursuant to appropriate confidentiality agreements.
+7. Identification of Whether the Information Is Available to the Public and the
+Extent of Any Previous Disclosure of the Information to Third Parties (47
+C.F.R. § 0.459(b)(7))
+8x8 has not previously disclosed the Interconnection Agreement to the public or to third
+parties, except as pursuant to appropriate confidentiality agreements.
+8. Justification of Period During Which the Submitting Party Asserts that
+Material Should Not Be Available for Public Disclosure (47 C.F.R.
+§ 0.459(b)(8))
+8x8 requests that the Interconnection Agreements be treated as confidential for a period
+of ten years. This period is necessary due to the sensitive nature of the information therein.
+* * * *
+Should you have questions, please do not hesitate to contact me.
+Respectfully submitted,
+______________________
+Brita D. Strandberg
+Courtney Miller
+HARRIS, WILTSHIRE & GRANNIS LLP
+8 See Nat’l Parks and Conservation Ass’n v. Morton, 498 F.2d 765 (D.C. Cir. 1974).
+3
+
+1919 M Street, N.W.
+Eighth Floor
+Washington, DC 20036
+Tel: (202) 730-1300
+Fax: (202) 730-1301
+Counsel to 8x8, Inc.
+4

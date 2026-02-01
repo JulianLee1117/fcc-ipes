@@ -1,0 +1,57 @@
+INTERCONNECTION AGREEMENT
+TERMS AND CONDITIONS FOR INTERCONNECTION,
+UNBUNDLED NETWORK ELEMENTS, ANCILLARY SERVICES,
+AND RESALE OF TELECOMMUNICATIONS SERVICES
+between
+Qwest Corporation
+and
+360networks (USA) inc.
+FOR THE STATE OF WASHINGTON
+AGREEMENT NUMBER
+CDS-051216-0004
+
+Section 5
+Terms and Conditions
+5.1.3.4 It is the responsibility of either Party to inform its End User Customers of
+service impacting impairment that may result in discontinuance of service as soon as the
+Party receives notice of same.
+5.1.4 Each Party is solely responsible for the services it provides to its End User
+Customers and to other Telecommunications Carriers. This provision is not intended to limit the
+liability of either Party for its failure to perform under this Agreement.
+5.1.5 The Parties shall work cooperatively to minimize fraud associated with third-
+number billed calls, calling card calls, and any other services related to this Agreement.
+5.1.6 Nothing in this Agreement shall prevent either Party from seeking to recover the
+costs and expenses, if any, it may incur in (a) complying with and implementing its obligations
+under this Agreement, the Act, and the rules, regulations and orders of the FCC and the
+Commission, and (b) the development, modification, technical installation and maintenance of
+any systems or other infrastructure which it requires to comply with and to continue complying
+with its responsibilities and obligations under this Agreement. Notwithstanding the foregoing,
+Qwest shall not assess any charges against CLEC for services, facilities, Unbundled Network
+Elements, ancillary services and other related work or services covered by this Agreement,
+unless the charges are expressly provided for in this Agreement. All services and capabilities
+currently provided hereunder (including resold Telecommunications Services, Unbundled
+Network Elements, UNE Combinations and ancillary services) and all new and additional
+services or Unbundled Network Elements to be provided hereunder, shall be priced in
+accordance with all applicable provisions of the Act and the rules and orders of the Federal
+Communications Commission and orders of the Commission.
+5.2 Term of Agreement
+5.2.1 This Agreement shall become effective on the date of Commission Approval
+(“Effective Date”). This Agreement shall be binding upon the Parties for a term of three (3)
+years and shall expire on March 31, 2009.
+5.2.2 Upon expiration of the term of this Agreement, this Agreement shall continue in
+full force and effect until superseded by a successor agreement in accordance with this Section
+5.2.2. Any Party may request negotiation o f a successor agreement by written notice to the
+other Party no earlier than one hundred sixty (160) Days prior to the expiration of the term, or
+the Agreement shall renew on a month to month basis. The date of this notice will be the
+starting point for the negotiation window under Section 252 of the Act. This Agreement will
+terminate on the date a successor agreement is approved by the Commission.
+5.2.2.1 Prior to the conclusion of the term specified above, CLEC may obtain
+Interconnection services under the terms and conditions of a then-existing SGAT or
+agreement to become effective at the conclusion of the term or prior to the conclusion of
+the term if CLEC so chooses.
+5.3 Proof of Authorization
+5.3.1 Each Party shall be responsible for obtaining and maintaining Proof of
+Authorization (POA) as required by applicable federal and state law, as amended from time to
+time.
+December 16, 2005/msd/360networks/WA/CDS-051216-0004
+Qwest Fourteen State Template Version 1.8, May 11, 2005 29

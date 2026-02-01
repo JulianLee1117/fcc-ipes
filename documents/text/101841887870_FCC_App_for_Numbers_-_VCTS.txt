@@ -1,0 +1,281 @@
+Before the
+FEDERAL COMMUNICATIONS COMMISSION
+Washington, D.C. 20554
+In the Matter of )
+)
+Vision CTS, LLC ) WC Docket No.
+)
+Application to Obtain Telephone Numbers )
+Directly From the North American Numbering )
+Plan Administrator and the Pooling )
+Administrator )
+NUMBERING AUTHORIZATION APPLICATION
+Vision CTS, LLC (“Applicant”), hereby applies for authorization to obtain telephone numbers directly
+from the North American Numbering Plan Administrator and the Pooling Administrator (collectively,
+"Numbering Administrators") pursuant to and in accordance with Section 52.15 (g) of the Commission's
+rules. In support hereof, Applicant respectfully states:
+1. Applicant’s name, headquarters’ address and telephone number are as follows:
+Vision CTS, LLC
+690 Kintner Parkway North
+Sunbury, Ohio 43074-8038
+877-596-2534
+2. The primary type of business of Applicant is telecommunications services, which includes
+interconnected VoIP. The numbering resources that are the subject of this Application will be
+used to provide interconnected VoIP services in the State of Ohio.
+3. The name and contact information for personnel of Applicant qualified to address issues relating
+to regulatory requirements, compliance with Commission rules, 911, and law enforcement is as
+follows:
+Chad C. Brownfield, Managing Member; chad.brownfield@vision-tech.net; 614-807-
+5501; 690 Kintner Parkway North, Sunbury, Ohio 43074-8038
+4. Applicant acknowledges that the authorization is subject to compliance with applicable
+Commission numbering rules, numbering authority delegated to the states and industry guidelines
+and practices regarding numbering applicable to telecommunications carriers.
+
+5. Applicant acknowledges that it must file requests for telephone numbers with the relevant state
+commission at least thirty (30) days before requesting telephone numbers from the Numbering
+Administrators.
+6. As proof of facilities readiness, namely that Applicant is capable of providing service within sixty
+(60) days of the numbering resources activation date, Applicant submits that it already has
+interconnection with the PSTN pursuant to a commercial arrangement that provides access to the
+PSTN; in particular, Applicant has an interconnection agreement with The Ohio Bell Telephone
+Company d/b/a AT&T Ohio (“AT&T Ohio”), the relevant local exchange carrier for the state that
+is the subject of the Application and in which such carrier provides access to the PSTN.
+Applicant further states that it has in place the practices and procedures that already enable it to
+successfully route and port numbers as a licensed CLEC in Ohio since 2015; in particular,
+Applicant has an OCN (125J), has an interconnection agreement with AT&T Ohio to support
+number routing, and has a full staff prepared for porting.
+7. Applicant certifies that it complies with its Universal Service Fund contribution obligations under
+47 CFR part 54, subpart H, its Telecommunications Relay Service contribution obligations under
+47 CFR § 64.604(c)(5)(iii), its North American Numbering Plan and Local Number Portability
+Administration contribution obligations under 47 CFR § § 52.17, 52.32, its obligations to pay
+regulatory fees under 47 CFR § 1.1154 and its 911 obligations under 47 CFR part 9.
+8. As demonstrated by its successful operations as a licensed facilities-based CLEC in Ohio since
+2015, Applicant certifies that it possesses the financial, managerial and technical expertise to
+provide reliable service. Attached hereto as Exhibit A is the Applicant’s Organizational Chart.
+Attached hereto as Exhibit B are the names and descriptions of Applicant's key management and
+technical personnel. Applicant states that none of the identified personnel are being or have been
+investigated by the Commission or any law enforcement or regulatory agency for failure to
+comply with any law, rule or order. Attached hereto as Exhibit C is the Applicant’s proof of
+interconnection with the underlying carrier for the state that is the subject of the Application and
+in which such carrier provides access to the PSTN.
+9. Applicant certifies pursuant to Sections 1.2001 and 1.2002 of the Commission's rules that no
+party to this Application is subject to a denial of Federal benefits pursuant to Section 5301 of the
+Anti-Drug Abuse Act of 1988. See 21 U.S.C. § 862.
+WHEREFORE, Applicant respectfully requests the Commission to grant this Application for
+numbering resources.
+Respectfully Submitted,
+Matt W. Dean
+Matt W. Dean
+Regulatory Agent for Vision CTS, LLC
+12316 Hidden Forest Blvd.
+Oklahoma City, OK 73142
+(405) 755-8177 x103
+regcompliance@telecompliance.net
+Dated October 18, 2017.
+
+Vision CTS, LLC
+LIST OF EXHIBITS
+EXHIBIT A Organizational Chart
+EXHIBIT B Biographies of Key Personnel
+EXHIBIT C Interconnection Agreement
+
+EXHIBIT A
+Organizational Chart
+
+Vision Concept Technology, LLC
+(Holding Company)
+100% owner of:
+Vision CTS, LLC
+
+EXHIBIT B
+Biographies of Key Personnel
+
+Chad Brownfield is a veteran in the telecommunications industry and owner of Vision Concept
+Chad Brownfield
+Technology in Sunbury, Ohio. Mr. Brownfield held the Communications Technician title at InfiNET
+Network Communications for a number of years before moving to Global Knowledge to instruct for the
+largest Cisco training partner in the world. While at Global Knowledge, Chad was responsible for the
+Cisco Unity and Cisco CallManager product lines. He designed all hands-on labs, course curriculum, and
+managed courses and instructors all over the world. Certifications and experience include: MCSE, Cisco,
+Mitel and NEC. Chad brings 21 years of experience and a proven record in the insurance, education and
+retail markets. In addition to his telecommunication contributions, Chad is an active member of his
+community as President of Chamber of Commerce and board member of church.
+
+EXHIBIT C
+Interconnection Agreement
+
+Contract Id: 4511322
+Signature Page/AT&T-21STATE
+Page 1 of 2
+VISION CTS
+Version: 2Q14 - 04/10/14
+AGREEMENT
+BETWEEN
+THE OHIO BELL TELEPHONE COMPANY D/B/A AT&T OHIO
+AND
+VISION CTS, LLC
+
+Contract Id: 4511322
+Signature Page/AT&T-21STATE
+Page 2 of 2
+VISION CTS
+Version: 2Q14 - 04/10/14
+Signature: __e_S_i_g_n_e_d_ _- _C_h_a_d_ _C_._ _B_r_o_w_n_f_ie_l_d_______ Signature: _____e_S_i_g_n_e_d_ _- _K_r_is_t_e_n_ _E_._ S__h_o_re____________
+Name: ____e_S__ig_n_e_d__ -_ C__h_a_d_ _C_._ B_r_o_w__n_fi_e_ld________ Name: ________e_S_i_g_n_e_d_ _- _K_r_is_t_e_n_ _E_._ S_h__o_re____________
+(Print or Type) (Print or Type)
+Title: ________O__p_e_r_a_ti_o_n_s_ _M_a_n_a__g_e_r____________ Title: ________ E __ x _ e _ c _ u _ ti _ v _ e _ D __ ir _ e _ c _ t _ o _ r- _ R __ e _ g _ u _ la _ t _ o _ r _ y _________
+(Print or Type) (Print or Type)
+17 Apr 2015
+Date: ___________1_7_ A__p_r _2_0_1_5__________________ Date: ___________________________________________
+Vision CTS, LLC The Ohio Bell Telephone Company d/b/a AT&T OHIO
+by AT&T Services, Inc., its authorized agent
+
+Contract Id: 4511322
+General Terms and Conditions/AT&T-21STATE
+Page 5 of 55
+VISION CTS
+Version: 4Q14 – ICA – 12/16/14
+1.0 Introduction
+1.1 This Agreement is composed of the foregoing recitals, the General Terms and Conditions (GT&C), set forth below,
+and certain Attachments, Schedules, Exhibits and Addenda immediately following this GT&C, all of which are hereby
+incorporated in this Agreement by this reference and constitute a part of this Agreement.
+2.0 Definitions
+2.1 “Access Service Request (ASR)” means the industry standard form used by the Parties to add, establish, change or
+disconnect trunks for the purposes of Interconnection.
+2.2 “Accessible Letter(s)” means the correspondence used to communicate pertinent information regarding AT&T-
+21STATE to the CLEC community and is (are) provided via posting to the AT&T CLEC Online website.
+2.3 “Act” means the Communications Act of 1934 [47 U.S.C. 153], as amended by the Telecommunications Act of 1996,
+Public Law 104-104, 110 Stat. 56 (1996) codified throughout 47 U.S.C.
+2.4 “Affiliate” is as defined in the Act.
+2.5 “Alternate Billing Service (ABS)” or “Alternately Billed Traffic (ABT)”, as described in Attachment 10 - ABT, means the
+service that allows End Users to bill calls to accounts that may not be associated with the originating line. There are
+three types of ABS/ABT calls: calling card, collect and third number billed calls.
+2.6 “Applicable Law” means all laws, statutes, common law, regulations, ordinances, codes, rules, guidelines, orders,
+permits, tariffs and approvals, including those relating to the environment or health and safety, of any Governmental
+Authority that apply to the Parties or the subject matter of this Agreement.
+2.7 “AT&T Inc.” (AT&T) means the holding company which directly or indirectly owns the following ILECs: BellSouth
+Telecommunications, LLC d/b/a AT&T ALABAMA, AT&T FLORIDA, AT&T GEORGIA, AT&T KENTUCKY, AT&T
+LOUISIANA, AT&T MISSISSIPPI, AT&T NORTH CAROLINA, AT&T SOUTH CAROLINA and AT&T TENNESSEE;
+Illinois Bell Telephone Company d/b/a AT&T ILLINOIS; Indiana Bell Telephone Company Incorporated d/b/a AT&T
+INDIANA; Michigan Bell Telephone Company d/b/a AT&T MICHIGAN; Nevada Bell Telephone Company d/b/a
+AT&T NEVADA and AT&T Wholesale; The Ohio Bell Telephone Company d/b/a AT&T OHIO; Pacific Bell Telephone
+Company d/b/a AT&T CALIFORNIA; Southwestern Bell Telephone Company d/b/a AT&T ARKANSAS, AT&T
+KANSAS, AT&T MISSOURI, AT&T OKLAHOMA and/or AT&T TEXAS, and/or Wisconsin Bell, Inc. d/b/a AT&T
+WISCONSIN. As used in this Agreement, AT&T refers to the AT&T Inc. ILECs only.
+2.8 “AT&T-21STATE” means the AT&T owned ILEC(s) doing business in Alabama, Arkansas, California, Florida,
+Georgia, Illinois, Indiana, Kansas, Kentucky, Louisiana, Michigan, Mississippi, Missouri, Nevada, North Carolina,
+Ohio, Oklahoma, South Carolina, Tennessee, Texas and Wisconsin.
+2.9 “AT&T-12STATE” means the AT&T owned ILEC(s) doing business in Arkansas, California, Illinois, Indiana, Kansas,
+Michigan, Missouri, Nevada, Ohio, Oklahoma, Texas and Wisconsin.
+2.10 “AT&T-10STATE” means the AT&T owned ILEC(s) doing business in Arkansas, Illinois, Indiana, Kansas, Michigan,
+Missouri, Ohio, Oklahoma, Texas and Wisconsin.
+2.11 “AT&T-7STATE” means the AT&T owned ILEC(s) doing business in Arkansas, California, Kansas, Missouri, Nevada,
+Oklahoma and Texas.
+2.12 “AT&T-4STATE” means the AT&T owned ILEC(s) doing business in Arkansas, Kansas, Missouri and Oklahoma.
+2.13 “AT&T ALABAMA” means the AT&T owned ILEC doing business in Alabama.
+2.14 “AT&T ARKANSAS” means the AT&T owned ILEC doing business in Arkansas.
+2.15 “AT&T CALIFORNIA” means the AT&T owned ILEC doing business in California.
+2.16 “AT&T FLORIDA” means the AT&T owned ILEC doing business in Florida.
+2.17 “AT&T GEORGIA” means the AT&T owned ILEC doing business in Georgia.
+2.18 “AT&T ILLINOIS” means the AT&T owned ILEC doing business in Illinois.
+
+Contract Id: 4511322
+General Terms and Conditions/AT&T-21STATE
+Page 17 of 55
+VISION CTS
+Version: 4Q14 – ICA – 12/16/14
+this Agreement, the Act or any tariff or ancillary agreement referenced herein (individually and
+collectively, the “ILEC Assets”).
+3.11.2 This Agreement sets forth the terms and conditions pursuant to which AT&T-21STATE agrees to provide
+CLEC with access to 251(c)(3) UNEs, Collocation under Section 251(c)(6), Interconnection under Section
+251(c)(2) and/or Resale under Section 251(c)(4) in AT&T-21STATE’s incumbent local Exchange Areas for
+the provision of CLEC’s Telecommunications Services. The Parties acknowledge and agree that AT&T-
+21STATE is only obligated to make available 251(c)(3) UNEs, Collocation under Section 251(c)(6),
+Interconnection under Section 251(c)(2) and/or Resale under Section 251(c)(4) to CLEC in AT&T-
+21STATE’s incumbent local Exchange Areas. AT&T-21STATE has no obligation to provide such 251(c)(3)
+UNEs, Collocation, Interconnection and/or Resale, to CLEC for the purposes of CLEC providing and/or
+extending service outside of AT&T-21STATE’s incumbent local Exchange Areas. In addition, AT&T-
+21STATE is not obligated to provision 251(c)(3) UNEs or to provide access to (251(c)(3) UNEs, Collocation
+under Section 251(c)(6), Interconnection under Section 251(c)(2) and/or Resale under Section 251(c)(4)
+and is not otherwise bound by any 251(c) obligations in geographic areas other than AT&T-21STATE’s
+incumbent local Exchange Areas. Therefore, the Parties understand and agree that the rates, terms and
+conditions set forth in this Agreement shall only apply to the Parties and be available to CLEC for
+provisioning Telecommunication Services within an AT&T-21STATE incumbent local Exchange Area(s) in
+the State in which this Agreement has been approved by the relevant state Commission and is in effect.
+3.11.3 Throughout this Agreement, wherever there are references to Unbundled Network Elements that are to be
+provided by AT&T-21STATE under this Agreement, the Parties agree and acknowledge that their intent is
+for the Agreement to comply with Section 3.11.2 above, and require only the provision of Section 251(c)(3)
+UNEs.
+3.12 Affiliates:
+3.12.1 This Agreement, including subsequent amendments, if any, shall bind AT&T-21STATE, CLEC and any
+entity that currently or subsequently is owned or controlled by or under common ownership or control with
+CLEC. CLEC further agrees that the same or substantially the same terms and conditions shall be
+incorporated into any separate agreement between AT&T-21STATE and any such CLEC Affiliate that
+continues to operate as a separate entity. This Agreement shall remain effective as to CLEC and any such
+CLEC Affiliate for the term of this Agreement as stated herein, (subject to any early termination due to
+default), until either AT&T-21STATE or CLEC or any such CLEC Affiliate institutes renegotiation consistent
+with the provisions of this Agreement for renewal and term. Notwithstanding the foregoing, this Agreement
+will not supersede a currently effective interconnection agreement between any such CLEC Affiliate and
+AT&T-21STATE until the expiration of such other agreement.
+4.0 Notice of Changes - Section 251(c)(5)
+4.1 Nothing in this Agreement shall limit either Party’s ability to upgrade its network through the incorporation of new
+equipment, new software or otherwise or to otherwise change and/or modify its network including, without limitation,
+through the retirement and/or replacement of equipment, software or otherwise. Each Party agrees to comply with
+the Network Disclosure rules adopted by the FCC in CC Docket No. 96-98, Second Report and Order, codified at 47
+C.F.R 51.325 through 51.335, as such rules may be amended from time to time (the “Network Disclosure Rules”).
+5.0 Responsibilities of the Parties
+5.1 Each Party is individually responsible to provide facilities within its network that are necessary for routing,
+transporting, measuring, and billing traffic from the other Party’s network and for delivering such traffic to the other
+Party’s network in the standard format compatible with AT&T-21STATE’s network as referenced in iconectiv BOC
+Notes on LEC Networks Practice No. SR-TSV-002275, and to terminate the traffic it receives in that standard format
+to the proper address on its network. The Parties are each solely responsible for participation in and compliance with
+national network plans, including the National Network Security Plan and the Emergency Preparedness Plan.
+
+Contract Id: 4511322
+General Terms and Conditions/AT&T-21STATE
+Page 40 of 55
+VISION CTS
+Version: 4Q14 – ICA – 12/16/14
+21.3.3 on the date set forth on the confirmation produced by the sending facsimile machine when delivered by
+facsimile prior to 5:00 p.m. in the recipient’s time zone, but the next Business Day when delivered by
+facsimile at 5:00 p.m. or later in the recipient’s time zone;
+21.4 Notices will be addressed to the Parties as follows:
+NOTICE CONTACT CLEC CONTACT
+NAME/TITLE Chad C. Brownfield
+Operations Manager
+STREET ADDRESS 690 Kintner Parkway North
+CITY, STATE, ZIP CODE Sunbury, OH 43074
+PHONE NUMBER* (614) 807-5501
+FACSIMILE NUMBER (740) 965-8522
+EMAIL ADDRESS chad.brownfield@vision-tech.net
+AT&T CONTACT
+NAME/TITLE Contract Management
+ATTN: Notices Manager
+FACSIMILE NUMBER (214) 712-5792
+EMAIL ADDRESS The current email address as provided on
+AT&T’s CLEC Online website
+*Informational only and not to be considered as an official notice vehicle under this Section.
+21.5 Either Party may unilaterally change its designated contact name, address, email address, and/or facsimile number
+for the receipt of Notices by giving written Notice to the other Party in compliance with this Section 21.0. Unless
+explicitly stated otherwise, any change to the designated contact name, address, email address, and/or facsimile
+number will replace such information currently on file. Any Notice to change the designated contact name, address,
+email address, and/or facsimile number for the receipt of Notices shall be deemed effective ten (10) calendar days
+following receipt by the other Party.
+21.6 In addition, CLEC agrees that it is responsible for providing AT&T-21STATE with CLEC’s OCN and ACNA numbers
+for the states in which CLEC is authorized to do business and in which CLEC is requesting that this Agreement
+apply. In the event that CLEC wants to change and/or add to the OCN and/or ACNA information in the CLEC Profile,
+CLEC shall send written notice to AT&T-21STATE to be received at least thirty (30) days prior to the change and/or
+addition in accordance with this Section 21.0 notice provision; CLEC shall also update its CLEC Profile through the
+applicable form and/or web-based interface.
+21.6.1 CLEC may not order services under a new account and/or subsequent state certification, established in
+accordance with this Section until thirty (30) days after all information specified in this Section is received
+from CLEC.
+21.6.2 CLEC may be able to place orders for certain services in AT&T-21STATE without having properly updated
+the CLEC Profile; however, at any time during the term of this Agreement without additional notice AT&T
+may at its discretion eliminate such functionality. At such time, if CLEC has not properly updated its CLEC
+Profile, ordering capabilities will cease, and CLEC will not be able to place orders until thirty (30) days after
+CLEC has properly updated its CLEC Profile.
+21.7 AT&T-21STATE communicates official information to CLECs via its Accessible Letter, or other applicable, notification
+processes. These processes involve electronic transmission and/or posting to the AT&T CLEC Online website,
+inclusive of a variety of subjects including declaration of a force majeure, changes on business processes and
+policies, and other product/service related notices not requiring an amendment to this Agreement.

@@ -1,0 +1,368 @@
+~ Local Access LLC
+May 25, 2016
+VIA ECFS
+Marlene Donch
+Secrc1nry
+Federal Communica1ions Commission
+445 12• Stree1 SW
+Washmglon, DC 20554
+Re: Local Access LLC. Applicant for Aulhonzation lo Obt;iin Number Rc:.ources
+Pursuant to Section 52. I 5(g) of the Corrumssions Rules
+Dear Ms. Donch:
+Pursuan1 to Section 52. I S(g)(3 )(i) of the Commission's Rules. Local Access LLC. hereby
+submils irs application requesting authorization to obtain numbering resources.
+For any que~t1on regarding this applicalion please contac1 Aelea Chnstoffcrson a1
+541-771-8814 oraeleara a.tic.com.
+Respectfully Subm11tcd
+Robcn Russell. President
+Local Access LLC
+114422 Lake Butler Blvd. Windermere, Fl, 34786 886-841-7898
+
+Before the
+FEDERAL COMMUNICATIONS COMMISSION
+Washington, DC 20054
+In the matter of:
+Local Access LLC., Applicant for
+AuthoriLatioo to Obtain '.'iumberiog
+Resources Pursuant to Section
+52.IS(g) of the Commission Rules
+APPLICATION OF LOCAL ACCESS LLC. AUTllORJZATION
+TO OBTAIN NlJMBERING RESOURCES
+Local Access LLC. ('"Local Access'") pursuant 10 Section 52. l 5(g)(3)(i) of the Comm1ss1on ·s Rules,
+respectfully requests authorization to obtain oumberiog resources as described below.
+Applicnn1 requests lhe Commission grant it authori.a11ion as set forth in the Commission's Numbering
+und Policies for the Modem Comm1111ic:a1io11s. FCC 15-70 (June 22, 2015) to obtain numbering resources
+from the Nonh American !'umbering Administrator
+In suppon of this application Local Access LLC. provides the folio" mg mform11t1on.
+Applicant.
+Roben Russel
+President
+11442 l.al:e Butler,
+Wmdennere, Fi. 34786
+brusselll!!,localaecessllc.com
+410-603-3836
+Local Access acknowledges that authomation to obiam numbering resources under Section 52.15 (g)
+of the Commission's Rules 1s subject lo compliance wuh applicable Comm1ss1on numbcnng rules,
+numbering authority delegated to the states, and industry guidelines, and practices regarding numbering
+as applicable to telecommunications earners.
+Local Access acknowledges it roust file requests for numbers with lhe relevant state commissioo(s) at
+least lhirty (30) days before requesting numbers from Lhe Numbering Administrators.
+A~ proofof its facilities readiness, Local Access has anached to this application proof of three
+asreements between Local Access and its carrier partners and an agreement with their tandem access
+provider. These agreements provide that their partners will host Local Access numbers on their switches
+and provide PSTN connectivity for inbound calls to Local Access. (Exhibit A)
+
+Local Access is currently certified in 28 s1a1es and has plans 10 offer service in lhe rcstcif the stales, the
+District of Columbia, Pueno Rico. and lhe Vugin Island by I.he end of2016. Deuuls are attached.
+(Exhibit B) Local Access has an OC:\ and SPID and has managed their own number blocks for over ten
+years. Local Access has also just received lhe mosl recent training on the 1connec11v procedures and rules
+in prepamllon for the conversion from :'.l:eustar. As a result. Local Access already bas in place the
+necessary procedures to" enable it to place numbers into service within 60 day~ of approval.
+Local Access hereby certifies that ii has the financial, managenal, and techmcal expertise to provide
+reliable service. Local Access is compnsed of an experienced Telecom and IP management team
+e~tablisbed 20 I 0. Local Access bas been successfully offcnng tenninauon 10 over 150 earners, resellers
+and companies.
+Local Acee>> certifies that it will comply with its Un1verxal Service Fund contribution obligations
+under 47 CFR pan 54, subpart H, its Telecommunications Relay Service contribution obligations under
+47 CFR § 64.604(5)(iii), its North American Numbering Plan and Locnl Number Portabihty
+Adminislmtion contribution obligations under 47 CFR §§52.17. 52.32, its obligations to pay regulatory
+fees under 47CFR§1.1154, and its 91 l obligations under 47 CFR part 9. FCC 499 fees bavc been paid
+by Local Access si11cc 2012 and all fees are up to date per the FCC Rcd-hgh11001.
+Local Access. key management personnel are hs1ed below. None of the identified personnel are being
+or have been investigated by the Commission or any law enforcement or regufotory agency for failure lo
+comply w1lh any Jaw. rule, or order.
+Robert Russell
+President
+Doug Osborne
+Director of Operations
+Noreen Rucinski. Schneider Rucinski Consulting, Consultant
+Jim lludson
+I echmcal Management
+Local Access certifies that no pariy 10 this application 1s sub1ec1 10 a denial of Federal benefilS
+pursuant to scc11on 5301 of the Anti-Drug Abuse Act of 1988. See 21 U.S.C. § 862
+As required by Section 52. I 5(g)(3)(iv), Local Access will maintain the accuracy of all c:ontact
+infonna11on and certLfications in llus application, and will file a correc11on w1lh I.he CommiSl.100 and each
+applicable stale within 30 days of any changes. Local Access, will also furnish uccurate regulatory and
+numbering contact infonnation to each state comnll~~ion when requesting numbers in that state.
+Pursuant to Section 52.15(g)(3)(1) of the Commis>ion' Rules, Local Acee» respectfully rt:quests the
+Commission grant this application for aulhorii.ation 10 obtain number resources.
+Respectfully submillcd,
+~~Robert
+Russell
+President
+
+EXHIBIT A
+
+Contract Id: 4142602
+Slgnalure Page!AT&!·22STAIE
+Pagel ol2
+LOCAL ACCESS UC
+Versioo: 1013 • 03/15113
+AGREEMENT
+BETWEEN
+THE OHIO BELL TELEPHONE COMPANY D/B/A AT&T OHIO
+AND
+LOCAL ACCESS LLC
+~
+~
+at&t
+CN:07182013·1022
+
+Contractld:4142602
+Signftlre Pe{/e/AI&T-22STATE
+Page2of2
+LOCAL ACCESS UC
+Vet*ft: 1013-03/15113
+Signature: eSigned -Robert Russell Signature: eSigned -Vl/illiam A Bockelman
+Name: eSigned -Robert Russell Name: eSigned -Vl/illiam A. Bockelman
+(Print or Type) (Plint or Type)
+Title: President Title: Director
+(Print or Type) (Print or Type)
+Date: 19 Jul 2013 Date: 19 Jul 2013
+Local Access LLC The Ohio Bell Telephone Company d/b/a AT&T OHIO
+by AT&T Services, Inc., Its authorized agent
+CN:07182013-1022
+
+Suzan DeBusk Paiva
+Assistant General Counsel
+171 7 Arch Strce~ 3 East
+Philadelphia, PA 19103
+Tel: (215) 466-4755
+Fa.x: (215) 563-2658
+Suzan.O.Paiva@Verizon.com
+March 7, 2013
+VL.\ ELECTRONIC FILING
+Rosemary Chiavetta, Secretary
+Pennsylvania Public Utility Commission
+Commonwealth Keystone Building
+400 North Street, 2•d Floor
+Harrisburg, PA 17120
+RE: Joint Filing of
+Verizon North LLC and Local Access LLC
+of Adoption of an loterconnection Agreement
+Dkt. No.
+Dear Secretary Chiavetta:
+Enclosed please find the joint fil i11g of Verizon North LLC and Local Access LLC of Adoption of
+an Interconnection Agreement. The Interconnection Agreement being adopted is the Agreement
+between Verizon North LLC and Peerless Network of Pennsylvania, LLC, which was approved by the
+Commission by Order entered December l, 2011 in Docket No. A-2011-2264797. The Adoption is
+deemed effective as of December 14, 2012, and was signed by the second of the lwo parLies' signers on
+February 6, 2013. Thus, this Joint Filing is being made within 30 days of the day that the Agreement was
+signed, as required by ordering Paragraph 5 of the Commission's May 3, 2004 Final Order in Docket No.
+M-00960799. As evidenced by the cc: below, notice of this filing is being provided to Local Access
+LLC.
+Very truly yours,
+·'"
+/ "
+SDP/slb
+Enclosure
+cc: Mr. Jim Finneran, Local Access LLC
+Katherine Baker Marshall, Esquire, Counsel for Local Access LLC
+Attached Service List
+
+released by the FCC on February 4, 2005 (the \RO Remand Order"). or (ii) that
+is otherwise not required by 47 U.S.C. Scctron 251(c)(3) or by 47 C.F.R. Part 51
+C. Notice to Local Access and Verizon as may be required or permitted under the
+Terms shall be provided as follows:
+To Local Access LLC:
+Attention: Jim Finneran
+11442 Lake Butler Blvd.
+Windermere, FL 34786
+Telephone Number: (866) 841-7898, Ext.: 6403
+Facsimile Number. (240) 358~510
+Internet Address: jfinneran@localaccessholdings.com
+To Verizon:
+Director-Negotiations
+Verizon Global Wholesale
+600 Hidden Ridge
+HQEWMNOTICES
+Irving, TX 75038
+Facsimile Number: (972) 719-1519
+Internet Address: wmnotices@verizon.com
+with a copy to:
+Vice President and Deputy General Counsel
+Verizon Global Wholesale
+1320 N. Court House Road
+9ti Floor
+Arlington, VA 22201
+Facsimile: (703) 351-3656
+D. Local Access represents and warrants that it is a certified provider of local
+telecommunications service in the Commonwealth or Pennsylvania, and that its
+adoption of the Terms will cover services in Verizon North's service territory in
+the Commonwealth of Pennsylvania only.
+E. In the event an interconnection agreement between Verizon and Local Access is
+currently in effect in the former GTE service territory within the Commonwealth of
+Pennsylvania (the "Original ICA"), this adoption shall be an amendment and
+restatement of the operating terms and conditions of the Original ICA, and shall
+replace in their entirety the terms of the Original ICA. This adoption is no\
+intended to be, nor shall it be construed to create, a novation or accord and
+satisfaction with respect to the Original ICA. Any outstanding payment
+obligations of the parties that were incurred but not fully performed under the
+Original ICA shall constitute payment obligations of the parties under this
+adoption.
+F. Verizon's standard pricing schedule for interconnection agreements in the
+Commonwealth of Pennsylvania (as such schedule may be amended from time
+to time) (attached as Appendix A hereto) shall apply to Local Access' adoption of
+the Terms. Local Access should note that the aforementioned pricing schedule
+may contain rates for certain services the terms for which are not included in the
+LOCAL ACCESS PAW MFN V113010.DOC 2
+
+SIGNATURE PAGE
+Please arrange for a duly authorized representative of Local Access to sign this letter in the
+space provided below and return it to Verizon.
+Sincerely,
+VERIZON NORTH LLC
+Reviewed and countersigned as to Paragraph 1:
+LOCAL ACCESS LLC
+Robert Russell
+President
+t!n/13
+DATE j
+~rfl~
+9.tawnL
+I
+My Commission Expires
+' September 23, 2015
+LOCAL ACCESS PAW MFN vi 13010.DOC 5
+
+STATE OF ILLINOIS
+ILLINOIS COMMERCE COMMISSION
+Illinois Bell Telephone Company d/b/a AT&T llfinois
+d/b/a AT&T Wholesale and Local Access LLC
+ICC No. 13--0397
+Joint Pet1t1on for Approval of Negotiated lnterconnect1on
+Agreement dated June 10. 2013 pursuant to
+47 u.s c § 252
+NOTICE OF FILING
+PLEASE TAKE NOTICE that we have on this 6th day of September 2013 filed
+with the Chief Clerk of the Illinois Commerce Commission, 527 East Capitol Avenue
+Springfield, llhno1s, Motion To Admit of the Staff of the Illinois Commerce Commission,
+a copy of which 1s hereby served upon you
+Isl
+Matthew L Harvey
+Office of General Counsel
+Illinois Commerce Comm1ss1on
+160 North LaSalle Street
+Suite C-800
+Chicago, Illinois 60601
+(312) 793-2877
+Counsel for the Staff of the
+llhno1s Commerce Commission
+CERTIFICATE OF SERVICE
+I HEREBY CERTIFY that copies of the above Notice together with copies of the
+document referred to therein, have been served upon the parties to whom the Noltce 1s
+directed by first-class mail proper postage prepaid, from Chicago Illinois or by e-mail
+on the 6th day of September. 2013
+Isl
+Matthew L Harvey
+
+STATE OF ILLINOIS
+ILLINOIS COMMERCE COMMISSION
+llhno1s Bell Telephone Company d/b/a
+AT&T Illinois d/b/a AT&T Wholesale
+and Docket No 13-0397
+Local Access. LLC
+Joint Pet1t1on for Approval of 91~ Amendment to
+the Interconnection Agreement dated May 23. 2013
+pursuant to 47 U S C § 252
+MOTION TO ADMIT VERIFIED STATEMENT
+INTO EVIDENCE WITHOUT HEARING
+NOW COMES the Staff of the llhno1s Commerce Comm1ss1on, by and through its
+undersigned counsel and for moves pursuant to Rule 200 190 of the Rules of Practice
+before the Comm1ss1on to admit into evidence without hearing of the Venfied Statement
+of A Atusanio Omon1y1 and in support thereof, states as follows
+On or about June 12, 2013. the Joint Petrtioners hereto. llhno1s Bell
+Telephone Company d/b/a AT&T llhno1s d/b/a AT&T Wholesale and Local Access LLC
+(hereafter "Joint Pet1t1oners") filed their Joint Petition for Approval of their Negotiated
+lnterconnectJon dated May 23 2013, pursuant to 47 USC §252 See. generally
+2 Section 252 of the federal Telecommunications Act provides for state
+Commission approval of negotiated Interconnection Agreements and amendments
+thereto See, generally, 47 U S.C. §252 Section 252(e) provides that
+(1) Any interconnection agreement adopted by negotiation or arbitration shall
+be submitted for approval to the State commission. A State comm1ss1on to which
+an agreement 1s submitted shall approve or reiect the agreement, with wntten
+findings as to any defic1enc1es
+
+Kahna H. Baker Matthew L. Harvey
+Administrabve Law Judge Offioe of General Counsel
+llhno1s Commeroe Commission Illinois Commerce CommsstOf'I
+160 N LaSalle SL Ste C·800 160 N LaSalle SL. Ste C-800
+Chicago. IL 60601 Chicago. IL 60601-3104
+James Huttenhower SanJO Omornyi
+Illinois Bell Telephone Company Case Manager
+d/bla AT&T Illinois dlb/a AT&T Wholesale llhno1s Commerce Comm1ss1on
+225 W Randolph St., Ste. 250 160 N LaSalle St., Ste C-800
+Clllcago. IL 60606 Chicago, IL 60601
+Robert Russell
+Pres1den1
+Locat~LLC
+11442 Lake Butler Blvd
+Windermere. FL 34786
+Staff of the Illinois Commerce Commission:
+Baker H. Katina Admm1strative Law Judge
+Omoniy1, Sanio Case Manager
+Harvey L. Matthew Staff Attorney
+
+\Ot ,.
+t•
+rn e 1Quen
+Confirmation of Service
+For: Local Access, LLC
+Date: 6/10/16
+This document signifies that Local Access LLC. has existing service with lnteliquent The
+following trunk groups are in service:
+NYCMNYBLCA _368
+NYCMNYBLCA_618
+NYCMNYBLCA_695
+NYCMNYBLCA_737
+PHLAPAFGLCA_291
+PHLAP AFGLCA_341
+PHLAPAFGLCA_379
+PHLAPAFGLCA_4 48
+Regards,
+John Nickey
+Dir. Product Development, lnteliquent
+" 312.380.4560 m 303.818.3364 r 'r 866.388.7258
+550 West Adams Street, Suite 900, Chicago, IL 60661
+lnteliauent
+intehquent. 550 West Adams Street. Suite 900. Chicago, IL 60661. 855.404.4768. .liquent com
+
+EXHIBIT B
+
+STATES IN WHICH LOCAL ACCESS LLC IS STATES IN WHICH LOCAL ACCESS LLC MAY BE
+ALREADY CERTIFIED REQUESTING NUMBERS
+California District of Columbia
+Delaware Alabama
+Florida Alaska
+Georgia Arizona
+Tilinois Arkansas
+Indiana Colorado
+Maryland Connectticust
+Massachusetts Hawaii
+Michigan Idaho
+Minnesota Iowa
+Missouri Kansas
+New Jersey Kentucky
+New York Louisiana
+Ohio Maine
+Pennsylvania Mississippi
+Rhode Island Montana
+Texas Nebraska
+Virginia Nevada
+Washington DC New Hampshire
+New Mexico
+North Carolina
+North Dakota
+Oklahoma
+Oregon
+Puerto Rico
+South Carolina
+South Dakota
+Tennessee
+Utah
+Vermont
+Virgin Islands
+Washinton
+West Virgina
+Wiconsin
+Wyoming

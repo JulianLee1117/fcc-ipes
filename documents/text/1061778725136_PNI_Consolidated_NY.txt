@@ -1,0 +1,114 @@
+INTERCONNECTION AGREEMENT
+By and Between
+PEERLESS NETWORK OF NEW YORK, LLC
+And
+TACONIC TELEPHONE CORP
+d/b/a CONSOLIDATED COMMUNICATIONS
+1
+
+This Interconnection Agreement ("Agreement") is made effective by and between Peerless
+Network of New York, LLC (“Peerless”) a corporation organized under the laws of the State of
+New York with offices at 222 South Riverside Plaza, Suite 2730, Chicago, IL 60606 and Taconic
+Telephone Corp. d/b/a Consolidated Communications (“Consolidated”) a corporation organized
+under the laws of the State of New York, with offices at 1 Taconic Place, Chatham, NY 12037.
+Consolidated and Peerless may also be referred to herein singularly as a "Party" or collectively as
+the “Parties."
+RECITALS
+WHEREAS, Consolidated is an incumbent local exchange carrier and Peerless is a
+competitive local exchange carrier and both Parties are authorized by the New York Public
+Service Commission ("Commission") to provide telecommunications services in the State of
+New York; and
+WHEREAS, Sections 251 and 252 of the Communications Act of 1934 as amended by
+the Telecommunications Act of 1996 (the "Act") have specific requirements for interconnection,
+and the Parties intend to comply with these requirements; and
+WHEREAS, The Parties desire to interconnect their respective networks to allow either
+Party to exchange Local Traffic and Tandem Transit Traffic with the other Party; and
+WHEREAS the Parties are entering into this Agreement to set forth the respective
+obligations of the Parties and the terms and conditions under which the Parties will interconnect
+their networks and provide other services as required by the Act and applicable law; and
+WHEREAS, the Parties have arrived at this Agreement through negotiations undertaken
+pursuant to the Act;
+NOW THEREFORE, in consideration of the mutual obligations set forth below, the
+Parties agree to the following terms and conditions:
+1. Scope of Agreement
+1.1 This Agreement addresses the terms and conditions under which Peerless and
+Consolidated agree to exchange Local Traffic and Tandem Transit Traffic between
+their respective End Users, at rates as specified in Schedule I, by a direct or indirect
+connection at the Point of Interconnection (POI) in accordance with this
+Agreement. All traffic that either Party may deliver to the POI that falls outside of
+the definition of Local Traffic or Tandem Transit Traffic shall not be subject to the
+terms and conditions of this Agreement (the "Excluded Traffic") but may be subject
+to other arrangements and/or tariffs of the Parties which shall govern the intercarrier
+treatment of such Excluded Traffic. The Parties further agree that they will strictly
+construe the definition of Local Traffic and will ensure that they each will abide by
+the additional terms and conditions of Section 8 regarding facilities and traffic
+addressed under this Agreement.
+3
+
+14. Term of Agreement, Regulatory Approvals and Filing
+14.1 This Agreement shall commence when fully executed and approved by the
+Commission or allowed to take effect by operation of law and have an initial term
+of one (1) year from the date of that Commission approval. This Agreement shall
+automatically renew for successive one (1) year periods, unless either Party gives
+written notice at least sixty (60) days prior to the expiration of the initial, or any
+renewal term, of its desire not to renew. If such termination notice is given, this
+Agreement shall not renew. However, the Parties will continue to exchange traffic
+to the mutual benefit of their respective End Users; provided, however, that
+physical termination of the connection of the Parties' respective networks
+established in this Agreement shall occur only in compliance with applicable rules
+and regulations of the Commission. During the period prior to termination, the
+Parties agree to cooperate with one another in ensuring that the exchange of Local
+Traffic as provided for in this Agreement is not disrupted and to respond to any
+Commission inquiry that may occur regarding the termination of this Agreement.
+14.2 Each Party is responsible for obtaining and maintaining in effect all state regulatory
+commission approvals and certifications that are required for that Party's provision
+of local exchange and/or local exchange access services in the service areas covered
+by this Agreement.
+14.3 The Parties agree to jointly file this Agreement with the Commission and to fully
+cooperate with each other in obtaining Commission approval.
+14.4 If either Party terminates this Agreement pursuant to Section 14.1, either Party may
+request renegotiation of a successor agreement by providing written notice thereof
+to the other Party within sixty (60) days of receipt of the termination notice. Any
+such request shall be deemed by both Parties to be a request for Interconnection
+pursuant to Section 252 of the Act (or any successor provision), regardless of which
+Party made such request.
+14.5 If either Party requests renegotiation of this Agreement pursuant to Sections 14.4
+above, the rates, terms and conditions of this Agreement shall continue in full force
+and effect until the earlier of one hundred eighty (180) days from the expiration or
+termination of this Agreement or the effective date of its successor agreement,
+whether such successor agreement is established via negotiation, arbitration or
+pursuant to Section 252(i) of the Act. Provided however, if the Parties by written
+mutual agreement extend the negotiation period or if the Parties are actively
+involved in arbitration of a successor agreement this Agreement shall continue in
+effect until such negotiations or arbitration is completed and a successor agreement
+is in effect.
+16
+
+33. Termination for Material Breach
+33. l Either Party may terminate this Agreement for cause upon sixty (60) days prior
+written notice if (a) the other Party materially breaches this Agreement or defaults
+on its obligations and fails to cure such breach or default during such sixty (60) day
+period, (b) the other Party's authority to provide the services provided herein is
+revoked or terminated, or (c) the other Party is insolvent, or files for bankruptcy (or
+other protection from creditors generally) and such bankruptcy petition is not
+dismissed within sixty (60) days. Te1mination of this Agreement for any cause shall
+not release either Party from any liability which at the time of the te1mination had
+already accrued to the other Pa1ty or which thereafter accrues in any respect for any
+act or omission occurring prior to the termination relating to an obligation which is
+expressly stated in this Agreement.
+IN WITNESS WHEREOF, the Parties agree this Agreement shall be deemed effective upon
+approval by the Commission or upon being permitted to go into effect by operation of law, and
+each Party warrants that it has caused this Agreement to be signed and delivered by its duly
+authorized representative.
+By: TACONIC TELEPHONE CORP. By: PEERLESS NETWORK OF
+NEW YORK, LLC.
+Signature Signature
+Sarah Davis Scott Kell
+Typed or Printed Name Typed or Printed Name
+Senior Director - Wholesale Strategies Exec. Vice President of Operations
+Title Title
+1\
+o.~/
+1-15-2019 l°\
+Date
+28

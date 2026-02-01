@@ -1,0 +1,1442 @@
+151 Southhall Lane, Ste. 450
+Maitland, FL 32751
+P.O. Drawer 200
+Winter Park, FL 32790-0200
+www.inteserra.com
+December 12, 2022
+Via ECFS Filing
+REDACTED FOR PUBLIC INSPECTION
+Secretary, Federal Communications Commission
+Washington, DC 20554
+Attn: Wireline Competition Bureau
+RE: Request for Confidential Treatment of Filing of First Communications, LLC; Application of First
+Communications, LLC for Authorization to Obtain Numbering Resources Pursuant to Section
+52.15(g) of the Commission's Rules, WC Docket No. 22-
+Dear Ms. Dortch,
+Pursuant to Section §52.l5(g)(3)(i) of the Commission's Rules,1 First Communications, LLC ("First
+Communications") hereby submits its Application for Authorization to Obtain Numbering Resources.
+First Communications respectfully requests that, pursuant to Sections §0.457 and §0.459 of the
+Commission's Rules,2 the Commission withhold from public inspection and accord confidential treatment
+to Exhibit A to the application because that document contains sensitive trade secrets and commercial
+information that falls within Exemption 4 of the Freedom of Information Act ("FOIA").3 Moreover, First
+Communications would suffer substantial competitive harm if this information were disclosed.
+Exhibit A is accordingly marked with the header "SUBJECT TO REQUEST FOR CONFIDENTIAL TREATMENT - NOT
+FOR PUBLIC INSPECTION."
+In support of this request, First Communications hereby states the following:
+1. IDENTIFICATION OF THE SPECIFIC INFORMATION FOR WHICH CONFIDENTIAL TREATMENT IS
+SOUGHT.
+First Communications seeks confidential treatment of Exhibit A to its Application.
+2. DESCRIPTION OF CIRCUMSTANCES GIVING RISE TO THE SUBMISSION.
+First Communications is submitting as Exhibit A the agreement between its carrier partner as
+proof of First Communications' facilities readiness as required by Section 52. 15(g)(3)(i)(D) of the
+Commission's Rules.
+1 47 C.F.R. § 52.15(g).
+2 47 C.F.R. § 0.457 & §0.459.
+3 See 5 U.S.C. § 552(b)(4). Public disclosure is not required for “trade secrets and commercial or financial
+information obtained from a person and privileged or confidential.”
+
+Page 2 of 3
+3. EXPLANATION OF THE DEGREE TO WHICH THE INFORMATION IS COMMERCIAL OR FINANCIAL,
+OR CONTAINS A TRADE SECRET OR IS PRIVILEGED.
+The information for which First Communications seeks confidential treatment contains sensitive
+commercial information "which would customarily be guarded from competitors". Exhibit A
+describes the agreement between First Communications and its carrier partner and contains
+proprietary commercial information concerning First Communications' network, customers, and
+services.
+4. EXPLANATION OF THE DEGREE TO WHICH THE INFORMATION CONCERNS A SERVICE THAT IS
+SUBJECT TO COMPETITION.
+Exhibit A contains information relating to commercial matters which can be used by other
+interconnected VoIP providers to compromise First Communications’ position in the highly
+competitive interconnected VoIP business sector. Detailed operations and commercial
+information of the type provided by First Communications could compromise First
+Communications' position in this highly competitive industry. Accordingly, release of this
+information would result in substantial competitive harm to First Communications.
+5. EXPLANATION OF HOW DISCLOSURE OF THE INFORMATION COULD RESULT IN SUBSTANTIAL
+COMPETITIVE HARM.
+Competitors could use First Communications' proprietary commercial and operational
+information to First Communications’ detriment as they would gain access to sensitive
+information concerning First Communications’ commercial agreements, as well as information as
+to how First Communications provides its services. The prices and terms for the provision of such
+services are a substantial differentiator between competing carriers. Therefore, disclosure of the
+Carrier Agreement would result in significant competitive harm to First Communications’ carrier
+partner. This information is not normally disclosed to the public.
+6. IDENTIFICATION OF ANY MEASURES TAKEN BY THE SUBMITTING PARTY TO PREVENT
+UNAUTHORIZED DISCLOSURE.
+First Communications has not distributed the information in Exhibit A to the public; First
+Communications is prohibited by contract from publicly disclosing the Carrier Agreement, except
+as expressly authorized by the carrier partner.
+7. IDENTIFICATION OF WHETHER THE INFORMATION IS AVAILABLE TO THE PUBLIC AND THE
+EXTENT OF ANY PREVIOUS DISCLOSURE OF THE INFORMATION TO THIRD PARTIES.
+First Communications does not believe that the Carrier Agreement is available to the public or
+that the Carrier Agreement has ever been disclosed to third parties absent the protection of a
+non-disclosure agreement regarding their contents.
+
+Page 3 of 3
+8. JUSTIFICATION OF THE PERIOD DURING WHICH THE SUBMITTING PARTY ASSERTS THAT
+MATERIAL SHOULD NOT BE AVAILABLE FOR PUBLIC DISCLOSURE.
+First Communications requests that Exhibit A be withheld from public disclosure indefinitely. First
+Communications and its carrier partner intend for the Carrier Agreement to remain in effect
+indefinitely and therefore any disclosure of the Carrier Agreement or their substance would cause
+competitive harm to First Communications’ carrier partner regarding of the timing of the
+disclosure.
+9. OTHER INFORMATION THAT FIRST COMMUNICATIONS BELIEVES MAY BE USEFUL IN ASSESSING
+WHETHER ITS REQUEST FOR CONFIDENTIALITY SHOULD BE GRANTED.
+The information concerns First Communications' proprietary network information, related to
+current and planned commercial and operational information, and as such, is commercially
+sensitive.
+For the foregoing reasons, First Communications respectfully requests the Carrier Agreement be granted
+confidential status and withheld from public inspection.
+Any questions you may have regarding this filing should be directed to my attention at 407-740-3006 or
+via email to croesel@inteserra.com. Thank you for your assistance in this matter.
+Sincerely,
+/s/ Carey Roesel
+Carey Roesel
+Vice President and Consultant
+tms: FCCv2200
+CR/gs
+
+Before the
+FEDERAL COMMUNICATIONS COMMISSION
+Washington, D.C. 20554
+In the Matter of )
+)
+First Communications, LLC For )
+Authorization to Obtain Numbering ) WC Docket No. 22-________
+Resources Pursuant to Section 52.15(g) of )
+The Commission’s Rules )
+APPLICATION OF FIRST COMMUNICATIONS, LLC
+FOR AUTHORIZATION TO OBTAIN NUMBERING RESOURCES
+First Communications, LLC (“First Communications”) pursuant to Section 52.15(g)(3)(i) of the
+Commission’s Rules, respectfully requests authorization to obtain numbering as described below.
+Under the Commission’s Numbering Order,1 an interconnected VoIP provider may obtain
+numbering resources from the Numbering Administrator upon a showing that it is authorized to provide
+service in the area for which the numbering resources are requested. Such authorization may be obtained
+upon an application to the Commission containing the information detailed in Section 52.15.(g)(3)(i)(A)-
+(G) of the Commission’s Rules. First Communications hereby requests the Commission grant it that
+authorization. In support of this application, First Communications provides the following information:
+I. INFORMATION REQUIRED BY SECTION 52.15(g)(3)(i)
+A. § 52.15(g)(3)(i)(A)
+Name: First Communications, LLC
+Address: 3340 West Market Street
+City: Akron
+State: Ohio
+ZIP Code: 44333
+Country: U.S.A.
+Telephone: 800-860-1261
+Website: https://www.firstcomm.com/
+1 Numbering Policies for Modern Communications, FCC 15-70 (rel. June 22, 2015).
+
+Contact for Regulatory Requirements:
+Name: Sandi Murphy
+Address: 3340 West Market St
+City: Akron
+State: OH
+ZIP Code: 44333
+Country: U.S.A.
+Telephone: 330-835-2664
+E-mail Address: smurphy@firstcomm.com
+Compliance, 911, and Law Enforcement:
+Name: Mark Wons
+Address: 1 Tower Lane
+City: Oakbrook Terrace
+State: IL
+ZIP Code: 60181
+Country: U.S.A.
+Telephone: 312-893-0295
+E-mail Address: mwons@firstcomm.com
+B. § 52.15(g)(3)(i)(B)
+First Communications hereby acknowledges that authorization to obtain numbering
+resources under Section 52.15(g) of the Commission’s Rules is subject to compliance with applicable
+Commission numbering rules as well as to the numbering authority delegated to the states. First
+Communications hereby also acknowledges that this authorization is subject to compliance with industry
+guidelines and practices regarding numbering, as applicable to telecommunications carriers. The numbering
+resources that are the subject of this Application will be used to provide interconnected VoIP services
+initially in the states of Illinois, Michigan, and Ohio.
+C. § 52.15(g)(3)(i)(C)
+First Communications hereby acknowledges that it must file requests for numbers with the
+relevant state commission(s) at least 30 days before requesting numbers from the Numbering
+Administrators.
+
+D. § 52.15(g)(3)(i)(D)
+First Communications hereby sets forth its capability to provide service within 60 days of
+the numbering resources activation date.
+To demonstrate its facilities’ readiness, First Communications will have the following
+resources available at its disposal: a fully integrated back-office support system with the ability to schedule
+and process LNP orders from customers and an experienced provisioning department capable of handling
+bulk number ports with over 28 years LNP experience. First Communications has an agreement in place
+with a carrier partner to route traffic to the ILECs. First Communications has attached to this application,
+as Exhibit A, an agreement between First Communications and its carrier partner providing that the carrier
+partner will host First Communications’ numbers on its switches and provide connectivity to the PSTN for
+inbound calls to First Communications numbers. First Communications has requested confidential
+treatment under the Commission’s rules for Exhibit A. Also attached, as Exhibit B, is evidence of an
+interconnection agreement between First Communications’ carrier partner and the local exchange carriers
+in the states of Illinois, Michigan, and Ohio.
+E. § 52.15(g)(3)(i)(E)
+First Communications hereby certifies that it complies with its Universal Service Fund
+contribution obligations under 47 CFR part 54, subpart H, its Telecommunications Relay Service
+contribution obligations under 47 CFR § 64.604(c)(5)(iii), its North American Numbering Plan and Local
+Number Portability Administration contribution obligations under 47 CFR §§ 52.17 and 52.32, its
+obligations to pay regulatory fees under 47 CFR § 1.1154, and its 911 obligations under 47 CFR part 9.
+
+F. § 52.15(g)(3)(i)(F)
+First Communications certifies that it has the financial, managerial, and technical expertise
+to provide reliable service. It is financially stable, led by a strong, experienced management team with
+substantial managerial experience in the telecommunications industry and has sufficient technical expertise
+and infrastructure in place to provide reliable numbering services. First Communications’ key management
+and technical personnel are listed below. None of the identified personnel are being or have been
+investigated by the Commission or any law enforcement or regulatory agency for failure to comply with
+any law, rule, or order.
+Key Personnel:
+Mark Sollenberger - President
+Mark Wons - Vice President of Engineering and Operations
+Sandi Murphy - General Counsel
+G. § 52.15(g)(3)(i)(G)
+First Communications hereby certifies that no party to this application is subject to a denial
+of Federal benefits pursuant to Section 5301 of the Anti-Drug Abuse Act of 1988, 21 U.S.C. § 862.
+II. ACKNOWLEDGEMENT OF CONDITIONS IN SECTION 52.15(g)(3)(iv)
+As required by Section 52.15(g)(3)(iv), First Communications will maintain the accuracy of all
+contact information and certifications in this application and will file a correction with the Commission and
+each applicable state within 30 days of any changes. First Communications will also furnish accurate
+regulatory and numbering contact information to each state commission when requesting numbers in that
+state.
+
+III. CONCLUSION
+Pursuant to Section 52.15(g)(3)(i) of the Commission’s Rules, First Communications respectfully
+requests the Commission grant this application for authorization to obtain numbering resources.
+Respectfully submitted,
+/s/ Carey Roesel
+Carey Roesel - Vice President & Consultant
+Inteserra, Inc.
+(407) 740-3006
+croesel@inteserra.com
+and
+Carolyn Johnson - Network Planning Manager
+First Communications, LLC
+1 Tower Lane
+Suite 2000
+Oakbrook Terrace, IL 60181
+(312) 893-1162
+cjohnson@firstcomm.com
+December 12, 2022
+
+Exhibit A
+AGREEMENT BETWEEN
+FIRST COMMUNICATIONS AND CARRIER PARTNER
+(Confidential exhibit submitted separately)
+
+Exhibit B
+(for each state listed)
+INTERCONNECTION AGREEMENTS BY AND
+BETWEEN CARRIER PARTNER
+AND
+ILLINOIS BELL TELEPHONE COMPANY, LLC
+D/B/A AT&T ILLINOIS
+FOR THE STATE OF ILLINOIS
+AND
+MICHIGAN BELL TELEPHONE COMPANY
+D/B/A AT&T MICHIGAN
+FOR THE STATE OF MICHIGAN
+AND
+THE OHIO BELL TELEPHONE COMPANY
+D/B/A AT&T OHIO
+FOR THE STATE OF OHIO
+
+INTERCONNECTION AGREEMENT SHORT FORM UNDER SECTIONS 251 AND 252/ILLINOIS BELL TELEPHONE COMPANY
+PAGE 1 OF 3
+AT&T ILLINOIS/PEERLESS NETWORK OF ILLINOIS, LLC
+032309
+INTERCONNECTION AGREEMENT
+UNDER SECTIONS 251 AND 252
+OF THE
+TELECOMMUNICATIONS ACT OF 1996
+This Interconnection Agreement is being entered into by and between Illinois Bell Telephone Company1 d/b/a
+AT&T Illinois (“AT&T Illinois”), and Peerless Network of Illinois, LLC (“CLEC” or “Requesting Carrier”), (each a “Party”
+and, collectively, the “Parties”), pursuant to Sections 251 and 252 of the Telecommunications Act of 1996 (“the Act”).
+RECITALS
+WHEREAS, pursuant to Section 252(i) of the Act, CLEC has requested to adopt that certain Interconnection
+Agreement by and between AT&T Illinois and Globalcom, Inc. for the State of Illinois, which was approved by the
+Illinois Commerce Commission (“the Commission”) under Section 252(e) of the Act on August 8, 2001 in docket
+number 01-0437, including any Commission approved amendments to such agreement (collectively the “Adopted
+Agreement”), which is incorporated herein by reference; and
+WHEREAS, AT&T Illinois has agreed to make available to CLEC the Adopted Agreement for adoption in
+exchange for CLEC’s agreement, in conjunction with its adoption of the Adopted Agreement, to amend such
+agreement to conform it to governing law; and
+WHEREAS, the amendment(s) the Parties have agreed to on a negotiated basis to conform the Adopted
+Agreement to governing law, along with any other voluntarily negotiated provisions which are also set forth in this
+Interconnection Agreement (collectively “the MFN Agreement”), are all incorporated herein by this reference and are
+attached hereto and will be submitted to the Commission for approval; and
+NOW, THEREFORE, in consideration of the mutual provisions contained herein and other good and valuable
+consideration, the receipt and sufficiency of which are hereby acknowledged, CLEC and AT&T Illinois hereby agree
+as follows:
+1.0 Incorporation of Recitals and Adopted Agreement by Reference
+1.1 The foregoing Recitals are hereby incorporated into and made a part of the MFN Agreement.
+1.2 Except as expressly stated herein, the Adopted Agreement (including any and all applicable
+Appendices, Schedules, Exhibits, Attachments and Commission-approved Amendments thereto) is
+incorporated herein by this reference and forms an integral part of the MFN Agreement.
+2.0 Modifications to Adopted Agreement
+2.1 References in the Adopted Agreement to “Carrier”, or “CLEC,” or to “Other” shall for purposes of the
+MFN Agreement be deemed to refer to CLEC as defined herein.
+2.2 References in the Adopted Agreement to the “Effective Date,” the date of effectiveness thereof and like
+provisions shall for purposes of the MFN Agreement be deemed to refer to the date which is ten (10)
+days following Commission approval of the MFN Agreement or, absent Commission approval, the date
+the MFN Agreement is deemed approved under Section 252(e)(4) of the Act. In addition, the MFN
+Agreement shall expire on August 19, 2003.
+2.3 The Notices Section in the Adopted Agreement is hereby revised to reflect that Notices should be sent
+to CLEC under the MFN Agreement at the following address:
+1 Illinois Bell Telephone Company (previously referred to as “Illinois Bell” or “SBC Illinois”) now operates under the name “AT&T Illinois”
+pursuant to an assumed name filing with the State of Illinois.
+Page 1 of 354
+
+including cooperating with the Disclosing Party to obtain an appropriate order or other reliable assurance
+that confidential treatment will be accorded the Proprietary Information.
+XX.4 Ownership.
+XX.4.1All Proprietary Information, other than Derivative Information, shall remain the
+property of the Disclosing Party, and all documents or other tangible media delivered to the Receiving Party
+that embody such Proprietary Information shall be, at the option of the Disclosing Party, either promptly
+returned to Disclosing Party or destroyed, except as otherwise may be required from time to time by
+Applicable Law (in which case the use and disclosure of such Proprietary Information will continue to be
+subject to this Agreement), upon the earlier of (i) the date on which the Receiving Party’s need for it has
+expired and (ii) the expiration or termination of this Agreement.
+XX.4.2At the request of the Disclosing Party, any Derivative Information shall be, at the
+option of the Receiving Party, either promptly returned to the Disclosing Party or destroyed, except as
+otherwise may be required from time to time by Applicable Law (in which case the use and disclosure of
+such Derivative Information will continue to be subject to this Agreement), upon the earlier of (i) the date
+on which the Receiving Party’s need for it has expired and (ii) the expiration or termination of this
+Agreement.
+XX.4.3The Receiving Party may at any time either return the Proprietary Information to
+the Disclosing Party or destroy such Proprietary Information. If the Receiving Party elects to destroy
+Proprietary Information, all copies of such information shall be destroyed and upon the written request of
+the Disclosing Party, the Receiving Party shall provide to the Disclosing Party written certification of such
+destruction. The destruction or return of Proprietary Information shall not relieve any Receiving Party of
+its obligation to treat such Proprietary Information in the manner required by this Agreement.
+ARTICLE XXI
+TERM AND TERMINATION
+XXI.1 Term. The initial term of this Agreement shall commence on the Effective Date and shall
+continue in full force and effect until and including August 19, 2003 (the “Initial Term”). Upon expiration
+of the Initial Term, this Agreement shall automatically be renewed for additional one (1)-year periods (each,
+a “Renewal Term”; “Renewal Term” and “Initial Term” sometimes collectively referred to herein as
+the “Term”) unless a Party delivers to the other Party written notice of termination of this Agreement at
+least one hundred twenty (120) days prior to the expiration of the Initial Term or a Renewal Term.
+73
+Page 84 of 354
+
+Page 102 of 354
+
+AMENDMENT – ICC JUNE 9, 2004 ORDER – CAUSE NO. 02-0864 /ILLINOIS BELL TELEPHONE COMPANY
+PAGE 1 OF 4
+SBC ILLINOIS/GLOBALCOM, INC.
+030305
+ICC JUNE 9, 2004 ORDER AMENDMENT
+TO THE INTERCONNECTION AGREEMENT UNDER
+SECTIONS 251 AND 252 OF THE TELECOMMUNICATIONS ACT OF 1996
+This ICC June 9, 2004 Order Amendment to the Interconnection Agreement under Sections 251 and 252 of the
+Telecommunications Act of 1996 (the “Amendment”) is being entered into by and between Illinois Bell Telephone
+Company d/b/a SBC Illinois (“SBC Illinois”)1 and Globalcom, Inc. (“CLEC”).
+WHEREAS, SBC Illinois and CLEC are parties to an interconnection agreement that was previously submitted to
+the Illinois Commerce Commission (“ICC”) for approval, and may have been amended prior to this Amendment (the
+“Agreement”);
+WHEREAS, the ICC issued an order (“Order”) in Docket No. 02-0864, on June 9, 2004, approving certain
+Illinois-specific prices and other requirements pertaining to unbundled network elements (“UNEs”) that are included in
+the Agreement;
+WHEREAS, provisions of the Agreement require the incorporation into the Agreement of new prices such as
+those established by the Order; and
+WHEREAS, based on the foregoing and except as may be otherwise expressly noted, the Parties are entering
+into this Amendment to incorporate pricing changes into the Agreement, subject to the reservation of rights and other
+provisions hereof.
+NOW, THEREFORE, in consideration of the mutual promises contained herein, the Parties agree as follows:
+1. INTRODUCTION
+1.1 Unless otherwise defined herein, capitalized terms shall have the meanings assigned to such terms in the
+Agreement.
+1.2 To the extent there is a conflict or inconsistency between the provisions of this Amendment and the
+provisions of the Agreement (including all incorporated or accompanying Appendices, Addenda and Exhibits
+to the Agreement), the provisions of this Amendment shall control and apply but only to the extent of such
+conflict or inconsistency.
+2. AMENDMENT TO THE AGREEMENT
+2.1 On and after the Amendment Effective Date (as defined in Section 3 of this Amendment), the Agreement is
+hereby amended by referencing and incorporating the following:
+2.1.1 Solely to conform the Agreement to effectuate certain pricing changes established by the
+Commission, the Agreement is amended to add the attached pricing schedule labeled Attachment A
+(which is incorporated herein).
+2.1.2 Subject to Section 2.3, and except to the extent otherwise specified in Attachment A, the new rates
+and rate structures shall begin to apply on June 25, 2004.
+2.2 This Amendment is provided as a means by which the Parties, which have an interconnection agreement
+under Sections 251 and 252 of the Telecommunications Act of 1996, can obtain the rights and obligations
+under ICC orders. Nothing in this Amendment expands, contracts, or otherwise affects either Party’s rights
+or obligations under the Agreement beyond the express provisions of this Amendment.
+2.3 Notwithstanding anything to the contrary, including anything in the Agreement or this Amendment (including
+Section 2.1.2 hereof), in no event shall this Amendment result in the retroactive application of any rate or
+rate structure contained in Attachment A back to any date earlier than June 25, 2004. This limitation to the
+1Illinois Bell Telephone Company (previously referred to as "Illinois Bell") is a wholly-owned subsidiary of Ameritech Corporation that offers
+telecommunications services, and now operates under the name "SBC Illinois" pursuant to an assumed name filing with the State of Illinois.
+Ameritech Corporation is a wholly-owned subsidiary of SBC Communications Inc.
+Page 238 of 354
+
+AMENDMENT – ICC JUNE 9, 2004 ORDER – CAUSE NO. 02-0864 /ILLINOIS BELL TELEPHONE COMPANY
+PAGE 2 OF 4
+SBC ILLINOIS/GLOBALCOM, INC.
+030305
+retroactive application of rates contained in this Amendment is not intended and shall not be construed in
+any way to limit either Party to rate application “true-up” provisions contained in the Agreement, any
+amendment to that Agreement, including that certain Amendment that contains Schedule 9.2.8, or any FCC
+or ICC Orders including the Final Order in ICC Docket No. 01-0662, as such limitation is strictly limited to
+those rates specified in Attachment A.
+2.4 To the extent the underlying Agreement does not contain terms and conditions for UNE(s) listed in
+Attachment A to this Amendment, this Amendment does not provide CLEC with the ability to obtain and/or
+order such UNEs. Rather, CLEC must negotiate a separate amendment incorporating the appropriate terms
+and conditions into the underlying Agreement before ordering and/or obtaining any such UNE(s) under this
+Agreement.
+3. AMENDMENT EFFECTIVE DATE
+3.1 The effective date of this Amendment shall be immediate upon approval of this Amendment by the ICC
+under Section 252(e) of the Act or, absent such ICC approval, the date this Amendment is filed under
+Section 252(e)(4) of the Act (“Amendment Effective Date”); provided, however, that the rates contained
+herein shall be applied in accordance with Sections 2.1.2 and 2.3 of this Amendment. In the event that all or
+any portion of this Amendment as agreed-to and submitted is rejected and/or modified by the ICC, this
+Amendment shall be automatically suspended and, unless otherwise mutually agreed, the Parties shall
+expend diligent efforts to arrive at mutually acceptable new provisions to replace those rejected and/or
+modified by the ICC; provided, however, that failure to reach such mutually acceptable new provisions within
+ten (10) days after such suspension shall permit either party to terminate this Amendment upon five (5)
+days’ written notice to the other.
+4. TERM OF AMENDMENT
+4.1 EXCEPT AS MODIFIED HEREIN, ALL OTHER TERMS AND CONDITIONS OF THE UNDERLYING
+AGREEMENT SHALL REMAIN UNCHANGED. Nothing contained herein modifies or amends Article 28 of
+the Agreement. This Amendment will become effective as of the Amendment Effective Date, and will
+terminate on the termination or expiration of the Agreement; provided, however, this Amendment, in whole
+or in part, may terminate or expire earlier pursuant to other provisions of this Amendment, including Section
+6, as provided in Article 28 of the Agreement. This Amendment does not extend the term of the Agreement.
+5. APPLICATION OF FEDERAL REQUIREMENTS AND OBLIGATIONS
+5.1 The Parties acknowledge and agree that this Amendment is the result of ICC rate orders and solely
+addresses pricing. Accordingly, the Parties further acknowledge and agree that no aspect of this
+Amendment qualifies for portability into any other state under any state or federal statute, regulation, order
+or legal obligation (collectively "Law"), if any. The Parties also acknowledge that the entirety of this
+Amendment and its provisions are non-severable, and are “legitimately related” as that phrase is understood
+under Section 252(i) of Title 47, United States Code.
+6. RESERVATIONS OF RIGHTS
+6.1 In entering into this Amendment, neither Party is waiving, and each Party hereby expressly reserves, any of
+the rights, remedies or arguments it may have at law or under the intervening law or regulatory change
+provisions in the underlying Agreement (including intervening law rights asserted by either Party via written
+notice predating this Amendment) with respect to any orders, decisions, legislation or proceedings and any
+remands thereof, including, without limitation, the following actions, which the Parties have not yet fully
+incorporated into this Agreement or which may be the subject of further government review: Verizon v. FCC,
+et. al, 535 U.S. 467 (2002); USTA, et. al v. FCC, 290 F.3d 415 (D.C. Cir. 2002) and following remand and
+appeal, USTA v. FCC, 359 F.3d 554 (D.C. Cir. 2004); the FCC’s Triennial Review Order (rel. Aug. 21,
+2003); and the FCC’s Order on Remand and Report and Order in CC Dockets No. 96-98 and 99-68, 16
+FCC Rcd 9151 (2001), (rel. April 27, 2001), which was remanded in WorldCom, Inc. v. FCC, 288 F.3d 429
+(D.C. Cir. 2002).
+Page 239 of 354
+
+AMENDMENT – ICC JUNE 9, 2004 ORDER – CAUSE NO. 02-0864 /ILLINOIS BELL TELEPHONE COMPANY
+PAGE 3 OF 4
+SBC ILLINOIS/GLOBALCOM, INC.
+030305
+6.2 This Amendment does not in any way prohibit, limit, or otherwise affect either Party from taking any position
+with respect to the Order or any other ICC order or any issue or subject addressed or implicated therein, or
+from raising and pursuing its rights and abilities with respect to the Order or any other ICC order or any
+issue or subject addressed or implicated therein, or any legislative, regulatory, administrative or judicial
+action with respect to any of the foregoing.
+6.3 Notwithstanding this Amendment and without limiting Section 6.3, SBC Illinois (and its affiliates) is not
+waiving its rights, abilities, remedies or arguments with respect to the non-applicability of, and interaction
+between, the Telecommunications Act of 1996 (including Sections 251 and 252) to the Order or any other
+ICC order (including the Illinois-specific requirements regarding wholesale subject matters addressed
+therein). SBC Illinois (and its affiliates) fully reserves its rights to raise and take any position with respect
+thereto, and to pursue such rights, abilities, remedies and arguments.
+7. MISCELLANEOUS
+7.1 On and from the Amendment Effective Date, reference to the Agreement in any notices, requests, orders,
+certificates and other documents shall be deemed to include this Amendment, whether or not reference is
+made to this Amendment, unless the context shall be otherwise specifically noted.
+7.2 This Amendment may be executed in counterparts, each of which shall be deemed an original but all of
+which when taken together shall constitute a single agreement.
+7.3 This Amendment constitutes the entire amendment of the Agreement and supersedes all previous
+proposals, both verbal and written.
+7.4 The Parties acknowledge that in no event shall any provision of this Amendment apply prior to the
+“Amendment Effective Date”; provided, however, that the rates contained herein shall be applied in
+accordance with Sections 2.1.2 and 2.3 of this Amendment.
+Page 240 of 354
+
+Page 241 of 354
+
+AMENDMENT – ICC DOCKET 05-0442 TRO/TRRO COLLABORATIVE/THE ILLINOIS BELL TELEPHONE COMPANY
+PAGE 1 OF 3
+SBC ILLINOIS/GLOBALCOM, INC.
+120505
+AMENDMENT TO
+INTERCONNECTION AGREEMENT
+BETWEEN
+ILLINOIS BELL TELEPHONE COMPANY d/b/a SBC ILLINOIS
+AND
+GLOBALCOM, INC.
+This TRO/TRRO Amendment amends the Interconnection Agreement by and between Illinois Bell Telephone
+Company d/b/a SBC Illinois (“SBC”) and Globalcom, Inc. (“CLEC”). SBC and CLEC are hereinafter referred to
+collectively as the “Parties” and individually as a "Party". This Amendment applies in SBC’s service territory in the
+State of Illinois.
+WITNESSETH:
+WHEREAS, SBC and CLEC are Parties to an Interconnection Agreement under Sections 251 and 252 of the
+Communications Act of 1934, as amended [the “Act”], dated June 9, 2004 (the "Agreement"); and
+WHEREAS, the Federal Communications Commission (the “FCC”) released an order on August 21, 2003 in CC
+Docket Nos. 01-338, 96-98, and 98-147 (the “Triennial Review Order” or “TRO”), which became effective as of
+October 2, 2003;
+WHEREAS, on March 2, 2004, the U.S. Court of Appeals for the District of Columbia Circuit issued a decision
+affirming in part and vacating in part the TRO, and the affirmed portions of the TRO subsequently have become final
+and non-appealable;
+WHEREAS, the FCC released orders on August 9, 2004 and October 18, 2004 in Docket No. 01-338, (“TRO
+Reconsideration Orders”) which subsequently became effective;
+WHEREAS, the FCC released an order on February 4, 2005 in WC Docket No 04-313 and CC Docket No. 01-
+338, (the “Triennial Review Remand Order” or “TRO Remand”), which became effective as of March 11, 2005;
+WHEREAS, pursuant to Section 252(a)(1) of the Act, the Parties wish to amend the Agreement in order to give
+contractual effect to the effective portions of the TRO, TRO Reconsideration Orders, and TRO Remand as set forth
+herein;
+NOW, THEREFORE, in consideration of the promises and mutual agreements set forth herein, the Parties agree
+to amend the Agreement as follows:
+1. The Parties agree that the Agreement should be amended by the addition of the terms and conditions set forth in
+the TRO/TRO Remand Attachment attached hereto.
+2. Conflict between this Amendment and the Agreement. This Amendment shall be deemed to revise the terms
+and provisions of the Agreement only to the extent necessary to give effect to the terms and provisions of this
+Amendment. In the event of a conflict between the terms and provisions of this Amendment and the terms and
+provisions of the Agreement this Amendment shall govern, provided, however, that the fact that a term or
+provision appears in this Amendment but not in the Agreement, or in the Agreement but not in this Amendment,
+shall not be interpreted as, or deemed grounds for finding, a conflict for purposes of this Section 2.
+3. Counterparts. This Amendment may be executed in one or more counterparts, each of which when so executed
+and delivered shall be an original and all of which together shall constitute one and the same instrument.
+4. Captions. The Parties acknowledge that the captions in this Amendment have been inserted solely for
+convenience of reference and in no way define or limit the scope or substance of any term or provision of this
+Amendment.
+Page 253 of 354
+
+AMENDMENT – ICC DOCKET 05-0442 TRO/TRRO COLLABORATIVE/THE ILLINOIS BELL TELEPHONE COMPANY
+PAGE 2 OF 3
+SBC ILLINOIS/GLOBALCOM, INC.
+120505
+5. Scope of Amendment. This Amendment shall amend, modify and revise the Agreement only to the extent set
+forth expressly in Section 1 of this Amendment. Nothing in this Amendment shall be deemed to amend or
+extend the term of the Agreement, or to affect the right of a Party to exercise any right of termination it may have
+under the Agreement. Nothing in this Amendment shall affect the general application and effectiveness of the
+Agreement’s “change of law,” “intervening law”, “successor rates” and/or any similarly purposed provisions.
+6. This Amendment may require that certain sections of the Agreement shall be replaced and/or modified by the
+provisions set forth in this Amendment. The Parties agree that such replacement and/or modification shall be
+accomplished without the necessity of physically removing and replacing or modifying such language throughout
+the Agreement.
+7. The Parties acknowledge and agree that this Amendment shall be filed with, and is subject to approval by the
+Commission and shall become effective ten (10) days following approval by such Commission (the “Amendment
+Effective Date”).
+8. Reservation of Rights. Nothing contained in this Amendment shall limit either Party’s right to appeal, seek
+reconsideration of or otherwise seek to have stayed, modified, reversed or invalidated any order, rule, regulation,
+decision, ordinance or statute issued by the Commission, the FCC, any court or any other governmental
+authority related to, concerning or that may affect either Party’s obligations under the Agreement, this
+Amendment, any SBC tariff, or Applicable Law. Furthermore, to the extent any terms of this Amendment are
+imposed by arbitration, a party's act of incorporating those terms into the agreement should not be construed as
+a waiver of any objections to that language and each party reserves its right to later appeal, challenge, seek
+reconsideration of, and/or oppose such language.
+Page 254 of 354
+
+Page 255 of 354
+
+AMENDMENT – IL RESALE APPENDIX 911/E911 SURCHARGES/ILLINOIS BELL TELEPHONE COMPANY
+PAGE 1 OF 3
+SBC ILLINOIS/GLOBALCOM INC.
+071305
+AMENDMENT TO
+INTERCONNECTION AGREEMENT
+BY AND BETWEEN
+ILLINOIS BELL TELEPHONE COMPANY d/b/a SBC ILLINOIS
+AND
+GLOBALCOM INC.
+WHEREAS, effective December 1, 2004, the Illinois Commerce Commission has made changes to the Illinois
+Administrative Code (the “Code”), Title 83, Chapter I subchapter f, Part 725, Section 725.810 regarding the process for
+collecting and remitting all applicable 911 fees and surcharges on a per line basis to the appropriate Public Safety
+Answering Point (“PSAP”) or other governmental authority responsible for collection of such fees and surcharges, and
+NOW, THEREFORE, the Parties agree that the existing Interconnection Agreement (the “Agreement”) by and
+between Illinois Bell Telephone Company d/b/a SBC Illinois1 (“SBC Illinois”) and Globalcom Inc. (“CLEC”) is hereby
+amended as follows:
+(1) To the extent that the Agreement contains a “9-1-1” or “E9-1-1” section of the Resale Appendix2 governing CLEC’s
+resale operations, (hereafter, “Reseller CLEC”), the parties agree to add the following terms:
+(A) Upon the Effective Date of this Amendment, and no later than November 30, 2005, the Parties hereby
+agree to comply with the changes made by the Illinois Commerce Commission to the Illinois
+Administrative Code (the “Code”), Title 83, Chapter I, subchapter f, Part 725, Section 725.810,
+regarding collection and remittance of all applicable 911 fees and surcharges. (B) The Reseller CLEC
+is responsible for remitting the aforementioned 9-1-1 surcharges or fees regardless of whether such 9-
+1-1 surcharges or fees are billed and/or collected from the Resale End User, and regardless of whether
+they are itemized on a per-line basis or simply included as a part of the overall charges assessed to
+the Resale End User.
+(B) Beginning on the effective date of this Amendment, and no later than November 30, 2005, SBC Illinois
+will cease billing the 9-1-1 surcharges to the Reseller CLEC on the monthly Resale Services bill, and
+SBC Illinois will cease remitting the 9-1-1 surcharges to the applicable municipalities or government
+agencies on the Reseller CLEC’s behalf. SBC Illinois’ obligations to route the Resale End User’s 9-1-1
+calls to the appropriate PSAP, and to administer the 9-1-1 database, where applicable, will remain
+unchanged by this change in billing processes.
+(2) All other terms and conditions of the Agreement remain unchanged.
+(3) This Amendment shall not modify or extend the Effective Date or Term of the underlying Agreement, but rather, shall
+be coterminous with such Agreement.
+(4) EXCEPT AS MODIFIED HEREIN, ALL OTHER TERMS AND CONDITIONS OF THE UNDERLYING AGREEMENT
+SHALL REMAIN UNCHANGED AND IN FULL FORCE AND EFFECT.
+(5) In entering into this Amendment and carrying out the provisions herein, neither Party waives, but instead expressly
+reserves, all of its rights, remedies and arguments with respect to any orders, decisions, legislation or proceedings
+and any remands thereof and any other federal or state regulatory, legislative or judicial action(s), including, without
+limitation, its intervening law rights (including intervening law rights asserted by either Party via written notice
+predating this Amendment) relating to the following actions, which the Parties have not yet fully incorporated into this
+Agreement or which may be the subject of further government review: Verizon v. FCC, et. al, 535 U.S. 467 (2002);
+USTA v. FCC, 290 F.3d 415 (D.C. Cir. 2002) and following remand and appeal, USTA v. FCC, 359 F.3d 554 (D.C.
+Cir. 2004); the FCC’s Triennial Review Order, CC Docket Nos. 01-338, 96-98, and 98-147 (FCC 03-36) including,
+1 Illinois Bell Telephone Company (previously referred to as "Illinois Bell"), is a wholly owned subsidiary of Ameritech Corporation and now operates under the name
+"SBC Illinois" pursuant to an assumed name filing with the State of Illinois. Ameritech Corporation is a wholly-owned subsidiary of SBC Communications Inc.
+2 Or the 911 section of the standalone Resale Agreement, if a standalone Resale Agreement is in place.
+Page 283 of 354
+
+AMENDMENT – IL RESALE APPENDIX 911/E911 SURCHARGES/ILLINOIS BELL TELEPHONE COMPANY
+PAGE 2 OF 3
+SBC ILLINOIS/GLOBALCOM INC.
+071305
+without limitation, the FCC’s MDU Reconsideration Order (FCC 04-191) (rel. Aug. 9, 2004) and the FCC’s Order on
+Reconsideration (FCC 04-248) (rel. Oct. 18, 2004); the FCC’s Order on Remand (FCC 04-290) in WC Docket No.
+04-312 and CC Docket No. 01-338 (rel. Feb. 4, 2005) (“TRO Remand Order”); and the FCC’s Order on Remand and
+Report and Order in CC Dockets No. 96-98 and 99-68, 16 FCC Rcd 9151 (2001), (rel. April 27, 2001) (“ISP
+Compensation Order”), which was remanded in WorldCom, Inc. v. FCC, 288 F.3d 429 (D.C. Cir. 2002) to the FCC’s
+Notice of Proposed Rulemaking as to Intercarrier Compensation, CC Docket 01-92 (Order No. 01-132) (rel. April 27,
+2001).
+(6) This Amendment shall be filed with and subject to approval by the Illinois Commerce Commission and hereinafter
+referred to as Effective Date of this Amendment.
+Page 284 of 354
+
+Page 285 of 354
+
+AMENDMENT-EMERGENCY NUMBER SERVICE ACCESS PRICING SCHEDULE/ILLINOIS BELL TELEPHONE COMPANY
+PAGE 1 OF 2
+AT&T ILLINOIS/GLOBALCOM, INC.
+110106
+AMENDMENT TO
+INTERCONNECTION AGREEMENT
+BY AND BETWEEN
+ILLINOIS BELL TELEPHONE COMPANY d/b/a AT&T ILLINOIS
+AND
+GLOBALCOM, INC.
+The Interconnection Agreement (“the Agreement”) by and between Illinois Bell Telephone Company d/b/a AT&T Illinois1
+(“AT&T Illinois”) and Globalcom, Inc. (“CLEC”) is hereby amended as follows:
+1. Revised Price Schedule – Emergency Number Service Access which is attached hereto.
+2. This Amendment shall not modify or extend the Effective Date or Term of the underlying Agreement, but rather, shall
+be coterminous with such Agreement.
+3. EXCEPT AS MODIFIED HEREIN, ALL OTHER TERMS AND CONDITIONS OF THE UNDERLYING AGREEMENT
+SHALL REMAIN UNCHANGED AND IN FULL FORCE AND EFFECT.
+4. In entering into this Amendment, neither Party is waiving, and each Party hereby expressly reserves, any of the
+rights, remedies or arguments it may have at law or under the intervening law or regulatory change provisions in the
+underlying Agreement (including intervening law rights asserted by either Party via written notice predating this
+Amendment) with respect to any orders, decisions, legislation or proceedings and any remands thereof, including,
+without limitation, the following actions, which the Parties have not yet fully incorporated into this Agreement or
+which may be the subject of further government review: Verizon v. FCC, et. al, 535 U.S. 467 (2002); USTA, et. al v.
+FCC, 290 F.3d 415 (D.C. Cir. 2002) and following remand and appeal, USTA v. FCC, 359 F.3d 554 (D.C. Cir.
+2004); the FCC’s Triennial Review Order (rel. Aug. 21, 2003) including, without limitation, the FCC’s MDU
+Reconsideration Order (FCC 04-191) (rel. Aug. 9, 2004) and the FCC’s Order on Reconsideration (FCC 04-248)
+(rel. Oct. 18, 2004); the FCC’s Order on Remand (FCC 04-290), WC Docket No. 04-313 and CC Docket No. 01-338
+(rel. Feb. 4, 2005) (“TRO Remand Order”); the FCC’s Report and Order and Notice of Proposed Rulemaking (FCC
+05-150), CC Docket Nos. 02-33, 01-337, 95-20, 98-10 and WC Docket Nos. 04-242 and 05-271 (rel. Sept. 23,
+2005) (“Title I Order”); and the FCC’s Order on Remand and Report and Order in CC Dockets No. 96-98 and 99-68,
+16 FCC Rcd 9151 (2001), (rel. April 27, 2001), which was remanded in WorldCom, Inc. v. FCC, 288 F.3d 429 (D.C.
+Cir. 2002).
+5. This Amendment shall be filed with and is subject to approval by the Illinois Commerce Commission and shall
+become effective ten (10) days following approval by such Commission.
+Illinois Bell Telephone Company (previously referred to as “Illinois Bell” or “SBC Illinois”) now operates under the name “AT&T Illinois” pursuant to an
+assumed name filing with the State of Illinois.
+Page 286 of 354
+
+Page 287 of 354
+
+AMENDMENT–REGCPORDIL03550 REVISING CONFORMING POST TRO REMAND/AT&T ILLINOIS
+PAGE 1 OF 3
+PEERLESS NETWORK OF ILLINOIS, LLC
+VERSION-04/10/08
+041008
+AMENDMENT TO
+INTERCONNECTION AGREEMENT
+BETWEEN
+ILLINOIS BELL TELEPHONE COMPANY d/b/a AT&T ILLINOIS
+AND
+PEERLESS NETWORK OF ILLINOIS, LLC
+This Amendment modifies the Interconnection Agreement by and between Illinois Bell Telephone Company
+d/b/a AT&T Illinois1 (“AT&T”) and Peerless Network of Illinois, LLC (“CLEC”). AT&T and CLEC are hereinafter
+referred to collectively as the “Parties” and individually as a "Party". This Amendment applies in AT&T’s service
+territory in the State of Illinois.
+WITNESSETH:
+WHEREAS, AT&T and CLEC are Parties to an Interconnection Agreement under Sections 251 and 252 of the
+Communications Act of 1934, as amended (the “Act”); and
+WHEREAS, the Parties amended said Agreement (the “TRO/TRRO Amendment”) pursuant to the Illinois
+Commerce Commission’s (“IL-CC’s”) Order in Case No. 05-0442 regarding implementation of the FCC’s Triennial
+Review Order and Triennial Review Remand Order (the “Illinois Order”); and
+WHEREAS, on September 21, 2007, the United States District Court for the Northern District of Illinois issued an
+order reversing, in part, the Illinois Order; and
+WHEREAS, the Parties desire to amend the Agreement and, more specifically, the TRO/TRRO Amendment, to
+reflect the Court’s decision;
+NOW, THEREFORE, in consideration of the promises and mutual agreements set forth herein, the Parties agree
+as follows:
+1. The TRO/TRRO Amendment, under the Illinois TRO/TRRO Attachment thereto, is amended as stated below:
+1.1 The clause “serving Mass Market Customers” is deleted from the text of Section 0.1.2;
+1.2 The clause “serving a Mass Market Customer premises” is deleted from the text of Section 0.1.3;
+1.3 The clause “ serves a Mass Market Customer and ” is deleted from the text of Section 0.1.4; and
+1.4 The text of Section 0.1.5 is removed in its entirety and replaced with “Intentionally left blank.”
+2. This Amendment shall not modify or extend the Effective Date or Term of the underlying Agreement, but rather
+shall be coterminous with such Agreement.
+3. EXCEPT AS MODIFIED HEREIN, ALL OTHER TERMS AND CONDITIONS OF THE UNDERLYING
+AGREEMENT SHALL REMAIN UNCHANGED AND IN FULL FORCE AND EFFECT.
+4. The Parties acknowledge and agree that this Amendment shall be filed with, and is subject to approval by, the
+IL-CC and shall become effective ten (10) days following approval by such Commission.
+1 Illinois Bell Telephone Company (previously referred to as “Illinois Bell” or “SBC Illinois”) now operates under the name “AT&T Illinois”
+pursuant to an assumed name filing with the State of Illinois.
+Page 296 of 354
+
+AMENDMENT–REGCPORDIL03550 REVISING CONFORMING POST TRO REMAND/AT&T ILLINOIS
+PAGE 2 OF 3
+PEERLESS NETWORK OF ILLINOIS, LLC
+VERSION-04/10/08
+041008
+5. Reservation of Rights. In entering into this Amendment, neither Party waives, and each Party expressly
+reserves, any rights, remedies or arguments it may have at law or under the intervening law or regulatory
+change provisions in the underlying Agreement (including intervening law rights asserted by either Party via
+written notice predating this Amendment) with respect to any orders, decisions, legislation or proceedings and
+any remands thereof, which the Parties have not yet fully incorporated into this Agreement or which may be the
+subject of further review.
+Page 297 of 354
+
+Page 298 of 354
+
+AMENDMENT – ISP-BOUND TRAFFIC INTERCARRIER COMPENSATION (ADOPTING FCC INTERIM TERMINATING COMPENSATION PLAN)/AT&T
+ILLINOIS
+PAGE 1 OF 3
+PEERLESS NETWORK OF ILLINOIS, LLC
+VERSION – 10/06/08
+032309
+AMENDMENT TO
+INTERCONNECTION AGREEMENT
+BY AND BETWEEN
+ILLINOIS BELL TELEPHONE COMPANY d/b/a AT&T ILLINOIS
+AND
+PEERLESS NETWORK OF ILLINOIS, LLC
+Peerless Network of Illinois d/b/a AT&T Illinois1, as the Incumbent Local Exchange Carrier in Illinois, (hereafter,
+“ILEC”) and Peerless Network of Illinois, LLC as a Competitive Local Exchange Carrier (“CLEC”) in Illinois, (referred to as
+“CARRIER”), in order to amend, modify and supersede any affected provisions of their Interconnection Agreement with
+ILEC in Illinois (“Interconnection Agreement”), hereby execute this Reciprocal Compensation Amendment for ISP-Bound
+Traffic (“Amendment”). CLEC is also referred to as a “LEC”.
+1.0 Scope of Amendment
+1.1 ILEC made an offer to all telecommunications carriers in the State of Illinois (the “Offer”) to exchange traffic on
+and after September 1, 2004 pursuant to the terms and conditions of the FCC’s interim ISP terminating
+compensation plan of the FCC’s Order on Remand and Report and Order, In the Matter of Implementation of the
+Local Competition Provisions in the Telecommunications Act of 1996, Intercarrier Compensation for ISP-Bound
+Traffic, FCC 01-131, CC Docket Nos. 96-98, 99-68 (rel. April 27, 2001) (“FCC ISP Compensation Order”) which
+was remanded but not vacated in WorldCom, Inc. v. FCC, No. 01-1218 (D.C. Cir. 2002).
+1.2 The purpose of this Amendment is to include in CARRIER’s Interconnection Agreement the rates, terms and
+conditions of the FCC’s interim ISP terminating compensation plan for the exchange of ISP-bound traffic lawfully
+compensable under the FCC ISP Compensation Order (“ISP-bound Traffic”).
+1.3 This Amendment is intended to supercede any and all contract sections, appendices, attachments, rate
+schedules, or other portions of the underlying Interconnection Agreement that set forth rates, terms and
+conditions for the terminating compensation for ISP-bound Traffic. Any inconsistencies between the provisions
+of this Amendment and provisions of the underlying Interconnection Agreement shall be governed by the
+provisions of this Amendment.
+2.0 Rates, Terms and Conditions of FCC’s Interim ISP Terminating Compensation Plan
+2.1 ILEC and CARRIER hereby agree that the following rates, terms and conditions shall apply to ISP-bound Traffic
+exchanged between the Parties on and after the date this Amendment becomes effective pursuant to Section
+4.1 of this Amendment.
+2.2 Compensation Rate Schedule
+2.2.1 The rates, terms, conditions in this section apply only to the termination of for ISP-bound Traffic, and ISP-
+bound Traffic is subject to the rebuttable presumption in Section 2.3.
+2.2.2 The Parties agree to compensate each other for the transport and termination for ISP-bound Traffic on a
+minute of use basis, at $.0007 per minute of use.
+2.3 ISP-bound Traffic Rebuttable Presumption
+2.3.1 In accordance with Paragraph 79 of the FCC’s ISP Compensation Order, LEC and ILEC agree that there
+is a rebuttable presumption that any of the combined Section 251(b)(5) Traffic and ISP-bound traffic
+exchanged between LEC and ILEC exceeding a 3:1 terminating to originating ratio is presumed to be
+ISP-bound Traffic subject to the compensation terms in this Section 2.0. Either Party has the right to
+1 Illinois Bell Telephone Company (previously referred to as “Illinois Bell” or “SBC Illinois”) now operates under the name “AT&T Illinois” pursuant to
+an assumed name filing with the State of Illinois.
+Page 299 of 354
+
+AMENDMENT – ISP-BOUND TRAFFIC INTERCARRIER COMPENSATION (ADOPTING FCC INTERIM TERMINATING COMPENSATION PLAN)/AT&T
+ILLINOIS
+PAGE 2 OF 3
+PEERLESS NETWORK OF ILLINOIS, LLC
+VERSION – 10/06/08
+032309
+rebut the 3:1 ISP presumption by identifying the actual ISP-bound Traffic by any means mutually agreed
+by the Parties, or by any method approved by the Commission. If a Party seeking to rebut the
+presumption takes appropriate action at the Commission pursuant to Section 252 of the Act and the
+Commission agrees that such Party has rebutted the presumption, the methodology and/or means
+approved by the Commission for use in determining the ratio shall be utilized by the Parties as of the date
+of the Commission approval and, in addition, shall be utilized to determine the appropriate true-up as
+described below. During the pendency of any such proceedings to rebut the presumption, LEC and ILEC
+will remain obligated to pay reciprocal compensation rates for Section 251(b)(5) Traffic and the rates set
+forth in Section 2.2.2 for ISP-Bound Traffic. Such true-up shall be retroactive back to the date a Party
+first sought appropriate relief from the Commission.
+3.0 Reservation of Rights
+3.1 The Parties reserve the right to raise the appropriate treatment of Voice Over Internet Protocol (“VoIP”) and
+traffic utilizing in whole or part Internet Protocol technology under the Dispute Resolution provisions of this
+Agreement, including but not limited, to any rights they may have as a result of the FCC’s Order In the Matter of
+Petition for Declaratory Ruling that AT&T’s Phone-to-Phone IP Telephony Services are Exempt from Access
+Charges, WC Docket No. 02-361 (Rel. April 21, 2004). The Parties acknowledge that there is an on-going
+disagreement between LECs and ILEC over whether or not, under the law, VoIP traffic or traffic utilizing in whole
+or part IP technology is subject to reciprocal compensation or switched access charges. The Parties therefore
+agree that neither one will argue or take the position before any regulatory commission or court that this
+Amendment constitutes an agreement as to whether or not reciprocal compensation or switched access charges
+apply to that traffic or a waiver by either Party of their position or their rights as to that issue. The Parties further
+agree that they each have reserved the right to advocate their respective positions relating to the treatment and
+compensation for VoIP traffic and traffic utilizing in whole or part Internet Protocol technology before any state
+commission or the Federal Communications Commission (“FCC”) whether in bilateral complaint dockets,
+arbitrations under Section 252 of the Act, state commission or FCC established rulemaking dockets, or before
+any judicial or legislative body.
+4.0 Miscellaneous
+4.1 This Amendment shall be filed with and is subject to approval by the Illinois Commerce Commission and shall
+become effective ten (10) days following approval by such Commission.
+4.2 This Amendment is coterminous with the underlying Interconnection Agreement and does not extend the term or
+change the termination provisions of the underlying Interconnection Agreement.
+4.3 EXCEPT AS MODIFIED HEREIN, ALL OTHER TERMS AND CONDITIONS OF THE UNDERLYING
+INTERCONNECTION AGREEMENT SHALL REMAIN UNCHANGED AND IN FULL FORCE AND EFFECT.
+4.4 Every rate, term and condition of this Amendment is legitimately related to the other rates, terms and conditions
+in this Amendment. Without limiting the general applicability of the foregoing, the change of law provisions of
+the underlying Interconnection Agreement, including but not limited to the “Intervening Law” or “Change of Law”
+or “Regulatory Change” section of the General Terms and Conditions of the Interconnection Agreement and as
+modified in this Amendment, are specifically agreed by the Parties to be legitimately related to, and inextricably
+intertwined with this the other rates, terms and conditions of this Amendment.
+4.5 In entering into this Amendment, neither Party waives, and each Party expressly reserves, any rights, remedies
+or arguments it may have at law or under the intervening law or regulatory change provisions in the underlying
+Agreement (including intervening law rights asserted by either Party via written notice predating this
+Amendment) with respect to any orders, decisions, legislation or proceedings and any remands thereof, which
+the Parties have not yet fully incorporated into this Agreement or which may be the subject of further review.
+Page 300 of 354
+
+Page 301 of 354
+
+Page 1 of 53
+AT&T Wholesale Amendment
+Contract Number: 21847
+Page 302 of 354
+
+Contract Id: 4822368
+Signature Page/AT&T-21STATE
+Page 1 of 4
+Page 2 of 53 PEERLESS NETWORK
+Version: 4Q15 – 10/20/15
+AMENDMENT
+BETWEEN
+BELLSOUTH TELECOMMUNICATIONS, LLC D/B/A AT&T FLORIDA,
+AT&T GEORGIA, AT&T KENTUCKY, AT&T LOUISIANA, AT&T NORTH
+CAROLINA, AT&T SOUTH CAROLINA AND AT&T TENNESSEE,
+ILLINOIS BELL TELEPHONE COMPANY D/B/A AT&T ILLINOIS, INDIANA
+BELL TELEPHONE COMPANY INCORPORATED D/B/A AT&T INDIANA,
+MICHIGAN BELL TELEPHONE COMPANY D/B/A AT&T MICHIGAN,
+NEVADA BELL TELEPHONE COMPANY D/B/A AT&T NEVADA AND
+AT&T WHOLESALE, THE OHIO BELL TELEPHONE COMPANY D/B/A
+AT&T OHIO, PACIFIC BELL TELEPHONE COMPANY D/B/A AT&T
+CALIFORNIA, SOUTHWESTERN BELL TELEPHONE COMPANY D/B/A
+AT&T ARKANSAS, AT&T KANSAS, AT&T MISSOURI, AT&T
+OKLAHOMA AND AT&T TEXAS, WISCONSIN BELL, INC. D/B/A AT&T
+WISCONSIN
+AND
+Page 303 of 354
+
+Contract Id: 4822368
+Signature Page/AT&T-21STATE
+Page 2 of 4
+Page 3 of 53 PEERLESS NETWORK
+Version: 4Q15 – 10/20/15
+PEERLESS NETWORK OF ARKANSAS, LLC; PEERLESS NETWORK OF
+CALIFORNIA, LLC; PEERLESS NETWORK OF FLORIDA, LLC;
+PEERLESS NETWORK OF GEORGIA, LLC; PEERLESS NETWORK OF
+ILLINOIS, LLC; PEERLESS NETWORK OF INDIANA, LLC; PEERLESS
+NETWORK OF KANSAS, LLC; PEERLESS NETWORK OF KENTUCKY,
+LLC;PEERLESS NETWORK OF LOUISIANA, LLC; PEERLESS
+NETWORK OF MICHIGAN, LLC;PEERLESS NETWORK OF MISSOURI,
+LLC; PEERLESS NETWORK OF NEVADA, LLC;PEERLESS NETWORK
+OF NORTH CAROLINA, LLC; PEERLESS NETWORK OF OHIO, LLC;
+PEERLESS NETWORK OF OKLAHOMA, LLC;PEERLESS NETWORK OF
+SOUTH CAROLINA, LLC; PEERLESS NETWORK OF TENNESSEE, LLC;
+PEERLESS NETWORK OF TEXAS, LLC;PEERLESS NETWORK OF
+WISCONSIN, LLC
+Page 304 of 354
+
+Contract Id: 4822368
+Signature Page/AT&T-21STATE
+Page 3 of 4
+Page 4 of 53 PEERLESS NETWORK
+Version: 4Q15 – 10/20/15
+Signature: _e_S_i_g_n_e_d_ _- _S_c_o_t_t_ K_e__ll________________ Signature: _e_S_i_g_n_e_d_ _- _W__il_lia__m_ _A_._ B__o_c_k_e_lm__a_n___________
+Name: _e_S_i_g_n_e_d_ _- _S_c_o_t_t _K_e_l_l___________________ Name: _e_S_i_g_n_e_d_ _- _W__il_li_a_m_ _A_._ B__o_c_k_e_lm__a_n______________
+(Print or Type) (Print or Type)
+Title: _E_x_e_c_u_t_iv_e__ V_i_c_e_ _P_re__s_id_e_n_t_ o__f _O_p_e_r_a_t_io_n_s____ Title: _D_i_re_c_t_o_r____________________________________
+(Print or Type) (Print or Type)
+Date: _2_7_ _J_u_n_ 2_0__1_6___________________________ Date: _2_8_ _J_u_n_ 2_0__1_6________________________________
+Peerless Network of Arkansas, LLC; Peerless BellSouth Telecommunications, LLC d/b/a AT&T
+Network of California, LLC; Peerless Network of FLORIDA, AT&T GEORGIA, AT&T KENTUCKY, AT&T
+Florida, LLC; Peerless Network of Georgia, LLC; LOUISIANA, AT&T NORTH CAROLINA, AT&T SOUTH
+Peerless Network of Illinois, LLC; Peerless Network CAROLINA and AT&T TENNESSEE, Illinois Bell
+of Indiana, LLC; Peerless Network of Kansas, LLC; Telephone Company d/b/a AT&T ILLINOIS, Indiana Bell
+Peerless Network of Kentucky, LLC; Peerless Telephone Company Incorporated d/b/a AT&T INDIANA,
+Network of Louisiana, LLC; Peerless Network of Michigan Bell Telephone Company d/b/a AT&T
+Michigan, LLC; Peerless Network of Missouri, LLC; MICHIGAN, Nevada Bell Telephone Company d/b/a
+Peerless Network of Nevada, LLC; Peerless AT&T NEVADA and AT&T Wholesale, The Ohio Bell
+Network of North Carolina, LLC; Peerless Network Telephone Company d/b/a AT&T OHIO, Pacific Bell
+of Ohio, LLC; Peerless Network of Oklahoma, LLC; Telephone Company d/b/a AT&T CALIFORNIA,
+Peerless Network of South Carolina, LLC; Peerless Southwestern Bell Telephone Company d/b/a AT&T
+Network of Tennessee, LLC; Peerless Network of ARKANSAS, AT&T KANSAS, AT&T MISSOURI, AT&T
+Texas, LLC; Peerless Network of Wisconsin, LLC OKLAHOMA and AT&T TEXAS, Wisconsin Bell, Inc.
+d/b/a AT&T WISCONSIN by AT&T Services, Inc., its
+authorized agent
+State CLEC OCN
+CALIFORNIA 373F
+FLORIDA 902E
+GEORGIA 909E
+ILLINOIS 063E
+INDIANA 279F
+KANSAS 018H
+KENTUCKY 035H
+MICHIGAN 933G
+MISSOURI 225F
+NEVADA 408F
+NORTH CAROLINA 350F
+OHIO 284F
+OKLAHOMA 384H
+SOUTH CAROLINA 098H
+Page 305 of 354
+
+Contract Id: 4822368
+Signature Page/AT&T-21STATE
+Page 4 of 4
+Page 5 of 53 PEERLESS NETWORK
+Version: 4Q15 – 10/20/15
+TENNESSEE 276F
+TEXAS 177F
+WISCONSIN 227F
+Description ACNA Code(s)
+PQK,PKZ,PKH,
+OPF,PQG,QSK,
+QKY,QPM,PQN,
+ACNA(s)
+PQP,PQY,PQH,
+QNO,QSB,PQU,
+PQX,PQE
+Page 306 of 354
+
+Contract Id: 4822368
+Amendment – CLEC IVP OSS and LNP Partner, Lifeline/LinkUp, ICC, Forbearance, CIS, Transit and Notices/AT&T-21STATE
+PAGE 1 OF 8
+Page 6 of 53 Peerless Network
+Version: 01/18/16
+AMENDMENT TO THE AGREEMENT
+BETWEEN
+PEERLESS NETWORK OF ARKANSAS, LLC, PEERLESS NETWORK OF CALIFORNIA, LLC,
+PEERLESS NETWORK OF FLORIDA, LLC, PEERLESS NETWORK OF GEORGIA, LLC, PEERLESS
+NETWORK OF ILLINOIS, LLC, PEERLESS NETWORK OF INDIANA LLC, PEERLESS NETWORK OF
+KANSAS, LLC, PEERLESS NETWORK OF KENTUCKY, LLC, PEERLESS NETWORK OF LOUISIANA,
+LLC, PEERLESS NETWORK OF MICHIGAN, LLC, PEERLESS NETWORK OF MISSOURI, LLC,
+PEERLESS NETWORK OF NEVADA, LLC, PEERLESS NETWORK OF NORTH CAROLINA, LLC,
+PEERLESS NETWORK OF OHIO, LLC, PEERLESS NETWORK OF OKLAHOMA, LLC, PEERLESS
+NETWORK OF SOUTH CAROLINA, LLC, PEERLESS NETWORK OF TENNESSEE, LLC, PEERLESS
+NETWORK OF TEXAS, LLC, PEERLESS NETWORK OF WISCONSIN, LLC
+AND
+BELLSOUTH TELECOMMUNICATIONS, LLC D/B/A AT&T FLORIDA, AT&T GEORGIA, AT&T
+KENTUCKY, AT&T LOUISIANA, AT&T NORTH CAROLINA, AT&T SOUTH CAROLINA AND AT&T
+TENNESSEE, ILLINOIS BELL TELEPHONE COMPANY D/B/A AT&T ILLINOIS, INDIANA BELL
+TELEPHONE COMPANY INCORPORATED D/B/A AT&T INDIANA, MICHIGAN BELL TELEPHONE
+COMPANY D/B/A AT&T MICHIGAN, NEVADA BELL TELEPHONE COMPANY D/B/A AT&T NEVADA
+AND AT&T WHOLESALE, THE OHIO BELL TELEPHONE COMPANY D/B/A AT&T OHIO, PACIFIC
+BELL TELEPHONE COMPANY D/B/A AT&T CALIFORNIA, SOUTHWESTERN BELL TELEPHONE
+COMPANY D/B/A AT&T ARKANSAS, AT&T KANSAS, AT&T MISSOURI, AT&T OKLAHOMA AND
+AT&T TEXAS, WISCONSIN BELL, INC. D/B/A AT&T WISCONSIN
+This Amendment (the “Amendment”) amends the Agreement(s) by and between AT&T and CLEC as shown in the
+attached Exhibit A.
+WHEREAS, AT&T and CLEC are Parties to the Agreement(s) as shown in the attached Exhibit A.
+WHEREAS, CLEC will be providing interconnection to the PSTN on behalf of one or more interconnected VoIP providers
+(“IVP”) in connection with the 2015 VoIP Number Access Order approved by the FCC in WC Docket No. 13-97; Numbering
+Policies for Modern Communications. As such, CLEC will be delivering traffic to and receiving traffic from AT&T on behalf of
+one or more IVPs; and
+WHEREAS, the Parties wish to amend the Agreement, pursuant to Sections 251 and 252 of the Act, to include certain
+provisions relating to WC Docket No. 13-97 approved by the FCC; and
+WHEREAS, the Parties desire to amend the Agreement to implement the Lifeline and Link Up Reform and Modernization
+et al., WC Docket No. 11-42 et al., Second Report and Order, FCC 15-71, Released June 22, 2015 (“FCC Lifeline Order”);
+and
+WHEREAS, the Parties desire to amend the Agreement to implement to the Connect America Fund et al., WC Docket
+No. 10-90 et al, Report and Order issued by the Federal Communications Commission (“FCC”) on November 18, 2011 (FCC
+11-161), and as amended by the FCC on December 23, 2011 (FCC 11-189) (“FCC ICC Reform Order”); and
+WHEREAS, the Parties desire to amend the Agreement to implement the Petition of USTelecom for Forbearance
+Pursuant to 47 U.S.C. § 160(c) from Enforcement of Obsolete ILEC Legacy Regulations That Inhibit Deployment of Next-
+Generation Networks, WC Docket No. 14-192, Released December 28, 2015 (“FCC US Telecom Forbearance Order”); and
+WHEREAS, the Parties desire to add rates and provisions related to Transit Traffic Services, modify certain provisions
+related to Termination of Agreement After Initial Term Expiration and to modify certain provisions related to Customer
+Information Services.
+Page 307 of 354
+
+Contract Id: 4822368
+Amendment – CLEC IVP OSS and LNP Partner, Lifeline/LinkUp, ICC, Forbearance, CIS, Transit and Notices/AT&T-21STATE
+PAGE 2 OF 8
+Page 7 of 53 Peerless Network
+Version: 01/18/16
+NOW, THEREFORE, in consideration of the promises and mutual agreements set forth herein, the Parties agree to
+amend the Agreement as follows:
+1. The Amendment is composed of the foregoing recitals, the terms and conditions, contained within, and Exhibit A, Exhibit
+B, Exhibit C and Exhibit D Pricing Sheets immediately following, all of which are hereby incorporated within this
+Amendment by this reference and constitute a part of this Amendment.
+2. “Interconnected VoIP Provider” or “IVP” as used in this Agreement is the entity set forth in the Preamble and that provides
+interconnected VoIP service as that term is defined in 47 U.S.C. § 9.3 and for the purposes of this Agreement, refers to a
+specific Interconnected VoIP Provider that is a Party to this Agreement.
+3. AT&T and CLEC will interconnect, exchange traffic and maintain compensation for traffic originated by or destined for an
+IVP as if it were traffic to or from CLEC’s end users as provided for in the Agreement.
+4. AT&T-21STATE shall route such IVP traffic destined for CLEC’s directly connected end office as defined in the LERG,
+and CLEC shall be responsible, including financially, for any such traffic. AT&T-21STATE shall not be responsible for any
+misuse of CLEC’s codes by IVP in the LERG.
+5. By agreeing to exchange traffic pursuant to this Agreement, neither Party waives and each Party expressly reserves its
+respective advocacy positions regarding the appropriate means of interconnection, traffic exchange and intercarrier
+compensation for traffic exchanged between the Parties.
+6. Lifeline and Link Up Services
+6.1 Delete the rates, terms and conditions related to Lifeline and Link Up service offerings from the Agreement. Lifeline
+and Link Up service will no longer be available under the Agreement beginning one hundred and eighty (180) days
+after Federal Register publication of the Office of Management and Budget’s (OMB) approval.
+7. Intercarrier Compensation
+7.1 The Parties hereby implement the intercarrier compensation rates reflected in the Pricing Sheet attached hereto as
+Exhibit D, for the termination of all Section 251(b)(5) Traffic exchanged between the Parties in the applicable state(s).
+The intercarrier compensation rates included in Exhibit D hereby supersede the existing rate elements included in the
+Agreement for purposes of reciprocal compensation.
+8. Forbearance
+8.1 Delete the rates, terms and conditions related to the unbundling of a 64 kbps voice-grade channel to provide
+narrowband services over fiber where an incumbent LEC retires a copper loop it has overbuilt with a fiber-to-the-
+home or fiber-to-the-curb loop.
+9. Transit Traffic Services
+9.1 Add Attachment –Transit Traffic Service, attached hereto, as Exhibit B and rates reflected in the Pricing Sheet(s),
+attached hereto as Exhibit D to the Agreement. The rates and provisions of Exhibit B and D shall apply to Transit
+Traffic Service provided in the State of Kentucky.
+10. For the States of Florida, Georgia, North Carolina and Tennessee - Termination of Agreement After Initial Term
+Expiration
+10.1 Sections 8.4.3 and 8.4.5 of the General Terms and Conditions of the Agreement is hereby amended and
+restated as follows:
+8.4.3 If at any time within one hundred and eighty (180) days or any time thereafter of the expiration of the
+Term, if either Party serves “Notice of Expiration” or Notice of Termination (if served after Expiration),
+CLEC shall have ten (10) calendar days to provide AT&T-21STATE written confirmation to the Notice of
+Expiration indicating if CLEC wishes to pursue a successor agreement with AT&T-21STATE or
+terminate its Agreement. CLEC shall identify the action to be taken in each of the applicable state(s). If
+CLEC wishes to pursue a successor agreement with AT&T-21STATE, CLEC shall attach to its written
+confirmation or Notice of Expiration, a written request to commence negotiations with AT&T-21STATE
+under Sections 251/252 of the Act and identify each of the state(s) to which the successor agreement
+Page 308 of 354
+
+Contract Id: 4822368
+Amendment – CLEC IVP OSS and LNP Partner, Lifeline/LinkUp, ICC, Forbearance, CIS, Transit and Notices/AT&T-21STATE
+PAGE 3 OF 8
+Page 8 of 53 Peerless Network
+Version: 01/18/16
+will apply. Upon receipt of CLEC’s Section 252(a)(1) request, the Parties shall commence good faith
+negotiations for a successor agreement.
+8.4.5 Either on or following the expiration date of this Agreement, if the Parties have not entered into a new
+agreement or are not in Active Negotiations as described in Section 8.4.4 above, the Agreement shall
+remain in full force and effect on a month to month basis unless both Parties mutually agree to
+terminate, or either Party provides “Notice of Termination” as provided for in Section 8.4.
+11. Customer Information Services (CIS)
+11.1 With the exception of 11.3 herein, delete all rates, terms and conditions pertaining to Customer Information
+Services, including but not limited to services related to Operator Services (OS), Directory Assistance (DA),
+Directory Assistance Listings (DAL), Inward Assistance Operator Services (INW) and White Pages (e.g., Busy
+Line Verification (BLV), Busy Line Verification/Interrupt (BLV/I), etc.) from the Agreement.
+11.2 Add Attachment - Operator Services and Directory Assistance (OS/DA), attached hereto as Exhibit C; and the
+Operator Services and Directory Assistance (OS/DA) rates reflected in the Pricing Sheet, attached hereto as
+Exhibit D, to the Agreement.
+11.3 Add the following provisions to the Attachment or Appendix for Resale
+CIS.1 For Resale service, AT&T will provide Customer Information Services to CLEC’s End Users where
+technically feasible and/or available to AT&T retail End Users. Dialing, response, and sound quality will
+be provided in parity to AT&T retail End Users.
+CIS.2 CLEC is solely responsible for the payment of all charges for all services furnished under this
+Attachment, including but not limited to calls originated or accepted at CLEC’s location and its End
+Users’ service locations.
+CIS.3 Interexchange carrier traffic (e.g., sent-paid, information services and alternate operator services
+messages) received by AT&T for billing to Resale End User accounts will be returned as unbillable and
+will not be passed to CLEC for billing. An unbillable code will be returned with those messages to the
+carrier indicating that the messages were generated by a Resale account and will not be billed by AT&T.
+CIS.4 AT&T shall not be responsible for the manner in which utilization of Resale Services or the associated
+charges are allocated to End Users or others by CLEC. Applicable rates and charges for services
+provided to CLEC under this Attachment will be billed directly to CLEC and shall be the responsibility of
+CLEC.
+CIS.5 Charges billed to CLEC for all services provided under this Attachment shall be paid by CLEC regardless
+of CLEC’s ability or inability to collect from its End Users for such services.
+CIS.6 If CLEC does not wish to be responsible for payment of charges for calling card, collect, or third number
+billed calls (Alternately Billed Traffic or “ABT”) or toll and information services (for example, 900 calls),
+CLEC must order the appropriate available blocking for lines provided under this Attachment and pay
+any applicable charges. It is the responsibility of CLEC to order the appropriate toll restriction or blocking
+on lines resold to End Users. CLEC acknowledges that blocking is not available for certain types of calls,
+including without limitation 800, 888, 411 and Directory Assistance Express Call Completion. Depending
+on the origination point, for example, calls originating from correctional facilities, some calls may bypass
+blocking systems. CLEC acknowledges all such limitations and accepts all responsibility for any charges
+associated with calls for which blocking is not available and any charges associated with calls that
+bypass blocking systems.
+12. For the State of Illinois - The Parties agree to replace Section XXIX.10 of ARTICLE XXIX MISCELLANEOUS from the
+Agreement with the following language:
+XXIX.10 Notices
+XXIX.10.1 Notices given by CLEC to AT&T under this Agreement shall be in writing (unless specifically provided
+otherwise herein), and unless otherwise expressly required by this Agreement to be delivered to another
+representative or point of contact, shall be pursuant to at least one of the following methods:
+Page 309 of 354
+
+Contract Id: 4822368
+Amendment – CLEC IVP OSS and LNP Partner, Lifeline/LinkUp, ICC, Forbearance, CIS, Transit and Notices/AT&T-21STATE
+PAGE 4 OF 8
+Page 9 of 53 Peerless Network
+Version: 01/18/16
+XXIX.10.1.1 delivered by electronic mail (email).
+XXIX.10.1.2 delivered by facsimile.
+XXIX.10.2 Notices given by AT&T to the CLEC under this Agreement shall be in writing (unless specifically
+provided otherwise herein), and unless otherwise expressly required by this Agreement to be delivered
+to another representative or point of contact, shall be pursuant to at least one of the following methods:
+XXIX.10.2.1 delivered by electronic mail (email) provided CLEC has provided such information in
+Section XXIX.10.4 below.
+XXIX.10.2.2 delivered by facsimile provided CLEC has provided such information in Section XXIX.10.4
+below.
+XXIX.10.3 Notices will be deemed given as of the earliest of:
+XXIX.10.3.1 the date of actual receipt.
+XXIX.10.3.2 notice by email shall be effective on the date it is officially recorded as delivered by
+delivery receipt and in the absence of such record of delivery, it shall be presumed to
+have been delivered on the date sent.
+XXIX.10.3.3 on the date set forth on the confirmation produced by the sending facsimile machine when
+delivered by facsimile prior to 5:00 p.m. in the recipient’s time zone, but the next Business
+Day when delivered by facsimile at 5:00 p.m. or later in the recipient’s time zone.
+XXIX.10.4 Notices will be addressed to the Parties as follows:
+NOTICE CONTACT CLEC CONTACT
+NAME/TITLE Patrick Phipps
+Director Regulatory Affairs
+STREET ADDRESS 222 South Riverside Plaza, Suite 2730
+CITY, STATE, ZIP CODE Chicago, IL 60606
+PHONE NUMBER* (312) 506-0933
+FACSIMILE NUMBER (312) 506-0931
+EMAIL ADDRESS Regulatory@peerlessnetwork.com
+AT&T CONTACT
+NAME/TITLE Contract Management
+ATTN: Notices Manager
+FACSIMILE NUMBER (214) 712-5792
+EMAIL ADDRESS The current email address as provided on
+AT&T’s CLEC Online website
+*Informational only and not to be considered as an official notice vehicle under this Section.
+XXIX.10.5 Either Party may unilaterally change its designated contact name, address, email address, and/or
+facsimile number for the receipt of Notices by giving written Notice to the other Party in compliance with
+this Section XXIX.10. Unless explicitly stated otherwise, any change to the designated contact name,
+address, email address, and/or facsimile number will replace such information currently on file. Any
+Notice to change the designated contact name, address, email address, and/or facsimile number for the
+receipt of Notices shall be deemed effective ten (10) calendar days following receipt by the other Party.
+XXIX.10.6 CLEC may not order services under a new account and/or subsequent state certification, established in
+accordance with this Section until thirty (30) days after all information specified in this Section is received
+from CLEC.
+Page 310 of 354
+
+Contract Id: 4822368
+Amendment – CLEC IVP OSS and LNP Partner, Lifeline/LinkUp, ICC, Forbearance, CIS, Transit and Notices/AT&T-21STATE
+PAGE 5 OF 8
+Page 10 of 53 Peerless Network
+Version: 01/18/16
+XXIX.10.7 AT&T communicates official information to CLECs via its Accessible Letter, or other applicable,
+notification processes. These processes involve electronic transmission and/or posting to the AT&T
+CLEC Online website, inclusive of a variety of subjects including declaration of a force majeure, changes
+on business processes and policies, and other product/service related notices not requiring an
+amendment to this Agreement.
+13. For the State of Wisconsin - The Parties agree to replace Section 17. from the Agreement with the following language:
+17. Notices
+17.1 Notices given by CLEC to AT&T under this Agreement shall be in writing (unless specifically provided
+otherwise herein), and unless otherwise expressly required by this Agreement to be delivered to another
+representative or point of contact, shall be pursuant to at least one of the following methods:
+17.1.1 delivered by electronic mail (email).
+17.1.2 delivered by facsimile.
+17.2 Notices given by AT&T to the CLEC under this Agreement shall be in writing (unless specifically provided
+otherwise herein), and unless otherwise expressly required by this Agreement to be delivered to another
+representative or point of contact, shall be pursuant to at least one of the following methods:
+17.2.1 delivered by electronic mail (email) provided CLEC has provided such information in Section 17.4
+below.
+17.2.2 delivered by facsimile provided CLEC has provided such information in Section 17.4 below.
+17.3 Notices will be deemed given as of the earliest of:
+17.3.1 the date of actual receipt.
+17.3.2 notice by email shall be effective on the date it is officially recorded as delivered by delivery receipt
+and in the absence of such record of delivery, it shall be presumed to have been delivered on the
+date sent.
+17.3.3 on the date set forth on the confirmation produced by the sending facsimile machine when
+delivered by facsimile prior to 5:00 p.m. in the recipient’s time zone, but the next Business Day
+when delivered by facsimile at 5:00 p.m. or later in the recipient’s time zone.
+17.4 Notices will be addressed to the Parties as follows:
+NOTICE CONTACT CLEC CONTACT
+NAME/TITLE Patrick Phipps
+Director Regulatory Affairs
+STREET ADDRESS 222 South Riverside Plaza, Suite 2730
+CITY, STATE, ZIP CODE Chicago, IL 60606
+PHONE NUMBER* (312) 506-0933
+FACSIMILE NUMBER (312) 506-0931
+EMAIL ADDRESS Regulatory@peerlessnetwork.com
+AT&T CONTACT
+NAME/TITLE Contract Management
+ATTN: Notices Manager
+FACSIMILE NUMBER (214) 712-5792
+EMAIL ADDRESS The current email address as provided on
+AT&T’s CLEC Online website
+*Informational only and not to be considered as an official notice vehicle under this Section.
+Page 311 of 354
+
+Contract Id: 4822368
+Amendment – CLEC IVP OSS and LNP Partner, Lifeline/LinkUp, ICC, Forbearance, CIS, Transit and Notices/AT&T-21STATE
+PAGE 6 OF 8
+Page 11 of 53 Peerless Network
+Version: 01/18/16
+17.5 Either Party may unilaterally change its designated contact name, address, email address, and/or facsimile
+number for the receipt of Notices by giving written Notice to the other Party in compliance with this Section
+17. Unless explicitly stated otherwise, any change to the designated contact name, address, email address,
+and/or facsimile number will replace such information currently on file. Any Notice to change the designated
+contact name, address, email address, and/or facsimile number for the receipt of Notices shall be deemed
+effective ten (10) calendar days following receipt by the other Party.
+17.6 CLEC may not order services under a new account and/or subsequent state certification, established in
+accordance with this Section until thirty (30) days after all information specified in this Section is received
+from CLEC.
+17.7 AT&T communicates official information to CLECs via its Accessible Letter, or other applicable, notification
+processes. These processes involve electronic transmission and/or posting to the AT&T CLEC Online
+website, inclusive of a variety of subjects including declaration of a force majeure, changes on business
+processes and policies, and other product/service related notices not requiring an amendment to this
+Agreement.
+14. For the States of Florida, Georgia, Nevada, Ohio and Tennessee - The Parties agree to replace Section 20.0 from the
+Agreement with the following language:
+20.0. Notices
+20.1 Notices given by CLEC to AT&T under this Agreement shall be in writing (unless specifically provided
+otherwise herein), and unless otherwise expressly required by this Agreement to be delivered to another
+representative or point of contact, shall be pursuant to at least one of the following methods:
+20.1.1 delivered by electronic mail (email).
+20.1.2 delivered by facsimile.
+20.2 Notices given by AT&T to the CLEC under this Agreement shall be in writing (unless specifically provided
+otherwise herein), and unless otherwise expressly required by this Agreement to be delivered to another
+representative or point of contact, shall be pursuant to at least one of the following methods:
+20.2.1 delivered by electronic mail (email) provided CLEC has provided such information in Section 20.4
+below.
+20.2.2 delivered by facsimile provided CLEC has provided such information in Section 20.4 below.
+20.3 Notices will be deemed given as of the earliest of:
+20.3.1 the date of actual receipt.
+20.3.2 notice by email shall be effective on the date it is officially recorded as delivered by delivery receipt
+and in the absence of such record of delivery, it shall be presumed to have been delivered on the
+date sent.
+20.3.3 on the date set forth on the confirmation produced by the sending facsimile machine when
+delivered by facsimile prior to 5:00 p.m. in the recipient’s time zone, but the next Business Day
+when delivered by facsimile at 5:00 p.m. or later in the recipient’s time zone.
+20.4 Notices will be addressed to the Parties as follows:
+NOTICE CONTACT CLEC CONTACT
+NAME/TITLE Patrick Phipps
+Director Regulatory Affairs
+STREET ADDRESS 222 South Riverside Plaza, Suite 2730
+CITY, STATE, ZIP CODE Chicago, IL 60606
+PHONE NUMBER* (312) 506-0933
+FACSIMILE NUMBER (312) 506-0931
+Page 312 of 354
+
+Contract Id: 4822368
+Amendment – CLEC IVP OSS and LNP Partner, Lifeline/LinkUp, ICC, Forbearance, CIS, Transit and Notices/AT&T-21STATE
+PAGE 7 OF 8
+Page 12 of 53 Peerless Network
+Version: 01/18/16
+EMAIL ADDRESS Regulatory@peerlessnetwork.com
+AT&T CONTACT
+NAME/TITLE Contract Management
+ATTN: Notices Manager
+FACSIMILE NUMBER (214) 712-5792
+EMAIL ADDRESS The current email address as provided on
+AT&T’s CLEC Online website
+*Informational only and not to be considered as an official notice vehicle under this Section.
+20.5 Either Party may unilaterally change its designated contact name, address, email address, and/or facsimile
+number for the receipt of Notices by giving written Notice to the other Party in compliance with this Section
+20.0. Unless explicitly stated otherwise, any change to the designated contact name, address, email
+address, and/or facsimile number will replace such information currently on file. Any Notice to change the
+designated contact name, address, email address, and/or facsimile number for the receipt of Notices shall
+be deemed effective ten (10) calendar days following receipt by the other Party.
+20.6 CLEC may not order services under a new account and/or subsequent state certification, established in
+accordance with this Section until thirty (30) days after all information specified in this Section is received
+from CLEC.
+20.7 AT&T communicates official information to CLECs via its Accessible Letter, or other applicable, notification
+processes. These processes involve electronic transmission and/or posting to the AT&T CLEC Online
+website, inclusive of a variety of subjects including declaration of a force majeure, changes on business
+processes and policies, and other product/service related notices not requiring an amendment to this
+Agreement.
+15. There shall be no retroactive application of any provision of this Amendment prior to the Effective Date of an adopting
+CLEC’s agreement.
+16. This Amendment shall be deemed to revise the terms and provisions of the Agreement only to the extent necessary to
+give effect to the terms and provisions of this Amendment. In the event of a conflict between the terms and provisions of
+this Amendment and the terms and provisions of the Agreement (including all incorporated or accompanying Appendices,
+Addenda, and Exhibits to the Agreement), this Amendment shall govern, provided, however, that the fact that a term or
+provision appears in this Amendment but not in the Agreement, or in the Agreement but not in this Amendment, shall not
+be interpreted as, or deemed grounds for finding, a conflict for purposes of this Amendment.
+17. In entering into this Amendment, neither Party waives, and each Party expressly reserves, any rights, remedies or
+arguments it may have at law or under the intervening law or regulatory change provisions in the underlying Agreement
+(including intervening law rights asserted by either Party via written notice predating this Amendment) with respect to any
+orders, decisions, legislation or proceedings and any remands thereof, which the Parties have not yet fully incorporated
+into this Agreement or which may be the subject of further review.
+18. This Amendment shall not modify or extend the Effective Date or Term of the underlying Agreement, but rather, shall be
+coterminous with such Agreement.
+19. EXCEPT AS MODIFIED HEREIN, ALL OTHER TERMS AND CONDITIONS OF THE UNDERLYING AGREEMENT
+SHALL REMAIN UNCHANGED AND IN FULL FORCE AND EFFECT.
+20. Signatures by all Parties to this Amendment are required to effectuate this Amendment. This Amendment may be
+executed in counterparts. Each counterpart shall be considered an original and such counterparts shall together
+constitute one and the same instrument.
+21. For Florida, Georgia, Illinois, Indiana, Kansas, Kentucky, Louisiana, Michigan, Missouri, Nevada, North Carolina,
+Oklahoma, South Carolina, Tennessee, Texas: This Amendment shall be filed with and is subject to approval by the
+applicable state Commission and shall become effective ten (10) days following approval by such Commission. For
+Arkansas: This Amendment shall be filed with the Arkansas Public Service Commission and shall become effective upon
+Page 313 of 354
+
+Contract Id: 4822368
+Amendment – CLEC IVP OSS and LNP Partner, Lifeline/LinkUp, ICC, Forbearance, CIS, Transit and Notices/AT&T-21STATE
+PAGE 8 OF 8
+Page 13 of 53 Peerless Network
+Version: 01/18/16
+filing. For Ohio: Based on the Public Utilities Commission of Ohio Rules, the Amendment is effective upon filing and is
+deemed approved by operation of law on the 91st day after filing. For California: Pursuant to Resolution ALJ 257, this
+filing will become effective, absent rejection of the Advice Letter by the Commission, upon thirty (30) days after the filing
+date of the Advice Letter to which this Amendment is appended. For Wisconsin: Pursuant to Wisconsin Statute § 196.40,
+this Amendment shall become effective ten (10) days after the mailing date of the final order approving this Amendment.
+Page 314 of 354
+
+Page 14 of 53
+Contract Id: 4822368
+Amendment – Lifeline/LinkUp, ICC, Forbearance, CIS and Transit/AT&T-21STATE
+Page 1 of 2
+PEERLESS NETWORK
+Version: 03/03/16
+Exhibit A
+AT&T ILEC (“AT&T”) CLEC Legal Name Contract Type Approval Date
+Southwestern Bell Telephone Company d/b/a Peerless Network of Arkansas, LLC Interconnection Agreement 1/23/2014
+AT&T ARKANSAS
+Pacific Bell Telephone Company d/b/a AT&T Peerless Network of California, LLC Interconnection Agreement 5/7/2009
+CALIFORNIA
+BellSouth Telecommunications, LLC d/b/a Peerless Network of Florida, LLC Interconnection Agreement 8/25/2009
+AT&T FLORIDA d/b/a AT&T Southeast
+BellSouth Telecommunications, LLC d/b/a Peerless Network of Georgia, LLC Interconnection Agreement 7/10/2009
+AT&T GEORGIA
+Illinois Bell Telephone Company d/b/a AT&T Peerless Network of Illinois, LLC Interconnection Agreement 5/20/2009
+ILLINOIS d/b/a AT&T Wholesale
+Indiana Bell Telephone Company Peerless Network of Indiana, LLC Interconnection Agreement 7/9/2009
+Incorporated d/b/a AT&T INDIANA
+Southwestern Bell Telephone Company d/b/a Peerless Network of Kansas, LLC Interconnection Agreement 7/16/2013
+AT&T KANSAS
+BellSouth Telecommunications, LLC d/b/a Peerless Network of Kentucky, LLC Interconnection Agreement 10/10/2013
+AT&T KENTUCKY and AT&T Southeast
+BellSouth Telecommunications, LLC d/b/a Peerless Network of Louisiana, LLC Interconnection Agreement 9/9/2015
+AT&T LOUISIANA
+Michigan Bell Telephone Company d/b/a Peerless Network of Michigan, LLC Interconnection Agreement 3/27/2013
+AT&T MICHIGAN
+Southwestern Bell Telephone Company d/b/a Peerless Network of Missouri, LLC Interconnection Agreement 10/15/2008
+AT&T MISSOURI
+Page 315 of 354
+
+Page 15 of 53
+Contract Id: 4822368
+Amendment – Lifeline/LinkUp, ICC, Forbearance, CIS and Transit/AT&T-21STATE
+Page 2 of 2
+PEERLESS NETWORK
+Version: 03/03/16
+AT&T ILEC (“AT&T”) CLEC Legal Name Contract Type Approval Date
+Nevada Bell Telephone Company d/b/a Peerless Network of Nevada, LLC Interconnection Agreement 9/29/2009
+AT&T NEVADA and AT&T Wholesale
+BellSouth Telecommunications, LLC d/b/a Peerless Network of North Carolina, LLC Interconnection Agreement 7/30/2009
+AT&T NORTH CAROLINA
+The Ohio Bell Telephone Company d/b/a Peerless Network of Ohio, LLC Interconnection Agreement 8/17/2009
+AT&T OHIO
+Southwestern Bell Telephone Company d/b/a Peerless Network of Oklahoma, LLC Interconnection Agreement 7/10/2014
+AT&T OKLAHOMA
+BellSouth Telecommunications, LLC d/b/a Peerless Network of South Carolina, LLC Interconnection Agreement 6/4/2014
+AT&T SOUTH CAROLINA
+BellSouth Telecommunications, LLC d/b/a Peerless Network of Tennessee, LLC Interconnection Agreement 12/17/2013
+AT&T TENNESSEE
+Southwestern Bell Telephone Company d/b/a Peerless Network of Texas, LLC Interconnection Agreement 6/22/2009
+AT&T TEXAS
+Wisconsin Bell, Inc. d/b/a AT&T WISCONSIN Peerless Network of Wisconsin, LLC Interconnection Agreement 5/11/2009
+Page 316 of 354
+
+Contract Id: 7513036
+Signature Page/AT&T-21STATE
+Page 1 of 2
+PEERLESS NETWORK
+Version: 4Q15 – 10/20/15
+INTERCONNECTION AMENDMENT
+BETWEEN
+BELLSOUTH TELECOMMUNICATIONS, LLC D/B/A AT&T ALABAMA, AT&T
+FLORIDA, AT&T GEORGIA, AT&T KENTUCKY, AT&T LOUISIANA, AT&T
+MISSISSIPPI, AT&T NORTH CAROLINA, AT&T SOUTH CAROLINA AND AT&T
+TENNESSEE, ILLINOIS BELL TELEPHONE COMPANY, LLC D/B/A AT&T
+ILLINOIS, INDIANA BELL TELEPHONE COMPANY INCORPORATED D/B/A AT&T
+INDIANA, MICHIGAN BELL TELEPHONE COMPANY D/B/A AT&T MICHIGAN,
+NEVADA BELL TELEPHONE COMPANY D/B/A AT&T NEVADA AND AT&T
+WHOLESALE, THE OHIO BELL TELEPHONE COMPANY D/B/A AT&T OHIO,
+PACIFIC BELL TELEPHONE COMPANY D/B/A AT&T CALIFORNIA,
+SOUTHWESTERN BELL TELEPHONE COMPANY D/B/A AT&T ARKANSAS, AT&T
+KANSAS, AT&T MISSOURI, AT&T OKLAHOMA AND AT&T TEXAS, WISCONSIN
+BELL, INC. D/B/A AT&T WISCONSIN
+AND
+PEERLESS NETWORK OF ALABAMA,LLC, PEERLESS NETWORK OF
+ARKANSAS,LLC, PEERLESS NETWORK OF CALIFORNIA,LLC, PEERLESS
+NETWORK OF FLORIDA, LLC, PEERLESS NETWORK OF GEORGIA, LLC,
+PEERLESS NETWORK OF ILLINOIS,LLC, PEERLESS NETWORK OF INDIANA,
+LLC, PEERLESS NETWORK OF KANSAS,LLC, PEERLESS NETWORK OF
+KENTUCKY,LLC, PEERLESS NETWORK OF LOUSIANA,LLC, PEERLESS
+NETWORK OF MICHIGAN,LLC, PEERLESS NETWORK OF MISSISSIPPI,LLC,
+PEERLESS NETWORK OF MISSOURI, LLC, PEERLESS NETWORK OF NEVADA,
+LLC, PEERLESS NETWORK OF NORTH CAROLINA, LLC, PEERLESS NETWORK
+OF OHIO, LLC PEERLESS NETWORK OF OKLAHOMA,LLC, PEERLESS
+NETWORK OF SOUTH CAROLINA, LLC, PEERLESS NETWORK OF
+TENNESSEE, LLC, PEERLESS NETWORK OF TEXAS, LLC, PEERLESS
+NETWORK OF WISCONSIN, LLC
+
+Contract Id: 7513036
+Signature Page/AT&T-21STATE
+Page 2 of 2
+PEERLESS NETWORK
+Version: 4Q15 – 10/20/15
+Signature: _e_S_i_g_n_e_d_ _- _J_o_h_n_ _B_a_r_n_ic_l_e_____________ Signature: _e_S_i_g_n_e_d_ _- _W__il_li_a_m_ _B_o_c_k_e_l_m_a__n_____________
+Name: _e_S_i_g_n_e_d_ _- _J_o_h_n_ _B_a_r_n_ic_l_e________________ Name: _e_S__ig_n_e_d_ _-_ W__i_lli_a_m__ B__o_c_k_e_lm__a_n________________
+(Print or Type) (Print or Type)
+Title: P__re__s_id_e_n_t_ &__ C__E_O________________________ Title: _D_I_R_-_IN__T_E_R__C_O__N_N__E_C_T__IO__N_ _A_G__R_E_E__M_E__N_T_S______
+(Print or Type) (Print or Type)
+Date: _1_2_ M__a_y_ _2_0_2_0___________________________ Date: _1_3_ M__a_y_ _2_0_2_0________________________________
+Peerless Network of Alabama,LLC, Peerless Network BellSouth Telecommunications, LLC d/b/a AT&T
+of Arkansas,LLC, Peerless Network of California, ALABAMA, AT&T FLORIDA, AT&T GEORGIA, AT&T
+LLC, Peerless Network of Florida, LLC, Peerless KENTUCKY, AT&T LOUISIANA, AT&T MISSISSIPPI,
+Network of Georgia, LLC, Peerless Network of AT&T NORTH CAROLINA, AT&T SOUTH CAROLINA
+Illinois, Peerless Network of Indiana, LLC, Peerless and AT&T TENNESSEE, Illinois Bell Telephone
+Network of KANSAS,LLC, Peerless Network of Company, LLC d/b/a AT&T ILLINOIS, Indiana Bell
+Kentucky,LLC, Peerless Network of Louisiana,LLC, Telephone Company Incorporated d/b/a AT&T
+Peerless Network of Michigan,LLC, Peerless INDIANA, Michigan Bell Telephone Company d/b/a
+Network of Mississippi,LLC, Peerless Network of AT&T MICHIGAN, Nevada Bell Telephone Company
+Missouri, LLC, Peerless Network of Nevada, LLC, d/b/a AT&T NEVADA and AT&T Wholesale, The Ohio
+Peerless Network of North Carolina, LLC, Peerless Bell Telephone Company d/b/a AT&T OHIO, Pacific
+Network of ohio, LLC Peerless Network of Bell Telephone Company d/b/a AT&T CALIFORNIA,
+Oklahoma,LLC, Peerless Network of South Carolina, Southwestern Bell Telephone Company d/b/a AT&T
+LLC, Peerless Network of Tennessee, LLC, Peerless ARKANSAS, AT&T KANSAS, AT&T MISSOURI, AT&T
+Network of Texas, LLC, Peerless Network of OKLAHOMA and AT&T TEXAS, Wisconsin Bell, Inc.
+Wisconsin, LLC d/b/a AT&T WISCONSIN by AT&T Services, Inc., its
+authorized agent
+
+Contract Id: 7513036
+Amendment – Forbearance/AT&T-21STATE
+Page 1 of 2
+PEERLESS NETWORKS
+Version: 03/03/16
+Exhibit A
+AT&T ILEC (“AT&T”) CLEC Legal Name Contract Type Approval
+Date
+BellSouth Telecommunications, LLC d/b/a AT&T ALABAMA Peerless Network of Alabama, LLC Interconnection 6/7/2018
+Southwestern Bell Telephone Company d/b/a AT&T Peerless Network of Arkansas, LLC Interconnection 6/8/2018
+ARKANSAS
+Pacific Bell Telephone Company d/b/a AT&T CALIFORNIA Peerless Network of California, LLC Interconnection 6/9/2018
+BellSouth Telecommunications, LLC d/b/a AT&T FLORIDA Peerless Network of Florida, LLC Interconnection 6/10/2018
+BellSouth Telecommunications, LLC d/b/a AT&T GEORGIA Peerless Network of Georgia, LLC Interconnection 6/11/2018
+Illinois Bell Telephone Company, LLC d/b/a AT&T ILLINOIS Peerless Network of Illinois, LLC Interconnection 6/12/2018
+(Previously referred to as Illinois Bell Telephone Company
+d/b/a AT&T ILLINOIS)
+Indiana Bell Telephone Company Incorporated d/b/a AT&T Peerless Network of Indiana, LLC Interconnection 6/13/2018
+INDIANA
+Southwestern Bell Telephone Company d/b/a AT&T KANSAS Peerless Network of Kansas, LLC. Interconnection 6/14/2018
+BellSouth Telecommunications, LLC d/b/a AT&T KENTUCKY Peerless Network of Kentucky, LLC Interconnection 6/15/2018
+BellSouth Telecommunications, LLC d/b/a AT&T LOUISIANA Peerless Network of Louisiana, LLC Interconnection 6/16/2018
+Michigan Bell Telephone Company d/b/a AT&T MICHIGAN Peerless Network of Michigan, LLC. Interconnection 6/17/2018
+BellSouth Telecommunications, LLC d/b/a AT&T MISSISSIPPI Peerless Network of Mississippi, LLC Interconnection 6/18/2018
+
+Contract Id: 7513036
+Amendment – Forbearance/AT&T-21STATE
+Page 2 of 2
+PEERLESS NETWORKS
+Version: 03/03/16
+Southwestern Bell Telephone Company d/b/a AT&T Peerless Network of Missouri, LLC Interconnection 6/19/2018
+MISSOURI
+Nevada Bell Telephone Company d/b/a AT&T NEVADA and Peerless Network of Nevada, LLC Interconnection 6/20/2018
+AT&T Wholesale
+BellSouth Telecommunications, LLC d/b/a AT&T NORTH Peerless Network of North Carolina, LLC Interconnection 6/21/2018
+CAROLINA
+The Ohio Bell Telephone Company d/b/a AT&T Ohio Peerless Network of Ohio, LLC Interconnection 6/22/2018
+Southwestern Bell Telephone Company d/b/a AT&T Peerless Network of Oklahoma, LLC Interconnection 6/23/2018
+OKLAHOMA
+BellSouth Telecommunications, LLC d/b/a AT&T SOUTH Peerless Network of South Carolina, LLC Interconnection 6/24/2018
+CAROLINA
+BellSouth Telecommunications, LLC d/b/a AT&T TENNESSEE Peerless Network of Tennessee, LLC Interconnection 6/25/2018
+Southwestern Bell Telephone Company d/b/a AT&T TEXAS Peerless Network of Texas, LLC Interconnection 6/26/2018
+Wisconsin Bell, Inc. d/b/a AT&T WISCONSIN Peerless Network of Wisconsin, LLC Interconnection 6/27/2018

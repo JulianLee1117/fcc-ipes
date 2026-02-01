@@ -1,0 +1,310 @@
+Before the
+FEDERAL COMMUNICATIONS COMMISSION
+Washington, D.C. 20554
+In the Matter of IP Link Telecom, Inc. ) WC Docket No. 21- ________
+For Authorization to Obtain Numbering )
+Resources Pursuant to Section 52.15(g) of )
+The Commission's Rules )
+APPLICATION OF IP Link TELECOM, INC.
+FOR AUTHORIZATION TO OBTAIN NUMBERING RESOURCES
+IP Link Telecom, Inc. (“IP Link”), pursuant to Section 52.15(g)(3)(i) of the Commission’s
+Rules, respectfully requests authorization to obtain numbering as described below. Under the
+Commission's Numbering Order,1 an interconnected VoIP provider may obtain numbering
+resources from the Numbering Administrator upon a showing that it is authorized to provide
+service in the area for which the numbering resources are requested. Such authorization may be
+obtained upon an application to the Commission containing the information detailed in Section
+52.15 (g)(3)(i)(A)-(G) of the Commission’s Rules. IP Link hereby requests the Commission grant
+it that authorization. In support of this application, IP Link provides the following information:
+I. INFORMATION REQUIRED BY SECTION 52.15(g)(3)(i)
+A. § 52.15(g)(3)(i)(A)
+Name: IP Link Telecom, Inc.
+Address: 305 N 1st Ave.
+City: Hillsboro
+State: Oregon
+ZIP Code: 97124
+Telephone: 1-844-464-7546
+Contact for Regulatory Requirements, Compliance, 911 and Law Enforcement:
+Name: Eric Engbers
+Address: 305 N 1st Ave.
+City: Hillsboro
+State: Oregon
+ZIP Code: 97124
+Telephone: (919) 570-0101
+Fax: N/A
+Email: eric.engbers@IP Linktelecom.com
+1 Numbering Policies for Modern Communications, FCC 15-70 (rel. June 22, 2015).
+1
+
+B. § 52.15(g)(3)(i)(B)
+IP Link hereby acknowledges that authorization to obtain numbering resources under
+Section 52.15(g) of the Commission's Rules is subject to compliance with applicable Commission
+numbering rules as well as to the numbering authority delegated to the states. The Company hereby
+also acknowledges that this authorization is subject to compliance with industry guidelines and
+practices regarding numbering, as applicable to telecommunications carriers. IP Link intends to
+offer services immediately in Oregon but seeks authority to access numbering resources
+throughout the United States.
+C. § 52.15(g)(3)(i)(C)
+IP Link acknowledges that it must file requests for numbers with the relevant state
+commission(s) at least 30 days before requesting numbers from the Numbering Administrators.
+D. § 52.15(g)(3)(i)(D)
+IP Link hereby sets forth its capability to provide service within 60 days of the numbering
+resources activation date. IP Link is a recently-established interconnected VoIP providing
+messaging and network services for businesses located in the United States. The Company was
+founded by experienced telecommunications professionals and has an agreement in place with
+Peerless Network, Inc. Peerless will provide PSTN Control Service to the Customer to originate
+and terminate traffic to and from the Public Switched Telephone Network. The agreement
+demonstrating the access to this platform and capability is attached to this application as
+Confidential Exhibit A.
+E. § 52.15(g)(3)(i)(E)
+IP Link hereby certifies that it will comply with its Universal Service Fund contribution
+obligations under 47 CFR part 54, subpart H, its Telecommunications Relay Service contribution
+obligations under 47 CFR § 64.604(c)(5)(iii), its North American Numbering Plan and Local
+Number Portability Administration contribution obligations under 47 CFR §§ 52.17 and 52.32, its
+obligations to pay regulatory fees under 47 CFR § 1.1154, and its 911 obligations under 47 CFR
+part 9.
+F. § 52.15(g)(3)(i)(F)
+The Company certifies that it has the financial, managerial, and technical expertise to
+provide reliable service. It is financially stable, led by a strong, experienced management team
+with substantial managerial experience in the telecommunications industry, and has sufficient
+technical expertise and infrastructure in place to provide reliable numbering services. IP Link’s
+key management and technical personnel are identified in attached Exhibit B. None of the
+identified personnel are being or have been investigated by the Commission or any law
+enforcement or regulatory agency for failure to comply with any law, rule, or order.
+2
+
+G. § 52.15(g)(3)(i)(G)
+IP Link hereby certifies that no party to this application is subject to a denial of Federal
+benefits pursuant to Section 5301 of the Anti-Drug Abuse Act of 1988,21 U.S.C. § 862.
+II. ACKNOWLEDGEMENT OF CONDITIONS IN SECTION 52.15(g)(3)(iv)
+As required by Section 52.15(g)(3)(iv), IP Link will maintain the accuracy of all contact
+information and certifications in this application and will file a correction with the Commission
+and each applicable state within 30 days of any changes. IP Link will also furnish accurate
+regulatory and numbering contact information to each state commission when requesting numbers
+in that state.
+III. CONCLUSION
+Pursuant to Section 52.15(g)(3)(i) of the Commission’s Rules, IP Link Telecom, Inc.
+respectfully requests the Commission grant this application for authorization to obtain numbering
+resources.
+Respectfully submitted,
+By: _________________________
+FosterDanowsky
+Jason Danowsky
+Texas Bar No. 24092318
+jdanowsky@fosterdanowsky.com
+904 West Ave., Ste. 107
+Austin, TX 78701
+(512) 708-8700
+(512) 697-0058/fax
+3
+
+Exhibit B
+Key Managerial and Technical Personnel
+2
+
+E E
+RIC NGBERS
+eric.engbers@iplinktelecom.com | 919.634.0313
+Telecommunications and Technology Executive with end-to-end senior management experience
+ranging from core network and software architecture, operations, and management, to profit and loss,
+M&A, finance and business development.
+I have led the design, deployment and operations
+of multiple telecommunications networks used by SKILLS AND RESOURCES
+the world’s largest carriers, software and services
+platforms used by Fortune 500 companies and WHO I AM
+been responsible for every aspect of
+Technically minded senior executive who
+organizational activities from sales, business
+excels at bridging the commercial and
+development, finance, M&A, software
+technical divide
+development, engineering, marketing and more
+across both public and private companies.
+WHAT I KNOW
+CORE COMPENTENCIES
+Session Initiation Protocol (SIP), SS7, SMPP,
+Telecommunications
+SQL, MS Word, MS Excel, MS PowerPoint, MS
+ Network Architecture and Operations Access, Adobe Photoshop, Adobe Premiere Pro,
+ Negotiation of Interconnection HTML, XML, CSS, MAC/Windows/Linux
+Agreements
+ Full Product Creation and Management – CONNECT WITH ME
+linkedin.com/in/engbers
+Call Origination, Termination, SMS/MMS,
+SIP Trunking, IP PBX, CPaaS
+ Data Driven Pricing & Network WHAT PEOPLE ARE SAYING
+Management Analytics and Systems
+“Eric is the brightest individual that I have ever
+had the opportunity to work with. He is
+Customer & Vendor Relationships
+polished and professional with a broad and
+ Long Term Strategic Relationship
+deep knowledge of technology.”
+Development
+-Doug Bonestroo, formerly CEO RemotePipes,
+ Business Development, Sales and
+Inc.
+Procurement from CEO, CFO to CTO and
+throughout the organization
+“Eric is very knowledgeable in the
+communications arena, particularly in the
+Software & Systems
+wireless environment. He sees technical and
+ Platform Design & Architecture
+business issues before most, and his ability to
+ Project Management
+provide solutions for those issues, makes it a
+ Management of Development and
+pleasure to work with him”
+Engineering
+-Donald Alcorn, CIO SmartSky Networks
+Corporate & Executive Leadership “Eric Engbers' leadership, management skills,
+ Business Planning & Execution entrepreneurial inclination, and business
+ Go-to-market Strategy & Launch foresight renders him valuable to any
+ M&A, P&L, Finance, Deal Structure organization, regardless of size or industry.”
+-Her Moua, Network Engineer Wells Fargo &
+EDUCATION Company
+Bachelor Science, Agricultural Business
+California Polytechnic State University,
+San Luis Obispo
+1994 - 1999
+Magna Cum Laude
+
+E E
+RIC NGBERS
+eric.engbers@iplinktelecom.com | 919.634.0313
+CAREER RECORD
+IP Link Technologies Group January 2021 – present
+Chief Operating Officer
+The IP Link Technologies Group family of companies provide a range of industry leading
+telecommunications, CPaaS and SaaS solutions to major service provider, enterprise and
+small to medium business customers.
+ Manage day-to-day operations of the business including; network engineering, network
+operations, software development, product management, accounting & finance, sales and
+marketing.
+ Direct management of key customer and vendor relationships.
+NGL Communications August 2018 – present
+Chief Executive Officer
+NGL Communications delivers solutions that meet the needs of the world’s largest service
+providers and the most challenging enterprise environments. Acquired by IP Link Technologies
+Group.
+ Responsible for managing all aspects of the business from inception
+ Exceeded productivity objectives of more than $2MM / employee in revenues
+Xtelus November 2015 – February 2019
+Chief Executive Officer
+Xtelus operated an industry-leading, high performance digital voice network. Acquired by
+Gawk, Inc.
+ Responsible for managing all aspects of the business from inception
+ Acquired by OTC publicly traded company
+Telaris July 2009 – August 2015
+President & Chief Executive Officer
+Telaris was a voice transit service provider delivering high quality call termination services to
+telecommunications carriers and business customers around the globe. Incumbent carriers,
+mobile operators, MSOs, next generation service providers and Enterprise customers
+benefited from the high performance digital network, quality management systems and
+comprehensive voice portfolio to maximize profitability of their voice operations.
+ Co-founded and grew business to over $20MM in annual revenue
+Vera Networks, LLC September 2010 – July 2015
+Co-founder & Director
+Vera Networks was a voice and data solutions provider of telecommunication software,
+hardware and services. Vera provided cloud-based SaaS and other managed services along
+with the sales and support of carrier-grade softswitches. Vera serves telecommunications
+carriers, service providers, and Enterprise businesses.
+ Formed key strategic relationships leading to numerous multi-million dollar sales
+Wi-SKY Networks, LLC September 2005 – November 2010
+Strategy Advisor & Member
+Wi-SKY Networks LLC™ is committed to providing the highest-speed, continuous, real-time,
+interactive data transmission via true broadband (1 Mbps+ per user) to and from aircraft in
+flight and vessels at sea for data transfer, video conferencing, email, voice over IP, movie
+upload, chat mail and high-speed Internet access, using WiMAX wireless technology. Acquired
+by SmartSky Networks
+
+E E
+RIC NGBERS
+eric.engbers@iplinktelecom.com | 919.634.0313
+InterMetro Communications January 2009 – July 2009
+Vice President – Wholesale Services
+InterMetro Communications offers VoIP services to long distance carriers, broadband phone
+companies, VoIP service providers, wireless providers and other communication companies
+and end-users.
+PowerNet Global Communications December 2005 – October 2008
+Vice President – PNG Carrier Services
+PowerNet Global provided residential and business switched and dedicated voice and data
+solutions.
+ Created and successfully co-launched a new $25 MM carrier services division within an
+established $150 MM retail telecom company.
+ Directly managed Network Operations Center (NOC), network engineering, operations,
+carrier relations (procurement) supporting the full organization along with the newly
+created division.
+WiMAX Global Roaming Alliance May 2005 – September 2006
+Co-founder & Chairman
+WGRA supported wireless broadband technologies and services by developing commercial,
+technical and marketing frameworks for wireless network interoperability.
+ Established the WiMAX Global Roaming Alliance, a working group of industry leaders and
+prospective users of emerging WiMAX technologies, dedicated to the development of
+competitive, ubiquitous wireless broadband services.
+ Organized and led speaking panels and industry events
+ Recruited members and member organizations
+RemotePipes, Inc. January 2001 – December 2005
+President / VP Business Development
+RemotePipes was a leading provider of worldwide mobile Internet access solutions.
+ Conceptualized and implemented business model shift from facilities based dial-up ISP to
+Global Internet Access service provider.
+ Responsible for entry into new line of business while maintaining established legacy
+revenue.
+ Architected software platform and service offerings which serviced Fortune 500 customers
+and secured major brand distribution.
+ Developed a leading global Internet access network with coverage in over 150 countries.
+ Strategic channel partnerships including; Verizon, Adelphia, Shaw, Rogers, Charter, and
+more.
+ Direct customer wins included Tribune Company, Motorola, NOAA Fisheries and 150+ SME
+customers from various verticals, along with 25,000+ total non-SMB seats.
+iPass, Inc. 1999 – 2000
+Sr. Network Quality Analyst
+iPass was a market leading provider of secure global remote access solutions to the Global
+Fortune 2000.
+ Designed automated network and vendor management systems and reporting
+ Technical vendor management of over 100 vendors globally
+
+Noah Kamrat
+EMAIL
+Varied work experiences within the nkamrat@iplinktelecom.com
+telecommunications industry at all levels of senior
+PHONE
+management including operations, sales, and
++1 541.521.8732
+strategic development. Opened an office overseas,
+negotiated M&As, managed sales teams, ADDRESS
+engineering teams, and was part of a team that 305 N 1st Ave
+Hillsboro, OR 97124
+took the company I founded public. Specialties
+include Management of Technical Sales, Operations
+and Business Development.
+Political science major interested in important issues such as liberty, equality,
+Education
+community, social forces and morality.
+MBA Bachelors of Science
+University of Oregon University of Oregon
+Charles H. Lundquist College of Business Political Science
+2010 - 2011 1992 – 1994
+Experience in all levels of Senior Management in the telecommunications
+Experience
+industry. Strong focus on sustainable behavior, lowering our carbon
+footprint and driving technology in a direction for the good of humanity.
+President CTO, COO
+IP Link Telecom New World Brands
+April 2010 – present Apr 2004 - March 2010
+Wholesale telecommunications, Manufactured and distributed
+voiceover IPs, call centers, services VoIP equipment and managed
+and consulting. VoIP networks.
+President Director, Nat’l Accounts
+Qualmax, Inc. Frontier Communications
+Apr 1999 - Apr 2003 Apr 1996 - Jan 1999
+Valued Added Reseller for CISCO Managed national and key
+Systems and other network account sales team in South
+equipment. Merged with New World Florida.
+Brands.
+Major Account Representative
+MCI Telecommunications
+Apr 1994 - Apr 1996
+Managed major accounts for a large
+telecommunications company.

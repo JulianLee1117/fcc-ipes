@@ -1,0 +1,1181 @@
+Contract Id: 4511322
+General Terms and Conditions/AT&T-21STATE
+Page 1 of 55
+VISION CTS
+Version: 4Q14 – ICA – 12/16/14
+GENERAL TERMS AND CONDITIONS
+
+Contract Id: 4511322
+General Terms and Conditions/AT&T-21STATE
+Page 2 of 55
+VISION CTS
+Version: 4Q14 – ICA – 12/16/14
+TABLE OF CONTENTS
+Section Page Number
+1.0 Introduction .....................................................................................................................................................5
+2.0 Definitions........................................................................................................................................................5
+3.0 Interpretation, Construction and Severability.............................................................................................14
+4.0 Notice of Changes - Section 251(c)(5) .........................................................................................................17
+5.0 Responsibilities of the Parties .....................................................................................................................17
+6.0 Insurance .......................................................................................................................................................18
+7.0 Assignment or Transfer of Agreement, Change in Control and Corporate Name Change .....................21
+8.0 Effective Date, Term and Termination .........................................................................................................22
+9.0 End User Fraud..............................................................................................................................................24
+10.0 Assurance of Payment..................................................................................................................................24
+11.0 Billing and Payment of Charges ..................................................................................................................26
+12.0 Nonpayment and Procedures for Disconnection .......................................................................................29
+13.0 Dispute Resolution........................................................................................................................................31
+14.0 Audits .............................................................................................................................................................34
+15.0 Disclaimer of Representations and Warranties ..........................................................................................35
+16.0 Limitation of Liability ....................................................................................................................................35
+17.0 Joint and Several Liability ............................................................................................................................36
+18.0 Indemnity .......................................................................................................................................................36
+19.0 Performance Measures .................................................................................................................................39
+20.0 Intellectual Property/License........................................................................................................................39
+21.0 Notices ...........................................................................................................................................................39
+22.0 Publicity and Use of Trademarks or Service Marks ...................................................................................41
+23.0 Confidentiality ...............................................................................................................................................41
+24.0 Intervening Law .............................................................................................................................................41
+25.0 Regulatory Approval .....................................................................................................................................42
+26.0 Governing Law ..............................................................................................................................................42
+27.0 Venue .............................................................................................................................................................42
+28.0 Changes in End User Local Exchange Service Provider Selection ..........................................................42
+29.0 Compliance and Certification .......................................................................................................................43
+30.0 Law Enforcement ..........................................................................................................................................43
+31.0 Relationship of the Parties/Independent Contractor ..................................................................................44
+32.0 No Third Party Beneficiaries; Disclaimer of Agency ..................................................................................44
+
+Contract Id: 4511322
+General Terms and Conditions/AT&T-21STATE
+Page 3 of 55
+VISION CTS
+Version: 4Q14 – ICA – 12/16/14
+33.0 Subcontracting ..............................................................................................................................................44
+34.0 Responsibility for Environmental Contamination ......................................................................................45
+35.0 Force Majeure ................................................................................................................................................45
+36.0 Taxes ..............................................................................................................................................................46
+37.0 Non Waiver.....................................................................................................................................................48
+38.0 Network Maintenance and Management .....................................................................................................48
+39.0 End User Inquiries.........................................................................................................................................54
+40.0 Expenses........................................................................................................................................................54
+41.0 Conflict of Interest.........................................................................................................................................54
+42.0 Survival ..........................................................................................................................................................54
+43.0 Scope of Agreement .....................................................................................................................................55
+44.0 Amendments and Modifications ..................................................................................................................55
+45.0 Authority ........................................................................................................................................................55
+46.0 Counterparts ..................................................................................................................................................55
+47.0 Entire Agreement ..........................................................................................................................................55
+
+Contract Id: 4511322
+General Terms and Conditions/AT&T-21STATE
+Page 4 of 55
+VISION CTS
+Version: 4Q14 – ICA – 12/16/14
+INTERCONNECTION AND/OR RESALE AGREEMENT
+UNDER SECTIONS 251 AND 252 OF THE TELECOMMUNICATIONS ACT OF 1996
+This Interconnection and/or Resale Agreement under Sections 251 and 252 of the Telecommunications Act of 1996
+(the Agreement), by and between one or more of the AT&T Inc. owned ILECs: BellSouth Telecommunications, LLC d/b/a
+AT&T ALABAMA, AT&T FLORIDA, AT&T GEORGIA, AT&T KENTUCKY, AT&T LOUISIANA, AT&T MISSISSIPPI, AT&T
+NORTH CAROLINA, AT&T SOUTH CAROLINA, and AT&T TENNESSEE; Illinois Bell Telephone Company d/b/a AT&T
+ILLINOIS; Indiana Bell Telephone Company Incorporated d/b/a AT&T INDIANA; Michigan Bell Telephone Company
+d/b/a AT&T MICHIGAN; Nevada Bell Telephone Company d/b/a AT&T NEVADA and AT&T Wholesale; The Ohio Bell
+Telephone Company d/b/a AT&T OHIO; Pacific Bell Telephone Company d/b/a AT&T CALIFORNIA; Southwestern Bell
+Telephone Company d/b/a AT&T ARKANSAS, AT&T KANSAS, AT&T MISSOURI, AT&T OKLAHOMA, and AT&T
+TEXAS; and Wisconsin Bell, Inc. d/b/a AT&T WISCONSIN, (only to the extent that the agent for each such AT&T Inc.
+owned ILEC executes this Agreement for such AT&T Inc. owned ILEC and only to the extent that such AT&T Inc. owned ILEC
+provides Telephone Exchange Services as an ILEC in each of the State(s) listed below) and Vision CTS, LLC (“CLEC” also
+referenced as “Vision CTS”), (a Ohio Limited Liability Company (LLC)), shall apply to the State of Ohio.
+WHEREAS, CLEC represents that it is, or intends to become, a provider of Telephone Exchange Service to
+residential and business End Users offered exclusively over its own Telephone Exchange Service facilities or predominantly
+over its own Telephone Exchange Service facilities in combination with the use of 251(c)(3) Unbundled Network Elements
+purchased from other entity(ies) and/or the Resale of Telecommunications Services of other carriers.
+WHEREAS, the Parties want to Interconnect their networks at mutually agreed upon Points of Interconnection to
+provide Telephone Exchange Services and Exchange Access to residential and business End Users over their respective
+Telephone Exchange Service facilities in the state or states which are subject to this Agreement; and
+WHEREAS, the Parties are entering into this Agreement to set forth the respective obligations of the Parties and the
+terms and conditions under which the Parties will Interconnect their networks and facilities and provide to each other services
+as required by the Telecommunications Act of 1996 as specifically set forth herein; and
+WHEREAS, for purposes of this Agreement, CLEC intends to operate where one or more of the AT&T Inc. entities,
+hereinafter referred to as, BellSouth Telecommunications, LLC d/b/a AT&T ALABAMA, AT&T FLORIDA, AT&T
+GEORGIA, AT&T KENTUCKY, AT&T LOUISIANA, AT&T MISSISSIPPI, AT&T NORTH CAROLINA, AT&T SOUTH
+CAROLINA, and AT&T TENNESSEE; Illinois Bell Telephone Company d/b/a AT&T ILLINOIS, Indiana Bell Telephone
+Company Incorporated d/b/a AT&T INDIANA, Michigan Bell Telephone Company d/b/a AT&T MICHIGAN, Nevada Bell
+Telephone Company d/b/a AT&T NEVADA and AT&T Wholesale, The Ohio Bell Telephone Company d/b/a AT&T
+OHIO, Pacific Bell Telephone Company d/b/a AT&T CALIFORNIA, Southwestern Bell Telephone Company d/b/a AT&T
+ARKANSAS, AT&T KANSAS, AT&T MISSOURI, AT&T OKLAHOMA, AT&T TEXAS and Wisconsin Bell, Inc. d/b/a AT&T
+WISCONSIN, the Incumbent Local Exchange Carrier(s) and CLEC, a Competitive Local Exchange Carrier, has or, prior to the
+provisioning of any Interconnection, access to 251(c)(3) Unbundled Network Elements, Telecommunications Services or any
+other functions, facilities, products or services hereunder, will have been granted authority to provide certain local Telephone
+Exchange Services in the foregoing ILEC Service areas by the appropriate State Commission(s);
+NOW, THEREFORE, the Parties hereby agree as follows:
+
+Contract Id: 4511322
+General Terms and Conditions/AT&T-21STATE
+Page 5 of 55
+VISION CTS
+Version: 4Q14 – ICA – 12/16/14
+1.0 Introduction
+1.1 This Agreement is composed of the foregoing recitals, the General Terms and Conditions (GT&C), set forth below,
+and certain Attachments, Schedules, Exhibits and Addenda immediately following this GT&C, all of which are hereby
+incorporated in this Agreement by this reference and constitute a part of this Agreement.
+2.0 Definitions
+2.1 “Access Service Request (ASR)” means the industry standard form used by the Parties to add, establish, change or
+disconnect trunks for the purposes of Interconnection.
+2.2 “Accessible Letter(s)” means the correspondence used to communicate pertinent information regarding AT&T-
+21STATE to the CLEC community and is (are) provided via posting to the AT&T CLEC Online website.
+2.3 “Act” means the Communications Act of 1934 [47 U.S.C. 153], as amended by the Telecommunications Act of 1996,
+Public Law 104-104, 110 Stat. 56 (1996) codified throughout 47 U.S.C.
+2.4 “Affiliate” is as defined in the Act.
+2.5 “Alternate Billing Service (ABS)” or “Alternately Billed Traffic (ABT)”, as described in Attachment 10 - ABT, means the
+service that allows End Users to bill calls to accounts that may not be associated with the originating line. There are
+three types of ABS/ABT calls: calling card, collect and third number billed calls.
+2.6 “Applicable Law” means all laws, statutes, common law, regulations, ordinances, codes, rules, guidelines, orders,
+permits, tariffs and approvals, including those relating to the environment or health and safety, of any Governmental
+Authority that apply to the Parties or the subject matter of this Agreement.
+2.7 “AT&T Inc.” (AT&T) means the holding company which directly or indirectly owns the following ILECs: BellSouth
+Telecommunications, LLC d/b/a AT&T ALABAMA, AT&T FLORIDA, AT&T GEORGIA, AT&T KENTUCKY, AT&T
+LOUISIANA, AT&T MISSISSIPPI, AT&T NORTH CAROLINA, AT&T SOUTH CAROLINA and AT&T TENNESSEE;
+Illinois Bell Telephone Company d/b/a AT&T ILLINOIS; Indiana Bell Telephone Company Incorporated d/b/a AT&T
+INDIANA; Michigan Bell Telephone Company d/b/a AT&T MICHIGAN; Nevada Bell Telephone Company d/b/a
+AT&T NEVADA and AT&T Wholesale; The Ohio Bell Telephone Company d/b/a AT&T OHIO; Pacific Bell Telephone
+Company d/b/a AT&T CALIFORNIA; Southwestern Bell Telephone Company d/b/a AT&T ARKANSAS, AT&T
+KANSAS, AT&T MISSOURI, AT&T OKLAHOMA and/or AT&T TEXAS, and/or Wisconsin Bell, Inc. d/b/a AT&T
+WISCONSIN. As used in this Agreement, AT&T refers to the AT&T Inc. ILECs only.
+2.8 “AT&T-21STATE” means the AT&T owned ILEC(s) doing business in Alabama, Arkansas, California, Florida,
+Georgia, Illinois, Indiana, Kansas, Kentucky, Louisiana, Michigan, Mississippi, Missouri, Nevada, North Carolina,
+Ohio, Oklahoma, South Carolina, Tennessee, Texas and Wisconsin.
+2.9 “AT&T-12STATE” means the AT&T owned ILEC(s) doing business in Arkansas, California, Illinois, Indiana, Kansas,
+Michigan, Missouri, Nevada, Ohio, Oklahoma, Texas and Wisconsin.
+2.10 “AT&T-10STATE” means the AT&T owned ILEC(s) doing business in Arkansas, Illinois, Indiana, Kansas, Michigan,
+Missouri, Ohio, Oklahoma, Texas and Wisconsin.
+2.11 “AT&T-7STATE” means the AT&T owned ILEC(s) doing business in Arkansas, California, Kansas, Missouri, Nevada,
+Oklahoma and Texas.
+2.12 “AT&T-4STATE” means the AT&T owned ILEC(s) doing business in Arkansas, Kansas, Missouri and Oklahoma.
+2.13 “AT&T ALABAMA” means the AT&T owned ILEC doing business in Alabama.
+2.14 “AT&T ARKANSAS” means the AT&T owned ILEC doing business in Arkansas.
+2.15 “AT&T CALIFORNIA” means the AT&T owned ILEC doing business in California.
+2.16 “AT&T FLORIDA” means the AT&T owned ILEC doing business in Florida.
+2.17 “AT&T GEORGIA” means the AT&T owned ILEC doing business in Georgia.
+2.18 “AT&T ILLINOIS” means the AT&T owned ILEC doing business in Illinois.
+
+Contract Id: 4511322
+General Terms and Conditions/AT&T-21STATE
+Page 6 of 55
+VISION CTS
+Version: 4Q14 – ICA – 12/16/14
+2.19 “AT&T INDIANA” means the AT&T owned ILEC doing business in Indiana.
+2.20 “AT&T KANSAS” means the AT&T owned ILEC doing business in Kansas.
+2.21 “AT&T KENTUCKY” means the AT&T owned ILEC doing business in Kentucky.
+2.22 “AT&T LOUISIANA” means the AT&T owned ILEC doing business in Louisiana.
+2.23 “AT&T MICHIGAN” means the AT&T owned ILEC doing business in Michigan.
+2.24 “AT&T MIDWEST REGION 5-STATE” means the AT&T owned ILEC(s) doing business in Illinois, Indiana, Michigan,
+Ohio and Wisconsin.
+2.25 “AT&T MISSISSIPPI” means the AT&T owned ILEC doing business in Mississippi.
+2.26 “AT&T MISSOURI” means the AT&T owned ILEC doing business in Missouri.
+2.27 “AT&T NEVADA” means the AT&T owned ILEC doing business in Nevada.
+2.28 “AT&T NORTH CAROLINA” means the AT&T owned ILEC doing business in North Carolina.
+2.29 “AT&T OHIO” means the AT&T owned ILEC doing business in Ohio.
+2.30 “AT&T OKLAHOMA” means the AT&T owned ILEC doing business in Oklahoma.
+2.31 “AT&T SOUTH CAROLINA” means the AT&T owned ILEC doing business in South Carolina.
+2.32 “AT&T SOUTHEAST REGION 9-STATE” means the AT&T owned ILEC(s) doing business in Alabama, Florida,
+Georgia, Kentucky, Louisiana, Mississippi, North Carolina, South Carolina and Tennessee.
+2.33 “AT&T SOUTHWEST REGION 5-STATE” means the AT&T owned ILEC(s) doing business in Arkansas, Kansas,
+Missouri, Oklahoma and Texas.
+2.34 “AT&T TENNESSEE” means the AT&T owned ILEC doing business in Tennessee.
+2.35 “AT&T TEXAS” means the AT&T owned ILEC doing business in Texas.
+2.36 “AT&T WEST REGION 2-STATE” means the AT&T owned ILEC(s) doing business in California and Nevada.
+2.37 “AT&T WISCONSIN” means the AT&T owned ILEC doing business in Wisconsin.
+2.38 “Audited Party” means the Party being audited by the Auditing Party.
+2.39 “Auditing Party” means the Party conducting an audit of the Audited Party’s books, records, data and other
+documents.
+2.40 “Automated Message Accounting (AMA)” means the structure that is inherent in switch technology that initially
+records Telecommunication message information. AMA format is contained in the Automated Message Accounting
+document published by iconectiv (formerly known as Telcordia) as GR-1100-CORE, which defines and amends the
+industry standard for message recording.
+2.41 “Bill Due Date” means thirty (30) calendar days from the bill date.
+2.42 “Billed Party” means the recipient Party of a bill rendered from the Billing Party.
+2.43 “Billing Party” means the Party rendering a bill.
+2.44 “Bona Fide Request (BFR)” means the process described in Attachment 08 – Bona Fide Request (BFR).
+2.45 “Business Day” means Monday through Friday, excluding holidays on which the applicable AT&T-21STATE ILEC
+does not provision new retail services and products.
+2.46 “Busy Line Verification (BLV)” means a service whereby an End User requests an operator to confirm the busy status
+of a line.
+2.47 “CABS” means the Carrier Access Billing System.
+
+Contract Id: 4511322
+General Terms and Conditions/AT&T-21STATE
+Page 7 of 55
+VISION CTS
+Version: 4Q14 – ICA – 12/16/14
+2.48 “Calling Name Delivery Service (CNDS)” means a service that enables a terminating End User to identify the calling
+Party by a displayed name before a call is answered. The calling Party’s name is retrieved from a calling name
+database and delivered to the End User’s premise between the first and second ring for display on compatible End
+User premises equipment.
+2.49 “Cash Deposit” means a cash security deposit in U.S. dollars held by AT&T-21STATE.
+2.50 “Central Automatic Message Accounting (CAMA) Trunk” means a trunk that uses Multi-Frequency (MF) signaling to
+transmit calls from CLEC’s switch to an AT&T-21STATE E911 Selective Router.
+2.51 “Centralized Message Distribution System (CMDS)” means the industry-wide data collection system, which handles
+the daily exchange of message details between CMDS participating telephone companies (also known as CMDS
+Direct Participants). AT&T-21STATE is a CMDS Direct Participant.
+2.52 “Central Office Switch (CO)” means the switching entity within the public switched Telecommunications network,
+including but not limited to:
+2.52.1 “End Office Switch” or “End Office” means the switching machine that directly terminates traffic to and
+receives traffic from purchasers of local Exchange Services. An End Office Switch does not include a
+PBX.
+2.52.2 “Tandem Office Switch” or “Tandem(s)” are used to connect and switch trunk circuits between and among
+other Central Office Switches. A Tandem Switch does not include a PBX.
+2.53 “Change in Control” shall mean the (a) consolidation or merger of CLEC with or into any unaffiliated entity, (b) sale,
+transfer or other disposition of all or substantially all of the assets of CLEC to an unaffiliated entity, or (c) acquisition
+by any entity, or group of entities acting in concert, of outstanding voting securities or partnership interests of CLEC
+which give such entity or group of entities Control over CLEC.
+2.54 “Claim” means any pending or threatened claim, action, proceeding or suit.
+2.55 “Commercial Mobile Radio Service(s) (CMRS)” is as defined in the Act and FCC rules.
+2.56 “Commission” means the applicable State agency with regulatory authority over Telecommunications. The following
+is a list of the appropriate State agencies:
+2.56.1 the Alabama Public Service Commission (APSC);
+2.56.2 the Arkansas Public Service Commission (AR-PSC);
+2.56.3 the California Public Utilities Commission (CA-PUC);
+2.56.4 the Florida Public Service Commission (FPSC);
+2.56.5 the Georgia Public Service Commission (GPSC);
+2.56.6 the Illinois Commerce Commission (IL-CC);
+2.56.7 the Indiana Utility Regulatory Commission (IN-URC);
+2.56.8 the Kansas Corporation Commission (KS-CC);
+2.56.9 the Kentucky Public Service Commission (KPSC);
+2.56.10 the Louisiana Public Service Commission (LPSC);
+2.56.11 the Michigan Public Service Commission (MI-PSC);
+2.56.12 the Mississippi Public Service Commission (MPSC);
+2.56.13 the Missouri Public Service Commission (MO-PSC);
+2.56.14 the Public Utilities Commission of Nevada (NV-PUC);
+2.56.15 the North Carolina Utilities Commission (NCUC);
+
+Contract Id: 4511322
+General Terms and Conditions/AT&T-21STATE
+Page 8 of 55
+VISION CTS
+Version: 4Q14 – ICA – 12/16/14
+2.56.16 the Public Utilities Commission of Ohio (PUC-OH);
+2.56.17 the Oklahoma Corporation Commission (OK-CC);
+2.56.18 the Public Service Commission of South Carolina (PSCSC);
+2.56.19 the Tennessee Regulatory Authority (TRA);
+2.56.20 the Public Utility Commission of Texas (PUC-TX); and
+2.56.21 the Public Service Commission of Wisconsin (PSC-WI).
+2.57 “Common Channel Signaling (CCS)” means an out-of-band, packet-switched, signaling network used to transport
+supervision signals, control signals, and data messages. It is a special network, fully separate from the transmission
+path of the public switched network. Unless otherwise agreed by the Parties, the CCS protocol used by the Parties
+shall be SS7.
+2.58 “Common Language Location Identifier (CLLI)” means the codes that provide a unique eleven (11) character
+representation of a network interconnection point. The first eight (8) characters identify the city, state and building
+location, while the last three (3) characters identify the network component.
+2.59 “Competitive Local Exchange Carrier (CLEC)” means a telephone company certificated by the Commission to
+provide local Exchange Service within AT&T-21STATE’s franchised area.
+2.60 “Consequential Damages” means Losses claimed to have resulted from any indirect, incidental, reliance, special,
+consequential, punitive, exemplary, multiple or any other Loss, including damages claimed to have resulted from
+harm to business, loss of anticipated revenues, savings, or profits, or other economic Loss claimed to have been
+suffered not measured by the prevailing Party’s actual damages, and any other damages typically considered
+consequential damages under Applicable Law, regardless of whether the Parties knew or had been advised of the
+possibility that such damages could result in connection with or arising from anything said, omitted, or done
+hereunder or related hereto, including willful acts or omissions.
+2.61 “Control” shall mean, with respect to any entity, the possession, direct or indirect, of the power to solely direct or
+cause the direction of the management or policies of such entity, whether through the ownership of voting securities
+(or other ownership interests) by contract or otherwise.
+2.62 “Daily Usage File” or “DUF” or “Usage Extract” means a service which provides End User usage call records as
+described in Attachment 11 - Daily Usage File.
+2.63 “Delaying Event” means any failure of a Party to perform any of its obligations set forth in this Agreement, caused in
+whole or in part by:
+2.63.1 the failure of the other Party to perform any of its obligations set forth in this Agreement, including but not
+limited to a Party’s failure to provide the other Party with accurate and complete Service Orders;
+2.63.2 any delay, act or failure to act by the other Party or its End User, agent or subcontractor; or
+2.63.3 any Force Majeure Event.
+2.64 “Dialing Parity” means as defined in the Act. As used in this Agreement, Dialing Parity refers to both Local Dialing
+Parity and Toll Dialing Parity.
+2.65 “Digital Signal Level” means one of several transmission rates in the time division multiplex hierarchy.
+2.66 “Digital Signal Level 0 (DS-0)” means the lowest-level signal in the time division multiplex digital hierarchy, and
+represents a voice-grade channel operating at either the 56 Kbps or 64 Kbps transmission bit rates. There are
+twenty-four (24) DS-0 channels in a DS-1.
+2.67 “Digital Signal Level 1 (DS-1)” means the 1.544 Mbps first level signal in the time division multiplex hierarchy.
+2.68 “Digital Signal Level 3 (DS-3)” means the 44.736 Mbps third level signal in the time division multiplex hierarchy.
+2.69 INTENTIONALLY OMITTED
+
+Contract Id: 4511322
+General Terms and Conditions/AT&T-21STATE
+Page 9 of 55
+VISION CTS
+Version: 4Q14 – ICA – 12/16/14
+2.70 “Discontinuance Notice” means the written Notice sent by the Billing Party to the other Party that notifies the Non-
+Paying Party that in order to avoid disruption or disconnection of the Interconnection Services, furnished under this
+Agreement, the Non-Paying Party must remit all Unpaid Charges to the Billing Party within fifteen (15) calendar days
+following receipt of the Billing Party’s Notice of Unpaid Charges.
+2.71 “Disputed Amounts” as used in Section 11.9 below, means the amount that the Disputing Party contends is
+incorrectly billed.
+2.72 “Disputing Party” as used in Section 11.9 below, means the Party to this Agreement that is disputing an amount in a
+bill rendered by the Billing Party.
+2.73 “Electronic File Transfer” means any system or process that utilizes an electronic format and protocol to send or
+receive data files.
+2.74 “End User(s)” means a Third Party residence or business that subscribes to Telecommunications Services provided
+by any of the Parties at retail. As used herein, the term “End User(s)” does not include any of the Parties to this
+Agreement with respect to any item or service obtained under this Agreement.
+2.75 “Enhanced Service Provider (ESP)” means the provider of enhanced services, as those services are defined in 47
+CFR Section 64.702.
+2.76 “Exchange Access” means as defined in the Act.
+2.77 “Exchange Area” means an area, defined by the Commission, for which a distinct local rate schedule is in effect.
+2.78 “Exchange Message Interface (EMI)” (formerly Exchange Message Record “EMR”) means the standard used for
+exchange of Telecommunications message information among Telecommunications Carriers for billable, non-billable,
+CABS, sample, settlement and study data. EMI format is contained in iconectiv Practice BR-010-200-010, CRIS
+Exchange Message Record and the Alliance for Telecommunications Industry Solutions (ATIS) document, ATIS-
+0406000-xxxx (xxxx refers to the year of publication).
+2.79 “Exchange Service” means Telephone Exchange Service as defined in the Act.
+2.80 “FCC” means the Federal Communications Commission.
+2.81 “Feature Group A (FGA)” means calls either originated by, or delivered to, an End User who has purchased switched
+access FGA service from the interstate or intrastate tariffs of either Party. FGA also includes, but is not limited to,
+FGA-like services provided by either Party, where calls are originated from and/or delivered to numbers which are
+assigned to a Rate Center within one LATA but where the Party receiving the call is physically located in a LATA
+different than the LATA of the Party originating the call.
+2.82 “Feature Group D (FGD)” means the access available to all customers, providing trunk side access to a Party’s End
+Office Switches with an associated uniform 101XXXX access code for customer’s use in originating and terminating
+communications.
+2.83 “Fiber Meet” means an Interconnection architecture method whereby the Parties physically Interconnect their
+networks via an optical fiber interface (as opposed to an electrical interface), using a single point-to-point linear chain
+SONET system.
+2.84 “Foreign Exchange (FX)” or “FX-like” Service means a retail service offering which allows FX End Users to obtain
+Exchange Service from a mandatory local calling area other than the mandatory local calling area where the FX End
+User is physically located, but within the same LATA as the number that is assigned. FX Service enables particular
+End Users to avoid what might otherwise be toll calls between the FX End User’s physical location and other End
+Users in the foreign exchange.
+2.85 “FX Telephone Numbers” means those telephone numbers with rating and routing point that are different from those
+of the geographic area in which the End User is physically located. FX Telephone Numbers that deliver second dial
+tone and the ability for the calling Party to enter access codes and an additional recipient telephone number remain
+classified as Feature Group A (FGA) calls, and are subject to the originating and terminating carrier’s tariffed
+Switched Exchange Access rates (also known as “Meet Point Billed” compensation).
+
+Contract Id: 4511322
+General Terms and Conditions/AT&T-21STATE
+Page 10 of 55
+VISION CTS
+Version: 4Q14 – ICA – 12/16/14
+2.86 “Fraud Monitoring System” means an off-line administration system that monitors suspected occurrences of ABT-
+related fraud.
+2.87 “Governmental Authority” means any federal, state, local, foreign, or international court, government, department,
+commission, board, bureau, agency, official, or other regulatory, administrative, legislative, or judicial authority with
+jurisdiction over the subject matter at issue.
+2.88 “Incumbent Local Exchange Carrier (ILEC)” is as defined in the Act.
+2.89 “Intellectual Property” means copyrights, patents, trademarks, trade secrets, mask works and all other intellectual
+property rights.
+2.90 “Integrated Digital Loop Carrier” means a subscriber loop carrier system that is twenty-four (24) local Loop
+transmission paths combined into a 1.544 Mbps digital signal which integrates within the switch at a DS1 level.
+2.91 “Integrated Services Digital Network (ISDN)” means a switched network service that provides end-to-end digital
+connectivity for the simultaneous transmission of voice and data. Basic Rate Interface-ISDN (BRI-ISDN) provides for
+a digital transmission of two (2) 64 Kbps bearer channels and one (1) 16 Kbps data channel (2B+D).
+2.92 “Interconnection” is as defined in the Act.
+2.93 “Interconnection Activation Date” means the date that the construction of the joint facility Interconnection
+arrangement has been completed, trunk groups have been established, joint trunk testing is completed and trunks
+have been mutually accepted by the Parties.
+2.94 “Interconnection Service(s)” means any Interconnection, Resale Services, 251(c)(3) UNEs, Collocation, functions,
+facilities, products or services offered under this Agreement.
+2.95 “Interexchange Carrier (IXC)” means a carrier that provides, directly or indirectly, InterLATA or IntraLATA Telephone
+Toll Services.
+2.96 “InterLATA” is as defined in the Act.
+2.97 “Intermediate Distribution Frame (IDF)” means a second frame that augments an existing Main Distribution Frame.
+Lines or outside cables that do not terminate on the IDF.
+2.98 “Internet Service Provider (ISP)” means an Enhanced Service Provider (ESP) that provides Internet Services.
+2.99 “ISP-Bound Traffic” means Telecommunications traffic, in accordance with the FCC’s Order on Remand and Report
+and Order, In the Matter of Implementation of the Local Compensation Provisions in the Telecommunications Act of
+1996, Intercarrier Compensation for ISP-Bound Traffic, FCC 01-131, CC Docket Nos. 96-98, 99-68 (rel. April, 27,
+2001) (“FCC ISP Compensation Order”), “ISP-Bound Traffic” shall mean Telecommunications traffic exchanged
+between CLEC and AT&T-21STATE in which the originating End User of one Party and the ISP served by the other
+Party are:
+2.99.1 both physically located in the same ILEC Local Exchange Area as defined by the ILEC’s Local (or
+“General”) Exchange Tariff on file with the Commission or regulatory agency; or
+2.99.2 both physically located within neighboring ILEC Local Exchange Areas that are within the same common
+mandatory local calling area. This includes, but it is not limited to, mandatory Extended Area Service (EAS),
+mandatory Extended Local Calling Service (ELCS) or other types of mandatory expanded local calling
+scopes.
+2.100 “IntraLATA Toll Traffic” means the IntraLATA traffic, regardless of the transport protocol method, between two
+locations within one LATA where one of the locations lies outside of the mandatory local calling area as defined by
+the Commission.
+2.101 “Jurisdictional Information Parameter (JIP)” is an existing six (6) digit (NPA-NXX) field in the SS7 message. This field
+designates the first point of switching.
+2.102 “Late Payment Charge” means the charge that is applied when CLEC fails to remit payment for any charges by the
+Bill Due Date, or if payment for any portion of the charges is received from CLEC after the Bill Due Date, or if
+
+Contract Id: 4511322
+General Terms and Conditions/AT&T-21STATE
+Page 11 of 55
+VISION CTS
+Version: 4Q14 – ICA – 12/16/14
+payment for any portion of the charges is received in funds which are not immediately available or received by AT&T-
+21STATE as of the Bill Due Date, or if CLEC does not submit the Remittance Information.
+2.103 “LEC-carried” means the transport of calls or messages on a Carrier’s network.
+2.104 “Letter of Credit” means the unconditional, irrevocable standby bank letter of credit from a financial institution
+acceptable to AT&T-21STATE naming the AT&T owned ILEC(s) designated by AT&T-21STATE as the
+beneficiary(ies) thereof and otherwise on the AT&T-21STATE Letter of Credit form.
+2.105 “Line Information Data Base (LIDB)” means a transaction-oriented database system that functions as a centralized
+repository for data storage and retrieval. LIDB is accessible through CCS networks. LIDB contains records
+associated with End User line numbers and special billing numbers.
+2.106 “Line Side” means the End Office switch connections that have been programmed to treat the circuit as a local line
+connected to a terminating station (e.g., an ordinary subscriber’s telephone station set, a PBX, answering machine,
+facsimile machine or computer). Line Side connections offer only those transmission and signal features appropriate
+for a connection between an End Office and such terminating station.
+2.107 “Local Access and Transport Area (LATA)” is as defined in the Act.
+2.108 “Local Exchange Carrier (LEC)” is as defined in the Act.
+2.109 “Local Exchange Routing Guide (LERG)” means the iconectiv Reference document used by Telecommunications
+Carriers to identify NPA-NXX routing and homing information as well as Network element and equipment
+designations.
+2.110 “Local Interconnection Trunks/Trunk Groups” means the trunks that are used for the termination of Local Exchange
+Traffic, pursuant to iconectiv Technical Reference GR 317-CORE.
+2.111 “Local Number Portability (LNP)” means the ability of users of Telecommunications Services to retain the presence of
+a previously existing telephone number(s).
+2.112 “Location Routing Number (LRN)” means the ten (10) digit number that is assigned to the network switching
+elements (Central Office–Host and Remotes as required) for the routing of calls in the network. The first six (6) digits
+of the LRN will be one of the assigned NPA NXX of the switching element. The purpose and functionality of the last
+four (4) digits of the LRN have not yet been defined but are passed across the network to the terminating switch.
+2.113 “Local Service Provider (LSP)” means the LEC that provides retail local Exchange Service to an End User. The LSP
+may or may not provide any physical network components to support the provision of that End User’s service.
+2.114 “Local Service Request (LSR)” means the form used to input orders to the Local Service Center (LSC) by CLEC,
+including, but not limited to orders to add, establish, change or disconnect services.
+2.115 “Main Distribution Frame (MDF)” means the termination frame for outside facility and inter-exchange office equipment
+at the CO.
+2.116 “Multiple Exchange Carrier Access Billing” or “MECAB” means the document prepared by the Billing Committee of
+the OBF, which functions under the auspices of the Carrier Liaison Committee (CLC) of the Alliance for
+Telecommunications Industry Solutions (ATIS). The MECAB document, published by ATIS as ATIS/OBF-MECAB-
+Issue 6, February 1998, contains the recommended guidelines for the billing of access services provided to an IXC
+by two (2) or more LECs, or by one LEC in two (2) or more states within a single LATA.
+2.117 “Multiple Exchange Carriers Ordering and Design” or “MECOD” means the Guidelines for Access Services - Industry
+Support Interface, a document developed by the Ordering/Provisioning Committee of the OBF, which functions under
+the auspices of the Carrier Liaison Committee of ATIS. The MECOD document, published by ATIS as ATIS/OBF-
+MECAB-Issue 3, February 1993, establishes methods for processing orders for access service which is to be
+provided to an IXC by two (2) or more telecommunications providers.
+2.118 “Meet-Point Billing (MPB)” means the billing associated with interconnection of facilities between two (2) or more
+LECs for the routing of traffic to and from an IXC with which one of the LECs does not have a direct connection. In a
+
+Contract Id: 4511322
+General Terms and Conditions/AT&T-21STATE
+Page 12 of 55
+VISION CTS
+Version: 4Q14 – ICA – 12/16/14
+multi-bill environment, each Party bills the appropriate tariffed rate for its portion of a jointly provided Switched
+Exchange Access Service.
+2.119 “Multiple Bill/Single Tariff” means the billing method used when Switched Exchange Access Services is jointly
+provided by the Parties. As described in the MECAB document, each Party will render a bill in accordance with its
+own tariff for that portion of the service it provides. Each Party will bill its own network access service rates.
+2.120 “Network Data Mover (NDM)” or “Connect Direct” means the industry standard protocol for transferring information
+electrically.
+2.121 “Non-Paying Party” is the Party that has not made payment by the Bill Due Date of all amounts within the bill
+rendered by the Billing Party.
+2.122 “North American Numbering Plan (NANP)” means the numbering architecture in which every station in the NANP
+Area is identified by a unique ten (10)-digit address consisting of a three (3)-digit NPA code, a three (3)-digit central
+office code of the form NXX, and a four (4)-digit line number of the form XXXX.
+2.123 "Notice” is official correspondence between the Parties sent in accordance with Notice Sections 21.1-21.3 of this
+General Terms and Conditions.
+2.124 “Numbering Plan Area (NPA)”, also called area code, means the three (3)-digit code that occupies the A, B, C
+positions in the ten (10)-digit NANP format that applies throughout the NANP Area. NPAs are of the form NXX,
+where N represents the digits two (2) through nine (9) and X represents any digit zero (0) through nine (9). In the
+NANP, NPAs are classified as either geographic or non-geographic. Geographic NPAs are NPAs which correspond
+to discrete geographic areas within the NANP Area. Non-geographic NPAs are NPAs that do not correspond to
+discrete geographic areas, but which are instead assigned for services with attributes, functionalities, or requirements
+that transcend specific geographic boundaries. For example, NPAs in the N00 format, (e.g., 800, 900) are non-
+geographic.
+2.125 “Number Portability” is as defined in the Act.
+2.126 “NXX” or “Central Office Code” is the three (3)-digit switch entity indicator that is defined by the fourth (4th) through
+sixth (6th) digits of a ten (10)-digit telephone number within the NANP. Each NXX Code contains 10,000 station
+numbers.
+2.127 “Operating Company Number (OCN)” means the numeric Company Code assigned by NECA identifying CLEC as a
+Resale or UNE provider.
+2.128 “Operations Support Systems (OSS)” means the suite of functions which permits CLEC to interface to the ILEC for
+pre-ordering, ordering, provisioning, maintenance/ repair and billing as described in the Attachment 07 – Operations
+Support Systems (OSS) herein.
+2.129 “Ordering and Billing Forum (OBF)” means the forum comprised of local telephone companies and inter-exchange
+carriers (IXCs), whose responsibility is to create and document Telecommunication industry guidelines and
+standards.
+2.130 “Out of Exchange LEC (OE-LEC)” means a LEC operating within AT&T-21STATE’s incumbent local Exchange Area
+that provides Telecommunications Services utilizing NPA-NXXs identified to reside in a Third Party ILEC’s local
+Exchange Area.
+2.131 “Out of Exchange Traffic” is defined as local, transit, or intraLATA traffic to or from a non- AT&T-21STATE ILEC
+Exchange Area.
+2.132 “Party” means either CLEC or the AT&T owned ILEC; use of the term “Party” includes each of the AT&T owned
+ILEC(s) that is a Party to this Agreement. “Parties” means both CLEC and the AT&T owned ILEC.
+2.133 “Past Due” means when CLEC fails to remit payment for any charges by the Bill Due Date, or if payment for any
+portion of the charges is received from CLEC after the Bill Due Date, or if payment for any portion of the charges is
+received in funds which are not immediately available to AT&T-21STATE as of the Bill Due Date (individually and
+collectively means Past Due).
+
+Contract Id: 4511322
+General Terms and Conditions/AT&T-21STATE
+Page 13 of 55
+VISION CTS
+Version: 4Q14 – ICA – 12/16/14
+2.134 “Person” means an individual or a partnership, an association, a joint venture, a corporation, a business or a trust or
+other entity organized under Applicable law, an unincorporated organization or any Governmental Authority.
+2.135 “Rate Center Area” means the following in each applicable area:
+2.135.1 AT&T MIDWEST REGION 5-STATE: “Rate Center” means the specific geographic point that has been
+designated by a given LEC as being associated with a particular NPA-NXX code that has been assigned to
+the LEC for its provision of Telephone Exchange Service. The Rate Center is the finite geographic point
+identified by a specific V&H coordinate, which is used by that LEC to measure, for billing purposes, distance
+sensitive transmission services associated with the specific Rate Center.
+2.135.2 AT&T NEVADA: “Rate Center” means the designated points, representing Exchanges (or locations outside
+Exchange Areas), between which mileage measurements are made for the application of interexchange
+mileage rates. Rate Centers are defined in NV-PUC tariff A6.2.7.
+2.135.3 AT&T CALIFORNIA: “Rate Center” means the designated points, representing Exchanges or district area
+(or locations outside Exchange Areas), between which mileage measurements are made for the application
+of interexchange and interdistrict mileage rates, as defined by the CA-PUC.A2, 2.1.1 Definition of Terms.
+2.135.4 AT&T SOUTHWEST REGION 5-STATE: “Rate Center” means a uniquely defined geographical location
+within an Exchange Area (or a location outside the Exchange Area) for which mileage measurements are
+determined for the application of interstate tariffs.
+2.135.5 AT&T SOUTHEAST REGION 9-STATE: “Rate Center” means a specific geographic location identified by
+vertical and horizontal coordinates and is associated with a telephone company’s central office switch.
+These coordinates are used to calculate mileage for interLATA and intraLATA toll billing and intercompany
+settlement purposes.
+2.136 “Rating Point” means the V&H coordinates associated with a particular telephone number for rating purposes.
+2.137 “Remittance Information” means the information that must specify the Billing Account Numbers (BANs) paid; invoices
+paid and the amount to be applied to each BAN and invoice.
+2.138 “Resale” or “Resale Services” is as specified in Section 251 (c)(4) of the Act.
+2.139 “Routing Point” means the location which a LEC has designated on its own network as the homing or routing point for
+traffic inbound to Exchange Service provided by the LEC which bears a certain NPA-NXX designation. The Routing
+Point is employed to calculate mileage measurements for the distance-sensitive transport element charges of
+Switched Access services. The Routing Point need not be the same as the Rating Point, nor must it be located
+within the Rate Center area, but must be in the same LATA as the NPA-NXX.
+2.140 “Service Start Date” means the date on which services were first supplied under this Agreement.
+2.141 “Service Switching Point (SSP)” means the telephone Central Office Switch equipped with a Signaling System 7
+(SS7) interface.
+2.142 “Serving Wire Center (SWC)” means the Wire Center that serves the area in which the other Party’s or a Third
+Party’s Wire Center, aggregation point, point of termination, or point of presence is located.
+2.143 “Signaling System 7 (SS7)” means a signaling protocol used by the CCS Network.
+2.144 “Surety Bond” means a bond from a Bond company with a credit rating by AMBEST better than a “B”. The bonding
+company shall be certified to issue bonds in a state in which this Agreement is approved.
+2.145 “Switched Access Detail Usage Data” means a category 1101xx record as defined in the EMI iconectiv Practice BR
+010-200-010.
+2.146 “Switched Exchange Access Service” means the offering of transmission or switching cervices to
+Telecommunications Carriers for the purpose of the origination or termination of telephone toll service. Switched
+Exchange Access Services include: Feature Group A, Feature Group B, Feature Group D, 800/888 access, and 900
+access and their successors or similar Switched Exchange Access Services.
+
+Contract Id: 4511322
+General Terms and Conditions/AT&T-21STATE
+Page 14 of 55
+VISION CTS
+Version: 4Q14 – ICA – 12/16/14
+2.147 “Synchronous Optical Network (SONET)” means the optical interface standard that allows inter-networking of
+transmission products from multiple vendors. The base rate is 51.84 Mbps (“OC 1/STS 1”) and higher rates are
+direct multiples of the base rate, up to 13.22 Gbps.
+2.148 “Tax” or “Taxes” means any and all federal, state, or local sales, use, excise, gross receipts, transfer, transaction or
+similar taxes or tax-like fees of whatever nature and however designated, including any charges or other payments,
+contractual or otherwise, for the use of streets or rights-of-way, whether designated as franchise fees or otherwise,
+and further including any legally permissible surcharge of or with respect to any of the foregoing, which are imposed
+or sought to be imposed on or with respect to, or measured by the charges or payments for, any products or services
+purchased under this Agreement.
+2.149 “Telecommunications” is as defined in the Act.
+2.150 “Telecommunications Carrier” is as defined in the Act.
+2.151 “Telecommunications Service” is as defined in the Act.
+2.152 “Telephone Exchange Service” is as defined in the Act.
+2.153 “Telephone Toll Service” is as defined in the Act.
+2.154 “Third Party” is any Person other than a Party.
+2.155 “Toll Billing Exception Service (TBE)” means a service that allows End Users to restrict third number billing or collect
+calls to their lines.
+2.156 “Trunk” means a communication line between two switching systems.
+2.157 “Trunk-Side” means the Central Office Switch connection that is capable of, and has been programmed to treat the
+circuit as connecting to another switching entity (for example another Central Office Switch). Trunk-Side connections
+offer those transmission and signaling features appropriate for the connection of switching entities and cannot be
+used for the direct connection of ordinary telephone station sets.
+2.158 “Unbundled Network Element (UNE)” is a network element that AT&T-21STATE is required to provide pursuant to
+Section 251 (c)(3) of the Act, as determined by lawful and effective FCC rules and associated lawful and effective
+FCC and judicial orders.
+2.159 “Universal Digital Loop Carrier (UDLC)” means the DLC system that has a CO terminal channel bank that is
+connected to the CO switches on the analog side.
+2.160 “Unpaid Charges” means any charges billed to the Non-Paying Party that the Non-Paying Party did not render full
+payment to the Billing Party by the Bill Due Date, including where funds were not accessible.
+2.161 “Wire Center” means the location of one (1) or more local switching systems. It is also a point at which End User’s
+loops within a defined geographic area converge. Such local loops may be served by one (1) or more Central Office
+Switches within such premises.
+3.0 Interpretation, Construction and Severability
+3.1 Definitions:
+3.1.1 For purposes of this Agreement, certain terms have been defined in this Agreement to encompass
+meanings that may differ from, or be in addition to, the normal connotation of the defined word. Unless the
+context clearly indicates otherwise, any term defined or used in the singular will include the plural.
+Whenever the context may require, any pronoun shall include the corresponding masculine, feminine and
+neuter forms. The words “include”, “includes” and “including” shall be deemed to be followed by the phrase
+“without limitation” and/or “but not limited to”. The words “will” and “shall” are used interchangeably
+throughout this Agreement and the use of either connotes a mandatory requirement. The use of one or the
+other will not mean a different degree of right or obligation for either Party. A defined word intended to
+convey its special meaning is capitalized when used. Other terms that are capitalized and not defined in
+this Agreement will have the meaning in the Act, or in the absence of their inclusion in the Act, their
+customary usage in the Telecommunications industry as of the Effective Date.
+
+Contract Id: 4511322
+General Terms and Conditions/AT&T-21STATE
+Page 15 of 55
+VISION CTS
+Version: 4Q14 – ICA – 12/16/14
+3.2 Headings Not Controlling:
+3.2.1 The headings and numbering of Sections, Parts, Attachments, Schedules and Exhibits to this Agreement
+are for convenience only and shall not be construed to define or limit any of the terms herein or affect the
+meaning or interpretation of this Agreement.
+3.2.2 This Agreement incorporates a number of Attachments which, together with their associated Exhibits,
+Schedules and Addenda, constitute the entire Agreement between the Parties. In order to facilitate use and
+comprehension of the Agreement, the Attachments have been grouped under broad headings. It is
+understood that these groupings are for convenience of reference only, and are not intended to limit the
+applicability that any particular Attachment, Exhibit, Schedule or Addendum may otherwise have.
+3.3 Referenced Documents:
+3.3.1 Any reference throughout this Agreement to an industry guideline, AT&T-21STATE’s technical guideline or
+referenced AT&T-21STATE business rule, guide or other such document containing processes or
+specifications applicable to the services provided pursuant to this Agreement, shall be construed to refer to
+only those provisions thereof that are applicable to these services, and shall include any successor or
+replacement versions thereof, all as they are amended from time to time and all of which are incorporated
+herein by reference, and may be found at AT&T’s CLEC Online website.
+3.4 References:
+3.4.1 References herein to Sections, Paragraphs, Attachments, Exhibits, Parts and Schedules shall be deemed to
+be references to Sections, Paragraphs, Attachments and Parts of, and Exhibits, Schedules to this
+Agreement, unless the context shall otherwise require.
+3.5 Tariff References:
+3.5.1 References to state tariffs throughout this Agreement shall be to the currently effective tariff for the state or
+jurisdiction in which the services were provisioned; provided however, where certain AT&T-21STATE
+services or tariff provisions have been or become deregulated or detariffed, any reference in this Agreement
+to a detariffed or deregulated service or provision of such tariff shall be deemed to refer to the service
+description, price list or other agreement pursuant to which AT&T-21STATE provides such services as a
+result of detariffing or deregulation.
+3.5.2 Wherever the term “customer” is used in connection with AT&T-21STATE’s retail tariffs, the term “customer”
+means the ultimate consumer or the End User of any tariffed service.
+3.5.3 No reference to tariffs in this Agreement shall be interpreted or construed as permitting CLEC to purchase
+Interconnection Services, under such tariff. Except where expressly permitted elsewhere in this Agreement,
+notwithstanding the availability of Interconnection Services under tariffs in some AT&T-21STATE incumbent
+ILEC states, CLEC agrees that any purchase of Interconnection Services addressed by this Agreement or
+required to be offered by AT&T-21STATE under Section 251 of the Act, shall be purchased solely pursuant
+to the terms, condition and rates set forth in this Agreement. To the extent that complete terms, conditions
+and/or rates for any Interconnection Service are not contained in this Agreement at the time CLEC seeks to
+order such services, the Parties shall amend this Agreement to include such terms, conditions and rates
+prior to CLEC submitting such order. The rates for Interconnection Services inadvertently or improperly
+ordered prior to an agreement of the Parties on terms, conditions and/or rates is addressed in the Pricing
+Schedule.
+3.6 Conflict in Provisions:
+3.6.1 If any definitions, terms or conditions in any given Attachment, Exhibit, Schedule or Addendum differ from
+those contained in the main body of this Agreement, those definitions, terms or conditions will supersede
+those contained in the main body of this Agreement, but only in regard to the services or activities listed in
+that particular Attachment, Exhibit, Schedule or Addendum. In particular, if an Attachment contains a Term
+length that differs from the Term length in the main body of this Agreement, the Term length of that
+
+Contract Id: 4511322
+General Terms and Conditions/AT&T-21STATE
+Page 16 of 55
+VISION CTS
+Version: 4Q14 – ICA – 12/16/14
+Attachment will control the length of time that services or activities are to occur under that Attachment, but
+will not affect the Term length of the remainder of this Agreement.
+3.7 Joint Work Product:
+3.7.1 This Agreement is the joint work product of the Parties and has been negotiated by the Parties and their
+respective counsel and shall be fairly interpreted in accordance with its terms and, in the event of any
+ambiguities, no inferences shall be drawn against either Party.
+3.7.2 If any provision of this Agreement is rejected or held to be illegal, invalid or unenforceable, each Party
+agrees that such provision shall be enforced to the maximum extent permissible so as to effect the intent of
+the Parties, and the validity, legality and enforceability of the remaining provisions of this Agreement shall
+not in any way be affected or impaired thereby. If necessary to affect the intent of the Parties, the Parties
+shall negotiate in good faith to amend this Agreement to replace the unenforceable language with
+enforceable language that reflects such intent as closely as possible. The Parties negotiated the terms and
+conditions of this Agreement for Interconnection Services as a total arrangement and it is intended to be
+non-severable.
+3.8 Incorporation by Reference:
+3.8.1 All of the rates, terms and conditions (“Provisions”) set forth in this Agreement (including any and all
+Attachments, and/or Schedules hereto) and every Interconnection Service provided hereunder, are subject
+to all other Provisions contained in this Agreement and all such Provisions are integrally related.
+3.9 Non-Voluntary Provisions:
+3.9.1 This Agreement incorporates certain rates, terms and conditions that were not voluntarily negotiated and/or
+agreed to by AT&T-21STATE, but instead resulted from determinations made in arbitrations under Section
+252 of the Act or from other requirements of regulatory agencies or state law (individually and collectively
+“Non-Voluntary Arrangement(s)”). If any Non-Voluntary Arrangement is modified as a result of any order or
+finding by the FCC, the appropriate Commission or a court of competent jurisdiction, the Parties agree to
+follow the Intervening Law process outlined in Section 24.0 below.
+3.9.2 The Parties acknowledge that the Non-Voluntary Arrangements contained in this Agreement shall not be
+available in any state other than the state that originally imposed/required such Non-Voluntary Arrangement.
+By way of example only, the Parties acknowledge that the PUC-OH’s imposition in Ohio of the Minimum
+Telephone Service Standards (and all terms and conditions relating thereto) shall not apply in or be
+“portable to” any State other than Ohio.
+3.10 State-S pecific Rates, Terms and Conditions:
+3.10.1 For ease of administration, this multi-state Agreement contains certain specified rates, terms and conditions
+which apply only in a designated state (“state-specific terms”).
+3.10.2 State-specific terms, as the phrase is described in Section 3.10.1 above, have been negotiated (or in the
+case of Section 3.9.2 above, included in the agreement per state requirement) by the Parties only as to the
+states where this Agreement has been executed, filed and approved. When the Parties negotiate an
+agreement for an additional state, neither Party shall be precluded by any language in this Agreement from
+negotiating state-specific terms for the state in which they are to apply.
+3.11 Scope of Obligations:
+3.11.1 Notwithstanding anything to the contrary contained herein, AT&T-21STATE’s obligations under this
+Agreement shall apply only to:
+3.11.1.1 the specific operating area(s) or portion thereof in which AT&T-21STATE is then deemed to be
+the ILEC under the Act (the “ILEC Territory”), and only to the extent that CLEC is operating and
+offering service to End Users identified to be residing in such ILEC Territory; and
+3.11.1.2 assets that AT&T-21STATE owns or leases and which are used in connection with AT&T-
+21STATE’s provision to CLEC of any Interconnection Services provided or contemplated under
+
+Contract Id: 4511322
+General Terms and Conditions/AT&T-21STATE
+Page 17 of 55
+VISION CTS
+Version: 4Q14 – ICA – 12/16/14
+this Agreement, the Act or any tariff or ancillary agreement referenced herein (individually and
+collectively, the “ILEC Assets”).
+3.11.2 This Agreement sets forth the terms and conditions pursuant to which AT&T-21STATE agrees to provide
+CLEC with access to 251(c)(3) UNEs, Collocation under Section 251(c)(6), Interconnection under Section
+251(c)(2) and/or Resale under Section 251(c)(4) in AT&T-21STATE’s incumbent local Exchange Areas for
+the provision of CLEC’s Telecommunications Services. The Parties acknowledge and agree that AT&T-
+21STATE is only obligated to make available 251(c)(3) UNEs, Collocation under Section 251(c)(6),
+Interconnection under Section 251(c)(2) and/or Resale under Section 251(c)(4) to CLEC in AT&T-
+21STATE’s incumbent local Exchange Areas. AT&T-21STATE has no obligation to provide such 251(c)(3)
+UNEs, Collocation, Interconnection and/or Resale, to CLEC for the purposes of CLEC providing and/or
+extending service outside of AT&T-21STATE’s incumbent local Exchange Areas. In addition, AT&T-
+21STATE is not obligated to provision 251(c)(3) UNEs or to provide access to (251(c)(3) UNEs, Collocation
+under Section 251(c)(6), Interconnection under Section 251(c)(2) and/or Resale under Section 251(c)(4)
+and is not otherwise bound by any 251(c) obligations in geographic areas other than AT&T-21STATE’s
+incumbent local Exchange Areas. Therefore, the Parties understand and agree that the rates, terms and
+conditions set forth in this Agreement shall only apply to the Parties and be available to CLEC for
+provisioning Telecommunication Services within an AT&T-21STATE incumbent local Exchange Area(s) in
+the State in which this Agreement has been approved by the relevant state Commission and is in effect.
+3.11.3 Throughout this Agreement, wherever there are references to Unbundled Network Elements that are to be
+provided by AT&T-21STATE under this Agreement, the Parties agree and acknowledge that their intent is
+for the Agreement to comply with Section 3.11.2 above, and require only the provision of Section 251(c)(3)
+UNEs.
+3.12 Affiliates:
+3.12.1 This Agreement, including subsequent amendments, if any, shall bind AT&T-21STATE, CLEC and any
+entity that currently or subsequently is owned or controlled by or under common ownership or control with
+CLEC. CLEC further agrees that the same or substantially the same terms and conditions shall be
+incorporated into any separate agreement between AT&T-21STATE and any such CLEC Affiliate that
+continues to operate as a separate entity. This Agreement shall remain effective as to CLEC and any such
+CLEC Affiliate for the term of this Agreement as stated herein, (subject to any early termination due to
+default), until either AT&T-21STATE or CLEC or any such CLEC Affiliate institutes renegotiation consistent
+with the provisions of this Agreement for renewal and term. Notwithstanding the foregoing, this Agreement
+will not supersede a currently effective interconnection agreement between any such CLEC Affiliate and
+AT&T-21STATE until the expiration of such other agreement.
+4.0 Notice of Changes - Section 251(c)(5)
+4.1 Nothing in this Agreement shall limit either Party’s ability to upgrade its network through the incorporation of new
+equipment, new software or otherwise or to otherwise change and/or modify its network including, without limitation,
+through the retirement and/or replacement of equipment, software or otherwise. Each Party agrees to comply with
+the Network Disclosure rules adopted by the FCC in CC Docket No. 96-98, Second Report and Order, codified at 47
+C.F.R 51.325 through 51.335, as such rules may be amended from time to time (the “Network Disclosure Rules”).
+5.0 Responsibilities of the Parties
+5.1 Each Party is individually responsible to provide facilities within its network that are necessary for routing,
+transporting, measuring, and billing traffic from the other Party’s network and for delivering such traffic to the other
+Party’s network in the standard format compatible with AT&T-21STATE’s network as referenced in iconectiv BOC
+Notes on LEC Networks Practice No. SR-TSV-002275, and to terminate the traffic it receives in that standard format
+to the proper address on its network. The Parties are each solely responsible for participation in and compliance with
+national network plans, including the National Network Security Plan and the Emergency Preparedness Plan.
+
+Contract Id: 4511322
+General Terms and Conditions/AT&T-21STATE
+Page 18 of 55
+VISION CTS
+Version: 4Q14 – ICA – 12/16/14
+5.2 The Parties shall exchange technical descriptions and forecasts of their Interconnection and traffic requirements in
+sufficient detail necessary to establish the Interconnections required to assure traffic completion to and from all End
+Users in their respective designated service areas.
+5.3 Each Party is solely responsible for all products and services it provides to its End Users and to other
+Telecommunications Carriers.
+5.4 Each Party shall act in good faith in its performance under this Agreement and, in each case in which a Party’s
+consent or agreement is required or requested hereunder, such Party shall not unreasonably withhold or delay such
+consent or agreement.
+6.0 Insurance
+6.1 At all times during the term of this Agreement, and without limiting any of its other obligations or liabilities, CLEC shall
+keep and maintain, in force at its own expense, the following minimum insurance coverage and limits and any
+additional insurance and/or bonds required by Applicable Law:
+6.1.1 With respect to CLEC’s performance under this Agreement, and in addition to CLEC’s obligation to
+indemnify, CLEC shall at its sole cost and expense:
+6.1.1.1 maintain the insurance coverage and limits required by this Section 6.0 and any additional
+insurance and/or bonds required by law:
+6.1.1.1.1 at all times during the term of this Agreement and until completion of all work
+associated with this Agreement is completed, whichever is later; and
+6.1.1.1.2 with respect to any coverage maintained in a “claims-made” policy, for two (2)
+years following the term of this Agreement or completion of all Work associated
+with this Agreement, whichever is later and if a “claims-made” policy is maintained,
+the retroactive date must precede the commencement of Work under this
+Agreement; and
+6.1.1.2 require each subcontractor who may perform work under this Agreement or enter upon the work
+site to maintain coverage, requirements, and limits at least as broad as those listed in this
+Section 6.0 from the time when the subcontractor begins work, throughout the term of the
+subcontractor’s work and, with respect to any coverage or extended discovery period maintained
+on a “claims-made” policy, for two (2) years thereafter; and
+6.1.1.3 procure the required insurance from an insurance company eligible to do business in the state or
+states where work will be performed and having and maintaining a Financial Strength Rating of
+“A-” or better and a Financial Size Category of “VII” or better, as rated in the A.M. Best Key
+Rating Guide for Property and Casualty Insurance Companies, except that, in the case of
+Workers’ Compensation insurance, CLEC may procure insurance from the state fund of the state
+where work is to be performed; and
+6.1.1.4 deliver to AT&T-21STATE certificates of insurance stating the types of insurance and policy
+limits. CLEC shall provide or will endeavor to have the issuing insurance company provide at
+least thirty (30) days advance written notice of cancellation, non-renewal, or reduction in
+coverage, terms, or limits to AT&T-21STATE. CLEC shall deliver such certificates:
+6.1.1.4.1 prior to execution of this Agreement and prior to commencement of any Work; and
+6.1.1.4.2 prior to expiration of any insurance policy required in this Section 6.0; and
+6.1.1.4.3 for any coverage maintained on a “claims-made” policy, for two (2) years following
+the term of this Agreement or completion of all Work associated with this
+Agreement, whichever is later.
+6.1.2 The Parties agree:
+
+Contract Id: 4511322
+General Terms and Conditions/AT&T-21STATE
+Page 19 of 55
+VISION CTS
+Version: 4Q14 – ICA – 12/16/14
+5.2 The Parties shall exchange technical descriptions and forecasts of their Interconnection and traffic requirements in
+21STATE to identify a deficiency will not be construed as a waiver of CLEC’s obligation to
+maintain the insurance required under this Agreement;
+6.1.2.2 that the insurance required under this Agreement does not represent that coverage and limits will
+necessarily be adequate to protect CLEC, nor be deemed as a limitation on CLEC’s liability to
+AT&T-21STATE in this Agreement;
+6.1.2.3 CLEC may meet the required insurance coverages and limits with any combination of primary
+and Umbrella/Excess liability insurance; and
+6.1.2.4 CLEC is responsible for any deductible or self-insured retention; unless agreed to in writing by
+AT&T-21STATE, the deductible or self insured retention can be no greater than $100,000 per
+occurrence; and
+6.1.2.5 that limits required are minimums only and do not impose a limitation or restriction on available
+insurance coverage to Additional Insured(s); and
+6.1.2.6 to the extent that CLEC is performing Work at a Work site where AT&T-21STATE is obligated to
+require its subcontractors to maintain certain coverages and limits, CLEC agrees to be bound to
+those terms. However, the terms and conditions will be no broader than the requirements shown
+herein.
+6.2 The insurance coverage required by this Section 6.0 includes:
+6.2.1 Workers’ Compensation insurance with benefits afforded under the laws of any state in which the work is to
+be performed and Employers Liability insurance with limits of at least:
+6.2.1.1 $1,000,000 for Bodily Injury – each accident; and
+6.2.1.2 $1,000,000 for Bodily Injury by disease – policy limits; and
+6.2.1.3 $1,000,000 for Bodily Injury by disease – each employee.
+6.2.1.4 To the fullest extent allowable by Law, the policy must include a waiver of subrogation in favor of
+AT&T-21STATE, its Affiliates, and their directors, officers and employees; and
+6.2.1.5 In states where Workers’ Compensation insurance is a monopolistic state-run system, CLEC
+shall add Stop Gap Employers Liability with limits not less than $1,000,000 each accident or
+disease; and,
+6.2.1.6 To the extent that any Work is subject to the Jones Act, the Longshore and Harbor Workers’
+Compensation Act, Federal Employers Liability Act, Continental Shelf, or the Defense Base Act,
+the Workers’ Compensation policy must be endorsed to cover such liability under such Act.
+6.2.2 Commercial General Liability insurance written on Insurance Services Office (ISO) Form CG 00 01 or a
+substitute form providing equivalent coverage, covering liability arising from premises, operations, personal
+injury, products/completed operations, and liability assumed under an insured contract (including the tort
+liability of another assumed in a business contract) with limits of at least:
+Non-Collocating
+6.2.2.1 $2,000,000 General Aggregate; and
+6.2.2.2 $1,000,000 Each Occurrence; and
+6.2.2.3 $1,000,000 Personal Injury and Advertising Injury; and
+6.2.2.4 $2,000,000 Products/Completed Operations Aggregate; and
+6.2.2.5 $1,000,000 Damage to Premises Rented to You (Fire Legal Liability).
+Collocating
+
+Contract Id: 4511322
+General Terms and Conditions/AT&T-21STATE
+Page 20 of 55
+VISION CTS
+Version: 4Q14 – ICA – 12/16/14
+6.2.2.6 $10,000,000 General Aggregate; and
+6.2.2.7 $5,000,000 Each Occurrence; and
+6.2.2.8 $5,000,000 Personal Injury and Advertising Injury; and
+6.2.2.9 $10,000,000 Products/Completed Operations Aggregate; and
+6.2.2.10 $2,000,000 Damage to Premises Rented to You (Fire Legal Liability).
+6.2.2.11 The Commercial General Liability insurance policy must include AT&T-21STATE, its Affiliates,
+and their directors, officers, and employees as Additional Insureds on ISO endorsement(s):
+6.2.2.11.1 CG 20 10 (premises or operations) AND CG 20 37 (products or completed
+operations); or
+6.2.2.11.2 CG 20 26; or
+6.2.2.11.3 substitute form(s) providing equivalent coverage to 6.2.4.1.1 or 6.2.4.1.2 listed
+above.
+6.2.2.12 CLEC shall also provide a copy of the Additional Insured endorsement to AT&T-21STATE. The
+Additional Insured endorsement may either be specific to AT&T-21STATE or may be “blanket”
+or “automatic” addressing any person or entity as required by contract. A copy of the Additional
+Insured endorsement must be provided within sixty (60) calendar days of execution of this
+Agreement and within sixty (60) calendar days of each Commercial General Liability policy
+renewal; include a waiver of subrogation in favor of AT&T-21STATE, its Affiliates, and their
+directors, officers and employees; and
+6.2.2.13 be primary and non-contributory with respect to any insurance or self-insurance that is
+maintained by AT&T-21STATE; and
+6.2.2.14 not exclude explosion, Collapse, and Underground Damage Liability must not be excluded from
+the Commercial General Liability policy for any Work involving explosives or any underground
+Work and Explosion, Collapse, and Underground Damage Liability will have the same limit
+requirement as the Commercial General Liability policy; and
+6.2.2.15 include a waiver of subrogation in favor of AT&T-21STATE, its affiliates, and their directors
+officers, and employees.
+6.2.3 Automobile Liability insurance with minimum limits of $1,000,000 combined single limit per accident for
+bodily injury and property damage, extending to all owned, hired, and non-owned vehicles.
+6.2.4 Automobile Liability insurance with minimum limits of $2,000,000 combined single limit per accident for
+bodily injury and property damage, extending to all owned, hired, and non-owned vehicles for a Collocated
+CLEC.
+6.2.5 Umbrella/Excess insurance with limits of at least $1,000,000 each occurrence with terms and conditions at
+least as broad as the underlying Commercial General Liability, Business Auto Liability, and Employers’
+Liability policies. Umbrella/Excess Liability limits will be primary and non-contributory with respect to any
+insurance or self insurance that is maintained by AT&T-21STATE. If Additional Insured status is required
+on underlying policies, Additional Insured status will be added to Umbrella/Excess Liability on the same
+terms.
+6.3 If CLE C chooses self-insurance requirements as shown in Section 6.0, the following applies:
+6.3.1 Workers’ Compensation:
+6.3.1.1 CLEC shall provide a copy of the Certificate of Authority to Self Insure Workers’ Compensation
+obligations issued by the state in which the operations are to be performed or the employer’s state
+of hire; and
+6.3.1.2 provide a copy of the Certificate of Authority annually for the term of this Agreement; and
+
+Contract Id: 4511322
+General Terms and Conditions/AT&T-21STATE
+Page 21 of 55
+VISION CTS
+Version: 4Q14 – ICA – 12/16/14
+6.3.1.3 obtain Workers’ Compensation and Employers’ Liability insurance immediately if the state rescinds
+the Certificate of Authority.
+6.3.1.4 The option to self insure Workers’ Compensation is specific to CLEC and does not extend to
+subcontractors CLEC may hire.
+6.3.2 Commercial General Liability:
+6.3.2.1 CLEC shall provide a copy of the most recent audited financial statements with an unqualified
+opinion from the auditor; or
+6.3.2.2 provide a current Dun & Bradstreet report with a composite credit appraisal score of “1” or “2”; or
+6.3.2.3 maintain a long-term unsecured issuer rating of BBB- from Standard & Poors or Baa from
+Moody’s during the term of this Agreement.
+6.3.2.4 In addition, CLEC shall maintain a net worth of a least ten (10) times the amount of insurance
+required; and
+6.3.2.5 obtain Commercial General Liability insurance immediately if the party is unable to comply with
+the financial strength and size requirements in the section; and
+6.3.2.6 provide this information annually for the term of the Agreement.
+6.3.2.7 If CLEC is a publicly-traded company or a wholly-owned subsidiary of a publicly-traded
+company, the financial ratings of the publicly-traded company may be used to satisfy the
+requirements of this section.
+6.3.3 Automobile Liability:
+6.3.3.1 CLEC shall provide a copy of the Certificate of Authority to Self Insure Automobile Liability
+obligations issued by the state in which the operations are to be performed; and
+6.3.3.2 provide a copy of the Certificate of Authority annually for the term of this Agreement; and
+6.3.3.3 obtain Automobile Liability insurance immediately if the state rescinds the Certificate of Authority
+to self insure Automobile Liability obligations.
+6.3.3.4 The option to self-insure Automobile Liability is specific to CLEC and does not extend to
+subcontractors CLEC may hire.
+6.4 This Section 6.0 is a general statement of insurance requirements and shall be in addition to any specific requirement
+of insurance referenced elsewhere in this Agreement or a Referenced Instrument.
+7.0 Assignment or Transfer of Agreement, Change in Control and Corporate Name Change
+7.1 Assignment or Transfer of Agreement:
+7.1.1 CLEC may not assign, delegate, or otherwise transfer its rights or obligations under this Agreement,
+voluntarily or involuntarily, directly or indirectly, whether by merger, consolidation, dissolution, operation of
+law, Change in Control or any other manner, without the prior written consent of AT&T-21STATE. For any
+proposed assignment or transfer CLEC shall provide AT&T-21STATE with a minimum of one hundred
+twenty (120) calendar days advance written Notice of any assignment associated with a CLEC Company
+Code (ACNA/CIC/OCN) change or transfer of ownership of assets and request AT&T-21STATE’s written
+consent. CLEC’s written Notice shall include the anticipated effective date of the assignment or transfer.
+Any attempted assignment or transfer that is not permitted is void as to AT&T-21STATE and need not be
+recognized by AT&T-21STATE unless it consents or otherwise chooses to do so for a more limited purpose.
+CLEC may assign or transfer this Agreement and all rights and obligations hereunder, whether by operation
+of law or otherwise, to an Affiliate by providing sixty (60) calendar days advance written Notice of such
+assignment to AT&T-21STATE; provided that such assignment or transfer is not inconsistent with
+Applicable Law (including the Affiliate’s obligation to obtain and maintain proper Commission certification
+and approvals) or the terms and conditions of this Agreement. Notwithstanding the foregoing, CLEC may
+
+Contract Id: 4511322
+General Terms and Conditions/AT&T-21STATE
+Page 22 of 55
+VISION CTS
+Version: 4Q14 – ICA – 12/16/14
+not assign or transfer this Agreement, or any rights or obligations hereunder, to an Affiliate if that Affiliate is
+a Party to a separate interconnection agreement with AT&T-21STATE under Sections 251 and 252 of the
+Act that covers the same state(s) as this Agreement. Any attempted assignment or transfer that is not
+permitted is void ab initio.
+7.2 CLEC Name Change:
+7.2.1 Any change in CLEC’s corporate name including a change in the “d/b/a”, or due to assignment or transfer of
+this Agreement wherein only the CLEC name is changing, and no CLEC Company Code(s) are changing,
+constitutes a CLEC Name Change. For any CLEC Name Change, CLEC is responsible for providing proof
+of compliance with industry standards related to any Company Code(s). CLEC is responsible for paying
+normal applicable service order processing/administration charges and/or nonrecurring charges for each
+service order submitted by CLEC, or by AT&T-21STATE on behalf of CLEC, for updating billing accounts
+and End User records, as set forth in the Pricing Schedule attachment of this Agreement.
+7.2.2 The Parties agree to amend this Agreement to appropriately reflect any CLEC Name Change.
+7.3 Company Code(s) Change:
+7.3.1 Unless within sixty (60) days of acquisition, CLEC provides AT&T-21STATE with appropriate paperwork
+reflecting that Third Party-administered codes have been updated to reflect CLEC’s name on each
+Company Code associated with acquired assets including but not limited to any Interconnection, Resale
+Service, 251(c)(3) UNEs, function, facility, product or service, CLEC must submit an order for each acquired
+asset to reflect the change of ownership in all appropriate AT&T-21STATE systems. All orders must be
+submitted no later than nine (9) months after the closing date of the acquisition.
+7.3.2 In the event of a Company Code Change, CLEC shall comply with Applicable Law relating thereto, including
+but not limited to all FCC and state Commission rules relating to notice(s) to End Users.
+7.3.3 For any CLEC Company Code Change, CLEC must negotiate a separate transfer or assignment
+agreement.
+7.3.4 CLEC acknowledges that failing to comply with this Section 7 shall entitle AT&T-21STATE to issue a Notice
+under and in accordance with Section 8.3 of this Agreement.
+7.4 Wherever required by this Section 7, AT&T-21STATE’s consent shall be conditioned upon receipt of payment for all
+outstanding charges associated with any transferred or acquired assets.
+7.5 CLEC acknowledges that CLEC may be required to tender additional assurance of payment to AT&T-21STATE as a
+result of any assignment, acquisition or transfer of assets if requested under the terms of this Agreement.
+8.0 Effective Date, Term and Termination
+8.1 Effective Date:
+8.1.1 In AT&T-21STATE, with the exception of AT&T OHIO and AT&T WISCONSIN, the Effective Date of this
+Agreement shall be ten (10) calendar days after the Commission approves this Agreement under Section
+252(e) of the Act or, absent such Commission approval, the date this Agreement is deemed approved under
+Section 252(e)(4) of the Act. In AT&T OHIO, based on the PUC-OH, the Agreement is Effective upon filing
+and is deemed approved by operation of law on the 91st day after filing. In AT&T WISCONSIN, the
+Effective Date of this Agreement shall be ten (10) calendar days after the mailing date of the final order
+approving this Agreement.
+8.2 Term:
+8.2.1 Unless terminated for breach (including nonpayment), the term of this Agreement shall commence upon the
+Effective Date of this Agreement and shall expire on July 19, 2017 (the “Initial Term”).
+8.3 Termination for Nonperformance or Breach:
+8.3.1 Notwithstanding any other provision of this Agreement, either Party may terminate this Agreement and the
+provision of any Interconnection Services provided pursuant to this Agreement, at the sole discretion of the
+
+Contract Id: 4511322
+General Terms and Conditions/AT&T-21STATE
+Page 23 of 55
+VISION CTS
+Version: 4Q14 – ICA – 12/16/14
+terminating Party, in the event that the other Party fails to perform a material obligation or breaches a
+material term of this Agreement and the other Party fails to cure such nonperformance or breach within
+forty-five (45) calendar days after written Notice thereof. If the nonperforming Party fails to cure such
+nonperformance or breach within the forty-five (45) calendar day period provided for within the original
+Notice, then the terminating Party will provide a subsequent written Notice of the termination of this
+Agreement and such termination shall take effect immediately upon delivery of written Notice to the other
+Party.
+8.3.2 If, at any time during the term of this Agreement, AT&T-21STATE is unable to contact CLEC pursuant to the
+Notices provision hereof or any other contact information provided by CLEC under this Agreement, and
+there are no active services being provisioned under this Agreement, then AT&T-21STATE may, at its
+discretion, terminate this Agreement, without any liability whatsoever, upon sending of notification to CLEC
+pursuant to the Notices Section hereof.
+8.4 Termination of Agreement after initial term expiration:
+8.4.1 Where CLEC has no End Users or is no longer purchasing any services under this Agreement, CLEC may
+terminate the Agreement by providing “Notice of Termination” to AT&T-21STATE at any time after the initial
+term of this Agreement. After termination the Parties’ liability for termination of this Agreement shall be
+limited to obligations under the Survival 41.1 below of this GT&C.
+8.4.2 Where CLEC has End Users and/or is purchasing Interconnection Services under this Agreement and either
+Party seeks to terminate this Agreement, CLEC shall cooperate in good faith to effect an orderly transition of
+service under this Agreement. CLEC shall be solely responsible (from a financial, operational and
+administrative standpoint) to ensure that its End Users are transitioned to a new LEC prior to the expiration
+or termination date of this Agreement.
+8.4.3 If at any time within one hundred and eighty (180) days or any time thereafter of the expiration of the Term,
+if either Party serves “Notice of Expiration”, CLEC shall have ten (10) calendar days to provide AT&T-
+21STATE written confirmation to the Notice of Expiration indicating if CLEC wishes to pursue a successor
+agreement with AT&T-21STATE or terminate its Agreement. CLEC shall identify the action to be taken in
+each of the applicable state(s). If CLEC wishes to pursue a successor agreement with AT&T-21STATE,
+CLEC shall attach to its written confirmation or Notice of Expiration, a written request to commence
+negotiations with AT&T-21STATE under Sections 251/252 of the Act and identify each of the state(s) to
+which the successor agreement will apply. Upon receipt of CLEC’s Section 252(a)(1) request, the Parties
+shall commence good faith negotiations for a successor agreement.
+8.4.4 If the Parties are in “Active Negotiations” (negotiations within the statutory clock established in the Act under
+Section 252(b)) or have filed for arbitration with the Commission upon expiration date of the Agreement
+AT&T-21STATE shall continue to offer services to CLEC pursuant to the rates, terms and conditions set
+forth in this Agreement until a successor agreement becomes effective between the Parties. AT&T-
+21STATE’s obligation to provide services under this Agreement beyond the expiration date conditions upon
+the Parties adherence to the timeframes established within Section 252(b) of the Act. If CLEC does not
+adhere to said timeframes or CLEC withdraws its arbitration or seeks an extension of time or continuance of
+such arbitration without AT&T-21STATE’s consent, AT&T-21STATE may provide Notice to CLEC that all
+services provided thereafter shall be pursuant to the rates, terms and conditions set forth in AT&T-
+21STATE’s then current standard interconnection agreement (“Generic”) as found on AT&T’s CLEC Online
+website.
+8.4.5 Either on or following the expiration date of this Agreement, if the Parties have not entered into a new
+agreement or are not in Active Negotiations as described in Section 8.4.4 above, then upon written Notice to
+CLEC by AT&T-21STATE, AT&T-21STATE may continue to offer services to CLEC pursuant to the rates,
+terms and conditions set forth in AT&T-21STATE’s then current Generic found at the AT&T CLEC Online
+website. At any time thereafter, the Parties may initiate negotiations for a new agreement by providing a
+written Notice under Section 252 to the other Party subject to Section 8.4.6.
+
+Contract Id: 4511322
+General Terms and Conditions/AT&T-21STATE
+Page 55 of 55
+VISION CTS
+Version: 4Q14 – ICA – 12/16/14
+43.0 Scope of Agreement
+43.1 This Agreement is intended to describe and enable specific Interconnection and compensation arrangements
+between the Parties. This Agreement is the arrangement under which the Parties may purchase from each other
+Interconnection Services. Except as agreed upon in writing, neither Party shall be required to provide the other Party
+a function, facility, product, service or arrangement described in the Act that is not expressly provided herein.
+43.2 Except as specifically contained herein or provided by the FCC or any Commission within its lawful jurisdiction,
+nothing in this Agreement shall be deemed to affect any access charge arrangement.
+44.0 Amendments and Modifications
+44.1 Except as otherwise provided for in this Agreement, no provision of this Agreement shall be deemed amended or
+modified by either Party unless such an amendment or modification is in writing, dated, and signed by an authorized
+representative of both Parties.
+45.0 Authority
+45.1 Each of the AT&T owned ILEC(s) for which this Agreement is executed represents and warrants that it is a
+corporation or limited partnership duly organized, validly existing and in good standing under the laws of its State of
+incorporation or formation. Each of the AT&T owned ILEC(s) for which this Agreement is executed represents and
+warrants that AT&T Services, Inc. has full power and authority to execute and deliver this Agreement as agent for
+that AT&T owned ILEC. Each of the AT&T owned ILEC(s) for which this Agreement is executed represents and
+warrants that it has full power and authority to perform its obligations hereunder.
+45.2 CLEC represents and warrants that it is a Limited Liability Company (LLC) duly organized, validly existing and in
+good standing under the laws of the State of Ohio and has full power and authority to execute and deliver this
+Agreement and to perform its obligations hereunder. CLEC represents and warrants that it has been or will be
+certified as a LEC by the Commission(s) prior to submitting any orders hereunder and is or will be authorized to
+provide the Telecommunications Services contemplated hereunder in the territory contemplated hereunder prior to
+submission of orders for such Service.
+45.3 Each Person whose signature (including e.g., an electronic signature) appears on the signature page represents and
+warrants that he or she has authority to bind the Party on whose behalf he or she has executed this Agreement.
+46.0 Counterparts
+46.1 This Agreement may be executed in counterparts. Each counterpart shall be considered an original and such
+counterparts shall together constitute one and the same instrument.
+47.0 Entire Agreement
+47.1 The terms contained in this Agreement and any Attachments, Exhibits, Schedules, and Addenda constitute the entire
+agreement between the Parties with respect to the subject matter hereof, superseding all prior understandings,
+proposals and other communications, oral or written between the Parties during the negotiations of this Agreement
+and through the execution and/or Effective Date of this Agreement. This Agreement shall not operate as or
+constitute a novation of any agreement or contract between the Parties that predates the execution and/or Effective
+Date of this Agreement.
+47.2 The Parties acknowledge that CLEC is not required to purchase all types of Interconnection Services potentially
+available from AT&T and therefore may elect not to include all potential Attachments in the Agreement. To the extent
+that a provision of the General Terms and Conditions refers a type of Interconnection Service for which there is no
+Attachment, reference to such Interconnection Service shall have no effect.
+
+Contract Id: 4511322
+Attachment 02 - ISP Bound - FCC ICC - Network Interconnection/AT&T-21STATE
+Page 1 of 40
+VISION CTS
+Version: 1Q15 – CLEC ICA – 03/09/15
+ATTACHMENT 02 - ISP BOUND - FCC ICC - NETWORK
+INTERCONNECTION
+
+Contract Id: 4511322
+Attachment 02 - ISP Bound - FCC ICC - Network Interconnection/AT&T-21STATE
+Page 2 of 40
+VISION CTS
+Version: 1Q15 – CLEC ICA – 03/09/15
+TABLE OF CONTENTS
+Section Page Number
+1.0 Introduction.........................................................................................................................................................3
+2.0 Definitions ...........................................................................................................................................................3
+3.0 Network Interconnection Methods ....................................................................................................................5
+4.0 Interconnection Trunking ................................................................................................................................10
+5.0 Out of Exchange Traffic ...................................................................................................................................18
+6.0 Intercarrier Compensation ...............................................................................................................................20
+7.0 Recording ..........................................................................................................................................................36
+8.0 Transit Traffic....................................................................................................................................................37
+
+Contract Id: 4511322
+Attachment 02 - ISP Bound - FCC ICC - Network Interconnection/AT&T-21STATE
+Page 3 of 40
+VISION CTS
+Version: 1Q15 – CLEC ICA – 03/09/15
+1.0 Introduction
+1.1 This Attachment sets forth terms and conditions for Network Interconnection, Trunking and Intercarrier Compensation
+for AT&T-21STATE and CLEC.
+1.1.1 This Attachment describes the Network Interconnection Methods (NIM) provided by AT&T-21STATE
+including, the physical architecture for Interconnection of the Parties’ facilities and equipment for the
+transmission and routing of Telephone Exchange Service traffic and Exchange Access traffic between the
+respective End Users of the Parties pursuant to Section 251(c)(2) of the Act.
+1.1.2 This Attachment describes the trunking requirements of CLEC and AT&T-21STATE. Any references to
+incoming and outgoing trunk groups are from the perspective of CLEC. Described herein are the required
+and optional trunk groups for Section 251(b)(5) Traffic, Non-toll VoIP-PSTN Traffic, ISP-Bound Traffic,
+IntraLATA Toll Traffic, IXC carried Meet Point Traffic, Third Party Traffic, Mass Calling, E911, Operator
+Services and Directory Assistance Traffic. Requirements associated with Out of Exchange Traffic are also
+included.
+1.1.3 Intercarrier Compensation arrangements for intercarrier Telecommunications traffic exchanged between
+AT&T-21STATE and CLEC are provided for within this Agreement.
+1.1.3.1 In AT&T-12STATE, the Intercarrier Compensation provisions of this Attachment apply to
+Telecommunications traffic originated and terminated between the Parties over each Party’s own
+facilities (Section 251(b)(5) Traffic, Non-toll VoIP-PSTN Traffic, ISP-Bound Traffic, Optional EAS
+Traffic (also known as “Optional Calling Area Traffic”)) or originated by CLEC over local circuit
+switching purchased by CLEC from AT&T-12STATE on a wholesale basis (non-resale) in a
+separate agreement and used in providing wireline local telephone exchange (dial tone) service
+to its End Users (Wholesale Local Switching Traffic).
+1.1.3.2 In the AT&T SOUTHEAST REGION 9-STATE region, the Intercarrier Compensation provisions
+of this Attachment apply to Telecommunications traffic originated and terminated between the
+Parties over each Party’s own facilities only (Section 251(b)(5) Traffic, Non-toll VoIP-PSTN
+Traffic, ISP-Bound Traffic, Optional EAS Traffic (also known as “Optional Calling Area Traffic).
+1.1.4 AT&T-21STATE will provide Recording, Message Processing and message detail services to a Facility-
+Based Provider. The terms and conditions under this Attachment will also apply when the Facility-Based
+Provider is the Recording Company.
+2.0 Definitions
+2.1 “Network Interconnection Methods (NIMs)” mean, but are not limited to, Physical Collocation, Virtual Collocation,
+Fiber Meet Point; and other technically feasible methods of obtaining Interconnection which is incorporated into the
+Interconnection Agreement by amendment. One or more of these methods must be used to effect the
+Interconnection pursuant to Section 251(c)(2) of the Act.
+2.2 “Access Tandem Switch” is a switching machine within the Public Switched Telecommunications Network (PSTN)
+that is used to connect and switch trunk circuits between and among End Office Switches for IXC carried traffic and
+IntraLATA Toll Traffic as designed and used in some regions as well as switching Section 251(b)(5) Traffic Non-toll
+VoIP-PSTN Traffic, and ISP-Bound Traffic as designed and used in some regions.
+2.3 “Access Usage Record (AUR)” is a message Record which contains the usage measurement reflecting the service
+feature group, duration and time of day for a message and is subsequently used to bill access to IXCs.
+2.4 “Assembly and Editing” means the aggregation of recorded customer message details to create individual message
+Records and the verification that all necessary information required ensuring all individual message Records meet
+industry specifications is present.
+2.5 “Billing Company” is the company that bills End Users for the charges incurred in transported calls.
+2.6 “Billable Message” is a message Record containing details of a completed transported call which is used to bill an
+End User.

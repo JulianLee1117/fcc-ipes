@@ -1,0 +1,172 @@
+March 9, 2021
+Marlene Dortch
+Secretary
+Federal Communications Commission
+445 12th Street SW
+Washington, DC 20554
+Via ECFS Filing
+RE: Wiretap Telecom, LLC Application for Authorization to Obtain Number
+Resources Pursuant to Section 52.15(g) of the Commission’s Rules
+Dear Ms. Dortch:
+Pursuant to Section 52.15(g)(3)(i) of the Commission’s Rules, Wiretap Telecom,
+LLC hereby submits its application requesting authorization to obtain numbering resources.
+For any questions regarding this application please contact Cody Schilke at (405) 471-8000
+Respectfully Submitted,
+Cody Schilke
+Wiretap Telecom, LLC
+Telephone: (405) 471-8000
+Email: cody.schilke@wiretaptelecom.com
+Wiretap Telecom, LLC Tel: +1 (405) 471-8000
+5929 North May Avenue, Suite 208
+https://wiretaptelecom.com
+Oklahoma City, OK 73112
+
+Before the
+FEDERAL COMMUNICATIONS COMMISSION
+Washington, D.C. 20554
+In the Matter of )
+)
+Wiretap Telecom, LLC ) WC Docket No. _____________
+)
+For Authorization to Obtain Numbering )
+Resources Pursuant to Section 52.15(g) of )
+the Commission’s Rules )
+APPLICATION OF WIRETAP TELECOM, LLC FOR AUTHORIZATION TO OBTAIN
+NUMBERING RESOURCES
+Wiretap Telecom, LLC (“WTT”), pursuant to Section 52.15(g)(3)(i) of the Federal
+Communications Commission’s (“Commission’s”) Rules, respectfully requests authorization to
+obtain numbering resources as described below.
+As set forth in the Commission’s Numbering Order1, an interconnected VoIP provider
+may obtain numbering resources from the Numbering Administrator upon a showing that it is
+authorized to provide service in the area for which the numbering resources are requested. Such
+authorization may be obtained upon an application to the Commission containing the information
+detailed in Sections 52.15(g)(3)(i)(A)-(F) of the Commission’s Rules. WTT hereby requests the
+Commission grant it that authorization. In support of this application, WTT provides the
+following information:
+1 WC Docket No. 13-97, et al. (FCC 15-70), Report and Order, rel. June 22, 2015.
+Page 1
+
+I. INFORMATION REQUIRED BY SECTION 52.15(g)(3)(i)
+(A) § 52.15(g)(3)(i)(A)
+Name: Wiretap Telecom, LLC
+Address: 5929 North May Avenue, Suite 208, Oklahoma City, OK 73112
+Telephone: (405) 471-8000
+Personnel qualified to address regulatory/compliance/911 issues: Cody Schilke
+(B) § 52.15(g)(3)(i)(B)
+WTT hereby acknowledges that authorization to obtain numbering resources under
+Section 52.15(g) of the Commission’s Rules is subject to: compliance with applicable
+Commission numbering rules; numbering authority delegated to the states; and industry
+guidelines and practices regarding numbering as applicable to telecommunications
+carriers.
+(C) § 52.15(g)(3)(i)(C)
+Wiretap hereby acknowledges that it must file requests for numbers with the relevant
+state commission(s) at least 30 days before requesting numbers from the Numbering
+Administrators.
+(D) § 52.15(g)(3)(i)(D)
+WTT hereby provides its capability to provide service within 60 days of the numbering
+resources activation date. WTT has entered an agreement with Inteliquent Inc.
+(Inteliquent). Under this agreement Inteliquent will provide WTT with Local Connect
+Services which will allow WTT to use Inteliquent’s interconnection trunks to exchange
+traffic with incumbent local exchange carriers. Furthermore, Inteliquent provisioned a
+trunk group for WTT Loca Connect Service. As proof of its readiness, WTT has
+Page 2
+
+attached as Exhibit A to this application a Facilities Readiness confirmation document
+showing that WTT has established and activated a Local Connect Service trunk group
+with Inteliquent.
+(E) § 52.15(g)(3)(i)(E)
+WTT hereby certifies that it will comply with applicable: Universal Service Fund
+Contribution obligations under 47 CFR part 54, subpart H; Telecommunications Relay
+Service contribution obligations under 47 CFR § 64.604(c)(5)(iii); North American
+Numbering Plan and Local Number Portability Administration contribution obligations
+under 47 CFR §§ 52.17, 52.32; regulatory fee obligations under 47 CFR § 1.1154; and
+911 obligations under 47 CFR part 9.
+(F) § 52.15(g)(3)(i)(F)
+WTT hereby certifies that it has the financial, managerial, and technical expertise to
+provide reliable service. It is financially stable, debt free, is led by a strong,
+experienced team of individuals with substantial managerial experience in the
+telecommunications industry since 2013. WTT has sufficient technical expertise and
+infrastructure in place to provide reliable services nationwide. The WTT Key Personnel
+listed below have more than 35 years of combined experience in the
+telecommunications industry and have designed, built and maintained multiple
+telecommunications services. WTT has built proprietary carrier switching, trunking,
+faxing, LCR, and SMS software that actively serves its customer base. WTT system are
+all secured in data center facilities in multiple regions of the USA.
+Page 3
+
+None of the WTT key management and technical personnel listed below are being or
+have been investigated by the Commission or any law enforcement or regulatory agency
+for failure to comply with any law, rule or order.
+Key Personnel:
+Cody Schilke has over 27 years of experience in telecommunications, systems
+architecture, and executive management. He currently serves as the Chief Executive
+Officer for Wiretap Telecom, LLC. His daily duties are mostly executive in nature,
+however, Mr. Schilke continues to provide day-to-day guidance in systems
+architecture, call routing behavior, and quality of service. Prior to serving as CEO
+for Wiretap Telecom, Mr. Schilke was the Vice President of Software Development
+for CoreLogic, the largest appraisal software company in North America. Prior to
+this, he was Vice President of Information Technology for Feed The Children, which
+was the 4th largest non-profit in North America during his employment.
+Justin Webber is an experienced VoIP & Network Engineer. He currently serves as
+our Vice President of Network Operations where he oversees network operations
+such as systems integration, helpdesk management, switch redundancy, business
+continuity, and network operations center (NOC) oversight in all data center facilities.
+He brings critical knowledge and leadership skills in areas such as virtualization,
+VoIP/FoIP expertise, server management, clustering, remote management, VoIP &
+network security.
+Ryan Carroll is an expert marketing and sales professional and is currently the
+Director of Sales, North America. For the past 4 years he has provided oversight and
+leadership in the area of customer care and customer support for Wiretap Telecom
+customers. He also manages all sales related projects and initiatives for the company.
+He ensures customer satisfaction through guidance with relationship building for
+customers large and small. He brings a customer focused passion for customer
+wellness and satisfaction and leverages this within his department as well as directly
+with customers.
+Page 4
+
+(G) § 52.15(g)(3)(i)(G)
+WTT hereby certifies that no party to this application is subject to a denial of Federal
+benefits pursuant to Section 5301 of the Anti-Drug Abuse Act of 1988, 21 U.S.C. § 862.
+II. ACKNOWLEDGEMENT OF CONDITIONS IN SECTION 52.15(g)(3)(iv)
+As required by Section 52.15(g)(3)(iv), WTT will maintain the accuracy of all contact
+information and certifications in this application, and will file a correction with the
+Commission and each applicable state within 30 days of any changes. WTT will also
+furnish accurate regulatory and numbering contact information to each state commission
+when requesting numbers in that state.
+III. CONCLUSION
+Pursuant to Section 52.15(g)(3)(i) of the Commissions’ Rules, WTT respectfully
+requests the Commission grant this application for authorization to obtain numbering
+resources.
+Respectfully Submitted,
+________________________
+Cody Schilke
+Wiretap Telecom, LLC
+(877)471-3603
+cody.schilke@wiretaptelecom.com
+March 9, 2021
+Page 5
+
+LIST OF EXHIBITS
+Exhibit A: Facilities Readiness Confirmation
+Exhibit B: State(s) in which WTT may request telephone numbers for its initial rollout
+
+EXHIBIT A
+
+Order No Service Type IQ SBX Trunk Group Name
+12533873 HMPB DALSBX55 DLLSTX37WRT_3994
+Order No Service Type Trunk Group Name
+IQ SBX
+12535392 LTS-HS DALSBX55 DLLSTX37WRT_3995
+Order No Service Type IQ SBX Trunk Group Name
+12536212 HMPB WDCSBX71 ASBNVAQQWRT_1297
+Order No Service Type Trunk Group Name
+IQ SBX
+12537692 LTS-HS WDCSBX71 ASBNVAQQWRT_1298
+
+EXHIBIT
+B
+Wiretap Telecom, LLC (“WTT”) initially intends to request numbers in Oklahoma.
+As WTT expands, it will request numbers in the following states, but there is no definitive
+schedule at this time (Texas, Florida, Missouri).
+WTT will file 30-day notices with the state(s) public utility commissions before
+requesting numbers from the numbering administrator.

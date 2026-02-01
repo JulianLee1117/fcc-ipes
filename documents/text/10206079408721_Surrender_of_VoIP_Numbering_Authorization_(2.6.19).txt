@@ -1,0 +1,46 @@
+1800 M STREET, NW
+SUITE 800N
+WASHINGTON, DC 20036
+TEL 202.783.4141
+FAX 202.783.5851
+WWW.WBKLAW.COM
+February 6, 2019
+By Electronic Filing
+Ms. Marlene H. Dortch, Secretary
+Federal Communications Commission
+445 12th Street S.W.
+Washington D.C. 20554
+Re: Relinquishment of Interconnected VoIP Numbering Authorization Held by
+Flowroute Inc.; WC Docket No. 16-265
+Dear Ms. Dortch:
+Flowroute Inc. (“Flowroute”), through its undersigned counsel, hereby respectfully
+notifies the Commission that it relinquishes its authorization to obtain numbering resources from
+the Numbering Administrator as an interconnected Voice over Internet Protocol (“VoIP”)
+provider.1 This authorization is no longer required as a result of a transaction whereby
+Flowroute Inc. was merged into West Telecom Services Holdings, LLC (“West Holdings”). The
+transaction was consummated effective February 1, 2019. As a result of the transaction,
+Flowroute was dissolved as a legal entity, and West Holdings was the surviving company.
+The numbers held by Flowroute Inc. were transferred to West Telecom Services, LLC
+(“West Telecom”), a subsidiary of West Holdings, as part of a post-merger asset transfer. West
+Telecom holds authorization to obtain numbering resources from the Numbering Administrator
+as a common carrier pursuant to the Commission’s rules.
+Flowroute understands that Commission approval is not required to surrender such
+authorization. Accordingly, Flowroute submits this letter for informational purposes to ensure
+the accuracy of the Commission’s records.
+1 Flowroute was granted authorization to obtain numbering resources on October 17, 2016. Notice of
+Interconnected VoIP Numbering Authorization Granted, Public Notice, 31 FCC Rcd 11681 (2016); see
+also Interconnected VoIP Numbering Authorization Application Filed by Flowroute Inc. Pursuant to
+Section 52.15(g)(3) of the Commission’s Rules, WC Docket No. 16-265 (filed Aug. 15, 2016).
+
+If you have any questions regarding this notification, please contact the undersigned.
+Respectfully submitted,
+/s/ Phillip Marchesiello
+Phillip Marchesiello
+Wilkinson Barker Knauer, LLP
+1800 M Street, N.W., Suite 800N
+Washington, D.C. 20036
+Tel: (202) 783-4141
+Fax: (202) 783-5851
+PMarchesiello@wbklaw.com
+Counsel to Flowroute Inc.
+2

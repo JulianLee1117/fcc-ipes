@@ -1,0 +1,142 @@
+151 Southhall Lane, Ste. 450
+Maitland, FL 32751
+www.jsitel.com
+June 25, 2025
+Via ECFS
+REDACTED FOR PUBLIC INSPECTION
+Secretary, Federal Communications Commission
+Washington, DC 20554
+Attn: Wireline Competition Bureau
+RE: Request for Confidential Treatment of Filing of Clear Rate Communications LLC; Supplement to
+the Application of Clear Rate Communications LLC for Authorization to Obtain Numbering
+Resources Pursuant to Section 52.15(g) of the Commission's Rules, WC Docket No. 25-128
+Dear Ms. Dortch,
+Pursuant to Section §52.15(g)(3)(i) of the Commission's Rules,1 Clear Rate Communications LLC ("Clear
+Rate Communications") hereby submits supplemental information to its Application for Authorization to
+Obtain Numbering Resources originally submitted on March 6, 2025, in the above-mentioned docket
+number.
+Clear Rate Communications respectfully requests that, pursuant to Sections §0.457 and §0.459 of the
+Commission's Rules,2 the Commission withhold from public inspection and accord confidential
+treatment of Exhibit A of the supplement to the application because the documents contain sensitive
+trade secrets and commercial information that falls within Exemption 4 of the Freedom of Information
+Act ("FOIA").3 Moreover, Clear Rate Communications would suffer substantial competitive harm if this
+information were disclosed.
+Exhibit A of the supplement to the application is accordingly marked with the header "SUBJECT TO
+REQUEST FOR CONFIDENTIAL TREATMENT - NOT FOR PUBLIC INSPECTION."
+In support of this request, Clear Rate Communications hereby states the following:
+1. IDENTIFICATION OF THE SPECIFIC INFORMATION FOR WHICH CONFIDENTIAL TREATMENT IS
+SOUGHT.
+Clear Rate Communications seeks confidential treatment of Exhibit A of the supplement to the
+application originally submitted on March 6, 2025.
+2. DESCRIPTION OF CIRCUMSTANCES GIVING RISE TO THE SUBMISSION.
+Clear Rate Communications is submitting supplemental information per FCC Staff’s request to
+provide additional proof of its 911 and 988 obligations under part 9 of the relevant chapter.
+1 47 C.F.R. § 52.15(g).
+2 47 C.F.R. § 0.457 & §0.459.
+3 See 5 U.S.C. § 552(b)(4). Public disclosure is not required for “trade secrets and commercial or financial
+information obtained from a person and privileged or confidential.”
+
+Page 2 of 3
+3. EXPLANATION OF THE DEGREE TO WHICH THE INFORMATION IS COMMERCIAL OR FINANCIAL,
+OR CONTAINS A TRADE SECRET OR IS PRIVILEGED.
+The information for which Clear Rate Communications seeks confidential treatment contains
+sensitive commercial information "which would customarily be guarded from competitors". The
+supplemental information outlines Clear Rate Communications’ compliance with its 911 and 988
+obligations, which contain proprietary information concerning Clear Rate Communications’
+network, customers, and services.
+4. EXPLANATION OF THE DEGREE TO WHICH THE INFORMATION CONCERNS A SERVICE THAT IS
+SUBJECT TO COMPETITION.
+Exhibit A to the supplement of the application contains information relating to commercial
+matters which can be used by other interconnected VoIP providers to compromise Clear Rate
+Communications’ position in the highly competitive interconnected VoIP business sector.
+Detailed operations and commercial information of the type provided by Clear Rate
+Communications could compromise Clear Rate Communications’ position in this highly
+competitive industry. Accordingly, release of this information would result in substantial
+competitive harm to Clear Rate Communications.
+5. EXPLANATION OF HOW DISCLOSURE OF THE INFORMATION COULD RESULT IN SUBSTANTIAL
+COMPETITIVE HARM.
+Competitors could use Clear Rate Communications' proprietary commercial and operational
+information to Clear Rate Communications’ detriment as they would gain access to sensitive
+information concerning Clear Rate Communications’ commercial agreements, as well as
+information as to how Clear Rate Communications provides its services. This information is not
+normally disclosed to the public.
+6. IDENTIFICATION OF ANY MEASURES TAKEN BY THE SUBMITTING PARTY TO PREVENT
+UNAUTHORIZED DISCLOSURE.
+Clear Rate Communications has not distributed the information in Exhibit A of the supplement
+to the application to the public.
+7. IDENTIFICATION OF WHETHER THE INFORMATION IS AVAILABLE TO THE PUBLIC AND THE
+EXTENT OF ANY PREVIOUS DISCLOSURE OF THE INFORMATION TO THIRD PARTIES.
+Clear Rate Communications does not believe that the information is available to the public or
+that the information has ever been disclosed to third parties absent the protection of a non-
+disclosure agreement regarding their contents.
+
+Page 3 of 3
+8. JUSTIFICATION OF THE PERIOD DURING WHICH THE SUBMITTING PARTY ASSERTS THAT
+MATERIAL SHOULD NOT BE AVAILABLE FOR PUBLIC DISCLOSURE.
+Clear Rate Communications requests that the information in Exhibit A of the supplement to the
+application be withheld from public disclosure indefinitely.
+9. OTHER INFORMATION THAT CLEAR RATE COMMUNICATIONS BELIEVES MAY BE USEFUL IN
+ASSESSING WHETHER ITS REQUEST FOR CONFIDENTIALITY SHOULD BE GRANTED.
+The information concerns Clear Rate Communications' proprietary network information, related
+to current and planned commercial and operational information, and as such, is commercially
+sensitive.
+For the foregoing reasons, Clear Rate Communications respectfully requests that Exhibit A of the
+supplement to the application be granted confidential status and withheld from public inspection.
+Any questions you may have regarding this filing should be directed to my attention at 470-672-3933 or
+via email to nelson.fernandez@jsitel.com. Thank you for your assistance in this matter.
+Sincerely,
+/s/Nelson Fernandez
+Nelson Fernandez
+Consultant
+tms: FCCv2500b
+NF/gs
+
+151 Southhall Lane, Ste. 450
+Maitland, FL 32751
+www.jsitel.com
+June 25, 2025
+Via ECFS
+Marlene H. Dortch, Secretary
+Federal Communications Commission
+45 L Street, NE
+Washington, DC 20554
+Re: Supplement to the Application of Clear Rate Communications LLC for Authorization to Obtain
+Numbering Resources Pursuant to Section 52.15(g) of the Commission's Rules, WC Docket No.
+25-128
+Dear Ms. Dortch:
+On behalf of Clear Rate Communications LLC (“Clear Rate Communications”), please find enclosed
+supplemental information relevant to the application for authority to obtain numbering resources
+(“Application”) in the above-mentioned docket. This information is being provided at the request of FCC
+Commission Staff.
+1. Evidence of 911 and CALEA Compliance (§52.15(g)(3)(ii)(E))
+In further support of showing its compliance with 911 and CALEA obligations, Clear Rate
+Communications hereby submits in Exhibit A additional proof of its 911 and 988 obligations
+under part 9 of the relevant chapter. Clear Rate Communications respectfully requests
+confidential treatment under the Commission’s rules for this information.
+2. Certification re Foreign Carriers
+As required by 47 C.F.R. § 63.18 (h) & (i), Clear Rate Communications certifies that it is not a
+foreign carrier and is not affiliated with any foreign carrier.
+3. Declaration
+A declaration under penalty of perjury pursuant to 47 C.F.R. §1.16 is attached hereto as Exhibit
+B.
+Any questions you may have regarding this filing should be directed to my attention at 470-672-3933 or
+via email to nelson.fernandez@jsitel.com. Thank you for your assistance in this matter.
+Sincerely,
+/s/Nelson Fernandez
+Nelson Fernandez
+Consultant
+
+EXHIBIT A
+(Confidential exhibit submitted separately)
+
+EXHIBIT B
+Verification
+
+Verification
+I swear, under penalty of perjury, that I am Doug Black, an officer of the above
+named applicant, Clear Rate Communications, LLC, and that I have examined the
+foregoing application and that all information required under the Commission's
+rules and orders has been provided and all statements of fact, as well as all
+documentation contained in this submission, are true, accurate, and complete.
+Dougaack
+President

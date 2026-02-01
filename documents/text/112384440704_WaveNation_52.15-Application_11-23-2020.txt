@@ -1,0 +1,442 @@
+DocuSign Envelope ID: 5CD2A904-8735-4EB0-8A13-404D37134E62
+November 5, 2020
+Marlene Dortch
+Secretary
+Federal Communications Commission
+445 12th St. SW
+Washington, DC 20554
+Via ECFS
+RE: WaveNation, LLC Application for Authorization to Obtain Number Resources Pursuant
+to Section 52.15(g) of the Commission’s Rules
+Dear Ms. Dortch:
+Pursuant to Section 52.15(g)(3)(i) of the Commission’s Rules, WaveNation, LLC hereby submits
+its application requesting authorization to obtain numbering resources. For any questions
+regarding this application please contact Julie Oost at (312) 878‐4137.
+Respectfully Submitted,
+____________________
+Julie Oost
+WaveNation, LLC
+Telephone: (312) 878‐4137
+Email: regulatory@peerlessnetwork.com
+
+DocuSign Envelope ID: 5CD2A904-8735-4EB0-8A13-404D37134E62
+Before the
+FEDERAL COMMUNICATIONS COMMISSION
+Washington, D.C. 20554
+In the Matter of )
+)
+WaveNation, LLC ) WC Docket No. _____________
+)
+For Authorization to Obtain Numbering )
+Resources Pursuant to Section 52.15(g) of )
+the Commission’s Rules )
+APPLICATION OF WAVENATION, LLC
+FOR AUTHORIZATION TO OBTAIN NUMBERING RESOURCES
+WaveNation, LLC (“WaveNation”), pursuant to Section 52.15(g)(3)(i) of the Commission’s
+Rules, respectfully requests authorization to obtain numbering resources as described below.
+As set forth in the Commission’s Numbering Order1, an interconnected VoIP provider may
+obtain numbering resources from the Numbering Administrator upon a showing that it is
+authorized to provide service in the area for which the numbering resources are requested. Such
+authorization may be obtained upon an application to the Commission containing the
+information detailed in Sections 52.15(g)(3)(i)(A)‐(G) of the Commission’s Rules. WaveNation
+hereby requests the Commission grant it that authorization. In support of this application,
+WaveNation provides the following information:
+1 WC Docket No. 13-97, et al. (FCC 15-70), Report and Order, rel. June 22, 2015.
+1
+
+DocuSign Envelope ID: 5CD2A904-8735-4EB0-8A13-404D37134E62
+I. INFORMATION REQUIRED BY SECTION 52.15(g)(3)(i)
+(A) § 52.15(g)(3)(i)(A)
+Name: WaveNation, LLC
+Address: 222 South Riverside Plaza, Suite 1900, Chicago, IL 60606
+Telephone: 844‐662‐9283
+Personnel qualified to address regulatory/compliance/911/law enforcement
+issues:
+Julie Oost, VP of Regulatory Affairs & Contracts
+222 S. Riverside Plaza, Suite 1900, Chicago, IL 60606
+Phone: (312) 878‐4137
+Fax: (312) 757‐4874
+Email: regulatory@peerlessnetwork.com
+(B) § 52.15(g)(3)(i)(B)
+WaveNation hereby acknowledges that authorization to obtain numbering resources
+under Section 52.15(g) of the Commission’s Rules is subject to: compliance with applicable
+Commission numbering rules; numbering authority delegated to the states; and industry
+guidelines and practices regarding numbering as applicable to telecommunications carriers.
+(C) § 52.15(g)(3)(i)(C)
+WaveNation hereby acknowledges that it must file requests for numbers with the
+relevant state commission(s) at least 30 days before requesting numbers from the Numbering
+Administrators.
+(D) § 52.15(g)(3)(i)(D)
+WaveNation hereby provides its capability to provide service within 60 days of the
+numbering resources activation date. WaveNation has entered into an agreement with Peerless
+2
+
+DocuSign Envelope ID: 5CD2A904-8735-4EB0-8A13-404D37134E62
+Network. Under this agreement, Peerless Network will provide WaveNation with services which
+will allow WaveNation to use Peerless Network’s interconnection trunks to exchange traffic with
+the Public Switched Network and other local exchange carriers. Furthermore, Peerless Network
+provisioned a trunk group for WaveNation. As proof of readiness, WaveNation provides: (1)
+Exhibit A – a Facilities Readiness confirmation document showing that WaveNation has
+established and activated a trunk group with Peerless Network, and (2) Exhibit B – relevant pages
+from an interconnection agreement between Peerless Network and an incumbent local exchange
+carrier.
+(E) § 52.15(g)(3)(i)(E)
+WaveNation hereby certifies that it will comply with applicable: Universal Service Fund
+Contribution obligations under 47 CFR part 54, subpart H; Telecommunications Relay Service
+contribution obligations under 47 CFR § 64.604(c)(5)(iii); North American Numbering Plan and
+Local Number Portability Administration contribution obligations under 47 CFR §§ 52.17, 52.32;
+regulatory fee obligations under 47 CFR § 1.1154; and 911 obligations under 47 CFR part 9.
+(F) § 52.15(g)(3)(i)(F)
+WaveNation hereby certifies that it has the financial, managerial, and technical expertise
+to provide reliable service. It is financially stable, is led by a strong, experienced team of
+individuals with substantial managerial experience in the telecommunications industry, and has
+sufficient technical expertise and infrastructure in place to provide reliable services. The
+WaveNation Key Personnel listed below have decades of experience in the telecommunications
+industry and have designed, built and maintained many telecommunications services.
+3
+
+DocuSign Envelope ID: 5CD2A904-8735-4EB0-8A13-404D37134E62
+WaveNation’s key management and technical personnel are listed below. None of personnel
+listed below are being (or have been) investigated by the Federal Communications Commission
+or any law enforcement or regulatory agency for failure to comply with any law, rule or order.
+Key Personnel:
+John Barnicle
+President and Chief Executive Officer
+John Barnicle has 30 years of leadership experience in the telecommunications industry.
+Prior to founding Peerless Network, John was President and Chief Executive Officer of
+Lynch Interactive Corp. where he led the effort to take the company private. Under his
+leadership the firm grew non‐regulated revenue streams on a 20% annual pace and
+reduced the company’s reliance on USF (Universal Service Fund) financial support.
+Prior to Lynch Interactive Corp., John served as Co‐founder, President and Chief
+Operating Officer of Neutral Tandem Inc. which he helped grow from inception to an
+annualized revenue run rate of over $40 million in just 20 months. Under John’s control,
+Neutral Tandem became EBITDA positive within 12 months of providing service. His
+leadership established the foundation for the company’s successful Initial Public
+Offering in November 2007.
+Prior to Neutral Tandem, John was Co‐founder, President and Chief Operating Officer of
+Focal Communications Corp. With direct responsibility for all day‐to‐day activities of the
+company, John grew Focal to over $350M in annualized revenue in less than six years,
+guided the company to an operating profit in its first full year of operations and was
+involved in raising over $800 million in capital during that period, including a successful
+IPO in July 1999. John also held executive management roles at MFS Communications,
+Duff and Phelps Credit Rating Company and Centel Corporation.
+Mr. Barnicle earned an M.B.A. in Finance from DePaul University and a B.S. in Electrical
+Engineering with an emphasis on RF communications systems from the University of
+Illinois at Champaign.
+Lisa B. Neimark
+Chief Financial Officer
+Lisa B. Neimark has over 30 years of technical experience in finance and accounting and
+extensive practical experience transforming companies through mergers and
+acquisitions and organic revenue growth. Lisa has driven results by advising CEOs,
+boards of directors, senior executives, lenders and shareholders of public and privately
+held companies in complex transactions and financial and operational matters. She has
+been responsible for leading the execution of strategic transactions throughout the
+United States, Canada, Latin America, Europe and Asia and is consistently recognized as
+a dedicated, collaborative and principled leader with strong problem‐solving and critical
+thinking skills.
+4
+
+DocuSign Envelope ID: 5CD2A904-8735-4EB0-8A13-404D37134E62
+Lisa has held CFO position at PSL North America, Palm Bay Academy, Johnson Publishing
+Company and other major companies. In addition, she has held executive level positions
+with firms such as Duff & Phelps, Macquarie Capital, Capstone Advisory Group and Ernst
+& Young Corporate Finance.
+Lisa has a B.S. from Indiana University in Accountancy and successfully completed the
+Executive Program at Kellogg School of Business, Northwestern University.
+Richard Knight
+Executive Vice President of Sales and Marketing
+Rick has 25 years of award‐winning business building experience including launching of
+new technologies and products, creating local and national marketing programs,
+acquiring new customers and directly impacting corporate margins by increasing gross
+revenues. Rick has developed, sold, supported, engineered and implemented customer
+solutions that achieved high‐margin revenues and his experience includes Fortune 500,
+affinity and wholesale market segments.
+As Executive Vice President of Sales and Marketing for TeleGuam Holdings, Rick was
+responsible for developing sales and support teams and interconnections agreements
+while selling mobile, long distance, data and local services. Rick’s efforts included the
+development of national, business and residential account teams focused on revenue
+generation while maintaining margins in excess of 75%. Rick has held senior
+management positions with Focal Communications Corporation and MCI.
+Rick earned a B.A. from the University of Iowa in 1985 and a M.B.A. from DePaul
+University.
+Jim Brewer
+Senior Vice President, Emerging Business
+Jim Brewer has more than 20 years of experience of driving results within the
+telecommunications industry. Jim brings extensive knowledge of designing, deploying
+and operating carrier‐class VoIP and IMS networks and services to Peerless Network. As
+co‐founder of Peerless Network and Senior Vice President, Emerging Businesses, Mr.
+Brewer is responsible for voice, messaging, UCaaS architecture/engineering, software
+development of the Peerless Portal and all related products, software development of
+the Peerless LCR and all ancillary call routing applications.
+Prior to Peerless, Jim served as Manager of VoIP Engineering for Focal Communications,
+where he supervised the successful launch of the wholesale VoIP service. Following the
+company’s acquisition by Broadwing Communications, he oversaw the VoIP engineering
+team and managed the integration of the Broadwing and Focal Communications
+networks.
+Jim studied computer engineering at the University of Iowa and holds a bachelor’s
+degree in telecommunications management from DeVry University.
+Tony Hiller
+Executive Vice President Operations and Engineering
+5
+
+DocuSign Envelope ID: 5CD2A904-8735-4EB0-8A13-404D37134E62
+Tony Hiller brings more than 23 years of experience in the telecom industry to Peerless
+Network. Throughout his career, he has successfully helped teams design, optimize and
+operate carrier networks while maximizing performance at minimal cost. Tony is co‐
+founder of Peerless and serves as Senior Vice President, Engineering and Architecture.
+In his role, he oversees design, build, deployment and engineering of the company’s
+network, systems and facilities. Tony co‐authored several of the company’s key patents.
+Tony previously led teams at Level3 and Broadwing Communications overseeing
+network engineering, planning, architecture and internet peering. During his time at
+Level3, he assisted with the post‐acquisition integration of multiple acquired networks,
+including Broadwing’s. He also held key positions at Broadwing Communications, Focal
+Communications and Interaccess Corp.
+Tony studied computer science and human computer interaction at DePaul University.
+Bob Sherman
+Vice President, Information Technology
+Bob Sherman has over 20 years of experience in the telecommunications industry. Bob
+was one of the initial employees at Peerless and currently serves as Vice President,
+Information Technology. In his role, he is responsible for overseeing application design
+and development activities related to CRM, order management, CDR collection, usage
+rating, billing and reporting. He has extensive knowledge of the back‐office application
+infrastructure required to run a telecommunications business.
+Prior to Peerless, Bob worked on various ordering, provisioning, billing and reporting
+systems at Level3, Broadwing Communications and Focal Communications. Prior to
+Focal, Bob was a senior manager in the Management Consulting and Technology
+Services unit of PriceWaterhouseCoopers (now IBM Business Consulting). In that role,
+Bob worked at several Fortune 500 companies in the transportation, retail and
+healthcare industries.
+Bob earned a bachelor’s degree in Engineering from the University of Illinois at
+Champaign‐Urbana.
+Julie Musselman Oost
+Vice President of Regulatory Affairs & Contracts
+Julie has 25 years of experience in the regulatory and contracts space with a
+demonstrated ability to manage federal, state and local regulatory and contractual
+issues. In her current role as Vice President of Regulatory Affairs and Contracts, Julie
+provides leadership and direction for Peerless’ regulatory initiatives and compliance and
+performs a wide range of transactional activities, including contract drafting, negotiation
+and review with an emphasis on sales contracts, vendor contracts, inter‐carrier
+contracts and disputes, NDAs and sales bid responses. Julie also represents Peerless in
+regulatory matters before government agencies, including the FCC and state public
+utility regulatory commissions, and in industry associations, including the North
+American Numbering Council (NANC).
+6
+
+DocuSign Envelope ID: 5CD2A904-8735-4EB0-8A13-404D37134E62
+Prior to joining Peerless, Ms. Oost spent 10 years as an economist at Kelley Drye &
+Warren LLP in its Chicago office where she provided economic counsel and public policy
+guidance to communications and energy clients on federal, state and local regulatory
+issues focusing on the development of briefs, testimonies and other regulatory filings.
+Prior to Kelley Drye, Julie was a senior policy advisor to Commissioners Karl A.
+McDermott and Terry S. Harvill, and an economic analyst in the policy section of the
+Telecommunications Division at the Illinois Commerce Commission. Julie has also
+worked for Argonne National Laboratory and the Center for Regulatory Studies.
+Julie earned a M.S. in Regulatory Economics and a B.A. in Finance and Economics from
+Illinois State University in Bloomington‐Normal, Illinois.
+(G) § 52.15(g)(3)(i)(G)
+WaveNation hereby certifies that no party to this application is subject to a denial of
+Federal benefits pursuant to Section 5301 of the Anti‐Drug Abuse Act of 1988, 21 U.S.C. § 862.
+II. ACKNOWLEDGEMENT OF CONDITIONS IN SECTION 52.15(g)(3)(iv)
+As required by Section 52.15(g)(3)(iv), WaveNation will maintain the accuracy of all
+contact information and certifications in this application; comply with applicable Commission
+numbering rules and industry guidelines; file requests for numbers with relevant state
+commission(s) at least thirty days before requesting numbers from the Number Administrators;
+and provide accurate regulatory and numbering contact information to each state commission
+when requesting numbers in that state.
+III. CONCLUSION
+Pursuant to Section 52.15(g)(3)(i) of the Commissions’ Rules, WaveNation respectfully
+requests the Commission grant this application for authorization to obtain numbering resources.
+7
+
+DocuSign Envelope ID: 5CD2A904-8735-4EB0-8A13-404D37134E62
+Respectfully Submitted,
+________________________
+Julie Oost
+VP, Regulatory Affairs & Contracts
+WaveNation, LLC
+222 S. Riverside Plaza, Suite 1900
+Chicago, IL 60606
+Telephone: (312) 878‐4137
+Fax: (312) 757‐4874
+Email: regulatory@peerlessnetwork.com
+Date: November 5, 2020
+LIST OF EXHIBITS
+Exhibit A: Facilities Readiness Confirmation
+Exhibit B: Interconnection Agreement
+Exhibit C: State(s) in which WaveNation may request telephone number resources for initial
+roll‐out
+8
+
+EXHIBIT A
+
+To whom it may concern:
+This notification is provided to validate that the following trunk group(s) have been completed,
+activated and are in-service for WaveNation, LLC.
+Peerless Network Customer: WaveNation, LLC
+Date of Activation: 11/19/2020
+LD trunk groups
+CHI05NBS27: CHI27WAVE000NG50001
+DAL01NBS27: DAL27WAVE000NG50001
+IP Control groups
+CHINBS05: C5372_SIP_WNWIRELESS
+NYCNBS06: C5372_SIP_WNWIRELESS
+peerless network
+Julie M. Oost | VP Regulatory Affairs and Contracts
+222 S. Riverside Plaza, Suite 1900 | Chicago, IL 60606
+O: 312.878.4137 |JOost@peerlessnetwork.com
+Website: www.peerlessnetwork.com
+
+EXHIBIT B
+
+140 West Street
+27th Floor
+New York, NY 10007-2109
+Tel (212) 321-8136
+Fax (212) 962-1687
+keefe.b.clemons@verizon.com
+Keefe B. Clemons
+Associate General Counsel – NY & CT
+October 16, 2007
+BY HAND
+Honorable Jaclyn A. Brilling
+Secretary
+New York Public Service Commission
+Three Empire State Plaza
+Albany, New York 12223
+Re: Interconnection Agreement between
+Verizon New York Inc. and Peerless Network of New York, LLC
+Dear Secretary Brilling:
+Enclosed please find the Interconnection Agreement, effective October 11, 2007,
+between Verizon New York Inc. and Peerless Network of New York, LLC. The contact person
+for Peerless Network of New York, LLC is:
+Scott Kell
+Peerless Network of New York, LLC
+27 North Wacker Street, Suite 244
+Chicago, IL 60606
+(312) 282-9323
+skell@peerlessnetwork.com
+If you have any questions regarding this matter, please feel free to contact me.
+Respectfully submitted,
+Keefe B. Clemons
+cc: Scott Kell (By E-Mail)
+
+AGREEMENT
+by and between
+PEERLESS NETWORK OF NEW YORK, LLC
+and
+VERIZON NEW YORK INC.
+FOR THE STATE OF
+NEW YORK
+PN NY Comp v3.1.doc
+
+AGREEMENT
+PREFACE
+This Agreement (“Agreement”) shall be deemed effective as of October 11, 2007 (the “Effective
+Date”), between Peerless Network of New York, LLC (“PN”), a Limited Liability Company
+organized under the laws of the State of Delaware, with offices at 27 N. Wacker St., Suite 444,
+Chicago, IL 60606 and Verizon New York Inc. (“Verizon”), a corporation organized under the
+laws of the State of New York with offices at 140 West Street, New York, NY 10007 (Verizon and
+PN may be referred to hereinafter, each, individually as a “Party”, and, collectively, as the
+“Parties”).
+GENERAL TERMS AND CONDITIONS
+In consideration of the mutual promises contained in this Agreement, and intending to be legally
+bound, pursuant to Section 252 of the Act, Verizon and PN hereby agree as follows:
+1. The Agreement
+1.1 This Agreement includes: (a) the Principal Document; (b) the Tariffs of each
+Party applicable to the Services that are offered for sale by it in the Principal
+Document (which Tariffs are incorporated into and made a part of this Agreement
+by reference); and, (c) an Order by a Party that has been accepted by the other
+Party.
+1.2 Except as otherwise expressly provided in the Principal Document (including, but
+not limited to, the Pricing Attachment), conflicts among provisions in the Principal
+Document, Tariffs, and an Order by a Party that has been accepted by the other
+Party, shall be resolved in accordance with the following order of precedence,
+where the document identified in subsection “(a)” shall have the highest
+precedence: (a) the Principal Document; (b) the Tariffs; and, (c) an Order by a
+Party that has been accepted by the other Party. The fact that a provision
+appears in the Principal Document but not in a Tariff, or in a Tariff but not in the
+Principal Document, shall not be interpreted as, or deemed grounds for finding, a
+conflict for the purposes of this Section 1.2.
+1.3 This Agreement constitutes the entire agreement between the Parties on the
+subject matter hereof, and supersedes any prior or contemporaneous
+agreement, understanding, or representation, on the subject matter hereof,
+provided, however, notwithstanding any other provision of this Agreement or
+otherwise, this Agreement is an amendment, extension and restatement of the
+Parties’ prior interconnection and resale agreement(s), if any, and, as such, this
+Agreement is not intended to be, nor shall it be construed to create, a novation or
+accord and satisfaction with respect to any prior interconnection or resale
+agreements and, accordingly, all monetary obligations of the Parties to one
+another under any prior interconnection or resale agreements shall remain in full
+force and effect and shall constitute monetary obligations of the Parties under
+this Agreement (provided, however, that nothing contained in this Agreement
+shall convert any claim or debt that would otherwise constitute a prepetition claim
+or debt in a bankruptcy case into a postpetition claim or debt). In connection with
+the foregoing, Verizon expressly reserves all of its rights under the Bankruptcy
+Code and Applicable Law to seek or oppose any relief in respect of the
+assumption, assumption and assignment, or rejection of any interconnection or
+resale agreements between Verizon and PN.
+PN NY Comp v3.1.doc 1
+
+1.4 Except as otherwise provided in the Principal Document, the Principal Document
+may not be waived or modified except by a written document that is signed by
+the Parties. Subject to the requirements of Applicable Law, a Party shall have
+the right to add, modify, or withdraw, its Tariff(s) at any time, without the consent
+of, or notice to, the other Party.
+2. Term and Termination
+2.1 This Agreement shall be effective as of the Effective Date and, unless cancelled
+or terminated earlier in accordance with the terms hereof, shall continue in effect
+until October 10, 2009 (the “Initial Term”). Thereafter, this Agreement shall
+continue in force and effect unless and until cancelled or terminated as provided
+in this Agreement.
+2.2 Either PN or Verizon may terminate this Agreement effective upon the expiration
+of the Initial Term or effective upon any date after expiration of the Initial Term by
+providing written notice of termination at least ninety (90) days in advance of the
+date of termination.
+2.3 If either PN or Verizon provides notice of termination pursuant to Section 2.2 and
+on or before the proposed date of termination either PN or Verizon has requested
+negotiation of a new interconnection agreement, unless this Agreement is
+cancelled or terminated earlier in accordance with the terms hereof (including,
+but not limited to, pursuant to Section 12), this Agreement shall remain in effect
+until the earlier of: (a) the effective date of a new interconnection agreement
+between PN and Verizon; or, (b) the date one (1) year after the proposed date of
+termination.
+2.4 If either PN or Verizon provides notice of termination pursuant to Section 2.2 and
+by 11:59 PM Eastern Time on the proposed date of termination neither PN nor
+Verizon has requested negotiation of a new interconnection agreement, (a) this
+Agreement will terminate at 11:59 PM Eastern Time on the proposed date of
+termination, and (b) the Services being provided under this Agreement at the
+time of termination will be terminated, except to the extent that the Purchasing
+Party has requested that such Services continue to be provided pursuant to an
+applicable Tariff or Statement of Generally Available Terms (SGAT).
+3. Glossary and Attachments
+The Glossary and the following Attachments are a part of this Agreement:
+Additional Services Attachment
+Interconnection Attachment
+Resale Attachment
+Network Elements Attachment
+Collocation Attachment
+911 Attachment
+Pricing Attachment
+4. Applicable Law
+4.1 The construction, interpretation and performance of this Agreement shall be
+governed by (a) the laws of the United States of America and (b) the laws of the
+PN NY Comp v3.1.doc 2
+
+SIGNATURE PAGE
+INWITNESS WHEREOF, the Parties hereto have caused this Agreement to beexecuted as of
+the Effective Date.
+PEERLESS NETWORK OF NEW YORK, LLC VERIZON NE
+By:
+BY~
+Printed: Scott Kell Printed: Gary Librizzi
+Title: SVP Operations and Engineering Title: Director - Negotiations
+PN NY Comp v3.1.doc 26
+
+EXHIBIT C
+
+EXHIBIT C
+WaveNation, LLC (“WaveNation”) anticipates requesting telephone number resources in several
+states during its initial roll-out, including New York, Illinois, Florida, Texas and others.
+As WaveNation expands, it will request numbers in additional states.
+WaveNation will file 30-day notices with the state public utility commissions before requesting
+numbers from the numbering administrator.

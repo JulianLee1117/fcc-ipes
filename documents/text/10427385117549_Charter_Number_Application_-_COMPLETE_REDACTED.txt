@@ -1,0 +1,360 @@
+Friend, Hudak & Harris, LLP
+Attorneys at Law
+Three Ravinia Drive | Suite 1700
+Atlanta, GA 30346
+770.399.9500 I FH2.com
+770.395.0000 Facsimile
+CHudak@fh2.com
+REDACTED – FOR PUBLIC INSPECTION
+April 27, 2023
+VIA ECFS REQUEST FOR
+CONFIDENTIAL TREATMENT
+Marlene H. Dortch, Secretary
+Federal Communications Commission
+45 L Street NE
+Washington, DC 20554
+Re: Charter IP Enabled Services, LLC, Application for Authorization to Obtain
+Numbering Resources & Request for Confidential Treatment
+WC Docket No. 23-______
+Dear Ms. Dortch:
+Charter IP Enabled Services, LLC (“Charter”) encloses for filing its Application to Obtain
+Numbering Resources (“Application”) and corresponding Confidential Exhibit A, an agreement
+between Charter (through its affiliate, Charter Communications Operating, LLC) and its carrier
+partner (Confidential Exhibit A or “Carrier Agreement”). The Application and Carrier Agreement
+are sent to you for filing pursuant to Section 52.15(g)(3)(i) of the Commission’s Rules.
+Charter respectfully requests that, pursuant to Sections 0.457 and 0.459 of the
+Commission’s rules, 47 C.F.R. §§ 0.457 and 0.459, the Commission withhold from public
+inspection and accord confidential treatment to the Carrier Agreement. The document contains
+trade secrets and commercial, technical and financial information that falls within Exemption 4 of
+the Freedom of Information Act (“FOIA”).1
+Exemption 4 of FOIA provides that the public disclosure requirement of the statute “does
+not apply to matters that are . . . (4) trade secrets and commercial or financial information obtained
+from a person and privileged or confidential.”2 Charter is voluntarily providing this trade secret
+and commercial and financial information “of a kind that would not customarily be released to the
+public”; therefore, this information is “confidential” under Exemption 4 of FOIA.3 Moreover,
+1 5 U.S.C. § 552(b)(4).
+2 Id.
+3 See Critical Mass Energy Project v. NRC, 975 F.2d 871, 879 (D.C. Cir. 1992).
+
+REDACTED – FOR PUBLIC INSPECTION
+Marlene H. Dortch, Secretary
+April 27, 2023
+Page 2
+Charter would suffer substantial competitive harm if the Carrier Agreement was disclosed and if
+the identity of its carrier partner was disclosed.4
+In support of this request and pursuant to Section 0.459(b) of the Commission’s rules,5
+Charter hereby states as follows:
+1. IDENTIFICATION OF THE SPECIFIC INFORMATION FOR WHICH
+CONFIDENTIAL TREATMENT IS SOUGHT6
+Charter seeks confidential treatment of the Carrier Agreement, submitted with the
+Application as Confidential Exhibit A.
+2. DESCRIPTION OF CIRCUMSTANCES GIVING RISE TO THE SUBMISSION7
+The Carrier Agreement is being submitted to the Commission as proof of facilities
+readiness, as required by Section 52.15(g)(3)(i)(D) of the Commission’s rules.
+3. EXPLANATION OF THE DEGREE TO WHICH THE INFORMATION IS
+COMMERCIAL OR FINANCIAL, OR CONTAINS A TRADE SECRET OR IS
+PRIVILEGED8
+The information for which Charter seeks confidential treatment contains sensitive
+commercial, financial, and technical information as described in Section 0.457(d) of the
+Commission’s rules.9 The Carrier Agreement contains trade secrets and proprietary commercial
+and technical information relating to the manner in which Charter and its carrier partner conduct
+network operations.
+4. EXPLANATION OF THE DEGREE TO WHICH THE INFORMATION
+CONCERNS A SERVICE THAT IS SUBJECT TO COMPETITION10
+The Carrier Agreement provides detailed information relating to commercial and
+operational matters that could be used by competitors to the disadvantage of Charter. Disclosure
+of Charter’s confidential information would cause substantial competitive harm.
+4 See National Parks and Conservation Ass’n v. Morton, 498 F.2d 765 (D.C. Cir. 1974).
+5 47 C.F.R. § 0.459(b).
+6 47 C.F.R. § 0.459(b)(1).
+7 47 C.F.R. § 0.459(b)(2).
+8 47 C.F.R. § 0.459(b)(3).
+9 47 C.F.R. § 0.457(d).
+10 47 C.F.R. § 0.459(b)(4).
+
+REDACTED – FOR PUBLIC INSPECTION
+Marlene H. Dortch, Secretary
+April 27, 2023
+Page 3
+5. EXPLANATION OF HOW DISCLOSURE OF THE INFORMATION COULD
+RESULT IN SUBSTANTIAL COMPETITIVE HARM11
+Competitors could use the information in the Carrier Agreement to Charter’s detriment as
+they would gain access to sensitive and proprietary information about how Charter provides
+services as well as about Charter’s commercial agreements with others that are not ordinarily
+disclosed to the public.
+6. IDENTIFICATION OF ANY MEASURES TAKEN BY THE SUBMITTING
+PARTY TO PREVENT UNAUTHORIZED DISCLOSURE12
+Charter has made the substance of the Carrier Agreement and the identity of its carrier
+partner known only to those employees who have a need to know the subject matter and those
+employees are aware of the confidential and sensitive nature of the information. The Carrier
+Agreement has not been disclosed by Charter to any non-signatories outside Charter except
+pursuant to appropriate confidentiality agreements.
+7. IDENTIFICATION OF WHETHER THE INFORMATION IS AVAILABLE TO
+THE PUBLIC AND THE EXTENT OF ANY PREVIOUS DISCLOSURE OF THE
+INFORMATION TO THIRD PARTIES13
+Charter has not previously disclosed the Carrier Agreement.
+8. JUSTIFICATION OF THE PERIOD DURING WHICH THE SUBMITTING
+PARTY ASSERTS THAT MATERIAL SHOULD NOT BE AVAILABLE FOR
+PUBLIC DISCLOSURE14
+Charter requests that the Carrier Agreement be treated as confidential for a period of ten
+years. This period is necessary due to the sensitive nature of the information in the Carrier
+Agreement.
+9. OTHER INFORMATION THAT CHARTER BELIEVES MAY BE USEFUL IN
+ASSESSING WHETHER ITS REQUEST FOR CONFIDENTIALITY SHOULD BE
+GRANTED15
+Under applicable Commission and federal court precedent, the information provided by
+Charter on a confidential basis should be shielded from public disclosure. Exemption 4 of FOIA
+11 47 C.F.R. § 0.459(b)(5).
+12 47 C.F.R. § 0.459(b)(6).
+13 47 C.F.R. § 0.459(b)(7).
+14 47 C.F.R. § 0.459(b)(8).
+15 47 C.F.R. § 0.459(b)(9).
+
+REDACTED – FOR PUBLIC INSPECTION
+Marlene H. Dortch, Secretary
+April 27, 2023
+Page 4
+shields information that is: (1) commercial or financial in nature; (2) obtained from a person
+outside government; and (3) privileged or confidential. The commercial and financial information
+in question clearly satisfies this test.
+Respectfully submitted,
+Charles A. Hudak
+Counsel for Charter IP Enabled Services, LLC
+
+Before the
+FEDERAL COMMUNICATIONS COMMISSION
+Washington, D.C. 20554
+In the Matter of )
+)
+Charter IP Enabled Services, LLC, )
+Applicant )
+WC Docket No. 23-_____
+)
+For Authorization to Obtain Numbering )
+Resources Pursuant to Section 52.15(g) of the )
+Commission’s Rules
+APPLICATION OF CHARTER IP ENABLED SERVICES, LLC FOR
+AUTHORIZATION TO
+OBTAIN NUMBERING RESOURCES
+Charter IP Enabled Services, LLC (“Charter”), a provider of interconnected voice over
+Internet protocol (“VoIP”) service, hereby respectfully requests authorization from the Federal
+Communications Commission (“FCC” or “Commission”) for numbering resources pursuant to
+Commission rule Section 52.15(g)(3)(i).1
+As set forth in the Commission’s Numbering Order,2 an interconnected VoIP provider may
+obtain numbering resources from the Numbering Administrator upon a showing that it is
+authorized to provide service in the area for which the numbering resources are requested. Such
+authorization may be obtained upon an application to the Commission containing the information
+described in Sections 52.15(g)(3)(i)(A)-(G) of the Commission’s Rules. Charter requests the
+Commission grant it such authorization.
+Charter provides the following information in support of this application:
+1 47 C.F.R. § 52.15(g)(3)(i).
+2 Numbering Policies for Modern Communications, 30 FCC Rcd. 6839 (2015).
+REDACTED – FOR PUBLIC INSPECTION
+
+1. Company Information (47 C.F.R. § 52.15(g)(3)(i)(A))
+Applicant Name, Address, Telephone Number, and Operating Company Number:
+Charter IP Enabled Services, LLC
+12405 Powerscourt Drive
+St. Louis, Missouri 63131
+Tel: (314) 394-9856
+Website: www.spectrum.com
+Contact Information for Issues Related to Regulatory Requirements, Compliance with
+FCC Rules, 911, and Law Enforcement:
+Regulatory and Compliance:
+Michael R. Moore
+GVP Law – Telephone Regulatory
+Charter Communications, Inc.
+12405 Powerscourt Drive
+St. Louis, Missouri 63131
+Tel: (314) 394-9007
+Email: Michael.Moore@Charter.com
+911:
+John Cummings
+Director – Telephone Regulatory
+Charter Communications, Inc.
+4145 S. Falkenburg Road, Suite 7
+Riverview, FL 33578
+Tel: (813) 302-0002
+Email: John.Cummings@Charter.com
+Law Enforcement:
+Tammy Deloach
+Manager – Legal Response Ops Center
+Charter Communications, Inc.
+12405 Powerscourt Drive
+St. Louis, Missouri 63131
+Tel: (314) 394-9746
+Email: Tammy.Deloach@Charter.com
+REDACTED – FOR PUBLIC INSPECTION
+2
+
+2. Acknowledgments (47 C.F.R. § 52.15(g)(3)(i)(B)-(C))
+Charter acknowledges that: (1) grant of the authorization sought by this application is
+subject to compliance with applicable Commission numbering rules, numbering authority
+delegated to the states, and industry guidelines and practices regarding numbering as applicable to
+telecommunications carriers; and (2) Charter must file requests for numbers with the relevant state
+commission(s) at least thirty days before requesting numbers from the Numbering Administrators.
+3. Service Readiness (47 C.F.R. § 52.15(g)(3)(i)(D))
+Charter initially intends to provide service using numbers it obtains directly in the State of
+Maryland (LATA 242), although Charter ultimately intends to provide such service throughout its
+footprint.3
+Charter is capable of providing service within sixty days of the numbering resources
+activation date. As proof of its facilities readiness, Charter has attached to this application (1) as
+Attachment A, an agreement between Charter (through its affiliate, Charter Communications
+Operating, LLC) and its carrier partner providing that the carrier partner will host Charter numbers
+on its switches and provide PSTN connectivity, which is the subject of a request for confidential
+treatment, and (2) as Attachment B, evidence of an interconnection agreement between Charter’s
+carrier partner and a local exchange carrier in the State of Maryland.
+4. Certifications (47 C.F.R. § 52.15(g)(3)(i)(E)-(G))
+Charter hereby certifies to the following:
+a. Charter complies with its Universal Service Fund contribution obligations under 47
+C.F.R. part 54, subpart H; its Telecommunications Relay Service contribution obligations under
+3 Charter’s footprint includes service areas in the following states: Alabama, California, Colorado, Connecticut,
+Georgia, Illinois, Louisiana, Massachusetts, Maryland, Michigan, Minnesota, Missouri, Mississippi, Montana, North
+Carolina, Nebraska, New Hampshire, Nevada, New York, Oregon, South Carolina, Tennessee, Texas, Virginia,
+Vermont, Washington, Wisconsin, and Wyoming.
+REDACTED – FOR PUBLIC INSPECTION
+3
+
+47 C.F.R. § 64.604(c)(5)(iii); its North American Numbering Plan and Local Number Portability
+Administration contribution obligations under 47 C.F.R. §§ 52.17 and 52.32; its obligations to pay
+regulatory fees under 47 C.F.R. § 1.1154; and its 911 obligations under 47 C.F.R. part 9.
+b. Charter possesses the financial, managerial, and technical expertise to provide
+reliable service. Indeed, Charter has the superior technical qualifications necessary to provide and
+maintain successful operations within its service area. For example, Charter has the capabilities to
+efficiently port and place telephone numbers into service and successfully route calls. In particular,
+the Charter management team’s lengthy experience with number porting enables it, along with its
+carrier partner, to create routing arrangements that seamlessly deliver calls to numbers directly
+assigned to Charter. Furthermore, Charter’s personnel have extensive business and network
+management experience in communications-related businesses and in serving its targeted customer
+segments. These individuals lead a team that is highly qualified to manage Charter’s operations
+throughout its service area. The names of Charter’s key management and technical personnel
+follow:
+President and Chief Executive Officer: Christopher Winfrey
+President, Product and Technology: Richard DiGeronimo
+EVP, Network Operations: Magesh Srinivasan
+Chief Financial Officer: Jessica Fischer
+EVP, General Counsel & Corporate Secretary: Richard R. Dykhouse
+None of the identified personnel are being or have been investigated by the FCC or any law
+enforcement or regulatory agency for failure to comply with any law, rule, or order.
+c. Pursuant to 47 C.F.R. §§ 1.2001 and 1.2002, no party to the application is subject
+to a denial of Federal benefits pursuant to Section 5301 of the Anti-Drug Abuse Act of 1988.4
+4 See 21 U.S.C. § 862.
+REDACTED – FOR PUBLIC INSPECTION
+4
+
+5. Acknowledgment (47 C.F.R. § 52.15(g)(3)(iv))
+Charter acknowledges that it will maintain the accuracy of all contact information and
+certifications in this application and will file a correction with the Commission and each applicable
+state within thirty days of any changes. Charter will also furnish accurate regulatory and
+numbering contact information to each state commission when requesting numbers in that state.
+6. Conclusion
+Pursuant to Section 52.15(g)(3)(i) of the Commission’s rules, Charter respectfully requests
+the Commission grant this application for authorization to obtain numbering resources.
+Respectfully submitted,
+/s/ Michael R. Moore
+Michael R. Moore
+GVP Law – Telephone Regulatory
+Charter Communications, Inc.
+12405 Powerscourt Drive
+St. Louis, Missouri 63131
+(314) 394-9007
+Email: Michael.Moore@Charter.com
+Dated: April 27, 2023
+REDACTED – FOR PUBLIC INSPECTION
+5
+
+ATTACHMENT A
+Agreement Between Charter and Carrier Partner
+[CONFIDENTIAL – REDACTED IN ITS ENTIRETY]
+REDACTED – FOR PUBLIC INSPECTION
+
+REDACTED – FOR PUBLIC INSPECTION
+ATTACHMENT B
+Agreement Between Carrier Partner and Local Exchange Carrier
+
+REDACTED – FOR PUBLIC INSPECTION
+INTERCONNECTION AGREEMENT
+Dated as of November 1,2000
+by and between
+VERIZON MARYLAND INC.,
+-
+F/k/a BELL ATLANTIC MARYLAND, INC.
+and
+Level 3 Communications, LLC
+
+REDACTED – FOR PUBLIC INSPECTION
+Level 3BELL ATLANTIC Interconnection Agreement for Maryland
+INTERCONNECTION AGREEMENT
+This Interconnection Agreement (“Agreement”) is effective as of the 1’‘ day of
+November, 2000 (the “Effective Date”), by and between Verizon Maryland Inc., fMa Bell
+Atlantic - Maryland, Inc. (“BA”), a Maryland corporation, and Level 3 Communications, LLC
+(“Level 3”), a Delaware limited liability company with offices at 1025 Eldorado Boulevard,
+Broomfield, Colorado 8002 1 (each of BA and Level 3 being, individually, a “Party” and,
+collectively, the “Parties”).
+WHEREAS the Parties want to interconnect their networks at mutually agreed upon
+Points of Interconnection to provide Telephone Exchange Services, Switched Exchange Access
+Services and other Telecommunications Services (all as dehed below) to their respective
+Customers;
+WHEREAS Sections 25 1 and 252 of the Communications Act of 1934 as amended by the
+Telecommunications Act of 1996 (the “Act”) have specific requirements for Interconnection,
+unbundled Network Elements and resale service, and the Parties intend that this Agreement meet
+these requirements;
+WHEREAS the Parties are entering into this Agreement to set forth the respective
+obligations of the Parties and the terms and conditions under which the Parties will interconnect
+their networks and provide other services as required by the Act; and
+WHEREAS the Parties substantially completed negotiation of this Agreement (including,
+without limitation, the network architecture and Intercarrier Compensation provisions herein)
+prior to June 30,2000.
+NOW, THEREFORE, in consideration of the mutual provisions contained herein and
+other good and valuable consideration, the receipt and sufficiency of which are hereby
+acknowledged, Level 3 and BA hereby agree as follows:
+SV033099
+1
+
+REDACTED – FOR PUBLIC INSPECTION
+Level 3/BELL ATLANTIC Interconnection Agreement for Maryland
+operations, contractual liability, independent contractors, and personal injury, with limits of
+at least $2,000,000 combined single limit for each occurrence.
+(b) Automobile Liability, Comprehensive Form, with limits of at least $500,000
+combined single limit for each occurrence.
+(c) Excess Liability, in the umbrella form, with limits of at least $10,000,000
+combined single limit for each occurrence.
+(d) Worker’s Compensation Insurance as required by Applicable Law and
+Employer’s Liability Insurance with limits of not less than $1,000,000 per occurrence.
+21.2 Level 3 shall name BA as an additional insured on the foregoing insurance, except
+with respect to Worker’s Compensation Insurance.
+21.3 Level 3 shall, within two (2) weeks of the date hereof and on a semi-annual basis
+thereafter, furnish certificates or other proof of the foregoing insurance acceptable to BA. The
+certificates or other proof of the foregoing insurance shall be sent to: Director - Interconnection
+Services; Bell Atlantic Telecom Industry Services; 1095 Avenue of the Americas; Room 1423;
+New York, NY 10036. In addition, Level 3 shall require its agents, representatives, and contractors,
+if any, that may enter upon the premises of BA or BA’s affiliated companies to maintain similar and
+appropriate insurance and, if requested, to furnish BA certificates or other adequate proof of such
+insurance. Certificates furnished by Level 3 or Level 3’s agents, representatives, or contractors
+shall contain a clause stating: “Verizon Maryland Inc. shall be liotified in writing at least thirty (30)
+days prior to cancellation of, or any material change in, the insurance.”
+22.0 TERM AND TERMINATION.
+22.1 This Agreement shall be effective as of the Effective Date and, unless
+cancelled or terminated earlier in accordance with the terms hereof, shall continue in
+effect until September 30, 2002 (the “Initial Term”). Thereafter, this Agreement shall
+continue in force and effect unless and until cancelled or terminated as provided in this
+Agreement.
+22.2 Either Level 3 or BA may terminate this Agreement effective upon the expiration of the
+Initial Term or effective upon any date after expiration of the Initial Term by providing written
+notice of termination at least ninety (90) days in advance of the date of termination.
+22.3 Both Level 3 and BA shall have the .right to request negotiation of a new
+interconnection agreement at any time beginning January 1, 2002. Any such request must be
+provided to the other Party in writing and shall be deemed a request for negotiation under Section
+251 of the Act. If either Level 3 or BA provides notice of termination pursuant to Section 22.2
+and on or before the proposed date of termination either Level 3 or BA has requested negotiation
+of a new interconnection agreement, unless this Agreement is cancelled or terminated earlier in
+accordance with the terms hereof, this Agreement shall remain in effect during the “interim
+period” beginning on the proposed date of termination (which date shall not be earlier than
+SV033099
+62
+
+r nr c
+0 rc F k
+0
+I
+REDACTED – FOR PUBLIC INSPECTION

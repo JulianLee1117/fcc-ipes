@@ -1,0 +1,1876 @@
+J.G. Harrington Via Hand Delivery
++1 202 776 2818
+jgharrington@cooley.com
+REDACTED FOR PUBLIC INSPECTION
+November 5, 2020
+Marlene H. Dortch
+Secretary
+Federal Communications Commission
+445 12th Street, SW
+Washington, DC 20554
+RE: In the Matter of Midco Voice, LLC
+Application for Authorization to Obtain Numbering Resources Pursuant to
+Section 52.15(g) of the Commission's Rules
+WC Docket No. 20-___
+Request for Confidential Treatment Under the FCC’s Rules
+Dear Ms. Dortch:
+On behalf of Midco Voice, LLC (“Midco Voice”), attached please find an unredacted version of
+Midco Voice’s application for authorization to obtain numbering resources (the “Application”).1
+A redacted version of the Application was filed under separate cover. Pursuant to
+Sections 0.457(d) and 0.459 of the Commission’s rules, Midco Voice hereby requests that the
+Commission withhold from public inspection, and accord confidential treatment to, the
+information marked as confidential in the Application.
+The Application include sensitive commercial information regarding the operations of Midco
+Voice and the terms and conditions of its agreement with its competitive local exchange carrier
+partner for the provision of interconnection services used by Midco Voice to transmit voice calls
+to and from the public switched telephone network. Such information falls squarely within
+Section 0.457(d) of the Commission’s rules, as well as Exemption 4 of the Freedom of
+Information Act (“FOIA”),2 and thus should not routinely be made available for public
+1 Consistent with the Commission’s instructions, the Application is being filed without a docket
+number.
+2 See 5 U.S.C. § 552(b)(4).
+Cooley LLP 1299 Pennsylvania Avenue, NW, Suite 700 Washington, DC 20004-2400
+t: (202) 842-7800 f: (202) 842-7899 cooley.com
+
+REDACTED FOR PUBLIC INSPECTION
+Federal Communications Commission
+November 5, 2020
+Page 2
+inspection. Exemption 4 of FOIA provides that the statute’s public disclosure requirement “does
+not apply to matters that are (4) trade secrets and commercial or financial information obtained
+from a person and privileged or confidential.”3 The enclosed information should be afforded
+confidentiality under Exemption 4 because it is sensitive commercial information that is material
+to Midco Voice’s business. Such material customarily would not be released to the public by
+Midco Voice, and its release would cause substantial harm to Midco Voice’s competitive
+position.
+While Midco Voice believes that the confidential nature of the commercial information included
+in the Application automatically qualifies this submission as the type of record not routinely
+available for public inspection under Section 0.457(d) of the FCC’s rules, Midco Voice out of an
+abundance of caution also alternatively requests that this material be withheld from public
+inspection pursuant to Section 0.459, although by the terms of that rule, such a request should be
+“unnecessary.” Midco Voice seeks confidential treatment for the enclosed commercially
+sensitive information. This information is being provided to the Commission only, and Midco
+Voice has taken great care to prevent its unauthorized disclosure to unaffiliated third parties and
+it has not previously been provided to the Commission or any other regulator. None of the
+confidential information included in the Application currently is available to the public, and the
+information is not disclosed to third parties in the ordinary course of business.
+Please inform me if you have any questions about this matter.
+Very truly yours,
+J.G. Harrington
+Counsel to Midco Voice, LLC
+Enclosure
+3 Id. The Commission’s rules mirror this language. See 47 C.F.R. § 0.457(d).
+Cooley LLP 1299 Pennsylvania Avenue, NW, Suite 700 Washington, DC 20004-2400
+t: (202) 842-7800 f: (202) 842-7899 cooley.com
+
+REDACTED FOR PUBLIC DISCLOSURE
+Before the
+FEDERAL COMMUNICATIONS COMMISSION
+Washington, D.C. 20554
+In the Matter of )
+)
+Midco Voice, LLC. ) WC Docket No. 20-____
+)
+Application for Authorization to Obtain )
+Numbering Resources Pursuant to )
+Section 52.15(g) of the Commission's )
+Rules )
+APPLICATION OF MIDCO VOICE, INC. FOR
+AUTHORIZATION TO OBTAIN NUMBERING RESOURCES
+Midco Voice, Inc. (“Midco Voice”) pursuant to Section 52. l5(g)(3)(i) of the
+Commission's Rules, respectfully requests authorization to obtain numbering resources as
+described below.
+Under the Commission's VoIP Numbering Order, an interconnected VoIP provider
+will be authorized to obtain numbering resources from the Numbering Administrator after
+showing that it is authorized to provide service in the area for which the numbering
+resources are requested.1 The Commission will grant authorization if an applicant
+provides the information required by Section 52.15(g)(3)(i)(A)-(G) of the Commission's
+Rules. Midco Voice hereby requests the Commission grant it authorization to obtain
+numbering resources.
+1
+Numbering Policies for Modern Communications, Report and Order, 30 FCC Rcd 6839 (2015) (the “VoIP
+Numbering Order”).
+
+- 2 -
+In support of its application, Midco Voice provides the following information:
+I. INFORMATION REQUIRED BY SECTION 52.15(g)(3)(i)
+A. § 52.15(g)(3)(i)(A)
+Name: Midco Voice, LLC.
+Address: 3901 N. Louise Avenue
+Sioux Falls, SD 57106
+Telephone: 605-271-0594
+Contact for Regulatory Requirements, Compliance, 911 and Law Enforcement:
+Name: Nancy Vogel
+Address: Midco Voice, LLC
+3901 N. Louise Avenue
+Sioux Falls, SD 57106
+Telephone: 605-357-5485
+Facsimile: 605-330-4083
+B. § 52.15(g)(3)(i)(B)
+Midco Voice hereby acknowledges that authorization to obtain numbering resources
+under Section 52.15(g) of the Commission's Rules is subject to compliance with applicable
+Commission numbering rules and to any numbering authority delegated to the states. Midco
+Voice hereby also acknowledges that grant of the authorization sought by this application is
+subject to compliance with industry guidelines and practices regarding numbering, as
+applicable to telecommunications carriers.
+Midco Voice initially plans to use numbering resources to provide interconnected
+VoIP services in South Dakota. However, Midco Voice anticipates that it will provide VoIP
+services in other states as well, and will request numbers in those states after it initiates
+service in South Dakota. Accordingly, Midco Voice requests authority to obtain numbering
+REDACTED FOR PUBLIC DISCLOSURE
+
+- 3 -
+resources in all states.
+C. § 52.15(g)(3)(i)(C)
+Midco Voice acknowledges that it must file requests for numbers with the relevant
+state commissions at least (30) days before requesting numbers from the Numbering
+Administrator.
+D. § 52.15(g)(3)(i)(D)
+Midco Voice will be capable of providing service within (60) days of the numbering
+resources activation date in accordance with Commission Rule Section
+52.15(g)(2).2
+Midco
+Voice intends to initially provide VoIP services in South Dakota under an agreement with a
+CLEC partner to route Midco Voice’s traffic to and from the PSTN. A copy of this
+agreement is attached as Exhibit A to this Application. Midco Voice respectfully requests this
+agreement be according confidential treatment, pursuant to §0.459 of the Commission's rules. 3
+As described in the agreement, the CLEC partner will host Midco Voice's numbers on its
+switches and provide connectivity to the PSTN for inbound calls to Midco Voice numbers.
+The CLEC partner already has interconnection arrangements in South Dakota. Exhibit B is
+an example of a current interconnection agreement between Midco Voice’s carrier partner
+and an incumbent local exchange carrier (“ILEC”).
+Midco Voice will serve both residential and business customers. Its service will offer
+features comparable to or better than those offered by its competitors in South Dakota and
+will be capable of serving customers of all sizes. Midco Voice will be operated by a team
+with decades of experience in providing local telephone service, and will have access to the
+2 47 C.F.R. § 52.15(g)(2).
+3 The agreement is being filed under the Commission’s confidentiality rules because it contains trade secret
+information and disclosure of that information would cause economic harm to Midco Voice. See 47 C.F.R. § 0.459.
+REDACTED FOR PUBLIC DISCLOSURE
+
+- 4 -
+expertise of its parent company, Midcontinent Communications. Consequently, Midco Voice
+has the managerial and technical expertise to provide services within the 60-day period
+mandated by the rules.
+E. § 52.15(g)(3)(i)(E)
+Midco Voice certifies that it complies with its Universal Service Fund contribution
+obligations under 47 CFR part 54, subpart H, its Telecommunications Relay Service
+contribution obligations under 47 CFR § 64.604(c)(5)(iii), its North American Numbering
+Plan and Local Number Portability Administration contribution obligations under 47 CFR
+§§ 52.17 and 52.32, its obligations to pay regulatory fees under 47 CFR § 1.1154, and its
+911 obligations under 47 CFR part 9.
+F. § 52.15(g)(3)(i)(F)
+Midco Voice certifies that it has the financial, managerial, and technical expertise
+to provide reliable service. As a subsidiary of Midcontinent Communications, which has
+been providing telecommunications services for decades, and which is the leading CLEC
+in the Dakotas, it has an experienced management team with substantial experience in
+the telecommunications industry, sufficient technical expertise and infrastructure in place
+to provide reliable services, and is financially stable. Midco Voice's key management and
+technical personnel are listed below.
+Chief Technology Officer: Jon Pederson
+Mr. Pederson has been with Midco 35 years and was responsible for deploying
+the first cable modem system in the Upper Midwest.
+SVP & Gen Counsel: Patrick J Mastel
+Mr. Mastel has been in the telecommunications industry for 21 years and has
+worked with the telephone regulatory environment for that entire time.
+REDACTED FOR PUBLIC DISCLOSURE
+
+- 5 -
+Director of Regulatory Finance: Nancy Vogel
+Ms. Vogel has been with Midco for 34 years and was instrumental in integrating
+the voice product into Midco’s product offerings.
+Director of Voice & Mobility: Patrick Miller
+Mr. Miller is a proven leader with a degree in Electrical Engineering and over 20
+years of telecommunications and IT experience working in both a traditional
+TDM-based and Converged IP network environments. He has extensive
+background in voice services in switch routing, traffic management, Hosted VoIP
+solutions, TDM delivery, and SIP services.
+None of these individuals is being or has been investigated by the Commission or any law
+enforcement or regulatory agency for failure to comply with any law, rule, or order.
+G. § 52.15(g)(3)(i)(G)
+Midco Voice certifies that no party to this application is subject to a denial of
+Federal benefits pursuant to Section 5301 of the Anti-Drug Abuse Act of 1988, 21
+U.S.C. § 862. See Exhibit C.
+II. ACKNOWLEDGEMENT OF CONDITIONS IN SECTION 52.15(g)(3)(iv)
+As required by Section 52.15(g)(3)(iv), Midco Voice will maintain the accuracy
+of all contact information and certifications in this Application and will file any changes
+with the Commission and each applicable state within 30 days of any changes. Midco
+Voice also will provide each the state commission in each state where it provides service
+with accurate regulatory and numbering contact information when requesting numbers in
+that state.
+REDACTED FOR PUBLIC DISCLOSURE
+
+- 6 -
+III. CONCLUSION
+Midco Voice respectfully requests the Commission grant this Application for
+authorization to obtain numbering resources directly from the Numbering Administrators.
+Respectfully submitted,
+MIDCO VOICE, LLC
+By:_______________________
+J.G. Harrington
+Its Attorney
+Cooley LLP
+1299 Pennsylvania Avenue, NW
+Suite 700
+Washington, DC 20004
+202-776-2818
+jgharrington@cooley.com
+November 5, 2020
+REDACTED FOR PUBLIC DISCLOSURE
+
+Exhibit A
+Agreement with Partner CLEC
+[Exhibit redacted in its entirety]
+REDACTED FOR PUBLIC DISCLOSURE
+
+Exhibit B
+Partner CLEC Interconnection Agreement
+REDACTED FOR PUBLIC DISCLOSURE
+
+7
+319 South Coteau Street
+P.O. Box 280
+RiterRogers Pierre, SD 57501
+Phone; 605-224-5825
+Law Office
+Fax: 605-224-7102
+March 16, 2016 www. riterlaw. corn
+Pat Mastel
+Corporate Counsel
+Midcontinent Communications
+3901 N. Louise Ave.
+Sioux Falls, SD 57107
+Re: TC 16-004 Interconnection Agreement between Venture
+and Midcontinent
+Dear Pat:
+Please find enclosed herewith the Interconnection Agreement between Venture and
+Midcontinent, with original signature page. As you are aware, the case has been docketed and
+initial comments are due March 29, 2016. Hopefully the approval will proceed smoothly.
+Sincerely yours,
+RITER, ROGERS, WATTIER &
+NORTHRUP, LLP
+By: I^U fa^U^^'^f^
+Darla Pollman Rogers
+DPR-wb
+Enclosure
+Robert C. Riter, Jr Dark Pollman Rogers Jerry L. Wattier
+Margo D. Northrup Lindsey Riter-Rapp Robert D. Hofer, Of Counsel
+Riter, Rogers, Watder & Northrup, LLP
+REDACTED FOR PUBLIC DISCLOSURE
+
+INTERCONNECTION AGREEMENT
+BETWEEN
+VENTURE COMMUNICATIONS COOPERATIVE
+AND
+Midcontinent Communications
+REDACTED FOR PUBLIC DISCLOSURE
+
+General Terms and Conditions
+TABLE OF CONTENTS
+1. Purpose
+2. Term of the Agreement
+3. Termination of the Agreement
+4. Contact Exchange
+5. Amendments
+6. Assignment
+7. Authority
+8. INTENTIONALLY LEFT BLANK
+9. Billing and Payment
+10. Compliance with Laws and Regulations
+11. Confidential Information
+12. Fraud
+13. Dispute Resolution
+14. Entire Agreement
+15. Expenses
+16. Force Majeure
+17. Good Faith Performance
+18. Governing Law
+19. Headings
+20. Independent Contractor Relationship
+21. Law Enforcement Interface
+22. Liability and Indemnity
+23. Joint Work Product
+24. Multiple Counterparts
+25. No Third Party Beneficiaries
+26. Notices
+27. Impairment of Service
+28. Change in Law
+29. Regulatory Approval
+30. Taxes and Fees
+31. Trademarks and Trade Names
+32. Non-Waiver
+33. Bankruptcy
+11
+REDACTED FOR PUBLIC DISCLOSURE
+
+General Terms and Conditions
+GLOSSARY
+ATTACHMENTS:
+• Interconnection Attachment
+• Local Number Portability Attachment
+• Ancillary Services Attachment
+• Preordering, Ordering, Maintenance and Repair Attachment
+• Pricing Attachment
+• Exhibit 1
+Ill
+REDACTED FOR PUBLIC DISCLOSURE
+
+General Terms and Conditions
+INTERCONNECTION AGREEMENT
+THIS AGREEMENT ("Agreement") is effective upon approval by the Commission (the
+"Effective Date"), and is entered into by and between Midcontinent Communications ("CLEC")
+with offices at 3901 North Louise Avenue, Sioux Falls, SD 57107 and Venture Communications
+Cooperative ("ILEC") with offices at 218 Commercial Ave., SE, P.O. Box 157, Highmore, SD
+57345. This Agreement may refer to either Venture or Midcontinent or both as a "Party" or
+"Parties."
+WHEREAS, ILEC is an Incumbent Local Exchange Carrier, as defined in Section 25 l(h)
+of the Act (47 U.S.C. § 251(h)), authorized to provide Telecommunications Services in the State
+of South Dakota and
+WHEREAS, CLEC is a competitive local exchange telecommunications company
+authorized to provide Telecommunications Services in the Bowdle, Roslyn, Selby, Java and
+Roscoe exchanges in the State of South Dakota; and
+WHEREAS, CLEC represents to ILEC that it is a common carrier under the Act and,
+acting as a common carrier, has requested interconnection with designated facilities ofILEC; and
+WHEREAS, the Parties agree to interconnect their facilities and exchange
+telecommunications traffic specifically as defined herein; and
+WHEREAS, the Parties agree that capitalized terms not otherwise defined in this
+Agreement shall be assigned the meanings given to such term(s) by the Glossary, attached hereto
+and incorporated herein for all purposes.
+NOW THEREFORE, in consideration of the mutual agreements contained herein, ILEC
+and CLEC agree as follows:
+1. Purpose
+1.1 The Parties agree that the rates, terms and conditions contained within this
+Agreement, including all Attachments, are reasonable.
+1.2 ILEC has no obligation to establish interconnection service arrangements to
+enable CLEC to exchange solely non-telecommunications traffic or to act in any
+capacity other than as a common carrier. CLEC agrees that it is requesting and
+will use this arrangement for the purpose of exchanging telecommunications
+traffic and that any exchange of non-telecommunications traffic including
+Information Service traffic or VoIP will be incidental to the Parties' exchange of
+telecommunications traffic. Any traffic outside the definition of Local/EAS shall
+be treated as toll traffic.
+1.3 CLEC agrees that it is requesting and will use this arrangement for the sole
+purpose of exchanging Local/EAS Traffic and that any exchange of toll traffic
+will be subject to the appropriate terms and conditions of each Party s access
+tariffs.
+REDACTED FOR PUBLIC DISCLOSURE
+
+General Terms and Conditions
+2. Term of the Agreement
+2.1 This Agreement will commence upon approval by the Commission and has an
+initial term of three (3) years.
+2.2 The Parties agree that no earlier than one hundred eighty (180) days and no later
+than one hundred twenty (120) days prior to the expiration of this Agreement,
+either Party will have the right to request the negotiation of a subsequent
+agreement. Such requests for renegotiation must be in the form of a written
+notice to the other Party ("Renegotiation Request"). If a Party requests the
+negotiation of a subsequent agreement and the Parties are unable to negotiate a
+subsequent agreement within one hundred thirty-five (135) days after receipt of
+the Renegotiation Request, either Party may petition the Commission to establish
+appropriate terms, conditions and prices for the subsequent agreement pursuant to
+Section 252 of the Act (47 U.S.C. § 252). During the pendency of any
+proceedings initiated by a Party under Section 252 of the Act and until the
+Commission issues its decision approving the subsequent agreement resulting
+from such proceedings, the Parties will continue to provide services to each other
+pursuant to this Agreement.
+2.3 If no Party requests renegotiation, but services continue to be provided beyond the
+expiration date of this Agreement, this Agreement shall be deemed extended on a
+month-to-month basis. Upon conversion to a month-to-month term, either Party
+may terminate this Agreement upon ninety (90) days written notice to the other
+Party if traffic will no longer be exchanged; provided, however, that this
+Agreement cannot be terminated prior to ninety (90) days after the original
+expiration date.
+2.4 In the event that services are provided on a month-to-month basis beyond the term
+of this Agreement, the rates, at ILEC's option, may be increased to the rates
+provided by ILEC's then current Tariffs, price sheets, price catalog or
+interconnection agreements. ILEC shall continue to offer all services to CLEC
+previously available under this Agreement pursuant to the terms and conditions
+herein provided.
+2.5 If the Agreement has not been implemented one year after the Effective Date or if
+the Parties cease the exchange of traffic then either Party may terminate this
+Agreement upon sixty (60) days written notice to the other Party. In addition,
+ILEC reserves the right to terminate this Agreement immediately upon notice
+from or verification by the CLEC that it has ceased offering Local Exchange
+Service in the Venture exchanges of Bowdle, Roslyn, Selby, Java and Roscoe. In
+addition to notice or verification from CLEC, ILEC may utilize any publicly
+available information in concluding that CLEC is no longer providing local
+telecommunications in the Venture exchanges of Bowdle, Roslyn, Selby, Java and
+Roscoe or that CLEC's authority to provide local telecommunications in the
+Venture exchanges of Bowdle, Roslyn, Selby, Java and Roscoe has been revoked
+or terminated, and immediately terminate this Agreement.
+3. Termination of the Agreement
+REDACTED FOR PUBLIC DISCLOSURE
+
+General Terms and Conditions
+3.1 Termination for Default Not Cured Within Thirty (3 0) Days
+Either Party may terminate this Agreement in whole or in part in the event of a
+default by the other Party; provided however, that the non-defaulting Party
+notifies the defaulting Party in writing of the alleged default and that the
+defaulting Party does not cure the alleged default within thirty (30) calendar days
+of receipt of written notice thereof. Default means any one or more of the
+following:
+3.1.1 A Party's refusal or failure in any material respect to perform its
+obligations under this Agreement, or the violation of any of the material
+terms or conditions of this Agreement; or
+3.1.2 A Party's assignment of any right, obligation, or duty, in whole or in part,
+or of any interest, under this Agreement without any consent required
+under Section 6 of this Attachment.
+3.1.3 CLEC is adjudicated to not be a Telecommunications Carrier under the
+Act.
+3.1.4 CLEC is adjudicated to not be a common carrier by the Commission or a
+court of competent jurisdiction
+3.2 Termination for Insolvency or Bankruptcy
+3.2.1 This Agreement is immediately terminated upon a Party becoming
+insolvent or upon the initiation of a voluntary bankruptcy proceeding.
+3.2.2 In the event that an involuntary bankruptcy or receivership proceeding is
+initiated against a Party, this Agreement shall terminate unless such
+proceeding is set aside within thirty (30) days.
+3.3 Liability Upon Termination
+Termination of this Agreement, or any part hereof, for any cause shall not release
+either Party from any liability which at the time of termination had already
+accrued to the other Party, or which thereafter accrues in any respect to any act or
+omission occurring prior to the termination or from an obligation which is
+expressly stated in this Agreement to survive termination.
+Contact Exchange
+The Parties agree that each will be sole contact to the other Party for all services provided
+under this Agreement. The Parties agree that there is no obligation to respond to requests
+from third parties for information or services offered under this Agreement. The Parties
+agree to exchange and to update contact and referral numbers for order inquiry, trouble
+reporting, billing inquiries, and information required to comply with law enforcement and
+other security agencies of the government.
+REDACTED FOR PUBLIC DISCLOSURE
+
+General Terms and Conditions
+5. Amendments
+Any amendment, modification, or supplement to this Agreement must be in writing and
+signed by an authorized representative of each Party. The term "this Agreement" shall
+include future amendments, modifications, and supplements.
+6. Assignment
+This Agreement shall be binding upon the Parties and shall continue to be binding upon
+such entities regardless of any subsequent change in their ownership. All obligations and
+duties of any Party under this Agreement shall be binding on all successors in interest and
+assigns of such Party. Each Party covenants that, if it sells or otherwise transfers its
+facilities used to provide services under this Agreement to a third party, unless the non-
+transferring Party reasonably determines that the legal structure of the transfer vitiates
+any such need, the transferring Party will require, as a condition of such transfer, that the
+transferee agree to be bound by all terms of this Agreement with respect to services
+provided over the transferred facilities pursuant to the terms of this Agreement. If any
+sale or transfer of CLEC or facilities used to provide services under this Agreement is to
+an entity that is not a CLEC authorized to provide local service in the Venture exchanges
+of Bowdle, Roslyn, Selby, Java and Roscoe, this Agreement is terminated. Except as
+provided in this paragraph, neither Party may assign or transfer (whether by operation of
+law or otherwise) this Agreement (or any rights or obligations hereuader) to a third party
+without the prior written consent of the other Party which consent will not be
+unreasonably withheld or delayed. Any Party asked to consent to an assignment shall be
+expressly permitted to require (i) proof of financial strength of the proposed assignee
+reasonably necessary to support the obligations of this Agreement being assumed or (ii)
+investigation of prior complaints filed against or adjudicated against the proposed
+assignee. Notwithstanding the foregoing, either Party may assign this Agreement to a
+wholly owned corporate Affiliate by providing prior written notice to the other Party of
+such assignment or transfer and provided that the assigning entity agrees to remain
+personally liable to the other Party for all obligations assigned by it. The effectiveness of
+an assignment shall be conditioned upon the assignee's written assumption of the rights,
+obligations, and duties of the assigning Party. Any attempted assignment or transfer that
+is not permitted is void ab initio. No assignment or delegation hereof shall relieve the
+assignor of its obligations under this Agreement in the event that the assignee fails to
+perform such obligations. Without limiting the generality of the foregoing, this
+Agreement shall be binding upon and shall inure to the benefit of the Parties and their
+respective successors, successors in interest and assigns.
+7. Authority
+Each person whose signature appears on this Agreement represents and warrants that he
+or she has authority to bind the Party on whose behalf he or she has executed this
+Agreement. Each Party represents that he or she has had the opportunity to consult with
+legal counsel of his or her choosing,
+8. INTENTIONALLY LEFT BLANK
+REDACTED FOR PUBLIC DISCLOSURE
+
+General Terms and Conditions
+9. Billing and Payment
+9.1 In consideration of the services and facilities provided under this Agreement, each
+Party shall bill the other Party on a monthly basis all applicable charges set forth
+in this Agreement or, if not set forth herein, in their respective applicable tariff(s).
+The Party billed ("Billed Party") shall pay to the invoicing Party ("Billing Party")
+all undisputed amounts within thirty (30) days from the bill date. If the payment
+due date is a Saturday, Sunday, or a designated bank holiday, payment shall be
+made by the prior business day. Neither Party shall back bill the other Party for
+services provided under this Agreement that are more than two (2) years old or
+that predate this Agreement. If a Party fails to bill for a service within two (2)
+years of when it was rendered, then that Party waives its rights to bill for that
+service, absent fraud or willful misconduct by the Billed Party.
+9.2 Billing Disputes Related to Unpaid Amounts
+9.2.1 If any portion of an amount invoiced to a Billed Party under this
+Agreement is subject to a bona fide dispute between the Parties, the Billed
+Party may withhold payment of the disputed amount and notify the Billing
+Party it is withholding a disputed amount and the amount it is disputing
+("Disputed Amount") within thirty (30) days of its receipt of the invoice
+containing such Disputed Amount. A bona fide dispute requires the Billed
+Party to provide the specific details and reasons for disputing each item.
+The Billed Party shall pay when due all undisputed amounts on the invoice
+to the Billing Party. The Parties will work together in good faith to
+resolve issues relating to the disputed amounts. If the dispute is resolved
+such that payment is required, the Billed Party shall pay the disputed
+amounts with interest at the highest rate of interest that may be charged
+under South Dakota's applicable law. In addition, the Billing Party may
+suspend terminating traffic for the Billed Party if Disputed Amounts
+resolved to be due to the Billing Party are not paid within thirty (30) days
+after they are determined to be due. If the dispute is resolved such that
+payment is not required, the Billing Party will reflect the change for the
+Disputed Amounts on its next invoice following the date of resolution of
+the dispute.
+9.3 Except for Disputed Amounts pursuant to Section 9.2 herein, the following shall
+apply:
+9.3.1 Any undisputed amounts not paid when due shall accrue interest from the
+date such amounts were due at the highest rate of interest that may be
+charged under South Dakota's applicable law.
+9.3.2 If payment of undisputed amounts is not received thirty (30) days from the
+bill date, the Billing Party may provide written notice to the Billed Party
+that additional applications for service will be refused, and that any
+pending orders for service will not be completed until payment is made. If
+the Billing Party does not immediately refuse additional applications for
+service as specified in the notice, and the Billed Party's noncompliance
+continues, nothing contained herein shall preclude the Billing Party's right
+REDACTED FOR PUBLIC DISCLOSURE
+
+General Terms and Conditions
+to thereafter refuse additional applications for service without further
+notice.
+9.3.3 If, following the notice under Section 9.3.2, the Billed Party fails to pay all
+amounts due within thirty (30) days, the Billing Party may thereafter, on
+thirty (30) days prior written notice to the Billed Party (the
+"Discontinuance Notice"), discontinue the provision of existing services to
+the Billed Party. Notice shall be as provided in Section 26 below. In the
+event services are discontinued, all billed charges, as well as applicable
+termination charges, if any, shall become due. If the Billing Party does
+not discontinue the provision of service on the date specified in the
+Discontinuance Notice, and the Billed Party's noncompliance continues,
+nothing contained herein shall preclude the Billing Party's right to
+thereafter discontinue the provision of service to the Billed Party without
+further notice.
+9.3.4 If payment is not received within ninety (90) days after the
+Discontinuance Notice given under Section 9.3.3, the Billing Party may
+terminate this Agreement.
+9.3.5 After disconnect procedures have begun, the Billing Party shall not accept
+any service orders from the Billed Party until all unpaid charges are paid
+in full and such funds are available to the Billing Party.
+9.4 Billing Disputes of Paid Amounts
+If any portion of an amo'.-mt paid to a Billing Party under this Agreement is
+thereafter subject to a bona fide dispute by the Billed Party ("Disputed Paid
+Amount"), the Billed Party may provide written notice to the Billing Party of the
+Disputed Paid Amount, and seek a refund of such amount, at any time prior to the
+date that is two (2) years after the receipt of a bill containing the Disputed Paid
+Amount ("Notice Period"). If the Billed Party fails to provide written notice of a
+Disputed Paid Amount within the Notice Period, the Billed Party waives its rights
+to dispute its obligations to pay such amount, and to seek refund of such amount,
+absent fraud or willful misconduct by the Billing Party. If it is determined that the
+Billed Party is entitled to a refund of all or part of the Disputed Paid Amount, the
+Billing party will, within sixty (60) days after such determination, refund such
+amount, together with interest from the date written notice of the Disputed Paid
+Amount was given at the interest rate set forth in Section 9.2.1 hereof.
+9.5 Issues related to Disputed Amounts and Disputed Paid Amounts not resolved by
+the Parties shall be resolved in accordance with all of the applicable procedures
+identified in the Dispute Resolution provisions set forth in Section 13 of this
+Agreement.
+9.6 Audits
+9.6.1 Subject to each Party's reasonable security requirements and except as
+may be otherwise specifically provided in this Agreement, either Party
+may audit the other Party's relevant books, records and other documents
+pertaining to services provided under this Agreement once in each
+Contract Year and/or following termination of the Agreement to evaluate
+REDACTED FOR PUBLIC DISCLOSURE
+
+General Terms and Conditions
+the accuracy of the other Party's billing, data and invoicing, including
+usage data, source data, and other information and documents in
+accordance with this Agreement. The relevant books, records and other
+documents include, but are not limited to, usage data, source data, traffic
+reports and associated data (including such traffic reports and associated
+data from Retail Providers) and other information and documents in
+accordance with this Agreement. Such audit will take place at a time and
+place agreed on by the Parties no later than sixty (60) days after notice
+thereof.
+9.6.2 Any audit shall be performed as follows: (i) following at least thirty (30)
+days prior written notice to the audited Party; (ii) subject to the reasonable
+scheduling requirements and limitations of the audited Party and at single
+location designated by the audited party; (iii) at the auditing Party's sole
+cost and expense; (iv) of a reasonable scope and duration; (v) in a manner
+so as not to interfere with the audited Party's business operations; and (vi)
+in compliance with the audited Party's security rules. The review will
+consist of an examination and verification of data involving usage data,
+records, systems, procedures -and other information related to the traffic
+delivered or services performed by either Party as related to settlement
+charges or payments made in connection with this Agreement as
+determined by either Party to be reasonably required. Each Party shall
+maintain reasonable records for a minimum of twenty-four (24) months
+and provide the other Party with reasonable access to such information as
+is necessary to determine amounts receivable or payable under this
+Agreement. Such records shall include usage records for the traffic
+delivered by the Party to the Other Party.
+9.6.3 Each Party will cooperate fully in any such audit, providing reasonable
+access to any and all appropriate employees, subcontractors and other
+agents and books, records and other documents reasonably necessary to
+assess the accuracy of the Party's billings, data and invoices
+10. Compliance with Laws and Regulations
+Each Party shall comply with all federal, state, and local statutes, regulations, rules,
+ordinances, judicial decisions, and administrative rulings applicable to its performance
+under this Agreement.
+11. Confidential Information
+11.1 Any information such as specifications, drawings, sketches, business information,
+forecasts, models, samples, data, computer programs and other software, and
+documentation of one Party (a "Disclosing Party") that is furnished or made
+available or otherwise disclosed to the other Party or any of its employees (except
+marketing and sales staff who shall not be provided such access), contractors, or
+agents (its "Representatives" and with a Party, a "Receiving Party") pursuant to
+this Agreement ("Proprietary Information") shall be deemed the property of the
+Disclosing Party. Proprietary Information, if written, shall be clearly and
+REDACTED FOR PUBLIC DISCLOSURE
+
+General Terms and Conditions
+conspicuously marked "Confidential" or "Proprietary" or other similar notice,
+and, if oral or visual, shall be confirmed in writing as confidential by the
+Disclosing Party to the Receiving Party upon disclosure. Unless Proprietary
+Information was previously known by the Receiving Party free of any obligation
+to keep it confidential, or has been or is subsequently made public by an act not
+attributable to the Receiving Party, or is explicitly agreed in writing not to be
+regarded as confidential, such information: (i) shall be held in confidence by each
+Receiving Party; (ii) shall be disclosed to only those persons who have a need for
+it in connection with the provision of services required to fulfill this Agreement
+and shall be used by those persons only for such purposes; and (iii) may be used
+for other purposes only upon such terms and conditions as may be mutually
+agreed to in advance of such use in writing by the Parties. Notwithstanding the
+foregoing sentence, a Receiving Party shall be entitled to disclose or provide
+Proprietary Information as required by any governmental authority or applicable
+law, upon advice of counsel, only in accordance with Section 11.2 of this
+Agreement. Nothing herein shall prohibit or restrict a Receiving Party from
+providing Proprietary Information in response to a request of the FCC or a state
+regulatory agency with jurisdiction over this matter, or to support a request for
+arbitration, or in connection with Dispute Resolution, provided that the Disclosing
+Party is first given the opportunity to seek appropriate relief under the provisions
+of Section 11.2.
+11.2 If any Receiving Party is required by any governmental authority, or by
+Applicable Law, to disclose any Proprietary Information, or believes it is
+necessary to disclose Proprietary Information pursuant to Section 11.1 above, then
+such Receiving Party shall provide the Disclosing Party with written notice of
+such requirement as soon as possible and prior to such disclosure. The Disclosing
+Party may then seek appropriate protective relief from all or part of such
+requirement. The Receiving Party may disclose the Proprietary Information
+within the time required by the governmental authority or Applicable Law,
+provided that the Disclosing Party has been provided with written notice under
+this section 11.2 and protective relief has not been obtained by the Disclosing
+Party.
+11.3 In the event of the expiration or termination of this Agreement for any reason
+whatsoever, each Party shall return to the other Party or destroy all Proprietary
+Information and other documents, work papers and other material (including all
+copies thereof) obtained from the other Party in connection with this Agreement
+and shall use all reasonable efforts, including instructing its employees and others
+who have had access to such information, to keep confidential and not to use any
+such information, unless such information is now, or is hereafter disclosed,
+through no act, omission or fault of such Party, in any manner making it available
+to the general public.
+12. Fraud
+Neither Party shall bear responsibility for, nor be required to make adjustments to the
+other Party's account, in cases of fraud by the other Party's End User Customers or on
+REDACTED FOR PUBLIC DISCLOSURE
+
+General Terms and Conditions
+the other Party's End User Customer accounts. The Parties agree to reasonably cooperate
+with each other to detect, investigate, and prevent fraud and to reasonably cooperate with
+law enforcement investigations concerning fraudulent use of the other Party's services or
+network. The Parties' fraud minimization procedures are to be cost effective and
+implemented so as not to unduly burden or harm one Party as compared to the other.
+13. Dispute Resolution
+The Parties desire to resolve disputes arising out of or relating to this Agreement without,
+to the extent possible, litigation, Accordingly, except for action seeking a temporary
+restraining order or an injunction, or suit to compel compliance with this dispute
+resolution process, the Parties agree to use the following dispute resolution procedures
+with respect to any controversy or claim arising out of or relating to this Agreement or its
+breach.
+13.1 Informal Resolution of Disputes
+At the written request of a Party, each Party will appoint a knowledgeable,
+responsible representative, empowered to resolve such dispute, to meet and
+negotiate in good faith to resolve any dispute arising out of or relating to this
+Agreement. The location, format, frequency, duration, and conclusion of these
+discussions shall be left to the discretion of the representatives. Upon agreement,
+the representatives may utilize other alternative dispute resolution procedures
+such as mediation to assist in the negotiations. Discussions and correspondence
+among the representatives for purposes of these negotiations shall be treated as
+Proprietary Information developed for purposes of settlement, exempt from
+discovery, and shall not be admissible in the arbitration described below or in any
+lawsuit without the concurrence of all Parties.
+13.2 Formal Dispute Resolution
+If negotiations fail to produce an agreeable resolution within ninety (90) days,
+then either Party may proceed with any remedy available to it pursuant to law,
+equity or agency mechanisms; provided, that upon mutual agreement of the
+Parties, such disputes may also be submitted to binding arbitration. In the case of
+an arbitration, each Party shall bear its own costs. The Parties shall equally split
+the fees of any mutually agreed upon arbitrator but shall otherwise pay their own
+expenses associated with the arbitration.
+13.3 Continuous Service
+The Parties shall continue providing existing services to each other during the
+pendency of any dispute resolution procedure (except as otherwise provided in
+this Agreement), and the Parties shall continue to perform their payment
+obligations including making payments in accordance with this Agreement,
+14. Entire Agreement
+This Agreement, together with all exhibits, addenda, schedules and attachments hereto,
+constitutes the entire agreement of the Parties pertaining to the subject matter of this
+Agreement and supersedes all prior agreements, negotiations, proposals, and
+REDACTED FOR PUBLIC DISCLOSURE
+
+General Terms and Conditions
+representations, whether written or oral, and all contemporaneous oral agreements,
+negotiations, proposals, and representations concerning such subject matter. No
+representations, understandings, agreements, or warranties, expressed or implied have
+been made or relied upon in the making of this Agreement other than those specifically
+set forth herein. In the event there is a conflict between any term of this Agreement, the
+provisions shall be construed to give the greatest possible effect to the intent of this
+Agreement.
+15. Expenses
+Except as specifically set out in this Agreement, each Party shall be solely responsible for
+its own expenses involved in all activities related to the subject of this Agreement.
+16. Force Majeure
+Neither Party shall be liable for any delay or failure in performance of any part of this
+Agreement from any cause beyond its control and without its fault or negligence
+including, without limitation, acts of nature, acts of civil or military authority,
+government regulations, embargoes, epidemics, terrorist acts, riots, insurrections, fires,
+explosions, earthquakes, nuclear accidents, floods, equipment failure, power blackouts,
+volcanic action, other major environmental disturbances, unusually severe weather
+conditions, inability to secure products or services of other persons or transportation
+facilities or acts or omissions of transportation carriers (collectively, a "Force Majeure
+Event"). Notwithstanding the foregoing, the Parties have expressly agreed that the acts
+of any Retail Provider contracting, directly or indirectly, with CLEC for use of the
+services provided under this Agreement shall be deemed to be within CLEC's control and
+shall not be a Force Majeure Event. If any Force Majeure Event occurs, the Party
+delayed or unable to perform shall give immediate notice to the other Party and shall take
+all reasonable steps to correct the condition resulting from the Force Majeure Event.
+During the pendency of the Force Majeure Event, the duties of the Parties under this
+Agreement affected by the Force Majeure Event shall be abated and shall resume
+immediately without liability thereafter.
+17. Good Faith Performance
+In the performance of their obligations, the Parties shall act in good faith under this
+Agreement. In situations in which notice, consent, approval, or similar action by a Party
+is permitted or required by any provision of this Agreement, such action shall not be
+conditional, unreasonably withheld, or delayed.
+18. Governing Law and Venue
+This Agreement shall be governed by and construed and enforced in accordance with the
+laws of the State of South Dakota without regard to its conflict of laws principles and,
+when applicable, in accordance with the requirements of the Act and the FCC's
+implementing regulations. Any legal proceedings shall be brought in the state or federal
+courts as appropriate in the state of South Dakota.
+19. Headings
+The headings in this Agreement are inserted for convenience and identification only and
+shall not be considered in the interpretation of this Agreement.
+10
+REDACTED FOR PUBLIC DISCLOSURE
+
+General Terms and Conditions
+20. Independent Contractor Relationship
+Notwithstanding any other provisions of this Agreement, neither this Agreement, nor any
+actions taken by CLEC or ILEC in compliance with this Agreement, shall be deemed to
+create an agency or joint venture relationship between CLEC and ILEC, or any
+relationship other than that ofco-carriers. Neither this Agreement, nor any actions taken
+by CLEC or ILEC in compliance with this Agreement, shall create a contractual, agency,
+or any other type of relationship or third party liability between either Party and the other
+Party's End User Customers or other third parties.
+21. Law Enforcement Interface
+21.1 With respect to requests for call content interception or call information
+interception directed at CLEC's End User Customers, ILEC will have no direct
+involvement in law enforcement interface. In the event a Party receives a law
+enforcement surveillance request for an End User Customer of the other Party, the
+Party initially contacted shall direct the agency to the other Party.
+21.2 Notwithstanding 21.1, the Parties agree to work jointly, as necessary, in security
+matters to support law enforcement agency requirements for call content
+interception or call information interception.
+22. Liability and Indemnity
+22.1 DISCLAIMER
+EXCEPT AS SPECIFICALLY PROVIDED TO THE CONTRARY IN THIS
+AGREEMENT, EACH PARTY MAKES NO REPRESENTATIONS OR
+WARRANTIES TO THE OTHER PARTY CONCERNING THE SPECIFIC
+QUALITY OF ANY SERVICES OR FACILITIES IT PROVIDES UNDER
+THIS AGREEMENT. EACH PARTY DISCLAIMS, WITHOUT
+LIMITATION, ANY WARRANTY OR GUARANTEE OF
+MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE,
+ARISING FROM COURSE OF PERFORMANCE, COURSE OF
+DEALING, OR FROM USAGES OF TRADE.
+22.2 Indemnification
+22.2.1 Each Party (the "Indemnifying Party") shall indemnify and hold harmless
+the other Party ("Indemnified Party") from and against claims for loss,
+cost, liability, damage, and expense (including reasonable attorney's fees)
+("Claims") by customers of the Indemnifying Party and other third
+persons, for:
+(1) damage to tangible personal property or for personal injury
+proximately caused by the negligence, willful misconduct or intentional
+acts or omissions of the Indemnifying Party or its employees, agents,
+contractors or End User Customers; and
+(2) libel, slander, infringement of copyright, or invasion of privacy arising
+from the content of communications transmitted over the Indemnified
+11
+REDACTED FOR PUBLIC DISCLOSURE
+
+General Terms and Conditions
+Party's facilities by the Indemnifying Party or its employees, agents,
+contractors or End User Customers.
+A Party's indemnification obligations hereunder shall not be applicable to any
+Claims to the extent caused by, arising out of or in connection with the gross
+negligence, willful misconduct or intentional acts or omissions of the Indemnified
+Party.
+22.2.2 In addition to the indemnities in Section 22.2.1 above, CLEC shall
+indemnify and hold harmless ILEC from and against claims for loss, cost,
+liability, damage, and expense (including reasonable attorney's fees)
+("Claims") caused to ILEC by any third party using CLEC to deliver
+traffic to or receive traffic from ILEC's facilities, including claims
+resulting from rate arbitrage, phantom traffic, toll fraud or failure to
+provide valid, accurate and complete CPN on all traffic subject to this
+Agreement so that ILEC is compensated in full for such exchanged traffic
+in accordance with the terms of this Agreement. ILEC will notify CLEC
+of information it has received or discovered which appear to trigger this
+indemnity obligation and provide back-up to support its concerns. CLEC
+will have thirty (30) days to respond to such concerns, and, to the extent
+such claims are shown to be valid, shall reimburse ILEC promptly for all
+loss incurred by ILEC. In addition, CLEC shall take immediate steps to
+prevent future problems from the offending third party(s) to the extent
+they can be identified.
+22.2.3 The Indemnified Party will notify the Indemnifying Party promptly in
+writing of any Claims for which the Indemnified Party alleges that the
+Indemnifying Party is responsible under this Section, and, the
+Indemnifying Party will promptly assume the defense of such Claim.
+(1) In the event the Indemnifying Party does not promptly assume or
+diligently pursue the defense of the tendered action, then the
+Indemnified Party, after no less than ten (10) days prior notice to the
+Indemnifying Party, may proceed to defend or settle said Claim and the
+Indemnifying Party shall hold harmless the Indemnified Party from any
+loss, cost liability, damage and expense of such defense or settlement.
+(2) The Indemnifying Party shall consult with the Indemnified Party
+prior to undertaking any compromise or settlement of any Claim(s), and
+the Indemnified party will have the right, at its sole option and
+discretion, to refuse any such compromise or settlement that (in the
+indemnified Party's sole reasonable opinion) might prejudice the rights
+of the Indemnified Party, and, at the Indemnified Party's sole cost and
+expense, to take over the defense, compromise or settlement of such
+Claim(s); provided, however, that in such event, the Indemnifying Party
+will neither be responsible for, nor will it be further obligated to
+12
+REDACTED FOR PUBLIC DISCLOSURE
+
+General Terms and Conditions
+indemnify the Indemnifying Party from or against, any Claims in excess
+of the amount of the refused compromise or settlement.
+(3) The Parties will cooperate in every reasonable manner with the
+defense or settlement of any claim, demand, or lawsuit.
+22.3 Limitation of Liability.
+22.3.1 Except for a Party's indemnification obligations under Section 22.2, no
+liability shall attach to either Party, its parents, subsidiaries, affiliates,
+agents, servants, employees, officers, directors, or partners for damages
+arising from errors, mistakes, omissions, interruptions, or delays in the
+course of establishing, furnishing, rearranging, moving, terminating,
+changing, or providing or failing to provide services or facilities
+(including the obtaining or furnishing of information with respect thereof
+or with respect to users of the services or facilities) in the absence of gross
+negligence or willful misconduct.
+22.3.2 Except for a Party's indemnification obligations under Section 22.2, no
+Party shall be liable to the other Party for any loss, defect or equipment
+failure caused by the conduct or actions of the other Party, its agents,
+servants, contractors or others acting in aid or concert with that Party,
+except in the case of gross negligence or willful misconduct.
+22.3.3 Except for a Party's indemnification obligations under Section 22.2, in no
+event shall either Party have any liability whatsoever to the other
+Party for any indirect, special, consequential, incidental or punitive
+damages, including, but not limited to, loss of anticipated profits or
+anticipated revenues or other economic loss in connection with or
+arising from anything said, omitted or done hereunder (collectively,
+"Consequential Damages"), even if the other Party has been advised
+of the possibility of such damages.
+22.4 Intellectual Property
+Neither Party shall have any obligation to defend, indemnify or hold harmless, or
+acquire any license or right for the benefit of, or owe any other obligation or have
+any liability to, the other based on or arising from any claim, demand, or
+proceeding by any third person alleging or asserting that the use of any circuit,
+apparatus, or system, or the use of any software, or the performance of any
+service or method, or the provision or use of any facilities by either Party under
+this Agreement constitutes direct or contributory infringement, or misuse or
+misappropriation of any patent, copyright, trademark, trade secret, or any other
+proprietary or intellectual property right of any third party, except that CLEC will
+indemnify and hold harmless ILEC with respect to any switch configurations or
+methods performed on ILEC's switches by ILEC for CLEC at the instruction of
+CLEC.
+13
+REDACTED FOR PUBLIC DISCLOSURE
+
+General Terms and Conditions
+23. Joint Work Product
+This Agreement is the joint work product of the Parties, has been negotiated by the
+Parties, and shall be fairly interpreted in accordance with its terms. In the event of any
+ambiguities, no inferences shall be drawn against either Party.
+24. Multiple Counterparts
+This Agreement may be executed in multiple counterparts, each of which shall be
+deemed an original, but all of which shall together constitute one and the same document.
+25. No Third Party Beneficiaries
+This Agreement is for the sole benefit of the Parties and nothing herein expressed or
+implied shall create or be construed to create any third-party beneficiary rights hereunder,
+Nothing in this Agreement shall constitute a Party as a legal representative or agent of the
+other Party; nor shall a Party have the right or authority to assume, create or incur any
+liability or any obligation of any kind, expressed or implied, against, in the name of, or on
+behalf of the other Party, unless otherwise expressly permitted by such other Party.
+Except as otherwise expressly provided in this Agreement, no Party undertakes to
+perform any obligation of the other Party, whether regulatory or contractual, or to assume
+any responsibility for the management of the other Party's business.
+26. Notices
+All notices to be given by one Party to the other Party under this Agreement shall be in
+writing and shall be: (i) delivered personally; (ii) delivered by express delivery service; or
+(iii) mailed, postage prepaid, certified mail, return receipt to the following addresses of
+the Parties (iv) by email:
+14
+REDACTED FOR PUBLIC DISCLOSURE
+
+General Terms and Conditions
+To:CLEC To: ILEC
+Midcontinent Communications Randy Houdek, General Manager
+Attn. Nancy Vogel Venture Communications Cooperative
+3901 N Louise Ave. 218 Commercial Ave., SE
+Sioux Falls, SD 57107 P.O. Box 157
+nancyvo gel^mmi .net Highmore, SD 57345
+notices@mmi .net Randy H@venture .coop
+and
+Darla Pollman Rogers
+Riter, Rogers, Wattier, & Northrup, LLP
+319 South Coteau Street
+P.O. Box 280
+Pierre,SD 57501
+dprogers(%riterlaw.com
+or to such other address as either Party shall designate by proper notice. Notices will be
+deemed effectively given as of the earlier of: (i) the date of actual receipt; (ii) the next
+business day when notice is sent via overnight express mail, email, or by personal
+delivery; or (iii) five (5) days after mailing in the case of certified U.S. mail.
+27. Impairment of Service
+The characteristics and methods of operation of any circuits, facilities or equipment of
+either Party connected with the services, facilities or equipment of the other Party
+pursuant to this Agreement shall not materially interfere with or materially impair service
+over any facilities of such other Party, its affiliated companies, or its connecting and
+concurring carriers involved in its services, cause damage to its plant, violate any
+applicable law or regulation regarding the invasion of privacy of any communications
+carried over a Party's facilities or create hazards to the employees of either Party or to the
+public.
+If there is an impairment of service, the provisions in the Interconnection Attachment,
+section 7.5 shall apply.
+28. Change in Law
+28.1 The Parties enter into this Agreement without prejudice to any positions they have
+taken previously, or may take in the future in any legislative, regulatory, judicial
+or other public forum addressing any matters, including matters related
+specifically to this Agreement, or other types of arrangements prescribed in this
+Agreement; provided, however, that this Agreement shall remain binding on the
+Parties.
+15
+REDACTED FOR PUBLIC DISCLOSURE
+
+General Terms and Conditions
+28.2 The Parties acknowledge that the respective rights and obligations of each Party
+as set forth in this Agreement are based on the Act and the rules and regulations
+promulgated thereunder by the FCC and the Commission as of the Effective Date
+("Applicable Rules"). In the event of any (i) final, effective, unstayed,
+amendment to the Act, (ii) any effective legislative action that is not stayed or
+overturned, (iii) any effective, final, non-appealable regulatory or judicial order,
+rule, or regulation, (iv) a final non-appealable dispute resolution under this
+Agreement, or (v) any other final, effective, non-appealable legal action
+purporting to apply the provisions of the Act to the Parties or in which the FCC
+or the Commission makes a generic determination that is generally applicable to
+the pricing, terms and conditions of this Agreement, any of which revises,
+modifies or reverses the Applicable Rules (individually and collectively,
+"Amended Rules"), then either Party may, to the extent permitted or required by
+the Amended Rules, by providing written notice to the other Party, require that
+the provisions of this Agreement that are revised, modified or reversed by the
+Amended Rules be renegotiated in good faith and this Agreement shall be
+amended accordingly to reflect the pricing, terms and conditions renegotiated by
+the Parties to reflect each such Amended Rule.
+29. Regulatory Approval
+The Parties understand and agree that this Agreement will be filed with the Commission.
+Each Party covenants and agrees to fully support approval of this Agreement by the
+Commission. In the event the Commission rejects this Agreement in whole or in part, the
+Parties agree to meet and negotiate in good faith to arrive at a mutually-acceptable
+modification of the rejected portion(s).
+30. Taxes and Fees
+Each Party purchasing services hereunder shall pay or otherwise be responsible for all
+federal, state, or local sales, use, excise, gross receipts, transaction or similar taxes, fees
+or surcharges levied against or upon such purchasing Party (or the providing Party when
+such providing Party is permitted to pass along to the purchasing Party such taxes, fees or
+surcharges), except for any tax on either Party's corporate existence, status or income.
+Whenever possible, these amounts shall be billed as a separate item on the invoice. To
+the extent a sale is claimed to be exempt from taxes, the purchasing Party shall furnish
+the providing Party a proper resale or other tax exemption certificate as authorized or
+required by statute or regulation by the jurisdiction providing said resale or other tax
+exemption. Failure to provide the tax exemption certificate will result in no exemption
+being available to the purchasing Party until it is provided.
+31. Trademarks and Trade Names
+No patent, copyright, trademark or other proprietary right (the "Marks") is licensed,
+granted, or otherwise transferred by this Agreement. Each Party is strictly prohibited
+from any use of the other Party's Marks, including, but not limited to, in sales, in
+marketing or in advertising of telecommunications services. The Marks include those
+Marks owned directly by a Party or its Affiliate(s) and those Marks that a Party has a
+legal and valid license to use. The Parties acknowledge that they are separate and distinct
+16
+REDACTED FOR PUBLIC DISCLOSURE
+
+General Terms and Conditions
+and that each provides a separate and distinct service and agree that neither Party may,
+expressly or impliedly, state, advertise or market that it is or offers the same service as
+the other Party or engage in any other activity that may result in a likelihood of confusion
+between its own service and the service of the other Party.
+32. Non-Waiver
+Failure of either Party to insist on the performance of any term or condition of this
+Agreement or to exercise any right or privilege hereunder shall not be construed as a
+continuing or future waiver of such term, condition, right or privilege.
+33. Bankruptcy
+If any voluntary or involuntary petition or similar pleading under any Section or Sections
+of any bankruptcy act shall be filed by or against a Party, or any voluntary or involuntary
+proceeding in any court or tribunal shall be instituted to declare the Party insolvent or
+unable to pay the Party's debts, or the Party makes an assignment for the benefit of its
+creditors, or a trustee or receiver is appointed for the Party or for the major part of the
+Party's property, the other Party may, if that Party so elects but not otherwise, and with or
+without notice of such election or other action by that Party, forthwith terminate this
+Agreement.
+IN WITNESS WHEREOF, the Parties have executed this Agreement the day and
+year written below.
+ILEC . CLEC.
+By: /V^4^-^^^
+e: Name: /1^L^ ^^
+7^
+Title: ^,^f/^^ Title: h>€c^-^/€i^/^ /^^
+Date: €^/^/^ Date: ^& 7^
+17
+REDACTED FOR PUBLIC DISCLOSURE
+
+General Terms and Conditions-Glossary
+GLOSSARY
+1. General Rule
+Special meanings are given to common words in the telecommunications industry, and
+coined words and acronyms are common in the custom and usage in the industry. Words
+used in this Agreement are to be understood according to the custom and usage of the
+telecommunications industry, as an exception to the general rule of contract interpretation
+that words are to be understood in their ordinary and popular sense. In addition to this
+rule of interpretation, the following terms used in this Agreement shall have the meanings
+as specified below.
+2. Definitions
+2.1 ACCESS SERVICE REQUEST (ASR).
+A form, which contains data elements and usage rules used by the Parties to add,
+establish, change or disconnect services or trunks for the purposes of
+interconnection.
+2.2 ACT.
+The Communications Act of 1934 (47 U.S.C. §151 et. seq.), as from time to time
+amended (including, without limitation by the Telecommunications Act of 1996,
+Public Law 104-104 of the 104th United States Congress effective February 8,
+1996), as interpreted in the duly authorized and effective rules and regulations of
+the FCC.
+2.3 AFFILIATE.
+Shall have the meaning as set forth in the Act.
+2.4 APPLICABLE LAW.
+All effective laws, government regulations and orders applicable to each Party's
+performance of its obligations under this Agreement.
+2.5 AUTOMATIC NUMBER IDENTIFICATION (ANI).
+The term "ANI" (automatic number identification) refers to the delivery of the
+calling party's billing number by a local exchange carrier to any interconnecting
+carrier for billing or routing purposes, and to the subsequent delivery of such
+number to end users.
+2.6 CALLING PARTY NUMBER (CPN).
+The term Calling Party Number refers to the subscriber line number or the
+directory number contained in the calling party number parameter of the call set-
+up message associated with an interstate call on a Signaling System 7 network.
+REDACTED FOR PUBLIC DISCLOSURE
+
+General Terms and Conditions-Glossary
+2.7 CENTRAL OFFICE.
+A local switching system for connecting lines to lines, lines to trunks, or trunks to
+trunks for the purpose of originating/terminating calls over the public switched
+telephone network. A single Central Office may handle several Central Office
+codes ("NXX"). Sometimes this term is used to refer to a telephone company
+building in which switching systems and telephone equipment are installed.
+2.8 CENTRAL OFFICE SWITCH.
+A switch used to provide Telecommunications Services including, but not limited
+to, an End Office Switch or a Tandem Switch. A Central Office Switch may also
+be employed as combination End Office / Tandem Office Switch.
+2,9 COMMISSION.
+The South Dakota Public Utilities Commission.
+2.10 COMMON CHANNEL SIGNALING (CCS).
+A method of transmitting call set-up and network-control data over a digital
+signaling network separate from the public switched telephone network facilities
+that carries the actual voice or data content of the call.
+2,11 DIGITAL SIGNAL LEVEL 1 (DS1).
+The 1.544 Mbps first-level signal in the time-division multiplex hierarchy.
+2.12 DIGITAL SIGNAL LEVEL 3 (DS3).
+The 44.736 Mbps third-level signal in the time-division multiplex hierarchy.
+2.13 DIRECT INTERCONNECTION FACILITIES.
+Dedicated one-way or two-way transport facilities installed between CLEC's
+switch (or its equivalent) and an ILEC End Office switch.
+2.14 END OFFICE SWITCH OR END OFFICE.
+End Office Switch is a switch in which End User Customer station loops are
+terminated for connection to trunks. The End User Customer receives
+terminating, switching, signaling, transmission, and related functions for a defined
+geographic area by means of an End Office Switch.
+2.15 END USER CUSTOMER.
+The residence or business subscriber that is the ultimate user of
+Telecommunications Services provided directly to such subscriber by either of the
+Parties.
+REDACTED FOR PUBLIC DISCLOSURE
+
+General Terms and Conditions-Glossary
+2.16 END USER CUSTOMER LOCATION.
+The physical location of the premises of the End User Customer, which is the
+location that is listed in the ALI database.
+2.17 EXCHANGE AREA.
+A geographic area defined by the Commission for the provision of Telephone
+Exchange Service.
+2.18 FCC.
+The Federal Communications Commission.
+2.19 RESERVED
+2.20 INFORMATION SERVICE.
+The term shall be as defined in the Act. (47 U.S.C. §153(20)).
+2.21 INTEREXCHANGE CARRIER (IXC).
+A Telecommunications Carrier that provides, directly or indirectly, InterLATA or
+IntraLATA telephone toll services.
+2.22 INTERLATA TRAFFIC,
+Telecommunications toll traffic that originates in one LATA and terminates in
+another LATA.
+2.23 INTRALATA TRAFFIC.
+Telecommunications toll traffic that originates and terminates in the same LATA.
+2.24 INTERNET PROTOCOL CONNECTION (IPC).
+The physical location where End user information is originated or terminated
+utilizing internet protocol.
+2.25 JURISDICTIONAL INDICATOR PARAMETER (JIP),
+JIP is a six-digit number which provides a unique identifier representing the
+originating carrier. JIP is defined in the Alliance for Telecommunications
+Industry Solutions Reference Document ATIS-030001 1.
+REDACTED FOR PUBLIC DISCLOSURE
+
+General Terms and Conditions-Glossary
+2.26 INTERNET SERVICE PROVIDER (ISP).
+An Internet Service Provider is a company that offers its customers access to the
+Internet.
+2.27 LOCAL ACCESS AND TRANSPORT AREA (LATA),
+Shall have the meaning set forth in the Act.
+2.28 LOCAL/EXTENDED AREA SERVICE (LOCAL//EAS) TRAFFIC
+Local/EAS Traffic is any call, that originates from an End User Customer
+physically located in one exchange and terminates to an End User Customer
+physically located in either the same exchange or other mandatory local calling
+area associated with the originating Customer's exchange, as defined and
+specified in ILEC's local exchange tariff. As clarification of this definition,
+Local/EAS Traffic does not include traffic that originates from or is directed to or
+through an ISP. The local and EAS exchanges to which this Agreement applies
+are those listed in Exhibit 1 to this Attachment.
+2.29 LINE INFORMATION DATABASE (LIDB).
+One or all, as the context may require, of the Line Information Databases owned
+individually- by ILEC and other entities which provide, among other things,
+calling card validation functionality for telephone line number cards issued by
+ILEC and other entities. A LIDB also contains validation data for collect and
+third number-billed calls; i.e. Billed Number Screening.
+2.30 LOCAL EXCHANGE CARRIER (LEG).
+Shall have the meaning set forth in the Act.
+2.31 LOCAL EXCHANGE ROUTING GUIDE (LERG).
+The Telcordia Technologies reference customarily used to identify NPA/NXX
+routing and homing information, as well as network element and equipment
+designation.
+2.32 NON-ACCESS TELECOMMUNICATION TRAFFIC
+"Non-Access Telecommunications Traffic" is as defined in 47 C.F. R. §
+51.701(b)(l) and (3) which currently means traffic exchanged between the
+Parties, including VoIP-PSTN Traffic, except for telecommunications traffic that
+is interstate or intrastate exchange access, CMRS, information access, or
+exchange services for such access.
+2.33 NORTH AMERICAN NUMBERING PLAN (NANP).
+The system of telephone numbering employed in the United States, Canada,
+Bermuda, Puerto Rico and certain Caribbean islands for wireline
+REDACTED FOR PUBLIC DISCLOSURE
+
+General Terms and Conditions-Glossary
+telecommunications traffic. The NANP format is a 10-digit number that consists
+of a 3-digit NPA Code (commonly referred to as area code), followed by a 3-digit
+Central Office code and a 4-digit line number.
+2.34 NUMBERING PLAN AREA (NPA).
+Also sometimes referred to as an area code, is the first three-digit indicator of
+each 10-digit telephone number within the NANP. Each NPA contains 800
+possible NXX Codes. There are two general categories of NPA, "Geographic
+NPAs" and "Non-Geographic NPAs". A Geographic NPA is associated with a
+defined geographic area, and all telephone numbers bearing such NPA are
+associated with services provided within that geographic area. A Non-
+Geographic NPA, also known as a "Service Access Code" or "SAG Code" is
+typically associated with a specialized Telecommunications Service that may be
+provided across multiple geographic NPA areas. 500,700,800,888 and 900 are
+examples ofNon-Geographic NPAs.
+2,35 NXX, NXX CODE, CENTRAL OFFICE CODE OR CO CODE.
+The three-digit switch entity indicator (i.e., the first three digits of a seven-digit
+telephone number). Each NXX Code contains 10,000 station numbers.
+2.36 POINT OF INTERCONNECTION (POI).
+The physical location(s) mutually agreed upon and designated by the Parties for
+the purpose of exchanging Local/EAS Traffic. Each Party shall be responsible for
+all costs on its respective side of the POI.
+2.37 RATE CENTER AREA.
+A Rate Center Area is a geographic location, which has been defined by the
+Commission as being associated with a particular NPA/NXX code, which has
+been assigned to an ILEC for its provision of Telephone Exchange Service. Rate
+Center Area is normally the same as the boundary of the ILEC Exchange Area as
+defined by the Commission.
+2.38 RATE CENTER.
+A Rate Center is the finite geographic point identified by a specific V&H
+coordinate which is used by the ILEC to measure, for billing purposes, distance-
+sensitive transmission services associated with the specific rate center; provided
+that a Rate Center cannot exceed the boundaries of the ILEC Exchange Area as
+defined by the Commission.
+2.39 RESERVED
+REDACTED FOR PUBLIC DISCLOSURE
+
+General Terms and Conditions-Glossary
+2.40 SIGNALING SYSTEM 7 (SS7).
+The common channel out-of-band signaling protocol developed by the
+Consultative Committee for International Telephone and Telegraph (CCITT) and
+the American National Standards Institute (ANSI). ILEC and CLEC currently
+utilize this out-of-band signaling protocol.
+2.41 TARIFF.
+Any applicable Federal or State tariff of a Party, as amended from time to time.
+2.42 TELCORDIA TECHNOLOGIES.
+Formerly known as Bell Communications Research. The organization conducts
+research and development projects for its owners, including development of new
+Telecommunications Services. Telcordia Technologies also provides generic
+requirements for the telecommunications industry for products, services and
+technologies.
+2.43 TELECOMMUNICATIONS CARRIER.
+Shall have the meaning set forth in the Act.
+2.44 TELECOMMUNICATIONS SERVICE.
+SHALL HAVE THE MEANING SET FORTH IN THE ACT.
+2.45 TELEPHONE EXCHANGE SERVICE.
+The term "telephone exchange service" shall have the meaning set forth in 47
+U.S.C. Section 153 (47) of the Act.
+REDACTED FOR PUBLIC DISCLOSURE
+
+General Terms and Conditions-Glossary
+2.46 TOLL TRAFFIC
+Toll Traffic is any call, including VoIP-PSTN Traffic that originates from an End
+User Customer physically located in one exchange and terminates to an End User
+Customer physically located outside the mandatory local calling area associated
+with the originating End User Customer's exchange, as defined and specified in
+ILEC's local exchange tariff.
+2.47 VOIP-PSTN TRAFFIC.
+VoIP- Public Switch Telephone Network ("PSTN) traffic is traffic exchanged
+between a local exchange carrier and another telecommunications carrier in Time
+Division Multiplexing (TDM) format that originates and/or terminates in IP
+format. Telecommunications traffic originates and/or terminates in IP format if it
+originates from and/or terminates to an end-user customer of a service that
+requires Internet protocol compatible customer premises equipment.
+REDACTED FOR PUBLIC DISCLOSURE
+
+Local Number Portability Attachment
+ORDERING, PROVISIONING,
+MAINTENANCE AND REPAIR ATTACHMENT
+REDACTED FOR PUBLIC DISCLOSURE
+
+Local Number Portability Attachment
+ORDERING, PROVISIONING, MAINTENANCE AND REPAIR
+1. ORDERWG
+1.1.Orders shall be submitted on Venture Local Service Request forms (LSR). Midcontinent
+will provide a guide, training, and access to its Porting Gateway system.
+1.2.The Parties shall provision services during the regular business hours of 8:00 am and 5:00
+pm central time.
+1.3.The Parties agree when an End User transfers service from one Party to the other Party it
+may be necessary for the Parties to coordinate the timing for disconnection from one
+Party and connection with the other Party so that transferring End Users are not without
+service for any extended period of time.
+1.4.Each Party is responsible for obtaining a Letter of Authorization ("LOA") from each End
+User initiating Migration of service from one Party to the other Party. The Party
+obtaining the LOA from the End User will furnish it to the other Party upon request.
+Such LOA may be a blanket LOA or other form agreed upon between the Parties which
+authorizes the release of customer proprietary network information from one Party to the
+other Party or, if state or federal law provides otherwise, in accordance with such law.
+Transmission of the LOA will be made via facsimile or email in order to expedite order
+processing
+1.5.Directory Listings
+Each Party shall maintain and keep current its own customer information (i.e., directory
+assistance listing information, including name, address, phone number, nonlisted and
+nonpublished indicators, caption information, and other information Carrier provides to
+third party LECs) in currently available databases used in the provision of intercompany
+operator services (e.g., local assistance, directory assistance, directory assistance call
+completion, busy line verification/interrupt), and shall ensure that the other Party can
+obtain access to such information. If requested, each Party shall identify for the other
+Party its directory listings publisher and its directory listings publication cut-off date. It
+shall be the responsibility of the Party obtaining this information from the other Party to
+submit directory listings in the prescribed manner and timeframe to the publisher.
+1.6.911/E911 Services
+Each Party shall be responsible for establishing its interconnection from its Switch to the
+emergency service 911/E911 service provider's router.
+1.7.Local Number Portability (LNP)
+Local Number Portability ("LNP") provides an End User of Local Exchange Traffic
+with an active account the ability to retain its existing telephone number when changing
+REDACTED FOR PUBLIC DISCLOSURE
+
+Local Number Portability Attachment
+from one local exchange telecommunications carrier to another at the same location.
+The Parties recognize that some of the Local Exchange Traffic to be exchanged under
+this Agreement may be destined for telephone numbers that have been ported.
+1.8.The Parties shall provide LNP query, routing, and transport services in accordance with
+rules and regulations as prescribed by the FCC and the guidelines set forth by the North
+American Numbering Council ("NANC"). The applicable charges for LNP query,
+routing, and transport services shall be billed in accordance with each Party's applicable
+tariff.
+1.9.Each Party shall obtain its own NPA-NXX's.
+1.10. Maintenance and Repair
+The Parties agree to provide 24 /7 / 365 contact numbers for the purpose of emergency I
+maintenance of service. [
+REDACTED FOR PUBLIC DISCLOSURE
+
+Local Number Portability Attachment
+LOCAL NUMBER PORTABILITY (LNP) ATTACHMENT
+REDACTED FOR PUBLIC DISCLOSURE
+
+Local Number Portability Attachment
+Local Number Portability
+General
+1.1 The Parties will provide local number portability (LNP), in accordance with FCC
+orders, rules and regulations, and North American Numbering Council (NANC)
+guidelines and recommendations adopted by the FCC for wireline services. The
+Parties will work cooperatively to implement any additional FCC ordered
+portability rules in the timeline outlined in any such order.
+1.2 The Parties agree to comply with finalized FCC rules and orders and FCC
+adopted North American Numbering Council (NANC) procedures and guidelines
+concerning numbering and local number portability. If either Party's Operations
+and Network Planning Publications conflict with the FCC's rules and orders, the
+FCC's rules and orders will prevail.
+1.3 Service Management System (SMS) Administration.
+Each Party is responsible for establishing and maintaining the required regional
+contracts with the Number Portability Administration Center (NPAC) Service
+Management System (SMS).
+1.4 N-l Query.
+For purposes of this Agreement, the Parties agree to fulfill their N-l carrier
+responsibilities and perform queries on calls to telephone numbers with portable
+NXXs. Neither Party shall send un-queried calls to the other Party.
+1.5 Porting of Reserved Numbers.
+End User Customers of each Party may port reserved numbers, as defined in 47
+C.F.R. Section 52.15(f)(l)(vi), that the End User Customer has paid to reserve,
+only if there is at least one working telephone number in the group. Portable
+reserved numbers are identified on the Customer Service Record (CSR).
+1.6 RESERVED
+2. Coordinated Cutovers.
+2.1 If the customer requests the telephone number to port at a specific time on the day
+of the port, it is considered a Coordinated Request (Coordinated Hot Cut). A
+Coordinated Hot Cut (CHC) is not a Simple Port.
+2.2 The OSP will charge the NSP for the labor required to perform the CHC including
+time waiting for the NSP. If a CHC is scheduled outside normal working hours,
+REDACTED FOR PUBLIC DISCLOSURE
+
+Local Number Portability Attachment
+overtime and premium time labor rates may apply. Labor rates are reflected in the
+pricing attachment.
+2.3 Neither Party is required to offer CHC; provided however, to the extent the OSP
+provides CHC, the OSP will provide the NSP its procedures for a CHC when
+requested by the NSP,
+3. Obligations of Both Parties.
+3.1 Each Party shall abide by FCC adopted NANC provisioning and implementation
+processes.
+3.2 Each Party shall become responsible for the End User Customer's other
+telecommunications related items, e.g. E911, Directory Listings, Operator
+Services, Line Information Database (LIDB), when they port the End user's
+telephone number to their switch.
+REDACTED FOR PUBLIC DISCLOSURE
+
+Interconnection Attachment
+INTERCONNECTION ATTACHMENT
+REDACTED FOR PUBLIC DISCLOSURE
+
+Interconnection Attachment
+1. General
+1.1 This Interconnection Attachment sets forth specific terms and conditions for
+network interconnection arrangements between ILEC and CLEC for the purpose
+of the exchange of Local/EAS that is originated by an End User Customer of one
+Party and is terminated to an End User Customer of the other Party physically
+located in the same Exchange Area, where each Party directly provides Telephone
+Exchange Service to the End User Customer.
+1.2 This Attachment also describes the physical architecture for the interconnection of
+the Parties facilities and equipment for the transmission and routing of wireline
+telecommunications traffic between the respective End User Customers of the
+Parties and the compensation for such facilities and traffic exchanged.
+1.3 Both Parties acknowledge that toll traffic will be routed in accordance with
+Telcordia Traffic Routing Administration Instructions and is not governed by this
+Agreement. Traffic that is exchanged through an Interexchange Carrier (IXC) is
+not covered under this Agreement. Any traffic that is not Local/ EAS will be
+considered toll traffic and subject to access tariffs.
+2. Responsibility for Traffic
+2.1 CLEC is responsible for all traffic that CLEC delivers to ILEC including but not
+limited to voice traffic, IP-Enabled Traffic, wireless traffic and toll traffic. CLEC
+shall not provision any of its services in a manner that permits the circumvention
+of applicable switched access charges by it or any third party. CLEC agrees to be
+responsible for and pay its portion of the Interconnection Facilities and any
+Access Charges associated with all toll traffic that CLEC terminates to ILEC.
+CLEC is the sole responsible Party with respect to all traffic terminated by CLEC
+to its End User Customers.
+2.2 Traffic originating from a device other than at the End User's fixed service
+location at the End User's principal service address located in ILEC's Bowdle,
+Roslyn, Selby, Java or Roscoe exchange ("Nomadic Traffic") is prohibited under
+this Agreement. All Nomadic Traffic delivered by a Party shall be subject to
+access charges pursuant to ILEC's tariffed switched access rates.
+2.3 CLEC provides Telecommunications Services under this Agreement to End User
+Customers.
+2.4 Each Party agrees that it is responsible for implementing the proper Signaling and
+Signaling Parameters for determining the correct classification of traffic pursuant
+to Section 6 of this Attachment.
+2.5 The delivery of traffic that has had Signaling or Signaling Parameters stripped,
+altered, modified, added, deleted, changed, and/or incorrectly assigned
+REDACTED FOR PUBLIC DISCLOSURE
+
+Interconnection Attachment
+("Misclassified Traffic") is prohibited under this Agreement. Due to the technical
+nature of its origination, certain traffic that is not Misclassified Traffic may be
+properly transmitted without all the Signaling and Signaling Parameters pursuant
+to section 6 of this Attachment ("Unclassified Traffic").
+2.6 If the percentage of total call traffic transmitted with Signaling and Signaling
+Parameters in a given month falls below 95%, the Party originating such traffic
+agrees to pay the terminating Party's intrastate switched access rates for all
+Unclassified Traffic for the applicable month. Notwithstanding the foregoing, if a
+terminating Party determines that Misclassified Traffic has been delivered by the
+originating Party, Section 2.8, herein below, shall apply with respect to the
+delivery of such traffic.
+2.7 If a terminating Party determines in good faith in any month that any traffic
+delivered by the originating Party is Misclassified Traffic, the Parties agree:
+2.7.1 The terminating Party will provide sufficient call detail records or other
+information, including its reasoning as to why the traffic is misclassified,
+as notification to the other Party. Upon receipt of such notification, the
+Party originating such traffic shall investigate and identify the alleged
+Misclassified Traffic;
+2.7.2 In addition to the terminating Party's other rights and remedies with
+respect to Misclassified Traffic, the originating Party agrees to pay the
+terminating Party's intrastate access rates on all Misclassified Traffic
+unless a written notice of dispute is provided by the originating Party in
+accordance with 2.7.4.
+2.7.3 The Party originating Misclassified Traffic agrees to take all reasonable
+steps to cease all actions, and cancel or reroute any service that is
+permitting the delivery ofMisclassified Traffic.
+2.7.4 Notwithstanding anything herein to the contrary, the Parties agree that if it
+is determined that more than five percent (5%) of the total traffic delivered
+by an originating Party during any consecutive three (3)-month period is
+Misclassified Traffic, such Party shall be in Default of this Agreement. To
+the extent that the Parties have enlisted the Dispute Resolution procedures
+pursuant to section 2.7.4 of this Attachment and section 13 of the General
+Terms and Conditions to determine the proper treatment of the traffic, a
+Default shall not occur while such dispute is pending. Each Party shall
+make a good faith effort to resolve any such pending dispute within a
+reasonable time period.
+2.8 Each Party shall take all reasonable steps to correct the causes ofmisrouted toll
+traffic, misidentified traffic, Misclassified Traffic and Unclassified Traffic. Such
+traffic shall be rerouted to toll trunk groups and properly identified. This
+obligation applies during the pendency of a dispute.
+REDACTED FOR PUBLIC DISCLOSURE
+
+Interconnection Attachment
+2.9 In addition to the audit provisions of Section 9.6 of the General Terms and
+Conditions, or in the event of a dispute with regard to Misclassified Traffic, each
+Party shall have the right to audit the other Party's records to ensure that no traffic
+is misrouted, misclassified, or is otherwise in circumvention of access charges.
+Both Parties shall cooperate in providing the records required to conduct such
+audits. Upon request, the audited Party will cooperate in identifying the physical
+location of the End User Customer originating or terminating the call. No Party
+shall have the right to conduct an audit more than one time in a consecutive six-
+month period.
+3. Physical Connection
+3.1 The Parties agree to physically connect their respective networks, at POI(s) so as
+to furnish Local/EAS Traffic between CLEC and ILEC End User Customers only
+in the Exchange Areas stated in Exhibit 1, attached hereto and incorporated herein
+for all purposes. The exchange of traffic to other ILEC exchanges is not part of
+this Agreement. This Agreement is expressly limited to the transport and
+termination of Local/EAS Traffic originated by and terminated to End User
+Customers of the Parties to this Agreement, at the POIs located at the LEC's
+switches in Tolstoy and Britton, South Dakota, CLLI codes TLSTSDXADS1 and
+BRTNSDXADSO, respectively.
+3.2 Direct Interconnection Facilities between the Parties' networks shall be
+provisioned as two-way interconnection trunks. The dedicated interconnection
+facilities shall meet the Telcordia BOC Notes on LEG Network Practice No. SR -
+TSV-002275.
+3.3 ILEC and CLEC may utilize new wireline Direct Interconnection Facilities for the
+mutual exchange of Local/EAS Traffic. The charges for usage and underlying
+trunks shall be subject to the appropriate compensation based on jurisdiction as
+provided in Section 4 of this Attachment.
+3.4 Physical Interconnection
+3.4.1 ILEC deploys in its network end office switches.
+3.4.2 Trunk Types
+3.4.2.1 Local Interconnection Trunks
+3.4.2.1.1 The Parties will establish a local trunk group for the
+exchange of Local/EAS Traffic ("Local Interconnection
+Trunks") on the Direct Interconnection Facility, The
+Parties agree that all Local/EAS Traffic exchanged between
+them will be on trunks exclusively dedicated to such traffic.
+Neither Party will terminate InterLATA toll traffic or
+originate untranslated traffic to service codes (e.g.,
+800, 888) over Local Interconnection Trunks.
+REDACTED FOR PUBLIC DISCLOSURE
+
+Interconnection Attachment
+3.4.2.1.2 If the Parties' originating Local/EAS Traffic is exchanged
+utilizing the same two-way Local Interconnection Trunk,
+both Parties will mutually coordinate the provisioning and
+quantity of trunks to be utilized in this arrangement,
+3.4.2.2 Direct End Office Trunks
+3.4.2.2.1 Direct End Office Trunk Group(s) (Direct EO Trunks)
+transport traffic in the geographic area covered by the
+exchanges listed in Exhibit 1 of this Attachment.
+3.4.2.2.2 Direct End Office Trunk Group(s) (Direct EO Trunks)
+transport traffic between CLEC's switch and a ILEC End
+Office and are not switched at a Local Tandem location.
+CLEC shall establish a two-way Direct EO Trunk Group
+when actual or projected End Office Local/EAS Traffic
+requires twenty-four (24) or more DSO trunks. Once
+provisioned, traffic from CLEC to ILEC must be redirected
+to route first to the Direct EO Trunk.
+3.4.2.2.3 All traffic received by ILEC on the Direct EO Trunk from
+CLEC must terminate in the End Office, i.e., no Tandem
+switching will be performed in the End Office.
+3.4.2.3 Toll Trunks
+3.4.2.3.1 Toll traffic shall not be routed on the Local Interconnection
+Trunks.
+3.4.2.4 Other Trunk Types: 91 1 Trunks
+3.4.2.4.1 CLEC shall be responsible for establishing all necessary 911
+trunks for its End User traffic with the appropriate Public
+Safety Answering Points. CLEC may purchase transport for
+such 911 trunks from ILEC subject to applicable tariff rates.
+3.4.3 RESERVED
+3.5 The Parties will mutually agree on the appropriate sizing of the transport
+facilities. The capacity of transport facilities provided by each Party will
+be based on mutual forecasts and sound engineering practice, as mutually
+agreed to by the Parties. CLEC will order trunks in the agreed-upon
+quantities via an Access Service Request ("ASR") according to Section
+6.7 in the Ordering Attachment.
+3.6 If CLEC's request requires ILEC to build new facilities (e.g., install new
+fiber), CLEC will bear the cost of construction. Payment terms for such
+costs will be negotiated between the Parties on an individual case basis.
+REDACTED FOR PUBLIC DISCLOSURE
+
+Interconnection Attachment
+No Party will construct facilities that require the other Party to build
+unnecessary facilities.
+3.7 Interface Types:
+If the POI has an electrical interface, the interface will beDSl or
+DS3 as mutually agreed upon by the Parties.
+3.8 Programming:
+3.8.1 It shall be the responsibility of each Party to program and update
+its own switches and network systems pursuant to the LERG
+guidelines to recognize and route traffic to the other Party's
+assigned NPA-NXX codes. Neither Party shall impose any fees or
+charges whatsoever on the other Party for such activities. Any new
+CLEC or ILEC NPA-NXX codes properly assigned under wireline
+guidelines and rules to the exchanges listed in Exhibit 1 shall be
+part of this Agreement.
+3.9 Equipment Additions :
+Where additional equipment is required, such equipment will be obtained,
+engineered, and installed on the same basis and with the same intervals as
+any similar growth job for the Parties' internal customer demand.
+4. Compensation
+4.1 Facilities Compensation
+4.1.1 For Direct Interconnection Facilities, CLEC may lease facilities
+from ILEC in its study area, where available, or lease facilities
+from a third party to reach the POI.
+4.1.2 Each Party shall be responsible for all costs of the Direct
+Interconnection Facilities on its side of the POI. Each Party is
+responsible for any transport, transiting, or switching charges
+assessed by any third party on its respective side of the POI.
+Neither Party shall have any obligation to bear any charges,
+expenses or other costs assessed in connection with transporting,
+transiting or switching traffic on the other Party's side of the POI.
+4.1.3 If CLEC chooses to lease Direct Interconnection Facilities from
+the ILEC to reach the POI, CLEC shall compensate ILEC for such
+leased Direct Interconnection Facilities used to interconnect with
+ILEC's network for the transmission and routing of Local/EAS
+Traffic at the rates contained in the Pricing Attachment of this
+Agreement.
+REDACTED FOR PUBLIC DISCLOSURE
+
+Interconnection Attachment
+4.1.4 CLEC may use a third party carrier's facilities for purposes of
+establishing interconnection with ILEC. In such case, on behalf of
+CLEC, the third party carrier will connect dedicated facilities with
+ILEC. CLEC shall be responsible for the payment to any third
+party carrier for any charges associated with the facilities. If the
+third-party is CenturyLink, CLEC must order the facilities from
+CenturyLink as a meet-point facility. In no case shall ILEC be
+responsible for payment to the third party carrier.
+4.1.5 In the event ILEC is required to modify its network to
+accommodate the interconnection request made by CLEC, CLEC
+agrees to pay ILEC reasonable charges for such modifications. If
+CLEC uses a third party network provider to reach the POI, CLEC
+will bear all third party carrier charges for facilities and traffic in
+both directions on its side of the POI.
+4.2 Traffic Termination Compensation
+4.2.1 This Section 4.2 is expressly limited to the transport and
+termination of Local/EAS Traffic originated by and terminated to
+End User Customers of the Parties in this Agreement. Both Parties
+agree that the traffic is roughly in balance and therefore
+compensation for Local/EAS/ISP-Bound Traffic shall be in the
+form of the mutual exchange of services provided by the other
+Party with no minute of use billing related to exchange of such
+traffic issued by either Party.
+4.2.2 RESERVED
+4.3 RESERVED
+5. Routing
+5.1 Both Parties will route traffic in accordance with Telcordia Traffic
+Routing Administration (TRA) instructions.
+5.2 Both Parties shall adhere to the North American Numbering Plan (NANP)
+guidelines for wireline traffic. The Parties shall not assign telephone
+numbers from an NPA/NXX to an End User Customer physically located
+outside the Rate Center Area with which the NPA/NXX is associated.
+Further, in order for End User Customers to be considered physically
+located in the Rate Center, such End User Customers must have valid
+E911 service with a corresponding record in the serving ALI Database.
+5.3 Once CLEC has been assigned numbers from NANPA, CLEC shall assign
+numbers within those codes or blocks only to end users physically located
+in the ILEC Rate Center Area associated with the number blocks either
+directly or by means of a dedicated facility from the subscriber's physical
+REDACTED FOR PUBLIC DISCLOSURE
+
+Interconnection Attachment
+location to a location within the ILEC's Rate Center (such as FX service).
+Numbers shall not be used to aggregate traffic to originate or terminate to
+either Party. If numbers are assigned to physical locations outside the
+local calling area, call to such numbers shall be subject to access charges.
+5.4 Neither Party shall route un-translated traffic to service codes (e.g., 800,
+888, 900) over the Local Interconnection Trunks.
+5.5 N11 Codes: Neither Party shall route un-translated N11 codes (e.g., 411,
+611,711, and 911) to the other party over Interconnection Facilities.
+6. Signaling
+6.1 Each party shall provide accurate Calling Party Number ("CPN") and JIP
+associated with the End User Customer originating the call.
+6.1.1 Each party shall provide accurate Calling Party Number ("CPN")
+associated with the End User Customer originating the call.
+Accurate CPN is:
+6.1.1.1 CPN that is a dialable working telephone number, that
+when dialed, will reach the End User Customer to whom it is
+assigned, at that End User Customer's Location.
+6.1.1.2 CPN that has not been altered.
+6.1.1.3 CPN that is not different than the originating number, ,
+6.1.1.4 CPN that follows the North American Numbering Plan
+Standards for wireline traffic and can be identified in
+numbering databases and the LERG as an active number.
+6.1.1.5 CPN that is assigned to an active End User Customer.
+6.1.6 CPN that is associated with the ILEC Rate Center Area of the
+specific End User Customer Location.
+6.1.2 JIP shall be populated as follows:
+6.1.2.1 The SS-7 JIP parameter should be populated in the initial
+address message of all wireline calls.
+6.1.2.2 JIP must be populated with an NPA-NXX that is the same
+as NPA-NXX of the LRN for calls terminating to the same
+rate center.
+6.1.2.3 When call forwarding occurs, the forwarded from DN
+(Directory Number) field will be populated, the JIP will be
+changed to a JIP associated with the forwarded from DN
+and the new called DN will be inserted in the IAM.
+REDACTED FOR PUBLIC DISCLOSURE
+
+Interconnection Attachment
+6.2 Signaling:
+The Parties will connect their networks using SS7 signaling as defined in
+applicable industry standards including ISDN User Part ("ISUP") for
+trunk signaling and Transaction Capabilities Application Part ("TCAP")
+for common channel signaling-based features in the connection of their
+networks. Each Party shall ensure that CPN is available for at least 95%
+of the calls it terminates to the other Party. Signaling information shall be
+shared, upon request, between the Parties at no charge to either Party.
+6.3 Signaling Parameters:
+The Parties agree to utilize SS7 Common Channel Signaling ("CCS")
+between their respective networks for the traffic addressed in this
+Agreement in order to process, track and monitor the traffic. Each Party
+will provide CCS connectivity in accordance with accepted industry
+practice and standard technical specifications. For all traffic exchanged,
+the Parties agree to cooperate with one another and to exchange all
+appropriate CCS messages, for call set-up, including without limitation
+ISDN User Part ("ISUP"), Transaction Capability User Part ("TCAP")
+messages and Jurisdictional Indicator Parameter ("JIP") to facilitate
+interoperability of CCS-based features and functions between their
+respective networks, including CLASS features and functions. Each Party
+will provide all CCS signaling parameters, including, but not limited to the
+originating CPN, in conjunction with all traffic it exchanges f6 the extent
+required by industry standards.
+6.4 In addition to the Parties' obligation to deliver traffic with accurate
+signaling parameters, each month, any Party responsible for any IP-
+Enabled Traffic will provide, in electronic format acceptable to the other
+Party, a call detail record for each IP-Enabled call delivered by the Party
+for termination. Such call detail records shall contain, at a minimum, the
+following information: Message Date (MM/DD/YY); Originating
+Number; Terminating Number; Terminating LRN; Connect Time; and
+Elapsed Time. Additionally, the Party responsible for any IP-Enabled
+Traffic agrees to provide information sufficient to accurately classify the
+traffic (Local Traffic, EAS, Intrastate Switched Access (includes
+IntraLATA TOLL), Interstate Switched Access, and such other
+information as may be reasonably required by the terminating Party to
+classify the traffic.
+7. Network Management
+7.1 Network Management and Changes:
+Both Parties will work cooperatively with each other to install and
+maintain the most effective and reliable interconnected
+telecommunications networks, including but not limited to, the exchange
+REDACTED FOR PUBLIC DISCLOSURE
+
+Interconnection Attachment
+of toll-free maintenance contact numbers and escalation procedures. Both
+Parties agree to provide notice of changes in the information necessary for
+the transmission and routing of services using its local exchange facilities
+or networks, as well as of any other changes that would affect the
+interoperability of those facilities and networks.
+7.2 Grade of Service:
+Each Party will provision their network to provide a designed blocking
+objective ofaP.Ol.
+7.3 Protective Controls:
+Either Party may use protective network traffic management controls such
+as 7-digit or 10-digit code gaps, as applicable, on traffic towards each
+Party's network, when required to protect the public switched network
+from congestion or failure, or focused overload. CLEC and ILEC will
+immediately notify each other of any protective control action planned or
+executed.
+7.4 Mass Calling:
+Both Parties will cooperate and share pre-planning information regarding
+cross-network call-ins expected to generate large or focused temporary
+increases in call volumes. The Parties agree that the promotion of mass
+calling services is not in the best interest of either Party. If one Party's
+network is burdened repeatedly more than the other Party's network, the
+Parties will meet and discuss the cause and impact of such calling and will
+agree on how to equitably share the costs and revenues associated with the
+calls and on methods for managing the call volume.
+7.5 Network Harm:
+Neither Party will use any service related to or provided in this Agreement
+in any manner that interferes with third parties in the use of their service,
+prevents third parties from using their service, impairs the quality of
+service to other carriers or to either Party's End User Customers; causes
+electrical hazards to either Party's personnel, damage to either Party's
+equipment or malfunction of either Party's billing equipment (individually
+and collectively, "Network Harm"), If a Network Harm will occur, or if a
+Party reasonably determines that a Network Harm is imminent, such Party
+will, where practicable, notify the other Party that temporary
+discontinuance or refusal of service may be required, provided, however,
+wherever prior notice is not practicable, such Party may temporarily
+discontinue or refuse service forthwith, if such action is reasonable under
+the circumstances. In case of such temporary discontinuance or refusal,
+such Party will:
+10
+REDACTED FOR PUBLIC DISCLOSURE
+
+Interconnection Attachment
+7.5.1 Promptly notify the other Party of such temporary discontinuance
+or refusal;
+7.5.2 Afford the other Party the opportunity to correct the situation
+which gave rise to such temporary discontinuance or refusal; and
+7.5,3 Inform the other Party of its right to bring a complaint to the
+Commission, FCC, or a court of competent jurisdiction.
+11
+REDACTED FOR PUBLIC DISCLOSURE
+
+ANCILLARY SERVICES ATTACHMENT
+12
+REDACTED FOR PUBLIC DISCLOSURE
+
+1. Telecommunications Relay Service
+Telecommunications Relay Service (TRS) enables deaf, hearing-impaired, or
+speech-impaired TRS users to reach other telephone users. Each Party is
+responsible for providing access to TRS for its End User Customers.
+3. Directory Listings and Directory Distribution
+3.1 CLEC will be required to negotiate a separate agreement for directory
+listings, except as set forth below, with ILEC's vendor for directory
+publications. ILEC will not impede CLEC in the listing of CLEC's End
+Users for inclusion in ILEC's directory.
+3.2 Listings
+CLEC agrees to supply directly to the ILEC's vendor directory listing on a
+regularly scheduled basis, and in a format prescribed by ILEC or its
+vendor, all listing information for CLEC's End Users who wish to be
+listed in any ILEC published directory for the relevant operating area.
+Listing information will consist of names, addresses (including city, state
+and ZIP code) and telephone numbers. Nothing in this Agreement shall
+require ILEC to publish a directory where it would not otherwise do so.
+Listing inclusion in a given directory will be in accordance with directory
+publisher's solely determined directory configuration, scope, and
+schedules and listings will be treated in the same manner as ILEC's
+listings.
+3.3 Distribution
+Upon directory publication, ILEC will arrange for the initial distribution
+of the directory to service End Users in the directory coverage area.
+CLEC will supply ILEC, in a timely manner, with all required subscriber
+mailing information including non-listed and non-published subscriber
+mailing information, to enable ILEC to perform its directory distribution
+to CLEC customers. CLEC will pay ILEC for the reasonable and direct
+cost for directory distribution to CLEC End Users at the rates shown in the
+Pricing Attachment.
+3.4 CLEC Directory
+If requested, ILEC will provide its customer information to CLEC for
+inclusion in CLEC's directory publication at a rate of $0.04 per listing.
+13
+REDACTED FOR PUBLIC DISCLOSURE
+
+Pricing Attachment
+General. The rates contained in this Pricing Attachment are the rates as referenced in the
+various sections on the Interconnection Agreement and are subject to change.
+General Charges:
+1. Technical Labor
+Install & Repair Technician:
+Basic Time (normally scheduled hours) $65.00 per hour
+Overtime (outside normally schld hrs on schld work day) $ 97.50 per hour
+Call out
+Central Office Technician:
+Basic Time (normally scheduled hours) $65.00 per hour
+Overtime (outside normally schld hrs on schld work day) $ 97.50 per hour
+Call out
+Customer Service Representative
+Basic Time (Normal Scheduled) $65.00 per hour
+D. Facility Charges
+D S3 Channel Termination/Termination
+a. Electrical Interface
+D S3 Entrance Facility
+Non-Recurring Per State Access Tariff'
+Recurring Per State Access Tariff
+Direct Trunk Transport
+Non-Recumng Per State Access Tariff
+Recurring:
+DS3 Channel Mileage Facility/Mile Per State Access Tariff
+DS3 Channel Mileage Term/Term Per State Access Tariff
+Multiplexing/Port
+14
+REDACTED FOR PUBLIC DISCLOSURE
+
+DS3toDSl
+Non-Recurrin^ Per State Access Tariff
+Recurring Per State Access Tariff
+DSltoDSO
+Non-Recumn^ Per State Access Tariff
+Recurring Per State Access Tariff
+DS 1 Channel Terminatioa/Termination
+DS1 Entrance Facility
+Non-Recurring Per State Access Tariff
+Recurring Per State Access Tariff
+DS 1 Direct Trunk Transport
+Non-Recurring Per State Access Tariff
+Recurring:
+DS1 Channel Mileage Facility/Mile Per State Access Tariff
+DS 1 Channel Mileage Term/Term Per State Access Tariff
+SIP Trunk Pricing
+Channel Termination/Trunk $28.07 per month
+Ethernet Transport to POI $30.00 per Meg. per month
+E. Directory Distribution
+Midco Number in Venture Directory $ 1.50 per number per month
+Per Directory Delivered $ 10.00 per directory*
+Charge per directory distributed in accordance with mailing information provided under
+Ancillary Services Attachment, Section 3.3: Rate to be adjusted annually starting on the
+first anniversary of the effective date of this Agreement by a percentage equal to the
+percentage change in the Consumer Price Index since the previous adjustment. Directory
+listing fees will only be charged ifMidco is unable to work directly with the publisher,
+15
+REDACTED FOR PUBLIC DISCLOSURE
+
+Exhibit 1
+LOCAL AND EAS INTERCONNECTION NETWORK ARRANGEMENTS TABLE
+LOCAL CALLING SCOPE AND NPA/NXXS
+Exchange in Midcontinent ILEC NPA/NXX EAS NPA NXX within Calling Scope
+Local Calling NPA/NXX
+Area
+Roscoe 605-276-Sxxx 605-287 NoEAS
+Roslyn 605-420-Sxxx 605-486
+605-345 Webster
+605-588 Webster
+Bowdle 605-281-Sxxx 605-285 605-649 Selby
+605-281 Bowdle
+605-282 Bowdle
+Selby/Java 605-643-Sxxx 605-649
+605-281 Bowdle
+605-282 Bowdle
+605-285 Bowdte
+Any NPA-NXX codes added to the local calling areas or EAS areas for these exchanges during the
+term of this Agreement shall be deemed to be added to the list above.
+16
+REDACTED FOR PUBLIC DISCLOSURE
+
+Exhibit C
+Anti-Drug Abuse Act Certification
+REDACTED FOR PUBLIC DISCLOSURE
+
+REDACTED FOR PUBLIC DISCLOSURE

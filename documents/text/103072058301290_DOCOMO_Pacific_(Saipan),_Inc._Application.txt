@@ -1,0 +1,171 @@
+Before the
+FEDERAL COMMUNICATIONS COMMISSION
+Washington, D.C. 20554
+)
+In the Matter of
+)
+) WC Docket 17- ---
+DOCOMO Pacific (Saipan), Incorporated,
+)
+Applicant
+)
+)
+For Authorization to Obtain Numbering
+)
+Resources Pursuant to Section 52.15 (g) of
+)
+the Commission's Rules
+)
+APPLICATION OF DOCOMO PACIFIC (SAIPAN), INC.
+FOR AUTHORIZATION TO OBTAIN NUMBERING RESOURCES
+DOCOMO Pacific (Saipan), Inc. ("DPAC-Saipan"), pursuant to Section 52.15(g)(3)(i) of
+the Commission's rules, respectfully requests authorization to obtain numbering resources
+directly from the North American Numbering Plan Administrator and Pool Administrator
+("Numbering Administrators") as set forth in the Commission's Numbering Order. Such
+l
+authorization may be obtained upon an application to the Commission containing the information
+detailed in Sections 52. 15(g)(3)(i)(A)-(F) of the Commission's rules.
+In support of this application, DP AC-Saipan provides the following information required
+by the Commission's rules:
+47 C.F.R. § 52.15(g)(3)(i)(A)
+Name: DOCOMO Pacific (Saipan), Inc.
+Address: 219 S. Marine Corps Drive, Ste. 206, Tamuning, Guam 96913
+Telephone: (671) 688-2355
+Qualified Personnel James W. Hofman, II, Chief Legal Officer
+1 Numbering Policies for Modern Communications, Report and Order, 30 FCC Red 6839
+(2015).
+
+F or purposes of this application, inquires pertaining to issues associated with 9-1-1, law
+enforcement, and general compliance with Commission rules can be directed to James W.
+Hofman, II, Chief Legal Officer.
+47 C.F.R. § 52.15(g)(3)(i)(B)
+DP AC-Saipan acknowledges that authorization to obtain numbering resources under
+Section 52.15(g) of the Commission's rules is subject to compliance with applicable
+Commission numbering rules as well as to the numbering authority delegated to the states.
+DPAC-Saipan also acknowledges that this authorization is subject to compliance with industry
+guidelines and practices regarding numbering as applicable to telecommunications carriers.
+47 C.F.R. § 52.15(g)(3)(i)(C)
+DP AC-Saipan acknowledges that it must file requests for numbers with the relevant state
+commission(s) at least thirty (30) days before requesting numbers from the Numbering
+Administrators. The jurisdiction in which DP AC-Saipan intends to seek numbering resources is
+the Commonwealth of the Northern Mariana Islands ("CNMI"), specifically the islands of Rota,
+Tinian, and Saipan.
+47 C.F.R. § 52.15(g)(3)(i)(D)
+DP AC-Saipan sets forth its capability to provide service within 60 days of the numbering
+resources activation date in accordance with 47 C.F.R. § 52.15(g)(2). DPAC-Saipan's capability
+to provide service within this 60-day period is based on: (1) its position as an established service
+provider in the CNMI; (2) its existing network that will be used to provide interconnected Voice
+over Internet Protocol ("VoIP") services; and (3) the established network operations and business
+processes of its affiliate that has been providing interconnected VoIP services in Guam for more
+than seven years. Each of these capabilities is discussed in greater detail below.
+2
+
+(1) Established service provider in the CNMI.
+DP AC-Saipan, which is a CNMI corporation, is a wholly-owned subsidiary of
+DOCOMO PACIFIC, Inc. ("DPAC-Guam"), which, in turn, is owned by DOCOMO Guam
+Holdings, Inc. DP AC-Saipan provides facilities-based video programming as a cable television
+operator throughout the CNMI and is expanding its service portfolio to offer interconnected
+VoIP service to customers located on the islands of Rota, Tinian, and Saipan. DP AC-Saipan has
+existing ordering, provisioning, maintenance and repair, billing, and customer care systems that
+currently support its existing cable operations that can readily be expanded to support its
+interconnected VoIP service offering.
+(2) Existing network facilities in place throughout the CNMI.
+Throughout the CNMI, DP AC-Saipan currently has in place fiber-to-the-home, fiber-to
+the-building, hybrid fiber-coax, and other facilities that are used to serve residential and business
+customers. DP AC-Saipan will use these same facilities to support its interconnected VoIP
+service offerings.
+DP AC-Saipan is installing a new softswitch that will be used for interconnected VoIP
+traffic. This installation is expected to be complete in April 2017, and the softswitch should be
+operational within 14 calendar days of the code activation date. If DPA C-Saipan should
+encounter any issues that may impact the installation or operation of the new softswitch, DP AC
+Saipan will be able to provide service within 60 days of the numbering resources activation date
+by utilizing an existing softswitch on Guam that currently supports interconnected VoIP services
+offered by its affiliate, DPAC-Guam.
+3
+
+(3) Established business operations in the region.
+In offering interconnected VoIP services in the CNMI, DP AC-Saipan will be able to
+leverage the existing network operations and business processes of its affiliate, DP AC-Guam.
+An FCC licensee currently providing commercial mobile radio services and mobile broadband in
+the Guam-Northern Mariana Islands Major Trading Area, DPAC-Guam also has been offering
+interconnected VoIP services in Guam for more than seven years. DPAC-Saipan will rely upon
+DP AC-Guam in launching its interconnected VoIP services in the CNMI.
+For example, DPAC-Guam has existing operation centers that will be used to support
+DPAC-Saipan's interconnected VoIP service offerings. Specifically, DPAC-Guam's switch
+operations center that oversees the company's mobile switching system and softswitch located in
+Guam will be responsible for DPAC-Saipan's softswitch once it is operational. Likewise,
+DPAC-Guam operates a call center that will be used to support DPAC-Saipan's interconnected
+V oIP customers in the CNMI.
+Likewise, DPAC-Guam's points of presence ("POPs") in Guam and CNMI are connected
+over operational mid-span fiber meet points of interconnection ("POls"). These POls are
+currently utilized by DPAC-Guam to exchange traffic with the networks of the incumbent local
+exchange carriers in Guam and CNMI, respectively. DPAC-Saipan will utilize these same POls
+and rely upon DPAC-Guam's established business relationships with other communications
+services providers with switch and/or transport facilities in Guam and CNMI to exchange traffic.
+Finally, DPAC-Guam has systems and processes in place to put numbers into service
+expeditiously and to support number portability and mandatory number reporting requirements.
+DP AC-Saipan will utilize these same systems and procedures in offering interconnected VoIP
+service in the CNMI.
+4
+
+47 C.F.R. § 52.15(g)(3)(i)(E)
+DPAC-Saipan certifies that it complies with its Universal Service Fund contribution
+obligations under 47 C.F.R. part 54, subpart H, its Telecommunications Relay Service
+contribution obligations under 47 C.F.R. § 64.604(c)(5)(iii), its NANP and LNP administration
+contribution obligations under 47 C.F.R. §§ 52.17 and 52.32, its obligations to pay regulatory
+fees under 47 C.F.R. § 1.1154, and its 911 obligations under 47 C.F.R. part 9?
+47 C.F.R. § 52.15(g)(3)(i)(F)
+DP AC-Saipan hereby certifies that it has the financial, managerial, and technical
+expertise to provide reliable service. As an existing provider of cable service in the CNMI,
+DP AC-Saipan has the demonstrated expertise to serve its customers, regardless of the service to
+which they may subscribe.
+Furthermore, all DPAC-Saipan personnel are hired and managed by DPAC-Guam. Thus,
+while DPAC-Saipan has personnel working in the CNMI, the leadership of the functions that
+require financial, managerial, and technical expertise are retained within DP AC-Guam, which
+has a proven track record of providing reliable interconnected VoIP service in Guam. During its
+time in business in the region, DPAC-Guam has not only been able to place numbers into
+service, but it has done so without any impairment, with calls routed and numbers ported
+successfully by DP AC-Guam. The same financial, management, and technical personnel will be
+responsible for ensuring that DP AC-Saipan provides reliable service in the CNMI.
+DPAC-Saipan's key management and technical personnel are listed below, none of
+whom are being or have been investigated by the Commission or any law enforcement or
+2 Although DPAC-Saipan is not currently offering interconnected VoIP service, DPAC
+Guam has an established history of compliance with each of the regulatory obligations set forth
+in 47 C.F.R. § 52.15(g)(3)(i)(F).
+5
+
+regulatory agency for failure to comply with any law, rule, or order:
+Jonathan Kriegel President & CEO
+Masafumi Masuda Chief Technology Officer
+James W. Hofman, II Chief Legal Officer
+Willis Cannon VP - Field Operations and Engineering
+John Rhee VP - Network Transport
+Nathan Paul VP - Information Technology
+47 C.F.R. § 52.15(g)(3)(i)(G)
+DPAC-Saipan hereby certifies that no party to this application is subject to a denial of
+Federal benefits pursuant to Section 5301 of the Anti-Drug Abuse Act of 1988,21 U.S.C. § 862.
+47 C.F.R. § 52.15(g)(3)(iv)
+As required by Section 52.15(g)(3)(iv), DPAC-Saipan acknowledges that it will maintain
+the accuracy of all contact information and certifications in this application, and will file a
+correction with the Commission and each applicable state within 30 days of any changes. DPAC
+Saipan also will furnish accurate regulatory and numbering contact information to each state
+commission when requesting numbers in that state.
+6
+
+Pursuant to Section 52.l5(g)(3)(i) of the Commission's rules, DPAC·Saipan respectfully
+requests the Commission grant this application for authorization to obtain numbering resources.
+J ames Hofman
+Chief Legal Officer
+DOCOMO PACIFIC, Inc.
+219 S. Marine Corps Dr. Ste. 206
+Tamuning, Guam 969:0
+(671) 688-2355 x2288 (phone)
+(671) 649-7247 (Fax)
+jhofman @docomopacific.com
+March 7,2017
+'. :
+: ',"
+, '\
+.;
+.' ';
+7

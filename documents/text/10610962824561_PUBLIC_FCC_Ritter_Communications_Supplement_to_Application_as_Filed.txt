@@ -1,0 +1,149 @@
+151 Southhall Lane, Ste. 450
+Maitland, FL 32751
+www.jsitel.com
+June 10, 2025
+Via ECFS
+REDACTED - FOR PUBLIC INSPECTION
+Marlene H. Dortch, Secretary
+Federal Communications Commission
+9050 Junction Drive
+Annapolis Junction, MD 20701
+RE: Request for Confidential Treatment of Filing of E. Ritter Communications, LLC DBA Ritter
+Communications and DBA RightFiber; Supplement to the Application of E. Ritter
+Communications, LLC DBA Ritter Communications and DBA RightFiber for Authorization to
+Obtain Numbering Resources Pursuant to Section 52.15(g) of the Commission's Rules, WC Docket
+No. 25-154
+Dear Ms. Dortch,
+Pursuant to Section §52.l5(g)(3)(i) of the Commission's Rules,1 E. Ritter Communications, LLC DBA Ritter
+Communications and DBA RightFiber ("Ritter Communications") hereby submits its supplement to the
+Application for Authorization (“Application”) to Obtain Numbering Resources originally submitted on
+March 21, 2025 in the above mentioned docket number.
+Ritter Communications respectfully requests that, pursuant to Sections §0.457 and §0.459 of the
+Commission's Rules,2 the Commission withhold from public inspection and accord confidential treatment
+to Exhibit A to the supplement to the application because the documents contain sensitive trade secrets
+and commercial information that falls within Exemption 4 of the Freedom of Information Act ("FOIA").3
+Moreover, Ritter Communications would suffer substantial competitive harm if this information were
+disclosed.
+Exhibit A of the supplement is accordingly marked with the header "SUBJECT TO REQUEST FOR CONFIDENTIAL
+TREATMENT - NOT FOR PUBLIC INSPECTION."
+In support of this request, Ritter Communications hereby states the following:
+1. IDENTIFICATION OF SPECIFIC INFORMATION FOR WHICH CONFIDENTIAL TREATMENT IS
+SOUGHT.
+Ritter Communications seeks confidential treatment of Exhibit A to the supplement to
+Application.
+1 47 C.F.R. § 52.15(g).
+2 47 C.F.R. § 0.457 & §0.459.
+3 See 5 U.S.C. § 552(b)(4). Public disclosure is not required for “trade secrets and commercial or financial
+information obtained from a person and privileged or confidential.”
+
+Page 2 of 3
+2. DESCRIPTION OF CIRCUMSTANCES GIVING RISE TO THE SUBMISSION.
+Ritter Communications is submitting as Exhibit A to the supplement to Application, additional
+information in compliance with §52.12(g)(3)(ii)(E).
+3. EXPLANATION OF THE DEGREE TO WHICH THE INFORMATION IS COMMERCIAL OR FINANCIAL,
+OR CONTAINS A TRADE SECRET OR IS PRIVILEGED.
+The information for which Ritter Communications seeks confidential treatment contains sensitive
+commercial information "which would customarily be guarded from competitors". Exhibit A of the
+supplement to Application includes a Statement of Work and Master Service Agreement that are
+proprietary and confidential in nature and should not be disclosed to the public.
+4. EXPLANATION OF THE DEGREE TO WHICH THE INFORMATION CONCERNS A SERVICE THAT IS
+SUBJECT TO COMPETITION.
+Exhibit A to the supplement of Application contains information relating to commercial matters
+which can be used by other interconnected VoIP providers to compromise Ritter Communications’
+position in the highly competitive interconnected VoIP business sector. Detailed operations and
+commercial information of the type provided by Ritter Communications could compromise Ritter
+Communications’ position in this highly competitive industry. Accordingly, release of this
+information would result in substantial competitive harm to Ritter Communications.
+5. EXPLANATION OF HOW DISCLOSURE OF THE INFORMATION COULD RESULT IN SUBSTANTIAL
+COMPETITIVE HARM.
+Competitors could use Ritter Communications' proprietary commercial and operational
+information to Ritter Communications' detriment as they would gain access to sensitive
+information concerning Ritter Communications’ commercial agreements, as well as information
+as to how Ritter Communications provides its services. Therefore, disclosure of the Statement of
+Work or Master Service Agreement would result in significant competitive harm to Ritter
+Communications. This information is not normally disclosed to the public.
+6. IDENTIFICATION OF ANY MEASURES TAKEN BY THE SUBMITTING PARTY TO PREVENT
+UNAUTHORIZED DISCLOSURE.
+Ritter Communications has not distributed the information in Exhibit A to the supplement to the
+Application to the public.
+7. IDENTIFICATION OF WHETHER THE INFORMATION IS AVAILABLE TO THE PUBLIC AND THE
+EXTENT OF ANY PREVIOUS DISCLOSURE OF THE INFORMATION TO THIRD PARTIES.
+Ritter Communications does not believe that the Statement of Work or Master Service Agreement
+is available to the public or that this information has ever been disclosed to third parties absent
+the protection of a non-disclosure agreement regarding their contents.
+
+Page 3 of 3
+8. JUSTIFICATION OF THE PERIOD DURING WHICH THE SUBMITTING PARTY ASSERTS THAT
+MATERIAL SHOULD NOT BE AVAILABLE FOR PUBLIC DISCLOSURE.
+Ritter Communications requests that Exhibit A of the supplement to the application be withheld
+from public disclosure indefinitely. Disclosure of the Statement of Work or Master Service
+Agreement or their substance would cause competitive harm to Ritter Communications.
+9. OTHER INFORMATION THAT RITTER COMMUNICATIONS BELIEVES MAY BE USEFUL IN ASSESSING
+WHETHER ITS REQUEST FOR CONFIDENTIALITY SHOULD BE GRANTED.
+The information concerns Ritter Communications' proprietary network information, related to
+current and planned commercial and operational information, and as such, is commercially
+sensitive.
+For the foregoing reasons, Ritter Communications respectfully requests that Exhibit A to the supplement
+to the application be granted confidential status and withheld from public inspection.
+Any questions you may have regarding this filing should be directed to my attention at 470-672-3933 or
+via email to nelson.fernandez@jsitel.com. Thank you for your assistance in this matter.
+Sincerely,
+/s/Nelson Fernandez
+Nelson Fernandez
+Consultant
+
+151 Southhall Lane, Ste. 450
+Maitland, FL 32751
+www.jsitel.com
+June 10 2025
+Via ECFS
+Marlene H. Dortch, Secretary
+Federal Communications Commission
+45 L Street, NE
+Washington, DC 20554
+Re: Supplement to Application of E. Ritter Communications, LLC DBA Ritter Communications and
+DBA RightFiber for Authority to Obtain Numbering Resources Pursuant to Section 52.15(g) of
+the Commission’s Rules, WC Docket No. 25-154
+Dear Ms. Dortch:
+On behalf of E. Ritter Communications, LLC DBA Ritter Communications and DBA RightFiber (“Ritter
+Communications”), I provide this supplemental information relevant to the application for authority to
+obtaining numbering resources (“Application”) filed by Ritter Communications in the above-mentioned
+docket. Commission staff requested this information to augment and clarify the information Ritter
+Communications submitted as part of the Application.
+1. Evidence of 911 and CALEA Compliance (§52.12(g)(3)(ii)(E))
+In further support of showing its compliance with 911 and CALEA obligations Ritter
+Communications, hereby submits Exhibit A including additional information. Ritter Communications
+respectfully requests confidential treatment under the Commission’s rules for this information.
+2. Certification re Foreign Carriers
+As required by 47 C.F.R. § 63.18 (h) & (i), Ritter Communications certifies that it is not a foreign
+carrier, and is not affiliated with any foreign carrier.
+3. Declaration
+A declaration under penalty of perjury pursuant to 47 C.F.R. §1.16 is attached hereto as Exhibit B.
+Please return the completed document to me in the self-addressed, stamped envelope provided for that
+purpose.
+
+Marlene H. Dortch, Secretary
+Federal Communications Commission
+Page 2 of 2
+Any questions you may have regarding this filing should be directed to my attention at 470-672-3933 or
+via email to nelson.fernandez@jsitel.com. Thank you for your assistance in this matter.
+Sincerely,
+/s/Nelson Fernandez
+Nelson Fernandez
+Consultant
+
+EXHIBIT A
+(Confidential exhibit submitted separately)
+
+EXHIBIT B
+Verification
+
+Verification
+I swear, under penalty of perjury, that I am Lexanne Horton, an officer of the above-
+named applicant, E. Ritter Communications, LLC DBA Ritter Communications and DBA RightFiber
+and that I have examined the foregoing submission and that all information required under the
+Commission's rules and orders has been provided and all statements of fact, as well as all
+documentation contained in this submission, are true, accurate, and complete.
+________________________________
+Lexanne Horton
+Chief Financial Officer

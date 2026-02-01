@@ -1,0 +1,925 @@
+•
+2.1.5.2 Except as qtherwise provided by Applicable Law, Exchange
+Access services;
+2.1.5.3 Subscriber Line Charges, Federal Une Cost Charges, end
+user common line Charges, taxes, and government
+Charges and assessment(including, but not limited to, 9-1-
+1 Charges and Dual Party Relay Service Charges).
+2.1.5.4 Any other service or Charge that the Commission, the FCC,
+or other governmental entity of appropriate jurisdiction
+determines Is not subject to a wholesale discount under
+Section 251(cX4) of the Act
+2.2 Verizon Telecommunications Services for which Verizon is Not Required to
+Provide a Wholesale Discount Pursuantto Section 251(cX4) of the Act
+2.2.1 The Charges for a Verizon Telecommunications Service for which
+Verizon is not required to provide a wholesale discount pursuant to
+Section 251(c}(4) of the Act shall be the Charges stated in Verizon's
+Tariffs for such Verizon Telecommunications Service {or, if there are
+no Verizon Tariff Charges for such Service, Verizon's Charges for the
+Service that are generally offered by Verizon).
+2.2.2 The Charges for a Verizon Telecommunications Service customer
+specific contract service arrangement ("CSA") purchased by Neutral
+Tandem pursuant to Section 3.3 of the Resale Attachment for which
+•
+Verizon is not required to provide a wholesale discount pursuant to
+Section 251(c)(4) of the Act shall be the Charges provided for In the
+CSA and any other Charges that Verizon could bill the person to whom
+the CSA was originally provided (Including, but not limited to,
+applicable Verizon Tariff Charges).
+2.3 Other Charges.
+2.3.1 Neutral Tandem shall pay, or collect and remit to Verizon,' without
+discount. all Subscriber Line Charges, Federal Line Cost Charges, and
+end user common line Charges, associated with Verizon
+Telecommunications Services provided by Verizon to Neutral Tandem .
+.3 . ~eutral Tandem Prices
+Notwithstanding any other provision of this Agreement. the Charges that Neutral Tandem
+bills Verizon for Neutral Tandem's Services shall not exceed the Charges for Verizon's
+comparable Services, except to the extent that Neutral Tandem's cost to provide such
+Neutral Tandem's Services to Verizon exceeds the Charges for Verizon's comparable
+Services and Neutral Tandem has _demonstrated such cost to Verizon, or, at Verizon's
+request to the Commission or the FCC.
+4. [This Section Intentionally Left Blank]
+5. Regulatory Review of Prices
+Notwithstanding any other provision of this Agreement, each Pa!'fY reserves Its respective
+rights to institute an appropriate proceeding with the FCC, the Commission or other
+. governmental body of appropriate jurisdiction: {a} with regard to the Charges for Its
+•
+Services {including, but not limited to, a proceeding to change the Charges for its _
+services, whether provided.for in any of Its Tariffs, in Appendix A, or otherwise); and (b)
+NT PAe Compv3.1 09282007f.doc 125
+
+•
+wlth regard to the Charges of ·the other Party (Including, but not limited to, a proceeding
+to obtain a reduction In such Charges and a refund of any amounts paid In excess of any
+Charges:that are reduced).
+•
+•
+NT PAe CompvS.1 09282007f.doc 126
+
+•
+APPENDIX A TO THE PRICING ~TTACHMENT1
+(PENNSYLVANIA EAST)
+V1.17
+A. INTERCONNECTION2
+Service or Elef!!ent Description: Recurring Charges: Non-Recurring
+Charge:
+I. Reciprocal Compensation Traffic Termination
+Reciprocal Compensation Traffic End Office $.000987/MOU . Not Applicable
+Rate
+Reciprocal Compensation Traffic Tandem Rate
+$.002439/MOU Not Applicable
+•
+1
+This Appendix may contain rales for (and/or reference) servlees, facll!lles, arrangements and-the like that
+Verizon does not have an obligallon to provide under the Agreement (e.g., services, fac!Uties, arrangements and the like
+that Verizon Is not required to provide under Section 251 of the Act). Notwithstanding any such rates (and/or references)
+and, for the avoldance of any doubt, nothing in this Appendix shall be deemed to require Verizon to provide a service,
+facility, arrangement or lhe like that the Agreement does not require Verizon to provide, or to provide a service, factnty,
+arrangement or the Uke upon rates, terms or conditions other than those that may be required by the Agreement.
+All rates and charges set forth in this Appendix shall apply until such time as they are replaced by new rates
+andfor charges as the Commission or the FCC may approve or allow to go into effectfrom time to tlme, subject however,
+to any stay or other order issued by any court of competent jurisdiction. In addition to any rates and charges set forth
+herein, Verizon. effective as of March 11, 2005, may, but shall not be required to, charge (and Neutral Tandem shall pay)
+any rates aTJd c:harges that apply to a CLEC's embedded base or certain UNEs pursuant to the FCC's Order on Remand,
+Unbundled Access to-Nelwcxk Elements; Review of the Section 251 Unbundling ObDgatlons of Incumbent Local
+Exchange Carriers, WC Docket No.·04-313, CC Docket No. 01-338 (FCC rel. Feb. 4, 2005) (the "TRRO"), the foregoing
+being without limitation of other rates and charges that may apply under subsequent FCC orders or otherwise. In
+addition, as set forth In Industry Notk:es, access tariff rates and/or other appllcable non-UNE rates may apply equivalent
+for certain facifaties and arrangements-that are no longer avanable as unbundled network elements or combinations
+thereof.
+Unless a citation is provided to a generally applicable Verizon tariff, all listed rates and services are avaUable
+only to Neutral Tandem when purchasing these services for use in the provision of Telephone Exchange Service, and
+apply only to Reciprocal CompensaUon Traffic and local Anclllary Traffic. Verl%on rates and services for use by Neutral
+Tandem in the carriage of Toll Traffic shall be subject to Verizon's tariffs for Exchange Access Service. Adherence to
+• these limitations is subject to a reasonable periodic audit by VerlZon.
+All rates and charges speclfled herein are pertaining lo the Interconnection Atlac:hmenL
+NT PAe Compv3.1 09282007f.doc 127
+
+•
+U. Entrance Facllltles and Trarwport for Per Verizon FCC Per Verizon FCC
+lntereonnactton Interstate Tariff No. 1 Interstate Tariff No. 1
+A. Entrance facllltles, _and transport, as appropriate, Section 6 tor Feature Section 6 for Feature
+for Interconnection at Verizon End Office, Tandem Group D .service, as Group 0 service, as
+Office, or other Point of Interconnection amended from time to amended from time to
+time time
+Per Intrastate Verizon PA Per Intrastate Verizon
+PUC No. 302 Section 6 PA PUC No. 302
+access tariff for Feature Section 6 access tariff
+Group D service, as for Featur:e Group D
+amended from time to service, as amended
+time from time to time
+•
+•
+128
+NT P.Ae Compv3.1 09282007f.doc
+-- ----------- - - - ------ ---
+---· --·-- ---
+
+•
+Ill. Exchange Access Service
+Interstate Per: Verizon FCC Interstate Tariff No. 1, Section 6
+for Feature Group D servlce, as amended from time
+to time.
+Intrastate Per intrastate Verizon PA PUC No: 302, Section 6
+access tariff for Feature Group D service, as
+amended from time to time
+Service or Element Description: Recurring Charaas: Non-Recurring
+Charge:
+To be charged in accordance with the requirements
+IV. Fiber Meet
+of the Interconnection Attachment
+V. Tandem Transit Traffic Service
+Tandem Switching $.001146!MOU Per Section II. above,
+as applicable
+Switched Transport $.000206/MOU
+$.000010/MOU/Mile
+•
+•
+NT PAe CompV3.1 09282007f.doc 129
+
+•
+B. UNBUNDLED NETWORK ELEMENTS3 4
+S8rvice or Egnt Petcrlptlon: R'9Jn1ng Cbarau: Non:Recurrlna
+. Chlrae:
+I. Interoffice Facllltles As applicable per Verizon PA PUC 216 as
+amended from ttm.e to time.
+As applicable per Verizon PA PUC 216 as
+II. Digital Cron-conn.ct System amended from time to time.
+•
+3 . Ahates and c:tlarges specified herein are pertail'llng to the Network Elements Attachment The rates set forth
+l)ereln are subject. to, Md Shall nothaw·the effect of lmltlng, foolriote 1 at>ove. Verfz0n ~ not 8llfM thatUNE prices
+must be b(lsed &Ofely on f!)IWlll'd-loold costs, $11<1 Verizon reserves the right to.change UNE prices to conform to any
+IW:Jdlficatlon of the FCC's LINE pricing rules. ·
+For the avoldince of aoy doubt. In addition to any rates.and charges set for1h her8in, Verizon, effacllve as of
+March 11, .2005, may, but shall not-1l!3 required to, charge (and·Neutral Tandem shall pay) any rates .net charges~·
+apply to a CLEC's embedded base of certain UNEs pul'$Uant to the TRRO. ·the.foregoing being without llmltallon of other
+rates and-cttarges-that may aj>ply under subsequent FCC orders or olhefwlse: In addition, as set forth In Industry Notices,
+access tartfr rates and/or other applicable non-UNE rates may apply-for certain faclnties and.arrangements that are no •
+longer available as wibundled network elements or combiflations thereof. ·
+NT PAe Compv3.1 09282007f.doc 130
+-----------------------------------------
+-·-···-···--·----
+
+•
+Ill. Unbundled Loops With the exception of 2 Wire HDSL, SDSL and
+l[?SL, as applicable per Verizon PA PUC 216 as
+amended from time to time.
+2 Wire ADSL compatible Loops Density Cell: Service Order: $0.00
+2 Wire HDSL compatible Loops 1 -$6.77/Month Installation:
+2 Wire SDSL compatible Loops 2 -$9.25/Month If premises vlslt not
+2 Wire IDSL compatible Loops 3 -$12.39/Month required -$1.44 initial
+4 -$22.39/Month and each additional
+loop: Not Applicable if
+existing loop & port
+together
+If premises visit
+required -$1.44, initial
+and each additional
+loop
+Disconnect
+$1.30 per loop
+Cooperative Testing,
+per loop-$0.00
+Engineering query,
+• $0.00
+Engineering Work
+Order,
+$0.00
+Manual Pre
+Qualification, per loop
+$0.00
+Line and Station Transfer5 (for xDSL Loops) NIA $0.00/Loop
+Line and Station Transfer6 (for Hotcut} N/A $147.75/Loop
+IV. Intrastate Collocation As Applicable Per Verizon PA PUC No. 218 as
+amended from time to time
+••
+5 Une and Station Transfer applies where Verizon swaps facilities In order to provision a Copper Facillty.
+6 Une and Station Transfer applies Where Verizon swaps facillties In order to provision a Copper FacDity
+NT PAe Compv3.1 09282007f.doc 131
+'----- -------
+-·-
+
+•
+V. Une Spllttlna (also refemtd to as
+"Loop Shartng•i't
+A. Unbundled Local Loops As Appllcabfe per this Appendix A for UNE Local 2-Wlre
+Digital (DSL qualified) Loops Monthly Recurring Charges and
+Non-Recumng Charges as amended from time to time.
+Includes, without limitation, Recurring 2-Wfre Digital (DSL
+qualified) Loop Charges, Service Order Charge (per order),
+Service Coaneetiott Charge• (per loop), Service Connection- _
+Other Charge• (per loop), and Provisioning charges. Also
+includes, without limitation, If applfcable, Field Dlsp,tch, TC
+Not Ready, Loop Qualification, Engineering Query,
+Engineering Work Order, Trouble Dispatch, Misdirects,
+Dispatch In, Out, and Dispatch Expedites, Installation
+Dispatch, Manual Intervention, Expedited, Digital· Designed
+Recutrlng and Non-Recurring Charges.
+-S. Other CtiargM I. Regrade $3.28NRC
+II. *Servle.8 Connection
+*Service Connection/Other
+A second SeNlce Connectioo
+NRC and Service Connection/
+Other NRC applies on New
+Loop Sharing Arrangements
+Involving the connection of
+both voice and data.
+connections.
+lll. Disconnect A disconnect NRC applies, as
+applicable, on total Loop Sharing
+·disconnects.
+Iv. Line and Station Transfers/Pair swaps An LST/Palr
+Swap NRC applies, as applicable, on
+LST a~tivlty perfonned on New Loop
+Sharing Arrangements.
+C. Collocation R8tn . As applicable per Verizon PA PUC No. 218 as amended from
+Collocation Rates (Including, without time.t o time.
+llmltatlpn, Splitter Connection and
+Installation Rates)
+D. Appllcab~ rates for Line Splitting are as set forth In Verlzon's PA PUC No. 216 Tariff as
+amended from time to time.
+1 · This Pricing Attachment lncQrporatn b)' refenince·the rates set fOrth 111 tt-. Agteement for the 80l"t'lces and
+charges referent:ed herein. In tha event this ~ Attachment relers to • Mrvlce that Is not 8ll8'lble under the •
+Agreement. the Agteernent at,.a control. Nothing In this Appenclx A shd be deemed to-require Verizon to prollide a·
+service that-the Agreement does not requil'e Verizon to-provide.
+NT PAe Compv3.1 0928i007f.doc 132
+
+•
+As applicable per Verizon PA PUC 216 as
+VI.EEL amended from time to time.
+VII. DARK FIBER
+Records Review, per inquiry $0.00
+Records Review with Reservation, per inquiry TBD
+Dark Fiber - IOF
+Verizon C.O. to Verizon C.O
+Service Order $55.22
+Serving Wire Center ("SWC") Charge/SWC/Palr $15.95 $42.59
+IOF Mileage/Pair/mile
+$149.32
+IOF Miieage Installation Charge/Pair $204.94
+Expedited Handling $94.34
+Intermediate Office Routing Charge $10.66 $36.23
+Dark Fiber -LOOP
+Service Order $55.22
+SWC Charge/SWC/Pair $15.95 ~ $38.53
+• Loop Charge/Pair
+Rate Group A1 $71.66 $566.97
+Rate Group A2 $117.04 $566.97
+Rate Group B1 $169.14 $566.97
+Rate Group 82 $200.95 $566.97
+Expedited Handling $317.43
+VIII. Unbundled Sub-Loop Arrangement (USLA) As applicable per Verizon PA PUC 216 as
+amended from time to time.
+IX. Unbundled Drop Sub-Element {UDSE) As applicable per Verizon PA PUC 216 as
+amended from time to time.
+X. Network Interface Device (NJD) Except as below for NID-to-NID as
+applicable per Verizon PA PUC 216 as
+amended from time to time.
+NID -2 Wire per NID/month -NID-to-NID $1.04
+NID • 4 Wire per NID/month • NID·to-NID $1.12 .
+•
+NT PAe Compv3.1 09282007f.doc 133
+
+•
+service orEl•-nf. -.. -· '•! - R~rrinnC~: N-. - .. ~ C""----:
+YI, Routine· • ·- ,,_
+Clear Defective Pair Civnere feasible) N/A TSO
+Reasslanment of Non-Worklna Cable Pair NIA TBD
+Binder Grouo Rearranaement N/A TBO
+Reoeater-lnstallatlon NIA TBD
+Anoaratus Case Installation NIA TBD
+Ranoe Extenders - DSO Installation NIA TBD
+Range Extenders - DS1 Installation NIA TBD
+Channel Unit to Universal/Cotted DLC NIA TBD
+Svstem !exlstlna)
+Servtna Terminal - lnstellatlon/Unarade NlA TBD
+..
+Activate Dead Carmer Pair N/A TBD
+Multlpfexer-1/0 -Installation NIA TBD
+Multlclexer ;,,... 1/ 0 - Reconflouratlon NIA TBD
+..
+MLiltiPlexer-3/1 -Installation NIA TBD
+Multmlexer - 3/1 - Reconflauratlon NIA TBO
+. -
+Multiolexer - Other - Installation NIA TBD
+.. Move Drop NIA TBO
+:
+Cross-Connection - Exlstlna Fiber Facllltv NIA TBD
+Une Card - Installation NIA TBD
+~
+Cooner Rearranaement NIA TBD
+Central Office Terminal - Installation NIA TBD
+IDLC Only Condition NIA TBD
+•
+Other Reauired Modifications NIA TBD
+No Facllltles -Confirmation NIA TBO
+OTHER TBD
+Commlnaled Arranaements - circuit NRC NIA TBD
+nAr
+Conversion - Service Order NIA TSO
+conversion -Installation oer circuit NIA TBD
+Circuit Retaa - oer circuit N/A TBD
+N/A
+Dark Fiber-Dark Aber Routine Network NIA TBD
+Modlficatloos
+a Thi$ Appendix may contain rafas and charges for (andfor:reference) services, faclltles, arrangements and the
+like that VerizQn does not llave an obligation to provide under lhe A:graement (e.g., services, facllltles. .-rangements and
+the Ake-forwhlehan UnbUndllng requlremeflt dOes not exist under~7 U.S.C. Section 251(cX3)). NotwHhstancllng any
+such rates and/or charges (and/or references) and, for the avoidanc& of any doubt, nothing In this Appendix shall be
+deemed to requiie Verizon to PfOVfde a service. facility. arrangement or the llke-tliat1he Agreement does nol require
+· Verizon to provide, or to provide a service, facility, arrangement or the like·upon rates, terms or rondltlons oth8r than •
+those that may be required.by the Agreement. .·
+NT PA& Compv3.1 09282007'.doc 134
+
+•
+C.RESALE8
+Service or Element Description: ~ecurring Charges: Non-Recurring
+Charge:
+I. Wholesale Discount for Resale of Retail
+Telecommunications Services1 0
+Resale of retail.services If Neutral Tandem 22.00% (Inclusive of PA gross receipts tax)
+provides own operator services platform
+Resale of retail services if Neutral Tandem uses 18.34% (Inclusive of PA gross receipts tax)
+Verizon operator services platfonn
+D. OPERATIONS SUPPORT SYSTEM As applicable per Verizon PA PUC 216 as
+amended from time to time.
+Access pass-through to number portability
+E. 911/E911 purchaser
+Transport Per section A. above.
+Data Entry and Maintenance No Charge
+•
+All rates and charges specified herein are pertaining to the Resale Attachment
+10 Excludes telecommunications services designed prlmarily for Wholesale, such as switched and special
+exchange access service. and, subject to the provisions of the Resale Attachment, the following addltlonal arrangements
+that are not subject to resale: frmlted duration (90 days or less) promotional offerings, public coin telephone service, and
+techrdcal and market trials. T8lCes shall be collected and remitted by the reseller and Verizon in accordance with legal
+requirements and as agreed between the Parties. Surcharges (e.g., 911, telecommunications relay seivlce. universal
+service fund) shall be collected by the reseller and either remitted to the recipient agency or NECA, or passed through to
+•
+Verizon for remittance to the recipient agency or NECA, as appropriate and agreed between the Parties. End user
+common Une charges shall be collected by the ~lier and remitted to Verizon .
+NT PAe Compv3.1 09282007f.doc 135
+
+•
+Service or Element Dt19rfptJon: Recurring Charges: Non=Recurring
+Charge:
+F. 11ME AND MATERIALS As applicable per Verizon PA PUC 216 as
+amended from time to time.
+G. DIRECTORY LISTINGS & BOOKS
+Primary Listing (on Initial UNE service order). Not Applicable Not Applicable
+For eai;h residence telephone number, two (2)
+Rstings In the White Page directory are provided.
+For each business telephone number listed
+(except numbers of Centrex or Centrex-like
+$ervlces or indlallng service station lines} one (1)
+fisting Is provided In the White Page ·Directory
+and one (1) listing in the Yellow Page directory of
+thetype·pravrded to Verlzon..PA end U$er
+business customers for which no specific charge
+applies,
+OtherTarlffed Ustlng Services (For·Jlstlngs Retail rates apply. For retail rates see Venzon-PA
+0.rdered in excess of the primary listings provided TariffNo. 1 sec. 5.B.
+or other listing types, or listings ordered at a time
+other than Initial UNE service order, or listings
+ordered not associated with a UNE service order, . -
+or for changes made to existing listings.)
+BookS & delfvery (annual home area directories No charge for normal numbers of books delivered
+only) to end users; bulk deliveries to Neutral Tandem per
+separate arrangement
+•
+NT PAe-Compv3.1 09282007!.doc 136
+
+•
+EXHIBIT A TO SECTION 3.1 {FIBER MEET ARRANGEMENT) OF THE INTERCONNECTION
+ATTACHMENT·
+Technical Specifications and Requirements
+for
+Neutral Tandem· VERIZON PENNSYLVANIA INC.
+Fiber Meet Arrangement No. [XX]
+The following technical specifications and requirements will apply to Neutral Tandem -Verizon
+Pennsylvania Inc. Fiber Meet Arrangement [NUMBER] ("FM No. [XX]"):
+1. FM No. [XX] will provide Interconnection facilities for the exchange of applicable traffic (as
+set forth In the Amendment) between Verizon's [NAME OF TANDEM/END OFFICE] and
+Neutral Tandem's [NAME OF TANDEM/END OFFICE] in the Commonwealth of
+Pennsylvania. A diagram of FM No. [XX] Is included as Exhibit A-1.
+2. Fiber Meet Pojnts ("FMPs~).
+2.1 FM No. [XX} will be configured as shown on Exhibit A-1. FM No. [XX} will have
+two FMPs. Neither FMP Is more than three (3) miles from the nearest Verizon
+• Tandem or End Office .
+2.2 Verizon will provision a Fiber Network Interface Device ("FNID") at [POLE XX,
+STREET VY, TOWN ZZ, STAT E] and tenninate L_J strands of its fiber optic
+cable In the FNIO. The FNID provisioned by Verizon will be a
+[MANUFACTURER, MODEL}. Verizon will bear the cost of installing and
+maintaining its FNID. The fiber patch panel within Verizon's FNID will serve as
+FMP No. 1. Verizon will provide a fiber stub at the fiber patch panel In Verizon's
+.FNID for Neutral Tandem to connect L_J strands of it$ fiber cable l__J
+connectors. Verizon's FNID will be locked, but Verizon and Neutral Tandem will
+have 24 hour access to their respective side of the fiber patch panel located in
+Verizon's FNID.
+2.3 N~utral Tandem will provision a FNID at[POLE XX, STREET VY, TOWN ZZ,
+STAT E] and terminate L_J strands of Its fiber optic cable In the FNID. The
+FNID provisioned by Neutral Tandem will be a [MANUFACTURER, MOOa].
+Neutral Tandem will bear the cost of Installing and mafntalning its FNID. The
+fiber patch panel within Neutral Tandem's FNID will serve as FMP No. 2. Neutral
+Tandem will provide a fiber stub at the fiber patch panel in Neutral Tandem's
+FNID for Verizon to connect L...J strands of its fiber cable. Neutral Tandem's
+FNID will be locked, but Neutral-Tandem and Verizon will have 24 hour access to
+their respective side of the fiber patch panel located In Neutral Tandem's FNID.
+3. Transmission Characteristics.
+3.1 FM No. [XX] will be built [as a ring configuration].
+3.2 The transmission interface for FM No. [XX] will be [Synchronous Optical Network
+•
+("SONEr'}].
+NT PAe Compv3.1 09282007f.doc 137
+
+•
+3.3 Terminating equipment shall comply with [SONET.transmisslon requirements as
+specified in Telcordia Technologies document GR-253 CORE (Tables 4..a
+through 4--11 )J. ·
+3.4 The optical transmitters and receivers shall provide adequate power for the end-
+to-end length of the fiber cable to be traversed.
+3.5 The optical transmission r~te will be [UnidlrectlonalJ OC-[XX].
+3.6 the path switch protection shall be set as [Noh-Revertive].
+3.7 Verizon and Neutral Tandem shall provide [Primary Reference Source traceable
+timing].
+4. Add Drop Mulllolexer.
+4.1 Verizon will, at Its own·cost, obtain and install (at ltS own premise) Its own Add
+Drop Multiplexer. Verizon will use a [MANUFACTURER, MODEL) Add Dr.op
+Multiplexer with firmware release of [X.XJ at the network level. Before making
+any upgrade or change to the firmware of Its Add Drop Multiplexer, Verizon must
+provide Neutral Tandem with fourteen {14} days advance written notice that
+describes the upgrade or change to Its firmware and states the date on which
+such firmware will be activated In Verlzon's Add Drop Multiplexer.
+4.2 Neutral Tandem will, at Its own cost. obtain and Install {at Its own premise) its
+own Add Drop Multiplexer. Neutral Tandem will use a [MANUFACTURER,
+MODEL] Add Orap MulUplexerwlth firmware release of[)(.X] at the network level. •
+Before making any upgrade or change to the firmware of its Add Drop
+Multiplexer, Neutral Tandem must provide Verizon with fourteen (14} days
+.advance written notice that describes the upgtade or change to lts flrmwa~ and
+states the date on which such firmware or software w.111 be activated In Neutral
+Tandem's Add Drop Multiplexer.
+4.3 Neutral Tandem and·V erizon will monitor all firmware upgrades and changes to
+observe for any failures or anomalies adversely affecting service or
+administration. If any upgrade or change to firinware adversely affects service or
+admlntstration of FM No. {XX}, the firmware will be removed from the Add Drop
+Multiplexer and will revert to the previous version of firmware.
+4.4 The Data Communlcatloh Channel shall be disabled between the Verizon and
+NeutralTand~ ~dd Drop Multiplexers of.FM No. {XX}.
+5. Testing.
+s:1
+Prior to tum..up of FM No. [XX], Verizon and Neutral Tandem will mutually
+develop and implement testing procedures for FM No. [XX]
+6. Connecting Facility Assignment (•CFA") and Slot Assignment Allocation c•§M"l.
+6.1 For one-way and two-way trunk arrangements, the SAA Information will be
+turned over to Neutral Tandem as a final step of tum up.o f the FM No. [XX].
+6.2 For one-way trunlc arrangements, Verizon will control the CFA for the subtending
+facilities and trunks connected to Verlzon's slots and Neutral Tandem wlll control
+•
+the CFA for the subtending facilltles and trunks connected to Neutral Tande'!l's
+NT PA& Compv3.1 09282007f.doc 138
+. ··-···------~------------------~------------------
+
+•
+slots. Neutral Tandem will place facility orders against the first half of the fully
+configured slots (for example, slots 1-6 of a fully configured OC12) and Verizon
+will place orders against the second half of the slots (for example, slots 7-12). If
+either Party needs the other Party's additional slot capacity to place orders, this
+will be negotiated and assigned on a case-by-case basis. Far SM, Verizon and
+Neutral Tandem shall jointly designate the slot assignments for Verizon's Add
+Drop Multiplexers and Neutral Tandem's Add Drop Multiplexer in FM No. [XX].
+6.3 For two-way trunk arrangements, Neutral Tandem shall control the CFA for the
+subtending facilities and trunks connected to FM No. [XX]. Neutral Tandem shall
+place facllity and trunk orders against the total available SM capacity of FM No.
+[XXJ.
+7. Inventory, Provisioning and Maintenance. Surveillance. and Resfr:>ration.
+7.1 Verizon and Neutral Tandem will inventory FM No. [XX] in their operational
+support systems before the order flow begins.
+7 .2 Verizon and Neutral Tandem will notify each other's respective Maintenance
+Control Office of au troubleshooting and scheduled maintenance activity to be
+performed on FM No. [XX] facilities prior to undertaking such work, and will
+advise each other of the trouble reporting and maintenance control point contact
+numbers and the days and hours of operation. Each Party shall provide a timely
+response to the other Party's action requests or status Inquiries.
+7.3 Verizon will be responsible for the provisioning and maintenance of the FM No.
+•
+[XX] transport facilities on Verizon's side of the FMPs, as well as delivering its
+appficable traffic to the FMPs. Neutral Tandem will be responsible for the
+provisioning and maintenance of the FM No. [XXJ transport facilities on the
+Neutral Tandem's side of the FMPs, as well as delivering Its applicable traffic tq
+the FMPs. As such, other than payment of any applicable intercarrier
+compensation charges pursuant to the terms of the Agreement, neither Party
+shall have any obligation to pay the other Party any charges in connection with
+FM No. [XX].
+7.4 Verizon and Neutral Tandem will provide alarm surveillance for their respective
+FM No. [XX] transport facilities. Verizon and Neutral Tandem will notify each
+other's respective maintenance control office of all troubleshooting and
+scheduled maintenance activity to be performed on the facility prior to
+undertaking such work, and will advise each other of the trouble reporting and
+maintenance control point contact numbers and the days and hours of operation.
+8. Cancellation or Modification of FM No: [XXJ.
+8.1 Except as otherwise provided In this Section 8, all expenses and costs
+associated with the construction, operation, use and maintenance of FM No. [XX}
+on each Party's respective side of the FMPs will be borne by such Party.
+8.2 If either Party terminates the construction of the FM No. [XX] before it is used to
+exchange traffic, the Party terminating the construction of FM No. [XX] will
+compensate the other Party for that Party's reasonable actual incurred
+cqnstruction and/or Implementation expenses.
+8.3 If either Party proposes to move or change FM No. [XX] as set forth in this
+•
+document, at any time before or after it is used to exchange traffic, the Party .
+NT PAe Compv3.1 09282007f.doc 139
+L__ ________ _________________ - - - - ··- .. --... - -- .. . ______ __J
+
+•
+requesting the move or change wffi compensate the other Party for that Party's
+reasonable actual Incurred construction and/or Implementation expanses .
+. Augments, moves and changes to FM No. [XX] as set forth In this document
+must be mutually agreed upon by the Part.las 1n writing.
+NEUTRAL TANDEM·· PENNSYLVANIA, LLC VERIZON PENNSYLVANIA INC.
+By:
+TO BE EXECUTED AT A LATER DATE
+Date: ---
+•
+•
+.·
+NT PAe COmpv3.1 09282.001f.doc 140
+- - ---· -·----------- -----------------
+..
+
+ExhlbitA-1
+Neutral Tandem· VERIZON PENNSYLVANIA INC.
+Fiber Meet Arrangement No. [XX}
+City, State
+•
+•
+NT PM Compv3.1 09282007(.doc 141
+
+EXHIBITC
+MASTER SEUVICF. AGREEMENT
+This Master Service Agreement (the "Agreement") dated _July_ _ lst_, 2015 (the "Effective Date"), is made by
+Jnd between A TL Communications, lnc., an Oregon corporation ("ATL"), with offices al 56825 Venture Lane, Suite l IO,
+Sunriver, OR 97707 and Mix Networks Ilic. , a Florida corporation, with offices at 608 Robin Road Lakeland, FL 33803, on
+behalf of itself' and its affiliates (collectively, "CUSTOl'vffiR"). ATL and CUSTOMER are sometimes rcforrcd to herein
+mJividually as ll "Party" and collectively, as the "Parties."
+RECITALS
+WHEREAS, ATL is in the business oi fornish.ing various :.ervices supporting the provision of telecommunications and
+related services; and
+Wfl.EREAS, CUSTOMER desires to procw\: certain of ATL 's services, as specified herein
+NOW, THEREFORE, ln consideration of the mutual agreements below, and intending to be legally bound, ATL and
+CUSTOMER agree as follows:
+GENERAL TER.VIS AND CONDITIONS
+Section 1. Provision of Services.
+ATL will provide to CUSTOMER the servic~ defu1ed in the executed Service Addendums attached.
+Section 2. Payment for Services.
+2.1 CUSTOMER shall pay ATL for the Services i.n accordance wich Fee Schedules attached to each executed
+Scn<ice Addendum. A TL 's current Fee Schedules nre attached ro each Service Addendtun. ATL, in its sole discretion, may
+incrcast: or otherwise revise the fees, rates, and charges set forth in the Service Addeodwn Fee Schedule at the end of a term
+and only upon providing CUSTOMER thirty (30) days' prior written notice . In addition, CUSTOMER shall be responsible
+for paying all taxes and other charges imposed by governmental authorities in connection with ATL's provision or
+CUSTOMER'S receipt of the Services. CUSTOMER shall not be responsible for taxes, assessments, duties, pennies, tariffs,
+fees or other charges of any kind attribucable to AT L 's income; revenue, profits; assets, gross receipts; or any similar profir
+related taxes, which shall remain lhe sole respon~ibility of ATL.
+2.2 Start-Up Fees are due and payable upon execution of rhis Agreement. ATL will bill CUSTOMER monthly
+for all other foes and charges, with 111onU1ly Retainer fees and other recurring charges being billed io advance and any usage
+charges being billed in arrears. Bills will be sent elecn·onically unless CUSTOMER specifies otherwise. Payment, in full, of
+ull invoiced amounts is due on or before the twenty-fifth (25th) day following the invoice date (the "Due Date"). Any
+payment, or po11ion thereof, not received by the Due Date shall be considered late and shall be subject to a late fee calculated
+:it the rate of the lesser of one and on.:-half pc::r t:t:nl (1.5%) per month, or the highest amount pc::m1itted hy law, until paid.
+2.3 If CUSTOMER reasonably disputes any portion of an A fL invoice, CUSTOMER must pay the undisputed
+portion and submit a written claim for the disputed amount. All claims must be submitted Lo A TL within sixty (60) days of
+re<;eipt of the invoice for those Services. CUSTOMER irrevocably waives the right to dispute any charges not disputed
+within sixty (60) days. ATL and CUSTOMER agree to use their good faith best efforts to resolve any dispute within thirty
+(JO) days of CUSTOMER'S timely claim. ATL will reflect any credits or adjusm1enrs re faring ro a settled disputed amount ill
+the next invoice submitted to CUSTOMER after resolution. Jn the event that a dispute is resolved against CUSTOMER,
+CUSTOMER must pay, wit11in thirty (30) days of CUSTOMER'S receipt of ATL's notice of the resolution of the dispute,
+any portion of tbe disputed charges that was previously withl1eld.
+2.4 In the event CUSTOMER fails, by the Due Date, to pay the w1disputcd portion of any invoice, or any other
+invoiced amounts for which CUSTOMER failed to submit a proper and timely dispute, CUSTOMER shall be in material
+brcacli of this Agreement. ATL will perm ii CUSTOMER five (5) business days lo cure such breach. If the breach remains
+uncured, or if CUSTOlvIER otherwise breaches this Agreement (and tbe breach remains uncured beyond any stated cur,·
+period herein), A TL shall have the right to talce all such lawful action as ATL may in its sole discretion deem appropriate,
+including, witliout limitation, any of the following: (i) suspend acceptance or processing of CUSTOMER's orders for
+Services; (ii) enforce any security interest held by ATL; (iii) upon thirty (30) days' notice to CUSTOMER, terminate this
+Agreement without liability 10 CUSTOMER, including cancellation of any Services being provided to CUSTOMER; (iv) if
+ATL is acting as CUSTOMER'S RespOrg under tb1s Agreemi::nt, A J'L may contact CUSTOMER's customers to advise them
+thal, following term in at ion of this Agreement pursuam to such thirty (30) notice, ATL will be abandoning their toll free
+
+numbers, and, if necessary, return the numbers to the appropriate number administrntion system (SMS/800 for Toll free or
+;-fPAC for Local Numbers); and (v) pursue any other remedy or relief as may be permitted by this Agreement or by law,
+including any combination of the foregoing actions.
+2.5 CUSTOMER acknowledges and agrees rbat time is of the essence with respect to payment of ATL's
+invoices. Except as t:xpn::ssly set forth above, CUSTOMER shall have no opportunity to cure a failure to pay an A 1L invoice
+in a timely manner. CUSTOMER further acknowledges and agrees as follows with respect to termination of this Agreement
+based on CUSTOMER's failure to pay any amount due AT L, except for any amount in dispute that is subject to pending
+dispute resolution under Section 2.3:
+(i) Tiiat CUSTOMER shall nor seek or obtam legal or equitable remedies, including without
+limitation. injunctive reliel; that would require ATL to continue providing the Services to CUSTOMER or CUSTOMER's
+customers while any undisputed amount due to ATL remains unpaid;
+(ii) TI1at CUSTOMER shall be solely responsible tor, and shall indemnify ATL agninst, and hold
+ATL harmless from, any and all claims and Liability asserted by CUSTOMER's customers or other third parties affected by
+AfL's discontinuation of Services, including, without limitation, ATL's abandonment of any numbers or its return of
+numbers ro the appropriate number adminisn·ation system.
+2.6 CUSTOMER shall be liable to A TL for all costs, including, without limitation, reasonable attorney fees,
+collection agency fees and commissions, incurred by A TL in attempting to collect pasl due charges.
+Section 3. St:curitv for Payment.
+ATL may in its sole discretion, prior to providing any Services, require CUSTOMER to furnish security for payment in the
+fom1 of a rnfundable deposit. Further, if at any time A TL reasonably determines that any amount held as a deposit is
+inadequate to secure payment of A TL's charges, ATL may require an additional deposit in a reasonably sufficient amount.
+Any additional security required hereunder must be furnished to /\TL by CUSTOMER withit1 thirty (30) days from the date
+that A TL notiiies CUSTOMER of the requirement to furnish such additional security. Any deposit fumishcd by
+CUSTOMER shall be refunded, without interest, upon the tennination of A TL 's provision of tbe Services and
+CUSTOMER's payment, in fl.ti!, of AT L 's invoices to which the deposit relates.
+Section 4. Insolvency.
+I.Ji the event a Party files for bankruptcy, whether voluntary or involuntary; admits in writing its inability to pay its debts
+generally as they become due; makes a general assignment for the benefits of creditors; or seeks relief or reorganiz.acion
+'1I!der any Jaws relating to bankruptcy or insolvency, the other Party may, upon written uotice, terminate this Agreemeut.
+Section 5. Warranties.
+5.1 Performance. ATL represents, warrants and covcnanlS that all Services: (i) will be performed in
+accordance with CUSTOMER'S reasonable written instructions: (ii) will be performed to the best of ATL's ability and in an
+effecuve, timely, professional and workmanlike manner in accordance with applicable industry standards and practices; (iii)
+wtll be performed in accordance with any specifications and documentation set fo11h in the relevant Service Addendum; and
+(iv) will comply, including the utilization thereof a~ contemplated hereunder, with all applicable laws, rules, regulations,
+orders of any govemrncntal (including any regulatory or quasi-regulatory) agency, and will not violate or contravene the tenns
+of any contracts between ATL and third parties.
+5.2 Non-infringement. ATL represents, wammts and covenants that: (i) it has and will have all rights, titles,
+iicense~. intellectual property, permissions and approvals necessary in connection with its performance under this Agreemenl
+:md to granl CUSTOMBR the rights granted hereunder; and (ii) none of the Services nor the provision or utilization thereof as
+~omcmplated under this Agreemenr, do or will infringe, violate, trespass or in any manner contravene or breach or constitute
+:he w1authorized use or misappropriation of any intellccn1al prope1ty of any U1ird party.
+5.3 Nonimrnigrant Workers. ATL represents warrants and covenants chat all non-U.S. citizens perfo1ming
+Services under this Agreement will be in compliance with U.S. immigration laws and the rules, regulations and guidelines
+promulgated by the U.S. Bureau of Citizenship and Immigration Services.
+5.4 Except as expressly set forth herein, NEITHER PARTY MAKES ANY WARRANTY WHETHER
+EXPRESS, JMPLIBD, OR STATUTORY, AS TO THE DESCRIPTION, QUAL1TY, MERCHANTABlLITY,
+
+COMPLETENESS, aud OR FITNESS FOR ANY PURPOSE OF THE SERVICES PROVIDED UNDER OR IN
+CONNECTfON WITH THJS AGREEMENT. ALL SUCH WARRANTIES, INCLUDING, WITHOUT LIMITATfON,
+WARRANTfES THAT SERVICES PROVIDED UNDERTl-JlS AGREEMENT WJLL BE ERROR FREE OR FURNISHED
+WlTHOUT INTERRUPTION ARE HEREBY EXCLUDED AND DISCLAIMED.
+Section 6. Limitlltiua of Liability.
+6.1 ATL's T01Al. LIABil.lTY, AND CUSTOMER'S SOLE AND EXCLUSIVE REMEDY FOR ANY
+LOSS, CLAIM, INJURY, LIABILITY, OR EXPENSE (INCLUDING ATIORNEYS' FEES) ARISING OUT OF ATL'S
+PERFORMANCE OR FATLURE TO PERFORM AS PROVIDED IN THIS AGREEMENT, SHALL I3E LIMITED TO
+'.'HE AMOUNT OF THE TRANSACTION CHARGE PAID BY CUSTOMER FOR THE TRANSACTION GIVING RIS.E
+TO THE CLAIMED LIABILITY, IRRESPECTIVE Of WHETHER SUCH LIABIL1TY IS DUE TO BREACH OF
+CONTRACT, ACTIVE OR PASSIVE NEGLIGENCE, OR ANY OTHER ACT OR FAILURE TO ACT BY ATL OR ITS
+l:..MPLOYEES OR AGENTS.
+6.2 NOTHING HEREIN SHALL EXEMPT OR BE CONSTRUED AS EXEMPTING ATL HWM ANY
+LIAl:HLJTY ARISING OUT OF A.TL'S WILLFUL MlSCONDUCT, FRAUDULENT CONDUCT, OR VIOLATIONS OF
+LAW OR AS OTHERWISE LIMITING AT I. 'S LlABlLJTY TO THE EXTENT SUCH LIM1TATION IS UNLA 'WFUL OR
+OTHERWISE UNENFORCEABLE AS CONTRARY TO PUOLIC POLICY.
+6.3 NOTWlTHSTANDJNG ANYTHING TO THE CONTRARY HEREIN, IN NO EVENT SHALL ATL OR
+ITS EMPLOYEES OR AGENTS BE LIABLE FOR ANY LOSS, CLAIM, £NJURY, LIABILITY, OR EXPENSE
+(fNCLUDTNG AITORNEYS' FEES) CAUSED BY CUSTOMER OR ARlSJNG OUT OF THE PROVISION OF
+FACrLITIES OR SERVICES IJY ANY OTHER Tl-HRD PARiY, INCLUDING, WITHOUT LIMITATION, SMS/800,
+INC. OR THE NUMBER PORTABILITY ADMlNISTRA TfON CENTER (NPAC) ADMINTSTRA TOR.
+6.4 UNDER NO CiRCUMSTANCES WHATSOEVER SHALL EITHER PARTY BE LI.ABLE TO THE
+OTHER FOR INDIB.ECT, lNCIDENTAf,, SPECIAL, OR CONSEQUENTIAL DAMAGES, INCLUDING, WITHOUT
+LIMITATION, LOST REVENUES OR PROFJTS.
+Section 7. Indenu1iflcation.
+BOTH PARTIES SHALL INDEMNIFY THE OTliliR AND ITS EMPLOYEES AND AGENTS, AND HOLD EACH
+tJTHER AND lTS EMPLOYEES AND AGENTS HARMLESS, AGAINST ALL LOSS, LIABILITY, DAMAGE, AND
+EXPENSE, INCLUDING REASONABLE A TIORNEYS FEES, DUE TO CLAIMS BY TfilRD PARTIES FOR ANY
+LOSS, INJURY TO PERSON OR PROPERTY, LIABILITY, DAMAGE, OR OTHER HARM OF ANY NATURE
+ARISING OUT OF. OR lN ANY WAY RELATING TO EACH OTifER'S PROVISION OF SERVICES UNDER THIS
+AGREEMENT, IRRESPECTIVE OF ANY PASSIVE OR ACTIVE NEGLIGENCE OR OTJIER ACT OR FAILURE TO
+ACT ON TUE PART OF EACH OTHER OR EACH OTHER'S ErvtPLOYEES OR AGENTS; PROVIDED TIIAT
+NOTHING HEREIN WILL BE DEEMED TO REQUIRE CUSTOMER TO INDEMNITY EACH OTHER EITHER FOR
+El11-IBR PARTY'S WILLFUL MISCONDUCT OR TO THE EXTENT, BUT ONLY TO THE EXTENT, THAT SUCH
+INDEMNIFICATION OBL!GATfON rs ONLA WFUL OR OTHER WISE UNENFORCEABLE AS CONTRARY TO
+PUBLfC POLICY.
+Section 8. Force Majeure.
+/\TL will not be liable for any delay or failme in perfonnancc of any part of this Agreement caused by a force majeure
+condition, including fires, strikes, embargoes, explosions, power blackouts, earthquakes, volcanic action, floods, wars, water,
+the elements, labor disputes, civil disturbances, govenunent requirements, acts of civil or military autborilies, acts of God,
+acts of a public enemy, inability to secure services or products of outside vendors, or other causes beyond its reasonable
+oontrol whether or not similar to the foregoing conditions. Jf any force majeure condition occurs, ATI. will give prompt
+notice to CUSTOMER and will take reasonable steps to mitigate the effects of such force majeure condition on its
+performance. Upon cessation of such force majeure condition, ATL will give like notice and commence performance
+hereunder as promptly as reasonably practicable.
+Section 9. Compliance with Laws.
+f'b.c Parties shall perform aU of their respective obligations and undertakings hereunder, and carry out all related business, in
+compliance with all applicable governmental laws, orders, rules, and regulations.
+
+,
+Section I 0. CUST01v1ER Authori7.ations.
+CUSTOMER covenants and wan·ants that, prior to submitting any order or orher request to AT l, for the provision of Services
+in cmmection with the assignment, pon:ing, cstablisluncnt, or transfer of any toll free number, local telephone number, or
+tclecommunicalions service, CUSTOMER will have obtained all customer ::ind end user authorizations, and verifications
+thereof, that are required under applicable governmental laws and regulations for such assignment, p011ing, esrablishment, or
+tnmsfor. ln addition, CUSTOMER shall furnish ATL with such letters of authorization or agency ("LOAs") and other
+documents that Bie required by law or reasonably requested by ATL in connection with I\ TL 's provision of such Services.
+ATL shall be entitled to rely on tht: authenticity, accuracy, and CUfl'ency of all LOAs and other documentation provided to
+ATL by CUSTOMER
+Section 11. Term and Termination.
+The term of this Agreement will commence on the effective date hereof and will continue in fuU force and effect for a term of
+ttu·ce (3) months and thereafter this Agreement will automatically be renewed and extended for an indefinite number of
+successive thirty (30) day terms unless and until tenninated by either Party pursuant co written notice delivered by the
+terrntnating Pa1ty to the other Party not less than thirty (30) days prior to the intended termination date.
+Section 12. Survival.
+Any provision hereof, which, by its context is intended to survive the termination or expiration hereof, shall also survive. All
+limitations of liability, confidentiality provisions, and indemnification obligations shall survive the termination or expiration
+of this Agreement.
+Section 13. Notices and Communications.
+Except as otherwise expressly provided herein, all notices under this Agret:menc by a Party must be given in writing by
+delivering tht:: same lo the other Paity by personal delivel), e-mail, facsimile (fax), prepaid commercial overnight delivery or
+First Class United Stares mail, with conftrrnation of delivery. Such notice shall be effective upon confirmation of delivery. Tn
+the case of A TL, such notices shall be delivered to ATL at the street, e-mail, or fax address shown in this Agreement. In the
+case of CUSTOMER, such notices shall be dc.;livered to CUSTOMER al the srreet, e-mail, or fax address fwnisbed to A1 L in
+the CUSTOMER Client Data Form. E-mail or fax transmission ofa signed CUSTOMER Work Order may be used in lieu of
+delivering the signed original CUSTOMER Work Order for all purposes, including, without limitation, resolution of disputes
+between tbe Parties in auy forwn, except that CUSTOMER must retain and, upon appropriate request furnish, signed,
+original RespOrg releasc:s.
+Section 14. independent Contractors.
+The relationship of the Parties hereto is solely that of independent cono·actors, not employer/employee, and nothing herein
+will be construed to constitute AT L and CUSTOMER as partners, joint venturers, co-owners or otherwise as participants in a
+joint or common undertaking. Neither ATL nor CUSTOMER, nor any representatives or employees of either are employees
+o1 the other for any purpose, and neither Party nor any representatives or employees will have any power or authority,
+express or implied, to represent, acr for, or otherwise create or assume any obligation on behalf of, or binding upon the other
+Party, other than as expressly set forth herein. As independent contractors, each Pa1ty is responsible for reporting and
+payment of all taxes owed by that Party.
+Section 15. Assignment.
+CUSTOMER must not assign, sell or transfer this Agreement or the right to receive Services, whether by operation of law or
+otherwise, without the prior written consent of AT L, which consent will not be unreasonably withheld, except to affiliates,
+which shall not require consent.
+Section 16. Dinding on Successors.
+This Agreement will be binding upon and inure to the benefit of the Parties hereto and their respective successors and
+assigns.
+
+Section 17. No Third Party Bo::neficiaries.
+This Agreement does not provide any person or entity that is not a party to this Agreement with any right, benefit, remedy.
+claim. liability, or cause of action.
+Section I 8. Complete Agreement.
+This Agreement, which includes the:: ~xhibits and execmed Service Addendums and lhe associated fee Schedule described
+herein. contains the entire agreement and understanding of the Parties with respect to the entire subject matter hereof, and
+there are no representations, inducements, promises or agreements, oral or otherwise, not embodied herein. Any and all prior
+discussions, negotiations, commitments, and understandings relating to the subject matter hereof are merged herein. There is
+no conditions precedent to the effectiveness of this Agreement other than as stated herein, and there are no relnred collateral
+agreements existing among an) of tbe Parties that are nor referenced herein.
+Section 19. Amendments and Waivers.
+Except as expressly provided in tbjs Agreement with respect to changes in the Service Addendwn Fee Schedules, this
+Agreement may be amended only by an instrument in writing signed by both Parties. No waiver of any provision of this
+Agreement and no consent lo <my default under tbis Agreement will be effective unless and until the same is reduced to
+writing and signed by a duly authorized representative of the Party against whom such waiver or consent is claimed. No
+course of dealing or failure of either Party to enforce any provision of this Agreement wilJ be construed as a waiver of such
+provision or of any other right under this Agreement.
+Section 20. Severability.
+Whenever possible, each provision of this Agreement should be interpreted in such a manner as to be effective and valid
+under applicable law, but if any provision of this agreement should be prohibited or invalid under applicable law, such
+provision will be ineffective only to the extent of such prohibition or invalidity without invalidating the remainder of such
+provision or the n:maining provisions of this Agreement.
+<:\ection 21. S!l.Qject !leadings.
+TI1e subject headings of the sections of this Agreement are included for convenience only, and will not affect the construcnoo
+ur intcrpretotiou of any of its provisions.
+Section 22. Governing Law.
+lb is Agreement is made under and will be construed in accordance with the laws of the State of Florida with venue is Polk
+county, Florida.
+Section 23. Dispute Resolution.
+fhe Parties will attempt in good faith to resolve any controversy, claim, or dispute arising out of or relating to this Agi·eemeot
+("Dispute") by mediation under the Commercial Mediation Rules of the American Arbitration Association (AAA) in effect
+on the date of this Agreement. lf the Dispute has not been resolved by mediation as provided above within sixty (60) days
+;.iller the delivery of a written notice delivered by either Party to the other setting forth the nature and amount of the Dispute
+("Dispmc Notice"), the Dispute will be submitted to binding arbitration by a neutrnl arbitrator in Portland, and administered
+by the AAA under its Commercial Arbitration Rules, except that (a) persons eligible to be selected as arbitrators will be
+limited to lawyers specializing in either general commercial litigation or general corporate and commercial matters who have
+both had training and experience as arbitrators, and (b) each Party will be entitled to strike on a preemptory basis, for any
+reason or no reason, any or all of the names of potential arbitrators on the list submitted to the parties by the AAA as being
+qualified in accordance wiU1 the criteria set forth herein. The arbitrator will buse any award on applicable law and judicial
+precedent and, unless both Panies agree otherwise, will include in such award a statement of the reason upon which the
+award is based. Judgment on the award rendered by the arbitrator may be entered in any court having jurisdiction thereof.
+Section 24. Confidentiality; Non-Publicity.
+24.J ATL sliall cooperate in good faith with Customer's reasonable efforts to comply with applicable law and
+Fo.:deral Communications Commission ("FCC") regulations relating to use, disclosure, and access to customer proprietary
+
+nerwork information ("CPNl"), as defined by Title 47, section 222 of the United States Code (47 U.S.C. § 222). ATL will
+take all commercially reasonable efforts not to disclose the existence of this Agreement to any entity outside of the business
+relationship established between the Pa1tics by virtue of this Agreement. Customer's name, identity, and trademarks may not
+be used by ATL in any way, including, but not limited to, use in any customer lists of ATL or in any promotional or
+adve1tisiag materials or activities of AT L, unless pcm1ission is received via e-mail or fax.
+24.2 Confidential fnfo1mation. "Confidential Information" may include: (i) all information related to the
+business of one party ("Disclose1~') and any of its affiliates, clients and other third parties, to which the other party
+("Recipient") has access, whether in oral, written, graphic or machine-readablt: form, in the course of or i.t1 connection with
+the Services: (ii) all Work Product as described iJ1 Section 4 below; (iii) all notes, analyses and studies prepared by Recipient
+incorporating any of the info1mation described in this Section 24; and (iv) the tenns and conditions oftbis Agreement.
+24.3 Restriction~. Recipient will keep the Confidential Information confidential, and may disclose the
+Confidential Information to ito; Representatives (officers, directors, employee~. agents and subcontractors (aad their
+employees) of such party) who have a need to know such Confidential lnfonnation solely in connection with this Agreement.
+Recipient will cause such Representatives to comply with this Agreement and will assume full responsibility for any failure
+ro comply with the terms of this Agreement by aay such Representatives. Recipiem will not transfer or disclose any
+Confidential Information to any third party without Discloser's prior written permission and without such third party having a
+contractual obligation (consistent with this Section 24 to keep such Confidential Information confidential. Recipient will not
+use any Confidential lnfonnation for any purpose other than lo perfo1m its obligations under this Agreement.
+24.4 Nonpublic Personal Inforniation. The provisions of this Section apply notwithstanding anything to the
+contrary in this Agreement, including the exclusions to Confidential Information described in Section 24.5 ("Exclusions").
+Confidcnrial lnfonnation of CUSTOMER includes "NP!," which has the meaning ascribed to "Nonpublic Personal
+information" in Title V of the Gramm-Leach-Bliley Act of l 999 or any successor federal statute, and the rules and
+regu laiions thereunder ("GLBA "). To the extent that AT L has had or wil I have access to NPI, the NPI Provisions in Exhibit
+C ("Nonpublic Personal Information and Foreign Data Protection Provisions") attached berclo wiU apply with respect to such
+>IPL
+24.5 Foreign Datn Protection. To the extent that AT L has had or will have access to personal data subject to the
+European Commission Data Protection Direc.tive (95/46/EC) or Data Protection Act 1998 or any implementing or related
+legislation of any member state in the European Economic Area, or other similar data protection laws of non-U.S.
+jurisdictions (collectively, such personal data, the "Foreign Personal Data" or "FPO", such laws, the "Data Protection
+Laws"), the Foreign Data Protection Provisions in Exhibit C ("Nonpublic Personal Information and Foreign Data Protection
+Provisions") attached hereto will apply to such FPD.
+24.6 Exclusions. Confidential Information does not include information that: (i) is obtained by Recipient from
+the public domain without breach of this Agreement and independently of Recipient's knowledge of any Confidential
+lnfonnation; (ii) was lawfully and demonstrably in the possession of Recipient prior to its receipt from Discloser; (iii) is
+independently developed by Recipient without use of or reference to Discloser's Confidential Information; or (iv) becomes
+known by Recipient from a third party independently of Recipient's knowledge of the Confidential Information and is not
+subject to an obligation of confidentiality.
+24.7 Legal Requirements. If Recipient is requested or required lo disclose any of Discloser's Confidential
+Jnformation beyond the corporate entity name and a legal contact of CUSTOMER under a subpoena, court order, statute, Jaw,
+rule, regulation or other similar requirement (a "Legal Requirement"), Recipient will, if lawfully permitted to do so, provide
+prompl notice of such Legal Requirement to Discloser so Discloser may seek an appropriate protective order or other
+appropriate remedy or waive compliance with the provisions of this Agreement If Discloser is not successful in obtaining a
+protective order or other appropriate remedy aud Recipient is legally compelled to disclose such Confidential Information, or
+1f Discloser waives compliance with the provisions of this Agreement in writing, Recipient may disclose, without liability
+hereunder, such Confidential Information solely to the extent necessary to comply with the Legal Requirement.
+24.8 Security Event. ln the event that Recipient li:ams or has reason to believe that Confidential Info1mation has
+been disclosed or accessed by an unauthorized party, Recipient will immediately give notice of such event to its business unit
+contact at Discloser. Furthermore, in the event that A TL has access to or acquires individuaUy identifiable information in
+relation to this Agreement, the following shall apply: J\TL acknowledges that upon unauthorized acquisition or disclosure of
+sucb individually identifiable information (including NP! and FPD) within A TL custody or control (a "Security Ever1t"), lhe
+law may require that AT I. notify the individuals whose information was disclosed that a Security Event has occurred. A1 L
+must notify CUSTOMER irmnediately if ATL learns or has reason to believe a Security Event has occurred. ATL agrees that
+
+- -----
+...
+it will not notify the individuals until ATL first consulrs with CUSTOl\ilER and CUSTOMER has had nn opportunity to
+review any such notice.
+24.9 Disposition of Confidential Information on Tennination or Expiration. Upon tennination or expiration of
+this Agrt!ement or upon Discloser's written request, Recipient will return to Discloser nlJ copies of Co11fidcntial Infomiatioa
+already in Recipient's possession or within its contl'OI. Alternatively, with Discloser's prior written consent, Recipient may
+destroy such Confidential Information: provided that the Confidential I.nfom1atio11 is: (i) destroyed in accordance with
+applicable law, rule or regulation; und (ii) is rendered unreadable, w1decipherable and otherwise incapable of reconstruction,
+in which case:: an officer of Recipient will certify in w1it111g to Discloser that all ~uch Confidential Information hns bet!n so
+destroyed.
+24. IO No Publicity. ATL agrees not to disclose the identity of CUSTOMER or its affiliates or any of their
+directors, officers, ma11agers, employees, consultants or agents as a customer or prospective cusromer of ATL or the
+existence or nature of this Agreement without prior written approval from an authorized agent of CUSTOMER.
+LN WITNESS WHEREOF, the Parties bereto have made and executed this Agreement by and through their
+respective authorized representatives, lo be effective as orthe date and year first above written.
+rx
+1\!U
+'f..
+Yl1:lunvts. I
+ATL COMMUNICATIONS cusToMER
+By:
+Michael Rothchiid
+coo
+Printed Signatory: Louie Holmes
+Title: President & CEO
+/_1 /S-
+/J-'--'r S_" _ C(5 /{){p J
+Dare:--1-g Date:
+I I 7
+ATL Address: CUSTOMER Address:
+56825 Venture Lant! 608 Robin Road
+Suite I JO
+Sunriver, OR 97707 Lakeland, FL 33803
+
+LOCAL NUMBER PORTING
+SERVICE ADDENDUM
+l. Appointment of ATL. CUSTOMER hereby appoints A TL to act as CUSTOMER's agent for the purpose of undertaking
+local number porting activities on CUSTOMER's behalf pursuant to the Agreement between ATL and CUSTOMER, of
+which this Service Addendum is a part.
+2. Local Number Porting Activities.
+2.1. Pmt-Ins. ATL shall use commercially-reasonable efforts to complete local number porting activities on
+CUSTOMER's behalf when CUSTOMER is the new (winning) local service provider (NLSP) as follows (activities may
+vary depending on whether CUSTOMER is the new network service provider (NNSP) or is a non-facilities-based provider):
+(a) Ongoing Interface. ATL will act as CUSTOMER's primary interface with the Number Portability
+Administration Center (NPAC) and other ca1Tiers involved with local number p01ting.
+(b) CSR Review. ATL will obtain the customer service record (CSR) from the old (losing) local service
+provider (OLSP), if available, and determine whether there are any inconsistencies between the data in the CSR and the
+order for CUSTOMER's service. AT L will report any inconsistencies to CUSTOMER and shall thereafter refrain from
+carrying out any further pmting activities with respect to the order until CUSTOMER has resolved the inconsistencies and
+notifies ATL that porting can proceed.
+(c) LSR Submission. ATL will submit an appropriate local service request (LSR) or LSR info1mation to
+the NNSP if CUSTOMER is not the NNSP. If CUSTOMER is the NNSP, ATL will send an appropriate LSR to the old
+network service provider (ONSP). In addition, AT L will submit supplemental LSRs and cancellation requests, as requested
+by CUSTOMER.
+(d) FOC. ATL will notify CUSTOMER's provisioning contact upon receipt ofa firm order confirmation
+(FOC) and, if applicable, the due date for the port specified in the FOC. Additionally, A TL will notify CUSTOMER if there
+is no response back from the OLSP within 24 hours, with follow-up at 36 hours in order to avoid a situation where numbers
+could passively port, due to a lack ofresponse from OLSP.
+(e) Rejects. ATL will notify CUSTOMER's provisioning contact upon receipt ofan LSR rejection. ATL
+and CUSTOMER shall thereafter cooperate with each other to address the reject and to re-submit the LSR to enable
+completion of port.
+(f) Due Date Coordination. ATL, in cooperation with CUSTOMER, will coordinate po1t due dates, as
+necessary, with the ONSP.
+(g) NPAC Data Ent1y/Comrnunications. A TL will be responsible for submission of all messages, data,
+and other information into the NPAC in accordance with the current local number porting processes established by the
+North American Numbering Council (NANC) and will also be the contact point for receipt of related messages from the
+NPA C. A TL will advise CUSTOMER of coallict notices, port cancellations, and other communications affecting or
+potentially affecting p01t-in activities.
+(h) NPA C Data Entry/Communications. ATL will be responsible for submission of all messages, data,
+and other info1mation into the NPAC in accordance with the current local number porting processes established by the
+North American Numbering CoWlcil (NANC) and will also be the contact point for receipt of related messages from the
+NPAC. ATL will advise CUSTOMER of conflict notices, port cancellations, and other communications affecting or
+potentially affecting port-in activities.
+. . (h) Provisioni~g. A TL, in cooperation with CUSTOMER, will activate switch translations and provide
+not1~cat1on to the NPAC to activate the po1t. CUSTOMER shall be responsible for performing any physical activities
+required to com~letc po1:s. In cases wher~ a coordinated cut-over is required or requested, ATL, in cooperation with
+CUSTO.MER, ~1U nego~iate the cut-over time and process. Following pmt activation by the NPAC, A TL will conduct
+appropriate testing to verify that calls to poited numbers complete as expected.

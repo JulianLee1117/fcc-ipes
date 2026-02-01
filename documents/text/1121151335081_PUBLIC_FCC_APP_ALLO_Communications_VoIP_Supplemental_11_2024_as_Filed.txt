@@ -1,0 +1,361 @@
+151 Southhall Lane, Ste. 450
+Maitland, FL 32751
+www.inteserra. com
+November 21, 2024
+Via ECFS Filing
+REDACTED FOR PUBLIC INSPECTION
+Secretary, Federal Communications Commission
+Washington, DC 20554
+Attn: Wireline Competition Bureau
+RE: Request for Confidential Treatment of Filing of ALLO Communications LLC; Supplemental
+Application of ALLO Communications LLC for Authorization to Obtain Numbering Resources
+Pursuant to Section 52.15(g) of the Commission's Rules, WC Docket No. 24-135
+Dear Ms. Dortch,
+Pursuant to Section §52.l5(g)(3)(ii) of the Commission's Rules,1 ALLO Communications LLC ("ALLO
+Communications") hereby submits its Supplemental Application for Authorization to Obtain Numbering
+Resources.
+ALLO Communications respectfully requests that, pursuant to Sections §0.457 and §0.459 of the
+Commission's Rules,2 the Commission withhold from public inspection and accord confidential
+treatment to Exhibits A and C to the application because that document contains sensitive trade secrets
+and commercial information that falls within Exemption 4 of the Freedom of Information Act ("FOIA").3
+Moreover, ALLO Communications would suffer substantial competitive harm if this information were
+disclosed.
+Exhibits A and C are accordingly marked with the header "SUBJECT TO REQUEST FOR CONFIDENTIAL
+TREATMENT - NOT FOR PUBLIC INSPECTION."
+In support of this request, ALLO Communications hereby states the following:
+1. IDENTIFICATION OF THE SPECIFIC INFORMATION FOR WHICH CONFIDENTIAL TREATMENT IS
+SOUGHT.
+ALLO Communications seeks confidential treatment of Exhibits A and C to its Application.
+2. DESCRIPTION OF CIRCUMSTANCES GIVING RISE TO THE SUBMISSION.
+ALLO Communications is submitting as Exhibit A the agreement between its carrier partner as
+proof of ALLO Communications' facilities readiness as required by Section 52. 15(g)(3)(i)(D) of
+1 47 C.F.R. § 52.15(g).
+2 47 C.F.R. § 0.457 & §0.459.
+3 See 5 U.S.C. § 552(b)(4). Public disclosure is not required for “trade secrets and commercial or financial
+information obtained from a person and privileged or confidential.”
+
+Page 2 of 3
+the Commission's Rules. ALLO Communications is submitting as Exhibit C its Service Schedule as
+proof that it complies with the 911 and 988 obligations under part 9 of the relevant chapter.
+3. EXPLANATION OF THE DEGREE TO WHICH THE INFORMATION IS COMMERCIAL OR FINANCIAL,
+OR CONTAINS A TRADE SECRET OR IS PRIVILEGED.
+The information for which ALLO Communications seeks confidential treatment contains
+sensitive commercial information "which would customarily be guarded from competitors".
+Exhibit A describes the agreement between ALLO Communications and its carrier partner and
+contains proprietary commercial information concerning ALLO Communications' network,
+customers, and services. Exhibit C outlines the ALLO Communications compliance with its 911
+and 988 obligations which contains contain proprietary information concerning ALLO
+Communications network, customers, and services.
+4. EXPLANATION OF THE DEGREE TO WHICH THE INFORMATION CONCERNS A SERVICE THAT IS
+SUBJECT TO COMPETITION.
+Exhibit A contains information relating to commercial matters which can be used by other
+interconnected VoIP providers to compromise ALLO Communications’ position in the highly
+competitive interconnected VoIP business sector. Detailed operations and commercial
+information of the type provided by ALLO Communications could compromise ALLO
+Communications' position in this highly competitive industry. Accordingly, release of this
+information would result in substantial competitive harm to ALLO Communications.
+5. EXPLANATION OF HOW DISCLOSURE OF THE INFORMATION COULD RESULT IN SUBSTANTIAL
+COMPETITIVE HARM.
+Competitors could use ALLO Communications' proprietary commercial and operational
+information to ALLO Communications’ detriment as they would gain access to sensitive
+information concerning ALLO Communications’ commercial agreements, as well as information
+as to how ALLO Communications provides its services. The prices and terms for the provision of
+such services are a substantial differentiator between competing carriers. Therefore, disclosure
+of the Carrier Agreement would result in significant competitive harm to ALLO Communications’
+carrier partner. This information is not normally disclosed to the public.
+6. IDENTIFICATION OF ANY MEASURES TAKEN BY THE SUBMITTING PARTY TO PREVENT
+UNAUTHORIZED DISCLOSURE.
+ALLO Communications has not distributed the information in Exhibits A or C to the public; ALLO
+Communications is prohibited by contract from publicly disclosing the Carrier Agreement,
+except as expressly authorized by the carrier partner.
+
+Page 3 of 3
+7. IDENTIFICATION OF WHETHER THE INFORMATION IS AVAILABLE TO THE PUBLIC AND THE
+EXTENT OF ANY PREVIOUS DISCLOSURE OF THE INFORMATION TO THIRD PARTIES.
+ALLO Communications does not believe that the Carrier Agreement or Service Schedule is
+available to the public or that the Carrier Agreement or Service Schedule has ever been
+disclosed to third parties absent the protection of a non-disclosure agreement regarding their
+contents.
+8. JUSTIFICATION OF THE PERIOD DURING WHICH THE SUBMITTING PARTY ASSERTS THAT
+MATERIAL SHOULD NOT BE AVAILABLE FOR PUBLIC DISCLOSURE.
+ALLO Communications requests that Exhibits A and C be withheld from public disclosure
+indefinitely. ALLO Communications and its carrier partner intend for the Carrier Agreement to
+remain in effect indefinitely and therefore any disclosure of the Carrier Agreement or their
+substance would cause competitive harm to ALLO Communications’ carrier partner regarding of
+the timing of the disclosure.
+9. OTHER INFORMATION THAT ALLO COMMUNICATIONS BELIEVES MAY BE USEFUL IN
+ASSESSING WHETHER ITS REQUEST FOR CONFIDENTIALITY SHOULD BE GRANTED.
+The information concerns ALLO Communications' proprietary network information, related to
+current and planned commercial and operational information, and as such, is commercially
+sensitive.
+For the foregoing reasons, ALLO Communications respectfully requests the Carrier Agreement be
+granted confidential status and withheld from public inspection.
+The $1485 filing fee has been remitted using the CORES fee payment system.
+Any questions you may have regarding this filing should be directed to my attention at 470-672-3933 or
+via email to nfernandez@inteserra.com. Thank you for your assistance in this matter.
+Sincerely,
+/s/Nelson Fernandez
+Nelson Fernandez
+Consultant
+tms: FCCv2400
+NF/ec
+
+Before the
+FEDERAL COMMUNICATIONS COMMISSION
+Washington, D.C. 20554
+In the Matter of )
+)
+ALLO Communications LLC For )
+Authorization to Obtain Numbering ) WC Docket No. 24-135
+Resources Pursuant to Section 52.15(g) of )
+The Commission’s Rules )
+SUPPLEMENTAL INFORMATION TO APPLICATION OF ALLO COMMUNICATIONS LLC
+FOR AUTHORIZATION TO OBTAIN NUMBERING RESOURCES
+ALLO Communications LLC (“ALLO Communications”) pursuant to Section 52.15(g)(3)(ii) of
+the Commission’s Rules, respectfully submits supplemental information authorization to obtain numbering
+as described below. The purpose of this filing is to update the application originally filed on April 30, 2024.
+This updated application is based upon emails and discussions with FCC staff.
+Under the Commission’s Numbering Order,1 an interconnected VoIP provider may obtain
+numbering resources from the Numbering Administrator upon a showing that it is authorized to provide
+service in the area for which the numbering resources are requested. Such authorization may be obtained
+upon an application to the Commission containing the information detailed in Section 52.15.(g)(3)(ii)(A)-
+(N) of the Commission’s Rules. ALLO Communications hereby requests the Commission grant it that
+authorization. In support of this application, ALLO Communications provides the following information:
+I. INFORMATION REQUIRED BY SECTION 52.15(g)(3)(ii)
+A. § 52.15(g)(3)(ii)(A)
+Name: ALLO Communications LLC
+Address: 330 S 21st ST
+City: Lincoln
+State: Nebraska
+ZIP Code: 68510
+1 Numbering Policies for Modern Communications, FCC 15-70 (rel. June 22, 2015).
+
+Country: U.S.A.
+Telephone: (844) 560-2556
+Website: https://www.allocommunications.com/
+Contact for Regulatory Requirements:
+Name: Andrew Vinton
+Address: 330 S 21st ST
+City: Lincoln
+State: NE
+ZIP Code: 68510
+Country: U.S.A.
+Telephone: 402-781-4698
+E-mail Address: andrew.vinton@allofiber.com
+Compliance, 911, and Law Enforcement:
+Name: Allison O’Neil
+Address: 330 S 21st ST
+City: Lincoln
+State: NE
+ZIP Code: 68510
+Country: U.S.A.
+Telephone: 308-633-7814
+E-mail Address: allison.oneil@allofiber.com
+B. § 52.15(g)(3)(ii)(B)
+ALLO Communications hereby acknowledges that authorization to obtain numbering
+resources under Section 52.15(g) of the Commission’s Rules is subject to compliance with applicable
+Commission numbering rules as well as to the numbering authority delegated to the states. ALLO
+Communications hereby also acknowledges that this authorization is subject to compliance with industry
+guidelines and practices regarding numbering, as applicable to telecommunications carriers. The numbering
+resources that are the subject of this Application will be used to provide interconnected VoIP services
+initially in the state of Nebraska.
+C. § 52.15(g)(3)(ii)(C) & (G)
+ALLO Communications hereby acknowledges that it must file requests for numbers with
+the relevant state commission(s) at least 30 days before requesting numbers from the Numbering
+Administrators. ALLO Communications is committed to providing full support for their customers
+
+concerning Robocall Mitigation and call Blocking where appropriate. The Company certifies that it will
+not use the numbers obtained pursuant to an authorization to knowingly transmit, encourage, assist, or
+facilitate illegal robocalls, illegal spoofing, or fraud, in violation of robocall, spoofing, and deceptive
+telemarketing obligations under §§ 64.1200, 64.1604, and 64.6300 et seq. of this chapter, and 16 CFR
+310.3(b).
+D. § 52.15(g)(3)(ii)(D) & (H)
+ALLO Communications hereby sets forth its capability to provide service within 60 days
+of the numbering resources activation date.
+To demonstrate its facilities’ readiness, ALLO Communications will have the following
+resources available at its disposal: a fully integrated back-office support system with the ability to schedule
+and process LNP orders from customers and an experienced provisioning department capable of handling
+bulk number ports with over 17 years LNP experience. ALLO Communications has an agreement in place
+with a carrier partner to route traffic to the ILECs. In its original application, ALLO Communications
+attached, as Exhibit A, an agreement between ALLO Communications and its carrier partner providing that
+the carrier partner will host ALLO Communications’ numbers on its switches and provide connectivity to
+the PSTN for inbound calls to ALLO Communications numbers. With this supplement ALLO
+Communications submits supplemental information to Exhibit A. ALLO Communications has requested
+confidential treatment under the Commission’s rules for Exhibit A. Also attached, as Exhibit B, is evidence
+of interconnection agreements between ALLO Communications’ carrier partner and the local exchange
+carriers in the state of Nebraska.
+STIR/SHAKEN compliant - ALLO Communications has fully complied with all
+applicable STIR/SHAKEN caller ID authentication and robocall mitigation program requirements and filed
+a certification in the Robocall Mitigation Database as required by §§ 64.6301 to 64.6305. The Company
+will provide the necessary “KYC” documentation for their customers as required by STI-GA Authorities.
+
+In addition, ALLO Communications will pass the STIR/SHAKEN certificate, without modification, to each
+carrier with which it exchanges call traffic.
+E. § 52.15(g)(3)(ii)(E)
+ALLO Communications hereby certifies that it complies with its 911 and 988 obligations
+under part 9 of the relevant chapter. Please see Exhibit C. ALLO Communications has requested
+confidential treatment under the Commission’s rules for Exhibit A. The Company also complies with the
+provisions of the Communications Assistance with Law Enforcement Act, 47 U.S.C. 1001 et seq. (CALEA)
+F. § 52.15(g)(3)(ii)(F)
+ALLO Communications hereby certifies that it complies with the Access Stimulation rules
+under §51.914.
+G. § 52.15(g)(3)(ii)(I)
+ALLO Communications submits as Exhibit D proof of filing its FCC Forms 477 and 499.
+H. § 52.15(g)(3)(ii)(J)
+ALLO Communications hereby certifies that it complies with its Universal Service Fund
+contribution obligations under 47 CFR part 54, subpart H, its Telecommunications Relay Service
+contribution obligations under 47 CFR § 64.604(c)(5)(iii), its North American Numbering Plan and Local
+Number Portability Administration contribution obligations under 47 CFR §§ 52.17 and 52.32, its
+obligations to pay regulatory fees under 47 CFR § 1.1154, and its 911 obligations under 47 CFR part 9.
+I. § 52.15(g)(3)(ii)(K)
+ALLO Communications certifies that it has the financial, managerial, and technical
+expertise to provide reliable service. It is financially stable, led by a strong, experienced management team
+with substantial managerial experience in the telecommunications industry and has sufficient technical
+expertise and infrastructure in place to provide reliable numbering services. ALLO Communications’ key
+management and technical personnel are listed below. None of the identified personnel are being or have
+
+been investigated by the Commission or any law enforcement or regulatory agency for failure to comply
+with any law, rule, or order, including the Commission’s rules in this chapter applicable to unlawful
+robocalls or unlawful spoofing.
+Key Personnel:
+Brad Moline – Chief Executive Officer
+Don Schoening – Chief Field Services Officer
+Nate Buhrman – Chief Financial Officer
+Allison O’Neil – Chief Experience Officer
+Todd Heyne - Chief Construction Officer
+J. § 63.18(h) & (i)
+ALLO Communications is not affiliated with any foreign carrier or has any interlocking
+directorates with a foreign carrier.
+K. § 52.15(g)(3)(ii)(M)
+ALLO Communications hereby certifies that no party to this application is subject to a
+denial of Federal benefits pursuant to Section 5301 of the Anti-Drug Abuse Act of 1988, 21 U.S.C. § 862.
+II. ACKNOWLEDGEMENT OF CONDITIONS IN SECTION 52.15(g)(3)(iv)
+As required by Section 52.15(g)(3)(iv), ALLO Communications will maintain the accuracy of all
+contact information and certifications in this application and will file a correction with the Commission and
+each applicable state within 30 days of any changes. ALLO Communications will also furnish accurate
+regulatory and numbering contact information to each state commission when requesting numbers in that
+state.
+
+III. CONCLUSION
+Pursuant to Section 52.15(g)(3) of the Commission’s Rules, ALLO Communications respectfully
+requests the Commission grant this application for authorization to obtain numbering resources.
+Respectfully submitted,
+/s/ Nelson Fernandez
+Nelson Fernandez – Consultant & Technical Implementation Manager
+Inteserra, Inc.
+(470) 672-3933
+nfernandez@inteserra.com
+November 21, 2024
+
+Exhibit A
+AGREEMENT BETWEEN
+ALLO COMMUNICATIONS AND CARRIER PARTNER
+(Confidential exhibit submitted separately)
+
+Exhibit B
+(Please See Original Filing)
+
+Exhibit C
+(Confidential exhibit submitted separately)
+
+Exhibit D
+
+8/8/24, 12:22 PM FCC Form 499 Filer Database Detailed Information
+Announcing a new FCC.gov. Tell us what you think and help shape the future
+FCC Logo - Search | RSS | Updates | E-Filing | Initiatives | Consumers | Find People
+Return to the FCC
+HomePage
+FCC Form 499 Filer Database Detailed Information
+FCC > CGB Home > FCC Form 499 Filer Database > FCC Form 499 Filer Database Detailed Information FCC site map
+FCC Form 499 Filer Database
+DETAILED INFORMATION
+Form 499 Filer 824034 RSS Feed
+Filer Identification Information:
+No Longer Active as of .
+Replaced by filer:
+Historical Data:
+499 Filer ID Number: 824034
+Registration Current as of: 4/1/2024
+Legal Name of Reporting Entity: Allo Communications, LLC
+Doing Business As: Allo Communications, LLC
+Principal Communications Type: CAP/LEC
+Universal Service Fund Contributor: Yes
+(Contact USAC at 888-641-8722 if this is not correct.)
+Holding Company:
+Registration Number (CORESID): 0010480978
+Management Company:
+Headquarters Address: 330 S 21st Street
+City: Lincoln
+State: NE
+ZIP Code: 68510
+Customer Inquiries Address: 330 S 21st Street
+City: Lincoln
+State: NE
+ZIP Code: 68510
+Customer Inquiries Telephone: 866-481-2556 Ext:
+Other Trade Names: Allo Communications
+Agent for Service of Process:
+Local/Alternate Agent for Service
+of Process:
+Telephone:
+Extension:
+Fax:
+E-mail:
+Business Address of Agent for
+Mail or Hand Service of Documents:
+City:
+State:
+ZIP Code:
+D.C. Agent for Service of Process: CT Corporation System
+CT Corporation System
+Telephone: 202-393-1747
+Extension:
+Fax: 202-393-1760
+E-Mail: info@ctadvantage.com
+Business Address of D.C. Agent for
+Mail or Hand Service of Documents: 1025 Vermont Avenue, NW
+City: Washington
+State: DC
+ZIP Code: 20005
+FCC Registration Information:
+Chief Executive Officer: Bradley Moline
+Business Address: 610 Broadway
+PO Box 1123
+City: Imperial
+State: NE
+ZIP Code: 69033
+Chairman or Other Senior Officer: Allison ONeil
+Business Address: 610 Broadway
+https://apps.fcc.gov/cgb/form499/499detail.cfm?FilerNum=824034 1/2
+
+8/8/24, 12:22 PM FCC Form 499 Filer Database Detailed Information
+PO Box 1123
+City: Imperial
+State: NE
+ZIP Code: 69033
+President or Other Senior Officer: Nate Buhrman
+Business Address: 330 S 21st Street
+City: Lincoln
+State: NE
+ZIP Code: 68510
+Jurisdictions in Which the Filing Entity Provides Telecommunications Services:
+Colorado
+Nebraska
+Use browser "Back" button to return to results page.
+Return to Search Form
+This database reflects filings received by USAC as of Jul. 22, 2024 FCC Form 499 Filer Database Software Version 01.03.06 July 21, 2011
+FCC Home | Search | RSS | Updates | E-Filing | Initiatives | Consumers | Find People
+Federal Communications Commission Phone: 1-888-CALL-FCC (1-888-225-5322) - Privacy Policy
+45 L Street NE TTY: 1-888-TELL-FCC (1-888-835-5322) - Website Policies & Notices
+Washington, DC 20554 Fax: 1-866-418-0232 - Required Browser Plug-ins
+More FCC Contact Information... - Freedom of Information Act
+https://apps.fcc.gov/cgb/form499/499detail.cfm?FilerNum=824034 2/2
+
+Verification
+I swear under penalty of perjury that I am Brad Moline, an officer of the above-named applicant,
+ALLO Communications LLC, and that I have examined the foregoing submissions, and previously
+filed supplements and that all information required under the Commission's rules and orders has
+been provided and all statements of fact, as well as all documentation contained in this submission,
+are true, accurate, and complete.
+/s/Brad Moline
+Brad Moline, CEO

@@ -1,0 +1,484 @@
+151SouthhallLane.Ste450
+Maitland.Fl32751
+I
+P.O.Drawer200
+WinterPark,Fl3279Q.0200
+www.inteserra.com
+October8, 2019
+Via ECFS Filing
+REDACTED FOR PUBLIC INSPECTION
+Secretary, Federal Communications Commission
+Washington, DC20554
+Attn: Wireline Competition Bureau
+RE: Request for Confidential Treatment of Filing of HOC Epsilon, LLC; Application ofHDCEpsilon,
+LLC for Authorization to Obtain Numbering Resources Pursuant to Section 52.15(g) of the
+Commission'sRules, WCDocketNo. 19-.
+DearSecretary:
+Pursuant to Section 52.15(g)(3)(i) of the Commission's Rules, HOC Epsilon, LLC ("HOC Epsilon") hereby
+submits its application requesting authorization toobtain numbering resources.
+HOC Epsilon respectfully requests that, pursuantto Sections 0.457 and 0.459 ofthe Commission's rules,
+47 C.F.R. §§ 0.457 and 0.459, the Commission withhold from public inspection and accord confidential
+treatment to Exhibit A to the application because that document contains sensitive trade secrets and
+commercial information that falls within Exemption 4ofthe Freedom of Information Act ("FOIA").l HOC
+Epsilon isvoluntarily providingthis information, "ofakind that would notcustomarily be released to the
+public"; therefore, this information is "confidential" under FOIA2 • Moreover, HOC Epsilon would suffer
+substantial competitive harm ifthis informationwere disclosed.3
+Exhibit A is accordingly marked with the header "SUBJECT TO REQUEST FOR CONFIDENTIAL TREATMENT
+NOTFOR PUBLIC INSPECTION."
+1 5U.s.c. § 552(b)(4).
+See CriticalMassEnergyProjectv. NRC, 975 F.2d 871, 879 (D.C. Cir. 1992).
+See NationalParks andConservationAss'nv.Morton, 498F.2d 765 (D.C. Cir. 1974).
+
+October8, 2019
+Page 2of4
+In support of this request and pursuant to Section 0.459(b) of the Commission's rules4 , HDC
+Epsilon herebystates asfollows:
+1. IDENTIFICATION OFTHESPECIFICINFORMATION FORWHICH CONFIDENTIALTREATMENTIS
+s
+SOUGHT.
+HDC Epsilon seeks confidential treatmentofExhibitAto the enclosed application.
+2. DESCRIPTION OFCIRCUMSTANCESGIVING RISETOTHESUBMISSION.6
+HDC Epsilon is submittingas ExhibitAthe agreement between it and its carrier partner, as proof
+of HDC Epsilon's facilities readiness as required by Section 52. 15(g)(3)(i)(D) ofthe Commission's
+rules.
+3. EXPLANATION OF THE DEGREE TO WHICH THE INFORMATION IS COMMERCIAL OR FINANCIAL
+OR CONTAINSATRADESECRETORISPRIVllEGED.7
+The information for which HDC Epsilon seeks confidential treatment contains sensitive
+commercial information "which would customarily be guarded from competitors"8 • Exhibit A
+describes the agreement between HDC Epsilon and its carrier partner and contains proprietary
+commercial information concerning HDC Epsilon's network, customers, and services.
+4. EXPLANATION OF THE DEGREE TO WHICH THE INFORMATION CONCERNS A SERVICE THAT IS
+SUBJECTTOCOMPETITION.9
+ExhibitAcontains information relatingto commercial mattersthatcould be used bycompetitors
+to HDC Epsilon's disadvantage. HDC Epsilon has numerous competitors in the Voice over
+Internet Protocol ("VoIP") services sector in which it operates. Detailed operations and
+commercial information of the type provided by HDC Epsilon could compromise HDC Epsilon's
+position in this highly competitive industry. Release would therefore result in substantial
+competitive harm to HDC Epsilon.
+4 47 C.F.R. § 0.459(b).
+s
+47 C.F.R. § 0.459(b)(1).
+6 47 C.F.R. §0.459(b)(2).
+7 47 C.F.R. §0.459(b)(3).
+8 47 C.F.R. § 0.457(d)(2).
+9 47 C.F.R. § 0.459(b)(4).
+
+October8, 2019
+Page 3of4
+5. EXPLANATION OF HOW DISCLOSURE OF THE INFORMATION COULD RESULT IN SUBSTANTIAL
+lo
+COMPETITIVE HARM
+Competitors could use HOC Epsilon's proprietary commercial and operational information to
+HOC Epsilon's detriment as they would gain access to sensitive information about how HOC
+Epsilon provides services as well as about HOC Epsilon's commercial agreements with others in
+the marketthatare notnormallydisclosed tothe public.
+6. IDENTIFICATION OF ANY MEASURES TAKEN BY THE SUBMITTING PARTY TO PREVENT
+UNAUTHORIZED DISCLOSURE.ll
+HOC Epsilon has not distributed the information in ExhibitAto the public.
+7. IDENTIFICATION OF WHETHER THE INFORMATION IS AVAILABLE TO THE PUBLIC AND THE
+EXTENTOFANY PREVIOUSDISCLOSURE OFTHE INFORMATIONTOTHIRD PARTIESP
+HOC Epsilon has not previouslydisclosedthe information in ExhibitA.
+8. JUSTIFICATION OF THE PERIOD DURING WHICH THE SUBMITTING PARTY ASSERTS THAT
+MATERIALSHOULD NOTBEAVAILABLE FOR PUBLICDISCLOSUREY
+HOC Epsilon requests that ExhibitA betreated asconfidential foraperiod often years.This
+period is necessary dueto the proprietary nature ofthe information in ExhibitA.
+10 47 C.P.R. § 0.459(b)(5).
+11 47 C.P.R. § 0.459(b)(6).
+12 47 C.F.R. §0.459(b)(7).
+13 47 C.F.R. § 0.459(b)(8).
+
+October8, 2019
+Page4of4
+9. OTHER INFORMATION THAT HDC EPSILON BELIEVES MAY BE USEFUL IN ASSESSING WHETHER
+ITSREQUEST FORCONFIDENTIALITYSHOULD BEGRANTED.14
+The information concerns HOC Epsilon's proprietary networkinformation, related to currentand
+planned commercial and operational information, and as such, iscommerciallysensitive.
+Any questions you may have regarding this filing should be directed to my attention at 407-740-3006 or
+via email tocroesel@inteserra.com. Thankyou foryourassistance inthis matter.
+Sincerely,
+/s/Carey Roesel
+Carey Roesel
+Consultantto HOC Epsilon, LLC
+cc: Kathryn Glaser- HOC Epsilon
+tms: FCCv1901 HOC Epsilon
+CR/gs
+14 47 C.F.R. § 0.459(b)(9).
+
+Beforethe
+FEDERAL COMMUNICATIONS COMMISSION
+Washington, D.C. 20554
+In theMatter of )
+)
+HDC Epsilon, LLC )
+) WC DocketNo. 19- ----
+ForAuthorizationto ObtainNumbering )
+Resources Pursuantto Section 52.15(g) of )
+TheCommission's Rules )
+APPLICATION OFHDC EPSILON, LLC
+FORAUTHORIZATION TO OBTAINNUMBERINGRESOURCES
+HDCEpsilon,LLC("HDCEpsilon"),pursuanttoSection52.15(g)(3)(i)oftheCommission'sRules,
+respectfully requests authorization to obtainnumbering as describedbelow.
+UndertheCommission'sNumberingOrder,1aninterconnectedVoIPprovidermayobtainnumbering
+resources from theNumberingAdministratorupon a showing thatitis authorized toprovide serviceinthe
+area for which the numbering resources are requested. Such authorization may be obtained upon an
+application to the Commission containingthe informationdetailed in Section52.15.(g)(3)(i)(A)-(G) ofthe
+Commission'sRules. HDCEpsilonherebyrequeststheCommissiongrantitthatauthorization. Insupportof
+this application, the Companyprovides the following information:
+I. INFORMATION REQUIRED BY SECTION 52.15(g)(3)(i)
+A. §52.15(g)(3)(i)(A)
+Name: HDC Epsilon, LLC
+Address: 170 S. Green ValleyPkwy.
+Suite 300
+City: Henderson
+State: Nevada
+ZIP Code: 89012
+Telephone: 844-853-5555
+Website: https://epsilon.hdcarrierholdings.com
+I NumberingPoliciesforModern Communications, FCC 15-70(reI.June22,2015).
+
+Contact forRegulatory Requirements, Compliance, 911 and LawEnforcement:
+Name: DavidErickson
+Address: 170 S. Green ValleyPkwy.
+Suite 300
+City: Henderson
+State: Nevada
+ZIP Code: 89012
+Telephone: 844-853-5555
+B. § 52.15(g)(3)(i)(B)
+HDCEpsilonherebyacknowledgesthatauthorizationto obtainnumberingresourcesunder
+Section52.15(g)oftheCommission'sRulesissubjecttocompliancewithapplicableCommissionnumbering
+rules aswell as to thenumberingauthoritydelegatedto thestates. HDCEpsilonherebyalsoacknowledges
+thatthisauthorizationissubjecttocompliancewithindustryguidelinesandpracticesregardingnumbering,as
+applicableto telecommunicationscarriers. ThenumberingresourcesthatarethesubjectofthisApplication
+will beusedtoprovide interconnectedVoIP services initially inCA.
+c.
+§52.15(g)(3)(i)(C)
+HDC Epsilon hereby acknowledges that itmustfile requests fornumberswiththerelevant
+state commission(s) at least30days beforerequestingnumbers from theNumbering Administrators.
+D. § 52.15(g)(3)(i)(D)
+HDC Epsilon hereby sets forth its capability to provide service within 60 days ofthe
+numberingresources activation date.
+To demonstrate its facilities readiness, HDC Epsilon will have the following resources
+availableatitsdisposal: afullyintegratedbackofficesupportsystemwiththeabilitytoscheduleandprocess
+LNP orders from customers and anexperiencedprovisioningdepartmentcapableofhandlingbulknumber
+portswithover 10years LNP experience. HDCEpsilon has an agreementinplacewith aCLECpartnerto
+routetraffictotheILECs. HDCEpsilonhasattachedtothisapplication,asExhibitA,anagreementbetween
+HDCEpsilonanditscarrierpartnerprovidingthatthecarrierpartnerwillhostHDCEpsilon'snumbersonits
+
+switchesandprovideconnectivitytothePSTNforinboundcallstoHDCEpsilonnumbers. HDCEpsilonhas
+requestedconfidentialtreatmentundertheCommission'srulesforExhibitA. Alsoattached,asExhibitB,is
+evidenceofinterconnectionagreementsbetweenHDCEpsilon'scarrierpartnerandlocalexchangecarriersin
+CA.
+E. § 52.15(g)(3)(i)(E)
+HDC Epsilonherebycertifies thatitcomplieswithits Universal ServiceFundcontribution
+obligationsunder47CFRpart54,subpartH,itsTelecommunicationsRelayServicecontributionobligations
+under 47 CFR § 64.604(c)(5)(iii), its North American Numbering Plan and Local Number Portability
+Administrationcontributionobligationsunder47 CFR §§ 52.17 and52.32, itsobligationstopayregulatory
+fees under47 CFR§ 1.1154, and its 911 obligationsunder47 CFRpart9.
+F. § 52.15(g)(3)(i)(F)
+HDCEpsiloncertifiesthatithasthefinancial, managerial,andtechnicalexpertisetoprovide
+reliable service. It is financially stable, led by a strong, experienced management team with substantial
+managerial experience in the telecommunications industry, and has sufficient technical expertise and
+infrastructureinplacetoprovidereliablenumberingservices.HDCEpsilon'skeymanagementandtechnical
+personnel are listed below. None ofthe identified personnel are being or have been investigated by the
+Commissionoranylawenforcementorregulatoryagencyforfailure tocomplywithanylaw, rule, ororder.
+Key Personnel:
+Managing Member- David Erickson
+Managing Member- Kathryn Glaser
+ManagingMember- Scott Southron
+G. §52.15(g)(3)(i)(G)
+HDCEpsilonherebycertifiesthatnopartytothisapplicationissubjecttoadenialoffederal
+benefitspursuantto Section 5301 ofthe Anti-Drug AbuseActof1988,21 U.S.c. §862.
+
+II. ACKNOWLEDGEMENT OF CONDITIONS IN SECTION 52.15(g)(3)(iv)
+As required by Section 52.15(g)(3)(iv), HDC Epsilon will maintain the accuracy of all contact
+information and certifications in this application and will file a correction with the Commission and each
+applicable state within 30 days ofany changes. HDC Epsilon will also furnish accurate regulatory and
+numberingcontactinformationto each state commissionwhen requesting numbers in thatstate.
+III. CONCLUSION
+Pursuant to Section 52.15(g)(3)(i) ofthe Commission's Rules, HDC Epsilon respectfully
+requests theCommission grantthis application for authorization to obtainnumberingresources.
+Respectfully submitted,
+CareyRoesel, Consultant
+InteserraConsulting Group, Inc.
+407-740-3006
+croesel@inteserra.com
+and
+DavidErickson, ManagingMember
+HDC Epsilon, LLC
+844-853-5555
+info@epsilon.hdcarrierholdings.com
+October8, 2019
+
+Exhibit A
+AGREEMENT BETWEEN
+HDC EPSILON, LLC
+ANDCAIDUERPARTNER
+[Confidential exhibit submitted separately)
+
+Exhibit B
+(for each state listed)
+INTERCONNECTION AGREEMENTS BY AND
+BETWEEN
+CARRIER PARTNER
+AND
+PACIFIC BELL TELEPHONE COMPANY
+D/B/A AT&T CALIFORNIA
+AND
+VERIZON CALIFORNIA INC.
+
+AT&TWholesale
+311S.Akard,9~Floor
+Dallas,TX 75202
+Fax 214464·2006
+at&t
+February11, 2011
+VIAE-MAIL(sthomas@tminc.com)
+SharonThomas
+Consultant
+Technologies Management, Inc.
+2600Maitland CenterParkway
+Suite 300
+Maitland,FL32751
+Re: WideVoice, LLC'sAdoption RequestunderSection252(i)oftheAct
+DearSharonThomas:
+OnFebruary01,2011,AT&TreceivedyourletterdatedFebruary01,2011,viafacsimile,inwhichyourequestedon
+behalfofWideVoice, LLC("WideVoice")toadopttheCaliforniaInterconnectionAgreementbetween PacificBell
+TelephoneCompanyd/b/aAT&TCalifornia1("AT&TCalifornia")andComityCommunications,LLC ("Comity")(the
+"SeparateAgreement"). TheadoptionwillincludeanyandallapprovedamendmentstotheSeparateAgreement
+(collectivelythe"MFNAgreement")pursuanttoSection 252(i)oftheTelecommunicationsActof1996(the"Act")
+and Resolution ALJ-181 Rule6.
+AT&TCaliforniaacceptsWideVoice'srequesttoadopttheSeparateAgreement.2
+TheentireMFNAgreementbetweenWideVoiceandAT&TCaliforniashallexpireonNovember27,2011. Please
+notethatthe MFNAgreementmaybeterminated byeitherPartyin writing inaccordancewith itsterms.
+InenteringintothisMFNAgreement,thePartiesacknowledgeandagreethatneitherPartywaives,andeachParty
+expressly reserves, anyofits rights, remedies orarguments itmay have atlaworunderthe interveninglawor
+regulatorychangeprovisionsinthisMFNAgreement(includinginterveninglawrightsasserted byeitherPartyvia
+writtennoticeastotheSeparateAgreement),withrespecttoanyorders,decisions,legislationorproceedingsand
+anyremandsbytheFCC, stateutilitycommission,court,legislatureorothergovernmentalbodyincluding,without
+limitation, any such orders, decisions, legislation, proceedings, and remands which were issued, released or
+became effective prior to the Effective Date of this MFN Agreement, or which the Parties have not yet fully
+incorporated intothisAgreementorwhich maybethe subjectoffurthergovernmentreview.
+AT&T California notes that pursuant to the SBC/Ameritech Merger Conditions, approved by the FCC its
+Memorandum Opinion and Order, CC Docket 98-141, reI. (October8, 1999), SBC/Ameritech was obligated to
+transitiontheprovisioningofcertainAdvancedServices,asthattermisdefinedinsuchConditions,tooneormore
+separate Advanced Servicesaffiliates undercertain conditions. Because SBC/Ameritech hastransitioned such
+Advanced Services to its structurally separate affiliate(s), AT&T California has no further obligation to make
+available such Advanced Servicesfor resale orto interconnectitsFrameRelaynetworkwith CLECand has no
+,PacificBellTelephoneCompany,aCaliforniacorporation,isnowdoingbusinessinCaliforniaas'AT&TCalifornia'.
+2AT&T'sagreementthatCarriermayadopttheMFNAgreementinitsentirety,includingtherates,termsandconditionsforISPBoundTrafficandalllegitimatelyrelatedterms,
+shallnotconstituteorotherwisebeinterpretedasawaiverofAT&T'spositionthatAllTrafficAdoptingFCCInterimTerminatingCompensationPlanisnotgovernedbySection
+251(b)(5)oftheAct. Rather,AT&Tfullyreservesallofitsrightsandargumentsastoitspositionthat,consistentwiththeFCC'sISPCompensationOrder,AllTrafficAdoptingFCC
+InterimTerminatingCompensationPlanisnotgovernedbySection251(b)(5)oftheAct.
+
+SharonThomas
+Page2
+furtherobligationtomakeavailablesuchAdvancedServicesforresaleortoprovisionFrameRelayinterconnection
+undertherates, termsand conditionssetforth intheMFNAgreement(totheextentapplicable).
+Finally, it is AT&T California's position that this MFN Agreement (including all attachments thereto) and every
+interconnection,serviceandnetworkelementprovidedhereunder,issUbjecttoallotherrates,termsandconditions
+containedintheMFNAgreement(includingallattachments/appendicesthereto),andthatallofsuchprovisionsare
+integrallyrelated and non-severable.
+Itiswith thisunderstandingandonthesetermsthatAT&TCalifornia isherebyaccepting WideVoice'srequestto
+adopt the MFN Agreement. Should the foregoing not accurately reflect your understanding of the Parties'
+agreement, pleasecontactSuzetteQuateat(214)858-0726orEricPetersonat(214)858-0716onorbefore3:00
+p,m, C.S.T. on February 14, 2011, IfAT&T California does not hearfrom you on or before that time, AT&T
+CaliforniawillassumethatthePartieshavereachedafinalagreementastoWideVoice'sadoptionrequestbased
+uponthetermsand conditionssetforth herein.
+Sincerely,
+RYLANDER
+cc: John M.Leutza,Director
+TelecommunicationsDivision
+CaliforniaPublicUtilitiesCommission
+505VanNessAvenue, 3rdFloor
+SanFrancisco, CA 94102
+
+GENERALTERMSANDCONDITIONS
+AT&TCALIFORNIA/COMITY
+Page2of407 PAGE1OF44
+INTERCONNECTION AGREEMENT- CALIFORNIA
+between
+Pacific Bell Telephone Company
+d/b/a AT&T California
+and
+Comity Communications, LLC
+Page2of423
+
+GENERALTERMSANDCONDITIONS
+AT&TCALIFORNIA/COMITY
+Page8of407 PAGE7OF44
+such UNEs, Collocation, Interconnectionand/orResale to CLECforthe purposesofCLEC providingand/or
+extending service outside of SBC-12STATE's incumbent local exchange areas. In addition, AT&T is not
+obligated to provision UNEs orto provide access to UNEs under Section 251(c)(3) ofthe Act, Collocation
+underSection 251(c)(6) oftheAct, Interconnection underSection 251(c)(2) ofthe Act and/or Resaleunder
+Section 251(c)(4) of the Act and is not otherwise bound by any 251(c) obligations in geographic areas
+otherthan AT&T's incumbent local exchange areas. Therefore, the Parties understand and agree that the
+rates, terms and conditions set forth in AT&T's current Interconnection Agreement, and any associated
+provisions setforth elsewhere in CLEC'scurrent InterconnectionAgreement (including butnotlimitedto the
+ratessetforth inthisAgreementassociatedwith UNEsunderSection 251(c)(3)oftheAct, Collocationunder
+Section251(c)(6)oftheAct, InterconnectionunderSection251(c)(2)oftheActand/orResaleunderSection
+251(c)(4) of the Act), shall only apply to the Parties and be available to CLEC for provisioning
+telecommunication services within an AT&Tincumbentlocalexchangearea(s) inthe Statein which CLEC's
+current Interconnection Agreementwith AT&T has been approved bythe relevantstate Commissionand is
+ineffect.
+2.0 EFFEC11\tEDA1E,1ERMAND1ERMNATION
+2.1 TheeffectivedateofthisAgreement(the"EffectiveDate")shall beasfollows: (i) unlessthis Agreementisa
+successor agreement to an effective interconnection agreement between the Parties under Sections
+251/252 of the Act, then the Effective Date of this Agreement shall be ten (10) calendar days after the
+California Public Utility Commission (the "Commission") approves this Agreement under Section 252(e) of
+the Act or, absentsuch Commission approval, the date this Agreement is deemed approved underSection
+252(e)(4) of the Act; or (ii) if this Agreement is asuccessor agreement to an effective interconnection
+agreement between the Parties under Sections 251/252, then the Effective Date shall be the date upon
+which the Commission approves the Agreement underthe Act, orabsentsuch Commission approval, the
+datethisAgreementisdeemed approved underSection252(e)(4)oftheAct.
+2.2 The Agreement shallexpireon November27,2011. Absent the receipt byone Partyofwritten noticefrom
+the other Party notearlierthan 180calendardayspriorto the expirCltipn2ftQ~J~nnt9 tbe~ffectthatsuch
+Partydoesnot.intend.toext~nd meJerrn.("N()tice pfE:~pirClti9n"),thi§>Agr~~I1l~ntshClnr~rn~ininfVILforce
+and effect, on amonthto month basis,·on andaftertheexpirationoftheT~rmunti.1 terminated/by/either
+Party.
+2.2.1 If either Party serves Notice of Expiration pursuant to Section 2.2, CLEC shall have twenty (20)
+calendar days to provide AT&T written confirmation if CLEC wishes to pursue a successor
+agreementwith AT&T oraltematively, ifCLEC wishes to allowthe current Agreement toexpire. If
+CLEC wishes to pursue a successor agreement with AT&T, CLEC shall attach to its written
+confirmation or Notice of Expiration, as applicable, awritten request to commence negotiations
+with AT&T under Sections 251/252 ofthe Act. Upon receipt ofCLEC's Section 252(a)(1) request,
+the Partiesshallcommencegoodfaith negotiationson asuccessoragreement.
+2.2.1.1 IfCLEC does not affirmatively state that itwishes to pursue asuccessoragreementwith
+AT&T in its, as applicable, Notice of Expiration orthe written confirmation required after
+receipt of AT&T's Notice of Expiration, then the rates, terms and conditions of this
+Agreement shall continue in full force and effect until the laterof 1) the expiration ofthe
+Term of this Agreement, or 2) the expiration of ninety (90) calendar days afterthe date
+CLEC provided orreceived NoticeofExpiration. Unlessotherwise agreed bythe Parties,
+ifthe Term ofthis Agreement has expired, on the ninety-first (91st) day following CLEC
+provided or received Notice of Expiration, the Parties shall have no further obligations
+underthisAgreement,exceptthosedescribedin Sections2.4and48.
+2.3 Thetermsand conditionsand ratesandchargescontained hereinwillcontinuetoapplyuntiltheearlierof(i)
+termination byeitherPartyunderthetermsofthisAgreement; (ii)thedateasuccessoragreementbecomes
+Page8of423
+
+AGREEMENT
+by and between
+YMAXCOMMUNICATIONS CORP.
+and
+VERIZON CALIFORNIA INC.
+FORTHE STATEOF
+CALIFORNIA
+YmaxCACampv2.8c.dac
+
+1.1 Exceptas otherwiseprovided inthe Principal Document, the Principal Document
+may not bewaived ormodified except by awritten documentthatis signed by
+the Parties. Subjectto the requirements ofApplicable Law, a Party shall have
+the rightto add, modify, orwithdraw, itsTariff(s) at anytime, withoutthe consent
+of, or noticeto, the otherParty.
+2. Term and Termination
+2.1 ThisAgreement shallbeeffectiveas ofthe EffectiveDateand, unless cancelled
+orterminated earlierin accordancewith theterms hereof, shall continue ineffect
+until June25,2008 (the"InitialTerm"). Thereafter, thisAgreement shallcontinue
+in force and effect unless and until cancelled orterminated as provided inthis
+Agreement.
+2.2 EitherYmaxorVerizon mayterminate thisAgreementeffective upon the
+expiration ofthe InitialTerm oreffective upon anydate afterexpiration ofthe
+InitialTerm by prOVidingwritten noticeoftermination at leastninety (90) days in
+advanceofthedate oftermination.
+2.3 IfeitherYmax orVerizon provides notice oftermination pursuantto Section 2.2
+and on orbeforethe proposeddateoftermination eitherYmaxorVerizon has
+requested negotiation ofanewinterconnection agreement, unless this
+Agreement is cancelled orterminated earlierin accordancewith theterms hereof
+(including, but notlimitedto, pursuantto Section Error! Reference source not
+found.), thisAgreement shall remain in effectuntilthe earlierof: (a) the effective
+date ofa newinterconnection agreement between YmaxandVerizon; or, (b)the
+date one (1) yearafterthe proposed dateoftermination.
+2.4 IfeitherYmax orVerizon provides notice oftermination pursuantto Section 2.2
+and by 11:59 PM Eastern Timeonthe proposed dateoftermination neither
+Ymax norVerizon has requested negotiation ofanewinterconnection
+agreement, (a) this Agreementwillterminate at11:59 PM Eastern Timeonthe
+proposed dateoftermination, and (b)theServices being prOVided underthis
+Agreementatthetimeoftermination will beterminated, excepttotheextentthat
+the Purchasing Party has requested thatsuch Services continueto be provided
+pursuantto an applicableTarifforStatementofGenerallyAvailable Terms
+(SGAT).
+3. Glossary and Attachments
+The Glossary andthe following Attachments are apartofthisAgreement:
+Additional ServicesAttachment
+InterconnectionAttachment
+ResaleAttachment
+Network ElementsAttachment
+CollocationAttachment
+911 Attachment
+Pricing Attachment
+4. Applicable Law
+a35b-8459-bc5d-793e.doc 2
+
+\,KT
+~.~
+~....YJo-
+LawOfficeofKristopherE.Twomey.P.C.
+LoKTConsulting
+Counsel10theCompetition0
+Email: krjs@lokl.net
+Direct: 5101285-8012
+July 16, 2008
+ViaDHL
+Director, ContractPerformance and Administration
+VerizonCommunications,WholesaleMarketsDivision
+600 HiddenRidge, HQE3D52
+Irving, TX 75038
+NOTICEOFADOPTION
+UnderSection252(1) ofthe CommunicationsActof1934
+ToWhom ItMayConcern:
+This letterprovides notice to Verizon Communications, Inc. that pursuantto Section 252(i) of
+theCommunicationsAct, andthe revised version ofRule 7.1 attached to Resolution ALJ-181
+of the California Public Utilities Commission, Wide Voice, LLC1 has elected to adopt the
+Interconnection Agreement and all amendments thereto between Verizon Communications,
+Inc. andYMaxCommunicationsCorp.
+Upon the passage of time provided in Resolution ALJ-181 and Rule 7.1 cited above, the
+above-referenced Agreement will become effective on August 4, 2008 as between Wide
+Voice, LLC and Verizon Communications, Inc. If you have any questions, please do not
+hesitatetocall.
+co: CPUC
+tTheCPUCapprovedWideVoice, LLC'sapplicationtobecomeacompetitivecarrieronFebruary28.2008in
+0.08-02-020. ItsutilitynumberisU7061C.
+1425LeimertBoulevard,Suite404 1725IStreet,NW,Suite300
+Oakland,CA94802 Washington,DC20006
+Phone: 510285-8010 Phooe:202250·3413
+Fel(; 510868·8418 Fax: 202517-9175
+www.lokLnet
+a35b-8459-bc5d-793e.doc 3
+
+From: Moffitt, Theresa <Theresa.Moffitt@FTR.com>
+Sent: Thursday, November01,201812:05 PM
+To: Nelson Fernandez <nfernandez@inteserra.com>; Contract Management
+<Contract.Management@ftr.com>
+Subject: RE: WideVoice - Signed ICAswith Frontier
+Nelson, WideVoiceadoptedthe YMAXagreement in CA, sothere is no interconnection
+agreementsigned orunsigned between WideVoiceand Frontier(formerly Verizon). Weonly
+havethecommission orderapprovingtheadoption (which Ipreviously senttoyou) and the
+attachedYMAX-Verizon agreementthatcontains alloftheterms applicableto WideVoiceforthis
+area. There is only oneCAagreementbecauseFrontieracquired theVerizon propertycovered
+bythe Interconnection agreementin two separatetransactions. Frontier'sfirst acquisition was of
+aportion ofthe geographic area covered bytheagreement andyears laterasecond acquisition
+ofthe remaining geographic area. Each acquisition created a newFrontierentity, sothat's why
+therearetwo separate Interconnection agreements reflectingthe sameVerizon interconnection
+agreement.
+Ifyou need anything else, please letmeknow
+Theresa Moffitt, Esquire
+Manager, Interconnection and Contract Negotiation
+100CTE Drive
+Dallas, PA 18612
+570-631-6269
+From: Nelson Fernandez [mailto:nfernandez@inteserra.coml
+Sent: Tuesday, October30, 2018 9:21 AM
+To: Moffitt, Theresa <Theresa.Moffitt@FTR.com>; Contract Management
+<Contract.Management@ftr.com>
+Subject: FW: WideVoice - Signed ICAswith Frontier
+Good morning. Sorryto be such apain again, butIcan'tfind thetwo WideVoice ICAswith
+Frontieron ourservers. Iknowthatone istheadoptedVerizon-YMaxCommunications ICA, butI
+don'thave any information on the second ICAotherthan the recentVolPAmendment.
+Could you please send methetwo unsigned ICAswhen you getan opportunity?
+Thanks again foryourpatienceand assistance. Have aniceday.
+Nelson Fernandez
+Consultant
+Direct: 407-740-30041 Main: 407-740-8575
+FAX: 407-740-06131 www.inteserra.com
+151 Southhall Lane, Suite450, Maitland, FL 32751 (407-740-8575) immediately.
+a35b-8459-bc5d-793e.doc 4

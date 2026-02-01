@@ -1,0 +1,47 @@
+October 11, 2022
+BY ELECTRONIC DELIVERY
+Marlene H. Dortch, Secretary
+Federal Communications Commission
+445 12th Street S.W.
+Washington D.C. 20554
+Re: Supplement to Application of Vested Networks, LLC. for Authorization to Obtain
+Numbering Resources
+WC Docket No.
+Dear Ms. Dortch:
+Vested Networks, LLC by its consultant, hereby provides this letter supplementing its Application
+for Authority to Obtain Numbering Resources, dated October 11, 2022. Vested Networks, LLC
+herein confirms that, once it receives authority from the Commission to secure numbering resources,
+it will secure such resources in the attached list of States wherein Vested Networks, LLC operates.
+Any additional states will be added at a later date.
+In addition, pursuant to the request of Commission staff, Vested Networks, LLC is providing
+publicly available ICAs between its Carrier Partner and AT&T (Exhibit B) to its Application as proof
+of Vested Networks, LLC’s facility readiness per the Commission’s rules Section 52.15(g)(3)(i)(D).
+AT&T’s ICAs are lengthy, therefore links to the publicly available documents are:
+https://dms.psc.sc.gov/Attachments/Matter/061250f1-0dcd-2b55-97db756014775cd1
+https://clec.att.com/clec_cms/clec/clec1.html
+See Bandwidth.com CLEC LLC – IL (13 State ICA).
+Thank you for your attention to this matter. Please contact the undersigned if you have any questions.
+Sincerely,
+Ron Shelton
+Compliance Solutions, Inc.
+Consultant to Affiliated Technology Solutions, LLC.
+
+Vested Networks, LLC.
+States with Interconnected VoIP Operations
+Arizona
+California
+Florida
+Louisiana
+South Carolina
+Missouri
+Nevada
+New York
+Oklahoma
+Texas
+
+Public Facing Document
+Exhibit B
+(for each state listed)
+Interconnection Agreement
+by and between
+Carrier Partner and AT&T

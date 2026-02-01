@@ -1,0 +1,38 @@
+VIA ECFS
+May 31, 2017
+Marlene Dortch, Secretary
+Federal Communications Commission
+445 121 H Street SW
+Washington, DC 20554
+Re: OpenSIP.com, LLC., Amendment for Authorization to Obtain Number
+Resources Pursuant to Section 52.15(g) of the Commission’s Rules. WC Docket No.
+17-89
+Dear Ms. Dortch:
+Pursuant to Section 52.15(g)(3)(i) of the Commission’s Rules, OpenSIP.com, LLC
+hereby wishes to submit an amendment to its application requesting authorization
+to obtain numbering resources.
+1. The experience of OpenSIP.com, LLC., is coming from its previous name of
+Strategic Voice DBA GoFIBER.
+2. In the original application under section 52.15(g)(3)(i)(D), it was stated that
+"As proof of its facilities readiness, OpenSIP.com has attached to this
+application (1) An agreement between OpenSIP.com and its carrier partner
+providing that the carrier partner will host OpenSIP.com numbers on its
+switches and provide PSTN connectivity for inbound calls to OpenSIP.com
+numbers..." OpenSIP.com LLC wishes to amend and correct this sense to "As
+proof of its facilities readiness, OpenSIP.com has attached to this application
+(1) An agreement between OpenSIP.com and its carrier partners providing
+that our carrier partner/s will host OpenSIP.com numbers on its switches for
+PSTN connectivity for inbound and outbound traffic to and from
+OpenSIP.com telephone numbers."
+a. Exhibit A
+OpenSIP.com has requested confidential treatment under the
+Commission’s rules for its Exhibits and has filed them separately.
+
+For any question regarding this amendment please contact Anees Elbruki at
+(714) 448-6555 or anees@elbruki.com
+Respectfully Submitted,
+Anees Elbruki
+OpenSIP.com, LLC
+
+EXHIBIT A
+[Confidential exhibit submitted separately]

@@ -1,0 +1,89 @@
+Beforethe
+Federal Communications Commission
+Washington,D.C.20554
+IntheMatterof )
+)
+CenturyLinkCommunications, LLC,Applicant )
+ForAuthorizationtoObtainNumbering ) WC Docket No.19-____
+Resources Pursuant toSection52.15(g)of )
+theCommission’s Rules )
+APPLICATIONOFCENTURYLINKCOMMUNICATIONS,LLCFOR
+INTERCONNECTEDVOIPNUMBERING AUTHORIZATION
+CenturyLinkCommunications, LLC (“CCLLC”), acurrent providerofinterconnected
+voiceoverinternet protocol (“iVoIP”)service,files this applicationwiththeFederal
+Communications Commission(the“Commission”)forauthorizationtoacquiretelephone
+numbers directlyfrom theNorthAmericanNumberingPlan AdministratorandthePooling
+Administrator(the“NumberingAdministrators”) pursuant toCommissionrulesection
+1
+52.15(g)(3).
+CCLLC provides thefollowinginformationinsupport ofits application:
+1. CompanyInformation.CCLLC’s address is 100CenturyLink Drive,Monroe, LA71203
+andits general corporate telephonenumberis (318)388-9000. Forpurposes ofthis
+application,inquiries pertainingtoissues associatedwith9-1-1,law enforcement,and
+general compliancewith Commissionrules canbedirectedtoStacyHartman,VP Public
+Policy&Compliance,bytelephoneat (720)578-3421orbyelectronicmail at
+stacy.hartman@centurylink.com.
+2. Acknowledgements. CCLLC acknowledges that:
+a.grant ofthe authorizationsought bythis applicationis subject tocompliancewith
+1
+47C.F.R.§52.15(g)(3).
+
+applicableCommissionnumberingrules, numberingauthoritydelegatedto theStates, and
+industryguidelines andpractices regardingnumberingas applicabletotelecommunications
+carriers; and
+b.it must filerequests fornumbers withtherelevant Statecommissions at least thirty
+(30)days before requestingnumbers from theNumberingAdministrators.
+3. ServiceReadiness.
+a.CCLLC is capableofprovidingiVoIP servicewithinsixty(60)days ofthenumbering
+2
+resources activationdate inaccordance withCommissionRuleSection52.15(g)(2) becauseit
+owns andoperates facilities fortheprovisionofiVoIP services, has providediVoIP services for
+several years andcontinues toprovidethoseservices at thepresent time. CCLLC’s iVoIP
+portfolioincludes but is not limitedto: Digital HomePhone(service guideavailable at
+https://www.centurylink.com/home/help/home-phone/digital-home-phone.html)andDigital
+Phone(service guideavailableat https://www.centurylink.com/asset/small-business/user-
+guides/voip/BusinessVoIPWelcomeGuide.pdf). CCLLC contributes tothe Universal Services
+Fund(“USF”) andTelecommunications RelayServices Fund (“TRSF”)duetoits provisionof
+theseservices, whichare offeredovermultiplesales channels, includingviaits websiteat
+www.centurylink.com.
+b.CCLLC owns andoperates network facilities bywhichserviceis providedto
+customers ofCCLLC’s business andconsumeriVoIP offerings referenced above. Numbers
+acquireddirectlyfrom theNumberingAdministrators will beusedforcustomers ofthese
+services providedoverthesefacilities. CCLLC currentlyacquires numbers from its affiliates.
+CCLLC is obtainingaseparateoperatingcompanynumber (“OCN”)forits iVoIP services and
+2
+47C.F.R.§52.15(g)(2).
+2
+
+will usethis OCNtoacquirenumbers forits iVoIP services directlyfrom theNumbering
+Administrators followinggrant ofthis application. Oncethis applicationis approved,CCLLC
+intends totransfersome ofits existingnumbers to IPES numbers.
+4. Certifications. CCLLC certifies tothefollowing, supportedbytheattachedcertification
+ofStacyHartman, VP PublicPolicy&Compliance:
+a.CCLLC complies with its USFcontributionobligations underCommissionRule
+3 4
+Part 54, its TRSFcontributionobligations underCommissionRuleSection64.604(c)(5)(iii), its
+NANP and LNP administrationcontributionobligations underCommissionRuleSections 52.17
+5 6
+and52.32, its obligations topayregulatoryfees underCommissionRuleSection1.1154, and
+7
+its 911obligations under CommissionRulePart 9.9.
+b.CCLLC possesses the financial,managerial,andtechnical expertisetoprovidereliable
+iVoIP service. CCLLC is awholly-ownedsubsidiaryofCenturyLink, Inc. (“CenturyLink”), a
+publicly-traded Louisianacorporationwithawebsiteofwww.centurylink.com. Thesenior
+management ofCenturyLinkhas great depthinthetelecommunications industryandoffers
+extensivetelecommunications business,technical andmanagerial expertise toCenturyLink. Key
+management andtechnical personnel include, amongothers:
+DavidCooper,VP Global VoiceEngineering
+GregWallace, VP Global NetworkArchitecture
+3
+47C.F.R.Part 54,Subpart H.
+4
+47C.F.R.§64.604(c)(5)(iii).
+5
+47C.F.R.§§52.17,52.32.
+6
+47C.F.R.§1.1154.
+7
+47C.F.R.Part 9.
+3

@@ -1,0 +1,167 @@
+Docusign Envelope ID: AA90270A-F52C-4BA5-AB07-C20C9EEE2965
+Service Order - PSTN Control Service
+This Service Order – PSTN Control Service is subject to and made a part of the Master Service Agreement (“MSA”)
+between the customer (“Customer”) identified below and Peerless Network, Inc. (collectively referred to as the
+“Parties”), and governs the sale and purchase of the Services described below. This Service Order Initial Term is one
+(1) year from the Service Commencement Date and renews for one (1) month periods unless either Party cancels
+the Service Order or MSA. The Effective Date of this Service Order is the last date when the Service Order was signed
+(“Effective Date”).
+The Parties have caused this Service Order to be duly executed by their authorized representatives:
+Customer: Action Vox Inc. Peerless Network, Inc. and its Affiliates (“Peerless”)
+Master Services Agreement (MSA)#: ACVX180831-3002018
+Signature: Signature:
+Allan Noorda Mijo Soldin
+Name: Name:
+Title: President Title: VP Telecom Strategy and Partherships
+Date: 14 May 2025 Date: 14 May 2025
+1. Service Description. Peerless will provide PSTN Control Service to the Customer to terminate traffic from
+the Public Switched Telephone Network (“PSTN”). Service will be configured based upon incumbent LEC
+requirements, which may include using existing Peerless interconnection facilities or separate facilities dedicated to
+the Customer. As a condition of Peerless PSTN Control Service, Customer is required to enter into the Peerless
+Transit Service Order. In the event Customer chooses to route additional traffic, Customer agrees to enter into the
+appropriate Service Orders.
+2. Customer Responsibilities. Customer acknowledges and agrees that they are a certified Competitive Local
+Exchange Carrier (“CLEC”) in good standing in each applicable state and responsible for all regulatory requirements,
+including but not limited to:
+a) Establishing or opting into existing Interconnection Agreements with the appropriate Local Exchange
+Carrier (“LEC”); and
+b) Filing and maintaining appropriate interstate and intrastate tariffs with the appropriate regulatory agencies
+and organizations (including, e.g., NECA); and
+c) Obtaining a POI (CLLI) code in each designated location for service; and
+d) Obtaining all necessary industry identifiers including but not limited to; OCN, ACNA, LNP Service Provider
+ID (SPID); and
+e) Obtaining an “A” Block NPA-NXX and assigning a Local Routing Number (LRN) from the “A” Block. Central
+Office Code Assignment Guidelines shall include:
+i. SW IDENT: Customer CLLI Code
+ii. ACTUAL SW ID: Peerless Network provided CLLI Code per market; and
+f) Providing the “A” Block NPA-NXX and LRN to Peerless as soon as it is received by the Customer, but no later
+than seven (7) days after receipt; and
+g) Establishing an AOCN relationship with an AOCN provider for entering and maintaining all appropriate LERG
+designations; and
+h) Establishing and supporting all local number portability processes; and
+i) Implementing a solution for delivering/accepting all ancillary call types in accordance with all federal, state,
+and municipal laws, in addition to all Interconnection Agreemnt requirements. Ancillary call types include,
+but are not limited to, 911, E911, 311 Operator Services, Directory Assistance, 900, 500, 976 services; and
+j) Establishing two one-way inbound trunk groups between Customer and Peerless Network for the delivery
+SERVICE OPRDER – PSTN CONTROL CONFIDENTIAL Page 1 of 4
+CONFIDENTIAL
+
+Docusign Envelope ID: AA90270A-F52C-4BA5-AB07-C20C9EEE2965
+of inbound local/intraLATA and interLATA traffic. Connections to Peerless Network will be made using
+Session Initiation Protocol (SIP) using either G.711 and/or G.729 codes unless mutually agreed upon to in
+writing by both parties; and
+k) Agreeing to enter into, and be bound by the terms and conditions of, the appropriate Service Order(s) (e.g.,
+Voice Termination) in the event Customer chooses to route additional traffic; and
+l) Agreeing to be in compliance with all third-party traffic termination arrangements, including primary toll
+carrier agreements, and optional and/or extended calling area plans; and
+m) Acknowledging that service is only available to Customer for use in providing local exchange and exchange
+access telecommunications services to its residential, business, and government end users within the
+Peerless network or its affiliates service areas. ("Eligible End Users") – except where, and only to the extent
+that, Customer is required to allow for the resale of its local exchange telecommunications services under
+state or federal law and that service may not be used for termination of "pass through" or transit access
+traffic if such use results in an arrangement that seeks to avoid the appropriate application of switched
+access charges. Eligible End Users being served by Customer using PSTN Control Service are referred to
+herein as “PSTN End Users;" and
+n) Arranging and bearing all costs of connection to its customers; and
+o) Billing and collecting any Customer End User fees; and
+p) Submitting all orders to orderentry@peerlessnetwork.com; and
+q) Billing and collecting any applicable End Office switched access fees, including Intercarrier Compensation.
+3. Peerless Responsibilities: In providing the PSTN Control Service, Peerless acknowledges and agrees that it
+(or a related subsidiary) will:
+a) Maintain appropriate interconnection facilities to the incumbent local exchange carrier tandem(s), and
+assist (as needed) in the ordering and provisioning of interconnection facilities with the incumbent LEC;
+and
+b) Coordinate any SS7 route sets as may be required for interconnection to the LEC; and
+c) Provide Customer with Peerless CLLI Codes mentioned above; and
+d) Route all inbound traffic (local, intraLATA, interLATA, International) received to Peerless Network’s tandem
+both directly or indirectly from another carrier to the Customer.
+e) Provide EMI records.
+f) Use commercially reasonable efforts to provision orders within twenty (20) days of receipt from Customer.
+Orders received after 3:00pm CST will be considered as received the next business day. Orders that are
+expedited will be assessed a fee of $500.00 per order.
+4. Pricing. The prices for PSTN Control Services are as follows:
+PSTN Control Inbound RPM* $0.0014
+PSTN Control Minimum per LATA (take or pay monthly) $150.00
+Outbound Minutes Rate Deck
+* Customer must have valid Service Orders for this traffic. Contingent upon availability and
+Peerless approval of the Customer forecast
+4.1 Rates are subject to change on seven (7) days written notice. Modification in rates may be in the form of
+new rates, charges and/or surcharges or through modification of existing rate elements which are used to determine
+rates and/or charges. Customer is liable for payment on any rate changes past the effective date as documented in
+a delivered rate modification notice. Unless explicitly stated, any pricing not covered in this Service Order is subject
+to the Applicable Tariffs covering such services. In addition, Peerless will not act as a billing intermediary or
+clearinghouse for Customer’s billing.
+SERVICE OPRDER – PSTN CONTROL CONFIDENTIAL Page 2 of 4
+CONFIDENTIAL
+
+Docusign Envelope ID: AA90270A-F52C-4BA5-AB07-C20C9EEE2965
+4.2 Peerless may charge applicable tandem switched access rates to a third party for terminating traffic to the
+Customer. If Peerless is charged by a third party for services typically billed to the end office provider (Customer),
+Peerless will pass through such charges to Customer. Customer acknowledges and agrees that Peerless is not
+responsible for any charges levied by any third party in connection with such traffic, including intercarrier
+compensation.
+4.3 Customer will not charge Peerless any amounts in connection with any traffic exchanged under this Service
+Order including terminating and originating switched access fees for traffic utilizing a Peerless CIC Code.
+4.4 Should the Customer provide Peerless proper notice of cancellation of this Service Order, Customer will
+use best efforts to migrate the traffic off of the Peerless network within thirty (30) days, but in no way should
+Customer take more than sixty (60) days to finalize such migration. Customer is responsible for payment of all traffic
+until traffic is properly migrated off of Peerless’ network. Should Peerless need to close a market/LATA, Peerless
+will provide sixty (60) days written notice to the Customer so that Customer can migrate traffic off the Peerless
+network and all associated “A Blocks”. If the Customer does not migrate traffic within the sixty (60) day time period,
+Peerless may provide a rate increase as identified in 4.1 above.
+4.5 Access Stimulation Certification. In accordance with C.F.R. § 51.914, as of November 27, 2019 a LEC
+engaged in access stimulation (as defined in C.F.R. § 61.3(bbb)) must: (1) designate in the Local Exchange Routing
+Guide (LERG) or by contract the route through which an interexchange carrier can reach that LEC’s end office (or
+equivalent) and bear financial responsibility for all interstate and intrastate terminating tandem switching and
+transport charges (whether terminated directly or indirectly); (2) a LEC engaged in access stimulation must not bill
+interexchange carriers for terminating tandem switching and transport charges for traffic between that LEC’s end
+office (or equivalent) and the associated access tandem switch; and (3) notify the FCC, all intermediate access
+providers it subtends, and interexchange carriers with which they do business in writing: (i) that the LEC is engaged
+in access stimulation and (ii) designate the intermediate access providers that will provide the terminating switched
+access tandem switching and transport to that LEC and that the LEC will pay for those services. Further, an
+intermediate access provider that receives notice that it has been designated to provide terminating tandem
+switching and transport to a LEC engaged in access stimulation must not bill the interexchange carrier for those
+services and instead bill that LEC.
+As of the Effective Date of this Service Order, Customer states that ___ is _X__ is not an access stimulator as defined
+by C.F.R. § 61.3(bbb). Customers submitting access stimulation notices to the FCC shall provide notice to Peerless
+simultaneously via email at: regulatory@peerlessnetwork.com with copy to contracts@peerlessnetwork.com.
+Further, if Customer is deemed to be an access stimulator or Peerless compensates an IXC for traffic associated with
+Customer credits, Customer shall reimburse Peerless on the subsequent invoice or within fifteen (15) days, whichever
+is sooner. Customer shall not be entitled to withhold reimbursement if Peerless demonstrates that it compensated
+the IXC. Failure to notify or reimburse Peerless as described above may result in immediate service suspension,
+including the suspension of any credits.
+4.6 Acceptable Use. Parties agree to work cooperatively to address unlawful use in a timely manner. Peerless
+works cooperatively with the industry, law enforcement, governmental entities, regulatory entities, and other
+carriers (collectively “Cooperative Parties”), to address issues related to illegality, fraud and abuse. In accordance
+with laws applicable to Peerless and notwithstanding anything to the contrary in this Agreement, Peerless may
+disclose Customer’s information and such disclosure will not be a violation of this Agreement.
+Unlawful Use. Customer will use best efforts to prevent unauthorized, illegal, or fraudulent use of the Services, and
+shall terminate any unauthorized, illegal, or fraudulent user access and immediately notify Peerless of any such
+unauthorized, illegal, or fraudulent use, attempted use of, or access to, the Services. Regardless of how Customer
+becomes aware of unlawful activity, Customer is not relieved of liability related to the offending traffic and will also
+be responsible for paying third-party fees directly related to the offending traffic. Further, any unauthorized, illegal,
+or fraudulent use or misuse of the Services by or through Customer voids all warranties, express or implied, by
+Peerless, and relieves Peerless from any responsibility for performance under the respective Service Order where
+SERVICE OPRDER – PSTN CONTROL CONFIDENTIAL Page 3 of 4
+CONFIDENTIAL
+
+Docusign Envelope ID: AA90270A-F52C-4BA5-AB07-C20C9EEE2965
+fraud, abuse or illegality occurred. Peerless has no obligation to prevent, monitor, notify, or actively seek facts or
+circumstances indicating any fraud, abuse or illegal activities.
+Traceback Efforts. Customer warrants that it will participate in any traceback efforts authorized by US Telecom’s
+Traceback Group regarding suspicious robocalls without the need for a subpoena or formal demand. Customer
+agrees that its response shall indicate if it is in the call path as the originating provider of the calls (i.e., Customer
+received the calls from Customer’s End User) or (ii) a transit provider (i.e., Customer received the calls from another
+voice provider). The response shall also identify the source of the calls.
+Penalties. In addition to penalties outlined above, Peerless may, in its sole discretion, take any or all of the following
+actions to address if it discovers or reasonably suspects any abuse or unlawful activity: (i) take commercially
+reasonable action on offending numbers in order to minimize misuse; (ii) issue a verbal, e-mail or written warning
+notifying the Customer of the misuse and the corrective action that must be taken; (iii) suspend, with or without
+warning, all or part of a Customer’s Service and may condition restoration of such Service upon Customer affecting
+corrective action; and/or (iv) terminate, with or without warning, all or part of Customer’s service and may
+terminate Customer’s Agreement. Any unauthorized, illegal, or fraudulent use or misuse of the Services by or
+through Customer voids all warranties, express or implied, by Peerless, and relieves Peerless from any responsibility
+for performance under the respective Service Order where fraud, abuse or illegality occurred.
+[End of Document]
+SERVICE OPRDER – PSTN CONTROL CONFIDENTIAL Page 4 of 4
+CONFIDENTIAL

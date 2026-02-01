@@ -1,0 +1,132 @@
+BEFORE THEN
+FEDERAL COMMUNICATIONS COMMISSION
+WASHINGTON, D.C. 20554
+In the Matter of )
+)
+PAETEC iTEL, L.L.C., Applicant )
+For Authorization to Obtain Numbering ) WC Docket No. 20-
+Resources Pursuant to Section 52.15(g) of )
+the Commission’s Rules )
+APPLICATION OF PAETEC iTEL, L.L.C. FOR
+INTERCONNECTED VOIP NUMBERING AUTHORIZATION
+PAETEC iTEL, L.L.C. (“Windstream IPES”), is a provider of interconnected voice over
+internet protocol (“iVoIP”) service, and files this application with the Federal Communications
+Commission (the “Commission”) for authorization to acquire telephone numbers directly from the
+North American Numbering Plan Administrator and the Pooling Administrator (the “Numbering
+Administrators”) pursuant to Commission rule section 52.15(g)(3).1
+In support of its Application, Windstream IPES provides the following information:
+1. Company Information.
+Address: 4001 N. Rodney Parham Road, Little Rock, AR 72212
+General corporate telephone number: (501) 748-5000.
+For purposes of this Application, inquiries pertaining to issues associated with 9-1-1, law
+enforcement, and general compliance with Commission rules can be directed to Carol
+Keith, Deputy General Counsel, by telephone at (847) 550-4433 or by electronic mail at
+carol.keith@windstream.com or Nicole Winters, Counsel II, by telephone at (501) 748-
+6313 or by electronic mail at nicole.winters@windstream.com.
+1 47 C.F.R. § 52.15(g)(3).
+1
+
+2. Acknowledgements.
+Windstream IPES acknowledges that:
+a. grant of the authorization sought by this Application is subject to compliance with
+applicable Commission numbering rules, numbering authority delegated to the States, and industry
+guidelines and practices regarding numbering as applicable to telecommunications carriers; and
+b. it must file requests for numbers with the relevant State commissions at least thirty
+(30) days before requesting numbers from the Numbering Administrators.
+3. Service Readiness.
+a. Windstream IPES is capable of providing iVoIP service within sixty (60) days of the
+numbering resources activation date in accordance with Commission Rule Section 52.15(g)(2)2
+because its affiliates own and operate facilities for the provision of iVoIP services and it has
+secured an agreement with at least one third party network provider to use their network.
+Windstream IPES’ and its affiliates have provided iVoIP services for several years and continue
+to provide those services. In addition to local voice and long distance services, Windstream
+IPES’s iVoIP’s affiliates portfolio includes but is not limited to: Office Suite UC3 (a cloud-based
+phone and unified communications system) and Dynamic IP4. Windstream IPES’ and its
+affiliates contribute to the Universal Services Fund (“USF”) and Telecommunications Relay
+Services Fund (“TRSF”) applicable to the provision of services. Such services are offered to
+enterprise and medium size business customers via multiple sales channels, including its website
+2 47 C.F.R. § 52.15(g)(2).
+3 Office Suite product and service information available at https://business.windstream.com/office-suite-uc#/
+4 Dynamic IP product and service information available at https://windstreamenterprise.com/wp-
+content/uploads/2018/02/wol-guide-for-voip.pdf
+2
+
+at www.windstreambusiness.com.
+b. Windstream IPES, via its affiliates, owns and operates some of the network facilities it
+uses to serve its base of enterprise and mid-market business customers. In areas where neither
+Windstream IPES or its affiliates own and operate the networks Windstream IPES has secured
+an agreement with at least one third party for the use of their network. Numbers acquired directly
+from the Numbering Administrators will be used for customers subscribing to the services
+provided over these facilities. Windstream IPES is obtaining a separate operating company
+number (“OCN”) for its iVoIP services and will use this OCN to acquire numbers for its iVoIP
+services only, directly from the Numbering Administrators following grant of this Application.
+Once this Application is approved, affiliates of Windstream IPES intend to transfer some
+existing numbers to Windstream IPES.
+4. Certifications.
+Windstream IPES certifies to the following, as supported by the attached
+certification of Tim Loken, Director – Regulatory Reporting:
+a. Windstream IPES complies with its USF contribution obligations under
+Commission Rule Part 54,5 its TRSF contribution obligations under Commission Rule Section
+64.604(c)(5)(iii),6 its NANP and LNP administration contribution obligations under
+Commission Rule Sections 52.17 and 52.32,7 its obligations to pay regulatory fees under
+Commission Rule Section 1.1154,8 and its 911 obligations under Commission Rule Part 9.9.9
+b. Windstream IPES possesses the financial, managerial, and technical expertise to
+5 47 C.F.R. Part 54, Subpart H.
+6 47 C.F.R. § 64.604(c)(5)(iii).
+7 47 C.F.R. §§ 52.17, 52.32.
+8 47 C.F.R. § 1.1154.
+9 47 C.F.R. Part 9.
+3
+
+provide reliable iVoIP service. Windstream IPES is a wholly owned subsidiary of Windstream
+Holdings II, LLC. The senior management of Windstream IPES has extensive experience in
+the telecommunications industry and offers widespread telecommunications business,
+technical and managerial expertise. Key management and technical personnel include, among
+others:
+Tony Thomas, President & Chief Executive Officer
+Layne Levine, President – Enterprise
+Ron “Buddy” Bayer – Chief Network Officer
+Stephen Farkouh – Chief Information Officer
+None of whom are currently or have previously been investigated by the Commission
+or any law enforcement or regulatory agency for failure to comply with any law, rule, or order.
+5. No party to the Application, as defined in Commission rule section 1.2002(b) is subject
+to a denial of Federal benefits pursuant to section 5301 of the Anti-Drug Abuse Act of 1988.
+6. Pursuant to Commission Rule Section 52.l5(g)(3), Windstream IPES respectfully
+requests the Commission authorize it to obtain numbering resources directly from the Numbering
+Administrators.
+Respect fully submitted,
+PAETEC iTEL, L.L.C.
+By:_____________________
+Carol Keith
+Deputy General Counsel
+4001 N. Rodney Parham Road
+Little Rock, AR 72212
+847-550-4433
+Carol.Keith@windstream.com
+Dated: September 30, 2020
+4
+
+Certification of
+Tim Loken, Director – Regulatory Reporting
+I certify as follows:
+My name is Tim Loken and my business address is 4001 N. Rodney Parham Road,
+Little Rock, AR 72212. I am Director – Regulatory Reporting for Windstream Services II, LLC,
+the parent company of PAETEC iTEL, L.L.C. (“Windstream IPES”). I am authorized to provide
+this testimony on behalf of Windstream Services II, LLC and its subsidiary Windstream IPES.
+In addition to local voice and long distance services, Windstream IPES will be capable
+of providing interconnected VoIP service, including but not limited to services like Office Suite
+UC (a cloud-based phone and unified communications system)10 and Dynamic IP11. Such services
+are offered to enterprise and medium size business customers via multiple sales channels,
+including its website at www.windstreambusiness.com.
+1. Numbers acquired by authorization obtained through this application will be
+put into use within sixty (60) days.
+2. Windstream IPES will comply with its USF contribution obligations under
+Commission Rule Part 54, its TRSF contribution obligations under Commission Rule
+Section 64.604(c)(5)(iii), its NANP and LNP administration contribution obligations
+under Commission Rule Sections 52.17 and 52.32, its obligations to pay regulatory
+fees under Commission Rule Section 1.1154, and its 911 obligations under
+Commission Rule Part 9.9.
+10 OfficeSuite UC product and service information available at https://business.windstream.com/office-suite-uc#/.
+11 Dynamic IP product and service information available at https://www.windstreamenterprise.com/wp-
+content/uploads/2018/02/wol-guide-for-voip.pdf
+5

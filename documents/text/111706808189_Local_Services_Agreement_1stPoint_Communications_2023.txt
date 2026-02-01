@@ -1,0 +1,256 @@
+DocuSign Envelope ID: 587DD598-1DFA-459F-B334-6618C4DBD83F
+Teliax Local Service and Tandem Homing (NON AHT)
+This Service Attachment (including any attached exhibits or schedules, together this
+“Attachment”) is entered into by and between Teliax Telecom , LLC, a Delaware limited liability
+company, and 1stPoint Communications, LLC (“Customer”), on this 18th day of September
+2023 (the “Effective Date”). And is only valid with a signed MSA from Teliax as it is a supplemental
+agreement.
+Service Description.
+1.1 During the term of this agreement, Teliax will accept traditional telephony calls originating
+from the public switched telephone network ("PSTN") in select rate centers, as identified in appendix
+A (and as modified from time to time pursuant to the normal course of business), (ii) provide a service
+which converts such traffic into Internet Protocol packets, and (iii) deliver such traffic via Teliax’s
+VOIP network to Customer and/or Customer's End Users via the SIP (Session Initiation Protocol as
+described in RFC3261 and later).
+1.2 The DID numbers may be provided by Teliax to Customer, or ported in via Teliax to Customer
+via local number portability ("LNP"). The calls originating from the PSTN are converted to data
+packets in Teliax's IP Network and then delivered to Customer through a Session Initiation Protocol
+("SIP") interconnection port or via the public internet.
+1.3 Porting and Native Numbers. In order to obtain the configurations of Local Service
+described above, Teliax must be the Homing Tandem for the utilized telephone numbers (i.e.
+utilized telephone numbers must be assigned to End offices arranged behind Teliax or Teliax’s
+partner Tandems in the LERG (Local Exchange and Routing Guide)
+1.5 Customer agrees that all TNs associated with the DID product and assigned under the terms
+of this service agreement will not be used for origination of calls on any other network (other than
+customers own network) for any reason.
+1.6 Customer represents and agrees that it will comply with all applicable laws, rules,
+regulations, orders, and decrees relative to any use of numbers by Customer.
+1.7 Customer agrees that it is responsible for all emergency services, including 911 etc.
+2.0 Interconnection.
+Page 1 of 8
+
+DocuSign Envelope ID: 587DD598-1DFA-459F-B334-6618C4DBD83F
+2.1 In order to obtain Local Service, Customer must utilize one of the following methods of
+interconnecting to Teliax’s Local Service Platform:
+(a) Public Internet:
+Customer must complete a public internet order form; and
+New customers must schedule interoperability testing prior to service activation.
+(b) Dedicated Internet Access (DIA-CFA) customer provided facilities:
+Teliax will issue CFA/LOA for the interconnection facilities at the Teliax meet point
+with seven (7) business days of receipt of a DIA order such CFA will have a validity of
+no more than 60 days. Extensions to the validity period must be requested via a
+supplemental order within 7 days of expiration of the CFA/LOA in-order to insure
+service port availability
+(C) Dedicated Internet Access (DIA) Teliax provided facilities:
+Customer must complete a transport order of the appropriate type and sizing as well
+as provide a valid CFA/LOA at the time of order submission. At the minimum the
+CFA/LOA should have postal address, building MMR (if applicable) CLLI, NPANXX
+and/or other such information as required to deliver the circuit. Any omissions of
+information may result in delays to delivery and delays to service activation. Billing
+and rating of this circuit would be covered in a sperate service order.
+2.2 Further Network Design
+Network Design. Network design shall be determined by Teliax. Teliax shall not be liable in
+the event Teliax is unable to obtain direct trunking to Carriers or in the event that the cost
+interconnection is not economically feasible in Teliax’s reasonable business judgment.
+3. Telephone Number Portability and Management.
+3.1 Native numbers: Teliax’s allocation of native TNs to Customer shall be on a non-
+discriminatory basis relative to Teliax’s other wholesale customers and consistent with its internal
+policies. Customer may request particular TNs within Teliax groups but those TNs are handed out
+on a first come-first served basis. Reservations for numbers will be held in accordance to Teliaxs
+policies and released based on allocations of no less than 1 business day of reservation.
+3.2 Customer agrees that it will be solely responsible for obtaining any consent required from
+an End User before Customer accesses such End User’s local CSR and any of such End User’s
+customer proprietary network information (CPNI) (as such term is defined in Section 22 of the
+Telecommunications Act of 1996, 47 U.S.C. 222) contained herein for the purpose of implementing
+Local Service. Such forms must be submitted to Teliax prior to requesting a port-in.
+3.3 Customer agrees to maintain records evidencing the required consent for each End User for
+a period of five (5) years from the later of (i) the date of execution of the agreement between
+Customer, and End User, or (ii) the installation date of the applicable Inbound DID Services under
+this Attachment. In the event of expiration or termination of this Attachment for reasons other than
+default or breach of agreement, Teliax will allow a “port out” of TNs identified on a service request
+submitted by an alternative service provider of Customer’s choosing for all Customer’s End Users
+and Teliax shall reasonably cooperate in the migration to such alternate service provider.
+Page 2 of 8
+
+DocuSign Envelope ID: 587DD598-1DFA-459F-B334-6618C4DBD83F
+3.4 Teliax reserves the right to assign, designate or change numbers associated with the
+Services provided hereunder, including without limitation, the Teliax serving Central Office prefixes
+associated with such numbers, when necessary due to technical issues or as required by any
+governmental authority, the North American Numbering Plan Administrator ("NANPA"), the
+Pooling Administrator ("PA") or other reasons required by law or statutory demand
+3.4 The Parties will follow the LNP provisioning process recommended by the North American
+Number Council (“NANC”) and adopted by the Federal Communications Commission (“FCC”). The
+Parties agree that they will port numbers (both in and out) in compliance with FCC rules and
+regulations and industry standards, including rules related to the timing within which such porting
+must be completed.
+3.5 Unless otherwise contracted, LERG and BRRDS updates are the responsibility of the
+customer. Teliax will provide the necessary information per market and assist via its normal
+ticketing system. Customer may contract with Teliax at a per hour rate as outlined in schedule B and
+may be updated from time to time with additional service orders.
+4.0 911 & Emergency Services.
+4.1 Customer acknowledges that it is not reliant on Teliax to provide 911, E911 or any other
+emergency services ("911 Services") to it or its Carrier Customers or End Users. Customer will
+assume all responsibility, risk and potential liability for the provisioning (or non-provisioning) of
+any and all 911 Services associated, directly or indirectly, with Local Service. Customer will
+indemnify and hold Teliax harmless from any claims resulting from End Users dialing or attempting
+to dial the digits "9-1-1" or any other emergency services number or from any other person who
+may be affected by the dialing of the digits "9-1-1" or any other emergency services number.
+4.2 Customer agrees that no number assigned or utilized under this service may be used for any
+emergency, lifeline or similar type service and that they have informed any downstream customer
+of this policy.
+5.0 Term.
+5.1 This Attachment shall become effective on the Effective Date and shall continue for a period
+of three (3) years thereafter (“Attachment Term”), unless earlier terminated as provided herein. At
+the end of the initial Attachment Term, the Attachment shall automatically renew on a month-to-
+month basis until terminated by either party upon thirty (30) days’ prior written notice to the other
+party.
+5.2 Except as otherwise set forth herein, Teliax shall deliver the Service for the entire duration
+of the Service Term, and Customer shall pay all charges for delivery thereof through the end of the
+Service Term. To the extent that the Service Term for any Service extends beyond the Attachment
+Term, then this Attachment shall remain in full force and effect for such Service until the expiration
+or termination of such Service Term.
+5.3 If the Federal Communications Commission, a state Public Utilities or Service Commission
+or a court of competent jurisdiction, issues a rule, regulation, law or order which has the effect of
+canceling, changing or superseding any material term of provision of this Agreement (collectively,
+Page 3 of 8
+
+DocuSign Envelope ID: 587DD598-1DFA-459F-B334-6618C4DBD83F
+“Regulatory Requirement”), then Teliax may terminate the Services provided hereunder at any time
+during the Term upon reasonable notice.
+6.0 Billing, Payment and Credit Terms.
+6.1 Customer shall pay all invoices within thirty (30) calendar days of the date of the invoice
+(the "Due Date").
+6.2 Except as otherwise set forth herein, any undisputed amounts not paid by the Due Date
+shall bear interest until paid at the lesser of (i) one and one-half percent (1.5%) per month; or (ii)
+the highest amount permitted by law. In addition, Customer shall be responsible for all costs,
+including reasonable attorney's fees and costs, incurred in the collection of unpaid charges or in any
+other action to enforce payments and/or obligations hereunder.
+6.3 If Customer disputes any portion of an invoice, Customer must pay the undisputed portion
+of the invoice and submit a written claim, including all documentation substantiating Customer’s
+claim, to Teliax for the disputed amount of the invoice by the invoice due date, or it shall be deemed
+to have waived its right to dispute the charges. Notwithstanding anything herein to the contrary
+any claims of fraudulent usage shall not constitute a valid basis for a dispute.
+6.4 Teliax may, upon written notice via email or other form, immediately terminate or suspend
+Service under this Agreement for (i) Company's failure to pay any invoice by the Due Date, or (ii)
+failure to pay or maintain any security or additional security required under this Attachment.
+6.5 Initial and ongoing delivery of Services may be subject to credit approval. At any time,
+Teliax may require Customer to make a deposit as a condition to Teliax’s provision or continued
+provision of the Services.
+7.0 Early Termination & Liability.
+7.1 If prior to the expiration of the initial Service Term, Customer terminates Service for
+convenience or Teliax terminates Service for cause Customer will (a) pay all unpaid amounts for
+Service provided through the date of termination; plus (b) pay Teliax a early termination charge
+(which Customer acknowledges is a reasonable approximation of Teliax’s damages and is not a
+penalty) equal to documented expenses which was incurred by Teliax as a result of the early
+termination, including, but not limited to, third party liability.
+7.2 Parties understand that these service agreement is subject to a preexisting regulatory
+ecosystem which could change based on state and federal regulatory access. Ether party may
+terminate this agreement by mutual consent within 90 days of such a regulatory event. Such
+consent may not be unreasonably withheld.
+8.0 Regulatory Obligations
+8.1 Each Party represents and warrants that any equipment, facilities, or services provided to
+the other Party under this Agreement comply with the Communications Assistance for Law
+Enforcement Act (CALEA). Each Party shall indemnify and hold the other Party harmless from any
+and all penalties imposed upon the other Party for such noncompliance and shall, at the
+noncompliant Party’s sole cost and expense, modify or replace any equipment, facilities, or services
+Page 4 of 8
+
+DocuSign Envelope ID: 587DD598-1DFA-459F-B334-6618C4DBD83F
+provided to the other Party under this Agreement to ensure that such equipment, facilities, and
+services fully comply with CALEA. Each Party may cooperate with law enforcement authorities and
+national security authorities to the full extent required or permitted by applicable law in matters
+related to the Services, including the production of records, the establishment of new lines or the
+installation of new Services on an existing line in order to support law enforcement and/or national
+security operations, and, the installation of wiretaps, trap-and-trace facilities and equipment, and
+dialed number recording facilities and equipment. A Party shall not have the obligation to inform
+the other Party or the Customers of the other Party of actions taken in cooperating with law
+enforcement or national security authorities, except to the extent required by applicable law.
+8.2 Customer will not engage in “access stimulation” (also known as “traffic pumping”) in
+accordance with the definitions, rules and standards of the Federal Communications Commission
+(“FCC”) or the relevant state regulatory authority. Customer acknowledges that amounts charged
+to the Carriers during the customary CABs billing process for such alleged use over the baseline of
+consistent use presumed to be normal traffic may be withheld until the good faith dispute over such
+charges is settled pursuant to the applicable tariffs and will therefore impact Customer’s Toll
+Services Credit. Teliax has no intention to collect payments from the Carriers for “access
+stimulation” use of its services nor does Teliax intend to provide Customer with Toll Services Credit
+for “access stimulation” use of its services. Customer shall indemnify Teliax from any claims by
+third-parties and expenses (including loss of revenue, legal fees and court costs) arising out of
+third-party claims of Access Stimulation. Furthermore Customer represents that it has in place all
+filters and call controls necessary to manage its own and End Users traffic related to the Do Not
+Originate and Reassigned Numbers database
+8.3 . Prohibition of use Services provided under this Agreement shall not be used for unlawful
+purposes and will not be furnished and may be discontinued by Teliax without notice if any law
+enforcement agency, acting within its jurisdiction, advises that such services are being used in
+violation of the law or in a manner contrary to the security of the United States of America or any of
+its citizens.
+Additionally, Teliax may discontinue any Service(s) without notice or cause if any abuse, fraudulent
+use, harassment, or the like, including but not limited to one or more of the following, is found to
+emanate from or take place with respect to the Service(s) provided by Teliax in whole or in part.:
+a) the Service or facilities of Teliax has been used for a call or calls anonymous or otherwise in
+a manner reasonably to be expected to frighten, abuse, torment or harass employees of Teliax
+and/or other individuals;
+b) the use of profane, obscene, or otherwise threatening language;
+c) the impersonation of another with fraudulent intent;
+d) the use of the Service in such a manner as to interfere with the service of others or to
+prevent others from making or receiving calls over their telephone or Internet service;
+e) the use of the Service for any purpose other than as a means of communication;
+f) the use of Service or facilities of Teliax to transmit a message or to locate a person or
+otherwise to give or obtain information, without the payment of the applicable local message
+charge or message toll charge or any other applicable fee; and
+Page 5 of 8
+
+DocuSign Envelope ID: 587DD598-1DFA-459F-B334-6618C4DBD83F
+g) the obtaining, or attempting to obtain, or assisting another to obtain or attempt to obtain,
+local or message toll telephone service by rearranging, tampering with, or making connection with
+any facilities of Teliax, or by any trick, scheme, false representation, or false credit device, or by or
+through any other fraudulent means or device whatsoever, with intent to avoid the payment, in
+whole or part, of rates, charges and fees for such Service. Teliax reserves the right to block Services
+to the Customer’s location without any liability whatsoever, in the event that Teliax detects or
+reasonably suspects fraudulent or unlawful use of the Service at said location.
+9.0 Indemnification and Limitations on Liability.
+9.1 Each party agrees to indemnify, defend and hold harmless the other party from third party
+claims for damage to tangible property, personal injury or death caused by the gross negligence or
+willful misconduct of such party. owners, directors, officers, employees and agents, harmless from
+and against any and all claims, suits, expenses, losses, demands, actions, causes of action, judgments,
+fees and costs, of any kind or nature whatsoever (Claims), arising from or related to any use, attempt
+to use or resale of Service or otherwise arising in connection with any Service or this Agreement. IN
+NO EVENT WILL EITHER PARTY BE LIABLE FOR ANY DAMAGES WHATSOEVER FOR LOST
+PROFITS, LOST REVENUES, LOSS OF GOODWILL, LOSS OF ANTICIPATED SAVINGS, LOSS OF
+DATA, THE COST OF PURCHASING REPLACEMENT SERVICES, OR ANY INDIRECT, INCIDENTAL,
+SPECIAL, CONSEQUENTIAL, EXEMPLARY OR PUNITIVE DAMAGES ARISING OUT OF THE
+PERFORMANCE OR FAILURE TO PERFORM UNDER THIS AGREEMENT OR ANY SERVICE ORDER.
+TELIAX WILL HAVE NO LIABILITY FOR ANY CLAIM AGAINST CUSTOMER BY A THIRD PARTY IN
+CONNECTION WITH OR FOR RESPONDING TO EMERGENCY 911 OR OTHER EMERGENCY
+REFERRAL CALLS.
+This Attachment, including any Service Order(s) executed hereunder, constitutes the entire and final
+agreement and understanding between the Parties with respect to Teliax’s provision of the Service(s)
+to Customer. This Attachment may only be modified or supplemented by an amendment executed
+by an authorized representative of each Party
+TELIAX, CUSTOMER: 1STPOINT COMMUNICATIONS, LLC
+By: _______________________________ By: _______________________________
+Name: Doug Davis Name: Erik Levitt
+CEO
+Title: EVP of Business Operations Title: _____________________________
+10/20/2023 10/02/2023
+Date: ______________________________ Date:____________________________
+Page 6 of 8
+
+DocuSign Envelope ID: 587DD598-1DFA-459F-B334-6618C4DBD83F
+Attachment A - List of Available Rate Centers
+Lower 48 USA with exceptions around rural and Indian-nations exchanges
+Page 7 of 8
+
+DocuSign Envelope ID: 587DD598-1DFA-459F-B334-6618C4DBD83F
+Pricing Attachment (attachment B)
+Per Rate Center MRC
+$1000 for first 100 channels (minimum commit to start a rate center)
+$700 for each additional 100 channels (minimum 100 channels increment)
+Channels will be incremented
+as usage reaches highwater mark
+Ratios of 3:1 T:O maximum if the ratios are exceeded a charge of $0.0035 /per mou out of
+balance if compensating access revenue cannot be collected under tariff or switched access
+agreement. For clarification; Termination means calls from the PSTN to Customer
+Origination means calls from the Customer to the PSTN
+$1000 NRC for LERG homing documentation to open a rate center
+$300 /hr for additional LERG work upon request
+Page 8 of 8

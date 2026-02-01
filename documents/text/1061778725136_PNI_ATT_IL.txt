@@ -1,0 +1,195 @@
+INTERCONNECTION AGREEMENT SHORT FORM UNDER SECTIONS 251 AND 252/ILLINOIS BELL TELEPHONE COMPANY
+PAGE 1 OF 3
+AT&T ILLINOIS/PEERLESS NETWORK OF ILLINOIS, LLC
+032309
+INTERCONNECTION AGREEMENT
+UNDER SECTIONS 251 AND 252
+OF THE
+TELECOMMUNICATIONS ACT OF 1996
+This Interconnection Agreement is being entered into by and between Illinois Bell Telephone Company1 d/b/a
+AT&T Illinois (“AT&T Illinois”), and Peerless Network of Illinois, LLC (“CLEC” or “Requesting Carrier”), (each a “Party”
+and, collectively, the “Parties”), pursuant to Sections 251 and 252 of the Telecommunications Act of 1996 (“the Act”).
+RECITALS
+WHEREAS, pursuant to Section 252(i) of the Act, CLEC has requested to adopt that certain Interconnection
+Agreement by and between AT&T Illinois and Globalcom, Inc. for the State of Illinois, which was approved by the
+Illinois Commerce Commission (“the Commission”) under Section 252(e) of the Act on August 8, 2001 in docket
+number 01-0437, including any Commission approved amendments to such agreement (collectively the “Adopted
+Agreement”), which is incorporated herein by reference; and
+WHEREAS, AT&T Illinois has agreed to make available to CLEC the Adopted Agreement for adoption in
+exchange for CLEC’s agreement, in conjunction with its adoption of the Adopted Agreement, to amend such
+agreement to conform it to governing law; and
+WHEREAS, the amendment(s) the Parties have agreed to on a negotiated basis to conform the Adopted
+Agreement to governing law, along with any other voluntarily negotiated provisions which are also set forth in this
+Interconnection Agreement (collectively “the MFN Agreement”), are all incorporated herein by this reference and are
+attached hereto and will be submitted to the Commission for approval; and
+NOW, THEREFORE, in consideration of the mutual provisions contained herein and other good and valuable
+consideration, the receipt and sufficiency of which are hereby acknowledged, CLEC and AT&T Illinois hereby agree
+as follows:
+1.0 Incorporation of Recitals and Adopted Agreement by Reference
+1.1 The foregoing Recitals are hereby incorporated into and made a part of the MFN Agreement.
+1.2 Except as expressly stated herein, the Adopted Agreement (including any and all applicable
+Appendices, Schedules, Exhibits, Attachments and Commission-approved Amendments thereto) is
+incorporated herein by this reference and forms an integral part of the MFN Agreement.
+2.0 Modifications to Adopted Agreement
+2.1 References in the Adopted Agreement to “Carrier”, or “CLEC,” or to “Other” shall for purposes of the
+MFN Agreement be deemed to refer to CLEC as defined herein.
+2.2 References in the Adopted Agreement to the “Effective Date,” the date of effectiveness thereof and like
+provisions shall for purposes of the MFN Agreement be deemed to refer to the date which is ten (10)
+days following Commission approval of the MFN Agreement or, absent Commission approval, the date
+the MFN Agreement is deemed approved under Section 252(e)(4) of the Act. In addition, the MFN
+Agreement shall expire on August 19, 2003.
+2.3 The Notices Section in the Adopted Agreement is hereby revised to reflect that Notices should be sent
+to CLEC under the MFN Agreement at the following address:
+1 Illinois Bell Telephone Company (previously referred to as “Illinois Bell” or “SBC Illinois”) now operates under the name “AT&T Illinois”
+pursuant to an assumed name filing with the State of Illinois.
+Page 1 of 354
+
+INTERCONNECTION AGREEMENT SHORT FORM UNDER SECTIONS 251 AND 252/ILLINOIS BELL TELEPHONE COMPANY
+PAGE 2 OF 3
+AT&T ILLINOIS/PEERLESS NETWORK OF ILLINOIS, LLC
+032309
+NOTICE CONTACT CLEC CONTACT
+NAME/TITLE Dan Meldazis/Director Regulatory
+STREET ADDRESS 225 W Washington St, Rm 1285
+CITY, STATE, ZIP CODE Chicago, IL 60606
+FACSIMILE NUMBER 312-506-0931
+2.4 The Notices Section in the Adopted Agreement is hereby revised to reflect that Notices should be sent
+to AT&T Illinois under the MFN Agreement at the following address:
+NOTICE CONTACT AT&T-13STATE CONTACT
+NAME/TITLE Contract Management
+ATTN: Notices Manager
+STREET ADDRESS 311 S. Akard, 9th Floor
+Four AT&T Plaza
+CITY, STATE, ZIP CODE Dallas, TX 75202-5398
+FACSIMILE NUMBER 214-464-2006
+3.0 Clarifications
+3.1 In entering into this MFN Agreement, the Parties acknowledge and agree that neither Party waives, and
+each Party expressly reserves, any of its rights, remedies or arguments it may have at law or under the
+intervening law or regulatory change provisions in this MFN Agreement (including intervening law rights
+asserted by either Party via written notice as to the Adopted Agreement), with respect to any orders,
+decisions, legislation or proceedings and any remands by the FCC, state utility commission, court,
+legislature or other governmental body including, without limitation, any such orders, decisions,
+legislation, proceedings, and remands which were issued, released or became effective prior to the
+Effective Date of this MFN Agreement, or which the Parties have not yet fully incorporated into this
+Agreement or which may be the subject of further government review.
+3.2 It is AT&T Illinois’ position that the MFN Agreement, and every interconnection, service and network
+element provided hereunder, is subject to all rates, terms and conditions contained in the MFN
+Agreement, and that all of such provisions are integrally related and non-severable.
+Page 2 of 354
+
+Page 3 of 354
+
+INTERCONNECTION AGREEMENT UNDER SECTIONS 251 AND 252 OF THE
+TELECOMMUNICATIONS ACT OF 1996
+Dated as of February _____, 20011
+by and between
+AMERITECH ILLINOIS,
+and
+GLOBALCOM, INC.
+1 See footnotes on signature page.
+Page 4 of 354
+
+INTERCONNECTION AGREEMENT UNDER SECTIONS 251 AND 252
+OF THE TELECOMMUNICATIONS ACT OF 1996
+This Interconnection Agreement under Sections 251 and 252 of the Telecommunications Act of
+1996 (“Agreement”), is dated as of the _____ day of February, 2001 (the “Effective Date”), by and
+between Ameritech Illinois, Inc., an Illinois corporation with offices at 225 W. Randolph, Chicago, IL.
+60606 (“Ameritech”) and Globalcom, Inc., an Illinois corporation with offices at 333 W. Wacker Dr.
+Chicago, Illinois 60606(“Requesting Carrier”).
+RECITALS
+A. Ameritech is an Incumbent Local Exchange Carrier as defined by the Act, authorized to
+provide certain Telecommunications Services within Illinois.
+B. Ameritech is engaged in the business of providing, among other things, local Telephone
+Exchange Service within Illinois.
+C. Requesting Carrier has been granted or, prior to the provisioning of any Interconnection,
+access to unbundled Network Elements, Telecommunications Service or any other services hereunder, will
+have been granted authority to provide certain local Telephone Exchange Services within Illinois and is a
+Local Exchange Carrier as defined by the Act.
+D. The Parties desire to Interconnect their telecommunications networks and facilities to comply
+with the Act, and exchange traffic so that their respective Customers may communicate with each other
+over, between and through such networks and facilities.
+E. The Parties are entering into this Agreement to set forth the respective obligations of the
+Parties and the terms and conditions under which the Parties will Interconnect their networks and facilities
+and provide to each other Telecommunications Services as required by the Act as set forth herein.
+NOW, THEREFORE, in consideration of the mutual promises and the covenants contained herein
+and other good and valuable consideration, the receipt and sufficiency of which are hereby acknowledged,
+Requesting Carrier and Ameritech hereby agree as follows:
+ARTICLE I
+DEFINITIONS AND CONSTRUCTION
+I.1 Structure. This Agreement includes certain Exhibits and Schedules which immediately
+follow this Agreement, all of which are hereby incorporated in this Agreement by this reference and
+constitute a part of this Agreement.
+1
+Page 12 of 354
+
+including cooperating with the Disclosing Party to obtain an appropriate order or other reliable assurance
+that confidential treatment will be accorded the Proprietary Information.
+XX.4 Ownership.
+XX.4.1All Proprietary Information, other than Derivative Information, shall remain the
+property of the Disclosing Party, and all documents or other tangible media delivered to the Receiving Party
+that embody such Proprietary Information shall be, at the option of the Disclosing Party, either promptly
+returned to Disclosing Party or destroyed, except as otherwise may be required from time to time by
+Applicable Law (in which case the use and disclosure of such Proprietary Information will continue to be
+subject to this Agreement), upon the earlier of (i) the date on which the Receiving Party’s need for it has
+expired and (ii) the expiration or termination of this Agreement.
+XX.4.2At the request of the Disclosing Party, any Derivative Information shall be, at the
+option of the Receiving Party, either promptly returned to the Disclosing Party or destroyed, except as
+otherwise may be required from time to time by Applicable Law (in which case the use and disclosure of
+such Derivative Information will continue to be subject to this Agreement), upon the earlier of (i) the date
+on which the Receiving Party’s need for it has expired and (ii) the expiration or termination of this
+Agreement.
+XX.4.3The Receiving Party may at any time either return the Proprietary Information to
+the Disclosing Party or destroy such Proprietary Information. If the Receiving Party elects to destroy
+Proprietary Information, all copies of such information shall be destroyed and upon the written request of
+the Disclosing Party, the Receiving Party shall provide to the Disclosing Party written certification of such
+destruction. The destruction or return of Proprietary Information shall not relieve any Receiving Party of
+its obligation to treat such Proprietary Information in the manner required by this Agreement.
+ARTICLE XXI
+TERM AND TERMINATION
+XXI.1 Term. The initial term of this Agreement shall commence on the Effective Date and shall
+continue in full force and effect until and including August 19, 2003 (the “Initial Term”). Upon expiration
+of the Initial Term, this Agreement shall automatically be renewed for additional one (1)-year periods (each,
+a “Renewal Term”; “Renewal Term” and “Initial Term” sometimes collectively referred to herein as
+the “Term”) unless a Party delivers to the other Party written notice of termination of this Agreement at
+least one hundred twenty (120) days prior to the expiration of the Initial Term or a Renewal Term.
+73
+Page 84 of 354
+
+XXI.2 Renegotiation of Certain Terms. Notwithstanding anything to the contrary in Section
+21.1, upon delivery of written notice at least one hundred twenty (120) days prior to the expiration of the
+Initial Term or any Renewal Term, either Party may require negotiations of any or all of the rates, prices,
+charges, terms, and conditions of the products and services described in this Agreement, with such resulting
+rates, prices, charges, terms and conditions to be effective upon expiration of the Term. Upon receipt of
+notice, each Party shall have a good faith obligation to engage in such negotiations. If the Parties are unable
+to satisfactorily negotiate such new rates, prices, charges and terms within ninety (90) days of such written
+notice, either Party may petition the Commission or take such other action as may be necessary to establish
+appropriate terms. If prior to the expiration of the Term, the Parties are unable to mutually agree on such
+new rates, prices, charges, terms and conditions, or the Commission has not issued its order to establish
+such provisions, the Parties agree that the rates, terms and conditions ultimately ordered by such
+Commission or negotiated by the Parties shall be effective retroactive to the expiration date of such Term.
+XXI.3 Default. When a Party believes that the other Party is in violation of a material term or
+condition of this Agreement (“Defaulting Party”), it shall provide written notice to such Defaulting Party
+of such violation prior to commencing the dispute resolution procedures set forth in Section 27.3 and it shall
+be resolved in accordance with the procedures established in Section 27.3.
+XXI.4 Payment Upon Expiration or Termination. In the case of the expiration or termination
+of this Agreement for any reason, each of the Parties shall be entitled to payment for all services performed
+and expenses accrued or incurred prior to such expiration or termination.
+ARTICLE XXII
+DISCLAIMER OF REPRESENTATIONS AND WARRANTIES
+EXCEPT AS EXPRESSLY PROVIDED UNDER THIS AGREEMENT, NO PARTY MAKES
+OR RECEIVES ANY WARRANTY, EXPRESS, IMPLIED OR STATUTORY, WITH RESPECT TO
+THE SERVICES, FUNCTIONS AND PRODUCTS IT PROVIDES OR IS CONTEMPLATED TO
+PROVIDE UNDER THIS AGREEMENT AND EACH PARTY DISCLAIMS THE IMPLIED
+WARRANTIES OF MERCHANTABILITY AND/OR OF FITNESS FOR A PARTICULAR
+PURPOSE.
+ARTICLE XXIII
+SEVERABILITY
+If any provision of this Agreement shall be held to be illegal, invalid or unenforceable, each Party
+agrees that such provision shall be enforced to the maximum extent permissible so as to effect the intent of
+the Parties, and the validity, legality and enforceability of the remaining provisions of this Agreement shall
+not in any way be affected or impaired thereby. If necessary to effect the intent of the Parties, the Parties
+shall negotiate in good faith to amend this Agreement to replace the unenforceable language with
+enforceable language that reflects such intent as closely as possible.
+ARTICLE XXIV
+74
+Page 85 of 354

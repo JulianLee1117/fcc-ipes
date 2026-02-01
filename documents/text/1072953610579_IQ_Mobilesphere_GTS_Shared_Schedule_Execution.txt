@@ -1,0 +1,181 @@
+DocuSign Envelope ID: 0B3EA53C-CFEA-4368-9816-B01FEEC5DF54
+GTS Service Schedule (Shared)
+This GTS Service Schedule (Shared) (this “Service Schedule”) is made between MobileSphere LLC
+(“Customer”) and Onvoy LLC, d/b/a Inteliquent (“Carrier”). This Service Schedule is made under the
+terms of the Master Services Agreement between Customer and Carrier dated 12/07/2007 (as amended, the
+“MSA”).
+Under the MSA and this Service Schedule, Customer will receive and Carrier will provide the “Services” as
+more specifically described in Sections 2 and 3 below. In the event of a conflict between a term in this Service
+Schedule and a term in the MSA, the term in this Service Schedule will govern with respect to the Services. The
+definitions in the MSA apply to any term that is not defined in this Service Schedule. This Service Schedule is
+effective on August 1, 2020 (“Effective Date”).
+1. List of market(s); Traffic Types. Carrier will provide the Services in the LATAs mutually agreed to by
+the parties. Customer may only use the Services under this Service Schedule for traffic to its own end users.
+Customer may not use the Services for wholesale traffic (e.g., traffic from other carriers or communication
+service providers).
+2. The Services; and Certain Definitions.
+2.1 For the purposes of this Service Schedule:
+a. “Host Switch” has the meaning defined in the next paragraph.
+b. “ILEC” means an Incumbent Local Exchange Carrier.
+c. “Inbound Traffic” means Local Traffic, Local Transit Traffic and Switched Access Traffic.
+d. “IXC” means an Inter-exchange Carrier
+e. “Local Traffic” means calls that Carrier receives from the ILEC over its local trunks with the applicable
+ILEC. “Local Traffic” includes traffic originating from a third party that the ILEC treats as local transit
+traffic.
+f. “Local Transit Traffic” means calls that that Carrier receives over its local transit service trunks from an
+On-net carrier. “Local Transit Traffic” excludes Local Traffic.
+g. “Off-net carrier” or “Off-net IXC carrier” means a third party carrier to which Carrier is not directly
+connected.
+h. “On-net carrier” or “On-net IXC carrier” means a third party carrier to which Carrier is directly
+connected.
+i. “Switched Access Traffic” means InterLATA or IntraLATA toll calls terminating to Customer via
+Carrier’s FGD tandem.
+2.2 Customer will use Carrier’s interconnection trunks to the applicable ILECs by populating Carrier’s switch
+(the “Host Switch”) as the ‘Actual SW ID’ in the LERG for Customer’s NPA/NXX’s for the purpose of receiving:
+a. Local Traffic originating from an ILEC subscriber; and
+1
+Confidential
+
+DocuSign Envelope ID: 0B3EA53C-CFEA-4368-9816-B01FEEC5DF54
+b. Local Traffic originating from a non-ILEC subscriber transited by the ILEC via the ILEC’s local transit
+service.
+2.3 Customer will receive from Carrier Local Transit Traffic that originates from Carrier’s third party
+provider customers and terminates to Customer via Carrier’s tandem.
+2.4 Customer will populate Carrier’s access tandem as the originating and terminating FGD Tandem for
+Customer’s NPA/NXX’s so that Switched Access Traffic will be terminated from IXCs via Carrier’s access
+homing tandem service.
+2.5 Notwithstanding any other provision in this Service Schedule to the contrary, if the serving ILEC in any
+LATA refuses to route traffic in the manner set out in the LERG, then either party may terminate the receipt or
+provision of the Services in such LATA.
+3. Transport Services. Carrier will receive Local Traffic, Local Transit Traffic and Switched Access Traffic
+calls and transport all such traffic (the “Transport Service”) to Customer using the interconnection facilities set
+out in Section 4.
+4. Interconnection. The parties plan to connect using a public IP connection. If the parties subsequently
+elect to interconnect using a GigE transport facility, Customer will pay Carrier the charges mutually agreed to by
+the parties in writing for such interconnection. Separate trunk groups will be used for any other service provided
+by Carrier, such as Carrier’s DID service.
+5. Term: The initial term of this Service Schedule will commence on the Effective Date and expire two
+years thereafter. The initial term will automatically renew for successive monthly periods, unless either Party
+sends written notice of non-renewal at least 60 days prior to the end of the initial term or any renewal term.
+Notwithstanding the foregoing, Customer may terminate this Service Schedule on 30 days’ notice if Carrier
+exercises its right to adjust the rates and fees (as set forth in Section 6 or in Exhibit 1).
+6. Monthly Charges. In exchange for the Services, Customer will pay the charges set forth on Exhibit 1.
+Charges are currently billed in arrears. Carrier may adjust the prices by providing Customer with 30 days’ prior
+written notice.
+7. Customer Responsibilities.
+7.1 Customer will: (a) (i) enter into and maintain any interconnection agreements or traffic exchange
+documents required by ILECs serving the local calling area in which the Host Switch is located or (ii) operate in
+connection with this Service Schedule as an interconnected VoIP provider (as defined by the FCC in 47 C.F.R. §
+9.3) to which telephone numbers have been assigned, (b) meet all 911 requirements, including 911
+interconnections or waivers, (c) meet any local number portability (LNP/LRN) requirements, (d) obtain a POI
+CLLI (common language location identifier) code in the serving LATA to home its NPA/NXX’s, (e) populate
+Carrier’s end-office switch in the LERG as the ‘Actual SW ID’ for purposes of receiving Local Traffic and Local
+Transit Traffic over the ILEC interconnection trunks and populate Carrier’s access tandem as the originating and
+terminating FGD Tandem in the LERG with an effective date that has been agreed to by Carrier, and (f) meet any
+other responsibility normally associated with operating as a facilities based local service provider in the state in
+which the Host Switch is located.
+7.2 Customer must obtain and maintain LRN for delivery of third party traffic to Customer in the applicable
+market.
+2
+Confidential
+
+DocuSign Envelope ID: 0B3EA53C-CFEA-4368-9816-B01FEEC5DF54
+7.3 In each calendar month after the Ramp Period, if Customer obtains the Services from Carrier in a market,
+Customer must exclusively use Carrier (and no other party) to provide the Services in such market. If Customer
+fails to do so in any month, then Carrier may, at its election, terminate this Service Schedule by providing 60
+days’ written notice to Customer.
+7.4 All third-party Inbound Traffic destined to telephone numbers associated with the Service must be
+delivered through Inteliquent. No direct peering (bypassing Carrier’s tandem) will be allowed.
+7.5 In each month, on a LATA by LATA basis, for every three-minutes of Switched Access Traffic that
+terminates to Customer’s TNs under this Service Schedule, Customer must send one minute of non-local traffic
+to Carrier from the same TNs for termination under separate service schedule. For example: If 3,000,000 minutes
+of Switched Access Traffic terminates to Customer’s TNs in a LATA during a month, Customer must originate
+at least 1,000,000 minutes of non-local traffic from those same TNs in such month. If Customer fails to meet this
+ratio requirement, Carrier may impose (and Customer will pay) a $0.0005 per minute surcharge for all Switched
+Access Traffic minutes terminating Customer in that LATA for that month.
+7.6 In addition to the above, Customer must use Carrier for all required emergency services (9-1-1) and
+messaging services (SMS and MMS) for telephone numbers (“TNs”) associated with the Service. These services
+will be provided under separate service schedules/orders.
+8. Carrier Responsibilities. If applicable, Carrier will provide Customer with a letter of authorization (LOA)
+allowing Customer to use Carrier’s Host Switch as the Actual Switch in the LERG. Upon the completion of
+installation and testing of interconnection facilities and implementation of the Services using a Host Switch in a
+LATA, Carrier will notify Customer, in writing or email, that the Service is available for use.
+9. Third Parties. Customer will not charge Carrier any amounts in connection with Local Traffic, Local
+Transit Traffic and Switched Access Traffic or otherwise under this Service Schedule. Customer will be
+responsible for and indemnify Carrier against any and all charges levied by any third party telecommunications
+provider in connection with the Local Traffic, Local Transit Traffic and Switched Access Traffic, including any
+intercarrier compensation or termination charges. Customer will be responsible for Carrier’s expenses, including
+reasonable attorneys’ fees and expenses, incurred in successfully collecting any such amounts from Customer.
+10. Violations. If Customer violates the no wholesale provision set forth in Section 1, Carrier may (a)
+terminate this Service Schedule without any liability by providing Customer with 30-days written notice; or (b)
+in addition to the amounts set forth on Exhibit 1, charge Customer an additional per TN fee of $0.08 per TN
+(which Customer agrees to pay) from and after the date in which the violation commenced.
+11. Limitation of Liability. IF CARRIER IS EVER HELD LIABLE IN RELATION TO THIS SERVICE
+SCHEDULE AND WHETHER THE CLAIM IS UNDER CONTRACT, LAW OR ANY OTHER THEORY
+OF LIABILITY, CARRIER’S LIABILITY UNDER THIS SERVICE SCHEDULE IS LIMITED TO PROVEN
+DIRECT DAMAGES AND WILL NOT EXCEED THE LESSER OF (i) THE TOTAL AMOUNT INVOICED
+BY CARRIER FOR THE THREE MONTHS PRIOR TO THE EVENT OR EVENTS IN QUESTION; OR (ii)
+$10,000.
+3
+Confidential
+
+DocuSign Envelope ID: 0B3EA53C-CFEA-4368-9816-B01FEEC5DF54
+Customer Information
+___________________________________
+Signature
+Toufic Mobarak
+___________________________________
+Name (Printed)
+__P_r_e_s_id_e_n_t__________________________
+Title
+___0_7_/_2_3_/2_0_2_0________________________
+Date
+Onvoy, LLC d/b/a
+Inteliquent acceptance
+signature:
+4
+Confidential
+
+DocuSign Envelope ID: 0B3EA53C-CFEA-4368-9816-B01FEEC5DF54
+Exhibit 1
+Pricing
+A. Per Minute Fee
+Regions Per Minute Rate
+All Regions $0.002
+*Shared GTS service outside of locations where Verizon or Frontier are the LEC
+is dependent on customer utilizing an IPES OCN and obtaining FCC Numbering
+Authorization
+B. Interconnection Fees
+Interconnection Type SIP Session Fee
+If the parties interconnect using public IP $10.00 / SIP Session / month
+transport
+C. Telephone Number Fees
+Associated TNs Telephone Number Fee
+All Customer TNs associated with the $0.03 / per TN / per
+Service month
+D. Port-Out of Inteliquent Telephone Numbers
+Port-Out of Inteliquent TNs Port-Out Fee
+Port-Out of existing Inteliquent TNs to Customer OCN and Port- $3.00 per TN
+Out of TNs associated with the Service to any other carrier and
+remaining under Customer’s control
+E. Monthly Minimum Usage Fee
+Monthly Minimum Account Fee
+Customer will pay to Carrier the greater of (a) the Monthly Minimum
+Monthly Minimum
+Account Fee or (b) Customer’s actual MRCs and usage charges for the $500
+Account Fee
+Services described above.*
+Period after the Effective Date, during which the Monthly Minimum fee
+Ramp Period 6 Months
+will be waived
+*If, under the MSA, Customer is subject to a minimum volume requirement (measured in dollars) in addition to the
+Monthly Minimum Account Fee, only the largest minimum requirement will apply.
+5
+Confidential
+
+DocuSign Envelope ID: 0B3EA53C-CFEA-4368-9816-B01FEEC5DF54
+Exhibit 2
+Service Locations
+This Service is limited to LATA 128, EASTERN MA
+6
+Confidential

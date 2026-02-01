@@ -1,0 +1,100 @@
+Agreement Number: 18-PeerlessFTR-001
+AGREEMENT FOR
+LOCAL INTERCONNECTION
+between
+Frontier Telephone of Rochester, Inc.
+and
+Peerless Network of New York, LLC
+
+Agreement Number: 18-PeerlessFTR-001
+AGREEMENT FOR
+LOCAL INTERCONNECTION
+27th
+This Agreement For Local Interconnection (“Agreement”) made this _____day of _M__a_r_c_h____, 2018, is
+by and between Frontier Telephone of Rochester, Inc., a New York corporation, having its principal place
+of business at 401 Merritt 7, Norwalk, CT 06851 (“Frontier”) and Peerless Network of New York, LLC, a
+New York limited liability company, having its principal place of business at 222 South Riverside Plaza,
+Suite 2730, Chicago, IL 60606 (“Carrier”). Frontier and Carrier may also be referred to herein singularly
+as a “Party” or collectively as “the Parties”.
+SECTION 1. RECITALS AND PRINCIPLES
+Frontier is a telecommunications company authorized to provide telecommunications services in the
+State of New York; and
+Carrier is a telecommunications company authorized by the Commission to provide local exchange
+telecommunications services in the State of New York; and
+The Parties have in good faith negotiated, and agreed on local Interconnection terms and conditions as
+set forth below; and
+In consideration of the mutual provisions contained herein and other good and valuable consideration, the
+receipt and sufficiency of which are hereby acknowledged, Carrier and Frontier hereby covenant and
+agree as follows:
+SECTION 2. GENERAL DEFINITIONS
+Except as otherwise specified herein, the following definitions will apply to all sections contained in this
+Agreement. Additional definitions that are specific to the matters covered in a particular section may
+appear in that section.
+2.1. Access Service is a service that connects interexchange carriers to their End Users located
+within a local access and transport area (LATA). Access service is used in originating and terminating
+intraLATA/interLATA toll telecommunications.
+2.2. Access Service Request (ASR) means the industry standard forms and supporting
+documentation used for ordering Access Services. The ASR will be used to identify the specific trunking
+and facilities request for Interconnection.
+2.3. Act means the Telecommunications Act of 1934, as amended from time to time.
+2.4. Automatic Number Identification (ANI) refers to the number transmitted through the network
+identifying the calling party.
+2.5. CLLI Codes means Common Language Location Identifier Codes
+2.6 Commission means the governing state regulatory commission, board or authority (PSC, PUC,
+etc.).
+2.7. Competitive Local Exchange Carrier (CLEC) means a telephone company certified by the
+Commission, for Frontier’s franchised area, to provide local exchange service within Frontier's franchised
+area, and which has a Local Exchange Carrier Tariff approved by the Commission.
+Page2
+Version: 7/22/99
+Revised 02/02/2009
+
+Agreement Number: 18-PeerlessFTR-001
+rules, regulations or orders become effective, then the Parties shall resolve their dispute under the
+applicable procedures set forth in the Dispute Resolution Section of this Agreement.
+10.3 The Parties acknowledge that terms of this Agreement were established pursuant to FCC and
+Commission orders. Nothing in this Agreement shall be deemed an admission by the Parties regarding
+the interpretation or effect of these rules or orders or an admission by either party that the existing rules
+or order shall not be changed, vacated dismissed or modified.
+10.4 The Parties jointly agree to cooperate in the filing of this Interconnection Agreement and share
+equally the expenses associated with obtaining Commission approval.
+SECTION 11. ENTIRE AGREEMENT
+This Agreement sets forth the entire understanding and supersedes prior agreements between the Parties
+relating to the subject matter contained herein and merges all prior discussions between them, and neither
+Party will be bound by any definition, condition, provision, representation, warranty, covenant or promise
+other than as expressly stated in this Agreement or as is contemporaneously or subsequently set forth in
+writing and executed by a duly authorized officer or representative of the Party to be bound thereby.
+SECTION 12. TERM OF AGREEMENT
+12.1 This Agreement will become effective upon the first business day following the date this
+Agreement has been approved by the Commission and will continue for a period of one (1) year unless
+terminated earlier under the conditions set forth herein. This Agreement will be automatically renewed for
+successive periods of six (6) months after the initial term unless either Party provides the other Party with
+no less than ninety (90) day’s prior, written notification of, in the case of Frontier, its intent to terminate
+this Agreement, or, in the case of either Party, its desire to renegotiate at the end of the initial or any
+successive period. If Carrier does not respond to Frontier’s written notification of the intent to terminate
+the Agreement prior to the expiration of the Agreement term, the Agreement will terminate and not renew
+at the end of the Agreement term. Either Party may send a request to renegotiate this Agreement upon its
+termination and the Parties intend that the negotiation and arbitration processes of the Act will be
+applicable to such a request. The date of the notice to negotiate a successor agreement will be the
+starting point for the negotiation window under Section 252 of the Act. The Parties intend that a
+renegotiated or arbitrated Agreement will be effective as of the date of termination of this Agreement and
+any new negotiated or arbitrated rates will be subject to true-up as of the termination date of this
+Agreement.
+12.2 Upon termination or expiration of this Agreement each Party shall promptly pay all amounts
+(including any late payment charges) owed under this Agreement.
+12.3 Termination upon Ordering and Implementation Inactivity. Notwithstanding anything to
+the contrary contained herein, Frontier may terminate this Agreement in the event Carrier has
+not (a) placed any initial orders for any of the services to be provided pursuant to this
+Agreement and (b) implemented any said services to Carrier customers within one (1) year from
+the Effective Date of this Agreement.
+SECTION 13. INSURANCE
+13.1 Carrier will carry or cause to be carried the following insurance coverage which will be paid for and
+maintained at all times during the term of this Agreement. Such coverage will be provided through an
+insurance provider with an A.M. Best financial rating of "A" or better. Frontier shall be named as an
+additional insured on all applicable policies as specified below except for Workers’ Compensation.
+Page 9
+Version: 7/22/99
+Revised 02/02/2009
+
+Michael L. Daniel
+3-27-18

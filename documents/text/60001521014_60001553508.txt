@@ -1,0 +1,972 @@
+•
+and In the quantities specified. Verizon will respond within fifteen (15)
+Business Days from receipt of the Neutral Tandem's Dark Fiber Inquiry
+Form, indicating whether Dark Fiber Transport may be available (if so
+available, an •Acknowledgemenf') based on the records search except
+that for voluminous requests or large, complex projects, Verizon
+reserves the right to negotiate a different interval. The Dark Fiber
+Inquiry is a record search and does not guarantee the avallablllty of
+Dark Fiber Transport. Where a direct Dark Fiber Transport route is not
+available, Verizon will provide, where available, Dark Fiber Transport
+via a reasonable indirect route that passes through intermediate
+Verizon Central·O ffices at the rates set forth In the Pricing Attachment.
+In cases where Verizon provides Dark Fiber Transport via an indirect
+route as described In this section, Neutral Tandem shall not be
+permitted to access the Dark Fiber Transport at any intermediate
+central office between the two Verizon central offices that are the end
+points of the rqute. In no event shall Verizon be required to provide
+Dark Fiber Transport between two central offices that are the end
+points of a route on which Verizon is not required under the Federal
+Unbundling Rules to provide Dark Fiber Transport to Neutral Tandem.
+Verizon reserves the right to limit the number of intermediate Verizon
+Central Offices on an indirect route consistent with limitations In
+Verizon's network design and/or prevalllng industry practices for optical
+transmission applications. Any limitations on the number of
+intermediate Verizon Central Offices will be discussed with Neutral
+Tandem. If access to Dark Fiber Transport is not available, Verizon
+•
+will notify Neutral Tandem, within fifteen (15) Business Days, that no
+spare Dark Fiber Transport is available over the direct route nor any
+reasonable alternate indirect route, except that for voluminous
+requests or large, complex projects, Verizon reserves the right to
+negotiate a different interval. Where no available route was found
+during the record review, Verizon will identify the first blocked segment
+on each alternate Indirect route and which segment{s) in the alternate
+Indirect route are available prior to encountering a blockage on that
+route, at the rates set forth in the Pricing Attachment
+8.2.5.1 Neutral Tandem shall Indicate on the Dark Fiber Inquiry
+Form whether the available Dark Fiber should be reserved,
+at the rates set forth In the Pricing Attachment, pending
+receipt of an order for the Dark Fiber.
+8.2.5.2 Upon request from Neutral Tandem as Indicated on the
+Dark Fiber Inquiry Form,.Verizon shall hold such requested
+Dark Fiber Transport for Neutral Tandem's use for ten (10)
+Business Days from Neutral Tandem's receipt of
+Acknowledgement and may not allow any other party
+(including Verizon) to use such fiber during that time period.
+8.2.5.3 Neutral Tandem shall submit an order for the reserved Dark
+Fiber Transport as soon as possible using the standard
+ordering process or parallel provisioning process as
+described fn Section 8.2.5.5. The standard ordering
+process shall be used when Neutral Tandem does not have
+additional requirements for collocation. The parallel
+• provisioning process shall be used when Neutral Tandem
+requires new collocation facilities or changes to existing .·
+collocation arrangements .
+NT PAe COmpv3.1 09282007(.doc 105
+
+•
+8.2.5.4 If no order rs received from Neutral Tandem for the
+reserved Dark t=lber Transport within ten (10) Business
+Days from Neutral T~r:ictem's receipt of Acknowledgement,
+Verizon shall return to spare the reserved Dartc Fiber
+Transport that Verizon previously notified Neutral Tandem
+are available. Should Neutral Tandem submit an order to
+Verizon after tile ten (10) Bu$iness Day reservation period
+for access to Dark. Fiber Transport that Verizon has
+previously notified Neutral Tandem was available, Neutral
+Tandem ass1,1mes all risk that such Dark Fiber Transport will
+no longer be available.
+8.2.5.5 Upon Neutral Tandem's request, the Parties will conduct
+parallel provisioning of collocation and Dark Aber Transport
+In accordance with the following tenns and conditions:
+8.2,5.5.1 Neutral Tandem will use existing Interfaces and
+Verizon's current applications and order forms to
+request collocation and Dark Fiber Transport.
+8.2.5.5.2 Verizon-will parallel pr:ocess Neutral Tandem's
+requests for collocation, Including augments,
+and Dark Fiber Transport.
+. - (i.2.5.5.3 Before Neutral Tanqem submits a request for
+paralle! provisioning. of collocation a~ Dark
+•
+Fiber Transport, Neutral T~ndem will:
+8.2.5.5.3.1 submit a Dark Fiber Inquiry Form
+and receive an Acknowledgement
+from Venzon; and
+8.2.5.5.3.2 submit a collocation application
+for the Verizon Central Office(s)
+where the Dark Fiber Transport
+terminates and receive
+confirmation from Verizon that
+Neutral Tandem's collocation
+application has been accepted.
+8.2.5.5.4 Neuf(al Tand'm will prepare requests for
+parallel provislo.nlng of collocation and Dark
+Fiber Transi:>0rt In the manner and fonn
+reasonably specified by Verizon.
+8.2.5.5.5 If Verizon rejects Neutral Tandem's Dark Fiber
+Transport request, Neutral Tandem may cancer
+Its collocatlon application within five (5) Business
+Days of such rejection and receive a refUnd of
+the collocation application fee paid by Neutral
+Tandem, less the costs Vef!Zon incurred to date.
+8.2.5.5.6 If Verizon accepts Neutral Tandem's Dark Fiber
+Transport request, Verizon will parallel provision
+the Dark Transport to a temporary location ln •
+Verlzon~s Central Office(s}. Verizon will charge
+and Neutral Tandem wlll pay for parallel
+NT PAe Compv3.1 09282007f.doc; 106
+... ·--------------------~------
+
+•
+provisioning of such Dark Fiber Transport at the
+rates specified in the Pricing Attachment
+beginning on the date that Verizon accepts each
+Dark Fiber Transport request
+8.2.5.5.7 Within ten (10) days after Verizon completes a
+Neutral Tandem collocation application, Neutral·
+Tandem shall submit a Dark Fiber change
+request to reposition Dark Fiber Transport from
+the temporary location in that Verizon Central
+Office(s) to the permanent location at Neutral
+Tandem's collocation arrangement in such
+Verizon C-entral Office(s). Neutral Tandem will
+prepare such request{s) In the manner and form
+specified by Verizon.
+8.2.5.5.8 If Neutral Tandem cancels its collocation
+application, Neutral Tandem must also submit a
+cancellation for the unbundled Dark Fiber
+Transport provisioned to the temporary location
+in the Verizon Central Office(s).
+8.2.6 Neutral Tandem shall·order Dark Fiber Transport by sending to
+Verizon a separate ASR for each A to Z route.
+• 8.2. 7 Where a co/location arrangement can be accomplished In a Verizon
+premises, access to Dark Fiber Transport that terminates In a VerJzon
+premises must be accomplished via a collocation arrangement in that
+Verizon premi5es. In circumstances where a collocation arrangement
+cannot be accomplished in a Verizon premises, the Parties agree to
+negotiate for possible alternative arrangements.
+8.2.8 Except as provided in Section 17 below, Dark Fiber Transport will be
+offered to Neutral Tandem in the condition that it is available In
+Verizon's network at the time that Neutral Tandem submits its request
+(i.e., "as Is"). In addition, Verizon shall not be required to convert lit
+fiber to Dark Fiber Transport for Neutral Tandem's use.
+8.2.9 Spare wavelengths on fiber strands, where Wave Division Multiplexing
+{WDM) or Den5eWave Division Multiplexing (DWDM) equipment is
+deployed, are not considered:to be Da.rk Fiber T.ransport, and,
+1therefure, will not be offered to Neutral Tandem as Dark Fiber
+Transport.
+8.2.10 Fiber that has been assigned to fulfill a Customer erder for
+maintenance purposes or for Verizon's lit fiber optic systems will not be
+offered to Neutral Tandem as Dark Fiber Transport.
+8.2.11 Neutral Tandem shall be responsible for providing all transmission,
+tenninating and lightwave repeater equipment necessary to light and
+use Dark Fiber Transport. · ·
+8.2.12 Neutral Tandem may not resell Dark Fiber Transport, purchased
+pursuant to Vlis Agreement to third parties.
+•
+8.2.13 Except to the extent that Verizon is required by the Federal Unbundling
+Rules to.provide Dark Fiber Transport to Neutral Tandem for use for
+NT PAe CompV3.1 09282007f.doc 107
+
+•
+Special or Switched Exchange Access Services, Neutral Tandem shall
+not use Dark Fiber Transport, for Special or Switched Exchange
+ACC8$S Services. .
+8.2.14 In order ·to preserve the efficiency of its network, Verizon may, upon a
+showing of need to the Commission, llmlt Neutral Tandem to leasing
+up to a maximum of twenty-five percent (25%) of the Dark Fiber
+Transport In any given segment of Verlzon's network. In addition,
+except as otherwise required by the F.ederal Unbundling Rules,
+Verizon.m ay take any of the following actions, notwithstanding
+anything to the contrary In this Agreement
+8.2.14.1 Revoke Dark Fiber Transport ieased to Neutral Tandem
+upon a showing of need to the Commission and twelve {12)
+mon~· advance written notice to Neutral Tandem; and
+. .
+8.2.14.2 Verizon reserves and shall not waive, Verlzon's right to
+claim before the Commission that Verizon Should not have
+to fulfill a Neutral Tandem order for Dark Transport because
+that request would strand an unreasonable amount of fiber
+capacity, disrupt or degrade service to Customers or
+carriers other than Neutral Tandem, or impair Verizon's
+ablllty to meet a legal obligation.
+8.2.15 Except as expressly set forth In this Agr.eement. Neutral Tandem may
+not reserve Dark Fiber Transport.
+•
+8.2.16 N~I Tandem shall be solely responsible for. {a) determining
+whether or not the transmlss1on characteristics of 1he Dark Fiber
+Transport accommodate the requirements of Neutral Tandem; (b)
+obtaining any Rights of Way, govemme~I or private property pennlt,
+easement or other authorization or approval required for access to the
+Dark Fiber Transport; {c) installation of fiber optic transmission
+equipment needed to power the Dark Fiber Transport to transmit
+permitted traffic; and (d} except as set forth with respect to the parallel
+provfslonlng process addressed above, Neutral Tandem's collocation
+arrangements with any proper·optlcal cross connects or other
+equipment that Neutral Tandem needs to access Dark Fiber Transport
+before it submrts an order for such ~ccess. Neutral Tandem hereby
+represents and warrant& that It shall have all such rights of way,
+authorizations and the like applloable to the.:focatlon at which it wis~
+to·e stablish a demarcation point for Dark Fiber Transport, on or before
+the date that Neutral Tandem plaQOS an order for the appllcable·Oark.
+Fiber Transport, and that It shall maintain the same going forward. ·
+8.2.17 Neutral tandem Is responsible for·trouble Isolation before reporting
+trouble to Verizon. Verizon \\111 restore continu!W to Dark Fiber
+Transport that has been broken. Verizon wlU not repair Dark Fiber
+Transport that la capable of transmitting tight. even If the transmission
+characteristics of the Dark"Fi>er Transport has f.?hanged.
+8.2.18 (Intentionally Left Blank].
+8.2. f9 Neutral Tandem may request the following, which shall be provided on
+a time ~Rd materials basis (as set forth In the Pricing Attachment): •
+.·
+8.2.19.1 [Intentionally Left Blank!~
+NT PAe Compv3.1 09282007f.doc 108
+
+•
+8.2.19.2 A field survey that shows the avallabillty of Dark Fiber
+Transport between two or more Verizon Central Offices,
+shows whether or not such Dark Fiber Transport is
+defective, shows whether or not such Dark Fiber Transport
+has been used by Verizon for emergency restoration
+activity, and tests the transmission characteristics of
+Verizon's Dark Ffber Transport. If a field survey shows that
+Dark Fiber Transport is ava11able, Neutral Tandem may
+reserve the Dark Fiber Transport, as applicable, for ten (10)
+Business Days from receipt of Verizon's field survey results.
+If Neutral Tandem submits an order for access to such Dark
+Fiber Transport after passage of the foregoing ten (10)
+Business Day reservation period, Verizon does not
+guarantee or warrant the Dark Fiber Transport will be
+available when Verizon receives such order, and Neutral
+Tandem assumes all risk that the Dark Fiber Transport will
+not be available. Verizon shall perform a field survey
+subject to a negotiated Interval. If a Neutral Tandem
+submits an on;fer for Dark Fiber Transport without first
+obtaining the results of a field survey of such Dark Fiber
+Transport, Neutral Tandem assumes all risk that the Dark
+Fiber Transport will not be compatible with Neutral ~
+Tandem's equipment, Including, but not limited to, order
+cancellation charges.
+• 8.3 Transitional Provision of Embedded Dark Fiber Loops.
+Notwithstanding any other provision of this Agreement, Verizon is not required to
+provide, and Neutral Tandem may not obtain, unbundled access to any Dark
+Fiber Loop; provided, however, that if Neutral Tandem leased a Dark Fiber Loop
+from Verizon as of March 11, 2005, Neutral Tandem may continue to lease that
+Dark Fiber Loop at transitional rates provided for in the TRRO until September
+10, 2006, and not beyond that date. The Parties acknowledge that Verizon, prior
+to the Effective Date, has provided Neutral Tandem with any required notices of
+discontinuance of Dark Fiber Loops, and that no further notice·i_s required for
+Verizon to exercise its rights with respect to discontinuance of Dark Fiber Loops.
+9. Network lnterface Device
+9.1 Subjeqt to the conditions set forth in Section 1 of this Attachment and upon
+request-By Neutral Tandem, Verizon shal~permit Neutral Tandem to connect a
+Neutral Tandem Loop to the Inside Wiring of a Customer's premises through the
+use of a Verizon NID in accordance with this Section 9 and the rates and charges
+provided in the Pricing Attachment. Verizon shall provide Neutral Tandem with
+access to NIDs in accordance with, but only to the extent required by, the .
+Federal Unbundling Rules. Neutral Tandem may access a Verizon NID either by
+means of a connection (but only if the use of such connection Is technically
+feasible) from an adjoining Neutral Tandem NID deploy.ed by Neutral Tandem or,
+if an entrance module Is available in the Verizon NID, by connecting a Neutral
+Tandem Loop to the Verizon NID. When necessary, Verizon will rearrange its
+facilities to provide access to an existi7ng Customer's Inside Wire. An entrance
+module is available only If facilities are not connected to it.
+9.2 In no case shall Neutral Tandem access, remove, disconnect or in any other way
+•
+rearrange Verizon's Loop facilities from Verizon's NIOs, enclosures, or
+protectors .
+NT PAe Compv3.1 09282007f.doc 109
+
+•
+9.S In no case shall Neutral tandem access, remove, disconnect or in any other way
+rearrange, a Customer's Inside Wiring from Verizon's NIDs, enclosures, or
+protectors where such Customer Inside ~ring Is used in the provision of ongoing
+Telecommunicatlor:is Service to that Customer.
+case
+9.4 In no shall Neutral Tandem remove or disconnect ground wires from
+Verlzon's NIDs,·enclosures, or protectors.
+9.5 In no case shall Neutral Tandem remove or disconnect NID modules, protectors,
+or terminals from Verlzon's NID enclosures.
+9.6. Maintenance and control of premises Inside Wiring Is the responslblllty of the
+Customer. Any conflicts between service providers for access to the Customer's
+Inside Wiring must be r:esolved by the person who controls use of the wiring
+(e.g., the Customer).
+9.1 When Neutral Tandem Is connecting a Neutral Tandem-provided Loop to the
+· Inside Wiring of a Customer's premises through the Customer's side of the
+Verizon NID, Neutral Tandem does not need to submit a request to Verizon and
+Verizon shall not charge Neutral Tandem for access to the Verlzoo NID. In such
+Instances, Neutral-Tandem shall comply with the provisions of Sections 9~2
+through 9,7 of ttils Attachment and shall access the Customer's Inside Wire In
+the manner set forth In Section 9.8 of this Attachment
+9.8 Due to the wide variety of NIDs utilized by Verizon (based on Customer size and
+environmental considerations), Neutral Tandem may access the Customer's
+Inside Wiring, acting as the agent of the Customer by any of the foflowing means: •
+9.8.1 Where an adequate length of Inside Wiring Is present and
+environmental conditions permit, Neutral Tandem may remove the
+Inside Wiring from the Customer's side of the Verizon NID and connect
+that Inside Wiring to Neutral Tandem's NID.
+9.8.2 Where an adequate length of Inside Wiring Is not present or
+environmental conditions do not permit, Neutral Tandem may enter the
+Customer side of the Verizon NID enclosure for the purpose of
+removfng .the Inside Wiring from the tennlnals of Verizon's NID and
+connecting a coMectorized or spliced Jumper wire from a suitable
+"punch our hole of such NID enclosure to the Inside Wiring within the
+space of the Customer side of the Verizon NID. Such conneotlon shall
+be electrically·lnsulated and shall not make any contact with the
+conntctk>n points or terminals ·within the Customer side of the Verizon
+....
+, . NID .
+. . · · ..·
+9.8.3 Neutral Tandem may request Verizon to make other rearrangements to
+the Inside·W iring terminations or tennlnal enclosure on a time and
+rnaterials ·coSt basis to be chargEid to the requesting party (I.e. Neutral
+Tandem, lt!i agent, the building owner or the Customer). If Neutral
+Tandem accesses the Customer:'s Inside Wiring as described In this
+Section 9.8.3, time and materials charges will be billed to the
+~ue.sting party ~.e. Neutral Tandem, Its agent, the building owner or
+the Customer).
+10. fThis Section Intentionally Left Blank]
+•
+11. Dedicated Tnnsport
+NT PA& CQrripv3.1 09282007f.doc 110
+
+•
+11. 1 Subject to the conditions set forth in Section 1 of this Attachment, where facilities
+are available, at Neutral Tandem's request, Verizon.shall provide Neutral
+Tandem with Dedicated Transport unbundled from other Network Elements at
+the rates set forth in the Pricing Attachment. Verizon shall proVide Neutral
+Tandem with such Dedicated Transport in accordance with, but only to the extent
+required by, the Federal Unbundling Rules. Except as provided in Section 17
+below, Verizon will not install new electronics, and Verizon will not build new
+facUities. For the avoidance of any doubt, notwithstanding any other provision of
+this Agreement, Verizon shall not be required to provide, and Neutral Tandem
+snall not request or obtain, unbundled access to shared (or common) transport,
+or any other Interoffice transport facility that does not meet the definition of
+Dedicated Transport.
+11.2 ff and, to the extent that, Neutral Tandem has purchased (or purchases)
+transport from Verizon under a Verizon Tariff or otherwise, and Neutral Tandem
+has a right under the Federal Unbundling Rules to convert (and wishes to
+convert) such transport to unbundled Dedicated Transport under this Agreement,
+It shall give Verizon written notice of such request (lncludlng, without limitation,
+through submission of ASRs if Verizon so requests) and ·provide to Verizon all
+Information (Including, without limitation, a listing of the specific circuits in
+question) that Verizon reasonably requires to effectuate such conversion. In the
+case of any such conversion, Neutral Tandem shall pay any and all conversion
+charges (e.g., non-recurring charges), as well as any and all termination •
+liabilities, minimum service period charges and like charges In accordance with
+Verizon's appllcable Tariffs. If the transport to be converted comprises a portion
+• of a High Capacity EEL (as defined In Section 16.2.1 below). the applicable
+provisions of Section 16 below shall apply.
+12. [This Section Intentionally Left Blank]
+13. Operations Support Systems
+Subject to the Conditions set forth in Section 1 of this Attachment and in Section 8 of the
+Additional Services Attachment, Verizon shall provide Neutral Tandem with access via
+electronic interfaces to databases required for pre-ordering, ordering, provisioning,
+maintenance and repair, and billing. Verizon shall provide Neutral Tandem with such
+access In accordance with, but only to the extent required by, the Federal Unbundling
+Rules. All such transactions shall be submitted by Neutral Tandem through such
+electronic interfaces.
+14. Availability Qf Other. Network ~1'"11ents on an Unbundled Basis
+14.1 . Any request by Neutral Tandem for access to a Verizon· Network Element that is
+not already available and that Verizon ls required by the Federal Unbundling
+Rules to -provide on an unbundled basis shall be treated as a Network Element
+Bona Fide Request pursuant to Section 14.3, of this Attachment. Neutral
+Tandem shall provide Verizon access to Its Network Elements as mutually
+agreed by the Parties or as required by tlie Federal Unbundling Rules.
+14.2 Notwithstanding anything to the contrary in this Section 14, a Party shall not be
+required to provide a proprietary Network Element to the other Party under this
+Section 14 except as required by the Federal Unbundling Rules.
+14.$ Network Element Bona Fide Request (BFR).
+•
+14.3.1 Each Party shall promptly consider and analyze access to a new
+unbundled Network Bement in response to the submission ofa
+NT PAe CompV3.1 09282007f.doc 111
+
+•
+Network Erement Bona Fide Request by the other Party hereunder.
+The ·Network Element Bona Fide Request process set forth herein
+does not apply to those services requested pursuant to Report & Order
+and Notice of Proposed Rulemaking 91~141 (rel. Oct. 19, 1992) 11' 259
+and n.603 or subsequent orders.
+14.8.2 A Network Element Bona Fide Request shall be submitted in writing
+and shall Include a technical description Qf each requested Network
+Element ·
+14.3.3 ~·requesting Party may cancel a Network Element Bona Fide
+...
+Request at any time, but shall pay the other Party's reasonable and
+demonstrable costs of processing and/or Implementing the Network
+Element Bona Fide Request up to the date of cancetratton.
+14.3.4 Within ten (10) Business Days of Its receipt, the recelvlng Party shaU
+er.knowledge receipt of the Network Element Bona Fide Request.
+14.3.5 Except under extraorcHnar-y circumstances, within thirty (30) days of Its
+receipt of a Network Element Bona Fide Request. the mcelvlng Party
+shall provide to the requesting Party a prellmlnary-analysls of such
+Network Element Bona Fide Request. The preliminary analy•ls shall
+confirm that the receiving Party will offer access to the Network
+Element or will provide a detalled explanation that access to the
+Nejwork Element Is not technically feasible and/orthat the request
+does not qualify as a Network Element that Is required to be provided
+' . by the Federal Unbundling Rules. •
+14.3.6 If the receiving Party determines that the NetwOFk Element Bona Fide
+Request Is technically feasible and access to the Network Element Is
+required to be provided by the Federal Unbundling Rules, 1t shall
+promptly proceed with developing the Network Element Bona Fide
+Request upon receipt ofw ritten authorization from the requesting
+Party. When ft receives s~ authorization, the reCeMng Party shall
+promptly develop ihe reqoested services, determine their avallablllfy,
+calc;ulate the applicable ~ and establish Installation Intervals.
+Unless the Parties otherwise agree. the Network-Element requested
+must be. priceq In accordao~ with Section 252(dX1) of the Act
+14.3.7 As soon as feasible, butnot more than ninety (90) days after Its receipt
+of authorization to proceed with developlng the Network Element Bona
+Fide Request. 1f1e' r9ceiving Party shall provide te the requesting Party
+a Network Element Bona Fide Request quote which wlll Include, at a
+minimum, a description of each Network Element.·the avallabiuty, the
+appllcable rates, and the Installation Intervals.
+14.3.8 Within thirty {30) days ef Its receipt .of the-Network Element Bona Fide
+Request quote, the requesting PartY-must either confirm Its order for
+the Network Elell"!ent Bona Fide Request pursuaAt to the Network
+Element Bona Ade Request quote or seek arbitration by the
+Commission pursuant to Section 252 of the Act
+14.3.9 ff a Party to a Network Element Bona Fide Request believes that the
+other Party Is not requesting, negotiating or pr~lng the Network .
+Element Bona Fide Request in good faith, or disputes a determination,
+or price or cost quote, or ls falling to act in aooorclance with Section_ •• •
+NT PAe Compv3.1 09282007f.doc 112
+
+•
+251 of the Act, such Party may seek mediation or arbitration by the
+Commission pursuant to Section 252 of the Acl
+15. Maintenance of Net'Work Elements
+If (a) Neutral Tandem reports to Verizon a Customer trouble, (b) Neutral Tandem
+requests a dispatch, (c) Verizon dispatches a technician, and (d) such trouble was not
+caused by Verizon's facilities or equipment In whole or In part, then Neutral Tandem shall
+pay Verizon a charge set forth In the Pricing Attachment for time associated with said
+dispatch. In addition, this charge also applies when the Customer contact as designated
+by Neutral Tandem is not available at the appointed time. Neutral Tandem accepts
+responsibility for initial trouble isolation and providing Verizon with appropriate dispatch
+information based on its test results. If, as the result of Neutral Tandem instructions,
+Verizon is erroneously requested to dispatch to a site on Verizon company premises
+("dispatch in"), a charge set forth In the Pricing Attachment will be assessed per
+occurrence to Neutral Tandem by Verizon. If as the result of Neutral Tandem
+Instructions, Verizon Is erroneously requested to dispatch to a site outside of Verizor;i
+company premises (•dispatch out"), a charge set forth In the Pricing Attachment will be
+assessed per occurrence to Neutral Tandem by Verizon. Verizon agrees to respond to .
+Neutral Tandem trouble reports on a non-discriminatory basis consistent with the manner
+in which it provides service to its own retail Customers or to any other similarly situated
+Telecommunications Carrier.
+16. Combinations, Commingling, and Conversions
+16.1 Subject to and without limiting the conditions set forth In Section 1 of this
+•
+Attachment
+16.1.1 Verizon will not prohibit the commingling of a Qualifying UNE with
+Qualifying Wholesale Services, but only to the extent and so long as
+commingling and provision of such Network Element (or combination
+of Network Elements) Is required by the Federal Unbundling Rules.
+Moreover, to the extent and so long as required by the Federal
+Unbundling Rules, Verizon shall, upon request of Neutral Tandem,
+perform the functions necessary to commingle Qualifying UNEs with
+Qualifying Wholesale Services. The rates, terms and conditions of the
+applicable access. Tariff or separate non-251 agreement will apply to
+the-Qualifying Wl:lolesale Services: and the rates, terms and conditions
+of the Agreement or the Verizon UNE Tariff, as applicable, will apply to
+the Quallfying UNEs; provided, however, that a nonrecurring charge
+will-apply for each UNE circuit th.at is part of. a commingled
+arrang·ement, as set forth in the Pricing Attachment. In addition, If any
+commingling requested by Neutral Tandem requires Verizon to
+perform physical work that Verizon is reQulred to perform under the
+Federal Unbundling Rules, then Verizon's standard charges for such
+work shall apply or, in the absence of a standard charge, a fee
+calculated using Verizon's standard time and materials rates shall
+apply until such time as a standard charge Is established pursuant to
+the terms set forth in the Pricing Attachment
+16.1.2 "Ratche"ting, i.e., a pricing mechanism that involves billing a single
+circuit at multiple rates to develop a single, blended rate, shall not be
+required. UNEs that are commingled with Wholesale Services are not
+inclu<;led In the shared use provisions of the applicable Tariff, and are
+• therefore not eligible for adjustment of charges under such provisions.
+Verizon may exclude its perfqrrnance in connection with the
+NT PAe Compv3.1 09282007f.doc 113
+
+•
+provisioning of commingled faclll6es and services from standard
+provisioning intervals andfrom performance measures and remedies,
+If any, contained in the Agreement or elseWhere.
+16.1.3 Limitation on Section 16.1. Section 16.1 is intended only to address
+the Parties' rights and obligations as to combining and/or commingling
+of UNEs that Verizon Is already required·t o provide to Neutral Tandem
+under the Agreement and the Federal Unbundling Rules. Nothing
+contained In Section 16.1 shaR be deemed to·l imit any right of Verizon
+under the Agreement to cease providing a facility that Is or becomes a
+Discontinued Facility.
+16.2 Service Ellglblllty Criteria for Certain Combinations and Commingled Facilities
+and Services. Subject to the conditions set forth In Sections 1 and 16.1 of this
+Attachment:
+16.2.1 Verizon shall not be obligated to-proVlde:
+16.2.1.1 an unbundled DS1 Loop in combination with unbundled
+DS1 or 0$3 Oedlcated _TranspC>~ or commingled wfth bS1
+ar DS3 access set11lces;
+16.2.1.2 an unbundled DS3 l,;oop In colhbtnation with unbundled
+OS3 Dedicated Transport, or oomm1ngled with DS3 access
+services;
+16.2.1.3 unbundled OS1 Dedlcate<fTransport commlngted wfth OS1
+aecess •
+channel termination servk:e;
+16.2.1.4 unbundled 0$3 Dedicated Transport commingled with DS1
+channel termlnatloo access service; or
+16.2.1.5 unbundled DS3 Dedicated Transport commingled with 0$3
+channel tenninatlon service, ·
+(indivkiually and collectively •High Capacity EELs•) except to the extent
+Verizon Is required by the Federal Unb1;mdling Rules to do so, and then
+not unless and until Neutral Tandem, using an ASR, certifies to Verizon
+that each combined or commingled 0$1 circuit or OS1 equivalent circuit
+a
+of High Capacity EEL satisfies each-of the $8rvlce ellglblltty criteria on
+a clrcutt-by-drcult basis as set forth In 47.C .F. R• § 51.318. Neutral
+Tandem mustremaln In oompllance.wlth $Sid .service ellglblttty criteria for
+so long as Neutral Tandem continues to.receive the aforementioned
+combined or-commingled facilities and/or services from Verizon and
+Neutr~I Tandem shall Immediately notify Verizon at such time as a.
+· certification ceases to be accurate. The service ellglbillty criteria shall be
+applled to each combined or commingled DS1 drcult or DS1 equivalent
+circuit of a High Capacity EEL If any"comblne9 or commingled DS1
+circuit or OS1 equivalent circuit of a-High Capacity EEL Is, becomes, or
+Is subsequently determined to be, noncompllant. the noncompQant High
+Capacity ee1-·circultwill be treated as described in Section 16.2.2 below.
+The foregoing shall.a pply ~ether the High Capacity EEL circuits in
+question are being provistoriQd to establish a new circuit or to convert an
+existing wholesale service, or any part thereof, to Uf1bundled network
+elements. 'For existing High Capacity EEL circuits, Neutral Tandem,
+within thirty (30) days of the Effectlve.~ate to the extent It has not •
+already done ~ prior to the EffectiVe Date. of this Agreement, must re-
+NT PAe Compv3.1 09282007f.doc 114
+... ·------·--·-- ··· --------------~------------------
+
+•
+certify, using an ASR, that each DS1 circuit or 0$1 equivalent circuit
+satisfies the service eHglblllty criteria on a circuit-by-circuit basis as set
+forth in 47 C.F.R. § 51.318. Any existing High Capacity EEL circuits that
+Neutral Tandem leased from Verizon as of the Effective Date of this
+Agreement that Neutral Tandem falls to re-certify as required by this
+Section_b y the end of such 30-day period shall be treated as a non
+compllant circuit as described under Section 16.2.2 below effective as of
+the Effective Date of this ~greement
+16.2.2 Without limiting any other right Verizon may have to cease providing
+circuits that are or become Discontinued Facilities, If a High Capacity
+EEL circuit is or becomes noncompliant as described In this Section
+16.2 and Neutral Tandem has not submitted an LSR or ASR. as
+appropriate, to Verizon requesting disconnection of the noncompliant
+facility and has not separately secured from Verizon an altemative
+arrangement to replace the noncompllant High Capacity EEL circuit,
+then Verizon, to the extent it has not already done so prior to execution
+of this Agreement, shall reprice the subject High Capacity EEL circuit
+(or portion thereof that had been previously billed at UNE rates),
+effective beginning on the date on which the circuit became non
+compliant by application of a new rate (or, In Verizon's sole discretion,
+by appl!catlon of a surcharge -to an existing rate) to be equivalent to an
+analogous access service or other analogous arrangement that ~
+Verizon shall identify in a written notice to Neutral Tandem.
+• 16.2.3 Each certification to be provided by Neutral Tandem pursuant to
+Section 16.2.1 above must contain the following infonnation for each
+DS1 circuit or 051 equivalent: (a) the local number assigned to each
+DS1 circuit or 081 equivalent; (b) the local numbers assigned to each
+OS3 circuit (must have 28 local numbers assigned to it}; (c} the date
+each circuit was established in the 911 /E-911 database; (d ) the
+cof k'.)cation termination connecting facility assignment for each circuit,
+showing that the collocation arrangement was established pursuant to
+47 U.S.C. § 251(cX6), and not under a federal collocation tariff; (e) the·
+interconnection trunk circuit Identification number that serves each
+DS1 circuit There must be one such identlflca6on number per every
+24 DS1 circuits; and (f) the local switch that serves each 0$1 circuit
+When submitting an ASR for a circuit, this information must be
+contained In the Remarks section of the ASR, unless provisions are
+made to populate other fields on the ASR to capture this information.
+16.2.4 The.charge$ for conversions are as specified in the Pricing Attachment
+anq apply for each circuit converted.
+16.2.5 All ASR-driven conversion requests. will result in a change in circuit
+identification (circuit ID) from access to UNE or UNE to access. If such
+change in circuit ID requires that the affected circuit(s) be retagged,
+then a retag fee per circuit wm apply as specified in the Pricing
+Attachment
+16.2.6 All requests for conversions will be handled In aceordance with
+Verizon'$ conversion guidelines. Each request will be handled as a
+project and will be excluded from all _ordering and provisioning metrics.
+•
+16.3 Once per calendar ye~r, Verizon may obtain and pay for an independent auditor
+to audit Neutral Tandem's compliance in all material respects with the service
+NT PAe Compv3.109282007f.doc 115
+------ - -----·- . . ..... ··--·
+
+•
+eligibility criteria applicable to High Capacity EELs. Any such audit shall be
+performed in accordance with the standards established by the American
+Institute for Certified PubUc Accountants, and may ·Inell.Ide, at Verlzon's
+discretion, :the examination of a sample selected lo accordance with the
+Independent auditor's Judgment To the extent the Independent auditor's report
+concludes 1hat Neutral Tandem failed to complywlth the service ellglblllty criteria,
+then (without limiting Verfzon's rights under Section 16.2.2 above) Neutral
+Tandem must convert all noncompliant-clrcuits to the appropriate service, true up
+any difference In payments, make the correct payments on a golng·foiward
+basis, and relmllurse Verizon for the cost of the independent auditor within thirty
+(30) days after receivlng a statement of such costs from Verizon. Should the
+Independent -.udltor confirm Neutral Tandem's compllanee with the service
+etlglblllty criteria, ·then Neutral Tandem shall provide to the lndei:>endent auditor
+for Its verification a statement of Neutral Tandem's out-Qf-pocket costs of
+complying with any requests of the independent auditor, and Verizon shall, within
+thirty (30) days of the date on which NeUtral Tandem submits such costs to the
+auditor, reimburse Neutral Tandem for Its out-Qf·pocket costs verified by the
+auditor. Neutral Tandem shall maintain records adequate to support Its
+compliance with the service eligibility criteria for each DS1 or DS1 equivalent
+circuit for at least eighteen (1 8) months after the service arrangement In question ·
+Is terminated.
+1.7. Routine Network Modifications
+17.1 General Conditions. In accordance with, but only to ttie-extent required by, the
+Federal Unbundling Rules, and subject to the conditions ut forth in Section 1 of
+1his Attachment •
+17.1.1 Verf~ shall make StJCh routine network modifications, at the rates
+and charges set forth In the Pricing Attachment, as are necessary to
+permit acce8$ by NeutrarTandem to tt\4l Loop, Dedicated Transport, or
+Dark Fiber Transport facilities available under the Agreement
+· (Including DS1 Loops and OS1 Dedicated Transport, and OS3 loops
+"Snd DS3 Dedicated Transport}, where the ·facility has already been
+constructed. Routine network modifications applicable to Loops or
+Transport are those modifications that Verizon -regularly undertakes for
+Its. own Custome~ and may include, but are not limited to: rearranging
+-or splicing of In.place cable at existing splice points; adding an
+equipment case; adding a doubler or repeater; instaUing a repeater
+-shelf; deploying a new multiplexer or reconfigµrlng,a n existing
+mu111plexer: accessing manholes; and deploying bucket trucks to reach
+1., •• -aerial cable. Routine network mo.dlficatlons applicable to Dark Fiber
+Transport are those modifications that Venzon regularly undertakes for
+Its own Customers and may include, but are not limited to, splicing of
+ln"J>lace qark fiber at existing spUce points; accessing manholes:
+deplaytng bucket trucks to reach aerial cablei and routine activities, if
+any, needed to enable Neutral Tandem to light a Dark Aber Transport
+facility that it has obtalned from Verizon. under the Agreement. Verizon
+shall not be obligated to provide optronlcs for the purpose of fighting
+Dark Fiber Transport. Routine netwOf'k modlflcatl6ns do not lncfude
+the.c onstruction of a new Loop or new .Transport facilities, trenching,
+the pulling of cable, the Installation of new. aerial, buried, or
+underground cable for a requesting telecommoolcatlons carrier, the
+placement of new cable, securing permits or rights-of-way, or
+-·
+constructing ancf/or placing new manholes or conduits. Verizon shall
+not be required to build any time division multiplexing (TOM) capability·
+NJ PAe CompvS.1 09282(l07f.d® 118
+
+•
+into new P>ckel-based networi(s or into e)(fsffng PBcket-l>ased
+l1elworics that <lo not •lieady have TOM capabfflly. Vedzon shalt not
+be "'qu1rl!(l to S>erfonn any routine n-modificattons to any factllty
+that is or becomes a Discontinued Facility. .
+17.2
+~""""
+Plans. Veiizon may exctu<le Its l>Odonnance In connection With the
+provisioning of Loops or Transport (including" D°a"r'k Fib.er Transoort) for which
+rouline ne1woi1< modifications are perfonned •lanaaro Provisioning intervals
+ea1nsde Wpehrefroen. ru,,,.,.. rneo...,,,. and remedies, ff any, conrarned In 1he A9"'ement or
+17.3
+Nothing contained in this Section 11 shall be deemec1: (a) to·establish i:tl'ly
+obligation of Verizon to provide on an unhundlod ba:irs unaer the Federal
+~loo A~reement
+UnbUndllno any rdClrny that this does not otherwise require
+Verizon to provide 9n an unbundled basis under the Federal Unbundllng Rules,
+(b) to obligate Venzon to proVide on an unbundled basis under the Federal
+Unbundling Rules, for any Period Of time not required under 11>o Federal . . ht or
+~ny
+Unbundling Rules, access to any DlscontinuAd_ r=aclllty, or (c) to Umtt ng
+Verizon under the Agreement, any Verizon Tariff or SGAT, or otherwrse, to cease
+providing a Discontinued Facility.
+Aatco and Charges
+The rates and charges for U~Es. Comblnn!.~ ~0~rcr! ,;'!1 I ~ e g n l t ln 5, g ' o r t o te u r t e in d e unnedtwero trhki s
+• m A o tt d a l C f h l m ~U e o n n t s sh , a an ll a b e O a th s e pr r s o e v ~ 1 d c e es d 1 n ' f ath~:t~tfachment and the Pricing A·t tachment.
+19• Good Faith Performance
+"and fD the ex C te o n m t t m h o a~ n w Ve e n a . z ~ o n 0 , ! pn ! • o r , to ~ the ~ ~ f ~ f - ec ~ S f iv e e M D c a e t e o f o fe f r t e h ~ d i : s i u ' A n ! g : d ' r e e .: r e ' t m u h : i e . s " n A : t ' t, m :h e ; t ai r ~s a : m n: ' ' : o " et ' n ) t
+provided in lhe
+th~ {1:i.:;:u~1ng";' w/lh ~"""":"a"'n d
+Verizo a o n l~l!cSol!~Md!l.~• ~~d without Hmltation, ra':i, conditions (lndudmg,
+terms If the Parties cannot agreefrto s ) either Party may utiltze the
+for such rv1ce, ' d lmplementatlon time ames '
+without limitation, rates an . oced res
+Agreement's dispute r~olut1on pr u .
+•
+117
+NTPAeCompv 3 . 1 09282007f.doc
+
+•
+COl..LOCATIONATI'ACHMENT
+1. Verizon's Provision of Collocltlon
+Verizon shall provide to Neutral Tandem, In accordance with this Agreement, Verizon's
+applicable federal and state Tariffs and the requirements of Applicable Law, Collocation
+for the purpase of facilitating Neutral Tandem's Interconnection with Verizon under 47
+U.S.C. § 251(cX2) or access to Unbundled Network Elements of Verizon: provided, that
+notwlthsta~lng any other provjsion of1 hls Agreement or a Tariff, Verizon shall be
+obligated to provide Collocation to_N eutral Tandem only to the extent reqL1lred by
+Applicable Law and may decline to provide Collocation to Neutral Tandem to the extent
+tbat provision of Collocation I~ not required by Applicable Law. Notwithstanding any
+·other provision of this Agr"rnent or a Tariff, nothing In this Agreement or a Tariff shall be
+deemed to require Verizon to provide (and, for the avoidance of any doubt Verizon may
+decline to provide and/or cease providing) Collocation that, if provided by Verizon, would
+be used by Neutral Tandem to obtain unbundled access to any network element (a) that
+Verizon Is not required to unbundle under 47 U.S.C. § 251(c)(3) or (b) that Verizon Is not
+r:equlred to unbundle 1.mder 47 C.F.R. Part 51.
+•
+.. •
+I .
+NT PAe Compv3.1 09282007f.doc 118
+-···-···-········-·---------------~-------------------------
+
+•
+911 ATTACHMENT
+1. 911/E-911 Arrangements
+1.1 911/E-911 arrangements provide a caller access to the appropriate PSAP by
+dialjng a 3-digit universal telephone number "911". Verizon provides and
+maintains such equipment and software at the 911/E-911 Tandem
+Office(s)/Selective Router{s), Verizon interface point(s) and AU Database as is
+necessary for 911/E-911 Calls in areas where Verizon is the designated 911 IE-
+911 Service Provider.
+1.2 Verizon shall make the following information available to Neutral Tandem, to the
+extent permitted by Applicable Law. Such information is provided at the Verizon
+Partner Solutions website (formerly referred to as the Verizon wholesale
+website):
+1.2.1 a listing of the CLLI code (and SS7 point code when applicable) of
+each 911/E-911 Tandem Office(s)/Selective Router{s) and associated
+geographic location served for areas where Verizon Is the designated
+911/E-911 Service Provider;
+1.2.2 a listing of appropriate Verizon contact telephone numbers and
+organizations that currently have responsibility for operations and
+support of Verizon's 911/E-911 network and All Database systems;
+• and
+1.2.3 where Verizon maintains a Master Street Address Guide (MSAG) on
+behalf of the Controlling 911 Authority, Verizon shall provide to Neutral
+Tandem a complete copy of such MSAG annually upon written request
+for each county within the LATA(s) In the Commonwealth of
+Pennsylvania, where Neutral Tandem is providing Telephone
+Exchange Service, provided that Verizon is permitted to do so by
+Controlling 911 Authority. A letter Is required from the PSAP director
+before the release of the MSAG by Verizon ta Neutral Tandem.
+2. ALI Database
+2.1 Where Verizon manages the ALI Database, informatian regarding the AU
+Database is provided electronically at ~ Verizon Partner Solutions website
+r (form~riy referred to as the Verium wMlesale·webslte).
+2.2 Where Verizon manages the ALI Database, Verizon will:
+2.2.1 store Neutral Tandem end user data provided by Neutral Tandem in
+the ALI Database;
+2.2.2 provide Neutral Tandem access to the ALI Database fc:>r the initial
+loading and updating of Neutral Tandem end user records in
+accordance with lnformatfon contained in the Verizon Partner Solutions
+website (formerly referred to as the Verizon.wholesale website); and
+2.2.3 provide Neutral Tandem an error and status report based on updates
+to the ALI Database received from Neutral Tandem.
+•
+2.3 Where Verizon manages the ALI Database, Neutral Tandem will:
+NT PM Compv3.1 09282007!.doc 119
+'----------··-·· ---
+
+•
+2.3.1 provide MSAG valid E-911 data for.each of Its end users for the lnitiaL
+loading of, and any and all updates to the ALI database;
+2.3.2 Utilize the appropriate Verizon electronic interface to update E-911
+data in the All Database related Its end users (and all such database
+lnfonnatlon in the ALI Database shall conform to Verizon standards,
+which are provided at the Verizon Partner Solutfons web~te (formerly
+referred to as the Verizon wholesale website));
+2.3.3 use its company ID on all end user records lri accordance with NENA
+standards;
+2.3.4 correct any errors that occur during the entry of E.S11 data in the ALI
+database; and ·
+2~3.5 enter E-911 data Into the ALI Database In eccordance with NENA
+standards for LNP. This Includes, but Is not limited to, using Neutral
+Tandem's NENA ID to lock and unlock records alid the posting of the
+Neutral Tandem NENA 10 to the AU Database record where such
+IQCklng and unlocking feature for E-911 records Is available, or as
+defined by iocal standards. Neutral Tandem is required to promptly
+unlock and migrate Its E-911 records in accordance with NENA
+standards. In the event that Neutral Tandem discontinues providing
+Telephone Exchange Service to any of Its end users, It shall ensure
+that rts e..g.11· reeprds for such end users are unlocked In accordance
+with NENA standards.
+•
+2.4 In the event Neutral T:andem uses an Agent to input Its end user's E:-911 data to
+the ALI Database through the appropriate Verizon electronic lnterr.oe. Neutral
+Tandem must provide a Letter of Authorization, In a form acceptable to Verizon,
+Identifying and authoriZlng lts Agent
+3. · 911/E-911 lntarconntetlon · ·
+3.1 Neutral Tandem may, in accordance with Applicable Lllw, Interconnect to the
+Verizon 911/E-911 Tandem Oflice(s)/Selective Router(s) or Verizon lnterfQce
+polnt(s). Verizon wlll designate Interface polnt(s), e.g., digital cross connect
+systems (OCS), whete Neutral Tandem may Interconnect with Verizon for the
+transmission and routing of 911 /E-911 Calls to all subtending PSAPs that serve
+the areas In which Neutr-al Tandem provide~ Telephone Exchange Services.
+3.2 1n order to Interconnect wlttrVenzon for the. traAsmlsslon and rQUtlng of 9~ 1/E-
+911 caus, Neutral randem shall:
+. .
+3.2.1 interconnect with each Verizon 911/E-911 Tandem Offlces(s)/Selective .
+Router(s) or Verizon Interface Points tflat serves the exchange areas in ·
+which Neutral Tandem Is authortzed to and .will provide Telephone
+Exchange Service; ·
+3.2.2 provide a minimum Qf -two (2) one-way outgoing 911/E-911 trunks over
+diversely_ routed facilities that are dedicated· for originating 911 /E-911
+calls from the Neutral Tandem switch to each designated Verizon
+911/E-911 T-andem Office(s)/Selective Router(s} or Verizon Interface
+polnt(s), using SS7 signaling where available; as necessary;
+3.2.3 pntentlonally Left Blank]; .· •
+NT PAe Conlpv3.1 09282007f.doe 120
+.. .. -···---·-------~~-----~---'-'-------------------
+
+•
+3.2.4 provide sufficient trunks and facilities to route 911/E-911 Calls from
+Neutral Tandem to the designated Verizon 911/E-911 Tandem
+Office(s)/Selective Router(s) or Verizon interface polnt(s). Neutral
+Tandem is responsible for requesting that trunks and .facilities be
+routed diversely for 911/E-911 interconnection;
+32.5 determine the proper quantity of trunks and facilities from its switch(e s)
+to the Verizon 911/E-911 Tandem Offlce(s)/Selective Router(s) or
+Verizon Interface point(s);
+3.2.6 engineer its 911/E-91 :I trunks and facilities to attain a minimum P.01
+grade of service as measured using the "busy day/busy hour" criteria
+or at such other minimum grade of service as required by Applicable
+Law or the Controlling 911 Authority;
+3.2. 7 monitor its 911 /E-911 trunks and facilities for the purpose of
+determining originating network traffic volumes. If the Neutral Tandem
+traffic study Indicates that additional trunks and/or facilities are needed
+to meet the current level of 911/E-911 Call volumes, Neutral Tandem
+shall order or otherwise provide adequate additional trunks and/or
+facilities;
+3.2.8 promptly test all 911/E-911 trunks and facilities between the Neutral
+Tandem network and the Verizon 911/E-911 Tandem
+Office(s)/Selective Router(s} or Verizon Interface polnt(s) to assure
+proper functioning of 911/E-911 arrangements. Neutral Tandem
+•
+agrees that It will not transmit or route live 911/E-911 Calls until
+successful testing is completed; and
+3.2.9 isolate, coordinate and restore all 911/E-911 network maintenance
+problems from Its switch(es) to the Verizon 911/E-911 Tandem
+Offlce(s)/Selective Router(s} or Verizon interface points. Neutral
+Tandem will advise Verizon of the circuit identification when notifying
+Verizon of a failure or outage.
+4. 911/E-911 General
+4.1 Verizon and Neutral Tandem wlll work cooperatively to arrange meetings with the
+Controlling 911 Authorities to answer any technical questions the PSAPs, or
+county or municipal coordinators may have regarding the Initial 911/E-911
+arrangements ·
+4.2 Neutral Tandem will compensate Verizon for provision of 911/E-911 Services
+pursuant to the Pricing Attachment of this Agreement.
+4.3 Neutral Tandem and Verizon will eomply with all Applicable Law (including 911
+ta>ces and surcharges as defined by Applicable Law) pertaining to 911/E-911
+arrangements.
+4.4 Neutral Tandem will collect and remit, as required, any 911/E*911 applicable
+surcharges from its end users in accordance with Applicable Law.
+5. Good Faith Performance
+If and, to the extent that, Verizon, prior to the Effective Date, has not provided In the
+•
+Commonwealth of Pennsylvania a Service offered under this Attachment. Verizon
+reserves the right to negoti_ate In good faith with Neutral Tandem.reason~ble terms ari'd
+NT PAe .Compv3.1 09282007f.doc 121
+
+•
+·con.ditlons (including, without limitation, rates and imp!ementation 1imeframes) for such
+Service; and, If the Parties cannot agree to such terms and· conditions (including, without
+!Imitation, rates and Implementation tlmeframes), either Party may utilize the Agreement's
+dispute resolution procedures. ·
+•
+•
+I-
+NT PAe Compv3.109282007f.doc 122
+-----------------------------------------------
+---·
+
+•
+PRICING A1TACHMENT
+1. General
+1.1 As used in this Attachment, the term "Charges" means the rates, fees, charges
+and prices for a Service.
+1.2 Except as stated in Section 2 or Section 3 of this Attachment, Charges for
+Ser.vices shall be as stated in this Section 1.
+1.3 The Charges for a Service shall be the Charges for the Service stated in the
+Providing Party's applicable Tarlff.
+1.4 In the absence of Charges for a Service established pursuant to Section 1.3 of
+this Attachment, the Charges shall be as stated In Appendix A of this Pricing
+Attachment. For rate elements provided in Appendix A of this Pricing Attachment
+that do not include a Charge, either marked as "TBD" or otherwise, Verizon is
+developing such Charges and has not finished developing such Charges as of
+the Effective Date of this Agreement {"Effective Date"). When Verizon finishes
+developing such a Charge, Verizon shall notify Neutral Tandem in writing of such
+Charge in accordance with, and subject to, the notices provisions of this
+Agreement and thereafter shall bill Neutral Tandem, and Neutral Tandem shall
+pay to Verizon, for Services provided under this Agreement on the Effective Date
+and thereafter In accordance with such Charge. Any notice provided by Verizon
+• to Neutral Tandem pursuant to this Section 1.4 shall be deemed to be a part of
+Appendix A of this Pricing Attachment immediately after Verizon sends such
+notice to Neutral Tandem and thereafter.
+1.5 The Charges stated in Appendix A of this Pricing Attachm!'!nt shall be
+automatically superseded by any applicable Tariff Charges. The Charges stated
+in Appendix A of this Pricing Attachment also shall be automatlcaUy superseded
+by any new Charge{s) when such new Charge{s) are required by any order of the
+Commission or the FCC, approved by the Commission or the-FCC, or otherwise
+allowed to go into effect by 'the Commission or the FCC (Including, but not limited
+to, in a Tariff that has been flied with the Commission or the FCC), provided such
+new Charge(s) are not subject to a stay issued by any court of competent
+jurisdiction.
+1.6 II'! the ~bsence of Charges for a Service established pursuant to Sections 1.3
+through 1.5 of this AttaC:hn\ent. if Charges for a Service are otherwise expressly
+provided for in this Agreement, such Charges shall apply.
+In·
+1.7 the absence of Charges for a Service established pursuant to Sections 1.3
+through 1.6 of this Attachment, the Charges for the Service shall be ·the Providing
+Party's FCC or Commission approved Charges. ·
+1.8 In the absence of Charges for a Service established pursuant to Sections 1.3
+through 1.7 of this Attachment, the Charges for the Service shall be mutl:lally
+·agreed to by the Parties in writing.
+2. Verizon Telecommunications Services Provided to Neutral Tandem for Resale
+Pursuant to the Resale Attachment
+2.1 Verizon Telecommunications Services for which Verizon is Required to Provide a
+Wholesale Discount Pursuant to Section 251(cX4} Qfthe Act. ·
+NT PAe Compv3.1 09282007!.doc 123
+
+•
+2.1.1 Th~ C~rges for a Verizon Telecommunlcatlons S~rvlce purchaSftd by
+Neutral Tandem for resale for which Verizon Is required to provide a
+wholesale discount pursuant to Section 251(cX4) of the Act shall be
+the Retall Price for such Service set fotih In Verlzon's applicable Tar1ffs
+(or, If there Is no Tariff Retail Price for such Service, Verlzon's Retail
+Price for the Service that is generally offered to Verizon's Customers),
+less, to the extent required by Applicable Law: (a) the applicable
+wholesale discount stated In Verizon's Tariffs for Verizon
+Telecommunications Services purchased for resale pursuant to
+Section 251(cX4) of the Act; or (b) in the absence of an applicable
+Verizon Tariff wholesale discount for Verizon Telecommunications
+Services purchased for resale pursuant to Section 251(cX4) of the Act,
+the applicable wholesale discount stated In Appendix A for Verizon
+Telecommunications Services purctiased for resale pursuant to
+Section 251(c)(4) of the Act:
+2.1.2 The Charges for a Verizon Telecommunications Service Customer
+Specific.Arrangement (MCSA") purchased by Neutral Tandem for resale
+pursuant to Section 3.3 of the Resale Attachment for wh1ch Verizon Is
+required to provide a wholesale discount pursuant to Section 251(c)(4)
+of tile Act shall be the Retail Price for the CSA, less, to the extent
+required by Applicable Law: (a) the applicable wholesale discount
+stated In Verizon's Tar:tffs for Verizon Telecommunications Services
+purchasecf'for resale pursuant tO Sectfon 251{ cX4 ) of the Act; Or (b} In
+the absence of an applicable Verizon Tariff wholesale discount for
+Verizon 1elecommunlcatlons Services purchased for resate pursuant
+•
+to Section 251(c)(4) of the Act. the applicable discount stated in
+Appendix A for Verizon Telecommunications Services purchased for
+resale pursuentto Section 251(o)(4) of the Act Notwithstanding the
+foregoing, in accordance with, and to the extent permitted by
+Appllcabie·Law, Verizon may esQlbllsh a wholesale discount for a CSA
+that differs from the wholesale discount that Is generally applicable to
+Telecommunications Services pr.ovlded to Ne11tral Tandem for resale
+pur:suant to Section 251(c)(4) of the Act
+2.1.3 Notwithstanding Sections 2.1 and 2.2 of this Attachment, In
+accordance wlth, and to the extent permitted by·A pplicable Law,
+Venzon may at any time establish a wholesale discount for a
+Telecommunications Service (Including, but not limited to, a CSA) that
+differs frc:im the wholesale discount that Is _generally applicable to
+Tatecommunlc;:atlons Services provfc;led to Neutral Tandem for resale
+pursuan_t t9 Section 2~t(cX4) of the Act.
+2.1.4 The whaesale-discount stated in Appendix A shall be automatically
+superseded by any new wholesale discount When such new wholesale
+discount Is reqt.!lred by any order of the Commlsslon or the FCC,
+approved ·by the Commission or the FCC, or otherwise allowed to go
+into effect by the Commission or the FCC, provided such new
+wholesale discount Is not subject to a stay Issued by any court of
+competent jurisdiction.
+2.1.5 The wholesale discount provided for in Sections 2;1.1 through 2.1.3 ()f
+this Attachment shall not be _appli~ to:
+2.1.5.1 Short term promotions as defined in 41 CFR § 51.613;
+e
+NT PAe Compv3.1 09282007f.doc 124-
+I

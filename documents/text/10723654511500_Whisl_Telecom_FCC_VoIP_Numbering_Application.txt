@@ -1,0 +1,457 @@
+......
+151Southhalllane,Ste450
+InNtt• es Maitland,FL32751
+P.O.Drawer200
+WinterPark,Fl32790-0200
+www.inteserra.com
+July23, 2020
+Via ECFS Filing
+REDACTED FOR PUBLIC INSPECTION
+Secretary, Federal Communications Commission
+Washington, DC20554
+Attn: Wireline Competition Bureau
+RE: Request for Confidential Treatment of Filing of Whisl Telecom, llCj Application of Whisl
+Telecom, HCforAuthorization to Obtain NumberingResourcesPursuanttoSection52.15{g)of
+theCommission'sRules, WCDocketNo. 20-
+DearSecretary:
+Pursuant to Section 52.15(g)(3)(i) of the Commission's Rules, Whisl Telecom, LLC ("Whisl Telecom")
+hereby submits its application requesting authorization to obtain numberingresources.
+Whisl Telecom respectfully requests that, pursuant to Sections 0.457 and 0.459 of the Commission's
+rules, 47 C.F.R. §§ 0.457 and 0.459, the Commission withhold from public inspection and accord
+confidential treatment to Exhibit A to the application because that document contains sensitive trade
+secrets and commercial information that falls within Exemption 4 of the Freedom of Information Act
+("FOIA").l Whisl Telecom is voluntarily providing this information, "of akind that would not customarily
+be released to the public"; therefore, this information is "confidential" under FOIA2 • Moreover, Whisl
+Telecom would suffersubstantial competitive harm ifthis information were disclosed.3
+Exhibit A is accordingly marked with the header "SUBJECT TO REQUEST FOR CONFIDENTIAL TREATMENT
+NOTFOR PUBLICINSPECTION."
+5U.S.c. §552(b)(4).
+2 See CriticalMass EnergyProjectv, NRC, 975 F.2d 871, 879 (D.C. Cir. 1992).
+3 SeeNationalParks andConservationAss'nv. Morton, 498F.2d 765 (D.C. Cir. 1974).
+
+July 23, 2020
+Page 2of4
+In support of this request and pursuant to Section 0.459(b) of the Commission's rules4 , Whisl
+Telecom herebystates asfollows:
+1. IDENTIFICATION OFTHESPECIFICINFORMATION FORWHICH CONFIDENTIALTREATMENT IS
+s
+SOUGHT.
+Whisl Telecom seeksconfidential treatmentofExhibitAto the enclosed application.
+2. DESCRIPTION OFCIRCUMSTANCESGIVING RISETOTHESUBMISSION.6
+Whisl Telecom is submitting as Exhibit A the agreement between it and its carrier partner, as
+proof of Whisl Telecom's facilities readiness as required by Section 52. 15(g)(3)(i)(D) of the
+Commission's rules.
+3. EXPLANATION OF THE DEGREE TO WHICH THE INFORMATION IS COMMERCIAL OR FINANCIAL
+ORCONTAINSATRADE SECRETOR ISPRIVILEGED.7
+The information for which Whisl Telecom seeks confidential treatment contains sensitive
+commercial information "which would customarily be guarded from competitors"8. Exhibit A
+describes the agreement between Whisl Telecom and its carrier partner and contains
+proprietary commercial information concerning Whisl Telecom's network, customers, and
+services.
+4. EXPLANATION OF THE DEGREE TO WHICH THE INFORMATION CONCERNS A SERVICE THAT IS
+SUBJECTTOCOMPETITION.9
+ExhibitAcontains information relatingto commercial mattersthatcould be used bycompetitors
+to Whisl Telecom's disadvantage. Whisl Telecom has numerous competitors in the Voice over
+Internet Protocol ("VoIP") services sector in which it operates. Detailed operations and
+commercial information of the type provided by Whisl Telecom could compromise Whisl
+Telecom's position in this highly competitive industry. Release would therefore result in
+substantial competitive harmto Whisl Telecom.
+4 47 C.F.R. § 0.459(b).
+5 47 C.F.R. § 0.459(b)(1).
+6 47 C.F.R. §0.459(b)(2).
+7 47 C.F.R. §0.459(b)(3).
+8
+47 C.F.R. § 0.457(d)(2).
+9 47 C.F.R. § 0.459(b)(4).
+
+July23, 2020
+Page 3of4
+s.
+EXPLANATION OF HOW DISCLOSURE OF THE INFORMATION COULD RESULT IN SUBSTANTIAL
+COMPETITIVE HARM10
+Competitors could use Whisl Telecom's proprietary commercial and operational information to
+Whisl Telecom's detriment as they would gain access to sensitive information about how Whisl
+Telecom provides services as well as aboutWhisl Telecom's commercial agreementswith others
+in the marketthatare notnormally disclosedto the public.
+6. IDENTIFICATION OF ANY MEASURES TAKEN BY THE SUBMITTING PARTY TO PREVENT
+UNAUTHORIZED DISCLOSURE.11
+Whisl Telecom has not distributed the information in ExhibitAto the public.
+7. IDENTIFICATION OF WHETHER THE INFORMATION IS AVAILABLE TO THE PUBLIC AND THE
+EXTENTOFANY PREVIOUSDISCLOSUREOFTHE INFORMATION TOTHIRD PARTIES.'Z
+Whisl Telecom has not previouslydisclosedthe information in ExhibitA.
+8. JUSTIFICATION OF THE PERIOD DURING WHICH THE SUBMITTING PARTY ASSERTS THAT
+MATERIALSHOULD NOTBE AVAILABLE FOR PUBLICDISCLOSURE.13
+Whisl Telecom requests that ExhibitAbetreated as confidential for aperiod often years.This
+period is necessary dueto the proprietary nature ofthe information in ExhibitA.
+10 47 C.P.R. § 0.459(b)(5).
+11 47 C.P.R. § 0.459(b)(6).
+12 47 C.F.R. §0.459(b)(7).
+13 47 C.F.R. § 0.459(b)(8).
+
+July 23, 2020
+Page4of4
+9. OTHER INFORMAT!ON THAT WHISL TELECOM BELIEVES MAY BE USEFUL IN ASSESSING
+WHETHER ITSREQUESTFOR CONFIDENTIALITYSHOULD BE GRANTED.14
+The information concerns Whisl Telecom's proprietary network information, related to current
+and planned commercial and operational information, and as such, is commercially sensitive.
+Any questions you may have regarding this filing should be directed to my attention at407-740-3006 or
+via email tocroesel@inteserra.com.Thankyou foryourassistance inthis matter.
+Sincerely,
+/s/Carey Roesel
+Carey Roesel
+Consultantto Whisl Telecom, LLC
+cc: LindyCairns- Whisl Telecom
+tms: FCCv2001
+CR/gs
+
+Beforethe
+FEDERAL COMMUNICATIONS COMMISSION
+Washington, D.C. 20554
+In theMatterof )
+)
+WhislTelecom, LLC )
+) WC DocketNo. 20- _
+ForAuthorization to Obtain Numbering )
+Resources Pursuantto Section 52.l5(g) of
+TheCommission's Rules
+APPLICATION OF WHISLTELECOM,LLC
+FORAUTHORIZATIONTO OBTAINNUMBERINGRESOURCES
+Whisl Telecom, LLC ("Whisl Telecom"), pursuantto Section 52.15(g)(3)(i) ofthe Commission's
+Rules, respectfully requests authorization to obtainnumbering as described below.
+UndertheCommission'sNumberingOrder,1aninterconnectedVoIPprovidermayobtainnumbering
+resources from the Numbering Administratorupon ashowingthatitis authorized to provide servicein the
+area for which the numbering resources are requested. Such authorization may be obtained upon an
+application to the Commission containing the informationdetailed in Section 52.15.(g)(3)(i)(A)-(G) ofthe
+Commission'sRules. WhislTelecomherebyrequeststheCommissiongrantitthatauthorization.Insupport
+ofthis application, WhislTelecomprovides the following information:
+I. INFORMATION REQUIRED BYSECTION52.15(g)(3)(i)
+A. § 52.15(g)(3)(i)(A)
+Name: WhislTelecom, LLC
+Address: 5435 N. GarlandAve, Suite 140-507
+City: Garland
+State: Texas
+ZIP Code: 75040
+Telephone: (972) 914-9604
+1NumberingPoliciesforModern Communications, FCC 15-70(reI. June 22,2015).
+
+Contact for Regulatory Requirements, Compliance, 911, and Law Enforcement:
+Name: Lindy Cairns
+Address: 5435 N. GarlandAve, Suite 140-507
+City: Garland
+State: Texas
+ZIP Code: 75040
+Telephone: (972) 914-9604
+Fax: (972) 584-6067
+B. §52.15(g)(3)(i)(B)
+WhislTelecomherebyacknowledgesthatauthorizationtoobtainnumberingresourcesunder
+Section52.15(g)oftheCommission'sRulesissubjecttocompliancewithapplicableCommissionnumbering
+rulesaswellastothenumberingauthoritydelegatedtothestates.WhislTelecomherebyalsoacknowledges
+thatthisauthorizationissubjecttocompliancewithindustryguidelinesandpracticesregardingnumbering,as
+applicableto telecommunicationscarriers. Thenumberingresources thatarethesubjectofthisApplication
+will beusedto provide interconnectedVoIP services initially in the stateofTexas.
+c.
+§52.15(g)(3)(i)(C)
+WhislTelecomherebyacknowledgesthatitmustfilerequestsfornumberswiththerelevant
+state commission(s) at least 30 days beforerequesting numbers from theNumbering Administrators.
+D. § 52.15(g)(3)(i)(D)
+Whisl Telecom hereby sets forth its capability to provide service within 60 days ofthe
+numbering resources activationdate.
+To demonstrate its facilities readiness, Whisl Telecom will have the following resources
+availableatitsdisposal: afullyintegratedbackofficesupportsystemwiththeabilitytoscheduleandprocess
+LNP ordersfrom customers and anexperiencedprovisioningdepartmentcapableofhandlingbulknumber
+ports. Whisl Telecom has an agreement in place with a CLECpartner to route traffic to the ILECs. Whisl
+Telecomhasattachedto thisapplication,asExhibitA, anagreementbetweenWhislTelecomanditscarrier
+partner providing that the carrier partnerwill host Whisl Telecom's numbers on its switches and provide
+connectivity to the PSTN for inbound calls to Whisl Telecom numbers. Whisl Telecom has requested
+
+confidentialtreatmentundertheCommission'srulesforExhibitA. Alsoattached,asExhibitB,isevidence
+ofinterconnection agreements betweenWhisl Telecom's carrierpartner and local exchange carriers in the
+stateofTexas.
+E. §52.15(g)(3)(i)(E)
+WhislTelecomherebycertifiesthatitcomplieswithitsUniversalServiceFundcontribution
+obligationsunder47CFRpart54, subpartH,itsTelecommunicationsRelayServicecontributionobligations
+under 47 CFR § 64.604(c)(5)(iii), its North American Numbering Plan and Local Number Portability
+Administrationcontributionobligationsunder47CFR§§ 52.17 and52.32,itsobligationstopayregulatory
+fees under47 CFR § 1.1154, and its 911 obligationsunder47 CFRpart9.
+F. §52.15(g)(3)(i)(F)
+Whisl Telecom certifies that it has the financial, managerial, and technical expertise to
+provide reliable service. It is financially stable, led by a strong, experienced management team with
+substantialmanagerialexperienceinthetelecommunicationsindustry,andhassufficienttechnicalexpertise
+and infrastructure in place to provide reliable numbering services. Whisl Telecom's key managementand
+technicalpersonnelare listedbelow.Noneoftheidentifiedpersonnelarebeingorhavebeeninvestigatedby
+the Commission or any law enforcement orregulatory agency for failure to complywith any law, rule, or
+order.
+Key Personnel:
+President- Lindy Cairns
+VicePresident& Technical Executive- Jose Olivar
+G. §52.15(g)(3)(i)(G)
+Whisl Telecom hereby certifies that no party to this application is subject to a denial of
+Federalbenefitspursuantto Section 5301 oftheAnti-DrugAbuseActof1988,21 U.S.C. § 862.
+
+II. ACKNOWLEDGEMENT OF CONDITIONS IN SECTION 52.15(g)(3)(iv)
+As required by Section 52.15(g)(3)(iv), Whisl Telecom will maintain the accuracy ofall contact
+information and certifications in this application and will file a correction with the Commission and each
+applicable state within 30 days ofany changes. Whisl Telecom will also furnish accurate regulatory and
+numbering contact informationto each state commissionwhenrequestingnumbers in thatstate.
+III. CONCLUSION
+Pursuantto Section52.15(g)(3)(i)oftheCommission'sRules,WhislTelecomrespectfullyrequests
+theCommission grantthis application for authorization to obtainnumbering resources.
+Respectfully submitted,
+CareyRoesel, InteserraConsultingGroup
+Consultantto WhislTelecom, LLC
+(407) 740-3006
+croesel@inteserra.com
+And
+LindyCairns, President
+Whisl Telecom, LLC
+5435 N. Garland Ave, Suite 140-507
+Garland, TX 75040
+(972) 914-9604
+July 23, 2020
+
+Exhibit A
+AGREEMENT BETWEEN WHISL TELECOM, LLC AND
+CARRIER PARTNER
+(Confidential exhibit submitted separately)
+
+Exhibit B
+(for each state listed)
+INTERCONNECTION AGREEMENTS BY AND
+BETWEENCARIDERPARTNER
+AND
+SOUTHWESTERN BELL TELEPHONE, L.P.
+DBA SBC TEXAS
+
+~ T.AaronMorris
+~at&t SeniorAttomey '.
+Legal
+AT&TTexD ' T:512.870.5717
+400W.15111Street,Suite1030 F:512.870.3420
+Austin,Texas78701 llron,morr!i@att,com
+May 8,2008
+Commission Filing Clerk
+Public UtilityCommission ofTexas
+1701- N.'CongressAvenue
+Austin, Texas 78701
+RE: Docket 35§25,-JointApplication of Southwestern Bell Tel,phone Company
+d/b/a AT&T Texas and Neutral Tandem-texas, LtC for Approval of
+,Amendment to Interconnection Agreement under PURA and the
+Telecommunications Act of1996
+DearFiIl,ng Clerk: -,
+•
+In response to Order No.2, Approving Amendment to Interconnection Agreement, issued
+Aprir' 17, 2008, attached is the complete amended interconnection agreement between
+Southwestern Bell Telephone Company d/b/a AT&T Texas and Neutral Tandem-Texas,
+, .
+~C.
+Pleasedonothesitatetocall me ifyou haveanyquestions regarding'thismatter.
+Sincer~ly, '
+T. Aaron Morris
+SeniorAttom~y
+co: David Tatak, VicePresident of Billing &Revenue Services forNeutralTandem..
+Texas, LLC (U.S. mail)
+General Counsel, PUC (Hand delivered)
+Central Records; PUC (Hand delivered)
+•
+I
+2
+",_, ,..__J ...._, ---..,
+
+•
+AT&T/NEUTRAL
+TANDEM-TEXAS, LLC
+• INTERCONNECTION
+AGREEMENT AMENDED
+AS OF 4/17/08
+•
+3
+
+GENERALTERMSANDCONDITlONSlSBC·13STATE
+PAGE1OF61
+• SBC=13STATEINEUTRALTANDEM-{ARINKSMONYOKTX),LLC.
+032405
+INTERCONNECTION AND/OR RESALE AGREEMENT UNDER
+SECTIONS 251 AND 252 OF THE TELECOMMUNICATIONS ACT OF
+1996
+between one or more of
+Illinois Bell Telephone Company d/b/a SBC Illinois,
+Indiana Bell Telephone Company Incorporated d/b/a SBC Indiana,
+Michigan Bell Telephone Company d/b/a SBC Michigan,
+Nevada Bell Telephone Company d/b/a SBC Nevada,
+The Ohio Bell Telephone Company d/b/a SBC Ohio,
+Pacific Bell Telephone Company d/b/a SBC California,
+•
+The Southern New England Telephone Company d/b/a SBC
+Connecticut,
+Southwestern Bell Telephone, L.P. d/b/a SBC Arkansas, SBC
+Kansas, SBC Missouri, SBC Oklahoma and/or SBC Texas,.
+sac
+Wisconsin Bell, Inc. d/b/a Wisconsin
+and
+Neutral Tandem-Arkansas, LLC; Neutral Tandem-Indiana, LLC;
+Neutral Tandem-Kansas, LLC; Neutral Tandem-Missouri, LLC;
+Neutral Tandem-Nevada, LLC; Neutral Tandem-Oklahoma, LLC;
+Neutral Tandem-Texas, LLC
+•
+7
+
+GENERALTERMSANDCONDmONSlSBC:13STATE
+PAGE13OF61
+SBC-13STATJi!NEUTRALTANOEM-(ARINKSMeNVOKTX),LLG.
+•
+- 032405
+Pointneednetbethe same asthe Rating Point. normustitbelocatedwithin theRateCenter
+area. ~utmustbeinthesameLATAastheNPA·NXX.
+1.1.100·SBC Communications Inc." (SBC) means the holding company which directly orindirectly
+owns the following ILECs: Illinois Sell Telephone Company d/b/a SSC Illinois, Indiana Bell
+TelephoneCompanyIncorporatedd/b/aSBCIndiana,MichiganBellTelephoneCompanydJb/a
+SSCMichigan,Nevada BellTelephoneCompanyd/b/aSBCNevada,TheOhioSellTelephone
+Company d/b/a SSC Ohio. Pacific Bell Telephone Company d/b/a SSC california. The
+Southern New England Telephone Company d/b/a SSC Connecticut, Southwestern Bell
+Telephone,L.P.d/b/a SSCArkansas,SSCKansas,SSCMissOUri,SSCOklahomaand/orSSC
+Texas,and/orWisconsinBell.Inc.d/b/aSBCWisconsin.
+ssc
+1.1.101"SBC·2STATE" • As used herein, SSG-2STATE means SBC- CALIFORNIA and
+NEVADA,theapplicableSSC-ownedILEC(s}doingbusinessinCaliforniaandNevada.
+1.1.102"SBC-4STATE" • As used herein, SSC-4STATE means Southwestern Sell Telephone, L.P..
+d/b/a SSC Arkansas, SSC Kansas, SBC Missouri, and SBC Oklahoma, the applicable SSC
+ownedILEC(s)doingbusinessinArkansas,Kansas, MissouriandOklahoma.
+1.1.103"SBC·7STATE" • As used herein, SSC·7STATE means SBC SOUTHWEST REGION 5
+STATE, SBC CALIFORNIA and SSC NEVADA, the applicable $BG-owned ILEC(s} doing
+businessinArkansas,California,Kansas,Missouri,Nevada,Oklahoma,andTexas.
+1.1.104"SSC-8STATE" - As used herein, SSC-8STATE means SSC SOUTHWEST REGION 5
+STATE; SBC CALIFORNIA, SBC NEVADA, and SBC CONNECTICUTthe applicableSBC·
+ownedIlEC(s)doingbusinessinArkansas,California,Connect/cut, Kansas, Missouri,Nevada,
+• Oklahoma,andTexas. -
+1.1.105"SBC·10STATE" •As used herein, SSC·10STATE means SBC SOUTHWEST REGION 5
+STATEand SSC MIDWESTREGION 5-STATE an the applicable SSC-owned ILEC(s) doing
+business in Arkansas, illinois, Indiana, Kansas, Michigan, Missouri, Ohio, Oklahoma, Texas,
+andWisconsin. ..
+1.1.106"SBC·12STATE" •As used herein, SBC·12STATE means SSC SOUTHWEST REGION 5
+STATE, SSC MIDWEST REGION 5-STATE and.SSC·2STATE the applicable SSC-owned
+ILEC(s} doing business In Arkansas, California, illinois, Indiana, Kansas, Michigan, Missouri,
+Nevada,Ohio,Oklahoma,Texas,andWisconsin.
+1,1.107i"SBC"13STAT~'/i";A$/lJ§~dh~r~in, ··SSC413STATEI1'l~t:ins iSBC/SOUTHWEST/REGION·50
+STATE,SBCiMIDWESTREGION5-STATEiiSSC42STATE'al'lgSBC//CONNECTlCUTihe
+appliqableSBC+QwnedILEf"WOdoll'19bUsirie$sinAtkali$8S,Califo!'l'lla,eQllt'\@cut, IIIln(')ls,
+Indiana,KanSaS,Mic;hlgan,MiS$Ouri;/N~yada,Qhl();()Id~h()ma,Texa$;~ndWisC(ln§ln.
+1.1.108"SSCARKANSAS"•Asusedherein,SSCARKANSASmeansSouthwesternSellTelephone,
+L.P.d/b/a SSCArkansas,theapplicableSBC-ownedILECdoingbusinessinArkansas.
+1.1.109I1SBC CALIFORNIA" • As used herein, SBC CALIFORNIA means Pacific Bell Telephone
+sec
+Companyd/b/a California,theapplicable.SSC-ownedILECdoingbusinessinCalifornia.
+1.1.110"SBC CONNECTICUT" •As used herein, SSC CONNECTICUT means The Southern New
+England Telephone Companyd/b/a SBC Connecticut, the applicable above listed ILECdoing
+businessinConnecticut.
+1.1.111"SSCKANSAS" -As used herein, SSC KANSAS meansSouthwestern BellTelephone,L.P.
+d/b/aSSCKansas,theapplicableSBC-ownedILECdoingbusinessinKansas.
+• 1.1.11211SSC ILLINOIS" • As used herein, SSC ILLINOIS means Illinois Bel! Telephone Company
+d/b/aSBCillinois,theapplicableSBC-ownedILECdoingbusinessinIllinois.
+1.1.113I1SSC INDIANA" -As used herein, SSC INDIANA means Indiana Sell Telephone Company,
+Incorporatedd/b/aSSCIndiana,theapplicableSBC-ownedILECdoingbusinessinIndiana.
+19
+
+GENERALTERMS·ANOCONOmoNSlSac·13STATE
+PAGE24Of61
+SBC·'3STATEIN~UTRAL TANDEM-{ARINI<SMONV01<tx),LLC. •
+032405
+referrlng Party'stariff(s). However,ifeitherPartyprovides ReferralAnnouncementsfor
+aperiod longerthan the above peritid(s) when its End Users change theirtelephone
+numbers, such Partyshall providethe samelevel ofservicetoEnd UsersOfthe other
+Party.
+_4.~.4 ThefollOWingappliesto§BCOHIOonly:
+4.9.4.1 Referral Announcements shallbe proVided-byaPartytotheotherPartyforthe period
+oftime specified In Rule 4901:1·5-12, OhioAdministrative Code and atthe rates set
+forth in the referrlng 'Party's tariff(s). However, if either Party provides Referral
+Announcemenfs for a period longer than the above perlod{s) when its,End Users
+change'thelrtelephonenumbers,such Partyshan providethe same levelofserviceto
+EndUsersoftheotherParty.
+4.10, E~cnPartyshallbertlsponslbleforlaborrelationswithitsownemployees. Each Partyagreestonotify
+the other Party as soon as practicable whenever such 'Party has knOWledge that alabor dispute
+.. concerning Its employees Is delaying or threatens·to delay such Party's timely performance of its
+obligations under this Agreement and shall endeavorto minimize impairment ofservice to the other
+Party(forexample,byusingItsmanagementpersonneltoperformworkorbyothermeans)Intheevent
+ofa,labordisputetotheextentpermittedbyApplicablelaw.
+4.11 Each PartyshallactingoodfaithInItsperformanceunderthisAgreementand,Ineachcaseinwhichl;I
+Party's consentoragreement Is reqUired orrequested hereunder, suchParty shall notunreasonably
+withholdordelaysuchconsentoragreement. '
+4.12 This Agreement contains comprehensive OSSterms and condltionsj however, CLEC represents and •
+covenantsthatItwillonlyuseOSSfurnishedpursuanttothisAgreementforactlvltlesrelatedtoLawful
+UNEs,resoldservicesorotherservices cover'edbythisAgreement,forwhichthisAgreementcontains
+explicitterms,conditionsandrates. '.
+4,13 The Parties acknowfedge and agree that they dQ not Intend to Include products and services Inthis
+,.
+Agreement that do not have corresponding rates and charges, Accordingly, if this Agreement Is
+!..
+, executedand/orapprovedbythe,CommissionandthePartieslaterdiscoverthataprodUctorserviceIs
+Included,inthisAgreementwithoutanassociatedrateorcharge,-the Partiesagreethattheywill agree
+I.Ipon a rate or charge to lnclude In this Agreement before the product or service Is prOVided or
+I'
+performed. IfthePartiescannotagr.ee,eitherPartymaypursuedisputeresolutionundertheapplicable
+provisionsofthisAgreement.
+, ,
+I, 5. EFFECTiVeDATE,TERM,ANDTERMINATION
+!
+'L, 5.1 Tn SBC-13STATE,withthe exceptlOI1ofsseOHIO,theEffective DateofthisAgreementshall beten
+I
+(10)calendardaysafterthe CommissionapprovesthisAgreementunderSection252(e)oftheActor,
+,:~.. absent such Commission approval, the date this Agreement Is deemed approved under Section
+" .
+252(eJ(4)oftheAct.In§SCOHIO,basedonthePUC·OH,theAgreementisEffectiveuponfilingandIs
+.r. deemedapprovedbyoperationoHawonthe91ttdayafterfiling•
+5.2 The'termofthisAgreementshallcommenceupontheEffectiveDateofthisAgreementaMshallexpire
+.,'.
+on July 18,2006, provided; however, should CLEC Implement O.e. PrQvlded assurance of payment,
+orderedfacilities, andsubmittedASRsforbunking)thisAgreementwithinsix(6)monthsoftheEffective
+_Date,thenthisAgreementwill automaticallyrenewforoneadditionalyearandexpireonJuly18,2007
+,;1" , (the"T8nn").Ab$&nt~tEtCEllpt.PY.Q!'I~g~rtyQfwdttenl'lotle:ttfrQmthQothQr~~rtyWittlin;1~p1caJsI'\CIsr
+(. Q~ysprtQr~1tleeXplrJtion ()f.the"l'eI'l1l4o;1lj~·..ff~tbllti$l'lOOR@ttY·.·~I1c:ltlnt!md.t,(l~l'ld,tbe[.Ql'I1li
+I,
+¢lJlsAg~~m~tshillll'f!malnll'ltiJP fQ@§!ld~ff~c:lmtlnd!1ft~pjtb~eXpll'@tl9nQf,,1tlQ"I'el'l1llJl'lfll
+,j' •
+termlnatedl:lyeltherP§rtypl.ll'alJ§!lUqj$tJ:mtc:lnj5:3pt§;4;
+-\
+·l· " 5.2.1 Notwithstanding anything to th~ contrarY In this Section 5, the original expiration date ofthis
+Agreement,asmodifiedbythisAmendment,willbeextendedforaperiodofthree(3)yearsfrom
+Janllary11,2008untilJanuary11,2011 (the"ExtendedExpIrationDatej. TheAgreementshall
+i:.: .. 30
+~,.i
+.
+-_._-"'---_._-~--------_._-,_._+--~--'
+
+GENERALTERMSANDCONDITlONS/S8C.13STATE
+PAGE61~61
+SBC·13STATE!NEUTRALTANDEM-(ARINKSMeNYOKTX),LLC.
+•
+032405
+SBC·13STATEAgreement
+Signatures
+THISAGREEMENTCONTAINSABINDING
+ARBITRATIONPROVISIONWHICHMAYBE .
+ENFORCEDBYTHEPARTIES.
+CLEC'sSTATE·SPECIFIC:
+FACILlTlES·BASED OCN# __.....-_
+RESALEOCN# _
+ACNA
+NeutralTandem·Arkansas,LLC;NeutralTandem· IndianaBellTelephoneCompanyIncorporatedd/b/aSBC
+Indiana,LLC; NeutralTandem·Kansas,LLC;Neutral Indiana, Nevada Bell Telephone Company dIbIa sac
+•
+Tandem·Missourl, LLC; NeutralTandem-Nevada, Nevada, and/orSouthwestern aell Telepho.ne, LP. dlbla
+LLC: NeutralTandem·Oklahoma,LLC;Neutral sac Arkansas, SBC Kansas, SBC Missouri, SBC
+Tandem·Texas, LLC Oklahoma, SBC Texas; by sa Operations, Inc' Its
+l
+authorizedagent ,..-
+D~ ~
+Signature:
+--r,;.,.~","
+Name:])"l) II:> Name: K_fik"':""""8_A_uin_b_a-:-U_h _
+(PrintorType) (PrintorType)
+k
+~
+<, \2., . ............
+Title:.\ll: Title: AVP-LocallnterconnectionMarketing
+~orType)
+s/lkl....
+Date: o_$" _ Date: --JtIM D2_
+•
+67

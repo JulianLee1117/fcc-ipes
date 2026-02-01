@@ -1,0 +1,120 @@
+Before the
+FEDERAL COMMUNICATIONS COMMISSION
+Washington, D.C. 20554
+Application of Enhanced Communications of )
+Northern New England, Inc. d/b/a Consolidated )
+Long Distance For Certification As a VOIP ) WC Docket No. 18-____
+Provider For Direct Access To Numbering )
+Resources Pursuant To Section 52.15(g)(3) of the )
+Commission’s Rules, 47 CFR §52.15(g)(3) )
+APPLICATION
+Pursuant to Section 52.15(g)(3) of the Commission’s rules, 47 CFR §52.15(g)(3),
+Enhanced Communications of Northern New England, Inc. d/b/a Consolidated Long Distance
+(“Consolidated”), a current provider of Voice Over Internet Protocol (“VoIP”) service, hereby
+requests that the Commission certify it as a provider of VoIP services for the purpose of gaining
+direct access to telephone numbering resources from the North American Numbering Plan
+Administrator.
+In accordance with the Commission’s rules, Consolidated provides the following
+information in support of its application:
+I. Contact Information
+1. Applicant Name and Business Address:
+Enhanced Communications of Northern New England, Inc.
+5 Davis Farm Rd.
+Portland, ME 04103
+2. Personnel Responsible for Compliance with regulatory requirements and
+Commission Rules:
+Michael T. Skrivan
+5 Davis Farm Rd.
+Portland, ME 04103
+207.535.4150
+
+With a copy to:
+Ann Morrison
+5 Davis Farm Rd.
+Portland, ME 04103
+207.
+3. Personnel Responsible for E-911 Compliance:
+Jon Eon
+5 Davis Farm Rd.
+Portland, ME 04103
+207.797.1303
+With a copy to:
+Barbara Galardo
+45 Forrest Ave.
+Portland, ME 04101
+207.535.4126
+4. Personnel Responsible for Compliance with Law Enforcement:
+Garrett Van Osdell
+350 South Loop 336 West
+Conroe, TX 77304
+With a copy to:
+Sue Hawkes
+5 Davis Farm Rd.
+Portland, ME 04103
+II. Acknowledgements
+Consolidated hereby acknowledges that:
+a. Authorization granted under this application is subject to compliance with
+applicable Commission numbering rules, numbering authority delegated to the states, and
+industry practices and guidelines regarding numbering as applicable to
+telecommunications carriers; and
+2
+
+b. Consolidated must file requests for numbers with the relevant state
+Commissions at least thirty (30) days prior to requesting numbering from the numbering
+administrators.
+III. Service Readiness
+Consolidated is capable of providing service within sixty days of the numbering resource
+activation date in accordance with Section 52.15(g)(2) of the Commission’s rules, 47 CFR
+§52.15(g)(2), because Consolidated is providing VoIP service today. Consolidated has been
+providing VoIP service for four years. See Certification of Michael Shultz (April 16, 2018),
+attached, para. 2. Consolidated currently offers business VoIP services including hosted PBX
+and SIP Trunking. See id. These services currently are offered using a numbering partner. If this
+petition is granted Consolidated will continue offering the services it offers today without the
+need for a numbering partner. Id.
+IV. Certifications
+a. Consolidated certifies that it contributes to the Federal Universal Service
+Fund (“USF”) and Telecommunications Relay Services Fund (“TRSF”) and complies
+with its contribution obligations with respect to those funds. Additionally, Consolidated
+certifies it complies with all contribution and administration obligations under Sections
+52.17 and 52.32 of the Commission’s rules, 47 CFR §§52.17 & 52.32, for NANP and
+LNP and all of its obligations to pay regulatory fees under Section 1.1154 of the
+Commission’s rules, 47 C.F.R. §1.1154, and its 911 obligations under Part 9 of the
+Commission’s rules, 47 C.F.R. §9.1 et seq.. See Certification of Michael Shultz, para. 3.
+3
+
+b. Consolidated certifies that it possesses the financial, managerial and
+technical expertise to provide reliable service. As indicated above, Consolidated is
+currently providing these services and has been delivering high-quality VoIP services to
+Northern New England for 4 years. In addition, Consolidated’s affiliates have been
+providing VoIP service for over 17 years and now currently provide service in 24 states.
+See Certification of Michael Shultz, para. 2. Consolidated is a publicly traded company,
+and is required to make financial filings with the FCC. All SEC filings including audit
+financial statements can be found at http://ir.consolidated.com/sec.cfm. Consolidated’s
+management team includes Chief Technology Officer Thomas White, Executive Vice
+President of Operations Gabe Waggnor and Chief Financial Officer Steven L. Childers.
+None of the aforementioned Consolidated managers has been investigated by the
+Commission or any law enforcement or regulatory agency for failure to comply with any
+law, rule or order. See Certification of Michael Shultz, para. 4. A full listing of
+Consolidated’s management team with biographies can be found at
+http://ir.consolidated.com/management.cfm.
+c. Consolidated certifies that no party to this application is subject to a denial
+of Federal benefits pursuant to section 5301 of the Anti-Drug Abuse Act of 1988, 21
+U.S.C. §862. See Certification of Michael Shultz, para. 5.
+4
+
+V. Conclusion
+For the foregoing reasons, Consolidated requests that the Commission certify it as a VoIP
+provider, and authorize it to obtain numbering resources directly from NANPA, pursuant to
+Section 52.15(g)(3) of the Commission’s rules, 47 C.F.R. §52.15(g)(3).
+Respectfully submitted ,
+/s/
+Karen Brinkmann
+Karen Brinkmann PLLC
+1800 M Street, NW
+Suite 800-North
+Washington, DC 20036
+(202) 365-0325
+Counsel to Consolidated
+April 24, 2018.
+Attachment: Certification of Michael Shultz
+5

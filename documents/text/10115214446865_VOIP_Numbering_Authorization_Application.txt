@@ -1,0 +1,1016 @@
+(SMC-Private) Limited
+Azka Communication (SMC-
+Private) Limited
+VOIP Numbering Authorization
+Application
+FRN:0037370095
+OCN:932L
+499 ID:838057
+RMD:RMD0031271
+
+Table Of Content
+REGULATORY & COMPLIANCE CONTACT INFORMATION ................. PAGE 1
+ACKNOWLEDGMENT OF COMPLIANCE WITH NUMBERING RULES,
+STATE REQUIREMENTS, AND INDUSTRY GUIDELINES ................ PAGE 2
+FORMAL CERTIFICATION REGARDING THE LAWFUL USE OF NUMBERS
+AND PROHIBITION ON ILLEGAL ROBOCALLS, SPOOFING, OR FRAUD .... PAGE 2
+STIR/SHAKEN & ROBOCALL MITIGATION COMPLIANCE CERTIFICATION ...
+PAGE 4
+911 AND CALEA COMPLIANCE CERTIFICATE ............................. PAGE 5
+ACCESS STIMULATION COMPLIANCE CERTIFICATE ..................... PAGE 6
+ACKNOWLEDGMENT OF NUMBERING REQUEST OBLIGATIONS ............. PAGE 6
+CERTIFICATION OF CAPABILITY TO PROVIDE SERVICE
+WITHIN SIXTY (60) DAYS ................................................ PAGE 7
+STATEMENT REGARDING FCC FORMS 477 AND 499 ..................... PAGE 8
+REGULATORY COMPLIANCE CERTIFICATION ............................ PAGE 9
+CERTIFICATION OF FINANCIAL, MANAGERIAL, AND TECHNICAL CAPABILITY
+................................................ PAGE 10
+OWNERSHIP, CONTROL, AND FOREIGN CARRIER CERTIFICATION ...... PAGE 11
+PURSUANT TO 47 C.F.R. § 63.18(h) AND (i)
+CERTIFICATION PURSUANT TO 47 C.F.R. §§ 1.2001 AND 1.2002 ...... PAGE 12
+ANTI-DRUG ABUSE ACT OF 1988 (21 U.S.C. § 862)
+DECLARATION UNDER PENALTY OF PERJURY ............................ PAGE 14
+APPENDICES ............................................................... PAGE 15
+
+Regulatory & Compliance Contact Information
+Designated Regulatory & Compliance Contact
+Pursuant to the requirements of the Federal Communications Commission, Azka Communication (SMC-Private)
+Limited hereby provides the following contact information for personnel qualified to address regulatory,
+compliance, and law enforcement issues:
+Primary Contact for Regulatory Compliance and FCC Matters
+Name: Muhammad Yousaf
+Title/Position: Chief Executive Officer
+Address 1: 1717 N Street NW Stw 1, Washington, District of Columbia, DC 20036 US
+Address 2: East Residence, Angah, Khushab, Punjab, Pakistan, 41140
+Telephone Number: +92 300 4906063
+Email Address: yousafmlk042@gmail.com & yousaf@azkacommunication.com
+Responsibilities of the Regulatory Contact Include:
+1.Addressing all matters related to regulatory compliance and adherence to FCC rules under Title 47 of the
+Code of Federal Regulations.
+2.Responding to inquiries regarding telecommunications service obligations, including reporting, filings, and
+licensing requirements.
+3.Coordinating with law enforcement and emergency services regarding 911 obligations and other public
+safety issues.
+4.Acting as the primary liaison between the company and the FCC or other U.S. governmental agencies
+concerning any compliance, legal, or operational inquiries.
+5.Ensuring that any changes to company operations or personnel affecting regulatory compliance are promptly
+communicated to the FCC.
+Regulatory Acknowledgment
+The company acknowledges its obligation to comply with all applicable Federal Communications Commission
+and numbering administration rules, including requirements related to number activation, utilization, and
+reporting. The company understands that failure to place numbering resources into service within the required
+timeframe may result in reclamation of such resources or other regulatory action.
+1
+
+Acknowledgment of Compliance with Numbering Rules, State
+Requirements, and Industry Guidelines
+Acknowledgment Statement
+I, the undersigned authorized representative of Azka Communication (SMC-Private) Limited, hereby
+acknowledge the following:
+1. Compliance with FCC Numbering Rules
+The Company acknowledges that authorization to obtain numbering resources requires full compliance with all
+FCC numbering rules under 47 CFR Part 52.
+2. Compliance with Numbering Authority Delegated to the States
+The Company acknowledges that numbering oversight is delegated to state commissions and agrees to follow all
+state-level requirements.
+3. Compliance with State Laws, Regulations, and Business Registration Requirements
+The Company acknowledges that it must comply with all applicable state business, regulatory, and numbering
+requirements.
+4. Compliance with Industry Guidelines and Numbering Administration Practices
+The Company acknowledges its obligation to comply with all applicable industry guidelines including ATIS
+INC, Thousands-Block Pooling, and NANPA procedures.
+CERTIFICATION REGARDING THE LAWFUL USE OF
+NUMBERS AND PROHIBITION ON ILLEGAL ROBOCALLS,
+SPOOFING, OR FRAUD
+CERTIFICATION
+I, the undersigned, being duly authorized to act on behalf of Azka Communication (SMC-Private) Limited,
+hereby certify the following:
+2
+
+1. Commitment to Lawful Use of Numbers
+The company affirms and certifies that any telephone numbers obtained pursuant to an authorization under
+paragraph (g)(3) will not be used to knowingly transmit, encourage, assist, or facilitate illegal robocalls, illegal
+caller ID spoofing, or fraudulent activity of any kind.
+2. Compliance with Federal Robocall, Spoofing, and Telemarketing Laws
+The company acknowledges and agrees to comply, at all times, with all obligations and prohibitions established
+under:
+47 C.F.R. § 64.1200
+47 C.F.R. § 64.1604
+47 C.F.R. §§ 64.6300 through 64.6308
+16 C.F.R. § 310.3(b)
+3. Prohibition on Illegal Robocall or Spoofing Activities
+The company explicitly certifies that it will:
+Not knowingly engage in any activity that enables, supports, or contributes to illegal robocalling campaigns;
+Not knowingly transmit or permit the transmission of calls using false, misleading, or inaccurate caller
+identification information in violation of federal law;
+Not knowingly encourage, assist, support, or facilitate any third party in conducting illegal robocalling,
+spoofing, or fraudulent telemarketing activities.
+4. Internal Controls and Monitoring
+The company affirms that it will maintain reasonable internal procedures, compliance measures, and operational
+safeguards to ensure that all numbers obtained under paragraph (g)(3) are used strictly for lawful purposes
+consistent with federal communications and consumer protection laws.
+5. Duty to Update and Maintain Compliance
+The company agrees that it bears a continuing obligation to monitor compliance with all applicable regulations
+and will promptly update its policies, practices, and technical controls as necessary to remain in full compliance
+with all current and future federal requirements concerning robocalling, caller ID authentication, spoofing
+prevention, and telemarketing conduct.
+3
+
+STIR/SHAKEN & Robocall Mitigation Compliance Certification
+Certification of Compliance with STIR/SHAKEN and Robocall Mitigation
+Requirements
+Pursuant to 47 CFR §§ 64.6301–64.6305, I hereby certify, on behalf of Azka Communication (SMC-Private)
+Limited, that the company is in compliance with all applicable FCC requirements relating to caller ID
+authentication, STIR/SHAKEN implementation, and robocall mitigation obligations.
+1. STIR/SHAKEN Implementation Status
+Azka Communication (SMC-Private) Limited certifies that:
+1.1 Implementation in Progress
+The company is in the process of implementing the STIR/SHAKEN caller ID authentication framework.
+1.2 Commitment to Full Implementation before Launch
+The company will complete STIR/SHAKEN implementation before originating traffic and will not begin
+operating until deployment is complete.
+2. Compliance with Robocall Mitigation Program Requirements
+The company maintains a robocall mitigation program including customer verification, monitoring, traceback
+cooperation, and fraud controls.
+3. Robocall Mitigation Database (RMD) Filing
+The company has filed its certification in the FCC Robocall Mitigation Database (RMD0031271), stating that
+STIR/SHAKEN implementation is in progress and mitigation measures are in place.
+4. Ongoing Compliance Commitment
+The company agrees to update its RMD filing, maintain compliance, preserve documentation, cooperate with
+authorities, and prevent unlawful robocalls.
+4
+
+911 and CALEA Compliance Certificate
+Certification of 911 and CALEA Compliance Requirements
+This certification is issued to affirm that Azka Communication (SMC-Private) Limited complies fully with all
+federal regulatory obligations related to emergency services under 47 CFR Part 9 (911/E911) and the
+Communications Assistance for Law Enforcement Act (CALEA), 47 U.S.C. 1001 et seq. This certification
+applies to all interconnected VoIP and telecommunications services provided to end users in the United States,
+Puerto Rico, and Canada.
+The purpose of this certificate is to provide formal assurance to the Federal Communications Commission
+(FCC), the Wireline Competition Bureau, and other regulatory authorities that Azka Communication maintains
+rigorous compliance with public safety and lawful interception requirements and is prepared to provide
+supporting documentation upon request.
+Certification of Compliance with 911/E911 Obligations
+Azka Communication (SMC-Private) Limited certifies that it fulfills all applicable 911 and E911 requirements as
+outlined in 47 CFR Part 9, including but not limited to the following:
+1. Customer Address Registration: - Customers are required to register the physical address where they will use
+the service. The address information is validated and maintained to ensure accurate routing of emergency calls.
+2. Provisioning of 911 Service: 911 service is provisioned in coordination with Callcentric, a certified 911
+service provider, ensuring calls are routed to the appropriate Public Safety Answering Point (PSAP) or national
+emergency call center when necessary.
+Similarly, E911 service ensures the customer’s telephone number and registered address are transmitted to the
+emergency operator for efficient response.
+3. Handling Service Limitations and Outages: - Customers are notified that 911 service may not function during
+internet outages, power failures, or misconfigured devices. Contingency measures, including alternative
+communication methods, are communicated to all users.
+4. Customer Notifications and Education: - Customers are informed about the operational differences between
+traditional and VoIP 911 services and are instructed to keep their service addresses current. - Emergency
+procedures and limitations are communicated through email notifications, online portals, and service agreements.
+5. Monitoring and Testing: - Routine verification of 911 service functionality is conducted to ensure continuous
+compliance. - Records of address registration, provisioning emails, and Callcentric policy confirmations are
+maintained for audit and regulatory purposes.
+For reference, please see Appendix-A
+5
+
+Certification of Compliance with CALEA
+Azka Communication (SMC-Private) Limited certifies full compliance with the Communications Assistance for
+Law Enforcement Act (CALEA), 47 U.S.C. 1001 et seq., which includes:
+1. Lawful Interception Capabilities: Ensuring technical readiness to respond to authorized law enforcement
+requests for call interception or related lawful surveillance.
+2. Personnel and Policy Compliance: Staff are trained on lawful request procedures and maintain internal policies
+to ensure adherence to CALEA requirements.
+3. Cooperation with Regulatory Authorities: The company will cooperate fully with the FCC, the Wireline
+Competition Bureau, or any other regulatory body requesting demonstration of CALEA compliance.
+4. Record-Keeping and Security: Logs, internal policies, and procedures are maintained to demonstrate CALEA
+compliance without compromising user privacy or security.
+Access Stimulation Compliance Certificate
+Certification of Compliance with Access Stimulation Rules
+I, the undersigned, hereby certify that Azka Communication (SMC-Private) Limited is in compliance with the
+access stimulation rules set forth in 47 CFR § 51.914 concerning the acquisition and use of numbering resources
+and the avoidance of access stimulation practices.
+This certification is made based on knowledge, information, and belief formed after reasonable inquiry, and
+includes the following assurances:
+The company will not engage in access stimulation practices as defined or described in the FCC rules.
+The company will maintain records necessary to demonstrate compliance and provide them upon request.
+The company will cooperate with regulatory bodies in any investigation relating to access stimulation.
+The company will promptly implement corrective measures if any non‑compliant practices are discovered.
+Acknowledgment of Numbering Request Obligations
+Acknowledgment Statement
+6
+
+Azka Communication (SMC-Private) Limited hereby acknowledges and affirms that it must submit requests for
+numbering resources to the relevant state commission(s) at least 30 days prior to submitting any number request
+to the Numbering Administrators.
+This acknowledgment is made in accordance with applicable FCC numbering rules and requirements governing
+the acquisition, utilization, and management of numbering resources.
+Certification of Capability to Provide Service within Sixty (60) Days
+Certification
+Pursuant to Section 52.15(g)(2) of Title 47 of the Code of Federal Regulations, Azka Communication (SMC-
+Private) Limited hereby certifies that it is ready, and will be capable, of providing telecommunications service
+within sixty (60) days of the activation date of any numbering resources assigned to the company.
+This certification is based on the company’s executed commercial arrangements, technical readiness, confirmed
+customer demand, and the absence of any mandatory state-level authorization requirements that would delay
+commencement of service.
+Proof of Capability and Operational Readiness
+1. Network Capability and Interconnection
+The company has entered into a commercial SIP trunking agreement with Callcentric, a U.S. based
+telecommunications service provider. This arrangement provides the company with the technical capability to
+originate and terminate calls over the public switched telephone network (PSTN) and to route traffic associated
+with assigned numbering resources.
+This upstream arrangement enables immediate provisioning, testing, and activation of service upon assignment
+and activation of numbering resources. Please see Appendix-A for reference.
+2. Customer Readiness
+The company has entered into commercial agreements with two buyers that will purchase SIP trunking services
+from the company. These customers are prepared to activate service and place assigned numbering resources into
+use promptly upon availability, demonstrating bona fide demand and readiness to utilize numbering resources
+without delay. Please see Appendix-B-1 & B-2 for reference.
+3. Technical and Operational Preparedness
+7
+
+The company has implemented, or will implement prior to activation, all necessary technical and operational
+measures required to provide service, including but not limited to:
+SIP configuration and routing with its upstream provider
+Number translation and call routing setup
+Testing and validation of inbound and outbound call flows
+Internal procedures for number provisioning and customer activation
+These measures ensure that assigned numbering resources can be placed into service promptly and efficiently.
+4. Authority to Operate in New Hampshire
+The company intends to provide VoIP and IP-enabled telecommunications services, including SIP trunking
+services, in the State of New Hampshire.
+The company relies on the guidance of the New Hampshire Department of Energy, which states that:
+“VoIP or IP-enabled providers may voluntarily register with the Department to obtain evidence of their rights and
+obligations under the Communications Act of 1934, as amended.”
+Accordingly, the company certifies that registration with the New Hampshire Department of Energy is voluntary
+for VoIP and IP-enabled service providers and that no state-level registration, certification, or authorization is
+required as a prerequisite to commencing such operations in New Hampshire.
+As a result, the company is legally permitted to begin operations immediately upon the activation of numbering
+resources, subject to applicable federal law and Federal Communications Commission requirements. For
+reference, please see Appendix-C.
+5. Activation Timeline
+Based on the foregoing, the company certifies that:
+Assigned numbering resources can be provisioned, tested, and activated immediately upon activation; and
+Telecommunications service will be provided within sixty (60) days, and in practice well within that period,
+following the numbering resources activation date.
+Statement Regarding FCC Forms 477 and 499
+Statement
+Azka Communication (SMC-Private) Limited hereby certifies that it has not filed FCC Form 477 or FCC Form
+499 as of the date of this statement because these filings are not yet applicable to the company.
+8
+
+The company is a newly established entity and is not yet operational in the United States. At this time, Azka
+Communication (SMC-Private) Limited has not commenced the provision of telecommunications or broadband
+services, and has not generated any U.S. telecommunications or interstate revenue.
+The company acknowledges and understands its regulatory obligations under the rules and requirements of the
+Federal Communications Commission (FCC) and the Universal Service Administrative Company (USAC). The
+company affirms that it will file FCC Form 477 and FCC Form 499, as applicable, once it begins providing
+services in the United States and/or generates reportable U.S. telecommunications revenue, in full compliance
+with all applicable FCC and USAC regulations.
+This statement is made in good faith and is true and correct to the best of the company’s knowledge and belief.
+Regulatory Compliance Certification
+I, the undersigned, hereby certify that Azka Communication (SMC-Private) Limited, a provider of
+interconnected VoIP services, is in compliance with all applicable federal regulatory obligations as required by
+the Federal Communications Commission (FCC). This certification is made based on knowledge, information,
+and belief formed after reasonable inquiry.
+Specifically, the company certifies compliance with the following:
+1. Universal Service Fund (USF) Contribution Obligations
+Pursuant to 47 CFR Part 54, Subpart H, the company complies with all Universal Service Fund contribution
+requirements, including registration with the FCC, filing of Forms 499-A/499-Q when applicable, and timely
+remittance of required contributions through the Universal Service Administrative Company (USAC).
+2. Telecommunications Relay Service (TRS) Contribution Obligations
+In accordance with 47 CFR § 64.604(c)(5)(iii), the company meets all TRS contribution obligations, including
+reporting and submitting required payments to the Interstate TRS Fund administered by USAC.
+3. North American Numbering Plan (NANP) Administration Contributions
+Pursuant to 47 CFR § 52.17, the company complies with its obligations to contribute to the costs of numbering
+administration under the North American Numbering Plan.
+4. Local Number Portability (LNP) Administration Contributions
+In compliance with 47 CFR § 52.32, the company contributes as required to the Local Number Portability
+administration and ensures adherence to applicable number portability regulations.
+9
+
+5. FCC Regulatory Fees
+Pursuant to 47 CFR § 1.1154, the company fulfills all obligations related to annual FCC regulatory fee payments,
+where applicable.
+Additional Identifiers:
+OCN: 932L
+RMD ID: RMD0031271
+499 ID:838057
+CERTIFICATION OF FINANCIAL, MANAGERIAL, AND
+TECHNICAL CAPABILITY
+Certification Statement
+Azka Communication (SMC-Private) Limited hereby certifies that it possesses the financial, managerial, and
+technical expertise necessary to provide reliable, compliant, and high-quality telecommunications and related
+services in accordance with all applicable laws, rules, and regulatory requirements. The company maintains
+adequate financial resources, experienced executive leadership, and qualified technical personnel to ensure
+operational stability, regulatory compliance, network reliability, service continuity, and effective risk
+management.
+Designation Name Contact
+Chief Executive Officer Muhammad Yousaf yousaf@azkacommunication.com
+Chief Performance Officer Abdul Wahab Akber wahab@azkacommunication.com
+Chief Information & Technology Daniyal Shaukat
+daniyal@azkacommunication.com
+Officer Chaudary
+Muhammad Umair
+Systems and Networks Engineer umair@azkacommunication.com
+Masood
+10
+
+Compliance and Enforcement Representation
+The company further certifies that neither Azka Communication (SMC-Private) Limited nor any of the above-
+identified officers, managers, or technical personnel are currently being investigated, or have previously been
+investigated, by the Federal Communications Commission (FCC), any law enforcement authority, or any other
+regulatory agency for failure to comply with any applicable law, rule, or order, including but not limited to the
+FCC’s rules applicable to unlawful robocalls or unlawful spoofing.
+Ownership, Control, and Foreign Carrier Certification
+Pursuant to 47 C.F.R. § 63.18(h) and (i) of Title 47 of the Code of
+Federal Regulations
+§ 63.18(h) — Ownership and Control Disclosure
+Pursuant to Section 63.18(h) of Title 47 of the Code of Federal Regulations, Azka Communication (SMC-
+Private) Limited hereby provides the following ownership and control disclosure:
+Azka Communication (SMC-Private) Limited is a privately held Single Member Company (SMC-Private)
+Limited, organized under the laws of a foreign jurisdiction. The company is not publicly traded on any stock
+exchange.
+Furthermore, The company certifies that:
+Muhammad Yousaf, an individual, is the sole shareholder and ultimate beneficial owner of Azka
+Communication (SMC-Private) Limited.
+Muhammad Yousaf holds 100 percent (100%) of the issued and outstanding shares of the company.
+No other individual or entity holds any direct or indirect ownership interest, voting interest, or equity
+participation in the company.
+No other person or entity exercises, or has the right to exercise, control or influence over the management,
+policies, or operations of the company.
+There are no parent companies, holding companies, trusts, nominees, proxy arrangements, or intermediate
+entities between the company and its sole owner.
+No foreign government, foreign governmental authority, or state-owned enterprise holds any ownership
+interest in, or exercises control over, the company.
+The company affirms that the ownership and control information provided herein is complete, accurate, and
+transparent, and agrees to promptly notify the Federal Communications Commission of any material change in
+ownership or control, in accordance with FCC rules.
+11
+
+Section (i) of Title 47 of the Code of Federal Regulations— Certification
+Regarding Foreign Carrier Status
+Pursuant to Section (i) of Title 47 of the Code of Federal Regulations, Azka Communication (SMC-Private)
+Limited hereby certifies as follows:
+The company is not a foreign carrier, and is not affiliated with any foreign carrier, as those terms are defined
+under the Communications Act of 1934, as amended, and the rules of the Federal Communications Commission.
+Neither Azka Communication (SMC-Private) Limited nor its sole owner, Muhammad Yousaf, owns, controls, or
+holds any direct or indirect interest in any foreign telecommunications carrier. Likewise, no foreign
+telecommunications carrier owns, controls, or holds any direct or indirect interest in the company.
+Accordingly, the company certifies that there are no foreign countries in which the company is, or is affiliated
+with, a foreign carrier, as defined under the Communications Act of 1934, as amended, and the rules of the
+Federal Communications Commission.
+The company affirms that this certification is accurate as of the date of submission and agrees to promptly amend
+or supplement this disclosure in the event of any future change that would render it inaccurate or incomplete.
+Certification Pursuant to 47 C.F.R. §§ 1.2001 and 1.2002
+Regarding Denial of Federal Benefits under the Anti-Drug Abuse Act
+of 1988 (21 U.S.C. § 862)
+Certification
+Pursuant to Sections 1.2001 and 1.2002 of Title 47 of the Code of Federal Regulations, and in accordance with
+the requirements of Section 5301 of the
+Anti-Drug Abuse Act of 1988, as codified at 21 U.S.C. § 862, Azka Communication (SMC-Private) Limited
+hereby makes the following certification:
+The undersigned, on behalf of the company, hereby certifies that no party to the application, including but not
+limited to the company entity itself, any officer, director, principal, partner, member, manager, shareholder with a
+controlling interest, or any other controlling or attributable interest holder, is subject to a denial of Federal
+benefits pursuant to 21 U.S.C. § 862.
+12
+
+The company further certifies that neither the company nor any of its principals or controlling parties has been
+convicted of any offense under the Anti-Drug Abuse Act of 1988, or any related federal or state statute, that
+would result in the denial, suspension, or revocation of Federal benefits, licenses, authorizations, grants, or
+contracts administered by the Federal Communications Commission (FCC) or any other agency of the United
+States Government.
+Azka Communication (SMC-Private) Limited affirms that it has exercised due diligence and reasonable inquiry
+to ensure the accuracy of this certification and that it is made in good faith, with full awareness that false
+statements or misrepresentations may subject the company to penalties under applicable federal laws, including
+but not limited to 18 U.S.C. § 1001, and to potential enforcement action by the FCC.
+The company acknowledges its continuing obligation to maintain compliance with all applicable provisions of
+the Communications Act of 1934, as amended, the rules and regulations of the Federal Communications
+Commission, and all other applicable federal laws. The company further agrees to promptly notify the
+Commission should any material change occur that would render this certification inaccurate or incomplete.
+This certification is submitted in support of the company’s filing and is intended to satisfy the requirements of 47
+C.F.R. §§ 1.2001 and 1.2002 and 21 U.S.C. § 862, and any related rules, policies, or procedures of the Federal
+Communications Commission.
+13
+
+Declaration Under Penalty of Perjury
+Pursuant to 47 C.F.R. § 1.16
+I, Muhammad Yousaf, hereby declare under penalty of perjury, pursuant to Section 1.16 of Title 47 of the Code
+of Federal Regulations, that I am an officer and the duly authorized representative of Azka Communication
+(SMC-Private) Limited.
+I certify that I have examined the foregoing application, together with all exhibits, certifications, declarations,
+and appendices submitted in connection therewith, and that all statements of fact contained therein are true,
+correct, and complete to the best of my knowledge, information, and belief.
+I further certify that the company has not intentionally provided any false, misleading, or incomplete information
+and that all material facts relevant to the application have been fully disclosed. I understand that any false
+statement or misrepresentation made herein may be punishable by fine, imprisonment, forfeiture, or other
+penalties under applicable federal law, including but not limited to 18 U.S.C. § 1001 and the rules of the Federal
+Communications Commission.
+This declaration is executed in good faith and with full knowledge of the legal obligations and consequences
+associated with this certification.
+Name: Muhammad Yousaf
+Title: Chief Executive Officer
+Company Name: Azka Communication (SMC-Private) Limited
+Signature: _________________________________
+Date: 01-15-2026
++92 3004906063
+info@azkacommunication.com
+14
+
+APPENDICES
+Appexdix A: Upstreem Service Provider Agreement
+Please see the first attachment provided below
+Appexdix B-1: Customer Agreement (Buyer-1)
+Please see the second attachment provided below
+Appexdix B-2: Customer Agreement (Buyer-2)
+Please see the third attachment provided below.
+Appexdix C: Proof of Voluntary Registration
+Please see the fourth attachment provided below.
+Appexdix D: Additional Documents
+Please see the attachments provided below.
+15
+
+24/10/2025, 12:06 Terms and Conditions
+New Features/Promos (6) Welcome, Azka Communication $0.00 0
+My account Logout Add funds
+internet phone service
+PRODUCTS HOW IT WORKS FEATURES RATES SUPPORT CONTACT US
+MAKE CALLS RECEIVE CALLS SMS ALL SERVICES Search
+Dashboard Preferences Extensions SMS Forwarding Call Treatments IVR Click 2 Dial Phone Book Reports
+Home > Terms and Conditions
+TERMS AND CONDITIONS
+Customer Service Agreement
+This Customer Service Terms and Conditions Agreement ("Agreement") governs all the terms and conditions associated with a Customer's
+("you," "user" or "Customer") use of the residential communications services and any related products or services ("Service") offered by or
+through CALLCENTRIC, INC. ("we," "us" or "CALLCENTRIC").
+Online Acceptance
+Since signing up for CALLCENTRIC services is an online transaction, it is understood between CALLCENTRIC and the Customer that online
+acceptance of this Agreement will carry the same legal authorization as if the Customer is providing a handwritten signature of acceptance.
+Acceptable Usage Policy
+1. Services Provided.
+a. CALLCENTRIC offers the Customer, among other things, the ability to make local, domestic long distance and international
+telephone calls using software or hardware SIP phones. CALLCENTRIC currently offers four (4) types of services to its Customers:
+i. Customer may open a CALLCENTRIC Account and utilize the ability to make or receive calls to other CALLCENTRIC members,
+FREE of charge.
+ii. Customer may open a CALLCENTRIC Account and make calls on a "Pay-Per-Call" basis, the charges for which will be
+deducted from a pre-paid deposit made to Customers Account.
+iii. Customer may open a CALLCENTRIC Account and subscribe for a "Flat-Rate-Plan"* which will allow a Customer to make calls
+to a pre-set list of countries and or destinations (i.e. landline, mobile, selected country, selected city or service provider).
+Charges for the "Flat-Rate-Plan" will be billed as a re-occurring monthly service fee charged to Customers credit card/debit
+card or from positive account balance.
+iv. Customer may open a CALLCENTRIC Account and subscribe for a "Flat-Rate-Plan" to a pre-set list of country and or
+destinations (i.e. landline, mobile, selected country, selected city or service provider) in combination with the ability to make
+calls on a "Pay-Per-Call" basis, which will be charged separately from a pre-paid deposit made to Customers Account.
+Charges for the "Flat-Rate-Plan" will be billed as a re-occurring monthly service fee charged to Customers credit card/debit
+card or from positive account balance.
+A complete list of CALLCENTRIC services can be found on the Website (www.callcentric.com). CALLCENTRIC is not responsible for
+reimbursements for calls made with another service while CALLCENTRIC is temporarily unavailable.
+b. CALLCENTRIC does not currently offer sales of any telephone devices ("Devices") to be used in conjunction with its Services. If at
+any time hereafter CALLCENTRIC offers Devices to its Customer's for use with the CALLCENTRIC Services, You expressly
+acknowledge that the terms herein pertaining to the use of such Devices shall be applicable.
+2. Callcentric Provides 911 and E911 service.
+Callcentric provides 911 service across the United States, Canada, and Puerto Rico. Callcentric 911 Dialing service operates differently
+than traditional 911, you'll have to enter the street address where you will be using your Callcentric service when purchasing a rate plan
+or phone number. 911 service is not active on your account until you have received email notification stating that 911 service is active.
+Please see our 911/E911 Compliance Page and Frequently Asked Questions for more information on Callcentric's 911 service.
+3. Service Outages.
+a. Service Outages Due to Internet Outage or Suspension or Termination of Broadband Service or ISP Service. Service outages or
+suspensions or terminations of service by your broadband provider or ISP will prevent all Service.
+b. Service Outages Due to ISP or Broadband Provider Blocking of Ports or Other Acts. Your ISP or broadband provider or other third
+party may intentionally or inadvertently block the ports over which the Service is provided or otherwise impede the usage of the
+Service. In that event, provided that you alert CALLCENTRIC to this situation, we will attempt to work with you to resolve the
+issue. During the period that the ports are being blocked or your Service is impeded, and unless and until the blocking or
+impediment is removed or the blocking or impediment is otherwise resolved, your Service may not function. You acknowledge that
+CALLCENTRIC is not responsible for the blocking of ports by your ISP or broadband provider or any other impediment to your
+usage of the Service, and any loss of service that may result. In the event you lose service as a result of blocking of ports or any
+other impediment to your usage of the Service, you will continue to be responsible for payment of the Service charges unless and
+until you terminate the Service in accordance with this Agreement.
+https://www.callcentric.com/terms/ 1/6
+
+24/10/2025, 12:06 Terms and Conditions
+4. Residential Use of Service and Device. If you subscribe to CALLCENTRIC's residential services, the Service and the Device are
+provided to you solely for residential use. You shall not resell or transfer the Service or the Device to another party without our prior
+written consent. When subscribing to a residential Flat-Rate Plan, you are prohibited from using the Service or the Device for auto-
+dialing, continuous or extensive call forwarding, telemarketing (including, without limitation, charitable or political solicitation or polling),
+fax or voicemail broadcasting or fax or voicemail blasting. NO BUSINESS PURPOSE WHATSOEVER SHALL BE DEEMED A VALID USE OF
+THE RESIDENTIAL FLAT-RATE PLAN and CALLCENTRIC reserves the right to immediately terminate or modify your Service if we
+determine, in our sole and absolute discretion, that your use of the Service or the Device is, or at any time was, inconsistent with normal
+residential usage patterns. In addition, you will be required to pay our higher rates for commercial service for all periods in which your
+use of the Service or the Device was inconsistent with normal residential use. Utilization of the Service for a business purpose may only
+be accomplished through CALLCENTRIC's Pay-Per-Call, North America Basic, North America 500, and North America 1000 rate plans.
+5. Prohibited Uses.
+a. Unlawful. You shall use the Service and the Device only for lawful purposes. CALLCENTRIC reserves the right to immediately
+terminate your Service if, in our sole and absolute discretion, CALLCENTRIC determines that you have used the Service or the
+Device for an unlawful purpose. In the event of such termination, you will be responsible for the full month's charges to the end of
+the current term, including, without limitation, unbilled charges, plus a termination fee, if applicable, all of which will become
+immediately due and payable upon termination of your Service. CALLCENTRIC participates and operates in full compliance with all
+official Traceback Requests received from the Industry Traceback Group (ITG). If CALLCENTRIC believes that you have used the
+Service or the Device for an unlawful purpose, we may forward the relevant communication and other information, including your
+identity, to the appropriate authorities for investigation and prosecution. You hereby consent to our forwarding of any such
+communications and information to these authorities. In addition, CALLCENTRIC will provide information in response to law
+enforcement requests, including, but not limited to, subpoenas, court orders, and requests for wire taps etc, from the government
+under the Patriot Act, to protect it's rights and property and in the case where failure to disclose the information may lead to
+imminent harm to the customer or others.
+b. Inappropriate Conduct. You shall not use the Service or the Device in any way that is threatening, abusive, harassing, defamatory,
+libelous, deceptive, fraudulent, invasive of another's privacy, or any similar behavior. Providing altered, deceptive, or false
+information about the identity of the sender or a call's origin is expressly prohibited. CALLCENTRIC reserves the right to
+immediately terminate your Service if, in our sole and absolute discretion, CALLCENTRIC determines that you have used the
+Service or the Device in any of the aforementioned ways. In the event of such termination, you will be responsible for the full
+month's charges to the end of the current term, including, without limitation, unbilled charges, plus a termination fee, if applicable,
+all of which will become immediately due and payable upon termination of your Service. CALLCENTRIC participates and operates in
+full compliance with all official Traceback Requests received from the Industry Traceback Group (ITG). If CALLCENTRIC believes
+that you have used the Service or the Device in any of the aforementioned ways, CALLCENTRIC may forward the relevant
+communication and other information, including your identity, to the appropriate authorities for investigation and prosecution. You
+hereby consent to our forwarding of any such communications and information to these authorities. In addition, CALLCENTRIC will
+provide information in response to law enforcement requests, including, but not limited to, subpoenas, court orders and requests
+for wire taps etc, from the government under the Patriot Act, to protect it's rights and property and in the case where failure to
+disclose the information may lead to imminent harm to the Customer or others.
+c. Caller ID Name ("CNAM"). When available with the service(s) you have purchased from Callcentric, CNAM information will be
+presented on inbound calls, within the My Callcentric website, and within certain email communications. CNAM information is
+provided as is, and Callcentric does NOT assure, warrant, or assume any liability for the validity or accuracy of the CNAM
+information provided. The CNAM information provided by Callcentric may NOT be used for any of the following: collection of CNAM
+data for resale, licensing, or any re-distribution to another party; any form of auto-dialing to obtain bulk CNAM information;
+collection of CNAM data for any use other than the services provided directly by Callcentric. Customer acknowledges that all rights,
+title and interest to the CNAM information provided by Callcentric, regardless of the form of media in which it is contained, shall be
+the sole and exclusive property of, and are retained by, Callcentric and/or Callcentric's CNAM information suppliers.
+d. Traffic termination prohibited uses. CALLCENTRIC offers rate plans for terminating traffic, which may be used for business purposes
+such as the Pay Per Call, North America Basic, North America 500, and North America 1000 rate plans. These rate plans may not
+be used to send "cherry-picked" traffic to high-cost or rural call-termination areas, and are not designed for routing LCR (Least
+Cost Routing) traffic or for wholesale, re-sale, or carrier Customer purposes. CALLCENTRIC reserves the right to immediately
+suspend and/or terminate any Customer, service, or account it determines it is involved in sending cherry-picking traffic to
+CALLCENTRIC, and/or is involved in sending LCR traffic to CALLCENTRIC, and any determination shall be made at CALLCENTRIC's
+sole discretion.
+e. Toll-Free Origination Acceptable Use Policy. Callcentric offers Toll-Free numbers in the following Prefixes: 800, 833, 844, 855, 866,
+877, 888. All Toll-Free Numbers which are active on the Callcentric Network are subject to our "Toll-Free Origination Acceptable
+Use Policy"; regardless of whether the Toll-Free Number(s) are originally provided by Callcentric as a new DID or if they are ported
+onto the Callcentric Network from a third-party provider. As part of our Toll-Free Acceptable Use Policy, customers are prohibited
+from using Callcentric Toll-Free DIDs for abusive, fraudulent, harassing, defamatory, deceptive, or any similar behavior.
+Additionally, it is required that customers using Callcentric Toll-Free DIDs properly configure their accounts to successfully complete
+calls (either via receiving the calls directly to an Extension or IVR, Configuring your inbound toll-free calls to automatically forward
+to valid third-party numbers, connecting calls to Callcentric Voicemail, connecting calls to a third-party providers voicemail service,
+etc). Any Toll-Free Number provisioned to the Callcentric Network that is not completing greater than 10% of the total number of
+calls which are sent to said number and/or any Toll-Free number(s) that have greater than 10% of the total calls that they receive
+disconnect in less than one full minute (60 Seconds) from the time they originally connect; will be deemed in violation of the
+Callcentric Toll-Free Origination Acceptable Use Policy and as such could potentially become subject to an account review, having
+the toll-free numbers in question disconnected from active routing, or a suspension/cancellation of services.
+f. Third-party account verifications. Cycling through numbers for the sole or primary intent of completing verification or activation
+processes with unaffiliated, third-party services (i.e: Google, WhatsApp, Twitter, etc) is prohibited. CALLCENTRIC reserves the right
+to immediately terminate your Service if, in our sole and absolute discretion, CALLCENTRIC determines that you have used the
+Service in the aforementioned way.
+6. Tampering with the Service. You shall not attempt to hack or otherwise disrupt the Service or make any use of the Service that is
+inconsistent with its intended purpose.
+https://www.callcentric.com/terms/ 2/6
+
+24/10/2025, 12:06 Terms and Conditions
+7. Number Transfer: Customer may transfer or port-away from Callcentric any phone number on their account that is within the United
+States and/or Canada to another service provider at any time as long as the number(s) they wish to port remain on their account and
+active up to the date they are transferred to the new service provider. Customer must inform Callcentric of any port-outs of number(s)
+on their account and/or cancel the number(s) after they have ported to the new service provider or re-billing for services on those
+number(s) will continue. Numbers in countries outside the USA and Canada may be portable to other carriers, but Callcentric cannot
+provide specific information regarding the portability of numbers outside the USA and Canada.
+a. Vanity Toll-Free DIDs that were originally attained by Callcentric on behalf of a customer are subject to a "number unlock fee"
+before they can be ported to a third-party provider. If the customer attempts to port their Vanity Toll-Free Number(s) to a third-
+party provider within 6 months (180 days) from the date it was activated on the customer's account; a $15.00 per DID "number
+unlock fee" will need to be paid by the customer to Callcentric before the number will be released to the third-party provider that
+said customer is attempting to port to.
+b. Callcentric Dollar Unlimited DIDs are subject to a "number unlock fee" of $5.00 per DID before they can be ported from Callcentric
+to a third-party provider. Void of fully paying the per DID "number unlock fee"; Callcentric Dollar Unlimited DIDs will not be
+released (ported) to any third-party providers.
+c. Callcentric International Unlimited DIDs are subject to a "number unlock fee" of $15 per DID before they can be ported from
+Callcentric to a third-party provider. Void of fully paying the $15 per DID "number unlock fee"; Callcentric's International Unlimited
+DIDs will not be released (ported) to any third-party providers.
+d. Callcentric Dirt Cheap DIDs that are activated on a customer's account after 1/1/14 are subject to a "number unlock fee" of $5 per
+DID before they can be ported from Callcentric to a third-party provider. Void of fully paying the $5 per DID "number unlock fee";
+Callcentric's Dirt Cheap DIDs will not be released (ported) to any third-party providers.
+8. Service Distinctions. The Service is not a telecommunications service and CALLCENTRIC provides it on a best efforts basis. Important
+distinctions exist between telecommunications service and the Service offering that CALLCENTRIC provides. The Service is subject to
+different regulatory treatment than telecommunications service. This treatment may limit or otherwise affect your rights of redress
+before regulatory agencies.
+a. No 0+ or Operator Assisted Calling; May Not Support x11 Calling. The Service does not support 0+ or operator assisted calling
+(including, without limitation, collect calls, third party billing calls or calling card calls). The Service may not support 311, 511
+and/or other x11 services in one or more (or all) service areas.
+b. No Directory Listing. The phone numbers you obtain from CALLCENTRIC will not be listed in any telephone directories. As a result,
+someone with your phone number may not be able to utilize a reverse directory to lookup your name and/or address.
+9. Incompatibility With Other Services.
+a. Home Security Systems. The Service provided by CALLCENTRIC may not be compatible with home security systems. You may be
+required to maintain a telephone connection through your local exchange carrier in order to use any alarm monitoring functions for
+any security system installed in your home or business. You are responsible for contacting the alarm monitoring company to test
+the compatibility of any alarm monitoring or security system with the Service.
+b. Certain Broadband and Cable Modem Services. You acknowledge that the Service presently may not be compatible with other
+broadband service providers. You further acknowledge that some providers of broadband service may provide modems that
+prevent the transmission of communications using the Service. We do not warrant that the Services will be compatible with all
+broadband services and expressly disclaim any express or implied warranties regarding the compatibility of the Service with any
+particular broadband service.
+10. Service Availability. To access CALLCENTRIC's Services, the Customer must have access to a high-speed internet connection as well as
+one of the following: (i) a computer with speakers and microphone; or (ii) a headset or (iii) SIP device. CALLCENTRIC will not reimburse
+the Customer for any extra charges assessed by Customer's internet provider as a result of using their services to access CALLCENTRIC's
+Services.
+11. Opening an Account. In order to become a CALLCENTRIC customer, the Customer must complete in full an application form located on
+the Website (www.callcentric.com). As part of the application, the Customer will be required to provide CALLCENTRIC with a unique
+Username, and a password. CALLCENTRIC will then send the Customer an electronic notification (in the form of an e-mail message),
+containing a verification link to activate their CALLCENTRIC account.
+a. Credit References. CALLCENTRIC may refuse to provide services to a Customer if the Customer's credit is not deemed satisfactory
+which determination shall be made at CALLCENTRIC's sole discretion. NOTICE: CUSTOMER EXPRESSLY AUTHORIZES CALLCENTRIC
+AND/OR THIRD-PARTIES DESIGNATED BY CALLCENTRIC TO PERFORM A CREDIT CHECK AND / OR FRAUD SCORE BASED UPON
+THE INFORMATION PROVIDED IN THE APPLICATION FORM WHEN OPENING AN ACCOUNT AND THE ELECTRONIC SIGNATURE
+BELOW SHALL SERVE AS WRITTEN CONFIRMATION OF THIS AUTHORIZATION. ALL INFORMATION PROVIDED BY THE CUSTOMER
+SHALL REMAIN CONFIDENTIAL AND SHALL NOT BE DISSEMINATED TO ANY THIRD PARTIES EXCEPT TO THOSE THIRD-PARTY'S
+EXPRESSLY AUTHORIZED HEREIN.
+b. Usernames/Passwords. THE CUSTOMER IS SOLELY RESPONSIBLE FOR MAINTAINING THE CONFIDENTIALITY OF THEIR USERNAME
+AND PASSWORD. THE CUSTOMER EXPRESSLY AGREES TO BE LIABLE FOR ALL SERVICES CHARGED TO THEIR ACCOUNT WHETHER
+OR NOT CUSTOMER HAS AUTHORIZED SUCH USE. AS SUCH, CALLCENTRIC CANNOT BE HELD RESPONSIBLE FOR FRAUDULENT
+CHARGES THAT RESULT FROM THEFT OR FRAUDULENT USE OF THE CUSTOMERS ACCOUNT OR CREDIT CARD INFORMATION. If a
+Customer suspects that their Account, Username and/or Password is being used in an unauthorized manner, the Customer shall be
+required to contact CALLCENTRIC within twenty-four (24) hours of a Customer's suspicion or awareness that unauthorized use has
+occurred on their Account so that the appropriate modifications can be made to prevent any further unauthorized usage on that
+Account. ALL ACCOUNT INFORMATION WILL BE SENT TO THE E-MAIL ADDRESS PROVIDED BY THE CUSTOMER AT SIGN UP.
+Therefore, it is the Customer's responsibility to provide CALLCENTRIC with a secure e-mail address as CALLCENTRIC will not be
+responsible and shall be held harmless for any access to Customers Account by any unauthorized persons.
+12. Payment. SERVICES PROVIDED UNDER SECTION 1a(ii); (iii) and (iv) ARE PROVIDED ON A PRE-PAID BASIS ONLY. As a Customer uses
+CALLCENTRIC's services, their Account will be debited accordingly. No phone services will be provided if the Customer's Account does not
+https://www.callcentric.com/terms/ 3/6
+
+24/10/2025, 12:06 Terms and Conditions
+have a sufficient balance to cover the cost of the service requested. Notwithstanding the foregoing, a Customer with an insufficient
+balance to cover requested Pre-paid Services will still be able to utilize the free call between CALLCENTRIC subscribers.
+13. Recharging Account. In the event a Customer wants to use CALLCENTRIC's services in an amount, which exceeds the remaining
+balance in their Account, they may access the Website and recharge (or supplement) their Account by purchasing additional services.
+Customer also has the option of setting their account in auto-re-charge position with a predefined amount of automatic re-charge using
+the credit card information maintained on file with CALLCENTRIC. The Customer will receive an electronic confirmation/receipt from
+CALLCENTRIC of any such re-charge.
+14. Rates. CALLCENTRIC's rates are listed on its Website. You are responsible for checking all applicable rates/promotions before making
+any call using CALLCENTRIC's services. Please note that the rates for calls to certain numbers (e.g., mobile/special service numbers)
+may be higher than rates for calls to other numbers within the same country. CALLCENTRIC reserves the right, at its sole discretion, to
+modify these rates at any time and/or to offer or discontinue special promotions. Rates are based on country code and city code, not
+country name. While CALLCENTRIC endeavors to maintain rates that are competitive in the market, CALLCENTRIC does not guarantee
+that its rates will change in any predictable fashion. In addition, should market conditions or factors outside of CALLCENTRIC control
+raise its costs or wholesale rates to some or all service destinations, CALLCENTRIC reserve the right to adjust its rates accordingly.
+15. Rate Changes. CALLCENTRIC RESERVES THE RIGHT, AT ITS SOLE DISCRETION, TO MODIFY ITS RATES, MONTHLY FEES, SURCHARGES,
+AS WELL AS ANY OTHER FEES COLLECTED BY OR PAID TO CALLCENTRIC UNDER THE TERMS OF THIS AGREEMENT. If a Customer
+chooses to terminate their Account as a result of changes in CALLCENTRIC's prices, the Customer must CANCEL their account no later
+than the twenty-sixth (26) day of the month. You must then e-mail customer support or open a trouble ticket to request a refund of any
+funds within your balance. If CALLCENTRIC does not receive notification by the Customer by the twenty-sixth (26) day of the month the
+Customer's account will be charged for the next monthly billing cycle. Any unused balance in a Customer's Account will be credited back
+to the credit card on file with CALLCENTRIC in accordance with CALLCENTRIC's Money Back Guarantee Policy.
+16. Monthly User Fee. If a Customer subscribed for a rate plan or service with a monthly fee, this fee will be charged regardless of whether
+a Customer uses their Account to make any telephone calls, or uses the service in a given month.
+17. Email Notification. The Customer is responsible for both maintaining a current and operational e-mail address and for reading all e-
+mail notices from CALLCENTRIC. It is expressly understood by you that e-mail notification will be the only manner by which
+CALLCENTRIC will communicate with you regarding updates to its services and information pertaining to your Account. You may also
+view information regarding your Account by logging into your CALLCENTRIC Account on the CALLCENTRIC website.
+18. Consent to e-Mail Communications. By entering into this Agreement, you consent to both the receipt of electronic mail ("e-mail")
+from CALLCENTRIC and that e-mail communication shall be the sole manner by which CALLCENTRIC shall contact Customer. In addition
+to sending a Customer e-mail notifications as provided for above, CALLCENTRIC may also send a Customer e-mails about services and
+products the Company believes may be of interest to you. A Customer may opt-out of future e-mails about products or services by
+contacting CALLCENTRIC by opening a trouble ticket or in writing. CALLCENTRIC reserves the right, however, to continue to e-mail
+Customer important information relating to their Account, this Agreement or other regulatory communications.
+19. Billing.
+a. When the service is activated, you must provide CALLCENTRIC with a valid email address and a credit or debit card number from a
+card issuer that we accept. CALLCENTRIC reserves the right to stop accepting credit or debit cards from one or more issuers. If
+your credit or debit card expires, you close your account, your billing address changes, or your credit or debit card is cancelled and
+replaced on account of loss or theft, you must advise CALLCENTRIC at once. CALLCENTRIC will bill all charges, applicable taxes and
+surcharges monthly in advance (except for usage-based charges, which will be billed monthly in arrears, and any other charges
+which we decide to bill in arrears) to your credit or debit card, including but not limited to:
+i. activation fees;
+ii. monthly Service fees;
+iii. international usage charges;
+iv. advanced feature charges;
+v. equipment purchases;
+vi. termination fees; and
+vii. shipping and handling charges.
+The amount of such fees and charges shall be published on CALLCENTRIC's website and may change from time to time.
+Notification of monthly statements will be sent to you via your email address on file with CALLCENTRIC. We reserve the right to bill
+at more frequent intervals if the amount you owe to us at any time exceeds $50.
+b. Billing Increments. Charges for telephone calls are measured in whole minutes. Any usage charges will be billed in increments that
+are rounded up to the nearest minute except as otherwise set forth in the rate schedules found on our website. Timing on calls
+begins when the call is answered by the called party. Timing terminates on calls when the calling party hangs up or CALLCENTRIC's
+network receives an "on-hook" signal from the terminating carrier. CALLCENTRIC will not, and is not obligated to, provide refunds
+for any calls made using its service.
+c. Billing Information. CALLCENTRIC does not send any statements to its customers. Instead, the Customer is responsible to view
+their statements using their secure USERNAME and PASSWORD to access their billing information, which shall be available on
+CALLCENTRIC's website for the current month and prior three (3) months only. This information is available on the Website twenty-
+four (24) hours a day seven (7) days a week. (For example, if a Customer reviews their statement information in April, they will be
+able to see charges for April as well as the preceding months of March, February, and January. The customer is responsible for
+printing out their monthly statements, and CALLCENTRIC will not provide monthly statements beyond what is available online.
+d. Billing Disputes. A Customer must notify CALLCENTRIC by e-mail or by opening a trouble ticket on the CALLCENTIRIC website of
+any disputed charges within thirty (30) days of the charge being posted to their Account. CALLCENTRIC will attempt to resolve all
+disputes within thirty (30) days of being notified of a dispute. To the extent CALLCENTRIC determines, at its sole discretion, that a
+billing adjustment is warranted, a Customer's Account will be credited accordingly. If a Customer fails to notify CALLCENTRIC of a
+billing dispute as noted above, the Customer shall expressly waive all rights to bring any claim against CALLCENTRIC regarding a
+disputed charge. This Section does not waive Customers responsibility to notify CALLCENTRIC of unauthorized use of its Account,
+Password or Username within the period and by method set forth in Section Eleven B (11b) herein.
+https://www.callcentric.com/terms/ 4/6
+
+24/10/2025, 12:06 Terms and Conditions
+20. Ownership of Account. CALLCENTRIC will not make any adjustments to a Customer's Account information nor send the Username or
+Password unless provided with both the first and last four (4) digits of a Customer's credit card number on file, the answer to the
+security question chosen by Customer, and/or any other information CALLCENTRIC deems necessary at its sole discretion. A Customer
+can request their password be sent to them at any time via email by clicking the "Forgot Password" link on the sign-in page. If you
+cannot provide this information, CALLCENTRIC will close your Account and credit the balance using the credit card information of file. You
+can always cancel your Account by logging into the CALLCENTRIC website at www.callcentric.com.
+21. Expiration. A Customer's account shall refresh monthly until Cancelled with CALLCENTRIC in accordance with the terms set forth in this
+Agreement. Notwithstanding the foregoing; Callcentric reserves the right, in its sole discretion, to cancel or de-activate any account that
+has been inactive for an extended period of time. This clause is applicable to both standard Callcentric Accounts as well Callcentric Agent
+Accounts (CAP Program Accounts).
+22. Termination.
+a. Discontinuance of Service. CALLCENTRIC reserves the right to suspend or discontinue the Service generally, or to terminate your
+Service, at any time in our sole and absolute discretion. If we discontinue the Service generally, or terminate your Service without
+a stated reason, you will only be responsible for charges accrued through the date of termination, including a pro-rated portion of
+the final month's charges. If your Service is terminated on account of your breach of any provision of this Agreement, you will be
+responsible for the full month's charges to the end of the current term, including, without limitation, unbilled charges, plus the
+termination fee, if applicable, all of which will immediately become due and payable. Accounts that have been cancelled/disabled as
+a result of using the service for fraud, scams, or any other nefarious purposes (determined in our sole and absolute discretion); are
+not eligible for refunds under any circumstance.
+b. Cancellation. A customer may discontinue CALLCENTRIC's Free-Services or Pre-Paid Services at any time upon notice (either
+electronic or written) to CALLCENTRIC. The Company will then shut down all access to Customers Account. The unused balance will
+be credited back to you are the Customers credit card in accordance with our Money Back Guarantee Policy.
+CALLCENTRIC reserves the right, at its sole discretion and for any reason, to (a) terminate this Agreement and the Customers
+access to its Service and/or (b) to refuse to allow the Customer to re-charge their Pre-Paid Account. If fraud is suspected,
+CALLCENTRIC has the right to put an account immediately on hold until investigation into the fraud is completed.
+23. International Calls. Although the quality of international telephone calls has improved greatly in recent years, calls to certain countries
+outside the United States can be interrupted as a result of service/network issues in those countries. CALLCENTRIC will attempt to
+identify any such issues, with the cooperation of the Customer. All necessary information must be provided including date, time,
+origination number and destination number. However, CALLCENTRIC WILL NOT REFUND ANY CHARGES FOR SUCH INTERRUPTED CALLS.
+24. Government Taxes. CALLCENTRIC reserves its right to pass through to the Customer any new government taxes, fees or surcharges
+that shall appear as an additional itemized charge on Customer's Account.
+25. Agents. CALLCENTRIC does not authorize any third-party agents or resellers to sell CALLCENTRIC services, electronically or through
+phone cards, unless specifically authorized by CALLCENTRIC. If contacted by an agent, a Customer is required to contact CALLCENTRIC
+to confirm that the contacting agent is licensed and authorized by CALLCENTRIC to provide these services. If a Customer fails to confirm
+authorization of a third-party agent or reseller of CALLCENTRIC, Customer cannot hold CALLCENTRIC liable and expressly releases
+CALLCENTRIC from any representation made by an unauthorized third-party agent or reseller.
+26. Access to Third-Party Vendors. CALLCENTRIC Customers may also purchase various products and services from third-party vendors
+by accessing those third-party vendors directly through CALLCENTRIC's Website via click throughs or hyperlinks. CALLCENTRIC is not
+responsible for the contents of any linked site, the products/services offered through those sites, any link to other sites contained in a
+linked site, or any changes or updates to such sites. CALLCENTRIC provides these links to you only as a convenience, and the inclusion
+of any link does not imply endorsement, guarantee or warranty (either expressed or implied) by CALLCENTRIC of the site or the
+products/services offered through that site.
+27. Customer Service. If a Customer has any questions, concerns or complaints about the services, provided by CALLCENTRIC they may
+contact CALLCENTRIC's Customer Service Department 24 hours a day, 7 days a week by opening a Trouble Ticket.
+28. No Third Party Beneficiaries. No provision of this Agreement provides any person or entity not a party to this Agreement with any
+remedy, claim, liability, reimbursement, or cause of action or creates any other third party beneficiary rights.
+29. Limitation of Liability. CALLCENTRIC SHALL NOT BE LIABLE FOR DAMAGES ARISING OUT OF OR IN ANY WAY RELATED TO THE
+SERVICES FURNISHED PURSUANT TO THIS AGREEMENT, INCLUDING BUT NOT LIMITED TO MISTAKES, OMISSIONS, INTERRUPTIONS,
+DELAYS, DEFECTS AND/OR ERRORS IN TRANSMITTING, RECEIVING, ORIGINATING, TERMINATING AND/OR DELIVERING TELEPHONE
+CALLS (including E911 calls), REGARDLESS OF THE NATURE OF THE CLAIM. CALLCENTRIC WILL NOT BE LIABLE UNDER ANY
+CIRCUMSTANCES FOR ANY SPECIAL, CONSEQUENTIAL, INCIDENTAL, AND EXEMPLARY OR PUNITIVE DAMAGES, OR LOSS OF PROFIT OR
+REVENUES, EVEN IF CALLCENTRIC HAS BEEN SPECIFICALLY ADVISED OF THE POSSIBILITY OF SUCH DAMAGES IN ADDITION,
+CALLCENTRIC SHALL NOT BE LIABLE UNDER ANY CIRCUMSTANCES FOR DAMAGES ARISING OUT OF OR IN ANY WAY RELATED TO
+PRODUCTS, SERVICES AND/OR INFORMATION OFFERED OR PROVIDED BY THIRD-PARTY VENDORS ACCESSED THROUGH THE WEBSITE
+OR BY ANY OTHER MEANS.
+30. No Warranties. CALLCENTRIC DOES NOT MAKE ANY WARRANTIES OF ANY KIND, EITHER EXPRESSED OR IMPLIED, WITH REGARD TO
+THE MERCHANTABILITY, TECHNICAL COMPATIBILITY OR FITNESS FOR A PARTICULAR PURPOSE WITH REGARD TO ANY SERVICE,
+PRODUCTS OR MATERIAL PROVIDED FOR PURSUANT TO THIS AGREEMENT.
+31. Force Majeure. CALLCENTRIC shall not be liable for its failure to perform its obligations under this Agreement if such failure is the
+result of a force majeure, including but not limited to acts of God, fire, strikes, explosions, power failure, earthquake, flood, water, labor
+disputes, terrorism, failure of any satellite or other connecting telecommunications facilities, or any other matter beyond the reasonable
+control of CALLCENTRIC.
+32. Indemnity. Customer agrees to indemnify, defend and hold CALLCENTRIC, its officers, directors, employees, agents, shareholders,
+licensors, suppliers and any third party information providers to the Website, from and against all claims, actions, proceedings,
+expenses, damages and liabilities, including attorneys fees, which are the result of, or are in any way related to, Customers use of the
+https://www.callcentric.com/terms/ 5/6
+
+24/10/2025, 12:06 Terms and Conditions
+Website, CALLCENTRIC's services, and/or your transactions/communications with third-party vendors initiated via the Website.
+33. Exclusive Jurisdiction and Venue. Any suit involving any dispute or matter arising under this Agreement may only be brought in the
+United States District Court, Eastern or Southern Districts of New York located in the State of New York or the Supreme Court of the
+State of New York, County of New York, which shall have jurisdiction over the subject matter of the dispute or matter. Customer hereby
+expressly consents to the exercise of personal jurisdiction by any such court with respect to any such proceeding and waive any
+objection to venue or inconvenient forum and to the waiver of any right to bring, represent or join any class action of any kind in court or
+in arbitration or seek to consolidate or bring previously consolidated claims in Court. THE CUSTOMER FURTHER EXPRESSLY WAIVES ANY
+RIGHT OF ANY RIGHT TO A JURY TRIAL, TO RAISE COUNTERCLAIMS OR TO ASSERT THE DEFENSE OF SETOFF IN ANY CLAIM FILED BY
+CALLCENTRIC UNDER THE TERMS OF THIS AGREEMENT.
+34. Trademarks. All corporate names, service marks, logos, trade names, trademarks, websites and domain names of CALLCENTRIC,
+including but not limited to "CALLCENTRIC" and "callcentric.com" (collectively "Marks") are and shall remain the exclusive property of
+CALLCENTRIC and nothing in this Agreement shall grant Customer the license to use such Marks without the express written permission
+of CALLCENTRIC.
+35. Assignment. CALLCENTRIC may assign its rights and duties under this Agreement to any party at any time without notice to the
+Customer. A Customer may not assign their rights and duties under this Agreement without the express written permission of
+CALLCENTRIC, and such permission and/or authorization shall be in the sole discretion of CALLCENTRIC.
+36. Severability. If any provision of this Agreement is held to be invalid, illegal or unenforceable, the remaining provision will of this
+Agreement will continue in full force and effect.
+37. Integration - Entire Agreement. This Agreement, together with any written amendments or written modifications, will constitute the
+entire agreement between Customer and CALLCENTRIC with respect to the services provided hereunder and will supersede and replace
+all prior or contemporaneous understandings or agreements, written, electronic or oral, between you and CALLCENTRIC.
+38. Governing Law. This Agreement, and all modifications/amendments thereto, shall be governed by the law of the State of New York.
+39. Waiver. CALLCENTRIC's failure to insist upon or enforce strict performance of any provision of this Agreement shall not be construed as
+a waiver of any provision hereof nor CALLCENTRIC right to enforce a provision upon the Customer.
+40. Term. The term of this Agreement shall be from the inception of a Customers Account until termination.
+41. Privacy Policy. To learn about how CALLCENTRIC protects the Customers personal information, refer to CALLCENTRIC's Privacy Policy
+on the Website.
+42. Compliance with Laws. CALLCENTRIC shall comply with all applicable federal, state and local laws and/or regulations regarding the
+provision of the services provided for under this Agreement.
+43. Use. Customer agrees to use CALLCENTRIC's service in a lawful manner, which is consistent with the terms and conditions of this
+Agreement and all applicable federal, state and local laws and/or regulations. Additionally, customer agrees to use CALLCENTRIC's
+service in full accordance with all regulations set forth by organizations including (but not limited to) the CTIA, Mobile Marketing
+Association, and any applicable telecommunications industry groups. CALLCENTRIC reserves the right to immediately, and without
+notice, terminate, or otherwise discontinue, a Customer's Account in the event it determines that a Customer has violated any such
+term, condition, law and/or regulation.
+44. Content. You will be liable for any and all liability that may arise out of the content transmitted by you or to any person, whether
+authorized or unauthorized, using your Service or Device (each such person, a "User"). You shall assure that your and your User's use of
+the Service and content comply at all times with all applicable laws, regulations and written and electronic instructions for use.
+CALLCENTRIC reserves the right to terminate or suspend your Services and remove you or your Users' content from the Service, if we
+determine, in our sole and absolute discretion, that such use or content does not conform with the requirements set forth in this
+Agreement or interferes with our ability to provide Services to you or others. CALLCENTRIC's action or inaction under this Section will not
+constitute any review or approval of you or your Users' use or content.
+45. Legalility. CALLCENTRIC MAKES NO WARRANTIES OR REPRESENTATIONS OF ANY KIND THAT THE SERVICES, TECHNOLOGY OR
+EQUIPMENT BEING PROVIDED IS LEGAL OR ALLOWED IN YOUR HOME COUNTRY, OR THE COUNTRY YOU ARE PLACING CALLS FROM.
+CALLCENTRIC IS NOT RESPONSIBLE FOR VERIFYING LOCAL/NATIONAL LAWS AND IT IS UP TO YOU TO DETERMINE IF USING THE
+CALLCENTRIC SERVICE IS LEGAL IN YOU COUNTRY/JURISDICTION. BY ACCPETING SERVICE UNDER THE TERMS OF THIS AGREEMENT
+YOU ARE EXPRESSLY RELIEVING CALLCENTRIC FROM ANY LIABILITY ARISING UNDER THE TERMS OF THIS PROVISION.
+46. Modifications/Amendments. This Agreement may be modified or amended by CALLCENTRIC at any time. Unless otherwise provided,
+all such modifications or amendments shall be effective immediately upon posting on the Website under Terms and Conditions.
+Furthermore, you will be asked to verify acceptance of these terms when you initially signup for your account. YOUR CONTINUED USE OF
+YOUR ACCOUNT WILL BE CONCLUSIVELY DEEMED TO BE AN EXPRESS ACKNOWLEDGEMENT AND ACCEPTANCE OF THIS AGREEMENT
+AND ANY MODIFICATIONS.
+--Updated January 14, 2023
+© 2025 Callcentric, Inc. About Us | Privacy Policy | Terms & Conditions | Money Back Guarantee | 911/E911 | Contact Us | Agent Program
+https://www.callcentric.com/terms/ 6/6
+
+COMMUNICATIONS
+Service Use
+I agree to be solely responsible for the contents of our transmissions through the Services.
+I agree not to use the Services for illegal purposes or for the transmission of material that is unlawful, harassing,
+libelous, invasive of another's privacy, abusive, threatening, harmful, vulgar, obscene, or otherwise objectionable,
+contains viruses, or that infringes or may infringe the intellectual property or other rights of another.
+Azka Communication (SMC-Private) Limited acts as a passive conduit for us to send and receive communications and
+information of our choice and Azka Communication (SMC-Private) Limited has no control over the content of any
+transmission nor will it be liable for such content.
+I agree not to use the Services for the transmission of unsolicited messages, spamming emails.
+I agree that I shall not, at any time, use the Service for any abusive purpose or in any way which interferes with our
+ability to provide service to other customers or restricts other customers from using the Service, or damages any
+Azka Communication (SMC-Private) Limited or other customers’ property.
+I acknowledge and agree that, by using the Service, I may be exposed to content others send that is objectionable,
+offensive, or indecent.
+I understand and agree that Azka Communication (SMC-Private) Limited has no control over the content of any audio,
+video or text transmissions relayed to us through the Service and I agree to hold Azka Communication (SMC-Private)
+Limited harmless for any harm suffered due to the content relayed to us through this Service.
+Moreover, I agree to Azka Communication (SMC-Private) Limited reserves the right to restrict phone calls to any
+telephone number in its sole discretion.
+I will abide by all applicable local, state, national and international laws and regulations of countries of all phone call
+participants connected using the Service.
+I shall not violate any U.S. or foreign export control laws.
+I shall no transmit any material that contains Trojan horses, viruses, or any other programs that may be harmful or
+dangerous.
+I shall not attempt to hack or otherwise disrupt the Service or make any use of the Service that is inconsistent with
+its intended purpose.
+I shall not attempt to gain unauthorized access to the Service, other accounts, computer systems or networks
+connected to the Service by any means.
+Collect information about other people without their consent. Create a false identity or to otherwise attempt to
+mislead any person as to the identity or origin of any communication.
+Misrepresent or otherwise attempt to mislead any person as to our information or otherwise engage in fraudulent
+or deceptive conduct.
+1
+
+COMMUNICATIONS
+Transmit any material that may infringe the intellectual property rights or other rights of Third parties, including
+without limitation, trademarks, trade secrets or copyrights;
+Azka Communication (SMC-Private) Limited may delete any Content that in the sole assessment of Azka
+Communication (SMC-Private) Limited violates this agreement or that may be offensive, illegal or violate the rights,
+harm, or threaten the safety of any person.
+Azka Communication (SMC-Private) Limited assumes no responsibility for monitoring the Azka Communication (SMC-
+Private) Limited Services for inappropriate Content or conduct.
+Use of Predictive Dialers, Auto Dialers, Telemarketing Devices, Lead Generators and other similar programs is
+prohibited.
+All calls made using such programs will be charged $2 per minute rate (60/60 billing interval) and $0.1 per dial
+attempt.
+In accordance with the Digital Millennium Copyright Act in appropriate situation Azka Communication (SMC-Private)
+Limited will terminate our service if I violate the copyrights of third-parties.
+Azka Communication (SMC-Private) Limited may or may not attempt to contact us, in its sole discretion, prior to
+such service suspension or termination.
+Jarrar Ali Jaffery (CEO)
+(551) 355-3322
+LifecureUsd.com
+2
+
+Service Use
+I agree to be solely responsible for the contents of your transmissions through the Services.
+I agree not to use the Services for illegal purposes or for the transmission of material that is unlawful,
+harassing, libelous, invasive of another's privacy, abusive, threatening, harmful, vulgar, obscene, or
+otherwise objectionable, contains viruses, or that infringes or may infringe the intellectual property or
+other rights of another.
+Azka Communication acts as a passive conduit for us to send and receive communications and
+information of our choice and Azka Communication has no control over the content of any
+transmission nor will it be liable for such content.
+I agree not to use the Services for the transmission of unsolicited messages, spamming emails.
+I agree that you shall not, at any time, use the Service for any abusive purpose or in any way which
+interferes with our ability to provide Service to other customers or restricts other customers from
+using the Service, or damages any Azka Communication or other customer's property.
+I acknowledge and agree that, by using the Service, I may be exposed to content others send me that
+is objectionable, offensive, or indecent.
+I understand and agree that Azka Communication has no control over the content of any audio, video
+or text transmissions related to us through the Service and I agree to hold Azka Communication
+harmless for any harm suffered due to the content relayed to you through this Service. Moreover, you
+agree to Azka Communication reserves the right to restrict phone calls to any telephone number in its
+sole discretion.
+I will abide by all applicable local, state, national and international laws and regulations of countries of
+all phone call participants connected using the Service.
+I shall not violate any U.S. or foreign export control laws and shall not transmit any material that
+contains Trojan horses, viruses or any other programs that may be harmful or dangerous.
+I shall not attempt to hack or otherwise disrupt the Service or make any use of the Service that is
+inconsistent with its intended purpose.
+I shall not attempt to gain unauthorized access to the Service, other accounts, computer Systems or
+networks connected to the Service by any means or collect information about other people without
+their consent.
+Create a false identity or to otherwise attempt to mislead any person as to the identity or origin of
+any communication.
+Misrepresent or otherwise attempt to mislead any person as to your information or otherwise engage
+in fraudulent or deceptive conduct.
+
+Transmit any material that may infringe the intellectual property rights or other rights of
+third-parties, including without limitation, trademarks, trade secrets or copyrights;
+• Azka Communication may delete any Content that in the sole assessment of Azka
+Communication violates this Agreement or that may be offensive, illegal or violate the rights, harm, or
+threaten the safety of any person.
+• Azka Communication assumes no responsibility for monitoring the Azka Communication
+Services for inappropriate Content or conduct.
+• Use of Predictive Dialers, Auto Dialers, Telemarketing Devices, Lead Generators and other
+similar programs is prohibited.
+• All calls made using such programs will be charged $2 per minute rate (60/60 billing interval)
+and $0.1 per dial attempt.
+• In accordance with the Digital Millennium Copyright Act in appropriate situation Azka
+Communication will terminate our Service if we violate the copyrights of third-parties.
+• Azka Communication may or may not attempt to contact us, in its sole discretion, prior to
+such service suspension or termination.
+_______________________________ +1(251) 335-0084
+Afaq Ali Khan info@aveniattb.com
+CEO
+
+10/21/25, 6:50 PM Information for Telecommunications Providers | NH Department of Energy
+ Change Site Language  Search The Site
+New Hampshire
+Department of Energy
+ OPEN MENU
+Information for Telecommunications Providers
+The New Hampshire Department of Energy has limited regulatory authority over the telecommunications industry.
+State law and rules require excepted local exchange carriers (ELECs) to register with the Department of Energy. ELECs include all incumbent
+local exchange carriers, competitive local exchange carriers, intrastate toll providers, pay phone providers, and any other provider of
+telecommunications voice services, with the exception of those providers of telephone service to customers using VoIP or IP-enabled
+technology. VoIP or IP-enabled providers may voluntarily register with the Department to obtain evidence of their rights and obligations under
+the Communications Act of 1934, as amended.
+The Department does not regulate providers of wireless or cellular phone service, providers of VoIP or IP-enabled service, out-of-state long-
+distance service, or internet or broadband service.
+The Department administers telephone numbering resources, striving to preserve New Hampshire's 603 area code, sets standards for utility
+pole attachments, and may monitor relationships between telephone utilities for compliance with federal and state requirements for carrier
+interconnection and accessibility on nondiscriminatory rates, terms, and conditions.
+Quick Links
+Forms for Telecom Providers
+Frequently Asked Questions
+Statutes Governing Telecommunications Providers
+New Hampshire
+Department of Energy
+21 South Fruit Street, Suite 10 | Concord, NH | 03301
+(603) 271-3670 | TDD Access: Relay NH | 1-800-735-2964
+energy-info@energy.nh.gov | Driving Directions
+About Us
+Contact Us
+Employment Opportunities
+Twitter
+NH Government Careers
+NH Travel & Tourism
+NH Web Portal - NH.gov
+ReadyNH.gov
+https://www.energy.nh.gov/utilities-providers/information-telecommunications-providers 1/2
+
+10/21/25, 6:50 PM Information for Telecommunications Providers | NH Department of Energy
+Transparent NH
+© 2025 State of New Hampshire • All rights reservedAN OFFICIAL NEW HAMPSHIRE GOVERNMENT WEBSITE
+Accessibility Policy | Privacy Policy
+https://www.energy.nh.gov/utilities-providers/information-telecommunications-providers 2/2
+
+60 Columbia Road
+Bldg A - 2nd Floor
+Morristown, NJ 07960
+Friday, October 31, 2025
+Muhammad Yousaf
+East Residence Angah, Khushab
+Punjab, Pakistan 41140
+Phone: (92300) 490-6063
+Email: yousaf@azkacommunication.com
+Dear Muhammad Yousaf
+This letter confirms your request for the company code(s) listed below:
+Company Code Company Name Category
+932L Azka Communication (SMC-Private) IPES
+Limited
+If you have any questions, please contact the Company Code Administrator on (973) 884-8105
+or at ccfees@neca.org. For future code requests, please use our online ordering system, or print
+the latest version of the company code request form from our website at http://www.neca.org/
+Sincerely,
+Panchali Das
+Product Manager - Tariff No. 4
+Panchali Das · Phone: 973-884-8494 ·Fax: 973-884-8082 · Email: pdas@neca.org
+
+SECURITIES AND EXCHANGE COMMISSION OF PAKISTAN
+Business Centre at Head Office Islamabad
+CERTIFICATE OF INCORPORATION
+[Under section 16 of the Companies Act, 2017 (XIX of 2017)]
+Corporate Unique Identification No. 0287578
+I hereby certify that AZKA COMMUNICATION (SMC-PRIVATE)
+LIMITED is this day incorporated under the Companies Act, 2017 (XIX of 2017)
+and that the company is Limited by shares.
+Given at Islamabad this Tenth day of March, Two Thousand
+and Twenty Five
+https://leap.secp.gov.pk/#/verify-company-info/0287578
+This is an electronically generated document and does not require a physical signature
+Disclaimer: This certificate of incorporation is not a permission to accept deposits from the general public by offering fake jobs/investment packages and
+return thereon, indulge in leasing/ financing of vehicles and household products etc., MLM, Pyramid and Ponzi Schemes, Lottery Business, trading in
+forex and virtual currencies or any other unlawful business activities

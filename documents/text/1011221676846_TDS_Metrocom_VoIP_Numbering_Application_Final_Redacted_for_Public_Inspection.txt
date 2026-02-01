@@ -1,0 +1,153 @@
+October 11, 2024
+VIA ECFS AND EMAIL
+Marlene H. Dortch, Secretary
+Federal Communications Commission
+45 L Street NE
+Washington, DC 20554
+Re: Request for Confidential Treatment, Application of TDS
+Metrocom, LLC for Authority to Obtain Numbering
+Resources Pursuant to Section 52.15(g) of the
+Commission’s Rules
+Dear Ms. Dortch:
+Pursuant to section 52.15(g) of the Commission’s rules, TDS Metrocom, LLC (“TDS
+Metrocom”) hereby submits the enclosed application for authorization to obtain numbering
+resources and requests confidential treatment of Exhibits A-2, A-3, and B contained therein.
+Consistent with sections 0.457 and 0.459 of the Commission’s rules,1 TDS Metrocom has labeled
+the relevant exhibits “Confidential – Not for Public Inspection.”
+TDS Metrocom respectfully requests confidential treatment for Exhibits A-2 and A-3,
+which contain evidence of TDS Metrocom’s compliance with its 911 obligations under part 9 of
+the Commission’s rules, as well as with the provisions of the Communications Assistance with
+Law Enforcement Act, 47 U.S.C. § 1001 et seq (“CALEA”). These Exhibits contain commercially
+sensitive agreements between TDS Metrocom and its 911 service provider, as well as
+technologically sensitive diagrams showing how TDS Metrocom complies with CALEA.
+Additionally, TDS Metrocom respectfully requests confidential treatment for Exhibit B,
+which contains the interconnect agreement between TDS Metrocom and its Competitive Local
+Exchange Carrier (“CLEC”) partner. This Exhibit contains commercially sensitive pricing
+information and proprietary technical information that TDS Metrocom does not make publicly
+available in the normal course of business.
+1 See 47 CFR §§ 0.457, 0.459.
+
+Marlene H. Dortch, Secretary
+October 11, 2024
+Page 2
+TDS Metrocom therefore requests that the information in Exhibits A-2, A-3, and B be
+withheld from public inspection pursuant to Exemption 4 of the Freedom of Information Act
+(“FOIA”) and section 0.457 of the Commission’s rules.2
+In support of this request, TDS Metrocom provides the following information, as required
+by sections 0.457(d)(2) and 0.459(b) of the Commission’s rules.3
+1. Identification of the specific information for which confidential treatment
+is sought.
+TDS Metrocom requests that Exhibits A-2, A-3, and B be withheld from public
+disclosure under 5 U.S.C. § 552(b)(4) and 47 CFR § 0.457(d)(2). These Exhibits
+contain proprietary and commercially sensitive information concerning TDS
+Metrocom’s commercial agreement with its 911 service provider, technical diagrams
+showing how TDS Metrocom complies with CALEA, and the pricing and terms of the
+agreement between TDS Metrocom and its CLEC partner to serve as TDS Metrocom’s
+homing tandem and to route local and access traffic (both originating and terminating)
+to the public switched telephone network (“PSTN”).
+2. Identification of the Commission proceeding in which the information
+was submitted or a description of the circumstances giving rise to the
+submission.
+TDS Metrocom is submitting Exhibits A-2, A-3, and B with its application for
+numbering resources as proof that it complies with its 911 obligations under part 9 of
+the Commission’s rules, as well as with the provisions of CALEA, pursuant to section
+52.15(g)(3)(ii)(E) of the Commission’s rules, and as proof that it is capable of providing
+service within sixty days of the numbering resources activation date, pursuant to
+section 52.15(g)(3)(ii)(H) of the Commission’s rules.
+3. Explanation of the degree to which the information is commercial or
+financial, or contains a trade secret or is privileged
+Exhibits A-2 and A-3 contain business confidential agreements between TDS
+Metrocom and its 911 service provider, and technical diagrams showing how TDS
+Metrocom transmits voice traffic to the PSTN in compliance with CALEA. Exhibit B
+contains the interconnect agreement between TDS Metrocom and its CLEC partner
+with confidential pricing and technical terms. This information is subject to
+exemption from public disclosure under FOIA Exemption 4.4 The Commission has
+2 See 5 U.S.C. § 552(b)(4); see also 47 CFR § 0.457(d)(2).
+3 See 47 CFR §§ 0.457(d)(2), 0.459.
+4 See 5 U.S.C. § 552(b)(4).
+
+Marlene H. Dortch, Secretary
+October 11, 2024
+Page 3
+long held that, for the purposes of Exemption 4, “records are ‘commercial’ as long as
+the submitter has a commercial interest in them.”5
+4. Explanation of the degree to which the information concerns a service that
+is subject to competition
+The interconnected voice over internet protocol (VoIP) market is highly competitive.
+The commercial information at issue concerns TDS Metrocom’s ability to comply with
+the 911 service and CALEA obligations applicable to all VoIP service providers, as well
+as TDS Metrocom’s ability to provide VoIP service by interconnecting with the PSTN.
+Thus, this information “concerns a service subject to competition.”6 As such, this
+information qualifies as sensitive internal business and commercial information
+entitled to protection under FOIA and the Commission’s rules.7
+5. Explanation of how disclosure of the information could result in
+substantial competitive harm
+Release of the confidential information contained in Exhibits A-2, A-3, and B likely
+would cause competitive harm to TDS Metrocom. As the U.S. Court of Appeals for the
+D.C. Circuit has stated, parties do not have to “‘show actual competitive harm’” to
+justify confidential treatment; rather, “‘[a]ctual competition and the likelihood of
+substantial competitive injury’ is sufficient to bring commercial information within the
+realm of confidentiality.”8 The VoIP industry is highly competitive, and TDS
+Metrocom’s competitors could take advantage of the commercially sensitive
+agreements and technical information contained in the Exhibits.
+6. Identification of any measures taken by the submitting party to prevent
+unauthorized disclosure
+TDS Metrocom treats the agreements and diagrams contained in Exhibits A-2, A-3,
+and B as confidential and proprietary. It does not publicly disclose this information.
+5 Robert J. Butler, 6 FCC Rcd 5414, 5415 (1991) (citing Pub. Citizen Rsch. Grp. v. FDA, 704 F.2d
+1280, 1290 (D.C. Cir. 1983) and Am. Airlines v. Nat’l Mediation Bd., 588 F.2d 863, 868 (2d Cir.
+1978)).
+6 47 CFR § 0.459(b)(4).
+7 See 5 U.S.C. § 552(b)(4), 47 CFR § 0.457(d)(2).
+8 Pub. Citizen Rsch. Grp. v. FDA, 704 F.2d 1280, 1291 (D.C. Cir. 1983) (quoting Gulf & W.
+Indus. v. United States, 615 F.2d 527, 530 (D.C. Cir. 1979)).
+
+Marlene H. Dortch, Secretary
+October 11, 2024
+Page 4
+7. Identification of whether the information is available to the public and the
+extent of any previous disclosure of the information to third parties
+TDS Metrocom has not publicly disclosed the information for which it is seeking
+protection. The information in Exhibits A-2 and A-3 is provided to TDS Metrocom’s
+commercial partners subject to confidentiality provisions in the agreements to the
+extent necessary for TDS Metrocom to comply with its 911 service and CALEA
+obligations.
+8. Justification of the period during which the submitting party asserts that
+material should not be available for public disclosure
+The confidential information contained in Exhibits A-2, A-3, and B should never be
+released for public inspection. The information is commercially sensitive and
+confidential and any release would commercially disadvantage TDS Metrocom.
+For the foregoing reasons, TDS Metrocom respectfully requests that the Commission keep
+Exhibits A-2, A-3, and B within the enclosed supplement confidential and withhold them from
+public inspection.
+Please direct any questions regarding this request to the undersigned.
+Respectfully submitted,
+/s/ .
+Yaron Dori
+John Cobb
+COVINGTON & BURLING LLP
+850 Tenth Street, NW
+Washington, DC 20001
+(202) 662-6000
+Counsel for TDS Metrocom
+Enclosure
+
+Attestation by Certifying Official
+911 Reliability Certification for 2023
+Pursuant to Federal Communications Commission Rule 12.4, 47 C.F.R. § 12.4, I hereby attest
+that I am a corporate officer with supervisory and budgetary authority over network operations of
+a Covered 911 Service Provider in all relevant service areas.
+I further attest, under penalty and perjury, that covered 911 Service Provider TDS TELECOM:
+1. Has satisfied applicable certification obligations with respect to circuit diversity, backup
+power and network monitoring set forth in Federal Communications Commission Rule
+12.4(c), 47 C.F.R. § 12.4 (c).
+2. Has adequate internal controls to bring to my attention material information regarding
+network architecture, operations, and maintenance that would affect the certification.
+3. Has made me aware of all material information reasonably necessary to complete the
+certification.
+Signature
+Shane West
+Print Name
+Senior Vice President Network Operations
+Title
+Date

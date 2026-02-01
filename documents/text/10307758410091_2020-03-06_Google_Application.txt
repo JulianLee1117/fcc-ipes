@@ -1,0 +1,225 @@
+Google Voice Inc.
+1600 Amphitheatre Pkwy
+Mountain View, CA 94043
+650-253-0000
+google.com
+PUBLIC REDACTED VERSION
+March 6, 2020
+Via Hand Delivery
+Marlene H. Dortch
+Secretary
+Federal Communications Commission
+445 Twelfth Street SW
+Washington, DC 20554
+Re: Request for Confidential Treatment
+Application of Google Voice Inc. for Authorization to Obtain Numbering
+Resources (WC Docket No. 20-___)
+Dear Ms. Dortch:
+Google Voice Inc. (d/b/a “Google Voice for G Suite,” hereinafter “Google Voice”),
+pursuant to 5 U.S.C. § 552 and Sections 0.457 and 0.459 of the Commission's Rules,
+47 C.F.R. §§ 0.457, 0.459, hereby requests that certain information complementary to
+its above-referenced Application to Obtain Numbering Resources (“Application”) be
+treated as confidential and not subject to public inspection. The designated information
+constitutes confidential and proprietary information that, if subject to public disclosure,
+would cause significant commercial, economic, and competitive harm. As described
+below, Google Voice’s request satisfies the standards for grant of such requests set
+forth in Sections 0.457 and 0.459 of the Commission’s Rules.
+In accordance with Section 0.459(b) and in support of this request, Google Voice
+provides the following information:
+1. Identification of the Information for Which Confidential Treatment is Sought:
+Google Voice’s request for confidential treatment is limited to the confidential
+Exhibits to its Application.
+2. Identification of the Commission proceeding in which the information was
+submitted or a description of the circumstances giving rise to the submission.
+The confidential Exhibits are being submitted to the Commission as proof of facilities
+
+March 6, 2020
+PUBLIC REDACTED VERSION
+readiness, as required by Section 52.15(g)(3)(i)(D) of the Commission’s rules.
+3. Explanation of the degree to which the information is commercial or financial
+or contains a trade secret or is privileged.
+The information for which Google Voice seeks confidential treatment contains
+sensitive commercial, financial, and technical information “which would customarily
+be guarded from competitors.”1 The confidential Exhibits contain trade secrets and
+proprietary commercial and technical information relating to the manner in which
+Google Voice and its carrier partner conduct network operations.
+4. Explanation of the degree to which the information concerns a service that is
+competitive.
+The confidential Exhibits provide detailed information relating to commercial and
+operational matters that could be used by competitors to the disadvantage of Google
+Voice. Disclosure of Google Voice’s confidential information would cause substantial
+competitive harm.
+5. Explanation of how disclosure of the information could result in substantial
+competitive harm.
+Competitors could use the information in the confidential Exhibits to Google Voice’s
+detriment as they would gain access to sensitive and proprietary information about
+how Google Voice provides services as well as about Google Voice’s commercial
+agreements with others that are not ordinarily disclosed to the public.
+6. Identification of any measures taken by the requesting party to prevent
+unauthorized disclosure.
+Google Voice has taken steps to keep confidential the information set forth in the
+confidential Exhibits by limiting the number of people involved to only those on a
+“need to know” basis, and by requiring any third parties involved to execute robust
+nondisclosure agreements.
+7. Identification of whether the information is available to the public and the
+extent of any previous disclosures of the information to any third parties.
+The information contained in the confidential Exhibit is not available to the public,
+and has only been disclosed to third parties pursuant to restrictive safeguards.
+Google Voice voluntarily provides the information to the Commission at this time with
+the expectation that it will be treated confidentially in accordance with the
+Commission's rules. S ee Critical Mass Energy Project v. Nuclear Regulatory
+1 47 C.F.R. § 0.457.
+2
+
+March 6, 2020
+PUBLIC REDACTED VERSION
+Comm’n, 975 F.2d 871, 879 (D.C. Cir. 1992) (commercial information provided on a
+voluntary basis “is ‘confidential’ for the purpose of Freedom of Information Act
+(FOIA) Exemption 4 if it is of a kind that would customarily not be released to the
+public by the person from whom it was obtained.”).
+8. Justification of the requested period of confidentiality.
+Google Voice requests that the confidential Exhibits be treated as confidential for a
+period of ten years. This period is necessary due to the sensitive nature of the
+information in the confidential Exhibits.
+9. Any other information that would be useful in assessing whether this request
+should be submitted.
+The information subject to this request for confidentiality should not be made
+available for public disclosure at any time. There is nothing material that public
+review of this information would add to the Commission’s analysis of Google Voice’s
+request for an experimental authorization.
+Moreover, public disclosure of the sensitive information in the confidential Exhibits
+after the Commission has ruled on the Request for Confidentiality is not necessary
+for the Commission to fulfill its regulatory responsibilities.
+Consistent with 47 C.F.R. § 0.459(d)(l), Google Voice requests notification if release of
+the information subject to this request is requested pursuant to the FOIA or otherwise,
+so that Google Voice may have an opportunity to oppose grant of any such request.
+Respectfully submitted,
+Darah Franklin
+Counsel
+Google LLC
+3
+
+PUBLIC REDACTED VERSION
+Before the
+FEDERAL COMMUNICATIONS COMMISSION
+Washington, DC 20554
+In the Matter of
+Google Voice Inc. Applicant WC Docket No. 20-____
+For Authorization to Obtain Numbering
+Resources Pursuant to Section 52.15(g) of
+the Commission’s Rules
+APPLICATION OF GOOGLE VOICE INC.
+FOR AUTHORIZATION TO OBTAIN NUMBERING RESOURCES
+Google Voice Inc. (d/b/a “Google Voice for G Suite,” hereinafter “Google Voice”)
+hereby files this application with the Federal Communications Commission (the
+“Commission”) for authorization to acquire telephone numbers directly from the North
+American Numbering Plan Administrator and the Pooling Administrator (the “Numbering
+Administrators”) pursuant to Commission rule section 52.15(g)(3).1
+As set forth in the Commission’s Numbering Order, 2 an interconnected VoIP
+provider3 may obtain numbering resources from the Numbering Administrators upon
+showing that it is authorized to provide service in the area for which the numbering
+resources are requested. Such authorization may be obtained upon an application to
+the Commission containing the information in Sections 52.15(g)(3)(i)(A)-(F) of the
+1 47 C.F.R. § 52.15(g)(3).
+2 I n the Matter of Numbering Policies for Modern Communications, 30 FCC Rcd. 6839 (2015).
+3 Google Voice for G Suite will be capable of providing interconnected VoIP service within 60
+days of the numbering resources activation date as required by 47 C.F.R. § 52.15(g)(2).
+
+PUBLIC REDACTED VERSION
+Google Voice Inc.
+March 6, 2020
+Commission’s Rules. Google Voice hereby requests the Commission grant it the
+authorization.
+Google Voice provides the following information in support of its application:
+I. Information Required by Section 52.15(g)(3)(i)
+A. § 52.15(g)(3)(i)(A)
+Name: Google Voice Inc.
+Address: 1600 Amphitheatre Parkway, Mountain View, CA 94043
+Telephone: 650-253-0000
+For purposes of this application, inquiries pertaining to issues associated with
+911, law enforcement, and general compliance with Commission rules can be directed
+to:
+Name: Devin Morris
+Title: Compliance Officer
+Telephone: 720-546-6384
+Email: devinmorris@google.com
+B. § 52.15(g)(3)(i)(B)
+Google Voice acknowledges that authorization to obtain numbering resources
+under Section 52.15(g) of the Commission’s Rules is subject to compliance with
+applicable Commission numbering rules, numbering authority delegated to the states,
+and industry guidelines and practices regarding numbering as applicable to
+telecommunications carriers.
+2
+
+PUBLIC REDACTED VERSION
+Google Voice Inc.
+March 6, 2020
+C. § 52.15(g)(3)(i)(C)
+Google Voice acknowledges that it must file requests for numbers with the
+relevant state commissions at least 30 days before requesting numbers from the
+Numbering Administrators.
+D. § 52.15(g)(3)(i)(D)
+Google Voice sets forth its capability to provide service within 60 days of the
+numbering activation date. Google Voice has an agreement in place with its carrier
+partner who in turn has interconnection agreements in effect with the relevant local
+exchange carriers, as well as full staff for number porting. As proof of its facilities
+readiness, Google Voice has attached to this application a letter confirming an
+agreement between Google Voice and its carrier partner (Confidential Exhibit A) and the
+relevant portions of an interconnection agreement between that carrier partner and a
+local exchange carrier (Confidential Exhibit B), both submitted pursuant to Google
+Voice’s concurrently filed request for confidential treatment.
+E. § 52.15(g)(3)(i)(E)
+Google Voice certifies that it complies with its Universal Service Fund
+contribution obligations under 47 CFR part 54, subpart H; its Telecommunications Relay
+Service contribution obligations under 47 CFR § 64.604(c)(5)(iii); its North American
+Numbering Plan and Local Number Portability Administration contribution obligations
+under 47 CFR §§ 52.17 and 52.32; its obligations to pay regulatory fees under 47 CFR
+§ 1.1154; and its 911 obligations under 47 CFR part 9.
+3
+
+PUBLIC REDACTED VERSION
+Google Voice Inc.
+March 6, 2020
+F. § 52.15(g)(3)(i)(F)
+Google Voice certifies that it possesses the financial, managerial, and technical
+expertise to provide reliable service. For purposes of this application, inquiries
+pertaining to financial, managerial, and technical issues can be directed to:
+Name: Devin Morris
+Title: Compliance Officer
+Telephone: 720-546-6384
+Email: devinmorris@google.com
+Google Voice states that none of the identified personnel is being or has been
+investigated by the Commission or any law enforcement or regulatory agency for failure
+to comply with any law, rule, or order.
+G. § 52.15(g)(3)(i)(G)
+Google Voice certifies that no party to this application is subject to a denial of
+Federal benefits pursuant to section 5301 of the Anti-Drug Abuse Act of 1988.4
+II. Acknowledgement of Conditions in Section 52.15(g)(3)(iv)
+As required by Section 52.15(g)(3)(iv), Google Voice will maintain the accuracy of
+all contact information and certifications in the application and will file a correction with
+the Commission and each applicable state within 30 days of any changes. Google Voice
+will also furnish accurate regulatory and numbering contact information to each state
+commission when requesting numbers in that state.
+4 S ee 21 U.S.C. § 862.
+4
+
+PUBLIC REDACTED VERSION
+Google Voice Inc.
+March 6, 2020
+III. Conclusion
+Pursuant to Section 52.15(g)(3) of the Commission’s Rules, Google Voice
+respectfully requests the Commission grant this application for authorization to obtain
+numbering resources.
+Darah Franklin
+Counsel
+Google LLC
+March 6, 2020
+5
+
+PUBLIC REDACTED VERSION
+Exhibit A
+[REDACTED]
+
+PUBLIC REDACTED VERSION
+Exhibit B
+[REDACTED]

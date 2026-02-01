@@ -1,0 +1,52 @@
+(i) Troubleshooting. ATL, in cooperation with CUSTOMER. will address with the ONSP, local service
+management systems (LSMSs), and the NPAC, as appropriate, problems that arise during the porting process.
+2.2. Port-Outs. A TL shall use commercially-reasonable efforts to complete local number porting activities on
+CUSTOMER's behalf when CUSTOMER is the OLSP, as follows (activities may vary depending on whether CUSTOMER
+is the ONSP or is a non-facilities-based provider):
+(a) Ongoing Interface. ATL will act as CUSTOMER's primary interface with the NPAC and other
+carriers involved with local number porting.
+(b) CSR. If a NLSP requests a CSR, AT L, following CUSTO:MER's procedures for establishing the
+authority of the NSLP to obtain the CSR, will furnish the CSR to the NLSP.
+(c) LSR Review. ATL, in cooperation with CUSTOMER, will review LSRs received from NNSPs and
+timely respond with a FOC, including a specified due date if necessary, or a reject notification, as appropriate. ATL will
+respond on behalf of CUSTOMER to communications from the NNSP regarding the cause of a reject notification. In the
+event of a conflict, AT L will send a conflict message into the NPA C.
+( d) Due Date Coordination. A TL, in cooperation with CUSTOMER. will coordinate port due dates, as
+necessary, with the NNSP.
+(e) NPAC Data Entry/Communications. ATL will be responsible for submission of all messages, data,
+and other info1mation into the NPA C in accordance with the current local number potting processes established by the
+NANC and will also be the contact point for receipt ofrelated messages from the NPAC.
+(f) Provisioning. ATL, in cooperation with CUSTOMER, will remove switch translations at the specified
+due date and time, or in accordance with negotiated cut-over instructions from the NNSP. ATL and CUSTOMER will
+establish an operational window/time frame for the removal of switch translations. CUSTOMER shall be responsible for
+performing any physical activities required to complete ports. In cases where a coordinated cut-over is required or
+requested, ATL, in cooperation with CUSTOMER, will negotiate the cut-over time and process.
+(i) Troubleshooting. ATL, in cooperation with CUSTOMER, will address with the NNSP and the
+NPA C, as appropriate, problems that arise during the porting process, including conflicts and escalations thereof.
+2.3. Provisioning System Access. CUSTOMER is solely responsible for providing and maintaining a suitable
+and secure Internet colUlection to enable ATL to remotely access CUSTOMER's switching equipment and provisioning
+systems for the purpose of carrying out internal provisioning activities on CUSTOMER's behalf. CUSTOMER must
+provide ATL with all data, passwords, and other pertinent information required by ATL to perfo1m porting and provisioning
+activities on behalf of CUSTOMER. ATL will take appropriate steps to maintain the security and privacy of CUSTOMER'S
+network and password information.
+3. No Proprietary Rights. Neither ATL nor CUSTOMER has or will have any proprietary or confidential claim to any local
+telephone number. As ordered by the FCC the End User controls the local telephone number, but does not own it.
+IN WITNESS WHEREOF, the Patties hereto have made and executed this Service Addendum by and through
+their respective authorized representatives, to be effective as of the date and year first above written.
+ATL COMMUNICATIONS
+By: Bxr·-=-=....s~~~~~~~-----­
+Michael Rothcl1ild Au onzed Representative
+coo l.nuie JA . ~()ltv1 es IL
+Printed Signatory: J
+r
+/C
+~()
+Title:--PreslJ(f\
+)
+Date: _ _____ ______ Date:----~=~( -2-"--=S'---\+ -_2._o-'1-_ U:>_ _ _ Initial ~
+
+Address
+56825 Venture Lane
+Suite 110
+Sunriver, OR 97707
+Initial~

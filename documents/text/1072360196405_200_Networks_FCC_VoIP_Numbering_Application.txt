@@ -1,0 +1,638 @@
+151SouthhallLane.Ste450
+Maitland.FL32751
+P.O.Drawer200
+\MoterPark,FL32790..0200
+www-inteserra.com
+July23,2020
+Via ECFS Filing
+REDACTED FOR PUBLICINSPECTION
+Secretary, Federal Communications Commission
+Washington, DC20554
+Attn: Wireline Competition Bureau
+RE: Request for Confidential Treatment of Filing of 200 Networks, LLCi Application of 200
+Networks, LLCfor Authorization to Obtain Numbering Resources Pursuant toSection 52.15(g)
+oftheCommission'sRules, WCDocketNo. 20-
+DearSecretary:
+Pursuantto Section 52.15(g)(3)(i) ofthe Commission's Rules, 200 Networks, LLC ("200 Networks") hereby
+submits its application requesting authorizationto obtain numberingresources.
+200 Networks respectfully requests that, pursuant to Sections 0.457 and 0.459 of the Commission's
+rules, 47 C.F.R. §§ 0.457 and 0.459, the Commission withhold from public inspection and accord
+confidential treatment to Exhibit A to the application because that document contains sensitive trade
+secrets and commercial information that falls within Exemption 4 of the Freedom of Information Act
+("FOIA").l 200 Networks is voluntarily providing this information, "of a kind that would not customarily
+be released to the public"; therefore, this information is "confidential" under FOIA2 • Moreover, 200
+Networkswould suffersubstantial competitive harm ifthis information weredisclosed.3
+Exhibit A is accordingly marked with the header "SUBJECT TO REQUEST FOR CONFIDENTIAL TREATMENT
+NOTFORPUBLICINSPECTION."
+1 5U.S.c. § 552(b)(4).
+2 See CriticalMass EnergyProjectv. NRC, 975 F.2d 871,879 (D.C. Cir. 1992).
+See NationalParks andConservationAss'nv. Morton, 498 F.2d 765 (D.C. Cir. 1974).
+
+July 23, 2020
+Page 2of4
+In support of this request and pursuant to Section 0.459(b) of the Commission's rules4, 200
+Networks herebystates asfollows:
+1. IDENTIFICATION OFTHESPECIFICINFORMATION FORWHICHCONFIDENTIALTREATMENTIS
+s
+SOUGHT.
+200 Networks seeks confidential treatmentofExhibitAtothe enclosed application.
+2. DESCRIPTION OF CIRCUMSTANCESGIVING RISETOTHESUBMISSION.6
+200 Networks is submitting as Exhibit A the agreement between it and its carrier partner, as
+proof of 200 Networks' facilities readiness as required by Section 52. 15(g)(3)(i)(D) of the
+Commission's rules.
+3. EXPLANATION OFTHE DEGREE TO WHICH THE INFORMATION IS COMMERCIAL OR FINANCIAL
+OR CONTAINSATRADESECRETORISPRIVILEGED.7
+The information for which 200 Networks seeks confidential treatment contains sensitive
+commercial information "which would customarily be guarded from competitors"8 • Exhibit A
+describesthe agreement between 200 Networks and its carrier partnerand contains proprietary
+commercial information concerning 200 Networks' network, customers, and services.
+4. EXPLANATION OF THE DEGREE TO WHICH THE INFORMATION CONCERNS A SERVICE THAT IS
+SUBJECTTOCOMPETITION.9
+ExhibitAcontains information relatingto commercial mattersthat could be used bycompetitors
+to 200 Networks' disadvantage. 200 Networks has numerous competitors in the Voice over
+Internet Protocol ("Volp") services sector in which it operates. Detailed operations and
+commercial information of the type prOVided by 200 Networks could compromise 200
+Networks' position in this highly competitive industry. Release would therefore result in
+substantial competitive harm to 200 Networks.
+4 47 C.F.R. § 0.459(b).
+5 47 C.F.R. § 0.459(b)(1).
+6 47 C.F.R. §0.459(b)(2).
+7 47 C.F.R. §0.459(b)(3).
+8 47 C.F.R. § 0.457(d)(2).
+9 47 C.F.R. § 0.459(b)(4).
+
+July 23, 2020
+Page3of4
+5. EXPLANATION OF HOW DISCLOSURE OF THE INFORMATION COULD RESULT IN SUBSTANTIAL
+COMPETITIVE HARM10
+Competitors could use 200 Networks' proprietary commercial and operational information to
+200 Networks' detriment as they would gain access to sensitive information about how 200
+Networks provides services as well as about 200 Networks' commercial agreements with others
+in the marketthat are notnormallydisclosedtothe public.
+6. IDENTIFICATION OF ANY MEASURES TAKEN BY THE SUBMITIING PARTY TO PREVENT
+UNAUTHORIZED DISCLOSURE.11
+200 Networks has notdistributedthe information in ExhibitAto the public.
+7. IDENTIFICATION OF WHETHER THE INFORMATION IS AVAILABLE TO THE PUBLIC AND THE
+EXTENTOFANY PREVIOUSDISCLOSURE OFTHEINFORMATIONTOTHIRD PARTIESP
+200 Networks has notpreviouslydisclosedthe information in ExhibitA.
+8. JUSTIFICATION OF THE PERIOD DURING WHICH THE SUBMITIING PARTY ASSERTS THAT
+MATERIALSHOULDNOTBEAVAILABLE FOR PUBLICDISCLOSURE.13
+200 Networks requests that ExhibitAbetreated as confidential for aperiod often years.This
+period is necessarydueto the proprietary nature ofthe information in ExhibitA.
+10 47 C.P.R. § 0.459(b)(5).
+11 47 C.P.R. § 0.459(b)(6).
+12 47 C.F.R. § 0.459(b)(7).
+13 47 C.F.R. § 0.459(b)(8).
+
+July 23, 2020
+Page4of4
+9. OTHER INFORMATION THAT 200 NETWORKS BELIEVES MAY BE USEFUL IN ASSESSING
+WHETHER ITS REQUESTFOR CONFIDENTIALITYSHOULD BE GRANTED.14
+The information concerns 200 Networks' proprietary network information, related to current
+and planned commercial and operational information, and as such, is commercially sensitive.
+Any questions you may have regarding this filing should be directed to my attention at 407-740-3006 or
+via emailtocroesel@inteserra.com. Thankyou foryourassistance inthis matter.
+Sincerely,
+/s/Carey Roesel
+Carey Roesel
+Consultantto 200 Networks, LLC
+cc: Omar Luna- 200 Networks
+tms: FCCv2001
+CR/gs
+14 47 C.F.R. § 0.459(b)(9).
+
+Beforethe
+FEDERAL COMMUNICATIONS COMMISSION
+Washington, D.C. 20554
+In theMatterof )
+)
+200 Networks, LLC )
+) WC DocketNo. 20- _
+ForAuthorization to Obtain Numbering )
+Resources Pursuantto Section 52.15(g) of
+The Commission'sRules
+APPLICATION OF200 NETWORKS, LLC
+FORAUTHORIZATION TO OBTAIN NUMBERINGRESOURCES
+200Networks,LLC("200Networks"),pursuanttoSection52.15(g)(3)(i)oftheCommission'sRules,
+respectfullyrequests authorization to obtainnumbering as describedbelow.
+UndertheCommission'sNumberingOrder,IaninterconnectedVoIPprovidermayobtainnumbering
+resources from theNumberingAdministratorupon a showing that itis authorized to provide serviceinthe
+area for which the numbering resources are requested. Such authorization may be obtained upon an
+application to the Commissioncontainingthe informationdetailed in Section 52.15.(g)(3)(i)(A)-(G)ofthe
+Commission'sRules. 200NetworksherebyrequeststheCommissiongrantitthatauthorization. Insupport
+ofthis application, 200 Networks providesthefollowing information:
+I. INFORMATION REQUIRED BYSECTION52.15(g)(3)(i)
+A. §52.15(g)(3)(i)(A)
+Name: 200 Networks, LLC
+Address: 10580 N McCarranBlvd 115-302
+City: Reno
+State: Nevada
+ZIP Code: 89503
+Telephone: (855) 378-8007
+1NumberingPoliciesforModern Communications, FCC 15-70(reI. June22,2015).
+
+Contact for Regulatory Requirements:
+Name: OmarLuna
+Address: 10580N McCarranBlvd 115-302
+City: Reno
+State: Nevada
+ZIP Code: 89503
+Telephone: (832) 506-0905
+Contact for Compliance, 911 and LawEnforcement:
+NOC@200networks.com
+B. §52.15(g)(3)(i)(B)
+200Networksherebyacknowledgesthatauthorizationtoobtainnumberingresourcesunder
+Section52.15(g)oftheCommission'sRulesissubjecttocompliancewithapplicableCommissionnumbering
+rules aswellas to the numberingauthoritydelegatedto thestates. 200Networksherebyalsoacknowledges
+thatthisauthorizationissubjecttocompliancewithindustryguidelinesandpracticesregardingnumbering,as
+applicable to telecommunicationscarriers. Thenumberingresources thatare thesubjectofthis Application
+will beused to provide interconnectedVoIP services initially inthe states ofFloridaandTexas.
+c.
+§52.15(g)(3)(i)(C)
+200Networks herebyacknowledges thatitmustfilerequestsfornumberswiththerelevant
+state commission(s) at least 30days beforerequestingnumbers from theNumbering Administrators.
+D. §52.15(g)(3)(i)(D)
+200 Networks hereby sets forth its capability to provide service within 60 days of the
+numbering resources activationdate.
+To demonstrate its facilities readiness, 200 Networks will have the following resources
+availableatitsdisposal: afullyintegratedbackofficesupportsystemwiththeabilitytoscheduleandprocess
+LNP orders from customers andanexperiencedprovisioningdepartmentcapableofhandlingbulknumber
+ports. 200 Networks has an agreement in place with a CLEC partner to route traffic to the ILECs. 200
+Networkshasattachedto thisapplication, asExhibitA, anagreementbetween200Networksanditscarrier
+
+partner providing that the carrier partner will host 200 Networks' numbers on its switches and provide
+connectivity to the PSTN for inbound calls to 200 Networks numbers. 200 Networks has requested
+confidentialtreatmentundertheCommission'srulesforExhibitA. Alsoattached,asExhibitB,isevidence
+ofinterconnectionagreementsbetween200Networks' carrierpartnerandlocalexchangecarriersinthestates
+ofFlorida and Texas.
+E. § 52.15(g)(3)(i)(E)
+200NetworksherebycertifiesthatitcomplieswithitsUniversalServiceFundcontribution
+obligationsunder47CFRpart54,subpartH,itsTelecommunicationsRelayServicecontributionobligations
+under 47 CFR § 64.604(c)(5)(iii), its North American Numbering Plan and Local Number Portability
+Administrationcontributionobligationsunder47 CFR§§ 52.17and52.32, itsobligationstopayregulatory
+fees under47 CFR § 1.1154, and its 911 obligationsunder47 CFRpart9.
+F. § 52.15(g)(3)(i)(F)
+200Networkscertifiesthatithasthefinancial,managerial,andtechnicalexpertisetoprovide
+reliable service. It is financially stable, led by a strong, experienced management team with substantial
+managerial experience in the telecommunications industry, and has sufficient technical expertise and
+infrastructureinplacetoprovidereliablenumberingservices.200Networks' keymanagementandtechnical
+personnel are listed below. None ofthe identified personnel are being or have been investigated by the
+Commissionoranylawenforcementorregulatoryagencyforfailure to complywithanylaw, rule,ororder.
+Key Personnel:
+CEO & President- OmarLuna
+TechnicalExecutive- David Shipman
+G. § 52.15(g)(3)(i)(G)
+200NetworksherebycertifiesthatnopartytothisapplicationissubjecttoadenialofFederal
+benefits pursuantto Section 5301 oftheAnti-Drug AbuseActof1988,21 U.S.c. § 862.
+
+II. ACKNOWLEDGEMENT OF CONDITIONS IN SECTION 52.15(g)(3)(iv)
+Asrequiredby Section52.15(g)(3)(iv), 200Networkswillmaintain theaccuracyofallcontactinformation
+andcertificationsinthisapplicationandwillfileacorrectionwiththeCommissionandeachapplicablestate
+within 30days ofany changes. 200 Networks will also furnish accurate regulatoryand numberingcontact
+informationto eachstate commissionwhen requesting numbers in thatstate.
+III. CONCLUSION
+PursuanttoSection52.15(g)(3)(i)oftheCommission'sRules,200Networksrespectfullyrequeststhe
+Commissiongrant this application for authorization to obtainnumbering resources.
+Respectfully submitted,
+Carey Roesel, InteserraConsulting Group
+Consultantto 200 Networks, LLC
+(407) 740-3006
+croesel@inteserra.com
+And
+OmarLuna, CEO & President
+200 Networks, LLC
+10580N McCarran Blvd 115-302
+Reno, NV 89503
+(832) 506-0905
+July23, 2020
+
+Exhibit A
+AGREEMENT BETWEEN 200 NETWORKS, LLC AND
+CARRIER PARTNER
+{Confidential exhibit submitted separately)
+
+Exhibit B
+(for each state listed)
+INTERCONNECTION AGREEMENTS BY AND
+BETWEEN CARRIER PARTNER
+AND
+BELLSOUTH TELECOMMUNICATIONS, INC.
+D/B/A AT&T FLORIDA
+AND
+SOUTHWESTERN BELL TELEPHONE, L.P.
+DBA SBC TEXAS
+
+INTERCONNECTIONADOPTIONAGREEMENT/AT&T·9STATE
+•
+PAGE1OF3
+AT&T-9$TATElNeutralTandem
+VERSION-11/26107
+AGREEMENT
+ThisAgreement,whichshallbecomeeffectivethirty(30)daysfollowingthedateofthelastsignatureof
+bothParties("EffectiveDatej,isenteredintobyandbetweenNeutralTandem- Florida,LLC,NeutralTandem
+Georgia,LLC,and NeutralTandem- Kentucky,LLCcollectively("NeutralTandemj,allofwhichareDelaware
+corporationsonbehalfofitself,andBellSouthTelecommunications,Inc.d/b/aAT&TAlabama,AT&TFlorida,AT&T
+Georgia,AT&TKentucky,AT&TLouisiana,AT&TMississippi,AT&TNorthCarolina,AT&TSouthCarolinaandAT&T
+Tennessee,("AT&T"),havinganofficeat675W.PeachtreeStreet,Atlanta,Georgia,30375,onbehalfofitselfandits
+successorsandassigns.
+WHEREAS,theTelecommunicationsActof1996(the"Act")wassignedintolawon February8,1996;and
+WHEREAS,pursuanttoSection252(i)oftheAct,forpurposesofthisAgreement,CLEChasadoptedthe
+ComcastPhone,LLCandComcastPhoneII,Inc.fortheStatesofFlorida,Georgia,andKentucky(''theMFN
+Agreementj;
+WHEREAS,NeutralTandemhasrequestedthatAT&Tmakeavanabletheinterconnectionagreementinits
+entiretyexecutedbetweenAT&TandComeastPhone,LLCandComcastPhone II,Inc.datedSeptember25,2005fgT
+ttle,st~t~(s) offloricla,G~orgia, .andKentucky.
+NOW,THEREFORE,inconsiderationofthepromisesandmutualcovenantsofthisAgreementNeutral
+TandemandAT&Therebyagreeasfollows:
+1. NeutralTandemandAT&TshalladoptinitsentiretytheComcastPhone,LLCandComcastPhoneII,
+Inc.InterconnectionAgreementdatedSeptember25,2005andanyandallamendmentstosaidagreementexecuted
+andapprovedbytheappropriatestateregUlatorycommissionasofthedateoftheexecutionofthisAgreement. The
+ComcastPhone,LLCandComcastPhoneII,Inc. InterconnectionAgreementandallamendmentsareattachedhereto
+asExhibit1andincorporatedhereinbythisreference. Theadoptionofthisagreementwithamendment(s)consistsof
+thefollowing:
+ITEM NO.
+PAGES
+Adoption Papers 7
+ComcastPhone,LLCandComcastPhoneII,Inc.Interconnection 448
+Agreement
+TOTAL 455
+2. IntheeventthatNeutralTandemconsistsoftwo(2)ormoreseparateentitiesassetforth inthe
+preambletothisAgreementallsuchentitiesshallbejointlyandseverallyliablefortheobligationsofNeutralTandem
+underthisAgreement.
+•
+3. ThetermofthisAgreementshallbefromtheEffectiveDateas
+CCCS30f7
+
+•
+setforthaboveandshallexpireassetforthinSection2,GeneralTermsandConditionsoftheComcastPhone,LLCand
+ComcastPhoneII,Inc.InterconnectionAgreement. Forthepurposesofdeterminingtheexpirationdateofthis
+AgreementpursuanttoSection2oftheComcastPhone,LLCandComcastPhoneII,Inc.InterconnectionAgreement,
+theeffectivedateshallbethirty(30)daysfollowingthedateofthelastsignature.
+4. NeutralTandemshallacceptandincorporateanyamendmentstotheComcastPhone,LLCand
+ComcastPhoneII,Inc.InterconnectionAgreementexecuted·asaresultofanyfinaljudicial,regulatory,orlegislative
+action.
+5. InenteringintothisMFNAgreement,thePartiesacknowledgeandagreethatneitherPartywaives,
+andeachPartyexpresslyreserves,anyofitsrights,remediesorargumentsitmayhaveatlaworundertheintervening
+laworregulatorychangeprovisionsinthisMFNAgreement(includinginterveninglawrightsassertedbyeitherPartyvia
+writtennoticeastotheSeparateAgreement),withrespecttoanyorders,decisions,legislationorproceedingsandany
+remandsbytheFCC,stateutilitycommission,court,legislatureorothergovernmentalbodyincluding,withoutIim~ation,
+anysuchorders,decisions,legislation,proceedings,andremandswhichwereissued,releasedorbecameeffectiveprior
+totheEffectiveDateofthisMFNAgreement,orwhichthePartieshavenotyetfullyincorporatedintothisAgreementor
+whichmaybethesubjectoffurthergovernmentreview.
+6. Everynotice,consentorapprovalofalegalnature,requiredorpermittedbythisAgreementshallbein
+writingandshallbedeliveredeitherbyhand,byovernightcourierorbyUSmailpostageprepaid,oremailifanemail
+addressislistedbelow,addressedto:
+AT&T
+•
+AT&TLocalContractManager
+600North19thStreet,81hfloor
+Birmingham,Alabama35203
+and
+BusinessMarketsAttorney
+Suite4300
+675W.Peachtree51.
+Atlanta,GA30375
+NeutralTandem- Florida,LLC
+NeutralTandem- Georgia,LLC
+NeutralTandem- Kentucky,LLC
+RonGavillet
+1SouthWacker,Suite200
+Chicago,IL 60606
+312.384.8040voice
+312.346.3276fax
+rgavillet@neutraltandem.com
+• oratsuchotheraddressastheintendedrecipientpreviouslyshallhavedesignatedbywrittennoticetotheotherParty.
+Wherespecificallyrequired,noticesshallbebycertifiedorregisteredmail. UnlessotherwiseprOVidedinthisAgreement,
+noticebymailshallbeeffectiveonthedateitisofficiallyrecordedasdeliveredbyreturnreceiptorequivalent,andinthe
+Version:10118/07
+CCCS4of7
+..._. - --...-- ----J
+
+•
+absenceofsuchrecordofdelivery,itshallbepresumedtohavebeendeliveredthefifthday,ornextbusinessdayafter
+thefifthday,afteritwasdepositedinthemails.
+•
+•
+Version:10118/07
+CCCS50f7
+
+Jan-L~-6UUD 16:~6 ~M neu~raL lanaem ~L6~O~OVVV
+"
+•
+INTERCONNEcnONADopnONAGREEMENT/At&T·eSTATE
+SIGNATUREPAGE
+ATl!rT·9STATEfNel1ralTandem
+VERSloN-11IZ6l07
+I
+i
+I
+I
+i
+i
+~eutraJTandem- Florida,LtC BeIlSouthTelecommunications,Inc.dlbfa
+eutralTandem- Georgia,llC AT&TAlabama,AT&TFlorida,AT&TGeorgia,
+eutraliandem- Kentucky,LLC AT&TKentucky,AT&Tlouisiana,AI&Y
+Mississippi,AT&TNorthCarolina,AT&TSouth
+I
+CarolinaandA TTennessee
+B~:W~~;X~ r;z:;t-!
+By:
+~~meD~v\~
+""";\'t
+Vir.\(... Name: KristenE.Shore
+T~: ~(t(..(*",~ ~
+'Jp
+\2evs->u"e:
+Title: Director
+~te: I, I $<;(;£
+I t:> bg Date:
+•
+OCNI ACNA OCNt ACNA
+MISSISSIPPI
+q~lC. bWS
+NORTHCAROLINA
+1D.
+c>Cc:, t)W$ SOUTHCAROLINA
+S'\bE bWS
+TENNESSEE
+•
+CCCS6of7
+_._-----
+.....•..
+
+•
+Page3
+1.3 ShouldComcastPhone's certificationinanystateberescindedorotherwise
+terminated, BellSouthmay, atitselection,terminatethis Agreementinaccordance
+withanyapplicableCommissionrulesfortennination. Aspermittedby
+Commissionrules, BellSouthmayrefusetoprovideserviceshereunderinthatstate
+untilcertificationisreinstatedinthatstate. ComeastPhoneshallprovidean
+effectivecertificationto dobusinessissuedbythesecretaryofstateorequivalent
+authorityineachstatecoveredbythisAgreement.
+2. TermoftheAgreement
+2.1 ThetermofthisAgreementshallbethreeyears,beginningontheEffectiveDate
+andshallapplyto theBellSouthterritoryinthe eorgiaand
+Kentucky. N . andinganyprioragreemen erates,terms
+andconditions thisAgreementshallI!-otbeappliedretroactivelypriorto the
+EffectiveDate.
+2.2 ThePartiesagreethatrio laterthanonehundredandeighty(180)dayspriortothe
+expirationofthisAgreement,theyshallcommencenego foranew
+agreementto beeffectivebeginningontheexpirationdate thisAgreement
+("SubsequentAgreement").
+• 2.3 If, withinonehundredandthirtywfiVe(135)daysofcommencingthenegotiation
+referredto inSection2.2above,thePartiesareunabletonegotiatenewterms,
+conditionsandpricesforaSubsequentAgreement, eitherPartymaypetitionthe
+Commissionto establishappropriateterms,conditionsandpricesforthe
+SubsequentAgreementpursuantto 47U.S.C. 252.
+2.4 If, asoftheexpirationofthisAgreement, aSubsequentAgreementhasnotbeen
+executedbytheParties, aOOthePartiesarenot . .Agreement
+shallcontinueonamonthwtowmonthbasiswhit otAgreementis
+activelybeingnegotiatedin.goodfaithoralternatively, atimelypetitionhasbeen
+filedwiththerespectiveCommissionandtheSubsequentAgreementissubjectto
+therespectiveCommissionarbitrationpursuantto 252oftheAct. Upon
+conversionto amonth-to-monthterm,duringsuchnegotiations, providedthatthe
+Parties arenotinarbitration,theneitherParty,inits discretion, mayterminatethis
+Agreementuponsixty(60) dayswrittennoticeto theotherParty.
+Notwithstandingtheforegoing, theAgreementcannotbeterminatedpriorto 180
+days aftertheoriginalexpirationdate. IntheeventthatBellSouthterminatesthis
+Agreementasprovidedherein, BellSouthshallcontinuetoprovideservicesto
+ComcastPhonepursuantto theterms,conditionsandratessetforthinBellSouth's
+standardinterconnection agreementthenin effectandmadeavailableto CLECs
+requestingnegotiationspursuantto Section251 oftheAct. IftheParties are
+activelypursuinggoodfaithnegotiationsforaSubsequentAgreementora
+transitionplanfromthis Agreement, exceptasexpresslyprovided,neitherParty
+• shallrefusetoprovideservicesto theotherPartyduring thenegotiationofthe
+SubsequentAgreementorthetransitionfromtinsAgreementto theSubsequent
+Agreement.
+VersionMay27,2002
+eees8of448
+__ _-------------------------------'
+...
+
+~ T.AaronMorris -.
+~at&t SeniorAttorney
+Legal
+AT&TTex... T:~12.870.5717
+400W.15tllStreet.Suite1030 F:512.870.3420
+Austin,Texas78701 llron.morrli@att.com
+May 8,2008
+Commissio'n Filing Clerk
+Public UtilityCommission ofTexas
+170t N.CongressAvenue
+Austifl, fexas 78701
+FIE: Docket 35525.-Joint Application of Southwestern Bell Telephone Company
+d/b/a AT&T Texas and Neutral Tandem-texas, LLC for Approval of
+.Amendment to Interconnection Agreement under PURA and the
+Telecommunications Act of 1996
+DearFiling Clerk: -,
+•
+In response to Order No.2, Approving Amendment to Interconnection Agreement, issued
+Aprir' 17, 2008, attached is the complete amended interconnection agreement between
+Southwestern Bell Telephone Company d/b/a AT&T Texas and Neutral Tandem-Texas,
+LLC. - .
+Pleasedonothesitatetocall meifyou haveanyquestions regardingthismatter.
+Sincerely, -
+T. Aaron Morris
+SeniorAttom~y
+co: DaVid Tatak, Vice-President ofBilling &Revenue Services forNeutralTandem
+Texas, LLC (U.S. mail)
+General Counsel, PUC (Hand delivered)
+CeRtral Aecords; PUC (Hand delivered)
+•
+l
+j
+-.-.---- ...._-' ._._.. _---------------------'
+
+•
+AT&T/NEUTRAL
+TANDEM-TEXAS, LLC
+• INTERCONNECTION
+AGREEMENT AMENDED
+AS OF 4/17/08
+•
+3
+
+GENERALTERMSANDCONDITlONS/SBC·13STAIE
+PAGE1OF61
+• SBC-13STATi'NEUTRALTANDEMiARINKSMONYOKTX),LLC.
+032405
+INTERCONNECTION AND/OR RESALE AGREEMENT UNDER
+SECTIONS 251 AND 252 OF THE TELECOMMUNICATIONS ACT OF
+1996
+between one or more of
+sac
+Illinois Bell Telephone Company d/b/a Illinois,
+Indiana Bell Telephone Company Incorporated d/b/a SBC Indiana,
+Michigan Bell Telephone Company d/b/a SBC Michigan,
+Nevada Bell Telephone Company d/b/a SBC Nevada,
+The Ohio Bell Telephone Company d/b/a SBC Ohio,
+Pacific Bell Telephone Company d/b/a SBC California,
+•
+The Southern New England Telephone Company d/b/a SBC
+Connecticut,
+sac
+Southwestern Bell Telephone, L.P. d/b/a Arkansas, SBC
+sac sac
+Kansas, Missouri, SBC Oklahoma and/or Texas,'
+Wisconsin Bell, Inc. d/b/a SBC Wisconsin
+and
+Neutral Tandem-Arkansas, LLC; Neutral Tandem-Indiana, LLC;
+Neutral Tandem-Kansas, LLC; Neutral Tandem-Missouri, LLC;
+Neutral Tandem-Nevada, LLC; Neutral Tandem-Oklahoma, LLC;
+Neutral Tandem-Texas, LlC
+•
+7
+
+GENERALTERMSANDCONDmONSlSBC=13STATE
+PAGE13OF61
+SBC·13STATEiNEUTRAl.TANOEM-{ARINKSMeNVOKTX),LLG.
+• . 032405
+Pointneednotbethesame asthe Rating Point,normustitbelocatedwithintheRateCenter
+area,QutmustbeinthesameLATAastheNPA·NXX.
+1.1.100·SBC Communications Inc." (SBC) means the holding company which directly orIndirectly
+owns the following ILECs: Illinois Sell Telephone Company d/b/a sse Illinois, Indiana Bell
+TelephoneCompanyIncorporatedd/b/asseIndiana,MichiganBellTelephoneCompanyd/b/a
+SSCMichigan,NevadaBellTelephoneCompanyd/b/aSBeNevada,TheOhioBellTelephone
+Company d/b/a SBe Ohio, Pacific Bell Telephone Company dIbIa sse California, The
+Southern New England Telephone Company d/b/a sse Connecticut, Southwestern Sell
+Telephone,LP.d/b/a SSCArkansas,sseKansas,sacMissouri,sacOklahomaand/orSSC
+Texas,and/orWisconsinBell,Inc.d/b/aSSCWisconsin.
+1.1.101"SBC·2STATE" • As used herein, SBe-2STATE means SBC· CALIFORNIA and SBC
+NEVADA.theapplicableSSC-ownedILEC(s)doingbusinessinCaliforniaandNevada.
+1.1.102"SBC-4STATE" - As used herein, SBC-4STATE means Southwestern Sell Telephone, LP,
+d/b/a SSC Arkansas, SSC Kansas, SBC Missouri, and SSC Oklahoma, the applicable SSC
+ownedILEC(s)doingbusinessinArkansas,Kansas,MissouriandOklahoma.
+1.1.103IlSBC-7STATE" - As used herein, SBe-7STATE means SBC SOUTHWEST REGION 5
+STATE. SBC CALIFORNIA and SBC NEVADA, the applicable $SG-owned ILEC(s) doing
+businessinArkansas,California,Kansas,Missouri,Nevada,Oklahoma,andTexas.
+1.1.104"SBC·8STATE" - As used herein, SBC-8STATE means SBC SOUTHWEST REGION 5
+STATE; SBC CALIFORNIA, SBC NEVADA, and SBC CONNECTICUTthe applicable SBC
+ownedILEC(s)doingbusinessInArkansas,California,Connecticut Kansas,MiSSOUri,Nevada,
+• Oklahoma,andTexas. .
+1.1.105"SBC·10STATEIf As used herein, SBC·10STATE means sac SOUTHWEST REGION 5
+•
+STATEand SBC MIDWESTREGION 5-STATE an the appliCSble SBC-owned ILEC(s) doing
+business In Arkansas, illinois, Indiana, Kansas, Michigan, Missouri, Ohio, Oklahoma, Texas,
+andWisconsin. ..
+1.1.106IlSBC·12STATE" -As used herein, SBC·12STATE means sec SOUTHWEST REGION 5
+STATE, SBC MIDWEST REGION 5-STATE and.Sae-2STATE the applicable SBC-owned
+ILEC(s) doing business In Arkansas, California, illinois, Indiana, Kansas, Michigan, Missouri,
+Nevada,Ohio,Oklahoma,Texas,andWisconsin.
+1.1;1071ISBe;13STATE!,"i-:~J.I$f3dht3~ilJ,Sae-13STATEmf3~.o.sSaCi:SOUTHWESTREGION50
+i
+STATE, SBC MIDWESTiREGIONs..5TATEi SaC-:2STATE::$ndSaCNCONNECTlCUTthe
+applicapleSBCroWtiedlL.J;G($)dQil'lgpusinijSslni~~n~s,Callfcjltlla,GQIjl'l¢cti¢ut, Illinois,
+Indlana,Kansas,Michigan,MisSQuriiNt3Vllda,Qhio,iQ~lah()ma, Te~asli3nd:WI$CCll'lsin.
+1.1.1081lSBCARKANSAS"-Asusedherein,SBCARKANSASmeansSouthwesternBellTelephone,
+L.P.d/b/a SBCArkansas,theapplicableSSC-ownedILECdoingbusinessinArkansas.
+1.1.109"SBC CALIFORNIA" - As used herein, SBC CALIFORNIA means Pacific Bell Telephone
+Companyd/b/aSBCCalifornia,theapplicable.SBC-ownedIL.ECdoingbusinessInCalifornia.
+1.1.110"SBC CONNECTICUT" -As used herein, sac CONNECTICUT means The Southern New
+England Telephone Companyd/b/a SBC Connecticut, the applicable above listed ILECdoing
+businessInConnecticut.
+1.1.111"sacKANSASII As used herein, sec KANSAS means Southwestern BellTelephone, L.P.
+-
+d/b/aSBCKansas,theapplicableSBC-ownedILECdoingbusinessInKansas.
+• 1.1.112IlSaC ILLINOIS" -As used herein, sac ILLINOIS means illinois Sell Telephone Company
+sse
+d/b/a illinois,theapplicableSBC-ownedILECdoingbusinessInIllinois•
+1.1.113I1SBC INDIANA" -As used herein, sac INDIANA means Indiana Bell Telephone Company,
+Incorporatedd/b/aSBCIndiana,theapplicableSBC-ownedILECdoingbusinessinIndiana.
+19
+
+GENERALTERMS-ANDCONOmONSlSSC·138TATE
+PAGE240f61
+SBC·13STATElNI:UTRALTANDEM-{ARINI<SMeNVot<Tx),LtC. •
+032405
+referring Party'stariff(s). However.ifeitherPartyprovides ReferralAnnouncementsfor
+aperiod longerthan the above periOd(s) when Its End Users change theirtelephone
+numbers. such Partyshall providethe samelevel ofservicetoEnd Usersoftheother
+Party.
+4.~.4 ThefollowingappliestossCQHIOonly:
+4.9.4.1 Referral Announcements shall be provided-byaPartytothe otherPartyforthe period
+oftime specified In Rule 4901:1-5-12. OhioAdministrative Code and atthe rates set
+forth In the referring 'Party's tariff(s). However, If either Party provides Referral
+Announcemenfs for a period longer than the above perlod(s) when its·End Users
+change'theirtelephonenumbers.such Partyshall providethe samelevelofserviceto
+EndUsersoftheother-Party.
+4.10, E~cli'Partyshallberasponslpleforlaborrelationswithitsownemployees. Each Partyagreestonotify
+the other Party as soon as practicable whenever such 'Party has knowledge that alabor dispute
+'. concerning its employees Is delaying or threatens-to delay such Party's timely performance of its
+obligations underthis Agreement and shall endeavorto minimize Impairment ofservice to the other
+Party(forexample.byusingItsmanagementpersonneltoperfOmiworkorbyothermeans)intheevent
+ofa.labordisputetotheextentpermittedbyApplicablelaw.
+4.11 EachPartyshallactingoodfaith inItsperformanceunderthisAgreementand,IneachcaseInwhicha
+party's consentoragreementIs required orrequested hereunder, such Party shall notunreasonably
+withholdordelaysuchconsentoragreement.' .
+4.12 This Agreement contains comprehensive OSSterms and conditions; however, ClEC represents and •
+covenantsthatItwillonlyUSeOSSfurnishedpursuanttothisAgreementforactivltlesrelatedto Lawful
+UNEs. resoldservicesorotherservices coveredbythisAgreement,forwhichthisAgreementcontains
+explicitterms,conditionsandrates. ._
+4.13 The Parties acknowledge and agreethat they dq notIntend to Include products and services Inthis
+Agreement that do not have corresponding rates and charges. Accordingly, if this Agreement Is
+executedandlorapprovedbythe'CommissionandthePartieslaterdiscoverthataprodUctorserviceIs
+included-InthisAgreementwithoutanassociatedrateorcharge,·thePartiesagreethattheywUl agree
+, - llPon a rate or charge to lnclude In this Agreement before the product or $ervlce Is prOVided or
+performed. IfthePartiescannotagree,eitherPartymaypursuedisputeresolutionundertheapplicable
+provisionsofthisAgreement.
+.
+-
+5. EFFECTIVEDATE,TERM,ANDTERMINATION
+5.1 Tn SBC-13STATe,with the exception.ofsacOHIO.theEffectiveDate ofthisAgreementshall beten
+(10)'calendardaysafterthe CommissionapprovesthisAgreementunderSection252(e)oftheActor,
+.:~' .'. absent such Commission approval, the date this Agreement Is deemed approved under Seatlon
+" .
+252(e}(4)aftheAct.In§BCOHIQ,basedonlhePUC·OH,theAgreementisEffectiveuponfiling andIs
+deemedapprovedbyoperationoflawonthe91ttdayafterfiling.
+'If. "
+5.2 The'termofthisAgreementshallcommenceupontheEffectiveDateofthisAgreementandshallexpire
+on JUly 18.2006. provided; however. should CLEC Implement(I.e. PrQvlded assurance ofpayment,
+orderedfacilities,andsubmltteclASRsfortrunklng)thisAgreementwithinsix(6)monthsoftheEffective
+'1 Date.thenthisAgreementwill automaticallyrenewforoneadditionalyearand expireonJuly18,2007
+..I' , , (theIIT8rm}.Absent(tI'Ift:~lpt~Y()l1e~~rty·Qf·wrlttenno~c:eti'Pm :tb~iQtl'lftr:p~l'tyWittlln18QL~f!l1(l§r
+d.l:lysprjQl'~1I'\~~}(pll'lti()n()f;tbl!mQltlj,to:1JJII·f)fftl~ttb$t~Y,*,~~.t1Y·~tlQtll'lt4IDdWQ~tlgtM[lIrm,
+1IlIsAg.~IIl11.4IDtshall~m~ln lnfilll .~.l:lnQ~ff~()I'l.~ndQft~r#:1f'1I:t.expll'lttPnQ'ti1l!'lIl!l'll1lJotil •
+termlnatedpyeltherpartY.pul'SlJant~.$I@lOI1§;~.Q~(§;4~
+·1·· -'
+5.2.1 Notwithstanding anything to the contrarY in this Section 5. the artglnal expiration date ofthis
+,
+;" Agteemf)nt,asmodifiedpythisAmendment,willbeextendedforaperiodofthree(3)yearsfrom
+1\:
+Januaryii,2008untilJanuary11,2011 (the"ExtendedexpirationDate"). TheAgreementshall
+Ii ,,'
+! '
+I:.: . 30
+
+GENERALTERMSANDCONDITIONSlSBC·13STATE
+PAGE61a:61
+SBC·13STATE/NEUTRALTANDEM{ARINKSMONYOKlX),LLC.
+•
+032405
+SBC·13STATEAgreement
+Signatures
+THISAGREEMENTCONTAINSABINDING
+ARBITRATIONPROVISIONWHICHMAYBE .
+ENFORCEDBYTHEPARTIES.
+ClEC'sSTATE-SPECIFIC:
+FACILITIES-BASEDOCN# _----,,--_
+RESALEOCN# _
+ACNA
+NeutralTandem-Arkansas,LtC;NeutralTandem IndianaBellTelephoneCompanyIncorporateddlbIaSBC
+Indiana,LLC; NeutralTandem-Kansas,LLCiNeutral Indiana. Nevada Bell Telephone Company d/b/a SBC
+•
+Tandem-MIssouri,LlC; NeutralTandem-Nevada, Nevada, and/orSouthwestern Bell Telephone, LP. dlbla
+lLC;NeutralTandem-Oklahoma,LLCiNeutral SBC Arkansas, SBC Kansas, SBC Missouri. SBC
+Tandem-Texas,LLC Oklahoma, SBC Texasi by SB Operations, Inc., Its
+authorizedagent ,-
+U~ ~
+Signature:
+Name:])1\vII> r;'T~\( Name: M_U~k_e_A_uin_b_a~uh _
+(PrintorType) (PrintorType)
+~ ~~ e· .
+Title: (, --...JL.-e Title: AVP·LocallnterconnectionMarketing
+~orType)
+_
+LuJ_o_~
+Date: S Date: --JtIN • 2_
+•
+67

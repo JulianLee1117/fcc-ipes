@@ -1,0 +1,60 @@
+Steven A. Augustino
+Kelley Drye & Warren LLP
+Washington Harbour, Suite 400
+3050 K Street, NW
+Washington, DC 20007
+Tel: (202) 342-8612
+saugustino@kelleydrye.com
+October 15, 2020
+Via ECFS
+Marlene H. Dortch
+Secretary
+Federal Communications Commission
+45 L Street NE
+Washington, DC 20554
+Re: Business Telecommunications Services, Inc., Second Supplement to the Application, Application for
+Authority to Obtain Direct Access to Numbering Resources Pursuant to Section 52.15(g) of the
+Commission’s Rules, WC Docket No. 20-166
+Dear Ms. Dortch:
+Business Telecommunications Services, Inc. (“BTS”), by its counsel and pursuant to section
+52.15(g)(3)(i) of the rules of the Federal Communications Commission (the “FCC” or “Commission”),
+submits this additional agreement (“Agreement”) as a Second Supplement its previously filed application
+requesting authority to directly obtain numbering resources from the North American Numbering Plan
+Administrator and the Pooling Administrator (“Application”).1 BTS respectfully requests that the
+Commission consider this Agreement in reviewing and granting the pending Application.
+BTS’s pending Application requests authorization to provide service in the area(s) for which the
+numbering resources are requested, and a grant of the Application would constitute such authority.2 At the
+request of the Wireline Competition Bureau (“Bureau”), BTS filed a Supplement to its Application on
+September 30, 2020.3 Since that Supplement, BTS completed an additional Service Order with its carrier
+partner, Service Order – PSTN Control Service, to originate and terminate traffic to and from the Public
+Switched Telephone Network (“PSTN”). BTS now submits that Agreement for the Bureau’s review as
+1 See Business Telecommunications Services, Inc., Application for Authority to Obtain Direct Access to
+Numbering Resources Pursuant to 52.15(g) of the Commission’s Rules, WC Docket No. 20-166 (filed Jun.
+11, 2020) (“BTS Application”).
+2 47 C.F.R. §52.15(g)(3).
+3 See Business Telecommunications Services, Inc., Application for Authority to Obtain Direct Access to
+Numbering Resources Pursuant to 52.15(g) of the Commission’s Rules, Supplement to Application, WC
+Docket No. 20-166 (filed Sept. 30, 2020) (“Supplement”).
+4823-9397-1406v.3
+
+Ms. Marlene H. Dortch
+October 15, 2020
+further evidence of its ability to provide service within 60 days of the numbering resources activation date.4
+BTS requests confidential treatment of the Agreement, in its entirety, and submits under separate cover a
+request for confidential treatment pursuant to Section 0.459 of the Commission’s rules.
+Please direct any questions as to this matter to the undersigned.
+Respectfully Submitted,
+Steven A. Augustino
+Counsel to Business Telecommunications
+Services, Inc.
+cc: Jordan Marie Reth
+Margaux Brown
+Michele Sclater
+4 47 C.F.R. §52.15(g)(3)(i)(D).
+KELLEY DRYE & WARREN LLP
+2
+4823-9397-1406v.3
+
+Attachment
+Service Order – PSTN Control Service
+(confidential treatment requested)

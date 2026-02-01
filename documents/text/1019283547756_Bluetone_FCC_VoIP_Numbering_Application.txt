@@ -1,0 +1,444 @@
+..
+.• 151 Southhall Lane. Ste 450
+Maitland. FL 32751
+lnteserra
+P.O. Drawer 200
+\Ninter Park, FL 32790.0200
+www.inteserra.com
+October 19, 2020
+Via ECFS Filing
+REDACTED FOR PUBLIC INSPECTION
+Secretary, Federal Communications Commission
+Washington, DC 20554
+Attn: Wireline Competition Bureau
+RE: Request for Confidential Treatment of Filing of Bluetone Communications, LLC; Application of
+8/uetone Communications, LLC for Authorization to Obtain Numbering Resources Pursuant to
+Section 52.15{g) of the Commission's Rules, WC Docket No. 20-
+Dear Secretary:
+Pursuant to Section 52.15(g)(3)(i) of the Commission's Rules, Bluetone Communications, LLC ("Biuetone")
+hereby submits its application requesting authorization to obtain numbering resources.
+Bluetone respectfully requests that, pursuant to Sections 0.457 and 0.459 of the Commission's rules, 47
+C.F.R. §§ 0.457 and 0.459, the Commission withhold from public inspection and accord confidential
+treatment to Exhibit A to the application because that document contains sensitive trade secrets and
+commercial information that falls within Exemption 4 of the Freedom of Information Act ("FOIA").1
+Bluetone is voluntarily providing this information, "of a kind that would not customarily be released to
+the public"; therefore, this information is "confidential" under FOIA2 • Moreover, Bluetone would suffer
+substantial competitive harm if this information were disclosed.3
+Exhibit A is accordingly marked with the header "SUBJECT TO REQUEST FOR CONFIDENTIAL TREATMENT -
+NOT FOR PUBLIC INSPECTION."
+u.s.c.
+5 § 552(b)(4).
+2 See Critical Mass Energy Project v. NRC, 975 F.2d 871, 879 (D.C. Cir. 1992).
+3 See National Parks and Conservation Ass'n v. Morton, 498 F.2d 765 (D.C. Cir. 1974).
+
+October 19, 2020
+Page 2 of4
+In support of this request and pursuant to Section 0.459(b) of the Commission's rules4 , Bluetone
+hereby states as follows:
+1. IDENTIFICATION OF THE SPECIFIC INFORMATION FOR WHICH CONFIDENTIAL TREATMENT IS
+SOUGHT.5
+Bluetone seeks confidential treatment of Exhibit A to the enclosed application.
+2. DESCRIPTION OF CIRCUMSTANCES GIVING RISE TO THE SUBMISSION.6
+Bluetone is submitting as Exhibit A the agreement between it and its carrier partner, as proof of
+Bluetone's facilities readiness as required by Section 52. 15(g)(3)(i)(D) of the Commission's rules.
+3. EXPLANATION OF THE DEGREE TO WHICH THE INFORMATION IS COMMERCIAL OR FINANCIAL
+OR CONTAINS A TRADE SECRET OR IS PRIVILEGED.7
+The information for which Bluetone seeks confidential treatment contains sensitive commercial
+information "which would customarily be guarded from competitors"8 . Exhibit A describes the
+agreement between Bluetone and its carrier partner and contains proprietary commercial
+information concerning Bluetone's network, customers, and services.
+4. EXPLANATION OF THE DEGREE TO WHICH THE INFORMATION CONCERNS A SERVICE THAT IS
+SUBJECT TO COMPETITION.9
+Exhibit A contains information relating to commercial matters that could be used by competitors
+to Bluetone's disadvantage. Bluetone has numerous competitors in the Voice over Internet
+Protocol ("VoiP") services sector in which it operates. Detailed operations and commercial
+information of the type provided by Bluetone could compromise Bluetone's position in this
+highly competitive industry. Release would therefore result in substantial competitive harm to
+Bluetone.
+4 47 C.F.R. § 0.459(b).
+5 47 C.F.R. § 0.459(b)(l).
+6 47 C.F.R. § 0.459(b)(2).
+7 47 C.F.R. § 0.459(b)(3).
+8 47 C.F.R. § 0.457(d)(2).
+9 47 C.F.R. § 0.459(b)(4).
+
+October 19, 2020
+Page 3 of 4
+5. EXPLANATION OF HOW DISCLOSURE OF THE INFORMATION COULD RESULT IN SUBSTANTIAL
+COMPETITIVE HARM10
+Competitors could use Bluetone's proprietary commercial and operational information to
+Bluetone's detriment as they would gain access to sensitive information about how Bluetone
+provides services as well as about Bluetone's commercial agreements with others in the market
+that are not normally disclosed to the public.
+6. IDENTIFICATION OF ANY MEASURES TAKEN BY THE SUBMITTING PARTY TO PREVENT
+UNAUTHORIZED DISCLOSURE.11
+Bluetone has not distributed the information in Exhibit A to the public.
+7. IDENTIFICATION OF WHETHER THE INFORMATION IS AVAILABLE TO THE PUBLIC AND THE
+EXTENT OF ANY PREVIOUS DISCLOSURE OF THE INFORMATION TO THIRD PARTIES.IZ
+Bluetone has not previously disclosed the information in Exhibit A.
+8. JUSTIFICATION OF THE PERIOD DURING WHICH THE SUBMITTING PARTY ASSERTS THAT
+MATERIAL SHOULD NOT BE AVAILABLE FOR PUBLIC DISCLOSURE.13
+Bluetone requests that Exhibit A be treated as confidential for a period of ten years. This period
+is necessary due to the proprietary nature of the information in Exhibit A.
+10 47 C.P.R.§ 0.459(b)(S).
+11 47 C.P.R.§ 0.459(b)(6).
+12 47 C.F.R. § 0.459(b)(7).
+13 47 C.F.R. § 0.459(b)(8).
+
+October 19, 2020
+Page 4 of4
+9. OTHER INFORMATION THAT BLUETONE BELIEVES MAY BE USEFUL IN ASSESSING WHETHER ITS
+REQUEST FOR CONFIDENTIALITY SHOULD BE GRANTED.14
+The information concerns Bluetone's proprietary network information, related to current and
+planned commercial and operational information, and as such, is commercially sensitive.
+Any questions you may have regarding this filing should be directed to my attention at 407-740-3006 or
+via email to croesel@inteserra.com. Thank you for your assistance in this matter.
+Sincerely,
+/sf Carey Roesel
+Carey Roesel
+Consultant to Bluetone Communications, LLC
+tms: FCCv2001
+CR/gs
+
+Before the
+FEDERAL COMMUNICATIONS COMMISSION
+Washington, D.C. 20554
+In the Matter of )
+)
+Bluetone Communications, LLC )
+) WC Docket No. 20-----
+For Authorization to Obtain Numbering )
+Resources Pursuant to Section 52.15(g) of )
+The Commission's Rules )
+APPLICATION OF BLUETONE COMMUNICATIONS, LLC
+FOR AUTHORIZATION TO OBTAIN NUMBERING RESOURCES
+Bluetone Communications, LLC ("Bluetone") pursuant to Section 52.15(g)(3)(i) oft he Commission's
+Rules, respectfully requests authorization to obtain numbering as described below.
+Under the Commission's Numbering Order, 1 an interconnected VoiP provider may obtain numbering
+resources from the Numbering Administrator upon a showing that it is authorized to provide service in the
+area for which the numbering resources are requested. Such authorization may be obtained upon an
+application to the Commission containing the information detailed in Section 52.15.(g)(3)(i)(A)-(G) of the
+Commission's Rules. Bluetone hereby requests the Commission grant it that authorization. In support of this
+application, Bluetone provides the following information:
+I. INFORMATION REQUIRED BY SECTION 52.15(g)(3)(i)
+A. § 52.15(g)(3)(i)(A)
+Name: Bluetone Communications, LLC
+Address: 1163 Pittsford-Victor Rd
+City: Pittsford
+State: New York
+ZIP Code: 14534
+Telephone: (866) 260-3765
+Website: www. bluetone.net
+1 Numbering Policies for Modern Communications, FCC 15-70 (rel. June 22, 2015).
+
+Contact for Regulatory Requirements, Compliance, 911, and Law Enforcement:
+Name: Jackie Smith and/or Omar Luna
+Address: 1163 Pittsford-Victor Rd
+City: Pittsford
+State: New York
+ZIP Code: 14534
+Telephone: (585) 270-1373
+Emails: Jackie.smith~bluetone.net; omar.luna@bluetone.net
+B. § 52.15(g)(3)(i)(B)
+Bluetone hereby acknowledges that authorization to obtain numbering resources under
+Section 52.15(g) of the Commission's Rules is subject to compliance with applicable Commission numbering
+rules as well as to the numbering authority delegated to the states. Bluetone hereby also acknowledges that
+this authorization is subject to compliance with industry guidelines and practices regarding numbering, as
+applicable to telecommunications carriers. The numbering resources that are the subject of this Application
+will be used to provide interconnected VoiP services initially in the state of Texas.
+c.
+§ 52.15(g)(3)(i)(C)
+Bluetone hereby acknowledges that it must file requests for numbers with the relevant state
+commission(s) at least 30 days before requesting numbers from the Numbering Administrators.
+D. § 52.15(g)(3)(i)(D)
+Bluetone hereby sets forth its capability to provide service within 60 days of the numbering
+resources activation date.
+To demonstrate its facilities readiness, Bluetone will have the following resources available at
+its disposal: a fully integrated back office support system with the ability to schedule and process LNP orders
+from customers and an experienced provisioning department capable ofh andling bulk number ports. Bluetone
+has an agreement in place with a CLEC partner to route traffic to the ILECs. Bluetone has attached to this
+application, as Exhibit A, an agreement between Bluetone and its carrier partner providing that the carrier
+partner will host Bluetone' s numbers on its switches and provide connectivity to the PSTN for inbound calls
+to Bluetone numbers. Bluetone has requested confidential treatment under the Commission's rules for Exhibit
+
+A. Also attached, as Exhibit B, is evidence of interconnection agreement between Bluetone's carrier partner
+and a local exchange carrier in the state of Texas.
+E. § 52.15(g)(3)(i)(E)
+Bluetone hereby certifies that it complies with its Universal Service Fund contribution
+obligations under 4 7 CFR part 54, subpart H, its Telecommunications Relay Service contribution obligations
+under 47 CFR § 64.604(c)(5)(iii), its North American Numbering Plan and Local Number Portability
+Administration contribution obligations under 47 CFR §§ 52.17 and 52.32, its obligations to pay regulatory
+fees under 4 7 CFR § 1.1154, and its 911 obligations under 4 7 CFR part 9.
+F. § 52.15(g)(3)(i)(F)
+Bluetone certifies that it has the financial, managerial, and technical expertise to provide
+reliable service. It is financially stable, led by a strong, experienced management team with substantial
+managerial experience in the telecommunications industry, and has sufficient technical expertise and
+infrastructure in place to provide reliable numbering services. Bluetone's key management and technical
+personnel are listed below. None of the identified personnel are being or have been investigated by the
+Commission or any law enforcement or regulatory agency for failure to comply with any law, rule, or order.
+Key Personnel:
+CEO OmarLuna
+Vice Presidents Tim Chenoweth (VP of Global Relations)
+Jackie Smith (VP of Finance & Administration)
+Rebecca Barkhuizen (VP of Operations)
+Technical Executives AI Smith (Director ofVE)
+Chad Harland (Director of IT & Development)
+G. § 52.15(g)(3)(i)(G)
+Bluetone hereby certifies that no party to this application is subject to a denial of Federal
+benefits pursuant to Section 5301 ofthe Anti-Drug Abuse Act of 1988, 21 U.S.C. § 862.
+
+II. ACKNOWLEDGEMENT OF CONDITIONS IN SECTION 52.15(g)(3)(iv)
+As required by Section 52.15(g)(3 )(iv), Bluetone will maintain the accuracy of all contact information
+and certifications in this application and will file a correction with the Commission and each applicable state
+within 30 days of any changes. Bluetone will also furnish accurate regulatory and numbering contact
+information to each state commission when requesting numbers in that state.
+III. CONCLUSION
+Pursuant to Section 52.15(g)(3)(i) of the Commission's Rules, Bluetone respectfully requests the
+Commission grant this application for authorization to obtain numbering resources.
+Respectfully submitted,
+Carey Roesel, Consultant
+Inteserra Consulting Group, Inc.
+(407) 740-3006
+croesel@inteserra.com
+and
+Omar Luna, CEO
+Jackie Smith, VP of Finance and Administration
+Bluetone Communications, LLC
+1163 Pittsford-Victor Rd
+Pittsford, NY 14534
+(866) 260-3765
+omar.luna@bluetone.net
+jackie.smith@bluteone.net
+October 19, 2020
+
+Exhibit A
+AGREEMENT BETWEEN
+BLUETONE COMMUNICATIONS
+AND CARRIER PARTNER
+(Confidential exhibit submitted separately)
+
+Exhibit B
+((or each state listed)
+INTERCONNECTION AGREEMENTS BY AND
+BETWEEN CARRIER PARTNER
+AND
+SOUTHWESTERN BELL TELEPHONE, L.P.
+DBA SBC TEXAS
+
+T. Aaron Morris
+~
+~at&t Senior Attorney ••
+Legal
+AT&tTexas · T: 512.870.5717
+400 W. 15111 Street, Su"e 1030 F: 512.870.3420
+Austin, Texas 78701 aaron.morr!i@att.com
+May 8, goo8
+Commissio·n Filing Clerk
+Public Utility Commission of Texas
+1701- N. ·Congress Avenue
+Austin, Texas 78701
+RE: Docket 35525 .• Joint Application of Southwestern Bell Telephone Compan'l
+dlbla AT&T Texas and Neutral Tandem-Texas, LLC for Approval of
+·Amendment to Interconnection Agreement under PURA and the
+Telecommunications Act of 1996
+Dear Fili_ng Clerk:
+In respor.~se to Order No. 2, Approving Amendment to Interconnection Agreement, issued •
+Aprir· 17, 2008, attached is the complete amended interconnection agreement between
+Southwestern Bell Telephone Company d/b/a AT&T Texas and Neutral Tandem· Texas,
+~~ . .
+Please do not hesitate to call me If you have any questions regarding this matter.
+Sin~er~ly, ·
+T. Aaron Morris
+Senior Attom~y
+co: Davld Tatak, Vice .President of Billing & Revenue Services for Neutral Tandem ..
+Texas, LLC (U.S. mail)
+General Counsel, PUC (Hand delivered)
+Central Records; PUC (Hand delivered)
+•
+2
+
+•
+AT&T/NEUTRAL
+TANDEM-TEXAS, LLC
+e
+INTERCONNECTION
+AGREEMENT AMENDED
+AS OF 4/17/08
+•
+3
+
+GENERAl. TERMS AND CONDmONS/SBC·13STATE
+PAGE1 OF61
+SBC:13STATEINEUTRAL TANDEM-(AR INKS MO NV OK TX), LLC.
+•
+032405
+INTERCONNECTION AND/OR RESALE AGREEMENT UNDER
+SECTIONS 251 AND 252 OF THE TELECOMMUNICATIONS ACT OF
+1996
+between one or more of
+Illinois Bell Telephone Company d/b/a SBC Illinois,
+Indiana Bell Telephone Company Incorporated d/b/a SBC Indiana,
+Michigan Bell Telephone Company d/b/a SBC Michigan,
+Nevada Bell Telephone Company d/b/a SBC Nevada,
+The Ohio Bell Telephone Company d/b/a SBC Ohio,
+Pacific Bell Telephone Company d/b/a SBC California,
+•
+The Southern New England Telephone Company d/b/a SBC
+Connecticut,
+Southwestern Bell Telephone, L.P. d/b/a SBC Arkansas, SBC
+Kansas, SBC Missouri, SBC Oklahoma and/or SBC Texas,.
+Wisconsin Bell, Inc. d/b/a SBC Wisconsin
+and
+Neutral Tandem-Arkansas, LLC; Neutral Tandem-Indiana, LLC;
+Neutral Tandem-Kansas, LLC; Neutral Tandem-Missouri, LLC;
+Neutral Tandem-Nevada, LLC; Neutral Tandem-Oklahoma, LLC;
+Neutral Tandem-Texas, LLC
+•
+7
+
+GENERAL TERMS AND CONOITIONSISBC:13SIATE
+PAGE130F61
+SBC:13STATEINEUTRAL TANDEM-{AR INKS MO NV OK TX), LLG.
+• . 032405
+Point need nat be the same as the Rating Point, nor must it be located within the Rate Center
+area, QUt must be in the same LATA as the NPAooNXX.
+1.1.1 00 "SBC Communications Inc: {SBC) means the holding company which directly or indirectly
+owns the following ILECs: Illinois Bell Telephone Company d/b/a SBC Illinois, Indiana Bell
+Telephone Company Incorporated d/b/a SBC Indiana, Michigan Bell Telephone Company d/b/a
+SBC Michigan, Nevada Bell Telephone Company d/b/a SBC Nevada, The Ohio Bell Telephone
+Company d/bla SBC Ohio, Pacific Bell Telephone Company d/b/a SBC California, The
+Southern New England Telephone Company d/b/a SBC Connecticut, Southwestern Bell
+Telephone, L.P. d/b/a SBC Arkansas, SBC Kansas, SBC Missouri, SBC Oklahoma and/or SBC
+Texas, and/or Wisconsin Bell, Inc. d/b/a SBC Wisconsin.
+1.1.101"SBC·2STATE" • As used herein, SBC·2STATE means SBC· CAUFORNJA and SBC
+NEVADA, the applicable SBC-owned ILEC(s) doing business in California and Nevada.
+1.1.10211SBC-4STATE"- As used herein, SBC-4STATE means Southwestern Bell Telephone, L.P .•
+d/b/a SBC Arkansas, SBC Kansas, SBC Missouri, and SBC Oklahoma, the applicable SBC·
+owned ILEC{s} doing business in Arkansas, Kansas, Missouri and Oklahoma.
+1.1.10311SBC.7STATE11 As used herein, SBC·7STATE means SBC SOUTHWEST REGION 5-
+•
+STATE, SBC CAUFORNIA and SBC NEVADA. the applicable SBC-owned ILEC{s) doing
+business In Arkansas, California, Kansas, Missouri, Nevada, Oklahoma, and Texas.
+1.1.104"SBC·8STATE"- As used herein, SBC-8STATE means SBC SOUTHWEST REGION 5-
+STATE; SBC CALIFORNIA, SBC NEVADA, and SBC CONNECTICUT the applicable SBC
+owned ILEC(s) doing business In Arkansas, Callfomla, Connecticut, Kansas, Missouri, Nevada,
+Oklahoma, and Texas. ·
+•
+1.1.105"SBC·10STATE" ·As used herein, SBC·10STATE means SBC SOUTHWEST REGION 5-
+STATE and SBC MIDWEST REGION 5-STATE an the applicable SBC-owned ILEC(s) doing
+business in Arkansas, Illinois, Indiana, Kansas, Michigan, Missouri, Ohio, Oklahoma, Texas,
+and Wisconsin. · ·
+1.1.106"SBC·12STATE"-As used herein, SBC·12STATE means SBC SOUTHWEST REGION 5-
+STATE. SBC MIDWEST REGION 5-STATE and .SBC·2STATE the applicable SBC-owned
+ILEC(s) doing business In Arkansas, California, Illinois, Indiana, Kansas, Michigan, Missouri,
+Nevada, Ohio, Oklahoma, Texas, and Wisconsin.
+1.1.107"SBC·13STATE" •~ As .us~ herein, SBC.13STAIE J11e@ns SBCSOUTHWEST REGION 5-
+STAIE, SBC MIDWEST REGION 5-STAT£ SBC•2STATE and SBC CONNECTICUT the
+appl!c:able SBC-owned ILEQ(s) doing biJsin~s In Arkal"'~s, Csllfomia, Connecticut, Illinois,
+Indiana, Kansas, Michigan, Missouri, Nevada, .Ohio, Pklahoma, Texas; and Wisconsin.
+1.1.1 08"SBC ARKANSAS" • As used herein, SBC ARKANSAS means Southwestern Bell Telephone,
+L.P. d/b/a SBC Arkansas, the a'pplicable SBC-awned ILEC doing business in Arkansas.
+1.1.109"SBC CALIFORNIA" ·As used herein, SBC CALIFORNIA means Pacific Bell Telephone
+Company d/b/a sec California, the applicable _SBC-owned ILEC doing business In California.
+1.1.11 0 "SBC CONNECTICUT'' - As used herein, SBC CONNECTICUT means The Southern New
+England Telephone Company d/b/a sec Connecticut the applicable above listed ILEC doing
+business in Connecticut.
+1.1.111 "SBC KANSAS"-As used herein, SBC KANSAS means Southwestern Bell Telephone, L.P.
+d/b/a SBC Kansas, the applicable SBC-awned ILEC doing business in Kansas.
+•
+1.1.11211SBC ILLINOIS" -As used herein, SBC ILLINOIS means Illinois Bell Telephone Company
+d/b/a SBC Illinois, the applicable SBC-owned ILEC doing business In Illinois .
+1.1.113"SBC INDIANA"-As used herein, SBC INDIANA means Indiana Bell Telephone Company,
+Incorporated d/b/a SBC Indiana, the applicable SeC-owned ILEC doing business In Indiana.
+19
+
+GENERAL TERMS-AND CONDmONS/SBC·13STAJE
+PAGE240f'61
+8BC:13STA!i'Nt:UTRAL TANDEM-(AR INKS MO NV 01< tx), UC. •
+032405
+referring Partts tariff(s). However, if either Party provides Referral Announcements for
+a period longer than the above perioo(s) when Its End Users change their telephone
+numbers, such Party shall provide the same level of service to End Users of the other
+Party •
+. 4.~.4 The following applies to §BC OHIO only:
+4.9.4.1 Referral Announcements shall be provided· by· a Party to the other Party for the period
+of time specified In Rule 4901:1-5-12, Ohio Administrative Code and at the rates set
+forth In the referring ·Party's tariff(s). However, if either Party provides Referral
+Announcements for a period longer than the above perlod(s) when Its. End Users
+change· their telephone numbers, such Party shall provide the same level of service to
+End Users of the otherParty.
+4.10. E~cn Party shall be msponsi!Jie for labor relations with its own employees. Each Party agrees to notify
+the other Party as soon as practicable whenever such ·Party has knowledge that a labor dispute
+· · concerning Its employees ls delaying· or threatens -to delay such Party's timely performance of Its
+obligations under this Agreement and shall endeavor to minimize Impairment of service to the other
+Party (for example, by using Its management personnel to perform work or by other means) In the event
+of a. labor dispute to the extent permitted by Applicable Law.
+4.11 Each Party shall act in good faith In Its performance under this Agreement and, In each case in which a
+Party's consent or agreement Is required or requested hereunder, such Party shall not unreasonably
+withhold or delay such consent or agreement. · .
+4.12 This Agreement contains comprehensive OSS terms and conditions; however, CLEC represents and
+covenants that It will only use OSS furnished pursuant to this Agreement for activities related to Lawful •
+UNEs, resold services or other services covered by this Agreement, for which this Agreement contains
+explicit terms, conditions and rates. · .
+4.13 The Parties acknowledge and agree that they dq not Intend to Include products and services In this
+Agreement that do not have corresponding rates and charges. Accordingly, If this Agreement Is
+executed and/or approved by the· Commission and the Parties later discover that a product or service Is
+Included ·In this Agreement without an associated rate or charge, ·the Parties agree that they will agree
+~pen a rate or charge to Include In this Agreement before the product or $8rvlce Is provided or
+performed. If the Parties cannot agree, either Party may pursue dispute resolution under the applicable
+provisions of this Agreement.
+..
+5. ~FFECTIVE DATE, TERM, AND TERMINATION
+5.1 ln S8C-13STATE. with the exception of SBC OHIO, the Effective Date of this Agreement shall be ten
+(~0} ·calendar ~ays after the Commission approves this Agreement under Section 252(e) of the Act or,
+absent such Commission apProval, the date this Agreement Is deemed approved under Section
+252(e)(4) of the Act. In §BC OHIO, based on the PUC-OH, the Agreement Is Effective upon filing and Is
+deemed approved by operation of:law on the 91• day after filing.
+5.2 The ·term of this Agreement shall commence upon the Effective Date of this Agreement ahd shall expire
+on July 18, 2006, provided; however, should CLEC Implement Q.e. prQvlded assurance of payment,
+ordered facilities, and submitted ASRs for trunking} this Agreement within six (6) months of the Effective
+. Date, then this Agreement will automatically renew for one additional year and expire on July 18, 2007
+(the "Termj. Absent the rec:etpt by one Party of written notice from the other Party within 180 calendar
+-: clays Prior to 1fle expiration of; the Term· to 1ha-e~ that sqch Party dQes not Intend to extend the 'T.E!mti
+:tills Agi'Qement .shaH remain In ~H torte and .effect on and after the expiration of the Term unUI
+•
+.terminated by either Party pursuantto Septlon 5.3 or 5,4. ·
+5.2.1 Notwithstanding anything to thEt contrary In this Section 5, the original expiration date of this
+Agreement, as modified by this Amendment, will be extended for a period of three (3) years from
+January 11, 2008 until January 11, 2011 (the •extended Expiration Datej. The Agreement shall
+30
+
+GENERAL TERMS AND CONDITIONSJi§C:13STA!§
+PAGE61 OF61
+S!lC·13STATEJNEUTRAL TANDEM{AR INKS MO NVOKTX},LLC.
+• 032405
+SBC·13STAT E AgrE!•ment
+Signatures
+THIS AGREEMENT CONTAINS A BINDING
+ARBITRATION PROVISION WHICH MAY BE .
+ENFORCED BY THE PARTIES.
+CLEC's STATE-SPECIFIC:
+FACILITIES·BASED OCN # -____,,--
+RESALE OCN # ----
+ACNA
+Neutral Tandem-Arkansas, LLC; Neutral Tandem· Indiana Bell Telephone Company Incorporated d/b/a SBC
+Indiana, LLCi Neutral Tandem-Kansas, LLC; Neutral Indiana, Nevada Bell Telephone Company dlbla SBC
+•
+Tandem-Missouri, LLC; Neutral Tandem-Nevada, Nevada, and/or Southwestern Bell Telephone, LP. d/b/a
+LLC: Neutral Tandem-Oklahoma, LLC; Neutral SBC Arkansas, SBC Kansas, sac Missouri, sac
+sac by Its
+Tandem·Texas,LLC Oklahoma, Texas; SB Operations, Inc.,
+authorized agent ,.-
+J:)~ ~
+Signature:
+'DP\
+Name: v 'b
+fe-r"" Name: ___lW _._ke_A_u_in_b_a~u_h _____
+(Print or Type) (Print or Type)
+n~~e:U~ '?l~S~ ·
+--.L.. Title: AVP-Locallnterconnection Marketing
+(P orType)
+Date: S {t b., o ~ JUN I 2
+Date: ~
+•
+67

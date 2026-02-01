@@ -1,0 +1,209 @@
+PUBLIC VERSION
+April 10, 2019
+Via ECFS
+Ms. Marlene Dortch
+Secretary
+Federal Communications Commission
+445 12th Street SW
+Washington, DC 20554
+Re: Request for Confidential Treatment to Application of NumberBarn, LLC for
+Authorization to Obtain Numbering Resources Pursuant to Section 52.15(G) of
+the Commission’s Rules
+Dear Ms. Dortch,
+Pursuant to Section 52.15(g)(3)(i) of the Commission’s Rules, NumberBarn, LLC (“NumberBarn”)
+hereby submits its application requesting authorization to obtain numbering resources. This filing
+includes confidential information. As contemplated by the Commission’s rules, we are filing the public
+version electronically and the confidential version via first-class mail.
+NumberBarn, respectfully requests that, pursuant to Sections 0.457 and 0.459 of the
+Commission’s rules, 47 C.F.R. § 0.457 and 0.459, the Commission withhold from public inspection, Exhibit
+A to this application in its entirety as confidential because the documents contain trade secrets and
+commercially sensitive information that falls within Exemption 4 of the Freedom of Information Act
+(“FOIA”), 5 U.S.C. § 552(b)(4).
+The information in Exhibit A is “of a kind that would not customarily be released to the public”
+and therefore, this information qualifies for confidential treatment under FOIA. NumberBarn respectfully
+submits that it would suffer substantial competitive harm if this information were disclosed. Exhibit A is
+accordingly marked with “Confidential and Proprietary – Filed Under Seal Pursuant to 47 C.F.R. §0.459.”
+NumberBarn’s application follows this cover letter.
+Respectfully Submitted,
+Allison D. Rule
+Marashlian & Donahue, PLLC
+1420 Spring Hill Road, Suite 401
+McLean, VA 2210
+(703) 714-1312
+adr@commlawgroup.com
+Counsel to NumberBarn, LLC
+
+PUBLIC VERSION
+Before the
+FEDERAL COMMUNICATIONS COMMISSION
+Washington, D.C. 20554
+In the Matter of )
+)
+NumberBarn, LLC )
+Applicant ) WC Docket No. 18-_______
+)
+For Authorization to Obtain Numbering )
+Resources Pursuant to Section 52.15(g) of )
+the Commission’s Rules )
+APPLICATION OF NUMBERBARN, LLC FOR AUTHORIZATION TO OBTAIN
+NUMBERING RESOURCES
+Pursuant to 47 C.F.R §52.15(g)(3), ,NumberBarn, LLC (“NumberBarn”), a provider of
+interconnected voice over Internet Protocol (“IVoIP”) service, hereby respectfully requests
+authorization from the Federal Communications Commission (“Commission”) to acquire
+telephone numbers directly from the North American Numbering Plan Administrator and the
+Pooling Administrator (“Numbering Administrators”).
+As set forth in the Commission’s Numbering Order1, an IVoIP provider may obtain
+numbering resources from Numbering Administrators upon a showing of the provider’s authority
+to provide service in the service area for which the numbering resources are requested. In support
+of this application, NumberBarn provides the following information.
+I. INFORMATION REQUIRED BY SECTION 52.15(g)(3)(i)
+A. § 52.15(g)(3)(i)(A)
+Name: NumberBarn, LLC
+Address: P.O. Box 3, Poway, California 92074
+1 Number Policies for Modern Communications, 30 FCC Rcd. 6839 (2015).
+
+PUBLIC VERSION
+Telephone Number: 858-630-7443
+Personnel qualified to address regulatory/Compliance/911 issues:
+Matthew Veling
+P.O. Box 3
+Poway, CA 92074
+760-877-8759
+mveling@numberbarn.com
+B. § 52.15(g)(3)(i)(B)
+NumberBarn hereby acknowledges that: grant of the authorization sought by this
+application is subject to compliance with applicable commission numbering rules, numbering
+authority delegated to the states, and industry guidelines and practices regarding numbering as
+applicable to telecommunications carriers.
+C. § 52.15(g)(3)(i)(C)
+NumberBarn hereby acknowledges that it must file requests for numbers with the relevant
+state commission(s) at least thirty (30) days before requesting numbers from the Numbering
+Administrators.
+D. § 52.15(g)(3)(i)(D)
+NumberBarn hereby provides its capability to provide service within sixty (60) days of the
+numbering resources activation date. NumberBarn has agreements in place with carrier partners
+who in turn have interconnection agreement in effect with local exchange carriers.
+NumberBarn has served as a VoIP provider since 2014. It maintains well-established
+operations and procedures and has experienced personnel to support numbering requests and
+routing. NumberBarn will not obtain numbering resources in areas where it does not have direct
+PSTN connectivity until it has executed agreements with carrier partners to host NumberBarn
+numbers and provide PSTN connectivity.
+
+PUBLIC VERSION
+As evidence of its operational readiness to begin providing service within sixty (60) days
+of the numbering activation date, attached hereto as confidential Attachment A is an
+interconnection agreement between NumberBarn and a local exchange carrier. NumberBarn is
+submitting Attachment A separately in accordance with its request for confidential treatment.
+E. (47 C.F.R. § 52.15(g)(3)(i)(E)-(G))
+NumberBarn hereby certifies to the following:
+a) NumberBarn complies with its Universal Service Fund contribution obligations
+under 47 C.F.R. Part 54, subpart H; its Telecommunications Relay Service
+contributions obligations under 47 C.F.R. § 64.604(c)(5)(iii); its NANP and
+LNP administration contribution obligations under 47 C.F.R. §§ 52.17 and
+52.32; its obligations to pay regulatory fees under 47 C.F.R. § 1.1154; and its
+911 obligations under 47 C.F.R. part 9.
+b) NumberBarn hereby certifies that it possesses the financial, managerial, and
+technical expertise to provide reliable service.
+c) Attached hereto as Ex. B are names and biographies of the Companies key
+management personnel. NumberBarn states and avers that none of the
+identified personnel is being or has been investigated by the Commission, by
+any law enforcement, or by any regulator agency for failure to comply with any
+law, rule or order.
+d) Pursuant to 47 C.F.R. §§ 1.2001 and 1.2002, no party to the application is
+subject to a denial of Federal benefits pursuant to section 5301 of the Anti-Drug
+Abuse Act of 1988.2
+2 See 21 U.S.C. §862.
+
+PUBLIC VERSION
+II. ACKNOWLEDGEMENT OF CONDITIONS IN SECTION 52.15(g)(3)(iv)
+As required in 47 C.F.R. §52.15(g)(3)(iv), NumberBarn will maintain the accuracy of all
+contact information and certifications in this application, and will file a correction with the
+Commission and each applicable state within (thirty) 30 days of any changes. NumberBarn will
+also furnish accurate regulatory and numbering contact information to each state commission when
+requesting numbers in that state.
+III. CONCLUSION
+Pursuant to Section 52.15(g)(3)(i) of the Commission’s rules, NumberBarn respectfully
+requests the Commission to grant this application for authorization to obtain numbering resources
+from Numbering Administrators as an IVoIP provider.
+Respectfully submitted this 10 day of April , 2019,
+________________________
+Allison D. Rule
+Marashlian & Donahue, PLLC
+1420 Spring Hill Road, Suite 401
+McLean, VA 2210
+(703) 714-1312
+adr@commlawgroup.com
+Counsel to NumberBarn, LLC
+
+PUBLIC VERSION
+Exhibit A
+Interconnection Agreement
+Confidential and Proprietary – Filed Under Seal
+Pursuant to 47 C.F.R. §0.459
+
+PUBLIC VERSION
+Exhibit B
+Management Biographies
+Matthew Veling
+An experienced leader and entrepreneur, Matthew has nearly two decades of executive leadership
+experience, with over a decade of experience in the telecommunications industry. Matthew has a
+deep understanding of telecommunications – from product design, to operations, to regulatory and
+tax compliance matters.
+A Gallup-Certified Strengths Coach, Matthew builds capacity by connecting people and purpose,
+cultivating strengths-based teams, and creating management systems that allow organizations to
+flourish.
+Matthew has been an integral part of several VoIP and SaaS companies, and understands the
+workflows, systems and processes that will be involved as NumberBarn enters the VoIP
+Numbering space.
+Matthew holds a Bachelor’s Degree from California State University San Marcos, and an M.Div.
+from Azusa Pacific University. He has completed graduate studies in Community Development at
+Eastern University, and is currently enrolled in the Doctorate of Ministry, Urban
+Ministry/Community Development program at Fuller Theological Seminary.
+Key roles:
+Co-founder and CEO
+NumberBarn, LLC
+Sep 2014 – present
+Matthew is a co-founder of NumberBarn, and he provides executive leadership, product
+management, and handles compliance, tax, and regulatory matters.
+Strengths Coach & Trainer
+Center for Executive Excellence, Inc.
+Jan 2015 – Jan 2017
+Matthew designed strengths-based programs to improve individual performance, increase
+management effectiveness, and produce highly engaged teams.
+Co-founder, Product Manager, Cultural Architect
+Phone.com, Inc.
+Jul 2007 – Jul 2014
+Matthew provided product management, product oversight, feature cultivation, and cross-
+department integration. He implemented systems and processes to support Phone.com’s VoIP
+product.
+
+PUBLIC VERSION
+Brian McNeill
+An experienced leader, product, and UI/UX expert, Brian has managed on-line brand and user
+experience throughout his career, including web site development, communications, and overall
+company strategy. He has worked both in telecommunications and in SaaS technology companies
+to direct product and feature development decisions, and to identify appropriate web solutions.
+With over a decade of telecommunications experience, Brian is well suited to drive product
+decisions that work in the VoIP OTT space. He relies on his deep understanding of numbering
+issues, including number ordering and porting processes, to help him to create simple and efficient
+products and processes.
+Key roles:
+Co-founder
+NumberBarn, LLC
+Sep 2014 – present
+Brian is a co-founder of NumberBarn, and he provides executive leadership, product management,
+and brand management. Brian’s in-depth understanding of telecommunications, especially in the
+VoIP OTT space, helps him make product design decisions with simplicity, usability, and
+efficiency in mind.
+Co-founder, Brand Manager, UI / UX Developer
+Phone.com, Inc.
+Jul 2007 – Aug 2014
+Brian provided product management, product oversight, brand management, and directed UI / UX
+during his time at Phone.com. With a deep understanding of the Phone.com products, he created
+customer-facing UX, as well as back office systems to support Phone.com’s VoIP product.
+Product Manager, Web Director
+TierraNet, Inc.
+Sep 2005 – May 2012
+Brian provided product management, content development, and communication strategy to
+TierraNet as it grew to become one of the largest domain registrars. During this time, he honed his
+experience in VoIP, SaaS, and scale within the web hosting and telecommunications industries.

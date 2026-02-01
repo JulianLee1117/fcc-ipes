@@ -1,0 +1,36 @@
+VIA ECFS
+April 24, 2017
+Marlene Dortch, Secretary
+Federal Communications Commission
+445 121 H Street SW
+Washington, DC 20554
+Re: OpenSIP.com, LLC., Amendment for Authorization to Obtain Number
+Resources Pursuant to Section 52.15(g) of the Commission’s Rules. WC Docket No.
+17-89
+Dear Ms. Dortch:
+Pursuant to Section 52.15(g)(3)(i) of the Commission’s Rules, OpenSIP.com, LLC
+hereby wishes to submit an amendment to its application requesting authorization
+to obtain numbering resources.
+1. OpenSip.com LLC confirms that there is no foreign ownership of
+OpenSIP.com LLC either by individual or entity.
+2. We are interconnected VoIP provider as defined by 47 CFR 9.3
+3. We would like amend 47 CFR § 64.604(5)(iii) to 47 CFR § 64.604(c)(5)(iii)
+filed under section 52.15(g)(3)(i)(E) of the Interconnected service agreement
+application.
+4. In the original application under section 52.15(g)(3)(i)(D), it was stated that
+"As proof of its facilities readiness, OpenSIP.com has attached to this
+application (1) An agreement between OpenSIP.com and its carrier partner
+providing that the carrier partner will host OpenSIP.com numbers on its
+switches and provide PSTN connectivity for inbound calls to OpenSIP.com
+numbers..." OpenSIP.com LLC wishes to amend and correct this sense to "As
+proof of its facilities readiness, OpenSIP.com has attached to this application
+(1) An agreement between OpenSIP.com and its carrier partner providing
+that the carrier partner will host OpenSIP.com numbers on its switches and
+
+provide PSTN connectivity for both inbound and outbound traffic to and from
+OpenSIP.com telephone numbers."
+For any question regarding this amendment please contact Anees Elbruki at
+(714) 448-6555 or anees@elbruki.com
+Respectfully Submitted,
+Anees Elbruki
+OpenSIP.com, LLC

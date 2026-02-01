@@ -1,0 +1,175 @@
+Before the
+FEDERAL COMMUNICATIONS COMMISSION
+Washington, D.C. 20554
+In the Matter of )
+)
+8x8, Inc., Applicant ) WC Docket No. 19-______________
+)
+For Authorization to Obtain Numbering )
+Resources Pursuant to Section 52.15(g) of )
+the Commission’s Rules )
+APPLICATION OF 8X8, INC. FOR NUMBERING AUTHORIZATION
+8x8, Inc. (“8x8”), an interconnected VoIP provider currently offering interconnected
+VoIP service to end user customers, files this application with the Federal Communications
+Commission (“Commission”) for authorization to acquire telephone numbers directly from the
+North American Numbering Plan Administrator and the Pooling Administrator (“Numbering
+Administrators”) pursuant to Section 52.15(g)(3) of the Commission’s rules. An interconnected
+VoIP provider may obtain numbering resources from the Numbering Administrators upon
+showing that it is authorized to provide service in the area for which the numbering resources are
+requested.1 Such authorization may be obtained upon application to the Commission containing
+the information in Section 52.15(g)(3)(i) of the Commission’s Rules.2 8x8 hereby provides that
+information and requests that the Commission grant the authorization.
+I. INFORMATION REQUIRED BY SECTION 52.15(g)(3)(i)
+a) § 52.15(g)(3)(i)(A)
+Name: 8x8 Voice Communications, Inc.
+Address: 2125 O’Nel Dr.,
+1 47 C.F.R. § 52.15(g)(2); Numbering Policies for Modern Commc’ns et al., Report & Order,
+30 FCC Rcd. 6839 (2015).
+2 47 C.F.R. § 52.15(g)(3).
+
+San Jose, CA 95131
+Telephone: (646) 751-7323
+Qualified Personnel: Brendan Kasper, Senior Counsel, Regulatory
+Email: brendan.kasper@8x8.com
+b) § 52.15(g)(3)(i)(B)
+8x8 hereby acknowledges that authorization to obtain numbering resources under Section
+52.15(g) of the Commission’s Rules is subject to compliance with applicable Commission
+numbering rules, numbering authority delegated to the states, and industry guidelines and
+practices regarding numbering as applicable to telecommunications carriers.
+c) § 52.15(g)(3)(i)(C)
+8x8 hereby acknowledges that it must file requests for numbers with the relevant state
+commission(s) at least 30 days before requesting numbers from the Numbering Administrators.
+Appendix A to this application lists states where 8x8 intends to request numbering resources.
+d) § 52.15(g)(3)(i)(D)
+8x8 hereby sets forth its capability to provide service within 60 days of the numbering
+activation date. 8x8 has an agreement in place with a carrier partner that in turn has an
+interconnection agreement in effect with a relevant local exchange carrier; 8x8 likewise has the
+staff necessary to meet its number porting obligations. As proof of its facilities’ readiness, 8x8
+has attached to this application, as Confidential Exhibit A, an interconnection agreement between
+8x8 and its carrier partner and, as Confidential Exhibit B, relevant pages of an interconnection
+agreement between that carrier partner and a local exchange carrier.
+e) § 52.15(g)(3)(i)(E)
+8x8 certifies that it complies with its Universal Service Fund contribution obligations
+under 47 C.F.R. Part 54, Subpart H, its Telecommunications Relay Service contribution
+obligations under 47 C.F.R. § 64.604(c)(5)(iii), its North American Numbering Plan and Local
+2
+
+Number Portability Administration contribution obligations under 47 C.F.R. §§ 52.17 and 52.32,
+its obligations to pay regulatory fees under 47 C.F.R. § 1.1154, and its 911 obligations under 47
+C.F.R. Part 9.
+f) § 52.15(g)(3)(i)(F)
+8x8 certifies that it possesses the financial, managerial, and technical expertise to provide
+reliable service. 8x8’s key management are:
+Vik Verma, CEO
+Vik Verma joined 8x8 as a board member in 2012 and was appointed Chief Executive
+officer within a year to lead the company’s global expansion. He is the driving force
+behind 8x8’s market leadership in a 50 billion dollar unified and contact center
+communications market and its continued push for innovation in areas like Artificial
+Intelligence, machine learning and data analytics. Under Verma’s leadership, 8x8 has
+evolved into a global player in unified cloud communications from its inception as a
+Silicon Valley start-up.
+With more than 25 years of industry and management experience, Verma has
+successfully transformed several technology businesses through organic growth,
+international expansion and strategic mergers and acquisitions. Prior to 8x8, he was
+President of Strategic Venture Development at Lockheed Martin where he led early-stage
+technologies to new global commercial markets through collaborative incubators,
+intellectual property portfolio licensing and strategic partnerships with multi-national
+companies. Prior to this, Verma was the President of the IS&GS Savi Group, a Lockheed
+Martin technology and information services division providing real-time supply chain
+management and security solutions for government and commercial markets worldwide.
+His journey with Lockheed Martin began when he was Chairman of the Board and CEO
+of Savi, which was acquired by Lockheed Martin in 2006.
+Verma holds a B.S.E.E. degree from the Florida Institute of Technology, an M.S.E.
+degree from the University of Michigan in electrical engineering, and the post-graduate
+degree of Engineer in Electrical Engineering from Stanford University. Subsequently, in
+keeping with Silicon Valley tradition, Verma left his PhD program at Stanford to join the
+start-up world. He is also an alumnus of the Executive Management programs for CEOs
+at Harvard Business School, Stanford University, and the Haas School of Business at UC
+Berkeley.
+3
+
+Bryan R. Martin, Chairman of the Board and CTO
+Bryan Martin is 8x8’s technological visionary, leading the company’s drive to patent a
+range of disruptive and innovative technologies. With an excellent sense of how cloud
+communications transform enterprise communications and customer service, Martin led
+8x8 as CEO from its early days as a VoIP pioneer to its current position as the leading
+provider of Unified Communications as a Service. Before becoming CEO in 2002, he
+held the positions of Chief Operating Officer, Chief Technical Officer and Senior Vice
+President, Engineering Operations.
+Martin holds 64 United States Patents in the fields of semiconductors, computer
+architecture, video processing algorithms, videophones, and communications. Internet
+Telephony magazine named Bryan one of the “Top 100 Voices of IP Communications.”
+Bryan also served on the California Broadband Task Force for the Business,
+Transportation and Housing Agency, and later became Chair of the task force’s Emerging
+Technologies and New Applications Working Group.
+Martin is a member of the IEEE and Tau Beta Pi and received bachelor’s and master’s
+degrees in electrical engineering from Stanford University.
+Steven Gatoff, CFO
+With a focus on increasing stockholder value for technology companies and a passion for
+driving change and enabling growth, Steven Gatoff is an experienced SaaS CFO
+responsible for 8x8’s global financial operations. Gatoff brings 25+ years of leadership
+and finance expertise that supports the company’s globally expanding business, with a
+background across bulge bracket investment banking, big four public-company auditing,
+and nearly 10 years as a CFO.
+Gatoff has a distinctive track record of driving value creation for software and SaaS
+companies in both large public companies and earlier-stage, hyper-growth environments
+including Rapid7, VeriSign, Sterling Commerce, Elementum and PagerDuty. Before
+joining 8x8, Steven was CFO at high-growth SaaS companies Elementum and
+PagerDuty, where he helped scale their business models and operating execution. Prior to
+that, Gatoff was CFO at Rapid7, where he helped guide the company through its IPO and
+played a critical role in its global growth and execution. Prior to Rapid7, Gatoff was CFO
+of publicly-traded iPass, a cloud-based mobility management company. Prior to those
+positions, Gatoff spent nearly a decade in investment banking with Morgan Stanley,
+Credit Suisse and Bear Stearns after also having been an auditor with Deloitte. Gatoff
+received his MBA with honors from Columbia University and is a CPA.
+Mehdi Salour, SVP of Network Operations and DevOps
+Mehdi Salour is a super-ninja when it comes to global networks and DevOps. He leads
+8x8’s global network, data center, and security operations, enabling enterprise-grade
+4
+
+service delivery to be a key differentiation for the company. In addition, as 8x8
+increasingly supports the growing needs of mid-market and enterprise customers, Salour
+is chartered with spearheading the company’s DevOps cultural transformation to
+accelerate the delivery of innovative features and services.
+Prior to this role, Salour led 8x8’s network operations, service deployment, customer
+support and success organizations, and met the demands of customers- across SMB to
+mid-market and enterprise. Salour has been with 8x8 since the inception of the VoIP and
+UCaaS services and played a major role in developing the company’s CRM strategy as it
+transitioned from an OEM technology company to a customer-centric service provider.
+Under his leadership, 8x8 has built a world-class global cloud service delivery and
+network infrastructure, resulting in increased customer satisfaction and low churn.
+Salour gained his real-world experience with enterprise networks through various other
+8x8 positions, including IT Network Engineer, Network Operations Engineer, Manager
+of Technical Support, Director of Technical Support and Vice President of Network
+Operations. Salour holds a bachelor’s degree in electrical engineering and a master’s in
+software engineering with specialization in networking software and security. He holds
+seventeen patents.
+8x8 states that none of the identified personnel is being or has been investigated by the
+Commission or any law enforcement or regulatory agency for failure to comply with any law,
+rule or order.
+g) § 52.15(g)(3)(i)(G)
+8x8 hereby certifies that no party to this application is subject to a denial of Federal
+benefits pursuant to section 5301 of the Anti-Drug Abuse Act of 1988, 21 U.S.C. § 862.
+II. ACKNOWLEDGEMENT OF CONDITIONS IN SECTION 52.15(g)(3)(iv)
+As required by Section 52.15(g)(3)(iv), 8x8 will maintain the accuracy of all contact
+information and certifications in the application and will file a correction with the Commission
+and each applicable state within 30 days of any changes. 8x8 will also furnish accurate
+regulatory and numbering contact information to each state commission when requesting
+numbers in that state.
+5
+
+III. CONCLUSION
+Pursuant to Section 52.15(g)(3)(i) of the Commissions’ Rules, 8x8 respectfully requests
+the Commission grant this application for authorization to obtain numbering resources.
+Respectfully submitted,
+________________________________
+Brita D. Strandberg
+Courtney Miller
+HARRIS, WILTSHIRE & GRANNIS LLP
+1919 M Street N.W.
+Eighth Floor
+Washington, D.C. 20036
+Tel.: (202) 730-1300
+Fax: (202) 730-1301
+December 19, 2019 Counsel to 8x8, Inc.
+6

@@ -1,0 +1,98 @@
+BEFORE THE
+FEDERAL COMMUNICATIONS COMMISSION
+WASHINGTON, D.C. 20554
+Business Telecommunications Services, Inc. )
+) WC Docket No. 20-116
+Application for Authority to Obtain Direct )
+Access to Numbering Resources Pursuant to )
+Section 52.15(g) of the Commission’s Rules )
+SUPPLEMENT TO APPLICATION
+Business Telecommunications Services, Inc. (“BTS”), by counsel and pursuant to section
+52.15(g)(3)(i) of the rules of the Federal Communications Commission (the “FCC” or
+“Commission”), submits this Supplement (“Supplement”) to its previously filed application
+requesting authority to directly obtain numbering resources from the North American Numbering
+Plan Administrator and the Pooling Administrator (“Application”).1 BTS’s pending Application
+requests authorization to provide service in the area(s) for which the numbering resources are
+requested, and a grant of the Application would constitute such authority.2 BTS respectfully
+requests that the Commission consider the clarifications contained in this Supplement in
+reviewing and granting the pending Application.
+BTS is a provider of interconnected Voice over Internet-Protocol (“VoIP”) services,
+currently provided on a wholesale basis. BTS submitted its Application to the Commission on
+June 11, 2020 for authority to provide service in the area(s) for which numbering resources are
+1 See Business Telecommunications Services, Inc., Application for Authority to Obtain Direct
+Access to Numbering Resources Pursuant to 52.15(g) of the Commission’s Rules, WC Docket
+No. 20-166 (filed Jun. 11, 2020) (“BTS Application”).
+2 47 C.F.R. §52.15(g)(3).
+1
+4820-1673-5436v.2
+
+requested.3 Pursuant to Section 52.15(g)(3)(i), with this Supplement, BTS offers the following
+clarifications to its Application:
+A. BTS clarifies the ownership of its structure. BTS holds a Section 214 application for
+individual switched access service, granted on December 20, 1996.4 BTS is a Florida
+corporation owned in equal shares by entities controlled by Rafael Olloqui and Ricardo
+Olloqui. This Supplement clarifies that both Rafael and Ricardo Olloqui are United
+States citizens. Rafael Olloqui became a U.S. citizen on April 12, 2019 and Ricardo
+Olloqui became a U.S. citizen on May 18, 2020. At this time, the Company is now fully
+held by U.S. citizens, alleviating any international ownership concerns in granting this
+Application. Key management personnel are identified in Attachment 3 to the
+Application.5
+B. BTS has an operating agreement (the “Agreement”) with a carrier partner in the United
+States, Peerless Network, Inc., that provides BTS with public switched telephone network
+(“PSTN”) access through that partner entity’s approved interconnection agreements
+(“ICAs”) with the relevant local exchange carriers, as submitted in the Application.6
+BTS provided a copy of the Agreement in its original Application (as Attachment 2 to the
+Application). BTS’s carrier partner maintains ICAs with ILECs in Florida and
+throughout the country. At the Bureau’s request, BTS provides at Attachment 1 to this
+Supplement a copy of the state of Florida’s approval of the Peerless’s ICA with ILECs,
+3 47 C.F.R. § 52.15(g)(2).
+4 See File No. ITC-214-19961028-00541.
+5 See BTS Application, Attachment 3.
+6 See id., Attachment 2.
+2
+4820-1673-5436v.2
+
+which also was submitted in several recently approved applications for numbering
+authority, including Assurance Telecom, LLC.7
+Upon grant of this authority, BTS intends to amend its interconnection agreement with its
+partner to provide the critical resources needed for efficient porting of numbers.
+C. BTS clarifies that it has the ability to both originate and terminate service through
+Peerless. In addition to the services previously described, BTS has requested VoIP
+Control Service from Peerless, the same service relied upon Stratus Networks in its
+approved application.8 BTS additionally has an existing master service agreement
+(“MSA”) with Peerless, and can add other Service Orders as needed. Thus, if necessary,
+BTS can obtain additional services within 60 days of approval of its request.9 As
+mentioned in its Application, BTS initially seeks access to numbers only in the state of
+Florida.
+7 See Notice of Interconnected VoIP Numbering Application Granted (Assurance Telecom,
+LLC), DA 20-152, WC Docket No. 19-335 (rel. Feb. 13, 2020). Assurance submitted a Peerless
+ICA with the AT&T ILECs, including Florida in Docket 19-335 on Dec. 16, 2019. Assurance
+Telecom, LLC, Supplement, WC Docket No. 19-335, filed Dec. 16, 2019 (available at
+https://www.fcc.gov/ecfs/filing/1216272011264).
+8 See Stratus Networks, Inc., Application of Stratus Networks, Inc. for Authorization to Obtain
+Numbering Services, WC Docket No. 19-306 (Sept. 16, 2019); See Notice of Interconnected
+VoIP Numbering Authorization Granted, Public Notice, WC Docket No. 19-306 (rel. Jan. 17,
+2020), available at https://ecfsapi.fcc.gov/file/011712153856/DA-20-86A1_Rcd.pdf.
+9 47 C.F.R. §52.15(g)(3)(i)(D).
+3
+4820-1673-5436v.2
+
+CONCLUSION
+BTS requests that the Commission consider this Supplement to its Application, pursuant
+to Section 52.15(g)(3)(i) of the rules, for authority, in its capacity as a provider of interconnected
+VoIP services, to directly obtain numbering resources from the North American Numbering Plan
+Administrator and the Pooling Administrator.
+Respectfully Submitted,
+BUSINESS TELECOMMUNICATIONS
+SERVICES, INC.
+Steven A. Augustino
+KELLEY DRYE & WARREN, LLP
+3050 K Street NW
+Suite 400
+Washington, DC 20007
+(202) 342-8540
+September 30, 2020
+Counsel to Business Telecommunications
+Services, Inc.
+4
+4820-1673-5436v.2

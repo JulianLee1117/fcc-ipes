@@ -1,0 +1,290 @@
+51 LOUISIANA AVENUE, N.W. • WASHINGTON, D.C. 20001.2113
+TELEPHONE: +1.202.879.3939 • FACSIMILE: +1.202.626.1700
+Direct Number: (202) 879-3630
+bolcott@jonesday.com
+September 15, 2020
+REDACTED PUBLIC VERSION
+BY ELECTRONIC DELIVERY
+Marlene H. Dortch, Secretary
+Federal Communications Commission
+445 12th Street S.W.
+Washington D.C. 20554
+Re: Application of Five9, Inc. for Authorization to Obtain
+Numbering Resources
+WC Docket No. 20-____
+Dear Ms. Dortch:
+Five9, Inc. (“Five9”), by its counsel and pursuant to Sections 0.457 and 0.459 of the
+Commission’s Rules, 47 C.F.R. §§ 0.457, 0.459, hereby requests that the attached contracts
+included in Exhibits A and B be treated as confidential and withheld from public inspection.
+Five9 is filing with the Commission the attached Application for Authorization to Obtain
+Numbering Resources. As required by Section 52.15(g)(3)(i)(D) of the Commission’s rules and
+paragraph 37 of the Commission’s Order addressing the provision of numbering resources to
+interconnected VoIP providers, Five9’s application includes copies of agreements between Five9
+and its carrier partners, including with a local exchange carrier for the origination and termination
+of traffic from Five9’s network.1 The Commission’s Order on numbering resources acknowledged
+that applicants for numbering resources may need to file these materials on a confidential basis,2
+which is what Five9 is requesting. In support of this request for confidential treatment, and in
+accordance with the requirements of Section 0.459(b) of the Commission’s rules, 47 C.F.R. §
+0.459(b), Five9 herein provides the following information:
+1 See Numbering Policies for Modern Communications et al., Report and Order, 30 FCC Rcd.
+6839, ¶ 37 (2015).
+2 See id., ¶ 38 n.130.
+ALKHOBAR • AMSTERDAM • ATLANTA • BEIJING • BOSTON • BRUSSELS • CHICAGO • CLEVELAND • COLUMBUS • DALLAS
+DUBAI • DÜSSELDORF • FRANKFURT • HONG KONG • HOUSTON • IRVINE • JEDDAH • LONDON • LOS ANGELES • MADRID
+MEXICO CITY • MIAMI • MILAN • MOSCOW • MUNICH • NEW YORK • PARIS • PERTH • PITTSBURGH • RIYADH • SAN DIEGO
+SAN FRANCISCO • SÃO PAULO • SHANGHAI • SILICON VALLEY • SINGAPORE • SYDNEY • TAIPEI • TOKYO • WASHINGTON
+
+PUBLIC VERSION
+Marlene H. Dortch
+September 15, 2020
+Page 2
+0.459(b)(1) Identification of the specific information for which confidential treatment is
+sought. Five9 seek confidential treatment for its Master Service Agreement, including the
+attached amendment, between Five9 and Level 3 Enhanced Services, LLC, and for its SIP
+Gateway Outbound Service Agreement between Five9 and Verizon Services Corp.,
+hereinafter referred to together as the “Carrier Agreements.”
+0.459(b)(2) Identification of the Commission proceeding in which the information was
+submitted or a description of the circumstances giving rise to the submission. Five9 is
+filing the Carrier Agreements in support of its Application for Authorization to Obtain
+Numbering Resources. The submission of the Carrier Agreements is required by Section
+52.15(g)(3)(i)(D) of the Commission’s rules and paragraph 37 of the Commission’s Order
+addressing the provision of numbering resources to interconnected VoIP providers.3
+0.459(b)(3) Explanation of the degree to which the information is commercial or
+financial, or contains a trade secret or is privileged. The Carrier Agreements include
+commercial, technical and financial information regarding the contractual arrangements
+between Five9 and its carrier partners and therefore qualify as information that should be
+protected from disclosure under the Freedom of Information Act (“FOIA”) as “commercial or
+financial information obtained from a person and privileged or confidential.” 5 U.S.C. §
+552(b)(4).
+0.459(b)(4) Explanation of the degree to which the information concerns a service that
+is subject to competition. The market for telecommunications services is highly competitive
+with numerous carriers providing transport services and competition also existing in the
+market for local exchange services. As a result, the individual terms of the Carrier Agreements
+are subject to significant negotiation between the parties.
+0.459(b)(5) Explanation of how disclosure of the information could result in substantial
+competitive harm. Five9’s carrier partners are subject to significant competition in the
+telecommunications industry. The prices and terms for the provision of such services are a
+substantial differentiator between competing carriers. Therefore, disclosure of the Carrier
+Agreements would result in significant competitive harm to Five9’s carrier partners.
+0.459(b)(6) Identification of any measures taken by the submitting party to prevent
+unauthorized disclosure. Five9 understands that each of its carrier partners maintain
+3 See id., ¶ 37
+
+PUBLIC VERSION
+Marlene H. Dortch
+September 15, 2020
+Page 3
+extensive procedures to protect the confidential nature of their commercial agreements. For
+example, Five9 is prohibited by contract from publicly disclosing the Carrier Agreements,
+except as expressly authorized by the carriers. Further, Five9 is required by its carrier partners
+to require the implementation of a non-disclosure agreement or, as in the present case, to
+request confidential treatment for the Carrier Agreements.
+0.459(b)(7) Identification of whether the information is available to the public and the
+extent of any previous disclosure of the information to third parties. Five9 does not
+believe that the Carrier Agreements, or their substance, is available to the public or that the
+Carrier Agreements have ever been disclosed to third parties absent the protection of a non-
+disclosure agreement regarding their contents.
+0.459(b)(8) Justification of the period during which the submitting party asserts that
+material should not be available for public disclosure. Five9 requests that the Carrier
+Agreements be withheld from public disclosure indefinitely. Five9 and its carrier partners
+intend for the Carrier Agreements to remain in effect indefinitely and therefore any disclosure
+of the Carrier Agreements or their substance would cause competitive harm to Five9’s carrier
+partners regardless of the timing of the disclosure.
+For the foregoing reasons, Five9 respectfully request that the Carrier Agreements be
+granted confidential status and withheld from public inspection. If confidential treatment is not
+granted for the attached Carrier Agreements, Five9 request that all copies of the Carrier
+Agreements be returned to Five9.
+Please contact the undersigned if you have any questions about this matter.
+Sincerely,
+Bruce A. Olcott
+
+PUBLIC VERSION
+Before the
+Federal Communications Commission
+Washington, D.C. 20554
+In the Matter of )
+)
+Five9, Inc. ) WC Docket No. 20-
+)
+For Authorization to Obtain Numbering )
+Resources Pursuant to Section 52.15(g) of )
+The Commission’s Rules )
+APPLICATION OF FIVE9, INC. FOR AUTHORIZATION TO
+OBTAIN NUMBERING RESOURCES
+Five9, Inc. (“Five9”), pursuant to Section 52.15(g)(3)(i) of the Commission’s rules,
+respectfully requests authorization to obtain numbering resources as described below.
+As set forth in the Commission’s Numbering Order,1 an interconnected VoIP provider may
+obtain numbering resources from the Numbering Administrator upon a showing that it is
+authorized to provide service in the area for which the numbering resources are requested. Such
+authorization may be obtained upon an application to the Commission containing the information
+detailed in Sections 52.15(g)(3)(i)(A)-(F) of the Commission’s Rules. Five9, a VoIP provider,
+hereby requests the Commission grant it that authorization. In support of this application, Five9
+provides the following information.
+1 Numbering Policies for Modern Communications et al., Report and Order, 30 FCC Rcd. 6839
+(2015).
+
+PUBLIC VERSION
+I. INFORMATION REQUIRED BY SECTION 52.15(g)(3)(i)
+(A) § 52.15(g)(3)(i)(A)
+Name: Five9, Inc.
+Address: 4000 Executive Parkway
+Suite 400
+San Ramon, CA 94583
+Telephone: 925-231-2141
+Qualified Personnel: Melinda Bas
+VP Compliance and Privacy
+Kimberly Lytikainen
+General Counsel, Chief Compliance Officer & Secretary
+Jonathan Rosenberg
+Chief Technology Officer
+Contact for Regulatory Requirements, Compliance, 911, and Law Enforcement:
+Name: Melinda Bas
+Address: 4000 Executive Parkway
+Suite 400
+San Ramon, CA 94583
+Telephone: 925-231-2141
+Email: Melinda.Bas@five9.com
+(B) § 52.15(g)(3)(i)(B)
+Five9 hereby acknowledges that authorization to obtain numbering resources under Section
+52.15(g) of the Commission’s rules is subject to compliance with applicable Commission
+numbering rules as well as to the numbering authority delegated to the states. Five9 hereby also
+acknowledges that this authorization is subject to compliance with industry guidelines and
+practices regarding numbering, as applicable to telecommunications carriers.
+(C) § 52.15(g)(3)(i)(C)
+Five9 hereby acknowledges that is must file requests for numbers with the relevant state
+commission(s) at least 30 days before requesting numbers from the Numbering Administrators.
+
+PUBLIC VERSION
+(D) § 52.15(g)(3)(i)(D)
+Five9 hereby sets forth its capability to provide service within 60 days of the numbering
+resources activation date.
+Five9 already currently provides VoIP services in all fifty states and in a number of foreign
+countries using its own facilities and those of its wholesale carrier partners that route its traffic to
+the PSTN. Under its current agreements and established procedures, Five9 will be able to begin
+placing numbers into service almost immediately and, in any event, within sixty (60) days of the
+numbering resources activation date. As further proof of its facilities readiness, Five9 has attached
+to this application, as Exhibit A, a confidential agreement between Five9 and one of its carrier
+partners providing that the carrier partner provides switching and transport services for traffic
+associated with Five9’s numbers and, in that connection, provides connectivity to the PSTN for
+inbound calls to and outbound calls from Five9 numbers. Also attached, as Exhibit B, is an
+agreement for origination and termination of Five9’s traffic with an incumbent local exchange carrier
+serving all fifty states. Five9 has requested confidential treatment under the Commission’s rules
+for Exhibits A and B.
+(E) § 52.15(g)(3)(i)(E)
+Five9 hereby certifies that it complies with its Universal Service Fund contribution
+obligations under 47 CFR part 54, subpart H; its Telecommunications Relay Service contribution
+obligations under 47 CFR § 64.604(c)(5)(iii); its North American Numbering Plan and Local
+Number Portability Administration contribution obligations under 47 CFR §§ 52.17 and 52.32 its
+obligations to pay regulatory fees under 47 CFR § 1.1154; and its 911 obligations under 47 CFR
+part 9.
+
+PUBLIC VERSION
+(F) § 52.15(g)(3)(i)(F)
+Five9 hereby certifies that it has the financial, managerial, and technical expertise to
+provide reliable service. It is publicly traded and financially stable, led by a strong, experienced
+management team with substantial managerial experience in the telecommunications industry, and
+has sufficient technical expertise and infrastructure in place to continue to provide reliable
+numbering and related VoIP services.
+Five9 has the superior technical qualifications necessary to provide and maintain successful
+operations within the United States and in other countries. Five9 has the capabilities to efficiently
+port and place numbers into service and successfully route calls. Additionally, Five9’s
+management team’s lengthy experience with number porting enables it, along with its carrier
+partners, to create routing arrangements that seamlessly deliver calls to numbers directly assigned
+to Five9.
+Furthermore, Five9’s personnel have extensive business and network management
+experience in telecommunications-related businesses and in serving its targeted customer segment,
+including all types of businesses that require the ability to communicate directly with consumers
+regarding the order, delivery, and use of their products and/or services. These individuals lead a
+team that is highly qualified to manage the domestic and international operations of Five9. Five9’s
+key management and technical personnel are listed below. None of the identified personnel is
+being or has been investigated by the Commission or any law enforcement or regulatory agency
+for failure to comply with any law, rule, or order.
+
+PUBLIC VERSION
+Key Personnel:2 Melinda Bas
+VP Compliance and Privacy
+Kimberly Lytikainen
+General Counsel, Chief Compliance Officer & Secretary
+Jonathan Rosenberg
+Chief Technology Officer
+(G) § 52.15(g)(3)(i)(G)
+Five9 hereby certifies that no party to this application is subject to a denial of Federal
+benefits pursuant to Section 5301 of the Anti-Drug Abuse Act of 1988, 21 U.S.C. § 862.
+II. ACKNOWLEDGEMENT OF CONDITIONS IN SECTION 52.15(g)(3)(iv)
+As required by Section 52.15(g)(3)(iv), Five9 will maintain the accuracy of all contact
+information and certifications in this application, and will file a correction with the Commission
+and each applicable state within 30 days of any changes. Five9 will also furnish accurate regulatory
+and numbering contact information to each state commission when requesting numbers in that
+state.
+III. CONCLUSION
+Pursuant to Section 52.15(g)(3)(i) of the Commission’s Rules, Five9 respectfully requests
+the Commission grant this application for authorization to obtain numbering resources.
+Respectfully submitted,
+Bruce A. Olcott
+Jones Day
+51 Louisiana Avenue, N.W.
+Washington, D.C. 20001
+(202) 879-3630
+Counsel to Five9, Inc.
+2 Attached hereto, as Exhibit C, are the names, titles, biographies, and contact information of
+Five9’s key management and technical personnel.
+
+PUBLIC VERSION
+EXHIBIT A
+CONFIDENTIAL MATERIALS OMITTED
+AGREEMENT BETWEEN FIVE9, LLC, AND CARRIER PARTNER
+SUBJECT TO REQUEST FOR CONFIDENTIAL TREATMENT –
+NOT FOR PUBLIC INSPECTION
+
+PUBLIC VERSION
+EXHIBIT B
+CONFIDENTIAL MATERIALS OMITTED
+CARRIER PARTNER-LOCAL EXCHANGE CARRIER AGREEMENT
+SUBJECT TO REQUEST FOR CONFIDENTIAL TREATMENT –
+NOT FOR PUBLIC INSPECTION
+
+PUBLIC VERSION
+EXHIBIT C
+KEY MANAGEMENT AND TECHNICAL
+PERSONNEL
+The following are the names, titles, biographies, and contact information
+of Five9’s key management and technical personnel:
+Kimberly Lytikainen General Counsel, Chief Compliance Officer & Secretary
+Kimberly.Lytikainen@Five9.com
+Kimberly Lytikainen is the General Counsel and Chief Compliance Officer at
+Five9, responsible for all legal affairs and compliance matters for the company.
+Kimberly brings over 25 years of legal and leadership experience to help the
+Five9 organization scale globally with balanced risk.
+Prior to Five9, she was the Chief Legal Officer and Corporate Secretary at
+Poshmark, a next gen consumer marketplace company, and, prior to that, led
+MINDBODY, a SaaS company, through an IPO, several strategic acquisitions,
+and their sale to Vista Equity Partners as Chief Legal and Compliance Officer,
+and Corporate Secretary. She has also held Vice President positions at Pivotal and
+NVIDIA, where she enabled many key customer relationships, effectively
+resolved high stakes litigation and stewarded NVIDIA through several large
+international transactions. Kimberly began her in-house career at Sun
+Microsystems, after seven years as a trial attorney handling complex IP cases.
+Jonathan Rosenberg, Chief Technology Officer, Jonathan.Rosenberg@Five9.com
+Jonathan Rosenberg is the Chief Technology Officer and head of AI at Five9.
+Jonathan has dedicated his career to transforming the telecommunications
+industry and joins Five9 from Cisco where he was CTO for the Collaboration
+Technology Group (CTG). Jonathan is also well known for his authorship of the
+SIP protocol, which is the foundation for modern IP-based telecommunications.
+Prior to Cisco, Rosenberg was the Chief Technology Strategist at Skype, where he
+guided the company’s technology strategy. He received his bachelor’s and
+master’s degrees from MIT and holds a PhD in electrical engineering from
+Columbia University.
+In 2002 he was named one of the most innovative young technologists in the
+world by Technology Review magazine. He also was named a "Top Supergeek"
+by CRN and won a Pulver Von Pioneer award for contributions to the VoIP
+industry. In 2015 he was presented with the Ohio University Strowger Award for
+transformational innovation in the Telecommunications industry.
+
+PUBLIC VERSION
+Melinda Bas, VP Compliance and Privacy, Melinda.Bas@five9.com
+Melinda Bas is the VP of Compliance and Privacy and is responsible for
+compliance audits and privacy compliance. Melinda brings over 30 years of
+technology experience and supports the Chief Compliance Officer in her
+responsibility to manage compliance matters for the company.
+Prior to Five9, she was a senior leader specializing in technology compliance at
+Oracle Corporation, Salesforce and Sun Microsystems.

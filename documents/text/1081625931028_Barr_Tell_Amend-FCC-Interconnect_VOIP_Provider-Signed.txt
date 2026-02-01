@@ -1,0 +1,62 @@
+212 East Park Ave., Suite 522, Long Beach, NY 11561
+Tel. 1.212.226.4420 Fax 1.212.812.6405
+August 15, 2016
+Federal Communications Commission
+Competition Policy Division
+Wireline Competition Bureau
+445 12th St SW
+Washington, DC 20554
+Re: Docket # WC 16-252
+Numbering Authorization Amendment
+Dear Madam/Sirs:
+Please allow this letter to serve as an Amendment to our initial Numbering Authorization
+Application pursuant to 47 CFR part 54 as an interconnected VOIP Provider filing for
+authorization to obtain telephone numbers
+In one of the first paragraphs on page 1 of our application it stated:
+“Our company, Barr Tell USA. Inc. has been a CLEC that has been providing
+telecommunication service(s) for the past 6 years directly to consumers, etc.”
+This paragraph is hereby amended to:
+Our company, Barr Tell USA. Inc., through its retail division of the company (under the
+same name) has been a VOIP provider of telecommunication service(s), marketing
+VOIP telecom services directly to consumers. The wholesale division of Barr Tell works
+in partnership with the retail division as its Carrier partner and shares the use of an
+assortment of telephone numbers for the purpose of allotting these to retail consumers.
+Therefore, since it already provides interconnected VOIP services to retail businesses it
+will easily be able to comply within the sixty (60) days of any new numbering resource
+activation dates (in accordance with 47 CFR § 52.15(g)(2))
+Additionally, pursuant to Federal Communications Commission #15-70 paragraph 37
+stating:
+" Therefore, we permit an interconnected VoIP provider that has obtained Commission
+authorization to request numbers directly to demonstrate proof of facilities readiness by
+“Transcending the Telecom Bar”
+
+212 East Park Ave., Suite 522, Long Beach, NY 11561
+Tel. 1.212.226.4420 Fax 1.212.812.6405
+(1) providing a combination of an agreement between the interconnected VoIP provider
+and its carrier partner and an interconnection agreement between that carrier and the
+relevant local exchange carrier (LEC), or
+(2) proof that the interconnected VoIP provider obtains interconnection with the PSTN
+pursuant to a tariffed offering or a commercial arrangement (such as a TDM-to-IP or a
+VoIP interconnection agreement) that provides access to the PSTN. The
+interconnected VoIP provider need not demonstrate that the point where it delivers
+traffic to or accepts traffic from the PSTN is in any particular geographic location so long
+as it demonstrates that it is ready to provide interconnected VoIP service, which is by
+definition service that “[p]ermits users generally to receive calls that originate on the
+public switched telephone network and to terminate calls to the public switched
+telephone network.”
+Please see our website, where Barr Tell already provides evidence of its Carrier
+Partner(s) and/or Interconnection Agrements:
+www.barrtell.com
+On the right, under "Info & Resources" is a Drop Down screen listing Interconnection
+Agreements. If you click on these you can see the Interconnection Agreements listed.
+Also, please note that using our June 30th, 2016 data we have submitted our 477
+Report.
+In addition, pursuant to this Application, Barr Tell USA has no owner or partners that are
+foreigners. Everyone within Barr Tell is a 100% American citizen.
+Hopefully, this addresses any errors made in our first application? If not please don't
+hesitate to contact me where any additional amendments may be necessary.
+Regards,
+Harold Barr.
+President
+Tel: 516 708-0111
+“Transcending the Telecom Bar”

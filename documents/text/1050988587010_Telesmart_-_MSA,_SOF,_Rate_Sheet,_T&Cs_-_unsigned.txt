@@ -1,0 +1,1360 @@
+MASTER SERVICE AGREEMENT
+This Master Services Agreement is made effective as of {{msa_es_:signer1:date}} (the “Effective Date”), by and between
+Bandwidth.com, Inc., a Delaware corporation with its principal office located at 900 Main Campus Drive, Suite 500, Raleigh, NC
+27606 (“Provider”), and Telesmart, Inc., a Oregon corporation with its principal office located at 56825 Venture Lane, Suite 110
+Sunriver OR 97707 (on behalf of itself and its affiliates, “Customer”). Both Provider and Customer may also be referred to as
+“party” or “Party”, or when referred to collectively or together, may also be referred to as either the “parties” or “Parties”.
+Capitalized terms not otherwise defined in this Agreement (as defined below) will be as defined in Exhibit A attached to this
+Agreement.
+Customer desires to purchase, and Provider desires to supply, certain communications services identified pursuant to this
+Agreement from time to time as described in this Agreement (“Services”) under the following terms and conditions.
+THIS AGREEMENT GOVERNS CUSTOMER PURCHASES OF PRODUCTS AND/OR SERVICE(S) FROM
+PROVIDER THROUGH PROVIDER’S WEBSITE, API, PORTAL, OR BY CUSTOMER SUBMISSION OF A SERVICE
+ORDER FORM VIA PHONE, FACSIMILE, EMAIL, MAIL, OR ANY OTHER MEANS.
+1. TERM. The term of this Agreement will commence on the Effective Date and will continue for the longer of (i) twenty
+four (24) months, or (ii) the term of any SOF(s) (as defined below) entered into pursuant to this Agreement (the “Initial Term”).
+The Initial Term will automatically extend thereafter upon the same terms and conditions applicable during the Initial Term for
+additional consecutive term(s) (each a “Renewal Term”) of one (1) month until this Agreement is terminated pursuant to Section
+7 below (the Initial Term and all Renewal Terms collectively referred to herein as the “Term”). For clarity, if any SOF
+automatically renews during the Initial Term or any applicable Renewal Term for a period longer than contemplated in the
+immediately preceding sentence, then, effective as of such automatic renewal of such SOF, this Agreement will automatically
+extend for a term at least coterminous with such SOF. Provider will not accept any new SOFs from Customer at any time after (i)
+either Party has notified the other of the termination of this Agreement pursuant to Section 7 below; or (ii) Provider has notified
+Customer of a Default (as defined below), unless such Default will thereafter be timely cured by Customer or waived in writing by
+Provider.
+2. SERVICE ORDER PROCEDURE; RATES.
+(a) During the Term, Customer may submit to Provider service order(s) requesting Service(s) as described in
+Service Order Forms (and/or the Terms and Conditions incorporated therein by reference) (each individually an “SOF” and
+collectively the “SOFs”), Rate Sheets, Terms and Conditions, Exhibits, any other attachments to this Agreement, and Provider’s
+Acceptable Use Policy (“AUP”) posted by Provider from time to time at www.bandwidth.com/resources/legal, all of which are
+fully incorporated by reference within this Agreement between Customer and Provider (collectively referred to herein as the
+“Agreement”). Provider reserves the right in its sole discretion to reject or request modifications to any SOF(s) and/or Terms and
+Conditions Customer presents from time to time during the Term prior to acceptance of the applicable SOF by Provider. Provider
+will notify Customer of acceptance (in writing or electronically) of any applicable SOF. Upon acceptance of an SOF, Provider will
+use commercially reasonable efforts to meet Customer’s requested service start date(s), and will notify Customer if Provider does
+not anticipate that Provider can meet any requested service start date(s). Customer’s obligation for payment of Service(s) and the
+term of each SOF will commence on the applicable service start date (or any other commencement date provided in the applicable
+SOF) (“Service Commencement Date”). Any SOF not accepted by Provider will not be a valid SOF pursuant to this Agreement
+and Provider will have no liability or other obligations with respect to such SOF; provided, however, if Customer utilizes Service(s)
+without first submitting an SOF accepted by Provider, Provider’s standard Terms and Conditions applicable to such Service(s) will
+apply and Customer will remain obligated to pay for such Service(s) pursuant to this Agreement.
+(b) All Service(s) will be provided in accordance with applicable SOFs, Terms and Conditions and Rate Sheets
+and any applicable Tariffs (collectively referred to herein as the “Rates”) for the applicable jurisdictions in which Service(s) are
+provided, in accordance with the applicable provisions of this Agreement. If no applicable Rates are attached (or Customer utilizes
+Service(s) without first submitting an SOF accepted by Provider), Provider’s standard rates will apply and will constitute the
+“Rates” for the purposes of such Service(s). Miscellaneous charges and/or fees imposed by any third party carrier or any underlying
+provider from time to time, whether charged to or against Provider, will be payable by Customer, including, without limitation,
+any cost recovery fee which will represent an accurate and non-inflated recovery of the miscellaneous charges and/or fees to or
+against Provider associated with the provision of Service(s) by Provider to Customer. Provider will use commercially reasonable
+efforts to provide to Customer information regarding any such miscellaneous charges and/or fees, including, without limitation,
+prior notice of any such charges and/or fees if reasonably practicable under the circumstances.
+3. PAYMENT.
+Bandwidth - Proprietary & Confidential Information
+MSA 6.6 – Updated June 2, 2016 Document No.: MSA-O0021401
+
+(a) Unless the Terms and Conditions of any applicable SOF provide for prepayment to Provider by Customer with
+respect to any applicable Service(s), Customer will pay for all Service(s) not later than the date fifteen (15) calendar days
+immediately after the invoice date reflected on Provider’s invoice (“Due Date”), which invoice Provider will promptly deliver to
+Customer. If any Customer payment is not received by any applicable Due Date, Provider may impose a late payment charge of
+the lesser of (i) 1.5% per month, or (ii) the highest legally permissible rate, and apply such charge to the amount past due. It will
+not be a defense to nonpayment that all or any portion of charges for Service(s) were incurred by unauthorized users. Customer
+will reimburse Provider for reasonable attorneys’ fees and any other costs associated with collecting delinquent or dishonored
+payments. Restrictive endorsements or other statements on checks accepted by Provider will not apply.
+(b) Except for taxes based on Provider’s net income (and/or unless expressly provided otherwise in any applicable
+SOF or Rate Sheet), all applicable federal, state or local taxes and all use, sales, commercial, gross receipts, privilege, surcharges,
+or other similar taxes, license fees, miscellaneous fees, and surcharges, including, without limitation, costs allocable or allocated
+to Provider in connection with any system mandated by any federal, state or local authority if administered by any such federal,
+state or local authority or by any third party, whether charged to or against Provider, will be payable by Customer, including,
+without limitation, any cost recovery fee which will represent an accurate and non-inflated recovery of Provider’s, or any underlying
+provider’s, miscellaneous tax, surcharge, and fee payments to federal, state or local governmental authorities associated with the
+provision of Service(s) by Provider to Customer pursuant to this Agreement. Provider retains the right to invoice Customer for
+costs incurred by Provider from time to time related to Provider’s compliance with court orders and other actions of governmental
+agencies or entities, including, without limitation, subpoenas duces tecum (and similar subpoenas), related to telephone numbers
+and other information related to or associated with Customer or Customer’s customers and/or End Users if such court orders and
+other actions of governmental agencies or entities with respect to Customer or Customer’s customers and/or End Users materially
+exceed customary industry standards.
+(c) Notwithstanding the foregoing provisions of Section 3(b) above, if Customer intends to resell Service(s) and
+provides Provider written documentation of Customer’s tax-exempt status in a form reasonably acceptable to Provider, Provider
+will not charge Customer any taxes exempted due to Customer’s request and supporting documentation. Such documentation of
+Customer’s tax-exempt status will include a valid and properly executed tax exemption certificate(s) and/or statement(s) of
+indemnification for any taxes from which Customer seeks exemption. Customer will pay any and all remaining non-exempt
+charges. For clarity, the establishment of exemption from any taxes is the sole responsibility of Customer and Provider is not
+obligated to consider any retroactive request for tax exemption.
+(d) Provider may require that Customer provide Provider with credit information as requested by Provider.
+Provider may require Customer to make a security deposit as a condition of Provider’s acceptance of any SOF. Provider may, in
+any combination and at any time: (i) require a security deposit, in an amount determined by Provider, to continue Service(s) if
+Provider determines that (x) Customer’s level of credit, as approved by Provider from time to time, is insufficient, (y) the level of
+expected and/or actual Customer Usage warrants a security deposit, or (z) Customer has failed to timely pay in full for the
+Service(s); (ii) demand immediate payment by wire in accordance with Provider’s instructions (or other prompt means approved
+by Provider) and/or discontinue Service(s) if Customer’s level of credit, as approved by Provider from time to time, is insufficient;
+(iii) if Customer fails to make payment pursuant to Section 3(a) or clause (ii) above at any time, Provider may, in addition to any
+other rights or remedies Provider may have pursuant to this Agreement, immediately suspend or terminate Service(s), any
+applicable SOF(s) (or any portion thereof) and/or this Agreement without prior notice; and/or (iv) if Customer has a pre-payment
+arrangement and Customer’s pre-paid balance is depleted or such balance is insufficient to cover Customer’s expected and/or actual
+usage during the time required for Customer to replenish its pre-paid balance, Provider may immediately suspend or terminate
+Service(s) and/or this Agreement without prior notice.
+(e) Provider retains the right to invoice, including any amended or corrected invoices, for Service(s) for a period
+of up to six (6) months after the date Provider provided the Service(s) to Customer; provided, however, Provider retains the right
+to invoice, including any amended or corrected invoices, (i) for a period of up to twelve (12) months with respect to any charges
+or surcharges pursuant to any applicable SOF with respect to any calls and/or Usage sent to Provider by Customer for termination
+that are not IP Originated; and (ii) for a period of up to nine (9) months with respect to any charges pursuant to any applicable SOF
+with respect to Average Call Duration, any Short Duration Call or Abandoned Calls, any payphone calls, and/or any
+surcharge. Provider will retain such rights for such period notwithstanding any prior invoices to Customer for the same period(s)
+and regardless of any otherwise conflicting terms or conditions of this Agreement. For the duration of this period, Provider will
+not be deemed to have waived any rights with regard to invoicing for the provided Service(s) that are subject to this period, nor
+will any legal or equitable doctrines apply, including estoppel or laches.
+4. BILLING DISPUTES. If Customer disputes any invoiced charges, Customer may withhold any amounts disputed in
+good faith, will pay in full all undisputed charges invoiced by the applicable Due Date, and will submit written notification on or
+before the applicable Due Date through Provider’s customer portal found at https://support.bandwidth.com/home (or such other
+means Provider may provide to Customer from time to time by written notice). Such notification will include Customer’s complete
+contact information, the specific dollar amount in dispute, detailed supporting reasons for the dispute, and any supporting
+documentation, if available. The Parties will work together in good faith to investigate any disputed charges and use commercially
+reasonable efforts to resolve any payment dispute within thirty (30) calendar days after receipt of such notification from Customer.
+Page 2 of 16
+Bandwidth - Proprietary & Confidential Information
+MSA 6.6 – Updated June 2, 2016
+
+Any dispute resolved in favor of Customer will be credited to Customer’s next invoice(s); any disputed amounts resolved in favor
+of Provider will be due and payable by Customer immediately.
+5. DEFAULT; REMEDIES. Upon the occurrence of a Default, the non-defaulting Party may, in addition to delivering
+an Escalation Notice pursuant to Section 17(a) below: (i) if the defaulting Party is Customer, suspend Provider’s performance of
+any or all Service(s) without liability or further obligation immediately; (ii) terminate any or all SOF(s) (or any portion thereof)
+without liability or further obligation immediately upon written notification of termination to Customer; and/or (ii) terminate this
+Agreement without liability or further obligation immediately upon written notification of termination to the other Party. All
+remedies expressed in this Agreement are without exclusion as to any rights or remedies that the parties may have under this
+Agreement or which may be recognized under controlling law.
+6. ACCEPTABLE USE POLICY. All use of Service(s) must comply with Provider’s Acceptable Use Policy (“AUP”)
+posted by Provider from time to time at www.bandwidth.com/resources/legal. The AUP is incorporated herein by reference and
+subject to change. Provider reserves the right to cooperate with legal authorities and/or injured third parties in the investigation of
+any suspected crime or civil wrong, including, without limitation, due to or arising as a result of any violation of the AUP.
+7. TERMINATION.
+(a) Unless expressly provided otherwise in any applicable SOF, Customer may terminate this Agreement or any
+applicable SOF(s) as of the end of the Term (or the term of any applicable SOF(s)) by written notice to Provider through Provider’s
+customer portal found at https://support.bandwidth.com/home (or such other means Provider may provide to Customer from time
+to time by written notice) not less than ninety (90) calendar days prior to the end of the Term and/or ninety (90) calendar days prior
+to the expiration of any applicable SOF(s), as the case may be. Provider will disconnect, or will cause to be disconnected, such
+Service(s), pursuant to such written notice. Customer will notify Provider of any and all requests for termination or disconnection
+of Services, including, without limitation, the porting out of billable telephone numbers (also referred to as DIDs), whether port
+outs are known or unknown by Customer; Customer remains solely responsible for all billable charges related to ported out DIDs.
+(b) Provider may terminate this Agreement or any applicable SOF(s) (or any portion thereof) as of the end of the
+Term (or the term of any applicable SOF(s)) by written notice to Customer (via email or other written notice) not less than thirty
+(30) calendar days prior to the end of the Term and/or thirty (30) calendar days prior to the expiration of any applicable SOF(s), as
+the case may be.
+(c) In addition to any other rights that Provider has or may have pursuant to this Agreement, including, without
+limitation, Section 5 above, if Provider determines, in its discretion, that Customer’s use of any Service(s) (or the specific method
+or technology utilized by Customer and/or Customer’s customers and/or End Users) materially and adversely interferes with or
+otherwise places in jeopardy Provider’s network, other customers, partners and/or the overall business(es) of Provider or any of
+Provider’s other customers or partners, Provider may suspend or terminate this Agreement, any applicable SOF(s) and/or any or
+all Service(s) immediately upon as much prior notification to Customer as is practicable under the circumstances, if any.
+(d) Upon termination of this Agreement and/or any applicable SOF(s), then Provider may collect from Customer:
+(i) all amounts due and payable pursuant to this Agreement, including, without limitation, any document incorporated by reference
+into this Agreement, for Service(s) provided prior to such termination, including, without limitation, any past due balance at the
+time of such termination; (ii) the applicable monthly minimum commitment(s), if any, for any Service(s) for the remainder of the
+Term applicable pursuant to any applicable SOF(s), Terms and Conditions or any other document or agreement between Customer
+and Provider, multiplied by the number of months remaining in the Initial SOF Term (pro rated for any partial months remaining
+in the Initial SOF Term); and (iii) any early termination charges, if any, specified in any applicable SOF(s), Terms and Conditions,
+or any other document or agreement between Customer and Provider (“Early Termination Charges”). Customer acknowledges
+and agrees that the damages arising due to the early termination of this Agreement would be difficult to determine and, therefore,
+for the sake of efficiency, economy and convenience, any Early Termination Charges constitute liquidated damages and are not
+intended as a penalty or to be punitive in nature.
+(e) If this Agreement is terminated for any reason other than Default attributable to the acts or omissions of
+Customer, Provider will continue to provide the Service(s) for a ninety (90) day period immediately after such termination (the
+“Wind Down Period”) to enable Customer to locate and transition to an alternative provider. During the Wind Down Period, the
+charges set forth and payment terms prescribed in this Agreement, any applicable SOF, Terms and Conditions, or any other
+applicable document or agreement will remain applicable, including, without limitation, any then-applicable monthly minimum
+commitment. A Wind Down Period will not apply upon the expiration of the Initial Term or any Renewal Term if Customer gives
+notice of nonrenewal to Provider pursuant to Section 1 and Section 7(a) above; for clarity, a Wind Down Period will apply upon
+the expiration of the Initial Term or any Renewal Term if Provider gives notice of nonrenewal to Customer pursuant to Section 1
+and Section 7(b) above. If a Default attributable to the acts or omissions of Customer occurs during the Wind Down Period, then
+Provider may immediately terminate the Wind Down Period.
+8. MAINTENANCE; SERVICE MODIFICATIONS.
+Page 3 of 16
+Bandwidth - Proprietary & Confidential Information
+MSA 6.6 – Updated June 2, 2016
+
+(a) Provider may from time to time interrupt or otherwise impact Service(s) for routine maintenance. Provider
+will make commercially reasonable efforts to provide to Customer reasonable advance notification (via phone, email or other
+means) of such maintenance. Provider will use commercially reasonable efforts to perform such maintenance in a manner that will
+not unreasonably interrupt Service(s). Provider normally will perform maintenance between the hours of 12:00 AM and 6:00 AM
+Eastern. If Provider determines that emergency maintenance is necessary for any reason, Provider will make commercially
+reasonable efforts to notify Customer with respect to the anticipated down-time and/or other information pertinent to the affected
+Service(s). Customer will provide Provider contact(s) for communications contemplated by this Section 8(a). Customer authorizes
+Provider to monitor and record calls to or from Provider concerning the Services for Provider’s training and quality control
+purposes.
+(b) Unless the terms of an SOF(s) or applicable Terms and Conditions expressly provide otherwise, Provider may
+amend or modify Service(s), any applicable SOF(s), any Rate Sheets, any Terms and Conditions and/or any Addendum(a) attached
+or applicable to any Service(s) or any SOF(s) thirty (30) calendar days after written notice to Customer. However, except as
+otherwise expressly provided in this Section 8(b), if the amendment or modification (i) materially adversely affects any applicable
+Service(s), or (ii) increases the cost of such Service(s) more than ten percent (10%) of the total sums to be paid by the Customer
+for the Service(s) specified in the applicable SOF (other than increases to Rates pursuant to any Terms and Conditions applicable
+to any applicable SOF(s) or as otherwise provided below), Customer may terminate the applicable SOF(s) without obligation for
+any otherwise applicable Early Termination Charge by written notice delivered to Provider not later than the date thirty (30) days
+immediately after Customer’s receipt of Provider’s written notice of such amendment or modification. If Customer terminates any
+applicable SOF(s) pursuant to the immediately preceding sentence, Customer will pay Provider promptly all amounts due and
+payable pursuant to this Agreement for Service(s) provided prior to such termination. If Customer does not notify Provider of the
+termination of the applicable SOF(s) prior to the date thirty (30) days immediately after Customer’s receipt of Provider’s written
+notice of such amendment or modification, Customer will be deemed to have received and accepted such amendment or
+modification. Notwithstanding the foregoing provisions of this Section 8(b), Customer will have no right to terminate if the
+applicable amendment or modification (i) is imposed or required by any governmental, industry, regulatory or other similar
+authority; (ii) increases the costs of any Service(s) attributable to fees, taxes or any other charges imposed or required by any
+governmental, industry, regulatory or other similar authority, or (iii) is expressly provided for under the terms of an SOF(s) or
+applicable Terms and Conditions.
+9. LIMITATION OF LIABILITY; NO WARRANTIES; INDEMNIFICATION.
+(a) Unless caused by Provider’s willful misconduct or gross negligence, Provider will not be liable for (i) delays
+in the installation, commencement or restoration of any Service(s); (ii) any temporary or permanent cessation of any Service(s);
+(iii) errors, malfunctions, delays or defects in the transmission of any Service(s); and (iv) to the fullest extent permitted by applicable
+law, for injury to or death of any person and/or damage to or loss of any property arising out of or attributable to any Service(s)
+and/or performance pursuant to this Agreement. Provider will not be liable for loss or damage occasioned by any Force Majeure
+Event.
+(b) Except due to (i) damages caused by Provider’s willful misconduct or gross negligence; (ii) Provider’s breach
+of its obligations pursuant to Section 18 below; and/or (iii) with respect to any indemnification obligation of Provider, the aggregate
+liability of Provider hereunder, for any and all causes of action and/or claims, liabilities (including reasonable attorneys’ fees),
+expenses, damages, costs or losses arising out of or relating to this Agreement, whether based in contract, warranty, negligence or
+otherwise, including, without limitation, intellectual property infringement (if any indemnity is expressly provided pursuant to
+Section 9(f) below)), will in no event exceed (i) except as provided in clause (ii) or clause (iii) below, in the aggregate an amount
+equal to six (6) times the aggregate amount invoiced by Provider for Service(s) rendered during the calendar month prior to the
+calendar month in which the event giving rise to liability occurred, (ii) if the event giving rise to liability relates to 911 / E911
+Services, in the aggregate an amount equal to the amount invoiced by Provider for such Service(s) rendered during the calendar
+month prior to the calendar month in which the event giving rise to liability occurred, or (iii) if applicable, the replacement value
+of any Customer Equipment (as defined below) lost or damaged as a result of Provider’s willful misconduct.
+(c) EXCEPT DUE TO (I) DAMAGES CAUSED BY A PARTY’S WILLFUL MISCONDUCT OR GROSS
+NEGLIGENCE, (I) A PARTY’S BREACH OF ITS OBLIGATIONS PURSUANT TO SECTION 18 BELOW AND/OR (III)
+WITH RESPECT TO ANY INDEMNIFICATION, NEITHER PARTY WILL BE LIABLE TO THE OTHER PARTY FOR ANY
+INDIRECT, CONSEQUENTIAL, SPECIAL, INCIDENTAL, RELIANCE OR PUNITIVE DAMAGES OF ANY KIND OR
+NATURE, INCLUDING, WITHOUT LIMITATION, ANY LOST PROFITS, LOST REVENUES, LOST SAVINGS OR HARM
+TO BUSINESS AND WHETHER LIABILITY IS ASSERTED IN, AMONG OTHER THINGS, CONTRACT OR TORT
+(INCLUDING BUT NOT LIMITED TO NEGLIGENCE AND STRICT PRODUCT LIABILITY) AND WHETHER OR NOT
+SUCH PARTY HAS BEEN ADVISED OF THE POSSIBILITY OF ANY SUCH LOSS OR DAMAGE. EACH PARTY HEREBY
+RELEASES THE OTHER PARTY, ITS SUBSIDIARIES AND AFFILIATES AND THEIR RESPECTIVE OFFICERS,
+DIRECTORS, MANAGERS, EMPLOYEES AND AGENTS FROM ANY SUCH CLAIM TO THE EXTENT EXCLUDED BY
+THE FOREGOING EXCLUSION OF NON-DIRECT DAMAGES. WITH RESPECT TO ANY INDEMNIFICATION, THE
+INDEMNIFYING PARTY ONLY WILL BE LIABLE TO THE OTHER PARTY FOR THE LOSSES INCURRED BY THE
+INDEMNIFIED PARTY AND SUBJECT TO INDEMNIFICATION. THE PARTIES WAIVE ANY CLAIM THAT THE
+Page 4 of 16
+Bandwidth - Proprietary & Confidential Information
+MSA 6.6 – Updated June 2, 2016
+
+EXCLUSIONS OR LIMITATIONS OF THIS SECTION 9 DEPRIVE IT OF AN ADEQUATE REMEDY OR CAUSE THIS
+AGREEMENT TO FAIL OF ITS ESSENTIAL PURPOSE.
+(d) PROVIDER MAKES NO WARRANTIES, EXPRESS OR IMPLIED, FOR THE SERVICE(S) (INCLUDING
+CUSTOMER EQUIPMENT) PROVIDED PURSUANT TO THIS AGREEMENT AND SPECIFICALLY DISCLAIMS ANY
+WARRANTY OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE. PROVIDER DOES NOT
+WARRANT THAT THE SERVICE(S) WILL BE UNINTERRUPTED OR ERROR-FREE, OR THAT THE SERVICE(S) WILL
+MEET CUSTOMER’S REQUIREMENTS OR THAT THE SERVICE(S) WILL PREVENT UNAUTHORIZED ACCESS BY
+THIRD PARTIES. PROVIDER EXERCISES NO CONTROL OVER, AND HEREBY DISCLAIMS ANY RESPONSIBILITY
+FOR, THE ACCURACY AND QUALITY OF ANY INFORMATION TRANSMITTED WITH THE USE OF THE SERVICE(S).
+CUSTOMER ASSUMES TOTAL RESPONSIBILITY AND RISK FOR CUSTOMER’S OR ITS CUSTOMER’S AND/OR END
+USER’S USE OF THE SERVICES, INCLUDING ANY INFORMATION TRANSMITTED, PROVIDED BY PROVIDER.
+PROVIDER HAS NO CONTROL OVER AND EXPRESSLY DISCLAIMS ANY LIABILITY OR RESPONSIBILITY
+WHATSOEVER FOR THE ACTIONS OF THIRD-PARTY TELECOMMUNICATIONS SERVICE PROVIDERS.
+(e) EXCEPT AS OTHERWISE SET FORTH OR PROVIDED UNDER THIS AGREEMENT, THE SERVICE(S)
+ARE PROVIDED ON AN “AS IS” AND “AS AVAILABLE” BASIS.
+(f) Each Party will defend, indemnify and hold the other Party, its subsidiaries and affiliates and their respective
+directors, officers, employees, agents, successors and assigns harmless from and against any and all actual or alleged costs,
+damages, expenses, losses, and/or liabilities of any kind, including, without limitation, reasonable attorneys’ fees, arising from any
+action, claim, suit or proceeding commenced by any third party for damages to any tangible property or bodily injury to or death
+of any person arising out of or caused by the indemnifying Party’s gross negligence or willful misconduct, except for those costs,
+damages, expenses, losses, and/or liabilities of any kind contributorily caused by any act or omission of the indemnified Party or
+its directors, officers, employees, agents or unless otherwise specified in any applicable SOF or Terms and Conditions. The
+indemnified Party will promptly notify the indemnifying Party in writing of any such action, claim, suit or proceeding. The
+indemnifying Party will control the response to any such action, claim, suit or proceeding and the defense thereof, including,
+without limitation, any agreement relating to the settlement thereof. In addition to the foregoing general indemnity, Customer will
+at all times defend, indemnify and hold Provider, its subsidiaries and affiliates and their respective directors, officers, employees,
+agents, successors and assigns harmless from all claims arising out of or due to the utilization by any other person or entity to which
+Customer provides any services in connection with or utilizing any Service provided to Customer pursuant to this Agreement
+(including, without limitation, any of Customer’s customers and/or End Users), including, without limitation, due to (i) the failure
+of Customer or any of Customer’s customers and/or End Users to comply with any applicable laws; (ii) claims for libel, slander,
+and/or invasion of privacy; (iii) claims for infringement of copyright and/or trademark; (iv) claims for infringement of patents
+arising from combining or using services or equipment furnished by Provider with services and/or equipment furnished by any
+other person or entity; and (v) claims arising from any failure, breakdown, interruption or deterioration of service provided by
+Provider to Customer or by Customer to Customer’s customers and/or End Users. Customer will indemnify and hold harmless
+Provider from and against any actual or alleged losses, costs, claims, liability of any kind, damages, or expenses or fees (including,
+without limitation, reasonable attorneys’ fees) on the part of or which may be incurred by Customer, Provider or any third-party
+relating to or arising from the use or operation of the Customer Equipment (as defined below). Customer’s indemnification in this
+subsection includes any alleged or actual losses or claims in connection with or arising due to the unauthorized access to or use of
+the Service(s) by any third-party through or in connection with the Customer Equipment, whether or not such unauthorized access
+is accidental, intentional, unintentional, or by fraud and whether or not Customer had or should have had knowledge of such
+unauthorized access. In all such cases of unauthorized access, Customer retains full and sole responsibility for any and all charges
+for the Service(s) provided by Provider incurred due to such unauthorized access.
+10. EQUIPMENT AND ELECTRONIC TOOLS.
+(a) Customer has the sole and exclusive responsibility for the installation, configuration, security (including,
+without limitation, firewall security policies, even if Customer uses a third party to configure and implement such measures), and
+integrity of all Customer facilities, systems, equipment, proxy servers, software, networks, network configurations and the like (the
+“Customer Equipment”) used in conjunction with or related to the Service(s) provided by Provider, including, without limitation,
+Customer’s connectivity to Customer’s customers and/or End Users.
+(b) If Provider grants Customer access, either by online access, by API or access by any other means, to a service
+ordering/management system and/or any other electronic tools or computer software in connection with the Service(s) or the use
+of any Service(s) (collectively, the “Electronic Tools”), the following apply:
+(i) Subject to Customer’s compliance with this Agreement, Provider grants Customer a non-exclusive,
+non-transferable license to use such Electronic Tools solely in connection with Customer’s internal use of the Service(s)
+during the Term. The Electronic Tools may be incorporated into, and may incorporate itself, software and other
+technology owned or controlled by third parties. Any such third party software or technology incorporated in such
+Electronic Tools falls under the scope of this Agreement. Any and all other third party software will be subject to
+Customer’s acceptance of a license agreement with such third party. Customer will use the Electronic Tools solely for
+Page 5 of 16
+Bandwidth - Proprietary & Confidential Information
+MSA 6.6 – Updated June 2, 2016
+
+lawful purposes in connection with Customer’s internal use of the Service(s) during the Term. Customer will not, directly
+or indirectly: (A) reverse engineer, decompile, disassemble or otherwise attempt to discover the source code or underlying
+ideas or algorithms of the Electronic Tools; (B) modify, translate or create derivative works based on the Electronic
+Tools; (C) rent, lease, distribute, sell, resell, assign, display, host, outsource, disclose or otherwise commercially exploit
+or otherwise transfer rights to the Electronic Tools or make the Electronic Tools available to any third party; (D) use the
+Electronic Tools for timesharing or service bureau purposes or otherwise for the benefit of a third party; (E) remove any
+proprietary notices or labels on any Electronic Tools; or (F) copy, reproduce, post or transmit any Electronic Tools in
+any form or by any means, including, without limitation, electronic, mechanical, photocopying, recording or other means.
+(ii) Each Electronic Tool is the intellectual property of Provider. Customer will not delete or in any
+manner alter the copyright, trademark, and other proprietary rights notices or markings appearing on or in connection
+with any Electronic Tool. Any third party intellectual property included in any Electronic Tool is the property of the
+respective owner of such intellectual property and may be protected by applicable law. Nothing in this Agreement gives
+Customer any right or license to any trademarks and/or trade names (whether registered or unregistered), signs, logos,
+icons, slogans, banners, screen shots, trade dress, links or other brand features of Provider, without the prior written
+consent of Provider, which consent may be withheld in Provider’s sole discretion for any reason. If Customer from time
+to time provides suggestions, comments and/or other feedback to Provider with respect to the Service(s) and/or any
+Electronic Tool, Provider may, in connection with any of its products or services, freely use, copy, disclose, license,
+distribute and/or exploit any such suggestions, comments and/or other feedback in any manner and without any obligation
+or restriction based on intellectual property rights or otherwise. Provider will retain sole ownership of any such
+suggestions, comments and/or other feedback and Customer will not provide any such suggestions, comments and/or
+other feedback subject to any terms that would impose any obligation on Provider or any of its customers or partners.
+Customer agrees to (and to cause its employees, agents and contractors to) sign, execute and acknowledge documents
+and perform such acts as may be reasonably necessary to perfect the foregoing assignment and to obtain, enforce and
+defend Provider’s intellectual property rights in connection with any Electronic Tool.
+(iii) Customer is fully and exclusively responsible for all information accuracy, charges, costs,
+transactions, and activities conducted through or with such Electronic Tools. Customer is fully and exclusively
+responsible to safeguard, monitor, manage, and maintain access to the Electronic Tools, and to only allow authorized use
+of the Electronic Tools to persons that Customer designates.
+11. SERVICE OUTAGES. When Customer believes that a loss or material degradation of any Service(s) has occurred
+(“Service Outage”), Customer will first conduct customary problem isolation, resolution and troubleshooting activities. If
+Customer believes that the Service Outage is attributable to or related to Provider or Provider’s network, Customer will notify
+Provider’s Customer Care department through Provider’s customer portal found at https://support.bandwidth.com/home (or such
+other means Provider may provide to Customer from time to time by written notice), by calling (855) 864-7776 (or any other phone
+number specified in any applicable SOF or Terms and Conditions or otherwise provided by Provider from time to time), or by any
+Electronic Tools provided by Provider from time to time, to report the Service Outage(s) and initiate an investigation of the cause
+and remedy of such Service Outage (“Trouble Ticket”). Once a Trouble Ticket(s) has been opened, Provider’s appropriate
+personnel will initiate diagnostic testing and isolation activities to determine the source and severity of the Service Outage(s) and
+suggest a remedy to, or enact a remedy on behalf of, Customer; Provider and Customer will cooperate to restore Service(s) as soon
+as reasonably practicable.
+12. FORCE MAJEURE. If either Party’s performance under this Agreement is delayed, prevented, obstructed or inhibited
+because of any act of God, governmental action or any other cause beyond either party’s reasonable control (“Force Majeure
+Event”), such Party will not be in default of this Agreement or any applicable SOF; provided, however, such Party will exercise
+commercially reasonable efforts to prepare for, perform in spite of, and resume performance after the Force Majeure Event. For
+avoidance of doubt, Customer will ensure proper protection and conformity to industry standards to protect the integrity of
+Customer’s network; Customer’s failure to do so for any reason will not be considered a Force Majeure Event and any incurred
+charges for Service(s) will be deemed valid and due in accordance with the terms of this Agreement. If a Force Majeure Event
+materially impacts performance for ten (10) business days or more (“Extended Delay”), either Party may terminate the affected
+Service(s) without penalty or further obligation upon written notification to the other Party. During a Force Majeure Event, all
+payment obligations will abate with respect to the impacted Service(s).
+13. GOVERNING LAW; VENUE.
+(a) This Agreement will be governed by, construed under and enforced in accordance with the laws of the State of
+North Carolina without reference to its choice of law principles or the United Nations Convention on the International Sale of
+Goods. This Agreement also is subject to all applicable federal, state and local laws and to all applicable regulations, rules, orders
+and other relevant actions of governmental agencies or entities (except that the parties retain their rights with respect thereto as
+provided pursuant to this Agreement). Each Party will obtain, file and maintain any necessary tariffs, permits, certifications,
+authorizations, licenses or similar documentation as may be required by any governmental authority having jurisdiction over its
+business.
+Page 6 of 16
+Bandwidth - Proprietary & Confidential Information
+MSA 6.6 – Updated June 2, 2016
+
+(b) If any Party brings a civil action or initiates judicial proceedings of any kind related to this Agreement (except
+for actions to enter or collect on judgments), the Parties consent to the exclusive personal jurisdiction and venue of the federal
+and/or state courts located in Wake County, North Carolina.
+14. CHANGE IN LAW. If any statute, regulation, decision, rule or order by a court of law or governmental authority,
+including, without limitation, the FCC or any state regulatory agency or PUC: (a) prohibits performance pursuant to this Agreement
+or any applicable SOF(s) or Terms and Conditions, (b) makes such performance illegal, impossible or impractical, or (c) materially
+adversely impacts either Party’s performance of its obligations under this Agreement, including, without limitation, the costs
+incurred by a Party to perform its obligations under this Agreement or any applicable SOF(s) or Terms and Conditions, the Parties
+will use their commercially reasonable efforts, to amend this Agreement or any applicable SOF(s) or Terms and Conditions so that:
+(i) performance pursuant to this Agreement or any applicable SOF(s) or Terms and Conditions is no longer prohibited, illegal,
+impossible, impractical or is no longer materially adversely impacted, and (ii) the Agreement or any applicable SOF(s) or Terms
+and Conditions preserves, to the maximum extent possible, the original intent of the Parties. If the Parties are unable to amend this
+Agreement or any applicable SOF(s) or Terms and Conditions as contemplated above, then the Party whose performance or use of
+Service(s) is rendered prohibited, illegal, impossible, impractical or materially adversely impacted may, in its sole discretion and
+upon thirty (30) calendar days (or less if required by law) prior written notification to the other Party, cease performance of any
+such obligations or Service(s) pursuant to any applicable SOF(s) or Terms and Conditions without further obligation or liability,
+excluding payment of any charges for Service(s) received by Customer prior to notification of change in law. The Parties will
+continue to perform all such obligations and Service(s) under this Agreement or any applicable SOF(s) or Terms and Conditions
+that are not so prohibited, impossible, impractical or materially adversely affected; provided, however, if a material part of the
+rights and obligations under this Agreement are suspended in accordance with the above and the performance of the remaining
+obligations would not reasonably maintain the respective original intent of the Parties or would not serve the essential purpose of
+this Agreement, then either Party will have the right to, at its sole discretion and upon thirty (30) calendar days written notification
+to the other Party, terminate this Agreement without further obligation or liability, excluding payment for charges for Service(s)
+received by Customer prior to termination of this Agreement.
+15. TARIFF APPLICATION. Both Parties acknowledge that the Service(s) provided may be subject, in whole or in part,
+to one or more provisions of state or federal tariffs. In the event of any conflict between any provision of this Agreement or any
+applicable SOF(s) and any such tariff(s), such tariff(s) will prevail.
+16. CONFLICT OF TERMS AND SEVERABILITY. Except as expressly provided in Section 15, any applicable SOF(s),
+Terms and Conditions and/or any Addendum(a), if this Agreement conflicts with any terms or conditions incorporated by reference
+into this Agreement, this Agreement will control. If any provision of this Agreement is held invalid, illegal or unenforceable, the
+unaffected provisions will remain in full force and effect.
+17. DISPUTE RESOLUTION PROCESS.
+(a) The Parties wish to promptly and fully resolve any dispute arising in connection with this Agreement in good
+faith, confidentially, and informally with minimal transaction costs. Neither Party may make any public statement regarding any
+such dispute and/or the existence of any such dispute except as otherwise expressly provided in this Section 17. If either Party
+determines that any dispute cannot be resolved informally, then such Party will initiate an escalation process by giving written
+notice (“Escalation Notice”) to the other Party. Each Party then will name one (1) representative, which representative will be an
+executive knowledgeable of the subject matter in dispute and with authority to discuss the dispute (hereinafter the “Officers”). The
+Officers will meet in person or by conference call, together with any persons assisting them as determined by such Officers
+respectively, not later than fifteen (15) calendar days after delivery of the Escalation Notice. All negotiations conducted by the
+Officers will be confidential and will be treated as compromise and settlement negotiations for purposes of the Federal Rules of
+Evidence and any other applicable rules of evidence. The Officers will conduct such additional meetings as they deem necessary
+to exchange relevant information, will appoint their respective staff to attempt to resolve any disputed facts, and will attempt to
+resolve the dispute. Should the Officers be unable to resolve the dispute within fifteen (15) days, or such additional time as the
+Parties may otherwise agree in writing, either Party may demand mediation by written notice to the other Party, whereupon the
+parties will, in good faith, mediate the dispute no later than thirty (30) days after such demand through the services of a mutually
+selected mediator, the cost of whom will be borne equally by the Parties, at a date and location selected by the mediator after
+consultation with the Parties. If the dispute is not resolved after applying the escalation procedures set forth above (or if either Party
+fails to timely appoint Officers, comply with a demand for mediation or otherwise fail to meet its obligations pursuant to this
+Section 17(a)), the Parties agree to waive any right to trial by jury in any judicial proceeding arising under or related to the subject
+matter of this Agreement, and will submit all controversies, claims, disputes and matters of difference to arbitration according to
+the commercial rules and practices of the AAA. Arbitration hereunder will occur within sixty (60) days of the date of submission
+before a single neutral arbitrator having significant experience in the subject matter of this Agreement and who will be selected in
+accordance with applicable AAA rules. Arbitration proceedings will take place in Wake County, North Carolina. Discovery will
+be permitted, including the use of interrogatories, requests for admission and production of documents and depositions. If the
+disputed amount is less than $500,000, all applicable expedited procedures of the AAA will apply. The arbitrator’s fees and costs
+of the arbitration will be borne by the Party against whom the award is rendered; provided, however, if the arbitrator grants partial
+relief to both Parties, the arbitrator will equitably allocate the arbitrator’s fees and other costs. Each Party will pay its attorney’s
+Page 7 of 16
+Bandwidth - Proprietary & Confidential Information
+MSA 6.6 – Updated June 2, 2016
+
+fees related to any dispute related to this Agreement. The arbitration award will be final and binding on both Parties, will not be
+subject to any appeal and will be enforceable in any court of competent jurisdiction.
+(b) Notwithstanding any term or condition of this Agreement to the contrary, including, without limitation, Section
+17(a) above:
+(i) Upon the occurrence of a Default, either Party may, in addition to delivering an Escalation Notice
+pursuant to Section 17(a) above, pursue any and all actions and/or remedies pursuant to Section 5 above.
+(ii) Provider may, but will not be obligated, to utilize the dispute resolution proceedings contemplated
+by Section 17(a) above in connection with any collection of amounts not paid or properly disputed prior to any applicable
+Due Date. For clarity, Provider may utilize civil actions and/or judicial proceedings in connection with any collection of
+amounts not paid or properly disputed prior to any applicable Due Date.
+(iii) ANY DISPUTE RESOLUTION PROCEEDINGS, WHETHER IN ARBITRATION OR IN
+COURT, WILL BE CONDUCTED ONLY ON AN INDIVIDUAL BASIS AND NOT IN A CLASS ACTION OR
+REPRESENTATIVE ACTION OR AS A MEMBER IN A CLASS, CONSOLIDATED OR REPRESENTATIVE
+ACTION. CUSTOMER WILL NOT BE A CLASS REPRESENTATIVE, CLASS MEMBER OR OTHERWISE
+PARTICIPATE IN A CLASS, CONSOLIDATED OR REPRESENTATIVE PROCEEDING.
+18. CONFIDENTIALITY; PUBLICITY.
+(a) This Agreement and its terms, together with any attachments, including, without limitation, any Exhibits, SOFs,
+Rate Sheets, and Terms and Conditions, but excluding only such information that may be available to the public on Provider’s
+website from time to time, is designated as proprietary and confidential information of Provider. The Parties agree that such
+information will not be disclosed by Customer, either directly or indirectly, by any means, to any third person(s) without the express
+written permission of Provider. In the event disclosure is mandated by court order, subpoena, a governmental authority, or under
+law, Customer will give prompt written notice to Provider prior to any such disclosure and cooperate fully to obtain any protective
+order or other form of confidentiality protection sought by Provider prior to any such disclosure, except when Customer is lawfully
+compelled to maintain confidentiality pursuant to such court order, subpoena, governmental authority or law. Provider will abide
+by applicable CPNI regulations. Customer agrees and understands that Provider may, upon receipt of inquiries from law
+enforcement agencies and other governmental authorities, inform such agencies and authorities of Customer’s identity and contact
+information to facilitate the service of subpoenas or other inquiries directly to Customer. Customer agrees and understands that it
+may be necessary for Provider in the course of providing the Service(s) to access, use or disclose Customer or Customer’s customers
+and/or End Users’ information, including, without limitation, pursuant to subpoenas duces tecum (and similar subpoenas) or court
+orders and other actions of governmental agencies or entities. To the extent agreed to by the Parties in writing from time to time,
+Customer or Provider may further designate as proprietary or confidential such information as set forth in a Confidentiality
+Agreement, if any. During the performance of this Agreement, it may be necessary for Provider to transfer, process and store billing
+and utilization data and other data necessary for Provider’s operation of its network and for the performance of its obligations under
+this Agreement. The transfer, processing and storing of such data may be to or from the United States. Customer hereby consents
+that Provider may (i) transfer, store and process such data in the United States; and (ii) use such data for its own internal purposes
+and as allowed by law.
+(b) Notwithstanding any term or condition of this Agreement to the contrary, including, without limitation, Section
+18(a) above, Customer grants Provider the right to use Customer’s name, mark and logo on Provider’s website(s) and in Provider’s
+marketing materials and to publicly identify Customer as Provider’s customer from time to time.
+19. REPRESENTATIONS AND WARRANTIES OF THE PARTIES; INDEPENDENT CONTRACTOR;
+COMPLIANCE WITH LAWS. Provider represents and warrants to Customer that Provider has the right to provide the Service(s)
+specified herein, is duly organized and validly exists in good standing under the laws of its state of incorporation, with the ability
+to enter into and perform its obligations under this Agreement in accordance with its terms and conditions, including any documents
+incorporated by reference into this Agreement. Customer represents and warrants to Provider that Customer is duly organized and
+validly exists in good standing under the laws of its state of incorporation, with the ability to enter into and perform its obligations
+under this Agreement in accordance with its terms and conditions, including any documents incorporated by reference into this
+Agreement. Each Party agrees that it will perform its obligations hereunder as an independent contractor and not as the agent,
+employee or servant of the other Party and that no joint venture or partnership is or has been expressed or implied. Customer will
+comply with all laws and regulations applicable to Customer and/or Customer’s utilization of any Services; Customer will be
+directly responsible for compliance with applicable laws and regulations as such laws and regulations relate to Customer,
+Customer’s utilization of any Services, Customer’s customers and/or End Users’ utilization of any Services, and/or the utilization
+by any other person or entity to which Customer provides any services in connection with or utilizing any Service provided to
+Customer pursuant to this Agreement.
+20. ASSIGNMENT. A Party may not assign this Agreement or any obligations or rights therein, in whole or part, without
+the prior written consent of the other Party, which will not be unreasonably withheld, conditioned or delayed. Notwithstanding the
+Page 8 of 16
+Bandwidth - Proprietary & Confidential Information
+MSA 6.6 – Updated June 2, 2016
+
+foregoing, a Party may assign this Agreement, without consent, to an affiliate, or an entity which acquires all or substantially all of
+the stock or assets of the assigning Party, or to a successor in a merger, acquisition or restructuring of the assigning Party; provided,
+however, (i) the assigning Party will give notice of any such assignment to the other Party not later than ten (10) business days
+immediately after such assignment; and (ii) in the event of any such assignment by Customer, (A) Provider may require the assignee
+to (i) be additionally and separately bound in writing to all the terms and conditions of this Agreement, including any additional
+provisions incorporated into this Agreement by reference, (ii) immediately cure all defaults and/or outstanding obligations of
+Customer pursuant to this Agreement; and (B) Provider reserves the right to review and consider the assignee according to
+Provider’s practices and procedures, including, without limitation, a credit profile evaluation; Provider may, in Provider’s
+discretion, impose additional contractual requirements as a condition to Provider’s consent to any such assignment, including,
+without limitation, modification of payment terms, the imposition of a security deposit or the modification any existing security
+deposit, and/or the discontinuation of Service(s) without notice if any assignee fails to respond in a timely manner or otherwise
+cooperate with Provider during Provider’s review.
+21. 911 / E911 MATTERS. CUSTOMER ACKNOWLEDGES, UNDERSTANDS, AND AGREES THAT PROVIDER’S
+VOICE SERVICE IS INTERNET BASED AND THEREFORE 911/E911 SERVICES ARE DIFFERENT FROM
+TRADITIONAL WIRELINE BASED SERVICES AND ARE OR MAY BE ONLY PROVIDED WITH CERTAIN SERVICES
+IF SPECIFICALLY DEFINED IN ADDENDUM(S), EXHIBIT(S), SCHEDULES, SOFS, TERMS AND CONDITIONS,
+SERVICE AGREEMENTS, AND ATTACHMENTS TO THIS AGREEMENT, AND INCLUDING OTHER APPLICABLE
+ADDENDA, AND APPLICABLE ONLINE TERMS & CONDITIONS, ALL OF WHICH ARE FULLY INCORPORATED
+HEREIN BY REFERENCE. CUSTOMER ACKNOWLEDGES AND AGREES THAT NEITHER PROVIDER, ITS
+UNDERLYING CARRIER(S), NOR ANY OTHER THIRD PARTIES INVOLVED IN THE ROUTING, HANDLING,
+DELIVERY, OR ANSWERING OF EMERGENCY SERVICES OR IN RESPONDING TO EMERGENCY CALLS, NOR
+THEIR OFFICERS OR EMPLOYEES, MAY BE HELD LIABLE FOR ANY CLAIM, DAMAGE, LOSS, FINE, PENALTY OR
+COST (INCLUDING, WITHOUT LIMITATION, ATTORNEYS FEES) AND CUSTOMER HEREBY WAIVES ANY AND
+ALL SUCH CLAIMS OR CAUSES OF ACTION, ARISING FROM OR RELATING TO THE PROVISION OF ALL TYPES
+OF EMERGENCY SERVICES TO CUSTOMER. CUSTOMER FURTHER AGREES AND ACKNOWLEDGES THAT IT IS
+INDEMNIFYING AND HOLDING HARMLESS PROVIDER FROM ANY CLAIM OR ACTION FOR ANY CALLER
+PLACING SUCH A CALL WITHOUT REGARD TO WHETHER THE CALLER IS AN EMPLOYEE OR CUSTOMER OF
+CUSTOMER. CUSTOMER ACKNOWLEDGES AND AGREES THAT ANY INJURY ARISING OUT OF A LACK OF OR
+MISROUTING OF 911 CALLS, REGARDLESS OF WHETHER THE CALL FAILED OR WAS ROUTED BY A PUBLIC
+SAFETY ANSWERING POINT OR AN OFFICIAL EMERGENCY OPERATOR, IS NEITHER THE FAULT NOR LIABILITY
+OF PROVIDER AND CUSTOMER HOLDS PROVIDER AND ITS SUBSIDIARIES AND AFFILIATES, AS WELL AS THEIR
+RESPECTIVE OFFICERS, DIRECTORS, MANAGERS, EMPLOYEES AND AGENTS HARMLESS FROM ANY DAMAGES
+OR LIABILITIES. THE LIMITATIONS APPLY TO ALL CLAIMS REGARDLESS OF WHETHER THEY ARE BASED ON
+BREACH OF CONTRACT, BREACH OF WARRANTY, PRODUCT LIABILITY, TORT AND ANY OTHER THEORIES OF
+LIABILITY.
+22. SERVICE MOVES. Service(s) may not be moved from a contracted Service address without written notification from
+Customer to Provider. Should Customer fail to notify Provider of a service move, then Provider, in its sole discretion, may
+immediately suspend any applicable Service(s) until such time as Provider processes a “move order” initiated by Customer. Failure
+to notify Provider of an intended service move may result in Service(s) being 911/E911 non-compliant, if otherwise
+applicable. Customer understands that said failure may cause incorrect routing of emergency services and any consequences of
+such rest solely with Customer. Additionally, Customer understands that continuation of Service with respect to any existing DIDs
+may be restricted by the location of the moved service.
+23. THIRD PARTY BENEFICIARIES. The Parties do not intend by the execution, delivery, or performance of this
+Agreement to confer any benefit, incur any obligation or duty under law or otherwise, direct or incidental, upon any third-party,
+person or entity not a party to this Agreement, including, without limitation, Customer’s customers and/or End Users.
+24. NON-EXCLUSIVE AGREEMENT. This Agreement is not exclusive. Except as may be expressly provided in any
+applicable SOF(s) and/or Terms and Conditions from time to time with respect to Customer only, nothing in this Agreement will
+prevent Customer or Provider from entering into similar arrangements with, or otherwise providing services to, any other person
+or entity.
+25. NOTICES. Any notice(s) by a party as set forth in this Agreement will be sent to each Party at the address provided on
+the signature page of this Agreement and to any additional address(es) as may be specified on the signature page of this Agreement.
+Unless otherwise expressly provided otherwise in this Agreement, notice will be deemed to be delivered when sent via one or any
+combination of the following: (i) email address(es) of record, (ii) facsimile number of record, and/or, (iii) overnight delivery to the
+physical address of record by nationally recognized overnight delivery service.
+26. SURVIVAL. Sections 3, 4, 5, 9, 15, 16, 17, 18, 19, 21, 23, 24, 25, 26, 27 and 28 will survive any expiration or termination
+of this Agreement. Notwithstanding the foregoing, the expiration or termination of this Agreement will not relieve the parties of
+any liability or obligation that accrued prior to such expiration or termination.
+Page 9 of 16
+Bandwidth - Proprietary & Confidential Information
+MSA 6.6 – Updated June 2, 2016
+
+27. MISCELLANEOUS. This Agreement, together with any attachments, including, without limitation, any Exhibits, SOFs,
+Rate Sheets, and/or Terms and Conditions, incorporated herein by reference, constitute the entire understanding between the Parties
+with respect to Service(s) provided herein and supersedes any prior agreements or understandings pursuant to Section 28 below.
+Customer will receive the Service(s) detailed in an executed SOF(s) and Terms and Conditions pursuant to this Agreement only
+and Customer is not relying on any affirmation of fact, promise or description from any person or entity, nor any other oral or
+written representation other than what is contained in this Agreement and any incorporated documents. Handwritten alterations or
+additions by Customer to this Agreement or any applicable SOF(s) or Terms and Conditions will not be considered binding; such
+modifications must be provided by Customer in a separate written document and executed by both Parties. This Agreement will be
+binding on the parties hereto and their respective personal and legal representatives, successors and permitted assigns. Agreement
+headings are provided for reference purposes only. This Agreement may be executed in counterparts, each and all of which
+constitute the full executed Agreement, and the Parties agree that a digitized (electronic) or facsimile copy of the executed
+Agreement will be the same as an original copy. The failure of Provider to give notification of Default and/or to enforce compliance
+with any of the terms or conditions of this Agreement will not be considered the waiver of such Default and/or any further Default
+and/or enforcement or other term or condition of this Agreement. No waiver of Provider will be effective unless in writing and
+signed by an authorized representative of Provider. No amendment to this Agreement will be effective or binding unless it is made
+in writing and executed by authorized representatives of both Parties.
+28. PRIOR AGREEMENTS. The Parties to this Agreement agree that in the event of any Prior Agreements, then any such
+Prior Agreements are hereby superseded by this Agreement immediately as of the Effective Date of this Agreement. Customer
+hereby represents and warrants that Customer has the full authority to agree to the supersession of all such agreements, directly or
+on the behalf of all such entities or persons that have entered into all Prior Agreements. In the event of any such Prior Agreements
+then such Prior Agreements include but are not limited to those which are set forth in the pertinent Exhibit(s). Customer agrees that
+any and all amounts due and owing under the Prior Agreements will remain due and payable under the terms of this Agreement.
+Customer agrees and understands that the effective date of any pricing or rates changes may depend upon individual SOFs or Terms
+and Conditions and rate change timeframes set forth therein.
+(The remainder of this page is intentionally left blank.)
+Page 10 of 16
+Bandwidth - Proprietary & Confidential Information
+MSA 6.6 – Updated June 2, 2016
+
+SIGNATURE PAGE
+IN WITNESS WHEREOF, the parties have executed this Master Service Agreement as of the date first
+written above.
+PROVIDER: CUSTOMER:
+BANDWIDTH.COM, INC. Telesmart, Inc.
+By: {{ msa_es_:signer2:signature}} By: {{ msa_es_:signer1:signature}}
+Name: {{ msa_es_:signer2:fullname}} N a m e : { { m s a _ e s _ : s i g n e r 1 : f u l l n a m e } }
+Title: {{ msa_es_:signer2:title}} Title: {{ msa_es_:signer1:title}}
+Date: {{ msa_es_:signer2:date}} Date: {{ msa_es_:signer1:date}}
+Address: Address:
+900 Main Campus Drive, Suite 500
+56825 Venture Lane, Suite 110 Sunriver, OR
+Raleigh, North Carolina 27606
+97707
+Attention: General Counsel
+Additional Customer Parties for Notice:
+Additional Provider Parties for Notice:
+Email: {{ email_es_:signer1}}
+Email: legal@bandwidth.com
+Fax: {{ fax_es_:signer1}}
+Fax: 919-238-9903
+Page 11 of 16
+Bandwidth - Proprietary & Confidential Information
+MSA 6.6 – Updated June 2, 2016
+
+EXHIBIT A - DEFINITIONS
+For the purposes of this Agreement, any SOFs, Rate Sheets, Terms and Conditions and/or other documents incorporated
+in the Agreement by reference, the following terms will have the following meanings if not otherwise defined in the Agreement:
+“1010xxx” means a code to manually choose a long distance provider for an outbound call.
+“411” means a directory services allowing the lookup of residential or business contact information.
+“511” means the FCC-designated nationwide telephone number for traveler information.
+“711” means a Telecommunications Relay Services (TRS) which permits persons with a hearing or speech disability to
+use the telephone system via a text telephone (TTY), or other device, to call persons with or without such disabilities.
+“900” means a premium rate area code that is charged at a higher rate than normal.
+“911 / E911” means functionality that allows End Users to contact emergency services.
+“976” means a premium rate exchange that is charged at a higher rate than normal.
+“AAA” means the American Arbitration Association.
+“Abandoned Call” means any call attempt that is received by Provider for completion, but which is abandoned and/or
+canceled by the calling party for any reason prior to completion.
+“Agreement” means (i) the Master Service Agreement to which this Exhibit A is attached, and (ii) any document
+incorporated therein by reference pursuant to the Master Service Agreement.
+“ANI” means automatic number identification.
+“API” mean an application program interface(s) and is the system(s) provided by Provider that enables Customer to
+remotely transmit requests to Provider’s interfacing system(s) to perform certain transactions.
+“Average Call Duration” means the average call duration, as calculated with respect to all Customer’s completed calls
+in an applicable billing cycle.
+“CALEA” means Communications Assistance for Law Enforcement Act regulated by the FCC.
+“Call Detail Record (CDR)” means the electronic record of individual telephone calls, and may include such call
+components as: from, to, date/time, destination, and duration of call.
+“Call Signaling” means the process of sending control information during a call. Call signaling may be in band (muting
+the audio while sending control information) or out of band (on a separate signaling channel (such as SS7) during the call. Provider
+utilizes Session Initiation Protocol (SIP) Call Signaling, as defined in RFC 3261.
+“Call Traffic” means the transmission of telephone calls over Provider’s network, and generally is descriptive of patterns
+of Usage, such as: time of day, call duration, minutes of use. (May also be known as Voice Traffic).
+“Class 5 Features” means additional phones features beyond standard routing and audio. For example, both call hunting
+and voicemail are Class 5 Features.
+“CNAM” means Caller ID with Name.
+“Collect Calling” means a service in which calling party is able to place a call at the called party's expense.
+“Concurrent Call” or “Concurrent Call Channel” means the number of active calls at any given moment which may
+be supported by Customer service as contracted depending upon number of channels ordered (a Concurrent Call Channel is the
+same as a Session).
+“CPN” means called party number.
+“CPNI” means Customer Proprietary Network Information and is defined and regulated by the FCC and includes such
+data as: CDRs, the type of services/network a Customer subscribes to, and any other information that appears on a Customer’s
+invoice.
+Page 12 of 16
+Bandwidth - Proprietary & Confidential Information
+MSA 6.6 – Updated June 2, 2016
+
+“Dedicated Interconnection” means a dedicated data connection between Customer and Provider used to pass Voice
+Traffic.
+“Default” means (and will occur), with respect to Customer: (i) if Customer fails to make any payment for Service(s)
+not disputed in good faith pursuant to Section 4 of the Agreement more than two (2) business days immediately after the applicable
+Due Date, or any other payment contemplated by this Agreement on or before the date two (2) business days immediately after any
+applicable required date, including, without limitation, pursuant to Section 3(d) of the Agreement; (ii) if Customer (or any customer
+and/or End User of Customer) violates the AUP; (iii) if Customer fails to perform or observe any term or obligation of this
+Agreement, including, without limitation, any document incorporated by reference into this Agreement, not otherwise specified in
+clauses (i) or (ii) above and applicable to the Service(s), which failure remains uncured thirty (30) calendar days after Customer’s
+receipt of written notification from Provider informing Customer of such failure; (iv) upon the institution of bankruptcy,
+receivership, insolvency, reorganization or other similar proceedings, by or against Customer, unless such proceedings have been
+dismissed or discharged not later than the date thirty (30) calendar days immediately after the commencement of such proceeding;
+(v) upon the making of an assignment for the benefit of creditors, adjudication of insolvency, or institution of any reorganization
+arrangement or other readjustment of debt plan, of or by Customer; and/or (vi) upon the appointment of a receiver for all or
+substantially all of Customer’s assets. “Default” means (and will occur), with respect to Provider: (i) if Provider fails to perform
+or observe any term or obligation of this Agreement, including, without limitation, any document incorporated by reference into
+this Agreement and applicable to the Service(s), which failure remains uncured thirty (30) calendar days after Provider’s receipt
+of written notification from Customer informing Provider of such failure; (ii) upon the institution of bankruptcy, receivership,
+insolvency, reorganization or other similar proceedings, by or against Provider, unless such proceedings have been dismissed or
+discharged not later than the date thirty (30) calendar days immediately after the commencement of such proceeding; (iii) upon the
+making of an assignment for the benefit of creditors, adjudication of insolvency, or institution of any reorganization arrangement
+or other readjustment of debt plan, of or by Provider; and/or (iv) upon the appointment of a receiver for all or substantially all of
+Provider’s assets.
+“DID” or “DID/DOD” means “Direct Inward Dialing” and “Direct Inward Dialing / Direct Outward Dialing” associated
+with a telephone number assigned by Provider to Customer for use by Customer and/or an End User.
+“Directory Listing” means the inclusion of Customer’s activated TN in the United States or Canada and associated
+subscriber name in a relevant public database for directory listing.
+“Disconnect Charge” means a non-recurring charge charged by Provider and payable by Customer for any request to
+disconnect a Provider-assigned DID, DID/DOD, TFN or TN, including any port outs from Provider.
+“End User” means an entity or individual receiving service from Customer.
+“Excessive Non-Completed Intrastate / Interstate Toll Free Call Surcharge” means a surcharge, in addition to
+Customer’s current Rates, applicable if more than ten percent (10%) of Customer’s Toll Free calls are not completed for any reason,
+which Provider reserves the right to charge, and Customer will pay if charged, per excessive non-completed Intrastate or Interstate
+Toll Free call.
+“Excessive Non-Completed International Toll Free Call Surcharge” means a surcharge, in addition to Customer’s
+current Rates, applicable if more than ten percent (10%) of Customer’s Toll Free calls are not completed for any reason, which
+Provider reserves the right to charge, and Customer will pay if charged, per excessive non-completed International Toll Free call.
+“FCC” means the Federal Communications Commission.
+“Flat Rate Type” means a fixed per minute pricing format whereby the rate is delineated by Interstate and Intrastate
+jurisdiction regardless of NPA-NXX or LATA/OCN.
+“Improper Calls” means call types that (i) would result in Provider incurring originating access charges, local exchange
+carrier “DIP” fees or other call types that may be subject to a reverse billing process, (ii) 911 / E911 or other emergency service
+calls; (iii) any unauthorized or fraudulent communications on pay-per-call numbers, information service calls, directory assistance
+calls or the like; and/or (iv) mass calling events, excessive non-completed and invalid calls and failed calls due to inadequate
+Customer capacity.
+“Inbound Calling” (or “Inbound Calls”) means a call from the PSTN through Provider or another IP endpoint to
+Customer.
+“Information Services” is defined in the Telecommunications Act of 1996, as amended, and means the offering of a
+capability for generating, acquiring, storing, transforming, processing, retrieving, utilizing, or making available information via
+telecommunications, and includes electronic publishing, but does not include any use of any such capability for the management,
+control, or operation of a telecommunications system or the management of a telecommunications service.
+Page 13 of 16
+Bandwidth - Proprietary & Confidential Information
+MSA 6.6 – Updated June 2, 2016
+
+“Initial SOF Term” will have the meaning provided in any applicable SOF.
+“Intermediate Number” means a TN provisioned by Provider to Customer pursuant to this Agreement or any applicable
+SOF (i.e., on a wholesale basis), but which neither Provider nor Customer can appropriately demonstrate has been assigned to an
+End User.
+“International Call Termination” means outbound calls destined for anywhere outside of the domestic United States.
+“Interoperability” means the ability to exchange calls between Customer and Provider effectively.
+“Interstate” means a call which is originated and terminated in different states.
+“Intrastate” means a call which is originated and terminated in the same state.
+“IP” means Internet Protocol.
+“IP Originated” means traffic utilizing TCP/IP as a transmission protocol from the originating equipment (i.e. SIP
+phones, SIP PBX, TDM to SIP Gateway, IP-adapter, etc.) to a TCP/IP gateway, for termination to an IP destination or the PSTN.
+“LATA” means Local Access Transport Area. A geographic area within a telephone company's franchised territory
+which has been established in accordance with the Modification of Final Judgment (MFJ) for the purpose of defining the area
+within which a telephone company may offer services.
+“LATA/OCN Rate Type” means a pricing format where rates per minute are set for each unique OCN within a LATA
+for Interstate and Intrastate calling.
+“LCA” (or “Local Calling Area”) means the local calling area defined geographically by the telecommunications
+industry standards.
+“LIDB” means Line Information Database.
+“LNP” means Local Number Portability as defined by the FCC.
+“Local” means any call that originates and terminates within the same Local Calling Area.
+“Location Routing Number (LRN)” means a telephone number (e.g. 10 digit number) that is used to route calls to an
+end office switch that allows for the processing of portable (assignable) telephone numbers.
+“MRC” means monthly recurring charge.
+“NADP” means the North American Dialing (or Numbering) Plan.
+“NPA-NXX” means the area code and exchange of a telephone number.
+“NPA-NXX-X” means the area code, exchange and first digit of the station code of a telephone number.
+“NPA-NXX-X Rate Type” means a pricing format where rates per minute are set for each unique NPA-NXX-X (area
+code – exchange – 1st digit of station code) for Interstate and Intrastate calling.
+“NRC” means non-recurring charge.
+“OCN” means Operating Company Number. A four-character code assigned by the National Exchange Carrier
+Association (NECA) to any telecommunications provider.
+“On-Net” means calls that are connected on a single network (such as calls through the Internet).
+“Operator Assisted Calling” means a telephone call during which an operator places a call for the caller.
+“Operator Intercept” means a service by which a caller is routed to an operator when a call error or special handling
+request is received.
+“Operator Services” means live operator assistance to caller usually when dialing “0”.
+Page 14 of 16
+Bandwidth - Proprietary & Confidential Information
+MSA 6.6 – Updated June 2, 2016
+
+“Originating” means the party initiating a call or request for service.
+“Origination” or “Voice Origination” means a service which includes TNs to provide Inbound Calling.
+“Originating Equipment” means equipment beginning a call session.
+“Prior Agreements” means any prior contractual agreements for communications services between Provider and
+Customer, including, without limitation, any SOF(s) or other service agreements.
+“PSTN” means the Public Switched Telephone Network.
+“Public Internet” means a global system of interconnected computer networks that interchange data by packet switching
+using the standardized protocols.
+“PUC” means a public utilities commission (or other similar governmental agency).
+“Rate Center” means a geographic area (determined by the applicable ILEC) within an LCA or market that is associated
+with one or more specific NPA/NXX codes. A list of available Rate Centers is available upon request.
+“Rate Sheet” means the rate sheet describing the Rates applicable to Services and attached to an applicable SOF.
+“Rate Type” means the rate format option delivered to Customer, which will be either “NPA-NXX-X or LATA/OCN.
+“RBOC / Wireless Thresholds Surcharge (Flat Rate Only)” means a surcharge, in addition to Customer’s current
+Rates, applicable if Customer has any quoted Flat Rate Types and less than seventy-five percent (75%) of Customer’s calls
+terminate on either an RBOC or wireless PSTN during any billing cycle, which Provider reserves the right to charge, and Customer
+will pay if charged, per minute on the number of minutes needed to meet the seventy-five percent (75%) threshold.
+“Responsible Organization” means the party hereto that is responsible for managing and administering the account
+records in the Toll Free Service Management System Database.
+“Session” means mean one (1) Concurrent Call Channel.
+“Short Duration Call” means any call of a duration of less than or equal to six (6) seconds.
+“Short Message Service” or “SMS” is the text communication service component of mobile communication systems
+that allows the exchange of short text messages between fixed line or mobile phone devices.
+“SIP” means “Session Initiation Protocol” which is the signaling protocol established in RFC 3261 used between
+networks (such as VoIP networks) to establish, control and terminate signaling for SIP-based services such as voice calls and SMS
+messages.
+“SMPP” means Short Message Peer-to-Peer protocol which is an open message-transfer protocol that enables short
+message entities to establish, control and terminate signaling for SMPP-based services like SMS.
+“Subscriber” means an individual End User of Customer's service assigned a DID/DOD.
+“Tariff” means an open contract between telecommunications carriers and the FCC. Tariffs contain the rates, terms and
+conditions of certain services provided by telecommunications carriers.
+“TCP/IP” means Transmission Control Protocol / Internet Protocol.
+“TFN” means a Toll Free number that assigned by Provider to Customer (or that Customer ports to Provider) for use
+with the Provider Toll Free Service.
+“TN” means a telephone number assigned by Provider to Customer (or that Customer ports to Provider) (other than a
+TFN) and is used by Customer in connection with any applicable Service.
+“Toll Free Calling” or “Toll Free” means a call placed to a Toll Free number.
+“Toll Free Service” means an IP termination service for PSTN originated calls to terminate to TFNs provided by
+Provider.
+Page 15 of 16
+Bandwidth - Proprietary & Confidential Information
+MSA 6.6 – Updated June 2, 2016
+
+“Usage” means call traffic (including SMS) measured in units, usually in minutes or seconds (except with respect to
+SMS).
+“Voice Termination” (or “Termination”) means outbound calling from Customer to Provider’s network for purposes
+of delivering (terminating) the call on the PSTN or another IP endpoint.
+“VoIP” means Voice over Internet Protocol.
+“Wholesale” means frequent volume purchases in large quantities for Customer resale or repurpose.
+(The remainder of this page is intentionally left blank.)
+Page 16 of 16
+Bandwidth - Proprietary & Confidential Information
+MSA 6.6 – Updated June 2, 2016
+
+SERVICE ORDER FORM
+Sales Rep: Eric Brummond
+900 Main Campus Drive, Suite 500
+Raleigh, NC 27606
+Billing Address
+Customer Name: Telesmart, Inc.
+Attention To: Jim Lundeen
+Address: 56825 Venture Lane, Suite 110
+City, State and Zip Code: Sunriver, OR 97707
+Phone: +1.888.354.8647
+Billing Email:
+Service Address
+Address: 7039 SW 195th Ave
+City, State and Zip Code: San Francisco, CA 97007-5527
+Customer Contact for Rate Changes
+Services
+Inbound
+Outbound
+Date of Master Service Agreement (“MSA”) to which this Service Order Form (“SOF”) applies: {{sof_es_:signer1:date}}
+SOF Term: This SOF will be effective upon signature by both Parties below and will continue until the date twenty four (24) months from the
+Service Commencement Date (the “Initial SOF Term”). The Initial SOF Term will automatically extend upon the same terms and conditions
+applicable during the Initial SOF Term for additional consecutive term(s) of twelve (12) months (the “Renewal SOF Term”) until either the
+MSA or this SOF is terminated pursuant to the MSA. Customer may terminate this SOF as of the end of the Initial SOF Term or any applicable
+Renewal SOF Term by written notice to Provider via email to support@bandwidth.com not less than thirty (30) calendar days prior to the end of
+such Initial SOF Term or applicable Renewal SOF Term.
+Miscellaneous: The Service(s) described in this SOF will be governed by the MSA, the Terms and Conditions applicable to such Service(s) (the
+“Terms and Conditions”), and the Rate Sheet, each of which is incorporated by reference. Capitalized terms not otherwise defined will be as
+defined in the MSA and/or the Terms and Conditions. Customer acknowledges receipt of the Terms and Conditions and the Rate Sheet.
+Telesmart, Inc.: BANDWIDTH.COM, INC.:
+By: {{sof_es_:signer1:signature}} By: {{ sof_es_:signer2:signature}}
+Printed Name: {{ sof_es_:signer1:fullname}} Printed Name: {{ sof_es_:signer2:fullname}}
+Title: {{ sof_es_:signer1:title}} Title: {{ sof_es_:signer2:title}}
+Date: {{ sof_es_:signer1:date}} Date: {{ sof_es_:signer2:date}}
+Bandwidth - Proprietary & Confidential Information
+SOF for use with MSA 6.6 – Updated May 2, 2016 Document No.: SOF-O0021401
+
+RATE SHEET
+Customer Name: Telesmart, Inc.
+Date of SOF to which this Rate Sheet Applies: {{rs_es_:signer2:date}}
+Document # to which this Rate Sheet Applies: SOF-O0021401
+ORIGINATION (INBOUND) RATES – FLAT RATE
+DID Rates**
+(Per Min.)*
+Porting NRC* NRC* MRC*
+Tier 0 $0.0025 Tier 0 $3.00 Tier 0 $0.25 Tier 0 $0.10
+Tier 1 $0.0045 Tier 1 $3.00 Tier 1 $0.25 Tier 1 $0.25
+Tier 2 $0.0080 Tier 2 $3.00 Tier 2 $0.25 Tier 2 $0.25
+Tier 3 $0.0155 Tier 3 $3.00 Tier 3 $0.25 Tier 3 $0.25
+Tier 5 $0.0180 Tier 5 $5.00 Tier 5 $1.00 Tier 5 $0.25
+Toll Free Origination (Inbound) Rates***
+Toll Free DID Rates
+Service Rate File Name
+Porting NRC NRC MRC
+Toll Free TeleSmart_NPANXX_TForig_082516 $0.50 $0.00 $0.20
+Expedite Fee to add a TFN (NRC) per TFN $45.00
+Excessive Non-Completed Intrastate / Interstate Toll Free Call Surcharge $0.10
+Excessive Non-Completed International Toll Free Call Surcharge $0.50
+Expedite Fee to add a TFN (NRC) per TFN $45.00
+Excessive Non-Completed Intrastate / Interstate Toll Free Call Surcharge $0.10
+Excessive Non-Completed International Toll Free Call Surcharge $0.50
+Pay Phone Surcharge $0.55 Per call
+Directory Listing/Assistance
+Service NRC per DID MRC per DID
+Directory Assistance Only (may not be
+available to public or distributed to any $5.00 $0.15
+print or online databases)
+Directory Assistance and Directory Listing $7.00 $0.15
+Retained Listings (all Rates per DID)
+$0.90 $0.15
+(applicable on Project Ports only)
+Additional Rates****
+LIDB Insertion Fee per TN (NRC) $0.1
+* The applicable Tiers refer to applicable Rate Centers as determ ined from time to time by Provider.
+** The DID Rates do not apply to DIDs for Alaska, Hawaii or Puerto Rico, which Rates will be as follows, if DIDs are available: Alaska,
+Hawaii and Puerto Rico, Porting NRC is $15, NRC is $2 and MRC is $1.5.
+*** The Rates will not apply to Toll Free Service for any location outside the continental United States. With respect to any calls from any
+locations outside the continental United States, Provider’s then-prevailing applicable Rates as posted at
+www.bandwidth.com/resources/legal will apply. All such Rates are subject to change upon five (5) calendar days prior notice. Customer
+will be deemed to have received and accepted notice of such changed Rates when posted by Provider to
+www.bandwidth.com/resources/legal.
+**** Applicable only if available.
+WHOLESALE TERMINATION (OUTBOUND) RATES – RATE DECK
+Rate Type Format: NPA – NXX
+Customer represents and warrants receipt of the Rates in electronic format as provided by Provider to Customer separate from this Rate
+Sheet, which may be updated from time to time pursuant to the applicable Terms and Conditions. If there is no Rate otherwise provided in
+this Rate Deck for any applicable NPA-NXX (or LATA / OCN), then any call to any such NPA-NXX (or LATA / OCN) will have a Rate of
+$0.10 per minute, subject to any other applicable Rates, fees or surcharges, including, without limitation, any applicable surcharge due to
+Provider pursuant to Section 3 of the Termination Terms and Conditions.
+Abandoned Call Surcharge $0.01 per applicable call (in addition to applicable Rates)*
+Bandwidth - Proprietary & Confidential Information
+Rate Sheet – for use with MSA 6.6 – Updated June 2, 2016 Document No.: RS-O0021401
+
+$0.01 per applicable minute (in addition to applicable
+ACD Surcharge
+Rates)**
+MRC Per Channel (Outbound) 300@$0.00.ea
+Short Call Duration Surcharge (in addition to applicable Rates)*** $0.03
+Non-IP Originated Surcharge $0.1
+* If more than 30% of total call attempts are Abandoned Calls during any applicable calendar month, Provider reserves the right to charge, and
+Customer will pay, the Abandoned Call Surcharge with respect to those Abandoned Calls in excess of such threshold. The percentage of
+Abandoned Calls is determined by dividing the total number of Abandoned Calls by the total number of call attempts.
+** If the Average Call Duration during any applicable billing cycle is less than ninety (90) seconds, Provider reserves the right to
+charge, and Customer will pay, an ACD Surcharge equal to (i) (x) the number of minutes Customer would have used if the Average Call Duration
+would have equaled ninety (90) seconds with respect to the number of calls actually completed, minus (y) the number of minutes Customer
+actually used with respect to the calls actually completed, multiplied by (ii) the ACD Surcharge. (For example, if Customer’s Average Call
+Duration during a billing cycle is sixty (60) seconds, Customer completed 1,000,000 calls during the billing cycle and the ACD Surcharge per
+applicable minute is $0.01, the aggregate ACD Surcharge would be $5,000.00, calculated as follows: (90 seconds x 1,000,000) – (60 seconds x
+1,000,000) = 500,000 minutes x $0.01 per minute.)
+*** If, during any billing cycle, 5% or more of Customer’s completed calls are Short Duration Calls, Provider reserves the right to
+charge, and Customer will pay, a surcharge per Short Duration Call as described above.
+ADDITIONAL CHARGES
+MRC per Channel (Inbound) 1@$0.00.ea
+Directory Services or Information Services (NRC) (in addition to
+$1
+applicable Rates)
+National Toll Free Directory Assistance Install Fee (NRC) per TFN $15
+National Toll Free Directory Change Fee (NRC) per TFN $14
+National Toll Free Directory (MRC) per TFN $21
+Disconnect Charge (NRC) per TN $5
+Port Out Charge (NRC) per TN $5
+LNP Charge (canceled or supplemental more than 48 hours before
+$5
+Confirmed Port Date) (NRC) per TN
+LNP Charge (canceled or supplemental within 48 hours before
+$5
+Confirmed Port Date) (NRC) per TN
+LNP Reinstatement/Snap-back Charge (within 24 hours) (NRC) per TN $50
+Reclamation Fee (NRC) per TN **** $5
+Service Reinstatement Fee (NRC) $200.00, plus charges imposed by any underlying carrier(s)
+Missed Appointment Fee (NRC) $200.00
+Rejected Credit Card / Returned (NSF) Check Fee (NRC) $40.00 (or legal limit)
+Professional Services Individual Case Basis
+**** Except as provided in Section 6 of the Terms and Conditions applicable to Origination if Customer disconnects Intermediate
+Numbers identified in an applicable Intermediate Number Notification within thirty (30) days of the date of such Intermediate Number
+Notification, in which event the Reclamation Fee will be three (3) times the MRC applicable to each disconnected Intermediate Number.
+All Rates are net of any applicable origination charges by or from third party payphone providers; if Customer receives any
+Inbound Calls originating from a payphone, such calls will be subject to a charge, payable by Customer, per call based on
+regulated FCC Payphone Compensation rules.
+All Rates included in this Rate Sheet are subject to change as provided in the MSA, any applicable SOF or any applicable Terms
+and Conditions. Capitalized terms not otherwise defined in this Rate Sheet will be as defined in the MSA, any applicable SOF or
+any applicable Terms and Conditions.
+Bandwidth - Proprietary & Confidential Information
+Rate Sheet – for use with MSA 6.6 – Updated June 2, 2016 Page 2 of 2
+
+ORIGINATION – TERMS AND CONDITIONS
+900 Main Campus Drive, Suite 500
+Raleigh, NC 27606
+These Origination - Terms and Conditions (the “Terms and Conditions”) supplement the Master Service Agreement (the “MSA”) (including
+any Exhibits, SOFs, Rate Sheet(s), Service Agreement(s), and any other attachments to the MSA, all of which are fully incorporated by
+reference within these Terms and Conditions). Capitalized terms not elsewhere defined in these Terms and Conditions will have the meaning
+ascribed to them in the MSA or any applicable SOF.
+1. Service Description. Wholesale Voice Origination (“Wholesale Voice Origination”) provides the origination of voice traffic from the
+PSTN or an On-Net IP-enabled endpoint to Customer’s premises via the Session Initiation Protocol (“SIP”). Wholesale Voice Origination
+is based on RFC 3261 (“SIP-Session Initiation Protocol”) and requires Customer to conform to RFC 3261 at Customer’s sole expense.
+WHOLESALE VOICE ORIGINATION IS AN INBOUND CALL ORIGINATION SERVICE ONLY. WHOLESALE VOICE
+ORIGINATION EXCLUDES THE FOLLOWING:
+a) Outbound calling;
+b) 911 / E911;
+c) Directory services including, but not limited to, 411 and NPA-555-xxxx;
+d) 711;
+e) 611;
+f) Any and all other x11 services;
+g) Operator Services;
+h) Collect Calling;
+i) Any and all other operator, assisted, or intercept calling services;
+j) Caller ID Name or Location;
+k) Class 5 Features;
+l) Toll Free numbers / inbound Toll Free calling (except as may be specifically agreed in the SOF to which these Terms and Conditions
+is attached); and/or
+m) 976, 900, and 1010xxx calling.
+Customer may not (i) use or otherwise enable any TNs provided by Provider (or its affiliates) at any time in connection with any Usage, SMS
+and/or any other form of traffic (other than Usage, SMS and/or any other form of traffic from Provider and its affiliates), or (ii) establish
+and/or operate peer-to-peer relationships with any third party(ies) with respect to any TNs provided by Provider (or its affiliates) at any time.
+Notwithstanding the foregoing, Customer will be responsible for all liability arising from its acts and omissions in establishing and/or
+operating such peer-to-peer relationships, and will defend, indemnify and hold harmless Provider (and its affiliates) from and against any and
+all third party claims in relation to such acts and omissions in accordance with and subject to the terms of Section 9 of the MSA.
+2. E911/ Basic 911. CUSTOMER ACKNOWLEDGES, UNDERSTANDS AND AGREES THAT THIS AGREEMENT WILL BE STRICTLY
+LIMITED TO THE PROVISION OF WHOLESALE VOICE ORIGINATION SERVICE TO CUSTOMER. CUSTOMER FURTHER
+ACKNOWLEDGES, UNDERSTANDS AND AGREES THAT WHOLESALE VOICE ORIGINATION DOES NOT CONSTITUTE
+“INTERCONNECTED VOIP SERVICE” AS DEFINED WITHIN 47 C.F.R. PART 9 AND, THEREFORE, NO E911 SERVICE OR
+BASIC 911 SERVICE WILL BE PROVIDED BY PROVIDER TO CUSTOMER, ANY END-USERS, OTHER CUSTOMERS,
+SUBSCRIBERS, OR ANY PERSON OR ENTITY PURSUANT TO THESE TERMS AND CONDITIONS OR THE WHOLESALE
+VOICE ORIGINATION CONTEMPLATED BY THESE TERMS AND CONDITIONS. CUSTOMER ACKNOWLEDGES,
+UNDERSTANDS AND AGREES THAT PROVIDER HAS NO INTENT TO AND WILL NOT PROVIDE E911 SERVICE OR BASIC
+911 SERVICE PURSUANT TO THESE TERMS AND CONDITIONS OR THE WHOLESALE VOICE ORIGINATION
+CONTEMPLATED BY THESE TERMS AND CONDITIONS. CUSTOMER WILL NOT REPRESENT IN ANY WAY OR THROUGH
+ANY MEANS TO ANY END-USERS, CUSTOMERS, SUBSCRIBERS, OR ANY PERSON OR ENTITY THAT PROVIDER PROVIDES
+ANY 911 / E911 SERVICE PURSUANT TO THESE TERMS AND CONDITIONS OR THE WHOLESALE VOICE ORIGINATION
+CONTEMPLATED BY THESE TERMS AND CONDITIONS. CUSTOMER REPRESENTS AND WARRANTS TO PROVIDER THAT,
+IF CUSTOMER IS AT ANY TIME REQUIRED TO PROVIDE ANY 911 / E911 SERVICES DUE TO ANY TELECOMMUNICATIONS
+RELATED SERVICES CUSTOMER SELLS OR PROVIDES TO CUSTOMER’S END-USERS, CUSTOMERS, SUBSCRIBERS, OR
+ANY PERSON OR ENTITY AT ANY TIME THAT ARE, IN WHOLE OR IN PART, ENABLED BY THE WHOLESALE VOICE
+ORIGNATION CONTEMPLATED BY THESE TERMS AND CONDITIONS, THEN CUSTOMER WILL ENSURE THAT 911 / E911
+SERVICES ARE FULLY PROVIDED IN COMPLIANCE WITH SUCH 47 C.F.R. PART 9.
+3. Connection. Customer must connect to Provider’s network in a manner and at locations determined by Provider. Subject to Provider’s prior
+written approval, the connection may be made: (i) via the Public Internet, and/or (ii) via a dedicated interconnection to Provider’s network if
+Customer has been approved for and has executed an agreement for such connection. Customer will, at Customer’s sole cost and liability as
+between Customer and Provider, be solely responsible for (i) providing and successfully installing any and all equipment, software and the
+like necessary for End Users to use any service offered or sold by Customer; (ii) obtaining and providing to Provider, prior to installation of
+any applicable Wholesale Voice Origination services, the IP address(es) for any applicable proxy server, Customer application and/or any
+other applicable hardware/software solution; and (iii) any and all support for any End User to which Customer offers or sells services. For
+clarity, with respect to any and all Class 5 Features Customer may offer to Customer’s End Users from time to time, Customer will provide
+Bandwidth - Proprietary & Confidential Information
+Origination – Terms and Conditions - for use with MSA 6.6 – Updated June 2, 2016 v.2 Document No. O0021401
+
+to Provider any and all accurate information required to support Wholesale Voice Origination with respect to such services, even if Customer
+obtains such information from Customer’s applicable End Users. CUSTOMER WILL INDEMNIFY AND HOLD PROVIDER HARMLESS
+AGAINST ANY AND ALL CLAIMS AND EXPENSES RESULTING FROM THE FAILURE OF CUSTOMER OR END USERS TO
+COMPLY WITH THIS SECTION.
+4. Interoperability. Customer and Provider will reasonably cooperate with each other to test to ensure interoperability between Provider and
+Customer’s networks and systems. All necessary interoperability testing will be completed within a reasonable time not to exceed thirty (30)
+calendar days after Customer’s execution of these Terms and Conditions. If after completion of initial interoperability, Customer plans to make
+upgrades, updates and/or enhancements (collectively “Configuration Changes”), Customer will notify Provider prior to implementing a
+Configuration Change so that Customer and Provider may work together in good faith to determine how best to proceed regarding such
+Configuration Change. If at any time an interoperability condition occurs that adversely affects Provider’s network that cannot be adequately
+remedied within a reasonable period of time, taking into consideration the severity of the interoperability condition and the effect on
+Provider’s network, Provider may, at its sole discretion, suspend the provision of Wholesale Voice Origination.
+5. Charges and Rates. Customer represents and warrants to Provider that Customer has received the Rates described in the Rate Sheet.
+If the Rate Sheet does not include Flat Rates, this paragraph will apply: Such Rates will apply if Customer commences using Wholesale
+Voice Origination within seven (7) calendar days of the “as of” (ao) date in the electronic file name of such Rates. If such “as of” (ao) date
+in the electronic file name of such Rates is more than seven (7) calendar days prior to Customer’s receipt of such electronic file, then such
+Rates may not be valid and Customer must obtain a new electronic file of Rates from Customer’s sales or support contact with Provider. All
+Rates are subject to change upon seven (7) calendar days’ prior notice. Provider will send such prior notice to Customer via email to
+Customer’s “Contact Name” as recorded in the “Customer Contacts for Rate Change Notice” section on the SOF. Customer will be deemed
+to have received and accepted such changed Rates upon Provider’s transmission of the email(s) containing the electronic file(s).
+Billing increments are set forth below:
+Originating Initial Billing Increment Additional Billing Increment
+Destination (Seconds) (Seconds)
+US 6 6
+6. TN Management and Related Matters. Customer will obtain TNs from Provider in amounts only reasonably necessary for Customer
+and Customer’s support of Customer’s customers and/or End Users in accordance with these Terms and Conditions and Customer’s
+reasonable and customary business practices. Provider will monitor Customer’s Usage of any TNs provisioned by Provider to Customer
+during the preceding ninety (90) day period (or any other period determined from time to time by Provider in accordance with applicable
+FCC regulations, other applicable law or customary industry practices). Provider will manage Intermediate Numbers (as defined below)
+pursuant to applicable Industry Guidelines (“Industry Guidelines” for the purposes of these Terms and Conditions will include, without
+limitation, standards and guidelines established by ATIS, INC., NANC, and other authoritative industry organizations), FCC regulations,
+other applicable law, and customary industry practices; provided, however, Provider does not guarantee TN availability. “Intermediate
+Number” means a TN provisioned by Provider to Customer pursuant to this Agreement or any applicable SOF (i.e., on a wholesale basis),
+but which neither Provider nor Customer can appropriately demonstrate has been assigned to an End User. Provider will notify Customer if
+at any time Provider reasonably concludes that Customer’s Intermediate Number(s) prevent (or are reasonably anticipated to prevent)
+Provider from obtaining TNs from the North American Number Plan Administrator, Number Pooling Administrator(s), FCC and/or any
+applicable PUC pursuant to applicable industry guidelines, FCC regulations, other applicable law, and customary industry practices (each an
+“Intermediate Number Notification”). Customer will have thirty (30) days from the date of such Intermediate Number Notification to
+disconnect Intermediate Numbers identified in such Intermediate Number Notification; if Customer disconnects such Intermediate Numbers
+within such thirty (30) day period, Customer will pay a one-time fee equal to three (3) times the MRC applicable to such disconnected
+Intermediate Number (i.e., TN) pursuant to the applicable SOF and/or Rate Sheet. Any Intermediate Number Notification will include a list
+of the applicable Intermediate Numbers (10 digits) and, if applicable, Provider’s request for other applicable information from Customer,
+including, without limitation, any information Provider reasonably determines necessary for Provider to complete and submit applicable
+reports or other documentation to the FCC, any applicable PUCs and/or other agencies and/or entities with oversight authority regarding
+TNs. If Provider does not receive any other applicable information, Provider may, upon fourteen (14) days’ prior written notice, reclaim any
+Intermediate Numbers listed on the Intermediate Number Notification, unless Customer disputes the Intermediate Number Notification as
+described below. If (i) Customer disputes the inclusion of any Intermediate Number on any Intermediate Number Notification, or (ii) Provider
+requests other applicable information in any Intermediate Number Notification, Customer will dispute and/or respond to the Intermediate
+Number Notification with applicable information, including any information reasonably necessary to support Customer’s dispute, not later
+than ten (10) business days immediately after Customer’s receipt of the Intermediate Number Notification through Provider’s customer portal
+found at https://support.bandwidth.com/home (or such other means Provider may provide to Customer from time to time by written notice).
+The Parties will work together in good faith to investigate any disputed Intermediate Number Notification and use commercially reasonable
+efforts to resolve any such dispute within thirty (30) calendar days after receipt of notification of dispute from Customer. If the Parties fail
+to resolve any such disputed Intermediate Number Notification, or if Customer otherwise fails to disconnect Intermediate Numbers per the
+Intermediate Number Notification as described above, (1) Provider may, upon fourteen (14) days’ prior written notice, reclaim any applicable
+Intermediate Numbers listed on the Intermediate Number Notification; and (2) if Provider reclaims any applicable Intermediate Numbers,
+Provider will charge Customer, and Customer will pay, a Reclamation Fee of Five Dollars ($5.00) per Intermediate Number reclaimed.
+7. Porting Numbers. Provider will require a completed and signed Letter of Authorization (“LOA”) for any existing telephone numbers
+Customer wishes to port from another carrier to Provider. Provider may require a recent copy of the current phone bill which contains
+Bandwidth - Proprietary & Confidential Information
+Origination - Terms and Conditions - for use with MSA 6.6 – Updated June 2, 2016
+Page 2 of 4
+
+Customer’s Billing Telephone Number (“BTN”) as well as a record of any numbers that need to be ported. Provider must receive necessary
+LOA(s) and/or bill copy(ies) before Provider will initiate a port request and obtain a Confirmed Port Date. The “Confirmed Port Date” is
+the date upon which the current voice provider has agreed to port a number(s) to Provider. The Confirmed Port Date interval may in some
+cases take as long as one (1) to two (2) business weeks after Customer initiates the port request; since the port interval is a product of the
+accuracy of the information provided to Provider by Customer, as well as the processing speed of Customer’s current voice provider, Provider
+makes no guarantees regarding the promptness of a port, however all ports will be provided consistent with applicable law.
+8. Forecasting. From time to time, Provider may request from Customer a forecast of expected origination Usage volumes and/or TN
+procurement. Customer will cooperate with such requests. In the event Customer anticipates changes in origination Usage volumes, Customer
+will proactively contact Provider to review such changes. Provider will use commercially reasonable efforts to maintain adequate capacity
+to meet Customer provided forecasts. Provider’s failure to adequately provide capacity, regardless of reason, will not constitute a breach of
+the MSA or these Terms and Conditions.
+9. Fraud. Customer will not participate in or assist in any fraudulent origination Usage, in any form or by any means, either by itself or any of
+its End Users. If Customer suspects, knows of, or should have known of any fraudulent origination Usage, Customer will immediately stop
+all fraudulent origination Usage and notify Provider. Customer acknowledges, understands and agrees that Provider does not provide, is not
+required to provide, and does not warrant, any fraud prevention. If Provider becomes aware of unusual Usage volumes or patterns, Provider
+will make commercially reasonable attempts to promptly notify Customer; for clarity, Provider will not be deemed to be aware solely due to
+the availability of information regarding Usage volumes or patterns in any of Provider’s applicable systems. Provider’s sole obligation to
+Customer with respect to any actual, alleged or suspected fraudulent origination Usage will be to reasonably cooperate with Customer, upon
+Customer’s request and at no expense to Provider, to assist Customer’s efforts to stop any fraudulent origination Usage that Customer reports
+to Provider. Customer will be solely responsible for all risks, expenses and liabilities arising from or relating to fraudulent origination Usage
+by Customer, Customer’s End Users, or any other person or entity directly or indirectly utilizing Wholesale Voice Origination.
+Notwithstanding anything in this Section 9 to the contrary, Customer is and will remain solely responsible for any and all origination Usage,
+fraudulent or otherwise, and the terms and conditions of the MSA, including, without limitation, Section 10 of the MSA, will apply.
+10. Regulatory Responsibilities of Customer. Customer (i) will be solely responsible for and will undertake all required action(s) before the
+FCC, any PUC, any state regulatory agency, any court or any other controlling regulatory bodies, agencies, commissions or other authority,
+(ii) will obtain any required governmental approval(s), and (iii) will fully comply with any and all applicable laws and regulations, including,
+without limitation, all applicable FCC requirements, such as CALEA and CPNI, in each case as such actions, approvals and/or laws and
+regulations apply or relate to the utilization of Wholesale Voice Origination by Customer, Customer’s End Users, or any other person or
+entity to which Customer provides any services utilizing Wholesale Voice Origination.
+11. Relationship. Provider has no relationship with or obligation to any of Customer’s End Users or any other person or entity to which Customer
+provides any services utilizing Wholesale Voice Origination, none of whom is a third party beneficiary of the MSA or these Terms and
+Conditions. Customer is solely responsible for all pricing, billing and collections, and/or compliance with any applicable laws or regulations
+related to any services Customer provides to its End Users or any other person or entity to which Customer provides any services utilizing
+Wholesale Voice Origination. Customer will provide technical support to Customer’s End Users and will conduct customary problem
+resolution and troubleshooting activities directly with Customer’s End Users to determine whether any condition affecting any Service(s) is
+attributable to Provider’s network prior to reporting a Service Outage pursuant to Section 11 of the MSA.
+12. Call Detail Records. If Provider makes CDRs available to Customer via an API at any time, Customer will obtain API documentation from
+Provider. Provider does not guarantee CDR availability, nor does it warrant the accuracy of the data available via API; the failure to provide
+CDRs, regardless of reason, will not constitute a breach of the MSA or these Terms and Conditions.
+13. Provider Right to Modify Terms and Conditions. Provider may amend or modify these Terms and Conditions and/or Wholesale Voice
+Origination pursuant to Section 8(b) of the MSA at any time.
+14. Conflicting or Controlling Terms. In the event of any conflict between the MSA (exclusive of these Terms and Conditions) and these
+Terms and Conditions, then these Terms and Conditions will control with respect to any matter related to Wholesale Voice Origination.
+15. Additional Terms:
+The following applies to Toll Free Service only:
+General: Provider is the Responsible Organization for TFNs for Toll Free Service. Toll Free Service may be used only as a toll-free inbound-
+only service and does not provide any outbound calling, 911 / E911 service, 411 or any Operator Services. Customer will not use (or
+reconfigure to support such use) either Toll Free Service or any TFN obtained from Provider in connection with Toll Free Service for any
+outbound calls placed by Customer or Customer’s End Users, or any Improper Calls. In addition to any rights or remedies that may be
+available pursuant to the MSA and/or the AUP, Provider may immediately take any action to prevent Improper Calls, including, without
+limitation, denying Toll Free Service to particular numbers or terminating any Toll Free Service. If Customer uses or reconfigures Toll Free
+service to place outbound calls, Customer will pay Provider for any such calls at Provider’s then-current applicable Rates. CUSTOMER
+WILL INDEMNIFY AND HOLD HARMLESS PROVIDER, ITS OFFICERS, EMPLOYEES, AGENTS AND AFFILIATES FROM AND
+AGAINST ANY AND ALL LOSES, CLAIMS, COSTS OR DAMAGES OF WHATEVER NATURE ARISING FROM OR RELATING
+TO CUSTOMER’S USE (AND/OR THE USE BY ANY CUSTOMER AND/OR RESELLER OF CUSTOMER) OF TOLL FREE SERVICE
+Bandwidth - Proprietary & Confidential Information
+Origination - Terms and Conditions - for use with MSA 6.6 – Updated June 2, 2016
+Page 3 of 4
+
+IN VIOLATION OF THESE TERMS AND CONDITIONS.
+Regulatory Matters: If any calls placed to Customer via Toll Free Service contain a privacy indicator imposed by the originating telephone
+subscriber, Provider will provide call detail information to Customer, notwithstanding the privacy indication; provided, however, Customer
+acknowledges and agrees that (i) Customer will use the telephone number and billing information for billing and collection, routing, screening
+and completion of the originating telephone subscriber’s call or transaction; (ii) Customer will not reuse and/or sell the TFN or billing
+information without first notifying the originating telephone subscriber and obtaining affirmative written consent of such subscriber for such
+reuse or sale; and (iii) except as permitted in (i) or (ii) above, Customer is prohibited from using any information derived from ANI, CPN or
+the charge number service for any purpose other than (A) performing services or transactions that are the subject of the originating
+subscriber’s telephone number, (B) ensuring network performance, security and the effectiveness of call delivery; (C) compiling, using and
+disclosing aggregate information, and (D) complying with applicable law or legal process.
+Billing increments are set forth below:
+Originating Destination Initial Billing Increment Additional Billing Increment
+(Seconds) (Seconds)
+Continental US, Alaska, Hawaii, 6 6
+Puerto Rico, US Virgin Islands,
+Guam and Saipan
+International 30 6
+Provider will determine the terminating carrier based on the terminating ANI.
+The following applies to Directory Listing and Related Services only, which are available with Full Feature Inbound only: Customer
+may request Directory Listing, LIDB and/or CNAM. Upon the submission of any request for Directory Listing, Customer represents and
+warrants that Customer has obtained all necessary approvals for Directory Listing from the applicable subscriber in such request; Customer
+will promptly provide Provider with documentation evidencing Customer’s receipt of such subscriber approval upon Provider’s request.
+Customer will retain such documentation for at least twelve (12) months after submission of the applicable request for Director Listing.
+Provider may, in its sole discretion, refuse to submit the applicable subscriber information for Directory Listing if Customer fails to timely
+provide such documentation to Provider. CUSTOMER WILL INDEMNIFY AND HOLD PROVIDER HARMLESS AGAINST ANY AND
+ALL CLAIMS AND EXPENSES RESULTING FROM THE FAILURE OF CUSTOMER TO COMPLY WITH THIS SECTION,
+INCLUDING, WITHOUT LIMITATION, CLAIMS MADE BY SUBSCRIBERS AND/OR ANY GOVERNMENTAL AUTHORITY.
+(The remainder of this page is intentionally left blank.)
+Bandwidth - Proprietary & Confidential Information
+Origination - Terms and Conditions - for use with MSA 6.6 – Updated June 2, 2016
+Page 4 of 4
+
+TERMINATION – TERMS AND CONDITIONS
+900 Main Campus Drive, Suite 500
+Raleigh, NC 27606
+These Termination - Terms and Conditions (the “Terms and Conditions”) supplement the Master Service Agreement (the “MSA”)
+(including any Exhibits, SOFs, Rate Sheet(s), Service Agreement(s), and any other attachments to the MSA, all of which are fully
+incorporated by reference within these Terms and Conditions). Capitalized terms not elsewhere defined in these Terms and Conditions will
+have the meaning ascribed to them in the MSA or any applicable SOF.
+1. Service Description. Wholesale Voice Termination (“Wholesale Voice Termination”) provides the termination of IP voice traffic from
+Customer’s premises to the PSTN or an On-Net IP-enabled endpoint. WHOLESALE VOICE TERMINATION IS AN OUTBOUND
+CALL TERMINATION SERVICE ONLY AND DOES NOT INCLUDE 911 / E911. WHOLESALE VOICE TERMINATION
+EXCLUDES THE FOLLOWING:
+a) Inbound Calling;
+b) 911 / E911;
+c) Operator Services;
+d) Collect Calling;
+e) Any and all other operator, assisted, or intercept calling services;
+f) Class 5 Features; and/or
+g) 976, 900, and 1010xxx calling.
+If applicable, Provider will exercise commercially reasonable efforts to provide N11 Services, including, but not limited to, 411, 511, 711,
+811 and NPA-555-xxxx (“N11 Services”) as follows: (i) Provider will provide Customer with a valid telephone number for any published
+business or residential listing within the United States and Canada; Provider also may provide “reverse lookup” information, including the
+name or owner of a particular TN, upon caller’s request; (ii) Director Assistance Services will be available 24 hours a day, seven days a
+week, 365 days a year; (iii) calls for Directory Assistance Services will be answered within six seconds of connection, regardless of time of
+day, 85% of the time; (iv) Provider will maintain a minimum database accuracy rating of 95%; and (v) Provider will maintain a successful
+fulfillment rate of 93%. Provider will route all calls for N11 Services based on the originating ten-digit number received to determine the
+appropriate receiving party for the type of call for N11 Services place; Provider is not responsible for the routing of calls to an incorrect
+receiving party if the originating ten-digit number received is not located or associated with the given local or regional receiving party.
+2. 911 / E911 MATTERS. CUSTOMER ACKNOWLEDGES, UNDERSTANDS AND AGREES THAT THESE TERMS AND
+CONDITIONS WILL BE STRICTLY LIMITED TO THE PROVISION OF WHOLESALE VOICE TERMINATION TO CUSTOMER.
+CUSTOMER FURTHER ACKNOWLEDGES, UNDERSTANDS AND AGREES THAT WHOLESALE VOICE TERMINATION DOES
+NOT CONSTITUTE “INTERCONNECTED VOIP SERVICE” AS DEFINED IN 47 C.F.R. PART 9 AND, THEREFORE, NO E911
+SERVICE OR BASIC 911 SERVICE WILL BE PROVIDED BY PROVIDER TO CUSTOMER, ANY END-USERS, OTHER
+CUSTOMERS, SUBSCRIBERS, OR ANY PERSON OR ENTITY PURSUANT TO THESE TERMS AND CONDITIONS OR
+THE WHOLESALE VOICE TERMINATION CONTEMPLATED BY THESE TERMS AND CONDITIONS. CUSTOMER
+ACKNOWLEDGES, UNDERSTANDS AND AGREES THAT PROVIDER HAS NO INTENT TO AND WILL NOT PROVIDE 911 /
+E911 SERVICE PURSUANT TO THESE TERMS AND CONDITIONS OR THE WHOLESALE VOICE TERMINATION
+CONTEMPLATED BY THESE TERMS AND CONDITIONS. CUSTOMER WILL NOT REPRESENT IN ANY WAY OR THROUGH
+ANY MEANS TO ANY END-USERS, CUSTOMERS, SUBSCRIBERS, OR ANY PERSON OR ENTITY THAT PROVIDER
+PROVIDES ANY 911 / E911 SERVICE PURSUANT TO THESE TERMS AND CONDITIONS OR THE WHOLESALE VOICE
+TERMINATION CONTEMPLATED BY THESE TERMS AND CONDITIONS. CUSTOMER REPRESENTS AND WARRANTS TO
+PROVIDER THAT, IF CUSTOMER IS AT ANY TIME REQUIRED TO PROVIDE ANY 911 / E911 SERVICES DUE TO ANY
+TELECOMMUNICATIONS RELATED SERVICES CUSTOMER SELLS OR PROVIDES TO CUSTOMER’S END-USERS,
+CUSTOMERS, SUBSCRIBERS, OR ANY PERSON OR ENTITY AT ANY TIME THAT ARE, IN WHOLE OR IN PART, ENABLED
+BY THE WHOLESALE VOICE TERMINATION CONTEMPLATED BY THESE TERMS AND CONDITIONS, THEN CUSTOMER
+WILL ENSURE THAT 911 / E911 SERVICES ARE FULLY PROVIDED IN COMPLIANCE WITH SUCH 47 C.F.R. PART 9.
+The terms and conditions applicable to the Service and/or any DID, DID/DOD, TFN and/or TN at any time will be identified
+through an Electronic Tool, the ordering process and/or other means.
+Customer is strictly prohibited from displaying on any outbound caller ID any number for which Customer has not obtained from
+either Provider or any other third party 911 Services with respect to such number. By displaying any number in any outbound
+caller ID, Customer represents and warrants to Provider that Customer has obtained from either Provider or any other third
+party 911 Services with respect to such number.
+Customer understands the inherent limitations in the Service(s) provided by Provider, including, without limitation, the fact that the
+Service(s) does not include inbound calling and does not provide 911 / E911. Customer will advise in writing all End Users obtaining
+service by or through Customer of the inherent limitations in the Service(s) provided by Provider, including, without limitation, the fact
+that the Service(s) does not include inbound calling and does not provide 911 / E911. CUSTOMER WILL INDEMNIFY AND HOLD
+HARMLESS PROVIDER, ITS OFFICERS, EMPLOYEES, AGENTS AND AFFILIATES FROM AND AGAINST ANY AND ALL
+Bandwidth - Proprietary & Confidential Information
+Termination – Terms and Conditions for use with MSA 6.6 – Updated May 2, 2016 Document No. TERM--O0021401
+
+LOSSES, CLAIMS, COSTS OR DAMAGES OF WHATEVER NATURE ARISING FROM OR RELATING TO THE END USER OF
+ANY SERVICES FOR OUTBOUND CALLING. CUSTOMER WILL INDEMNIFY AND HOLD PROVIDER HARMLESS AGAINST
+ANY AND ALL CLAIMS AND/OR EXPENSES RESULTING FROM THE FAILURE OF CUSTOMER OR ANY RESELLER TO
+COMPLY WITH THIS SECTION.
+3. IP Originated Usage. Customer represents and warrants to Provider that all Customer termination calls and/or Usage will be IP
+Originated.
+(i) Customer represents and warrants to Provider that all of the services and capacity to be purchased from Provider will be used by
+Customer to provide an “enhanced service” as defined in 47 C.F.R. Section 64.702(a) and/or an “information service” as defined in 47
+U.S.C. Section 153(24).
+(ii) If any ruling, decision or determination by the FCC, a PUC, any state regulatory agency, or any court concerning internet-enabled
+calls is inconsistent with the description of an IP Originated call as described in these Terms and Conditions, Provider reserves the right to
+modify or amend the description to be consistent with such ruling, decision or determination. If any such modification or amendment
+materially adversely affects Customer, then Customer will have thirty (30) calendar days after such amendment or modification to notify
+Provider in writing of such material adverse effect. Section 14 of the MSA will apply upon Customer’s delivery of such notice to Provider. If
+Customer fails to notify Provider in writing within such thirty (30) calendar day period, Customer will have accepted such amendment or
+modification.
+(iii) If any third party asserts at any time that any of Customer’s calls and/or Usage is not IP Originated, Customer will, at Customer’s
+sole expense, cooperate with Provider and provide reasonable evidence (including but not limited to providing [or causing End Users to
+provide] Provider with call detail records) to demonstrate that any applicable calls are IP Originated.
+(iv) If it is determined at any time that any calls and/or Usage sent to Provider by Customer for termination are not IP Originated, in
+addition to any applicable Rates, Customer will pay Bandwidth the Non-IP Originated Surcharge provided in any applicable SOF or Rate
+Sheet.
+4. Connection; Customer’s Responsibilities. Customer must connect to Provider’s network in a manner and at locations determined by
+Provider. Subject to Provider’s prior written approval, the connection may be made: (i) via the Public Internet, and/or (ii) via a dedicated
+interconnection to Provider’s network if Customer has been approved for and has executed an agreement for such connection. Customer will,
+at Customer’s sole cost and liability as between Customer and Provider, be solely responsible for (i) providing and successfully installing
+any and all equipment, software and the like necessary for End Users to use any service offered or sold by Customer; (ii) obtaining and
+providing to Provider, prior to installation of any applicable Wholesale Voice Termination services, the IP address(es) for any applicable
+proxy server, Customer application and/or any other applicable hardware/software solution; and (iii) any and all support for any End User
+to which Customer offers or sells services. For clarity, with respect to any and all Class 5 Features Customer may offer to Customer’s End
+Users from time to time, Customer will provide to Provider any and all accurate information required to support Wholesale Voice
+Termination with respect to such services, even if Customer obtains such information from Customer’s applicable End Users.
+CUSTOMER WILL INDEMNIFY AND HOLD PROVIDER HARMLESS AGAINST ANY AND ALL CLAIMS AND EXPENSES
+RESULTING FROM THE FAILURE OF CUSTOMER OR END USERS TO COMPLY WITH THIS SECTION.
+5. Interoperability. Customer and Provider will reasonably cooperate with each other to test to ensure interoperability between Provider and
+Customer’s networks and systems. All necessary interoperability testing will be completed within a reasonable time not to exceed thirty (30)
+calendar days after Customer’s execution of the SOF to which these Terms and Conditions is attached. If after completion of initial
+interoperability, Customer plans to make upgrades, updates and/or enhancements (collectively “Configuration Changes”), Customer will
+notify Provider prior to implementing a Configuration Change so that Customer and Provider may work together in good faith to determine
+how best to proceed regarding such Configuration Change. If at any time an interoperability condition occurs that adversely affects
+Provider’s network that cannot be adequately remedied within a reasonable period of time, taking into consideration the severity of the
+interoperability condition and the effect on Provider’s network, Provider may, at its sole discretion, suspend the provision of Wholesale
+Voice Termination.
+6. Charges and Rates. Customer represents and warrants to Provider that Customer has received the Rates described in the Rate Sheet.
+If the Rate Sheet does not include Flat Rates, this paragraph will apply: Such Rates will apply if Customer commences using
+Wholesale Voice Termination within seven (7) calendar days of the “as of” (ao) date in the electronic file name of such Rates. If such “as
+of” (ao) date in the electronic file name of such Rates is more than seven (7) calendar days prior to Customer’s receipt of such electronic
+file, then such Rates may not be valid and Customer must obtain a new electronic file of Rates from Customer’s sales or support contact
+with Provider. All Rates are subject to change upon seven (7) calendar days prior notice. Provider will send such prior notice to
+Customer via email to Customer’s “Contact Name” as recorded in the “Customer Contacts for Rate Change Notice” section on the SOF.
+Customer will be deemed to have received and accepted such changed Rates upon Provider’s transmission of the email(s) containing the
+electronic file(s).
+Call Rating: Wholesale Voice Termination only provides Interstate, Intrastate, and, if expressly contracted in writing, International call
+Termination. No outbound local calling or inbound calling service is provided. Provider will determine the distinction and jurisdiction of
+Interstate versus Intrastate versus International call Termination based on (i) (x) the originating Automatic Number Identification (“ANI”)
+as determined by Provider in accordance with customary industry standards, and (y) the dialed TN as determined in accordance with
+customary industry standards, or (ii) if the Rates provided to Customer pursuant to any applicable Rate Sheet include Rate Decks based on
+Location Routing Number(s) (“LRN”), (x) the originating ANI as determined by Provider in accordance with customary industry
+Bandwidth - Proprietary & Confidential Information
+Termination – Terms and Conditions for use with MSA 6.6 – Updated May 2, 2016
+Page 2 of 4
+
+standards, and (y) (1) the LRN associated with the dialed TN as determined by Provider in accordance with customary industry standards,
+or (2) if the dialed TN does not have an associated LRN, then the dialed TN itself in accordance with customary industry standards. If
+Provider determines, in its sole discretion, that Provider cannot accurately apply Rates due to an invalid or omitted originating ANI, and the
+terminating rating jurisdiction is not International, Provider will apply the prevailing Intrastate Termination Rate associated with the dialed
+TN. If an invalid or omitted originating ANI results in Provider incurring access charges, local exchange carrier “DIP” fees or other similar
+fees or charges from or by any third party, Provider will invoice Customer for any and all such fees and charges in addition to any
+applicable Usage Rates.
+Interstate Termination Rates: Provider will invoice all Interstate Termination pursuant to the applicable Rates set forth in the SOF. Rates
+set forth in the SOF may be provided on either a NPA-NXX-X or LATA/OCN basis; provided, however, for billing purposes, Provider will
+rate and invoice for all calls based upon NPA-NXX-X Rate Type. Unless otherwise expressly agreed in the SOF, all Interstate Rates are
+subject to change upon seven (7) calendar days prior notice from Provider. Provider does not guarantee call delivery and may block
+specific routes at any time in accordance with applicable law.
+Intrastate Termination Rates: Provider will invoice all Intrastate Termination pursuant to the applicable Rates set forth in the SOF. Rates
+set forth in the SOF may be provided on either a NPA-NXX-X or LATA/OCN basis; provided, however, for billing purposes, Provider will
+rate and invoice for all calls based upon NPA-NXX-X Rate Type. Unless otherwise expressly agreed in the SOF, all Intrastate Rates are
+subject to change upon seven (7) calendar days prior notice from Provider. Provider does not guarantee call delivery and may block
+specific routes at any time in accordance with applicable law.
+International Rates: If Customer and Provider have executed an agreement providing for International Call Termination, applicable Rates
+will be as set forth in any such agreement. If Customer terminates a call to an International Call Termination destination, and Customer and
+Provider have not executed an agreement providing for International Call Termination, and/or Provider has not provided Customer with
+Rates applicable to such call(s), then Provider’s then-prevailing applicable Rates as posted at www.bandwidth.com/resources/legal will
+apply. Unless otherwise expressly agreed in the SOF, all Rates applicable to International Call Termination are subject to change upon five
+(5) calendar days prior notice from Provider. Provider does not guarantee call delivery and may block specific routes at any time in
+accordance with applicable law.
+Billing increments are set forth below:
+Terminating Destination Initial Billing Increment Additional Billing Increment
+(Seconds) (Seconds)
+US Domestic 6 6
+International 30 6
+7. Call Completion. Wholesale Termination service is generally available to the termination calling destinations for which Customer has
+been provided Rates. Subject to compliance with applicable law, Provider reserves the right to block or otherwise restrict termination of
+calls to any and all termination calling destinations, whether or not included in Rates provided to Customer, and without notice to
+Customer. Provider does not guarantee call completion, and the failure to complete any or all calls, regardless of reason, will not constitute
+a breach of this Agreement. Wholesale Voice Termination pursuant to these Terms and Conditions does not include International Call
+Termination unless expressly agreed in writing. Provider does not guarantee call completion, and the failure to complete any or all calls,
+regardless of reason, shall not constitute a breach of the MSA, the SOF and/or these Terms and Conditions. NO SERVICE LEVEL
+AGREEMENT OR SLA APPLIES TO WHOLESALE VOICE TERMINATION.
+8. Forecasting. From time to time, Provider may request from Customer a forecast of expected termination Usage volumes. Customer will
+cooperate with such requests. If Customer anticipates changes in termination Usage volumes, Customer will proactively contact Provider to
+review such changes. Provider will use commercially reasonable efforts to maintain adequate capacity to meet Customer provided
+forecasts. Provider’s failure to adequately provide capacity, regardless of reason, will not constitute a breach of the MSA or these Terms
+and Conditions.
+9. Customer Responsibility to Control and Manage Traffic. In addition to any other terms and conditions of the MSA, the SOF and/or
+these Terms and Conditions, Customer will bear the following responsibilities in connection with Provider’s provision of Wholesale Voice
+Termination: (i) Customer will manage the integrity of the traffic egressing Customer’s network, (ii) Customer will screen and block calls
+destined to (x) invalid single numbers, (y) unassigned NPA-NXX-X, and/or (z) numbers with invalid formats; (iii) in addition to
+Customer’s obligations pursuant to Section 10 below of these Terms and Conditions, Customer will manage and correct, as necessary, any
+fraudulent calling patterns or calling patterns perceived as fraudulent that may harm Provider’s network. If Customer fails to comply with
+the foregoing obligations of this Section 9, (i) Provider will have the right (but not the obligation) to take protective action against
+Customer to protect Provider’s egress network. Provider’s protective actions may include, without limitation, the temporary blocking of
+Customer’s traffic until the applicable problem is resolved in Provider’s reasonable discretion, and (ii) Provider will not be obligated to
+meet any Service Level Agreement, if any.
+10. Fraud. Customer will not participate in or assist in any fraudulent termination Usage, in any form or by any means, either by itself or any
+of its End Users. If Customer suspects, knows of, or should have known of any fraudulent termination Usage, Customer will immediately
+stop all fraudulent termination Usage and notify Provider. Customer acknowledges, understands and agrees that Provider does not provide,
+is not required to provide, and does not warrant, any fraud prevention. If Provider becomes aware of unusual Usage volumes or patterns,
+Provider will make commercially reasonable attempts to notify Customer; provided, however, Provider will have no obligation to notify
+Customer of any such volumes or patterns. Provider’s sole obligation to Customer with respect to any actual, alleged or suspected
+fraudulent termination Usage will be to reasonably cooperate with Customer, upon Customer’s request and at no expense to Provider, to
+Bandwidth - Proprietary & Confidential Information
+Termination – Terms and Conditions for use with MSA 6.6 – Updated May 2, 2016
+Page 3 of 4
+
+assist Customer’s efforts to stop any fraudulent termination Usage that Customer reports to Provider. Customer will be solely responsible
+for all risks, expenses and liabilities arising from or relating to fraudulent termination Usage by Customer, Customer’s End Users, or any
+other person or entity directly or indirectly utilizing Wholesale Voice Termination. Notwithstanding anything in this Section 10 to the
+contrary, Customer is and will remain solely responsible for any and all termination Usage, fraudulent or otherwise, and the terms and
+conditions of the MSA, including, without limitation, Section 10 of the MSA, will apply.
+11. Regulatory Responsibilities of Customer. Customer (i) will be solely responsible for and will undertake all required action(s) before the
+FCC, any PUC, any state regulatory agency, any court or any other controlling regulatory bodies, agencies, commissions or other authority,
+(ii) will obtain any required governmental approval(s), and (iii) will fully comply with any and all applicable laws and regulations,
+including, without limitation, all applicable FCC requirements, such as CALEA and CPNI, in each case as such actions, approvals and/or
+laws and regulations apply or relate to the utilization of Wholesale Voice Termination by Customer, Customer’s End Users, or any other
+person or entity to which Customer provides any services utilizing Wholesale Voice Termination.
+12. Relationship. Provider has no relationship with or obligation to any of Customer’s End Users or any other person or entity to which
+Customer provides any services utilizing Wholesale Voice Termination, none of whom is a third party beneficiary of the MSA or these
+Terms and Conditions. Customer is solely responsible for all pricing, billing and collections, and/or compliance with any applicable laws
+or regulations related to any services Customer provides to its End Users or any other person or entity to which Customer provides any
+services utilizing Wholesale Voice Termination. Customer will provide technical support to Customer’s End Users and will conduct
+customary problem resolution and troubleshooting activities directly with Customer’s End Users to determine whether any condition
+affecting any Service(s) is attributable to Provider’s network prior to reporting a Service Outage pursuant to Section 11 of the MSA.
+13. Call Detail Records. If Provider makes CDRs available to Customer via an API at any time, Customer will obtain API documentation
+from Provider. Provider does not guarantee CDR availability, nor does it warrant the accuracy of the data available via API; the failure to
+provide CDRs, regardless of reason, will not constitute a breach of the MSA or these Terms and Conditions.
+14. Provider Right to Modify Terms and Conditions. Provider may amend or modify these Terms and Conditions and/or Wholesale Voice
+Termination pursuant to Section 8(b) of the MSA at any time.
+15. Conflicting or Controlling Terms. In the event of any conflict between the MSA (exclusive of these Terms and Conditions) and these
+Terms and Conditions, then these Terms and Conditions will control with respect to any matter related to Wholesale Voice Termination.
+(The remainder of this page is intentionally left blank.)
+Bandwidth - Proprietary & Confidential Information
+Termination – Terms and Conditions for use with MSA 6.6 – Updated May 2, 2016
+Page 4 of 4

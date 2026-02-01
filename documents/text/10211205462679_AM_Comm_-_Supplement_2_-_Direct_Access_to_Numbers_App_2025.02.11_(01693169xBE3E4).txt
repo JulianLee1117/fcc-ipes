@@ -1,0 +1,231 @@
+Before the
+Federal Communications Commission
+Washington, D.C. 20554
+In the Matter of )
+)
+AM Communication Labs, Inc. ) WC Docket No. 24-628
+)
+For Authorization to Obtain Numbering )
+Resources Pursuant to Section 52.15(g) of )
+The Commission’s Rules )
+APPLICATION OF AM COMMUNICATION LABS INC.
+FOR AUTHORIZATION TO OBTAIN NUMBERING RESOURCES
+AM Communication Labs Inc. (“AM Comm”), pursuant to Section 52.15(g)(3)(ii) of the
+Commission’s Rules, respectfully requests the Commission’s authorization to obtain numbering
+resources as described below.
+As set forth in the Commission’s Second Numbering Order,1 an interconnected VoIP
+provider may obtain numbering resources from the Numbering Administrator upon a showing
+that it is authorized to provide service in the area for which the numbering resources are
+requested. This authorization may be obtained upon an application to the Commission
+containing the information detailed in Sections 52.15(g)(3)(ii)(A)-(N) of the Commission’s
+Rules. AM Comm, an interconnected VoIP provider, hereby requests the Commission grant it
+that authorization. In support of this application, AM Comm provides the following information.
+1 Numbering Policies for Modern Communications et al., Secord Report and Order and Second
+Further Notice of Proposed Rulemaking, 38 FCC Rcd. 8951 (10) (2023).
+
+I. INFORMATION REQUIRED BY SECTION 52.15(g)(3)(ii)
+(A) § 52.15(g)(3)(ii)(A)
+Name: AM Communication Labs Inc.
+Address: 11335 NE 122nd Way, Suite 105
+Kirkland, WA 98034
+Telephone: 1-800-687-7530
+Website: https://amcomlabs.io/
+Contact for Regulatory Requirements, Compliance, 911, and Law Enforcement:
+Name: Jason Jantz, CEO
+Address: 11335 NE 122nd Way, Suite 105
+Kirkland, WA 98034
+Telephone: 1-800-687-7530
+Email: jason@amcomlabs.io
+(B) § 52.15(g)(3)(ii)(B)
+AM Comm hereby acknowledges that the authorization granted under this paragraph is
+subject to compliance with applicable Commission number rules, numbering authority delegated
+to the states, and state laws, regulations, and registration requirements. AM Comm acknowledges
+that authorization is subject to compliance with industry guidelines and numbering practices
+applicable to telecommunications carriers. The numbering resources subject to this Application
+will be used at first in the States of Texas, Georgia, and Florida.
+(C) § 52.15(g)(3)(ii)(C)
+AM Comm certifies that the applicant will not use the numbers obtained pursuant to an
+authorization under this paragraph to knowingly transmit, encourage, assist, or facilitate illegal
+robocalls, illegal spoofing, or fraud, in violation of robocall, spoofing, and deceptive
+telemarketing obligations under 47 C.F.R. §§ 64.1200, 64.1604, and 64.6300, and 16 CFR §
+310.3(b).
+
+(D) § 52.15(g)(3)(ii)(D)
+Am Comm certifies it has fully complied with all applicable STIR/SHAKEN caller ID
+authentication and robocall mitigation program requirements, and maintains its certification in
+the Robocall Mitigation Database, as required by 47 C.F.R. §§ 64.6301 to 64.6305. Its current
+RMD submission is available here:
+https://fccprod.servicenowservices.com/rmd?id=rmd_form&table=x_g_fmc_rmd_robocall_mitig
+ation_database&sys_id=2b4832a31bf030509294113d9c4bcbf8&view=sp.
+(E) § 52.15(g)(3)(ii)(E)
+AM Comm certifies that it complies with its 911 obligations under part 9 of this chapter,
+and that it complies with the provisions of the Federal Communications Commission FCC 23-75.
+Evidence in support of this certification can be found in Confidential Exhibit A.
+(F) § 52.15(g)(3)(ii)(F)
+AM Comm certifies that it complies with the Access Stimulation rules under 47 C.F.R. §
+51.914 (namely, it has never engaged in Access Stimulation and does not tariff or assess any
+switched access charges).
+(G) § 52.15(g)(3)(ii)(G)
+AM Comm understands that it must file requests for numbers with the relevant state
+commissions at least 30 days prior to requesting numbers from the Numbering Administrator.
+(H) § 52.15(g)(3)(ii)(H)
+AM Comm has the capability to provide services within 60 days of the numbering
+resource activation date.
+AM Comm has obtained OCN 782J for, among other purposes, the numbering resources
+sought in this Application. AM Comm, directly and through its CLEC carrier-partner vendors,
+
+will have access to an integrated back office support system that can schedule and process LNP
+orders from customers and an experienced provisioning department capable of handling bulk
+number ports. AM Comm has executed an agreement with a CLEC partner to route traffic to and
+from local exchange carriers. AM Comm has attached as Confidential Exhibit A, an agreement
+between AM Comm and its CLEC partner that provides the carrier will host AM Comm’s
+numbers on its switches and provide connectivity to and from the PSTN for calls to and from
+AM Comm numbers. AM Comm requests confidential treatment under Commission rules for
+Confidential Exhibit A.
+AM Comm’s agreement with its CLEC partner will allow it to send and receive calls via
+the PSTN and other networks. AM Comm has established IP interconnection trunks with its
+CLEC partner. This will allow AM Comm’s IPES customers to originate and terminate traffic
+through that partner. This arrangement will also allow IPES customers to complete emergency
+and other 911 calls.
+The interconnection agreements (ICAs) between AM Comm’s CLEC partner and a local
+exchange carrier in Texas, Georgia, and Florida is lengthy. AM Comm includes as Exhibit B the
+General Terms and Conditions and the Interconnection sections of that agreement. The entire
+ICAs with the AT&T-affiliated LECs are available at
+https://clec.att.com/clec_cms/clec/Docs/Doc_1984031.pdf and
+https://clec.att.com/clec_cms/clec/Docs/Doc_1984160.pdf. The ICA excerpt for the Verizon
+incumbent region in Florida is included in Exhibit B.
+(I) § 52.15(g)(3)(ii)(I)
+AM Comm certifies it has filed all applicable FCC Forms 477 and 499. The most recent
+confirmation receipts can be provided upon request.
+
+(J) § 52.15(g)(3)(ii)(J)
+AM Comm hereby certifies that it complies with its Universal Service Fund contribution
+obligations under 47 C.F.R. 54, subpart H; its Telecommunications Relay Service contribution
+obligations under 47 C.F.R. § 64.604(c)(5)(iii); its North American Numbering Plan and Local
+Number Portability Administration contribution obligations under 47 C.F.R. §§ 52.17 and 52.32;
+and its obligations to pay regulatory fees under 47 C.F.R. § 1.1154.
+(K) § 52.15(g)(3)(ii)(K)
+AM Comm hereby certifies that it has the financial, managerial, and technical expertise
+to provide reliable service. It is financially stable, led by a strong, experienced management
+team with substantial managerial experience in the communications and UCaaS industry, and has
+sufficient technical expertise and infrastructure in place to provide reliable numbering and
+related VoIP services.
+AM Comm has the superior technical qualifications necessary to provide and maintain
+successful operations within its service area. AM Comm has the capabilities to efficiently port
+and place numbers into service and successfully route calls. Additionally, AM Comm’s
+management team’s lengthy experience with number porting via current third-party carrier
+partners enables it, along with its carrier partners, to create routing arrangements that seamlessly
+deliver calls to and from numbers directly assigned to AM Comm.
+Furthermore, AM Comm’s personnel have extensive business and network management
+experience in telecommunications-related businesses and in serving its targeted customer
+segment, including corporate enterprises and business customers of IP, communications, and
+information services. These individuals lead a team that is highly qualified to manage the
+operations of AM Comm throughout its service area. The names, titles, biographies, and contact
+
+information of AM Comm’s key management and technical personnel are reflected in Exhibit C
+hereto. None of the identified personnel is being or has been investigated by the Commission or
+any law enforcement or regulatory agency for failure to comply with any law, rule, or order.
+(L) § 52.15(g)(3)(ii)(L)
+Information Required Under 47 C.F.R. § 63.18(h)
+The individuals or entities that directly or indirectly own at least 10 percent of the equity
+of AM Comm are listed in Exhibit D.
+Certification Required Under 47 C.F.R. § 63.18(i)
+AM Comm certifies that it is not itself, and is not affiliated with, a foreign carrier.
+(M) § 52.15(g)(3)(ii)(M)
+AM Comm hereby certifies that no party to this application is subject to a denial of
+Federal benefits pursuant to Section 5301 of the Anti-Drug Abuse Act of 1988, 21 U.S.C. § 862.
+(N) § 52.15(g)(3)(ii)(N)
+Mr. Jantz’s declaration under penalty of perjury attesting to the truth and accuracy of the
+statements herein is included below.
+II. ACKNOWLEDGEMENT OF CONDITIONS IN SECTION 52.15(g)(3)(x)
+As required by Section 52.15(g)(3)(x), AM Comm will maintain the accuracy of all
+contact information and certifications in this application, and will file a correction with the
+Commission and each applicable state within 30 days of any changes. AM Comm will also
+furnish accurate regulatory and numbering contact information to each state commission when
+requesting numbers in that state.
+
+III. CONCLUSION
+AM Comm respectfully requests that the Commission grant its application for
+authorization to obtain numbering resources.
+Originally Filed: October 30, 2024
+Last Amended: February 10, 2025 Respectfully submitted,
+___________________________
+Joseph P. Bowser
+ROTH JACKSON
+1519 Summit Avenue, Suite 102
+Richmond, Virginia 23230
+Phone: 804-441-8701
+Fax: 804-441-8438
+jbowser@rothjackson.com
+Counsel to AM Communication Labs Inc.
+
+Docusign Envelope ID: ACA964EF-90D7-48EF-A6AF-88F2DA98CE2E
+VERIFICATION
+I, Jason Jantz, CEO of AM Communication Labs Inc. (“AM Comm”), and a resident of
+Vancouver, British Columbia, Canada, declare under penalty of perjury, that the information in
+AM Comm’s Direct Access to Numbering Resources Application, and the information in and
+enclosed with our counsel’s supplemental letter, is true and correct to the best of my knowledge
+and the company’s records.
+2/10/2025
+Date: __________________ By:_______________________
+Jason Jantz, CEO
+AM Communication Labs Inc.
+{01683538;v1}
+
+CONFIDENTIAL EXHIBIT A
+CONFIDENTIAL – REDACTED IN ITS ENTIRETY
+
+EXHIBIT B
+GENERAL TERMS AND CONDITIONS AND INTERCONNECTION SECTIONS
+FROM AGREEMENT WITH CLEC PARTNER
+
+EXHIBIT C
+KEY MANAGEMENT AND TECHNICAL PERSONNEL
+The following are the names, titles, and brief biographies of AM Communication’s key
+management and technical personnel are as follows:
+Jason Jantz - CEO
+Jason Jantz is a founder of AM Comm and began his voice services and UCaaS career ten
+years ago when he formed ReadyMode.com (f/k/a XenCALL), a cloud communications platform
+for contact centers and other enterprise clients. Jason is a member of the Forbes Technology
+Council and has 20 years’ experience in UCaaS/CCaaS in a leadership, revenue, and go-to-
+market capacity. As part of those duties, Mr. Jantz negotiates and oversees the company’s
+commercial arrangements with the various carriers, voice service providers, and other
+contractors that facilitate and underlie AM Comm’s provision of voice services, including the
+management of the company’s numbering resources, which it currently procures via carrier
+partners but is poised to manage directly via the Numbering Administrators and the various
+parties in the numbering ecosystem.
+Imed Yahmadi - CTO
+Imed Yahmadi is an experienced software developer for UCaaS and voice services
+verticals. Prior to joining AM Comm and ReadyMode.com, he was the Director of Engineering
+at Five9, a Cloud Contact Center provider. Among his other academic accomplishments, Imed
+obtained a certificate in Neural Networks and Deep Learning in 2017, and a Certificate in
+Google Cloud Platform Fundamentals in 2019. Mr. Yahmadi will be primarily responsible for
+overseeing and directing the company’s day-to-day use and operation of the company’s
+numbering resources.
+
+Carson Wilson - Senior Director of Voice Services & Operations
+Carson Wilson has over ten years of experience managing production and non-production
+environments. Carson is an experienced process implementation expert, having implemented
+departmental and corporate policies and procedures in a wide variety of industries from FinTech
+to Voice Enabled SaaS products. Carson manages Telco carrier relationships, monitors and
+manages voice traffic quality, and performs extensive analytics and diagnostics for origination
+and termination traffic on AM Comm’s platform. Carson’s skills include virtual telco switch
+operations, advanced data analytics and diagnostics, database design including schema and
+normalization, and ingestion of vast quantities of data. Carson also plans and manages major
+corporate technology initiatives. Additionally, Carson has extensive experience with compliance
+processes and tools widely used in the Telecom industry. Carson will be the primary contact and
+implementer of the numbering issuer project and corresponding resources.
+
+EXHIBIT D
+The following individuals or entities directly or indirectly own at least 10 percent of the
+equity of AM Comm:
+Jason Jantz, CEO (via the Jantz Family Trust)
+11335 NE 122nd Way, Suite 105
+Kirkland, WA 98034
+Citizenship: Canada
+Equity Interest: 72.8%
+Imed Yahmadi, CTO
+11335 NE 122nd Way, Suite 105
+Kirkland, WA 98034
+Citizenship: Canada
+Equity Interest: 27.2%

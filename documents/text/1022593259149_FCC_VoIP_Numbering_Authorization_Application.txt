@@ -1,0 +1,53 @@
+FCC VoIP Numbering Authorization Application
+Applicant Information:
+• Company Name: ConnectTo Communications, Inc.
+• Website: http://www.ConnectTo.com
+• Address: 555 Riverdale, Suite A, Glendale, CA 91204
+• Primary Contact: Aram Ter-Martirosyan
+• Email: aram@ConnectTo.com
+• Phone: 818.546.4601
+• Fax: 818.546.4617
+•
+Operating Company Number (OCN): OOU
+214 License: Authorized for international telecommunications services
+California CPCNs:
+• ConnectTo Communications (U-6977-C)
+• ConnectTo World (U-4541-C)
+Application Statement:
+Pursuant to Section 52.15(g)(3) of the Federal Communications Commission's (FCC) rules,
+ConnectTo Communications, Inc. ("ConnectTo") hereby submits this application for authorization
+to obtain numbering resources directly from the North American Numbering Plan Administrator
+(NANPA) and/or the Pooling Administrator (PA). ConnectTo seeks nationwide authorization to
+support its interconnected VoIP services.
+Certification of Compliance:
+1. FCC Numbering Rules Compliance: ConnectTo certifies compliance with the FCC’s
+numbering rules and industry guidelines.
+2. Service Readiness: ConnectTo affirms its capability to provide service within 60 days of
+number activation.
+3. Regulatory Obligations: ConnectTo confirms compliance with:
+o Universal Service Fund contributions
+
+o Telecommunications Relay Service obligations
+o North American Numbering Plan funding
+o Local number portability regulations
+o Regulatory fees
+o 911 emergency service provisions
+4. Financial, Managerial, and Technical Expertise: ConnectTo possesses the financial,
+managerial, and technical resources required to provide reliable VoIP services.
+5. Personnel Integrity: No key management or technical personnel are currently or have been
+under investigation by any regulatory or law enforcement agency.
+6. Anti-Drug Abuse Act Compliance: ConnectTo certifies that no party associated with this
+application is subject to denial of federal benefits under the Anti-Drug Abuse Act of 1988.
+State Notification:
+ConnectTo understands its obligation to notify each relevant state commission at least 30 days
+before requesting numbering resources.
+Numbering Resource Request:
+ConnectTo acknowledges the requirement to submit evidence of FCC authorization, state
+notifications, and facilities readiness to NANPA or the PA when requesting numbering resources.
+Certification Statement:
+I, Aram Ter-Martirosyan, hereby certify under penalty of perjury that the information contained in
+this application is true and accurate to the best of my knowledge.
+Signature: ___
+Printed Name: Aram Ter-Martirosyan
+Title: Chief Information Officer
+Date: ___2/25/2025_______

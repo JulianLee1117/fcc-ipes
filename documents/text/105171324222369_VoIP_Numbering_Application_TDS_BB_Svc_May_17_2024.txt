@@ -1,0 +1,337 @@
+May 17, 2024
+Via ECFS
+Ms. Marlene H. Dortch
+Secretary
+Federal Communications Communication
+45 L Street NE
+Washington, DC 20554
+Re: Request for Confidential Treatment, Application of TDS Broadband Service,
+LLC for Authority to Obtain Numbering Resources Pursuant to Section
+52.15(g) of the Commission’s Rules
+Dear Ms. Dortch:
+Pursuant to section 52.15(g) of the Commission’s rules, TDS Broadband Service, LLC
+(“TDS Broadband Service”) hereby submits the enclosed application for authorization to obtain
+numbering resources and requests confidential treatment of Exhibit A contained within the
+application. Consistent with sections 0.457 and 0.459 of the Commission’s rules,1 TDS
+Broadband Service has labeled the relevant exhibit “Confidential — Not for Public Inspection.”
+TDS Broadband Service respectfully requests confidential treatment for Exhibit A, which
+contains the interconnect agreement between TDS Broadband Service and its Competitive Local
+Exchange Carrier (“CLEC”) partner. This Exhibit contains commercially sensitive pricing
+information and proprietary technical information that TDS Broadband Service does not make
+publicly available in the normal course of business. TDS Broadband Service therefore requests
+that the interconnect agreement in Exhibit A be withheld from public inspection pursuant to
+Exemption 4 of the Freedom of Information Act (“FOIA”).2
+In support of this request, TDS Broadband Service provides the following information, as
+required by sections 0.457(d)(2) and 0.459(b) of the Commission’s rules.3
+1. Identification of the specific information for which confidential treatment is sought.
+TDS Broadband Service requests that Exhibit A be withheld from public disclosure under
+5 U.S.C. § 552(b)(4) and 47 C.F.R. § 0.457(d)(2). This is proprietary and commercially
+sensitive information concerning the pricing and terms of the agreement between TDS
+1 See 47 CFR §§ 0.457, 0.459.
+2 See 5 U.S.C. § 552(b)(4); see also 47 CFR § 0.457(d)(2).
+3 See 47 CFR §§ 0.457(d)(2), 0.459.
+
+Broadband Service and its CLEC partner to serve as TDS Broadband Service’s access
+homing tandem and to route local and access traffic (both originating and terminating) to
+the public switched telephone network (“PSTN”).
+2. Identification of the Commission proceeding in which the information was
+submitted or a description of the circumstances giving rise to the submission.
+TDS Broadband Services is submitting Exhibit A with its application for numbering
+resources as proof that it is capable of providing service within sixty days of the
+numbering resources activation date, pursuant to section 52.15(g)(3)(ii)(H) of the
+Commission’s rules governing such applications.
+3. Explanation of the degree to which the information is commercial or financial, or
+contains a trade secret or is privileged.
+The interconnect agreement in Exhibit A contains business confidential pricing and
+technical terms subject to exemption from public disclosure under FOIA Exemption 4.4
+The Commission has long held that, for the purposes of Exemption 4, “records are
+‘commercial’ as long as the submitter has a commercial interest in them.”5
+4. Explanation of the degree to which the information concerns a service that is subject
+to competition.
+The interconnected voice over internet protocol (VoIP) market is highly competitive.
+The commercial information at issue concerns TDS Broadband Service’s ability to
+provide VoIP service by interconnecting with the PSTN, and thus “concerns a service
+subject to competition.”6 As such, this information qualifies as sensitive internal business
+and commercial information entitled to protection under FOIA7 and the Commission’s
+rules.8
+5. Explanation of how disclosure of the information could result in substantial
+competitive harm.
+Release of the confidential information contained in Exhibit A likely would cause
+competitive harm to TDS Broadband Service. As the U.S. Court of Appeals for the D.C.
+Circuit has stated, parties do not have to “‘show actual competitive harm’” to justify
+confidential treatment; rather, “‘[a]ctual competition and the likelihood of substantial
+competitive injury’ is sufficient to bring commercial information within the realm of
+4 See 5 U.S.C. § 552(b)(4).
+5 Robert J. Butler, 6 FCC Rcd 5414, 5415 (1991) (citing Pub. Citizen Rsch. Grp. v. FDA, 704
+F.2d 1280, 1290 (D.C. Cir. 1983) and Am. Airlines v. Nat’l Mediation Bd., 588 F.2d 863, 868 (2d
+Cir. 1978)).
+6 47 CFR § 0.459(b)(4).
+7 See 5 U.S.C. § 552(b)(4).
+8 See 47 CFR § 0.457(d)(2).
+
+confidentiality.”9 The VoIP industry is highly competitive, and TDS Broadband
+Service’s competitors would take advantage of the commercially sensitive pricing and
+technical information.
+6. Identification of any measures taken by the submitting party to prevent
+unauthorized disclosure.
+TDS Broadband Service treats the agreement contained in Exhibit A as confidential and
+proprietary. It does not publicly disclose this information.
+7. Identification of whether the information is available to the public and the extent of
+any previous disclosure of the information to third parties.
+TDS Broadband Service has not publicly disclosed the information for which it is seeking
+protection.
+8. Justification of the period during which the submitting party asserts that material
+should not be available for public disclosure.
+The agreement contained in Exhibit A should never be released for public inspection.
+The information is commercially sensitive and confidential, and any release would
+commercially disadvantage TDS Broadband Service.
+For the foregoing reasons, TDS Broadband Service respectfully requests that the
+Commission keep Exhibit A within the enclosed application confidential and withhold it from
+public inspection.
+Please direct any questions regarding this request to the undersigned.
+Respectfully submitted,
+/s/
+Yaron Dori
+Counsel for TDS Broadband Service
+9 Pub. Citizen Rsch. Grp. v. FDA, 704 F.2d 1280, 1291 (D.C. Cir. 1983) (quoting Gulf & W.
+Indus. v. United States, 615 F.2d 527, 530 (D.C. Cir. 1979)).
+
+Before the
+FEDERAL COMMUNICATIONS COMMISSION
+Washington, D.C. 20554
+)
+In the Matter of ) WC Docket No.____________
+TDS Broadband Service, LLC )
+For Authority to Obtain Numbering )
+Resources Pursuant to Section 52.15(g) of )
+Rules )
+APPLICATION OF TDS BROADBAND SERVICE, LLC
+FOR AUTHORIZATION TO OBTAIN NUMBERING RESOURCES
+TDS Broadband Service, LLC TDS Broadband Service ) pursuant to Section 52.15(g)(3)(ii) of
+the rules, respectfully requests authorization to obtain numbering as described below.
+TDS Broadband Service is an established interconnected VoIP carrier providing voice and
+network services to residential and business customers and is authorized to provide service in Colorado,
+Nevada, New Mexico, Oregon, Texas, and Utah. The Company is owned by parent TDS
+Telecommunications, LLC which provides 1.2 million connections to high-speed internet, phone, and TV
+entertainment services in rural and suburban communities across the United States.
+Under the Commission , an interconnected VoIP provider may obtain
+numbering resources from the Numbering Administrator upon a showing that it is authorized to provide
+service in the area for which the numbering resources are requested. Such authorization may be obtained
+upon an application to the Commission containing the information detailed in Section 52.15.(g)(3)(ii)(A)-
+(N) The numbering resources that are the subject of this Application will be
+used to provide interconnected VoIP services in the state of Oregon. TDS Broadband Service is capable
+of providing service within 60 days of the numbering resources activation date.
+TDS Broadband Service has negotiated an Interconnect Agreement with Inteliquent, a
+Competitive Local Exchange Carrier and subsidiary of Sinch Networks, to serve as TDS Broadband
+Service
+the PSTN. TDS Broadband Service will interconnect with and broadcast Inteliquent tandem platforms
+
+for the purposes of managing all codes assigned to TDS Broadband Service .1 To further support
+this application, TDS Broadband Service provides the following additional information:
+I. INFORMATION REQUIRED BY SECTION 52.15(g)(3)(ii)
+A. § 52.15(g)(3)(ii)(A)
+Name: TDS Broadband Service, LLC
+Address: 525 Junction Road
+City: Madison
+State: Wisconsin
+ZIP Code: 53717
+Country: USA
+Telephone: 1-844-322-8834
+Website: https://www.hellotds.com
+Contact for regulatory requirements :
+Name: Jennifer Heise
+Address: 525 Junction Road
+City: Madison
+State: Wisconsin
+ZIP Code: 53717
+Country: USA
+Telephone: 608-664-4148
+E-mail Address: jennifer.heise@tdstelecom.com
+Contact for 911 and Law Enforcement:
+Name: TDS Telecommunications LLC - Attn: Subpoena compliance
+Address: 525 Junction Road
+City: Madison
+State: Wisconsin
+ZIP Code: 53717
+Country: USA
+Telephone: 608-664-2310
+B. § 52.15(g)(3)(ii)(B)
+TDS Broadband Service hereby acknowledges that authorization to obtain numbering resources under
+rules is subject to compliance with applicable Commission
+numbering rules, to the numbering authority delegated to the states, and the state laws, regulations, and
+1 OCN # 641H TDS Broadband Service, LLC and Administrative OCN # G048 TDS Telecom (WI)
+
+registration requirements applicable to businesses operating in each state where TDS Broadband Service
+seeks numbering resources. The Company hereby also acknowledges that this authorization is subject to
+compliance with industry guidelines and practices regarding numbering, as applicable to
+telecommunications carriers.
+C. § 52.15(g)(3)(ii)(G)
+TDS Broadband Service hereby acknowledges that it must file requests for numbers with the relevant
+state commission(s) at least 30 days before requesting numbers from the Numbering Administrators.
+D. § 52.15(g)(3)(ii)(H)
+TDS Broadband Service hereby sets forth its capability to provide service within 60 days of the
+numbering resources activation date. An interconnect agreement demonstrating the access to the platform
+and capability of Inteliquents Exhibit A. The Company
+requests confidential Exhibit A. Also attached, as Exhibit B,
+is evidence of Inteliquent s interconnection to the PSTN through its MSA/ICA with LECs in the state of
+Oregon.
+E. § 52.15(g)(3)(ii)(J)
+TDS Broadband Service hereby certifies that it complies with its Universal Service Fund contribution
+obligations under 47 CFR part 54, subpart H, its Telecommunications Relay Service contribution
+obligations under 47 CFR § 64.604(c)(5)(iii), its North American Numbering Plan and Local Number
+Portability Administration contribution obligations under 47 CFR §§ 52.17 and 52.32, its obligations to
+pay regulatory fees under 47 CFR § 1.1154, and its 911 obligations under 47 CFR part 9. TDS
+Broadband Service FRN is 0022516330 and 499 Filer ID is 829912.
+
+F. § 52.15(g)(3)(ii)(K)
+TDS Broadband Service certifies that it has the financial, managerial, and technical expertise to provide
+reliable service. It is financially stable, led by a strong, experienced management team with substantial
+managerial experience in the telecommunications industry and has sufficient technical expertise and
+infrastructure in place to provide reliable numbering services. key management and
+technical personnel are identified in attached Exhibit C. None of the identified personnel are being or
+have been investigated by the Commission or any law enforcement or regulatory agency for failure to
+pplicable to unlawful robocalls or
+unlawful spoofing.
+G. § 52.15(g)(3)(ii)(M)
+TDS Broadband Service hereby certifies that no party to this application is subject to a denial of Federal
+benefits pursuant to Section 5301 of the Anti-Drug Abuse Act of 1988, 21 U.S.C. § 862.
+II. ACKNOWLEDGEMENT OF CONDITIONS IN SECTION 52.15(g)(3)(x)
+As required by Section 52.15(g)(3)(x), TDS Broadband Service will maintain the accuracy of all
+contact information, certifications, and ownership or affiliation information in this application.
+
+III.CONCLUSION
+Pursuant to Section 52.15(g)(3)(ii TDS BroadbandService
+respectfullyrequests the Commission grant this application for authorization to obtain numbering
+resources.
+Respectfully submitted,
+Jennifer R. Heise
+Manager-Regulatory Compliance
+TDS Broadband Service, LLC
+525 Junction Road
+Madison, WI 53717
+(608)664-4148
+jennifer.heise@tdstelecom.com
+May1 , 2024
+
+Exhibit A
+AGREEMENT BETWEEN
+TDS Broadband Service, LLC and Carrier Partner
+(Confidential exhibit submitted separately)
+
+Exhibit B
+Sinch and Qwest Communications
+INTERCONNECTION AGREEMENT
+For the state of Oregon
+
+Exhibit C
+Key Management Personnel
+Jim Butman
+President and Chief Executive Officer
+Jim joined TDS Telecom in 1985 and was appointed President and CEO in 2018.
+As president and CEO, Jim places great emphasis on ensuring the company delivers high quality
+products and services to customers throughout the country. In addition, he takes pride in creating
+a transparent, diverse, and rewarding work environment for all associates.
+During his tenure with TDS Telecom, Jim has held numerous leadership positions including Chief
+Operating Officer and Group President of Marketing, Sales & Customer Operations. He also served
+Jim currently serves on the TDS Inc. Board of Directors, the UScellular Board of Directors,
+the Greater Madison Chamber of Commerce Board of Directors, NCTC Board of Directors, and
+the Safe Harbor Child Advocacy Center Board of Directors. He also served on
+the INCOMPAS Board of Directors for many years.
+Jim earned a Master of Business Administration in Finance from the University of Wisconsin
+Madison and a Bachelor of Business Administration in Finance from the University of Wisconsin
+Eau Claire.
+Shane West
+Chief Operating Officer (COO)
+Shane was named Chief Operating Officer in January 2024. In this role, Shane is responsible for
+-to-day operations field services, network assurance, facilities, call center
+operations, consumer and commercial sales, product development, and marketing.
+Most recently, Shane was Senior Vice President of Network Operations, where he oversaw the field
+services and repair teams responsible for all service installations, resolutions, preventative
+or
+to that role, he served as Senior Vice President of Marketing Sales, and Customer Operations for
+four years.
+Shane has worked in the TDS organization for more than 27 years, having first joined parent
+company Telephone and Data Systems, Inc. in 1996. In 2001, he came to TDS Telecom from sister
+company, UScellular. While at UScellular, Shane played a critical role in helping the wireless
+company launch its first-ever family and unlimited roaming plans.
+Shane holds a Bachelor of Business Administration in Finance from the University of Wisconsin Eau
+Claire and a Master of Business Administration in Marketing from the University of Wisconsin La
+Crosse.
+Michelle Brukwicki - Senior Vice President Finance & Chief Financial Officer
+Michelle was named Senior Vice President of Finance and Chief Financial Officer in February 2022.
+In this role, Michelle leads strategic and long-range planning, financial analysis, accounting, internal
+controls, billing, revenue assurance, and supply chain services.
+
+held multiple leadership positions with growing responsibility. Most recently, Michelle served as Vice
+President of Financial Analysis and Strategic Planning at TDS. In this role, she led enterprise-wide
+strategic planning, budgeting, and forecasting processes for TDS and its business units.
+Michelle earned a Bachelor of Business Administration in Accounting and Finance and a Master of
+Business Administration from the University of Wisconsin Madison. She is also a Certified Public
+Accountant (CPA).
+AnnMarie Kreitzer
+Senior Vice President of Human Resources & Chief Human Resources Officer
+AnnMarie was appointed Senior Vice President of Human Resources and Chief Human Resources
+Officer in July 2023. In this senior leadership role, she oversees employee relations, safety,
+compensation, benefits, rewards and recognition, talent acquisition and development, and Diversity,
+Equity, Inclusion, & Belonging (DEI&B) efforts.
+Prior to joining TDS Telecom in 2023, AnnMarie accumulated more than 20 years of experience in
+human resources management, strong business acumen, and consistently delivered positive
+business results at several major corporations throughout the U.S., Europe, and Latin America.
+dies from Ripon
+College (Wis.), where she also played Division III basketball. She also maintains a Master of
+Science in Industrial Organizational Psychology from the University of Wisconsin-Oshkosh.
+Ken Paker
+Senior Vice President of Information and Network Technologies and Chief Technology
+Officer
+Ken was named CTO in 2014 and appointed SVP of Information and Network Technologies in 2018.
+He has been with the company since 1996.
+Ken holds responsibility for the technical direction of the company's network and IT evolution. He
+oversees the delivery of software and infrastructure projects across diverse, state-of-the-art network
+technologies, as well as the company's mission-critical IT applications and services. He also directs
+the planning, engineering, and building of TDS' networks to ensure customers have access to the
+most reliable internet, phone, and TV services.
+Ken holds a Bachelor of Science in Computer Science and Biology from Purdue University, a Master
+of Science in Computer Science from the University of Southern California, a Master of Business
+Administration from the University of Wisconsin-Madison, and a Master of Science in Data Science
+at the University of Wisconsin-Oshkosh. He also serves on the Board of Directors for Access
+Wisconsin.
+Julie Maiers
+Senior Vice President of Marketing, Sales, and Customer Operations
+As the SVP of Marketing, Sales, and Customer Operations, Julie leads the marketing, product, and
+s. In addition, Julie has
+Since joining the company in 1998, Julie has progressively taken on roles of increasing
+responsibility. Most recently, she served as the VP of Marketing and Product Development, where
+as the director of Consumer
+-of-territory fiber overbuild project in
+
+Sun Prairie, Wisconsin. Dur -speed internet
+service in 2000, managed the launch of TDS TV, and was instrumental in developing the "TDS
+Fiber" marketing strategy.
+In addition to her professional responsibilities, Julie is a board member of the American Heart
+Association (Madison) and an advisory board member of the University of Wisconsin E-Business
+Consortium. She also volunteers with Heart to Heart Experiences and serves on the Board of
+Directors.
+Julie earned a Bachelor of Arts degree in Economics from Mundelein College in Illinois, and an MBA
+from the Kellogg School of Management, Northwestern University.
+Andrew (Drew) Petersen
+Senior Vice President of Corporate Affairs
+Drew joined TDS Telecom in 1997 and was appointed SVP of Corporate Affairs in 2018. In his
+current role, Drew leads the company's out-of-territory community expansion efforts. He oversees
+efforts at the local, state, and national levels. He
+also works to advance TDS' public policy positions through partnerships with industry-affiliated trade
+organizations and federal and state policymakers. In addition, Drew supervises the business
+development, compliance, and legal affairs groups. He manages internal and external
+communications at TDS, serves as the company's chief corporate spokesperson, and oversees Zolo
+Media, a TDS Broadcasting company that operates KOHD-TV (ABC Affiliate), KBNZ (CBS Affiliate),
+COTV11, and CO4 Visitors Network, which offer a wide range of viewing options in Central Oregon.
+In addition to his professional responsibilities, Drew currently serves as an executive committee
+member on the board of directors for and is a director for
+Madison-based Park Bank. He is past president of the University of Wisconsin System Board of
+Regents, a seat he earned through gubernatorial appointment and senate confirmation in 2015.
+Drew is also the past president of the Wisconsin Technical College System Board, Madison Club,
+and Wisconsin State Telecommunications Association.
+Drew maintains a Bachelor of Arts in History and Leadership Studies from Ripon College (Wis.) and
+a Master of Business Administration from the University of Wisconsin-Madison. Drew has been
+quoted in numerous periodicals such as The Washington Post, Chicago Tribune, Minneapolis Star-
+Tribune, and Milwaukee Journal Sentinel. Drew was also recently named to the 2023 100 Power
+Players list by Cablefax The Magazine.

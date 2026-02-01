@@ -1,0 +1,170 @@
+DocuSign Envelope ID: 63B13125-85F2-4F33-A449-57D7B9BDB86C
+02/19/20 CenturyLink Supplement
+to 11/14/19 Application -- Exhibit B Pt 2
+Carrier Partner for Interconnected VoIP Provider Amendment
+to the Traffic Exchange Agreement between
+CenturyTel of Alabama, LLC d/b/a CenturyLink
+Gulf Telephone Company d/b/a CenturyLink
+and
+Level 3 Communications, LLC
+for the State of Alabama
+This Carrier Partner for Interconnected VoIP Provider Amendment ( is to the
+Traffic Exchange Agreement between CenturyTel of Alabama, LLC d/b/a CenturyLink; Gulf
+Telephone Company d/b/a CenturyLink CenturyLink and Level 3 Communications, LLC
+CLEC CenturyLink and CLEC
+RECITALS
+WHEREAS, CenturyLink and CLEC entered into a Traffic Exchange
+for service in the state of Alabama which was executed by the Parties on June 12, 2015, which,
+among other terms, required each party to provide for the exchange of Exchange Service
+(EAS/Local), IntraLATA LEC Toll, Transit, VoIP-PSTN Traffic and Jointly Provided Switched
+Access traffic; and
+WHEREAS, CLEC wishes to act as a Carrier Partner for an Interconnected VoIP Provider,
+which obtains their own number resources pursuant to FCC Report and Order 15-
+, released June 22, 2015. CLEC will provide a switch and seeks to combine
+CLEC Interconnected VoIP Provider VoIP-PSTN Traffic and exchange such traffic
+with CenturyLink Carrier Partner for Interconnected VoIP Provider
+Carrier Partner
+limited to the Agreement and the Amendment; and
+WHEREAS, the Parties have amended the Agreement in response to the Order that the Federal
+Communications Commission issued in Docket No. 01-92, In the Matter of Developing a Unified
+Intercarrier Compensation Regime, effective December 29, 2011; and
+WHEREAS, the Parties wish to amend the Agreement under the terms and conditions
+contained herein.
+AGREEMENT
+NOW THEREFORE, in consideration of the mutual terms, covenants and conditions contained
+in this Amendment and other good and valuable consideration, the receipt and sufficiency of
+which is hereby acknowledged, the Parties agree as follows:
+Amendment Terms
+The Agreement is hereby amended by adding specific terms and conditions under which CLEC
+exchanges traffic with CenturyLink as set forth in Attachment 1 to this Amendment, attached
+hereto and incorporated herein by this reference.
+Effective Date
+September 7, 2016/kjc/Carrier Partner for Interconnected VoIP Provider Amendment/TEA 1
+Level 3/CT/AL
+
+DocuSign Envelope ID: 63B13125-85F2-4F33-A449-57D7B9BDB86C
+02/19/20 CenturyLink Supplement
+to 11/14/19 Application -- Exhibit B Pt 2
+This Amendment shall be deemed effective upon approval by the Commission, or by being
+permitted to go into effect by operation of law; however, the Parties may agree to implement the
+provisions of this Amendment upon execution. To accommodate this need, CLEC must
+generate, if necessary, updated customer documentation. In addition, all system updates will
+need to be completed by CenturyLink. Carrier Partner will be notified when all system changes
+have been made. Actual order processing may begin once these requirements have been met.
+Further Amendments
+Except as modified herein, the provisions of the Agreement shall remain in full force and effect.
+The provisions of this Carrier Partner Amendment, including the provisions of this sentence,
+may not be amended, modified or supplemented, and waivers or consents to departures from
+the provisions of this Carrier Partner Amendment may not be given without the written consent
+thereto by both Parties' authorized representative. No waiver by any Party of any default,
+misrepresentation, or breach of warranty or covenant hereunder, whether intentional or not, will
+be deemed to extend to any prior or subsequent default, misrepresentation, or breach of
+warranty or covenant hereunder or affect in any way any rights arising by virtue of any prior or
+subsequent such occurrence.
+Entire Agreement
+The Agreement as amended (including the documents referred to herein) constitutes the full
+and entire understanding and agreement between the Parties with regard to the subjects of the
+Agreement as amended and supersedes any prior understandings, agreements, or
+representations by or between the Parties, written or oral, to the extent they relate in any way to
+the subjects of the Agreement as amended.
+The Parties intending to be legally bound have executed this Amendment as of the dates set
+forth below, in multiple counterparts, each of which is deemed an original, but all of which shall
+constitute one and the same instrument.
+Level 3 Communications, LLC CenturyTel of Alabama, LLC d/b/a
+CenturyLink
+Gulf Telephone Company d/b/a
+CenturyLink
+Signature Signature
+Gary Black Diane Roth
+Name Printed/Typed Name Printed/Typed
+VP- Carrier Relations Director - Wholesale
+Title Title
+Date Date
+September 7, 2016/kjc/Carrier Partner for Interconnected VoIP Provider Amendment/TEA 2
+Level 3/CT/AL
+
+DocuSign Envelope ID: 63B13125-85F2-4F33-A449-57D7B9BDB86C
+02/19/20 CenturyLink Supplement
+ATTACHMENT 1
+to 11/14/19 Application -- Exhibit B Pt 2
+ATTACHMENT 1
+The following language is added to the existing language, in the Agreement, in its
+entirety:
+Terms of Carrier Partner Amendment
+1. Pursuant to the terms of this Amendment, CLEC will be exchanging with CenturyLink
+VoIP-PSTN Traffic, Transit and Jointly Provided Switched Access traffic of Interconnected VoIP
+Providers on the CLEC interconnection trunks.
+1.1 Prior to CLEC exchanging traffic for an Interconnected VoIP Provider with
+CenturyLink, CLEC will notify CenturyLink and CenturyLink will confirm that the
+Interconnected VoIP Provider has entered into an Interconnected VoIP Provider
+Numbering Agreement CenturyLink.
+1.2 CLEC will notify CenturyLink when CLEC is no longer routing an Interconnected
+CLEC .
+1.3 CLEC will provide such notifications to their CenturyLink Customer Account
+Manager (CAM).
+1.4 CLEC will follow applicable procedures of the LERG and the CLEC Agreement in
+order to identify the OCNs and NPA-NXX(s) of the Interconnected VoIP Provider
+which will be associated with the Switch and routed on the CLEC
+interconnection trunk groups.
+1.5 The Interconnected VoIP Provider may use a POI CLLI for code entry in LERG 6
+CLLI as the Actual Switch ID in LERG 7 SHA.
+2. CLEC and CenturyLink will continue to exchange traffic under the terms of the CLEC
+Agreement, including treatment of traffic terminating to CenturyLink end users. Solely for purposes
+of this Amendment, all traffic originated by parties utilizing facilities and terminating to CenturyLink
+end users or transiting CenturyLink to other providers will be treated as though originated by
+CLEC, including but not limited to terminating intercarrier compensation, Transit compensation,
+compensation for use of interconnection transport facilities, and establishment of direct trunk
+groups.
+3. No compensation for transiting traffic will be paid by CenturyLink to CLEC for traffic that
+CenturyLink sends through the CLEC to terminate to Interconnected VoIP Provider. All
+CenturyLink end user traffic will be treated as though it was terminated with the CLEC.
+4. Interconnected VoIP Provider traffic will be included in
+accordance with applicable terms of the Agreement.
+5. This Amendment does not otherwise modify or supersede the terms and conditions of
+any agreement that CLEC may have with CenturyLink, including tariff, Interconnection and/or other
+agreements.
+September 7, 2016/kjc/Carrier Partner for Interconnected VoIP Provider Amendment/TEA 3
+Level 3/CT/AL
+
+DocuSign Envelope ID: 63B13125-85F2-4F33-A449-57D7B9BDB86C
+02/19/20 CenturyLink Supplement
+ATTACHMENT 1
+to 11/14/19 Application -- Exhibit B Pt 2
+ATTACHMENT 1
+6. This Amendment does not authorize CLEC to bill CenturyLink on behalf of
+Interconnected VoIP Provider for any charges associated with transit traffic, terminating traffic or
+interconnection facilities, including, but not limited to any compensation arrangements contained in
+separate agreements or tariffs with CenturyLink.
+7. CLEC will pass unaltered signaling information (e.g., originating Calling Party Number
+and destination called party number, etc.) for per 47
+C.F.R. § 64.1601 and industry standards.
+8. CLEC agrees that CenturyLink may temporary
+discontinuance of
+experiences from Interconnected VoIP Provider a Denial of Service (DoS) attack or such
+Interc
+inappropriate Interconnected VoIP Provider traffic from its network pr
+. Following any such event, CLEC and Centurylink
+ability to prevent future DOS attacks as a potenti
+exclusive use for any subsequent Interconnected VoIP Provider traffic.
+9. Where CLEC agrees to allow its interconnection trunks with CenturyLink to also be used
+for the routing of Interconnected VoIP Providers traffic, CLEC will ensure traffic routed over such
+trunks is as defined in the
+LERG.
+10. CLEC agrees that CenturyLink will not be responsible to provide 911 services directly to
+the Interconnected VoIP Provider and that instead CLEC will be responsible as the Carrier Partner
+to provide such 911 services in accordance with applicable terms of the Agreement.
+11. If CLEC chooses to obtain numbering from NANPA under a different OCN as an
+Interconnected VoIP Provider, they must have both a Commercial Interconnected VoIP Provider
+Numbering Agreement and this Amendment in order to route their Interconnected VoIP Provider
+traffic associated with that OCN interconnection trunks.
+12. Definitions
+12.1 Carrier Partner is a Certified Local Exchange Carrier (CLEC) that provides the facilities
+and trunking that an Interconnected VoIP Provider needs in order to exchange traffic with
+CenturyLink and demonstrates facilities readiness as described in the VoIP Numbering Order.
+12.2 Denial of Service (DoS) is an action that prevents legitimate user(s) from using or being
+provided service.
+12.3 Interconnected VoIP Provider is an entity that provides interconnected VoIP service, as
+that term is defined in 47 CFR §9.3 and that obtains numbering resources as described in the VoIP
+Numbering Order.
+September 7, 2016/kjc/Carrier Partner for Interconnected VoIP Provider Amendment/TEA 4
+Level 3/CT/AL

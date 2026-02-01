@@ -1,0 +1,594 @@
+DocuSign Envelope ID: 67F04C5A-C9FB-46AD-99B1-69D55E53EE1F
+MASTER SERVICES AGREEMENT
+This Master Services Agreement Number ACVX180831-3002018 (the “MSA” or “Agreement”) is by and between
+Peerless Network, Inc. and its affiliates which may provide a portion of the Service, with offices at 222 South Riverside
+Plaza, Suite 2730 Chicago, IL 60606 (collectively “Peerless”), and Action Vox, Inc. located at 30 N Gould Street Suite R
+Sheridan, WY 82801 (“Customer”), effective as of August 31, 2018 (“Effective Date.”) Peerless and Customer are
+collectively referred to herein as “Parties” and individually as a “Party.”
+Whereas, Peerless is in the business of providing telecommunications services, enhanced services, and other
+related services; and,
+Whereas, Customer desires to purchase certain services from Peerless pursuant to the terms of this Master
+Services Agreement and one or more Service Orders submitted by Customer to Peerless; and,
+Whereas, Peerless and Customer desire to set forth in this MSA certain terms and conditions that will apply to
+the contractual relationship between the Parties.
+Now, therefore, in consideration of the mutual promises and covenants contained herein, and other good and valuable
+consideration, the receipt and sufficiency of which are hereby acknowledged, the Parties agree as follows.
+1. SERVICES PROVIDED.
+1.1 Peerless agrees to provide, and Customer agrees to accept and pay for, those service (the “Services”) as may
+be requested by Customer and accepted by Peerless in accordance with the terms of this Agreement, Service
+Order(s) (as defined below) submitted by the Customer to Peerless, and Peerless’ applicable state and federal
+tariffs. Customer shall request services by submitting to Peerless a Service Order for each Service requested.
+Initial Service Orders agreed to by the parties are attached to this MSA. Additional Service Orders for Services
+provided under this MSA shall be submitted to Peerless, and shall reference the MSA Number of this MSA.
+Service Orders submitted by the Customer shall be on the forms for such Services provided by Peerless or
+through Peerless’ electronic order processing system (hereinafter “Service Orders.”) All Service Orders are
+subject to the terms and conditions of the Applicable Tariffs and this MSA. In the event of an inconsistency
+among terms in the MSA, the Service Orders and the Applicable Tariffs, the order of priority given to terms
+shall be first the Service Order, then this MSA, then the Applicable Tariffs.
+1.2 The Parties will mutually agree on the points of demarcation or interconnection for all Services provided under
+this Agreement, Service Orders, or applicable tariffs.
+2. TERM.
+2.1 This Agreement is effective on the Effective Date and shall continue for a period of one (1) year from the date
+Services are first utilized by Customer (“Service Commencement Date”, as determined by Peerless’ records)
+(the “MSA Initial Term”). Additionally, a term will be selected by Customer for each Service as specified on the
+Service Order (the “Service Order Initial Term”), provided, however, that if Peerless deems it necessary to
+discontinue offering a particular product or Service provided under this Agreement during the Service Order
+Initial Term, then Peerless may terminate such Service upon ninety (90) days prior written notice to Customer.
+The Service Order Initial Term starts on the Service Commencement Date.
+2.2 This Agreement renews automatically for successive one (1) month periods at the expiration of the MSA Initial
+Term, unless cancelled by either Party giving at least thirty (30) days notice prior to the expiration of the then
+current term. Notwithstanding the foregoing, this Agreement shall not expire for so long as Peerless continues
+to provide Services under this Agreement or Service Order, but shall remain in full force and effect until all such
+Services have terminated, provided, however that no new Services may be initiated following notice of
+cancellation by either Party.
+PEERLESS NETWORK MSA - CONFIDENTIAL Page 1 of 13
+
+DocuSign Envelope ID: 67F04C5A-C9FB-46AD-99B1-69D55E53EE1F
+2.3 Subject to any contrary terms in a Service Order, which terms shall supersede this Agreement, at the end of
+the Service Order Initial Term (or any extension) for any Service (in either case the "Service Expiration Date")
+the term for that Service Order will automatically be extended on a month-to-month basis until terminated by
+either Party upon sixty (60) days written notice to the other unless (i) Customer notifies Peerless in writing at
+least forty-five (45) days before the applicable Service Expiration Date that it does not wish to renew the Service
+Order, but wishes to terminate it on the Service Expiration Date, in which case Peerless will terminate that
+Service on the Service Expiration Date; or (ii) Peerless agrees in writing to extend the Service Expiration Date
+for a mutually agreed upon renewal period. If a Service renews on a month-to-month basis in accordance with
+this Section, then Peerless shall have the right to increase the rates and charges for that Service (including
+charges for any associated local access circuits) upon written notice to Customer as specified in the applicable
+Service Order, failing which, such rate changes shall take effect upon seven (7) days written notice.
+2.4 Termination/disconnection requests by Customer must be made by submitting a completed Service Disconnect
+Request Form to Peerless. Service Disconnect request forms are available upon request from Peerless. All such
+termination/disconnect requests shall take effect forty-five (45) days after receipt and acknowledgement by
+Peerless. Nothing contained herein shall relieve Customer of applicable early termination penalties that may
+be due hereunder.
+2.5 Peerless reserves the right to modify any charges for Services as specified in the Service Order(s), failing which,
+such notification shall be upon seven (7) days prior written notice to Customer. Modification in rates may be
+in the form of new rates, charges and/or surcharges or through modification of existing rate elements which
+are used to determine rates and/or charges. Customer is liable for payment on any rate changes past the
+effective date as documented in a delivered rate modification notice. Rate decreases and the offering of
+additional services may be effective immediately upon notice to Customer, and Customer may not terminate
+this Agreement or any Service Order except as otherwise provided in this Agreement or the Service Order. In
+the event Peerless increases Customer’s rates, Customer shall have the right to terminate the Service Order
+affected by such rate increase without penalty by giving Peerless written notice on or before the effective date
+of the rate increase.
+3. CHARGES, BILLING AND PAYMENT.
+3.1 Commencing on the Service Commencement Date, Customer will pay the applicable charges for each Service
+as specified in the applicable Service Order. Monthly recurring charges (“MRCs”) will be invoiced on a monthly
+basis in advance and non-recurring charges will be invoiced in arrears. Usage-based charges will be invoiced in
+arrears in accordance with Customer’s Billing Cycle. If the Service Commencement Date for any Service falls
+on a day other than the first day of any Billing Cycle, the initial charge to Customer shall consist of (a) the pro-
+rata portion of the applicable monthly charge covering the period from the Service Commencement Date to
+the first day of the subsequent Billing Cycle, and (b) the MRC for the following Billing Cycle.
+3.2 Except as otherwise specified in a Service Order, Customer agrees to pre-pay for Services via check or wire
+transfer on a monthly basis and that it must have a positive cash balance at all times. If traffic volumes outpace
+the pre-payment amount, Peerless may suspend Service or seek a Cash Deposit to be used for overages.Any
+invoiced amount not properly disputed under Section 3.3 and not paid by the Due Date will bear a late payment
+charge at the rate of 1½% per month (or such lower amount as may be required by law) until fully paid.
+3.3 Any billing dispute or request for a billing adjustment must be made in good faith and in accordance with
+Section 7 - Dispute Resolution. Invoiced amounts not disputed by Customer in writing within thirty (30) days
+from the date of invoice will be conclusively deemed undisputed and accepted by Customer. Customer shall
+have an obligation to timely pay the undisputed portion of the invoiced amount. Any delay in payment of the
+undisputed portion of the bill will incur late payment charges as specified in Section 3.2 above.
+PEERLESS NETWORK MSA - CONFIDENTIAL Page 2 of 13
+
+DocuSign Envelope ID: 67F04C5A-C9FB-46AD-99B1-69D55E53EE1F
+3.4 In the event charges due pursuant to any invoice are not paid in full by the Due Date, Peerless shall have the
+right to suspend all or any portion of the Services to Customer immediately (“Suspension Notice”) until such
+time as Customer has paid in full all charges then due including any late fees or penalties. Following such late
+payment, Peerless may require that Customer provide satisfactory assurance of its ability to pay for Services
+(i.e., deposit, guaranteed letter of credit, or other means as requested) and advanced payment of the cost of
+reinstituting Services prior to reinstating Service.
+3.5 Monthly Credit Limit. Except as otherwise specified in a Service Order, Peerless may, upon written notice,
+impose a monthly credit limit based on information found in a credit report (the “Monthly Credit Limit”). If
+such Monthly Credit Limit is put in place, Customer may not use any Service or combination of Services if such
+usage will result in the recurring charges applicable to such Service(s) in any month exceeding the Monthly
+Credit Limit. If Customer is delinquent in the payment of fees as set forth herein or if Customer’s overall
+financial condition changes adversely (in Peerless’ reasonable business judgment) and Peerless does not have
+security from Customer in an amount equal to Customer’s highest invoice in the last six-month period, Peerless
+may require additional security of its choice from Customer of two times such amount. Customer shall provide
+such security within ten (10) Business Days. Peerless is not obligated to accept orders, provide or continue to
+provide any Services until any such security is received by Peerless.
+3.6 Cash Deposit. Peerless reserves the right to require Customer to provide a Cash Deposit if Customer has a
+negative credit report or is in violation of this Agreement or is otherwise not in good standing, to be held as a
+guarantee for the payment of charges. The Cash Deposit does not relieve Customer of its responsibility for
+prompt payment of bills. Peerless may draw upon the Cash Deposit at any time to recover any amounts due
+and unpaid in which case the Customer shall immediately replenish it to its prior value. The Parties shall not
+waive any of their rights or remedies by drawing upon the Cash Deposit to recover overdue or unpaid
+amounts. In the event that Peerless draws upon the Cash Deposit, it may suspend the provision of Services
+until Customer replenishes it to its original value. If at any time, Customer's usage exceeds the Credit Limit, its
+payment history is or becomes unacceptable to Peerless, or Customer's Service is upgraded, Peerless may
+require Customer to provide, modify, or increase the amount or form of the Cash Deposit. Customer shall have
+five (5) business days from the receipt of Peerless' written request to comply with this request, and if it fails to
+do so, Peerless my immediately suspend the delivery of Services and/or terminate this Agreement without
+further notice or demand.
+3.7 Letter of Credit. Peerless reserves the right to require Customer to provide a letter of credit (the “Letter of
+Credit”) if Customer has a negative credit report or is in violation of this Agreement or otherwise not in good
+standing. The Letter of Credit shall be unconditional and irrevocable, issued by a financial institution acceptable
+to Peerless at its sole discretion, renewed or replaced no later than thirty (30) days before its expiration date,
+and be otherwise acceptable in form and substance to Peerless. The Letter of Credit is considered a cash fund
+to be drawn by presentment of a sight draft by Peerless at any time to recover any amounts due and unpaid
+by Customer. Customer waives all rights to dispute, intervene in, or enjoin the presenting or honoring of sight
+drafts, or funding of the Letter of Credit.
+3.8 Except for claims for indemnification, no action or proceeding against either party will be commenced by the
+other party more than one (1) year after the Service which is the basis for the action or proceeding is rendered,
+and each party acknowledges that this limitation constitutes an express waiver by it of any rights under any
+applicable statute of limitations which would otherwise afford additional time.
+3.9 Peerless shall have the right to offset against any obligations owed by Customer for the provision and/or
+purchase of Services (“Offset Arrangement”) regardless of whether the obligation arose under this or any other
+current or future agreement or tariffed offering (“Service Agreements”). If additional payment is required in
+connection with a given Offset Arrangement, it will be made according to the terms of the applicable Service
+Agreement giving rise to such obligation.
+PEERLESS NETWORK MSA - CONFIDENTIAL Page 3 of 13
+
+DocuSign Envelope ID: 67F04C5A-C9FB-46AD-99B1-69D55E53EE1F
+4. TAXES, ASSESSMENTS AND REGULATORY CHARGES.
+4.1 Customer acknowledges that Peerless computes all charges in any Service Order exclusive of any applicable
+federal, state, or local use, excise, gross receipts, sales, and privilege taxes, duties, fees, or similar liabilities
+(“Additional Charges”). Except to the extent Customer provides a valid exemption certificate in a form
+acceptable to Peerless prior to the delivery of Service, Customer will be responsible to pay any other regulatory
+surcharges that Peerless is required, or permitted, to invoice to Customer in connection with any Service,
+including, without limitation, permanent or temporary governmental fees or assessments unless Customer
+provides the appropriate certification to Peerless that the Customer will make payments directly to the
+applicable agency assessing the fees. It is the Customer’s sole responsibility to supply tax-exempt
+documentation, if applicable, failing which Customer will be billed accordingly.
+4.2 Exemption Certificates. Accepted exemption certificates shall be effective upon receipt of the exemption
+certificate, and Peerless reserves the right to require the submission of updated certifications for such
+exemption to remain effective. If Peerless does not collect any tax or surcharge because Customer has provided
+Peerless with an exemption certificate that is later found to be inadequate by an applicable authority, then,
+notwithstanding Peerless’ prior acceptance of the certificate, Customer shall be liable for such uncollected
+amount and any interest assessed thereon, as well as any penalty assessed with respect to such uncollected
+amount by the applicable authority and Peerless’ reasonable expenses and attorneys’ fees that result from
+such proceedings. With respect to any tax or surcharge that Customer has supplied an exemption certificate
+or is required to impose on and/or collect from its customers, Customer agrees to indemnify and hold Peerless
+harmless on an after-tax basis for any costs incurred by Peerless as a result of actions taken by the applicable
+authority to recover the tax or surcharge from Peerless due to the failure of Customer to timely pay, or collect
+and timely remit, to such authority.
+4.3 All payments made by Customer will be made without any deduction or withholding for or on account of any
+Taxes. If Customer is or was required by law to make any deduction or withholding from any payment due to
+Peerless or its Affiliates under this Agreement, then, notwithstanding anything to the contrary contained in the
+Agreement, the gross amount payable by Customer to Peerless or its Affiliates will be increased so that, after
+any such deduction or withholding for Taxes, the net amount received by Peerless or its Affiliates will not be
+less than Peerless or its Affiliates would have received had no such deduction or withholding been required. If
+any taxing or governmental authority asserts that Customer should have made a deduction for withholding for
+or on account of any Taxes with respect to all or a portion of any payment made under the Agreement,
+Customer agrees to indemnify Peerless and its Affiliates for such Taxes and to hold Peerless and its Affiliates
+harmless on an after-tax basis from and against any Taxes, interest or penalties levied or asserted against them
+in connection therewith.
+4.4 Customer’s default Place of Primary Use (“PPU”) is the following: 30 N Gould Suite R Sheridan, WY 82801-
+6317. Customer understands and agrees that if no PPU is provided, then the address provided in the first
+paragraph above will be used.
+5. NETWORK MODIFICATION AND NETWORK MAINTENANCE.
+5.1 Peerless reserves the right to modify its Network, system configurations or routing configurations. Peerless
+may, at its sole discretion and without liability, change or modify the features and functionalities of a Service
+or modify or replace any hardware or software in the Network or in equipment used to deliver any Service
+provided that this does not have a material adverse effect on the committed Service. Peerless may perform
+scheduled or emergency maintenance (including temporary suspension of Service as necessary) to maintain or
+modify the Network, Network Terminating Equipment or the Services. Peerless will give Customer such notice
+of the maintenance as is reasonably practicable in the circumstances, provided that, in the event of scheduled
+maintenance, Peerless will give Customer at least four (4) days notice.
+PEERLESS NETWORK MSA - CONFIDENTIAL Page 4 of 13
+
+DocuSign Envelope ID: 67F04C5A-C9FB-46AD-99B1-69D55E53EE1F
+6. TERMINATION AND TERMINATION CHARGES.
+6.1 If a Commission, the North American Numbering Plan Administrator (“NANPA”) or a court of competent
+jurisdiction, issues a rule, regulation, law or order which has the effect of materially increasing Peerless’ cost
+to provide Services hereunder or canceling, changing, or superseding any material term or provision of this
+Agreement (collectively “Change in Law”), either Party may, on thirty (30) days’ written notice to the other
+Party (delivered not later than thirty (30) days following the date on which the Change in Law has become
+legally binding), require that the affected provision(s) be renegotiated, or that new terms and conditions be
+added to this Agreement, if applicable. The Parties shall renegotiate in good faith such mutually acceptable
+new provision(s) as may be required; provided that the new provision(s) shall not affect the validity of the
+remainder of this Agreement not so affected by the Change in Law. Should the Parties not be able to agree on
+modifications necessary to comply with the Change in Law within thirty (30) days after the Change in Law is
+effective, then, upon written notice, either Party may, to the extent practicable, terminate that portion of the
+Agreement impacted by the Change in Law.
+6.2 Peerless may suspend or terminate this Agreement, any Service, or both, immediately if Customer after
+reasonable notice (a) fails to make any payment due under this Agreement, (b) fails to provide security or
+additional security within the timeframe required under Section 3.5, (c) fails to cure any fraudulent or
+otherwise unlawful activity, or (d) becomes the subject of a voluntary petition, or an involuntary petition not
+dismissed within sixty (60) days, in bankruptcy or any proceeding for insolvency, receivership, liquidation, or
+assignment for the benefit of creditors. Termination under this Section will be a nonexclusive remedy for
+breach without prejudice to any other right or remedy of such Party.
+6.3 Either Party may terminate this Agreement, any Service Order, or both, immediately on notice, if the other (a)
+commits a material breach of this Agreement, which is capable of remedy, and fails to remedy the breach
+within thirty days written notice or (b) commits a material breach of this Agreement which cannot be remedied.
+Any termination of this Agreement or Service Order pursuant to this Section 6.3 shall take effect upon delivery
+of written notice to the breaching party that it failed to cure such nonperformance or breach. Termination of
+this Agreement for any cause does not release Customer from any liability which, at the time of termination,
+has already accrued to Customer, or which may accrue in respect of any act or omission prior to termination
+or from any obligation which is expressly stated to survive the termination.
+6.4 Peerless may at its sole option, upon the occurrence of Customer’s breach: (a) terminate this Agreement or
+any Service Order; (b) cease accepting or processing Service Orders and suspend Service(s) without prejudice
+to its right to terminate this Agreement or the Service(s); (c) cease all electronically and manually generated
+information and reports (including any CDR not paid for by Customer); (d) draw on any letter of credit, security
+deposit or other assurance of payment and enforce any security interest provided by Customer; and/or (e)
+pursue such other legal or equitable remedy or relief as may be appropriate.
+6.5 If this Agreement or any Service is terminated prior to the expiration of the initial or any renewal term (except
+if properly terminated by Customer for Peerless’ breach), then Customer shall pay to Peerless upon demand
+an early termination fee in an amount equal to the aggregate sum of each existing Service’s MRC times the
+number of months remaining of the applicable term and all third-party termination liability for Customer’s
+termination. Customer agrees that such a termination fee is based on an agreed revenue expectation based
+on actual Customer Service data and is not a penalty.
+6.6 Any notice of Service or Circuit availability and any notice of termination of Services by Peerless to Customer,
+permitted under this Agreement, shall be made to Customer in accordance with the “Notices” section of this
+Agreement.
+6.7 Customer acknowledges that in the event of expiration or termination of this Agreement or any Service Order,
+Peerless has no obligation to continue to provide services to Customer or to route traffic originating or
+PEERLESS NETWORK MSA - CONFIDENTIAL Page 5 of 13
+
+DocuSign Envelope ID: 67F04C5A-C9FB-46AD-99B1-69D55E53EE1F
+terminating to Customer. Customer further agrees that it will immediately effect an orderly and timely
+transition of services to another provider or other route.
+7. INTERNAL DISPUTE RESOLUTION AND ARBITRATION OF DISPUTES.
+7.1 Any dispute between the Parties regarding the interpretation or enforcement of this Agreement, or any of its
+terms or billing under this Agreement shall be addressed by good faith negotiations between the Parties. The
+Parties agree that resolving disputes as promptly and efficiently as possible will best serve their respective
+interests. In order to be properly filed, all disputes must be directed to billing@peerlessnetwork.com and the
+Customer’s assigned customer service representative, and shall include detailed documentation as specified in
+Section 7.2.
+7.2 Internal Resolution Process. Customer disputes, including billing disputes, shall be detailed in writing within
+thirty (30) days of the Invoice Date (“Dispute Notification”). Any such request shall include detailed
+documentation addressing each element of the dispute. Documentation to be provided by Customer shall
+include, without limitation, the country/city, number of minutes, and/or rate that is subject to dispute and may
+include, call detail records (“CDR”). Upon timely receipt of a properly filed Dispute Notification, Peerless will
+respond to each element of the dispute within thirty (30) days of the Dispute Notification. Each Party will
+appoint a knowledgeable, responsible representative with decision-making authority to negotiate in good faith
+to resolve any dispute arising out of or relating to this Agreement. Each Party, through its representatives, shall
+negotiate diligently and in good faith for a period of sixty (60) days from the Dispute Notification or a mutually-
+agreed upon time period, to resolve the dispute. If the Internal Resolution Process does not result in a
+resolution of the dispute, the Parties will proceed to Arbitration in accordance will Section 7.4, below.
+7.3 If a billing dispute is subsequently resolved in favor of Peerless, or if Parties fail to mutually resolve the
+dispute within sixty (60) days after Dispute Notification, Customer shall pay the disputed amount previously
+withheld including late payment charges, by the earlier of (a) Customer's next billing cycle or (b) thirty (30) days
+following the 60-day dispute resolution period. If the billing dispute is subsequently resolved in Customer’s
+favor, then any resulting amounts due to Customer shall, as soon as practicable and provided Customer is not
+delinquent in payment or otherwise in default of this Agreement, be applied as a credit against a subsequent
+Customer invoice.
+7.4 Binding Arbitration. Any dispute arising out of this Agreement that cannot be resolved pursuant to Section 7.3,
+must be submitted to binding arbitration in accordance with the rules established by the American Arbitration
+Association (“AAA”). The decision of a sole arbitrator shall be binding on all parties. The arbitration shall be
+held in accordance with the commercial Arbitration Rules of the American Arbitration Association (“AAA
+Rules”), as amended by this Agreement.
+Either Party may initiate arbitration by providing written demand for arbitration, a copy of this Agreement and
+the administrative fee required by the AAA Rules to the AAA located in Chicago, Illinois. A copy of the notice
+shall also be provided to the other Party. The remaining cost of the arbitration, including the fees and expenses
+of the arbitrator, shall be shared equally by the Parties unless the arbitrator’s award provides otherwise. Each
+Party shall bear the cost of preparing and presenting its case. The Parties agree that binding arbitration shall
+be conducted in Chicago, Illinois.
+The Parties agree that the Arbitrator’s authority to grant relief shall be subject to the provisions of this
+Agreement and the Service Orders, the United States Arbitration Act, (“USAA”), the ABA-AAA Code of Ethics
+for Arbitrators in Commercial Disputes, Peerless’ Tariffs, substantive law of the State of Illinois or the applicable
+state public service commission, and the Communications Act of 1934, as amended. Except for the intentional
+misconduct of a Party, the Arbitrator shall not be able to award, nor shall any Party be entitled to receive,
+punitive, incidental, consequential, exemplary, reliance or special damages, including damages for lost profits.
+The Arbitrators’ decision shall follow the plain meaning of the relevant documents, and shall be final, binding,
+PEERLESS NETWORK MSA - CONFIDENTIAL Page 6 of 13
+
+DocuSign Envelope ID: 67F04C5A-C9FB-46AD-99B1-69D55E53EE1F
+and enforceable in a court of competent jurisdiction. The decision of the Arbitrator can only be appealed for
+mistake(s) of law.
+8. WARRANTY AND LIMITATION OF LIABILITY.
+8.1 WARRANTY AND DISCLAIMER. PEERLESS WARRANTS THAT IT WILL PERFORM SERVICES WITH REASONABLE
+SKILL AND CARE AND IN A WORKMANLIKE MANNER AND WILL USE REASONABLE EFFORTS TO RESTORE
+SERVICES IN THE CASE OF FAILURE. PEERLESS MAKES NO OTHER WARRANTY OR GUARANTEE RELATING TO
+THE SERVICES, EXPRESS OR IMPLIED, UNDER THIS AGREEMENT OR OTHERWISE, AND PEERLESS EXPRESSLY
+DISCLAIMS ALL OTHER WARRANTIES OR CONDITIONS RELATING TO THE SERVICES, EXPRESS OR IMPLIED,
+INCLUDING, BUT NOT LIMITED TO ANY IMPLIED WARRANTIES OR CONDITIONS OF MERCHANTABILITY,
+SATISFACTORY QUALITY, AND/OR FITNESS FOR A PARTICULAR PURPOSE.
+8.2 LIMITATION OF LIABILITY. IN NO EVENT SHALL EITHER PARTY BE LIABLE FOR ANY INDIRECT, INCIDENTAL,
+SPECIAL, CONSEQUENTIAL, PUNITIVE, RELIANCE, OR COVER DAMAGES, INCLUDING LOSS OF PROFITS,
+REVENUE, DATA, OR USE, INCURRED BY EITHER PARTY OR ANY THIRD PARTY, INCLUDING ANY DAMAGES
+ARISING FROM ANY NEGLIGENT ACT OR INADVERTENT OMISSION, WHETHER IN CONTRACT, TORT OR UNDER
+LAW, EVEN IF THAT PARTY HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES. EXCEPT FOR A BREACH
+OF CUSTOMER’S PAYMENT OBLIGATIONS HEREUNDER, IN NO EVENT SHALL EITHER PARTY BE LIABLE TO THE
+OTHER PARTY FOR DIRECT DAMAGES IN AN AMOUNT IN EXCESS OF THE AMOUNT THAT PEERLESS CHARGED
+OR WOULD HAVE CHARGED FOR SUCH SERVICES IN THE SIX MONTHS PRIOR TO WHEN THE CLAIMS FIRST
+AROSE OR $100,000, WHICHEVER IS LESS.
+8.3 EXCLUSION OF LIABILITY. SUBJECT TO SECTIONS 8.1 AND 8.2, IN NO CIRCUMSTANCES SHALL PEERLESS, ITS
+SUBCONTRACTORS OR AGENTS BE LIABLE FOR ANY OF THE FOLLOWING, EVEN IF INFORMED OF THEIR
+POSSIBILITY AND REGARDLESS OF THE FORM OF ACTION, WHETHER IN CONTRACT, WARRANTY, STRICT
+LIABILITY OR TORT, INCLUDING, WITHOUT LIMITATION, NEGLIGENCE OF ANY KIND WHETHER ACTIVE OR
+PASSIVE: (a) THIRD PARTY CLAIMS AGAINST CUSTOMER FOR DAMAGES, (b) ANY DELAY, LOSS, DAMAGE OR
+SERVICE FAILURE ATTRIBUTABLE TO ANY SERVICE, PRODUCT OR ACTIONS OF ANY PERSON, INCLUDING BUT
+NOT LIMITED TO DELAY, LOSS, DAMAGE OR SERVICE FAILURE ATTRIBUTABLE TO COMPUTER VIRUSES, WORMS,
+COMPUTER SABOTAGE, ‘DENIAL OF SERVICE’ ATTACKS, DNS SPOOFING ATTACKS AND/OR OTHER HACKING
+ATTACKS OF A SIMILAR NATURE, OR (c) INTEROPERABILITY OF SPECIFIC CUSTOMER APPLICATIONS.
+8.4 NO ACTION OR PROCEEDING AGAINST EITHER PARTY WILL BE COMMENCED BY THE OTHER PARTY MORE THAN
+ONE YEAR AFTER THE SERVICE WHICH IS THE BASIS FOR THE ACTION OR PROCEEDING IS RENDERED, AND EACH
+PARTY ACKNOWLEDGES THAT THIS LIMITATION CONSTITUTES AN EXPRESS WAIVER BY IT OF ANY RIGHTS
+UNDER ANY APPLICABLE STATUTE OF LIMITATIONS WHICH WOULD OTHERWISE AFFORD ADDITIONAL TIME.
+9. INDEMNITY.
+9.1 Definition of Losses. For the purposes of this Section, “Losses” means all losses, liabilities, damages and costs
+(including Taxes and Additional Charges) and all related costs and expenses (including reasonable attorney’s
+fees and disbursements and costs of investigation, litigation and settlement).
+9.2 Customer shall defend, indemnify and hold Peerless, its affiliates, and their respective employees, agents, and
+contractors harmless from and against all Losses resulting from or in connection with any third party claims,
+suits, or proceedings: (i) arising from Customer’s mischaracterization of its traffic or erroneous classification,
+as applicable, as an end user of the Services; (ii) alleging that the content, use and/or publication of information
+and communications transmitted by Customer, or its customers or end-users using the Services (“Content”)
+infringes upon or violates the rights of such third party; and (iii) alleging that Customer’s use of the Services or
+the Content violates applicable law regardless of the form of action, whether in contract, tort, warranty, or
+strict liability and whether in respect of copyright infringement or any manner of intellectual property claims;
+PEERLESS NETWORK MSA - CONFIDENTIAL Page 7 of 13
+
+DocuSign Envelope ID: 67F04C5A-C9FB-46AD-99B1-69D55E53EE1F
+including but not limited to, under either (ii) or (iii) above, defamation claims or claims involving publication or
+transmittal of obscene, indecent, offensive, racist, unreasonably violent, threatening, intimidating or harassing
+materials.
+9.3 Each Party shall defend, indemnify and hold the other Party, its affiliates, and their respective employees,
+agents, and contractors harmless from and against all Losses resulting from or in connection with any third
+party claims, suits, or proceedings arising out of, relating to, or in connection with a death, personal injury, or
+damage to real and tangible real property to the extent resulting from or caused by the gross negligence, willful
+misconduct, or recklessness of the indemnifying Party, its affiliates, and their respective employees, agents, or
+contractors.
+9.4 The Parties’ indemnity obligations are conditioned upon: (A) the indemnified Party giving the indemnitor
+prompt written notice of any such suits, claims, and proceedings; (B) the indemnitor having complete and sole
+control of the defense and settlement of any such claim, suits, or proceeding provided, however, that the
+indemnitor provides all relevant information in a timely manner to the indemnified Party and that the
+indemnified Party must approve of any settlement, such approval not to be unreasonably withheld; and (C) the
+indemnified Party reasonably cooperating with the indemnitor to facilitate the defense or settlement thereof.
+10. FORCE MAJEURE.
+Other than with respect to failure to make payments due hereunder, neither party shall be held responsible
+for any delay or failure in performance of any part of this Agreement to the extent such delay or failure is
+caused by: fire; flood; earthquake; the elements; lightning; explosion; war; act of terrorism; strike; embargo;
+labor dispute; utility curtailments; power failures; government requirement; civil or military authority; act of
+god or nature; inability to secure materials or transportation facilities; act or omission of carriers or suppliers
+(other than the parties themselves); acts or failures to act of any governmental authority; computer viruses or
+worms; ‘denial of service’ attacks, DNS spoofing attacks and/or other hacking attacks of a similar nature
+(provided that the parties have taken reasonable steps to prevent such hacking attacks) or any other causes
+beyond its reasonable control, whether or not similar to the foregoing providing that for any cause of force
+majeure the parties have taken reasonable steps to prevent such an event. Failure of either party to perform
+under this agreement, because of the occurrence of an event of force majeure lasting more than forty-five days
+will, upon twenty-four hours written notice to the other party, represent a ground for termination only of the
+service affected by such event.
+11. REGULATORY MATTERS; COMPLIANCE WITH LAWS; USE OF SERVICES AND SOFTWARE; ACCEPTABLE USE
+POLICY; SHORT DURATION CALLS; AUTO-DIALING AND CALL BLASTING.
+11.1 Peerless, upon reasonable notice to Customer, may cancel or suspend the provision of the whole or any part
+of any Service which is determined to be a violation of, or no longer permitted under, any applicable law or
+regulation or of Peerless’ license in the jurisdiction.
+11.2 Customer will ensure that neither it nor its customers or other authorized third party end users interfere with
+or disrupt other users of the Services or of the Peerless Network.
+11.3 Customer will use a Service only for the purposes for which it is designed and provided.
+11.4 The Parties shall comply with their licenses and all Laws applicable to this Agreement and to their respective
+businesses. Customer shall only resell or otherwise allow third party use of a Service in accordance with all
+requisite approvals or authorizations to resell from governments or regulators in the jurisdictions where
+Customer resells. Subject to the foregoing and except as set out in a Services Order, resale and third party use
+of a Service for the purpose for which it was designed and provided is not prohibited by this Agreement,
+provided that Peerless’ performance obligations under this Agreement are solely to Customer, and not to any
+third party.
+PEERLESS NETWORK MSA - CONFIDENTIAL Page 8 of 13
+
+DocuSign Envelope ID: 67F04C5A-C9FB-46AD-99B1-69D55E53EE1F
+11.5 Customer represents and warrants that Customer’s services, products, materials, data, and information used
+by Customer in connection with this MSA as well as customers or other authorized third party end users of
+Customer, does not, and will not during the term of this MSA operate in any manner that would violate any
+applicable international, federal, state, or local law or regulation (including, without limitation, infringement of
+copyright or trademark, misappropriation of trade secrets, wire fraud, telemarketing sales rules, invasion of
+privacy, or obscenity.) Customer will obtain all required licenses and permits, and will comply with any Laws
+that may be applicable to the provision and use of the Services by such authorized third party end users of
+Customer. Further, Customer shall obtain, file and maintain any tariffs, permits, certifications, authorizations,
+licenses or similar documentation as may be required by the FCC, a state Public Utility or Service Commission,
+or any other governmental body or agency having jurisdiction over its business (“Authorizations”). Upon the
+request of a Party, which request shall be no more frequent than once every six months (unless based on a
+request or order of a government body or agency having jurisdiction over either Party), the other Party will
+provide copies of the requested Authorizations.
+11.6 Peerless hereby grants to Customer a personal, non-exclusive, non-transferable license during the term of this
+Agreement to use, in object code form, all software and related documentation owned by Peerless (“Licensed
+Material”) which may be furnished to Customer under this Agreement solely for use with the Service ordered.
+Any Licensed Material furnished to Customer under this Agreement shall not be reproduced or copied in whole
+or in part, and will be returned to Peerless at the conclusion of the term (or earlier termination) of this
+Agreement.
+11.7 Customer is solely responsible for (a) content of information and communications transmitted using the
+Services, and (b) use and publication of communications and/or information using the Services. Customer
+understands and agrees that Peerless is only an intermediary for the transmission of Customer and third party
+information, that Peerless plays a passive role as a conduit of information for Customer and third parties, and
+that Peerless neither initiates the transmission of information, selects the receivers of the transmission, nor
+selects nor modifies the information contained in the transmission.
+11.8 Customer shall perform its obligations under this Agreement in a commercially reasonable, ethical and
+professional manner and in accordance with applicable legal requirements, including, as applicable, without
+limitation, (i) all applicable anti-bribery laws and regulations (including without limitation, the U.S. Foreign
+Corrupt Practices Act) and, (ii) all laws, regulations, codes of practice and guidelines regarding data privacy,
+telemarketing, “slamming” or other inappropriate selling activities, and (iii) all export control laws and
+regulations (including those promulgated by agencies of the United States Government, including the U.S.
+Departments of Commerce and Defense), which prohibit the export or diversion of goods to certain prohibited
+countries.
+11.9 Short Duration Traffic. A Short Duration call is a call that is six (6) seconds or less in duration. Customer must
+inform Peerless if it intends to exchange Short Duration traffic. It is the Customer’s responsibility to monitor
+its traffic for SD traffic. If Short Duration traffic is sent to Peerless certain call parameters apply as specified in
+the applicable Service Order. Absent a Service Order with Short Duration parameters, all per minute rates
+(Interstate Long Distance, Intrastate Long Distance and Local if applicable) assume at least 85% of calls
+terminating will be of a call duration of no less than six (6) seconds in length. If 15% or more of Customer’s
+completed calls are equal to or less than six (6) seconds in length during any billing cycle, then Peerless reserves
+the right, in its sole discretion, to: (i) charge and Customer shall pay, in addition to Customer’s current rates, a
+$0.01 short duration surcharge per call; and (ii) take curative action that may result in the modification,
+suspension or cancellation of Customer’s Services.
+11.10 Auto-Dialing and Call Blasting. Auto-dialers, continuous call session connectivity, fax broadcasting, fax blasting,
+mass calling or any other blasting activities are not permitted with Peerless Services unless written approval is
+provided by Peerless. If Peerless has reasonable suspicion that Customer may be in violation of the foregoing
+PEERLESS NETWORK MSA - CONFIDENTIAL Page 9 of 13
+
+DocuSign Envelope ID: 67F04C5A-C9FB-46AD-99B1-69D55E53EE1F
+prohibitions, Peerless in its sole discretion may take curative action that may result in the modification,
+suspension or cancellation of Customer’s Services.
+12. GOVERNING LAW.
+12.1 This Agreement shall be governed by the laws of the State of Illinois, without giving effect to the principles of
+conflicts of laws, except that if federal law, including the Act applies, federal law shall control.
+13. NOTICES.
+13.1 All notifications, requests, demands and other communications required or permitted under this Agreement
+(not including invoices and rate changes) (“Notices”) will be in writing and addressed to the recipient Party at
+the address(es) specified below. Notice will be deemed given: (a) upon delivery, when delivered in person
+during a Business Day or, if outside the hours of a Business Day, on the next Business Day; (b) twenty-four hours
+after transmission of an email or deposit with an overnight delivery service for next day delivery; (c) the same
+day when sent by facsimile transmission during normal business hours, receipt confirmed by sender’s
+equipment; or (d) three Business Days after deposit in the mail, postage prepaid, registered or certified mail,
+return receipt requested.
+Notices to Peerless: Notices to Customer:
+Peerless Network, Inc. 30 N Gould Street Suite R
+222 S Riverside Plaza Suite 2730 Sheridan, WY 82801
+Chicago, IL 60606
+ATTN: EVP, Sales and Marketing Primary Network Operations contact (NOC)
+Facsimile: 312-506-0931 Attn: NOC
+contracts@peerlessnetwork.com Phone #:
+E-mail: noc@actionvox.com
+Maintenance notifications:
+Attn: NOC
+Phone #:
+E-mail: noc@actionvox.com
+Rate Notifications:
+Attn: Rates
+Phone #:
+E-mail: rates@actionvox.com
+Billing:
+Attn: Billing
+Phone #:
+E-mail: accounting@actionvox.com
+Primary business contact:
+Attn: Allan Noorda
+Phone #: 541-280-2588
+E-mail: allan@actionvox.com
+Legal:
+Attn: Legal
+Phone #:
+E-mail: legal@actionvox.com
+PEERLESS NETWORK MSA - CONFIDENTIAL Page 10 of 13
+
+DocuSign Envelope ID: 67F04C5A-C9FB-46AD-99B1-69D55E53EE1F
+14. DEFINITIONS
+The capitalized terms used in this Agreement shall have the meaning specified below in these Sections. Any terms not
+defined in this Agreement shall have the same meanings as used by regulatory commissions and the
+telecommunications industry in general:
+14.1 “Act” means the Communications Act of 1934 (47 U.S.C. 151 et. seq.), as amended by the Telecommunications
+Act of 1996, and as from time to time interpreted in the duly authorized rules, regulations and orders of the
+FCC or a state Commission.
+14.2 “Affiliate” means an entity controlling, controlled by, or under common control with, directly or indirectly, a
+Party.
+14.3 “Applicable Tariffs” consist of the service descriptions and other provisions contained in tariffs filed by Peerless
+or its affiliates, with the applicable Commission having jurisdiction over the Services being provided. Peerless’
+tariffs are available on its website.
+14.4 “Commission” means the Federal Communications Commission (“FCC”) or state administrative agency that has
+authority to regulate telecommunications services and/or Local Exchange Carriers within the state or
+jurisdiction where Peerless is providing service.
+15. GENERAL.
+15.1 Independent Contractors. Peerless and Customer are, and shall be deemed to be, independent contractors
+with respect to the subject matter of this Agreement. Nothing contained herein shall constitute this
+arrangement to be a joint venture or a partnership between Peerless and Customer. Neither Party has any
+authority to enter into agreements of any kind on behalf of the other Party.
+15.2 Assignment. Neither Party may assign its rights or obligations under this Agreement without the prior written
+consent of the other, which will not be unreasonably withheld, conditioned or delayed except that Peerless
+may freely assign this Agreement or any portion thereof to an Affiliate, and may freely assign its right to receive
+payments hereunder. To assign the Agreement, Customer must request and complete the proper assignment
+paperwork for an assignment to be valid. Any assignment, transfer or other disposition which is in violation of
+this Section is void and of no force and effect.
+15.3 Subcontracting. Peerless, without Customer's consent, may subcontract the provision of a Service, or a portion
+of a Service, provided that Peerless will continue to be liable for the performance of such subcontractors under
+the terms of this Agreement.
+15.4 Customer Data. Notwithstanding anything to the contrary, Customer agrees that Peerless (or any Peerless
+Affiliate) may process personal data (for example, contact details) provided by Customer in connection with
+this Agreement (hereinafter, “Customer Data”) for the purpose of this Agreement and/or for purposes
+connected with the Service and/or business relationship between the Parties, consistent with applicable law
+and regulation. Customer confirms that, to the extent required, it has obtained all necessary consents from
+third parties in order to share any third-party information. Such processing may also include transferring
+Customer Data to other Peerless Affiliates worldwide and/or its storage in a local or foreign database.
+15.5 Publicity. Neither Party will publish or use any advertising, sales promotions, press releases or other publicity
+which uses the name, logo, trademarks or service marks of the other without the prior written approval of the
+other, provided either Party may list the other as a supplier/customer of the services provided hereunder.
+15.6 Confidential Information. For the purposes of this Agreement, “Confidential Information” means confidential
+or proprietary technical or business Information given by one Party (“Discloser”) to the other Party
+PEERLESS NETWORK MSA - CONFIDENTIAL Page 11 of 13
+
+DocuSign Envelope ID: 67F04C5A-C9FB-46AD-99B1-69D55E53EE1F
+(“Recipient”) and identified in writing by the Discloser as Confidential Information in accordance with this
+Section. Additionally, such Confidential Information shall include any portion of any notes, analyses, data,
+compilations, studies, interpretations or other documents prepared by any Receiving Party to the extent the
+same contain, reflect, are derived from, or are based upon, any of the information described in this Section,
+unless such information contained or reflected in such notes, analyses, etc. is so commingled with the Receiving
+Party’s information that disclosure could not possibly disclose the underlying proprietary or confidential
+information (such portions of such notes, analyses, etc. referred to herein as “Derivative Information”).
+Confidential Information does not include information: (a) which was in the possession of the Recipient free of
+restriction prior to its receipt from the Discloser, (b) that is or becomes publicly known or available through no
+breach of this Agreement by the Recipient; (c) that is or becomes rightfully acquired by the Recipient free of
+restrictions on its disclosure; or (d) that is or becomes independently developed by personnel of the Recipient
+to whom the Discloser's Confidential Information had not been previously disclosed.
+15.7 Use of Confidential Information. For a period of five (5) years from the receipt of Confidential Information from
+the Discloser, except as otherwise specified in this Agreement or by agreement of the Discloser, the Recipient
+agrees: (a) to use it only for the purpose of performing under this Agreement, and (b) to hold it in confidence
+and disclose it to no one other than its employees having a need to know for the purpose of performing under
+this Agreement. Either Party will have the right to disclose Confidential Information to any mediator, arbitrator,
+state, or federal regulatory body, or a court in the conduct of any mediation, arbitration, judicial proceeding,
+or approval of this Agreement, or to another party to any such proceeding in accordance with the rules
+applicable to such proceeding; so long as, in the absence of an applicable protective order, the Discloser has
+been promptly notified by the Recipient and so long as the Recipient undertakes all lawful measures to avoid
+disclosing such information until Discloser has had reasonable time to negotiate a protective order with any
+such mediator, arbitrator, state or regulatory body or a court. Recipient agrees to comply with any such
+protective order that covers the Confidential Information.
+15.8 No Waiver. No waiver of any term or condition of this Agreement shall be enforceable unless it is in writing
+and signed by the Party against whom it is sought to be charged. No failure or delay by either Party in exercising
+any right, power or remedy will operate as a waiver of any such right, power or remedy unless provided herein.
+The waiver by either Peerless or Customer of any breach of this Agreement by the other in a particular instance
+will not operate as a waiver of subsequent breaches of a same or different kind.
+15.9 Amendment. The Parties may amend this Agreement at any time only by execution of an instrument in writing
+signed on behalf of each of the Parties hereto. Any extension or waiver by any Party of any provision hereto
+shall be valid only if set forth in an instrument in writing signed on behalf of such Party.
+15.10 Binding Effect. If any provision of this Agreement is held to be invalid or unenforceable, the remainder of the
+Agreement will remain in full force and effect, and such provision will be deemed to be amended to the
+minimum extent necessary to render it enforceable.
+15.11 Survival. Termination of this Agreement shall not affect either Party's accrued rights or obligations under this
+Agreement as they exist at the time of termination, or any rights or obligations that either expressly or by
+implication continue after this Agreement has ended.
+15.12 No Third-Party Beneficiary. This Agreement is not intended to be for the benefit of any third party, is not
+enforceable by any third party, and will not confer on any third party any remedy, claim, right of action or other
+right.
+15.13 Headings. The headings and other captions in this Agreement are for convenience and reference only and shall
+not be used in interpreting, construing or enforcing any of the provisions of this Agreement.
+PEERLESS NETWORK MSA - CONFIDENTIAL Page 12 of 13
+
+DocuSign Envelope ID: 67F04C5A-C9FB-46AD-99B1-69D55E53EE1F
+15.14 Mutual Intent. The language used in this Agreement is deemed the language chosen by the Parties to express
+their mutual intent. No rule of strict construction shall be applied against either Party.
+15.15 Remedies. Except as may otherwise be provided herein, the assertion by a Party of any right or the obtaining
+of any remedy hereunder shall not preclude such Party from asserting or obtaining any other right or remedy,
+at law or in equity, hereunder.
+15.16 Entire Agreement. This Agreement and all Appendices, Exhibits, Service and other Schedules, Order Forms and
+other attachments incorporated herein represent the entire agreement between the Parties with respect to
+the subject matter hereof and supersedes and merge all prior agreements, promises, understandings,
+statements, representations, warranties, indemnities and inducements to the making of this Agreement relied
+upon by either Party, whether written or not. No change, modification or waiver of any of the terms of this
+Agreement will be binding unless included in a written agreement and signed by an authorized representative
+of Peerless and the Customer. Any terms purportedly imposed by any purchase order or other document used
+by Customer shall be void and of no effect.
+15.17 Counterparts; Electronic Signature. This Agreement may be signed in any number of counterparts with the
+same effect as if the signature on each such counterpart were upon the same instrument, and a facsimile
+transmission, electronic delivery of a manual signature (e.g., .pdf), or an electronic signature via DocuSign (or
+other verified eSignature company) shall be deemed to be an original signature.
+IN WITNESS WHEREOF, Peerless and Customer, through duly authorized representatives, have executed this Agreement
+on the dates below. The signatures transmitted and received via facsimile, scanned and electronically delivered, or an
+electronic signature via DocuSign (or other verified eSignature company) shall be treated for all purposes of this
+Agreement as original signatures and shall be deemed valid, binding and enforceable by and against both Parties.
+Peerless may consider this document null and void if a Customer executed version is not received by Peerless within
+thirty (30) days of the issue date.
+Peerless Network, Inc. Customer: Action Vox Inc.
+By: By:
+Name: Richard Knight Name: Allan Noorda
+Title: 8EVP Sales and Marketing Title: President
+Date: Date: 9/1/2018
+9/1/2018
+PEERLESS NETWORK MSA - CONFIDENTIAL Page 13 of 13

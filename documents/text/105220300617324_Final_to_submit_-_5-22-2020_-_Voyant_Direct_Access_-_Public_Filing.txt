@@ -1,0 +1,630 @@
+Public Version
+Voyant hereby states as follows:
+1. Identification of the specific information for which confidential treatment is sought
+Voyant seeks confidential treatment of Exhibit A submitted with the Application.
+2. Identification of the Commission proceeding in which the information was
+submitted or a description of the circumstances giving rise to the submission
+Voyant is submitting Exhibit A, an agreement between Voyant and its carrier partner, as
+proof of facilities readiness, as required by Section 52.15(g)(3)(i)(D) of the Commission’s rules.
+3. Explanation of the degree to which the information is commercial or financial, or
+contains a trade secret or is privileged
+Exhibit A contains proprietary commercial information concerning the operations, term,
+and obligations of Voyant services in order to obtain the services of its carrier partner.
+4. Explanation of the degree to which the information concerns a service that is subject
+to competition
+Exhibit A contains sensitive and proprietary information, as well as detailed operational
+information that Voyant’s iVoIP competitors and others could use to disadvantage Voyant.
+Disclosure of the information contained in Exhibit A therefore would cause substantial
+competitive harm.
+5. Explanation of how disclosure of the information could result in substantial
+competitive harm
+Competitors could use the information in Exhibit A to cause substantial competitive harm
+by using it to gain access to sensitive and proprietary information about how Voyant provides
+services as well as about Voyant’s commercial agreements with others that are not ordinarily
+disclosed to the public.
+6. Identification of any measures taken by the submitting party to prevent
+unauthorized disclosure
+Voyant has not publicly disclosed the agreement which is provided as Exhibit A and has
+only made the information contained therein known to those employees and partners necessary
+for the carrying out of Voyant’s services.
+7. Identification of whether the information is available to the public and the extent of
+any previous disclosure of the information to third parties
+Voyant has not publicly disclosed the contents of Exhibit A.
+2
+
+Public Version
+8. Justification of the period during which the submitting party asserts that material
+should not be available for public disclosure
+Voyant requests that Exhibit A be treated as confidential for a period of ten years. This
+period is necessary due to the sensitive nature of the information in Exhibit A that would cause
+immediate and future competitive harms.
+9. Any other information that the party seeking confidential treatment believes may be
+useful in assessing whether its request for confidentiality should be granted
+The information for which Voyant seeks confidential treatment relates to its operations
+and private agreements with its carrier partner. Disclosure of such information would harm both
+Voyant and Voyant’s carrier partner.
+Please direct any questions regarding this filing to the undersigned.
+Respectfully submitted,
+VOYANT COMMUNICATIONS, LLC
+By: /s/ Richard Monto
+Richard Monto
+General Counsel
+Voyant Communications, LLC
+550 West Adams St
+Illinois, IL 60661
+312.384.8000
+richard.monto@inteliquent.com
+3
+
+Public Version
+Before the
+FEDERAL COMMUNICATIONS COMMISSION
+Washington, D.C. 20554
+In the Matter of )
+)
+Voyant Communications, LLC )
+) WC Docket No. 20-________
+For Authorization to Obtain Numbering )
+Resources Pursuant to Section 52.15(g) of
+The Commission’s Rules
+APPLICATION OF VOYANT LLC
+FOR AUTHORIZATION TO OBTAIN NUMBERING RESOURCES
+Voyant Communications, LLC (“Voyant”), pursuant to Section 52.15(g)(3)(i) of the Commission’s
+Rules, respectfully requests authorization to obtain numbering as described below.
+Under the Commission’s Numbering Order,1 an interconnected VoIP provider may obtain numbering
+resources from the Numbering Administrator upon a showing that it is authorized to provide service in the area
+for which the numbering resources are requested. Such authorization may be obtained upon an application to
+the Commission containing the information detailed in Section 52.15.(g)(3)(i)(A)-(G) of the Commission’s
+Rules. Voyant hereby requests the Commission grant it that authorization. In support of this application,
+Voyant provides the following information:
+I. INFORMATION REQUIRED BY SECTION 52.15(g)(3)(i)
+A. § 52.15(g)(3)(i)(A)
+Name: Voyant Communications, LLC
+Address: 550 West Adams St
+City: Chicago
+State: Illinois
+ZIP Code: 60661
+Telephone: (855)404-4768
+1 Numbering Policies for Modern Communications, FCC 15-70 (rel. June 22, 2015).
+
+Public Version
+Contact for Regulatory Requirements:
+Name: Richard Monto
+Address: 550 West Adams St
+City: Chicago
+State: Illinois
+ZIP Code: 60661
+Telephone: (855) 404-4768
+Facsimile: (312) 346-3276
+Contact for Compliance, 911 and Law Enforcement:
+Information Requests: legal@inteliquent.com
+Exigent Circumstances: (800) 933-1224, Option “2”
+B. § 52.15(g)(3)(i)(B)
+Voyant hereby acknowledges that authorization to obtain numbering resources under Section
+52.15(g) of the Commission’s Rules is subject to compliance with applicable Commission numbering rules as
+well as to the numbering authority delegated to the states. Voyant hereby also acknowledges that this
+authorization is subject to compliance with industry guidelines and practices regarding numbering, as
+applicable to telecommunications carriers. The numbering resources that are the subject of this Application
+will be used to provide interconnected VoIP services initially in the states of New York and California.
+C. § 52.15(g)(3)(i)(C)
+Voyant hereby acknowledges that it must file requests for numbers with the relevant state
+commission(s) at least 30 days before requesting numbers from the Numbering Administrators.
+D. § 52.15(g)(3)(i)(D)
+Voyant hereby sets forth its capability to provide service within 60 days of the numbering
+resources activation date.
+To demonstrate its facilities readiness, Voyant will have the following resources available at its
+disposal: a fully integrated back office support system with the ability to schedule and process LNP orders from
+customers and an experienced provisioning department capable of handling bulk number ports with over 10
+years LNP experience. Voyant has an agreement in place with a CLEC partner to route traffic to the ILECs.
+
+Public Version
+Voyant has attached to this application, as Exhibit A, an agreement between Voyant and its carrier partner
+providing that the carrier partner will host Voyant’s numbers on its switches and provide connectivity to the
+PSTN for inbound calls to Voyant numbers. Voyant has requested confidential treatment under the
+Commission’s rules for Exhibit A. Also attached, as Exhibit B, is evidence of interconnection agreements
+between Voyant’s carrier partner and local exchange carriers in the states of New York and California.
+E. § 52.15(g)(3)(i)(E)
+Voyant hereby certifies that it complies with its Universal Service Fund contribution
+obligations under 47 CFR part 54, subpart H, its Telecommunications Relay Service contribution obligations
+under 47 CFR § 64.604(c)(5)(iii), its North American Numbering Plan and Local Number Portability
+Administration contribution obligations under 47 CFR §§ 52.17 and 52.32, its obligations to pay regulatory
+fees under 47 CFR § 1.1154, and its 911 obligations under 47 CFR part 9.
+F. § 52.15(g)(3)(i)(F)
+Voyant certifies that it has the financial, managerial, and technical expertise to provide reliable
+service. It is financially stable, led by a strong, experienced management team with substantial managerial
+experience in the telecommunications industry, and has sufficient technical expertise and infrastructure in place
+to provide reliable numbering services. Voyant’s key management and technical personnel are listed below.
+None of the identified personnel are being or have been investigated by the Commission or any law
+enforcement or regulatory agency for failure to comply with any law, rule, or order.
+Key Personnel:
+CEO - Ed O’Hara
+CFO - Brian West
+COO - John Bullock
+CIO - Brett Scorza
+G. § 52.15(g)(3)(i)(G)
+Voyant hereby certifies that no party to this application is subject to a denial of Federal
+benefits pursuant to Section 5301 of the Anti-Drug Abuse Act of 1988, 21 U.S.C. § 862.
+
+Public Version
+II. ACKNOWLEDGEMENT OF CONDITIONS IN SECTION 52.15(g)(3)(iv)
+As required by Section 52.15(g)(3)(iv), Voyant will maintain the accuracy of all contact information and
+certifications in this application and will file a correction with the Commission and each applicable state within
+30 days of any changes. Voyant will also furnish accurate regulatory and numbering contact information to
+each state commission when requesting numbers in that state.
+III. CONCLUSION
+Pursuant to Section 52.15(g)(3)(i) of the Commission’s Rules, Voyant respectfully requests the
+Commission grant this application for authorization to obtain numbering resources.
+Respectfully submitted,
+John Bullock, COO
+Voyant Communications, LLC
+550 West Adams St
+Chicago, IL 60661
+(855)404-4768
+May 21, 2020
+
+Public Version
+Exhibit A
+AGREEMENT BETWEEN VOYANT
+COMMUNICATIONS, LLC AND CARRIER PARTNER
+(Confidential exhibit submitted separately)
+
+Public Version
+Exhibit B
+(for each state listed)
+INTERCONNECTION AGREEMENTS BY AND
+BETWEEN CARRIER PARTNER
+AND
+PACIFIC BELL TELEPHONE COMPANY
+D/B/A AT&T CALIFORNIA
+AND
+VERIZON NEW YORK INC.
+
+Contract Id: 4924919
+Public Version
+Signature Page/AT&T-21STATE
+Page 2 of 4
+Page 3 of 57 NEUTRAL TANDEM
+Version: 4Q15 – 10/20/15
+NEUTRAL TANDEM-ALABAMA, LLC; NEUTRAL TANDEM-LOUISIANA,
+LLC; NEUTRAL TANDEM-MISSISSIPPI, LLC; NEUTRAL TANDEM-
+NORTH CAROLINA, LLC; NEUTRAL TANDEM-SOUTH CAROLINA, LLC;
+NEUTRAL TANDEM-TENNESSEE, LLC; NEUTRAL TANDEM-FLORIDA,
+LLC; NEUTRAL TANDEM-GEORGIA, LLC; NEUTRAL TANDEM-
+KENTUCKY, LLC; NEUTRAL TANDEM-ILLINOIS, LLC; NEUTRAL
+TANDEM-ARKANSAS, LLC; NEUTRAL TANDEM-KANSAS, LLC;
+NEUTRAL TANDEM-OKLAHOMA, LLC; NEUTRAL TANDEM-INDIANA,
+LLC; NEUTRAL TANDEM-MISSOURI, LLC: NEUTRAL TANDEM-
+NEVADA, LLC; NEUTRAL TANDEM-MICHIGAN, LLC; NEUTRAL
+TANDEM-CALIFORNIA, LLC; NEUTRAL TANDEM-TEXAS, LLC
+CN:10182016-5601
+Page 641 of 695
+
+Contract Id: 4924919
+Public Version
+Signature Page/AT&T-21STATE
+Page 3 of 4
+Page 4 of 57 NEUTRAL TANDEM
+Version: 4Q15 – 10/20/15
+Signature: _e_S_i_g_n_e_d_ -_ _J_o_h_n_ _S_c_h_o_d_e_r_____________ Signature: _e_S_i_g_n_e_d_ _- _W__il_lia__m_ _A_._ B_o__c_k_e_lm__a_n___________
+Name: _e_S_i_g_n_e_d_ _- _J_o_h_n_ _S_c_h_o_d__e_r_______________ Name: e_S__ig_n_e__d_ -_ W__i_ll_ia_m__ A__. _B_o_c_k_e_l_m__a_n______________
+(Print or Type) (Print or Type)
+Title: _C_M__O__________________________________ Title: _D_i_re_c_t_o_r____________________________________
+(Print or Type) (Print or Type)
+Date: _2_2_ O__c_t _2_0_1_6____________________________ Date: _2_5_ O__c_t _2_0_1_6_________________________________
+Neutral Tandem-Alabama, LLC; Neutral Tandem- BellSouth Telecommunications, LLC d/b/a AT&T
+Louisiana, LLC; Neutral Tandem-Mississippi, LLC; ALABAMA, AT&T FLORIDA, AT&T GEORGIA, AT&T
+Neutral Tandem-North Carolina, LLC; Neutral KENTUCKY, AT&T LOUISIANA, AT&T MISSISSIPPI,
+Tandem-South Carolina, LLC; Neutral Tandem- AT&T NORTH CAROLINA, AT&T SOUTH CAROLINA
+Tennessee, LLC; Neutral Tandem-Florida, LLC; and AT&T TENNESSEE, Illinois Bell Telephone
+Neutral Tandem-Georgia, LLC; Neutral Tandem- Company d/b/a AT&T ILLINOIS, Indiana Bell Telephone
+Kentucky, LLC; Neutral Tandem-Illinois, LLC; Company Incorporated d/b/a AT&T INDIANA, Michigan
+Neutral Tandem-Arkansas, LLC; Neutral Tandem- Bell Telephone Company d/b/a AT&T MICHIGAN,
+Kansas, LLC; Neutral Tandem-Oklahoma, LLC; Nevada Bell Telephone Company d/b/a AT&T NEVADA
+Neutral Tandem-Indiana, LLC; Neutral Tandem- and AT&T Wholesale, The Ohio Bell Telephone
+Missouri, LLC: Neutral Tandem-Nevada, LLC; Company d/b/a AT&T OHIO, Pacific Bell Telephone
+Neutral Tandem-Michigan, LLC; Neutral Tandem- Company d/b/a AT&T CALIFORNIA, Southwestern Bell
+California, LLC; Neutral Tandem-Texas, LLC Telephone Company d/b/a AT&T ARKANSAS, AT&T
+KANSAS, AT&T MISSOURI, AT&T OKLAHOMA and
+AT&T TEXAS, Wisconsin Bell, Inc. d/b/a AT&T
+WISCONSIN by AT&T Services, Inc., its authorized
+agent
+State CLEC OCN
+ALABAMA 604E
+ARKANSAS 348F
+CALIFORNIA 649C
+FLORIDA 937C
+GEORGIA 067D
+ILLINOIS 505B
+INDIANA 097D
+KANSAS 205F
+KENTUCKY 896E
+LOUISIANA 749E
+MICHIGAN 543C
+MISSISSIPPI 719E
+MISSOURI 093F
+NEVADA 029F
+CN:10182016-5601
+Page 642 of 695
+
+Contract Id: 4924919
+Public Version Signature Page/AT&T-21STATE
+Page 4 of 4
+Page 5 of 57 NEUTRAL TANDEM
+Version: 4Q15 – 10/20/15
+NORTH CAROLINA 638E
+OHIO 464C
+OKLAHOMA 409F
+SOUTH CAROLINA 548E
+TENNESSEE 525E
+TEXAS 903C
+WISCONSIN 225C
+Description ACNA Code(s)
+ACNA(s) OWS
+CN:10182016-5601
+Page 643 of 695
+
+Public Version
+AMENDMENT – RECIPROCAL COMPENSATION/PACIFIC BELL TELEPHONE COMPANY D/B/A SBC CALIFORNIA
+PAGE 1 OF 3
+SBC CALIFORNIA/NEUTRAL TANDEM – CALIFORNIA, LLC
+061004
+AMENDMENT
+TO INTERCONNECTION AGREEMENT
+BY AND BETWEEN
+PACIFIC BELL TELEPHONE COMPANY d/b/a SBC CALIFORNIA
+AND
+NEUTRAL TANDEM – CALIFORNIA, LLC
+WHEREAS, Neutral Tandem – California, LLC (“CLEC”) filed an advice letter seeking to adopt the
+provisions of the Interconnection Agreement between Pacific Bell Telephone Company d/b/a SBC
+California1 (“SBC California”) and MCImetro Access Transmission Services, LLC (“MCIm”);
+WHEREAS, CLEC and SBC California agreed to exempt from the adoption request the rates,
+terms and conditions set forth in Attachment Reciprocal Compensation and the Amendment Superseding
+Certain Reciprocal Compensation, Interconnection and Trunking Terms to such Agreement;
+WHEREAS, SBC California and CLEC are hereby filing this amendment (“Amendment”) to
+incorporate rates, terms and conditions relating to intercarrier compensation and provide terms and
+conditions for alternately billed services into the Parties’ Interconnection Agreement; and
+WHEREAS, pursuant to Resolution ALJ-181, this filing will become effective, absent rejection of
+the advice letter by the California Public Utilities Commission (“Commission”), thirty (30) days after the filing
+date of the advice letter to which this Amendment is appended (“Effective Date”).
+NOW THEREFORE, the Parties agree as follows:
+I. The Agreement is amended to add the Negotiated Appendix Intercarrier Compensation (After
+FCC Order No. 01-131 Agreeing to Exchange All ISP-Bound and Section 251(b)(5) Traffic at
+the FCC Rates in Certain States, Where Applicable) to such Agreement, which is attached
+hereto and incorporated herein by this reference.
+II. The Agreement is amended to add the Appendix Pricing - All Traffic to such Agreement, which
+is attached hereto and incorporated herein by this reference.
+III. EXCEPT AS MODIFIED HEREIN, ALL OTHER TERMS AND CONDITIONS OF THE
+UNDERLYING AGREEMENT SHALL REMAIN UNCHANGED.
+IV. In entering into this Amendment and carrying out the provisions herein, neither Party waives,
+but instead expressly reserves, all of its rights, remedies and arguments with respect to any
+orders, decisions, legislation or proceedings and any remands thereof and any other federal or
+state regulatory, legislative or judicial action(s), including, without limitation, its intervening law
+rights (including intervening law rights asserted by either Party via written notice predating this
+Amendment) relating to the following actions, which the Parties have not yet fully incorporated
+into this Agreement or which may be the subject of further government review: the United
+States Supreme Court’s opinion in Verizon v. FCC, et al, 535 U.S. 467 (2002); the D.C.
+Circuit’s decision in United States Telecom Association, et. al (“USTA”) v. FCC, 290 F.3d 415
+(D.C. Cir. 2002) and following remand and appeal, the D.C. Circuit’s March 2, 2004 decision in
+1 Pacific Bell Telephone Company, a California corporation, f/k/a SBC Pacific Bell Telephone Company, is now doing business in California as SBC
+California.
+Page 418 of 695
+
+Public Version
+AMENDMENT – RECIPROCAL COMPENSATION/PACIFIC BELL TELEPHONE COMPANY D/B/A SBC CALIFORNIA
+PAGE 2 OF 3
+SBC CALIFORNIA/NEUTRAL TANDEM – CALIFORNIA, LLC
+061004
+USTA v. FCC, Case No. 00-1012 (D.C. Cir. 2004); the FCC’s Triennial Review Order, released
+on August 21, 2003, In the Matter of Review of the Section 251 Unbundling Obligations of
+Incumbent Local Exchange Carriers, CC Docket No. 01-338, Implementation of the Local
+Competition Provisions of the Telecommunications Act of 1996, CC Docket No. 96-98,
+Deployment of Wireline Services Offering Advanced Telecommunications Capability, CC
+Docket No. 98-147 (FCC 03-36) and the FCC’s Biennial Review Proceeding which the FCC
+announced, in its Triennial Review Order, is scheduled to commence in 2004; the FCC’s
+Supplemental Order Clarification (FCC 00-183) (rel. June 2, 2000), in CC Docket 96-98; and
+the FCC’s Order on Remand and Report and Order in CC Dockets No. 96-98 and 99-68, 16
+FCC Rcd 9151 (2001), (rel. April 27, 2001) (“ISP Compensation Order”), which was remanded
+in WorldCom, Inc. v. FCC, 288 F.3d 429 (D.C. Cir. 2002), and as to the FCC’s Notice of
+Proposed Rulemaking on the topic of Intercarrier Compensation generally, issued In the
+Matter of Developing a Unified Intercarrier Compensation Regime, in CC Docket 01-92 (Order
+No. 01-132), on April 27, 2001 (collectively “Government Actions”). Notwithstanding anything
+to the contrary in this Agreement (including this and any other amendments to the Agreement),
+SBC California shall have no obligation to provide UNEs, combinations of UNEs, combinations
+of UNE(s) and CLEC’s own elements or UNEs in commingled arrangements beyond those
+required by the Act, including the lawful and effective FCC rules and associated FCC and
+judicial orders. Further, neither Party will argue or take the position before any state or federal
+regulatory commission or court that any provisions set forth in this Agreement and this
+Amendment constitute an agreement or waiver relating to the appropriate routing, treatment
+and compensation for Voice Over Internet Protocol traffic and/or traffic utilizing in whole or part
+Internet Protocol technology; rather, each Party expressly reserves any rights, remedies, and
+arguments they may have as to such issues including but not limited, to any rights each may
+have as a result of the FCC’s Order In the Matter of Petition for Declaratory Ruling that AT&T’s
+Phone-to-Phone IP Telephony Services are Exempt from Access Charges, WC Docket No.
+02-361 (rel. April 21, 2004). The Parties acknowledge and agree that SBC California has
+exercised its option to adopt the FCC ISP terminating compensation plan (“FCC Plan”) in
+California and as of the date of that election by SBC California, the FCC Plan shall apply to
+this Agreement, as more specifically provided for in this Amendment. If any action by any
+state or federal regulatory or legislative body or court of competent jurisdiction invalidates,
+modifies, or stays the enforcement of laws or regulations that were the basis or rationale for
+any rate(s), term(s) and/or condition(s) (“Provisions”) of the Agreement and this Amendment
+and/or otherwise affects the rights or obligations of either Party that are addressed by the
+Agreement and this Amendment, specifically including but not limited to those arising with
+respect to the Government Actions, the affected Provision(s) shall be immediately invalidated,
+modified or stayed consistent with the action of the regulatory or legislative body or court of
+competent jurisdiction upon the written request of either Party (“Written Notice”). With respect
+to any Written Notices hereunder, the Parties shall have sixty (60) days from the Written
+Notice to attempt to negotiate and arrive at an agreement on the appropriate conforming
+modifications to the Agreement. If the Parties are unable to agree upon the conforming
+modifications required within sixty (60) days from the Written Notice, any disputes between the
+Parties concerning the interpretation of the actions required or the provisions affected by such
+order shall be resolved pursuant to the dispute resolution process provided for in this
+Agreement.
+V. This Amendment is effective only for the term of the Agreement.
+VI. This Amendment shall be filed with and subject to approval by the Commission.
+Page 419 of 695
+
+AMENDMENT -RECIPROCAL COMPENSATION/PACIFIC BELL TELEPHONE COMPANY D/8/A SBC CALIFORNIA
+PAGE30F3
+SBC CALIFORNIA/NEUTRAL TANDEM-CALIFORNIA, LLC
+061004
+IN WITNESS WHEREOF, the Parties hereto have caused this Amendment to be executed on the
+date shown below by their respective duly authorized representatives.
+Neutral Tandem -California, LLC
+B y : � � �
+Public Version
+Pacific Bell Telephone Company d/b/a SBC
+California by SBC Telecommunications, Inc., its
+au�ageriznet d
+�
+c;2____
+By: ..,
+I
+Mike Auinbauh
+Print Name: � J.{N �AJ1ec � Print Name: ________
+Title: -�-'12.._&.S._E · _tJ._�_.;....;-____ Title: For/President -Industry Markets
+. JUN 2 9 2CM
+/' �
+Date Signed: " '/ (,f Date Signed: _______
+
+Public Version
+INTERCONNECTION AGREEMENT UNDER SECTIONS 251 AND 252
+OF THE TELECOMMUNICATIONS ACT OF 1996
+by and between
+PACIFIC BELL
+and
+MCIMETRO ACCESS TRANSMISSION
+SERVICES LLC
+Page 1 of 695
+
+Public Version
+GENERAL TERMS AND CONDITIONS
+PAGE 18 OF 51
+PACIFIC/MCIm
+21.9 PACIFIC participates at OBF to develop standardized methods and shall
+implement ordering and billing formats/processes consistent with industry
+guidelines as capabilities are deployed. Where such industry guidelines are not
+available or PACIFIC decides not to fully utilize industry guidelines, the Parties
+agree to comply with the applicable provisions of the change management
+process.
+21.10 For the purposes of establishing provisioning and billing service to MCIm, MCIm
+is required to provide to PACIFIC its PACIFIC-authorized and nationally
+recognized OCN for facilities-based business (interconnection and/or Unbundled
+Network Elements) in areas of California served by PACIFIC. The MCIm name
+associated with specific OCN must be consistent in areas of California served by
+PACIFIC.
+21.11 This Agreement, and any amendment or modification hereof, will be submitted to
+the Commission for approval in accordance with Section 252 of the Act.
+22. TERM AND TERMINATION
+*22.1 This Agreement will remain in effect for a term of three (3) years after the
+Effective Date and, unless terminated pursuant to Section 22.2 below, shall
+continue in full force and effect until a successor agreement is reached by the
+Parties in accordance with the requirements set forth in Section 22.4 below.
+22.2 Either Party may terminate this Agreement in the event that the other Party fails to
+perform a material obligation or materially breaches a material term of this
+Agreement and such failure or breach materially disrupts the operation of either
+Party's network and/or materially interferes with either Party's Customer service and
+fails to cure such material nonperformance or material breach within forty-five (45)
+days after written notice thereof.
+22.3 Upon termination of this Agreement in accordance with this Section 22:
+(a) each Party shall continue to comply with its obligations under Section 29.6
+(Confidentiality),
+(b) each Party shall promptly pay all amounts (including any late payment charges)
+owed under this Agreement, and
+(c) each Party's indemnification obligations shall survive.
+22.4 If, upon termination of this Agreement other than pursuant to Section 22.2, the
+Parties are negotiating a successor agreement, during such period each Party shall
+*represents a Non-Voluntary Arrangement.
+Page 18 of 695
+
+Public Version
+GENERAL TERMS AND CONDITIONS
+PAGE 19 OF 51
+PACIFIC/MCIm
+continue to perform its obligations and provide the services described herein that
+are to be included in the successor agreement until such time as a successor
+agreement becomes effective; provided, however, that if the Parties are unable to
+reach agreement prior to the termination of this Agreement, either Party has the
+right to submit this matter to the Commission for resolution. Until a successor
+agreement is reached or the Commission resolves the matter, whichever is sooner,
+the terms, conditions, rates and charges stated herein will continue to apply, subject
+to a true-up based on the Commission action or the new agreement, if any.
+22.5 Except as and to the extent set forth in this Agreement, no remedy set forth in this
+Agreement is intended to be exclusive and each and every remedy shall be
+cumulative and in addition to any other rights or remedies now or hereafter existing
+under applicable law or otherwise.
+23. DISCLAIMER OF REPRESENTATOINS AND WARRANTIES
+EXCEPT AS EXPRESSLY PROVIDED UNDER THIS AGREEMENT, NO PARTY
+MAKES OR RECEIVES ANY WARRANTY, EXPRESS OR IMPLIED, WITH
+RESPECT TO THE SERVICES, FUNCTIONS AND PRODUCTS IT PROVIDES
+UNDER OR CONTEMPLATED BY THIS AGREEMENT, AND THE PARTIES
+DISCLAIM THE IMPLIED WARRANTIES OF MERCHANTABILITY OR OF
+FITNESS FOR A PARTICULAR PURPOSE. ADDITIONALLY, NEITHER PACIFIC
+NOR MCIm ASSUMES RESPONSIBILITY WITH REGARD TO THE
+CORRECTNESS OF DATA OR INFORMATION SUPPLIED BY THE OTHER WHEN
+THIS DATA OR INFORMATION IS ACCESSED AND USED BY A THIRD PARTY.
+24. CHANGES IN CUSTOMER LOCAL EXCHANGE SERVICE PROVIDER
+SELECTION
+Each Party will abide by applicable state or federal laws and regulations in obtaining
+Customer authorization prior to changing Customer’s local service provider to itself and
+in assuming responsibility for any applicable charges as specified in Section 258(b) of the
+Telecommunications Act of 1996. The Parties shall make any required authorization
+available to each other upon reasonable request and at no charge. Only an Customer can
+initiate a challenge to a change in its local exchange service provider. If an Customer
+notifies PACIFIC or MCIm that the Customer requests local exchange service, the Party
+receiving such request shall be free to immediately provide service to such Customer.
+When an Customer changes or withdraws authorization, the serving Party shall release
+customer-specific facilities in accordance with the Customer’s direction or that of the
+Customer’s authorized agent. Further, when an Customer abandons the premise,
+PACIFIC is free to reclaim the resold and unbundled network element facilities from
+MCIm for use by another customer and is free to issue service orders required to reclaim
+such facilities.
+25. SEVERABILITY
+*represents a Non-Voluntary Arrangement.
+Page 19 of 695
+
+Public Version
+3. As the Terms are being adopted by you pursuant to your statutory rights under
+section 252(i), Verizon does not provide the Terms to you as either a voluntary or
+negotiated agreement. The filing and performance by Verizon of the Terms does
+not in any way constitute a waiver by Verizon of any position as to the Terms or a
+portion thereof, nor does it constitute a waiver by Verizon of all rights and
+remedies it may have to seek review of the Terms, or to petition the Commission,
+other administrative body, or court for reconsideration or reversal of any
+determination made by the Commission pursuant to arbitration in Docket No. 01-
+C-0095, or to seek review in any way of any provisions included in these Terms
+as a result of NTI's 252(i) election.
+4. Nothing herein shall be construed as or is intended to be a concession or admission
+by Verizon t�at any contractual provision required by the Commission in Docket
+No. 01-C-0095 (the AT&T arbitration) or any provision in the Terms complies with
+• the rights and duties imposed by the Act, the decisions of the FCC and the
+Commissions, the decisions of the courts, or other law, and Verizon expressly
+reserves its full right to assert and pursue claims arising from or related to the
+Terms.
+5. Verizon reserves the right to deny NTI's adoption and/or application of the
+Terms, in whole or in part, at any time:
+(a) when the costs of providing the Terms to NTI are greater than the costs of
+providing them to AT&T;
+(b) if the provision of the Terms to NTI is not technically feasible; and/or
+(c ) to the extent that Verizon otherwise is not required to make the Terms
+available to NTI under applicable law.
+6. For avoidance of doubt, please note that adoption of the Terms will not result in
+•
+reciprocal compensation payments for Internet traffic. Verizon has always taken
+the position that reciprocal compensation was not due to be paid for Internet
+traffic under section 251 (b) (5) of the Act. Verizon' s position that reciprocal
+compensation is not to be paid for Internet traffic was confirmed by the FCC in
+the Order on Remand and Report and Order adopted on April 18, 2001 ("FCC
+Internet Order"), which held that Internet traffic constitutes "information access"
+outside the scope of the reciprocal compensation obligations set forth in section
+25 l(b)(5) of the Act.1 Accordingly, any compensation to be paid for Internet
+traffic will be handled pursuant to the terms of the FCC Internet Order, not
+pursuant to adoption of the Terms. 2 Moreover, in light of the FCC Internet
+1
+Order on Remand and Report and Order, In the Matters of: Implementation of the Local Competition
+Provisions in the Telecommunications Act of 1996 and Intercarrier Compensation for ISP-Bound Traffic,
+("FCC Remand Order") remanded, WorldCom, Inc. v.
+CC Docket No. 99-68 (rel. April 27, 2001) 144,
+FCC, FCC Remand Order
+No. 01-1218 (D.C. Cir. May 3, 2002). Although the D.C. Circuit remanded the
+See
+to permit the FCC to clarify its reasoning, it left the order in place as governing federal law.
+WorldCom, Inc. v. FCC,
+No. 01-1218, slip op. at 5 (D.C. Cir. May 3, 2002).
+2 FCC
+For your convenience, an industry letter distributed by Verizon explaining its plans to implement the
+Internet Order
+can be viewed at Verizon's Customer Support Website at URL www.verizon.com/wise
+NTI NY 252SlA 031904.DOC 4
+
+Public Version
+Order, even if the Terms include provisions invoking an intercarrier
+compensation mechanism for Internet traffic, any reasonable amount of time
+permitted for adopting such provisions has expired under the FCC's rules
+implementing section 252(i) of the Act. 3 In fact, the FCC Internet Order made
+clear that carriers may not adopt provisions of an existing interconnection
+agreement to the extent that such provisions provide compensation for Internet
+traffic.4
+7. Should NTI attempt to apply the Terms in a manner that conflicts with paragraphs
+3-6 above, Verizon reserves its rights to seek appropriate legal and/or equitable
+relief.
+8. In the event that a voluntary or involuntary petition has been or is in the future
+filed against NTI under bankruptcy or insolvency laws, or any law relating to the
+• relief of debtors, readjustment of indebtedness, debtor reorganization or
+composition or extension of debt (any such proceeding, an "Insolvency
+Proceeding"), then: (i) all rights of Verizon under such laws, including, without
+limitation, all rights of Verizon under 11 U.S.C. § 366, shall be preserved, and
+NTI's adoption of the Verizon Terms shall in no way impair such rights of
+Verizon; and (ii) all rights of NTI resulting from NTI' s adoption of the Verizon
+terms shall be subject to and modified by any Stipulations and Orders entered in
+the Insolvency. Proceeding, including, without limitation, any Stipulation or Order
+providing adequate assurance of payment to Verizon pursuant to 11 U .S.C. § 366 .
+•
+(select Verizon East Customer Support, Business Resources, Customer Documentation, Resources,
+Industry Letters, CLEC, May 21, 2001 Order on Remand).
+3 See, e.g., 47 C.F.R. Section 51.809(c).
+4 FCC Internet Order CJ[ 82.
+NTI NY 252SIA 031904.DOC 5
+
+Public Version
+SIGNATURE PAGE
+Please arrange for a duly authoriz.ed representative ofNTI to sign this letter in the space
+provided below and return it to Verizon.
+Sincerely,
+VERIZON NEW YORK INC.
+-�r�
+JC1tm C. Peterson, Director
+Contract Performance and Administration
+Wholesale Markets
+Reviewed and countersigned as to points A, B, C, D, E and F of paragraph I:
+NEUTRAL TANDEM·N�W YORK, LLC
+•
+�ii.�
+J�icle
+Chief Operating Officer
+c: K. Robertson -Verizon
+•
+N11 NY 2S2SIA 031904 6
+
+Public Version
+Risk Management Department
+295 N. Maple Avenue
+Room 7146K2
+Basking Ridge, NJ 07920-1002
+22.0 TERM AND TERMINATION; DEFAULT
+22.1 This Agreement shall be effective as of the date first above written and,
+unless terminated earlier in accordance with the terms hereof, shall continue in effect
+until June 23, 2005 (the "Initial Term"), and thereafter the Agreement shall continue in
+force and effect on a month-to-month basis unless and until terminated as provided
+herein.
+22.2 [Intentionally deleted]
+·22.3 Either AT&T or Verizon may terminate this Agreement, effective upon
+the expiration of the Initial Term or effective upon any date after expiration of the Initial
+Term, by providing written notice of termination at least ninety (90) days, but not greater
+than nine (9) months, in advance of the date of termination. In the event of such
+termination, if neither Party has requested renegotiation of a successor interconnection
+agreement pursuant to Section 22.4, the service arrangements made available under this
+Agreement and existing at the time of termination shall, unless otherwise agreed to by the
+Parties, continue without interruption under (a) standard Interconnection terms and
+conditions approved and made generally effective by the Commission, (b) Tariff terms
+and conditions generally available to CLECs or (c ) if none of the above is available,
+under the terms of this Agreement on a month-to-month basis until such time as a new
+agreement is entered into, or if no agreement is entered into, until (a) or (b) becomes
+available.
+22.4 AT&T (i) may make, at its option, nine (9) months prior to the expiration
+of the Initial Term, or (ii) shall make, at Verizon's request, but no earlier than nine (9)
+month prior to the end of the Initial Term, a written request to Verizon to renegotiate the
+terms of this Agreement pursuant to Section 251(c)(l) of the Act ("Request for
+Renegotiation"). The date of receipt of such Request for Renegotiation shall be the
+"Renegotiation Request Date". Any such Request for Renegotiation shall be deemed by
+both Parties to be notice of termination of this Agreement and a good faith request for
+Interconnection pursuant to Section 252 of the Act ( or any successor provision). The
+terms and conditions of this Agreement shall remain in effect during the period of
+renegotiations; provided, however, if the Parties do not execute a new interconnection
+agreement within one hundred and sixty (160) days after the Renegotiation Request Date�
+the terms and conditions of this Agreement shall continue in full force and effect only if
+AT&T files an arbitration petition pursuant to Section 252(b) of the Act, in which case,
+this Agreement shall remain in effect until the Parties execute a successor agreement.
+22.4.1 If either Party defaults in the payment of any amount due
+hereunder, except for amounts subject to a bona fide dispute pursuant to Section 28.9
+hereof with respect to which the disputing party has complied with the requirements of
+71

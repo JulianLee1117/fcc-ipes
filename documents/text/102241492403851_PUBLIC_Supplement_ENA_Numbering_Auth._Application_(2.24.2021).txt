@@ -1,0 +1,161 @@
+PUBLIC VERSION
+Glenn S. Richards
+tel: +1.202.663.8215
+glenn.richards@pillsburylaw.com
+February 24, 2021
+VIA ECFS AND EMAIL REQUEST FOR CONFIDENTIAL
+TREATMENT
+Marlene H. Dortch
+Secretary
+Federal Communications Commission
+9050 Junction Drive
+Annapolis Junction, MD 20701
+Re: Supplement to the Application of ENA Services, LLC for
+Authorization to Obtain Numbering Resources and Request for
+Confidential Treatment, WC Docket No. 21-1
+Dear Ms. Dortch:
+Pursuant to Section 52.15(g)(3)(i) of the FCC’s Rules,1 ENA Services, LLC
+(“ENA” or “Applicant”) respectfully submits the attached supplement to its application
+for authorization to obtain numbering resources (the “Supplement”).2
+Because this filing contains confidential information, a public version of the
+Supplement is being filed electronically via the FCC’s Electronic Comment Filing
+System (“ECFS”) and a confidential version has been provided to FCC staff via email
+pursuant to staff instructions. Pursuant to Sections 552(b)(4) and 552(b)(7) of the
+Freedom of Information Act3 (“FOIA”) and Sections 0.457 and 0.459 of the FCC’s
+Rules,4 ENA respectfully requests that the FCC withhold from public inspection, and
+grant confidential treatment to, the Fourth Addendum to Master Service Agreement, by
+and between ENA and its Carrier Partner, dated April 30, 2014 (“Fourth Addendum”),
+attached to the Supplement as the Exhibit. The Fourth Addendum contains proprietary
+and confidential information that ENA does not make available for public inspection,
+1
+47 C.F.R. § 52.15(g)(3)(i).
+2
+See Application of ENA Services, LLC for Authorization to Obtain Numbering Resources, WC
+Docket No. 21-1 (filed Dec. 17, 2020).
+3
+5 U.S.C. §§ 552(b)(4), 552(b)(7).
+4
+47 C.F.R. §§ 0.457, 0.459.
+
+PUBLIC VERSION
+Page 2
+and thus should be withheld from public inspection under the FCC’s Rules and FOIA
+Exemption 4 (protecting from disclosure “trade secrets and commercial or financial
+information”).5
+In accordance with Section 0.459 of the FCC’s Rules, ENA supports its request
+as follows:
+(1) Identification of the specific information for which confidential treatment
+is sought:
+Applicant seeks confidential treatment for the Fourth Addendum, attached to
+the Supplement as the Exhibit.
+(2) Identification of the Commission proceeding in which the information was
+submitted or a description of the circumstances giving rise to the
+submission:
+ENA is submitting the Fourth Addendum in connection with the Supplement
+upon request from Wireline Competition Bureau staff and as further proof of ENA’s
+facilities readiness, as required by Section 52.15(g)(3)(i)(D) of the FCC’s Rules.
+(3) Explanation of the degree to which the information is commercial or
+financial, or contains a trade secret or is privileged:
+The Fourth Addendum contains propriety commercial information, including
+pricing information and the parties’ obligations. Negotiations behind the Fourth
+Addendum were conducted on a confidential and proprietary basis, and the terms of the
+Fourth Addendum are similarly kept confidential by the parties. None of this
+information would be disclosed to the public in the ordinary course because it relates
+to the sensitive private commercial contractual obligations among the parties.
+(4) Explanation of the degree to which the information concerns a service that
+is subject to competition:
+ENA competes for subscribers in a highly competitive iVoIP industry. ENA’s
+competitive advantages in such an industry are drawn from, among other things, its
+operational capabilities and the pricing agreements reached with its Carrier Partner,
+which are included in the Fourth Addendum.
+5
+5 U.S.C. § 552(b)(4).
+
+PUBLIC VERSION
+Page 3
+(5) Explanation of how disclosure of the information could result in substantial
+competitive harm:
+Disclosure of the Fourth Addendum would have a substantial adverse impact
+on ENA because it would provide access to sensitive and propriety information behind
+ENA’s provision of services and its commercial agreements. This information is not
+publicly disclosed in the ordinary course and could be used to the detriment of ENA by
+its competitors or parties with whom ENA engages in high stakes negotiations.
+(6) Identification of any measures taken by the submitting party to prevent
+unauthorized disclosure:
+ENA does not publicly disclose the proprietary commercial information
+contained in the Fourth Addendum in the normal course of business, and each party to
+the Fourth Addendum is subject to contractual confidentiality obligations.
+(7) Identification of whether the information is available to the public and the
+extent of any previous disclosure of the information to third parties:
+ENA has not made the details of the Fourth Addendum available to the public
+or to any third parties.
+(8) Justification of the period during which the submitting party asserts that
+the material should not be available for public disclosure:
+ENA requests permanent confidential treatment and non-disclosure because it
+is impossible to predict when the information contained in the Fourth Addendum would
+no longer be useful to ENA’s competitors or other third parties.
+For the foregoing reasons, ENA submits that good cause exists to grant this
+request for confidential treatment. Accordingly, ENA urges the FCC to grant this
+request and withhold the Fourth Addendum from public inspection. To the extent that
+the FCC disagrees and denies this request, ENA requests that the enclosed confidential
+materials be returned to ENA without consideration, pursuant to Section 0.459(e) of
+the FCC’s Rules.6
+6
+47 C.F.R. § 0.459(e).
+
+PUBLIC VERSION
+Page 4
+Please direct any questions or inquiries regarding this matter to the
+undersigned.
+/s/ Glenn S. Richards
+Glenn S. Richards
+Counsel to ENA Services, LLC
+February 24, 2021
+
+PUBLIC VERSION
+Before the
+FEDERAL COMMUNICATIONS COMMISSION
+Washington, D.C. 20554
+In the Matter of )
+)
+ENA Services, LLC )
+) WC Docket No. 21-1
+For Authorization to Obtain Numbering )
+Resources Pursuant to Section 52.15(g)(3) )
+of the FCC’s Rules )
+SUPPLEMENT TO THE APPLICATION OF ENA SERVICES, LLC
+FOR AUTHORIZATION TO OBTAIN NUMBERING RESOURCES
+On December 17, 2020, ENA Services, LLC (“ENA” or “Applicant”) requested
+authorization to obtain numbering resources pursuant to Section 52.15(g)(3) of the FCC’s Rules1
+(the “Application”). The Wireline Competition Bureau subsequently sought additional
+information regarding where ENA intends to initially offer interconnected VoIP services post-
+authorization, and evidence that the agreement by and between ENA and its Carrier Partner
+included in the Application (“Carrier Partner Agreement”) remains in effect. In support of the
+Application, ENA provides the following information:
+1. Post-authorization, ENA intends to initially offer interconnected VoIP services in
+Tennessee.
+2. Evidence that the Carrier Partner Agreement remains in effect, in the form of the Fourth
+Addendum to Master Service Agreement, by and between ENA and its Carrier Partner,
+dated April 30, 2014, is included herein as the Exhibit.
+1 47 C.F.R. § 52.15(g)(3).
+
+PUBLIC VERSION
+Respectfully submitted,
+/s/ Glenn S. Richards
+Glenn S. Richards
+Pillsbury Winthrop Shaw Pittman LLP
+1200 Seventeenth Street, NW
+Washington, DC 20036
+(202) 663-8215
+glenn.richards@pillsburylaw.com
+Counsel to ENA Services, LLC
+February 24, 2021
+2
+
+PUBLIC VERSION
+EXHIBIT
+FOURTH ADDENDUM TO MASTER SERVICE AGREEMENT,
+BY AND BETWEEN ENA AND ITS CARRIER PARTNER,
+DATED APRIL 30, 2014
+(CONFIDENTIAL EXHIBIT
+SUBMITTED SEPARATELY)

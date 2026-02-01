@@ -1,0 +1,1752 @@
+COM-42646 Interconnection Agreement
+General Terms and Conditions
+Appendix A
+Schedule of TDS Telecommunications Corporation
+New Hampshire Companies
+Kearsarge Telephone Company d/b/a TDS Telecom
+Merrimack County Telephone Company d/b/a TDS Telecom
+Wilton Telephone Company, Inc. d/b/a TDS Telecom
+TDS TELECOM/Comcast
+Interconnection Agreement September 2009
+
+COM-42646 APPENDIX 911
+PAGE 1
+APPENDIX 911
+TDS TELECOM/Comcast September 2009
+Interconnection Agreement
+
+COM-42646 APPENDIX 911
+PAGE 2
+TABLE OF CONTENTS
+1. INTRODUCTION 3
+2. 911 SERVICE 3
+TDS TELECOMIComcast September 2009
+Interconnection Agreement
+
+COM-42646 APPENDIX 911
+PAGE 3
+APPENDIX E911
+1. INTRODUCTION
+1.1 This Appendix sets forth terms and conditions that shall apply for 911 (E911)
+arrangements.
+2. 911 SERVICE
+2.1 911 Arrangements are arrangements for routing 911 calls from a Party's
+Customers to the appropriate Public Safety Answering Point ("PSAP"), passing
+certain customer information for display at the PSAP answering station based on
+the class of911 service (Basic 911 or E911) deployed in the area.
+2.2 As of the Effective Date of this Agreement, TDS Telecom is not the 911 service
+provider serving the PSAP and each party is solely responsible for making their
+own 911 Arrangements to connect to the current 911 service provider and for
+making updates on a timely basis to the ALI database for their respective
+Customers. In the event that TDS Telecom becomes the 911 service provider for
+any exchange where Comcast is providing service under this Agreement, TDS
+Telecom will provide Comcast advance notice of no less than one hundred eighty
+(180) days and the Parties agree to negotiate terms to amend this Agreement for
+the provision of911 Arrangements by TDS Telecom to Comcast.
+TDS TELECOM/Comcast September 2009
+Interconnection Agreement
+
+COM-42646 Appendix ITR
+Page 1
+APPENDIX ITR
+(Interconnection Trunking Requirements)
+TDS TELECOMIComcast
+Interconnection Agreement September 2009
+
+COM-42646 Appendix ITR
+Page 2
+TABLE OF CONTENTS
+1. INTRODUCTION 3
+2. DEFINITIONS 3
+3. ONE-WAYANDTWO-WAY TRUNKGROUPS 3
+4. TRUNKING 4
+5. TRUNK GROUPS 5
+6. FORECASTING RESPONSIBILITIES 7
+7. TRUNKDESIGNBLOCKING CRITERIA 8
+8. TRUNKSERVICING 9
+9. TRUNKDATAEXCHANGE 11
+10. NETWORK MANAGEMENT 11
+11. APPLICABILITY OF OTHER RATES, TERMS ANDCONDITIONS 12
+TDS TELECOMIComcast
+Interconnection Agreement September 2009
+
+COM-42646 Appendix ITR
+Page 3
+APPENDIX ITR
+Interconnection Trunking Requirements
+1. INTRODUCTION
+1.1 This Appendix sets forth terms and conditions for Interconnection provided by
+TDS TELECOM and COMCAST.
+1.2 This Appendix provides descriptions of the trunking requirements between
+COMCAST and TDS TELECOM. All references to incoming and outgoing trunk
+groups are from the perspective of COMCAST. The paragraphs below describe
+the required and optional trunk groups for local and mass calling.
+2. DEFINITIONS
+2.1 "Network Interconnection Methods" (NIM) designates facilities established
+between the Parties' Networks.
+3. ONE-WAY AND TWO-WAY TRUNK GROUPS
+3.1 One-way trunk groups for ancillary services (e.g. mass calling) can be established
+between the Parties. Ancillary trunk groups will utilize Signaling System 7 (SS7)
+or multi-frequency (MF) signaling protocol, with SS7 signaling preferred
+whenever possible. The originating Party will have administrative control of one-
+way trunk groups.
+3.2 Two-way trunk groups for local, IntraLATA and InterLATA traffic can be
+established between a COMCAST switch and a TDS TELECOM End Office or
+Tandem switch. This trunk group will utilize Signaling System 7 (SS7) or multi-
+frequency (MF) signaling protocol, with SS7 signaling preferred whenever
+possible. Two-way trunking will be jointly provisioned and maintained, which
+shall include each Party being responsible for the cost of such trunks on its side of
+the mutually agreed upon POI identified in Appendix NIM. For administrative
+consistency COMCAST will have control for the purpose of issuing Access
+Service Requests (ASRs) on two-way groups. TDS TELECOM will use the
+Trunk Group Service Request (TGSR) as described in section 8.0 of this
+Appendix, to request changes in trunking. TDS TELECOM shall not assess any
+ordering or installation charges associated with two-way trunk groups COMCAST
+orders that shall carry shared traffic. Both Parties reserve the right to issue ASRs,
+if so required, in the normal course of business.
+3.3 The Parties agree that two-way trunking shall be established when possible and
+appropriate for a given trunk group. However, certain technical and billing issues
+may necessitate the use of one-way trunking for an interim period. The Parties
+will negotiate the appropriate trunk configuration, whether one-way or two-way
+TDS TELECOMlComcast
+Interconnection Agreement September 2009
+
+COM-42646 Appendix ITR
+Page 4
+giving consideration to relevant factors, including but not limited to, existing
+network configuration, administrative ease, any billing system and/or technical
+limitations and network efficiency. Any disagreement regarding appropriate trunk
+configuration shall be subject to the dispute resolution process in Section 16of the
+General Terms and Conditions.
+3.4 The Parties agree to exchange traffic data on two-way trunks and to implement
+such an exchange within three (3) months of the date that two-way trunking is
+established and the trunk groups begin passing live traffic, or another date as
+agreed to by the Parties. Exchange of traffic data will permit each company to
+have knowledge of the offered and overflow load at each end of the two-way
+trunk group, and thereby enable accurate and independent determination of
+performance levels and trunk requirements. The Parties agree to the electronic
+exchange of data where possible.
+4. TRUNKING
+4.1 Tandem Trunking.
+4.1.1 Where TDS TELECOM has a Tandem switch in a LATA, the Parties shall
+establish Tandem trunking for the exchange of intraLATA Toll Traffic,
+interLA TA traffic, Local Traffic and Tandem Transit Traffic for calls
+destined to or from end offices that subtend the TDS TELECOM Tandem.
+The trunk group(s) shall be two-way and will utilize Signaling System 7
+("SS7") signaling.
+4.1.2 When Tandem Transit Traffic routed through the TDS TELECOM
+Tandem from COMCAST to another local exchange carrier, CLEC or
+wireless carrier switch requires a DS1 or more over three (3) consecutive
+months, COMCAST shall establish a direct end office trunk group
+between itself and the other Local Exchange Carrier, CLEC or wireless
+carrier switch. COMCAST agrees to use reasonable efforts to enter into
+agreements with third-party carriers as soon as the said traffic threshold is
+met.
+4.2 Direct End Office Trunking.
+4.2.1 Direct End Office trunks terminate traffic from a COMCAST switch to a
+TDS TELECOM End Office and, except as otherwise provided herein, are
+not switched at a Tandem location. The Parties shall establish a direct End
+Office trunk group when End Office traffic requires twenty-four (24) or
+more trunks over a consecutive three (3) month period. Overflow from
+either end of the direct End Office trunk group will be alternate routed to
+the appropriate Tandem. The Parties will negotiate the appropriate trunk
+TDS TELECOMIComcast
+Interconnection Agreement September 2009
+
+COM-42646 Appendix ITR
+Page 5
+configuration, whether one-way or two-way to accommodate the present
+billing and technical limitations.
+4.2.2 All traffic received by TDS TELECOM on the direct End Office trunk
+group from COMCAST must terminate in the End Office, i.e. no Tandem
+switching will be performed in the End Office. All traffic received by
+COMCAST on the direct End Office trunk group from TDS TELECOM
+must terminate in the End Office, i.e., no Tandem switching will be
+performed in the End Office. Where End Office functionality is provided
+in a remote End Office of a host/remote configuration, the Interconnection
+for that remote End Office is only available at the host switch. The
+number of digits to be received by the terminating Party shall conform to
+standard industry practices; but in no case shall the number of digits be
+less than seven (7).
+4.3 Trunk Configuration
+4.3.1 Trunk Configuration-
+4.3.1.1 Where available and upon the request of the other Party, each Party
+shall cooperate to ensure that its trunk groups are configured
+utilizing the B8ZS ESF protocol for 64 kbps Clear Channel
+Capability (64CCC) transmission to allow for ISDN
+interoperability between the Parties' respective networks. Trunk
+groups configured for 64CCC and carrying Circuit Switched Data
+(CSD) ISDN calls shall carry the appropriate Trunk Type Modifier
+in the CLCI-Message code. Trunk groups configured for 64CCC
+and not used to carry CSD ISDN calls shall carry a different
+appropriate Trunk Type Modifier in the CLCI-Message code.
+5. TRUNK GROUPS
+5.1 The following trunk groups shall be used to exchange traffic between COMCAST
+and TDS TELECOM.
+5.2 The Trunk Groups identified below shall be provisioned over the facilities
+identified in Appendix NIM. Multiple types of Trunk Groups may be provisioned
+over the same facility(s).
+5.3 Local Trunk Group(s)
+5.3.1 Direct End Office Local Trunk Group
+The Parties shall establish direct End Office primary high usage Local
+Trunk Groups for the exchange of Local traffic where actual or projected
+TDS TELECOM/Comcast
+Interconnection Agreement September 2009
+
+COM-42646 Appendix ITR
+Page 6
+traffic demand is or will be twenty four (24) or more trunks, as described
+in Section 4.2.
+5.3.2 Tandem Trunking Local Trunk Group
+The Parties shall establish Local Trunk Group to the TDS TELECOM
+tandem for the exchange of Local Traffic and Tandem Transit Traffic
+subject to limitations of paragraphs 4.1 above.
+5.4 Meet Point Trunk Group(s)
+5.4.1 IntraLATA Toll Traffic and interLATA traffic, including originating toll
+free services calls, shall be transported between COMCAST and TDS
+TELECOM's Tandem over Meet Point Trunk Groups separate from Local
+Traffic and Tandem Transit Traffic. The Meet Point Trunk Group will be
+established for the transmission and routing of jointly provided Switched
+Access traffic between COMCAST'S End User and Interexchange
+Carriers via a TDS TELECOM Tandem.
+5.5 For each NXX code used by either Party, the Party to whom the NXX is assigned
+must maintain network facilities (whether owned or leased) used to actively
+provide, in part, local Telecommunications Services in the geographic area
+assigned to such NXX code.
+5.6 TDS TELECOM will not block switched access customer traffic delivered to any
+TDS TELECOM Office for completion on COMCAST's network. The Parties
+understand and agree that InterLATA trunking arrangements are available and
+functional only to/from switched access customers who directly connect with any
+TDS TELECOM End Office or Tandem. TDS TELECOM shall have no
+responsibility to ensure that any switched access customer will accept traffic that
+COMCAST directs to the switched access customer. TDS TELECOM agrees to
+furnish COMCAST, upon request, a list of those IXCs which also interconnect
+with TDS TELECOM's End Office(s) and Tandem(s).
+5.7 COMCAST shall provide all SS7 signaling information including, without
+limitation, charge number and originating line information (OLI). For terminating
+FGD, TDS TELECOM will pass all SS7 signaling information including, without
+limitation, CPN if it receives CPN from FGD carriers. All privacy indicators will
+be honored. Where available, network signaling information such as transit
+network selection (TNS) parameter, carrier identification codes (CIC) (CCS
+platform) and CIC/OZZ information (non-SS7 environment) will be provided by
+COMCAST wherever such information is needed for call routing or billing. The
+Parties will follow all OBF adopted standards pertaining to TNS and CIC/OZZ
+codes.
+5.8 High Volume Call In (HVC!) / Mass Calling (Choke) Trunk Group:
+TDS TELECOMIComcast
+Interconnection Agreement September 2009
+
+COM-42646 Appendix ITR
+Page 7
+5.8.1 If COMCAST should acquire a HVCIIMass Calling customer, i.e. a radio
+station, COMCAST shall provide written notification to TDS TELECOM.
+TDS TELECOM reserves the option to provide either a physical or
+"virtual" trunk group, with a virtual group preferred where technically
+feasible, for HVCIIMass Calling Trunking.
+6. FORECASTING RESPONSIBILITIES
+6.1 COMCAST agrees to provide an initial forecast for establishing the initial
+Interconnection facilities. TDS TELECOM shall review this forecast, and if it has
+any additional information that will change the forecast shall provide this
+information to COMCAST. The Parties recognize that, to the extent historical
+traffic data can be shared between the Parties, the accuracy of the forecasts will
+improve. COMCAST shall provide subsequent forecasts on a semi-annual basis.
+COMCAST forecasts should include yearly forecasted trunk quantities for all
+appropriate trunk groups described in this Appendix for a minimum of two (2)
+years. Forecasts shall be non-binding on both TDS TELECOM and COMCAST.
+TDS TELECOM shall take COMCAST's forecasts into consideration in its
+network planning, and shall exercise its best efforts to provide the quantity of
+interconnection trunks and facilities forecasted by the COMCAST. However, the
+development and submission of forecasts shall not replace the ordering process in
+place for interconnection trunks and facilities, and the provision of the forecasted
+quantity of interconnection trunks and facilities is subject to capacity existing at
+the time the order is submitted. Furthermore, the development and receipt of
+forecasts does not imply any liability for failure to perform if capacity is not
+available for use at the forecasted time. The Parties agree to the use of Common
+Language Location Identification (CLLI) coding and Common Language Circuit
+Identification for Message Trunk coding (CLCI-MSG) which is described in
+TELCORDIA TECHNOLOGIES documents BR795-100-100 and BR795-400-
+100 respectively. Inquiries pertaining to use of TELCORDIA TECHNOLOGIES
+Common Language Standards and document availability should be directed to
+TELCORDIA TECHNOLOGIES at 1-800-521-2673. Analysis of trunk group
+performance, and ordering of relief if required, will be performed on a monthly
+basis at a minimum (trunk servicing).
+6.2 The semi-annual forecasts shall include:
+6.2.1 Yearly forecasted trunk quantities (which include measurements that
+reflect actual, End Office Local Interconnection trunks, and Tandem
+subtending Local Interconnection End Office equivalent trunk
+requirements) for a minimum of two (current and plus 1) years; and
+6.2.2 A description of major network projects anticipated for the following six
+(6) months. Major network projects include trunking or network
+TDS TELECOM/Comcast
+Interconnection Agreement September 2009
+
+COM-42646 Appendix ITR
+Page 8
+rearrangements, shifts in anticipated traffic patterns, orders greater than
+four (4) DSI 's, or other activities that are reflected by a significant
+increase or decrease in trunking demand for the following forecasting
+period.
+6.3 The Parties shall agree on a forecast provided above to ensure efficient utilization
+of trunks. Orders for trunks that exceed forecasted quantities for forecasted
+locations will be accommodated as facilities and/or equipment becomes available.
+Parties shall make all reasonable efforts and cooperate in good faith to develop
+alternative solutions to accommodate orders when facilities are not available.
+6.4 COMCAST shall be responsible for forecasting two-way trunk groups. TDS
+TELECOM shall be responsible for forecasting and servicing the one-way trunk
+groups terminating to COMCAST and COMCAST shall be responsible for
+forecasting and servicing the one-way trunk groups terminating to TDS
+TELECOM, unless otherwise specified in this Appendix. Standard trunk traffic
+engineering methods will be used by the Parties.
+6.S If forecast quantities are in dispute, the Parties shall meet, either in person or via
+conference call, to reconcile the differences.
+6.6 Each Party shall provide a specified point of contact for planning, forecasting and
+trunk servicing purposes.
+7. TRUNK DESIGN BLOCKING CRITERIA
+7.1 Trunk requirements for forecasting and servicing shall be based on the blocking
+objectives shown in Table 1. Trunk requirements shall be based upon time
+consistent average busy season busy hour twenty-one (21) day averaged loads
+applied to industry standard Neal-Wilkinson Trunk Group Capacity algorithms
+(use Medium day-to-day Variation and 1.0 Peakedness factor until actual traffic
+data is available).
+TDS TELECOMlComcast
+Interconnection Agreement September 2009
+
+COM-42646 Appendix ITR
+Page 9
+TABLE 1
+Trunk Group Type Design Blocking Objective
+Local Direct End Office (Primary High) as mutually agreed upon
+Local Direct End Office (Final) 1%
+8. TRUNK SERVICING
+8.1 Orders between the Parties to establish, add, change or disconnect trunks shall be
+processed by using an Access Service Request (ASR). COMCAST will have
+administrative control for the purpose of issuing ASR's on two-way trunk groups.
+Where one-way trunks are used (as discussed in section 3.3), TDS TELECOM
+will issue ASRs for trunk groups for traffic that originates from TDS TELECOM
+and terminates to COMCAST. The Parties agree that neither Party shall alter
+trunk sizing on two-way trunk groups without first conferring with the other Party.
+8.2 The Parties will jointly manage the capacity of two-way Local Interconnection Trunk
+Groups. Either Party may send a Trunk Group Service Request (TGSR) to the other
+Party to trigger changes to the Local Interconnection Trunk Groups based on capacity
+assessment. The TGSR is a standard industry support interface developed by the
+Ordering and Billing Forum of the Carrier Liaison Committee of the Alliance for
+Telecommunications Solutions (ATIS) organization. TELECORDIA
+TECHNOLOGIES Special Report STS000316 describes the format and use of the
+TGSR. The forms can be obtained from www.atis.org/atis/c1c/obf/download.htm.
+8.3 In A Blocking Situation:
+8.3.1 In a blocking final situation, a TGSR will be issued by either Party when
+additional capacity is required to reduce measured blocking to objective
+design blocking levels based upon analysis of trunk group data. Either
+Party upon receipt of a TGSR in a blocking situation will issue an ASR to
+the other Party within three (3) business days after receipt of the TGSR,
+and upon review and in response to the TGSR received. The ordering
+Party will note "Service Affecting" on the ASR.
+8.4 Underutilization:
+8.4.1 Underutilization of Interconnection trunks and facilities exists when
+provisioned capacity is greater than the current need. This over
+provisioning is an inefficient deployment and use of network resources
+and results in unnecessary costs. Those situations where more capacity
+exists than actual usage requires will be handled in the following manner:
+TDS TELECOMIComcast
+Interconnection Agreement September 2009
+
+COM-42646 Appendix ITR
+Page 10
+8.4.1.1 If a trunk group is under 75 percent (75%) of CCS capacity on a
+monthly average basis, for each month of any three (3) consecutive
+months period, unless otherwise agreed due to forecasted demand,
+either Party may request the issuance of an order to resize the trunk
+group, which shall be left with not less than 25 percent (25%)
+excess capacity. In all cases grade of service objectives shall be
+maintained.
+8.4.1.2 Either Party may send a TGSR to the other Party to trigger changes
+to the Local Interconnection Trunk Groups based on capacity
+assessment.
+8.4.1.3 Upon review of the TGSR if a Party does not agree with the
+resizing, the Parties will schedule a joint planning discussion
+within twenty (20) business days. The Parties will meet to resolve
+and mutually agree to the disposition of the TGSR.
+8.4.1.4 Those situations where more capacity exists than actual usage
+requires, and the Parties disagree on the quantity of trunks to
+disconnect, will be handled via the dispute resolution process
+pursuant to Section 16of the General Terms and Conditions.
+8.5 In all cases except a blocking situation, either Party upon receipt of a TGSR will
+issue an ASR to the other Party:
+8.5.1 Within ten (10) business days after receipt of the TGSR.
+8.5.2 At any time as a result of either Party's own capacity management
+assessment, in order to begin the provisioning process.
+8.5.3 In all cases, either Party upon receipt of an ASR will issue the FOC to the
+other Party within three (3) business days after receipt ofthe ASR.
+8.6 Projects require the coordination and execution of multiple orders or related
+activities between and among TDS TELECOM and COMCAST work groups,
+including but not limited to the initial establishment of Local Interconnection or
+Meet Point Trunk Groups and service in an area, NXX code moves, re-homes,
+facility grooming, or network rearrangements.
+8.6.1 Orders greater than four (4) DS-1's to a single Central Office, shall be
+submitted at the same time, and their implementation shall be jointly
+planned and coordinated.
+TDS TELECOMIComcast
+Interconnection Agreement September 2009
+
+COM-42646 Appendix ITR
+Page 11
+8.7 COMCAST will be responsible for engineering its network on its side of the Point
+of Interconnection (POI). TDS TELECOM will be responsible for engineering its
+network on its side ofthe POI.
+8.8 Where facilities are available, and unless otherwise agreed, due dates for the
+installation of Local Interconnection Trunks covered by this Appendix shall be no
+longer than ten (10) business days from receipt of a request by either Party. If
+either COMCAST or TDS TELECOM is unable to or not ready to perform
+Acceptance Tests, or is unable to accept the Local Interconnection Service
+Arrangement trunk(s) by the due date, the Parties will reschedule the date no more
+than seven (7) days from the original date.
+8.9 Utilization shall be defined as Trunks Required as a percentage of Trunks In
+Service. Trunks Required shall be determined using methods described in Section
+6.0 using Design Blocking Objectives stated in section 7.1.
+9. TRUNKDATA EXCHANGE
+9.1 Each Party agrees to service trunk groups to the foregoing blocking criteria in a
+timely manner when trunk groups exceed measured blocking thresholds on an
+average time consistent busy hour for a twenty-one (21) day study period. The
+Parties agree that twenty-one (21) days is the study period duration objective.
+However, a study period on occasion may be less than twenty-one (21) days but at
+minimum must be at least three (3) business days to be utilized for engineering
+purposes, although with less statistical confidence.
+9.2 Exchange of traffic data enables each Party to make accurate and independent
+assessments of trunk group service levels and requirements. Parties agree to
+establish a timeline for implementing an exchange of traffic data. Implementation
+shall be within three (3) months of the date, or such date as agreed upon, that the
+trunk groups begin passing live traffic. The traffic data to be exchanged will be
+the Originating Attempt Peg Count, Usage (measured in Hundred Call Seconds),
+Overflow Peg Count, and Maintenance Usage (measured in Hundred Call
+Seconds) on a seven (7) day per week, twenty-four (24) hour per day, fifty-two
+(52) weeks per year basis. These reports shall be made available at a minimum on
+a semi-annual basis upon request. Exchange of data on one-way groups is
+optional.
+10. NETWORK MANAGEMENT
+10.1 Restrictive Controls
+10.1.1 Either Party may use protective network traffic management controls such
+as 7-digit and 10-digit code gaps set at appropriate levels on traffic toward
+each other's network, when required, to protect the public switched
+TDS TELECOM/Comcast
+Interconnection Agreement September 2009
+
+COM-42646 Appendix ITR
+Page 12
+network from congestion due to facility failures, switch congestion, or
+failure or focused overload. COMCAST and TDS TELECOM will
+immediately notify each other of any protective control action planned or
+executed.
+10.2 Expansive Controls
+10.2.1 Where the capability exists, originating or terminating traffic reroutes may
+be implemented by either Party to temporarily relieve network congestion
+due to facility failures or abnormal calling patterns. Reroutes will not be
+used to circumvent normal trunk servicing. Expansive controls will only
+be used when mutually agreed to by the Parties.
+10.3 Mass Calling
+10.3.1 COMCAST and TDS TELECOM shall cooperate and share pre-planning
+information regarding cross-network call-ins expected to generate large or
+focused temporary increases in call volumes.
+11. APPLICABILITY OF OTHER RATES, TERMS AND CONDITIONS
+11.1 Every interconnection and service provided hereunder shall be subject to all rates,
+terms and conditions contained in this Agreement which are legitimately related to
+such interconnection or service.
+TDS TELECOM/Comcast
+Interconnection Agreement September 2009
+
+COM-42646 APPENDIX NIM
+PAGE 1
+APPENDIX NIM
+(NETWORK INTERCONNECTION METHODS)
+TDS TELECOM/Comcast
+Interconnection Agreement September 2009
+
+COM-42646 APPENDIX NIM
+PAGE 2
+TABLE OF CONTENTS
+1. INTRODUCTION 3
+2. PHYSICAL ARCHITECTURE 3
+3. METHODS OF INTERCONNECTION 5
+4. RESPONSIBILITIES OF THE PARTIES 8
+5. JOINT FACILITY GROWTH PLANNING 9
+6. APPLICABILITY OF OTHER RATES, TERMS AND CONDITIONS ..l0
+TDS TELECOM/Comcast
+Interconnection Agreement September 2009
+
+COM-42646 APPENDIX NIM
+PAGE 3
+APPENDIX NIM
+(NETWORK INTERCONNECTION METHODS)
+1. INTRODUCTION
+1.1 This Appendix sets forth the terms and conditions that Network Interconnection
+Methods (NIM) are provided by TDS TELECOM and COMCAST. This
+Appendix describes the physical architecture for Interconnection of the Parties'
+facilities and equipment for the transmission and routing of Telephone Exchange
+Service traffic and Exchange Access traffic between the respective Customers of
+the Parties; provided, however, Interconnection may not be used solely for the
+purpose of originating a Party's own interexchange traffic.
+1.2 Network Interconnection Methods (NIMs) include, but are not limited to, Indirect
+Interconnection, Leased Facilities Interconnection; Fiber Meet Interconnection;
+and other methods as mutually agreed to by the Parties.
+1.2.1 Trunking requirements associated with Interconnection are contained in
+Appendix ITR.
+1.3 TDS TELECOM shall provide Interconnection for COMCAST's facilities and
+equipment for the transmission and routing of telephone exchange service and
+exchange access, at a level of quality equal to that which TDS TELECOM
+provides itself, a subsidiary, an affiliate, or any other party to which TDS
+TELECOM provides Interconnection and on rates, terms and conditions that are
+just, reasonable and non-discriminatory.
+1.4 The Parties shall effect an Interconnection that is efficient, fair and in a manner
+that is mutually agreeable to the Parties.
+2. PHYSICAL ARCHITECTURE
+2.1 TDS TELECOM's network is partly comprised of End Office and Tandem
+switches that serve IntraLATA, InterLATA, Local, and EAS traffic. TDS
+TELECOM's network architecture in any given local exchange area and/or LATA
+can vary markedly from another local exchange area/LATA. Using one or more
+of the NIMs herein, the Parties will agree to a physical architecture plan for the
+New Hampshire LATA 122. Where the Parties elect to interconnect indirectly,
+the physical architecture plan will be completed within thirty (30) days from
+COMCAST's written request for interconnection contingent upon the Parties'
+mutual agreement on the architecture. Where the Parties elect to interconnect
+directly, the physical architecture plan will be completed within sixty (60) days
+from COMCAST's written request for interconnection contingent upon the
+Parties' mutual agreement on the architecture. COMCAST and TDS TELECOM
+agree to Interconnect their networks through existing and/or new Interconnection
+facilities between COMCAST switch(es) and TDS TELECOM's End Office(s)
+TDS TELECOM/Comeast
+Interconnection Agreement September 2009
+
+COM-42646 APPENDIX NIM
+PAGE 4
+and Tandem(s). Where the Parties elect to interconnect via direct trunking, the
+physical architecture plan will, at a minimum, include the location of
+COMCAST's switch(es) and TDS TELECOM End Office or Tandem switch(es)
+to be interconnected, the facilities that will connect the two networks, the
+timelines for completion of all major tasks, and which Party will provide (be
+financially responsible for) the Interconnection facilities. At the time of
+implementation in the LATA the plan will be documented and signed by
+appropriate representatives of the Parties, indicating their mutual agreement to the
+physical architecture plan.
+2.2 Points of Interconnection (POls): A Point of Interconnection (POI) is a point in
+the network where the Parties deliver Interconnection traffic to each other, and
+also serves as a demarcation point between the facilities that each Party is
+responsible to provide.
+2.3 If direct interconnection is established, at least one POI must be established at or
+within the TDS TELECOM company's serving area boundary. Additional POls
+may be established for each central office switch where COMCAST and TDS
+TELECOM interconnect directly, as specified in Appendix ITR Section 4. The
+Parties shall mutually agree on the selection of new POls. In some cases, multiple
+POI(s) will be necessary to balance the facilities investment and provide the best
+technical implementation of Interconnection requirements to each End Office
+within a TDS TELECOM company's service area. Both Parties shall negotiate the
+architecture in each location that will seek to mutually minimize and equalize
+investment.
+2.4 The Parties agree to meet as often as necessary to negotiate the selection of new
+POls. The overall goal of POI selection will be to achieve a balance in the
+provision of facilities that is fair to both Parties. Criteria to be used in
+determining POls include existing facility capacity, location of existing POls,
+traffic volumes, relative costs, future capacity needs, etc. Agreement to the
+location of POls will be based on the network architecture existing at the time the
+POI(s) is/are negotiated. In the event either Party makes subsequent changes to its
+network architecture, including but not limited to trunking changes or adding new
+switches, then the Parties will negotiate new POls if required. The mutually
+agreed to POls will be documented and distributed to both Parties.
+2.5 Each Party is responsible for the facilities to its side of the POI(s) and may utilize
+any method of Interconnection described in this Appendix. Each Party is
+responsible for the appropriate sizing, operation, and maintenance of the transport
+facility to the POI(s).
+2.6 Either Party, must provide thirty (30) days written notice of any changes to the
+physical architecture plan.
+TDS TELECOMIComcast
+Interconnection Agreement September 2009
+
+COM-42646 APPENDIX NIM
+PAGES
+2.7 Each Party is solely responsible for the facilities that carry OS/DA, 911 or mass
+calling for their respective End Users.
+2.8 Technical Interfaces
+2.8.1 The Interconnection facilities provided by each Party shall be formatted
+using B8ZS with Extended Superframe format framing.
+2.8.2 Electrical handoffs at the POI(s) will be DS1, DS3 or STS-l as mutually
+agreed to by the parties. When a DS3 or STS-l handoff is agreed to by the
+Parties, each Party will provide all required multiplexing at their respective
+end.
+3. METHODS OFINTERCONNECTION
+3.1 Leased Facility Interconnection ("LFI")
+3.1.1 Where facilities exist, either Party may lease facilities from the other Party
+pursuant to applicable tariff.
+3.2 Fiber Meet Interconnection
+3.2.1 Fiber Meet Interconnection between TDS TELECOM and COMCAST can
+occur at any mutually agreeable, economically and technically feasible
+point(s) between COMCASTs premises and a TDS TELECOM End
+Office or Tandem.
+3.2.2 Where the Parties interconnect their networks pursuant to a Fiber Meet,
+the Parties shall jointly engineer and operate this Interconnection as a
+Synchronous Optical NETwork (SONET) ring or single point-to-point
+linear SONET system. Administrative control of the SONET system shall
+be mutually agreed upon by the Parties. Only Interconnection trunks or
+trunks used to provide ancillary services as described in Section 5 of
+Appendix ITR shall be provisioned over this facility.
+3.2.3 Neither Party will be given the IP address or allowed to access the Data
+Communications Channel (DCC) of the other Party's Fiber Optic
+Terminal (FOT). The Fiber Meet will be designed so that each Party may,
+as far as is technically feasible, independently select the transmission,
+multiplexing, and fiber terminating equipment to be used on its side of the
+POI(s). The Parties will work cooperatively to achieve equipment and
+vendor compatibility of the FOT equipment. Requirements for such
+Interconnection specifications will be defined in joint engineering
+planning sessions between the Parties. The Parties will share the
+investment of the fiber as mutually agreed such that neither Party bears a
+disproportionate share of the investment. The Parties will use good faith
+TDS TELECOM/Comcast
+Interconnection Agreement September 2009
+
+COM-42646 APPENDIX NIM
+PAGE 6
+efforts to develop and agree on these facility arrangements within ninety
+(90) days of the determination by the Parties that such specifications shall
+be implemented, and in any case, prior to the establishment of any Fiber
+Meet arrangements between them.
+3.2.4 There are four basic Fiber Meet design options.
+3.2.4.1 Design One: COMCAST's fiber cable (four, or some integral
+multiple thereof, fibers) and TDS TELECOM's fiber cable (four, or
+some integral multiple thereof, fibers) are connected at an
+economically and technically feasible point between the
+COMCAST and TDS TELECOM locations. This Interconnection
+point would be at a mutually agreeable location. The Parties' fiber
+cables would be terminated on fiber termination panel(s) and then
+cross-connected with jumpers jointly provided by the Parties. Each
+Party would supply a fiber optic terminal (FOT) at their respective
+end. The POI would be at the fiber termination panel at the mid-
+point meet.
+3.2.4.2 Design Two: COMCAST will provide fiber cable to the last
+entrance (or TDS TELECOM designated) manhole at the TDS
+TELECOM's End Office or Tandem switch. TDS TELECOM
+shall make all necessary preparations to receive and to allow and
+enable COMCAST to deliver fiber optic facilities into that
+manhole. COMCAST will provide a sufficient length of Optical
+Fire Resistant (OFR) cable for TDS TELECOM to pull the fiber
+cable through the TDS TELECOM cable vault and terminate on
+the TDS TELECOM fiber distribution frame (FDF) in TDS
+TELECOM's office. COMCAST shall deliver and maintain such
+strands wholly at its own expense up to the POI. TDS TELECOM
+shall take the fiber from the manhole and terminate it inside TDS
+TELECOM's office on the FDF at TDS TELECOM's expense. In
+this case the POI shall be at the TDS TELECOM designated
+manhole location.
+3.2.4.3 Design Three: TDS TELECOM will provide fiber cable to the last
+entrance (or COMCAST designated) manhole at the COMCAST
+location. COMCAST shall make all necessary preparations to
+receive and to allow and enable TDS TELECOM to deliver fiber
+optic facilities into that manhole. TDS TELECOM will provide a
+sufficient length of Optical Fire Resistant (OFR) cable for
+COMCAST to run the fiber cable from the manhole and terminate
+on the COMCAST fiber distribution frame (FDF) in COMCAST's
+location. TDS TELECOM shall deliver and maintain such strands
+wholly at its own expense up to the POI. COMCAST shall take
+TDS TELECOM/Comcast
+Interconnection Agreement September 2009
+
+COM-42646 APPENDIX NIM
+PAGE 7
+the fiber from the manhole and terminate it inside COMCAST's
+office on the FDF at COMCAST's expense. In this case the POI
+shall be at the COMCAST designated manhole location.
+3.2.4.4 Design Four: Both COMCAST and TDS TELECOM each provide
+two fibers between their locations. This design may only be
+considered where existing fibers are available and there is a mutual
+benefit to both Parties. TDS TELECOM will provide the fibers
+associated with the "working" side of the system. COMCAST will
+provide the fibers associated with the "protection" side of the
+system. The Parties will work cooperatively to terminate each
+other's fiber in order to provision this joint SONET ring or point-
+to-point linear system. Both Parties will work cooperatively to
+determine the appropriate technical handoff for purposes of
+demarcation and fault isolation. The POI will be defined as being
+at the TDS TELECOM location.
+3.2.5 The COMCAST location includes FOTs, multiplexing and fiber required
+to terminate the optical signal provided from TDS TELECOM. This
+location is COMCAST's responsibility to provision and maintain.
+3.2.6 The TDS TELECOM location includes all TDS TELECOM FOTs,
+multiplexing and fiber required to terminate the optical signal provided
+from COMCAST. This location is TDS TELECOM's responsibility to
+provision and maintain.
+3.2.7 TDS TELECOM and COMCAST shall, solely at their own expense,
+procure, install, and maintain the agreed-upon FaT equipment in each of
+their locations where the Parties established a Fiber Meet. Capacity shall
+be sufficient to provision and maintain all trunk groups prescribed by
+Appendix ITR for the purposes of Interconnection.
+3.2.8 Each Party shall provide its own, unique source for the synchronized
+timing of its FOT equipment. At a minimum, each timing source must be
+Stratum-3 traceable and cannot be provided over DSO/DSI facilities, via
+Line Timing; or via a Derived DS1 off of FOT equipment. Both Parties
+agree to establish separate and distinct timing sources that are not derived
+from the other, and meet the criteria identified above.
+3.2.9 COMCAST and TDS TELECOM will mutually agree on the capacity of
+the FOT(s) to be utilized based on equivalent DSls, DS3s or STS-Is.
+Each Party will also agree upon the optical frequency and wavelength
+necessary to implement the Interconnection. The Parties will develop and
+agree upon methods for the capacity planning and management for these
+facilities, terms and conditions for over provisioning facilities, and the
+TDS TELECOM/Comcast
+Interconnection Agreement September 2009
+
+COM-42646 APPENDIX NIM
+PAGES
+necessary processes to implement facilities as indicated below. These
+methods will meet quality standards as mutually agreed to by COMCAST
+and TDS TELECOM.
+3.3 Indirect Interconnection
+3.3.1 The Parties agree that where traffic volumes require less than twenty-four
+(24) trunks and TDS TELECOM subtends a third party LEC's tandem,
+such traffic shall be exchanged by transiting through the third party LEC
+tandems (in this case Fairpoint) unless otherwise agreed by both Parties.
+Each Party shall be financially and operationally responsible for the costs
+incurred with providing facilities from its network to the Point of
+Interconnection (POI) for the exchange of such traffic.
+3.3.2 Where the traffic exchanged between COMCAST and a specific TDS
+TELECOM host or end office switch requires twenty-four (24) or more
+trunks or the Parties agree it is otherwise economically advantageous,
+either Party may request to implement direct trunks to a POI associated
+with the specific host or end office switch in accordance with Appendix
+ITR Section 4. The Parties agree to negotiate in good faith to reach
+agreement to accommodate direct interconnection.
+4. RESPONSIBILITIES OFTHE PARTIES
+4.1 If COMCAST determines to offer local exchange service within a TDS
+TELECOM area, COMCAST shall provide written notice to TDS TELECOM of
+the need to establish Interconnection. Such request shall include (i) COMCAST's
+Switch address, type, and CLL!; (ii) COMCAST's requested Interconnection
+activation date; and (iii) a non-binding forecast of COMCAST's trunking and
+facilities requirements.
+4.2 Upon receipt of COMCAST's notice to interconnect, the Parties shall schedule a
+meeting to negotiate and mutually agree on the network architecture (including
+trunking) to be documented as discussed above. The Interconnection activation
+date for an Interconnect shall be established based on then-existing work force and
+load, the scope and complexity of the requested Interconnection and other relevant
+factors.
+4.3 If COMCAST deploys additional switches after the Effective Date or otherwise
+wishes to establish Interconnection with additional TDS TELECOM Central
+Offices, COMCAST shall provide written notice to TDS TELECOM to establish
+such Interconnection. The terms and conditions of this Agreement shall apply to
+such Interconnection. If TDS TELECOM deploys additional End Office switches
+in a local exchange after the effective date or otherwise wishes to establish
+Interconnection with additional COMCAST Central Offices in such local
+exchange, TDS TELECOM shall be entitled, upon written notice to COMCAST,
+TDS TELECOMIComcast
+Interconnection Agreement September 2009
+
+COM-42646 APPENDIX NIM
+PAGE 9
+to establish such Interconnection and the terms and conditions of this Agreement
+shall apply to such Interconnection.
+4.4 COMCAST and TDS TELECOM shall work cooperatively to install and maintain
+a reliable network. COMCAST and TDS TELECOM shall exchange appropriate
+information (e.g., maintenance contact numbers, network information,
+information required to comply with law enforcement and other security agencies
+of the federal and state government and such other information as the Parties shall
+mutually agree) to achieve this desired reliability.
+4.5 COMCAST and TDS TELECOM will review engineering requirements as
+required and establish semi-annual forecasts for facilities utilization provided
+under this Appendix.
+4.6 COMCAST and TDS TELECOM shall:
+4.6.1 Provide trained personnel with adequate and compatible test equipment to
+work with each other's technicians.
+4.6.2 Notify each other when there is any change affecting the service requested,
+including the due date.
+4.6.3 Recognize that a facility handoff point must be agreed to that establishes
+the demarcation for maintenance and provisioning responsibilities for each
+party on their side of the POI.
+5. JOINT FACILITY GROWTH PLANNING
+5.1 Facilities will be planned for in accordance with the trunk forecasts exchanged
+between the Parties and are to be deployed in accordance with the processes
+described in Appendix ITR.
+5.2 For a Fiber Meet Interconnection, an initial fiber optic system deployed for each
+Interconnection shall be agreed to by the Parties. The following lists the criteria
+and processes needed to satisfy additional capacity requirements beyond the initial
+system.
+5.2.1 Criteria:
+5.2.1.1 Investment is to be minimized.
+5.2.1.2 Facilities will be planned for in accordance with the trunk forecasts
+exchanged between the Parties as described in Appendix ITR and
+are to be deployed in accordance with the Processes described
+below.
+TDS TELECOMIComcast
+Interconnection Agreement September 2009
+
+COM-42646 APPENDIX NIM
+PAGE 10
+5.2.2 Processes:
+5.2.2.1 In addition to the semi-annual forecast process, discussions to
+provide relief to existing facilities can be initiated by either party.
+Actual system augmentations will be initiated upon mutual
+agreement.
+5.2.2.2 Both Parties will perform a jomt validation to ensure current
+Interconnection facilities and associated trunks have not been over-
+provisioned. If any facilities and/or associated trunks are over-
+provisioned, they will be turned down where appropriate. Trunk
+design blocking criteria described in Appendix ITR will be used in
+determining trunk group sizing requirements and forecasts.
+5.2.2.3 If, based on the forecasted equivalent DS-1 growth, the existing
+fiber optic system is not projected to exhaust within one year, the
+Parties will suspend further relief planning on this Interconnection
+until a date one (1) year prior to the projected exhaust date. If
+growth patterns change during the suspension period, either Party
+may re-initiate the joint planning process.
+5.2.2.4 If the placement of a minimum size system will not provide
+adequate augmentation capacity for the joint forecast over a two-
+year period and the forecast appears reasonable, the next larger
+system may be deployed. If the forecast does not justify a move to
+the next larger system, another appropriately sized system could be
+placed. This criterion assumes both Parties have adequate fibers
+for either scenario. If adequate fibers do not exist, both Parties
+would negotiate placement of additional fibers.
+5.2.2.5 Both Parties will negotiate a project service date and corresponding
+work schedule to construct relief facilities prior to facilities
+exhaust.
+5.2.2.6 The joint planning process/negotiations should be completed
+within two months of the initiation of such discussion.
+6. APPLICABILITY OF OTHERRATES,TERMSAND CONDITIONS
+6.1 Every interconnection and service provided hereunder shall be subject to all rates,
+terms and conditions contained in this Agreement which are legitimately related to
+such interconnection or service.
+TDS TELECOM/Comcast
+Interconnection Agreement September 2009
+
+COM-42646 APPENDIXNP
+PAGE 1
+APPENDIX NUMBER PORTABILITY
+TDS TELECOM/Comcast
+Interconnection Agreement September 2009
+
+COM-42646 APPENDIXNP
+PAGE 2
+TABLE OF CONTENTS
+1. INTRODUCTION 3
+2. LOCAL NUMBER PORTABILITy 3
+3. MASS CALLING 6
+4. APPLICABILITY OF OTHER RATES, TERMS AND CONDITIONS 6
+TDS TELECOM/Comcast
+Interconnection Agreement September 2009
+
+COM-42646 APPENDIXNP
+PAGE 3
+APPENDIXNP
+NUMBER PORTABILITY
+1. INTRODUCTION
+1.1 This Appendix sets forth terms and conditions for Number Portability provided by
+TDS TELECOM and COMCAST.
+1.2 The prices at which each Party agrees to provide the other Party with Number
+Portability are contained in the applicable Appendix PRICING and/or the
+applicable tariff where stated.
+2. LOCAL NUMBER PORTABILITY
+2.1 General Terms and Conditions
+2.2 The Parties agree to at all times adhere to all FCC orders, NANC and Industry
+Numbering Committee guidelines that establish the technology and standards for
+Local Number Portability.
+2.2.1 TDS TELECOM may cancel any line-based calling cards associated with
+telephone numbers ported from their switch.
+2.2.2 Complex ports require project management and will require negotiation of
+due date intervals. Complex ports include:
+2.2.2.1 Port requests of 51 or more numbers;
+2.2.2.2 Porting of 15 or more access lines for the same customer at the
+same location;
+2.2.2.3 Porting associated with complex services including but not limited
+to Centrex and ISDN.
+2.2.3 The Parties shall adhere to reserved number standards as set by the FCC.
+2.2.4 The Parties shall cooperate in performing activities required to port
+Customer telephone number(s). The primary responsibility for the
+coordination of such activities will be assumed by the Party porting in the
+Customer telephone number(s).
+2.3 Obligations of Both Parties
+2.3.1 When a ported telephone number becomes vacant, e.g., the telephone
+number is no longer in service by the original End User, the ported
+telephone number will be released back to the carrier to whom it was
+TDS TELECOM/Comcast
+Interconnection Agreement September 2009
+
+COM-42646 APPENDIXNP
+PAGE 4
+originally assigned after appropriate time has elapsed for intercept
+notification.
+2.3.2 Each Party has the right to block default routed calls (e.g. calls sent
+without the N-1 query being performed) from entering a network in order
+to protect the public switched network from overload, congestion, or
+failure propagation.
+2.3.3 Industry guidelines shall be followed regarding all aspects of porting
+numbers from one network to another.
+2.3.4 Intercompany testing shall be performed prior to the submission of actual
+porting orders.
+2.3.5 Each Party will designate a single point of contact (SPOC) to schedule and
+perform required testing. These tests will be performed during a mutually
+agreed time frame and must meet the criteria set forth by Local Number
+Portability Administration Working Group ("LNPA WG").
+2.3.6 Each Party shall abide by FCC accepted NANC and LNPA WG
+provisioning and implementation processes.
+2.3.7 Each Party shall become responsible for the End User's other
+telecommunications related items, e.g. E911, Directory Listings, Operator
+Services, Line Information Database (LIDB), when they port the End
+User's telephone number to their switch.
+2.3.8 The Parties will provide a 10-digit trigger on all LNP orders unless a
+coordinated conversion of numbers is requested on the PNP order. The 10-
+digit trigger will remain active on the porting-out Party's switch until the
+first business day following the port due date at which time the line shall
+be physically disconnected from the porting-out Party's switch.
+2.4 Limitations of Service
+2.4.1 Telephone numbers can be ported only within TDS TELECOM rate
+centers or rate districts, which ever is a smaller geographic area, as
+approved by the State Commission. If geographic number portability is
+ordered by the FCC or the Commission during the term of this Agreement,
+the Parties will promptly negotiate any necessary revisions to this
+appendix to accommodate geographic number portability. In the event the
+Parties are unable to negotiate such changes within thirty (30) days, either
+Party may invoke the dispute resolution procedures under this Agreement.
+TDS TELECOMIComcast
+Interconnection Agreement September 2009
+
+COM-42646 APPENDIXNP
+PAGES
+2.4.2 Telephone numbers with NXXs dedicated to chokelHigh Volume Call-In
+(RVCI) networks are not portable via LRN. Such numbers will be ported
+on an ICB basis upon request.
+2.5 Service Descriptions
+2.5.1 The N-1 carrier (N carrier is the responsible Party for terminating call to
+the End User) has the responsibility to determine if a query is required, to
+launch the query, and to route the call to the switch or network in which
+the telephone number resides.
+2.5.2 If a Party chooses not to fulfill its N-1 carrier responsibility, the other
+Party will perform queries on calls to telephone numbers with portable
+NXXs received from the N-1 carrier and route the call to the switch or
+network in which the telephone number resides. TDS TELECOM will
+perform LNP Query Service for COMCAST pursuant to the terms and
+conditions set forth in National Exchange Carrier Association (NECA)
+Tariff FCC No.5. COMCAST will perform N-1 responsibilities on the
+same terms as TDS TELECOM provides for in its applicable tariff.
+2.5.3 A Party shall be responsible for payment of charges to the other Party for
+any queries made on the N-l carrier's behalf when one or more telephone
+numbers have been ported in the called telephone number's NXX. Charges
+by each Party will be at the rate set forth in TDS TELECOM's applicable
+tariff.
+2.5.4 Both Parties shall populate the Jurisdictional Identification Parameter (JIP)
+field with the first six (6) digits (NPA NXX format) of the appropriate
+LRN of the originating switch for any ported telephone number.
+2.6 Pricing
+2.6.1 The price ofLNP queries shall be the same as those in NECA's FCC No.5
+Access Services Tariff in which TDS TELECOM is a concurring carrier.
+COMCAST will perform N-l queries at prices no higher than TDS
+TELECOM provides for in its applicable tariff.
+2.6.2 Other than standard Service Order charges for processing Local Service
+Requests (LSRs) as specified in Appendix Pricing, or a Party's applicable
+tariff, the Parties agree not to charge each other, or any of the other Party's
+End Users for the provisioning or conversion of ported telephone numbers
+during regular working hours. To the extent either Party requests porting
+to be performed outside of other Party's regular working hours, or the
+work requires the porting-out Party's technicians or project managers to
+TDS TELECOMIComcast
+Interconnection Agreement September 2009
+
+COM-42646 APPENDIXNP
+PAGE 6
+work outside of regular working hours, premium time and material charges
+shall apply.
+3. MASS CALLING
+3.1 General Terms and Conditions
+3.1.1 Mass calling codes, i.e., choke/HVCI NXXs, are used in a network serving
+arrangement in special circumstances where large numbers of incoming
+calls are solicited by an End User and the number of calls far exceeds the
+switching capacity of the terminating office, the number of lines available
+for terminating those calls, and/or the STP's query capacity to the LNP
+database. Number portability for mass calling codes will be done on an
+Individual Case Basis.
+4. APPLICABILITY OF OTHERRATES,TERMSAND CONDITIONS
+4.1 Every interconnection and service provided hereunder shall be subject to all rates,
+terms and conditions contained in this Agreement which are legitimately related to
+such interconnection or service.
+TDS TELECOM/Comcast
+Interconnection Agreement September 2009
+
+COM-42646 APPENDIX NUMBERING
+PAGE 1
+APPENDIX NUMBERING
+TDS TELECOMIComcast
+Interconnection Agreement September 2009
+
+COM-42646 APPENDIX NUMBERING
+PAGE 2
+TABLE OFCONTENTS
+1. INTRODUCTION 3
+2. GENERALTERMS AND CONDITIONS 3
+3. APPLICABILITY OF OTHERRATES,TERMSAND CONDITIONS 4
+TDS TELECOM/Comcast
+Interconnection Agreement September 2009
+
+COM-42646 APPENDIX NUMBERING
+PAGE 3
+APPENDIX NUMBERING
+1. INTRODUCTION
+1.1 This Appendix sets forth the terms and conditions under which TDS
+TELECOM and COMCAST will coordinate with respect to NXX
+assignments.
+2. GENERAL TERMS AND CONDITIONS
+2.1. Nothing in this Agreement shall be construed to limit or otherwise
+adversely impact in any manner either Party's right to employ or to request
+and be assigned any North American Numbering Plan (NANP) number
+resources from the numbering administrator including, but not limited to,
+central office (NXX) codes pursuant to the Central Office Code
+Assignment Guidelines, or to establish, by tariff or otherwise, Exchanges
+and Rating Points corresponding to such NXX codes. Each Party is
+responsible for administering the NXX codes it is assigned.
+2.2. Parties agree to adhere to all FCC orders, and NANC and INC Guidelines
+related to Central Office Code administration and Thousands-Block
+Number Pooling.
+2.3. Each Party is responsible to program and update its own switches and
+network systems to recognize and route traffic to the other Party at all
+times.
+2.4. Each Party is responsible to input required data into the Routing Data Base
+Systems (RDBS) and into the Telcordia Rating Administrative Data
+Systems (BRADS) or other appropriate system(s) necessary to update the
+Local Exchange Routing Guide (LERG).
+2.5. Neither Party is responsible for notifying the other Parties' End Users of
+any changes in dialing arrangements, including those due to NPA exhaust.
+2.6. Test Numbers
+2.6.1. Each Party is responsible for providing to the other, valid test
+numbers. One number terminating to a voice announcement
+identifying the Company and one number terminating to a
+milliwatt tone providing answer supervision and allowing
+simultaneous connection from multiple test lines. Both numbers
+TDS TELECOM/Comcast
+Interconnection Agreement September 2009
+
+COM-42646 APPENDIX NUMBERING
+PAGE 4
+should remam m service indefinitely for regressive testing
+purposes.
+3. APPLICABILITY OF OTHER RATES, TERMS AND CONDITIONS
+3.1 Every interconnection and service provided hereunder shall be subject to
+all rates, terms and conditions contained in this Agreement which are
+legitimately related to such interconnection or service.
+TDS TELECOM/Comcast
+Interconnection Agreement September 2009
+
+COM-42646 APPENDIX PRICING
+PAGE 1
+APPENDIX-PRICING
+TDS TELECOMIComcast
+Interconnection Agreement September 2009
+
+COM-42646 APPENDIX PRICING
+PAGE 2
+TABLE OF CONTENTS
+1. INTRODUCTION 3
+2. RECURRING CHARGES 3
+3. NON-RECURRING CHARGES 3
+4. BILLING 4
+5. APPLICABILITY OF OTHER RATES, TERMS AND CONDITIONS 4
+TDS TELECOM/Comcast
+Interconnection Agreement September 2009
+
+COM-42646 APPENDIX PRICING
+PAGE 3
+APPENDIX PRICING
+1. INTRODUCTION
+1.1 This Appendix sets forth the pricing terms and conditions for TDS TELECOM
+and COMCAST.
+1.2 If a rate element and/or charge for a product or service contained in, referenced to
+or otherwise provided by a Party under this Agreement (including any attached or
+referenced Appendices) is not listed in this Appendix PRICING, such rates and
+charges shall be determined in accordance with Section 252(d) of the Act;
+provided however, if a Party provides a product or service that is not subject to the
+pricing principles of the Act, such rate(s) and/or charges shall be as negotiated by
+the Parties hereto.
+1.3 Except as otherwise agreed upon by the Parties in writing or by the publication of
+or concurrence in tariffs or price lists filed with the FCC or the Commission, a
+Party shall not be required to provide the other Party a product or service under
+this Agreement unless and until the Parties have agreed upon a rate element or
+charge (whether a final rate/charge or, as agreed upon by the Parties, an interim
+rate/charge subject to a true-up, true-down) applicable to the requested product
+and/or service.
+1.4 The pricing list is in Attachment A found in this Appendix PRICING.
+2. RECURRING CHARGES
+2.1 Unless otherwise identified in Attachment A of this Appendix PRICING, where
+rates are shown as monthly, a month will be defined as a 30-day calendar month.
+The minimum term for each monthly rated element will be one (1) month. After
+the initial month, billing will be on the basis of whole or fractional months used.
+The minimum term for non-monthly rated services, if applicable, will be specified
+in the rate table included in this Appendix.
+2.2 Where rates are distance sensitive, the mileage will be calculated on the airline
+distance involved between the locations. To determine the rate to be billed, the
+Parties will first compute the mileage using the V&H coordinates method, as set
+forth in the National Exchange Carrier Association, Inc. Tariff FCC No 4. When
+the calculation results in a fraction of a mile, the fractional mileage will be
+rounded up to the next whole mile before determining the mileage and applying
+rates.
+3. NON-RECURRING CHARGES
+TDS TELECOMIComcast
+Interconnection Agreement September 2009
+
+COM-42646 APPENDIX PRICING
+PAGE 4
+3.1 Where rates consist of usage sensitive charges or per occurrence charges, such
+rates are classified as "non-recurring charges."
+3.2
+A party ("Submitting Party") shall pay a service order processing/administration
+charge for each service order submitted by Submitting Party to the other Party.
+3.3 Some items, which must be individually charged (e.g., extraordinary charges,
+COMCAST Changes, TDS TELECOM Changes, etc.), are billed as nonrecurring
+charges.
+3.4
+Time and Material charges (a.k.a. additional labor charges) are defined in the
+Pricing Attachment A.
+3.5 All charges assume work performed during normal business hours (8:00 AM to
+5:00 PM Monday through Friday) local time. For work requested outside of
+normal business hours or on weekends and holidays, premium rates will apply.
+4. BILLING
+4.1 For information regarding billing, non-payment, disconnects and dispute
+resolution, see the General Terms and Conditions of this Agreement.
+5. APPLICABILITY OFOTHER RATES,TERMSAND CONDITIONS
+5.1 Every interconnection and service provided hereunder shall be subject to all rates,
+terms and conditions contained in this Agreement which are legitimately related to
+such interconnection or service.
+TDS TELECOM/Comcast
+Interconnection Agreement September 2009
+
+COM-42646 TDS TELECOM- Com cast Appendix Pricing
+Contracted Interconnection Rates Attachment A
+TDS TELECOM-Comcast
+New Hampshire
+Monthly
+Recurring NonRecurring
+Local Service Non-Recurring Charges (see Appendix NP)
+Local Service Order (LSR)
+Per Initial Order: $13.00
+PerSupplemental Order: $5.00
+Directory Service Order (DSR)- per Order $5.00
+Miscellaneous Testing and other Additional Labor- each half hour orfraction
+thereof
+Overtime peremployee $ 32.90
+Premium Time peremployee $ 43.86
+RECIPROCAL COMPENSATION (see Appendix Recip Comp)
+Transit Traffic
+Perminute ofuse $0.0025
+Local Traffic Termination** BillandKeep"
+Should Local Traffic become outofbalance (>60/40) areciprocal LocalTraffic
+Termination rate shall bedeveloped andthis Attachment shall beupdated to
+incorporate such rate.
+WHITE PAGES (see Appendix WP)
+Directory
+Per book copy delivered to COMCAST End User $2.50
+I
+Per Book copy Delivered inBulktoCOMCAST $2.50*
+'5% discount onorders over 500
+PerSingle Sided Informational Page $100.00
+PERCENT LOCAL USAGE FACTOR (PLU) (See Appendix Recip Comp)
+TDS Telecom Originated- COMCAST Terminated Traffic (PLU) TBD
+COMCAST Originated- TDS Telecom Terminated Traffic (PLU) TBD
+TDS TELECOMI Comcast Interconnection Agreement
+
+COM-42646 APPENDIX RECIPROCAL COMPENSA nON
+PAGE 1
+APPENDIX
+RECIPROCAL COMPENSATION
+TDS TELECOM/Comcast
+Interconnection Agreement September 2009
+
+COM-42646 APPENDIX RECIPROCAL COMPENSATION
+PAGE 2
+TABLE OF CONTENTS
+1.INTRODUCTION 3
+2.TRANSMISSION AND ROUTING OF TELEPHONE EXCHANGE SERVICE TRAFFIC RELEVANT TO
+COMPENSATION 3
+3.RESPONSIBILITIES OF THE PARTIES 5
+4.LOCAL TRAFFIC COMPENSATION 6
+5.BILLING FOR MUTUAL COMPENSATION 7
+6.TRANSIT TRAFFIC COMPENSATION 9
+7.MEET-POINT BILLING (MPB) AND SWITCH ACCESS TRAFFIC COMPENSATION 9
+8.APPLICABILITY OF OTHER RATES TERMS AND CONDITIONS 10
+TDS TELECOM/Comcast
+Interconnection Agreement September 2009
+
+COM-42646 APPENDIX RECIPROCAL COMPENSA nON
+PAGE 3
+APPENDIX RECIPROCAL COMPENSATION
+(Mutual Compensation for Transport, Termination, and Transiting)
+1. INTRODUCTION
+1.1 This Appendix sets forth terms and conditions for Reciprocal Compensation
+provided by TDS TELECOM and COMCAST.
+2. TRANSMISSION AND ROUTING OF TELEPHONE EXCHANGE SERVICE
+TRAFFIC RELEVANT TO COMPENSATION
+2.1 The Telecommunications traffic exchanged between COMCAST and TDS
+TELECOM will be classified as Local Traffic, Tandem Transit Traffic, ISP-
+Bound Traffic, IP-Enabled Voice Traffic, intraLATA Toll Traffic, or interLATA
+Toll Traffic.
+2.1.1 "Local Traffic," for purposes of intercarrier compensation, is
+Telecommunications traffic originated by a End User Customer of one
+Party in an exchange on that Party's network and terminated to a End User
+Customer of the other Party on that other Party's network located within
+the same exchange or other non-optional extended local calling area
+associated with the originating customer's exchange as defined by TDS
+TELECOM's applicable local exchange tariff. Local Traffic does not
+include: (1) any ISP-Bound Traffic; (2) traffic that does not originate and
+terminate within the same TDS TELECOM local calling area as such local
+calling area is defined by TDS TELECOM's applicable local exchange
+tariff; (3) Toll Traffic, including, but not limited to, calls originated on a
+1+ presubscription basis, or on a casual dialed (1OXXXII01XXXX) basis;
+(4) optional extended local calling area traffic; (5) special access, private
+line, Frame Relay, ATM, or any other traffic that is not switched by the
+terminating Party; or, (6) Tandem Transit Traffic.
+2.1.2 "ISP-Bound Traffic" means traffic that originates from or is directed,
+either directly or indirectly, to or through an information service provider
+or Internet service provider (lSP) who is physically located in an exchange
+within the local calling area of the originating End User. Traffic
+originated from, directed to or through an ISP physically located outside
+the originating End User's local calling area will be considered toll traffic
+and subject to access charges. Subject to Section 4 of the General Terms
+and Conditions, the Parties rights and obligations with respect to
+intercarrier compensation that may be due in connection with their
+exchange of telecommunications traffic delivered to Internet Service
+Providers (ISPs) (Internet Traffic) shall be governed by the Order on
+Remand and Report and Order, In the Matter of Implementation of the
+Local Competition Provisions in the Telecommunications Act of 1996,
+TDS TELECOM/Comcast
+Interconnection Agreement September 2009
+
+COM-42646 APPENDIX RECIPROCAL COMPENSA nON
+PAGE 4
+Intercarrier Compensation for ISP Bound Traffic, FCC 01-131, CC
+Docket Nos. 96-98 and 99-68.
+2.1.3 For purposes of this Agreement and subject to Section 4 of the General
+Terms and Conditions of this Agreement, "IP-Enabled Voice Traffic"
+means any IP-enabled, real-time, multi-directional voice call, including,
+but not limited to, service that mimics traditional telephony. IP-Enabled
+Voice Traffic includes:
+2.1.3.1 Voice traffic originating on Internet Protocol Connection (IPC),
+and which terminates on the Public Switched Telephone Network
+(PSTN); and
+2.1.3.2 Voice traffic originated on the PSTN, and which terminates on
+IPC, and
+2.1.3.3 Voice traffic ongmating on the PSTN, which is transported
+through an IPC, and which ultimately, terminates on the PSTN.
+2.2 Reciprocal compensation applies for transport and termination of Local Traffic
+terminated by either Party's switch. The Parties agree that the jurisdiction of a call
+is determined by its originating and terminating (end-to-end) points, except to the
+extent that the Commission orders or authorizes otherwise. When an End User
+originates a call which terminates to an End User physically located in the same
+local calling area and served on the other Party's switch, the originating Party
+shall compensate the terminating Party for the transport and termination of Local
+Traffic in accordance with Section 4 of this Appendix.
+2.3 Intentionally left blank.
+2.4 Notwithstanding any other provision of the Agreement, Local Traffic does not
+include ISP-Bound Traffic. COMCAST and TDS TELECOM agree to terminate
+each other's ISP-Bound Traffic on a Bill and Keep basis of reciprocal
+compensation. "Bill and Keep" shall mean that the originating Party has no
+obligation to pay terminating charges to the terminating Party, regardless of any
+charges the originating Party may assess its End Users.
+2.5 When COMCAST establishes service in a new area, the Parties' obligation for
+reciprocal compensation to each other shall commence on the date the Parties
+agree that the network is complete (i.e., each Party has established its originating
+trunks as well as any ancillary functions (~, 9-1-1)) and is capable of fully
+supporting originating and terminating End Users' (and not a Party's test) traffic.
+If there is no formal agreement as to the date of network completion, it shall be
+TDS TELECOM/Comcast
+Interconnection Agreement September 2009
+
+COM-42646 APPENDIX RECIPROCAL COMPENSA nON
+PAGES
+considered complete no later than the date that live traffic first passes through the
+network.
+2.6 The compensation arrangements set forth in this Appendix are not applicable to (i)
+Exchange Access traffic, (ii) traffic originated by one Party on a number ported to
+its network that terminates to another number ported on that same Party's network
+or (iii) any other type of traffic found to be exempt from reciprocal compensation
+by the FCC or the Commission. All Exchange Access traffic and intraLATA Toll
+Traffic shall continue to be governed by the terms and conditions of applicable
+federal and state access tariffs. Optional calling plans, where applicable, will be
+classified as toll traffic.
+2.7 IP-Enabled Voice Traffic shall be assigned to the corresponding jurisdiction for
+compensation purposes, if all the signaling parameters are included with the
+traffic exchange. Calling Party Number ("CPN") and Jurisdictional Indicator
+Parameter ("JIP"), where applicable, of the originating IP-Enabled Voice Traffic
+shall indicate the geographical location of the actual IPC location, not the location
+where the call enters the PSTN. Where the CPN and the called party number are
+in the same exchange or other non-optional extended local calling area, the traffic
+shall be exchanged pursuant to Section 4 of this Appendix.
+2.8 Private Line Services include private line-like and special access services and are
+not subject to local reciprocal compensation. Private Line Services are defined as
+dedicated Telecommunications channels provided between two points or switched
+among multiple points and are used for voice, data, audio or video transmission.
+Private Line services include, but are not limited to, Wide Area
+Telecommunications Services (WATS) access lines.
+2.9 Except as provided otherwise in this Agreement, the Parties understand and agree
+that either Party, upon ten (10) days written notice to the other Party, may block
+any traffic that is improperly routed by the other Party over any trunk groups
+and/or which is routed outside of the mutual agreement of the Parties.
+Notwithstanding the forgoing, a denial by the noticed Party that traffic is being
+improperly routed shall invoke the dispute resolution procedures provided in
+Section 16 of the Agreement.
+2.10 Neither Party shall be obligated to compensate the other Party or any Third Party
+for telecommunications traffic that is inappropriately routed.
+3. RESPONSIBILITIES OFTHEPARTIES
+3.1 Each Party to this Appendix will be responsible for the accuracy and quality of its
+data as submitted to the respective Parties involved. It is the responsibility of each
+TDS TELECOM/Comcast
+Interconnection Agreement September 2009
+
+COM-42646 APPENDIX RECIPROCAL COMPENSA nON
+PAGE 6
+Party to originate and transmit complete and unaltered calling party number
+(CPN), as received by an originating party. Each Party is individually responsible
+to provide facilities within its network for routing, transporting, measuring, and
+billing traffic from the other Party's network and for delivering such traffic to the
+other Party's network as referenced in Telcordia Technologies BOC Notes on
+LEC Networks and to terminate the traffic it receives in that standard format to
+the proper address on its network. The Parties are each solely responsible for
+participation in and compliance with national network plans, including the
+Telecommunications Service Priority (TSP) System for National Security
+Emergency Preparedness (NSEP).
+3.2 Each Party is responsible to input required data into Routing Data Base Systems
+(RDBS) and into Telecordia Technologies Rating Administrative Data Systems
+(example: BRADS) or other appropriate system(s) necessary to update the Local
+Exchange Routing Guide.
+3.3 Neither Party shall use any Interconnection, function, facility, product, network
+element, or service provided under this Agreement or any other service related
+thereto or used in combination therewith in any manner that interferes with or
+impairs service over any facilities of either Party, its affiliated companies or other
+connecting telecommunications carriers, prevents any carrier from using its
+Telecommunication Service, impairs the quality or privacy of
+Telecommunications Service to other carriers or to either Party's End Users,
+causes hazards to either Party's personnel or the public, damage to either Party's
+or any connecting carrier's facilities or equipment, including any malfunction of
+ordering or billing systems or equipment. Upon such occurrence, either Party may
+discontinue or refuse service for so long as the other Party is violating this
+provision. Upon any such violation, either Party shall provide the other Party
+notice of the violation at the earliest practicable time.
+3.4 Each Party is solely responsible for the services it provides to its End Users and to
+other Telecommunications Carriers.
+3.5 Where SS7 connections exist, each Party will provide the other with the proper
+signaling information (e.g., originating Calling Party Number, JIP, where
+applicable, and destination called party number, etc.), to enable each Party to issue
+bills in a complete and timely fashion. All CCS signaling parameters will be
+provided including CPN, HP, where applicable, Originating Line Information
+Parameter (OLIP) on calls to 8XX telephone numbers, calling party category,
+Charge Number, etc. All privacy indicators will be honored.
+4. LOCAL TRAFFIC COMPENSATION
+TDS TELECOM/Comcast
+Interconnection Agreement September 2009
+
+COM-42646 APPENDIX RECIPROCAL COMPENSATION
+PAGE 7
+4.1 The rates, terms, conditions contained herein apply only to the transport and
+termination of Local Traffic on the Parties' networks. All applicable rate
+elements can be found in Appendix PRICING.
+4.2 Based on the assumption that the Local Traffic exchanged by the Parties will be
+roughly balanced (i.e., neither Party is terminating more than sixty percent (60%)
+of the Parties' total terminated minutes for Local Traffic), the Parties shall initially
+terminate each other's Local Traffic on a Bill and Keep basis.
+4.3 Either Party may request that a traffic study be performed no more frequently than
+once a quarter. Should such traffic study indicate, in the aggregate, that the traffic
+is no longer in balance, based on traffic exceeding the out-of-balance percentage
+for three (3) consecutive months, either Party may notify the other of their intent
+to bill for Local Traffic termination. At such time, the Parties shall mutually
+agree upon and amend Appendix PRICING to incorporate rates for transport and
+termination of Local Traffic which shall be utilized for the duration of the Term of
+this Agreement unless otherwise agreed by the Parties. A minimum of ninety (90)
+days written notice is required prior to the first billing of mutual compensation.
+4.4 End Office Termination Rate
+4.4.1 If the Parties invoke billing for Local Traffic termination pursuant to
+Section 4.3 of this Appendix, the End Office Termination rate applies to
+Local Traffic that is delivered to the Parties for termination at an End
+Office Switch. This includes direct-routed Local Traffic that terminates to
+offices that have combined Tandem Office Switch and End Office Switch
+functions.
+5. BILLING FOR MUTUAL COMPENSATION
+5.1 Direct Interconnection
+5.1.1 Where the Parties utilize Direct Interconnection for the exchange of traffic
+between their respective networks, each Party will calculate terminating
+interconnection minutes of use based on standard Automatic Message
+Accounting (AMA) recordings made within each Party's network. These
+recordings are the basis for each Party to generate bills to the other Party.
+For purposes of reciprocal compensation only, measurement of minutes of
+use over Local Interconnection Trunk Groups shall be in actual
+conversation seconds. The total conversation seconds over each individual
+Local Interconnection Trunk Group will be totaled for the entire monthly
+bill and then rounded to the next whole minute.
+5.1.2 Where SS7 connections exist between TDS TELECOM and COMCAST,
+if either Party fails to provide CPN (valid originating information) or JIP,
+TDS TELECOM/Comcast
+Interconnection Agreement September 2009
+
+COM-42646 APPENDIX RECIPROCAL COMPENSA nON
+PAGE 8
+where applicable, on at least ninety-five percent (95%) oftotal traffic, then
+traffic sent to the other Party without CPN or JIP (valid originating
+information) will be handled in the following manner.
+5.1.2.1 The remaining five percent (5%) of unidentified traffic will be
+treated as having the same jurisdictional ratio as the ninety-five
+(95%) of identified traffic.
+5.1.2.2 If the unidentified traffic exceeds five percent (5%) of the total
+traffic, fifty percent (50%) of the unidentified traffic shall be billed
+at a rate equal to interstate access charges and fifty percent (50%)
+shall be billed at a rate equal to intrastate access charges.
+5.1.2.3 The Parties will coordinate and exchange data as necessary to
+determine the cause of the CPN or JIP failure and to assist its
+correction.
+5.2 Indirect Interconnection
+5.2.1 Intentionally left blank.
+5.2.2 For any traffic exchanged between the Parties via third party tandems,
+each Party shall utilize records provided by the tandem operator to invoice
+for traffic terminating on its network. The Parties agree to accept the
+billing records from the tandem operator as representative of the traffic
+exchanged between the Parties.
+5.2.3 To calculate intrastate toll access charges, each Party shall provide to the
+other, within twenty (20) calendar days after the end of each quarter
+(commencing with the first full quarter after the effective date of this
+Agreement), a PLU (Percent Local Usage) factor. Each company should
+calculate the PLU factor on a LATA basis using their originating
+IntraLATA minutes of use. The Parties shall provide a separate PLU for
+each TDS TELECOM operating company covered under this Agreement.
+The percentage of originating Local Traffic plus ISP-Bound Traffic to total
+intrastate (Local Traffic, ISP-Bound Traffic, and intraLATA toll)
+originating traffic would represent the PLU factor.
+5.3 Audits of usage associated with Reciprocal Compensation shall be performed as
+specified in § 38 of the General Terms and Conditions of this Agreement.
+5.4 The Parties shall be governed by applicable state and federal rules, practices, and
+procedures regarding the provision and recording of billing records. Neither Party
+shall bill for records older than one hundred eighty (180) days.
+TDS TELECOM/Corncast
+Interconnection Agreement September 2009
+
+COM-42646 APPENDIX RECIPROCAL COMPENSA nON
+PAGE 9
+6. TRANSIT TRAFFIC COMPENSATION
+6.1 Transiting service allows one Party to send or receive Local Traffic to or from a
+third party network through the other Party's tandem. A transit rate element as
+set forth in Appendix Pricing applies to all MOUs between a Party and third party
+networks that transit the other Party's tandem. The originating Party is
+responsible for payment of the appropriate rates unless otherwise specified herein.
+The Transiting rate element is only applicable when calls do not originate with (or
+terminate to) the transit Party's End User. The rates that TDS shall charge for
+transiting Comcast traffic are outlined in Appendix Pricing.
+6.2 The Parties agree to establish appropriate billing relationships directly with third
+party Telecommunications carriers. In the event one Party originated traffic that
+transits the second Party's network to reach a third party Telecommunications
+Carrier with whom the originating Party does not have a traffic exchange
+agreement, then the originating Party will indemnify the second Party against any
+and all charges levied by such third party telecommunications carrier, including
+any termination charges related to such traffic and any attorneys fees and
+expenses. The terminating party and the tandem provider will bill their respective
+portions of the charges directly to the originating party.
+7. MEET-POINT BILLING (MPB) AND SWITCH ACCESS TRAFFIC
+COMPENSATION
+7.1 Intercarrier compensation for Switched Access Traffic shall be on a MPB basis as
+described below
+7.2 The Parties will establish MPB arrangements in order to provide Switched Access
+Services to IXC in accordance with the MPB guidelines as set forth in the
+Ordering and Billing Forum's MECOD and MECAB documents.
+7.3 Billing to IXC for Switched Exchange Access Services jointly provided by the
+Parties via MPB arrangement shall be according to the multiple bill/multiple tariff
+method. As described in the MECAB document, each Party will render a bill in
+accordance with the applicable tariff for that portion of the service it provides.
+Each Party will bill the applicable network access service rates to the IXC. The
+network interconnection charge NIC if any, will be billed by the party providing
+the end office function. For the purpose of the Appendix, Comcast is the Initial
+Billing Company (IBC) and TDS is the Subsequent Billing Company.
+7.4 As detailed in MECAB document, the Parties will, in accordance with appropriate
+billing cycle intervals defined herein, exchange all information necessary to
+accurately, reliably and promptly bill IXCs for Switched Access Services traffic
+jointly handled by the Parties via the Meet Point arrangement. Information shall
+be exchanged in a mutually acceptable electronic file transfer protocol. Where the
+TDS TELECOM/Comcast
+Interconnection Agreement September 2009
+
+COM-42646 APPENDIX RECIPROCAL COMPENSA nON
+PAGE 10
+EMI records cannot be transferred due to a transmission failure, records can be
+provided via a mutually acceptable medium. The IBC will provide the
+information to the subsequent billing company within ten (10) working days of
+sending the IBC's bills. The exchange of records to accommodate MPB will be
+on a reciprocal, no charge basis.
+7.5 MPB shall also apply to all jointly provided MOU traffic bearing the 500, 700,
+900 or toll free NPAs (e.g. 800, 877, 866, 888 NPAs or any other non-geographic
+NPAs) which may likewise be designated for such traffic in the future where the
+responsible party is an IXC.
+7.6 Each Party shall coordinate and exchange the billing account reference (BAR) and
+billing account cross reference (BACR) numbers for the Meet Point Billing
+service. Each Party shall notify the other if the level of billing or other
+BARJBACR elements change, resulting is a new BARJBACR number.
+7.7 For purposes of this Appendix, the Party to whom the End Office Switch belongs
+is the IBC and the Party to whom the Tandem Office Switch belongs is the
+secondary billing company. The secondary billing company will provide the IBC
+with the Exchange Access detailed usage data within thirty (30) days of the
+recording date. The IBC will provide to the secondary billing company the
+Exchange Access summary usage date within ten (10) working days of the IBC's
+bill date to the IXC.
+8. APPLICABILITY OF OTHERRATESTERMSAND CONDITIONS
+8.1 Every interconnection and service provided hereunder shall be subject to all rates,
+terms and conditions contained in this Agreement which are legitimately related to
+such interconnection or service.
+TDS TELECOM/Comcast
+Interconnection Agreement September 2009
+
+COM-42646 APPENDIX WP
+PAGE 1
+APPENDIXWP
+TDS TELECOM/Comcast
+Interconnection Agreement September 2009
+
+COM-42646 APPENDIXWP
+PAGE 2
+TABLEOF CONTENTS
+1. INTRODUCTION 3
+2. SERVICEPROVIDED 3
+3. USEOF SUBSCRIBERLISTING INFORMATION 6
+4. PRICING 7
+5. LIABILITY & INDEMNIFICATION 7
+6. BREACHOF CONTRACT 8
+7. TERM 8
+8. APPLICABILITY OF OTHER RATES,TERMSANDCONDITIONS 8
+TDS TELECOM/Comcast
+Interconnection Agreement September 2009
+
+COM-42646 APPENDIX WP
+PAGE 3
+APPENDIXWP
+(WHITE PAGES DIRECTORy)
+1. INTRODUCTION
+1.1 This Appendix sets forth terms and conditions that shall apply to COMCAST for
+inclusion of End User Listings in TDS TELECOM White Page Telephone
+Directories and Directory Assistance databases provided by TDS TELECOM.
+1.2 The prices at which TDS TELECOM agrees to provide COMCAST with White
+Page and Directory Assistance database services are contained in the applicable
+Appendix PRICING.
+2. SERVICE PROVIDED
+2.1 TDS TELECOM publishes White Pages (WP) directories for geographic areas in
+which COMCAST also provides local exchange telephone service, and
+COMCAST wishes to include alphabetical listings information for its End Users
+in the appropriate TDS TELECOM WP directories and/or Directory Assistance
+databases.
+2.2 COMCAST also desires distribution to its End Users of the WP directories that
+include listings of COMCAST's End Users.
+2.3 TDS TELECOM shall provide COMCAST and its End Users access to WP
+and/or directory listings under the following terms:
+2.3.1 COMCAST shall furnish to TDS TELECOM via a Local Service Request
+(LSR) or Directory Service Request (DSR) all new, changed and deleted
+subscriber listing information pertaining to COMCAST End Users located
+within the local directory scope, along with such additional information as
+TDS TELECOM may require to prepare and print the alphabetical listings
+of said directory. COMCAST may provide COMCAST's subscriber listing
+information to TDS TELECOM for inclusion in the WP directory up to ten
+(10) days prior to the business office close date. Either the LSR or DSR
+service order charges as set forth in Appendix PRICING shall apply. For
+purposes of clarification, if COMCAST provides the subscriber list
+information on the LSR, only the LSR order charge shall apply. In such
+case, there is no additional DSR order charge. TDS TELECOM will
+provide the business office close date(s) to COMCAST for the WP
+directory immediately following the execution of this Agreement by both
+Parties and, following that, once annually at least one-hundred twenty
+(120) days in advance of future business office close dates.
+TDS TELECOM/Comcast
+Interconnection Agreement September 2009
+
+COM-42646 APPENDIX WP
+PAGE 4
+2.3.2 So long as COMCAST provides listing information to TDS TELECOM as
+set forth above, TDS TELECOM will include in appropriate WP
+directories the primary alphabetical listings of all COMCAST End Users
+located within the local directory scope. TDS TELECOM will also
+include, where applicable for COMCAST business End Users, one
+alphabetical, non-bold yellow page listing on the same basis as provided
+for TDS TELECOM business End Users.
+2.3.3 COMCAST's End Users' primary listing shall be included in the
+appropriate TDS TELECOM WP directory at no additional charge to
+COMCAST or COMCAST's End Users. Additional, designer and foreign
+listings will be offered by TDS TELECOM upon request at tariffed rates
+as set forth in applicable TDS TELECOM General Subscriber Services
+Tariffs.
+2.3.4 COMCAST's End User listings will be alphabetically interfiled with TDS
+TELECOM's subscriber listings of the WP directory. After the business
+office close date for a particular directory, TDS TELECOM shall provide
+COMCAST the directory publisher's interfiled proof of the subscriber
+listings as such listings are to appear in the directory. The verification list
+shall also include Directory Delivery Address information for each
+COMCAST End User. COMCAST shall review this verification list upon
+receipt and shall submit to TDS TELECOM any necessary additions,
+deletions or modifications within five (5) Business Days.
+2.3.5 Each COMCAST subscriber will receive one copy per primary End User
+listing of TDS TELECOM's WP directory in the same manner and at the
+same time that they are delivered to TDS TELECOM's subscribers during
+the annual delivery of newly published directories. TDS TELECOM has
+no obligation to provide any additional WP directories above the
+directories provided to COMCAST or COMCAST customers after each
+annual distribution of newly published WP. For WP directories and/or
+WP directories that are co-bound with Yellow Pages, COMCAST may
+provide to TDS TELECOM written specifications of the total number of
+directories that it will require, at least sixty (60) days prior to the business
+office directory close date. In that event, TDS TELECOM will deliver the
+remaining directories included in the COMCAST's order in bulk to an
+address specified by COMCAST.
+2.3.6 TDS TELECOM will provide COMCAST with l/Sth page in each
+directory (where COMCAST has or plans to have local telephone
+exchange customers) for COMCAST to include COMCAST specific-
+information (i.e., business office, residence office, repair bureau, etc.) in
+the WP directory on an "index-type" informational page. No advertising
+will be permitted on such informational page. This page will also include
+TDS TELECOM/Comcast
+Interconnection Agreement September 2009
+
+COM-42646 APPENDIXWP
+PAGE 5
+specific information pertaining to other CLECs. At its option, COMCAST
+shall provide TDS TELECOM with its logo and information in the form of
+a camera-ready copy, sized at 1/8th of a page. The content of COMCAST's
+camera-ready copy shall be subject to TDS TELECOM's approval, which
+shall not umeasonably be withheld.
+2.3.7 At its request, COMCAST may purchase "Informational Page(s)" in the
+informational section of the WP directory covering a geographic area
+where COMCAST provides local telecommunications exchange service.
+Such page(s) shall be no different in style, size, color and format than TDS
+TELECOM's "Informational Pages". Sixty (60) calendar days prior to the
+business office directory close date, COMCAST shall provide to TDS
+TELECOM the "Informational Page" in the form of camera-ready copy.
+2.3.8 At no additional charge to COMCAST or COMCAST's End Users, TDS
+TELECOM will include and maintain COMCAST End User listings in
+TDS TELECOM's Directory Assistance databases. To the extent that TDS
+TELECOM's directory assistance listings are maintained in a database
+administered by a third party, COMCAST shall cooperate with TDS
+TELECOM as needed to have COMCAST listings loaded into such
+database. COMCAST shall provide such Directory Assistance listings to
+TDS TELECOM at no charge.
+2.3.8.1 The Parties acknowledge that at the time of execution of this
+Agreement, TDS TELECOM is unable to load CLEC End User
+listings into the Directory Assistance database administered by
+Verizon, or its successor Fairpoint.
+2.3.8.2 TDS TELECOM agrees to use commercially reasonable efforts to
+establish a Directory Assistance database feed with Verizon
+(Fairpoint) and upon completion shall include CLEC listing
+information on the same basis as TDS TELECOM provides for its
+customer listings.
+2.3.8.3 Until such time as TDS Telecom is able to load CLEC customer
+listings into the DA database administered by Verizon (Fairpoint)
+TDS Telecom shall process CLEC Local Service Orders at a
+reduced rate of $101LSR and Directory Service Orders at no
+charge. Upon written notice to CLEC indicating that the DA
+database feed has been established CLEC shall within thirty (30)
+days provide a written response to TDS Telecom as to whether
+CLEC will use the TDS Telecom interface of loading CLEC
+customer listings into the DA database and all subsequent service
+orders will be assessed the rates listed in Appendix Pricing. If no
+response is provided by the CLEC within thirty (30) days of such
+TDS TELECOMIComcast
+Interconnection Agreement September 2009
+
+COM-42646 APPENDIX WP
+PAGE 6
+notice of availability from TDS Telecom, all subsequent service
+orders will be assessed the rates listed in Appendix Pricing.
+Notwithstanding the foregoing, CLEC, in its sole discretion, may
+elect in writing not to use the TDS Telecom interface for loading
+CLEC customer listings into the DA database in which case service
+order pricing shall continue at the reduced rate of $10/LSR and
+Directory Service Orders at no charge.
+2.3.9 COMCAST shall provide to TDS TELECOM, pursuant to the LSR or
+DSR provisioning process as described in Section 2.3.1 above, the names,
+addresses and telephone numbers of all End Users who wish to be listed in
+the directory assistance database but omitted from publication in WP
+directories (Non-published). Non-Published listings will be subject to the
+rates as set forth in TDS TELECOM's applicable General Subscriber
+Services Tariff. Comcast is responsible to properly reflect in the LSRs or
+DSRs where the name, address and telephone number(s) of its End User is
+omitted from the directory assistance database or the WP directories.
+COMCAST need not provide names, address and telephone numbers of
+End Users who wish to be omitted from both the directory assistance
+database and WP directories.
+3. USE OF SUBSCRIBER LISTINGINFORMATION
+3.1 COMCAST authorizes TDS TELECOM to include and use the subscriber listing
+information provided to TDS TELECOM pursuant to this Appendix in TDS
+TELECOM's appropriate printed WP directory and Directory Assistance
+database(s). Included in this authorization is the exchange of extended area
+service listings TDS TELECOM provides for Independent Company directory
+publications and release of COMCAST listings to requesting competing carriers
+solely as required by Section 251(b)(3) and any applicable state regulations and
+orders. Also included in this authorization is TDS TELECOM's use of
+COMCAST's subscriber listing information in TDS TELECOM's current and
+future directory.
+3.2 TDS TELECOM will take appropriate measures to guard against any
+unauthorized use of COMCAST's directory listing information using the same
+measures and at the same level of confidentiality that TDS TELECOM affords its
+own directory listing information.
+TDS TELECOM/Comcast
+Interconnection Agreement September 2009
+
+COM-42646 APPENDIX WP
+PAGE 7
+4. PRICING
+4.1 The rates for the services described herein are identified in Appendix PRICING.
+If COMCAST provides its subscriber listing information to TDS TELECOM's
+listings database, TDS TELECOM will assess a per book copy, per subscriber
+line, charge at the time newly published directories are distributed to COMCAST
+End Users listed in the directory, plus an annual, per book copy charge at the time
+directories are delivered in bulk to COMCAST. Included in this rate, COMCAST
+will receive for its End User, one primary listing in TDS TELECOM's WP
+directory; and, at the time of annual distribution of newly published directories,
+one copy of the directory provided to either COMCAST's End Users, or in bulk to
+the COMCAST location. TDS TELECOM has no obligation to warehouse WP
+directories for COMCAST or provide WP directories to COMCAST's End Users
+subsequent to the annual distribution of newly published directories.
+4.2 TDS TELECOM has no obligation to provide any additional WP directories
+above the number of directories distributed to the COMCAST End Users or
+forecast by COMCAST per Section 2.3.5 above. While TDS TELECOM has no
+obligation to provide WP directories to COMCAST or COMCAST's End Users
+after the annual distribution of newly published directories, TDS TELECOM will
+in good faith attempt to accommodate COMCAST requests for "Subsequent"
+directory orders (orders placed after the initial order/forecast is provided - see
+Section 2.3.5 above). Orders for directories above the forecast number(s) will be
+filled subject to availability. In such event, TDS TELECOM will provide the
+directories in bulk to COMCAST and will assess a per book charge.
+5. LIABILITY & INDEMNIFICATION
+5.1 COMCAST hereby releases TDS TELECOM from any and all liability for
+damages due to errors or omissions in COMCAST's subscriber listing
+information as provided to TDS TELECOM under this Appendix, and/or
+COMCAST's subscriber listing information as it appears in the WP directory,
+including, but not limited to, special, indirect, consequential, punitive or
+incidental damages. The above notwithstanding, TDS TELECOM shall
+indemnify COMCAST for claims by third parties for errors in directory listings to
+the extent, and only to the extent, such claims are caused by the intentionally
+wrongful acts or gross negligence of TDS TELECOM or its employees.
+5.2 This Appendix shall not establish, be interpreted as establishing, or be used by
+either Party to establish or to represent their relationship as any form of agency,
+partnership or joint venture. Neither Party shall have any authority to bind the
+other nor to act as an agent for the other unless written authority, separate from
+this Appendix, is provided. Nothing in the Appendix shall be construed as
+providing for the sharing of profits or losses arising out of the efforts of either or
+TDS TELECOM/Comcast
+Interconnection Agreement September 2009
+
+COM-42646 APPENDIXWP
+PAGE 8
+both of the Parties. Nothing herein shall be construed as making either Party
+responsible or liable for the obligations and undertakings of the other Party.
+6. BREACH OF CONTRACT
+6.1 If either Party is found to have materially breached this Appendix and the
+breaching Party fails to cure the breach within thirty (30) calendar days after
+receipt of notice from the other Party, the non-breaching Party may terminate the
+Appendix by providing written notice to the breaching Party, whereupon this
+Appendix shall be null and void with respect to any issue of TDS TELECOM's
+WP directory published sixty (60) or more calendar days after the date of receipt
+of such written notice.
+7. TERM
+7.1 The term of this Appendix shall be coterminous with the term of the
+Interconnection Agreement. Upon termination, where no successor
+interconnection agreement is being negotiated, arbitrated or adopted, TDS
+TELECOM shall cease using, for any purpose whatsoever, the subscriber listing
+information provided hereunder by COMCAST, and shall promptly return such
+subscriber listing information to the COMCAST.
+7.2 Upon termination of the Interconnection Agreement, where no successor
+interconnection agreement is being negotiated, arbitrated or adopted, this
+Appendix will be null and void with respect to any issue of directories published
+thereafter, except that the indemnification provided by Section 6 herein shall
+continue with respect to any directory published within one hundred and twenty
+(120) calendar days of termination.
+8. APPLICABILITY OF OTHERRATES,TERMSAND CONDITIONS
+8.1 Every interconnection and service provided hereunder shall be subject to all rates,
+terms and conditions contained in this Agreement which are legitimately related to
+such interconnection or service.
+TDS TELECOM/Comcast
+Interconnection Agreement September 2009

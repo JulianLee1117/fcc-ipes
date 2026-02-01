@@ -1,0 +1,574 @@
+Contract Id: 4954102
+Signature Page/AT&T-21STATE
+Page 1 of 2
+VISION CTS, LLC
+Version: 4Q15 – 10/20/15
+AMENDMENT
+BETWEEN
+THE OHIO BELL TELEPHONE COMPANY D/B/A AT&T OHIO
+AND
+VISION CTS, LLC
+
+Contract Id: 4954102
+Signature Page/AT&T-21STATE
+Page 2 of 2
+VISION CTS, LLC
+Version: 4Q15 – 10/20/15
+Signature: _e_S_i_g_n_e_d_ _-_ C__h_a_d_ C__. _B_r_o_w_n__fi_e_ld________ Signature: _e_S_i_g_n_e_d_ _-_ W__il_li_a_m__ B_o__c_k_e_lm__a_n_____________
+Name: _e_S_ig__n_e_d_ -_ _C_h_a_d_ _C_._ _B_r_o_w_n_f_ie_l_d___________ Name: _e_S_i_g_n_e_d_ _-_ W__il_li_a_m__ B_o__c_k_e_lm__a_n________________
+(Print or Type) (Print or Type)
+Title: _O_p_e_r_a_t_io_n_s_ _M__a_n_a_g_e_r____________________ Title: D__IR__-_IN__T_E_R__C_O__N_N_E__C_T_I_O__N_ _A_G_R__E_E__M_E__N_T_S______
+(Print or Type) (Print or Type)
+Date: _0_7_ _J_a_n_ 2_0__1_7___________________________ Date: _1_0_ _J_a_n_ 2_0__1_7________________________________
+Vision CTS, LLC The Ohio Bell Telephone Company d/b/a AT&T OHIO
+by AT&T Services, Inc., its authorized agent
+State Resale OCN CLEC OCN
+OHIO 570H 569H
+Description ACNA Code(s)
+ACNA(s) VVC
+
+Contract Id: 4954102
+Amendment – Lifeline/Link Up, Forbearance and CIS/AT&T-21STATE
+Page 1 of 3
+VISION CTS
+Version: 10/25/16
+AMENDMENT TO THE AGREEMENT
+BETWEEN
+VISION CTS, LLC
+AND
+THE OHIO BELL TELEPHONE COMPANY D/B/A AT&T OHIO
+This amendment (“Amendment”) amends the Interconnection Agreement by and between The Ohio Bell Telephone
+Company d/b/a AT&T OHIO (“AT&T”) and Vision CTS, LLC (“CLEC”). AT&T and CLEC are hereinafter referred to collectively
+as the “Parties” and individually as a “Party.”
+WHEREAS, AT&T and CLEC are Parties to an Interconnection Agreement under Sections 251 and 252 of the
+Communications Act of 1934, as amended (the “Act”), approved July 22, 2015 and as subsequently amended (“Agreement”);
+and
+WHEREAS, the Parties desire to amend the Agreement to implement the Lifeline and Link Up Reform and Modernization
+et al., WC Docket No. 11-42 et al., Second Report and Order, FCC 15-71, Released June 22, 2015 (“FCC Lifeline Order”);
+and
+WHEREAS, the Parties desire to amend the Agreement to implement the Petition of USTelecom for Forbearance
+Pursuant to 47 U.S.C. § 160(c) from Enforcement of Obsolete ILEC Legacy Regulations That Inhibit Deployment of Next-
+Generation Networks, WC Docket No. 14-192, Released December 28, 2015 (“FCC US Telecom Forbearance Order”), and
+WHEREAS, the Parties desire to modify certain provisions related to Customer Information Services pursuant to WC
+Docket No. 16-13, approved March 15, 2016.
+NOW, THEREFORE, in consideration of the promises and mutual agreements set forth herein, the Parties agree to
+amend the Agreement as follows:
+1. The Amendment is composed of the foregoing recitals, the terms and conditions, contained within, Exhibit A -
+Customer Information Services and Exhibit B - Pricing Sheet, all of which are hereby incorporated within this
+Amendment by this reference and constitute a part of this Amendment.
+2. Lifeline and Link Up Services
+2.1. Delete the rates, terms and conditions related to Lifeline and Link Up service offerings from the Agreement.
+Lifeline and Link Up service will no longer be available under the Agreement beginning 180 days after
+Federal Register publication of the Office of Management and Budget’s (OMB) approval.
+3. Forbearance
+3.1. Delete the rates, terms and conditions related to the unbundling of a 64 kbps voice-grade channel to provide
+narrowband services over fiber where an incumbent LEC retires a copper loop it has overbuilt with a fiber-
+to-the-home or fiber-to-the-curb loop.
+4. Termination of Agreement After Initial Term Expiration
+4.1. Sections 8.4.3 and 8.4.5 of the General Terms and Conditions of the Agreement is hereby amended and
+restated as follows:
+8.4.3 If at any time within one hundred and eighty (180) days or any time thereafter of the expiration of
+the Term, if either Party serves “Notice of Expiration” or Notice of Termination (if served after
+Expiration), CLEC shall have ten (10) calendar days to provide AT&T-21STATE written
+confirmation to the Notice of Expiration indicating if CLEC wishes to pursue a successor agreement
+with AT&T-21STATE or terminate its Agreement. CLEC shall identify the action to be taken in
+each of the applicable state(s). If CLEC wishes to pursue a successor agreement with AT&T-
+21STATE, CLEC shall attach to its written confirmation or Notice of Expiration, a written request to
+commence negotiations with AT&T-21STATE under Sections 251/252 of the Act and identify each
+
+Contract Id: 4954102
+Amendment – Lifeline/Link Up, Forbearance and CIS/AT&T-21STATE
+Page 2 of 3
+VISION CTS
+Version: 10/25/16
+of the state(s) to which the successor agreement will apply. Upon receipt of CLEC’s Section
+252(a)(1) request, the Parties shall commence good faith negotiations for a successor agreement.
+8.4.5 Either on or following the expiration date of this Agreement, if the Parties have not entered into a
+new agreement or are not in Active Negotiations as described in Section 8.4.4 above, the
+Agreement shall remain in full force and effect on a month to month basis unless both Parties
+mutually agree to terminate, or either Party provides “Notice of Termination” as provided for in
+Section 8.4.
+5. Customer Information Services (CIS)
+5.1. With the exception of 5.3 herein, delete all rates, terms and conditions pertaining to Customer Information
+Services, including but not limited to services related to Operator Services (OS), Directory Assistance (DA),
+Directory Assistance Listings (DAL), Inward Assistance Operator Services (INW) and White Pages (e.g.,
+Busy Line Verification (BLV), Busy Line Verification/Interrupt (BLV/I), etc.) from the Agreement.
+5.2. Add Attachment 06 - Operator Services and Directory Assistance (OS/DA), attached hereto as Exhibit A;
+and the Operator Services and Directory Assistance (OS/DA) rates reflected in the Pricing Sheet, attached
+hereto as Exhibit B, to the Agreement.
+5.3. Add the following provisions to the Attachment or Appendix for Resale
+CIS.1 For Resale service, AT&T will provide Customer Information Services to CLEC’s End Users where
+technically feasible and/or available to AT&T retail End Users. Dialing, response, and sound
+quality will be provided in parity to AT&T retail End Users.
+CIS.2 CLEC is solely responsible for the payment of all charges for all services furnished under this
+Attachment, including but not limited to calls originated or accepted at CLEC’s location and its End
+Users’ service locations.
+CIS.3 Interexchange carrier traffic (e.g., sent-paid, information services and alternate operator services
+messages) received by AT&T for billing to Resale End User accounts will be returned as unbillable
+and will not be passed to CLEC for billing. An unbillable code will be returned with those messages
+to the carrier indicating that the messages were generated by a Resale account and will not be
+billed by AT&T.
+CIS.4 AT&T shall not be responsible for the manner in which utilization of Resale Services or the
+associated charges are allocated to End Users or others by CLEC. Applicable rates and charges
+for services provided to CLEC under this Attachment will be billed directly to CLEC and shall be the
+responsibility of CLEC.
+CIS.5 Charges billed to CLEC for all services provided under this Attachment shall be paid by CLEC
+regardless of CLEC’s ability or inability to collect from its End Users for such services.
+CIS.6 If CLEC does not wish to be responsible for payment of charges for calling card, collect, or third
+number billed calls (Alternately Billed Traffic or “ABT”) or toll and information services (for example,
+900 calls), CLEC must order the appropriate available blocking for lines provided under this
+Attachment and pay any applicable charges. It is the responsibility of CLEC to order the
+appropriate toll restriction or blocking on lines resold to End Users. CLEC acknowledges that
+blocking is not available for certain types of calls, including without limitation 800, 888, 411 and
+Directory Assistance Express Call Completion. Depending on the origination point, for example,
+calls originating from correctional facilities, some calls may bypass blocking systems. CLEC
+acknowledges all such limitations and accepts all responsibility for any charges associated with
+calls for which blocking is not available and any charges associated with calls that bypass blocking
+systems.
+6. There shall be no retroactive application of any provision of this Amendment prior to the Effective Date of an adopting
+CLEC’s agreement.
+
+Contract Id: 4954102
+Amendment – Lifeline/Link Up, Forbearance and CIS/AT&T-21STATE
+Page 3 of 3
+VISION CTS
+Version: 10/25/16
+7. This Amendment shall be deemed to revise the terms and provisions of the Agreement only to the extent necessary
+to give effect to the terms and provisions of this Amendment. In the event of a conflict between the terms and
+provisions of this Amendment and the terms and provisions of the Agreement (including all incorporated or
+accompanying Appendices, Addenda, and Exhibits to the Agreement), this Amendment shall govern, provided,
+however, that the fact that a term or provision appears in this Amendment but not in the Agreement, or in the
+Agreement but not in this Amendment, shall not be interpreted as, or deemed grounds for finding, a conflict for
+purposes of this Amendment.
+8. In entering into this Amendment, neither Party waives, and each Party expressly reserves, any rights, remedies or
+arguments it may have at law or under the intervening law or regulatory change provisions in the underlying
+Agreement (including intervening law rights asserted by either Party via written notice predating this Amendment)
+with respect to any orders, decisions, legislation or proceedings and any remands thereof, which the Parties have not
+yet fully incorporated into this Agreement or which may be the subject of further review.
+9. This Amendment shall not modify or extend the Effective Date or Term of the underlying Agreement, but rather, shall
+be coterminous with such Agreement.
+10. EXCEPT AS MODIFIED HEREIN, ALL OTHER TERMS AND CONDITIONS OF THE UNDERLYING AGREEMENT
+SHALL REMAIN UNCHANGED AND IN FULL FORCE AND EFFECT.
+11. Signatures by all Parties to this Amendment are required to effectuate this Amendment. This Amendment may be
+executed in counterparts. Each counterpart shall be considered an original and such counterparts shall together
+constitute one and the same instrument.
+12. For Ohio: Based on the Public Utilities Commission of Ohio Rules, the Amendment is effective upon filing and is
+deemed approved by operation of law on the 91st day after filing.
+
+Contract Id: 4954102
+Exhibit A
+Attachment 06 – OS/DA/AT&T-21STATE
+Page 1 of 9
+VISION CTS
+Version: 3Q16 - CLEC ICA – 9/19/16
+ATTACHMENT 06 – OPERATOR SERVICES AND
+DIRECTORY ASSISTANCE
+(f/k/a CUSTOMER INFORMATION SERVICES)
+
+Contract Id: 4954102
+Exhibit A
+Attachment 06 – OS/DA/AT&T-21STATE
+Page 2 of 9
+VISION CTS
+Version: 3Q16 - CLEC ICA – 9/19/16
+TABLE OF CONTENTS
+Section Page Number
+1.0 Introduction .................................................................................................................................................. 3
+2.0 Definitions .................................................................................................................................................... 3
+3.0 Operator Services (OS) / Directory Assistance (DA) ................................................................................. 4
+4.0 LISTINGS ...................................................................................................................................................... 7
+5.0 General Conditions for Operator Services (OS), Directory Assistance (DA) .......................................... 9
+6.0 Termination – Entire Attachment 06 – Operator Assistance and Directory Assistance Services ........ 9
+
+Contract Id: 4954102
+Exhibit A
+Attachment 06 – OS/DA/AT&T-21STATE
+Page 3 of 9
+VISION CTS
+Version: 3Q16 - CLEC ICA – 9/19/16
+1.0 INTRODUCTION
+1.1 This Attachment sets forth the rates, terms and conditions under which AT&T-21STATE shall provide Operator
+Services/Directory Assistance (OS/DA) and Listings.
+1.2 OS/DA:
+1.2.1 This Attachment sets forth the rates, terms and conditions under which the Parties shall jointly carry out
+OS/DA on a wholesale basis for CLEC End Users residing in AT&T-21STATE’s local Exchange territory,
+regardless of whether CLEC is serving its End Users via:
+1.2.1.1 CLEC’s own physical Switches; or
+1.2.1.2 Resale of AT&T-21STATE Retail OS/DA service.
+1.2.2 CLEC shall be the retail OS/DA provider to its End Users, and AT&T-21STATE shall be the wholesale
+provider of OS/DA operations to CLEC. AT&T-21STATE shall answer CLEC’s End User OS/DA calls on
+CLEC’s behalf, as follows:
+1.2.2.1 When the End User dials 0- or 0+ the telephone number, AT&T-21STATE shall provide the
+Operator Services described in Section 3.4 below. CLEC may set its own retail OS/DA rates, and
+CLEC therefore acknowledges its responsibility to obtain (a) End User agreement to the OS/DA
+retail rates (e.g., by tariff or contract), and (b) any necessary regulatory approvals for its OS/DA
+retail rates.
+1.2.2.2 In response to CLEC End User inquiries about OS/DA rates, where available and technically
+feasible, AT&T-21STATE operators shall quote CLEC retail OS/DA rates, provided by CLEC (see
+Section 3.6 below). If further inquiries are made about rates, billing and/or other “business office”
+questions, AT&T-21STATE’s OS/DA operators shall direct the calling party’s inquiries to a CLEC-
+provided contact number (also see Section 3.6 below).
+1.2.3 CLEC shall pay the applicable OS/DA rates found in the Pricing Sheet based upon CLEC’s status as a
+Facilities-Based CLEC or a reseller. Provided however, CLEC may serve both as a reseller and as a
+facilities-based provider and CLEC may convert its facilities-based End Users to Resale service, or vice
+versa, as described below in Section 3.6.7 below.
+1.2.3.1 CLEC acknowledges and understands that wholesale OS/DA rates differ between Resale and
+facilities-based service, and that both types of OS/DA wholesale rates are listed in the Pricing
+Sheet.
+1.2.3.2 Billing and payment details, including the assessment of late payment charges for unpaid
+balances, are governed by the General Terms and Conditions in this Agreement.
+1.3 Listings:
+1.3.1 This Attachment sets forth terms and conditions that apply to Resale and Facility-Based CLECs for
+subscriber listing information provided by AT&T-21STATE.
+2.0 DEFINITIONS
+2.1 “Consolidated Reference Rater (CRR)” provides reference information (business office and repair numbers) and rate
+quotes for CLEC End Users.
+2.2 “Facilities-Based CLEC” means a CLEC that provides service through its own switch or a Third Party provider’s
+switch.
+2.3 “General Assistance” means a service in which the End User dialing - 0 asks the OS operator for assistance. The
+operator will respond in accordance with OS methods and practices that are in effect at the time the End User makes
+an OS call where available and technically feasible.
+
+Contract Id: 4954102
+Exhibit A
+Attachment 06 – OS/DA/AT&T-21STATE
+Page 4 of 9
+VISION CTS
+Version: 3Q16 - CLEC ICA – 9/19/16
+2.4 “Listings” means information identifying the listed names of subscribers of carriers and subscribers’ telephone
+numbers, addresses or primary advertising classification or any combination, and that carrier or affiliate has
+published, caused to be published or accepted for publication in any directory format.
+2.5 “Services” means Operator Services/Directory Assistance (OS/DA) and Listings.
+2.6 “Toll Center Code” means the three digit access tandem code (“ATC”) that uniquely identifies a tandem switch in the
+Local Exchange Routing Guide (LERG) designated as providing access to operator services functions.
+3.0 OPERATOR SERVICES (OS) / DIRECTORY ASSISTANCE (DA)
+3.1 Dialing Parity:
+3.1.1 AT&T-21STATE will provide OS/DA to CLEC’s End Users with no unreasonable dialing delays and at
+dialing parity with AT&T-21STATE retail OS/DA services.
+3.2 Response Parity:
+3.2.1 Where available and technically feasible, CLEC’s End Users shall be answered by AT&T-21STATE’s OS
+and DA platforms with the same priority and using the same methods as for AT&T-21STATE’s End Users.
+3.2.2 Any technical difficulties in reaching the AT&T-21STATE OS/DA platform (e.g., cable cuts in the OS/DA
+trunks, unusual OS/DA call volumes, etc.) will be experienced at parity with AT&T-21STATE End Users
+served via that same AT&T-21STATE End Office Switch.
+3.3 Requirements to Physically Interconnect:
+3.3.1 This section describes the physical interconnection and trunking requirements for a Facilities-Based CLEC
+to interconnect with AT&T-21STATE’s OS/DA switches.
+3.3.2 The demarcation point for OS/DA traffic between the Parties’ networks need not coincide with the point of
+interconnection for the physical interconnection of all other inter-carrier voice traffic, but at a minimum must
+be in the Local Access and Transport Area (LATA) in which the CLEC’s OS/DA traffic originates.
+3.3.2.1 Because CLEC’s switch may serve End Users in more than one LATA, the Parties agree that
+CLEC’s OS/DA traffic originates from the physical location of the End User dialing 0, 411, or 555-
+1212 and not the physical location of CLEC’s switch.
+3.3.2.2 To the extent CLEC is serving via circuit-switched wireless technology, the physical location of the
+End User dialing 0, 411, or 555-1212 shall be deemed the End User’s physical billing address,
+regardless of whether the End User may be roaming at the time of placing the OS/DA call.
+3.3.3 The Parties will establish an OS/DA demarcation point at the AT&T-21STATE’s OS/DA switch. By mutual
+agreement, an alternative OS/DA demarcation point may be determined based on the following factors:
+3.3.3.1 The size and type of facilities needed to carry CLEC’s switch-based OS/DA traffic;
+3.3.3.2 Whether CLEC wishes to interconnect for OS or DA, or both;
+3.3.3.3 Whether CLEC or CLEC’s Affiliate is collocated in an AT&T-21STATE local tandem office and
+wishes to use the collocation as the OS/DA demarcation point; and
+3.3.3.4 Whether CLEC or CLEC’s Affiliate already has existing OS/DA facilities in place to the AT&T-
+21STATE’s OS/DA platforms.
+3.3.4 CLEC shall be financially responsible for the transport facilities to the AT&T-21STATE’s switch(es). CLEC
+may self-provision these OS/DA facilities, lease them from Third Parties, or lease them from AT&T-
+21STATE’s intrastate Special Access Tariff. CLEC shall remain financially responsible for the transport
+facilities to the AT&T-21STATE’s switch(es) and/or any one-way trunk groups from its designated operator
+assistance and directory assistance (or OA/DA) switch to the AT&T-21STATE operator assistance switch
+until CLEC initiates and successfully disconnects such transport facilities and/or trunk groups.
+3.3.5 General OS/DA Trunking Requirements:
+
+Contract Id: 4954102
+Exhibit A
+Attachment 06 – OS/DA/AT&T-21STATE
+Page 5 of 9
+VISION CTS
+Version: 3Q16 - CLEC ICA – 9/19/16
+3.3.5.1 CLEC will initiate an Access Service Request (ASR) for all OS/DA trunk groups from its switch to
+the appropriate AT&T-21STATE OS/DA switches as a segregated one-way trunk group utilizing
+Multi-Frequency (MF) signaling. Unless technically infeasible, AT&T-21STATE will provision all
+such one-way trunk groups in the same manner and at the same intervals as for all other
+interconnection trunks between the Parties.
+3.3.5.2 CLEC will employ Exchange Access Operator Services Signaling (EAOSS) from the AT&T-
+21STATE End Offices to the AT&T-21STATE OS/DA switches that are equipped to accept 10-Digit
+Signaling for Automatic Number Identification (ANI).
+3.3.5.3 Where EAOSS is not available, Modified Operator Services Signaling (MOSS) will be utilized, and
+a segregated one-way trunk group with MF signaling will be established from CLEC to each AT&T-
+21STATE OS/DA switch for each served Numbering Plan Area (NPA) in the LATA.
+3.3.6 Specific OS/DA Trunk Groups and Their Requirements
+3.3.6.1 Operator Service Trunks:
+3.3.6.1.1 CLEC shall establish a one-way trunk group from CLEC’s switch to the AT&T-
+21STATE OS switch serving OS End Users in that LATA. An OS only trunk group will
+be designated with the appropriate OS traffic use code and modifier. If the trunk group
+transports combined OS/DA/DACC over the same trunk group, then the group will be
+designated with a different traffic use code and modifier for combined services. CLEC
+will have administrative control for the purpose of issuing ASRs on this one-way trunk
+group.
+3.3.6.2 DA/DA Call Completion (DACC) Trunks:
+3.3.6.2.1 Where permitted, CLEC shall establish a one-way trunk group from CLEC’s switch to
+the AT&T-21STATE DA switch serving DA End Users in that LATA. If the trunk group
+transports DA/DACC only, but not OS, then the trunk group will be designated with the
+appropriate DA traffic use code and modifier.
+3.3.6.2.2 In AT&T-12STATE, if OS/DA/DACC is transported together on a combined trunk
+group, then the group will be designated with a different appropriate traffic use code
+and modifier from that used for a DA/DACC only trunk group. CLEC will have
+administrative control for the purpose of issuing ASRs on this one-way trunk group.
+3.3.6.2.3 In AT&T SOUTHEAST REGION 9-STATE, if OS/DA/DACC is transported together on
+a combined trunk group, then the group will be designated with an appropriate traffic
+use code and modifier. CLEC will have administrative control for the purpose of
+issuing ASRs on this one-way trunk group.
+3.4 Operator Services Call Processing and Rates:
+3.4.1 AT&T-21STATE will assess its OS charges based upon whether the CLEC End User is receiving (a) manual
+OS (i.e., provided via an operator), or (b) automated OS (i.e., an OS switch equipment voice recognition
+feature, functioning either fully or partially without operators where available and technically feasible). The
+Pricing Sheet contains the full set of OS recurring and nonrecurring rates.
+3.4.2 AT&T-21STATE will provide OS to CLEC End Users where available and technically feasible to AT&T-
+21STATE End Users served in accordance with OS methods and practices in effect at the time the CLEC
+End User makes an OS call.
+3.5 Directory Assistance Call Processing and Rates:
+3.5.1 AT&T-21STATE DA charges are assessed on a flat rate per call, regardless of call duration. The Pricing
+Sheet contains the recurring and nonrecurring rates.
+3.5.2 AT&T-21STATE will provide DA Services to CLEC End Users where available and technically feasible to
+AT&T-21STATE End Users served in accordance with DA Services methods and practices that are in effect
+
+Contract Id: 4954102
+Exhibit A
+Attachment 06 – OS/DA/AT&T-21STATE
+Page 6 of 9
+VISION CTS
+Version: 3Q16 - CLEC ICA – 9/19/16
+at the time CLEC End User makes a DA call. AT&T-21STATE will provide the following DA services to a
+CLEC End User:
+3.5.2.1 Local Directory Assistance - Consists of providing published name and telephone number.
+3.5.2.2 Directory Assistance Call Completion (DACC) - A service in which a local or an intraLATA call to
+the requested number is completed.
+3.5.2.3 National Directory Assistance (NDA) - A service whereby callers may request published name and
+telephone number outside their LATA or local calling area for any listed telephone number in the
+United States.
+3.5.2.4 Reverse Directory Assistance (RDA) - Consists of providing listed local and national name and
+address information associated with a telephone number.
+3.5.2.5 Business Category Search (BCS) - A service whereby callers may request business telephone
+number listings for a specified category of business, when the name of the business is not known.
+Telephone numbers may be requested for local and national businesses.
+3.6 OS/DA Non-recurring Charges for Loading Automated Call Greeting (i.e., Brand Announcement), Rates and
+Reference Information:
+3.6.1 CLEC End Users will hear silence upon connecting with the OS/DA switch. As an alternative to silence,
+CLEC may custom brand for which custom brand charges will apply.
+3.6.1.1 CLEC will provide announcement phrase information, via Operator Services Translations
+Questionnaire (OSTQ), to AT&T-21STATE in conformity with the format, length, and other
+requirements specified for all CLECs on the AT&T CLEC Online website.
+3.6.1.2 AT&T-21STATE will then perform all of the loading and testing of the announcement for each
+applicable OS/DA switch prior to live traffic. CLEC may also change its pre-recorded
+announcement at any time by providing a new announcement phrase in the same manner. CLEC
+will be responsible for paying subsequent loading and testing charges.
+3.6.1.3 CLEC understands that End Users may not perceive silent announcements as ordinary mechanical
+handling of OS/DA calls.
+3.6.1.4 CLEC agrees that if it does not brand the call, CLEC shall indemnify and hold AT&T-21STATE
+harmless from any regulatory violation, consumer complaint, or other sanction for failing to identify
+the OS/DA provider to the dialing End User.
+3.6.2 AT&T-21STATE will be responsible for loading the CLEC provided recording into all applicable OS and/or
+DA switches prior to live traffic, testing the announcement for sound quality at parity with that provided to
+AT&T-21STATE End Users. CLEC will be responsible for paying the initial recording announcement loading
+charges, and thereafter, the per-call charge as well as any subsequent loading charges if new recordings or
+silent announcements are provided as specified above.
+3.6.3 Branding load charges are assessed per loaded recording, per OCN, per switch. For example, a CLEC
+Reseller may choose to brand under a different name than its facilities-based operations, and therefore two
+separate recordings could be loaded into each switch, each incurring the branding or silent load charge.
+These charges are mandatory, nonrecurring, and are found in the Pricing Sheet.
+3.6.4 Where Consolidated Reference Rater (“CRR”) is available and technically feasible, the applicable CLEC-
+charged retail OS/DA rates and a CLEC-provided contact number (e.g., reference to a CLEC business office
+or repair center) are loaded into the system utilized by the OS operator.
+3.6.5 Where CRR is available and technically feasible, AT&T-21STATE will be responsible for loading the CLEC-
+provided OS/DA retail rates and the CLEC provided contact number(s) into the OS/DA switches. CLEC will
+be responsible for paying the initial reference and rate loading charges.
+
+Contract Id: 4954102
+Exhibit A
+Attachment 06 – OS/DA/AT&T-21STATE
+Page 7 of 9
+VISION CTS
+Version: 3Q16 - CLEC ICA – 9/19/16
+3.6.6 CRR load charges are assessed per loaded set of rates/references, where CRR is available and technically
+feasible, per OCN, per state. For example, a CLEC reseller may choose to rate differently than its Facilities-
+Based CLEC operations, or may change its rates/references during the life of the contract, and therefore
+separate sets of rates/references could be loaded for each OCN, per state, with each loading incurring the
+rate/reference charge. These charges are mandatory, nonrecurring and are found in the Pricing Sheet.
+3.6.7 Converting End Users from prior branded service to CLEC or silent-branded service, or between Resale and
+facilities-based service:
+3.6.7.1 To the extent that CLEC has already established the branding/silent announcement recording in
+AT&T-21STATE OS/DA switches for both Resale and facilities-based service, then no non-
+recurring charges apply to the conversion of End Users from prior Resale OS/DA wholesale
+service to facilities-based OS/DA wholesale service, or vice versa.
+3.6.7.2 To the extent that CLEC has not established the branding announcement recording in AT&T-
+21STATE OS/DA switches for Resale and/or facilities-based service, then non-recurring charges
+apply to set up the OS/DA call for the new type of service, as is described in Section 3.6 above,
+and at the rates set forth in the Pricing Sheet.
+4.0 LISTINGS
+4.1 General Provisions:
+4.1.1 Subject to state requirements and AT&T-21STATE’s practices, as well as the rules and regulations
+applicable to the provision of listings, AT&T-21STATE will make available to CLEC, for CLEC End Users,
+non-discriminatory access to listings in the same manner as AT&T-21STATE makes listings available to
+AT&T-21STATE retail End Users.
+.
+4.2 Responsibilities of the Parties:
+4.2.1 Subject to AT&T-21STATE’s practices, as well as the rules and regulations applicable to the provision of
+white page directories, AT&T-21STATE will include in appropriate white pages directories the primary
+alphabetical listings of CLEC End Users located within the AT&T-21STATE ILEC Territory. When CLEC
+provides its subscriber listing information to AT&T-21STATE listings database, CLEC will receive for its End
+User, one primary listing in AT&T-21STATE white pages directory and a listing in AT&T-21STATE’s DA
+database at no charge, other than applicable service order charges as set forth in the Pricing Sheet.
+4.2.1.1 Except in the case of a Local Service Request (LSR) submitted solely to port a number from AT&T
+SOUTHEAST REGION 9-STATE, if such listing is requested on the initial LSR associated with the
+request for services, a single manual service order charge or electronic service order charge, as
+appropriate, will apply to both the request for service and the request for the directory listing.
+Where a subsequent LSR is placed solely to request a directory listing, or is placed to port a
+number and request a directory listing, separate service order charges as set forth in AT&T-
+21STATE’s tariffs shall apply, as well as the manual service order charge or the electronic service
+order charge, as appropriate.
+4.2.1.2 Listing Information Confidentiality:
+4.2.1.2.1 AT&T-21STATE will afford CLEC’s directory listing information the same level of
+confidentiality that AT&T-21STATE affords its own directory listing information.
+4.2.1.3 Unlisted/Non-Published End Users:
+4.2.1.3.1 CLEC will provide to AT&T-21STATE the names, addresses and telephone numbers
+of all CLEC End Users who wish to be omitted from directories. Non-listed/Non-
+Published listings will be subject to the rates as set forth in AT&T-21STATE’s tariffs
+and/or service guidebooks. AT&T-21STATE does not provide a resale discount for
+any listings.
+
+Contract Id: 4954102
+Exhibit A
+Attachment 06 – OS/DA/AT&T-21STATE
+Page 8 of 9
+VISION CTS
+Version: 3Q16 - CLEC ICA – 9/19/16
+4.2.1.4 Additional Listings:
+4.2.1.4.1 Where a CLEC End User requires listings in addition to the primary listing to appear in
+the white pages directory, AT&T-21STATE will offer such listings at rates as set forth
+in AT&T-21STATE’s tariffs and/or service guidebooks. AT&T-21STATE does not
+provide a resale discount for any listings. CLEC shall furnish to AT&T-21STATE
+subscriber listing information pertaining to CLEC End Users located within the AT&T-
+21STATE ILEC Territory, along with such additional information as AT&T-21STATE
+may be required to include in the alphabetical listings of said directory. CLEC shall
+refer to the AT&T CLEC Online website for methods, procedures and ordering
+information.
+4.2.2 CLEC will provide accurate subscriber listing information of its subscribers to AT&T-21STATE via a
+mechanized feed of the directory listing information to AT&T-21STATE’s Directory Listing database. CLEC
+agrees to submit all listing information via a mechanized process within six (6) months of the Effective Date
+of this Agreement, or upon CLEC reaching a volume of two hundred (200) listing updates per day,
+whichever comes first. CLEC’s subscriber listings will be interfiled (interspersed) in the directory among
+AT&T-21STATE’s subscriber listing information. CLEC will submit listing information within one (1) business
+day of installation, disconnection or other change in service (including change of non-listed or non-published
+status) affecting the DA database or the directory listing of a CLEC End User. CLEC must submit all listing
+information intended for publication by the directory close (a/k/a last listing activity) date.
+4.2.3 White Page Directories:
+4.2.3.1 Subject to state requirements and AT&T-21STATE’s practices, as well as the rules and regulations
+applicable to the provision of white page directories, each CLEC subscriber may receive one copy
+per primary End User listing, as provided by CLEC, of the appropriate AT&T-21STATE white pages
+directory in the same manner, format and at the same time that they are delivered to AT&T-
+21STATE’s retail End Users.
+4.2.4 Use of Subscriber Listing Information:
+4.2.4.1 Subject to AT&T-21STATE’s practices, as well as the rules and regulations applicable to the
+provision of white page directories, AT&T-21STATE agrees to serve as the single point of contact
+for all independent and Third Party directory publishers who seek to include CLEC’s subscriber
+(i.e., End User) listing information in an area directory, and to handle the CLEC’s subscriber listing
+information in the same manner as AT&T-21STATE’s subscriber listing information. In exchange
+for AT&T-21STATE serving as the single point of contact and handling all subscriber listing
+information equally, CLEC authorizes AT&T-21STATE to include and use the CLEC subscriber
+listing information provided to AT&T-21STATE DA databases, and to provide CLEC subscriber
+listing information to directory publishers. Included in this authorization is release of CLEC listings
+to requesting competing carriers as required by Section 271(c)(2)(B)(vii)(II) and Section 251(b)(3)
+and any applicable state regulations and orders. Also included in this authorization is AT&T-
+21STATE’s use of CLEC’s subscriber listing information in AT&T-21STATE’s DA, DA related
+products and services, and directory products and services.
+4.2.4.2 AT&T-21STATE further agrees not to charge CLEC for serving as the single point of contact with
+independent and Third Party directory publishers, no matter what number or type of requests are
+fielded. In exchange for the handling of CLEC’s subscriber list information to directory publishers,
+CLEC agrees that it will receive no compensation for AT&T-21STATE’s receipt of the subscriber
+list information or for the subsequent release of this information to directory publishers. Such
+CLEC subscriber list information shall be interfiled (interspersed) with AT&T-21STATE’s subscriber
+list information and the subscriber list information of other companies that have authorized a similar
+release of their subscriber list information by AT&T-21STATE.
+
+Contract Id: 4954102
+Exhibit A
+Attachment 06 – OS/DA/AT&T-21STATE
+Page 9 of 9
+VISION CTS
+Version: 3Q16 - CLEC ICA – 9/19/16
+4.2.5 Upon identification and notice of non-compliance by AT&T-21STATE, CLEC agrees to pay all direct costs
+incurred by AT&T-21STATE as a result of CLEC not complying with the terms of this Attachment and in
+accordance with the Limitations of Liability section in the General Terms and Conditions Attachment of this
+Agreement.
+4.2.6 This Attachment shall not establish, be interpreted as establishing, or be used by either Party to establish or
+to represent their relationship as any form of agency, partnership or joint venture.
+4.2.7 Breach of Contract:
+4.2.7.1 If either Party is found to have materially breached the Listings terms of this Attachment, the non-
+breaching Party may terminate the Listings terms of this Attachment by providing written Notice to
+the breaching Party, whereupon this Attachment shall be null and void with respect to any issue of
+white pages directory published sixty (60) or more calendar days after the date of receipt of such
+written Notice. CLEC further agrees to pay all costs incurred by AT&T-21STATE and/or its
+Affiliates and vendor as a result of such CLEC breach.
+4.2.8 General Conditions for Listings:
+4.2.8.1 Notwithstanding the foregoing, AT&T-21STATE reserves the right to suspend, modify or terminate,
+without penalty, any Listings Service offerings that are provided under this Attachment on ninety
+(90) days’ written notice in the form of an Accessible Letter.
+4.2.8.2 CLEC shall be solely responsible for any and all legal or regulatory requirements for the
+modification or discontinuance of Listings products and/or services to CLEC End Users under this
+Section.
+5.0 GENERAL CONDITIONS FOR OPERATOR SERVICES (OS), DIRECTORY ASSISTANCE (DA)
+5.1 Notwithstanding the foregoing, AT&T-21STATE reserves the right to suspend, modify or terminate, without penalty,
+any OS and/or DA feature of Service(s) offerings that are provided under this Attachment on one hundred eighty
+(180) days’ written notice in the form of an Accessible Letter.
+5.2 Termination:
+5.2.1 If the CLEC terminates OS and/or DA service prior to the expiration of the term of this Agreement, CLEC
+shall pay AT&T-21STATE, within thirty (30) calendar days of the issuance of any bills by AT&T-21STATE,
+all amounts due for actual services provided under this Attachment, plus estimated monthly charges for the
+remainder of the term. Estimated charges will be based on an average of the actual monthly amounts billed
+by AT&T-21STATE pursuant to this Attachment prior to its termination. The rates applicable for determining
+the amount(s) under the terms outlined in this Section are those specified in the Pricing Sheet.
+5.3 CLEC shall be solely responsible for any and all legal or regulatory requirements for the modification or
+discontinuance of OS and/or DA products/services to CLEC End Users under this Attachment.
+6.0 TERMINATION – ENTIRE ATTACHMENT 06 – OPERATOR ASSISTANCE AND DIRECTORY
+ASSISTANCE SERVICES
+6.1 The Parties reserve the right to suspend or terminate, without penalty, this Attachment in its entirety on one hundred
+eighty (180) days’ written notice. The Attachment will be coterminous with the ICA or will continue until the Party
+desiring to terminate this Attachment provides one hundred eighty (180) days’ written Notice to the other Party of the
+date the Attachment will terminate (“Termination Date”), whichever date is earlier.
+
+Contract Id: 4954102
+PRICING SHEETS
+EXHIBIT B
+Non- Non-
+Monthly Recurring Recurring
+Recurring Charge (NRC) Charge (NRC)
+Attachment State Product Rate Element Description COS (Class of Service) USOC Zone Charge (MRC) First Additional Per Unit
+6 OH DIRECTORY ASSISTANCE SERVICES Directory Assistance, per call XPU OPEN $ 0.40 NA per call
+Directory Assistance National Directory Assistance
+6 OH DIRECTORY ASSISTANCE SERVICES (NDA), per call XPU OPEN $ 0.65 NA per call
+Directory Assistance Reverse Directory Assistance
+6 OH DIRECTORY ASSISTANCE SERVICES (RDA), per call XPU OPEN $ 0.65 NA per call
+Directory Assistance Business Category Search (BCS),
+6 OH DIRECTORY ASSISTANCE SERVICES per call XPU OPEN $ 0.65 NA per call
+6 OH DIRECTORY ASSISTANCE SERVICES Directory Assistance Call Completion (DACC), per call XPU OPEN $ 0.15 NA per call
+OPERATOR SERVICES/DIRECTORY
+ASSISTANCE AUTOMATED CALL Branding - Other - Initial/Subsequent Load, per switch
+6 OH GREETING per OCN NA $ 1,800.00 Per OCN
+OPERATOR SERVICES/DIRECTORY
+ASSISTANCE AUTOMATED CALL
+6 OH GREETING Branding and Reference/Rate Look Up, per OS/DA call XPU OPEN $ 0.03 NA per call
+OPERATOR SERVICES/DIRECTORY Directory Assistance Rate Reference - Initial Load, per
+6 OH ASSISTANCE RATE/REFERENCES state, per OCN NA $ 5,000.00 per state, per OCN
+OPERATOR SERVICES/DIRECTORY Directory Assistance Rate Reference - Subsequent
+6 OH ASSISTANCE RATE/REFERENCES Load, per state, per OCN NA NA $ 1,500.00 per state, per OCN
+Operator Services Fully Automated Call Processing, per
+6 OH OPERATOR CALL PROCESSING call XPU OPEN $ 0.15 NA per call
+Operator Assisted Call Processing - All Types, per work
+6 OH OPERATOR CALL PROCESSING second XPU OPEN $ 0.03 NA per work second
+6 OH DIRECTORY ASSISTANCE SERVICES Directory Assistance - per listing for initial load NA $ 0.040 per listing
+Directory Assistance - per listing for subsequent
+6 OH DIRECTORY ASSISTANCE SERVICES updates $ 0.060 per listing
+OPERATOR SERVICES/DIRECTORY
+ASSISTANCE AUTOMATED CALL
+6 OH GREETING Branding, per trunk group $800.00
+Template Version: - 2Q16 - ICA-AT (No MR or R) - 04/05/16 System Version: 4/5/2016 Page 1 of 1

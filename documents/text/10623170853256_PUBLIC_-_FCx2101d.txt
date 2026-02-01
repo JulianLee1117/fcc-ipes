@@ -1,0 +1,98 @@
+151 Southhall Lane, Ste. 450
+lnteserra Maitland, FL 32751
+P.O. Drawer 200
+•
+Winter Park, FL 32790-0200
+A FAStek Company
+www.inteserra.com
+June 23, 2022
+Via ECFS Filing
+REDACTED FOR PUBLIC INSPECTION
+Secretary, Federal Communications Commission
+Washington, DC 20554
+Attn: Wireline Competition Bureau
+RE: Request for Confidential Treatment of Filing of IDT Domestic Telecom, Inc.; Supplemental
+Information for Application of IDT Domestic Telecom, Inc. for Authorization to Obtain Numbering
+Resources Pursuant to Section 52.15(g) of the Commission's Rules, WC Docket No. 21-470
+Dear Ms. Dortch,
+Pursuant to Section §52.15(g)(3)(i) of the Commission's Rules,1 IDT Domestic Telecom, Inc. ("IDT Domestic
+Telecom") hereby submits supplemental information to its Application for Authorization to Obtain Numbering
+Resources which addresses Commission staff's request for additional information regarding outbound
+interconnection and 911 compliance.
+IDT Domestic Telecom respectfully requests that, pursuant to Sections §0.457 and §0.459 of the Commission's
+Rules/ the Commission withhold from public inspection and accord confidential treatment to supplemental
+information to the application which contains sensitive trade secrets and commercial information that falls
+within Exemption 4 of the Freedom of Information Act ("FOIA").3 Moreover, IDT Domestic Telecom would
+suffer substantial competitive harm if this information were disclosed.
+Supplemental Exhibit C is accordingly marked with the header "SUBJECT TO REQUEST FOR CONFIDENTIAL
+TREATMENT- NOT FOR PUBLIC INSPECTION."
+In support of this request, IDT Domestic Telecom hereby states the following:
+1. IDENTIFICATION OF THE SPECIFIC INFORMATION FOR WHICH CONFIDENTIAL TREATMENT IS
+SOUGHT.
+IDT Domestic Telecom seeks confidential treatment of supplemental Exhibit C to its Application.
+2. DESCRIPTION OF CIRCUMSTANCES GIVING RISE TO THE SUBMISSION.
+IDT Domestic Telecom is submitting as Exhibit C additional information as proof of IDT Domestic
+Telecom's facilities readiness as required by Section 52. 15(g)(3)(i)(D) of the Commission's Rules.
+47 C.F.R. § 52.15(g).
+47 C.F.R. § 0.457 & §0.459.
+See 5 U.S.C. § 552(b)(4). Public disclosure is not required for "trade secrets and commercial or financial
+information obtained from a person and privileged or confidential."
+
+Page 2 of 3
+3. EXPLANATION OF THE DEGREE TO WHICH THE INFORMATION IS COMMERCIAL OR FINANCIAL, OR
+CONTAINS A TRADE SECRET OR IS PRIVILEGED.
+The information for which IDT Domestic Telecom seeks confidential treatment contains sensitive
+commercial information "which would customarily be guarded from competitors". Exhibit C describes
+and contains proprietary commercial information concerning IDT Domestic Telecom's network,
+customers, and services.
+4. EXPLANATION OF THE DEGREE TO WHICH THE INFORMATION CONCERNS A SERVICE THAT IS
+SUBJECT TO COMPETITION.
+Exhibit C contains information relating to commercial matters which can be used by other
+interconnected VoiP providers to compromise IDT Domestic Telecom's position in the highly
+competitive interconnected VoiP business sector. Detailed operations and commercial information of
+the type provided by IDT Domestic Telecom could compromise IDT Domestic Telecom's position in this
+highly competitive industry. Accordingly, release of this information would result in substantial
+competitive harm to IDT Domestic Telecom.
+5. EXPLANATION OF HOW DISCLOSURE OF THE INFORMATION COULD RESULT IN SUBSTANTIAL
+COMPETITIVE HARM.
+Competitors could use IDT Domestic Telecom's proprietary commercial and operational information
+to IDT Domestic Telecom's detriment as they would gain access to sensitive information concerning
+IDT Domestic Telecom's commercial agreements, as well as information as to how IDT Domestic
+Telecom provides its services. Therefore, disclosure of the supplemental information would result in
+significant competitive harm to IDT Domestic Telecom's carrier partner. This information is not
+normally disclosed to the public.
+6. IDENTIFICATION OF ANY MEASURES TAKEN BY THE SUBMITTING PARTY TO PREVENT
+UNAUTHORIZED DISCLOSURE.
+lOT Domestic Telecom has not distributed the information in Exhibit C to the public.
+7. IDENTIFICATION OF WHETHER THE INFORMATION IS AVAILABLE TO THE PUBLIC AND THE EXTENT
+OF ANY PREVIOUS DISCLOSURE OF THE INFORMATION TO THIRD PARTIES.
+lOT Domestic Telecom does not believe that the supplemental information is available to the public or
+that the information has ever been disclosed to third parties absent the protection of a non-disclosure
+agreement regarding their contents.
+
+Page 3 of 3
+8. JUSTIFICATION OF THE PERIOD DURING WHICH THE SUBMITTING PARTY ASSERTS THAT MATERIAL
+SHOULD NOT BE AVAILABLE FOR PUBLIC DISCLOSURE.
+IDT Domestic Telecom requests that Exhibit C be withheld from public disclosure indefinitely. Any
+disclosure of IDT Domestic Telecom's information regarding its outbound interconnection and 911
+compliance or their substance would cause competitive harm to IDT Domestic Telecom.
+9. OTHER INFORMATION THAT IDT DOMESTIC TELECOM BELIEVES MAY BE USEFUL IN ASSESSING
+WHETHER ITS REQUEST FOR CONFIDENTIALITY SHOULD BE GRANTED.
+The information concerns IDT Domestic Telecom's proprietary network information, related to current
+and planned commercial and operational information, and as such, is commercially sensitive.
+For the foregoing reasons, IDT Domestic Telecom respectfully requests the supplemental Exhibit C be granted
+confidential status and withheld from public inspection.
+Any questions you may have regarding this filing should be directed to my attention at 407-740-3006 or
+via email to croesel@inteserra.com. Thank you for your assistance in this matter.
+Sincerely,
+/s/Carey Roesel
+Carey Roesel
+Consultant
+cc: Carl Billek- IDT
+tms: FCx2101d
+CR/mp
+
+Exhibit C
+IDT DOMESTIC TELECOM OUTBOUND INTERCONNECTION AND
+911 COMPLIANCE
+(Confidential exhibit submitted separately)

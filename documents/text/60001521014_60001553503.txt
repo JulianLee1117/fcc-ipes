@@ -1,0 +1,964 @@
+•
+7.2.5 Reciprocal Compensation shall not apply to special access, private
+llne, or any other traffic that is not switched by the terminating Party.
+7.2.6 Reciprocal Compensation shali not apply to Tandem Transit Traffic.
+7.2. 7 Reciprocal Compensation shall not apply to Voice Information Service
+Traffic (as defined in Section 5 of the Additional Services Attachment).
+7.2.8 Reciprocal compensation shall not apply to traffic that is not subject to
+Reciprocal Compensation under Section 251 (b )(5.) of the Act
+7.2.9 Reciprocal Compensation shall not apply to Virtual Foreign Exchange
+Traffic (i.e., V/FX. Traffic). As used in this Agreement, "Virtual Foreign
+Exchange Traffic" or ''V/FXTraffic• is defined as calls in which a
+Neutral Tandem Customer is assigned a telephone number with an
+NXX Code (as set forth in the LERG) associated with an exchange that
+is different than the exchange (as set forth In the LERG) associated
+with the actual physical location of such Customer's station. For the
+avoidance of any doubt, Neutral Tandem shall pay Verizon's
+originating access charges for all VIFX Traffic originated by a Verizon
+Customer, and Neutral Tandem shall pay Verlzon's terminating access
+charges for all V/FX Traffic originated by a Neutral Tandem Customer.
+7.3 The Reciprocal Compensation rates (Including, but not limited to, the Reciprocal
+Compensation per minute of use charges) billed by Neutral Tandem to Verizon
+shall not exceed the Reciprocal Compensation rates (including, but not limited to,
+•
+Reciprocal Compensation per minute of use charges) billed by Verizon to Neutral
+Tandem .
+8. Other Types of Traffic
+8.1 Notwithstanding any other provision of this Agreement or any Tariff: (a) the
+Parties' rights and obligations with respect to any lntercarrier compensation that
+may be due in connection with their exchange of Internet Traffic shall be
+governed by the terms of th~ FCC Internet Order and other applicable FCC
+orders and FCC Regulations; and, (b} a Party shall not be obligated to pay any
+intercarrier compensation for Internet Traffic that is in excess of the lntercarrler
+compensation for Internet Traffic that such Party is required to pay under the
+FCC Internet Order and other applicable FCC orders and FCC Regulations.
+82 Subject to Section 8.1 of this Attachment, interstate and intrastate Exchange
+Access, Information Access, exchange services for Exchange Access or
+Information Access, and Toll Traffic, shall be governed by the applicable
+provisions of this Agreement and applicable Tariffs.
+8.3 For any traffic originating with a third party carrier and delivered by Neutral
+Tandem to Verizon, Neutral Tandem shall pay Verizon the same amount that
+such third party carrier would have been obligated to pay Verizon for termination
+of that traffic at the location the traffic is delivered to Verizon by Neutral Tandem.
+8.4 Any traffic not speclflcally addressed in this Agreement shall be treated as
+required by the applicable Tariff of the Party transporting and/or terminating the
+traffic.
+8.5 The Parties may also exchange Internet Traffic at the technically feasible Point(s)
+•
+of Interconnection on Verizon's network in a LATA established hereunder for tpe
+exchange of Reciprocal Compensation Traffic. Any intercarrier compensation
+NT PAe Compv3.1 09282007f.doc 67
+--- --------- -
+
+•
+1hat may be due In connection with the Parties' exchange of Internet -Traffic shall
+be applied at such technlcaDy ft)aslble Point of Interconnection on Verizon's
+r:ietwork In a 1.ATA in accordance with the FCC Internet Order.
+9. Transmission -1d Routing of EJCchange Access Traffic
+9.1 Scope·o f Traffic.
+Section 9 prescribes parameters for certain trunks to be established over the
+Interconnections specified in Sections 2 through 5 of this Attachment for the
+~nsmlsslon.and routing of traffic between Neutral Tandem Telephone Exchange
+Service Customers and lnterexchange Carriers ("Access Toll Connecting
+Trunks"), In any case where Neutral Tandem elects to have Its End Office Switch
+subtend a Verizon Tandem ..T his includes casually-<!ialed (1010XXX and
+· 101.XXXX)trafftc.
+· 9.Z Access Toll Connecting Trunk Group Architecture.
+9.2.1 If Neutral Tandem chooses to subtend a Verizon access Tandem,
+Neutral 1'andem's NPAJNXX must be assigned by Neutral Tandem to
+subtend the same Verizon access Tandem that a Verizon NPA/NXX
+serving the same Rate Center Area subtends as identified in the
+LERG . .
+9.2.2 Neutral Tandem shall establish Access Toll Connecting Trunks
+p1.1Suant to applicable access Tariffs by which It will previde Switched
+•
+Exchange Access Services to lnterexchange Carriers to enable such
+lnterexchange Carriers to Qfiglnate and tenninate traffic to and-from
+Neutral Tandem's Customers.
+9.2.3 The Access Toll Connecting Trunks ~hall be two-way trunks. Such
+trunks shall connect the End Office Neutral Tandem utfQzes to provide
+Telephone Exchange Service and Switched Exchange Access to its
+Customers In a given LATA to the access Tandem(s) Verizon utilizes
+to provide Exchange Access In such LATA. _
+9.2.4 Access Toll Connecting Trunks shall be used solely for the
+transmission and routing of Exchange Access to allow Neutral
+Tandem's Customers to connect to or be connected to the
+interexchange trunks of any lnterexchange Carrier-which is connected
+to a·V enzon ~ccess T11ndem •
+. .
+. . 10 • Meet-Point Biiiing Arrangements
+10.1 - Neutral Tandem and Verizon will establish Meet-Point Bitting (MPB)
+~rrangements In order to provide a common transport option to Switched
+Exchange Access Services caJstomers via a Verizon access Tandem Switch in
+accordance with the Meet Point Biiiing guidelines contained In the OBF's MECAB
+and MECOD documents, except as modified herein, and In Verizon~s applicable
+Tariffs. The arrangements descnbed in this Section 10 are Intended to be used
+to provide Switched Exchange Access Service where 1he transport component of
+the Switched Exchange Access Service Is routed through an access Tandem
+Switch that Is provided by Verizon.
+10-.2 In eadl LATA, the Parties shall establish MPB arrangementsfor1he applicable •
+Neutral Tandem Routing PciinWertzon Serving Interconnection Wire Center.·
+combinations.
+NT PAe CompvS.1 00282007f.doC 88
+--
+. --···· -----------------~---------------------
+
+•
+10.3 Interconnection for the MPB arrangement shall occur at each of the Verizon
+access Tandems in the LATA, unless otherwise agreed to by the Parties.
+10.4 Neutral Tandem and Verizon wlll use reasonable efforts, individually and
+collectively, to maintain provisions In their respective state access Tariffs, and/or
+provisions within the National Exchange Carrier Association (NECA) Tariff No. 4,
+or any successor Tariff sufficient to reflect the MPB arrangements established
+pur.suant to this Agreement
+10.5 In general, there are four alternative Meet-Point Billing arrangements posslble,
+which are: Single BllVSingle Tariff, Multiple Bill/Single Tariff, Multiple Bill/Multiple
+Tariff, and Single Bill/Multiple Tariff, as outlined in the OBF MECAB Guidelines.
+Each Party shall Implement the "Multiple Bill/Single Tariff' or "Multiple Biii/Muitipie
+Tariff' option, as approprlate, In order to bill an IXC for the portion of the MPB
+arrangement provided by that Party. Alternatively, In former BeU AUantlc service
+areas, upon agreement of the Parties, each Party may use the New York State
+Access Pool on its behalf to implement the Single Bill/Multiple Tariff or Single
+Bill/Single Tariff option, as appropriate, In order to blU an IXC for the portion of
+the MPB arrangement provided by that Party.
+10.6 The rates to be billed by each Party for the portion of the MPB arrangement
+provided by It shall be as set forth In that Party's applicable Tariffs, or other •
+document that contains the terms under which that Party's access services are
+offered. For each Neutral Tandem Routing Point/Verizon Serving
+Interconnection Wire Center combination, the MPB bilUng percentages for
+• transport between the Neutral Tandem Routing Point and the Verizon Serving
+Interconnection Wire Center shall be calculated in accordance with the formula
+set forth in Section 10.17 of this Attachment.
+10.7 Each Party shall provide the other Party with the billing name, billing address,
+and Carrier Identification Code (CIC) of the DCC, and identification of the Verizon
+Interconnection Wire Center serving the IXC in order to comply with the MPB
+notification process as outliaed In the MECAB document
+10.8 Verizon shall provide Neutral Tandem with the Terminating Switched Access
+Detail Usage Data (EMI category 1101XX records} recorded at the Verizon
+access Tandem on cartridge or via such other media as the Parties may agree
+to, no later than ten (10) Business Days after the date the usage occurred.
+10.9 Neutral Tandem shall pro\'.i(ie Verizon with the Originating Switched Access
+Detail Usage Data (EMI category 1101 XX records) oli cartridge or via such other
+media as the Parties may agree, no later than ten (10) Business Days after the
+date the usage occurred.
+10.10 All usage data to be provided pursuant to Sections 10.8 and 10.9 of this
+Attachment shall be sent to the following addresses:
+To Neutral Tandem:
+DavidTatak
+1 South Wacker
+Suite200
+Chicago, Illinois 60606
+•
+For Verizon:
+NT PAe Compv3.1 09282007f.doc 69
+I
+____J
+
+•
+Verizon Data Se(Vlces
+ATIN: MPB
+1 EastTefecom Parkway
+OockD
+Temple Terrace, FL 3~37
+Either Party may change its address for receiving usage data by notifying the
+other Party in writing pursuant to Section 29 of the General Terms and
+Conditions.-
+10.11 Neutral Tandem and Verizon shall coordinate and exchange the bitting account
+reference (BAR) and billing account cross reference (BACR) numbers or
+Operating Company Number {"OCN"), a$ appropriate, for the MPS arr:angements
+described il'l thfs Section 1O . Each Party shall notify the other If the lev$1 of bllllng
+or other aARIBACR elements change, resulting In a new BARIBACR number, or
+If the OCN changes.
+1.0.12 Each Party agrees to provide the other Party with notification of any errors it
+discovers In MPB data wlthfn thirty (30) calendar days of the receipt of the
+original data. The other Party shall attempt to correct the error and resubmit the
+data within ten (10).Buslness Days of the noUficatlon. In the event the errors
+cannot be corrected within such ten-(10) Business-Day period, the erroneous
+data wtn be considered lost. In the event Of a loss of data, whether due to
+uncor.rectable errors or otherwise, both Parties shall cooperate to reconstruct .the
+lost data and, ·If such reconstruction Is not possible, -shall accept a reasonable
+•
+estimate of the lost data based upon prior ~e data.
+10.13 Either Party may request a review or audit of the various components of access
+recording up to a maximum of two (2) audits per calendar year. All costs
+associated With each reView and audit shaH be borne by the requesting Party.
+Such review or audit shall be conducted subject to Section 7 of the General
+Terms and Conditions and during regular business hours. A Party may conduct
+additional audHs, at Its expense, upon the other Party's consent, which consent
+shall not be anreasonably withheld.
+10.14 Except as expressly set forth in this Agreement, nothing contained in this Section
+10 shall create any llablllty for damages, lo~. claims, costs, Injuries, expenses
+or other liabilities whatsoever on the part of either Party.
+10.15 MPB will apply tor -all traffic bearing the 500, 900, toll free service access code
+{e.g. 800/8881817) (to the extent provided by an IXC) or any other non
+geographic NPA which may be designated for such traffic In the future.
+10.16 In the event Neutral Tandem determines to offer Telephone Exchange Services
+In a LATA In Whleh Verizon operates an access Tandem Switch, Verizon shall
+permit and enable Neutral Tandem to subtend the Verizon access Tandem
+Switch( es) desfgnated for the Verizon End Offices in the area where there are
+located Neutral·T andem Routing Polnt(s}auoclated with the NPA NXX(s}
+to/from which the Switched Exchange Access Services are homed.
+10.17 Except as otherwise mutually agreed by the Parties, the MPB biUlng percentages
+for each Routing PoinWerlzon Serving Interconnection Wire Center combination
+shall be caleulated according to the following formula. unless as mutualry agreed
+to by the Parties: .· •
+a I (a+ b) Neutral Tandem Billing Percentage
+NT ~Ae Comp\13.1 09282007f.cloc 70
+-·
+-···----~
+
+•
+and
+b I (a+ b} = Verizon Billing Percentage
+where:
+=
+a the airline mileage between Neutral Tandem Routing Point and
+1he actual point of interconnection for the MPB arrangement; and
+=
+b the airline mileage between the Verizon Serving Interconnection
+Wire Center and the actual point of interconnection for the MPB arrangement
+10.18 . Neutral Tandem shall inform Verizon of each LAT A In which it intends to offer
+Telephone Exchange Services and Its calculation of the billing percentages
+which should apply for such arrangement Within ten (10) Business Days of
+Neutral Tandem's delivery of notice to Verizon, Verizon and Neutral Tandem
+shall confirm the Routing PoinWerizon Serving Interconnection Wire Center
+combination and billing percentages.
+11. Toll Free Service Access Code (e.g., 800/888/877) Traffic
+The following terms shall apply when either Party delivers toll free service access code
+(e.g., 800/877/888)("8YY") calls to the other Party. For the purposes of this Section 11,
+the terms "translated" and "untranslated" refers to those toll free service access code
+calls that have been queried c·translated") or have not been queried {"untranslated") to
+• an 8YY database. Except as otherwise agreed to by the Parties, all Neutral Tandem
+originating "untranslated-8YY traffic will be routed over a separate One-Way
+miscellaneous Trunk group.
+11.1 When Neutral Tandem delivers translated 8YY calls to Verizon to be completed
+by
+11.1.1 an IXC:
+11.1.1.1 Neutral Tandem will provide an appropriate EMI record to
+Verizon;
+11.1.1.2 Neutral Tandem will bill the IXC the Neutral Tandem's
+applicable Switched Exchange Access Tariff charges and
+the Neutral Tandem's applicable Tariff query charges; and
+11.1.1.3 Verizon will bifl the IXC Verizon's applicable Switched
+Exchange Access Tariff charges.
+11.1.2 Verizon:
+11.1.2.1 Neutral Tandem will provide an appropriate EMI record to
+Verizon; and
+11.1.2.2 Neutral Tandem wilf bill Verizon the Neutral Tandem's
+Switched Exchange Access Tariff charges and the Neutral
+Tandem's applicable Tariff query charge.
+11.1.3 a toll free service access code service provider in that LATA :
+•
+NT PAe Compv3.1 09282007f.doc 71
+\
+L---·
+
+••
+11.1.3.1 Neutral Tandem will provide an appropriate EMI record to
+Verizon and the toll tree· service access code service
+provider;
+11~ 1.3.2 Neutral Tandem will bill·t he toll free service access code.
+service provider the Neutral Tandem's applicable Switched
+Exchange Access Tariff charges and the Neutral Tandem's
+appl~ble Tariff query charges; and
+11.1.3.3 Veri;zon will bill the toll free service access code service
+provider Verizon's appUcable Switched Exchange Access
+Tariff charges.
+1't.2 When Verizon performs the query and delivers translated 8YY cals, orlglnated
+by Verizon's Customer or another LEC's Customer to Neutral Tandem to be
+completed by
+11.2.1 NeutralTan<tem:
+11.2.1.1 Verizon will provide an appropriate EMI record to Neutral
+Tandem; and
+11.2.1.2 Verizon Wiii bill Neutral Tandem Verfzoa's applicable ~
+Switched Exchange Access Tariff charges and Verlzon's
+appllcable Tariff query charges.
+11.2.2 a toll free service access code servtcie provider In that LA TA:
+•
+11.2.2.1 Verizon will provide an appropriate EMI record to Neutral
+Tandem and the toll free service access code service
+_provider;
+11.2.2.2 Verizon will bill the toll free service a~ code service
+provider Verlzon's applicable Switched Exchange Access
+Tariff charges and Verlzon's applicable Tariff query
+charges; and
+11.2.2.3 Neutral Tandem will bill the toll free service access code
+seFVice provider the Neutral Tandem's applicable Switched
+Exchange Access Tariff charges.
+1-1.3 When Neutrttl Tandem: delivers l.JfiJranslated 8YY calls to Verizon to be
+completed by
+11.3.1 an IXC:
+11.3.1.1 Verizon will query the cau and route the call to the
+appropriate IXC;
+-11.3.1,2 Verizon will provide an appropriate EMI record to Neutral
+Tandem;
+. . 11,3.1.3 Verizon wiff bill the IXC Verlzon's appllcable Switched
+Exchange Access Tariff charges and Verlzon's applicable
+Tariff query charges; and
+11.3.1.4 Neutral Tandem will bill 1he IXC Neutral Tandem's .· •
+applicable Switched Exchange Access Tariff charges.
+NT PAe-Compv3.1 09282007f.lfo9 72
+.. -····· •···- ... . --- ·-·------------------------------
+
+•
+11.3.2 Verizon:
+11.3.2.1 Verizon will query the call and complete the call;
+11.3.2:2 Verizon will provide an appropriate EMI record to Neutral
+Tandem;
+11.3.2.3 Neutral. Tandem will bill Verizon the Neutral Tandem's
+applicable Switched Exchange Access Tariff charges.
+11.3.3 a toll free service access code service provider ln that LAT A:
+11.3.3.1 Verizon will query the call and route the call to the
+appropriate toll free service access code service provider;
+11.3.3.2· Verizon will provide an appropriate EMI record to Neutral
+Tandem and the toll free service access code service
+provider;
+11.3.3.3 Verizon will bill the toll free service access code service
+provider Verizon's applicable Switched Exchange Access
+Tariff and Verlzon's applicable Tariff query charges; and
+11.3.3.4 Neutral Tandem will bill the toll free service access code
+service provider the Neutral Tandem's applicable Switched
+Exchange Access Tariff charges.
+•
+11.4 Verizon will not direct untranslated toll free service access code calls to Neutral
+Tandem •
+12. Tandem Transit Traffic
+12.1 As used in this Section, Tandem Transit Traffic is Telephone Exchange Service
+traffic that originates on Neutral Tandem's network, and is transported through
+Vertzon's Tandem to the subtending End Office or its equivalent of another
+carrier (CLEC, ILEC other than Verizon, Commercial Mobile Radio Service
+(CMRS) carrier, or other LEC (•other Carrier"). Neither the originating nor
+tenninating customer is a Customer of Verizon. Subtending End Offices shall be
+determined In accordance with and as Identified in the Local Exchange Routing
+Gulde (LERG). For the avoidance of any doubt, under no circumstances shall
+Verizon be required to transit traffic through a Verizon Tandem to a Central
+Office·that the LERG does not ideatify as subtending that par:tlcular Verizon
+Tandem. Switched Exchange Access Service traffic is not Tandem Transit
+Traffic.
+12.2 Tandem Transit Traffic Service provides Neutral Tandem with the transport of
+Tandem Transit Traffic as provided below.
+12.3 Tandem Transit Traffic may be routed over the Interconnection Trunks described
+in Sections 2 through 6 of this Attachment Neutral Tandem shall deliver each
+Tandem Transit Traffic call to Veiizon's Tandem with CCS and the appropriate
+Transactional Capabilities Application Part ("TCAP") message to facilitate full
+Interoperability of CLASS Features and billing functions.
+12.4 Neutral Tandem may use Tandem Transit Traffic Setvice only for traffic that
+originates on Neutral Tandem's network and only to send traffic to an Other
+•
+Carrier with whom Neutral Tandem has a reciprocal traffic exchange
+arrangement (either via written agreement or mutual tariffs) that provides for the
+NT PAe Compv3.1 09282007f.doc 73
+
+•
+Other Carner, to terminate or complete traffic originated by Neutral Tandem and
+to blll Neutral Tandem, and not to bill Verizon, for such traffic. Neutral Tandem
+agrees not to use Verlzon's Tandem Transit Traffic Service to send traffic to an
+Other Carrier with whom Neutral Tandem does not have such a reciprocal traffic
+exchange arrangement or to send traffic that does not originate on Neutral
+Tandem's network.
+. ·t2.5 Neutral Tandem shall pay_V erizon for Tandem Transit Traffic Service at the rates
+specified in the Pricing Attachment. Verizon will not be liable for compensation t0-
+any Other Carrier for any traffic that is transported through Verizon's Tandem
+and Verizon reserves the nght to assess to Neutral Tandem any additional
+charges or costs any Other Carrier imposes or levies on Verizon for the delivery
+or termination of such traffic, including any SWitched Exchange Access Service
+charges. If Verizon Is billed by any Other Carrier for any traffic originated by
+Neutral Tandem, Verizon may ptovlde notice to Neutral.Tandem of such billing.
+Upon receipt of such notice, Neutral T-andem shall immediately stop using
+Vertzon's Tandem Transit Traffic Service to send any traffic to such Other Carrier
+until It has provided to Verizon certification that the Other Carrier has removed
+such billed charges from Its bill to Verizon and that the Other Carrier wm not bill
+Verizon for any traffic originated by Neutral Tandem. Such certification must be
+signed by an authorized officer or agent of the Other Carrier and must be in 11
+form acceptable to Verizon.
+12.6 If Neutral Tandem uses Tandem Transit Traffic Service for traffic volumes that
+exceed the Centum Call Seconds (HU11dred Call Seconds) busy hour equivalent
+of 200,000 combined minutes of use per month (a OS1 equivalent) to the
+•
+subtending End Office ofa particular Other Carrier fer any month (the "Threshold
+Level"). Neutral Tandem shaH use good faith efforts to estabfish direct
+interconnection with such Other Carrier and reduce such traffic vollmeS below
+the Threshold Level. If Verizon believes that Neutral Tandem has not exercised
+good fafth efforts promptly fo obtain such direct interconnection, either Party may
+use the Dispute Resolution processes of this Agreement
+12..7 If Neutral Tandem falls to comply with Section 12 of this Attachment, such failure
+shall be a materfaJ breach of a material provision of this Agreement and Verizon
+may exercise any and all remedies under this Agreement and Applicable Law for
+such breach.
+12.8 If or when a third party carrier .plans to subtend a Neutral Tandem switch, then
+Neutral Tandem shall provide written notice to Verl:zon at least ninety (90) days
+befdt8 such subtending servrce arrangement .becomes effective so that Verizon
+may negotiate and establlSh drrect Interconnection with such third party carrier.
+Upon written request from Verizon, Neutral Tandem shall offer to Verizon a
+service arrangement equivalent to or the same as Tandem Transit Traffic Service
+provided by Veriion to Neutral Tandem as defined in this Section such that
+Verizon m~y terminate calls to a Central Office or Its equivalent of a CLEC, ILEC
+other than Verizon, CMRS carrier, or other LEC, that subtends a Neutral Tandem
+Central Office Qr Its equivalent (•Reciprocal Tandem Transit Service"). Neutral
+Tandem shall offer such Reciprocal Transit Ser-vice·a rrangemen1' under terms .
+and conditions of an amendment to thls Agreement or a separate agreement no
+less favorable than those provided in this Section.
+12,9 Neither Party shall take any actions to prevent the other Party from entering Into
+a direct and reciprocal traffic exchange arrangement with any carrier to which It
+originates, or from which It terminates, traffic. •
+13. Number Ruourcn, Rate Center N.as and Routing Points
+NT PAe CompY3.1 092820071.doc 74
+
+•
+13.1 Nothing in this Agreement shall be construed to limit or otherwise adversely
+affect in any manner either Party's right to employ or to request and be assigned
+any Central Office Codes ("NXX") pursuant to the Central Office Code
+Assignment Guidelines and any relevant FCC or Commission orders, as may be
+amended from time to time, or to establish, by Tariff or otherwise, Rate Center
+Areas and Routing Points corresponding to such NXX codes.
+13.2 It shall be the responsibility of each Party to program and update Its own
+switches and network systems pursuant to information provided on ASRs as well
+as the LERG in order to recognize and route traffic to the other Party's assigned
+NXX codes. Except as expressly set forth in this Agreement, neither Party shall
+impose any fees or charges whatsoever on the other Party for such activities.
+13.3 Unless otherwise required by Commission order, the Rate Center Areas will be
+the same for each Party. During the term of this Agreement, Neutral Tandem
+shall adopt the Rate Center Area and Rate Center Points that the Commission
+has approved for Verizon within the LATA and Tandem serving area. Neutral
+Tandem shall assign whole NPA-NXX codes to each Rate Center Area unless
+otherwise ordered by the FCC, the Commission or another governmental entity
+of appropriate jurisdiction, or the LEC industry adopts alternative methods of
+utilizing NXXs.
+13.4 Neutral Tandem will also designate a Routing PQint for each assigned NXX code.
+Neutral Tandem shall designate one location for each Rate Center Area in which
+the Neutral Tandem has established NXX code{s) as the Routing Point for the
+NPA-NXXs associated with that Rate Center Area, and such Routing Point shall
+• be within the same LATA as the Rate Center Area but not necessarily within the
+Rate Center Area itself. Unless specified otherwise, calls to subsequent NXXs of
+Neutral Tandem will be routed In the same manner as calls to Neutral Tandem's
+Initial NXXs.
+13.5 Notwithstanding anything to the contrary contained herein, nothing In this
+Agreement is Intended, and nothing In this Agreement shall be construed, to In
+any way constrain Neutral Tandem's choices regarding the size of the local
+calling area(s) that Neutral Tandem may establish for its Customers, which local
+calling areas may be larger than, smaller than, or Identical to Verlzon's local
+calling areas.
+14. Joint Network·lmplementatlon and Grooming Process; Forecasting
+14.1 Joint Network lmplementati90 and Grooming Process.
+Upon request of either Party, the Parties shall jointly develop an implementation
+and grooming process {the "Joint Grooming Process• or "Joint Process") which
+may define and detail, Inter alia:
+14.1.1 standards to ensure that Interconnection Trunks experience a grade of
+service, availability and quality which is comparable to that achieved
+on interoffice trunks within Verizon's network and In accord with all
+appropriate relevant industry-accepted quality, reliability and
+availability standards. Except as otherwise stated in this Agreement,
+trunks provided by either Party for Interconnection services will be
+engineered using a design-blocking objective of B.01.
+14.1.2 the respective duties and responsibilities of the Parties with respect to
+•
+the administration and maintenance of the trunk groups, including, but
+NT PAe Compv3.1 09282007f.doc 75
+
+•
+not limited to, standards and procedures for notlficatton and
+discoveries of trunk disconnects;
+1·4.1.3 disaster recovery provision escalations;
+14.1..4 additional technically feasible Point(s) of Interconnection on Verizon's
+network In a LATA as provided In Section 2 of·this Attachment; and
+14.1.5 such other matters as the Parties may agree, Including, e.g., End
+Office to End Office high usage trunks as good engineering practices
+may dictate.
+14.2 Trunk Forecasting ReqUirements.
+14.2.1 Initial" Trunk Forecast Reauirements. At least ninety {90) days before
+Initiating Interconnection in a LA.TA, Neutral Tandem shall provide
+Verizon a two (2)--year traffic forecast that complies With the Verizon
+Interconnection Trunking Forecast Guide, as revised from Ume to time.
+This initial traffic forecast will provide the amount of traffic to be
+delivered to and from Verizon over each of the Interconnection 'frunk
+groups In the·LATA over the next eight (8) quarters.
+14.2.2 Ongoing Trunk Forecast Reaulrements. Where the Parties have ~
+already established interconnection In a LATA, Neutral Tandem shall
+provide a new or revised traffic forecast that complies wtth the Verizon
+lnterCOf.lnectlon Trunking Forecast Gulde when Neutral Tandem
+develops plans or become.s aware of Information that wlU materially •
+affect the Parties' Interconnection In that LATA. Instances that r(!ciulre
+a new or revised forecast include, but are not limited to: (a) Neutral
+Tandem plans to deplay a new switch; (b) Neutral Tandem plans to
+implement a new POI or network architecture: (c) Neutral Tandem
+plans to rearrange I~ network; {d) Neutral Tandem plans to convert a
+One-Way Interconnection Trunk group to a Two-Way 1nterconnectlon
+Trunk group; (e) Neutral Tandem plans·to convert a Two~Way
+Interconnection Trunk group to a One-Way lntercomectlon Trunk
+group; or (f) Neutral Tandem expects a significant ch~nge in
+interconnection traffic volume. In addition, upon request by either
+Party, the Parties shall meet to; (I) review traffic and usage data on
+End Office and Tandem lntercomectlon Trunk groups and (II)
+det~rmlne whether the Parties should establish new Interconnection
+Trunk groups; augment existing lntercomeetion Trunk groups, or
+disconnect exl~tlng Interconnection Trunks.
+14.2.3 Use of Trunk Forecasts. Trunk forecasts provided pur.:suant to this
+Agreement must be prepared In good faitt1 but are not otherwise
+binding on Neutral Tandem or Verizon.
+15. Number Portablllty ·Section 251 (B)(2}
+15.1 Scope.
+The Parties shall provide Number Portability (NP) in accordance with rules and
+regulations as from time to time prescribed by the FCC.
+t5.2 Procedures for Providing LNP (•Local Number Portability").
+•
+The Parties will follow the LNP provisioning process recommended by the North
+· NT PAe Compv3.1 09282007r.doc 78
+
+•
+American Numbering Council {NANC) and the Industry Numbering Council (INC),
+and adopted by 1he FCC. In addition, the Parties agree to follow the LNP
+ordering procedures established at the OBF. The Parties shall provide LNP on a
+reciprocal basis.
+15.2.1 A Customer of one Party ("Party A") elects to become a Customer of
+the other Party ("Party B"). The Customer elects to utilize the original
+telephone number{s) corresponding to the Telephone Exchange
+Service(s) it previously received from Party A. In conjunction with the
+Telephone Exchange Service{s) It will now receive from Party B. After
+Party B has received authorization from the Customer in accordance
+with Applicable Law and sends an LSR to Party A, Parties A and B will
+work together to port the Customer's telephone number(s) from Party
+A's network to Party B's network.
+15.2.2 When a telephone number is ported out of Party A's network, Party A
+will remove any non-proprietary line based calling card(s} associated
+with the ported number(s) from its Line Information Database (LIDB).
+Reactivation of the line-based calling card in another LIDS, if desired.
+is the responsibility of Party B or Party B's Customer.
+15.2.3 When a Customer of Party A ports their telephone numbers to Party B
+and the Customer has previously secured a reservation of line ~
+numbers from Party A for possible activation Sit a future point, these
+reserved but inactive numbers may be ported along with the active
+numbers to be ported provided the numbers have been reserved for
+•
+the Customer. Party B may request that Party A port all reserved
+numbers assigned to the Customer or that Party A port only those
+numbers listed by Party B. As long as Party B maintains reserved but
+Inactive numbers ported for the Customer, Party-A shall not reassign
+those numbers. Party B shall not reassign the reserved numbers to
+another Customer.
+15.2.4 When a Customer of Party A ports their telephone numbers to Party B,
+in the process of porting the Customer's telephone numbers, Party A
+shall implement the ten-digit trigger feature where it Is available. When
+. Party A receives the porting request, the unconditional trigger shall be
+applied to the Customer's line before the due date of the porting
+activity. When the ten-digit uncondltlonal trigger is not available, Party
+A and Party B must coordinate the disconnect activity.
+15.2.5 The Parties shall furnish each other with the Jurisdiction lnfonnation
+Parameter (~IP) in the Initial Address Message (IAM), according to
+industry standards.
+15.2.6 Where LNP is commercially available, the NXXs in the office shall be
+defined as portable, except as noted in 15.2. 7, and translations will be
+changed in the Parties' switches to open those NXXs for database
+queries in all applicable LNP capable offices within the LA TA of the
+given switch(es). On a prospective basis, all newly deployed switches
+will be equipped with LNP capability and so noted In the LERG.
+15.2.7 All NXXs assigned to LNP capable switches are to be designated as
+portable unless a NXX(s) has otherwise been designated as non
+• portable. Non-portable NXXs include NXX codes assigned to paging
+services; NXX codes assigned for internal testing and official use, ar\d
+any other NXX codes required to be designated as non-portable by the
+NT PAe Compv3.1 09282007f.doc 77
+
+•
+rules and regulatlQns of the FCC. NXX codes assigned to mass calllng
+on a oholced network may not be ported using LNP techROlogy but are
+portable using methods established by the NANC and adopted bythe
+FCC. On .a prospective basts, newly assigned codes in switches
+capable of porting shall become commercially available for porting with
+the effective date In the network.
+15.2.8 Both Parties' use of LNP shaH meet the performance criteria specified
+by the FCC. Both Parties will act as the default carrier for1he other
+Party In the event that either Party Is unable to perform the routing
+necessary for LNP.
+15.3 Procedures for Providing NP ThroUQh Full NXX Code Migration.
+Where a Party has.a ctivated an entire NXX for a single Customer, or activated at
+least eighty percent (80%) of an NXX for a single Customer, with the remaining
+numbers In that NXX either feseJVed forfuture use by that Customer or otherwise
+unused, If such Customer chooses to receive TelePflone·E xchange Service from
+the other Party, 1he first Party shall cooperate with the second Party to have the
+entire NXX reassigned in the LERG {and associated Industry databases, routing
+tables, etc.) to an End Office operated by the second 'Party. Such transfer·wlll be
+accomplished with appropriate coordir.iatlon between the Parties and subject to
+appropriate. Industry lead times for movements of NXXs from one switch to ~
+another. Neither Party shall charge the other In connection with this coordinated
+tranSfer.
+•
+15.4 Pl'Q()edures for LNP R(l<iuest.
+The Parties shall provide for the requesting of End Office t.NP capability on a
+reciprocal basis through a written request The Parties acknowledge that Verizon
+has deployed· LNP throughout Its network In compliance with FCC 96-286 and
+other applicable FCC Regulations. ·
+15.4.1 If Party B desires to have LNP capability deployed In an End Office of
+Party A, which Is not currently capable, Party B shall Issue a LNP
+request to Party A. Party A will respond to the Party B, ·wtthln ten (10)
+days of receipt of the request. with a date for which LNP will be
+available lo the requested End Office. Party A shall prc>CE*f to provide
+for lNP In compliance with ttie procedures and timellnes set forth in
+FCC 96-286, Paragraph 80, and FCC 97-74, Paragraphs 65 through
+67.
+15.4.2 The Parties ~nowledge that each can determine the LNP-capable
+End Offices of the other through the Local Exchange Routing Guide
+(LERG). In addition, the Partles shall make Information available upon
+reqaest showing their respective LNP-<;apable End Offices, as set forth
+In this Section 15.4.
+15.5- Neutral Tandem shall submit orders to port numbers efectronlcally using an LSR
+via the VerlzOD web ~raphlcal User Interface (•GUI") or Etectronio Data Interface
+("EDI") pursuant to the Instructions, business rules and gufdeHnes set forth on the
+Verizon Partner Solutions website (fonneriy referred to as the Verizon wholesale
+website).
+16. Good Faith Performance •
+If and, to the eXtent that, 'ilertzon, prior to the Effective Date of this Agreement, has not
+NT PAe Compv3.1 09282007f.doe 78
+·······-------------------~------------
+
+•
+provided in the Commonwealth of Pennsylvania a Service offered under this Attachment,
+Verizon reserves the rightto negotiate in good faith with Neutral Tandem reasonable
+terms and conditions (including, without limitation, rates and Implementation timeframes)
+for such Service; and, if the Parties cannot agree to such tenns and conditions (including,
+without limitation, rates and implementation timeframes), either Party may utilize the
+Agreement's dispute resolution procedures.
+.,
+•
+•
+NT PAe Compv3.1 09262007f.doc 79
+
+•
+RESALE ATTACHMENT
+1. General
+_vertzon shall provide to Neutral Tandem, in accordance wfth this Agreement (Including,
+b1.1t not llmlted to, Verlzon's applicable Tal'lffs) and the requirements of Applk:abfe Law,
+Vertzon's Telecommunications Services for resale by Neutrar Tand&m; provided, that
+notwithstanding any other provision of this Agreement, Verizon shall be obligated to
+provide TeleOommunlcations Services to Neutral Tandem only to the exte-nt required by
+Applicable Law and may decline to provide a Telecommunications Service to Neutral
+T-andem to the extent that provision of such Telecommunications Service Is not requlr~d
+by Applicable Law.
+2. Use of Verizon T•l4'Commu'11catlons Services
+2.1 Verizon Telecommunications Services may be purchased by Neu1ral Tandem
+under 1hls Resale Attaehment only for the PUlJ>Ose of resale by-Neutral Tandem·
+as a Telecommunications carrier. Verizon Telecommunications Services to be
+purchased by Neutral Tandem for other purposes (Including, but not limited to,
+Neutral Tandem's cmn use) must be purchased by Neutral Tandem pursuant to
+other applicable Attachments to this Agreement (If any), or separate written _
+agreements, Including, but not limited to, applicable Verizon Tariffs.
+2.2 Neutral Tandem shall not resell:
+2.2.1 Residential service to persons not eUglble fo subscribe to such service ••
+from Venzon (Including, but not limited to, business or other
+nonresidential Custoniers );
+2.2.2 Ufeline, Unk Up America, or other means.-tested service offerings, to
+persons not eligible to subscribe to such service offerings from
+Venzon;
+2.2.3 Grandfathered or discontinued service offerings to persons not eligible
+to subscribe to such service offerings from Verizsn; or
+2.2.4 Any other Verizon service In violation of a restriction stated in this
+Agreement (Including, but not limited to, a Verizon Tariff} that is not
+-· prohibited by Applicable Law.
+;- . .
+2.2.5 In addition to any other actions taken by Neutral Tandem to comply
+with this Section 2.2, Neutral Tandem shall.t ake 1hose actions required
+by Applicable Law to determine the ellglblllty of Neutral Tandem
+Customers to purchase a service, including, but not limited to,
+obtaining a.ny .proof or certification of ellglt>lllty to purchase Lifeline,
+Unk Up America, qr other means-tested services, required by
+Applicable Law. Neutral Tandem shall Indemnify Verizon from any
+Claims resulting from Neutral Tandem's failure to take such actions
+required by Applicable Law.
+2.2.6 Verizon may perform audits to confirm Neutral Tandem's conformity to
+the provisions of this Section 2.2. Such audits may be performed twice
+per calendar year and shall be performed ir:t accordance With Section 7
+of the General Terms and Conditions.
+.· •
+NT PAe Compv3.1 09282007f.doe 80
+------------------------------
+·----··--·
+
+•
+2.3 Neutral Tandem shall be subject to the same limitations that Verlzon's
+Customers are subject to with respect to any Tefecommunlcations Service that
+Verizon grandfathers or discontinues offering. Without limiting the foregoing,
+except to the extent that Verizon follows a different practice for Verizon
+Customers In regard to a grandfathered Telecommunications Service, such
+grandfathered Telecommunications Service: (a) shall be available only to a
+Customer that already has such Telecommunications Service: (b) may not be
+moved to a new service location; and (c) will be furnished only to the extent that
+facilities continue to be available to provide such Telecommunications Service.
+·2.4 Neutral Tandem shall not be eligible to participate in any Verizon plan or program
+under which Verizon Customers may obtain products or services, which are not
+Verizon Telecommunicatlons Services, in retum for trying, agreeing to purchase,
+purchasing, or using Verizon Telecommunications Services.
+2.5 In accordance with 47 CFR § 51.617(b), Verizon shall be entitled to all charges
+for Verizon Exchange Access services used by interexchange carriers to provide
+service to Neutral Tandem Customers.
+3. Availability of Verizon Telecommunications Services
+3.1 Verizon will provide a Verizon Telecommunications Service to Neutral Tandem
+for resale pursuant to this Attachment where and to the same extent, but only
+where and to the same extent that such Verizon Telecommunications Service is
+provided to Verlzon's Customers.
+•
+3.2 Except as otherwise required by Applicable Law, subject to Section 3.1 of this
+Attachment, Verizon shall have the right to add, modify, grandfather, discontinue
+or withdraw Verizon Telecommunications Services at any time, without the
+consent of Neutral Tandem.
+3.3 To the extent required by Applicable Law, the Verizon Telecommunicatlons
+Services to be provided to Neutral Tandem for resale pursuant to this Attachment
+will include a Verizon Telecommunications Service customer-specific c6ntract
+service arrangement (•CSA") (such as a customer specific pricing arrangement
+or individual case based pricing arrangement) that Verizon is providing to a
+Verizon Customer at the time the CSA is requested by Neutral Tandem.
+4. Responsibility for Charges
+.4.1 Neutral Tandem shall be responsible for and pay to Verizon all charges for any
+Telecommunications Services provided by Verizon or provided by. persons other
+than Verizon and billed for by Verizon, that are ordered, activated or used by
+Neutral Tandem, Neutral Tandem Customers or any other persons, through, by
+means of, or In assoclatjon with, Telecommunications Services provided by
+Verizon to Neutral Tandem pursuant to this Resale Attachment.
+·4.2 Upon request by Neutral Tandem, Verizon will provide for use on resold Verizon
+retail Telecommunications Service dial tone lines purchased by Neutral Tandem
+sUch Verizon retail Telecommunications Service call blocking and call screening
+services as Verizon provides to Its own end user retail Customers, where and to
+the extent Verizon provides such Verizon retail Telecommunications Service call
+blocking services to Verizon's own end user retail Customers. Neutral 'Tandem
+understands and agrees that certain of Verizon's call blocking and call screening
+• services are not guaranteed to block or screen all calls and that notwithstanding
+Neutral Tandem's purchase of such blocking or screening services, Neutral
+.
+NT PAe Compv3.1 09282007f.doc 81
+
+•
+Tandem'$ end user Customers or other persons ordering, activating or using
+Telecomtntinlcatlons Services on the resold dial tone lines may complete or
+accept calls which Neutral Tandem intend~ to block. Notwithstanding the
+foregoing, Neutral Tandem shall be responsible for and shall pay Verizon all
+charges for Telecommunications Services provided by Verizon or provided by
+persons other than Verizon and billed for by Verizon in accordance with the
+terms of Section 4.1 above •
+5. .()~rations Matters
+5.1 Facilities.
+5.1.1 Verizon and Its suppliers shall retain ·an of 'their right, title and interest
+in all facilities, equipment, software, information, and wlring used to
+provide Verizon Telecommunications Services.
+5.1.2 Verizon shall have access at all reasonable times to Neutral Tandem
+Customer locations for the purpose of Installing, Inspecting,
+maintaining, r~palring, and removing, faciffties, equipment, software,
+and wiring .used to provide the Verizon TelecommunicaUons Services.
+Neutral Tandem shall, at Neutral Tandem's expense, Obtain any rights
+and authorizations necessary for such access .
+.
+.
+5.1.3 Except as otherwise agreed to in writing by Ver1%on, Verizon shall not
+be responsibl& for1he Installation, inspection, repair, maintenance, or
+removal of (acllltles, equipment, softwaret or wiring provided by Neutral
+Tandem or Neutral Tandem Custamers for use with Verizon •
+TelecommunlcaUons Services.
+5.2 Branding.
+5.2.1 Except as stated In Section 5.2.2 of this Attachment, in providing
+Verizon Telecommunlcatlons Services to Neutral Tandem, Verizon
+shall have the rlght (but not the obligation) to Identify the Verizon
+Telecommunications Services with Verizo'n's trade names, trademarks
+and service marks {"Verizon Marks•), to the same extent that these
+Services are Identified with Verizon's Marks when they ate provided to
+Verlzon's customers. Any such Identification of Verizon's
+TeJecommunlcatlons Services shall not constitute the grant of a license
+or other right to Neutral Tandem to use \lerizon's Marks.
+5.2.2 To the extent reqttlrecl:by Applicable Law, upon-req®St by Neutral
+Tandem and at prices, terms and conditions to be negotiated by
+Neutral Tandem and Verizon, Verizon shall provide Verizon
+Telecommunications Services for resale that are Identified by Neutral
+Tandem's trade name, or that are not Identified by trade natne,
+trademark or service mark.
+5.2.3 If Verizon uses a third-party contractor to provide Verizon operator
+services or Verizon directory assl~tance, Neutral Tandem will be
+responsible for entering Into a direct contractual arrangement with the
+third-party contractor at Neutral Tandem's expense (a) to obtain
+Identification of Verizon operator services ot Verizon directory
+assistance purchased by Neutral Tandem for resale with Neutral
+Tandem's trade name, or (b) to obtain removal of Verizon Marks from
+Verizon o~rator services or Verizon directory assistance puroha589 •
+by Neutral Tandem for resale.
+NT P~ Compv3.1 09282007f.doo 82
+-------·-----------------~----------------
+
+•
+6. Rates and Charges
+The rates and charges for Verizon Telecommunication Services purchased by Neutral
+Tandem for resale pursuant to this Attachment shall be as provided in this Attachment
+and the Pricing Attachment.
+7. Good Faith Performance
+If and, to the extent that, Verizon, prior to the Effective Date of this Agreement, has not
+provided In the Commonwealth of Pennsylvania a Service offered under this Attachment,
+Verizon reserves the right to negotiate in good faith with Neutral Tandem reasonable
+terms and conditions (including, without limitation, rates and implementation timeframes)
+for such Service; and, if the Parties cannot agree to such terms and conditions (including,
+without limitation, rates and implementation tlmeframes), either Party may utilize the
+Agreemenfs dispute resolution procedures •
+••
+•
+NT PAe Compv3.1 09282007f.doc 83
+
+•
+NETWORK ELEMENTS ATTACHMENT
+1. · General
+1.1 Verizon shall provide to Neutral Tandem, In accordance with this Agreement
+(Including, but not-limited to, Verlzon's applicable Tai:tffs) and the requirements of
+the Federal Unbundling Rules, access to Verizon's Network Elements on·an
+unbundled basis and In combinations (Com~tion$}, and UNEs commingled
+with wholesale services ("Commingling•); provided, however, that
+notwithstanding any other provision of this Agreemf:)nt, Verizon shall be obligated
+to provide access to unbundled Network Elements (UNEs), Combinations, and
+Commingling to Neutral Tandem under the terms of this Agreement only to the
+extent required by the Federal Unbundling Rules and may decline to provide
+access to UNEs, ComblnatiQns, or Commingling to Neutral Tandem to the extent
+that provision of such UNEs, Combinations, or Comniingllng Is not required by
+the Federal Unbundling Rules.
+1.2 Verizon shall be obligated to combine UNEs that are not already combined In
+Verizon's network only to the.e xtent required by the Federal UnbundUng Rules.
+Except as ·otherwise required by this Agreement and the Federal Unbundling
+Rules: {a) Verizon shall be obligated to provide a UNE or Combination pLKSUant
+to this Agreement only to the extent such UNE or Combination, and the
+equipment and facllltles necessary to provide sudt UNE or Combination, are
+already available in Verlzon's. network; and (b) Verizon shall have no obligation to
+construct. modify, or deploy faclllties or eqUipment to offer any UNE or •
+Combination.
+1.3 Neutral Tandem may use a UNE or Combination only for those purposes for
+which Verizon Is required by the Federal Unbundling Rules to provide such UNE
+or Combination to Neutral Tandem. Without Umlting the foregoing, Neutral
+Tandem may not access a UNE or Combination for the exclusive provision of
+Mobile Wireless Setvioes or lnterexchange Setvlces. For purposes of thfs
+section, "lnterexchange Services" shall have 1he meaning set forth In the
+Triennial Review Remand Order and subsequent appllcable FCC orders. .
+1.3.1 Verizon shall not be obligated to provide to Neutral Tandem, and
+Neutral Tandem shall not request from Verizon, access to a proprietary
+· advanced intelligent network service.
+1.4. Nothing contained In this Agreement shall be Qeemed-to constitute an agreement
+by Verizon that any Item Identified In this Agreement as a Network Element Is (I)
+a Netw6rk Element under the-Federal Unbundling Rules, or (ii) a Network
+Element Verizon Is required by the Federal Unbul\dliRg Rules to provide. to
+Neutral T.andem on an unbundled basis or In combination with other Network
+Elements. ·
+1.5 If as the result of Neutral Tandem Customer actions (e.g., Customer Not Ready
+(~CNR")), Verizon cannot complete requested work aetlvlty when a technician
+has been dispat~ to Jhe Neutral Tandem Customer-premises, Neutral ·
+Tandem will be assessed a non-recumng charge associated with this visit. This
+charge will be the sum of the applicable Service Order Charge as proVided in the
+Pricing Attachment and the Customer Not Ready Charge provided for In the
+Pricing Attachment (or, In the absence of a customer Not Ready Charge, the
+•
+Premises Visit Charge as provided In Verlzon's applicable retail or wholesale...
+Tariff or In the Pricing Attachment).
+NT·PAe Compv3.1 09282007f.doc
+-··--· -·--·-------~------------------------------
+
+•
+1.6 Absence or Cessation of Unbundling Obligation and Related Provisions. The
+following provisions shall apply notwithstanding any other provision of this
+Agreement or any Verizon Tariff or SGAT.:
+1.6.1 Discontinued Facilities.
+1.6.1.1 Verizon may cease offering or providing Neutral Tandem
+with access on an unbundled basis at rates prescribed
+under Section 251 of the Act to any facility that is or
+becomes a Discontinued Facility, whether as a stand-alone
+UNE, as part of a Combination, or otherwise. To the extent
+Verizon has not already ceased offering.or providing
+unbundled access to a particular Discontinued Facility that
+is a Discontinued Facility as of the Effective Date, Verizon
+may cease offering or providing unbundled access to such
+Discontinued Facility immediately upon the Effective Date
+without further notice to Neutral Tandem. Subject to
+Section 1.7 below, If a facility on or at any time after the
+Effective Date is or becomes a Discontinued Facnlty,
+Verizon. to the extent It has not already ceased providing
+unbundled access to such Discontinued Facility, and
+provided It has given at least ninety (90) days written notice
+of discontinuance in cases where it has not already ceased
+providing such access, will continue to provide unbundled
+access to such Discontinued Facility under the Agreement
+only through the effective date of the notice of
+•
+discontinuance, and not beyond that date.
+1.6.1.2 Where Verizon is pennltted to cease providing a
+Discontinued Facility pursuant to Section 1.6.1 above and
+Neutral Tandem has not submitted an LSR or ASR, as
+appropriate, to Verizon requesting disconnection of the
+Discontinued Facility and has not separately secured from
+Verizon an alternative arrangement to replace the
+Discontinued Facility, then Verizon, to the extent it has not
+already done so, may disconnect the subject Discontinued
+Facility without further notice to Neutral Tandem. In lieu of
+disconnecting the subject Discontinued Facility fn the
+foregoing circumstances, Verizon, in Its sole discretion, may
+elect to: {a) convert the subject Discontinued Facility to_a n
+a~nQ!'!ment available under a Verizon access tariff (In
+which case month-to-month rates shall apply unless a
+different rate applies under an applicable special access
+tenn/volume plan or other special access tariff arrangement
+In which Neutral Tandem Is then enrolled), a resale
+arrangement. or other analogous arrangement that Verizon
+. shall identify or has identified in wntlng to Neutral Tandem,
+or (b) in lieu of such a conversion, reprice the subject
+Discontinued Facility by application of a new rate (or, in
+Verfzon's sole disa-etion, by application of a surcharge to an
+existing rate) to be equivalent to an arrangement avalla.ble
+under a Verizon access tariff (at month-to-month rates
+unless a different rate applies under an applicable special
+access term/volume plan or other special access tariff
+arrangement in which Neutral Tandem is then enrolled), a
+resale arrangement, or other analogous arrangement that
+NT PAe Compv3.1 09282007f.doc 85
+L------------- -----. ... - ....
+
+•
+VerizoA shall identify or has identified In writing ta Neutral
+Tandem; provided, however, that Verizon may disconnect
+the subject Discontinued Facility (or the replacement
+service to which the Discontinued Facility has been
+converted) If Neutral Tandem falls to pay when due any
+applicable new rate or surQharge billed by Verizon.
+· 1. 7 1RRO Certification and Related Provisions.
+1.7.1 TRRO Certification. Before requesting unbundled access to a DS1
+Loop, a DS3 Loop, DS1 Dedicated Transport, 0$3 DedlCated
+Tmnsport, or D~rk Fiber Transport, Including, but not limited to, any of
+the foregoing elements that constitute part of a Combination or that
+Neutral Tandem $88ks to convert from another wholesale service to an
+unbundled netwQrk element (coUectively, "TRRO Certification
+Elements"), Neutral Tandem must undertake a reasonably dUlgent
+Inquiry and, based on that Inquiry, certify that, to the best of Its
+knowledge, Neutral Tandem's request is consistent with the
+requirements of the TRRO and that Neutral Tandem i·s entitled to
+unbundled access to the subject element pursuant to section 251(cX3)
+of the Act Neutral Tandem shall provide such.c ertification using the
+automated method that Verizon makes avaUable for that purpose.
+Neutral Tandem's reasonably diligent Inquiry must include, at a
+minimum, consideration of any list of no™mpalred UNE Wire Centers
+that Verizon makes or has made avaHable to Neutral Tandem by notice
+and/or by publication on Verizon's wholesale website (the "Wire Center
+usr) and any back-up data that Verizon provides or has provided to •
+Neutral Tandem under a.n on.disclosure agreement or that Is otherwise
+available to Neutral Tandem.
+1.7.2 Provision-then-Dispute Requirements.
+1.7.2.1 Upon receiving a request from Neutral Tandem for
+unbundled access to a TRRO Certification Element and the
+certification required by Section 1.7.1 above, and except as
+prc;>vided.ln Section 1.7.2.3 below, Verizon shall process the
+request In accordance with any applicable standard
+lnt~als. If Verizon wishes to challenge Neutral Tandem's
+right to obtain unbundled access to the subject element
+pursuanUo 47 U.S.C. § 251(cX3), then {e>ecept as provided
+. In SectiQn 1.7.2.3· below) Verizon must provision the subject
+element.as a UNE and then seek resolution of tbe·d ispute
+by the Commission or the FCC, or through such other
+dispute resolution process that Verizon elects to Invoke
+under the dispute resolution provisions of this Agreement.
+1.7.2.2 If a dispute pursuant to section 1.7 .2.1 above is resolved in
+Verlzon's favor, then Neutral Tandem shall compensate
+Verizon for the additional charges that would apply If .
+Neutral Tandem had ordered the subject facility or service
+term
+Qfl a month..fo-month under. V~rizon's interstate special
+access tartff(exceptas provided In section 1.7.2.2.1 below
+as
+tO Dark Fiber Transport} and any other applicable
+charges, applicable back to the date of provisioning
+(Including, but not limited to, late payment charges for the •
+unpaid difference between UNE and access tariff rates):
+The month-to-month rates shall apply until such time as
+NT PAe Compv3.1 09282007f.doc 86

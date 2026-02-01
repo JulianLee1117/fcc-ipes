@@ -1,0 +1,257 @@
+151 South hall Lane, Ste. 450
+lnteserra Maitland, FL 32751
+P.O. Drawer 200
+•
+Winter Park, FL 32790-0200
+A FAStek Company
+www.inteserra.com
+April 12, 2022
+Via ECFS Filing
+REDACTED FOR PUBLIC INSPECTION
+Secretary, Federal Communications Commission
+Washington, DC 20554
+Attn: Wireline Competition Bureau
+RE: Request for Confidential Treatment of Filing of IDT Domestic Telecom, Inc.; Supplemental
+Information for Application of IDT Domestic Telecom, Inc. for Authorization to Obtain Numbering
+Resources Pursuant to Section 52.15(g) of the Commission's Rules, WC Docket No. 21-470
+Dear Ms. Dortch,
+Pursuant to Section §52.1S(g)(3)(i) of the Commission's Rules,1 lOT Domestic Telecom, Inc. ("lOT Domestic
+Telecom") hereby submits supplemental information to its Application for Authorization to Obtain
+Numbering Resources_
+lOT Domestic Telecom respectfully requests that, pursuant to Sections §0.457 and §0.459 of the
+Commission's Rules/ the Commission withhold from public inspection and accord confidential treatment to
+supplemental Exhibit A to the application because that document contains sensitive trade secrets and
+commercial information that falls within Exemption 4 of the Freedom of Information Act ("FOIA").3
+Moreover, IDT Domestic Telecom would suffer substantial competitive harm if this information were
+disclosed.
+Exhibit A is accordingly marked with the header "SUBJECT TO REQUEST FOR CONFIDENTIAL TREATMENT
+NOT FOR PUBLIC INSPECTION."
+In support of this request, lOT Domestic Telecom hereby states the following:
+1. IDENTIFICATION OF THE SPECIFIC INFORMATION FOR WHICH CONFIDENTIAL TREATMENT IS
+SOUGHT.
+lOT Domestic Telecom seeks confidential treatment of Exhibit A to its Application.
+2. DESCRIPTION OF CIRCUMSTANCES GIVING RISE TO THE SUBMISSION.
+IDT Domestic Telecom is submitting as Exhibit A the agreement between its carrier partner as proof
+of lOT Domestic Telecom's facilities readiness as required by Section 52. 15(g)(3)(i)(D) of the
+Commission's Rules.
+47 C.F.R. § 52.15(g).
+47 C.F.R. § 0.457 & §0.459.
+See 5 U.S.C. § 552(b)(4). Public disclosure is not required for "trade secrets and commercial or financial
+information obtained from a person and privileged or confidential."
+
+Page 2 of 3
+3. EXPLANATION OF THE DEGREE TO WHICH THE INFORMATION IS COMMERCIAL OR FINANCIAL, OR
+CONTAINS A TRADE SECRET OR IS PRIVILEGED.
+The information for which lOT Domestic Telecom seeks confidential treatment contains sensitive
+commercial information "which would customarily be guarded from competitors". Exhibit A
+describes the agreement between lOT Domestic Telecom and its carrier partner and contains
+proprietary commercial information concerning lOT Domestic Telecom's network, customers, and
+services.
+4. EXPLANATION OF THE DEGREE TO WHICH THE INFORMATION CONCERNS A SERVICE THAT IS
+SUBJECT TO COMPETITION.
+Exhibit A contains information relating to commercial matters which can be used by other
+interconnected VoiP providers to compromise lOT Domestic Telecom's position in the highly
+competitive interconnected VoiP business sector. Detailed operations and commercial information
+of the type provided by lOT Domestic Telecom could compromise lOT Domestic Telecom's position in
+this highly competitive industry. Accordingly, release of this information would result in substantial
+competitive harm to lOT Domestic Telecom.
+5. EXPLANATION OF HOW DISCLOSURE OF THE INFORMATION COULD RESULT IN SUBSTANTIAL
+COMPETITIVE HARM.
+Competitors could use lOT Domestic Telecom's proprietary commercial and operational information
+to lOT Domestic Telecom's detriment as they would gain access to sensitive information concerning
+lOT Domestic Telecom's commercial agreements, as well as information as to how lOT Domestic
+Telecom provides its services. The prices and terms for the provision of such services are a
+substantial differentiator between competing carriers. Therefore, disclosure of the Carrier
+Agreement would result in significant competitive harm to IDT Domestic Telecom's carrier partner.
+This information is not normally disclosed to the public.
+6. IDENTIFICATION OF ANY MEASURES TAKEN BY THE SUBMITTING PARTY TO PREVENT
+UNAUTHORIZED DISCLOSURE.
+lOT Domestic Telecom has not distributed the information in Exhibit A to the public; IDT Domestic
+Telecom is prohibited by contract from publicly disclosing the Carrier Agreement, except as expressly
+authorized by the carrier partner.
+7. IDENTIFICATION OF WHETHER THE INFORMATION IS AVAILABLE TO THE PUBLIC AND THE EXTENT
+OF ANY PREVIOUS DISCLOSURE OF THE INFORMATION TO THIRD PARTIES.
+IDT Domestic Telecom does not believe that the Carrier Agreement is available to the public or that
+the Carrier Agreement has ever been disclosed to third parties absent the protection of a non
+disclosure agreement regarding their contents.
+
+Page 3 of 3
+8. JUSTIFICATION OF THE PERIOD DURING WHICH THE SUBMITTING PARTY ASSERTS THAT MATERIAL
+SHOULD NOT BE AVAILABLE FOR PUBLIC DISCLOSURE.
+IDT Domestic Telecom requests that Exhibit A be withheld from public disclosure indefinitely. IDT
+Domestic Telecom and its carrier partner intend for the Carrier Agreement to remain in effect
+indefinitely and therefore any disclosure of the Carrier Agreement or their substance would cause
+competitive harm to IDT Domestic Telecom's carrier partner regarding of the timing of the
+disclosure.
+9. OTHER INFORMATION THAT IDT DOMESTIC TELECOM BELIEVES MAY BE USEFUL IN ASSESSING
+WHETHER ITS REQUEST FOR CONFIDENTIALITY SHOULD BE GRANTED.
+The information concerns IDT Domestic Telecom's proprietary network information, related to
+current and planned commercial and operational information, and as such, is commercially sensitive.
+For the foregoing reasons, IDT Domestic Telecom respectfully requests the Carrier Agreement be granted
+confidential status and withheld from public inspection.
+Any questions you may have regarding this filing should be directed to my attention at 407-740-3006 or via
+email to croesel@inteserra.com. Thank you for your assistance in this matter.
+Sincerely,
+/s/ Carey Roesel
+Carey Roesel
+Consultant
+cc: Carl Billek-IDT
+tms: FCx2101b
+CR/mp
+
+Exhibit A
+AGREEMENT BETWEEN
+IDT DOMESTIC TELECOM AND CARRIER PARTNER
+(Confidential exhibit submitted separately)
+
+Exhibit B
+(for each state listed)
+INTERCONNECTION AGREEMENTS BY AND
+BETWEEN CARRIER PARTNER
+AND
+AT&T OHIO
+FOR THE STATE OF OHIO
+
+TABLE OF CONTENTS
+PAGE I OF 2
+AT&T INDIANA, AT&T MICHIGAN. AT&T OHIO/ONVOY, INC.
+TABLE OF CONTENTS
+General Terms and Conditions
+Definitions
+I. CLEC Certification
+2. Term of the Agreement
+3. Operational Support Systems
+4. Parity
+5. Court Ordered Requests for Call Detail Records and Other Subscriber
+Information
+6. Liability and Indemnification
+7. Intellectual Property Rights and Indemnification
+8. Proprietary and Confidential Information
+9. Resolution ofDisputes
+I 0. Taxes
+II. Force Majeure
+12. Adoption of Agreements
+13. Modification of Agreement
+I4. Non-waiver of Legal Rights
+I5. Indivisibility
+I6. Severability
+17. Waivers
+18. Governing Law
+19. Assignments and Transfers
+20. Notices
+2I. Rule of Construction
+22. Headings of No Force or Effect
+23. Multiple Counterparts
+24. Filing of Agreement
+25. Compliance with Applicable Law
+26. Changes In End User Local Exchange Service Provider Selection
+27. Good Faith Performance
+28. Nonexclusive Dealings
+29. Rate True-Up
+30. Survival
+3 I. Entire Agreement
+
+GENERAL TERMS AND CONDITIONS
+PAGE I OF 23
+AT&T INDIANA, AT&T MICHIGAN, AT&T OHIO/ONVOY, INC.
+General Terms and Conditions
+AGREEMENT
+GENERAL TERMS AND CONDITIONS
+THIS AGREEMENT is made by and between one or more of the AT&T Inc. owned
+ILEC's. The Ohio Bell Telephone Company d/b/a AT&T Ohio, Indiana Bell Telephone
+Company Incorporated d/b/a AT&T Indiana, and/or Michigan Bell Telephone Company d/b/a
+AT&T Michigan hereinafter referred to as AT&T Indiana, AT&T Michigan, and AT&T Ohio
+(collectively referred to as "AT&T"), and Onvoy, Inc. d/b/a Onvoy Voice Services ("Onvoy,
+Inc."), a Minnesota corporation, for an interconnection agreement in the States of Indiana,
+Michigan and Ohio, (referred to as "CLEC") and shall be effective on the Effective Date, as
+defined herein. This Agreement may refer to either AT&T or CLEC or both as a "Party" or
+"Parties."
+WITNESSETH
+WHEREAS, AT&T is a local exchange telecommunications company authorized to
+provide telecommunications services in the states of Indiana, Michigan, and Ohio; and
+WHEREAS, CLEC is or seeks to become a CLEC authorized to provide
+telecommunications services in the states of Indiana, Michigan, and Ohio.
+WHEREAS, CLEC wishes to resell AT&T' s telecommunications services and
+purchase network elements and other services, and, solely in connection therewith, may wish to
+utilize collocation space as set forth in Attachment 4 of this Agreement; and
+WHEREAS, the Parties wish to interconnect their facilities and exchange traffic
+pursuant to Sections 251 and 252 of the Act.
+WHEREAS, in entering into this Agreement, the Parties acknowledge and agree that
+neither Party waives, and each Party expressly reserves, any of its rights, remedies or arguments
+it may have at law or under the intervening law or regulatory change provisions in this
+Agreement, with respect to any orders, decisions, legislation or proceedings and any remands by
+the FCC, state utility commission, court, legislature or other governmental body including,
+without limitation, any such orders, decisions, legislation, proceedings, and remands which were
+issued, released or became effective prior to the Effective Date of this Agreement, or which the
+Parties have not yet fully incorporated into this Agreement or which may be the subject of
+further government review; and
+WHEREAS, AT&T notes that pursuant to the SBC/A meritech Merger Conditions,
+approved by the FCC its Memorandum Opinion and Order, CC Docket 98-141, rei. (October 8,
+1999), SBC/Ameritech was obligated to transition the provisioning of certain Advanced
+Services, as that term is defined in such Conditions, to one or more separate Advanced Services
+
+GENERAL TERMS AND CONDITIONS
+PAGE 4 OF 23
+AT&T INDIANA, AT&T MICHIGAN, AT&T OHIO/ONVOY, INC.
+Telecommunications Act of 1996 (Act) means Public Law 104-104 of the
+United States Congress effective February 8, 1996. The Act amended the
+Communications Act of 1934 (47 U.S.C. Section 1 et. seq.).
+1. CLEC Certification
+1.1 Prior to execution of this Agreement, CLEC agrees to provide AT&T in writing
+CLEC's CLEC certification for all states covered by this Agreement except Kentucky
+prior to AT&T filing this Agreement with the appropriate Commission for approval.
+1.2 To the extent CLEC is not certified as a CLEC in each state covered by this
+Agreement as of the execution hereof, CLEC may not purchase services hereunder in
+that state. CLEC will notify AT&T in writing and provide CLEC certification when it
+becomes certified to operate in any other state covered by this agreement. Upon
+notification, AT&T will file this Agreement with the appropriate Commission for
+approval Term of the Agreement
+2.1 The term of this Agreement shall begin on the Effective Date and will end on August
+23, 2012, and shall apply to the AT&T territory in the state(s) oflndiana, Michigan,
+and Ohio. Notwithstanding any prior agreement of the Parties, the rates, terms and
+conditions of this Agreement shall not be applied retroactively prior to the Effective
+Date unless a Commission with competent jurisdiction explicitly orders otherwise,
+irrespective ofthe provisions ofthis Agreement.
+2.2 The Parties agree that by no earlier than two hundred seventy (270) days and no later
+than one hundred and eighty (180) days prior to the expiration of this Agreement,
+they shall commence negotiations for a new agreement to be effective beginning on
+the expiration date of this Agreement (Subsequent Agreement). If as of the
+expiration of this Agreement, a Subsequent Agreement has not been executed by the
+Parties, then except as set forth in Section 2.4 below, this Agreement shall continue
+on a month-to-month basis while a Subsequent Agreement is being negotiated. The
+Parties' rights and obligations with respect to this Agreement after expiration shall be
+as set forth in Section 2.3 below.
+2.3 If, within one hundred and thirty-five (135) days of commencing the negotiation
+referred to in Section 2.2 above, the Parties are unable to negotiate new terms,
+conditions and prices for a Subsequent Agreement, either Party may petition the
+Commission to establish appropriate terms, conditions and prices for the Subsequent
+Agreement pursuant to 47 U.S.C. 252. In the event the Commission does not issue its
+order prior to the expiration date of this Agreement, or if the Parties continue beyond
+the expiration of this Agreement to negotiate the Subsequent Agreement without
+Commission intervention, the terms, conditions and prices ultimately ordered by the
+Commission, or negotiated by the Parties, will be effective as of the effective date of
+the follow-on or Subsequent Agreement
+2.4 Except as set forth in Section 2.5 below, notwithstanding the foregoing, in the event
+that as of the date of expiration of this Agreement and conversion of this Agreement
+to a month-to-month term, the Parties have not entered into a Subsequent Agreement
+
+GENERAL TERMS AND CONDITIONS
+SIGNATURE PAGE
+AT&T INDIANA, AT&T MICHIGAN. AT&T OHIO/ONVOY, INC.
+Onvoy, Inc. Indiana Bell Telephone Company
+Incorporated d/b/a AT&T Indiana,
+Michigan Bell Telephone Company
+d/b/a AT&T Michigan, The Ohio Bell
+Telephone Company d/b/a AT&T
+Ohio by AT&T Operations, Inc., its
+authorized agent
+~
+~.
+By: ) By:
+Name: 5c.ou £ ./.3:£~ Name:
+(Print or Type)
+Title: Title: Director-
+6-..E.M£~ Co «Ar~£ L
+Interconnection Agreements
+(Print or Type)
+Date: ;?_ y_a ~ Date:

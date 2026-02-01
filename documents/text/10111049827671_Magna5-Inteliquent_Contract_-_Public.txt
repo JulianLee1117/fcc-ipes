@@ -1,0 +1,112 @@
+Service Exhibit
+Host Switch and Transport Services
+Under this Service Exhibit and the terms of the Master Services Agreement ('MSA') betrveen X5
+OpCo, LLC. ('Customey'') and Inteliquent Inc. ("Canier") dated February 22,2016, Customer will
+receive and Carrier will provide Host Switch and Transport Services (the "Services"). In the event of
+a conflict between a tenn in this Service Exhibit and a term in the MSA, the term in this Service
+Exhibit will govern with respect to the Services. The definitions in the MSA apply to any term that is
+not defined in this Service Exhibit. This Service Exhibit is effective on February 22,2016 ("Effective
+Date').
+l. l.
+List of market(s). Carrier will provide the Services in the LATAs set forth on Exhibit The
+parties may add additional markets by executing "Seryice Orders" that set out by LATA the relevant
+charges and any additional terms and conditions agreed to by the parties.
+2.
+The Services: and Certain Definitions.
+2.1
+For the purposcs of this Service Exhibit:
+a.
+"Host Switch" has the meaning defined in the next paragraph.
+b.
+"ILEC'means an Incumbent Local Exchange Carrier.
+c.
+"Inbound Traffic" means all inbound traffic terminating to Customer under this Agreement.
+d.
+"IXC'means an Inter-exchange Carrier
+e.
+"Local Traffrc" means calls that Carrier receives from the ILEC over its local tunks with the
+applicable ILEC. o'Local Traffic" includes traffrc originating from a third pady that the ILEC
+feats as local transit haffrc.
+f.
+"Local Transit Traf,fic" means calls that that Carrier receives over its local transit seryice
+trunks from an On-net carrier. "Local Transit Traffic" excludes Local Traffic.
+g.
+"OfFnet carrief' or "Of[-net IXC carriet'' means a third party carrier to which Carrier is not
+directly connected.
+h. "On-net carrier" or "On-n€t IXC carrier" means a third party carrier to which Canier is
+directly connected. In no event will the ILEC be an On-net carrier or On-net IXC carrier.
+i. "Switched Access Traffic" means InterLATA or IntraLATA toll calls terminating to
+Customer via Carrier's FGD tandem.
+2.2
+Customer may use Canier's interconnection trunks to the applicable ILECs by populating
+Carrier's switch (the "Host S\uitch") as the 'Actu:d SW ID' in the LERG for Customer's NPA./IDO('s
+for the purpose ofreceiving:
+a.
+Local Traffic originating fiom an ILEC subscriber; and
+I
+Confidential
+
+b.
+Local Traffic originating from a non-ILEC subscriber transited by the ILEC via the ILEC's
+local fansit service.
+2.3
+Customer will receive from Carrier Local Transit Traffic that originates from Carrier's third
+party provider customers and terminates to Customer via Carrier's tandem.
+2.4 Customer will populate Carrier's access tandem as the originating and terminating FGD
+Tandem for Customer's NPA./I{XX's so that Switched Access Traffic will be terminated from IXCs
+via Carrier's access homing tandem service.
+3.
+Transport Services. Carrier will receive all Local Traffic, Local Transit Traffic and Switched
+Access Traffic calls and transport such traffic'(the "Transport Service") to Customer using the
+interconnection fasilities set out in Section 4.
+4. Interconnection. The parties plan to connect using a public IP connection, If the parties
+subsequently elect to interconnect using a GigE transport facility, Customer will pay Canier the
+charges mutually agreed to by the parties in writing for such interconnection. Separate trunk groups
+will be used for calls terminating to calling card applieations. Separate trunk groups will also be used
+for any other service provided by Carrier, such as Carrier's DID service.
+Customer will not send any outbound traffic under this Service Exhibit. Any outbound traffic must
+be sent under a separate agreement using separate ffunk groups.
+5. Term: Commencing on the date set forth underneath Customer's signahrre, the initial term of
+this Agreement is one year. The term will automatically renew on a month to month basis, unless
+terminated by written notice provided by either Party to the other no less than 90 days prior to the end
+of the initial term or 30 days prior to any renewal term. Notwithstandirrg the foregoing, Customer
+may terminate this Agreement on 30 days'notice if Carrier exercises its right to adjust the rates and
+fees (as set forth in Section 6 or in Exhibit l).
+6.
+Monthly Charges. In exchange for the Services, Customer will pay the charges set forth on
+l.
+Exhibit Canier may adjust the prices by providing Customer with 60 day's prior written notice.
+7. Customer Responsibilities. Customer will: (a) enter into and maintain an interconnection
+agreement ("ICA') with the ILECs seruing the local calling area in which the Host Switch is located,
+(b) meet all 9l I requirements, including 9l l interconnections or waivers, (c) meet any local number
+porability (LNP/LRN) requirements, (d) obtain a POI CLLI (common language location identifier)
+code in the serving LATA to home its NPANXX's, (e) populate Carrier's end-office switch in the
+LERG as the 'Actual SW ID' for purposes of receiving Local Traffrc and Local Transit Traffic over
+the ILEC interconnection trunks and populate Carrier's access tandem as the originating and
+terminating FGD Tandem in the LERG with an effective date that has been agreed to by Carrier, and
+(f) meet any other responsibility normally associated with operating as a facilities based local service
+provider in the state in which the Host Switch is located.
+Customer must also obtain and maintain LRN for delivery of 3d Parly Traffic to Customer in the
+applicable market.
+8. Carrier ResLonsibilities. If applicable, Carrier will provide Customer with a letter of
+authorization (LOA) allowing Customer to use Carrier's Host Switch as the Actual Switch in the
+LERG. Upon the completion of installation and testing of interconnection facilities and
+2
+Confidential
+
+implementation of the Services using a Host Switch in a LATA, Carrier will notiff Customer, in
+writing or email, that the Service is available for use.
+9. Third Parties. Customer will not charge Carrier any amounts in connection with Local
+Traffic, Local Transit Traffic and Switched Access Traffic or otherwise under this Service Exhibit.
+Customer will be responsible for and indemni$ Carrier against any and all charges levied by any
+third party telecommunications provider in connection with the Local Traffic, Local Transit Traffic
+and Switched Access Traffic, including any intercarier compensation or termination charges.
+Customer will be responsible for Carrier's expenses, including reasonable attorneys' fees and
+expenses, incurred in successfully collecting any such amounts from Customer.
+X5 OpCo, LLC
+Name: Nathan Bledsoe
+Title: CTO
+Inteliquent, Inc. acceptance
+signature:
+3
+Confidential

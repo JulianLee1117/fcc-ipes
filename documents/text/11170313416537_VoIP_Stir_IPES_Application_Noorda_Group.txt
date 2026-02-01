@@ -1,0 +1,254 @@
+Allan Noorda
+allan.noorda@noordagroup.com
+Cellular: 541.280.2588
+September 1, 2023
+FIRST-CLASS MAIL (Confidential filing)
+Marlene H. Dortch
+Office of the Secretary
+Federal Communications Commission
+445 12th Street SW
+Washington, D.C. 20554
+Re: Request for Confidential Treatment of Filing of VoIP Stir PR
+LLC.; Application of VoIP Stir PR, LLC. for Authorization to
+Obtain Numbering Resources, WC Docket No. 20 -
+Dear Secretary:
+Pursuant to Section 52.15(g)(3)(i) of the Commission’s Rules, VoIP Stir PR, LLC. (“VoIP Stir”),
+hereby submits its application requesting authorization to obtain numbering resources.
+This filing includes confidential information. As contemplated by the Commission’s rules, we
+are filing the public version electronically and the confidential version via first-class mail.
+VoIP Stir respectfully requests that, pursuant to Sections 0.457 and 0.459 of the Commission’s
+rules, 47 C.F.R. §§ 0.457 and 0.459, the Commission withhold from public inspection and grant
+confidential treatment to Exhibit A, a document that contains sensitive trade secrets and
+commercial information that falls within Exemption 4 of the Freedom of Information Act
+(“FOIA”).1 VoIP Stir, LLC. is voluntarily providing this information, “of a kind that would
+customarily not be released to the public”; therefore, this information is “confidential” under
+FOIA.2 Moreover, VoIP Stir would suffer substantial competitive harm if this information were
+disclosed.3 As such, Exhibit A is marked with the header “SUBJECT TO REQUEST FOR
+CONFIDENTIAL TREATMENT – NOT FOR PUBLIC INSPECTION.”
+In support of this request and pursuant to Section 0.459(b) of the Commission’s rules,4 VoIP
+Stir hereby states as follows:
+1 5 U.S.C. § 552(b)(4).
+2 Critical Mass Energy Project v. NRC, 975 F.2d 871, 879 (D.C. Cir. 1992).
+3 See Nat’l Parks & Conservation Ass’n v. Morton, 498 F.2d 765 (D.C. Cir. 1974).
+4 47 C.F.R. § 0.459(b).
+
+1.
+IDENTIFICATION OF THE SPECIFIC INFORMATION FOR WHICH
+CONFIDENTIAL TREATMENT IS SOUGHT.5
+VoIP Stir, LLC. seeks confidential treatment of Exhibit A to the enclosed application.
+2.
+DESCRIPTION OF CIRCUMSTANCES GIVING RISE TO THE SUBMISSION.6
+As proof of VoIP Stir’s facilities readiness as required by Section 52.15(b)(3)(i)(D) of
+the Commission’s rules, VoIP Stir is submitting the agreement between it and its
+carrier partner as Exhibit A.
+3.
+EXPLANATION OF THE DEGREE TO WHICH THE INFORMATION IS
+COMMERCIAL OR FINANCIAL; OR CONTAINS A TRADE SECRET OR IS
+PRIVILEGED.7
+The information for which VoIP Stir seeks confidential treatment contains sensitive
+commercial information which would customarily be guarded from competitors.8
+Exhibit A describes the agreement between VoIP Stir and its carrier partner and
+contains proprietary commercial information concerning the operations and pricing of
+VoIP Stir, LLC.’s carrier partner and VoIP Stir’s network, services, and operating costs
+and expenses.
+4.
+EXPLANATION OF THE DEGREE TO WHICH THE INFORMATION
+CONCERNS A SERVICE THAT IS SUBJECT TO COMPETITION.9
+Exhibit A contains information relating to commercial matters that could be used by
+competitors to VoIP Stir’s disadvantage. VoIP Stir has numerous competitors in the
+Voice over Internet Protocol (“VoIP”) services sector in which it operates. Detailed
+operations and commercial information of the type provided by VoIP Stir could
+compromise VoIP Stir’s position in this highly competitive industry. Release would
+therefore result in substantial competitive harm to VoIP Stir.
+5.
+EXPLANATION OF HOW DISCLOSURE OF THE INFORMATION COULD
+RESULT IN SUBSTANTIAL COMPETITIVE HARM.10
+Competitors could use VoIP Stir’s proprietary commercial and operational information
+to VoIP Stir’s detriment as they would gain access to sensitive information about how
+VoIP Stir provides services as well as about VoIP Stir’s commercial agreements with
+others in the market that are not normally disclosed to the public.
+5 47 C.F.R. § 0.459(b)(1).
+6 47 C.F.R. § 0.459(b)(2).
+7 47 C.F.R. § 0.459(b)(3).
+8 47 C.F.R. §§ 0.457(d) and 0.459.
+9 47 C.F.R. § 0.459(b)(4).
+10 47 C.F.R. § 0.459(b)(5).
+
+6.
+IDENTIFICATION OF ANY MEASURES TAKEN BY THE SUBMITTING PARTY
+TO PREVENT UNAUTHORIZED DISCLOSURE.11
+VoIP Stir has not distributed the information in Exhibit A to the public.
+7.
+IDENTIFICATION OF WHETHER THE INFORMATION IS AVAILABLE TO
+THE PUBLIC AND THE EXTENT OF ANY PREVIOUS DISCLOSURE OF THE
+INFORMATION TO THIRD PARTIES.12
+VoIP Stir has not previously disclosed the information in Exhibit A to the public or to
+third parties.
+8.
+JUSTIFICATION OF THE PERIOD DURING WHICH THE SUBMITTING
+PARTY ASSERTS THAT MATERIAL SHOULD NOT BE AVAILABLE FOR
+PUBLIC DISCLOSURE.13
+VoIP Stir requests that Exhibit A be treated as confidential for a period of ten years. This
+period is necessary due to the proprietary nature of the information in Exhibit A.
+9.
+OTHER INFORMATION THAT VoIP Stir, LLC. BELIEVES MAY BE USEFUL
+IN ASSESSING WHETHER ITS REQUEST FOR CONFIDENTIALITY SHOULD
+BE GRANTED.14
+The information concerns VoIP Stir’s proprietary network information, related to
+current and planned commercial and operational information, and, as such, is
+commercially sensitive.
+Any questions you may have regarding this filing should be directed to my attention at (541) 280-2588 or
+via email to allan.noorda@noordagroup.com. Thank you for your assistance in this matter.
+Respectfully Submitted,
+Allan Noorda | Director
+Noorda Group LLC.,
+Representative for VoIP Stir, LLC.
+11 47 C.F.R. § 0.459(b)(6).
+12 47 C.F.R. § 0.459(b)(7).
+13 47 C.F.R. § 0.459(b)(8).
+14 47 C.F.R. § 0.459(b)(9).
+
+Before the
+Federal Communications Commission
+Washington, D.C. 20554
+In the Matter of )
+)
+VoIP Stir PR, LLC. ) WC Docket No. 20 -
+)
+For Authorization to Obtain Numbering )
+Resources Pursuant to Section 52.15(g) of )
+The Commission’s Rules )
+APPLICATION OF VoIP Stir, LLC. FOR AUTHORIZATION TO OBTAIN
+NUMBERING RESOURCES
+VoIP Stir PR, LLC. (“VoIP Stir”), pursuant to Section 52.15(g)(3)(i) of the
+Commission’s Rules, respectfully requests authorization to obtain numbering resources as
+described below.
+As set forth in the Commission’s Numbering Order,1 an interconnected VoIP provider may
+obtain numbering resources from the Numbering Administrator upon a showing that it is
+authorized to provide service in the area for which the numbering resources are requested. Such
+authorization may be obtained upon an application to the Commission containing the information
+detailed in Sections 52.15(g)(3)(i)(A)-(F) of the Commission’s Rules. VoIP Stir a VoIP provider,
+hereby requests the Commission grant it that authorization. In support of this application, VoIP
+Stir provides the following information.
+1 Numbering Policies for Modern Communications et al., Report and Order, 30 FCC Rcd. 6839 (2015).
+
+I. INFORMATION REQUIRED BY SECTION 52.15(g)(3)(i) (A)
+§ 52.15(g)(3)(i)(A)
+Name: VoIP Stir PR, LLC.
+Physical Address: 1607 Poince De Leon Avenue, Suite GM8
+San Juan, PR 00909
+Mailing Address: 1607 Poince De Leon Avenue, Suite GM8
+San Juan, PR 00909
+Telephone: Toll Free: 800-610-4880
+Local Number: 917-287-2067
+Company Fax: 234-200-0588
+Qualified Personnel: George Von Kaltner; President & CEO
+Company Website: www.voipstir.com
+Contact for Regulatory Requirements, Compliance, 911, and Law Enforcement:
+Physical Address: 1607 Poince De Leon Avenue, Suite GM8
+San Juan, PR 00909
+Mailing Address: 1607 Poince De Leon Avenue, Suite GM8
+San Juan, PR 00909
+Telephone: 800-610-4880
+Email:
+(B) § 52.15(g)(3)(i)(B)
+VoIP Stir hereby acknowledges that authorization to obtain numbering resources under
+Section 52.15(g) of the Commission’s Rules is subject to compliance with applicable
+
+Commission numbering rules as well as to the numbering authority delegated to the states.
+VoIP Stir hereby also acknowledges that this authorization is subject to compliance with industry
+guidelines and practices regarding numbering, as applicable to telecommunications carriers.
+(C) § 52.15(g)(3)(i)(C)
+VoIP Stir hereby acknowledges that is must file requests for numbers with the relevant
+state commission(s) at least 30 days before requesting numbers from the Numbering
+Administrators.
+(D) § 52.15(g)(3)(i)(D)
+VoIP Stir hereby sets forth its capability to provide service within 60 days of the
+numbering resources activation date. VoIP Stir intends to initially provide VoIP services in the
+United States through its own facilities and those of its CLEC partner(s) with which it has
+arrangements in place for routing traffic to the PSTN. Under its current agreements and
+established procedures, VoIP Stir will be able to place nearly all numbers into service within a
+short timeframe, and all numbers will be placed into service within 60 days of activation. As
+further proof of its facilities readiness, VoIP Stir has attached to this application, as Exhibit A,
+a confidential agreement between VoIP Stir and its carrier partner providing that the carrier
+partner will provide switching and transport services for traffic associated with VoIP Stir’s
+numbers and, in that connection, provide connectivity to the PSTN for inbound calls to and
+outbound calls from VoIP Stir numbers. (VoIP Stir has requested confidential treatment under
+the Commission’s rules for Exhibit A.) Also attached, as Exhibit B, is evidence of
+interconnection agreements between VoIP Stir’s carrier partner(s) and incumbent local
+exchange carriers.
+
+(E) § 52.15(g)(3)(i)(E)
+VoIP Stir hereby certifies that it complies with its Universal Service Fund
+contribution obligations under 47 CFR part 54, subpart H; its Telecommunications Relay Service
+contribution obligations under 47 CFR § 64.604(c)(5)(iii); its North American Numbering
+Plan and Local Number Portability Administration contribution obligations under 47 CFR §§
+52.17 and 52.32; its obligations to pay regulatory fees under 47 CFR § 1.1154; and its 911
+obligations under 47 CFR part 9. VoIP Stir holds the FRN #0030805568 and the USAC 499
+Filer ID # 834339.
+(F) § 52.15(g)(3)(i)(F)
+VoIP Stir hereby certifies that it has the managerial, financial and technical expertise to
+provide reliable service to Customers. VoIP Stir is financially stable, is led by an, experienced
+and seasoned management team with substantial leadership experience in the
+telecommunications and technology industry. Additionally VoIP Stir has sound, complete and
+strong technical expertise along with the infrastructure in place to provide reliable numbering
+and related VoIP services.
+VoIP Stir far exceeds the technical qualifications necessary to provide and maintain
+successful operations within its given service area. VoIP Stir also has the capabilities to
+efficiently port and place numbers into service and successfully route calls. Additionally, VoIP
+Stir key management team has long term experience and expertise in the telecommunications
+field along with having with deep experience in number porting therefore enabling VoIP Stir
+along with its carrier partners, to create routing arrangements that seamlessly deliver calls to
+numbers directly assigned to VoIP Stir.
+
+VoIP Stir’s personnel have extensive business and management experience in
+telecommunications and technology related businesses and in serving its targeted customer
+segment, including telecommunications carriers, IP service providers, and business customers of
+IP, communications, information and technology services. These individuals lead a team that is
+highly qualified to manage the technical and functional operations of VoIP Stir throughout its
+service area. VoIP Stir’s key management and technical team members are listed below and also
+in exhibit C. None of the identified personnel is being or has been investigated by the
+Commission or any law enforcement or regulatory agency for failure to comply with any law,
+rule, or order.
+Key Personnel:2 George Von Kaltner, President & CEO
+Maxim Doumkine, CTO
+(G) § 52.15(g)(3)(i)(G)
+VoIP Stir hereby certifies that no party to this application is subject to a denial of Federal
+benefits pursuant to Section 5301 of the Anti-Drug Abuse Act of 1988, 21 U.S.C. § 862.
+II. ACKNOWLEDGEMENT OF CONDITIONS IN SECTION 52.15(g)(3)(iv)
+As required by Section 52.15(g)(3)(iv), VoIP Stir will maintain the accuracy of all
+contact information and certifications in this application, and will file a correction with the
+Commission and each applicable state within 30 days of any changes. VoIP Stir will also furnish
+accurate regulatory and numbering contact information to each state commission when requesting
+numbers in that state.
+
+III. CONCLUSION
+Pursuant to Section 52.15(g)(3)(i) of the Commission’s Rules, VoIP Stir PR, LLC.
+respectfully requests the Commission grant this application for authorization to obtain numbering
+resources.
+Respectfully submitted,
+Allan Noorda | Director
+Noorda Group LLC.,
+Representative for VoIP Stir, LLC.
+2 Attached hereto, as Exhibit B, are the names, titles, biographies, and contact information of VoIP Stir
+PR, LLC’s key management and technical personnel.
+
+EXHIBIT A
+CONFIDENTIAL MATERIALS OMITTED
+AGREEMENT
+BETWEEN VOIP STIR, LLC, AND CARRIER PARTNERS
+SUBJECT TO REQUEST FOR CONFIDENTIAL
+TREATMENT NOT FOR PUBLIC INSPECTION
+
+EXHIBIT B
+VoIP Stir, LLC.
+KEY MANAGEMENT AND TECHNICAL PERSONNEL
+George Von Kaltner: President & CEO
+George brings over 20 years of CEO experience and leadership to VoIP Stir. With his innovative vision for service
+provisioning and technology demands also devised around regulatory and market conditions George continues to lead
+VoIP Stir’s clients and partners into a leading service provider.
+Maximum Doumkine: CTO
+Maxim is a serial developer with designs spanning multiple telecom market sectors. With over 15 years as a Chief
+Technology Officer, Maxim has been managing, developing and implementing complex solutions that brings continuity to
+VoIP Stir and a solid roadmap to our internal projects. His presence as the CTO of VoIP Stir has been crucial in the
+development for VoIP Stir's corporate strategies

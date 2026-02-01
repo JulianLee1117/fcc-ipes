@@ -1,0 +1,129 @@
+1
+Robocall Mi(cid:415)ga(cid:415)on Database Filings
+X-NETS INC.
+FRN # 0036854842
+04/07/2025
+CONFIDENTIAL
+X-NETS INC FILING FOR ROBOCALL MITIGATION DATABASE
+
+2
+Contents
+INFORMATION REQUIRED BY SECTION 47 CFR § 64.6305(a) ........................................................................ 3
+Company Legal Informa(cid:415)on: ................................................................................................................. 3
+Contact for Regulatory Requirements, 911, and Law Enforcement: ..................................................... 3
+X-Nets INC Cer(cid:415)fica(cid:415)on:................................................................................................................................ 4
+Robocall Mi(cid:415)ga(cid:415)on Implementa(cid:415)on by X-Nets ............................................................................................ 4
+1. Call Authen(cid:415)ca(cid:415)on – Implement STIR/SHAKEN .................................................................................... 4
+2. Traffic Monitoring and Analy(cid:415)cs ........................................................................................................... 4
+3. Call Blocking and Labeling Tools ............................................................................................................ 5
+4. Know Your Customer (KYC) & Onboarding Controls ............................................................................. 5
+5. Caller ID Management and Valida(cid:415)on .................................................................................................. 5
+6. Incident Response Plan ......................................................................................................................... 5
+7. Regulatory Compliance & Repor(cid:415)ng ..................................................................................................... 6
+8. Subscriber Educa(cid:415)on and Support ........................................................................................................ 6
+9. Interconnect & Peering Policies ............................................................................................................ 6
+CONFIDENTIAL
+X-NETS INC FILING FOR ROBOCALL MITIGATION DATABASE
+
+3
+INFORMATION REQUIRED BY SECTION 47 CFR §
+64.6305(a)
+Company Legal Informa(cid:415)on:
+Name: X-NETS INC
+Address: 123 BERNAL AVE
+City: MOSS BEACH
+State: CALIFORNIA
+ZIP Code: 94038
+Country: USA
+Telephone: (650) 451-1787
+Website: h(cid:425)ps://www.x-nets.com/
+Contact for Regulatory Requirements, 911, and Law Enforcement:
+Name: Majdi Abdulqader PhD
+Address: 123 BERNAL AVE
+City: MOSS BEACH
+State: CALIFORNIA
+ZIP Code: 94038
+Country: USA
+Telephone: (925) 383 0904
+E-mail Address: majdi.abdulqader@x-nets.com
+CONFIDENTIAL
+X-NETS INC FILING FOR ROBOCALL MITIGATION DATABASE
+
+4
+X-Nets INC Cer(cid:415)fica(cid:415)on:
+X-Nets Inc. cer(cid:415)fies that all of the calls that it originates on its network are subject to a robocall
+mi(cid:415)ga(cid:415)on program consistent with 47 CFR § 64.6305(a), which shall include reasonable steps to avoid
+origina(cid:415)ng illegal robocall traffic and shall include a commitment to respond fully and within 24 hours to
+all traceback requests from the Commission, law enforcement, and the industry traceback consor(cid:415)um,
+and to cooperate with such en(cid:415)(cid:415)es in inves(cid:415)ga(cid:415)ng and stopping any illegal robocallers that use its
+service to originate calls.
+X-Nets Networks also cer(cid:415)fies that any prior cer(cid:415)fica(cid:415)on has not been removed by Commission ac(cid:415)on,
+and it has not been prohibited from filing in the Robocall Mi(cid:415)ga(cid:415)on Database by the Commission, and
+that it has fully implemented the STIR/SHAKEN authen(cid:415)ca(cid:415)on framework across its en(cid:415)re network and
+all calls it originates are compliant with 47 CFR § 64.6301(a)(1) and (2).
+Robocall Mi(cid:415)ga(cid:415)on Implementa(cid:415)on by X-Nets
+To prevent illegal robocalls from origina(cid:415)ng or termina(cid:415)ng on X-Nets network, and protect our end
+users, and ensure compliance with regula(cid:415)ons (e.g., FCC in the US).
+1. Call Authen(cid:415)ca(cid:415)on – Implement STIR/SHAKEN
+Objec(cid:415)ve: Prevent caller ID spoofing and verify call legi(cid:415)macy.
+ Ac(cid:415)on Items:
+o Deploy STIR/SHAKEN framework for all SIP traffic on IP-based por(cid:415)ons of the network.
+o Sign all outbound calls with appropriate a(cid:425)esta(cid:415)on level (Full, Par(cid:415)al, Gateway).
+o Verify inbound calls using SIP Iden(cid:415)ty headers and reject or flag unverifiable calls.
+2. Traffic Monitoring and Analy(cid:415)cs
+Objec(cid:415)ve: Iden(cid:415)fy and block robocall traffic in real (cid:415)me.
+ Ac(cid:415)on Items:
+o Monitor call pa(cid:425)erns (e.g., high volume, short-dura(cid:415)on bursts, sequen(cid:415)al dialing).
+CONFIDENTIAL
+X-NETS INC FILING FOR ROBOCALL MITIGATION DATABASE
+
+5
+o Deploy AI/ML tools to detect anomalies and suspicious behavior.
+o Set rate limits or alerts for unusual spikes from a specific account or trunk.
+3. Call Blocking and Labeling Tools
+Objec(cid:415)ve: Empower subscribers and automa(cid:415)cally block known bad actors.
+ Ac(cid:415)on Items:
+o Integrate with third-party robocall detec(cid:415)on databases (e.g., Nomorobo, Hiya, TNS).
+o Implement call labeling (e.g., "Spam Likely") for untrusted calls.
+o Allow consumers to opt-in/opt-out of call blocking or labeling.
+4. Know Your Customer (KYC) & Onboarding Controls
+Objec(cid:415)ve: Prevent bad actors from obtaining VoIP access.
+ Ac(cid:415)on Items:
+o Enforce strong KYC during customer onboarding.
+o Require valida(cid:415)on for enterprise use cases with high call volumes.
+o Use automated reputa(cid:415)on scoring of SIP endpoints and customers.
+5. Caller ID Management and Valida(cid:415)on
+Objec(cid:415)ve: Ensure outbound caller IDs are authorized and traceable.
+ Ac(cid:415)on Items:
+o Only allow outbound CLI from numbers verified and owned by the user.
+o Monitor for misuse of toll-free, government, or high-value numbers.
+6. Incident Response Plan
+Objec(cid:415)ve: Act quickly on robocall incidents and prevent recurrence.
+ Ac(cid:415)on Items:
+o Establish a rapid takedown process for detected robocall sources.
+CONFIDENTIAL
+X-NETS INC FILING FOR ROBOCALL MITIGATION DATABASE
+
+6
+o Create a dedicated abuse and complaints team.
+o Report malicious traffic sources to traceback groups (e.g., USTelecom’s ITG).
+7. Regulatory Compliance & Repor(cid:415)ng
+Objec(cid:415)ve: Align with na(cid:415)onal and interna(cid:415)onal robocall regula(cid:415)ons.
+ Ac(cid:415)on Items:
+o Register in the FCC Robocall Mi(cid:415)ga(cid:415)on Database (if opera(cid:415)ng in the US).
+o Submit a detailed Robocall Mi(cid:415)ga(cid:415)on Plan annually.
+o Stay updated with evolving rules from FCC, CRTC, Ofcom, etc.
+8. Subscriber Educa(cid:415)on and Support
+Objec(cid:415)ve: Inform and support users in iden(cid:415)fying and repor(cid:415)ng robocalls.
+ Ac(cid:415)on Items:
+o Provide clear documenta(cid:415)on and tools for call blocking.
+o Offer a way for customers to report robocalls or spoofed calls.
+o Regularly share updates and best prac(cid:415)ces.
+9. Interconnect & Peering Policies
+Objec(cid:415)ve: Ensure upstream/downstream providers share an(cid:415)-robocall responsibility.
+ Ac(cid:415)on Items:
+o Work only with trusted upstream carriers who enforce STIR/SHAKEN.
+o Terminate or quaran(cid:415)ne traffic from carriers with repeated viola(cid:415)ons.
+o Include an(cid:415)-robocall clauses in interconnect agreements.
+CONFIDENTIAL
+X-NETS INC FILING FOR ROBOCALL MITIGATION DATABASE

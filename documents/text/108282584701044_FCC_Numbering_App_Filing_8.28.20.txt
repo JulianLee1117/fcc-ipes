@@ -1,0 +1,1790 @@
+Lance J.M. Steinhart, P.C.
+Attorneys At Law
+1725 Windward Concourse
+Suite 150
+Alpharetta, Georgia 30005
+Also Admitted in New York Telephone: (770) 232-9200
+Email: info@telecomcounsel.com Facsimile: (770) 232-9208
+August 28, 2020
+VIA ECFS
+Marlene H. Dortch, Secretary
+Federal Communications Commission
+445 12th Street, S.W.
+Washington, DC 20554
+Re: Application of Victory Telecom, Inc., For Authorization to Obtain Numbering
+Resources, Pursuant to Section 52.15(g), Docket No. 20-___
+Dear Ms. Dortch:
+Pursuant to §52.15(g)(3)(i) of the Federal Communications Commission’s (“Commission”)
+Rules, Victory Telecom, Inc. (“Victory”) hereby submits its Application For Authorization to
+Obtain Numbering Resources.
+If you have any questions or if I may provide you with additional information, please do not
+hesitate to contact me. Thank you for your assistance.
+Respectfully submitted,
+s/ Lance J.M. Steinhart
+_________________________________
+Lance J.M. Steinhart
+Managing Attorney
+Lance J.M. Steinhart, P.C.
+1725 Windward Concourse, Suite 150
+Alpharetta, Georgia 30005
+Tel: (770) 232-9200
+Fax: (770) 232-9208
+Email: lsteinhart@telecomcounsel.com
+Attachment
+cc: James E. Parman
+
+Before the
+FEDERAL COMMUNICATIONS COMMISSION
+Washington, D.C. 20554
+In the Matter of )
+)
+Victory Telecom, Inc. ) WC Docket No.
+)
+Application to Obtain Telephone Numbers )
+Directly From the North American Numbering )
+Plan Administrator and the Pooling )
+Administrator )
+NUMBERING AUTHORIZATION APPLICATION
+Victory Telecom, Inc. (“Applicant”), hereby applies for authorization to obtain telephone numbers
+directly from the North American Numbering Plan Administrator and the Pooling Administrator
+(collectively, "Numbering Administrators") pursuant to and in accordance with Section 52.15 (g) of the
+Commission's rules. In support hereof, Applicant respectfully states:
+1. Applicant’s name, headquarters’ address and telephone number are as follows:
+Victory Telecom, Inc.
+4414 N. Central Exp, #700
+Dallas, TX 75204
+817-303-7788
+2. The primary type of business of Applicant is telecommunications services, which includes
+interconnected VoIP. The numbering resources that are the subject of this Application will be
+used to provide interconnected VoIP services, initially in Colorado. Applicant intends to
+eventually use the numbering resources to provide such services throughout the United States,
+including its territories and possessions.
+3. The name and contact information for personnel of Applicant qualified to address issues relating
+to regulatory requirements, compliance with Commission rules, 911 and law enforcement is as
+follows:
+James E. Parman IV, President; jparman@victoryc.com; 817-303-7788
+4414 N. Central Exp, #700, Dallas, TX 75204
+4. Applicant acknowledges that the authorization is subject to compliance with applicable
+Commission numbering rules, numbering authority delegated to the states and industry guidelines
+and practices regarding numbering applicable to telecommunications carriers.
+
+5. Applicant acknowledges that it must file requests for telephone numbers with the relevant state
+commissions at least thirty (30) days before requesting telephone numbers from the Numbering
+Administrators.
+6. As proof of facilities readiness, namely that Applicant is capable of providing service within sixty
+(60) days of the numbering resources activation date, Applicant submits that it already has
+interconnection with the PSTN pursuant to a commercial arrangement that provides access to the
+PSTN; in particular, Applicant has an agreement with its carrier partners, AT&T, First Comm and
+several other carriers, who, in turn, have interconnection agreements in effect with all of the
+relevant local exchange carriers for the states that are the subject of the Application and in which
+such carriers provide access to the PSTN, including AT&T, Verizon, and CenturyLink.
+7. Applicant certifies that it complies with its Universal Service Fund contribution obligations under
+47 CFR part 54, subpart H, its Telecommunications Relay Service contribution obligations under
+47 CFR § 64.604(c)(5)(iii), its North American Numbering Plan and Local Number Portability
+Administration contribution obligations under 47 CFR § § 52.17, 52.32, its obligations to pay
+regulatory fees under 47 CFR § 1.1154 and its 911 obligations under 47 CFR part 9.
+8. As demonstrated by its successful operations since 2011 as a licensed Interexchange Carrier in
+Colorado, Florida, Nevada, Oregon, Texas, and Virginia and as a VoIP provider in these same
+states plus New York, and Oklahoma, Applicant certifies that it possesses the financial,
+managerial and technical expertise to provide reliable service. Attached hereto as Attachment A
+is the Applicant’s Organizational Chart. Attached hereto as Attachment B are the names and
+descriptions of Applicant's key management and technical personnel. Applicant states that none
+of the identified personnel are being or have been investigated by the Commission or any law
+enforcement or regulatory agency for failure to comply with any law, rule or order. Attached
+hereto as Attachment C is the excerpt from their agreement with AT&T needed for this authority.
+9. Applicant certifies pursuant to Sections 1.2001 and 1.2002 of the Commission's rules that no
+party to this Application is subject to a denial of Federal benefits pursuant to Section 5301 of the
+Anti-Drug Abuse Act of 1988. See 21 U.S.C. § 862.
+WHEREFORE, Applicant respectfully requests the Commission to grant this Application for
+numbering resources.
+Respectfully Submitted,
+Lance Steinhart, Esq.
+Lance J.M. Steinhart, P.C.
+1725 Windward Concourse, Suite 150
+Alpharetta, GA 30005
+770-232-9200 (Office)
+Lsteinhart@telecomcounsel.com
+
+Victory Telecom, Inc.
+LIST OF EXHIBITS
+EXHIBIT A Organizational Chart
+EXHIBIT B Biographies of Key Personnel
+EXHIBIT C Interconnection Agreement
+
+EXHIBIT A
+Organizational Chart
+Victory Telecom, Inc. is a standalone company without any affiliates or subsidiaries.
+
+EXHIBIT B
+Biographies of Key Personnel
+
+victorY communications i 866-443-7788 i www.victoryc.com
+exeCUTIVe bIOS
+JAMeS (JIMMY) e. pARMAN IV -- President/C.E.O.
+Jimmy got his start in the telecommunications industry in 1989 holding sales and managements positions
+throughout his career. In 1995, Jimmy began working his way up through management at Global Crossing
+Corporation and in September 2000 became Regional Director of Sales for the Southwest United States with
+responsibility for over 15 offices.
+In 2001, Jimmy launched Victory Communications Inc. With over 20 years of communications experience, and
+11 years as founder and C.E.O. of Victory, Jimmy is recognized as an industry leader in national enterprise sales
+and growth - securing, managing and retaining large enterprise accounts. Now, with over 100 active agents,
+and partnerships with 5 of the largest carriers AT&T, Verizon, Qwest, Sprint and Global Crossing, Jimmy has
+positioned Victory Communications as the telecommunications provider to beat. Victory clients enjoy the fact that
+they receive the best solution for their needs from the largest carriers, packaged into one bill, at one low price,
+and backed with 24/7 customer service.
+jparman@victoryc.com I Office: 817.303.7788 I Cell: 972.467.5427
+JOhN pARkeR, CpA, CFp -- Chief Financial Officer
+John received his BBA’s in Accounting and Finance and his MBA from the University of Texas at Arlington to begin
+his career as CPA in 1998. John began at Spitzer & Parker, P.C. as Partner and in 2004 became Partner at
+Parker & Richardson, P.C. where he continues to serve small to mid-size businesses, individuals and physicians.
+In 2002, John joined forces with Jimmy Parman of Victory as Chief Financial Officer. John brings great value to
+Victory with his financial and strategic planning, and , the overall financial operations of the business.
+jparker@victoryc.com I Office: 817.226.6100
+TReNT bAIleY -- Senior Vice President of Sales
+Trent joined Victory Telecom, Inc. in 2008. He has held leadership positions in numerous segments of the
+industry, including: long distance, and competitive local exchange. Trent has a diverse background that includes
+having held managerial positions in, Marketing, Sales, and Operations. Trent specializes in sales, service, and
+the design of business strategies.
+In 2010, Trent was named Senior Vice President of Sales for Victory. In this capacity he has overall leadership
+responsibility and accountability for consumer and commercial sales and marketing.
+tbailey@victroyc.com l Office: 817.701.4265 l Cell: 817.846.1627
+ROgeR leATheRMAN -- Vice President of Operations
+Roger joined Victory in 2009 after a long career in Banking and Finance where he held numerous leadership
+positions in varied business segments. Roger immediately began to put to use his background in Sales and
+Finance to Victory’s benefit. Roger’s strengths are in customer relations and strategic planning.
+In 2010 Roger was promoted to Vice President of Operations for Victory Communications. In this leadership role
+Roger oversees all of Victory’s Customer Billing, Network Operations, and Carrier Relations.
+Roger holds a Bachelor of Business Administration Degree in Finance from the University of Texas at Arlington.
+rleatherman@victoryc.com l Office: 817.701.4263 l Cell: 817.938.6523
+IP Services | Voice Services | Data Services | Web Hosting | Mobility Services | Hosted PBX
+
+EXHIBIT C
+Interconnection Agreement
+
+Sales Contact Information
+TOXEY; HEATHER
+205-321-4918
+ht8171@asemail.att.com
+eSign F a x C o v e r S h e e t
+To: AT&T Automated Fax Handling Service From:
+Total Pages: 15
+Fax: 877-374-4632 or 877-eSignFax
+(Excluding Fax Cover Sheet)
+Instructions:
+Please do not make any changes to this cover page as your fax is returned to the sales
+representative using automated processing.
+After Signing the Contract Document associated with this Fax Cover Sheet with your
+Signature, Title, and Date:
+1. Place this Fax Cover Sheet as the First Page of the Signed Contract.
+For Multiple Contracts: Create a Contract Package by using each Fax
+Cover Sheet as a Contract Document Separator by placing each Cover
+Sheet as the First Page of the respective Contract.
+2. Select resolution of 200 x 200 DPI when scanning the printed document
+3. You may either send the Contract(s) via
+ Fax: Send the Contract(s) package to 8 77-374-4632 or 877-eSignFax
+ Copier with email capability: Send Contract(s) package as Tiff image to
+esign@att.com
+ Scanner and email: Send as a Tiff image toesign@att.com
+If you have any questions or problems, please call your Sales Representative at 205-321-4918
+Note: If you are purchasing or ordering an AT&T Business Network (ABN) Express
+Bundle, please remember to initial your response to the Mobility question for Section 5
+and complete the Letter of Authorization. Letter of Authorization is required whenever
+you are purchasing Long Distance, Local or IP Services.
+Internal AT&T Use Only:
+AT&T Sales Only: 3142421185@rfax.att.com
+Request Id: 316269
+Contract Id: 3289020
+
+Contract Id: 3289020
+This document is not accepted or otherwise binding unless For AT&T Administrative Use Only
+executed by both Customer and AT&T by 06/01/2011, and Wholesale Master Agreement No:________
+may be withdrawn prior to AT&T’s execution. Attachment No. __________
+Original Effective Date: __________
+Amended Effective Date: __________
+AT&T Voice Over IP Connect Service
+Service Terms and Pricing Attachment
+CUSTOMER Legal Name AT&T Corp. ("AT&T") AT&T Sales Contact Name
+(“CUSTOMER”) Primary Contact
+Victory Telecom, Inc. AT&T Corp. Name: Heather Toxey
+Date of Initial Execution of Date of Initial Execution of
+Master Agreement (by Master Agreement (by AT&T):
+CUSTOMER):
+This Service Order Attachment is an Attachment to the Master Agreement between Customer and
+AT&T referenced above, as may have been amended and/or restated (“Agreement”). AT&T and
+Customer agree that this Attachment will be separately executed, rather than being added to the Table
+of Documents in a new amended and restated version of the Agreement.
+Services offered pursuant to this Attachment will be provided subject to its provisions, and the
+Agreement’s General Terms and Conditions, as modified by any Supplemental Terms and Conditions.
+In the event of any inconsistency, precedence will be given to the documents in the following order:
+(1) this Attachment, (2) a Supplemental Terms and Conditions Attachments, if any, listed in the
+Agreement’s Table of Documents; (3) the General Terms and Conditions; and (4) any applicable
+Service Guide.
+AGREED: AGREED:
+Customer AT&T Corp.
+By: By
+(Authorized CUSTOMER Signature) (Authorized Agent or Representative for AT&T)
+[TYPED OR PRINTED NAME]
+[TITLE] , [NAME OF PAYROLL COMPANY]
+(Typed or Printed Name and Title) (Typed or Printed Name and Title)
+Date: Date
+1. Services Provided. AT&T will provide the following Services to Customer under this Attachment
+and pursuant to the terms of the Agreement and the applicable portions of the AT&T Voice Over IP
+Connect Service - Service Description Attachment (“AVOICS Service Description”) and any applicable
+AT&T and Customer Confidential Information
+This document and information contained herein may be disclosed only to authorized persons, and
+may be used only for authorized purposes, in accordance with applicable agreements.
+5/9/2011 11:26 AM Doc. ID: Victory Telecom AVOICS TIA 110509
+eCRM Opp# 1-HWQUG6 ATTUID#ts2751
+Ver110316
+
+Contract Id: 3289020
+This document is not accepted or otherwise binding unless For AT&T Administrative Use Only
+executed by both Customer and AT&T by 06/01/2011, and Wholesale Master Agreement No:________
+may be withdrawn prior to AT&T’s execution. Attachment No. __________
+Original Effective Date: __________
+Amended Effective Date: __________
+AT&T Service Guides. The AT&T Service Guides are located at
+http://www.serviceguide.att.com/ABS/ext or http://www.att.com/abs/serviceguide or such other AT&T
+designated location.
+AT&T may amend an applicable Service Guide or the AVOICS Service Description from time to time
+consistent with this Attachment, provided, however, that if AT&T revises a Service Guide or the
+AVOICS Service Description in a manner that is material and adverse to Customer and AT&T does not
+effect revisions that remedy such adverse and material effect within thirty (30) days after receipt of
+written notice from Customer, then Customer may, as its sole remedy, elect to terminate the affected
+Service on thirty (30) days written notice, given no later than ninety (90) days after Customer first learns
+of the revision to the applicable Service Guide, or Service Description. However, a revision to a Service
+Guide or the AVOICS Service Description shall not be considered material and adverse to Customer if:
+(i) it affects only Services or Service Components not in substantial use by Customer at the time of the
+revision; or (ii) it changes rates or charges that are not fixed (stabilized) in this Attachment.
+As described in Exhibit A to this Attachment, Customer will connect to the AT&T network
+through connectivity other than AT&T Managed Internet Service-Private Network Transport
+(“MIS-PNT”) as required in the AVOICS Service Description (“Transport Independent
+Access” or “TIA”).
+After the Effective Date, AT&T will conduct interoperability testing with Customer via the AT&T
+Virtual Inter-Operability Test (“VIT”) Lab and Customer’s Lab environment and both AT&T and
+Customer will agree when such testing of interoperability is successful. Implementation of the Service
+will be delayed until interoperability testing has been successfully completed.
+a) AT&T Voice Over IP Connect Service. AT&T Voice Over IP Connect Service (“AVOICS”),
+as described in the AVOICS Service Description, consisting of the following types of services (if a
+service is described in the AVOICS Service Description, but not listed below, it is not provided under
+this Attachment):
+i) AT&T Voice Over IP Connect Service – 1+ Outbound Direct, Domestic Native IP Traffic
+U.S.-originated (“AVOICS – 1+ OD Domestic Native IP”).
+ii) AT&T Voice Over IP Connect Service – 1+ Outbound Direct, Domestic Non-native IP
+Traffic U.S.-originated (“AVOICS – 1+ OD Domestic Non-native IP”).
+iii) AT&T Voice Over IP Connect Service – International Outbound Direct U.S.-originated
+(“AVOICS – International OD”).
+2. Term. The Term of this Attachment consists of a Ramp-Up Period of two (2) months and a Full
+Service Period of twenty-four (24) months. The Ramp-Up Period begins on the first day of the first full
+billing month after Customer and AT&T agree that the Service is available for use by the Customer
+(“Test and Turn-Up”). The Full Service Period begins on the day after the Ramp-Up Period ends,
+which day is referred to as the Term Start Date. Upon expiration of the Full Service Period, this
+Attachment will continue on a month-to-month basis until terminated by a party upon at least thirty (30)
+AT&T and Customer Confidential Information
+This document and information contained herein may be disclosed only to authorized persons, and
+may be used only for authorized purposes, in accordance with applicable agreements.
+5/9/2011 11:26 AM Doc. ID: Victory Telecom AVOICS TIA 110509
+eCRM Opp# 1-HWQUG6 ATTUID#ts2751
+Ver110316
+
+Contract Id: 3289020
+This document is not accepted or otherwise binding unless For AT&T Administrative Use Only
+executed by both Customer and AT&T by 06/01/2011, and Wholesale Master Agreement No:________
+may be withdrawn prior to AT&T’s execution. Attachment No. __________
+Original Effective Date: __________
+Amended Effective Date: __________
+days prior written notice to the other party and all stabilized charges will be subject to change by AT&T
+upon at least thirty (30) days’ prior written notice
+a) The Effective Date of this Attachment is the date the Agreement is initially executed by both
+parties or, if this Attachment is not part of the Agreement as initially executed, the Effective Date will
+be the date the Agreement is thereafter amended to include this Attachment.
+b) AT&T has the right to terminate this Attachment if the Connectivity and Facilities described in
+Exhibit A are not ordered within thirty (30) days of the Effective Date.
+3. Minimums. The following minimum purchase requirements apply under this Attachment.
+a) Minimum Revenue Commitment. For each Minimum Revenue Commitment (“MRC”),
+Customer commits that the Eligible Charges it incurs during each Commitment Period will equal or
+exceed the amount of the commitment. If at the end of a Commitment Period, Customer fails to meet
+any Minimum Revenue Commitment during such Commitment Period, Customer will pay a Shortfall
+Charge equal to the difference between the Minimum Revenue Commitment and the amount of
+Eligible Charges incurred during the Commitment Period.
+i) The MRC for each Commitment Period is as provided in the following chart:
+Commitment Period MRC
+Ramp-Up Period $0
+Months 1-12 of the Full Service Period $100,000
+Months 13-24 of the Full Service Period $100,000
+ii) The MRC Eligible Charges consist of the usage charges for AVOICS – 1+ OD Domestic
+Native IP traffic, 1+ OD Domestic Non-native IP traffic, and AVOICS – International OD traffic
+after application of all discounts and credits. Taxes and other government related charges are not
+included.
+iii) If Customer terminates this Attachment prior to the end of the Term, or if AT&T terminates
+this Attachment or the Service provided under this Attachment prior to the end of the Term due to
+Customer’s breach of the Agreement, Customer will be billed a Termination Charge. The
+Termination Charge will be an amount equal to fifty percent (50%) of the unsatisfied Minimum
+Revenue Commitment for the Commitment Period in which the termination occurs, plus fifty
+percent (50%) of the Minimum Revenue Commitment for each Commitment Period remaining in
+the Term. In addition, Customer will be billed an amount equal to the sum of any credits
+provided under this Attachment.
+4, Taxes and Surcharges.
+a) All rates and charges in this Attachment exclude taxes and surcharges.
+AT&T and Customer Confidential Information
+This document and information contained herein may be disclosed only to authorized persons, and
+may be used only for authorized purposes, in accordance with applicable agreements.
+5/9/2011 11:26 AM Doc. ID: Victory Telecom AVOICS TIA 110509
+eCRM Opp# 1-HWQUG6 ATTUID#ts2751
+Ver110316
+
+Contract Id: 3289020
+This document is not accepted or otherwise binding unless For AT&T Administrative Use Only
+executed by both Customer and AT&T by 06/01/2011, and Wholesale Master Agreement No:________
+may be withdrawn prior to AT&T’s execution. Attachment No. __________
+Original Effective Date: __________
+Amended Effective Date: __________
+b) AT&T reserves the right to change from time to time the rates for Services under this Agreement,
+regardless of any provisions that would otherwise stabilize rates or limit rate increases, to reasonably
+reflect charges or payment obligations imposed on AT&T stemming from an order, rule or regulation
+of the Federal Communications Commission or a court of competent jurisdiction, or any other
+governmental entity or authority, concerning (i) compensation of payphone service providers,
+(ii) universal service fund ("USF") charges, (iii) presubscribed interexchange carrier charges
+("PICCs"), or (iv) other governmental charges or fees imposed in connection with the provision of
+Services, or to reasonably reflect charges or payment obligations imposed on AT&T related to
+termination of domestic or international traffic.
+5. AT&T Voice Over IP Connect Service – 1+ Outbound Direct, Domestic Native IP Traffic.
+a) Connectivity and Facilities. The required connectivity to AVOICS is described in
+Exhibit A to this Attachment."
+b) Native Transport
+i) The effective monthly transport rate for AVOICS – 1+ OD Domestic Native IP calls will be
+determined each month by applying the applicable Native Transport Discount to the Native Base
+Transport Rate depending on whether the call is made during a peak or off-peak period.
+ii) Each transport discount consists of a specific discount for AVOICS – 1+ OD Domestic
+Native IP calls made during a peak period and a specific discount for AVOICS – 1+ OD
+Domestic Native IP calls made during an off-peak period (“Native Transport Discount”), as set
+forth in the table below. The peak rate applies from 8:00 AM to 5:00 PM, Monday through Friday
+(excluding the following United States holidays: New Year’s Day; Memorial Day; Independence
+Day; Labor Day; Thanksgiving Day; and Christmas Day), and the off-peak rate applies for all
+other time periods. The applicable time period will be determined based on the time at the AT&T
+Network through which the call is originated. When a call occurs in more than one rate period,
+the rate for each rate period applies to the portion of the call within that rate period.
+iii) Only one Native Transport Discount shall be applied to the monthly Native Base Transport
+Rate for the entire month’s Native Transport usage, and the Native Transport Discount shall not
+apply to any other charges. The applicable Native Transport Discount will be determined based
+on the amount of Native Qualified Usage billed in that month. Native Qualified Usage consists
+of the total domestic minutes of use for AVOICS – 1+ OD Domestic Native IP Services.
+Native IP Transport Rate
+Native IP Base Transport Rate $0.020
+AT&T and Customer Confidential Information
+This document and information contained herein may be disclosed only to authorized persons, and
+may be used only for authorized purposes, in accordance with applicable agreements.
+5/9/2011 11:26 AM Doc. ID: Victory Telecom AVOICS TIA 110509
+eCRM Opp# 1-HWQUG6 ATTUID#ts2751
+Ver110316
+
+Contract Id: 3289020
+This document is not accepted or otherwise binding unless For AT&T Administrative Use Only
+executed by both Customer and AT&T by 06/01/2011, and Wholesale Master Agreement No:________
+may be withdrawn prior to AT&T’s execution. Attachment No. __________
+Original Effective Date: __________
+Amended Effective Date: __________
+Native IP Transport Discount
+Native Qualified Usage (minutes of use) Discount Peak Discount Off Peak
+87.5% 87.5%
+Effective Native IP Transport Rate
+Effective Transport Effective Transport
+Rate Rate
+Peak Off Peak
+Effective Native IP Transport Rate - Per Minute $0.0025 $0.0025
+c) Native Termination Rates. The Native Termination Rates are set forth in the Native Termination
+Rate Schedule. The Native Termination Rate Schedule is set forth in the following file (the
+“Termination Rate File”):
+Termination Rate File Name: Victory Telecom Termination Rate File 110428.xls
+AT&T will use the Local Routing Number (“LRN”) for the call record associated with the call to
+determine the OCN where the call will be terminated. However, for determining the jurisdiction of
+the call, if the terminating LRN is in a different state from the dialed number, AT&T will use the
+dialed number.
+i) Customer acknowledges that it has received the Native Termination Rate Schedule from AT&T
+prior to the Effective Date of this Attachment. Although the rates in the Native Termination Rate
+Schedule are set forth as per minute rates, the Native Termination Rates are billed in periods of
+six (6) seconds. The applicable rate for each six (6) seconds (or fraction thereof) will be ten
+percent (10%) of the per minute rate set forth in the Native Termination Rate Schedule. No
+discounts are applied to the Native Termination Rates.
+ii) Interstate and Intrastate Rates. The Native Termination Rate Schedule contains separate
+interstate and intrastate rates. The intrastate rates apply if the call originates and terminates
+within the same State (including local calls); the interstate rates apply if the call originates in one
+State (or the District of Columbia) and terminates in a domestic location that is not in the same
+State. The location from which a call originates and terminates will be determined as described
+in the following table:
+Type of Call Originating Location based on Termination Location based on
+AVOICS – 1+ OD Native IP Calling Party Number (“CPN”) * Local Routing Number (“LRN”)**
+* Upon at least ten (10) days’ prior written notice to Customer, AT&T may change order of
+preference for identifying the originating location to use the first valid instance of either the
+Jurisdictional Identification Parameter (“JIP”), Charge Number/Automatic Number Identification
+(ANI) or the Trunk Routing Number – 2 (TRN2) for the call record associated with each call.
+** If there is a LRN for a call, AT&T will use the LRN for the call record associated with the call to
+determine the State, LATA, and OCN where the call will be terminated. However, for determining the
+jurisdiction of the call, if the terminating LRN is in a different state from the dialed number, AT&T will use
+the dialed number. Upon at least ten (10) days’ prior written notice to Customer, AT&T may change the
+basis for identifying the terminating location to some other approach designed to identify the location of the
+called party.
+AT&T and Customer Confidential Information
+This document and information contained herein may be disclosed only to authorized persons, and
+may be used only for authorized purposes, in accordance with applicable agreements.
+5/9/2011 11:26 AM Doc. ID: Victory Telecom AVOICS TIA 110509
+eCRM Opp# 1-HWQUG6 ATTUID#ts2751
+Ver110316
+
+Contract Id: 3289020
+This document is not accepted or otherwise binding unless For AT&T Administrative Use Only
+executed by both Customer and AT&T by 06/01/2011, and Wholesale Master Agreement No:________
+may be withdrawn prior to AT&T’s execution. Attachment No. __________
+Original Effective Date: __________
+Amended Effective Date: __________
+If a valid CPN is not reflected in the call record (“CPN-less Call”), the Originating
+Location will be based on the Secondary Trunk Rating Number (“TRN2”) of the
+customer site. The customer site is the location of the CPE (e.g., soft switch, gateway) to
+which the Native and Non-native pair of IP signaling addresses provided by the Customer
+are provisioned and from which the call is delivered to the AVOICS network. The TRN2
+will be a NPA/NXX used to represent the geographic location of the customer site.
+iii) Native Termination Rate Adjustments. Except as otherwise provided in this Attachment, the
+Native Termination Rate Schedule will be adjusted twice each year and the changes will be
+effective with March and September usage (for calls rated after the revised rates are
+implemented). Supplemental Native Termination Rates may be provided more frequently to
+introduce new rates (e.g., for new OCNs or in the event of a LATA split or consolidation).
+iv) When at the time of rating, a new State/LATA/OCN combination has been introduced in the
+Local Exchange Routing Guide (“LERG”), but not added to the biller rate table, the termination
+rate for calls to the new State/LATA/OCN combination will be the lowest rate in the termination
+rate file, based on jurisdiction (i.e. Interstate/Intrastate). Any special rates stated in this
+Attachment will be excluded.
+v) When at the time of rating, a new State/LATA/OCN combination has been introduced in the
+LERG and has been added to the biller rate table, the termination rate used for the new
+OCN/State/LATA combination will be the standard termination rate of the Bell Operating
+Company in the biller for the State/LATA where the new State/LATA/OCN combination is
+operating. If a Bell Operating Company is not operating in that State/LATA, then the dominant
+carrier termination rate in that State/LATA will be used.
+d) Special Wireless and PCS Termination Rates. Customer will be charged a Special Termination
+Rate of $.0040 for AVOICS – 1+ OD Domestic Native IP calls for Wireless Terminations and for
+PCS Terminations, as reflected in the Native Termination Rate Schedule. Wireless Termination and
+PCS Terminations are defined as termination to Operating Company Numbers classified as Wireless
+and PCS in LERG 1 table and in LERG 6 NPA/NXX "A” Block, at the effective date of most
+current Termination Rate File, or other publicly available information that may replace the LERG 1
+table as mutually agreed upon between Customer and AT&T. AT&T may at any time during the
+Term of this Attachment and at its sole discretion adjust the Special Wireless and PCS Termination
+Rates for AVOICS – 1+ OD Domestic Native IP calls upon at least seven (7) days prior written notice
+to Customer. Any such revised rates will be effective for calls rated after the revised rates are
+implemented. If AT&T exercises this right and increases the Native Net Effective Rate above
+$.0040, the MRC for the remainder of the Term will be waived.
+e) Special Targeted Wireless Termination Rates. Customer will be charged a Special Targeted
+Wireless Termination Rate of $.0040 for AVOICS – 1+ OD Domestic Native IP calls for Targeted
+Wireless OCNs, as reflected in the following file (the "Targeted Wireless OCN File"):
+AT&T and Customer Confidential Information
+This document and information contained herein may be disclosed only to authorized persons, and
+may be used only for authorized purposes, in accordance with applicable agreements.
+5/9/2011 11:26 AM Doc. ID: Victory Telecom AVOICS TIA 110509
+eCRM Opp# 1-HWQUG6 ATTUID#ts2751
+Ver110316
+
+Contract Id: 3289020
+This document is not accepted or otherwise binding unless For AT&T Administrative Use Only
+executed by both Customer and AT&T by 06/01/2011, and Wholesale Master Agreement No:________
+may be withdrawn prior to AT&T’s execution. Attachment No. __________
+Original Effective Date: __________
+Amended Effective Date: __________
+Targeted Wireless OCN File name: Targeted Wireless OCNs.xls
+(i) Customer acknowledges that it has received the Targeted Wireless OCN File from AT&T
+prior to the Effective Date of this Attachment. AT&T may at any time during the Term of this
+Attachment and at its sole discretion change the Targeted Wireless OCNs upon at least seven (7)
+days prior written notice to Customer.
+(ii) AT&T may at any time during the Term of this Attachment and at its sole discretion adjust
+the Special Targeted Wireless Termination Rate for AVOICS – 1+ OD Domestic Native IP calls
+upon at least seven (7) days prior written notice to Customer. Any such revised rates will be
+effective for calls rated after the revised rates are implemented.
+f) Target Native State/LATA/OCN Net Effective Rate. Due to billing constraints, AT&T is unable to
+uniquely discount the Native Base Transport Rate for targeted State/LATA/OCN terminations. To
+address this billing inflexibility, AT&T will apply a discount to the Native Termination Rate Schedule for
+the targeted State/LATA/OCN terminations identified in the Target Terminations File below, so that the
+rate paid by the Customer is equal the following "Native Net Effective Rate" (discounted Native Base
+Transport Rate plus Native Termination Rate).
+Fully Discounted Fully Discounted Off
+Native Qualified Usage (minutes of use) Peak Rate Peak Rate
+Native Net Effective Rate $.0040 $.0040
+(i) Target Terminations File. The Targeted State / LATA / OCNs are set forth in the following
+file (the "Target Terminations File"):
+Target Termination File Name: Targeted OCNs.xls
+(ii) Customer acknowledges that it has received the Target Termination File from AT&T prior to
+the Effective Date of this Attachment. AT&T may at any time during the Term of this
+Attachment and at its sole discretion change the Targeted State / LATA / OCNs upon at least
+seven (7) days prior written notice to Customer.
+(iii)AT&T may at any time during the Term of this Attachment and at its sole discretion change
+the Net Effective Rate for AVOICS – 1+ OD Domestic Native IP calls upon at least fourteen (14)
+days prior written notice to Customer. Furthermore, AT&T may also at any time during the Term
+of this Attachment and at its sole discretion adjust the Native Net Effective Rate from a flat rate
+to a rate determined by State/LATA/OCN upon at least fourteen (14) days prior written notice to
+Customer. Any such revised rates will be effective for calls rated after the revised rates are
+implemented.
+g) Additional rates apply for AVOICS-1+ OD Domestic Native IP calls that terminate in Alaska and
+are set forth in the following rate file:
+Alaska Fee File Name: Alaska Fee Rate Schedule.xls
+AT&T and Customer Confidential Information
+This document and information contained herein may be disclosed only to authorized persons, and
+may be used only for authorized purposes, in accordance with applicable agreements.
+5/9/2011 11:26 AM Doc. ID: Victory Telecom AVOICS TIA 110509
+eCRM Opp# 1-HWQUG6 ATTUID#ts2751
+Ver110316
+
+Contract Id: 3289020
+This document is not accepted or otherwise binding unless For AT&T Administrative Use Only
+executed by both Customer and AT&T by 06/01/2011, and Wholesale Master Agreement No:________
+may be withdrawn prior to AT&T’s execution. Attachment No. __________
+Original Effective Date: __________
+Amended Effective Date: __________
+(i) Customer acknowledges that it has received the Alaska Fee Rate Schedule from AT&T prior
+to the Effective Date of this Attachment. AT&T may at any time during the Term of this
+Attachment and at its sole discretion adjust the Alaska Fee Rates and NPA-NXXS. Any such
+revised rates will be effective for calls rated after the revised rates are implemented.
+6. AT&T Voice Over IP Connect Service – 1+ Outbound Direct, Domestic Non-native IP Traffic.
+a) Connectivity and Facilities. The required connectivity to AVOICS is described in
+Exhibit A to this Attachment.
+b) Non-native Transport
+(i) The effective monthly transport rate for AVOICS – 1+ OD Domestic Non-native IP calls will
+be determined each month by applying the applicable Non-native Transport Discount to the Non-
+native Base Transport Rate depending on whether the call is made during a peak or off-peak
+period.
+(ii) Each transport discount consists of a specific discount for AVOICS – 1+ OD Domestic Non-
+native IP calls made during a peak period and a specific discount for AVOICS – 1+ OD Domestic
+Non-native IP calls made during an off-peak period (“Non-native Transport Discount”), as set
+forth in the table below. The peak rate applies from 8:00 AM to 5:00 PM, Monday through Friday
+(excluding the following United States holidays: New Year’s Day; Memorial Day; Independence
+Day; Labor Day; Thanksgiving Day; and Christmas Day), and the off-peak rate applies for all
+other time periods. The applicable time period will be determined based on the time at the AT&T
+Network through which the call is originated. When a call occurs in more than one rate period,
+the rate for each rate period applies to the portion of the call within that rate period.
+(iii)Only one Non-native Transport Discount shall be applied to the monthly Non-native Base
+Transport Rate for the entire month’s Non-native Transport usage, and the Non-native Transport
+Discount shall not apply to any other charges. The applicable Non-native Transport Discount
+will be determined based on the amount of Non-native Qualified Usage billed in that month.
+Non-native Qualified Usage consists of the total domestic minutes of use for AVOICS – 1+ OD
+Domestic Non-native IP Services.
+Non-native IP Transport Rate
+Non-native IP Base Transport Rate $0.020
+AT&T and Customer Confidential Information
+This document and information contained herein may be disclosed only to authorized persons, and
+may be used only for authorized purposes, in accordance with applicable agreements.
+5/9/2011 11:26 AM Doc. ID: Victory Telecom AVOICS TIA 110509
+eCRM Opp# 1-HWQUG6 ATTUID#ts2751
+Ver110316
+
+Contract Id: 3289020
+This document is not accepted or otherwise binding unless For AT&T Administrative Use Only
+executed by both Customer and AT&T by 06/01/2011, and Wholesale Master Agreement No:________
+may be withdrawn prior to AT&T’s execution. Attachment No. __________
+Original Effective Date: __________
+Amended Effective Date: __________
+Non-native IP Transport Discount
+Non-native Qualified Usage (minutes of use) Discount Peak Discount Off Peak
+87.5% 87.5%
+Effective Non-native IP Transport Rate
+Effective Transport Effective Transport
+Rate Rate
+Peak Off Peak
+Effective Non-native IP Transport Rate - Per Minute $0.0025 $0.0025
+c) Non-native Termination Rates. The Non-native Termination Rates are set forth in the Non-
+Native Termination Rate Schedule. The Non-Native Termination Schedule is set forth in
+Termination Rate File.
+AT&T will use the Local Routing Number (“LRN”) for the call record associated with the call to
+determine the OCN where the call will be terminated. However, for determining the jurisdiction of
+the call, if the terminating LRN is in a different state from the dialed number, AT&T will use the
+dialed number.
+i) Customer acknowledges that it has received the Non-native Termination Rate Schedule from
+AT&T prior to the Effective Date of this Attachment. Although the rates in the Non-native
+Termination Rate Schedule are set forth as per minute rates, the Non-native Termination Rates are
+billed in periods of six (6) seconds. The applicable rate for each six (6) seconds (or fraction thereof)
+will be ten percent (10%) of the per minute rate set forth in the Non-native Termination Rate
+Schedule. No discounts are applied to the Non-native Termination Rates.
+(ii) Interstate and Intrastate Rates. The Non-native Termination Rate Schedule contains separate
+interstate and intrastate rates. The intrastate rates apply if the call originates and terminates
+within the same State (including local calls); the interstate rates apply if the call originates in one
+State (or the District of Columbia) and terminates in a domestic location that is not in the same
+State. The location from which a call originates and terminates will be determined as described
+in the following table:
+Type of Call Originating Location based on Termination Location based on
+AVOICS – 1+ OD Non-native IP Calling Party Number (“CPN”) * Local Routing Number “LRN”)**
+* Upon at least ten (10) days’ prior written notice to Customer, AT&T may change order of
+preference for identifying the originating location to use the first valid instance of either the
+Jurisdictional Identification Parameter (“JIP”), Charge Number/Automatic Number Identification
+(ANI) or the Trunk Routing Number – 2 (TRN2) for the call record associated with each call.
+** If there is a LRN for a call, AT&T will use the LRN for the call record associated with the call
+to determine the State, LATA, and OCN where the call will be terminated. However, for
+determining the jurisdiction of the call, if the terminating LRN is in a different state from the
+dialed number, AT&T will use the dialed number. Upon at least ten (10) days’ prior written
+notice to Customer, AT&T may change the basis for identifying the terminating location to some
+other approach designed to identify the location of the called party.
+AT&T and Customer Confidential Information
+This document and information contained herein may be disclosed only to authorized persons, and
+may be used only for authorized purposes, in accordance with applicable agreements.
+5/9/2011 11:26 AM Doc. ID: Victory Telecom AVOICS TIA 110509
+eCRM Opp# 1-HWQUG6 ATTUID#ts2751
+Ver110316
+
+Contract Id: 3289020
+This document is not accepted or otherwise binding unless For AT&T Administrative Use Only
+executed by both Customer and AT&T by 06/01/2011, and Wholesale Master Agreement No:________
+may be withdrawn prior to AT&T’s execution. Attachment No. __________
+Original Effective Date: __________
+Amended Effective Date: __________
+For CPN-less Call, the Originating Location will be based on the TRN2 of the customer
+site. The customer site is the location of the CPE (e.g., soft switch, gateway) to which
+the Native and Non-native pair of IP signaling addresses provided by the Customer are
+provisioned and from which the call is delivered to the AVOICS network. The TRN2
+will be a NPA/NXX used to represent the geographic location of the customer site.
+(iii)Non-native Termination Rate Adjustments. Except as otherwise provided in this Attachment,
+the Non-native Termination Rate Schedule will be adjusted twice each year and the changes will
+be effective with March and September usage (for calls rated after the revised rates are
+implemented). Supplemental Non-native Termination Rates may be provided more frequently to
+introduce new rates (e.g., for new OCNs or in the event of a LATA split or consolidation).
+iv) When at the time of rating, a new State/LATA/OCN combination has been introduced in the
+LERG, but not added to the biller rate table, the termination rate for calls to the new
+State/LATA/OCN combination will be the lowest rate in the termination rate file, based
+on jurisdiction (i.e. Interstate/Intrastate). Any special rates stated in this Attachment will be
+excluded.
+v) When at the time of rating, a new State/LATA/OCN combination has been introduced in the
+LERG and has been added to the biller rate table, the termination rate used for the new
+State/LATA/OCN combination will be the standard termination rate of the Bell Operating
+Company in the biller for the State/LATA where the new State/LATA/OCN combination is
+operating. If a Bell Operating Company is not operating in that State/LATA, then the dominant
+carrier termination rate in that State/LATA will be used.
+d) Special Wireless and PCS Termination Rates. Customer will be charged a Special Termination
+Rate of $.0040 for AVOICS – 1+ OD Domestic Non-native IP calls for Wireless Terminations and
+for PCS Terminations, as reflected in the Non-native Termination Rate Schedule. Wireless
+Termination and PCS Terminations are defined as termination to Operating Company Numbers
+classified as Wireless and PCS in LERG 1 table and in LERG 6 NPA/NXX "A” Block, at the
+effective date of most current Termination Rate File, or other publicly available information that may
+replace the LERG 1 table as mutually agreed upon between Customer and AT&T. AT&T may at any
+time during the Term of this Attachment and at its sole discretion adjust the Special Wireless and PCS
+Termination Rates for AVOICS – 1+ OD Domestic Non-native IP calls upon at least seven (7) days
+prior written notice to Customer. Any such revised rates will be effective for calls rated after the
+revised rates are implemented.
+e) Special Targeted Wireless Termination Rates. Customer will be charged a Special Targeted
+Wireless Termination Rate of $.0040 for AVOICS – 1+ OD Domestic Non-native IP calls for
+Targeted Wireless OCNs, as reflected in the Targeted Wireless OCN File. AT&T may at any time
+during the Term of this Attachment and at its sole discretion change the Targeted Wireless OCNs
+upon at least seven (7) days prior written notice to Customer.
+AT&T and Customer Confidential Information
+This document and information contained herein may be disclosed only to authorized persons, and
+may be used only for authorized purposes, in accordance with applicable agreements.
+5/9/2011 11:26 AM Doc. ID: Victory Telecom AVOICS TIA 110509
+eCRM Opp# 1-HWQUG6 ATTUID#ts2751
+Ver110316
+
+Contract Id: 3289020
+This document is not accepted or otherwise binding unless For AT&T Administrative Use Only
+executed by both Customer and AT&T by 06/01/2011, and Wholesale Master Agreement No:________
+may be withdrawn prior to AT&T’s execution. Attachment No. __________
+Original Effective Date: __________
+Amended Effective Date: __________
+(i) AT&T may at any time during the Term of this Attachment and at its sole discretion adjust
+the Special Targeted Wireless Termination Rate for AVOICS – 1+ OD Domestic Non-native IP
+calls upon at least seven (7) days prior written notice to Customer. Any such revised rates will be
+effective for calls rated after the revised rates are implemented.
+f) Additional rates apply for AVOICS-1+ OD Domestic Non Native IP calls that terminate in
+Alaska and are set forth in the Alaska Fee Rate Schedule.
+7. AT&T Voice Over IP Connect Service – U.S.-originated International Outbound Service
+a) Connectivity Facilities. Customer will purchase Connectivity and Facilities for International calls
+in the same manner for providing Connectivity Facilities for Domestic traffic, as described in Section
+5(a) and Section 6(a) above.
+b) Transport. AVOICS – International OD has a bundled rate structure for transport and
+termination. The rates are as described in Section 7(c) below.
+c) International Usage Rates.
+(i) International Usage Rates for AVOICS – International OD are set forth in the International
+Rate Schedules, set forth in the following file (the “International Rate File”).
+International Rate File Name: AVOICS International Rates 110428.xls
+(ii) The usage rates for calls terminated using the AT&T Maritime Mobile Services or the AT&T
+Commercial Satellite Mobile Services (including INMARSAT, Iridium and Thuraya) are
+included in the International Rate File.
+(iii) Customer acknowledges it has received the International Rate File from AT&T prior to the
+Effective Date of this Attachment. Although the rates in the International Rate File are set forth
+as per minute rates, the International Rates for AVOICS – International OD (for all countries
+except Mexico, the AT&T Maritime Mobile Services and the AT&T Commercial Satellite
+Mobile Services including INMARSAT, Iridium and Thuraya) are billed with an initial increment
+of eighteen (18) seconds, and additional increments of six (6) seconds. The rate for the initial
+(18) second period or fraction thereof will be thirty percent (30%) of the per minute rate set forth
+in the International Rate File and the rate for each additional six (6) second increment or fraction
+thereof will be ten percent (10%) of the per minute rate. A separate Rate may apply when
+AVOICS – International OD is used to call a foreign mobile telephone number or to make an
+international audiotext call.
+(iv)For Mexico and all AT&T Commercial Satellite Mobile and AT&T Maritime Mobile
+Services (including INMARSAT, Iridium and Thuraya): (1) the per minute rate applies for each
+minute or fraction thereof, (2) the standard rate applies from 7:00 AM to 7:00 PM, for all days of
+the week including holidays, and the economy rate applies for all other time periods, and (3)
+AT&T and Customer Confidential Information
+This document and information contained herein may be disclosed only to authorized persons, and
+may be used only for authorized purposes, in accordance with applicable agreements.
+5/9/2011 11:26 AM Doc. ID: Victory Telecom AVOICS TIA 110509
+eCRM Opp# 1-HWQUG6 ATTUID#ts2751
+Ver110316
+
+Contract Id: 3289020
+This document is not accepted or otherwise binding unless For AT&T Administrative Use Only
+executed by both Customer and AT&T by 06/01/2011, and Wholesale Master Agreement No:________
+may be withdrawn prior to AT&T’s execution. Attachment No. __________
+Original Effective Date: __________
+Amended Effective Date: __________
+when a call spans more than one rate period, the rate applicable for the period in which the call
+originated applies to the entire duration of the call.
+(v) International Rate Adjustments. AT&T may adjust the Rates for AVOICS – International OD
+upon at least two (2) days’ written notice to Customer. Such adjustments may include
+introduction of separate rates for different types of calls (such as calls to foreign mobile telephone
+numbers or international audiotext calls) and new rates for new countries. Any such revised rates
+will be effective for calls rated after the revised rates are implemented.
+8. Unbranded Directory Assistance Service.
+a) The service charge for Directory Assistance Service for Domestic US is $0.59 per call, in
+addition to applicable AVOICS rates and/or charges.
+b) The service charge for Directory Assistance Service for locations in Canada is $0.75 per call, in
+addition to applicable AVOICS rates and/or charges.
+c) The service charge for Directory Assistance Service for locations in Puerto Rico is $0.59 per call,
+in addition to applicable AVOICS rates and/or charges.
+9) Monitoring Conditions
+a) The Average Length of Call (ALOC)
+i) The Average Length of Call (ALOC) for all AVOICS usage (AVOICS – 1+ OD Domestic Native
+IP, AVOICS – 1+ OD Domestic Non-native IP and AVOICS – International OD) must be at least one
+(1) minute. The ALOC will be determined at the end of each six (6) month anniversary of the Term
+Start Date (“Review Period”) based upon the usage during the prior six (6) months. Notwithstanding
+the foregoing, AT&T shall have the option of accelerating the Review Period to determine the ALOC
+at the end of the third (3rd) and ninth (9th) month anniversaries of the Term Start Date, based upon the
+usage during the prior three (3) months, if the ALOC during such period is below seventy-five
+percent (75%) of the ALOC specified above.
+ii) At the end of each Review Period, if Customer fails to satisfy the ALOC of at least one (1)
+minute, then AT&T reserves the right to change the rates to address the missed ALOC.
+iii) Before executing this right and after AT&T has notified Customer in writing that the ALOC has
+not been satisfied, Customer and AT&T will negotiate in good faith for a period no longer than thirty
+(30) days with the intent of reaching mutual agreement on a remedy. If the parties are unable to reach
+agreement within thirty (30) days then AT&T shall have the right to revise the rates.
+iv) Notwithstanding Sections 9(a), (b) and (c) above, if AT&T determines that the ALOC during any
+Review Period is below seventy-five percent (75%) of the ALOC specified above in Section 9(a),
+Customer will be billed a Non-Compliance Charge equal to twenty percent (20%) of the undiscounted
+charges incurred for AVOICS – 1+ OD Domestic Native IP, AVOICS – 1+ OD Domestic Non-native
+IP and AVOICS – International OD during such Review Period.
+AT&T and Customer Confidential Information
+This document and information contained herein may be disclosed only to authorized persons, and
+may be used only for authorized purposes, in accordance with applicable agreements.
+5/9/2011 11:26 AM Doc. ID: Victory Telecom AVOICS TIA 110509
+eCRM Opp# 1-HWQUG6 ATTUID#ts2751
+Ver110316
+
+Contract Id: 3289020
+This document is not accepted or otherwise binding unless For AT&T Administrative Use Only
+executed by both Customer and AT&T by 06/01/2011, and Wholesale Master Agreement No:________
+may be withdrawn prior to AT&T’s execution. Attachment No. __________
+Original Effective Date: __________
+Amended Effective Date: __________
+v) If the ALOC during any two (2) Review Periods during a twelve (12) month period is below
+seventy-five percent (75%) of the ALOC specified above in Section 9(a), AT&T may terminate
+AVOICS for such upon five (5) days written notice to Customer. Any termination of Service
+pursuant to this provision will not excuse Customer from its obligations under Section 3 (Minimums)
+of this Attachment.
+b) Impermissible Traffic
+i) AT&T will monitor Customer’s AVOICS traffic to verify that no Impermissible Traffic is
+being terminated over AVOICS. If AT&T determines that Impermissible Traffic is being
+terminated over AVOICS, AT&T will provide written notice to Customer (“Impermissible
+Traffic Notice”). If within five (5) days after receiving an Impermissible Traffic Notice
+from AT&T, Customer continues to terminate Impermissible Traffic, then AT&T may suspend
+AVOICS until such time as Customer has provided adequate assurances to AT&T that
+Impermissible Traffic will not be terminated over AVOICS. If adequate assurances are not
+provided to AT&T within thirty (30) days of the date of AT&T’s notice to Customer, then AT&T
+may terminate Service. If Service is resumed and subsequently AT&T determines that
+Impermissible Traffic is being terminated over AVOICS, within ninety (90) days of the date
+Customer receives the Impermissible Traffic Notice, or if three (3) Impermissible Traffic
+Notices are issued within a twelve (12) month period, AT&T may suspend or terminate
+AVOICS upon twenty (24) hours prior written notice to Customer. Any suspension of service
+pursuant to this provision will not excuse Customer from its obligations under Section 3
+(Minimum Revenue Commitments) of this Attachment. Termination of Service by AT&T will be
+considered due to Customer’s breach of this Attachment.
+ii) “Impermissible Traffic” is calls resulting from the following activities:
+A. Sequential dialing of telephone numbers at the NPA or NXX level;
+B. Initiating a call, as a result of a party receiving a telemarketing or telephone
+solicitation responding to a prompt, and signaling the CPN of the called party, unless the
+called party had an existing business relationship with the telemarketer or telephone
+solicitor;
+C. Passing a telephone number not associated with the calling party as a means to obtain
+name and number information for the improperly passed telephone number;
+D. Cause any caller identification service to transmit misleading or inaccurate caller
+identification information, with the intent to defraud or cause harm;
+E. Place calls for the primary purpose of generating queries to a CNAM database;
+F. Calling a party in violation of any state or federal statutes or government regulations,
+including, but not limited to, those applicable to telemarketers and telephone solicitations
+AT&T and Customer Confidential Information
+This document and information contained herein may be disclosed only to authorized persons, and
+may be used only for authorized purposes, in accordance with applicable agreements.
+5/9/2011 11:26 AM Doc. ID: Victory Telecom AVOICS TIA 110509
+eCRM Opp# 1-HWQUG6 ATTUID#ts2751
+Ver110316
+
+Contract Id: 3289020
+This document is not accepted or otherwise binding unless For AT&T Administrative Use Only
+executed by both Customer and AT&T by 06/01/2011, and Wholesale Master Agreement No:________
+may be withdrawn prior to AT&T’s execution. Attachment No. __________
+Original Effective Date: __________
+Amended Effective Date: __________
+in 47 CFR Section 64,1200 and 16 CFR Section 310.4 and to the delivery of CPN by
+telemarketers in 47 CFR Section 64.1601(e); or
+G. Telemarketing or telephone solicitations to a party that is on a state or federal do not
+call list, unless the called party has an existing business relationship with the telemarketer
+or telephone solicitor.
+10. Customer Commitments
+a) Customer represents and warrants that each call originated to AT&T as Native IP traffic, meets
+the criteria defined as (i) traffic that originates as IP from the originating caller, and (ii) is then
+transported as IP from the Service Provider to AT&T.
+b) If AT&T determines that Non-native traffic is routed or has been routed by the Customer to
+AT&T via the Native IP circuits, (i) Customer must remove the traffic within twenty-four (24) hours
+from the time of notification by AT&T, (ii) AT&T will re-rate the traffic as Non-native traffic, (iii)
+Customer will be billed the re-rated amount for payment to AT&T, and (iv) Customer will also pay
+any additional charges to AT&T, including but not limited to; fines, penalties, surcharges,
+administrative costs. If Customer repeatedly routes Non-native traffic to AT&T via the Native IP
+circuits, AT&T may terminate this Attachment upon at least ten (10) days written notice to Customer.
+c) Customer further agrees that Customer will not intentionally manipulate its routing system in a
+fashion that results in the delivery of a disproportionate amount of traffic that terminates in high-cost
+areas (i.e., in areas where a terminating Local Exchange Carrier’s (“LEC”) rate for terminating traffic
+is higher than the rate AT&T charges Customer).
+d) As described in the AVOICS Service Description, Customer is obligated to include calling party
+number (“CPN”) with all calls. AT&T reserves the right to add an additional Termination Rate File
+to this Attachment if calls are sent without CPN or to use the geographically significant NPA-NXX of
+the Customer Router location as the location from which a call originates.
+AT&T and Customer Confidential Information
+This document and information contained herein may be disclosed only to authorized persons, and
+may be used only for authorized purposes, in accordance with applicable agreements.
+5/9/2011 11:26 AM Doc. ID: Victory Telecom AVOICS TIA 110509
+eCRM Opp# 1-HWQUG6 ATTUID#ts2751
+Ver110316
+
+Contract Id: 3289020
+This document is not accepted or otherwise binding unless For AT&T Administrative Use Only
+executed by both Customer and AT&T by 06/01/2011, and Wholesale Master Agreement No:________
+may be withdrawn prior to AT&T’s execution. Attachment No. __________
+Original Effective Date: __________
+Amended Effective Date: __________
+Exhibit A
+to
+AT&T Voice Over IP Connect Service (AVOICS)
+Service Terms and Pricing Attachment
+Transport Independent Access (TIA)
+Customer will use TIA for connectivity to AVOICS rather than MIS-PNT as required in the
+AVOICS Service Description. There are no additional charges for this option.
+1. With TIA, the Customer and AT&T will work in good faith to determine the initial limit
+on Concurrent Calls (“Concurrent Call Limit”) during the Technical Due Diligence
+(“TDD”) process. Concurrent Calls are defined as the number of call sessions active at
+any one time. Call attempts made from any given TIA Site when the number of
+Concurrent Calls exceeds the Concurrent Call Limit for that TIA Site will be rejected.
+The Concurrent Call Limit will be initially allocated equally over the number of
+Customer TIA Sites, unless agreed to otherwise by Customer and AT&T. A TIA Site is
+defined as a Native and Non-native pair of IP signaling addresses provided by the
+Customer. With prior written notice, AT&T may increase or decrease the Concurrent
+Call Limit based on the minutes of use being delivered
+2. Although AT&T will use reasonable efforts to accept calls up to the Concurrent Call
+Limit for a TIA Site, the number of Concurrent Calls the customer may achieve is
+dependent upon other factors, including network and resource availability at the moment
+of a call attempt. Therefore, AT&T does not guarantee that the customer will always be
+able to reach the Concurrent Call Limit for Customer’s AVOICS traffic.
+3. Customer is responsible for delivering calls to the AT&T Network. Such connectivity
+can be either thru public internet access or by using MIS ports acquired under a separate
+AT&T MIS Wholesale Pricing Schedule.
+4. Customer is responsible to provision the IP addresses used at the TIA Sites.
+5. Customer is required to utilize separate, dedicated IP addresses as the source signaling
+address for Native IP Traffic and Non-native IP Traffic.
+6. AT&T will provision the Customer provided IP addresses in the AT&T network
+elements.
+End of Attachment
+AT&T and Customer Confidential Information
+This document and information contained herein may be disclosed only to authorized persons, and
+may be used only for authorized purposes, in accordance with applicable agreements.
+5/9/2011 11:26 AM Doc. ID: Victory Telecom AVOICS TIA 110509
+eCRM Opp# 1-HWQUG6 ATTUID#ts2751
+Ver110316
+
+Sales Contact Information
+TOXEY; HEATHER
+205-321-4918
+ht8171@asemail.att.com
+eSign F a x C o v e r S h e e t
+To: AT&T Automated Fax Handling Service From:
+Total Pages: 7
+Fax: 877-374-4632 or 877-eSignFax
+(Excluding Fax Cover Sheet)
+Instructions:
+Please do not make any changes to this cover page as your fax is returned to the sales
+representative using automated processing.
+After Signing the Contract Document associated with this Fax Cover Sheet with your
+Signature, Title, and Date:
+1. Place this Fax Cover Sheet as the First Page of the Signed Contract.
+For Multiple Contracts: Create a Contract Package by using each Fax
+Cover Sheet as a Contract Document Separator by placing each Cover
+Sheet as the First Page of the respective Contract.
+2. Select resolution of 200 x 200 DPI when scanning the printed document
+3. You may either send the Contract(s) via
+ Fax: Send the Contract(s) package to 8 77-374-4632 or 877-eSignFax
+ Copier with email capability: Send Contract(s) package as Tiff image to
+esign@att.com
+ Scanner and email: Send as a Tiff image toesign@att.com
+If you have any questions or problems, please call your Sales Representative at 205-321-4918
+Note: If you are purchasing or ordering an AT&T Business Network (ABN) Express
+Bundle, please remember to initial your response to the Mobility question for Section 5
+and complete the Letter of Authorization. Letter of Authorization is required whenever
+you are purchasing Long Distance, Local or IP Services.
+Internal AT&T Use Only:
+AT&T Sales Only: 3142421185@rfax.att.com
+Request Id: 316269
+Contract Id: 3289019
+
+Contract Id: 3289019
+AT&T MA reference #
+AT&T Master Carrier Agreement
+CUSTOMER Name (Full Legal Name): AT&T Sales Representative:
+Victory Telecom, Inc. AT&T Corp., Heather Toxey
+(“CUSTOMER”) a New York corporation (“AT&T”)
+CUSTOMER Name (and Title) for Notice: AT&T Name (and Title) for Notice: AT&T Contact Telephone Number:
+Jimmy Parman, President and Richard Chapes 205.321.4918
+CEO
+CUSTOMER Address: AT&T Address: Initial Deposit Amount Required:
+1000 Ballpark Way, Suite 675 W PEACHTREE ST NW $0
+#315
+City State Zip Code City State Zip Code
+Arlington TX 76011 Atlanta GA 30375
+CUSTOMER Fax number for Notice: AT&T Fax number for Notice:
+866-785-6711 214.712.5787
+This Agreement shall be legally binding when signed by both parties and shall continue in effect until the end of the
+longest term specified in an Attachment, or until otherwise terminated pursuant to this Agreement. The rates and
+commitments shall be effective as provided in each Attachment.
+Table of Documents
+Title Doc. ID Date/time stamp
+General Terms and Conditions MCA 030614.doc 06/14/03 8:15 am
+AT&T Voice Over IP Connect Service, Service Victory Telecom AVOICS 04/28/11 2:45PM
+Terms and Pricing Attachment TIA 110428
+Wholesale Unified Comprehensive Service Order Whls UA CSOA 092310.doc 09/23/10 2:24PM
+Attachment
+AGREED: AGREED:
+Victory Telecom, Inc. AT&T Corp.
+By: By:
+(Authorized CUSTOMER Signature) (Authorized Agent or Representative for AT&T)
+,
+(Typed or Printed Name and Title) (Typed or Printed Name and Title)
+Date: Date:
+10/19/2006 2:12 PM AT&T and Customer Confidential Information
+This document and information contained herein may be disclosed only to authorized persons, and
+may be used only for authorized purposes, in accordance with applicable agreements.
+
+Contract Id: 3289019
+GENERAL TERMS AND CONDITIONS Page 1
+1. Provision of Services. AT&T agrees to provide to for the prompt payment of bills. Interest (at the rate of 6%
+CUSTOMER the AT&T services described in the per year or such other rate as is applicable by law) will be
+Attachment(s) to this Agreement (the “Services”). AT&T is paid to CUSTOMER for any period that a cash deposit is
+not responsible for the quality of transmission or signaling held by AT&T. AT&T may apply a deposit against past due
+on CUSTOMER’s side of the network interface between charges at any time.
+AT&T and CUSTOMER. Service is furnished subject to the 6. Obligations Regarding Taxes. CUSTOMER shall
+availability of the service components required, and pay any applicable taxes (excluding those on AT&T's net
+subject to operational and systems constraints.
+income), fees, duties, levies and other similar charges
+2. Billing and Payment for the Services. Except as (and any related interest and penalties) relating to the
+may be provided in an Attachment, AT&T will send a sale, transfer of ownership, installation, license, use or
+single monthly bill for each of the Services to one location provision of the Services, except to the extent customer
+designated by CUSTOMER. CUSTOMER is liable for all provides a valid exemption certificate to AT&T prior to the
+amounts due to AT&T under this Agreement. Payment in delivery of Services.
+U.S. currency is due within thirty days after the bill date,
+7. CUSTOMER is a Carrier. CUSTOMER certifies it is a
+except as otherwise provided below with respect to Billing
+"common carrier" as defined in the Communications Act of
+Disputes. Charges set forth in the Attachments are
+1934 (see 47 USC §§153(10) and 211), with all required
+exclusive of any applicable taxes or surcharges.
+operating authority. CUSTOMER further certifies either
+4. Non-Payment. AT&T may add interest charges to (a) it has filed an FCC Form 499-A with the Federal
+any past due amounts at the lower of 1.5% per month or Communications Commission (individually or on a
+the maximum rate allowed by law. CUSTOMER shall consolidated basis) in accordance with the registration
+reimburse AT&T for reasonable attorney's fees and any requirement of 47 C.F.R. 64.1195, or (b) it will not resell
+other costs associated with collecting delinquent or interstate telecommunications service(s) provided by
+dishonored payments. Restrictive endorsements or other AT&T under this Agreement, unless it first registers with
+statements on checks accepted by AT&T will not apply. the Federal Communications Commission in accordance
+with the registration requirement of 47 C.F.R. 64.1195.
+4. Billing Disputes. To dispute a charge on a bill,
+CUSTOMER must identify the specific charge in dispute 6. Responsibilities of CUSTOMER. CUSTOMER is
+and provide a full written explanation of the basis for the responsible for interfacing and communicating with its End
+dispute using a standard AT&T billing dispute form within Users, for placing any orders, and for assuring that it and
+90 days after the bill date. CUSTOMER may withhold any Intermediate Providers comply with the provisions of
+payment of a charge subject to a good faith dispute this Agreement and with all applicable laws and regulatory
+provided: (a) CUSTOMER submits the billing dispute, requirements with respect to the Services. CUSTOMER is
+using a standard AT&T billing dispute form, within thirty responsible for arranging premises access at any
+days after the bill date; (b) CUSTOMER pays the reasonable time so that AT&T personnel may install,
+undisputed portion of all charges; and (c) CUSTOMER repair, maintain, inspect or remove service components.
+cooperates reasonably with AT&T’s efforts to investigate 6. Software. AT&T grants CUSTOMER a personal, non-
+and resolve the dispute. If AT&T determines a disputed transferable and non-exclusive license (without the right to
+charge was billed in error, AT&T shall issue a credit to sublicense) to use, in object code form, all software and
+reverse the amount incorrectly billed. If AT&T determines associated written and electronic documentation and data
+a disputed charge was billed correctly, payment shall be furnished pursuant to this Agreement (collectively,
+due from CUSTOMER within five days after AT&T advises “Software”), solely in connection with the Services and
+CUSTOMER in writing that the dispute is denied. solely in accordance with applicable written and electronic
+5. Deposits. Using its Deposit standards, AT&T has documentation. CUSTOMER will refrain from taking any
+assessed and CUSTOMER shall pay the Initial Deposit steps to reverse assemble, reverse compile or otherwise
+amount specified on the Cover Sheet before Services are derive a source code version of the Software. The
+provided. AT&T may require CUSTOMER, during the term Software shall at all times remain the sole and exclusive
+of this Agreement, to tender a deposit in an amount to be property of AT&T or its suppliers. "Third-Party Software"
+determined by AT&T in its reasonable discretion. AT&T means Software that bears a copyright notice of a third
+will rely upon commercially reasonable factors to party. "AT&T Software" means all Software other than
+determine the need for and amount of any deposit. These Third-Party Software. CUSTOMER shall not copy or
+factors may include, but are not limited to, payment download the Software, except that CUSTOMER may
+history, number of years in business, history of service make two copies of the Software, one for archive and the
+with AT&T, bankruptcy history, current account treatment other for disaster recovery purposes. Any copy must
+status, financial statement analysis, and commercial credit contain the same copyright notices and proprietary
+bureau rating, as well as commitment levels and markings as the original Software. CUSTOMER agrees to
+anticipated monthly charges. Any deposit will be held by comply with any additional restrictions that are provided
+AT&T as a guarantee for the payment of charges. A with any Third-Party Software. The term of the license
+deposit does not relieve CUSTOMER of the responsibility granted with respect to any Software shall be coterminous
+06/14/03 8:15 am AT&T and Customer Confidential Information Doc. ID: MCA 030614.doc
+This document and information contained herein may be disclosed only to authorized persons, and
+may be used only for authorized purposes, in accordance with applicable agreements.
+
+Contract Id: 3289019
+GENERAL TERMS AND CONDITIONS Page 2
+with the Attachment which covers the Software and/or and fails to make payment in full within 5 days after receipt
+related Services. CUSTOMER shall assure that its Users of written notice of default, AT&T may, at its option,
+comply with the terms and conditions of this Section. terminate the Agreement, terminate affected Attachments,
+9. Warranty with Respect to Software. AT&T warrants suspend Service under the affected Attachments, and/or
+require a deposit, advanced payment, or other satisfactory
+that all AT&T Software will perform substantially in
+assurances in connection with any or all Attachments as a
+accordance with its applicable published specifications for
+condition of continuing to provide Services; except that
+the term of the Attachment that covers the AT&T Software.
+AT&T will not take any such action as a result of
+If CUSTOMER returns to AT&T, within such period, any
+CUSTOMER's non-payment of a charge subject to a
+AT&T Software that does not comply with this warranty,
+timely billing dispute, unless AT&T has reviewed the
+then AT&T, at its option, will either repair or replace the
+portion of the AT&T Software that does not comply or dispute and determined that the charge is correct. An
+refund the amount paid by CUSTOMER for such failed or Attachment may be terminated by either party immediately
+defective AT&T Software. This warranty will apply only if upon written notice if the other party has become insolvent
+the AT&T Software is used in accordance with the terms of or involved in a liquidation or termination of its business, or
+adjudicated bankrupt, or been involved in an assignment
+this Agreement and is not altered, modified or tampered
+for the benefit of its creditors. CUSTOMER shall be liable
+with by CUSTOMER or Users.
+to AT&T for Termination Charges, as specified in a
+10. Abuse of Service. The abuse of Service is
+terminated Attachment, in the event that AT&T terminates
+prohibited. Using Service or permitting Service to be used
+an Attachment as a result of a breach by CUSTOMER.
+in the following ways constitutes abuse:(a) interfering
+Termination by either party of an Attachment does not
+unreasonably with the use of AT&T service by others or
+waive any other rights or remedies it may have under this
+the operation of the AT&T network; (b) with respect to
+Agreement.
+Services that include the provision of terminating switched
+access over local exchange company facilities, carrying 11. No Other Representations or Warranties. EXCEPT
+calls that originate on the network of a facilities-based AS EXPRESSLY PROVIDED IN THIS AGREEMENT,
+interexchange carrier other than AT&T and terminate AT&T MAKES NO REPRESENTATIONS OR
+disproportionately to domestic locations for which AT&T's WARRANTIES, EXPRESS OR IMPLIED, UNDER THIS
+cost of terminating switched access (based on the AGREEMENT AND SPECIFICALLY DISCLAIMS ANY
+WARRANTY OF MERCHANTABILITY, FITNESS FOR A
+published access rates of the incumbent local exchange
+PARTICULAR PURPOSE, TITLE OR NON-
+companies) is above AT&T's price for the call under this
+INFRINGEMENT OR ANY WARRANTY ARISING BY
+Agreement (after application of discounts); (c) subjecting
+AT&T personnel or non-AT&T personnel to hazardous USAGE OF TRADE, COURSE OF DEALING OR
+COURSE OF PERFORMANCE. AT&T DOES NOT
+conditions; (d) attempting to avoid the payment, in whole
+or in part, of any charges by any means or device (non- REPRESENT OR WARRANT THAT THE SERVICES
+WILL BE UNINTERRUPTED OR ERROR-FREE, OR
+payment of billed charges will not be considered abuse of
+service for purposes of this Section); or (e) using the THAT THE SERVICES WILL MEET CUSTOMER'S
+REQUIREMENTS OR THAT THE SERVICES WILL
+Services or displaying or transmitting Content in a manner
+that violates any applicable law or regulation. In any PREVENT UNAUTHORIZED ACCESS BY THIRD
+PARTIES. AT&T DOES NOT AUTHORIZE ANYONE TO
+instance in which AT&T believes in good faith that there is
+abuse of Service as set forth above, AT&T may MAKE A REPRESENTATION OR WARRANTY OF ANY
+immediately restrict, suspend or discontinue providing KIND ON ITS BEHALF AND CUSTOMER SHOULD NOT
+RELY ON ANYONE MAKING SUCH STATEMENTS.
+Service or prevent the display or transmission of Content,
+without liability on the part of AT&T, and then notify 12. Limitation of Liability. EITHER PARTY’S ENTIRE
+CUSTOMER of the action that AT&T has taken and the LIABILITY, AND THE OTHER PARTY’S EXCLUSIVE
+reason for such action. To the extent doing so does not REMEDIES, FOR ANY DAMAGES CAUSED BY ANY
+interfere with its ability to prevent abuse of Service (to be SERVICE DEFECT OR FAILURE, OR FOR OTHER
+determined in AT&T's reasonable judgment), AT&T will CLAIMS ARISING IN CONNECTION WITH ANY
+attempt to notify CUSTOMER before taking such action, SERVICE OR OBLIGATIONS UNDER THIS
+and will attempt to limit any restriction, suspension or AGREEMENT SHALL BE:
+discontinuance under this Section to the locations, (a) FOR BODILY INJURY OR DEATH TO ANY
+Content, or Services with respect to which the abuse is PERSON, OR REAL OR TANGIBLE PROPERTY
+taking place. DAMAGE, NEGLIGENTLY CAUSED BY A PARTY, OR
+10. Default. If a party breaches any material term of this DAMAGES ARISING FROM THE WILLFUL
+Agreement and the breach continues unremedied for 60 MISCONDUCT OF A PARTY OR A BREACH OF THE
+days after written notice of default, the other party may PROVISIONS OF SECTION 17 (USE OF MARKS), THE
+terminate for cause any Attachment materially affected by OTHER PARTY’S RIGHT TO PROVEN DIRECT
+the breach. If CUSTOMER is in breach of its payment DAMAGES;
+obligations (including failure to pay a required deposit),
+06/14/03 8:15 am AT&T and Customer Confidential Information Doc. ID: MCA 030614.doc
+This document and information contained herein may be disclosed only to authorized persons, and
+may be used only for authorized purposes, in accordance with applicable agreements.
+
+Contract Id: 3289019
+GENERAL TERMS AND CONDITIONS Page 3
+(b) FOR DEFECTS OR FAILURES OF SOFTWARE, REGARDLESS OF THE FORM OF ACTION, WHETHER
+THE REMEDIES SET FORTH ABOVE UNDER THE IN CONTRACT, TORT, WARRANTY, STRICT LIABILITY,
+HEADING WARRANTY WITH RESPECT TO OR NEGLIGENCE (INCLUDING WITHOUT LIMITATION
+SOFTWARE; ACTIVE AND PASSIVE NEGLIGENCE). NOTHING IN
+(c) FOR INDEMNITY, THE REMEDIES SET FORTH THIS SECTION LIMITS CUSTOMER’S RESPONSIBILITY
+BELOW UNDER THE HEADING INDEMNIFICATION; FOR THE PAYMENT OF CHARGES DUE AS PROVIDED
+(d) FOR DAMAGES OTHER THAN THOSE SET IN THIS AGREEMENT, OR AT&T’S OBLIGATION TO
+FORTH ABOVE AND NOT EXCLUDED UNDER THIS PROVIDE CREDITS DUE AS PROVIDED IN THIS
+AGREEMENT, EACH PARTY’S LIABILITY SHALL BE AGREEMENT.
+LIMITED TO PROVEN DIRECT DAMAGES NOT TO For purposes of all remedies and limitations of liability set
+EXCEED PER CLAIM (OR IN THE AGGREGATE forth in this Agreement or any Attachment, (i) “AT&T” shall
+DURING ANY 12-MONTH PERIOD) AN AMOUNT mean AT&T Corp., its Affiliates, and its and their
+EQUAL TO THE TOTAL NET PAYMENTS PAYABLE BY employees, directors, officers, agents, representatives,
+CUSTOMER FOR THE APPLICABLE SERVICE UNDER subcontractors, interconnection service providers and
+THE APPLICABLE ATTACHMENT DURING THE 3 suppliers and (ii) “CUSTOMER” shall mean Customer, its
+MONTHS PRECEDING THE MONTH IN WHICH THE Affiliates, and its and their employees, directors, officers,
+DAMAGE OCCURRED. agents, and representatives.
+THE LIMITATIONS IN THIS SECTION 14 SHALL NOT
+13. Force Majeure. Neither party nor its Affiliates or
+PRECLUDE A PARTY FROM OBTAINING INJUNCTIVE
+subcontractors shall be liable to the other party for any
+RELIEF FROM A COURT OF COMPETENT
+delay, failure in performance, loss or damage due to force
+JURISDICTION IN THE EVENT OF A VIOLATION OF
+majeure conditions such as fire, explosion, power
+SECTION 9 (SOFTWARE), SECTION 11 (ABUSE OF
+blackout, earthquake, volcanic action, flood, hurricane, the
+SERVICE), ARTICLE 17 (USE OF MARKS), OR ARTICLE
+elements, strike, embargo, labor disputes, civil or military
+20 (CONFIDENTIALITY OBLIGATIONS).
+authority, war, acts of God, acts or omissions of other
+EXCEPT TO THE EXTENT PROVIDED UNDER THIS carriers (except, for CUSTOMER, the acts or omissions of
+AGREEMENT WITH RESPECT TO INDEMNIFICATION, its Intermediate Providers), acts of regulatory or
+NEITHER PARTY SHALL BE LIABLE TO THE OTHER governmental agencies, or other causes beyond their
+PARTY FOR ANY INDIRECT, INCIDENTAL, reasonable control, except that CUSTOMER's obligation
+CONSEQUENTIAL, PUNITIVE, RELIANCE OR SPECIAL to pay for services provided shall not be excused.
+DAMAGES, INCLUDING WITHOUT LIMITATION
+Changes in economic, business or competitive conditions
+DAMAGES FOR LOST PROFITS, ADVANTAGE, are not force majeure conditions. If CUSTOMER is unable
+SAVINGS OR REVENUES OF ANY KIND, OR to meet its commitments as a direct result of a force
+INCREASED COST OF OPERATIONS, WHETHER OR
+majeure condition, CUSTOMER may suspend its
+NOT SUCH PARTY HAS BEEN ADVISED OF THE commitments for one full billing month (or longer, with
+POSSIBILITY OF SUCH DAMAGES. IN NO EVENT
+AT&T’s written consent, which shall not be unreasonably
+SHALL AT&T BE LIABLE FOR ANY CLAIM OR withheld). The effect of such a suspension of commitment
+DAMAGES CAUSED BY OR ARISING OUT OF: will be to exclude the affected month(s) from all
+(i) ANY ACT OR OMISSION (INCLUDING WITHOUT calculations affecting the CUSTOMER’s commitments and
+LIMITATION UNAUTHORIZED USE, THEFT, to extend the term of this Agreement by the same number
+ALTERATION, LOSS OR DESTRUCTION OF SERVICE of months. CUSTOMER must provide notice to AT&T of
+OR THE APPLICATIONS, CONTENT, DATA, the force majeure condition giving rise to the right to
+PROGRAMS, INFORMATION, NETWORK OR suspend commitments within 30 days after its occurrence.
+SYSTEMS OF CUSTOMER, AN END USER OR ANY 14. Indemnification. CUSTOMER shall indemnify,
+THIRD PARTY) OF CUSTOMER, AN INTERMEDIATE defend, and hold harmless AT&T and its Affiliates,
+PROVIDER, OR AN END USER,
+directors, officers, employees, agents, successors and
+(ii) EXCEPT AS OTHERWISE PROVIDED IN AN assigns from any and all claims, damages and expenses
+ATTACHMENT, SERVICE LEVELS, DELAYS OR whatsoever (including reasonable attorneys’ fees) arising
+INTERRUPTIONS OR LOST OR ALTERED MESSAGES on account of or in connection with CUSTOMER's use,
+OR TRANSMISSIONS, OR resale or sharing of the Services, including but not limited
+(iii) INTEROPERABILITY, INTERACTION OR
+to: (a) claims for libel, slander, invasion of privacy;
+INTERCONNECTION OF THE SERVICES WITH
+(b) claims for infringement of copyright arising from any
+APPLICATIONS, EQUIPMENT, SERVICES, CONTENT
+communication using the Services; (c) claims arising from
+OR NETWORKS PROVIDED BY CUSTOMER OR
+any failure, breakdown, interruption or deterioration of
+THIRD PARTIES.
+service provided by AT&T to CUSTOMER or by
+THE LIMITATIONS OF LIABILITY SET FORTH IN THIS
+CUSTOMER to End Users or Intermediate Providers;
+AGREEMENT SHALL SURVIVE FAILURE OF AN
+(d) claims arising from CUSTOMER’s marketing efforts;
+EXCLUSIVE REMEDY, AND SHALL APPLY
+and (e) claims of patent infringement arising from
+06/14/03 8:15 am AT&T and Customer Confidential Information Doc. ID: MCA 030614.doc
+This document and information contained herein may be disclosed only to authorized persons, and
+may be used only for authorized purposes, in accordance with applicable agreements.
+
+Contract Id: 3289019
+GENERAL TERMS AND CONDITIONS Page 4
+combining or using services or equipment furnished by Intermediate Provider) by CUSTOMER or the Intermediate
+AT&T in connection with services or equipment furnished Provider is provided by AT&T or is carried over the AT&T
+by others. CUSTOMER's indemnification obligations do network or AT&T facilities.
+not apply to claims for damages to real or tangible 16. Relationship of the Parties. The relationship
+personal property or for bodily injury or death negligently
+between the parties shall be that of independent
+caused by AT&T.
+contractors and not of principal and agent, employer and
+AT&T shall indemnify, defend, and hold harmless employee, franchiser and franchisee, partners or joint
+CUSTOMER and its Affiliates, directors, officers, venturers. This Agreement does not establish
+employees, agents, successors and assigns from all CUSTOMER as a dealer, distributor or franchisee of
+claims of patent infringement arising solely from the use of AT&T, and no fee is being paid to AT&T to enter into this
+the Services. (Whenever AT&T is responsible under the Agreement.
+preceding sentence, AT&T may at its option either procure 19. Confidential Information Defined. “Confidential
+the right for CUSTOMER to continue using, or may Information" consists of the following: all information
+replace or modify the alleged infringing Service so that the disclosed by one party or its agent or representative (the
+Service becomes noninfringing. If those alternatives are
+"Disclosing Party") to the other party or its agent or
+not reasonably achievable, AT&T may terminate the representative (the "Receiving Party") in connection with
+affected Attachment without termination liability to either this Agreement regarding the telecommunications needs
+party.) of CUSTOMER and/or the telecommunications offerings of
+The indemnified party under this Section 16: (i) must notify AT&T, to the extent that (a) for information disclosed in
+the other party in writing promptly upon learning of any written, graphic or other tangible form, it is designated by
+claim or suit for which indemnification may be sought, appropriate markings to be confidential or proprietary or
+provided that failure to do so shall have no effect except to (b) for information disclosed orally, it is both identified as
+the extent the other party is prejudiced thereby; (ii) shall proprietary or confidential at the time of disclosure and
+have the right to participate in such defense or settlement summarized in a writing so marked within 15 business
+with its own counsel and at its sole expense, but the other days following the oral disclosure. Notwithstanding the
+party shall have control of the defense or settlement; and foregoing, all written or oral pricing and contract proposals
+(iii) shall reasonably cooperate with the defense. exchanged between the parties shall be Confidential
+15. Use of Marks. Nothing in this Agreement creates in a Information, whether or not so designated. Confidential
+party any rights in the other party's trade names, Information is the property of the Disclosing Party and
+trademarks, service marks or any other intellectual shall be returned to the Disclosing Party upon request.
+property. Either party may use the other party's trade This Agreement is Confidential Information as to which
+names, trademarks, or service marks only to the extent each party is both a Disclosing Party and a Receiving
+such use is not prohibited by this Agreement and is Party. Information that (i) is independently developed by
+otherwise permitted by law (including but not limited to the the Receiving Party, (ii) is lawfully received by the
+Lanham Act). In no event shall either party use or display, Receiving Party free of any obligation to keep it
+in advertising or otherwise, any of the other party's logos, confidential, or (iii) becomes generally available to the
+trade dress, trade devices or other indicia of origin, or any public other than by breach of this Agreement, shall not be
+confusingly similar logos, trade dress, trade devices or Confidential Information.
+indicia of origin. CUSTOMER will not conduct business 20. Confidentiality Obligations. A Receiving Party shall
+under any AT&T corporate or trade name, trademark, hold all Confidential Information in confidence from the
+service mark, logo, trade dress, trade device, indicia of time of disclosure until at least 3 years following its
+origin or other symbol that serves to identify and disclosure (except with respect to Software, which shall be
+distinguish AT&T from its competitors, or under any held in confidence indefinitely). During that period, the
+confusingly similar corporate or trade name, trademark, Receiving Party: (a) shall use such Confidential
+service mark, logo, trade dress, trade device, indicia of Information only for the purposes of performing this
+origin or other symbol. CUSTOMER will not indicate or Agreement and using the Services; (b) shall reproduce
+imply to any other party that CUSTOMER is affiliated with such Confidential Information only to the extent necessary
+AT&T, that CUSTOMER is authorized by AT&T to sell or for such purposes; (c) shall restrict disclosure of such
+provide service to them, that CUSTOMER is providing (or Confidential Information to employees that have a need to
+will provide) service to such party jointly or in collaboration know for such purposes; (d) shall advise those employees
+or partnership with AT&T, or as the agent of AT&T, or that of the obligations of this Agreement; (e) shall not disclose
+service provided by CUSTOMER or another carrier is Confidential Information to any third party without prior
+provided by AT&T. Except to the limited extent (if any) as written approval of the Disclosing Party except as
+may be required under law, neither CUSTOMER nor an expressly provided in this Agreement; and (f) shall use at
+Intermediate Provider shall indicate or imply to any least the same degree of care (in no event less than
+existing or potential End User (or Intermediate Provider) reasonable care) as it uses with regard to its own
+that any portion of the service provided to the End User (or proprietary or confidential information to prevent the
+06/14/03 8:15 am AT&T and Customer Confidential Information Doc. ID: MCA 030614.doc
+This document and information contained herein may be disclosed only to authorized persons, and
+may be used only for authorized purposes, in accordance with applicable agreements.
+
+Contract Id: 3289019
+GENERAL TERMS AND CONDITIONS Page 5
+disclosure, unauthorized use or publication of Confidential number designated for notice), or to such other individual,
+Information. address or fax number as a party may designate by notice
+to the other party.
+21. Publicity. No public statements or announcements
+relating to this Agreement shall be issued by either party 25. Equipment. AT&T shall retain title to all of its
+without the prior written consent of the other party. equipment and facilities used to provide service under this
+22. Alternative Dispute Resolution. The parties will Agreement. CUSTOMER will pay reasonable shipping
+attempt to settle any claim for non-payment of charges or charges for delivery to CUSTOMER’s premises of AT&T
+recovery of overpayment of charges for the Services equipment used to provide Service under this Agreement.
+(hereinafter a "Billing Dispute"), through good faith CUSTOMER is liable to AT&T for the replacement cost of
+negotiations. The parties may agree to submit a Billing any AT&T-provided equipment installed at CUSTOMER’s
+premises in the event of loss of said equipment for any
+Dispute to non-binding mediation. At any time, the party
+reason, including but not limited to theft.
+seeking payment may submit a notice of arbitration of a
+Billing Dispute for arbitration under the United States 26. Export Regulations. The parties acknowledge that
+Arbitration Act pursuant to the terms of this Section and the Services and Software may be subject to U.S. export
+the Non-Administered Arbitration Rules of the CPR laws and regulations. If requested, CUSTOMER will sign
+Institute for Dispute Resolution (“CPR”), to the extent such assurances and other export-related documents required
+rules do not conflict. The Arbitration will be held in New for AT&T to comply with U.S. export regulations.
+York, New York, or any other location selected by mutual 27. Quality Monitoring. CUSTOMER authorizes AT&T to
+agreement of the parties. The arbitrator shall not have the monitor and record calls to AT&T concerning the Services
+power to award any damages in excess of the limits set
+for training and quality control purposes.
+forth in or excluded under the limitations of liability
+28. Assignment. This Agreement may not be assigned
+provided in this Agreement. The arbitrator may not limit,
+by either party except that either party may assign its
+expand or otherwise modify the terms of this Agreement.
+rights or delegate its duties under this Agreement to an
+The arbitrator shall strictly limit discovery to the production
+Affiliate of that party, and either party may assign this
+of documents directly relevant to the facts alleged in the
+Agreement to a successor, provided that an assignee of
+notices of arbitration and defense. If depositions are
+CUSTOMER must satisfy the requirements of Section 7 of
+required, the arbitrator shall permit each Party to conduct
+these General Terms and Conditions.
+an equal number of depositions (not to exceed five per
+side), with equal limits on the number of deposition hours 29. No Third Party Beneficiaries. This Agreement does
+for each Party (not to exceed 7 per deposition). If an not expressly or implicitly provide any third party (including
+evidentiary hearing is held, each Party's presentation of its but not limited to End Users and Intermediate Providers)
+case shall be limited to three (3) days. Requests for with any remedy, claim, liability, reimbursement, cause of
+temporary injunctive relief may be submitted to a court of action or other right or privilege.
+competent jurisdiction if the arbitrator has not yet been 30. Non-Waiver. The failure of a party to enforce any
+appointed, but the arbitrator shall have the authority to right under this Agreement at any particular point in time
+modify any injunctive relief granted by such a court. The shall not constitute a continuing waiver of any such right
+arbitration award shall be made final within eight months of with respect to the remaining term of this Agreement, or
+filing of the notice of arbitration and judgment upon the the waiver of any other right under this Agreement.
+award may be entered in any court having competent
+31. Severability. If any portion of this Agreement is found
+jurisdiction. All participants and the arbitrator shall hold the
+to be invalid or unenforceable, the remaining provisions
+existence, content and results of mediation and arbitration
+shall remain in effect and the parties shall immediately
+in confidence, except as necessary to enforce a final
+begin negotiations to replace any invalid or unenforceable
+settlement agreement or to enforce an arbitration award.
+portions that are essential parts of this Agreement.
+Each party shall bear its own expenses and equally share
+32. Survival of Terms. The rights and obligations of
+expenses related to the compensation of the arbitrator.
+either party that by their nature would continue beyond the
+The arbitrator's award shall be in writing and shall state
+termination or expiration of this Agreement shall survive
+the reasons for the award.
+termination or expiration of this Agreement. For example,
+23. Time to Bring Claims. Any initial demand for
+the provisions of this Agreement regarding Confidentiality
+arbitration pursuant to this Agreement, and any legal
+shall remain in effect following termination of this
+action arising under this Agreement, must be initiated
+Agreement and the provisions of this Agreement regarding
+within two years after the cause of action arises.
+arbitration, use of Marks, indemnification, and/or limitation
+24. Notices. All notices under this Agreement shall be in of liability shall survive termination of this Agreement as to
+writing and shall be made: (a) by personal delivery; (b) by any cause of action arising under the Agreement.
+certified or registered mail, postage prepaid return receipt
+32. Choice of Law. The domestic law of the State of New
+requested, (c) by overnight delivery, or (d) by facsimile
+York, except its conflict-of-laws rules, shall govern the
+transmission. Notice shall be sent to the individuals
+construction, interpretation, and performance of this
+identified on the Cover Sheet (at the address and/or fax
+06/14/03 8:15 am AT&T and Customer Confidential Information Doc. ID: MCA 030614.doc
+This document and information contained herein may be disclosed only to authorized persons, and
+may be used only for authorized purposes, in accordance with applicable agreements.
+
+Contract Id: 3289019
+GENERAL TERMS AND CONDITIONS Page 6
+Agreement, except to the extent superceded by federal therein, Customer and User data, and the contents of any
+law. The United Nations Convention on Contracts for bulletin boards or chat forums, and, all updates, upgrades,
+International Sale of Goods shall not apply. modifications and other versions of any of the foregoing.
+33. Amendment. No amendment, supplement, “End User” or “User” means the entity that uses the
+modification or waiver of any provision of this Agreement service furnished under this Agreement for its own use,
+shall be effective unless in writing and signed by and not for purposes of providing telecommunications
+authorized representatives of both parties. services to others.
+34. Entire Agreement. This Agreement constitutes the "Intermediate Provider" means any provider or other
+entire agreement between the parties with respect to the intermediary (other than CUSTOMER or its agents or
+Services. This Agreement supersedes all prior employees) in the sales chain between CUSTOMER and
+agreements, proposals, representations, statements or an End User.
+understandings, whether written or oral, concerning the
+“Master Agreement” means the Agreement.
+Services or the parties' rights or obligations relating to the
+“Service Guide” means the AT&T Business Service Guide,
+Services. Any prior representations, promises,
+as amended from time to time, accessible via the Internet
+inducements or statements of intent regarding the
+at http://serviceguide.att.com, unless otherwise defined in
+Services that are not embodied in this Agreement are of
+an Attachment. With respect to Service provided by AT&T
+no effect.
+under tariff, “Service Guide” means the tariffs applicable to
+35. Definitions. The following definitions apply in addition
+the provision of such Service, as amended from time to
+to the definitions set forth elsewhere in this Agreement:
+time. Any references in the Attachments to “Tariffs”, with
+“Affiliate” means any entity that controls, is controlled by or respect to services that are no longer provided under tariff,
+is under common control with a party. will be deemed reference to the Service Guide, which is
+the successor document to interexchange tariffs that have
+"Content" means information made available, displayed or
+been withdrawn as a result of detariffing.
+transmitted (including information made available by
+means of an HTML "hot link", a third party posting or If not otherwise defined, capitalized terms shall be defined
+similar means) in connection with a Service including all as provided in the Service Guide.
+trademarks, service marks and domain names contained
+----------------------------------------------------------------------------- End of Terms and Conditions -------------------------------------------------------------------------------
+06/14/03 8:15 am AT&T and Customer Confidential Information Doc. ID: MCA 030614.doc
+This document and information contained herein may be disclosed only to authorized persons, and
+may be used only for authorized purposes, in accordance with applicable agreements.
+
+Sales Contact Information
+TOXEY; HEATHER
+205-321-4918
+ht8171@asemail.att.com
+eSign F a x C o v e r S h e e t
+To: AT&T Automated Fax Handling Service From:
+Total Pages: 4
+Fax: 877-374-4632 or 877-eSignFax
+(Excluding Fax Cover Sheet)
+Instructions:
+Please do not make any changes to this cover page as your fax is returned to the sales
+representative using automated processing.
+After Signing the Contract Document associated with this Fax Cover Sheet with your
+Signature, Title, and Date:
+1. Place this Fax Cover Sheet as the First Page of the Signed Contract.
+For Multiple Contracts: Create a Contract Package by using each Fax
+Cover Sheet as a Contract Document Separator by placing each Cover
+Sheet as the First Page of the respective Contract.
+2. Select resolution of 200 x 200 DPI when scanning the printed document
+3. You may either send the Contract(s) via
+ Fax: Send the Contract(s) package to 8 77-374-4632 or 877-eSignFax
+ Copier with email capability: Send Contract(s) package as Tiff image to
+esign@att.com
+ Scanner and email: Send as a Tiff image toesign@att.com
+If you have any questions or problems, please call your Sales Representative at 205-321-4918
+Note: If you are purchasing or ordering an AT&T Business Network (ABN) Express
+Bundle, please remember to initial your response to the Mobility question for Section 5
+and complete the Letter of Authorization. Letter of Authorization is required whenever
+you are purchasing Long Distance, Local or IP Services.
+Internal AT&T Use Only:
+AT&T Sales Only: 3142421185@rfax.att.com
+Request Id: 316269
+Contract Id: 3289018
+
+Contract Id: 3289018
+Wholesale UA CSOA
+AT&T MA Reference No.
+Wholesale Unified Comprehensive Service Order Attachment
+Customer AT&T
+Victory Telecom, Inc. AT&T Corp.
+Date of Initial Execution of Master Agreement (by Date of Initial Execution of Master Agreement (by
+CUSTOMER) AT&T)
+This Unified Comprehensive Service Order Attachment (“Attachment”) is part of the Master Agreement between the customer named
+above (“Customer”) and the AT&T Corp, (“AT&T”) referenced above.
+The Effective Date of this Attachment is the date the Master Agreement is initially executed by both parties or, if this Attachment is not
+part of the Master Agreement as initially executed, the Effective Date will be the date the Master Agreement is thereafter amended to
+include this Attachment.
+1. INTRODUCTION 1.4 Revisions to Documents. Subject to Section 8.1(a)
+(Materially Adverse Impact), AT&T may revise Service
+1.1 Overview of Documents. The General Terms and
+Publications at any time.
+Conditions of the Master Agreement, as may be modified by a
+Supplemental Terms and Conditions Attachment (collectively, 2. AT&T DELIVERABLES; SERVICES
+“T&C Attachment”), this Attachment and the following additional
+2.1 AT&T Equipment. Services may be provided using
+documents (collectively, the “Agreement”) shall apply to all
+equipment owned by AT&T that is located at the Site (“AT&T
+Services AT&T provides Customer pursuant to this Agreement
+Equipment”), but title to the AT&T Equipment will remain with
+and shall continue in effect so long as Services are provided
+AT&T. Customer must provide electric power for the AT&T
+under this Agreement.
+Equipment and keep the AT&T Equipment physically secure and
+(a) Pricing Schedules. A “Pricing Schedule” means a free from liens and encumbrances. Customer will bear the risk
+document titled “Pricing Schedule” (including its attachments) of loss or damage to the AT&T Equipment (other than ordinary
+that references the Master Agreement. A Pricing Schedule wear and tear) except to the extent caused by AT&T or its
+includes the Services, the pricing (including discounts and agents.
+commitments, if applicable) and the pricing schedule term
+2.2 Software. Any software used with the Services will be
+(“Pricing Schedule Term”). Each Pricing Schedule will be
+governed by the written terms and conditions applicable to such
+separately executed by AT&T and Customer.
+software. Title to software remains with AT&T or its supplier.
+(b) Service Publications. A “Service Publication” means Customer must comply with all such terms and conditions and
+Tariffs, Guidebooks, Service Guides and the AUP. they take precedence over this Attachment and the T&C
+Attachment as to such software.
+(c) Acceptable Use Policy. AT&T’s Acceptable Use Policy
+(“AUP”) applies to Customer’s and Users’ use of (i) Services 2.3. IP Addresses; Telephone Numbers. Unless expressly
+provided over or accessing the Internet and (ii) wireless (i.e., registered in the name of Customer, an Intermediate Providers,
+cellular) data and messaging Services. The AUP can be found or an End User, all IP addresses, AT&T-based domain names
+at att.com/aup or other locations AT&T may designate. and telephone numbers shall remain, at all times, property of
+AT&T and shall be nontransferable and Customer shall have no
+1.2 Web Location. Service Publications can be found at
+right to use such IP addresses, AT&T-based domain names or
+att.com/servicepublications or other locations AT&T may
+telephone numbers upon termination or expiration of the
+designate.
+applicable Pricing Schedule.
+1.3 Priority of Documents. The order of priority (descending)
+2.4 Services. AT&T will either provide or arrange to have an
+of the documents that form this Agreement is: the applicable
+AT&T Affiliate provide the Services to Customer, subject to the
+Pricing Schedule; this Attachment, the T&C Attachment; the
+availability and geographic and operational limitations of
+AUP; and Tariffs, Guidebooks and Service Guides; provided
+systems, facilities and equipment. Where required, an AT&T
+that, Tariffs will be first in priority in any jurisdiction where
+Affiliate authorized by the appropriate regulatory authority will be
+applicable law or regulation does not permit contract terms to
+the service provider.
+take precedence over inconsistent Tariff terms.
+Page 1 of 4
+9/23/2010 2:24 PM AT&T and Customer Confidential Information Doc. ID: Whls UA CSOA 092310.doc
+
+Contract Id: 3289018
+Wholesale UA CSOA
+3. CUSTOMER’S COOPERATION 4.2.5. Customer agrees that it will not market or sell the
+Service to End User Customers except for such End User
+3.1 Access Right. Customer will in a timely manner allow AT&T
+Customers’ own internal use.
+access as reasonably required for the Services to property and
+equipment that Customer controls and will obtain at Customer’s 4.2.6. Customer represents and warrants that it has obtained
+expense timely access for AT&T as reasonably required for the and shall maintain all relevant trade and regulatory
+Services to property controlled by third parties such as authorizations, including those related to telecommunications
+Customer’s landlord. Access rights mean the right to construct, matters and any authorizations by an authority that may be
+install, repair, maintain, replace and remove access lines and required to execute the Pricing Schedule under which the
+network facilities and the right to use ancillary equipment space Services are provided and resell the Services to End User
+within a building for Customer’s connection to AT&T’s network. Customers.
+Customer must provide AT&T timely information and access to
+5. PRICING AND BILLING
+Customer’s facilities and equipment as AT&T reasonably
+requires for the Services, subject to Customer’s reasonable 5.1 Pricing and Pricing Schedule Term; Terms Applicable
+security policies. Customer will furnish any conduit, holes, After End of Pricing Schedule Term. Unless the Pricing
+wireways, wiring, plans, equipment, space, power/utilities and Schedule states otherwise, the prices listed in a Pricing
+other items reasonably required for the Services and will obtain Schedule are stabilized until the end of the Pricing Schedule
+any necessary licenses, permits and consents (including Term and will apply in lieu of the corresponding prices set forth in
+easements and rights-of-way). Customer will have the Site the applicable Service Publication. Prices set forth in a Pricing
+ready for AT&T to perform its work according to a mutually Schedule are exclusive of and Customer will pay all surcharges,
+agreed schedule. recovery fees and other similar charges relating to the sale,
+transfer of ownership, installation, license, use or provision of the
+3.2 Safe Working Environment. Customer will ensure that the
+Services. No promotion, credit or waiver set forth in a Service
+location at which AT&T installs, maintains or provides Services is
+Publication will apply. At the end of the Pricing Schedule Term,
+a safe working environment, free of Hazardous Materials and
+Customer may continue Service (subject to any applicable notice
+reasonably suitable for the Services. “Hazardous Materials”
+or other requirements in a Service Publication for Customer to
+mean any substance or material capable of posing an
+terminate a Service Component) under a month-to-month
+unreasonable risk to health, safety or property or whose use,
+service arrangement at the prices, terms and conditions in effect
+transport, storage, handling, disposal or release is regulated by
+on the last day of the Pricing Schedule Term. AT&T may change
+any law related to pollution, to protection of air, water or soil or to
+such prices, terms or conditions on 30 days’ prior notice to
+health and safety. AT&T shall have no obligation to perform
+Customer.
+work at a location that is not a suitable and safe working
+environment or to handle, remove or dispose of any Hazardous 5.2 Billing. Unless a Service Publication specifies otherwise,
+Materials. Customer’s obligation to pay for a Service Component begins
+upon availability of the Service Component to Customer.
+4.0 RESALE OF SERVICES.
+5.3 Payments. Payment is due as described in the T&C
+4.1 Customer may not resell any portion of the Services
+Attachment (unless another date is specified in an applicable
+provided pursuant to a Pricing Schedule unless authorized in
+Tariff or Guidebook). Charges must be paid in the currency
+the Pricing Schedule.
+specified in the invoice. AT&T may charge late payment fees (a)
+4.2. If Customer is authorized in a Pricing Schedule to resell any for Services contained in a Tariff or Guidebook, at the rate
+portion of a Service to third parties, the following additional terms specified therein, or (b) for all other Services, in accordance with
+and conditions apply: the T&C Attachment.
+4.2.1. AT&T grants to Customer the non-exclusive right to resell 5.4 Disputed Charges. If disputed charges are withheld,
+the Services, subject to the provisions of this Agreement. AT&T Customer will incur applicable late payment fees commencing on
+expressly reserves the right both to contract with others to resell the due date of the original invoice, except to the extent that the
+the Service and to itself directly engage in the marketing and parties agree otherwise or a court or regulatory authority
+sale of the Service. determines that the disputed charges were invoiced in error.
+4.2.2. If the right to resell is designated on the Pricing Schedule 5.5 MARC. Minimum Annual Revenue Commitment (“MARC”)
+as “Restricted Resale”, Customer may resell the Service only if means an annual revenue commitment set forth in a Pricing
+bundled with additional value added features or services that Schedule that Customer agrees to satisfy during each 12-
+enhance the Service as part of a larger project for its customers. consecutive-month period of the Pricing Schedule Term. If
+Customer fails to satisfy the MARC for any such 12-month
+4.2.3. AT&T will not provide support directly to any End User
+period, Customer will be invoiced a shortfall charge in an amount
+Customer. Customer is responsible for implementing with its End
+equal to the difference between the MARC and the total of the
+User Customers appropriate terms, conditions, and measures to
+applicable MARC-Eligible Charges incurred during such 12-
+ensure that all End User Customers comply with the terms and
+month period, and AT&T may withhold contractual credits until
+conditions of this Agreement and the Pricing Schedules under
+Customer pays the shortfall charge.
+which the Services are provided.
+5.6 Affiliate Invoicing. . At Customer’s request, but subject to
+4.2.4. Customer is solely responsible for establishing the price
+AT&T’s consent (which may be withheld, for example, if there will
+plans according to which End User Customers will be billed; for
+be operational impediments or tax consequences), Customer’s
+determining the taxes and other charges that are to be billed to
+Affiliates may be invoiced separately and AT&T will accept
+End User Customers; for remitting those taxes and other
+payment from such Affiliates. Customer will be responsible for
+charges to the applicable authorities and for handling related
+payment if Customer’s Affiliates do not pay charges in
+disputes; and for collecting billed amounts from End User
+accordance with this Agreement.
+Customers. Customer assumes all risk of delinquent and
+uncollectible amounts billed to End User Customers.
+Page 2 of 4
+9/23/2010 2:24 PM AT&T and Customer Confidential Information Doc. ID: Whls UA CSOA 092310.doc
+
+Contract Id: 3289018
+Wholesale UA CSOA
+5.7 Tax Withholding. To the extent Customer is required to to allow the violation to continue, (b) such violation may harm or
+withhold or deduct non-U.S. income taxes from payments due to interfere with the integrity, normal operations or security of
+AT&T, Customer shall use reasonable commercial efforts to AT&T’s network or networks with which AT&T is interconnected
+reduce such tax to the maximum extent possible giving effect to or may interfere with another customer’s use of AT&T services or
+the applicable Tax Convention and shall furnish AT&T with such the Internet or (c) such violation otherwise presents an imminent
+evidence as may be required by U.S. taxing authorities to risk of harm to AT&T, AT&T’s customers or its or their respective
+establish that such tax has been paid so that AT&T may claim employees, contractors or agents..
+any applicable credit.
+(c) Hazardous Materials. If AT&T encounters any Hazardous
+6.0 PRIVACY LAWS; CPNI CONSENT. Materials at the Site, AT&T may terminate the affected Services
+or Service Components or may suspend performance until
+Each party is responsible for complying with the privacy laws
+Customer removes and remediates the Hazardous Materials at
+applicable to its business. If Customer does not want AT&T to
+Customer’s expense in accordance with applicable law.
+comprehend Customer data to which it may have access in
+performing Services, Customer must encrypt such data so that it (d) Fraud or Abuse. AT&T may immediately terminate or
+will be unintelligible. Customer is responsible for obtaining suspend an affected Service or Service Component and, if the
+consent from and giving notice to its Users, employees and activity implicates the entire Agreement, terminate the entire
+agents regarding AT&T’s processing the User, employee or Agreement, by providing Customer with as much advance notice
+agent information in connection with providing Service. Unless as is reasonably practicable under the circumstances if
+otherwise directed by Customer in writing, if AT&T designates a Customer: (i) commits a fraud upon AT&T; (ii) uses the Service
+dedicated account representative as Customer’s primary contact to commit a fraud upon another party; (iii) unlawfully uses the
+with AT&T, Customer authorizes that representative to discuss Service; (iv) abuses or misuses AT&T’s network or Service; or
+and disclose Customer’s customer proprietary network (v) interferes with another customer’s use of AT&T’s network or
+information to any employee or agent of Customer without a services.
+need for further authentication or authorization.
+(e) Withdrawal of Services. Notwithstanding that a Pricing
+7.0 FURTHER DISCLAIMER OF WARRANTY. Schedule may commit AT&T to provide a Service to Customer
+for a Pricing Schedule Term, and unless applicable law or
+AT&T MAKES NO REPRESENTATIONS OR WARRANTY
+regulation mandates otherwise, AT&T may discontinue providing
+THAT TELEPHONE CALLS OR OTHER TRANSMISSIONS
+a Service upon 12 months’ notice, or a Service Component upon
+WILL BE ROUTED OR COMPLETED WITHOUT ERROR OR
+120 days’ notice, but only where AT&T generally discontinues
+INTERRUPTION (INCLUDING CALLS TO 911 OR ANY
+providing the Service or Service Component to similarly–situated
+SIMILAR RESPONSE NUMBER) AND MAKES NO
+customers.
+GUARANTEE REGARDING NETWORK SECURITY, THE
+ENCRYPTION EMPLOYED BY ANY SERVICE OR THE 8.3 Termination Charges.
+INTEGRITY OF ANY DATA THAT IS SENT, BACKED UP,
+(a) If Customer terminates this Agreement or an affected
+STORED OR SUBJECT TO LOAD BALANCING. AT&T MAKES
+Service or Service Component for cause in accordance with the
+NO REPRESENTATION OR WARRANTY THAT ITS SECURITY
+Agreement or if AT&T terminates a Service or Service
+PROCEDURES WILL PREVENT THE LOSS OR ALTERATION
+Component other than for cause, Customer will not be liable for
+OF OR IMPROPER ACCESS TO CUSTOMER’S DATA AND
+the termination charges set forth in this Section 8.3.
+INFORMATION.
+(b) If Customer terminates a Service or Service Component
+8. SUSPENSION AND TERMINATION
+prior to Cutover other than as set forth in Section 8.3(a),
+8.1 Termination or Suspension of Services. The following Customer (i) will pay any termination or cancellation charges set
+additional termination provisions apply: out in a Pricing Schedule or Service Publication, or (ii) in the
+absence of such specified charges, will reimburse AT&T for time
+(a) Materially Adverse Impact. If AT&T revises a Service
+and materials incurred prior to the effective date of termination,
+Publication and the revision has a materially adverse impact on
+plus any third party charges resulting from the termination.
+Customer and if AT&T does not effect revisions that remedy
+such materially adverse impact within 30 days after receipt of (c) If Customer terminates a Service or Service Component
+notice from Customer, then Customer may, as Customer’s sole after Cutover other than as set forth in Section 8.3(a) or if AT&T
+remedy, elect to terminate the affected Service Components on terminates a Service or Service Component for cause, Customer
+30 days’ notice to AT&T, given not later than 90 days after will pay applicable termination charges as follows: (i) 50%
+Customer first learns of the revision to the Service Publication. (unless a different percentage is specified in the Pricing
+“Materially adverse impacts” do not include changes to non- Schedule) of the monthly recurring charges for the terminated
+stabilized pricing, changes required by governmental authority, Service or Service Component multiplied by the months
+or assessment of or changes to additional charges such as remaining in an applicable Minimum Payment Period; (ii) if
+surcharges or taxes. termination occurs before the end of an applicable Minimum
+Retention Period, any waived or unpaid non-recurring charges
+(b) Internet Services. If Customer fails to rectify a violation of
+identified in the Pricing Schedule or Service Publication; and (iii)
+the AUP within 5 days after receiving notice from AT&T, AT&T
+any charges incurred by AT&T from a third party (i.e., not an
+may suspend the affected Service Components. AT&T reserves
+AT&T Affiliate) due to the termination. The charges set forth in
+the right, however, to suspend or terminate immediately when:
+Section 8.3(c)(i) and (ii) will not apply if a terminated Service
+(i) AT&T’s suspension or termination is in response to multiple or
+Component is replaced with an upgraded Service Component at
+repeated AUP violations or complaints; (ii) AT&T is acting in
+the same Site, but only if the Minimum Payment Period or
+response to a court order or governmental notice that certain
+Minimum Retention Period, as applicable, (the “Minimum
+conduct must be stopped; or (iii) AT&T reasonably determines
+Period”) and associated charge for the replacement Service
+that: (a) it may be exposed to sanctions, liability, prosecution or
+Component are equal to or greater than the corresponding
+other adverse consequences under applicable law if AT&T were
+Minimum Period and associated charge for the terminated
+Page 3 of 4
+9/23/2010 2:24 PM AT&T and Customer Confidential Information Doc. ID: Whls UA CSOA 092310.doc
+
+Contract Id: 3289018
+Wholesale UA CSOA
+Service Component, respectively, and if the upgrade is not governmentally imposed costs or fees (such as USF, PICC,
+restricted in the applicable Service Publication. payphone service provider compensation, E911 and deaf relay
+charges) and (d) non-recurring charges.
+(d) In addition, if Customer terminates a Pricing Schedule that
+has a MARC, Customer will pay an amount equal to 50% of the “Minimum Payment Period” means the Minimum Payment
+unsatisfied MARC for the balance of the Pricing Schedule Term. Period identified for a Service Component in a Pricing Schedule
+or Service Publication during which Customer is required to pay
+9. ASSIGNMENT AND SUBCONTRACTING
+recurring charges for the Service Component.
+In countries where AT&T does not have an Affiliate to provide
+“Minimum Retention Period” means the Minimum Retention
+Service, AT&T may assign its rights and obligations related to a
+Period identified for a Service Component in a Pricing Schedule
+Service to a local service provider, but AT&T will remain
+or Service Publication during which Customer is required to
+responsible to Customer for such obligations. In certain
+maintain service to avoid the payment (or repayment) of certain
+countries, Customer may be required to contract directly with the
+credits, waived charges or amortized charges.
+local service provider.
+“Service Component” means an individual component of a
+10. IMPORT/EXPORT CONTROL
+Service provided under this Agreement.
+Neither party will use, distribute, transfer or transmit the
+“Service Guide” means the standard AT&T service descriptions,
+equipment, services, software or technical information provided
+pricing and other provisions, as revised by AT&T from time to
+under this Agreement (even if incorporated into other products)
+time, relating to Services offered under this Attachment (if there
+except in compliance with all applicable import and export laws,
+is no Applicable Tariff). The Service Guide is located at
+conventions and regulations. If Customer fails to obtain any
+http://www.serviceguide.att.com/ABS/ext or
+necessary import or export license, Customer shall return any
+http://www.att.com/abs/serviceguide or such other AT&T
+affected equipment, services, software or technical information if
+designated location.
+the applicable manufacturer’s return policy permits and subject
+to any applicable termination or cancellation charges. “Site” means a physical location, including Customer’s
+collocation space on AT&T’s or its Affiliate’s or subcontractor’s
+11. MISCELLANEOUS PROVISIONS
+property, or Customer’s, End User’s, End User Customer’s or
+11.1 Injunctive Relief. Nothing in this Agreement is intended to third party’s property, where AT&T installs or provides a Service.
+or should be construed to prohibit a party from seeking
+“Tariffs” are documents containing the standard descriptions,
+temporary, preliminary or permanent injunctive relief from a court
+pricing and other terms and conditions for a Service that AT&T or
+of competent jurisdiction.
+its Affiliates file with regulatory commissions.
+11.2 Compliance with Laws. Each party will comply with all
+applicable laws and regulations and with all applicable orders
+issued by courts or other governmental bodies of competent
+jurisdiction.
+11.3 Agreement Language. The language of this Agreement is
+English. If there is a conflict between this Agreement and any
+translation, the English version will take precedence.
+12. DEFINITIONS
+All capitalized terms used in this Attachment and not expressly
+defined herein shall have the respective meanings given to such
+terms in the T&C Attachment.
+“Cutover” means the date Customer’s obligation to pay for
+Services begins.
+“Effective Date” of a Pricing Schedule means the date on which
+the last party signs the Pricing Schedule unless a later date is
+required by regulation or law.
+“End User Customer” means a User to whom Customer resells
+the Services.
+“Guidebooks” are documents (designated as Guidebooks or
+Price Lists) containing the standard descriptions, pricing and
+other terms and conditions for a Service whose terms and
+conditions were but no longer are tariffed and filed with
+regulatory authorities.
+“MARC-Eligible Charges” means the recurring and usage
+charges (including amounts owed under Section 8.3(c)(i)), after
+deducting applicable discounts and credits (other than outage or
+SLA credits), that AT&T charges Customer for the Services
+identified in the applicable Pricing Schedule as MARC-
+contributing. The following are not MARC-Eligible Charges: (a)
+charges for or in connection with Customer’s purchase of
+equipment; (b) taxes; (c) charges imposed in connection with
+Page 4 of 4
+9/23/2010 2:24 PM AT&T and Customer Confidential Information Doc. ID: Whls UA CSOA 092310.doc

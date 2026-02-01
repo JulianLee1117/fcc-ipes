@@ -1,0 +1,123 @@
+June 30, 2016
+VIA ECFS to:
+Marlene Dortch, Secretary
+Federal Communications Commission
+445 12th Street SW
+Washington, DC 20554
+Re: COMMIO,LLC, APPLICANT FOR AUTHORIZATION TO OBTAIN NUMBER
+RESOURCES PURSUANT TOSECTION 52.15(G)OF THE COMMISSION’S RULES
+Dear Ms. Dortch:
+Pursuant to Section 52. I 5(g)(3)(i) of the Commission's Rules, commio, LLC. hereby submits
+additional information to the full application filed on April 25, 2016.
+The information includes that after receipt of numbering authorization, commio, LLC intends to
+request numbers over time in at least the following states: Arizona, California, Colorado,
+Nevada, New York, Oregon, Pennsylvania, Texas, Utah, and Washington.
+commio confirms that no foreign governments, individuals, or corporations has 10% or more
+ownership of commio, LLC.
+In reference to FCC’s Report & Order 15-70 Telephone Number Requirements for IP-Enabled
+Services Providers footnote 1311 commio’s Filer 499 ID is 831621, and the current status on
+universalservice.org is Active and not in a “red light” status. The term 'entity'2 in Form 477 does
+not apply to commio because commio does not currently provide interconnected VoIP service to
+revenue-generating end-user customers or have broadband connections in service to an end user,
+therefore commio currently is not required to file Form 477 at this time. commio will file Form
+477 once the term 'entity' is applicable to commio.
+Sam Shiffman, commio’s President, meets the application requirement of providing the
+applicant's key technical and management personnel as required by 47 CFR 52.15(g)(3)(i)(F).
+Mr. Shiffman is not being and has not been investigated by the FCC, or any law enforcement, or
+regulatory agency for failure to comply with any law, rule, or order.
+commio, respectfully requests that, pursuant to Sections 0.457 and 0.459 of the
+1 Footnote 131 – “Bureau staff will check the applicant’s status under the Commission’s “red light rule,” which
+restricts processing of applications filed by parties with outstanding debts owed to the Commission. See 47 C.F.R. §
+1.1910. Bureau staff will also verify that the applicant filed its Form 477 and Form 499 forms, if applicable”
+2 https://transition.fcc.gov/form477/WhoMustFileForm477.pdf
+
+Ms. Marlene H. Dortch
+June 30, 2016
+Page 2 of 5
+Commission's rules, 47 C.F.R. §§ 0.457 and 0.459, the Commission withhold from public
+inspection and accord confidential treatment to Exhibit A-Statement to the application because
+that document contain sensitive trade secrets and commercial information that falls within
+Exemption 4 of the Freedom of Information Act ("FOIA")3. commio, LLC is voluntarily
+providing this information, “of a kind that would not customarily be released to the public";
+therefore, this information is "confidential" under FOIA4. Moreover, commio would suffer
+substantial competitive harm if this information were disclosed5.
+Exhibit A is accordingly marked with the header “SUBJECT TO REQUEST FOR
+CONFIDENTIAL – NOT FOR PUBLIC INSPECTION”
+In support of this request and pursuant to Section 0.459(b) of the Commission's rules6, commio
+hereby states as follows:
+1. IDENTIFICATION OF THE SPECIFIC INFORMATION FOR WHICH
+CONFIDENTIAL TREATMENT IS SOUGHT.7
+commio seeks confidential treatment of Exhibit A to the enclosed application.
+2. DESCRIPTION OF THE CIRCUMSTANCE GIVING RISE TO THE
+SUBMISSION.8
+commio is submitting as Exhibit A it’s agreement between commio and its Carrier
+partner for routing to ILECs as requested by Commission staff.
+3. EXPLANATION OF THE DEGREE TO WHICH THE INFORMATION IS
+COMMERCIAL OR FINANCIAL, OR CONTAINS A TRADE SECRET OR IS
+PRIVILEGE.9
+The information for which commio seeks confidential treatment contains sensitive
+commercial information ''which would customarily be guarded from competitors."10
+Exhibit A describes the agreement between commio and our Carrier Partner in support of
+commio’s Proof of Readiness. This description contains proprietary commercial
+information.
+3 5 u.s.c. § 552(b) (4).
+4 See Critical Mass Energy Project v. NRC, 915 F.2d 871, 879 (D.C. Cir. 1992).
+5 See National Parks and Conservation Ass 'n v. Morton, 498 F .2d 165 (D.C. Cir. 1974).
+6 47 C.F.R. § 0.459(b).
+7 41 C.F.R. § 0.459(b) (1).
+8 47 C.F.R. § 0.459(b) (2).
+9 47 C.F.R. § 0.459(b) (3).
+10 47 C.F.R. § 0.457(d) (2).
+
+Ms. Marlene H. Dortch
+June 30, 2016
+Page 3 of 5
+4. EXPLANATION OF THE DEGREE TO WHICH THE INFROMATION
+CONCERNS A SERVICE THAT IS SUBJECT TO COMPETITION.11
+Exhibit A contains information relating to commercial matters that could be used by
+competitors to commio’s disadvantage. Detailed operations and commercial information
+of the type provided by commio could compromise commio’s position in this highly
+competitive industry. Release would therefore result in substantial competitive harm to
+commio.
+5. EXPLANATION OF HOW DISCLOSURE OF THE INFORMATION COULD
+RESULT IN SUBSTANTIAL COMPETITIVE HARM.12
+Competitors could use commio proprietary commercial and operational information to
+commio’s detriment as they would gain access to sensitive information about how
+commio provides services as well as about commio’s commercial agreements with others
+in the market that are not normally disclosed to the public.
+6. IDENTIFICATION OF ANY MEASURES TAKEN BY THE SUBMITTING
+PARTY TO PREVENT UNAUTHORIZED DISCLOSURE.13
+commio has not distributed the information in Exhibit A to the public.
+7. IDENTIFICATION OF WHETHER THE INFORMATION IS AVAILABLE TO
+THE PUBLIC AND THE EXTENT OF ANY PREVIOUS DISCLOSURE OF THE
+INFORMATION TO THIRD PARTIES.14
+commio has not previously disclosed the information in Exhibit A
+8. JUSTIFICATION OF THE PERIOD DURING WHICH THE SUBMITTING
+PARTY ASSERTS THAT MATERIAL SHOULD NOT BE AVAILABLE FOR
+PUBLIC DISCLOSURE.15
+commio requests that Exhibit A be treated as confidential for a period of 10 years. This
+period is necessary due to the proprietary nature of the information in Exhibit A.
+9. OTHER INFORMATION THAT COMMIO BELIEVES MAY BE USEFUL IN
+ASSESSING WHETHER ITS REQUEST FOR CONFIDENTIALITY SHOULD
+BE GRANTED.16
+11 47 C.F.R. § 0.459(b) (4).
+12 47 C.F.R. § 0.459(b)(5).
+13 47 C.F.R. § 0.459(b)(6).
+14 47 C.F.R. § 0.459(b)(7).
+15 47 C.F.R. § 0.459(b)(8).
+16 47 C.F.R. § 0.459(b)(9).
+
+Ms. Marlene H. Dortch
+June 30, 2016
+Page 4 of 5
+The information concerns commio’s proprietary network information, related to current
+and planned commercial and operational information, and as such, is commercially
+sensitive.
+For any questions regarding this application please contact me at 512-524-1595 or
+abrown@bbatx.com.
+Sincerely,
+Andrew S. Brown
+
+REDACTED FOR PUBLIC INSPECTION
+EXHIBIT A
+AGREEMENT BETWEEN COMMIO AND CARRIER PARTNER

@@ -1,0 +1,303 @@
+April 15, 2021
+Via ECFS
+Secretary
+Federal Communications Commission
+Washington, DC 20554
+Attn: Wireline Competition Bureau
+RE: Application of Intrado IP Communications, Inc. for Authorization to Obtain Numbering Resources
+Pursuant to Section 52.12(g) of the Commission’s Rules, WC Docket No. 21-
+Dear Secretary:
+Pursuant to Section §52.15(g)(3)(i) of Commission’s Rules,i Intrado IP Communications, Inc. (“Intrado”)
+hereby submits its Application for Authorization to Obtain Numbering Resources.
+Any questions you may have regarding this filing should be directed to my attention at 407-740-3031 or
+via email to Sthomas@inteserra.com. Thank you for your assistance in this matter.
+Sincerely,
+/s/Sharon Thomas
+Sharon Thomas
+Consultant
+cc: Sean Ward - Intrado IP
+tms: FCx2101
+Enclosures
+ST/mp
+i 47 C.F.R. §52.15(g).
+
+Before the
+FEDERAL COMMUNICATIONS COMMISSION
+Washington, D.C. 20554
+In the Matter of )
+)
+Intrado IP Communications, Inc. ) WC Docket No. 21-
+For Authorization to Obtain Numbering )
+Resources Pursuant to Section 52.15(g) of the )
+Commission’s Rules )
+APPLICATION OF INTRADO IP COMMUNICATIONS, INC. FOR
+AUTHORIZATION TO OBTAIN NUMBERING RESOURCES
+Intrado IP Communications, Inc. f/k/a West IP Communications, Inc. (“Intrado IP”), an
+interconnected VoIP provider currently offering interconnected VoIP service to business
+customers, files this application with the Federal Communications Commission (“Commission”)
+for authorization to acquire telephone numbers directly from the North American Numbering Plan
+Administrator and the Pooling Administrator (“Numbering Administrators”) pursuant to Section
+52.15(g)(3) of the Commission’s rules. An interconnected VoIP provider may obtain numbering
+resources from the Numbering Administrators upon showing that it is authorized to provide service
+in the area for which the numbering resources are requested.1 Such authorization may be obtained
+upon application to the Commission containing the information in Section 52.15(g)(3)(i) of the
+Commission’s Rules.2 Intrado IP hereby provides that information and requests that the
+Commission grant the authorization.
+1 47 C.F.R. § 52.15(g)(2); Numbering Policies for Modern Communications et al., Report & Order, 30 FCC Rcd. 6839
+(2015).
+2 47 C.F.R. § 52.15(g)(3).
+
+I. INFORMATION REQUIRED BY SECTION 52.15(g)(3)(i)
+a) § 52.15(g)(3)(i)(A)
+Intrado IP Communications, Inc.
+Name:
+Address: 401 South 4th Street, Suite 200
+Louisville, KY 40202
+Telephone: 720-864-5510
+Qualified Personnel: Sean Ward, VP, Deputy General Counsel
+Email: sward@intrado.com
+b) § 52.15(g)(3)(i)(B)
+Intrado IP hereby acknowledges that authorization to obtain numbering resources under
+Section 52.15(g) of the Commission’s Rules is subject to compliance with applicable Commission
+numbering rules, numbering authority delegated to the states, and industry guidelines and practices
+regarding numbering as applicable to telecommunications carriers.
+c) § 52.15(g)(3)(i)(C)
+Intrado IP hereby acknowledges that it must file requests for numbers with the relevant
+state commission(s) at least 30 days before requesting numbers from the Numbering
+Administrators. Intrado IP will initially seek numbering resources in Georgia.
+d) § 52.15(g)(3)(i)(D)
+Intrado IP hereby sets forth its capability to provide service within 60 days of the
+numbering activation date. Intrado IP currently provides interconnected VoIP service to business
+customers in all 50 states. As noted above, Intrado IP intends to initially request numbering
+resources in Georgia but anticipates requesting resources from most or all states over time.
+Intrado IP will utilize the services of its affiliated competitive local exchange carrier (CLEC)
+partner, Intrado Communications, LLC, to provide connections to the Public Switched
+Telephone Network. Intrado Communications, LLC in turn has an interconnection agreement in
+effect with AT&T (f/k/a BellSouth Telecommunications, Inc.), the incumbent local exchange
+carrier in Georgia. This arrangement will enable Intrado IP to deliver traffic to and receive traffic
+
+from the PSTN for all Intrado IP numbering resources. Intrado IP likewise has the staff necessary
+to meet its number porting obligations. As proof of its facilities readiness, Intrado IP has attached
+to this application as Exhibit A the relevant pages of an interconnection agreement between its
+carrier partner Intrado Communications, LLC and AT&T.3
+e) § 52.15(g)(3)(i)(E)
+Intrado IP certifies that it complies with its Universal Service Fund contribution
+obligations under 47 C.F.R. part 54, subpart H, its Telecommunications Relay Service
+contribution obligations under 47 C.F.R. § 64.604(c)(5)(iii), its North American Numbering Plan
+and Local Number Portability Administration contribution obligations under 47 C.F.R. §§ 52.17
+and 52.32, its obligations to pay regulatory fees under 47 C.F.R. § 1.1154, and its 911 obligations
+under 47 C.F.R. part 9.
+f) § 52.15(g)(3)(i)(F)
+Intrado IP certifies that it possesses the financial, managerial, and technical expertise to
+provide reliable service. Intrado IP’s key management includes:
+Mark Smith, IT Director: Mr. Smith has more than a decade of experience deploying carrier
+related services, up to and including ICA agreements.
+Michelle Constantine, Porting Supervisor: Ms. Constantine has more than fifteen years of
+experience in the telecommunications industry, including supervising porting and related
+operations for a variety of interconnected VoIP providers and competitive local exchange
+carriers.
+Jaime Zetterstrom, VP of IT: Ms. Zetterstrom has more than a decade of experience
+developing and overseeing communications infrastructure and telecommunications
+operations for interconnected VoIP and competitive local exchange providers.
+Robert Bellmar, Co-President: Mr. Bellmar has more than a decade of experience managing
+communications operations, teams, business in the collaboration voice service space.
+3 The attached interconnection agreement between BellSouth Telecommunications, Inc. (now known as AT&T) and
+KMC Data, LLC is the current interconnection agreement between Intrado communications and AT&T. KMC Data
+was purchased by Hypercube, which was in turn purchased by Intrado Communications. The name changes are not
+reflected on the agreement.
+
+Intrado IP states that none of the identified personnel is being or has been investigated by
+the Commission or any law enforcement or regulatory agency for failure to comply with any law,
+rule or order.
+g) § 52.15(g)(3)(i)(G)
+Intrado IP hereby certifies that no party to this application is subject to a denial of Federal
+benefits pursuant to section 5301 of the Anti-Drug Abuse Act of 1988, 21 U.S.C. § 862.
+II. ACKNOWLEDGEMENT OF CONDITIONS IN SECTION 52.15(g)(3)(iv)
+As required by Section 52.15(g)(3)(iv), Intrado IP will maintain the accuracy of all contact
+information and certifications in the application and will file a correction with the Commission and
+each applicable state within 30 days of any changes. Intrado IP will also furnish accurate regulatory
+and numbering contact information to each state commission when requesting numbers in that
+state.
+
+III. CONCLUSION
+Pursuant to Section 52.15(g)(3)(i) of the Commission’s Rules, Intrado IP respectfully
+requests the Commission grant this application for authorization to obtain numbering resources.
+Respectfully submitted,
+/s/ Sharon Thomas
+Sharon Thomas
+Consultant
+Inteserra Consulting Group, Inc.
+151 Southhall Lane, Suite 450
+Maitland, FL 32751
+Submitted on April 15, 2021
+
+EXHIBIT A
+
+Customer Name: KMC Data, LLC
+KMC Data, LLC - Renegotiation 2005 2
+General Terms and Conditions 3
+Signature Page 30
+ATT 1 - Resale 31
+ATT 1 - Exhibit E - Discounts & Rates 60
+ATT 2 - Network Elements & Other Services 69
+ATT 2 - Network Elements - Exhibit A - Rates 136
+ATT 2 - Network Elements - Exhibit B - Rates 368
+ATT 3 - Network Interconnection 405
+ATT 3 - Exhibit A - Rates 452
+ATT 3 - Exhibit F 470
+ATT 4 - Collocation 486
+ATT 4 - Exhibit B - Rates 543
+ATT 5 - Access to Numbers & Number Portability 598
+ATT 6 - Ordering 603
+ATT 7 - Billing 624
+ATT 7 - Exhibit A - Rates 648
+ATT 7 - Exhibits B & C 657
+ATT 8 - Rights of Way 660
+ATT 9 - Performance Measurements 662
+ATT 10 - Disaster Recovery 664
+ATT 11 - BFR and NBR Process 672
+KMC Data, LLC-NC Rates, CCS7 Rates & Replace ATT 3 Rates Amendment 680
+KMC Data GA UNE Rate Remand and Notices Change Amendment 745
+KMC Data, LLC Extension-Name Chage Amendment 764
+Page 1 oNf o7t7e1: This page is not part of the actual signed contract/amendment, but is present for record keeping purposes only.
+
+Interconnection Agreement
+Between
+BellSouth Telecommunications, Inc.
+and
+KMC Data, LLC
+Page 2 of 771 CCCS 2 of 766
+
+AGREEMENT
+GENERAL TERMS AND CONDITIONS
+This agreement (Agreement) is made by and between BellSouth Telecommunications,
+Inc., (“BellSouth”), a Georgia corporation, and KMC Data, LLC (“KMC Data”), a limited
+liability company, and shall be effective on the Effective Date, as defined herein. This Agreement
+may refer to either BellSouth or KMC Data or both as a “Party” or “Parties.”
+W I T N E S S E T H
+WHEREAS, BellSouth is an incumbent local exchange telecommunications company
+authorized to provide telecommunications services in the states of Alabama, Florida, Georgia,
+Kentucky, Louisiana, Mississippi, North Carolina, South Carolina and Tennessee; and
+WHEREAS, KMC Data is or seeks to become a CLEC authorized to provide
+telecommunications services in the states of Alabama, Florida, Georgia, Kentucky, Louisiana,
+Mississippi, North Carolina, South Carolina, and Tennessee; and
+WHEREAS, KMC Data wishes to resell BellSouth’s telecommunications services and
+purchase network elements and other services, and, primarily in connection therewith, may wish
+to utilize collocation space as set forth in Attachment 4 of this Agreement); and
+WHEREAS, the Parties wish to interconnect their facilities and exchange traffic
+pursuant to and consistent with the rights and obligations set forth in Sections 251 and 252 of the
+Act.
+NOW THEREFORE, in consideration of the mutual agreements contained herein,
+BellSouth and KMC Data agree as follows:
+1. Definitions
+The use of the term end user or customer throughout this Agreement shall not be
+construed to expand on or eliminate any rights or obligations of the Parties.
+1.1 The definitions set forth in this Section apply to the Agreement as a whole and
+both Parties’ conduct thereunder. Additional definitions are included in the
+various attachments to this Agreement. Unless the context clearly indicates
+otherwise, any term defined or used in the singular shall include the plural.
+1.2 Affiliate is defined as a person that (directly or indirectly) owns or controls, is
+owned or controlled by, or is under common ownership or control with, another
+person. For purposes of this paragraph, the term “own” means to own an equity
+interest (or equivalent thereof) of more than ten (10) percent.
+1
+Page 3 of 771 CCCS 3 of 766
+
+2.1 Prior to execution of this Agreement, BellSouth may request and KMC Data
+agrees to provide BellSouth in writing KMC Data’s CLEC certification for all
+states covered by this Agreement except Kentucky. BellSouth will file this
+Agreement with the appropriate Commission for approval.
+2.2 To the extent KMC Data is not certified as a CLEC in each state covered by this
+Agreement as of the execution hereof, KMC Data will notify BellSouth in writing
+and provide CLEC certification when it becomes certified to operate in any other
+state covered by this Agreement. Upon notification, BellSouth will file this
+Agreement with the appropriate Commission for approval.
+3. Term of the Agreement
+3.1 The term of this Agreement shall be three and one half (3 ½) years, beginning on
+the Effective Date and shall apply to the BellSouth territory in the state(s) of
+Alabama, Florida, Georgia, Kentucky, Louisiana, Mississippi, North Carolina,
+South Carolina and Tennessee. Notwithstanding any prior agreement of the
+Parties, the rates, terms and conditions of this Agreement shall not be applied
+retroactively prior to the Effective Date.
+3.2 The Parties agree that by no earlier than two hundred seventy (270) days and no
+later than one hundred and eighty (180) days prior to the expiration of this
+Agreement, they shall commence negotiations for a new agreement for a new
+agreement to be effective beginning on the expiration date of this Agreement
+(Subsequent Agreement).
+3.3 If, within one hundred and thirty-five (135) days of the designated start date of the
+negotiation referred to in Section 3.2, above, the Parties are unable to satisfactorily
+negotiate new terms, conditions and prices for a Subsequent Agreement, either
+Party may petition the Commission to establish appropriate terms, conditions and
+prices pursuant to 47 U.S.C. § 252. The Parties agree that, in such event, they
+shall encourage the Commission to issue its order regarding the Subsequent
+Agreement no later than the expiration date of this Agreement. The Parties further
+agree that in the event the Commission does not issue its Arbitration order prior to
+the expiration date of this Agreement, or if the Parties continue beyond the
+expiration date of this Agreement to negotiate the Subsequent Agreement, the
+Subsequent Agreement ultimately ordered by the Commission, or negotiated by
+the Parties, will be effective upon the effective date set forth in the Subsequent
+Agreement.
+3.4 Notwithstanding the foregoing and except as set forth in Section 3.4.1 below, in
+the event that, as of the date of the expiration of this Agreement and conversion of
+this Agreement to a month-to-month term, the Parties have not entered into a
+Subsequent Agreement and no arbitration proceeding has been filed in accordance
+with Section 252 of the Act, then either Party may terminate this Agreement upon
+sixty (60) days notice to the other Party. In the event that BellSouth terminates this
+Agreement as provided above, BellSouth shall continue to offer services to KMC
+3
+Page 5 of 771 CCCS 5 of 766
+
+Data pursuant to BellSouth's then current standard interconnection agreement or
+KMC Data may exercise its rights under Section 252(i) of the Act. In the event
+that BellSouth's standard interconnection agreement becomes effective as between
+the Parties or KMC Data adopts another agreement, the Parties may continue to
+negotiate a Subsequent Agreement, and the terms of such Subsequent Agreement
+shall be effective as of the effective date stated in such Subsequent Agreement.
+3.4.1 If an arbitration proceeding has been filed in accordance with Section 252 of the
+Act and if the Commission does not issue its order prior to the expiration of this
+Agreement, this Agreement shall be deemed extended on a month-to-month basis
+until the Subsequent Agreement becomes effective. The terms of such Subsequent
+Agreement shall be effective as of the effective date stated in such Subsequent
+Agreement and shall not be applied retroactively to the expiration date of this
+Agreement unless the Parties agree otherwise. Neither Party shall refuse to provide
+services to the other Party during the negotiation of the Subsequent Agreement or
+the transition from this Agreement to the Subsequent Agreement.
+4. Termination
+4.1 KMC Data may terminate any network element, interconnection or other services
+provided under this Agreement upon thirty (30) days written notice to BellSouth.
+In such cases, KMC Data’s obligation to pay for such network element,
+interconnection or other services shall be limited to the amounts due provided up
+to and including the date of termination.
+4.2 Upon notice of termination, the Parties agree to cooperate in an orderly and
+efficient transition to KMC Data or another vendor and to exercise their best
+efforts to effect an orderly and efficient transition.
+5. Operational Support Systems
+5.1 KMC Data shall pay charges for Operational Support Systems (OSS) as set forth
+in this Agreement in Attachment 1 and/or in Attachments 2, 3 and 5, as applicable.
+6. Parity
+6.1 When KMC Data purchases services from BellSouth pursuant to Attachment 1 of
+this Agreement for the purposes of Resale to its customers, such services shall be
+at least equal in quality, subject to the same conditions, and provided within the
+same provisioning time intervals that BellSouth provides to its Affiliates,
+subsidiaries and customers. To the extent technically feasible, the quality of a
+Network Element, as well as the quality of the access to such Network Element
+provided by BellSouth to KMC Data shall be at least equal in quality to that which
+BellSouth provides to itself, its Affiliates or any other Telecommunications carrier.
+The quality of the interconnection between the network of BellSouth and the
+network of KMC Data shall be at a level that is at least equal to that which
+BellSouth provides itself, a subsidiary, an Affiliate, or any other party. The
+interconnection facilities shall be designed to meet the same technical criteria and
+4
+Page 6 of 771 CCCS 6 of 766
+
+General Terms and Conditions
+Signature Page
+IN WITNESS WHEREOF, the Parties have executed this Agreement the day and year
+written below.
+BellSouth Telecommunications, Inc.
+By:
+Name: Kristen E. Rowe
+Title: Director Title: Vice President and Senior Counsel
+Date: Date:
+' I
+Page 30 of 771 CCCS 30 of 766

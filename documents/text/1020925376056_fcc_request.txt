@@ -1,0 +1,98 @@
+FEDERALCOMMUNICATIONSCOMMISSION
+WASHINGTON,D.C.20554
+Inthematterof
+ADAMSZOKOL,
+APPLICANT
+FORAUTHORIZATIONTOOBTAINNUMBERINGRESOURCESANDFEEWAIVERREQUEST
+PURSUANTTOSECTION52.15(G)OFTHECOMMISSION’SRULES
+APPLICATIONOFADAMSZOKOLFORNUMBERINGAUTHORIZATIONANDFEEWAIVER
+AdamSzokol(“Applicant”)(EIN:98-1746218),anemergingdeveloperdedicatedtocreating
+innovativefaxapplicationsaswellasfreecallingandSMSservicesforusersworldwide,files
+thisapplicationwiththeFederalCommunicationsCommission(“Commission”)for
+authorizationtoacquiretelephonenumbersdirectlyfromtheNorthAmericanNumbering
+PlanAdministratorandthePoolingAdministrator(“NumberingAdministrators”)pursuantto
+Section52.15(g)(3)oftheCommission’sRules.InlightofApplicant’sstatusasaminorand
+limitedfinancialresources,afeewaiverisrespectfullyrequestedpursuanttothe
+Commission’sfeewaiverprovisions.
+I.INFORMATIONREQUIREDBYSECTION52.15(g)(3)(i)
+a)§52.15(g)(3)(i)(A)
+ Name:AdamSzokol
+ Address:2300RockSpringsDr,Apt1145,LasVegas,NV89128
+ Telephone:845-793-0554
+ QualifiedPersonnel:AdamSzokol(Proprietor,Founder,Developer,andChiefTechnical
+Officer)
+ Email:adam@adamszokol.com
+
+b)§52.15(g)(3)(i)(B)
+Applicant acknowledges that authorization to obtain numbering resources under Section
+52.15(g) of the Commission’s Rules is subject to compliance with all applicable Commission
+numberingrules,state-delegatednumberingauthority,andindustryguidelinesandpractices
+applicabletotelecommunicationscarriers.
+c)§52.15(g)(3)(i)(C)
+Applicantacknowledgestherequirementtofilerequestsfornumberswiththerelevantstate
+commission(s) at least 30 days before requesting numbers from the Numbering
+Administrators.Initially,ApplicantintendstoseeknumberingresourcesinthestateofNevada,
+withtheexpectationofexpandingtoadditionalstatesastheservicescales.
+d)§52.15(g)(3)(i)(D)
+Applicantsetsforththecapabilitytoprovidetheproposedfax,freecalling,andSMSservices
+within60daysofnumberactivation.Althoughstillinthedevelopmentalphase,Applicanthas
+established preliminary technical infrastructure and is in the process of negotiating
+interconnection agreements with local exchange carriers. These measures will facilitate
+connectivity between the Applicant’s network and the Public Switched Telephone Network
+(PSTN).
+e)§52.15(g)(3)(i)(E)
+Applicantcertifiesthathewillcomplywithallapplicableregulatoryobligations,includingbut
+notlimitedto:
+ UniversalServiceFundcontributionobligationsunder47C.F.R.part54,subpartH;
+ Telecommunications Relay Service contribution obligations under 47 C.F.R. §
+64.604(c)(5)(iii);
+ North American Numbering Plan and Local Number Portability Administration
+contributionsunder47C.F.R.§§52.17and52.32;
+ Regulatoryfeepaymentsunder47C.F.R.§1.1154;and
+ 911emergencyserviceobligationsunder47C.F.R.part9.
+f)§52.15(g)(3)(i)(F)
+Applicant certifies that he possesses the technical, managerial, and innovative capabilities
+necessary to deliver reliable telecommunications services. As the sole principal behind this
+initiative, Adam Szokol has developed several prototype applications and has engaged in
+extensive self-directed studyin telecommunications engineering. In addition, he has sought
+mentorship from industry professionals to ensure that his services will meet all required
+regulatoryandoperationalstandards.
+
+g)§52.15(g)(3)(i)(G)
+Applicant certifies that neither he nor any party to this application is subject to a denial of
+Federalbenefitspursuanttosection5301oftheAnti-DrugAbuseActof1988,21U.S.C.§862.
+II.ACKNOWLEDGEMENTOFCONDITIONSINSECTION52.15(g)(3)(iv)
+InaccordancewithSection52.15(g)(3)(iv)oftheCommission’sRules,Applicantagreesto:
+ Maintaintheaccuracyofallcontactinformationandcertificationsprovidedherein;and
+ FileacorrectionwiththeCommissionandanyapplicablestatecommissionswithin30
+daysofanychanges.
+Furthermore,Applicantwillfurnishaccurateregulatoryandnumberingcontactinformationto
+eachstatecommissionwhenrequestingnumbersinthatstate.
+III.FEEWAIVERREQUEST
+Due to Applicant’s minor status and the early stage of development of a service aimed at
+providing universal access to free calling, fax, and SMS applications, Applicant respectfully
+requests that the Commissionwaive allregulatoryfees associatedwith this application.This
+waiver is sought to allowApplicant to allocate resources primarily toward the development
+anddeploymentoftheinnovativecommunicationplatformthatwillbenefitusersworldwide.
+IV.CONCLUSION
+PursuanttoSection52.15(g)(3)(i)oftheCommission’sRules,AdamSzokolrespectfullyrequests
+thattheCommission:
+1. Grantthisapplicationforauthorizationtoobtainnumberingresources;and
+2. Approve the fee waiver request in recognition ofApplicant’s minor status and public
+servicemission.
+Applicant remains fully committed to complying with all applicable Commission rules and
+regulations and looks forward to contributing to a more accessible telecommunications
+environment.
+Respectfullysubmitted,
+--------------------------------------
+AdamSzokol
+Applicant
+
+DECLARATIONOFADAMSZOKOL
+I, Adam Szokol, declare under penalty of perjury that I am the Applicant in this proceeding,
+that I have reviewed the foregoingApplication for NumberingAuthorization and FeeWaiver,
+andthatthestatementscontainedhereinaretrueandcorrecttothebestofmyknowledge.
+--------------------------------------
+AdamSzokol
+LasVegas,NV
+February8th2025

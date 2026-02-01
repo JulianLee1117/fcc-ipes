@@ -1,0 +1,275 @@
+April 12, 2016
+VIAECFS
+Marlene Dortch
+Secretary REDACTED FQR PUBLIC
+Federal Communications Commission INSPECTION
+445 12th Street SW
+Washington, DC 20554
+Re: Request for Confidential Treatment of Filing of Manhattan Telecommunications
+Corp.; Manhattan Telecommunications Corporation dlb/a MetTel, Applicant,
+For Authorization to Obtain Numbering Resources Pursuant to Section 52.l 5(g)
+oft he Commission's Rules, WC Docket No. 15-___________
+Dear Ms. Dortch:
+Pursuant to Section 52.15(g)(3)(i) of the Commission's Rules, Manhattan
+Telecommunications Corporation ("MetTel") hereby submits its application requesting
+authorization to obtain numbering resources.
+MetTel respectfully requests that, pursuant to Sections 0.457 and 0.459 of the
+Com.mission's rules, 47 C.F.R. §§ 0.457 and 0.459, the Commission withhold from public
+inspection and accord confidential treatment to Exhibit A-Statement to the application because that
+document contain sensitive trade secrets and commercial infonnation that falls within Exemption
+4 oft he Freedom of Information Act ("FOIA").1 MetTel is voluntarily providing this infonnation,
+"of a kind that would not customarily be released to the public"; therefore, this information is
+"confidential" under FOIA2 Moreover, MetTel would suffer substantial competitive harm if this
+infonnation were disclosed. 3
+Exhibit A is accordingly marked with the header "SUBJECT TO REQUEST FOR
+CONFIDENTIAL TREA1 MENT - NOT FOR PUBLIC INSPECTION."
+u.s.c.
+5 § 552(b) (4).
+2 See Critical Mass Energy Project v. NRC, 915 F.2d 871, 879 (D.C. Cir. 1992).
+3 See National Parks and Conservation Ass 'n v. Morton, 498 F. 2d 165 (D.C. Cir. 1974).
+
+Ms. Marlene H. Dortch
+April 11, 2016
+Page2 of4
+In support of this request and pursuant to Section 0.459(b) oft he Commission's rules,4
+MetTel hereby states as follows:
+1. IDENTIFICATION OF THE SPECIFIC INFORMATION FOR WHICH CONFIDENTIAL
+TREATMENT Is SouGHT5
+MetTel seeks confidential treatment of Exhibit A to the enclosed application.
+2. DESCRIPTION OF CJRCUMSTA NCES GIVING RISE TO THE SUBMISSION 6
+MetTel is submitting a Statement that describes MetTel's Proof of Facilities Readiness
+as required by Section 52.15(g)(3)(iXD) of the Commission's rules.
+3. EXPLANATION OF THE DEGREE TO WHICH THE INFORMATION IS COMMERCIAL OR
+FINANCIAL, OR CONTAINS A TRADE SECRET OR Is PRIVILEGED 7
+The information for which MetTel seeks confidential treatment contains sensitive
+commercial information ''which would customarily be guarded from competitors."8 Exhibit A
+describes the agreement between MetT el and our Carrier Partner and how this agreement
+supports Proof of Readiness. This description contains proprietary commercial information.
+4. EXPLANATION OF THE DEGREE TO WmcH THE INFORMATION CONCERNS A SERVICE
+9
+THAT IS SUBJECT TO COMPETITION
+Exhibit A contains infonnation relating to commercial matters that could be used by
+competitors to MetTel's disadvantage. MetTel has numerous competitors in the Voice over
+Internet Protocol ("VoIP") services sector in which it operates. Detailed operations and
+commercial information of the type provided by MetTel could compromise MetTel's position in
+this highly competitive industry. Release would therefore result in substantial competitive harm
+toMetTel.
+4 47 C.F.R. § 0.459(b).
+s 41 C.F.R. § 0.459(b) (1).
+6 47 C.F.R. § 0.459(b) (2).
+7 47 C.F.R. § 0.459(b) (3).
+8 47 C.F.R. § 0.457(d) (2).
+9 47 C.F.R. § 0.459(b) (4).
+
+Ms. Marlene H. Dortch
+April 11, 2016
+Page 3 of4
+5. EXPLANATION OF How DISCLOSURE OF THE INFORMATION COULD RESULT IN
+SUBSTANTIAL COMPETITIVE
+HARM1
+0
+Competitors could use MetTel's proprietary commercial and operational infonnation to
+MetTel's detriment as they would gain access to sensitive infonnation about how MetTel
+provides services as well as about MetTel's commercial agreements with others in the market
+that are not nonnally disclosed to the public.
+6. IDENTIFICATION OF ANY MEASURES TAKEN BY THE SUBMITfING PARTY TO PREVENT
+UNAUTHORIZED DISCLOSURE11
+MetTel has not distributed the infonnation in Exhibit A to the public.
+7. IDENTIFICATION OF WHETHER THE INFORMATION Is AVAILABLE TO THE PUBLIC AND
+THE EXTENT OF ANY PREVIOUS DISCLOSURE OF THE INFORMATION TO TmRD
+PARTIES12
+MetTel has not previously disclosed the infonnation in Exhibit A.
+8. JUSTIFICATION OF THE PERIOD DURING WHICH THE SUBMITTING PARTY ASSERTS
+THAT MATERIAL SHOULD NOT BE AVAILABLE FOR PuBLIC DISCLOSURE13
+MetTel requests that Exhibit A be treated as confidential for a period of 10 years. This
+period is necessary due to the proprietary nature of the infonnation in Exhibit A.
+lO 47 C.F.R. § 0.459(b)(5).
+11 47 C.F.R. § 0.459(b)(6).
+12 47 C.F.R. § 0.459(b)(7).
+13 47 C.F.R. § 0.459(b)(8).
+
+Ms. Marlene H. Dortch
+April 11, 2016
+Page 4of4
+9. OTHER INFORMATION THAT METTEL BELIEVES MAY BE USEFUL IN AssESSING
+WHETHER ITS REQUEST FOR CONFIDENTIALITY SHOULD BE GRANTED14
+The information concerns MetTel's proprietary network information, related to current
+and planned commercial and operational information, and as such, is commercially sensitive.
+Should you have any questions regarding the foregoing information, please contact the
+undersigned at (212) 607-2146.
+4;~·
+Sam Vogel
+Regulatory Affairs
+Manhattan Telecommunications Corp.
+1 4 47 C.F.R. § 0.459(b)(9).
+
+Before the
+FEDERAL COMMUNICATIONS COMMISSION
+Washington, D.C. 20554
+In the Matter of )
+)
+Manhattan Telecommunications Corporation WC Docket No. 15-_____
+d/b/a MetTel Applicant )
+)
+For Authorization to Obtain Numbering )
+Resources Pursuant to Section 52.1 S(g) of )
+the Commission's Rules )
+APPLICATION OF MANHATI'AN TELECOMMUNICATIONS CORP. FOR
+AUTHORIZATION TO OBTAIN NUMBERING
+RESOURCES
+Manhattan Telecommunications Corporation ("MetTel"), pursuant to Section
+52.15(g)(3)(i) of the Commission's Rules, respectfully requests authorization to obtain
+numbering resources as described below.
+As set forth in the Commission's Numbering Order, 1 an interconnected VoIP provider
+may obtain numbering resources from the Numbering Administrator upon a showing that it is
+authori:zed to provide service in the area for which the numbering resources are requested. Such
+authorization may be obtained upon an application to the Commission containing the information
+detailed in Sections 52.15(g) (3Xi)(A)-(F) of the Commission's Rules. MetTel hereby requests
+the Commission grant it that authorization. In support of this application, MetTel provides the
+following information:
+1 Numbering Policies for Modern Communications, FCC 15-70 (rel. June 22, 2015).
+
+I. INFORMATION REQUIRED BY SECTION 52.IS(g) (3)(i)
+(A) § 52.1S(g)(3)(i)(A)
+Name: Mnnhauan Telccommuniaelions Corporation dlbla
+MclTcl
+Address: ss WRtcr Strtct, 32. . Floor
+Telephone· New York, NY l0041
+• ?1?-~07-?141\
+Qualified Personnel: Sam Vogel, Exec. V.P. ·Regulatory Affairs
+(B) § 52.lS(g) (3) (i)(B)
+MetTel hereby acknowledges that authorization to obtain numbering resources under
+Section 52.lS(g) of the Commission's Rules is subject to compliance with applicable
+Commission numbering rules as well as to the numbering authority delegated to the states.
+MetTel hereby also acknowledges that this authorization is subject to compliance with industry
+guidelines and practices regarding numbering, just as to telecommunications carriers.
+(q § 52.lS(g) (3) (i) (q
+MetTel hereby acknowledges that it must file ·requests for numbers with the relevant
+state commission(s) at least 30 days before requesting numbers from the Numbering
+Administrators.
+(D) § 52.15(g) (3) (i) (D)
+MetTel hereby sets forth its capability to provide service within 60 days of the
+numbering resources activation date.
+MetTel currently holds approximately - numbers directly. MetTel has an IPES
+OCN; has an agreement in place with its Carrier partner for routing to ILECs; and has, in
+some cases, negotiated direct IP interconnection with ILECs.
+2
+
+MetTel has developed porting tools to enable carriers to submit porting requests and has
+accomplished bulk ports with no difficulty. MetTel already has in place the necessary
+procedures to enable it to place numbers into service within 60 days of activation. Under its
+current agreements and established procedures, MetTel will be able to place nearly all numbers
+into service within similar timeframe, and all numbers will be placed into service within 60
+days of activation.
+As proof of its facilities readiness, MetTel has attached a statement describing (1) the
+agreement between MetTel and its carrier partner providing that the carrier partner will host
+MetTel numbers on its switches and provide PSTN connectivity for inbound calls to MetTel
+numbers and (2) an interconnection agreement between MetTel's carrier partner and a local
+exchange carrier. This "Statement" is attached.
+(E) § S2.1S(g) (3) (i)(E)
+MetTel hereby certifies that it complies with its Universal Service Fund contribution
+obligations under 47 CFR part 54, subpart H, its Telecommunications Relay Service contribution
+obligations under 47 CFR § 64.604(c)(5)(iii), its North American Numbering Plan and Local
+Number Portability Administration contribution obligations under 47 CFR §§ 52.17, 52.32, its
+obligations to pay regulatory fees under 47 CFR § 1.1154, and its 911 obligations under 47 CFR
+part 9.
+3
+
+(F) § 52.lS(g) (3) (i) (F)
+MetTel hereby certifies that it has the financial, managerial, and technical expertise to
+provide reliable service. MetTel bas the capabilities to seamlessly place numbers into service,
+successfully port and route calls without impact to terminating inter-carrier compensation for
+originating calls.
+MetTel's lengthy experience with number porting enables it, along with its carrier
+partners, to create routing arrangements that seamlessly deliver calls to numbers directly
+assigned to MetTel. MetTel bas an established a web interface for processing local service
+requests for porting numbers, allowing providers to request credentials and submit porting
+requests.
+MetTel's key management and technical personnel are listed below. None of the
+identified personnel are being or have been investigated by the Commission or any law
+enforcement or regulatory agency for failure to comply with any law, rule, or order.
+Key Penonnel: Andoni Economou, Chief Operating Officer/EVP
+Morsholl Aronow, Chief Executive Officer
+David Aronow, President
+Ed Fox , Vice President of Network Services
+(G) § 52.lS(g) (3) (i) (G)
+MetTel hereby certifies that no party to this application is subject to a denial of Federal
+benefits pursuant to Section 5301 of the Anti-Drug Abuse Act of 1988, 21 U.S.C. § 862.
+4
+
+Il. ACKNOWLEDGEMENT OF CONDITIONS IN SECTION 52.lS(g) (3) (iv)
+As required by Section 52.1 S(g) (3) (iv), MetTel will maintain the accuracy of all
+contact information and certifications in this application, and will file a correction with the
+Commission and each applicable state within 30 days of any changes. MetTel will also furnish
+accurate regulatory and numbering contact infonnation to each state commission when
+requesting numbers in that state.
+m.
+CONCLUSION
+Pursuant to Section 52.15(g) (3) (i) of the Commissions' Rules, MetTel respectfully
+requests the Commission grant this application for authorization to obtain numbering resources.
+Sam Vogel
+Regulatory Affairs
+Carri r Relations - Regulatory
+Manhattan Telecommunications
+Corporation d/b/a MetTel
+ConWt Rdlldo1t1 to Mdl'd
+5!1 Water Street. 32114 Fl.
+New York. NY 10041
+5
+
+55 Water Street
+32nd Floor
+New York, NY 10041
+TEL: 212.607.2000
+FAX: 866.667.3900
+www.mettel.net
+Exhibit A: 'SUBJECT TO REQUEST FOR CONFIDENTIAL TREATMENT - NOT FOR PUBLIC INSPECTION"
+Manhattan Telecommunications Corporation d/b/a MetTe l
+Proof of Facilities Readinns 52.15 (G) (2) Statement
+Manhattan Telecommunications Corporation dlbfa MetTel.
+MetTel is a Competitive Local Exchange Carrier (CLEC) based in New York City that provides both
+facilities-based and non-facilities based services as well as a being an Interconnected VoIP
+Provider.
+MetTel is certified to do business in all of the contiguous United States, the District of Columbia,
+and Hawaii.
+MetTel has a CPCN in all 50 States.
+We offer local voice, long distance, data, Internet, Integrated T1s, Dedicated Internet Access,
+XDSL Services, and Ethernet, MPLS and VoIP services.
+MetTe l has equipment in operation that allows for the exchange of traffic to the existing PSTN in
+time division multiplexing format to IP-enabled services.
+In addition, MetTel has a Master Service Agreement [MSA] with Carrier Partner
+that has been in place for several years.
+ti!ll!.1: Since 1996, MetTel has been a cutHng edge CompetlHve Local Exchange Carrier (CLEC).
+Manhattan Telecommunlca1ions Corporation d/b/a MetTel
+55 Water Street I 32"4 Floor
+New York, NY 10041
+has been a leading natlonwtde provider of wholesale VolP soluUons and services.
+
+55 Water Street
+32nd Floor
+New York, NY 10041
+TEL: 212.607.2000
+FAX: 866.667 .3900
+www.mettel.net
+Below are some of the products and services that the MetTel and MSAcovers:
+o V I r Ion
+Service Description. Voice Origination service which provides the origination of voice traffic from
+the PSTN or an on-net IP enabled endpoint to the Customers premises via the Session Initiation
+Protocol (SIP).
+Wholesale Voice Termination
+Service Description. Voice Tennlnation service which provides the termination of IP voice traffic
+from the Customers premises to the PSTN or an on-net IP enabled endpoint.
+911
+Service Description. Enhanced 911 and/or B~ic 911
+Today, MetTel can seamlessly provide VoIP services to its end-users because we have successfully
+deployed the necessary tools (API), terms and conditions.
+MetTel can/will [upon the receipt of direct acceat to numbering reaourceal
+o Provide VoIP services to its customers using our existing equipment within 60 days.
+o Comply with all of the existing number rules.
+o Certify that the number resources are '1n service."
+o Use numbering resources efficientiy.
+o Submit the NRUF on a semi-annual basis, participate in number pooling and comply with
+number portability requirements.
+o Comply with all of the regulatory mechanisms that are applicable to telecommunications
+carriers to ensure compliance with the FCC; as well as the states numbering resource
+optimization procedures.

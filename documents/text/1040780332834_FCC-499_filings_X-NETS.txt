@@ -1,0 +1,199 @@
+2025 FCC Form 499-A Telecommunications Reporting Worksheet (Reporting 2024 Revenues) Approval by OMB
+>>> Please read instructions before completing. <<< 3060-0855
+Annual Filing -- due April 1, 2025
+Block 1: Contributor Identification Information During the year, filers must refile Blocks 1, 2 and 6 if there are any changes in Lines 104 or 112. See Instructions.
+101 Filer 499 ID [If you don't know your number, contact the administrator at (888) 641-8722.
+If you are a new filer, write "NEW" in this block and a Filer 499 ID will be assigned to you.]
+X-NETS INC
+102 Legal name of filer
+103 IRS employer identification number [Enter 9 digit number] 33-4259385
+104 Name filer is doing business as
+105 Telecommunications activities of filer [Select up to 5 boxes that best describe the reporting entity. Enter numbers starting with "1" to show the order of importance -- see instructions.]
+Audio Bridging (teleconferencing) Provider CAP/CLEC Cellular/PCS/SMR (wireless telephony inc. by resale)
+Coaxial Cable Incumbent LEC 1 Interconnected VoIP Interexchange Carrier (IXC) Local Reseller
+Non-Interconnected VoIP Operator Service Provider Paging & Messaging Payphone Service Provider Prepaid Card
+Private Service Provider Satellite Service Provider Shared-Tenant Service Provider / Building LEC SMR (dispatch)
+Toll Reseller Wireless Data Other Local Other Mobile Other Toll
+If Other Local, Other Mobile or Other Toll is checked,
+describe carrier type / services provided:
+8
+106.1 Affiliated Filers Name/Holding company name (All affiliated companies must show the same name on this line.) Check if filer has no affiliates
+106.2 Affiliated Filers Name/Holding company IRS employer identification number [Enter 9 digit number]
+107 FCC Registration Number (FRN) [ https://fjallfoss.fcc.gov/coresWeb/publicHome.do]
+[For assistance, contact the CORES help desk at 877-480-3201 or CORES@fcc.gov] [Enter 10 digit number] 0036854842
+108 Management company [if filer is managed by another entity]
+109 Complete mailing address of reporting entity Street1 123 Bernal Ave
+corporate headquarters Street 2
+Street 3
+City Moss Beach State CA Zip (postal code)94038 Country if not USAUnited States
+110 Complete business address for customer inquiries and complaints Street1 123 Bernal Ave
+Street 2
+check if same address as Line 109 Street 3
+City Moss Beach State CA Zip (postal code)94038 Country if not USA United States
+111 Telephone number for customer complaints and inquiries [Toll-free number if available] ( 9 2 5 ) - 383-0904 ext -
+112 List all trade names used in the past 3 years in providing telecommunications. Include all names by which you are known by customers.
+a X-NETS g
+b h
+c i
+d j
+e k
+f l
+Use additional sheets if necessary. Each filer must provide all names used for telecommunications activities.
+PERSONS MAKING WILLFUL FALSE STATEMENTS IN THE WORKSHEET CAN BE PUNISHED BY FINE OR IMPRISONMENT UNDER TITLE 18 OF THE UNITED STATES CODE, 18 U.S.C. § 1001
+Save time, avoid problems -- file electronically at http://forms.universalservice.org FCC Form 499-A/2025
+
+2025 FCC Form 499-A Telecommunications Reporting Worksheet (Reporting 2024 Revenues) Page 2
+Block 2-A: Regulatory Contact Information
+201 Filer 499 ID [from Line 101]
+X-NETS INC
+202 Legal name of filer [from Line 102]
+203 Person who completed this Worksheet First majdi MI Last abdulqader
+204 Telephone number of this person ( 9 2 5 ) - 383-0904 ext -
+205 Fax number of this person ( ) -
+majdi.abdulqader@x-nets.com
+206 Email of this person || not for public release ||
+207 Corporate office, attn. name, and mailing OfficeHQ Attn First name majdi MI Last abdulqader
+address to which future Telecommunications Email ||not for public release|| majdi.abdulqader@x-nets.com Phone ( 9 2 5 ) - 383-0904 ext- Fax ( ) -
+Reporting Worksheets should be sent Street1 123 Bernal Ave
+8
+check if same name as Line 203 Street 2
+8
+check if same address as Line 109 Street 3
+City Moss Beach State CA Zip (postal code) 9 4038 Country if not USA United States
+208 Billing address and billing contact person CompanyHQ Attn First namemajdi MI Last abdulqader
+[Plan administrators will send bills for contributions to this Email ||not for public release|| majdi.abdulqader@x-nets.com Phone ( 9 2 5 ) - 383-0904 ext- Fax ( ) -
+address. Please attach a written request for alternative Street1 123 Bernal Ave
+billing arrangements. ] Street 2
+8
+check if name and address same as Line 207 Street 3
+City Moss Beach State CA Zip (postal code)94038 Country if not USA United States
+208.1 Email address pertaining to ITSP regulatory fee issues ||not for public release|| majdi.abdulqader@x-nets.com
+Block 2-B: Agent for Service of Process All carriers and providers of interconnected and non-interconnected VoIP must complete Lines 209 through 213. During
+the year, these filers must refile Blocks 1, 2 and 6 if there are any changes in this section. See Instructions.
+209 D.C. Agent for Service of Process Company Washington DC Registered Agent LLCAttn First name MI Last
+210 Telephone number of D.C. agent ( 3 0 7 ) - 200-2803 ext -
+211 Fax number of D.C. agent ( ) -
+support@registeredagentsinc.com
+212 Email of D.C. agent
+213 Complete business address of D.C. agent Street1 1717 N Street NW STE 1
+for hand service of documents Street 2 Suite 1
+Street 3
+City Washington State DC Zip 20036
+214 Local/alternate Agent for Service of Process (optional) Company Attn First name MI Last
+215 Telephone number of local/alternate agent ( ) - ext -
+216 Fax number of local/alternate agent ( ) -
+217 Email of local/alternate agent
+218 Complete business address of local/alternate Street1
+agent for hand service of documents Street 2
+City State Zip (postal code) Country if not USA United States
+PERSONS MAKING WILLFUL FALSE STATEMENTS IN THE WORKSHEET CAN BE PUNISHED BY FINE OR IMPRISONMENT UNDER TITLE 18 OF THE UNITED STATES CODE, 18 U.S.C. § 1001
+Save time, avoid problems -- file electronically at http://forms.universalservice.org FCC Form 499-A/2025
+
+2025 FCC Form 499-A Telecommunications Reporting Worksheet (Reporting 2024 Revenues) Page 3
+Block 2-C: FCC Registration and Contact Information Filers must refile Blocks 1, 2 and 6
+if there are any changes in this section. See Instructions.
+219 Filer 499 ID [from Line 101]
+220 Legal name of filer [from Line 102] X-NETS INC
+221 Chief Executive Officer (or, highest ranking company officer First Majdi MI Last Abdulqader
+if the filer does not have a chief executive officer)
+222 Business address of individual named on Line 221 Street1 123 Bernal Ave
+Street 2
+8
+check if same as Line 109 Street 3
+City Moss Beach State CA Zip (postal code) 94038 Country if not USA United States
+223 Second ranking company officer, such as Chairman First MI Last
+(Must be someone other than the individual listed on Line 221)
+224 Business address of individual named on Line 223 Street1
+Street 2
+check if same as Line 109 Street 3
+City State Zip (postal code) Country if not USA United States
+225 Third ranking company officer, such as President or Secretary First MI Last
+(Must be someone other than individuals listed on
+Lines 221 or 223)
+226 Business address of individual named on Line 225 Street1
+Street 2
+check if same as Line 109 Street 3
+City State Zip (postal code) Country if not USAUnited States
+227 Indicate jurisdictions in which the filer provides service. Include jurisdictions in which service was provided in the past 15 months
+and jurisdictions in which service is likely to be provided in the next 12 months.
+Alabama Guam Massachusetts New York Tennessee
+Alaska Hawaii Michigan North Carolina Texas
+American Samoa Idaho Midway Atoll North Dakota Utah
+Arizona Illinois Minnesota Northern Mariana Islands U.S. Virgin Islands
+Arkansas Indiana Mississippi Ohio Vermont
+8
+California Iowa Missouri Oklahoma Virginia
+Colorado Johnston Atoll Montana Oregon Wake Island
+Connecticut Kansas Nebraska Pennsylvania Washington
+Delaware Kentucky Nevada Puerto Rico West Virginia
+District of Columbia Louisiana New Hampshire Rhode Island Wisconsin
+Florida Maine New Jersey South Carolina Wyoming
+Georgia Maryland New Mexico South Dakota
+228 Year and month filer first provided (or expects to provide) telecommunications in the U.S. Check if prior to 1/1/1999, otherwise: Year 2025 Month 10
+PERSONS MAKING WILLFUL FALSE STATEMENTS IN THE WORKSHEET CAN BE PUNISHED BY FINE OR IMPRISONMENT UNDER TITLE 18 OF THE UNITED STATES CODE, 18 U.S.C. § 1001
+Save time, avoid problems -- file electronically at http://forms.universalservice.org FCC Form 499-A/2025
+
+2025 FCC Form 499-A Telecommunications Reporting Worksheet (Reporting 2024 Revenues) Page 8
+Block 6: CERTIFICATION: to be signed by an officer of the filer
+601 Filer 499 ID [from Line 101]
+602 Legal name of filer [from Line 102] X-NETS INC
+Section IV of the instructions provides information on which types of filers are required to file for which purposes. Any filer claiming
+to be exempt from one or more contribution requirements should so certify below and attach an explanation. [The Universal Service Administrator
+will determine which filers meet the de minimis threshold based on information provided in Block 4, even if you fail to so certify below.]
+603 I certify that the filer is exempt from contributing to: Universal Service TRS NANPA LNP Administration
+Provide explanation below:
+604 Please indicate whether the reporting entity is State or Local Government Entity I.R.C. § 501 or State Tax Exempt (see instructions)
+605 I certify that the revenue data contained herein are privileged and confidential and that public disclosure of such information would likely cause substantial harm to the competitive
+8
+position of the company. I request nondisclosure of the revenue information contained herein pursuant to sections 0.459, 52.17, 54.711 and 64.604 of the Commission's rules.
+I certify that I am an officer of the above-named filer as defined in the instructions, that I have examined the foregoing report and,
+to the best of my knowledge, information and belief, all statements of fact contained in this Worksheet are true and that said Worksheet is an accurate
+statement of the affairs of the above-named company for the previous calendar year. In addition, I swear, under penalty of perjury, that all
+requested identification registration information has been provided and is accurate. If the above-named filer is filing on a
+consolidated basis, I certify that this filing incorporates all of the revenues for the consolidated entities for the entire year and that
+the filer adhered to and continues to meet the conditions set forth in section II-C of the instructions.
+606 Signature
+607 Printed name of officer First majdi MI Last abdulqader
+CTO
+608 Position with reporting entity
+609 Business telephone number of officer ( 9 2 5 ) - 383-0904 ext -
+majdi.abdulqader@x-nerts.com
+610 Email of officer || not for public release ||
+04/07/2025
+611 Date
+612 Check those that apply: Original April 1 filing for year New filer, registration only Revised filing with updated registration Revised filing with updated revenue data
+Do not mail checks with this form. File this form online: https://forms.universalservice.org/portal/login
+For additional information regarding this worksheet contact: (888) 641-8722 or via email: Form499@usac.org
+PERSONS MAKING WILLFUL FALSE STATEMENTS IN THE WORKSHEET CAN BE PUNISHED BY FINE OR IMPRISONMENT UNDER TITLE 18 OF THE UNITED STATES CODE, 18 U.S.C. § 1001
+Save time, avoid problems -- file electronically at http://forms.universalservice.org FCC Form 499-A/2025
+
+ALTERNATIVE BILLING
+ARRANGEMENTS WORKSHEET
+Please use this worksheet if your company requires invoices to be sent to different contacts and/or addresses (other
+than those specified on Line 208) for any of the following funds.
+For any information left blank on this form,USAC will refer back to Line 208 as the default billing information.
+499 Filer ID:______________ Legal name of the filing enttity:_X_-_N_E__T_S_ I_N_C__________________________
+TRS- Telecommunications Relay Services
+First Name:___________________ Last Name:________________________________
+Phone:____________________ Extension:__________
+Fax:__________________ E-Mail:______________________
+Address:___________________________________________________________________
+__________________________________________________________________
+__________________________________________________________________
+City:______________________ State:______ Zip Code:___________
+NANP- North American Numbering Plan
+First Name:___________________ Last Name:________________________________
+Telephone:____________________ Extension:__________
+Fax:__________________ E-Mail:______________________
+Address:___________________________________________________________________
+__________________________________________________________________
+__________________________________________________________________
+City:______________________ State:______ Zip Code:___________
+LNP- Local Number Portability
+First Name:___________________ Last Name:________________________________
+Phone:____________________ Extension:__________
+Fax:__________________ E-Mail:______________________
+Address:___________________________________________________________________
+__________________________________________________________________
+__________________________________________________________________
+City:______________________ State:______ Zip Code:___________

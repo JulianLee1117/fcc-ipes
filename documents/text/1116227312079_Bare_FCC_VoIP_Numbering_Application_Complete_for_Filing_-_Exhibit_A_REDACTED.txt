@@ -1,0 +1,552 @@
+November 16, 2021
+REDACTED FOR PUBLIC INSPECTION
+Via ECFS Filing
+Secretary, Federal Communications Commission
+Washington, DC 20554
+Attn: Wireline Competition Bureau
+RE: Request for Confidential Treatment of Filing of Bare Telecom LLC; Application of Bare
+Telecom LLC for Authorization to Obtain Numbering Resources Pursuant to Section 52.15(g)
+of the Commission's Rules, WC Docket No. 21-____________
+Dear Ms. Dortch:
+Pursuant to Section 52.15(g)(3)(i) of the Commission's Rules, Bare Telecom LLC ("Bare")
+hereby submits its application requesting authorization to obtain numbering resources.
+Bare respectfully requests that, pursuant to Sections 0.457 and 0.459 of the Commission's rules,
+47 C.F.R. §§ 0.457 and 0.459, the Commission withhold from public inspection and accord
+confidential treatment to Exhibit A to the application because that document contains sensitive
+trade secrets and commercial information that falls within Exemption 4 of the Freedom of
+Information Act ("FOIA").1 Bare is voluntarily providing this information, "of a kind that would
+not customarily be released to the public"; therefore, this information is "confidential" under
+FOIA.2 Moreover, Bare would suffer substantial competitive harm if this information were
+disclosed.3
+Exhibit A is accordingly marked with the header "SUBJECT TO REQUEST FOR
+CONFIDENTIAL TREATMENT - NOT FOR PUBLIC INSPECTION."
+1 5 U.S.C. § 552(b)(4).
+2 See Critical Mass Energy Project v. NRC, 975 F.2d 871, 879 (D.C. Cir. 1992).
+3 See National Parks and Conservation Ass'n v. Morton, 498 F.2d 765 (D.C. Cir. 1974).
+
+In support of this request and pursuant to Section 0.459(b) of the Commission's rules,4
+Bare hereby states as follows:
+1. IDENTIFICATION OF THE SPECIFIC INFORMATION FOR WHICH
+CONFIDENTIAL TREATMENT IS SOUGHT.5
+Bare seeks confidential treatment of Exhibit A to the enclosed application.
+2. DESCRIPTION OF CIRCUMSTANCES GIVING RISE TO THE
+SUBMISSION.6
+Bare is submitting as Exhibit A the agreement between it and its carrier partner, as
+proof of Bare’s facilities readiness as required by Section 52. 15(g)(3)(i)(D) of the
+Commission's rules.
+3. EXPLANATION OF THE DEGREE TO WHICH THE INFORMATION IS
+COMMERCIAL OR FINANCIAL, OR CONTAINS A TRADE SECRET OR IS
+PRIVILEGED.7
+The information for which Bare seeks confidential treatment contains sensitive
+commercial information "which would customarily be guarded from competitors."8
+Exhibit A describes the agreement between Bare and its carrier partner and contains
+proprietary commercial information concerning Bare’s network, customers, and
+services.
+4. EXPLANATION OF THE DEGREE TO WHICH THE INFORMATION
+CONCERNS A SERVICE THAT IS SUBJECT TO COMPETITION.9
+Exhibit A contains information relating to commercial matters that could be used by
+competitors to Bare’s disadvantage. Bare has numerous competitors in the Voice over
+Internet Protocol ("VoIP") services sector in which it operates. Detailed operations
+and commercial information of the type provided by Bare could compromise Bare’s
+position in this highly competitive industry. Release would therefore result in
+substantial competitive harm to Bare.
+5. EXPLANATION OF HOW DISCLOSURE OF THE INFORMATION COULD
+RESULT IN SUBSTANTIAL COMPETITIVE HARM.10
+4 47 C.F.R. § 0.459(b).
+5 47 C.F.R. § 0.459(b)(1).
+6 47 C.F.R. § 0.459(b)(2).
+7 47 C.F.R. § 0.459(b)(3).
+8 47 C.F.R. § 0.457(d)(2).
+9 47 C.F.R. § 0.459(b)(4).
+10 47 C.P.R. § 0.459(b)(5).
+
+Competitors could use Bare’s proprietary commercial and operational information to
+Bare’s detriment as they would gain access to sensitive information about how Bare
+provides services as well as about Bare’s commercial agreements with others in the
+market that are not normally disclosed to the public.
+6. IDENTIFICATION OF ANY MEASURES TAKEN BY THE SUBMITIING
+PARTY TO PREVENT UNAUTHORIZED DISCLOSURE.11
+Bare has not distributed the information in Exhibit A to the public.
+7. IDENTIFICATION OF WHETHER THE INFORMATION IS AVAILABLE
+TO THE PUBLIC AND THE EXTENT OF ANY PREVIOUS DISCLOSURE
+OF THE INFORMATION TO THIRD PARTIES.12
+Bare has not previously disclosed the information in Exhibit A.
+8. JUSTIFICATION OF THE PERIOD DURING WHICH THE SUBMITTING
+PARTY ASSERTS THAT MATERIAL SHOULD NOT BE AVAILABLE FOR
+PUBLIC DISCLOSURE.13
+Bare requests that Exhibit A be treated as confidential for a period of ten years. This
+period is necessary due to the proprietary nature of the information in Exhibit A.
+9. OTHER INFORMATION THAT BARE BELIEVES MAY BE USEFUL IN
+ASSESSING WHETHER ITS REQUEST FOR CONFIDENTIALITY
+SHOULD BE GRANTED.14
+The information concerns Bare’s proprietary network information, related to current
+and planned commercial and operational information, and as such, is commercially
+sensitive.
+Any questions you may have regarding this filing should be directed to my attention at 410-349-
+4990 or via email to tlynch@telecomlawyers.com. Thank you for your assistance in this matter.
+Sincerely,
+Thomas Lynch
+Counsel for Bare Telecom LLC
+11 47 C.P.R. § 0.459(b)(6).
+12 47 C.F.R. § 0.459(b)(7).
+13 47 C.F.R. § 0.459(b)(8).
+14 47 C.F.R. § 0.459(b)(9).
+
+REDACTED - FOR PUBLIC INSPECTION
+Before the
+FEDERAL COMMUNICATIONS COMMISSION
+Washington, D.C. 20554
+In the Matter of )
+)
+Bare Telecom LLC )
+Application for Authorization to Obtain ) WC Docket No. 21- _______________
+Numbering Resources Pursuant to Section )
+52.15(g) of the Commission's Rules )
+APPLICATION OF BARE TELECOM LLC FOR AUTHORIZATION TO
+OBTAIN NUMBERING RESOURCES
+Bare Telecom LLC ("Bare" or "Company"), pursuant to Section 52.15(g)(3)(i) of the
+Commission's Rules, respectfully requests authorization to obtain numbering resources as
+described below.
+Under the Commission's Numbering Order,1 an interconnected VoIP provider may obtain
+numbering resources from the Numbering Administrator upon a showing that it is authorized to
+provide service in the area for which the numbering resources are requested. Such authorization
+may be obtained upon an application to the Commission containing the information detailed in
+Section 52.15.(g)(3)(i)(A)-(G) of the Commission's Rules. Bare hereby requests the Commission
+grant it that authorization. In support of this application, Bare provides the following
+information:
+I. INFORMATION REQUIRED BY SECTION 52.15(g)(3)(i)
+A. § 52.15(g)(3)(i)(A)
+Name: Bare Telecom LLC
+Address: 444 W. Ocean Blvd, 8th Floor
+City: Long Beach
+State: CA
+ZIP Code: 90802
+Telephone: 951-294-4547
+1 Numbering Policies for Modern Communications, FCC 15-70 (rel. June 22, 2015).
+
+REDACTED - FOR PUBLIC INSPECTION
+Contact for Regulatory Requirements, Compliance, 911 and Law Enforcement:
+Name: Christopher Bare
+Address: 444 W. Ocean Blvd, 8th Floor
+City: Long Beach
+State: CA
+ZIP Code: 90802
+Telephone: 951-294-4547
+B. § 52.15(g)(3)(i)(B)
+Bare hereby acknowledges that authorization to obtain numbering resources under
+Section 52.15(g) of the Commission's Rules is subject to compliance with applicable
+Commission numbering rules as well as to the numbering authority delegated to the states. The
+Company hereby also acknowledges that grant of the authorization sought by this application is
+subject to compliance with industry guidelines and practices regarding numbering, as applicable
+to telecommunications carriers. The numbering resources that are the subject of this Application
+will be used to provide interconnected VoIP services initially in California, however the
+Company anticipates that it will provide VoIP services nationwide, and accordingly, will request
+numbers from other states in turn after its initial request in California. Accordingly, to the extent
+required, Bare requests the Commission grant it authority to obtain numbering resources in all
+states.
+C. § 52.15(g)(3)(i)(C)
+Bare hereby acknowledges that it must file requests for numbers with the relevant state
+commissions at least (30) days before requesting numbers from the Numbering Administrators.
+
+REDACTED - FOR PUBLIC INSPECTION
+D. § 52.15(g)(3)(i)(D)
+Bare submits that it is capable of providing service within (60) days of the numbering
+resources activation date in accordance with Commission Rule Section 52.15(g)(2)2 because of
+the existing inventory of numbers assigned by Bare, but obtained from other sources, that will be
+ported by current Bare administrative staff. Bare is an interconnected VoIP provider that intends
+to provide VoIP services in the state of California utilizing the facilities of its CLEC partner with
+which it has an agreement in place for routing traffic to the PSTN. The Company has entered
+into an Interconnection Agreement with a CLEC partner to provide interconnection to the PSTN
+for routing its VoIP traffic to ILECs. A copy of this agreement is attached as Exhibit A to this
+Application. Bare respectfully requests this agreement be accorded confidential treatment,
+pursuant to §0.459 of the Commission's rules.3 Pursuant to this agreement, the CLEC partner
+will host the Company's numbers on its switches and provide connectivity to the PSTN for
+inbound calls to Bare numbers. As Exhibit B, Bare provides evidence of PSTN interconnection
+between Bare’s carrier partner and an incumbent local exchange carrier ("ILEC") in California.
+Bare's focus is on business IP communications. The company has developed a network
+and software service that is feature rich, stable and scalable from the ground up. The Company
+serves all business sizes, from large global companies to enterprise and small businesses. The
+Company has highly skilled, technical employees on staff to ensure the Company will be able to
+provide service within the 60-day timeframe.
+2 47 C.F.R. §52.l5(g)(2).
+3 47 C.F.R. §0.459. The agreement contains trade secret information that is not publicly available, the disclosure of
+which would cause economic harm to Bare.
+
+REDACTED - FOR PUBLIC INSPECTION
+E. § 52.15(g)(3)(i)(E)
+Bare hereby certifies that it complies with its Universal Service Fund contribution
+obligations under 47 CFR part 54, subpart H, its Telecommunications Relay Service contribution
+obligations under 47 CFR § 64.604(c)(5)(iii), its North American Numbering Plan and Local
+Number Portability Administration contribution obligations under 47 CFR §§ 52.17 and 52.32,
+its obligations to pay regulatory fees under 47 CFR § 1.1154, and its 911 obligations under 47
+CFR part 9.
+F. § 52.15(g)(3)(i)(F)
+Bare hereby certifies that it has the financial, managerial, and technical expertise to
+provide reliable service. It is financially stable, led by a strong, experienced management team
+with substantial managerial experience in the telecommunications industry, and has sufficient
+technical expertise and infrastructure in place to provide reliable services. Bare's key
+management and technical personnel are listed below. None of the identified personnel are
+being or have been investigated by the Commission or any law enforcement or regulatory agency
+for failure to comply with any law, rule, or order.
+Key Personnel:
+Chief Executive Officer – Christopher Bare
+Chief Technology Officer – Robert Bare
+G. § 52.15(g)(3)(i)(G)
+Bare hereby certifies that no party to this application is subject to a denial of Federal
+benefits pursuant to Section 5301 of the Anti-Drug Abuse Act of 1988,21 U.S.C. § 862.
+
+REDACTED - FOR PUBLIC INSPECTION
+II. ACKNOWLEDGEMENT OF CONDITIONS IN SECTION 52.15(g)(3)(iv)
+As required by Section 52.15(g)(3)(iv), Bare will maintain the accuracy of all
+contact information and certifications in this Application and will file a correction with
+the Commission and each applicable state within 30 days of any changes. Bare will also
+furnish accurate regulatory and numbering contact information to each state commission
+when requesting numbers in that state.
+III. CONCLUSION
+Pursuant to Section 52. 15(g)(3)(i) of the Commission's Rules, Bare respectfully
+requests the Commission grant this Application for authorization to obtain numbering
+resources directly from the Numbering Administrators.
+Respectfully submitted,
+/s/ Thomas M. Lynch
+Thomas M. Lynch
+6 Carrols Tract Rd, No. 506
+Fairfield, PA 17320
+Counsel for Bare Telecom LLC
+Submitted on November 16, 2021
+
+REDACTED - FOR PUBLIC INSPECTION
+EXHIBIT A
+CLEC AGREEMENT
+Subject to request for confidential treatment - not for public inspection
+
+REDACTED - FOR PUBLIC INSPECTION
+EXHIBIT B
+EVIDENCE OF PSTN INTERCONNECTION
+See attached.
+
+Contract Id: 4924919
+(cid:54)(cid:76)(cid:74)(cid:81)(cid:68)(cid:87)(cid:88)(cid:85)(cid:72)(cid:3)(cid:51)(cid:68)(cid:74)(cid:72)(cid:18)(cid:36)(cid:55)(cid:9)(cid:55)(cid:16)(cid:21)(cid:20)(cid:54)(cid:55)(cid:36)(cid:55)(cid:40)(cid:3)
+(cid:51)(cid:68)(cid:74)(cid:72)(cid:3)(cid:20)(cid:3)(cid:82)(cid:73)(cid:3)(cid:23)(cid:3)
+Page 2 of 57 (cid:49)(cid:40)(cid:56)(cid:55)(cid:53)(cid:36)(cid:47)(cid:3)(cid:55)(cid:36)(cid:49)(cid:39)(cid:40)(cid:48)(cid:3)
+(cid:57)(cid:72)(cid:85)(cid:86)(cid:76)(cid:82)(cid:81)(cid:29)(cid:3)(cid:3)(cid:23)(cid:52)(cid:20)(cid:24)(cid:3)(cid:177)(cid:3)(cid:20)(cid:19)(cid:18)(cid:21)(cid:19)(cid:18)(cid:20)(cid:24)
+AMENDMENT
+BETWEEN
+BELLSOUTH TELECOMMUNICATIONS, LLC D/B/A AT&T ALABAMA,
+AT&T FLORIDA, AT&T GEORGIA, AT&T KENTUCKY, AT&T LOUISIANA,
+AT&T MISSISSIPPI, AT&T NORTH CAROLINA, AT&T SOUTH CAROLINA
+AND AT&T TENNESSEE, ILLINOIS BELL TELEPHONE COMPANY D/B/A
+AT&T ILLINOIS, INDIANA BELL TELEPHONE COMPANY
+INCORPORATED D/B/A AT&T INDIANA, MICHIGAN BELL TELEPHONE
+COMPANY D/B/A AT&T MICHIGAN, NEVADA BELL TELEPHONE
+COMPANY D/B/A AT&T NEVADA AND AT&T WHOLESALE, THE OHIO
+BELL TELEPHONE COMPANY D/B/A AT&T OHIO, PACIFIC BELL
+TELEPHONE COMPANY D/B/A AT&T CALIFORNIA, SOUTHWESTERN
+BELL TELEPHONE COMPANY D/B/A AT&T ARKANSAS, AT&T
+KANSAS, AT&T MISSOURI, AT&T OKLAHOMA AND AT&T TEXAS,
+WISCONSIN BELL, INC. D/B/A AT&T WISCONSIN
+AND
+CN:10182016-5601
+Page 640 of 695
+
+Contract Id: 4924919
+(cid:54)(cid:76)(cid:74)(cid:81)(cid:68)(cid:87)(cid:88)(cid:85)(cid:72)(cid:3)(cid:51)(cid:68)(cid:74)(cid:72)(cid:18)(cid:36)(cid:55)(cid:9)(cid:55)(cid:16)(cid:21)(cid:20)(cid:54)(cid:55)(cid:36)(cid:55)(cid:40)(cid:3)
+(cid:51)(cid:68)(cid:74)(cid:72)(cid:3)(cid:21)(cid:3)(cid:82)(cid:73)(cid:3)(cid:23)(cid:3)
+Page 3 of 57 (cid:49)(cid:40)(cid:56)(cid:55)(cid:53)(cid:36)(cid:47)(cid:3)(cid:55)(cid:36)(cid:49)(cid:39)(cid:40)(cid:48)(cid:3)
+(cid:57)(cid:72)(cid:85)(cid:86)(cid:76)(cid:82)(cid:81)(cid:29)(cid:3)(cid:3)(cid:23)(cid:52)(cid:20)(cid:24)(cid:3)(cid:177)(cid:3)(cid:20)(cid:19)(cid:18)(cid:21)(cid:19)(cid:18)(cid:20)(cid:24)
+NEUTRAL TANDEM-ALABAMA, LLC; NEUTRAL TANDEM-LOUISIANA,
+LLC; NEUTRAL TANDEM-MISSISSIPPI, LLC; NEUTRAL TANDEM-
+NORTH CAROLINA, LLC; NEUTRAL TANDEM-SOUTH CAROLINA, LLC;
+NEUTRAL TANDEM-TENNESSEE, LLC; NEUTRAL TANDEM-FLORIDA,
+LLC; NEUTRAL TANDEM-GEORGIA, LLC; NEUTRAL TANDEM-
+KENTUCKY, LLC; NEUTRAL TANDEM-ILLINOIS, LLC; NEUTRAL
+TANDEM-ARKANSAS, LLC; NEUTRAL TANDEM-KANSAS, LLC;
+NEUTRAL TANDEM-OKLAHOMA, LLC; NEUTRAL TANDEM-INDIANA,
+LLC; NEUTRAL TANDEM-MISSOURI, LLC: NEUTRAL TANDEM-
+NEVADA, LLC; NEUTRAL TANDEM-MICHIGAN, LLC; NEUTRAL
+TANDEM-CALIFORNIA, LLC; NEUTRAL TANDEM-TEXAS, LLC
+CN:10182016-5601
+Page 641 of 695
+
+Contract Id: 4924919
+(cid:54)(cid:76)(cid:74)(cid:81)(cid:68)(cid:87)(cid:88)(cid:85)(cid:72)(cid:3)(cid:51)(cid:68)(cid:74)(cid:72)(cid:18)(cid:36)(cid:55)(cid:9)(cid:55)(cid:16)(cid:21)(cid:20)(cid:54)(cid:55)(cid:36)(cid:55)(cid:40)(cid:3)
+(cid:51)(cid:68)(cid:74)(cid:72)(cid:3)(cid:22)(cid:3)(cid:82)(cid:73)(cid:3)(cid:23)(cid:3)
+Page 4 of 57 (cid:49)(cid:40)(cid:56)(cid:55)(cid:53)(cid:36)(cid:47)(cid:3)(cid:55)(cid:36)(cid:49)(cid:39)(cid:40)(cid:48)(cid:3)
+(cid:57)(cid:72)(cid:85)(cid:86)(cid:76)(cid:82)(cid:81)(cid:29)(cid:3)(cid:3)(cid:23)(cid:52)(cid:20)(cid:24)(cid:3)(cid:177)(cid:3)(cid:20)(cid:19)(cid:18)(cid:21)(cid:19)(cid:18)(cid:20)(cid:24)
+(cid:54)(cid:76)(cid:74)(cid:81)(cid:68)(cid:87)(cid:88)(cid:85)(cid:72)(cid:29)(cid:3)(cid:66)e(cid:66)S(cid:66)i(cid:66)g(cid:66)n(cid:66)e(cid:66)d(cid:66) (cid:66)- (cid:66)J(cid:66)o(cid:66)h(cid:66)n(cid:66) (cid:66)S(cid:66)c(cid:66)h(cid:66)o(cid:66)d(cid:66)e(cid:66)r(cid:66)(cid:66)(cid:66)(cid:66)(cid:66)(cid:66)(cid:66)(cid:66)(cid:66)(cid:66)(cid:66)(cid:66)(cid:66)(cid:3) (cid:54)(cid:76)(cid:74)(cid:81)(cid:68)(cid:87)(cid:88)(cid:85)(cid:72)(cid:29)(cid:3)(cid:66)e(cid:66)S(cid:66)i(cid:66)g(cid:66)n(cid:66)e(cid:66)d(cid:66) (cid:66)- (cid:66)W(cid:66)(cid:66)il(cid:66)lia(cid:66)(cid:66)m(cid:66) (cid:66)A(cid:66).(cid:66) B(cid:66)o(cid:66)(cid:66)c(cid:66)k(cid:66)e(cid:66)lm(cid:66)(cid:66)a(cid:66)n(cid:66)(cid:66)(cid:66)(cid:66)(cid:66)(cid:66)(cid:66)(cid:66)(cid:66)(cid:66)(cid:66)(cid:3)
+(cid:49)(cid:68)(cid:80)(cid:72)(cid:29)(cid:3)(cid:66)e(cid:66)S(cid:66)i(cid:66)g(cid:66)n(cid:66)e(cid:66)d(cid:66) (cid:66)- (cid:66)J(cid:66)o(cid:66)h(cid:66)n(cid:66) (cid:66)S(cid:66)c(cid:66)h(cid:66)o(cid:66)d(cid:66)(cid:66)e(cid:66)r(cid:66)(cid:66)(cid:66)(cid:66)(cid:66)(cid:66)(cid:66)(cid:66)(cid:66)(cid:66)(cid:66)(cid:66)(cid:66)(cid:66)(cid:66)(cid:3) (cid:49)(cid:68)(cid:80)(cid:72)(cid:29)(cid:3)e(cid:66)S(cid:66)(cid:66)ig(cid:66)n(cid:66)e(cid:66)(cid:66)d(cid:66) -(cid:66) W(cid:66)(cid:66)i(cid:66)ll(cid:66)ia(cid:66)m(cid:66)(cid:66) A(cid:66)(cid:66). (cid:66)B(cid:66)o(cid:66)c(cid:66)k(cid:66)e(cid:66)l(cid:66)m(cid:66)(cid:66)a(cid:66)n(cid:66)(cid:66)(cid:66)(cid:66)(cid:66)(cid:66)(cid:66)(cid:66)(cid:66)(cid:66)(cid:66)(cid:66)(cid:66)(cid:66)(cid:3)
+(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:11)(cid:51)(cid:85)(cid:76)(cid:81)(cid:87)(cid:3)(cid:82)(cid:85)(cid:3)(cid:55)(cid:92)(cid:83)(cid:72)(cid:12)(cid:3) (cid:3)(cid:3)(cid:11)(cid:51)(cid:85)(cid:76)(cid:81)(cid:87)(cid:3)(cid:82)(cid:85)(cid:3)(cid:55)(cid:92)(cid:83)(cid:72)(cid:12)
+(cid:55)(cid:76)(cid:87)(cid:79)(cid:72)(cid:29)(cid:3)(cid:66)C(cid:66)M(cid:66)(cid:66)O(cid:66)(cid:66)(cid:66)(cid:66)(cid:66)(cid:66)(cid:66)(cid:66)(cid:66)(cid:66)(cid:66)(cid:66)(cid:66)(cid:66)(cid:66)(cid:66)(cid:66)(cid:66)(cid:66)(cid:66)(cid:66)(cid:66)(cid:66)(cid:66)(cid:66)(cid:66)(cid:66)(cid:66)(cid:66)(cid:66)(cid:66)(cid:66)(cid:66)(cid:66)(cid:3) (cid:55)(cid:76)(cid:87)(cid:79)(cid:72)(cid:29)(cid:3)(cid:66)D(cid:66)i(cid:66)re(cid:66)c(cid:66)t(cid:66)o(cid:66)r(cid:66)(cid:66)(cid:66)(cid:66)(cid:66)(cid:66)(cid:66)(cid:66)(cid:66)(cid:66)(cid:66)(cid:66)(cid:66)(cid:66)(cid:66)(cid:66)(cid:66)(cid:66)(cid:66)(cid:66)(cid:66)(cid:66)(cid:66)(cid:66)(cid:66)(cid:66)(cid:66)(cid:66)(cid:66)(cid:66)(cid:66)(cid:66)(cid:66)(cid:66)(cid:66)(cid:66)(cid:3)
+(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:11)(cid:51)(cid:85)(cid:76)(cid:81)(cid:87)(cid:3)(cid:82)(cid:85)(cid:3)(cid:55)(cid:92)(cid:83)(cid:72)(cid:12)(cid:3) (cid:3)(cid:3)(cid:11)(cid:51)(cid:85)(cid:76)(cid:81)(cid:87)(cid:3)(cid:82)(cid:85)(cid:3)(cid:55)(cid:92)(cid:83)(cid:72)(cid:12)
+(cid:39)(cid:68)(cid:87)(cid:72)(cid:29)(cid:3)(cid:66)2(cid:66)2(cid:66) O(cid:66)(cid:66)c(cid:66)t (cid:66)2(cid:66)0(cid:66)1(cid:66)6(cid:66)(cid:66)(cid:66)(cid:66)(cid:66)(cid:66)(cid:66)(cid:66)(cid:66)(cid:66)(cid:66)(cid:66)(cid:66)(cid:66)(cid:66)(cid:66)(cid:66)(cid:66)(cid:66)(cid:66)(cid:66)(cid:66)(cid:66)(cid:66)(cid:66)(cid:66)(cid:66)(cid:66)(cid:3) (cid:39)(cid:68)(cid:87)(cid:72)(cid:29)(cid:3)(cid:66)2(cid:66)5(cid:66) O(cid:66)(cid:66)c(cid:66)t (cid:66)2(cid:66)0(cid:66)1(cid:66)6(cid:66)(cid:66)(cid:66)(cid:66)(cid:66)(cid:66)(cid:66)(cid:66)(cid:66)(cid:66)(cid:66)(cid:66)(cid:66)(cid:66)(cid:66)(cid:66)(cid:66)(cid:66)(cid:66)(cid:66)(cid:66)(cid:66)(cid:66)(cid:66)(cid:66)(cid:66)(cid:66)(cid:66)(cid:66)(cid:66)(cid:66)(cid:66)(cid:66)(cid:3)
+(cid:49)(cid:72)(cid:88)(cid:87)(cid:85)(cid:68)(cid:79)(cid:3)(cid:55)(cid:68)(cid:81)(cid:71)(cid:72)(cid:80)(cid:16)(cid:36)(cid:79)(cid:68)(cid:69)(cid:68)(cid:80)(cid:68)(cid:15)(cid:3)(cid:47)(cid:47)(cid:38)(cid:30)(cid:3)(cid:49)(cid:72)(cid:88)(cid:87)(cid:85)(cid:68)(cid:79)(cid:3)(cid:55)(cid:68)(cid:81)(cid:71)(cid:72)(cid:80)(cid:16) (cid:37)(cid:72)(cid:79)(cid:79)(cid:54)(cid:82)(cid:88)(cid:87)(cid:75)(cid:3) (cid:55)(cid:72)(cid:79)(cid:72)(cid:70)(cid:82)(cid:80)(cid:80)(cid:88)(cid:81)(cid:76)(cid:70)(cid:68)(cid:87)(cid:76)(cid:82)(cid:81)(cid:86)(cid:15)(cid:3) (cid:47)(cid:47)(cid:38)(cid:3) (cid:71)(cid:18)(cid:69)(cid:18)(cid:68)(cid:3) (cid:36)(cid:55)(cid:9)(cid:55)(cid:3)
+(cid:47)(cid:82)(cid:88)(cid:76)(cid:86)(cid:76)(cid:68)(cid:81)(cid:68)(cid:15)(cid:3)(cid:47)(cid:47)(cid:38)(cid:30)(cid:3)(cid:49)(cid:72)(cid:88)(cid:87)(cid:85)(cid:68)(cid:79)(cid:3)(cid:55)(cid:68)(cid:81)(cid:71)(cid:72)(cid:80)(cid:16)(cid:48)(cid:76)(cid:86)(cid:86)(cid:76)(cid:86)(cid:86)(cid:76)(cid:83)(cid:83)(cid:76)(cid:15)(cid:3)(cid:47)(cid:47)(cid:38)(cid:30)(cid:3) (cid:36)(cid:47)(cid:36)(cid:37)(cid:36)(cid:48)(cid:36)(cid:15)(cid:3) (cid:36)(cid:55)(cid:9)(cid:55)(cid:3) (cid:41)(cid:47)(cid:50)(cid:53)(cid:44)(cid:39)(cid:36)(cid:15)(cid:3) (cid:36)(cid:55)(cid:9)(cid:55)(cid:3) (cid:42)(cid:40)(cid:50)(cid:53)(cid:42)(cid:44)(cid:36)(cid:15)(cid:3) (cid:36)(cid:55)(cid:9)(cid:55)(cid:3)
+(cid:49)(cid:72)(cid:88)(cid:87)(cid:85)(cid:68)(cid:79)(cid:3) (cid:55)(cid:68)(cid:81)(cid:71)(cid:72)(cid:80)(cid:16)(cid:49)(cid:82)(cid:85)(cid:87)(cid:75)(cid:3) (cid:38)(cid:68)(cid:85)(cid:82)(cid:79)(cid:76)(cid:81)(cid:68)(cid:15)(cid:3) (cid:47)(cid:47)(cid:38)(cid:30)(cid:3) (cid:3) (cid:49)(cid:72)(cid:88)(cid:87)(cid:85)(cid:68)(cid:79)(cid:3) (cid:46)(cid:40)(cid:49)(cid:55)(cid:56)(cid:38)(cid:46)(cid:60)(cid:15)(cid:3) (cid:36)(cid:55)(cid:9)(cid:55)(cid:3) (cid:47)(cid:50)(cid:56)(cid:44)(cid:54)(cid:44)(cid:36)(cid:49)(cid:36)(cid:15)(cid:3) (cid:36)(cid:55)(cid:9)(cid:55)(cid:3) (cid:48)(cid:44)(cid:54)(cid:54)(cid:44)(cid:54)(cid:54)(cid:44)(cid:51)(cid:51)(cid:44)(cid:15)(cid:3)
+(cid:55)(cid:68)(cid:81)(cid:71)(cid:72)(cid:80)(cid:16)(cid:54)(cid:82)(cid:88)(cid:87)(cid:75)(cid:3) (cid:38)(cid:68)(cid:85)(cid:82)(cid:79)(cid:76)(cid:81)(cid:68)(cid:15)(cid:3) (cid:47)(cid:47)(cid:38)(cid:30)(cid:3) (cid:49)(cid:72)(cid:88)(cid:87)(cid:85)(cid:68)(cid:79)(cid:3) (cid:55)(cid:68)(cid:81)(cid:71)(cid:72)(cid:80)(cid:16) (cid:36)(cid:55)(cid:9)(cid:55)(cid:3)(cid:49)(cid:50)(cid:53)(cid:55)(cid:43)(cid:3)(cid:38)(cid:36)(cid:53)(cid:50)(cid:47)(cid:44)(cid:49)(cid:36)(cid:15)(cid:3)(cid:36)(cid:55)(cid:9)(cid:55)(cid:3)(cid:54)(cid:50)(cid:56)(cid:55)(cid:43)(cid:3)(cid:38)(cid:36)(cid:53)(cid:50)(cid:47)(cid:44)(cid:49)(cid:36)(cid:3)
+(cid:55)(cid:72)(cid:81)(cid:81)(cid:72)(cid:86)(cid:86)(cid:72)(cid:72)(cid:15)(cid:3) (cid:47)(cid:47)(cid:38)(cid:30)(cid:3) (cid:49)(cid:72)(cid:88)(cid:87)(cid:85)(cid:68)(cid:79)(cid:3) (cid:55)(cid:68)(cid:81)(cid:71)(cid:72)(cid:80)(cid:16)(cid:41)(cid:79)(cid:82)(cid:85)(cid:76)(cid:71)(cid:68)(cid:15)(cid:3) (cid:47)(cid:47)(cid:38)(cid:30)(cid:3) (cid:68)(cid:81)(cid:71)(cid:3) (cid:36)(cid:55)(cid:9)(cid:55)(cid:3) (cid:55)(cid:40)(cid:49)(cid:49)(cid:40)(cid:54)(cid:54)(cid:40)(cid:40)(cid:15)(cid:3) (cid:44)(cid:79)(cid:79)(cid:76)(cid:81)(cid:82)(cid:76)(cid:86)(cid:3) (cid:37)(cid:72)(cid:79)(cid:79)(cid:3) (cid:55)(cid:72)(cid:79)(cid:72)(cid:83)(cid:75)(cid:82)(cid:81)(cid:72)(cid:3)
+(cid:49)(cid:72)(cid:88)(cid:87)(cid:85)(cid:68)(cid:79)(cid:3) (cid:55)(cid:68)(cid:81)(cid:71)(cid:72)(cid:80)(cid:16)(cid:42)(cid:72)(cid:82)(cid:85)(cid:74)(cid:76)(cid:68)(cid:15)(cid:3) (cid:47)(cid:47)(cid:38)(cid:30)(cid:3) (cid:49)(cid:72)(cid:88)(cid:87)(cid:85)(cid:68)(cid:79)(cid:3) (cid:55)(cid:68)(cid:81)(cid:71)(cid:72)(cid:80)(cid:16) (cid:38)(cid:82)(cid:80)(cid:83)(cid:68)(cid:81)(cid:92)(cid:3)(cid:71)(cid:18)(cid:69)(cid:18)(cid:68)(cid:3)(cid:36)(cid:55)(cid:9)(cid:55)(cid:3)(cid:44)(cid:47)(cid:47)(cid:44)(cid:49)(cid:50)(cid:44)(cid:54)(cid:15)(cid:3)(cid:44)(cid:81)(cid:71)(cid:76)(cid:68)(cid:81)(cid:68)(cid:3)(cid:37)(cid:72)(cid:79)(cid:79)(cid:3)(cid:55)(cid:72)(cid:79)(cid:72)(cid:83)(cid:75)(cid:82)(cid:81)(cid:72)(cid:3)
+(cid:46)(cid:72)(cid:81)(cid:87)(cid:88)(cid:70)(cid:78)(cid:92)(cid:15)(cid:3) (cid:47)(cid:47)(cid:38)(cid:30)(cid:3) (cid:49)(cid:72)(cid:88)(cid:87)(cid:85)(cid:68)(cid:79)(cid:3) (cid:55)(cid:68)(cid:81)(cid:71)(cid:72)(cid:80)(cid:16)(cid:44)(cid:79)(cid:79)(cid:76)(cid:81)(cid:82)(cid:76)(cid:86)(cid:15)(cid:3) (cid:47)(cid:47)(cid:38)(cid:30)(cid:3) (cid:38)(cid:82)(cid:80)(cid:83)(cid:68)(cid:81)(cid:92)(cid:3)(cid:44)(cid:81)(cid:70)(cid:82)(cid:85)(cid:83)(cid:82)(cid:85)(cid:68)(cid:87)(cid:72)(cid:71)(cid:3)(cid:71)(cid:18)(cid:69)(cid:18)(cid:68)(cid:3)(cid:36)(cid:55)(cid:9)(cid:55)(cid:3)(cid:44)(cid:49)(cid:39)(cid:44)(cid:36)(cid:49)(cid:36)(cid:15)(cid:3)(cid:48)(cid:76)(cid:70)(cid:75)(cid:76)(cid:74)(cid:68)(cid:81)(cid:3)
+(cid:49)(cid:72)(cid:88)(cid:87)(cid:85)(cid:68)(cid:79)(cid:3)(cid:55)(cid:68)(cid:81)(cid:71)(cid:72)(cid:80)(cid:16)(cid:36)(cid:85)(cid:78)(cid:68)(cid:81)(cid:86)(cid:68)(cid:86)(cid:15)(cid:3)(cid:47)(cid:47)(cid:38)(cid:30)(cid:3)(cid:3)(cid:49)(cid:72)(cid:88)(cid:87)(cid:85)(cid:68)(cid:79)(cid:3)(cid:55)(cid:68)(cid:81)(cid:71)(cid:72)(cid:80)(cid:16) (cid:37)(cid:72)(cid:79)(cid:79)(cid:3) (cid:55)(cid:72)(cid:79)(cid:72)(cid:83)(cid:75)(cid:82)(cid:81)(cid:72)(cid:3) (cid:38)(cid:82)(cid:80)(cid:83)(cid:68)(cid:81)(cid:92)(cid:3) (cid:71)(cid:18)(cid:69)(cid:18)(cid:68)(cid:3) (cid:36)(cid:55)(cid:9)(cid:55)(cid:3) (cid:48)(cid:44)(cid:38)(cid:43)(cid:44)(cid:42)(cid:36)(cid:49)(cid:15)(cid:3)
+(cid:46)(cid:68)(cid:81)(cid:86)(cid:68)(cid:86)(cid:15)(cid:3)(cid:47)(cid:47)(cid:38)(cid:30)(cid:3)(cid:3)(cid:49)(cid:72)(cid:88)(cid:87)(cid:85)(cid:68)(cid:79)(cid:3)(cid:55)(cid:68)(cid:81)(cid:71)(cid:72)(cid:80)(cid:16)(cid:50)(cid:78)(cid:79)(cid:68)(cid:75)(cid:82)(cid:80)(cid:68)(cid:15)(cid:3)(cid:47)(cid:47)(cid:38)(cid:30)(cid:3) (cid:49)(cid:72)(cid:89)(cid:68)(cid:71)(cid:68)(cid:3)(cid:37)(cid:72)(cid:79)(cid:79)(cid:3)(cid:55)(cid:72)(cid:79)(cid:72)(cid:83)(cid:75)(cid:82)(cid:81)(cid:72)(cid:3)(cid:38)(cid:82)(cid:80)(cid:83)(cid:68)(cid:81)(cid:92)(cid:3)(cid:71)(cid:18)(cid:69)(cid:18)(cid:68)(cid:3)(cid:36)(cid:55)(cid:9)(cid:55)(cid:3)(cid:49)(cid:40)(cid:57)(cid:36)(cid:39)(cid:36)(cid:3)
+(cid:49)(cid:72)(cid:88)(cid:87)(cid:85)(cid:68)(cid:79)(cid:3) (cid:55)(cid:68)(cid:81)(cid:71)(cid:72)(cid:80)(cid:16)(cid:44)(cid:81)(cid:71)(cid:76)(cid:68)(cid:81)(cid:68)(cid:15)(cid:3) (cid:47)(cid:47)(cid:38)(cid:30)(cid:3) (cid:49)(cid:72)(cid:88)(cid:87)(cid:85)(cid:68)(cid:79)(cid:3) (cid:55)(cid:68)(cid:81)(cid:71)(cid:72)(cid:80)(cid:16) (cid:68)(cid:81)(cid:71)(cid:3) (cid:36)(cid:55)(cid:9)(cid:55)(cid:3) (cid:58)(cid:75)(cid:82)(cid:79)(cid:72)(cid:86)(cid:68)(cid:79)(cid:72)(cid:15)(cid:3) (cid:55)(cid:75)(cid:72)(cid:3) (cid:50)(cid:75)(cid:76)(cid:82)(cid:3) (cid:37)(cid:72)(cid:79)(cid:79)(cid:3) (cid:55)(cid:72)(cid:79)(cid:72)(cid:83)(cid:75)(cid:82)(cid:81)(cid:72)(cid:3)
+(cid:48)(cid:76)(cid:86)(cid:86)(cid:82)(cid:88)(cid:85)(cid:76)(cid:15)(cid:3) (cid:47)(cid:47)(cid:38)(cid:29)(cid:3) (cid:49)(cid:72)(cid:88)(cid:87)(cid:85)(cid:68)(cid:79)(cid:3) (cid:55)(cid:68)(cid:81)(cid:71)(cid:72)(cid:80)(cid:16)(cid:49)(cid:72)(cid:89)(cid:68)(cid:71)(cid:68)(cid:15)(cid:3) (cid:47)(cid:47)(cid:38)(cid:30)(cid:3) (cid:38)(cid:82)(cid:80)(cid:83)(cid:68)(cid:81)(cid:92)(cid:3) (cid:71)(cid:18)(cid:69)(cid:18)(cid:68)(cid:3) (cid:36)(cid:55)(cid:9)(cid:55)(cid:3) (cid:50)(cid:43)(cid:44)(cid:50)(cid:15)(cid:3) (cid:51)(cid:68)(cid:70)(cid:76)(cid:73)(cid:76)(cid:70)(cid:3) (cid:37)(cid:72)(cid:79)(cid:79)(cid:3) (cid:55)(cid:72)(cid:79)(cid:72)(cid:83)(cid:75)(cid:82)(cid:81)(cid:72)(cid:3)
+(cid:49)(cid:72)(cid:88)(cid:87)(cid:85)(cid:68)(cid:79)(cid:3)(cid:55)(cid:68)(cid:81)(cid:71)(cid:72)(cid:80)(cid:16)(cid:48)(cid:76)(cid:70)(cid:75)(cid:76)(cid:74)(cid:68)(cid:81)(cid:15)(cid:3)(cid:47)(cid:47)(cid:38)(cid:30)(cid:3)(cid:49)(cid:72)(cid:88)(cid:87)(cid:85)(cid:68)(cid:79)(cid:3)(cid:55)(cid:68)(cid:81)(cid:71)(cid:72)(cid:80)(cid:16) (cid:38)(cid:82)(cid:80)(cid:83)(cid:68)(cid:81)(cid:92)(cid:3)(cid:71)(cid:18)(cid:69)(cid:18)(cid:68)(cid:3)(cid:36)(cid:55)(cid:9)(cid:55)(cid:3)(cid:38)(cid:36)(cid:47)(cid:44)(cid:41)(cid:50)(cid:53)(cid:49)(cid:44)(cid:36)(cid:15)(cid:3)(cid:54)(cid:82)(cid:88)(cid:87)(cid:75)(cid:90)(cid:72)(cid:86)(cid:87)(cid:72)(cid:85)(cid:81)(cid:3)(cid:37)(cid:72)(cid:79)(cid:79)(cid:3)
+(cid:38)(cid:68)(cid:79)(cid:76)(cid:73)(cid:82)(cid:85)(cid:81)(cid:76)(cid:68)(cid:15)(cid:3)(cid:47)(cid:47)(cid:38)(cid:30)(cid:3)(cid:49)(cid:72)(cid:88)(cid:87)(cid:85)(cid:68)(cid:79)(cid:3)(cid:55)(cid:68)(cid:81)(cid:71)(cid:72)(cid:80)(cid:16)(cid:55)(cid:72)(cid:91)(cid:68)(cid:86)(cid:15)(cid:3)(cid:47)(cid:47)(cid:38)(cid:3) (cid:55)(cid:72)(cid:79)(cid:72)(cid:83)(cid:75)(cid:82)(cid:81)(cid:72)(cid:3) (cid:38)(cid:82)(cid:80)(cid:83)(cid:68)(cid:81)(cid:92)(cid:3) (cid:71)(cid:18)(cid:69)(cid:18)(cid:68)(cid:3) (cid:36)(cid:55)(cid:9)(cid:55)(cid:3) (cid:36)(cid:53)(cid:46)(cid:36)(cid:49)(cid:54)(cid:36)(cid:54)(cid:15)(cid:3) (cid:36)(cid:55)(cid:9)(cid:55)(cid:3)
+(cid:46)(cid:36)(cid:49)(cid:54)(cid:36)(cid:54)(cid:15)(cid:3) (cid:36)(cid:55)(cid:9)(cid:55)(cid:3) (cid:48)(cid:44)(cid:54)(cid:54)(cid:50)(cid:56)(cid:53)(cid:44)(cid:15)(cid:3) (cid:36)(cid:55)(cid:9)(cid:55)(cid:3) (cid:50)(cid:46)(cid:47)(cid:36)(cid:43)(cid:50)(cid:48)(cid:36)(cid:3) (cid:68)(cid:81)(cid:71)(cid:3)
+(cid:36)(cid:55)(cid:9)(cid:55)(cid:3) (cid:55)(cid:40)(cid:59)(cid:36)(cid:54)(cid:15)(cid:3) (cid:58)(cid:76)(cid:86)(cid:70)(cid:82)(cid:81)(cid:86)(cid:76)(cid:81)(cid:3) (cid:37)(cid:72)(cid:79)(cid:79)(cid:15)(cid:3) (cid:44)(cid:81)(cid:70)(cid:17)(cid:3) (cid:71)(cid:18)(cid:69)(cid:18)(cid:68)(cid:3) (cid:36)(cid:55)(cid:9)(cid:55)(cid:3)
+(cid:58)(cid:44)(cid:54)(cid:38)(cid:50)(cid:49)(cid:54)(cid:44)(cid:49)(cid:3) (cid:69)(cid:92)(cid:3) (cid:36)(cid:55)(cid:9)(cid:55)(cid:3) (cid:54)(cid:72)(cid:85)(cid:89)(cid:76)(cid:70)(cid:72)(cid:86)(cid:15)(cid:3) (cid:44)(cid:81)(cid:70)(cid:17)(cid:15)(cid:3) (cid:76)(cid:87)(cid:86)(cid:3) (cid:68)(cid:88)(cid:87)(cid:75)(cid:82)(cid:85)(cid:76)(cid:93)(cid:72)(cid:71)(cid:3)
+(cid:68)(cid:74)(cid:72)(cid:81)(cid:87)(cid:3)
+(cid:54)(cid:87)(cid:68)(cid:87)(cid:72)(cid:3) (cid:38)(cid:47)(cid:40)(cid:38)(cid:3)(cid:50)(cid:38)(cid:49)(cid:3)
+(cid:36)(cid:47)(cid:36)(cid:37)(cid:36)(cid:48)(cid:36)(cid:3) (cid:25)(cid:19)(cid:23)(cid:40)(cid:3)
+(cid:36)(cid:53)(cid:46)(cid:36)(cid:49)(cid:54)(cid:36)(cid:54)(cid:3) (cid:22)(cid:23)(cid:27)(cid:41)(cid:3)
+(cid:38)(cid:36)(cid:47)(cid:44)(cid:41)(cid:50)(cid:53)(cid:49)(cid:44)(cid:36)(cid:3) (cid:25)(cid:23)(cid:28)(cid:38)(cid:3)
+(cid:41)(cid:47)(cid:50)(cid:53)(cid:44)(cid:39)(cid:36)(cid:3) (cid:28)(cid:22)(cid:26)(cid:38)(cid:3)
+(cid:42)(cid:40)(cid:50)(cid:53)(cid:42)(cid:44)(cid:36)(cid:3) (cid:19)(cid:25)(cid:26)(cid:39)(cid:3)
+(cid:44)(cid:47)(cid:47)(cid:44)(cid:49)(cid:50)(cid:44)(cid:54)(cid:3) (cid:24)(cid:19)(cid:24)(cid:37)(cid:3)
+(cid:44)(cid:49)(cid:39)(cid:44)(cid:36)(cid:49)(cid:36)(cid:3) (cid:19)(cid:28)(cid:26)(cid:39)(cid:3)
+(cid:46)(cid:36)(cid:49)(cid:54)(cid:36)(cid:54)(cid:3) (cid:21)(cid:19)(cid:24)(cid:41)(cid:3)
+(cid:46)(cid:40)(cid:49)(cid:55)(cid:56)(cid:38)(cid:46)(cid:60)(cid:3) (cid:27)(cid:28)(cid:25)(cid:40)(cid:3)
+(cid:47)(cid:50)(cid:56)(cid:44)(cid:54)(cid:44)(cid:36)(cid:49)(cid:36)(cid:3) (cid:26)(cid:23)(cid:28)(cid:40)(cid:3)
+(cid:48)(cid:44)(cid:38)(cid:43)(cid:44)(cid:42)(cid:36)(cid:49)(cid:3) (cid:24)(cid:23)(cid:22)(cid:38)(cid:3)
+(cid:48)(cid:44)(cid:54)(cid:54)(cid:44)(cid:54)(cid:54)(cid:44)(cid:51)(cid:51)(cid:44)(cid:3) (cid:26)(cid:20)(cid:28)(cid:40)(cid:3)
+(cid:48)(cid:44)(cid:54)(cid:54)(cid:50)(cid:56)(cid:53)(cid:44)(cid:3) (cid:19)(cid:28)(cid:22)(cid:41)(cid:3)
+(cid:49)(cid:40)(cid:57)(cid:36)(cid:39)(cid:36)(cid:3) (cid:19)(cid:21)(cid:28)(cid:41)(cid:3)
+CN:10182016-5601
+Page 642 of 695
+
+Contract Id: 4924919
+(cid:54)(cid:76)(cid:74)(cid:81)(cid:68)(cid:87)(cid:88)(cid:85)(cid:72)(cid:3)(cid:51)(cid:68)(cid:74)(cid:72)(cid:18)(cid:36)(cid:55)(cid:9)(cid:55)(cid:16)(cid:21)(cid:20)(cid:54)(cid:55)(cid:36)(cid:55)(cid:40)(cid:3)
+(cid:51)(cid:68)(cid:74)(cid:72)(cid:3)(cid:23)(cid:3)(cid:82)(cid:73)(cid:3)(cid:23)(cid:3)
+Page 5 of 57 (cid:49)(cid:40)(cid:56)(cid:55)(cid:53)(cid:36)(cid:47)(cid:3)(cid:55)(cid:36)(cid:49)(cid:39)(cid:40)(cid:48)(cid:3)
+(cid:57)(cid:72)(cid:85)(cid:86)(cid:76)(cid:82)(cid:81)(cid:29)(cid:3)(cid:3)(cid:23)(cid:52)(cid:20)(cid:24)(cid:3)(cid:177)(cid:3)(cid:20)(cid:19)(cid:18)(cid:21)(cid:19)(cid:18)(cid:20)(cid:24)
+(cid:49)(cid:50)(cid:53)(cid:55)(cid:43)(cid:3)(cid:38)(cid:36)(cid:53)(cid:50)(cid:47)(cid:44)(cid:49)(cid:36)(cid:3) (cid:25)(cid:22)(cid:27)(cid:40)(cid:3)
+(cid:50)(cid:43)(cid:44)(cid:50)(cid:3) (cid:23)(cid:25)(cid:23)(cid:38)(cid:3)
+(cid:50)(cid:46)(cid:47)(cid:36)(cid:43)(cid:50)(cid:48)(cid:36)(cid:3) (cid:23)(cid:19)(cid:28)(cid:41)(cid:3)
+(cid:54)(cid:50)(cid:56)(cid:55)(cid:43)(cid:3)(cid:38)(cid:36)(cid:53)(cid:50)(cid:47)(cid:44)(cid:49)(cid:36)(cid:3) (cid:24)(cid:23)(cid:27)(cid:40)(cid:3)
+(cid:55)(cid:40)(cid:49)(cid:49)(cid:40)(cid:54)(cid:54)(cid:40)(cid:40)(cid:3) (cid:24)(cid:21)(cid:24)(cid:40)(cid:3)
+(cid:55)(cid:40)(cid:59)(cid:36)(cid:54)(cid:3) (cid:28)(cid:19)(cid:22)(cid:38)(cid:3)
+(cid:58)(cid:44)(cid:54)(cid:38)(cid:50)(cid:49)(cid:54)(cid:44)(cid:49)(cid:3) (cid:21)(cid:21)(cid:24)(cid:38)(cid:3)
+(cid:39)(cid:72)(cid:86)(cid:70)(cid:85)(cid:76)(cid:83)(cid:87)(cid:76)(cid:82)(cid:81)(cid:3) (cid:36)(cid:38)(cid:49)(cid:36)(cid:3)(cid:38)(cid:82)(cid:71)(cid:72)(cid:11)(cid:86)(cid:12)(cid:3)
+(cid:36)(cid:38)(cid:49)(cid:36)(cid:11)(cid:86)(cid:12)(cid:3) (cid:50)(cid:58)(cid:54)(cid:3)
+CN:10182016-5601
+Page 643 of 695
+
+AMENDMENT – RECIPROCAL COMPENSATION/PACIFIC BELL TELEPHONE COMPANY D/B/A SBC CALIFORNIA
+PAGE 1 OF 3
+SBC CALIFORNIA/NEUTRAL TANDEM – CALIFORNIA, LLC
+061004
+AMENDMENT
+TO INTERCONNECTION AGREEMENT
+BY AND BETWEEN
+PACIFIC BELL TELEPHONE COMPANY d/b/a SBC CALIFORNIA
+AND
+NEUTRAL TANDEM – CALIFORNIA, LLC
+WHEREAS, Neutral Tandem – California, LLC (“CLEC”) filed an advice letter seeking to adopt the
+provisions of the Interconnection Agreement between Pacific Bell Telephone Company d/b/a SBC
+California1 (“SBC California”) and MCImetro Access Transmission Services, LLC (“MCIm”);
+WHEREAS, CLEC and SBC California agreed to exempt from the adoption request the rates,
+terms and conditions set forth in Attachment Reciprocal Compensation and the Amendment Superseding
+Certain Reciprocal Compensation, Interconnection and Trunking Terms to such Agreement;
+WHEREAS, SBC California and CLEC are hereby filing this amendment (“Amendment”) to
+incorporate rates, terms and conditions relating to intercarrier compensation and provide terms and
+conditions for alternately billed services into the Parties’ Interconnection Agreement; and
+WHEREAS, pursuant to Resolution ALJ-181, this filing will become effective, absent rejection of
+the advice letter by the California Public Utilities Commission (“Commission”), thirty (30) days after the filing
+date of the advice letter to which this Amendment is appended (“Effective Date”).
+NOW THEREFORE, the Parties agree as follows:
+I. The Agreement is amended to add the Negotiated Appendix Intercarrier Compensation (After
+FCC Order No. 01-131 Agreeing to Exchange All ISP-Bound and Section 251(b)(5) Traffic at
+the FCC Rates in Certain States, Where Applicable) to such Agreement, which is attached
+hereto and incorporated herein by this reference.
+II. The Agreement is amended to add the Appendix Pricing - All Traffic to such Agreement, which
+is attached hereto and incorporated herein by this reference.
+III. EXCEPT AS MODIFIED HEREIN, ALL OTHER TERMS AND CONDITIONS OF THE
+UNDERLYING AGREEMENT SHALL REMAIN UNCHANGED.
+IV. In entering into this Amendment and carrying out the provisions herein, neither Party waives,
+but instead expressly reserves, all of its rights, remedies and arguments with respect to any
+orders, decisions, legislation or proceedings and any remands thereof and any other federal or
+state regulatory, legislative or judicial action(s), including, without limitation, its intervening law
+rights (including intervening law rights asserted by either Party via written notice predating this
+Amendment) relating to the following actions, which the Parties have not yet fully incorporated
+into this Agreement or which may be the subject of further government review: the United
+States Supreme Court’s opinion in Verizon v. FCC, et al, 535 U.S. 467 (2002); the D.C.
+Circuit’s decision in United States Telecom Association, et. al (“USTA”) v. FCC, 290 F.3d 415
+(D.C. Cir. 2002) and following remand and appeal, the D.C. Circuit’s March 2, 2004 decision in
+1 Pacific Bell Telephone Company, a California corporation, f/k/a SBC Pacific Bell Telephone Company, is now doing business in California as SBC
+California.
+Page 418 of 695
+
+AMENDMENT – RECIPROCAL COMPENSATION/PACIFIC BELL TELEPHONE COMPANY D/B/A SBC CALIFORNIA
+PAGE 2 OF 3
+SBC CALIFORNIA/NEUTRAL TANDEM – CALIFORNIA, LLC
+061004
+USTA v. FCC, Case No. 00-1012 (D.C. Cir. 2004); the FCC’s Triennial Review Order, released
+on August 21, 2003, In the Matter of Review of the Section 251 Unbundling Obligations of
+Incumbent Local Exchange Carriers, CC Docket No. 01-338, Implementation of the Local
+Competition Provisions of the Telecommunications Act of 1996, CC Docket No. 96-98,
+Deployment of Wireline Services Offering Advanced Telecommunications Capability, CC
+Docket No. 98-147 (FCC 03-36) and the FCC’s Biennial Review Proceeding which the FCC
+announced, in its Triennial Review Order, is scheduled to commence in 2004; the FCC’s
+Supplemental Order Clarification (FCC 00-183) (rel. June 2, 2000), in CC Docket 96-98; and
+the FCC’s Order on Remand and Report and Order in CC Dockets No. 96-98 and 99-68, 16
+FCC Rcd 9151 (2001), (rel. April 27, 2001) (“ISP Compensation Order”), which was remanded
+in WorldCom, Inc. v. FCC, 288 F.3d 429 (D.C. Cir. 2002), and as to the FCC’s Notice of
+Proposed Rulemaking on the topic of Intercarrier Compensation generally, issued In the
+Matter of Developing a Unified Intercarrier Compensation Regime, in CC Docket 01-92 (Order
+No. 01-132), on April 27, 2001 (collectively “Government Actions”). Notwithstanding anything
+to the contrary in this Agreement (including this and any other amendments to the Agreement),
+SBC California shall have no obligation to provide UNEs, combinations of UNEs, combinations
+of UNE(s) and CLEC’s own elements or UNEs in commingled arrangements beyond those
+required by the Act, including the lawful and effective FCC rules and associated FCC and
+judicial orders. Further, neither Party will argue or take the position before any state or federal
+regulatory commission or court that any provisions set forth in this Agreement and this
+Amendment constitute an agreement or waiver relating to the appropriate routing, treatment
+and compensation for Voice Over Internet Protocol traffic and/or traffic utilizing in whole or part
+Internet Protocol technology; rather, each Party expressly reserves any rights, remedies, and
+arguments they may have as to such issues including but not limited, to any rights each may
+have as a result of the FCC’s Order In the Matter of Petition for Declaratory Ruling that AT&T’s
+Phone-to-Phone IP Telephony Services are Exempt from Access Charges, WC Docket No.
+02-361 (rel. April 21, 2004). The Parties acknowledge and agree that SBC California has
+exercised its option to adopt the FCC ISP terminating compensation plan (“FCC Plan”) in
+California and as of the date of that election by SBC California, the FCC Plan shall apply to
+this Agreement, as more specifically provided for in this Amendment. If any action by any
+state or federal regulatory or legislative body or court of competent jurisdiction invalidates,
+modifies, or stays the enforcement of laws or regulations that were the basis or rationale for
+any rate(s), term(s) and/or condition(s) (“Provisions”) of the Agreement and this Amendment
+and/or otherwise affects the rights or obligations of either Party that are addressed by the
+Agreement and this Amendment, specifically including but not limited to those arising with
+respect to the Government Actions, the affected Provision(s) shall be immediately invalidated,
+modified or stayed consistent with the action of the regulatory or legislative body or court of
+competent jurisdiction upon the written request of either Party (“Written Notice”). With respect
+to any Written Notices hereunder, the Parties shall have sixty (60) days from the Written
+Notice to attempt to negotiate and arrive at an agreement on the appropriate conforming
+modifications to the Agreement. If the Parties are unable to agree upon the conforming
+modifications required within sixty (60) days from the Written Notice, any disputes between the
+Parties concerning the interpretation of the actions required or the provisions affected by such
+order shall be resolved pursuant to the dispute resolution process provided for in this
+Agreement.
+V. This Amendment is effective only for the term of the Agreement.
+VI. This Amendment shall be filed with and subject to approval by the Commission.
+Page 419 of 695
+
+AMENDMENT —RECIPROCAL COMPENSATION/PACIFIC SELLTELEPHONE COMPANY D/B/A SBCCALIFORNIA
+PAGE3OF3
+SBCCALIFORNIA/NEUTRAL TANDEM — CALIFORNIA, LLC
+061004
+IN WITNESS WHEREOF, the Parties hereto have caused this Amendment to be executed on the
+date shown below by their respective duly authorized representatives.
+-
+Neutral Tandem California, LLC Pacific Bell Telephone Company d/b/a SBC
+California by SBCTelecommunications, Inc., its
+auth
+By: By:
+Mshe Auinbauh
+Print Name: Print Name:
+Title: Title: «/President- Industry Markets
+29 5N
+JUN
+Date Signed:
+
+INTERCONNECTION AGREEMENT UNDER SECTIONS 251 AND 252
+OF THE TELECOMMUNICATIONS ACT OF 1996
+by and between
+PACIFIC BELL
+and
+MCIMETRO ACCESS TRANSMISSION
+SERVICES LLC
+Page 1 of 695
+
+GENERAL TERMS AND CONDITIONS
+PAGE 18 OF 51
+PACIFIC/MCIm
+21.9 PACIFIC participates at OBF to develop standardized methods and shall
+implement ordering and billing formats/processes consistent with industry
+guidelines as capabilities are deployed. Where such industry guidelines are not
+available or PACIFIC decides not to fully utilize industry guidelines, the Parties
+agree to comply with the applicable provisions of the change management
+process.
+21.10 For the purposes of establishing provisioning and billing service to MCIm, MCIm
+is required to provide to PACIFIC its PACIFIC-authorized and nationally
+recognized OCN for facilities-based business (interconnection and/or Unbundled
+Network Elements) in areas of California served by PACIFIC. The MCIm name
+associated with specific OCN must be consistent in areas of California served by
+PACIFIC.
+21.11 This Agreement, and any amendment or modification hereof, will be submitted to
+the Commission for approval in accordance with Section 252 of the Act.
+22. TERM AND TERMINATION
+*22.1 This Agreement will remain in effect for a term of three (3) years after the
+Effective Date and, unless terminated pursuant to Section 22.2 below, shall
+continue in full force and effect until a successor agreement is reached by the
+Parties in accordance with the requirements set forth in Section 22.4 below.
+22.2 Either Party may terminate this Agreement in the event that the other Party fails to
+perform a material obligation or materially breaches a material term of this
+Agreement and such failure or breach materially disrupts the operation of either
+Party's network and/or materially interferes with either Party's Customer service and
+fails to cure such material nonperformance or material breach within forty-five (45)
+days after written notice thereof.
+22.3 Upon termination of this Agreement in accordance with this Section 22:
+(a) each Party shall continue to comply with its obligations under Section 29.6
+(Confidentiality),
+(b) each Party shall promptly pay all amounts (including any late payment charges)
+owed under this Agreement, and
+(c) each Party's indemnification obligations shall survive.
+22.4 If, upon termination of this Agreement other than pursuant to Section 22.2, the
+Parties are negotiating a successor agreement, during such period each Party shall
+*represents a Non-Voluntary Arrangement.
+Page 18 of 695
+
+GENERAL TERMS AND CONDITIONS
+PAGE 19 OF 51
+PACIFIC/MCIm
+continue to perform its obligations and provide the services described herein that
+are to be included in the successor agreement until such time as a successor
+agreement becomes effective; provided, however, that if the Parties are unable to
+reach agreement prior to the termination of this Agreement, either Party has the
+right to submit this matter to the Commission for resolution. Until a successor
+agreement is reached or the Commission resolves the matter, whichever is sooner,
+the terms, conditions, rates and charges stated herein will continue to apply, subject
+to a true-up based on the Commission action or the new agreement, if any.
+22.5 Except as and to the extent set forth in this Agreement, no remedy set forth in this
+Agreement is intended to be exclusive and each and every remedy shall be
+cumulative and in addition to any other rights or remedies now or hereafter existing
+under applicable law or otherwise.
+23. DISCLAIMER OF REPRESENTATOINS AND WARRANTIES
+EXCEPT AS EXPRESSLY PROVIDED UNDER THIS AGREEMENT, NO PARTY
+MAKES OR RECEIVES ANY WARRANTY, EXPRESS OR IMPLIED, WITH
+RESPECT TO THE SERVICES, FUNCTIONS AND PRODUCTS IT PROVIDES
+UNDER OR CONTEMPLATED BY THIS AGREEMENT, AND THE PARTIES
+DISCLAIM THE IMPLIED WARRANTIES OF MERCHANTABILITY OR OF
+FITNESS FOR A PARTICULAR PURPOSE. ADDITIONALLY, NEITHER PACIFIC
+NOR MCIm ASSUMES RESPONSIBILITY WITH REGARD TO THE
+CORRECTNESS OF DATA OR INFORMATION SUPPLIED BY THE OTHER WHEN
+THIS DATA OR INFORMATION IS ACCESSED AND USED BY A THIRD PARTY.
+24. CHANGES IN CUSTOMER LOCAL EXCHANGE SERVICE PROVIDER
+SELECTION
+Each Party will abide by applicable state or federal laws and regulations in obtaining
+Customer authorization prior to changing Customer’s local service provider to itself and
+in assuming responsibility for any applicable charges as specified in Section 258(b) of the
+Telecommunications Act of 1996. The Parties shall make any required authorization
+available to each other upon reasonable request and at no charge. Only an Customer can
+initiate a challenge to a change in its local exchange service provider. If an Customer
+notifies PACIFIC or MCIm that the Customer requests local exchange service, the Party
+receiving such request shall be free to immediately provide service to such Customer.
+When an Customer changes or withdraws authorization, the serving Party shall release
+customer-specific facilities in accordance with the Customer’s direction or that of the
+Customer’s authorized agent. Further, when an Customer abandons the premise,
+PACIFIC is free to reclaim the resold and unbundled network element facilities from
+MCIm for use by another customer and is free to issue service orders required to reclaim
+such facilities.
+25. SEVERABILITY
+*represents a Non-Voluntary Arrangement.
+Page 19 of 695
+
+REDACTED - FOR PUBLIC INSPECTION
+CERTIFICATION
+I, Chris Bare, herby certify under penalty of perjury that I am the President of Bare
+Telecom LLC; that I have read the foregoing document and know the contents thereof; and that
+the it is true of my own knowledge, except to those matters therein stated upon information and
+belief, and as to those matters I believe them to be true.
+Certified this __16__ day of November, 2021.
+_C_h_r_i(cid:86)_ _B__a_r_e________________
+Chris Bare
+President
+Bare Telecom LLC

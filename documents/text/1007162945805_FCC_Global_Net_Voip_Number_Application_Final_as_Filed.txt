@@ -1,0 +1,306 @@
+October 7, 2021
+Via ECFS Filing
+REDACTED FOR PUBLIC INSPECTION
+Secretary, Federal Communications Commission
+Washington, DC 20554
+Attn: Wireline Competition Bureau
+RE: Request for Confidential Treatment of Filing of Global Net Communications, Inc.; Application
+of Global Net Communications, Inc. for Authorization to Obtain Numbering Resources
+Pursuant to Section 52.15(g) of the Commission's Rules, WC Docket No. 20-
+Dear Ms. Dortch,
+Pursuant to Section §52.l5(g)(3)(i) of the Commission's Rules,1 Global Net Communications, Inc. ("Global
+Net") hereby submits its Application for Authorization to Obtain Numbering Resources.
+Global Net respectfully requests that, pursuant to Sections §0.457 and §0.459 of the Commission's
+Rules,2 the Commission withhold from public inspection and accord confidential treatment to Exhibit A
+to the application because that document contains sensitive trade secrets and commercial information
+that falls within Exemption 4 of the Freedom of Information Act ("FOIA").3 Moreover, Global Net would
+suffer substantial competitive harm if this information were disclosed.
+Exhibit A is accordingly marked with the header "SUBJECT TO REQUEST FOR CONFIDENTIAL TREATMENT -
+NOT FOR PUBLIC INSPECTION."
+In support of this request, Global Net hereby states the following:
+1. IDENTIFICATION OF THE SPECIFIC INFORMATION FOR WHICH CONFIDENTIAL TREATMENT IS
+SOUGHT.
+Global Net seeks confidential treatment of Exhibit A to its Application.
+2. DESCRIPTION OF CIRCUMSTANCES GIVING RISE TO THE SUBMISSION.
+Global Net is submitting as Exhibit A the agreement between its carrier partner as proof of
+Global Net's facilities readiness as required by Section 52. 15(g)(3)(i)(D) of the Commission's
+Rules.
+1 47 C.F.R. § 52.15(g).
+2 47 C.F.R. § 0.457 & §0.459.
+3 See 5 U.S.C. § 552(b)(4). Public disclosure is not required for “trade secrets and commercial or financial
+information obtained from a person and privileged or confidential.”
+
+Page 2 of 3
+3. EXPLANATION OF THE DEGREE TO WHICH THE INFORMATION IS COMMERCIAL OR FINANCIAL,
+OR CONTAINS A TRADE SECRET OR IS PRIVILEGED.
+The information for which Global Net seeks confidential treatment contains sensitive
+commercial information "which would customarily be guarded from competitors". Exhibit A
+describes the agreement between Global Net and its carrier partner and contains proprietary
+commercial information concerning Global Net's network, customers, and services.
+4. EXPLANATION OF THE DEGREE TO WHICH THE INFORMATION CONCERNS A SERVICE THAT IS
+SUBJECT TO COMPETITION.
+Exhibit A contains information relating to commercial matters which can be used by other
+interconnected VoIP providers to compromise Global Net’s position in the highly competitive
+interconnected VoIP business sector. Detailed operations and commercial information of the
+type provided by Global Net could compromise Global Net's position in this highly competitive
+industry. Accordingly, release of this information would result in substantial competitive harm
+to Global Net.
+5. EXPLANATION OF HOW DISCLOSURE OF THE INFORMATION COULD RESULT IN SUBSTANTIAL
+COMPETITIVE HARM.
+Competitors could use Global Net's proprietary commercial and operational information to
+Global Net's detriment as they would gain access to sensitive information concerning Global
+Net’s commercial agreements, as well as information as to how Global Net provides its services.
+The prices and terms for the provision of such services are a substantial differentiator between
+competing carriers. Therefore, disclosure of the Carrier Agreement would result in significant
+competitive harm to Global Net’s carrier partner. This information is not normally disclosed to
+the public.
+6. IDENTIFICATION OF ANY MEASURES TAKEN BY THE SUBMITTING PARTY TO PREVENT
+UNAUTHORIZED DISCLOSURE.
+Global Net has not distributed the information in Exhibit A to the public; Global Net is
+prohibited by contract from publicly disclosing the Carrier Agreement, except as expressly
+authorized by the carrier partner.
+7. IDENTIFICATION OF WHETHER THE INFORMATION IS AVAILABLE TO THE PUBLIC AND THE
+EXTENT OF ANY PREVIOUS DISCLOSURE OF THE INFORMATION TO THIRD PARTIES.
+Global Net does not believe that the Carrier Agreement is available to the public or that the
+Carrier Agreement has ever been disclosed to third parties absent the protection of a non-
+disclosure agreement regarding their contents.
+
+Page 3 of 3
+8. JUSTIFICATION OF THE PERIOD DURING WHICH THE SUBMITTING PARTY ASSERTS THAT
+MATERIAL SHOULD NOT BE AVAILABLE FOR PUBLIC DISCLOSURE.
+Global Net requests that Exhibit A be withheld from public disclosure indefinitely. Global Net
+and its carrier partner intend for the Carrier Agreement to remain in effect indefinitely and
+therefore any disclosure of the Carrier Agreement or their substance would cause competitive
+harm to Global Net’s carrier partner regarding of the timing of the disclosure.
+9. OTHER INFORMATION THAT GLOBAL NET BELIEVES MAY BE USEFUL IN ASSESSING WHETHER
+ITS REQUEST FOR CONFIDENTIALITY SHOULD BE GRANTED.
+The information concerns Global Net's proprietary network information, related to current and
+planned commercial and operational information, and as such, is commercially sensitive.
+For the foregoing reasons, Global Net respectfully requests the Carrier Agreement be granted
+confidential status and withheld from public inspection.
+Any questions you may have regarding this filing should be directed to my attention at 407-740-3005 or
+via email to swarren@inteserra.com. Thank you for your assistance in this matter.
+Sincerely,
+/s/Sharon R. Warren
+Sharon R. Warren
+Consultant
+tms: FCx2101
+SW/mp
+
+Before the
+FEDERAL COMMUNICATIONS COMMISSION
+Washington, D.C. 20554
+In the Matter of )
+)
+Global Net Communications, Inc. )
+For Authorization to Obtain Numbering ) WC Docket No. 21-________
+Resources Pursuant to Section 52.15(g) of )
+the Commission’s Rules )
+APPLICATION OF GLOBAL NET CORPORATION FOR
+AUTHORIZATION TO OBTAIN NUMBERING RESOURCES
+Global Net Communications, Inc. (“Global Net” or “Company”), pursuant to Section 52.15(g)(3)(i)
+of the Commission’s Rules, respectfully requests authorization to obtain numbering resources as described
+below.
+Under the Commission’s Numbering Order,1 an interconnected VoIP provider may obtain numbering
+resources from the Numbering Administrator upon a showing that it is authorized to provide service in the
+area for which the numbering resources are requested. Such authorization may be obtained upon an
+application to the Commission containing the information detailed in Section 52.15.(g)(3)(i)(A)-(G) of the
+Commission’s Rules. Global Net hereby requests the Commission grant it that authorization, which is also in
+part being requested to participate in STIR/SHAKEN. In support of this application, Global Net provides the
+following information:
+1 Numbering Policies for Modern Communications, FCC 15-70 (rel. June 22, 2015).
+
+I. INFORMATION REQUIRED BY SECTION 52.15(g)(3)(i)
+A. § 52.15(g)(3)(i)(A)
+Name: Global Net Communications, Inc.
+Address: 2040 S. Alma School Road
+Suite 1499
+City: Chandler
+State: AZ
+ZIP Code: 85286
+Telephone: 480-503-9298
+Contact for Regulatory Requirements, Compliance, 911 and Law Enforcement:
+Name: Christian Banister, President
+Address: 2040 S. Alma School Road
+Suite 1499
+City: Chandler
+State: AZ
+ZIP Code: 85286
+Telephone: 480-503-9298
+Email: christian@globalnetcommunications.com
+B. § 52.15(g)(3)(i)(B)
+Global Net hereby acknowledges that authorization to obtain numbering resources under
+Section 52.15(g) of the Commission’s Rules is subject to compliance with applicable Commission numbering
+rules as well as to the numbering authority delegated to the states. The Company hereby also acknowledges
+that grant of the authorization sought by this application is subject to compliance with industry guidelines and
+practices regarding numbering, as applicable to telecommunications carriers. The numbering resources that
+are the subject of this Application will be used to provide interconnected VoIP services initially in Arizona,
+with expansion into bordering states such as Nevada after its initial request in Arizona. Accordingly, to the
+extent required, Global Net requests the Commission grant it authority to obtain numbering resources in all
+states.
+
+C. § 52.15(g)(3)(i)(C)
+Global Net hereby acknowledges that it must file requests for numbers with the relevant state
+commissions at least (30) days before requesting numbers from the Numbering Administrators.
+D. § 52.15(g)(3)(i)(D)
+Global Net submits that it is capable of providing service within (60) days of the numbering
+resources activation date in accordance with Commission Rule Section 52.15(g)(2)2. The Company was
+founded in 1995 by a highly experienced telecommunications professional with skilled technical experience
+in providing these services. Global Net currently provides small carriers access to Line Information Databases
+(LIDB) in real time. The Company is expanding its service offerings to include regulated telecom services
+utilizing the numbering resources they will secure once this Authority is granted. The Company plans to
+initially offer services in the state of Arizona utilizing the facilities of its CLEC partner with which it has an
+agreement in place for routing traffic to the PSTN. The Company has entered into an Interconnection
+Agreement with a CLEC partner to provide interconnection to the PSTN for routing its VoIP traffic to ILECs.
+A copy of this agreement is attached as Exhibit A to this Application. Global Net respectfully requests this
+agreement be accorded confidential treatment, pursuant to §0.459 of the Commission’s rules.3 As described in
+the agreement, the CLEC partner will host the Company’s numbers on its switches and provide connectivity
+to the PSTN for inbound calls to Global Net numbers. As Exhibit B, Global Net provides a current
+interconnection agreement between its CLEC partner and an incumbent local exchange carrier (“ILEC”).
+E. § 52.15(g)(3)(i)(E)
+Global Net hereby certifies that it complies with its Universal Service Fund contribution
+obligations under 47 CFR part 54, subpart H, its Telecommunications Relay Service contribution obligations
+under 47 CFR § 64.604(c)(5)(iii), its North American Numbering Plan and Local Number Portability
+2 47 C.F.R. §52.15(g)(2).
+3 47 C.F.R. §0.459. The agreement contains trade secret information that is not publicly available, the disclosure of
+which would cause economic harm to Global Net.
+
+Administration contribution obligations under 47 CFR §§ 52.17 and 52.32, its obligations to pay regulatory
+fees under 47 CFR § 1.1154, and its 911 obligations under 47 CFR part 9.
+F. § 52.15(g)(3)(i)(F)
+Global Net hereby certifies that it has the financial, managerial, and technical expertise to
+provide reliable service. It is financially stable, led by a strong, experienced management team with
+substantial managerial experience in the telecommunications industry and has sufficient technical expertise
+and infrastructure in place to provide reliable numbering services. With its deep knowledge of the telephone
+network, the Company plans to deploy that experience, including its least cost routing engine, and offer small
+and medium sized companies the ability to move away from TDM PSTN access to an all-IP PSTN
+connection. In the Company’s opinion, there is a lack of available solutions that offer competitive pricing, as
+well as guidance and support to help small businesses implement an all-IP PSTN connection. It believes it can
+effectively address this problem. Global Net has already established and certified with their CLEC partner the
+necessary trunks required to support the service. The management team has extensive knowledge and
+experience in processing LNP orders and other processes required to successfully route calls between other
+carriers and interconnected VoIP providers. Global Net’s key management and technical personnel are listed
+below. None of the identified personnel are being or have been investigated by the Commission or any law
+enforcement or regulatory agency for failure to comply with any law, rule, or order.
+Key Personnel:
+o Christian Banister – President
+o Scott Lake – VP of Network Engineering
+o Max Banister – Director of Software Engineering & Embedded Systems
+G. § 52.15(g)(3)(i)(G)
+Global Net hereby certifies that no party to this application is subject to a denial of Federal
+benefits pursuant to Section 5301 of the Anti-Drug Abuse Act of 1988, 21 U.S.C. § 862.
+
+II. ACKNOWLEDGEMENT OF CONDITIONS IN SECTION 52.15(g)(3)(iv)
+As required by Section 52.15(g)(3)(iv), Global Net will maintain the accuracy of all contact
+information and certifications in this Application and will file a correction with the Commission and each
+applicable state within 30 days of any changes. Global Net will also furnish accurate regulatory and
+numbering contact information to each state commission when requesting numbers in that state.
+III. CONCLUSION
+Pursuant to Section 52.15(g)(3)(i) of the Commission’s Rules, Global Net Communications,
+Inc. respectfully requests the Commission grant this Application for authorization to obtain numbering
+resources directly from the Numbering Administrators.
+Respectfully submitted,
+/s/ Sharon R. Warren
+Sharon R. Warren, Consultant
+Inteserra Consulting Group, Inc.
+151 Southhall Lane, Suite 450
+Maitland, FL 32751
+Submitted on October 7, 2021
+
+Exhibit A
+AGREEMENT BETWEEN GLOBAL NET
+COMMUNICATIONS, INC. AND CARRIER PARTNER
+(Confidential exhibit submitted separately)
+
+Exhibit B
+AGREEMENT BY AND BETWEEN PEERLESS
+AND
+CENTURYLINK - AZ
+
+INTERCONNECTION AGREEMENT
+TERMS AND CONDITIONS FOR INTERCONNECTION,
+UNBUNDLED NETWORK ELEMENTS, ANCILLARY SERVICES,
+AND RESALE OF TELECOMMUNICATIONS SERVICES
+BETWEEN
+Qwest Corporation
+and
+Peerless Network of Arizona, LLC
+For the State of Arizona
+Agreement Number
+CDS-090513-0001
+
+Section 1
+General Terms
+Section 1.0 - GENERAL TERMS
+1.1 This Agreement for Interconnection, Unbundled Network Elements, ancillary services,
+and resale of Telecommunications Services is between Peerless Network of Arizona, LLC, a
+Colorado Corporation with offices at 225 West Washingon Street, Suite 1285, Chicago, IL
+60606 and Qwest Corporation (Qwest), a Colorado Corporation with offices at 1801 California
+Street, Denver, Colorado 80202, pursuant to Section 252(f) of the Telecommunications Act of
+1996, for purposes of fulfilling Qwest's obligations under Sections 222, 251(a), (b), and (c), 252,
+and other relevant provisions of the Act and the rules and regulations promulgated there under.
+1.2 Intentionally Left Blank.
+1.3 This Agreement sets forth the terms, conditions and pricing under which Qwest
+will provide to CLEC network Interconnection, access to Unbundled Network Elements, ancillary
+services, and Telecommunications Services available for resale within the geographical areas in
+which Qwest is providing local Exchange Service at that time, and for which Qwest is the
+incumbent Local Exchange Carrier within the state of Arizona, for purposes of providing local
+Telecommunications Services.
+1.4 Intentionally Left Blank.
+1.5 Intentionally Left Blank.
+1.6 Intentionally Left Blank.
+1.7 Intentionally Left Blank
+1.8 With respect to the terms and provisions of this Agreement, Qwest has
+negotiated the Agreement in its entirety, and the inclusion of any particular provision, or rate,
+term and condition, is not evidence of the reasonableness thereof when considered apart from
+all other provisions of the Agreement.
+May 13, 2009/mcd/Peerless Network/AZ/CDS-090513-0001
+Qwest Negotiations Template, December 29, 2008
+1
+
+Section 5
+Terms and Conditions
+5.1.3.4 It is the responsibility of either Party to inform its End User Customers of
+service impacting impairment that may result in discontinuance of service as soon as the
+Party receives notice of same.
+5.1.4 Each Party is solely responsible for the services it provides to its End User
+Customers and to other Telecommunications Carriers. This provision is not intended to limit the
+liability of either Party for its failure to perform under this Agreement.
+5.1.5 The Parties shall work cooperatively to minimize fraud associated with third-
+number billed calls, calling card calls, and any other services related to this Agreement.
+5.1.6 Nothing in this Agreement shall prevent either Party from seeking to recover the
+costs and expenses, if any, it may incur in (a) complying with and implementing its obligations
+under this Agreement, the Act, and the rules, regulations and orders of the FCC and the
+Commission, and (b) the development, modification, technical installation and maintenance of
+any systems or other infrastructure which it requires to comply with and to continue complying
+with its responsibilities and obligations under this Agreement. Notwithstanding the foregoing,
+Qwest shall not assess any charges against CLEC for services, facilities, Unbundled Network
+Elements, ancillary services and other related work or services covered by this Agreement,
+unless the charges are expressly provided for in this Agreement. All services and capabilities
+currently provided hereunder (including resold Telecommunications Services, Unbundled
+Network Elements, UNE Combinations and ancillary services) and all new and additional
+services or Unbundled Network Elements to be provided hereunder, shall be priced in
+accordance with all applicable provisions of the Act and the rules and orders of the Federal
+Communications Commission and orders of the Commission.
+5.2 Term of Agreement
+5.2.1 This Agreement shall become effective on the date of Commission Approval.
+This Agreement shall be binding upon the Parties for a term of three (3) years and shall expire
+on September 20, 2012.
+5.2.2 Upon expiration of the term of this Agreement, this Agreement shall continue in
+full force and effect until superseded by a successor agreement in accordance with this Section
+5.2.2. Any Party may request negotiation of a successor agreement by written notice to the
+other Party no earlier than one hundred sixty (160) Days prior to the expiration of the term, or
+the Agreement shall renew on a month to month basis. The date of this notice will be the
+starting point for the negotiation window under Section 252 of the Act. This Agreement will
+terminate on the date a successor agreement is approved by the Commission. However,
+nothing relieves CLEC from fulfilling the obligations incurred under the prior Agreement.
+5.3 Proof of Authorization
+5.3.1 Each Party shall be responsible for obtaining and maintaining Proof of
+Authorization (POA) as required by applicable federal and state law, as amended from time to
+time.
+5.3.2 The Parties shall make POAs available to each other upon request in the event
+of an allegation of an unauthorized change in accordance with all Applicable Laws and rules
+and shall be subject to any penalties contained therein.
+May 13, 2009/mcd/Peerless Network/AZ/CDS-090513-0001
+Qwest Negotiations Template, December 29, 2008
+28

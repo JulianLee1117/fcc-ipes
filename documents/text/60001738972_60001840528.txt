@@ -1,0 +1,107 @@
+Before the
+Federal Communications Commission
+Washington, D.C. 20554
+In the Matter of )
+)
+AT&T Corp., Applicant ) WC Docket No. 16-_____
+)
+For Authorization to Obtain Numbering )
+Resources Pursuant to Section 52.15(g) of )
+the Commission’s Rules )
+AMENDED APPLICATION OF AT&T CORP. FOR
+AUTHORIZATION FOR NUMBER AUTHORIZATION
+AT&T Corp. (“AT&T”), a current provider of interconnected voice over internet protocol
+(“iVoIP”) service, files this amended application with the Federal Communications Commission
+(the “Commission”) for authorization to acquire telephone numbers directly from the North
+American Numbering Plan Administrator and the Pooling Administrator (the “Numbering
+Administrators”) pursuant to Commission rule section 52.15(g)(3).1 AT&T provides the
+following information in support of its application:
+1. Company Information. AT&T’s address is One AT&T Way, Bedminster, NJ 07921.
+AT&T does not have a general corporate telephone number. For purposes of this application,
+inquiries pertaining to issues associated with 9-1-1, law enforcement, and general compliance
+with Commission rules can be directed to Joseph P. Marx, 1120 20th Street NW, Washington,
+DC 20036, 202-457-2107.
+2. Acknowledgements. AT&T acknowledges that:
+a. grant of the authorization sought by this application is subject to compliance with
+applicable Commission numbering rules, numbering authority delegated to the States, and
+industry guidelines and practices regarding numbering as applicable to telecommunications
+1 47 C.F.R. § 52.15(g)(3).
+1
+
+carriers; and
+b. it must file requests for numbers with the relevant State commissions at least thirty
+(30) days before requesting numbers from the Numbering Administrators.
+3. Service Readiness.
+a. AT&T is capable of providing iVoIP service within sixty (60) days of the numbering
+resources activation date in accordance with Commission Rule Section 52.15(g)(2)2 because it
+owns and operates facilities for the provision of iVoIP services and has provided iVoIP services
+for over ten (10) years and continues to providethose services currently. AT&T’s iVoIP
+portfolio includes AT&T IP Flexible Reach, AT&T Voice DNA® and AT&T Voice DNA®
+Remote Worker, AT&T Voice DNA®for Small Business, AT&T IP Toll-Free (AT&T IPTF),
+Hosted Voice Services (HVS), and Voice Connection. These services are described in the
+AT&T Business Voice over IP Services Guide, which can be accessed at
+http://serviceguidenew.att.com/sg_CustomPreviewer?attachmentId=00P1A00000pFEDNUA4.
+AT&T contributes to the Universal Services Fund (“USF”) and Telecommunications Relay
+Services Fund (“TRSF”) due to its provision of these services, which are offeredover multiple
+sales channels, including via the web at http://resources.att.com/ip-networking.
+b. AT&T owns and operates network facilities by which service is provided to
+customers of U-verse iVoIP service and AT&T’s business iVoIP offerings referenced above.
+Numbers acquired directly from the Numbering Administrators will be used for customers of U-
+verse service providedover these facilities and potentially for customers of AT&T’s business
+iVoIP service provided over these facilities. AT&T currently acquires numbers from an affiliate
+for its business iVoIP service, and AT&T’s affiliate, SBC Internet Services (“SBC-IS”), acquired
+2 47 C.F.R. § 52.15(g)(2).
+2
+
+numbers for U-verse iVoIP service directly from the Numbering Administrators via Commission
+waiver3 until itexpired on the effective date of the rules adopted in the Commission’s VoIP
+numbering Report and Order.4 Via asoon-to-be-completed merger of SBC-IS into AT&T,
+AT&T will hold the operating company number (“OCN”) previously used by SBC-IS to acquire
+numbers directly from the Numbering Administrators andwill use this OCN to acquire numbers
+directly from the Numbering Administrators following grant of this application.
+4. Certifications. AT&T certifies to the following, supported by the attached certification of
+James F. Dionne, AT&T’s Assistant Vice President—Accounting:
+a. AT&T complies with its USF contribution obligations under Commission Rule Part
+54,5 its TRSF contribution obligations under Commission Rule Section 64.604(c)(5)(iii),6 its
+NANP and LNP administration contribution obligations under Commission Rule Sections 52.17
+and52.32,7 its obligations to pay regulatory fees under Commission Rule Section 1.1154,8 and
+its 911 obligations under Commission Rule Part 9.9
+b. AT&T possesses the financial, managerial, and technical expertise to provide reliable
+iVoIP service. Key management and technical personnel include, among others:
+3 See Administration of the North American Numbering Plan, CC Docket No. 99-200, Order, 20
+FCC Rcd 2957 (2005).
+4 See Numbering Policies for Modern Communications, et al, WC Docket No. 13-97, Report and
+Order, 30 FCC Rcd 6839, 6876 n. 269 (2015).
+547 C.F.R. Part 54, Subpart H.
+647 C.F.R. § 64.604(c)(5)(iii).
+747 C.F.R. §§ 52.17,52.32.
+847 C.F.R. § 1.1154.
+947 C.F.R. Part 9.
+3
+
+Richard Hubbard Senior VP - Networking Product Management
+Veronica Bloodworth Senior VP - Construction and Engineering
+Juan Flores Senior VP - Technology Mgmt and Operations
+Scott Mair Senior VP - Technology Planning and Engineering
+James F. Dionne Assistant Vice President –Accounting
+None of thesepersonnel are being or have been investigated by the Commission or any law
+enforcement or regulatory agency for failure to comply with any law, rule, or order.
+c. No party to the application, as defined in Commission rule section 1.2002(b), is
+subject to a denial of Federal benefits pursuant to section 5301 of the Anti-Drug Abuse Act of
+1988.
+Pursuant to Commission Rule Section 52.15(g)(3), AT&T respectfully requests the
+Commission authorize it to obtain numbering resources directly from the Numbering
+Administrators.
+May 4, 2016 Respectfully submitted,
+__________________
+Robert Vitanza
+Gary L. Phillips
+David Lawson
+AT&T Services, Inc.
+208 S. Akard St
+Rm 2914
+Dallas, TX 75002
+(214) 757-3357 (Phone)
+(214) 746-2213 (Fax)
+robert.vitanza@att.com
+4

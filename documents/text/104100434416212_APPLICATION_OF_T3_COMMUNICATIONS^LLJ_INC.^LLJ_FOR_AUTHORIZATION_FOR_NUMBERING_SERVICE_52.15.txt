@@ -1,0 +1,187 @@
+Before the
+FEDERAL COMMUNICATIONS COMMISSION
+Washington, D.C. 20554
+In the Matter of
+T3 Communications, Inc. (NV)
+FRN: 0025998519 WC Docket No. 21- ________
+For Authorization to Obtain Numbering
+Resources Pursuant to Section 52.15(g) of
+The Commission's Rules
+_____________________________________/
+APPLICATION OF T3 COMMUNICATIONS, INC., FOR AUTHORIZATION
+TO OBTAIN NUMBERING RESOURCES
+T3 Communications, Inc., (“T3”), pursuant to Section 52.15(g)(3)(i) of the Commission’s Rules,
+respectfully requests authorization to obtain numbering as described below. Under the
+Commission's Numbering Order,1 an interconnected VoIP provider may obtain numbering
+resources from the Numbering Administrator upon a showing that it is authorized to provide
+service in the area for which the numbering resources are requested. Such authorization may be
+obtained upon an application to the Commission containing the information detailed in Section
+52.15 (g)(3)(i)(A) to (G) of the Commission’s Rules. T3 hereby requests the Commission grant it
+that authorization. In support of this application, T3 provides the following information in support
+of this application:
+I. SECTION 52.15(g)(3)(i) INFORMATION.
+A. § 52.15(g)(3)(i)(A):
+T3 Communications, Inc.
+FRN: 0025998519
+825 W. Bitters, Suite 104
+San Antonio, Texas 78216
+A Nevada corporation
+Tel: (210) 438-8647
+1 Numbering Policies for Modern Communications, FCC 15-70 (rel. June 22, 2015)
+1
+
+Contact for Regulatory Compliance and 911/CALEA/Law Enforcement:
+Mr. Kenneth “Ken” E. Ryon, CTO
+2301 S Bagdad Rd,
+Cedar Park, TX 78613
+Tel: (210) 438-8647
+Direct: (512) 582-2111
+Email: k.ryon@t3com.net
+B. § 52.15(g)(3)(i)(B): T3 hereby acknowledges that authorization to obtain numbering
+resources under Section 52.15(g) of the Commission's Rules is subject to compliance
+with applicable Commission numbering rules as well as to the numbering authority
+delegated to the states. The Company further acknowledges that this authorization is
+subject to compliance with industry guidelines and practices regarding numbering, as
+applicable to telecommunications carriers. The numbering resources that are the subject
+of this Application will be used to provide interconnected VoIP services in the
+following states: Texas and Florida2 primarily and additionally Alabama, Arkansas,
+Arizona, California, Colorado, Connecticut, Delaware, District of Columbia, Georgia,
+Hawaii, Idaho, Illinois, Indiana, Iowa, Kentucky, Louisiana, Maine, Maryland,
+Massachusetts, Michigan, Minnesota, Missouri, Mississippi, Montana, North Carolina,
+New Jersey, Nevada, New York, Ohio, Oklahoma, Oregon, Pennsylvania, South
+Carolina, Tennessee, Utah, Virginia, U.S. Territory of Puerto Rico, Washington, and
+Wisconsin.
+C. § 52.15(g)(3)(i)(C): T3 acknowledges that it must file requests for numbers with the
+relevant state commission(s) at least 30 days before requesting numbers from the
+Numbering Administrators.
+D. § 52.15(g)(3)(i)(D): T3 hereby establishes its capability to provide service within sixty
+(60) days of the numbering resources activation date. T3 is an experienced
+interconnected VoIP provider enabling messaging and network services to businesses
+2 T3 through its Florida subsidiary has recently acquired a company holding CLEC certification in the State of Florida
+and is in the process of transitioning this entity into the group of T3 holdings for use with Number Services within the
+State of Florida. This will support its Interconnected VoIP and other communications services within the state.
+2
+
+located in the United States. T3 has thousands of customers that range from residential
+end users to small, medium and large businesses. T3 has an agreement in place with
+Onvoy, LLC for the termination of its traffic (FRN:0004323028). This is through
+Onvoy’s subsidiary Inteliquent. Onvoy is a Minnesota limited liability company, is a
+wholly owned, direct subsidiary of Communications Infrastructure Investments, LLC
+(CII), a Delaware limited liability company. Onvoy is authorized at a minimal to
+provide local service in the District of Columbia and in every state except Alaska, and
+West Virginia. Onvoy has two subsidiaries that provide domestic telecommunications
+services: Zayo Enterprise Networks, LLC (ZEN) and Minnesota Independent Equal
+Access Corporation, ZEN provides telecommunications services in Colorado, Idaho,
+Indiana, Michigan, Minnesota, Ohio, Tennessee and Washington. MIEAC provides
+centralized equal access services in Minnesota and North Dakota. Onvoy has multiple
+interconnection agreements with incumbent local exchange carriers nationwide to carry
+voice traffic among access tandems and terminate to end user customers. T3 will
+interconnect with and broadcast the appropriate carriers’ tandem platforms for the
+purposes of managing all codes assigned to Envoy OCNs. T3 has 809 Telephone
+Numbers (TNs) through Onvoy.
+T3 additionally has an agreement in place with Bandwidth Inc. (NASDAQ: BAND)
+(FRN: 0015443773), an Interconnected VoIP Provider and CPaaS provider in the
+industry that owns and operates a nationwide IP voice network in the U.S. T3 has 9,584
+DIDs through Bandwidth.
+T3 additionally has an agreement in place with NetRio, LLC (FRN: 0022477103).
+NetRio is a regional Interconnected VoIP Provider in Texas. T3 has 70 DIDs through
+NetRio.
+T3 has entered into agreements and achieved full OSS integration with carriers for
+access to DIDs. These are: Inteliquent./Onvoy; Bandwidth and NetRio. With these
+agreements in place, these carriers will provide PSTN connectivity for inbound calls to
+3
+
+these numbers. T3 is charged the tariff rates for termination through and with these
+carriers, either directly or as a charge.
+E. § 52.15(g)(3)(i)(E): T3 hereby certifies that it will comply with its Universal Service
+Fund contribution obligations under 47 CFR part 54, subpart H, its
+Telecommunications Relay Service contribution obligations under 47 CFR §
+64.604(c)(5)(iii), its North American Numbering Plan and Local Number Portability
+Administration contribution obligations under 47 CFR §§ 52.17 and 52.32, its
+obligations to pay regulatory fees under 47 CFR § 1.1154, and its 911 obligations under
+47 CFR part 9.
+F. § 52.15(g)(3)(i)(F): T3 certifies that it has the financial, managerial, and technical
+expertise to provide reliable service. Founded in 2002, T3 is majority held company
+of Digerati Technologies, Inc, a public traded company (CIK), and now serves
+thousands of I-VoIP and IP-PBX customers It is financially stable, led by a strong,
+experienced management team with substantial managerial experience in the
+telecommunications industry, and has sufficient technical expertise and infrastructure
+in place to provide reliable numbering services. T3’s key management and technical
+personnel are listed below. None of the identified personnel are being or have been
+investigated by the Commission or any law enforcement or regulatory agency for
+failure to comply with any law, rule, or order. Furthermore, there are no shareholders
+(either directly or as beneficial owners) with more than 10% of outstanding shares who
+are not American citizens.
+Mr. Arthur L. Smith,
+Chief Executive Officer.
+Mr. Smith has over 25 years of public company experience with a comprehensive
+background in technology and global telecommunications. During his tenure, he has
+developed expertise in broad-based management including corporate finance, financial
+operations, business development, mergers and acquisitions, strategic and tactical
+planning, sales and operational management, and international business. As founder of
+4
+
+Digerati Technologies, Inc., Mr. Smith has held various positions within the Company,
+including Chairman, CEO, and President of the Company’s international subsidiary.
+Mr. Smith is also co-founder and former Chairman of GlobalSCAPE, Inc. (NYSE:
+GSB), a leading provider of Internet-based information exchange solutions and former
+wholly owned subsidiary of Digerati. GlobalSCAPE was spun-off to the Company’s
+shareholders as a separate publicly traded entity.
+Mr. Kenneth “Ken” E. Ryon,
+Chief Technical Officer.
+Mr. Ryon has more than 20 years of communications industry experience in the fields
+of engineering and technology. He has a proven and successful history in early stage to
+established profitable growth companies with a rare mix of technology, product, and
+business experience across multiple functional areas of operations. He is a results-
+oriented leader who builds loyal high-performance teams, solves problems, drives
+growth, and delivers success while creating an enthusiastic work environment. Mr.
+Ryon has been named as the inventor on three VoIP Patents awarded in the U.S.
+Mr. Antonio Estrada Jr.
+Chief Financial Officer
+Antonio is a seasoned financial executive with over 20 years of public company and
+telecommunications industry experience. His experience includes SEC reporting,
+accounting management, financial reporting, forecasting, strategic planning, grant
+writing, corporate finance, GAAP accounting, audit, treasury, and cash management.
+Antonio has served in various roles within Digerati, including International Accounting
+Manager, Treasurer, Internal Auditor, Controller, Senior Vice President of Finance and
+CFO. Antonio received a BBA in Accounting from the University of Texas, San
+Antonio.
+More information about others in the management team can be found at:
+www.t3com.com
+5
+
+The financial capacity of T3 is regularly reported under its holding company which is
+a publicly traded company - Digerati Technologies, Inc. (CIK):
+Most recent audited Twelve (12) Months ending on July 31, 2020 is found
+here: https://digerati-inc.com/pdf/DTGI-10K-YE-7-31-2020.pdf
+Most recent three (3) and six (6) months Ending on January 31, 2021 is found
+here: https://digerati-inc.com/pdf/10Q_Period%20Ending%2001-31-21.pdf
+The above information is available to the general public.
+G. § 52.15(g)(3)(i)(G): T3 hereby certifies that no party to this application is subject to a
+denial of Federal benefits pursuant to Section 5301 of the Anti-Drug Abuse Act of
+1988, 21 U.S.C. § 862.
+II. ACKNOWLEDGEMENT OF CONDITIONS IN SECTION 52.15(g)(3)(iv)
+As required by Section 52.15(g)(3)(iv), T3 shall maintain the accuracy of all contact
+information and certifications in this application and will file a correction with the
+Commission and each applicable state within thirty (30) days of any changes. T3 will also
+furnish accurate regulatory and numbering contact information to each state commission
+when requesting numbers in that state.
+III. CONCLUSION
+Pursuant to Section 52.15(g)(3)(i) of the Commission’s Rules, T3 Communications, Inc.
+respectfully requests the Commission grant this application for authorization to obtain
+numbering resources.
+6
+
+Respectfully Submitted: Date: April 10, 2021
+By T3 Communications, Inc, through attorney of record for this application:
+/s/_ Edward A. Maldonado__/s/
+Edward A. Maldonado, Esq.
+THE LAW OFFICES OF EDWARD A. MALDONADO PA
+MALDONADO LAW GROUP
+2850 Douglas Road, Suite 303
+Coral Gables, FL 33134
+Tel: 305-477-7580 ex 214
+Fax: 305-477-7504
+Email: eam@maldoando-group.com
+www.maldonado-group.com
+7

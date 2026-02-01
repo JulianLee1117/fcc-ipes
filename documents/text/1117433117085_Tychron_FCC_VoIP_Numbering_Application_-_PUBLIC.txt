@@ -1,0 +1,384 @@
+November 17, 2020
+Via ECFS Filing
+REDACTED FOR PUBLIC INSPECTION
+Secretary, Federal Communications Commission
+Washington, DC 20554
+Attn: Wireline Competition Bureau
+RE: Request for Confidential Treatment of Filing of Tychron Corporation; Application of Tychron
+Corporation for Authorization to Obtain Numbering Resources Pursuant to Section 52.15(g) of
+the Commission's Rules, WC Docket No. 20-
+Dear Ms. Dortch,
+Pursuant to Section §52.l5(g)(3)(i) of the Commission's Rules,1 Tychron Corporation ("Tychron") hereby
+submits its Application for Authorization to Obtain Numbering Resources.
+Tychron respectfully requests that, pursuant to Sections §0.457 and §0.459 of the Commission's Rules,2
+the Commission withhold from public inspection and accord confidential treatment to Exhibit A to the
+application because that document contains sensitive trade secrets and commercial information that
+falls within Exemption 4 of the Freedom of Information Act ("FOIA").3 Moreover, Tychron would suffer
+substantial competitive harm if this information were disclosed.
+Exhibit A is accordingly marked with the header "SUBJECT TO REQUEST FOR CONFIDENTIAL TREATMENT -
+NOT FOR PUBLIC INSPECTION."
+In support of this request, Tychron hereby states the following:
+1. IDENTIFICATION OF THE SPECIFIC INFORMATION FOR WHICH CONFIDENTIAL TREATMENT IS
+SOUGHT.
+Tychron seeks confidential treatment of Exhibit A to its Application.
+2. DESCRIPTION OF CIRCUMSTANCES GIVING RISE TO THE SUBMISSION.
+Tychron is submitting as Exhibit A the agreement between its carrier partner as proof of
+Tychron's facilities readiness as required by Section 52. 15(g)(3)(i)(D) of the Commission's Rules.
+1 47 C.F.R. § 52.15(g).
+2 47 C.F.R. § 0.457 & §0.459.
+3 See 5 U.S.C. § 552(b)(4). Public disclosure is not required for “trade secrets and commercial or financial
+information obtained from a person and privileged or confidential.”
+
+November 17, 2020
+Page 2 of 3
+____________________________
+3. EXPLANATION OF THE DEGREE TO WHICH THE INFORMATION IS COMMERCIAL OR FINANCIAL,
+OR CONTAINS A TRADE SECRET OR IS PRIVILEGED.
+The information for which Tychron seeks confidential treatment contains sensitive commercial
+information "which would customarily be guarded from competitors". Exhibit A describes the
+agreement between Tychron and its carrier partner and contains proprietary commercial
+information concerning Tychron's network, customers, and services.
+4. EXPLANATION OF THE DEGREE TO WHICH THE INFORMATION CONCERNS A SERVICE THAT IS
+SUBJECT TO COMPETITION.
+Exhibit A contains information relating to commercial matters which can be used by other
+interconnected VoIP providers to compromise Tychron’s position in the highly competitive
+interconnected VoIP business sector. Detailed operations and commercial information of the
+type provided by Tychron could compromise Tychron's position in this highly competitive
+industry. Accordingly, release of this information would result in substantial competitive harm
+to Tychron.
+5. EXPLANATION OF HOW DISCLOSURE OF THE INFORMATION COULD RESULT IN SUBSTANTIAL
+COMPETITIVE HARM.
+Competitors could use Tychron's proprietary commercial and operational information to
+Tychron's detriment as they would gain access to sensitive information concerning Tychron’s
+commercial agreements, as well as information as to how Tychron provides its services. The
+prices and terms for the provision of such services are a substantial differentiator between
+competing carriers. Therefore, disclosure of the Carrier Agreement would result in significant
+competitive harm to Tychron’s carrier partner. This information is not normally disclosed to the
+public.
+6. IDENTIFICATION OF ANY MEASURES TAKEN BY THE SUBMITTING PARTY TO PREVENT
+UNAUTHORIZED DISCLOSURE.
+Tychron has not distributed the information in Exhibit A to the public; Tychron is prohibited by
+contract from publicly disclosing the Carrier Agreement, except as expressly authorized by the
+carrier partner.
+7. IDENTIFICATION OF WHETHER THE INFORMATION IS AVAILABLE TO THE PUBLIC AND THE
+EXTENT OF ANY PREVIOUS DISCLOSURE OF THE INFORMATION TO THIRD PARTIES.
+Tychron does not believe that the Carrier Agreement is available to the public or that the Carrier
+Agreement has ever been disclosed to third parties absent the protection of a non-disclosure
+agreement regarding their contents.
+
+November 17, 2020
+Page 3 of 3
+____________________________
+8. JUSTIFICATION OF THE PERIOD DURING WHICH THE SUBMITTING PARTY ASSERTS THAT
+MATERIAL SHOULD NOT BE AVAILABLE FOR PUBLIC DISCLOSURE.
+Tychron requests that Exhibit A be withheld from public disclosure indefinitely. Tychron and its
+carrier partner intend for the Carrier Agreement to remain in effect indefinitely and therefore
+any disclosure of the Carrier Agreement or their substance would cause competitive harm to
+Tychron’s carrier partner regarding of the timing of the disclosure.
+9. OTHER INFORMATION THAT TYCHRON BELIEVES MAY BE USEFUL IN ASSESSING WHETHER ITS
+REQUEST FOR CONFIDENTIALITY SHOULD BE GRANTED.
+The information concerns Tychron's proprietary network information, related to current and
+planned commercial and operational information, and as such, is commercially sensitive.
+For the foregoing reasons, Tychron respectfully requests the Carrier Agreement be granted confidential
+status and withheld from public inspection.
+Any questions you may have regarding this filing should be directed to my attention at 407-740-3006 or
+via email to croesel@inteserra.com. Thank you for your assistance in this matter.
+Sincerely,
+/s/ Sharon R. Warren
+Sharon R. Warren
+Consultant
+tms: FCCv2001
+SW/mp
+
+Before the
+FEDERAL COMMUNICATIONS COMMISSION
+Washington, D.C. 20554
+In the Matter of )
+)
+Tychron Corporation )
+For Authorization to Obtain Numbering ) WC Docket No. 20-________
+Resources Pursuant to Section 52.15(g) of )
+the Commission’s Rules )
+APPLICATION OF TYCHRON CORPORATION FOR
+AUTHORIZATION TO OBTAIN NUMBERING RESOURCES
+Tychron Corporation (“Tychron” or “Company”), pursuant to Section 52.15(g)(3)(i) of the
+Commission’s Rules, respectfully requests authorization to obtain numbering resources as described below.
+Under the Commission’s Numbering Order,1 an interconnected VoIP provider may obtain numbering
+resources from the Numbering Administrator upon a showing that it is authorized to provide service in the
+area for which the numbering resources are requested. Such authorization may be obtained upon an
+application to the Commission containing the information detailed in Section 52.15.(g)(3)(i)(A)-(G) of the
+Commission’s Rules. Tychron hereby requests the Commission grant it that authorization, which is also in
+part being requested to participate in STIR/SHAKEN. In support of this application, Tychron provides the
+following information:
+I. INFORMATION REQUIRED BY SECTION 52.15(g)(3)(i)
+A. § 52.15(g)(3)(i)(A)
+Name: Tychron Corporation
+Address: 1201 N. Orange Street
+Suite #7456
+City: Wilmington
+State: DE
+ZIP Code: 19801-1186
+Telephone: 844-892-4766
+1 Numbering Policies for Modern Communications, FCC 15-70 (rel. June 22, 2015).
+
+Contact for Regulatory Requirements, Compliance, 911 and Law Enforcement:
+Name: Tychron Regulatory Department
+Address: 1201 N. Orange Street
+Suite 7456
+City: Wilmington
+State: DE
+ZIP Code: 19801-1186
+Telephone: 844-892-4766
+Facsimile: 833-892-4766
+regulatory@tychron.com
+B. § 52.15(g)(3)(i)(B)
+Tychron hereby acknowledges that authorization to obtain numbering resources under
+Section 52.15(g) of the Commission’s Rules is subject to compliance with applicable Commission numbering
+rules as well as to the numbering authority delegated to the states. The Company hereby also acknowledges
+that grant of the authorization sought by this application is subject to compliance with industry guidelines and
+practices regarding numbering, as applicable to telecommunications carriers. The numbering resources that
+are the subject of this Application will be used to provide interconnected VoIP services initially in Florida,
+however, the Company anticipates that it will provide VoIP services nationwide, and accordingly, will request
+numbers from other states in turn after its initial request in Florida. Accordingly, to the extent required,
+Tychron requests the Commission grant it authority to obtain numbering resources in all states.
+C. § 52.15(g)(3)(i)(C)
+Tychron hereby acknowledges that it must file requests for numbers with the relevant state
+commissions at least (30) days before requesting numbers from the Numbering Administrators.
+
+D. § 52.15(g)(3)(i)(D)
+Tychron submits that it is capable of providing service within (60) days of the numbering
+resources activation date in accordance with Commission Rule Section 52.15(g)(2)2. Tychron is a newly-
+established interconnected VoIP provider that intends to initially provide voice and enhanced
+telecommunications services such as messaging, Caller ID, 911, etc. to all business sizes, from large scale
+companies to enterprise and small businesses located in the United States. The Company was founded by a
+highly experienced telecommunications professional with skilled technical experience in providing these
+services. The Company plans to initially offer services in the state of Florida utilizing the facilities of its
+CLEC partner with which it has an agreement in place for routing traffic to the PSTN. The Company has
+entered into an Interconnection Agreement with a CLEC partner to provide interconnection to the PSTN for
+routing its VoIP traffic to ILECs. A copy of this agreement is attached as Exhibit A to this Application.
+Tychron respectfully requests this agreement be accorded confidential treatment, pursuant to §0.459 of the
+Commission’s rules.3 As described in the agreement, the CLEC partner will host the Company’s numbers on
+its switches and provide connectivity to the PSTN for inbound calls to Tychron numbers. As Exhibit B,
+Tychron provides a current interconnection agreement between its CLEC partner and an incumbent local
+exchange carrier (“ILEC”).
+E. § 52.15(g)(3)(i)(E)
+Tychron hereby certifies that it complies with its Universal Service Fund contribution
+obligations under 47 CFR part 54, subpart H, its Telecommunications Relay Service contribution obligations
+under 47 CFR § 64.604(c)(5)(iii), its North American Numbering Plan and Local Number Portability
+Administration contribution obligations under 47 CFR §§ 52.17 and 52.32, its obligations to pay regulatory
+fees under 47 CFR § 1.1154, and its 911 obligations under 47 CFR part 9.
+2 47 C.F.R. §52.15(g)(2).
+3 47 C.F.R. §0.459. The agreement contains trade secret information that is not publicly available, the disclosure of
+which would cause economic harm to Tychron.
+
+F. § 52.15(g)(3)(i)(F)
+Tychron hereby certifies that it has the financial, managerial, and technical expertise to
+provide reliable service. It is financially stable, led by a strong, experienced management team with
+substantial managerial experience in the telecommunications industry and has sufficient technical expertise
+and infrastructure in place to provide reliable numbering services. Tychron has already established and
+certified with their CLEC partner the necessary trunks required to support the service. The management team
+has extensive knowledge and experience in processing LNP orders and other processes required to
+successfully route calls between other carriers and interconnected VoIP providers. Tychron’s key
+management and technical personnel are listed below. None of the identified personnel are being or have been
+investigated by the Commission or any law enforcement or regulatory agency for failure to comply with any
+law, rule, or order.
+Key Personnel:
+o CEO: Mike Burlingame
+o COO: Heather Burlingame
+G. § 52.15(g)(3)(i)(G)
+Tychron hereby certifies that no party to this application is subject to a denial of Federal
+benefits pursuant to Section 5301 of the Anti-Drug Abuse Act of 1988, 21 U.S.C. § 862.
+II. ACKNOWLEDGEMENT OF CONDITIONS IN SECTION 52.15(g)(3)(iv)
+As required by Section 52.15(g)(3)(iv), Tychron will maintain the accuracy of all contact
+information and certifications in this Application and will file a correction with the Commission and each
+applicable state within 30 days of any changes. Tychron will also furnish accurate regulatory and numbering
+contact information to each state commission when requesting numbers in that state.
+
+III. CONCLUSION
+Pursuant to Section 52.15(g)(3)(i) of the Commission’s Rules, Tychron Corporation
+respectfully requests the Commission grant this Application for authorization to obtain numbering resources
+directly from the Numbering Administrators.
+Respectfully submitted,
+/s/ Sharon R. Warren
+Sharon R. Warren, Consultant
+Inteserra Consulting Group, Inc.
+151 Southhall Lane, Suite 450
+Maitland, FL 32751
+Submitted on November 17, 2020
+
+Exhibit A
+AGREEMENT BETWEEN TYCHRON CORPORATION
+AND CARRIER PARTNER
+(Confidential exhibit submitted separately)
+
+Exhibit B
+AGREEMENT BY AND BETWEEN ONVOY, LLC
+AND
+FRONTIER FLORIDA LLC
+
+AMENDED, EXTENDED AND RESTATED AGREEMENT FOR
+LOCAL INTERCONNECTION
+by and between
+ONVOY, LLC
+and
+FRONTIER FLORIDA LLC
+FOR THE STATE OF
+FLORIDA
+
+AMENDED, EXTENDED AND RESTATED AGREEMENT
+PREFACE
+This Amended, Extended and Restated Agreement (“Agreement”) shall be deemed effective as of April
+15, 2018 (the “Effective Date”), between Onvoy, LLC (“Onvoy”), a limited liability company organized
+under the laws of the State of Minnesota, with offices at 10300 6th Avenue North, Plymouth, MN 55441
+and Frontier Florida LLC, a limited liability company organized under the laws of the State of Florida
+(“Frontier”) with offices at 401 Merritt 7, Norwalk, CT 06851, (Frontier and Onvoy may be referred to
+hereinafter, each, individually as a “Party”, and, collectively, as the “Parties”).
+GENERAL TERMS AND CONDITIONS
+In consideration of the mutual promises contained in this Agreement, and intending to be legally bound,
+pursuant to Section 252 of the Act, Frontier and Onvoy hereby agree as follows:
+1. The Agreement
+1.1 This Agreement includes: (a) the Principal Document and (b) the Tariffs of each Party
+applicable to the Services that are offered for sale by it in the Principal Document (which
+Tariffs are incorporated into and made a part of this Agreement by reference); and, (c) an
+Order by a Party that has been accepted by the other Party.
+1.2 Except as otherwise expressly provided in the Principal Document (including, but not
+limited to, the Pricing Attachment), conflicts among provisions in the Principal Document,
+Tariffs, and an Order by a Party that has been accepted by the other Party, shall be
+resolved in accordance with the following order of precedence, where the document
+identified in subsection “(a)” shall have the highest precedence: (a) the Principal
+Document; (b) the Tariffs; and, (c) an Order by a Party that has been accepted by the
+other Party. The fact that a provision appears in the Principal Document but not in a
+Tariff, or in a Tariff but not in the Principal Document, shall not be interpreted as, or
+deemed grounds for finding, a conflict for the purposes of this Section 1.2.
+1.3 This Agreement constitutes the entire agreement between the Parties on the subject
+matter hereof, and supersedes any prior or contemporaneous agreement, understanding,
+or representation, on the subject matter hereof, provided, however, notwithstanding any
+other provision of this Agreement or otherwise, this Agreement is an amendment,
+extension and restatement of the Parties’ prior interconnection and resale agreement(s),
+if any, and, as such, this Agreement is not intended to be, nor shall it be construed to
+create, a novation or accord and satisfaction with respect to any prior interconnection or
+resale agreements and, accordingly, all monetary obligations of the Parties to one
+another under any prior interconnection or resale agreements shall remain in full force
+and effect and shall constitute monetary obligations of the Parties under this Agreement
+(provided, however, that nothing contained in this Agreement shall convert any claim or
+debt that would otherwise constitute a prepetition claim or debt in a bankruptcy case into
+a postpetition claim or debt). In connection with the foregoing, Frontier expressly
+reserves all of its rights under the Bankruptcy Code and Applicable Law to seek or
+oppose any relief in respect of the assumption, assumption and assignment, or rejection
+of any interconnection or resale agreements between Frontier and Onvoy.
+1.4 Except as otherwise provided in the Principal Document, the Principal Document may not
+be waived or modified except by a written document that is signed by the Parties.
+Subject to the requirements of Applicable Law, a Party shall have the right to add, modify,
+or withdraw, its Tariff(s) at any time, without the consent of, or notice to, the other Party.
+2. Term and Termination
+Onvoy Comprehensive ICA FL CTF 031918.docx 1
+
+2.1 This Agreement shall be effective as of the Effective Date and, unless cancelled or
+terminated earlier in accordance with the terms hereof, shall continue in effect until April
+14, 2020 (the “Initial Term”). Thereafter, this Agreement shall continue in force and effect
+unless and until cancelled or terminated as provided in this Agreement.
+2.2 Either Onvoy or Frontier may terminate this Agreement effective upon the expiration of
+the Initial Term or effective upon any date after expiration of the Initial Term by providing
+written notice of termination at least ninety (90) days in advance of the date of
+termination.
+2.3 If either Onvoy or Frontier provides notice of termination pursuant to Section 2.2 and on
+or before the proposed date of termination either Onvoy or Frontier has requested
+negotiation of a new interconnection agreement, unless this Agreement is cancelled or
+terminated earlier in accordance with the terms hereof (including, but not limited to,
+pursuant to Section 12), this Agreement shall remain in effect until the earlier of: (a) the
+effective date of a new interconnection agreement between Onvoy and Frontier; or, (b)
+the date one (1) year after the proposed date of termination.
+2.4 If either Onvoy or Frontier provides notice of termination pursuant to Section 2.2 and by
+11:59 PM Eastern Time on the proposed date of termination neither Onvoy nor Frontier
+has requested negotiation of a new interconnection agreement, (a) this Agreement will
+terminate at 11:59 PM Eastern Time on the proposed date of termination, and (b) the
+Services being provided under this Agreement at the time of termination will be
+terminated, except to the extent that the Purchasing Party has requested that such
+Services continue to be provided pursuant to an applicable Tariff or Statement of
+Generally Available Terms (SGAT).
+3. Glossary and Attachments
+The Glossary and the following Attachments are a part of this Agreement:
+Additional Services Attachment
+Interconnection Attachment
+Traffic Exchange Attachment
+Resale Attachment
+Network Elements Attachment
+Collocation Attachment
+9-1-1 Attachment
+Pricing Attachment
+4. Applicable Law
+4.1 The construction, interpretation and performance of this Agreement shall be governed by
+(a) the laws of the United States of America and (b) the laws of the State of Florida,
+without regard to its conflicts of laws rules. All disputes relating to this Agreement shall
+be resolved through the application of such laws.
+4.2 Each Party shall remain in compliance with Applicable Law in the course of performing
+this Agreement.
+4.3 Neither Party shall be liable for any delay or failure in performance by it that results from
+requirements of Applicable Law, or acts or failures to act of any governmental entity or
+official.
+Onvoy Comprehensive ICA FL CTF 031918.docx 2
+
+41.5.5 If the Purchasing Party fails to impose and/or collect any Tax from Subscribers
+as required by Section 41.3, then, as between the Providing Party and the
+Purchasing Party, the Purchasing Party shall remain liable for such uncollected
+Tax and any interest assessed thereon, as well as any penalty assessed with
+respect to such uncollected Tax by the applicable taxing authority. With
+respect to any Tax that the Purchasing Party has agreed to pay, or is required
+to impose on and/or collect from Subscribers, the Purchasing Party agrees to
+indemnify and hold the Providing Party harmless on an after-tax basis for any
+costs incurred by the Providing Party as a result of actions taken by the
+applicable taxing authority to recover the Tax from the Providing Party due to
+the failure of the Purchasing Party to timely pay, or collect and timely remit,
+such Tax to such authority.
+41.6 Audit Cooperation. In the event either Party is audited by a taxing authority, the other
+Party agrees to cooperate fully with the Party being audited in order to respond to any
+audit inquiries in a proper and timely manner so that the audit and/or any resulting
+controversy may be resolved expeditiously.
+41.7 Notices. All notices, affidavits, exemption-certificates or other communications required
+or permitted to be given by either Party to the other, for purposes of this Section 41, shall
+be made in writing and shall be delivered in person or sent by certified mail, return receipt
+requested, or registered mail, or a courier service providing proof of service, and sent to
+the addressees set forth in Section 29 as well as to the following:
+To Frontier:
+Frontier Communications
+Tax Department
+401 Merritt 7
+Norwalk, CT 06851
+To Onvoy:
+Onvoy, LLC
+Tax Department
+Attention: Connie Loepke
+550 West Adams Street, Suite 900
+Chicago, Illinois 60661
+Each Party may from time to time designate another address or other addressees by
+giving notice in accordance with the terms of this Section. Any notice or other
+communication shall be deemed to be given when received.
+42. Technology Upgrades
+Notwithstanding any other provision of this Agreement, Frontier shall have the right to deploy,
+upgrade, migrate and maintain its network at its discretion. The Parties acknowledge that
+Frontier, at its election, may deploy fiber throughout its network and that such fiber deployment
+may inhibit or facilitate Onvoy’s ability to provide service using certain technologies. Nothing in
+this Agreement shall limit Frontier's ability to modify its network through the incorporation of new
+equipment or software or otherwise. Onvoy shall be solely responsible for the cost and activities
+associated with accommodating such changes in its own network.
+43. Territory
+43.1 This Agreement applies to the territory in which Frontier operates as an Incumbent Local
+Exchange Carrier in the State of Florida. Frontier shall be obligated to provide Services
+under this Agreement only within this territory.
+Onvoy Comprehensive ICA FL CTF 031918.docx 22
+
+DocuSign Envelope ID: A298ECC5-BEBB-49C7-8714-D2E9AC46F630
+SIGNATURE PAGE
+IN WITNESS WHEREOF,t he Parties hereto have caused this Agreement to be executed as of the
+Effective Date.
+ONVOY, LLC FRONTIER FLORIDA LLC
+—DocuSigned by: ^ ^
+I/. By; Q C-^
+By:
+-B1691B160EA9420..
+. K yle V. Bertrand n x ^ u . • .
+Printed: Printed: Michael Daniel
+Title: VP procurement mgmt and Ntwk opt. gyp. Carrier Services
+4/30/2018 C jS -
+Date: Date: O "/ ^ /o
+Onvoy Comprehensive ICA FL CTF 031918 25

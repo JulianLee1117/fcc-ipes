@@ -1,0 +1,71 @@
+Mark C. Del Bianco
+Law Office of Mark C. Del Bianco
+3929 Washington Street
+Kensington, MD 20895
+301.602.5892
+mark@markdelbianco.com
+(cid:3)
+(cid:3)
+May 13, 2016
+(cid:3)
+VIA ECFS
+(cid:3)
+Marlene Dortch
+Secretary REDACTED FOR PUBLIC
+Federal Communications Commission INSPECTION
+445 12th Street SW
+Washington, DC 20554
+(cid:3)
+Re: Request for Confidential Treatment of Filing by Telnyx LLC: Telnyx LLC,
+Applicant, For Authorization to Obtain Numbering Resources Pursuant to
+Section 52.15(g) of the Commission’s Rules, WC Docket No. 15-___
+(cid:3)
+Dear Ms. Dortch:
+Pursuant to Section 52.15(g)(3)(i) of the Commission’s Rules, Telnyx LLC (“Telnyx”)
+hereby submits its application requesting authorization to obtain numbering resources.(cid:3)
+Telnyx respectfully requests that, pursuant to Sections 0.457 and 0.459 of the
+Commission’s rules, 47 C.F.R. §§ 0.457 and 0.459, the Commission withhold from public
+inspection and accord confidential treatment to Exhibits A and B to the application because the
+documents contain sensitive trade secrets and commercial information that falls within Exemption
+4 of the Freedom of Information Act (“FOIA”), 5 U.S.C. § 552(b)(4). Exhibit A consists of a
+commercial agreement between Telnyx and its carrier partner. Pricing information has been redacted
+from Exhibit A, but it still contains substantial proprietary commercial information concerning
+Telnyx’s network, customers, and services. Exhibit B consists of an interconnection agreement
+between Telnyx’s carrier partner and a local exchange carrier. Telnyx is submitting the agreements
+as proof of Telnyx’s facilities readiness, as required by Section 52.15(g)(3)(i)(D) of the
+Commission’s rules. Exhibits A and B are marked with the header “SUBJECT TO REQUEST FOR
+CONFIDENTIAL TREATMENT – NOT FOR PUBLIC INSPECTION.”
+The information in Exhibit A for which Telnyx seeks confidential treatment concerns
+Telnyx’s proprietary network arrangements, and also contains details of its current and future
+commercial and operational plans. Telnyx has not previously disclosed the identity of its carrier
+partner (a signatory on both Exhibits A and B) to the public or any competitors. Telnyx operates
+in the voice over internet protocol (VOIP) market. It has dozens, if not hundreds, of competitors
+in the VOIP market. The information in Exhibits A and B is commercially sensitive information
+that would customarily be guarded from disclosure to those competitors. Disclosure of the detailed
+operational and commercial information in Exhibit A or the name of the carrier partner
+1
+(cid:3)
+
+Marlene Dortch
+Secretary
+Federal Communications Commission
+Page 2 of 2
+in both Exhibits would give any of Telnyx’s competitors an unfair competitive advantage and
+undercut Telnyx’s position in this highly competitive industry. Their release would therefore
+result in substantial competitive harm to Telnyx.
+Telnyx has not previously disclosed the information in Exhibits A or B to the public or
+any competitors. Telnyx requests that Exhibit A be treated as confidential for a period of ten
+years. This period is necessary due to the proprietary nature of the information in Exhibit A.
+Telnyx requests that Exhibit B be treated as confidential for the same period of time as Exhibit
+A.(cid:3)
+Should you have any questions regarding this confidentiality request or the application,
+please contact the undersigned at (301) 602-5892.
+(cid:3)
+Respectfully submitted,(cid:3)(cid:3)
+(cid:3)
+Mark C. Del Bianco
+Counsel to Telnyx LLC
+(cid:3)
+(cid:3)
+2
+(cid:3)

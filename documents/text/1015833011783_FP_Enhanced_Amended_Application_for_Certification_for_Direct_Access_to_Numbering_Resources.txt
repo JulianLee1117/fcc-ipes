@@ -1,0 +1,163 @@
+Before the
+FEDERAL COMMUNICATIONS COMMISSION
+Washington, D.C. 20554
+Application of Enhanced Communications of )
+Northern New England, Inc. d/b/a Consolidated )
+Long Distance For Certification As a VOIP ) WC Docket No. 18-204
+Provider For Direct Access To Numbering )
+Resources Pursuant To Section 52.15(g)(3) of the )
+Commission’s Rules, 47 CFR §52.15(g)(3) )
+AMENDED APPLICATION
+Pursuant to Section 52.15(g)(3) of the Commission’s rules, 47 CFR §52.15(g)(3),
+Enhanced Communications of Northern New England, Inc. d/b/a Consolidated Long
+Distance (“Consolidated Long Distance”), hereby amends its Application, filed April 24, 2018
+and supplemented August 27, 2018, in the above-captioned docket, for certification as a provider
+of interconnected VoIP services for the purpose of gaining direct access to telephone numbering
+resources from the North American Numbering Plan Administrator. Consolidated Long
+Distance provides certain additional information in support of its application, and amends the
+application to incorporate in this filing all information required under the Commission’s rules.
+The company therefore respectfully requests that this Amended Application be placed on FCC
+Public Notice as complete and sufficient for filing.
+I. Contact Information
+1. Applicant Name and Business Address:
+Enhanced Communications of Northern New England, Inc.
+d/b/a Consolidated Long Distance
+5 Davis Farm Rd.
+Portland, ME 04103
+The applicant Consolidated Long Distance is wholly-owned by Consolidated of Northern
+New England, Inc. (“CNNE”), which in turn is wholly-owned by Consolidated
+
+Communications, Inc. (“CCI”). Michael Shultz, whose declaration supports the application, is
+vice president of regulatory for both CNNE and CCI, and his responsibilities include regulatory
+compliance for the applicant, Consolidated Long Distance.1
+2. Personnel Responsible for Compliance with Regulatory Requirements and
+Commission Rules:
+Michael T. Skrivan
+5 Davis Farm Rd.
+Portland, ME 04103
+207.535.4150
+With a copy to:
+Ann Morrison
+5 Davis Farm Rd.
+Portland, ME 04103
+207.
+3. Personnel Responsible for E-911 Compliance:
+Jon Eon
+5 Davis Farm Rd.
+Portland, ME 04103
+207.797.1303
+With a copy to:
+Barbara Galardo
+45 Forrest Ave.
+Portland, ME 04101
+207.535.4126
+4. Personnel Responsible for Compliance with Law Enforcement:
+Garrett Van Osdell
+350 South Loop 336 West
+Conroe, TX 77304
+II. Acknowledgements
+Consolidated Long Distance hereby acknowledges that:
+1 Certification of Michael Shultz (attached hereto) ¶1.
+2
+
+a. Authorization granted under this application is subject to compliance with
+applicable Commission numbering rules, numbering authority delegated to the states, and
+industry practices and guidelines regarding numbering as applicable to telecommunications
+carriers; and
+b. Consolidated Long Distance must file requests for numbers with the relevant state
+Commissions in Maine, New Hampshire and Vermont at least thirty (30) days prior to requesting
+numbering from the numbering administrators.2
+III. Interconnected VoIP Service Readiness
+Consolidated Long Distance seeks direct access to telephone numbering resources for the
+provision of interconnected Voice Over Internet Protocol (“i-VoIP”) in Maine, New Hampshire
+and Vermont. Consolidated Long Distance is capable of providing service within sixty days of
+the numbering resource activation date in accordance with Section 52.15(g)(2) of the
+Commission’s rules3 because Consolidated Long Distance is providing i-VoIP service in those
+states today. Consolidated Long Distance has been providing i-VoIP service in Maine, New
+Hampshire and Vermont for more than four years.4 Consolidated Long Distance currently offers
+business i-VoIP services including hosted PBX and SIP Trunking.5 These services currently are
+offered using a numbering partner. If this petition is granted, Consolidated Long Distance will
+continue offering the services it offers today without the need for a numbering partner.6
+2 Id. ¶2.
+3 47 CFR §52.15(g)(2).
+4 See Certification of Michael Shultz, ¶3.
+5 Id.
+6 Certification of Michael Shultz ¶4. Other CCI subsidiaries currently provide interconnected
+VoIP service in these states: California, Iowa, Illinois, Kansas, Minnesota, Missouri, North
+Dakota, Pennsylvania, South Dakota, Texas and Wisconsin. Id. ¶6.
+3
+
+Consolidated Long Distance will continue to provide i-VoIP service the same way it does
+today: using the facilities owned by its local exchange carrier (“LEC”) affiliates, such as
+Northern New England Telephone Operations LLC (serving Maine and New Hampshire) and
+Telephone Operating Company of Vermont LLC (serving Vermont), through an intra-corporate
+arrangement, and entering into an interconnection agreement in any local area where the
+applicant does not have a LEC affiliate whose facilities it can use to provision interconnected
+VoIP service. Consolidated Long Distance has such an interconnection agreement today, for
+example, with TDS in New Hampshire (for portions of the state where the LEC is not a
+Consolidated Long Distance affiliate).7 A copy of that agreement, which is publicly available, is
+provided herewith.
+Consolidated Long Distance thus is capable of providing service within sixty days of the
+numbering resource activation date in accordance with Section 52.15(g)(2) of the Commission’s
+rules.8
+IV. Certifications
+a. Consolidated Long Distance hereby certifies that it contributes to the Federal
+Universal Service Fund (“USF”) and Telecommunications Relay Services Fund (“TRSF”) and
+complies with its contribution obligations with respect to those funds. Additionally, Consolidated
+Long Distance certifies that it complies with all contribution and administration obligations
+7 Id. ¶5. The applicant, Enhanced Communications of Northern New England, Inc., which is
+party to the referenced agreement with TDS, is also referred to in that agreement as
+“FAIRPOINT” because Enhanced Communications of Northern New England, Inc. was a
+wholly-owned subsidiary of FairPoint Communications, Inc. at the time of the agreement
+(August 2015); the latter merged with and into CCI in July 2017. See Joint Application of
+Consolidated Communications Holdings, Inc., and FairPoint Communications, Inc., to Transfer
+Indirect Control of Authorization Holders to Consolidated Communications Holdings, Inc., WC
+Docket No. 16-417, Memorandum Opinion and Order, DA 17-432 (rel. May 8, 2017).
+8 Certification of Michael Shultz, ¶4.
+4
+
+under Sections 52.17 and 52.32 of the Commission’s rules for NANP and LNP,9 and all of its
+obligations to pay regulatory fees under Section 1.1154 of the Commission’s rules,10 and its 911
+obligations under Part 9 of the Commission’s rules.11
+b. Consolidated Long Distance certifies that it possesses the financial, managerial
+and technical expertise to provide reliable i-VOIP service. As indicated above, Consolidated
+Long Distance currently provides these services and has been delivering high-quality i-VoIP
+services to Northern New England for 4 years. In addition, Consolidated Long Distance’s
+affiliates have been providing VoIP service for over 17 years and now currently provide service
+in 24 states.12 CCI is a publicly-traded company, and is required to make financial filings with
+the Securities and Exchange Commission (“SEC”). All SEC filings including audit financial
+statements can be found at http://ir.consolidated.com/sec.cfm. CCI’s management team, who
+also are the management team for Consolidate Long Distance, includes Chief Technology
+Officer Thomas White, Executive Vice President of Operations Gabe Waggnor, and Chief
+Financial Officer Steven L. Childers. None of the aforementioned managers has been
+investigated by the Commission or any law enforcement or regulatory agency for failure to
+comply with any law, rule or order.13 A full listing of CCI’s management team with biographies
+can be found at http://ir.consolidated.com/management.cfm.
+9 47 CFR §§52.17 & 52.32.
+10 47 C.F.R. §1.1154.
+11 47 C.F.R. §9.1 et seq. See Certification of Michael Shultz, ¶7.
+12 See Certification of Michael Shultz, ¶6.
+13 See Certification of Michael Shultz, ¶8.
+5
+
+c. Consolidated Long Distance certifies that no party to this application is subject to
+a denial of Federal benefits pursuant to section 5301 of the Anti-Drug Abuse Act of 1988, 21
+U.S.C. §862.14
+V. Conclusion
+For the foregoing reasons, Consolidated Long Distance respectfully requests that the
+Commission certify it as an interconnected VoIP provider, and authorize it to obtain numbering
+resources directly from NANPA, pursuant to Section 52.15(g)(3) of the Commission’s rules, 47
+C.F.R. §52.15(g)(3).
+Respectfully submitted ,
+Karen Brinkmann
+Karen Brinkmann PLLC
+1800 M Street, NW
+Suite 800-North
+Washington, DC 20036
+(202) 365-0325
+Counsel to Consolidated Long Distance
+October 15, 2018
+Attachments: Certification of Michael Shultz
+Interconnection Agreement (New Hampshire)
+14 See Certification of Michael Shultz, ¶9.
+6

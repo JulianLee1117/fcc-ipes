@@ -1,0 +1,172 @@
+Before the
+FEDERAL COMMUNICATIONS COMMISSION
+Washington, D.C. 20554
+In the Matter of )
+)
+Metro Fibernet, LLC, Applicant ) WC Docket No. 19- __________
+)
+For Authorization to Obtain Numbering )
+Resources Pursuant to Section 52.15(g) of )
+The Commission’s Rules )
+APPLICATION OF METRO FIBERNET, LLC
+FOR AUTHORIZATION TO OBTAIN NUMBERING RESOURCES
+Metro Fibernet, LLC (“MFN”) files this application with the Federal Communications
+Commission (the “Commission”) for authorization to acquire telephone numbers directly from the
+North American Numbering Plan Administrator and the Pooling Administrator (the “Numbering
+Administrators”) pursuant to Commission rule section 52.15(g)(3).1
+As set forth in the Commission’s Numbering Order,2 an interconnected VoIP provider may
+obtain numbering resources from the Numbering Administrator upon showing that it is authorized
+to provide service in the area for which the numbering resources are requested. Such authorization
+may be obtained upon an application to the Commission containing the information in Sections
+52.15(g)(3)(i)(A)-(F) of the Commission’s Rules. MFN hereby requests the Commission grant it
+the authorization.
+MFN provides the following information in support of its application:
+1 47 C.F.R. § 52.15(g)(3).
+2 Numbering Policies for Modern Communications, 30 FCC Rcd. 6839 (2015).
+1
+
+I. INFORMATION REQUIRED BY SECTION 52.15(g)(3)(i)
+a) §52.15(g)(3)(i)(A)
+Name: Metro Fibernet, LLC
+Address: 3701 Communications Way, Evansville, IN 47715
+Telephone: (812) 759-7807
+Qualified Personnel: Randy Kiesel
+Email: randy.kiesel@metronetinc.com
+b) §52.15(g)(3)(i)(B)
+MFN hereby acknowledges that authorization to obtain numbering resources under Section
+52.15(g) of the Commission’s Rules is subject to compliance with applicable Commission
+numbering rules as well as to the numbering authority is subject to compliance with industry
+guidelines and practices regarding numbering, just as to telecommunications carriers.
+c) §52.15(g)(3)(i)(C)
+MFN hereby acknowledges that it must file requests for numbers with the relevant state
+commission(s) at least 30 days before requesting numbers from the Numbering Administrators.
+d) §52.15(g)(3)(i)(D)
+MFN hereby sets forth its capability to provide service within sixty (60) days of the
+numbering resources activation date. MFN has operated as a CLEC for seven years and currently
+holds fifty (50) number blocks directly. It has the staff and processes in place to support number
+porting and to manage numbering resources. MFN interconnects with the PSTN in several states
+through interconnection agreements with AT&T, Frontier, CenturyLink and Windstream.
+Attached hereto as Exhibit A is a list of all active MFN interconnection agreements. In states
+2
+
+where MFN does not have interconnection agreements, it will have agreements in place with
+carrier partners having interconnection agreements in effect with the relevant ILECs.
+e) §52.15(g)(3)(i)(E)
+MFN certifies that it complies with its Universal Service Fund contribution obligations
+under 47 CFR part 54, subpart H; its Telecommunications Relay Service contribution obligations
+under 47 CFR § 64.604(c)(5)(iii); its North American Numbering Plan and Local Number
+Portability Administration contribution obligations under 47 CFR §§ 52.17 and 52.32; its
+obligations to pay regulatory fees under 47 CFR § 1.1154; and its 911 obligations under 47 CFR
+part 9.
+f) §52.15(g)(3)(i)(F)
+MFN has successfully operated as a licensed facilities-based carrier in Indiana since 2012.
+It also operates as a facilities-based carrier in Illinois and Kentucky. MFN certifies that it possesses
+the financial, managerial, and technical expertise to provide reliable service. Attached hereto as
+Exhibit B are the names and titles of MFN’s key management and technical personnel. MFN states
+that none of the identified personnel is being or has been investigated by the Commission or any
+law enforcement or regulatory agency for failure to comply with any law, rule or order.
+g) §52.15(g)(3)(i)(G)
+MFN hereby certifies that no party to this application is subject to a denial of Federal
+benefits to Section 5301 of the Anti-Drug Abuse Act of 1988, 21 U.S.C. § 862.
+3
+
+EXHIBIT A
+Metro Fibernet, LLC – Active Interconnection Agreements
+State ILEC
+Indiana Indiana Bell Telephone Co. Inc. d/b/a AT&T Indiana
+Indiana Frontier North, Inc.;
+Frontier Midstates, Inc.
+Indiana United Telephone Co. of Indiana, Inc. d/b/a CenturyLink
+Illinois Illinois Bell Telephone Co. d/b/a AT&T Illinois
+Illinois Frontier Communications of the Carolinas, Inc.;
+Frontier North, Inc.
+Kentucky Windstream Kentucky East, LLC
+Kentucky BellSouth Telecommunications LLC d/b/a AT&T Kentucky
+Iowa Qwest Corporation d/b/a CenturyLink QC
+Iowa CenturyTel of Chester, Inc. d/b/a CenturyLink;
+CenturyTel of Postville, Inc. d/b/a CenturyLink
+Minnesota Qwest Corporation d/b/a CenturyLink QC
+Minnesota CenturyTel of Minnesota, Inc. d/b/a CenturyLink
+Minnesota Embarq Minnesota, Inc. d/b/a CenturyLink
+5
+
+EXHIBIT B
+Metro Fibernet, LLC – Key Management and Technical Personnel
+MANAGEMENT BIOGRAPHIES
+Years of
+EXECUTIVE TEAM Title
+Experience
+Albert E. Cinelli CHAIRMAN 53
+John P. Cinelli PRESIDENT 25
+EXECUTIVE VICE PRESIDENT & CHIEF FINANCIAL
+Lohn H. Weber 15
+OFFICER
+John Campbell EXECUTIVE VICE PRESIDENT & GENERAL COUNSEL 20
+EXECUTIVE VICE PRESIDENT & GENERAL
+Kevin Stelmach 14
+MANAGER
+John Greenbank EXECUTIVE VICE PRESIDENT OF CONSTRUCTION 36
+VICE PRESIDENT OF NETWORK ENGINEERING &
+John Iber 29
+OPERATIONS
+Albert E. Cinelli | CHAIRMAN
+For over a half a century Mr. Cinelli has provided a high level of leadership and vision to a variety of
+successful enterprises. Currently, Mr. Cinelli serves as Chairman of MetroNet Holdings, LLC and all of its
+affiliates including MetroNet. Over his career Mr. Cinelli has successfully incubated multiple
+communications companies from their inception including nGenX Corporation, MetroNet, Norlight, Inc.
+and Kentucky Data Link, Inc., which was sold to Windstream as part of a merger valued at $825 Million.
+Before he became an entrepreneur in the communications industry, Mr. Cinelli served as Vice President
+and General Counsel of Marion Labs in Kansas City where as part of the senior management team he helped
+grow that company from $80 Million in revenue to over $1 Billion. Prior to Marion Labs, Mr. Cinelli served
+as the International General Counsel for American Home Products in New York City. Mr. Cinelli holds a
+Bachelor of Arts degree in Political Science and Economics from Lafayette College and his Juris Doctorate
+from Columbia University Law School.
+John P. Cinelli | PRESIDENT
+Mr. Cinelli has 25 years of experience successfully managing telecommunications companies. Currently
+he is President of MetroNet and MetroNet Holdings, LLC. Prior to those roles, Mr. Cinelli served as
+President of Q-Comm Corporation, a holding company for multiple telecommunications entities including
+Kentucky Data Link, Inc. He also served as President of Norlight, Inc., a facilities based CLEC that offered
+telecommunications services to residential and business customers throughout the Midwest. Norlight and
+Q-Comm were acquired in 2010 by Windstream Communications as part of an $825 million merger. Mr.
+Cinelli has a Bachelor of Arts degree from Tufts University.
+6
+
+Lohn H. Weber | EXECUTIVE VICE PRESIDENT & CHIEF FINANCIAL OFFICER
+Mr. Weber has overseen and managed the financial operations of multiple telecommunications companies
+in the span of 15 years. Through the course of his career he has raised more than $500 million in debt
+financing for various companies. Mr. Weber previously served as CFO of Kentucky Data Link, Inc., a
+wholesale communications transport provider that grew from no revenues to revenues of $200 million a
+year under his tenure. He also served as CFO of Q-Comm and its affiliates including Norlight, Norlight
+Telecommunications, Inc. and Kentucky Data Link, Inc. In addition to his role at MetroNet, Mr. Weber
+currently serves as CFO of MetroNet Holdings, LLC. He is a graduate of the University of Missouri and is
+a Certified Public Accountant.
+John M. Campbell| EXECUTIVE VICE PRESIDENT AND GENERAL COUNSEL
+Mr. Campbell oversees business development, human resources and the legal and regulatory affairs of
+MetroNet and MetroNet Holdings. He has 20 years of legal and regulatory experience working for
+communications companies. Previously, Mr. Campbell served as the senior legal officer of a $60 million
+national wireless broadband provider. He also gained extensive legal, real estate and regulatory experience
+serving in various capacities with Sprint Communications Company and its affiliates. He is a graduate of
+Chicago-Kent College of Law.
+Kevin Stelmach | EXECUTIVE VICE PRESIDENT & GENERAL MANAGER
+Mr. Stelmach has a 13-year track record of successfully managing high tech companies. He currently
+oversees the day-to-day operations of MetroNet. Under his leadership, MetroNet has successfully deployed
+FTTP networks in 25 communities, acquired nearly 50,000 customers, and increased revenues every quarter
+of his tenure. Prior to joining MetroNet, Mr. Stelmach served as Vice President of Marketing and Sales for
+nGenX Corporation, a cloud computing company. nGenX was acquired by Q-Comm in 2004. Mr. Stelmach
+is a graduate of Mid America College.
+John Greenbank | EXECUTIVE VICE PRESIDENT OF CONSTRUCTION
+Mr. Greenbank is responsible for overseeing all aspects of MetroNet’s construction efforts. He has extensive
+experience in all aspects of building, operating and maintaining fiber networks. Prior to serving with
+MetroNet, Mr. Greenbank served as President of Kentucky Data Link, Inc., a wholesale fiber transport
+provider. During his tenure he grew that company from an entity with no fiber assets in 1998 to one with
+27,000 fiber route miles by 2012. Before working at Kentucky Data Link, Mr. Greenbank used his vast
+telecommunications experience running other small telecom companies since 1980.
+John Iber | VICE PRESIDENT OF NETWORK ENGINEERING & OPERATIONS
+Mr. Iber has more than 20 years of technology and operations management experience in the
+telecommunications and technology sectors. During his career he’s overseen the successful deployment of
+numerous large software and hardware installations. Currently Mr. Iber serves as Vice President of Network
+Engineering and Operations for MetroNet. Prior to that, he served as Chief Operating Officer of nGenX, a
+cloud hosting company. Mr. Iber has also served as Vice President of Operations for Kentucky Data Link,
+Inc., and as a Managing Director for Williams International. He holds a Bachelor of Science in Electrical
+Engineering from Texas A&M University.
+7

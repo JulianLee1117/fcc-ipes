@@ -1,0 +1,234 @@
+lnteserra
+151 Southhall Lane, Ste. 450
+Maitland, FL 32751
+www.inteserra.com
+A JSI Company
+September 5, 2024
+Via ECFS Filing
+Secretary, Federal Communications Commission
+Washington, DC 20554
+Attn: Wireline Competition Bureau
+RE: Supplemental Application of ALLO Communications LLC for Authorization to Obtain
+Numbering Resources Pursuant to Section 52.15(g) of the Commission's Rules,
+WC Docket No. 24-
+Dear Ms. Dortch,
+Pursuant to Section §52.I5(g)(3)(i) of the Commission's Rules,1 ALLO Communications LLC (the
+"Company") hereby submits supplemental information to the Application for Authorization to Obtain
+Numbering Resources that was originally filed April 25, 2024 based upon an email from staff.
+In support of its application the Company certifies the following:
+ALLO Communications LLC has fully complied with all applicable STIR/SHAKEN caller ID authentication
+and robocall mitigation program requirements and filed a certification in the Robocall Mitigation
+Database as required by §§ 64.6301 to 64.6305. The Company will provide the necessary "KYC"
+documentation for their customers as required by STI-GA Authorities. In addition, ALLO Communications
+LLC will pass the STIR/SHAKEN certificate, without modification, to each carrier with which it exchanges
+call traffic. A copy of the filed Robocall Mitigation Database documentation is attached as Exhibit A
+ALLO Communications LLC is committed to providing full support for their customers concerning
+Robocall Mitigation and call Blocking where appropriate. The Company certifies that it will not use the
+numbers obtained pursuant to an authorization to knowingly transmit, encourage, assist, or facilitate
+illegal robocalls, illegal spoofing, or fraud, in violation of robocall, spoofing, and deceptive telemarketing
+obligations under§§ 64.1200, 64.1604, and 64.6300 et seq. of this chapter, and 16 CFR 310.3(b). ALLO
+Communications LLC's FRN and 499 filer ID are attached Exhibit B
+Any questions you may have regarding this filing should be directed to my attention at 470-672-3933 or
+via email to nfernandez@inteserra.com. Thank you for your assistance in this matter.
+Sincerely,
+/s/Nelson Fernandez
+Nelson Fernandez
+Consultant
+47 C.F.R. § 52.lS(g).
+
+EXHIBIT A
+
+Robocall Mitigation Program
+ALLO Communications LLC
+FRN 0010480978
+FCC Public Notice DA 24-73 announces the Robocall Mitigation Database filing deadlines and additional
+compliance instructions. Allo Communications is a voice service provider with a STIR/SHAKEN
+implementation obligation serving end-users. As of 12/31/2021 ALLO Communications has
+implemented STIR/SHAKEN in conjunction with Neustar/Transunion on the IP portions of the Allo
+Communications voice network. In addition to STIR/SHAKEN, Allo performs robocall mitigation for all IP
+and TDM voice traffic.
+This document provides the additional information required by FCC Public Notice DA 24-73 and defines
+the ALLO Robocall Mitigation Program that ALLO Communications will be following to combat unlawful
+Robocalls in accordance with the FCC Robocall Mitigation and certification requirements.
+Additional Information required by FCC Public Notice DA 24-73
+1) Allo Communications is a voice service provider with a STIR/SHAKEN implementation obligation
+serving end-users.
+2) Allo claims no extension for the STIR/SHAKEN implementation.
+3) No additional Principals, Affiliates, Subsidiaries, Parent Companies other than Allo
+Communications.
+4) Allo Communications is not subject to a Commission, law enforcement, or regulatory agency
+action or investigation due to suspected unlawful robocalling or spoofing and provide
+information concerning any such actions or investigations.
+5) Allo Communications OCN is 710A
+ALLO Robocall Mitigation Program
+1) Measures to prevent the origination of illegal robocalls
+• Neustar Robocall Mitigation service
+Using the existing Neustar CNAM infrastructure and data analytics, this service identifies
+invalid and unassigned telephone numbers for authoritative blacklist as well as identifying
+legitimate telephone numbers for authoritative whitelist.
+• Metaswitch source based translations mitigation
+Using the Metaswitch files based dynamic translations, this service blocks the following
+types of calls from originating or terminating on the ALLO network.
+o Invalid non-Telcordia formatted telephone numbers
+o Poorly rated telephone numbers (99-100) based on Neustar CNAM analytics
+o Any illegal robocallers or TDOS attackers based on validated reports
+• Additional mitigation services being implemented
+o ~eustar Strategic Caller
+o Neustar STIR/SHAKEN call authentication
+
+o Equinox Protector analytics service (live call pattern monitoring)
+• Provisioning processes and database monitoring
+o ALLO subscriber Calling Party Numbers must be ALLO owned telephone numbers.
+o ALLO PBX business/enterprise customers must include ALLO owned telephone numbers
+in P-Asserted ID of call. Calling Party Numbers must be owned by the respective
+business/enterprise.
+• End-user customer validation, vetting, and contractual provisions
+o All end-user customers are vetted for reputation at time of contract origination and
+renewal.
+o Business/enterprise customers must prove ownership of any non-ALLO phone numbers
+to be used in call processing.
+2) ALLO Response to Traceback Requests
+• ALLO participates in the Industry Traceback Group/Consortium. Allo commits to respond fully,
+within 24 hours, to all traceback requests from the Commission, law enforcement, and the
+industry traceback consortium, and to cooperate with such entities in investigating and stopping
+illegal robocallers.
+• ALLO has a process in place to investigate and identify fraudulent calls originating on the ALLO
+network whether they be identified via Traceback or through pre-emptive monitoring.
+3) ALLO commitment and cooperation to stop illegal robocallers
+• ALLO commits to block any customer from originating illegal calls on the ALLO network.
+• Any ALLO customer that is identified as an illegal robocaller will be suspended from originating
+calls on the ALLO network.
+• The Metaswitch source based translations mitigation allows ALLO to block any telephone
+number identified as an illegal robocaller from completing calls either originating or terminating
+on the ALLO network.
+4) Universal Robocall Mitigation Database Filing Obligation
+• All calls that Allo originate on our network are subject to our robocall mitigation program.
+• No prior certification has been removed by Commission action and Allo has not been prohibited
+from filing in the Robocall Mitigation Database. Allo has fully implemented STIR/SHAKEN on the
+IP portions of our voice networks.
+• Allo's robocall mitigation plan describes the specific "reasonable steps" Allo has taken to avoid
+the origination, carrying, or processing of illegal robocall traffic as part of its robocall mitigation
+program as described in FCC Public Notices DA 21-454 and DA 24-73.
+
+EXHIBIT B
+
+8/8/24, 12:22 PM FCC Form 499 Filer Database Detailed Information
+Announcing a new FCC.gov. Tell us what you think and help shape the future
+];;Fee Logo - Search I RSS I Updates I E-Filing I Initiatives I Consumers I Find People
+Return to the FCC
+[
+1:-lome_eaa _ ____
+FCC Form 499 Filer Database Detailed Information .,)
+FCC> CGB Home> FCC Form 499 Filer Database> FCC Form 499 Filer Database Detailed Information
+FCC Form 499 Filer Database
+DETAILED INFORMATION
+~ Form 499 Eiler 824034 RSS Feed
+Filer Identification Information:
+No Longer Active as of .
+Replaced by filer: _
+Historical Data:
+499 Filer ID Number: 824034
+Registration Current as of: 4/1/2024
+Legal Name of Reporting Entity: Allo Communications, LLC
+Doing Business As: Allo Communications, LLC
+Principal Communications Type: CAP/LEC
+Universal Service Fund Contributor: Yes
+(Contact USAC at 888-641-8722 if this is not correct.)
+Holding Company:
+Registration Number (CORESID): 0010480978
+Management Company:
+Headquarters Address: 330 S 21st Street
+City: Lincoln
+State: NE
+ZIP Code: 68510
+Customer Inquiries Address: 330 S 21st Street
+City: Lincoln
+State: NE
+ZIP Code: 68510
+Customer Inquiries Telephone: 866-481-2556 Ext:
+Other Trade Names: Allo Communications
+.~gent for Sr<:!r..,ice of Process:
+Local/ Al tern ate Agent for Service
+of Process:
+Telephone:
+Extension:
+Fax:
+E-mail:
+Business Address of Agent for
+Mail or Hand Service of Documents:
+City:
+State:
+ZIP Code:
+D. C. Agent for Service of Process: CT Corporation System
+CT Corporation System
+Telephone: 202-393-1747
+Extension:
+Fax: 202-393-1760
+E-Mail: ill.fQ@ctadyantag~
+Business Address of D.C. Agent for
+Mail or Hand Service of Documents: 1025 Vermont Avenue, NW
+City: Washington
+State: DC
+ZIP Code: 20005
+FCC Registration Information.:
+Chief Executive Officer: Bradley Moline
+Business Address: 610 Broadway
+PO BOK 1123
+City: Imperial
+State: NE
+ZIP Code: 69033
+Chairman or Other Senior Officer: Allison ONeil
+Business Address: 610 Broadway
+1/2
+https://apps.fcc.gov/cgb/form499/499detail.cfm?FilerNum=824034
+
+8/8/24, 12:22 PM FCC Form 499 Filer Database Detailed Information
+PO Box 1123
+City Imperial
+State NE
+ZIP Code 69033
+President or Other Senior Officer: Nate Buhrman
+Business Address: 330 S 21st Street
+City: Lincoln
+State: NE
+ZIP Code: 68S10
+Jurisdictions in Which the Filing Entity Provides Telecommunications Services:
+Colorado
+Nebraska
+Use browser "Back" button to return to results page.
+I
+Return to Search Form J
+This database reflects filings received by USAC as of Jul. 22, 2024 FCC Form 499 Filer Database Software Version 01.03.06 July 21, 2011
+FCC Home Rss. Initiatives consumers
+Federal Communications Commission Phone: 1-886-CALL-FCC (1-888-225-5322) -~Policy
+45 L Street NE TTY: 1-886-TELL-FCC (1-888-835-5322) -Website PoJicies & Notices
+washington, DC 20554 Fax: 1-866-416-0232 • ~uired Browser Plug::!fil
+More FCC Contact lnfoa:oation -Freedom of Information Act
+https://apps.fcc.gov/cgb/form499/499detail.cfm?FilerNum=824034 2/2
+
+8/8/24, 12:20 PM FCC Registration System
+Close Window
+Registration Detail
+FRN: 0010480978
+Registration Date: 03/01/2004 03:43:11 PM
+Last Updated: 11/20/2015 02:39:00 PM
+Entity Name: Allo Communications LLC
+Entity Type: Private Sector , Limited Liability Corporation
+Contact Organization:
+Contact Position: President
+Contact Name: Bradley A Moline
+610 Broadway
+Contact Address: Imperial, NE 69033
+United States
+Contact Email:
+ContactPhone: (308) 882-7800
+ContactFax:
+1/1
+htlps://apps.fcc.gov/cores/searchDetail.do?frn=0010480978&csfrToken=
+
+VERIFICATION
+I swear under penalty of perjury that I have examined the foregoing document and that all
+statements in the aforementioned application and any appendices are true and accurate.
+ls/Nelson Fernandez
+Consultant
+Date: September 5, 2024

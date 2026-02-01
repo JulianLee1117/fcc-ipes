@@ -1,0 +1,136 @@
+Before the
+FEDERAL COMMUNICATIONS COMMISSION
+Washington, D.C. 20554
+In the Matter of )
+)
+Dialwave, Inc. )
+For Authorization to Obtain Numbering ) WC Docket No. 25-204
+Resources Pursuant to Section 52.15(g) of )
+The Commission’s Rules )
+SUPPLEMENT NO. 1 TO
+APPLICATION OF DIALWAVE, INC.
+FOR AUTHORIZATION TO OBTAIN NUMBERING RESOURCES
+a. INFORMATION REQUIRED BY 47 C.F.R. § 52.15(g)(3)(ii):
+1. 47 C.F.R. § 52.15(g)(3)(ii)(I)
+Dialwave certifies that it has filed FCC Form 477. Evidence in support of this
+certification can be found in Exhibit A.
+2. 47 C.F.R. § 52.15(g)(3)(ii)(K)
+i. Dialwave, Inc. (“Dialwave”) certifies that it possesses the financial,
+managerial, and technical expertise to provide reliable service.
+ii. Dialwave’s key management and technical personnel are as follows:
+Robert Nichols, Chief Executive Officer
+Attached as Exhibit B is the resume for Robert Nichols.
+iii. Neither Dialwave, nor any of the identified key management personnel,
+are being or have been investigated by the Commission, law enforcement,
+or any regulatory agency for failure to comply with any law, rule, or order,
+including the Commission’s rules applicable to unlawful robocalls or
+unlawful spoofing.
+
+3. 47 C.F.R. § 52.15(g)(3)(ii)(L)
+i. 47 C.F.R. § 63.18(h)(1)
+Name: Robert Nichols
+Address: 31 West 34th Street
+8th Floor
+New York, NY 10001
+Citizenship: US
+Principal Business: Telecommunications
+Shares Owned: 100%
+ii. 47 C.F.R. § 63.18(h)(1)(i)–(ii)
+Dialwave is 100% directly owned by a single individual. There are no
+intervening entities and no equity or voting interests are held indirectly.
+iii. 47 C.F.R. § 63.18(h)(2)
+Robert Nichols
+Dialwave, Inc.
+iv. 47 C.F.R. § 63.18(h)(3)
+There are no interlocking directorates with a foreign carrier.
+v. 47 C.F.R. § 63.18(i)
+Dialwave certifies that it is not a foreign carrier and is not associated with
+a foreign carrier.
+4. 47 C.F.R. § 52.15(g)(3)(ii)(N)
+Attached as Exhibit C is an Officer’s Declaration.
+
+b. ACKNOWLEDGMENT OF CONDITIONS IN 47 C.F.R. § 52.15(g)(3)(x)
+Dialwave will maintain the accuracy of all contact information and certifications
+in this application and will file any corrections or revisions with the Commission and
+each applicable state within 30 days of the changes as required by 47 C.F.R. §
+52.15(g)(3)(x).
+c. CONCLUSION
+Dialwave respectfully requests that the Commission grant this application for
+authorization to obtain numbering resources.
+Respectfully submitted,
+/s/ Robert Nichols
+Robert Nichols
+CEO
+Dialwave, Inc.
+robert.nichols@dialwave.com
+Dated: September 10, 2025
+
+LIST OF EXHIBITS
+Exhibit A Proof of Filing FCC Form 477
+Exhibit B Resume of Robert Nichols
+Exhibit C Officer’s Declaration
+
+EXHIBIT A
+Proof of Filing FCC Form 477
+
+EXHIBIT B
+Resume of Robert Nichols
+
+Robert Nichols
+Professional Summary
+Technology and telecommunications executive with 20+ years of expertise in datacenter engineering,
+enterprise network architecture and operations, software development, and regulatory oversight. Proven
+record in designing, deploying, and managing large-scale infrastructure, building and scaling telecom
+platforms, and driving regulatory compliance initiatives. Demonstrated ability to align technology strategy
+with business growth and global operations.
+Experience
+Dialwave – Chief Executive Officer
+2021 – Present
+- Lead strategic direction and overall operations of the company
+- Lead development of proprietary telecom stack, APIs, and customer dashboards
+- Architect and deploy multi-cloud infrastructure delivering scalable, high availability, and fault-
+tolerant services
+- Negotiate and manage interconnection and peering agreements
+- Ensure compliance with domestic and international telecom regulations
+- Direct network operations, monitoring, and incident response programs
+- Drive corporate governance, strategic partnerships, and business development initiatives
+ignition360 – Managing Member
+2012 – Present
+- Provide consulting and design services for enterprise data and voice networks
+- Design and implement custom infrastructure solutions tailored to client requirements
+- Manage IT operations spanning servers, storage, virtualization, and networking
+- Oversee vendor relationships, procurement, and contract negotiations
+- Provide cloud integration, disaster recovery planning, and virtualization services
+- Advise clients on security, compliance, and process optimization
+FDCServers – Data Center Engineer / Software Developer
+2009 – 2015
+- Supported expansion of datacenter infrastructure across 20+ global sites
+- Configured and maintained BGP, OSPF, VRRP, LACP, and VLANs on multi-vendor networking
+platforms
+- Designed and deployed automation software to streamline datacenter operations and improve
+efficiency
+Mandragore – Senior System Engineer
+2004 – 2012
+- Directed datacenter buildouts, enterprise networking, and VMware cluster deployments
+- Administered VMware clusters, including servers, networking, and custom storage systems
+- Deployed and maintained custom Asterisk PBX systems for enterprise communications
+
+EXHIBIT C
+Officer’s Declaration
+
+            
+DECLARATION OF ROBERT NICHOLS
+I, Robert Nichols, declare, pursuant to 47 C.F.R. § 1.16 and under penalty of perjury, that
+the following is true and correct:
+1. I am the Chief Executive Officer of Dialwave, Inc., and I have served in this role
+since January 22, 2021.
+2. I have reviewed the foregoing Supplement No. 1 to the Application of Dialwave,
+Inc. for Authorization to Obtain Numbering Resources, together with the exhibits,
+and I am familiar with their contents.
+3. To the best of my knowledge, information, and belief, the information and
+statements contained in the foregoing Supplement No. 1 are true and correct.
+Robert Nichols
+CEO
+Dialwave, Inc.
+robert.nichols@dialwave.com
+Dated: September 10, 2025

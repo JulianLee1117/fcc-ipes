@@ -1,0 +1,72 @@
+Before the
+FEDERAL COMMUNICATIONS COMMISSION
+Washington, D.C. 20554
+__________________________________________
+)
+In the Matter of )
+) WC Docket No. 18-206
+)
+)
+)
+ELECTRIC LIGHTWAVE, LLC D/B/A )
+ALLSTREAM )
+)
+)
+For Authorization to Obtain Numbering )
+Resources Pursuant to Section 52.15(g) of )
+The Commission’s Rules )
+___________________________________________
+SUPPLEMENT TO THE APPLICATION OF ELECTRIC LIGHTWAVE, LLC
+D/B/A ALLSTREAM FOR AUTHORIZATION TO OBTAIN NUMBERING
+RESOURCES
+On May 29, 2018, Electric Lightwave, LLC d/b/a Allstream (“Allstream”),
+pursuant to Section 52.15(g)(3)(i) of the Commission’s Rules, respectfully requested
+authorization to obtain numbering resources as an interconnected VoIP provider.
+In response to the application, the Wireline Competition Bureau requested
+additional information to demonstrate proof of facilities readiness under Direct Access
+Order (FCC 15-70) paragraph 37. In support of this application, Allstream provides the
+following information:
+I. Proof of Facilities Readiness
+Allstream the interconnected VoIP provider will be partnering with the CLEC
+Electric Lightwave, LLC dba Allstream.
+
+Below is an example of interconnection agreements Electric Lightwave, LLC has with
+the relevant LECs.
+State ILEC Link to Interconnection Agreement
+Arizona CenturyLink QC (former Qwest) http://docket.images.azcc.gov/0000041453.pdf
+California AT&T Pacific Bell Search “Electric Lightwave”
+Idaho CenturyLink QC (former Qwest) http://www.puc.idaho.gov/fileroom/cases/summ
+ary/USWT0021.html
+Nevada AT&T Nevada Bell http://pucweb1.state.nv.us/PUC2/DktDetail.aspx
+Oregon CenturyLink CQ (former Qwest) https://apps.puc.state.or.us/edockets/docket.asp?
+DocketID=10078
+Utah CenturyLink QC (former Qwest) https://psc.utah.gov/2016/07/01/docket-no-13-
+049-32/
+Washington CenturyLink CQ (former Qwest) https://www.utc.wa.gov/docs/Pages/CompanyN
+ameBrowser.aspx
+II. List of States in which Allstream is planning on providing iVoIP
+Allstream initially intends to provide service in Arizona, California, Idaho,
+Nevada, Oregon, Utah and Washington.
+III. Percent of Foreign Ownership
+Zayo Group, LLC owns 100% of Allstream Business US, LLC which owns 100%
+of Electric Lightwave, LLC. The parent to Zayo Group is Zayo Group Holdings, Inc.
+(“Zayo”), a publicly traded company. Proxy statements filed by the company with the
+SEC show beneficial ownership of the company. Zayo has only one owner, Dodge &
+Cox with 10% or greater ownership (10.0% as of March 31, 2018).1 Dodge & Cox is a
+operates investment funds that are offered for sale only in the United States.2
+1 DEF 14A Proxy Statement (definitive), 9/27/2018 (http://otp.investis.com/clients/us/zayo1/SEC/sec-
+show.aspx?FilingId=12979981&Cik=0001608249&Type=PDF&hasPdf=1).
+2 See https://www.dodgeandcox.com/investor_resources.asp.
+-2-
+
+IV. Conclusion
+Allstream respectfully submits this additional information.
+Respectfully submitted,
+By: ___________________________
+Douglas Denney
+Vice President, Costs & Policy
+Allstream
+18110 SE 34th St.
+Building One, Suite 100
+Vancouver, WA 98683
+-3-

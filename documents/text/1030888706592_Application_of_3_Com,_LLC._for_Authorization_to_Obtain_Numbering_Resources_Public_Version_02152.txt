@@ -1,0 +1,535 @@
+Laura Garfinkel | Director
+laura.garfinkel@claconnect.com
+Cellular: 973-760-9218
+Office: 770-637-8308
+Feb 14, 2023
+VIA ECFS & FIRST-CLASS MAIL
+Marlene H. Dortch
+Office of the Secretary
+Federal Communications Commission
+445 12th Street SW
+Washington, D.C. 20554
+Re: Request for Confidential Treatment of Filing of 3 Com, LLC.;
+Application of 3 Com, LLC. for Authorization to Obtain Numbering
+Resources, WC Docket No. 20 -
+Dear Ms. Dortch:
+Pursuant to Section 52.15(g)(3)(i) of the Commission’s Rules, 3 Com, LLC. (“3 Com”), hereby
+submits its application requesting authorization to obtain numbering resources.
+This filing includes confidential information. As contemplated by the Commission’s rules, we
+are filing the public version electronically and the confidential version via first-class mail.
+3 Com respectfully requests that, pursuant to Sections 0.457 and 0.459 of the Commission’s rules,
+47 C.F.R. §§ 0.457 and 0.459, the Commission withhold from public inspection and grant
+confidential treatment to Exhibit A, a document that contains sensitive trade secrets and
+commercial information that falls within Exemption 4 of the Freedom of Information Act
+(“FOIA”).1 3 Com, LLC. is voluntarily providing this information, “of a kind that would
+customarily not be released to the public”; therefore, this information is “confidential” under
+FOIA.2 Moreover, 3 Com would suffer substantial competitive harm if this information were
+disclosed.3 As such, Exhibit A is marked with the header “SUBJECT TO REQUEST FOR
+CONFIDENTIAL TREATMENT – NOT FOR PUBLIC INSPECTION.”
+In support of this request and pursuant to Section 0.459(b) of the Commission’s rules,4 3 Com
+hereby states as follows:
+1 5 U.S.C. § 552(b)(4).
+2 Critical Mass Energy Project v. NRC, 975 F.2d 871, 879 (D.C. Cir. 1992).
+3 See Nat’l Parks & Conservation Ass’n v. Morton, 498 F.2d 765 (D.C. Cir. 1974).
+4 47 C.F.R. § 0.459(b).
+
+PUBLIC VERSION
+July 12, 2020
+Page 2 of 3
+1. IDENTIFICATION OF THE SPECIFIC INFORMATION FOR WHICH
+CONFIDENTIAL TREATMENT IS SOUGHT.5
+3 Com, LLC. seeks confidential treatment of Exhibit A to the enclosed application.
+2. DESCRIPTION OF CIRCUMSTANCES GIVING RISE TO THE SUBMISSION.6
+As proof of 3 Com’s facilities readiness as required by Section 52.15(b)(3)(i)(D) of the
+Commission’s rules, 3 Com is submitting the agreement between it and its carrier
+partner as Exhibit A.
+3. EXPLANATION OF THE DEGREE TO WHICH THE INFORMATION IS
+COMMERCIAL OR FINANCIAL; OR CONTAINS A TRADE SECRET OR IS
+PRIVILEGED.7
+The information for which 3 Com seeks confidential treatment contains sensitive
+commercial information which would customarily be guarded from competitors.8
+Exhibit A describes the agreement between 3 Com and its carrier partner and contains
+proprietary commercial information concerning the operations and pricing of 3 Com,
+LLC. ’s carrier partner and 3 Com’s network, services, and operating costs and expenses.
+4. EXPLANATION OF THE DEGREE TO WHICH THE INFORMATION
+CONCERNS A SERVICE THAT IS SUBJECT TO COMPETITION.9
+Exhibit A contains information relating to commercial matters that could be used by
+competitors to 3 Com’s disadvantage. 3 Com has numerous competitors in the Voice
+over Internet Protocol (“VoIP”) services sector in which it operates. Detailed operations
+and commercial information of the type provided by 3 Com could compromise 3 Com’s
+position in this highly competitive industry. Release would therefore result in substantial
+competitive harm to 3 Com.
+5. EXPLANATION OF HOW DISCLOSURE OF THE INFORMATION COULD
+RESULT IN SUBSTANTIAL COMPETITIVE HARM.10
+Competitors could use 3 Com’s proprietary commercial and operational information to
+3 Com’s detriment as they would gain access to sensitive information about how 3 Com
+provides services as well as about 3 Com’s commercial agreements with others in the
+market that are not normally disclosed to the public.
+5 47 C.F.R. § 0.459(b)(1).
+6 47 C.F.R. § 0.459(b)(2).
+7 47 C.F.R. § 0.459(b)(3).
+8 47 C.F.R. §§ 0.457(d) and 0.459.
+9 47 C.F.R. § 0.459(b)(4).
+10 47 C.F.R. § 0.459(b)(5).
+
+PUBLIC VERSION
+6. IDENTIFICATION OF ANY MEASURES TAKEN BY THE SUBMITTING PARTY
+TO PREVENT UNAUTHORIZED DISCLOSURE.11
+3 Com has not distributed the information in Exhibit A to the public.
+7. IDENTIFICATION OF WHETHER THE INFORMATION IS AVAILABLE TO
+THE PUBLIC AND THE EXTENT OF ANY PREVIOUS DISCLOSURE OF THE
+INFORMATION TO THIRD PARTIES.12
+3 Com has not previously disclosed the information in Exhibit A to the public or to third
+parties.
+8. JUSTIFICATION OF THE PERIOD DURING WHICH THE SUBMITTING
+PARTY ASSERTS THAT MATERIAL SHOULD NOT BE AVAILABLE FOR
+PUBLIC DISCLOSURE.13
+3 Com requests that Exhibit A be treated as confidential for a period of ten years. This
+period is necessary due to the proprietary nature of the information in Exhibit A.
+9. OTHER INFORMATION THAT 3 COM, LLC. BELIEVES MAY BE USEFUL IN
+ASSESSING WHETHER ITS REQUEST FOR CONFIDENTIALITY SHOULD BE
+GRANTED.14
+The information concerns 3 Com’s proprietary network information, related to current
+and planned commercial and operational information, and, as such, is commercially
+sensitive.
+Any questions you may have regarding this filing should be directed to my attention at (973) 760-9218 or
+via email to laura.garfinkel@claconnect.com. Thank you for your assistance in this matter.
+Respectfully Submitted,
+Laura Garfinkel; Director
+(“CLA”) CliftonLarsonAllen LLP
+3575 Piedmont Road Northeast,
+Building 15; Suite 1550
+Atlanta GA, 30305
+Phone: 973-760-9218
+Fax: 866-611-5443
+Email: Laura. Garfinkel@claconnect.com
+Attorney in Fact for 3 Com, LLC.
+11 47 C.F.R. § 0.459(b)(6).
+12 47 C.F.R. § 0.459(b)(7).
+13 47 C.F.R. § 0.459(b)(8).
+14 47 C.F.R. § 0.459(b)(9).
+
+PUBLIC VERSION
+Before the
+Federal Communications Commission
+Washington, D.C. 20554
+In the Matter of )
+)
+3 COM, LLC. ) WC Docket No. 20 -
+)
+For Authorization to Obtain Numbering )
+Resources Pursuant to Section 52.15(g) of )
+The Commission’s Rules )
+APPLICATION OF 3 COM, LLC. FOR AUTHORIZATION TO OBTAIN
+NUMBERING RESOURCES
+3 COM, LLC. (“3 COM”), pursuant to Section 52.15(g)(3)(i) of the Commission’s
+Rules, respectfully requests authorization to obtain numbering resources as described below.
+As set forth in the Commission’s Numbering Order,1 an interconnected VoIP provider may
+obtain numbering resources from the Numbering Administrator upon a showing that it is
+authorized to provide service in the area for which the numbering resources are requested. Such
+authorization may be obtained upon an application to the Commission containing the information
+detailed in Sections 52.15(g)(3)(i)(A)-(F) of the Commission’s Rules. 3 COM a VoIP provider,
+hereby requests the Commission grant it that authorization. In support of this application, 3 COM
+provides the following information.
+1 Numbering Policies for Modern Communications et al., Report and Order, 30 FCC Rcd. 6839 (2015).
+
+PUBLIC VERSION
+I. INFORMATION REQUIRED BY SECTION 52.15(g)(3)(i) (A)
+§ 52.15(g)(3)(i)(A)
+Name: 3 COM, LLC.
+Physical Address: 525 Cleveland Massillion Road
+Akron, OH 44333
+Mailing Address: 525 Cleveland Massillion Road
+Akron, OH 44333
+Telephone: Toll Free: 888-251-5353
+Local Number: 949-229-1599
+Company Fax: 234-200-0588
+Qualified Personnel: David Singer; President
+Company Website: www.3com.tel
+Contact for Regulatory Requirements, Compliance, 911, and Law Enforcement:
+Physical Address: 525 Cleveland Massillion Road
+Akron, OH 44333
+Mailing Address: 525 Cleveland Massillion Road
+Akron, OH 44333
+Telephone: 949-229-1599
+Email: david@3com.tel
+(B) § 52.15(g)(3)(i)(B)
+3 COM hereby acknowledges that authorization to obtain numbering resources under
+Section 52.15(g) of the Commission’s Rules is subject to compliance with applicable
+
+PUBLIC VERSION
+Commission numbering rules as well as to the numbering authority delegated to the states.
+3 COM hereby also acknowledges that this authorization is subject to compliance with industry
+guidelines and practices regarding numbering, as applicable to telecommunications carriers.
+(C) § 52.15(g)(3)(i)(C)
+3 COM hereby acknowledges that is must file requests for numbers with the relevant
+state commission(s) at least 30 days before requesting numbers from the Numbering
+Administrators.
+(D) § 52.15(g)(3)(i)(D)
+3 COM hereby sets forth its capability to provide service within 60 days of the numbering
+resources activation date. 3 COM intends to initially provide VoIP services in the New York
+State and New Jersey through its own facilities and those of its CLEC partner with which it has
+arrangements in place for routing traffic to the PSTN. Under its current agreements and
+established procedures, 3 COM will be able to place nearly all numbers into service within a
+short timeframe, and all numbers will be placed into service within 60 days of activation. As
+further proof of its facilities readiness, 3 COM has attached to this application, as Exhibit A, a
+confidential agreement between 3 COM and its carrier partner providing that the carrier partner
+will provide switching and transport services for traffic associated with 3 COM’s numbers and,
+in that connection, provide connectivity to the PSTN for inbound calls to and outbound calls
+from 3 COM numbers. (3 COM has requested confidential treatment under the Commission’s
+rules for Exhibit A.) Also attached, as Exhibit B, is evidence of interconnection agreements
+between 3 COM’s carrier partner and incumbent local exchange carriers in New York State and
+the state of New Jersey.
+
+PUBLIC VERSION
+(E) § 52.15(g)(3)(i)(E)
+3 COM hereby certifies that it complies with its Universal Service Fund contribution
+obligations under 47 CFR part 54, subpart H; its Telecommunications Relay Service contribution
+obligations under 47 CFR § 64.604(c)(5)(iii); its North American Numbering Plan and Local
+Number Portability Administration contribution obligations under 47 CFR §§ 52.17 and 52.32;
+its obligations to pay regulatory fees under 47 CFR § 1.1154; and its 911 obligations under 47
+CFR part 9. 3 COM holds the FRN #0031861388 and the USAC 499 Filer ID # 834956.
+(F) § 52.15(g)(3)(i)(F)
+3 COM hereby certifies that it has the managerial, financial and technical expertise to
+provide reliable service to Customers. 3 COM is financially stable, is led by an, experienced
+and seasoned management team with substantial leadership experience in the
+telecommunications and technology industry. Additionally 3 COM has sound, complete and
+strong technical expertise along with the infrastructure in place to provide reliable numbering
+and related VoIP services.
+3 COM far exceeds the technical qualifications necessary to provide and maintain
+successful operations within its given service area. 3 COM also has the capabilities to efficiently
+port and place numbers into service and successfully route calls. Additionally, 3 COM key
+management team has long term experience and expertise in the telecommunications field along
+with having with deep experience in number porting therefore enabling 3 COM along with its
+carrier partners, to create routing arrangements that seamlessly deliver calls to numbers directly
+assigned to 3 COM.
+
+PUBLIC VERSION
+3 COM’s personnel have extensive business and management experience in
+telecommunications and technology related businesses and in serving its targeted customer
+segment, including telecommunications carriers, IP service providers, and business customers of
+IP, communications, information and technology services. These individuals lead a team that is
+highly qualified to manage the technical and functional operations of 3 COM throughout its
+service area. 3 COM’s key management and technical team members are listed below and also in
+exhibit C. None of the identified personnel is being or has been investigated by the Commission
+or any law enforcement or regulatory agency for failure to comply with any law, rule, or order.
+Key Personnel:2 Mr. David Singer, President
+(G) § 52.15(g)(3)(i)(G)
+3 COM hereby certifies that no party to this application is subject to a denial of Federal
+benefits pursuant to Section 5301 of the Anti-Drug Abuse Act of 1988, 21 U.S.C. § 862.
+II. ACKNOWLEDGEMENT OF CONDITIONS IN SECTION 52.15(g)(3)(iv)
+As required by Section 52.15(g)(3)(iv), 3 COM will maintain the accuracy of all contact
+information and certifications in this application, and will file a correction with the Commission
+and each applicable state within 30 days of any changes. 3 COM will also furnish accurate
+regulatory and numbering contact information to each state commission when requesting numbers
+in that state.
+
+PUBLIC VERSION
+III. CONCLUSION
+Pursuant to Section 52.15(g)(3)(i) of the Commission’s Rules, 3 COM, LLC. respectfully
+requests the Commission grant this application for authorization to obtain numbering resources.
+Respectfully submitted,
+Laura Garfinkel; Director
+(“CLA”) CliftonLarsonAllen LLP
+3575 Piedmont Road Northeast,
+Building 15; Suite 1550
+Atlanta GA, 30305
+Phone: 973-760-9218
+Fax: 866-611-5443
+Email: Laura. Garfinkel@claconnect.com
+Attorney in Fact for 3 Com, LLC.
+.
+2 Attached hereto, as Exhibit C, are the names, titles, biographies, and contact information of 3 COM, LLCs
+key management and technical personnel.
+
+PUBLIC VERSION
+EXHIBIT A
+CONFIDENTIAL MATERIALS OMITTED
+AGREEMENT
+BETWEEN 3 COM, LLC, AND CARRIER PARTNER
+SUBJECT TO REQUEST FOR CONFIDENTIAL
+TREATMENT NOT FOR PUBLIC INSPECTION
+
+EXHIBIT B
+CARRIER PARTNER-LOCAL EXCHANGE CARRIER AGREEMENTS
+NEW JERSEY & NEW YORK STATE
+
+AGREEMENT
+by and between
+PEERLESS NETWORK OF NEW JERSEY, LLC
+and
+VERIZON NEW JERSEY INC.
+FOR THE STATE OF
+NEW JERSEY
+PN NJ Comp v3.2a
+
+AGREEMENT
+PREFACE
+This Agreement (“Agreement”) shall be deemed effective as of October 28, 2008 (the “Effective
+Date”), between Peerless Network of New Jersey, LLC (“PN”), a limited liability company
+organized under the laws of the State of Delaware, with offices at 225 W. Washington Street,
+Suite 1285, Chicago, IL 60606 and Verizon New Jersey Inc. (“Verizon”), a corporation organized
+under the laws of the State of New Jersey with offices at 540 Broad Street, Newark, NJ 07102
+(Verizon and PN may be referred to hereinafter, each, individually as a “Party”, and, collectively,
+as the “Parties”).
+GENERAL TERMS AND CONDITIONS
+In consideration of the mutual promises contained in this Agreement, and intending to be legally
+bound, pursuant to Section 252 of the Act, Verizon and PN hereby agree as follows:
+1. The Agreement
+1.1 This Agreement includes: (a) the Principal Document; (b) the Tariffs of each
+Party applicable to the Services that are offered for sale by it in the Principal
+Document (which Tariffs are incorporated into and made a part of this Agreement
+by reference); and, (c) an Order by a Party that has been accepted by the other
+Party.
+1.2 Except as otherwise expressly provided in the Principal Document (including, but
+not limited to, the Pricing Attachment), conflicts among provisions in the Principal
+Document, Tariffs, and an Order by a Party that has been accepted by the other
+Party, shall be resolved in accordance with the following order of precedence,
+where the document identified in subsection “(a)” shall have the highest
+precedence: (a) the Principal Document; (b) the Tariffs; and, (c) an Order by a
+Party that has been accepted by the other Party. The fact that a provision
+appears in the Principal Document but not in a Tariff, or in a Tariff but not in the
+Principal Document, shall not be interpreted as, or deemed grounds for finding, a
+conflict for the purposes of this Section 1.2.
+1.3 This Agreement constitutes the entire agreement between the Parties on the
+subject matter hereof, and supersedes any prior or contemporaneous
+agreement, understanding, or representation, on the subject matter hereof,
+provided, however, notwithstanding any other provision of this Agreement or
+otherwise, this Agreement is an amendment, extension and restatement of the
+Parties’ prior interconnection and resale agreement(s), if any, and, as such, this
+Agreement is not intended to be, nor shall it be construed to create, a novation or
+accord and satisfaction with respect to any prior interconnection or resale
+agreements and, accordingly, all monetary obligations of the Parties to one
+another under any prior interconnection or resale agreements shall remain in full
+force and effect and shall constitute monetary obligations of the Parties under
+this Agreement (provided, however, that nothing contained in this Agreement
+shall convert any claim or debt that would otherwise constitute a prepetition claim
+or debt in a bankruptcy case into a postpetition claim or debt). In connection with
+the foregoing, Verizon expressly reserves all of its rights under the Bankruptcy
+Code and Applicable Law to seek or oppose any relief in respect of the
+assumption, assumption and assignment, or rejection of any interconnection or
+resale agreements between Verizon and PN.
+PN NJ Comp v3.2a 1
+
+1.4 Except as otherwise provided in the Principal Document, the Principal Document
+may not be waived or modified except by a written document that is signed by
+the Parties. Subject to the requirements of Applicable Law, a Party shall have
+the right to add, modify, or withdraw, its Tariff(s) at any time, without the consent
+of, or notice to, the other Party.
+2. Term and Termination
+2.1 This Agreement shall be effective as of the Effective Date and, unless cancelled
+or terminated earlier in accordance with the terms hereof, shall continue in effect
+until October 27, 2010 (the “Initial Term”). Thereafter, this Agreement shall
+continue in force and effect unless and until cancelled or terminated as provided
+in this Agreement.
+2.2 Either PN or Verizon may terminate this Agreement effective upon the expiration
+of the Initial Term or effective upon any date after expiration of the Initial Term by
+providing written notice of termination at least ninety (90) days in advance of the
+date of termination.
+2.3 If either PN or Verizon provides notice of termination pursuant to Section 2.2 and
+on or before the proposed date of termination either PN or Verizon has requested
+negotiation of a new interconnection agreement, unless this Agreement is
+cancelled or terminated earlier in accordance with the terms hereof (including,
+but not limited to, pursuant to Section 12), this Agreement shall remain in effect
+until the earlier of: (a) the effective date of a new interconnection agreement
+between PN and Verizon; or, (b) the date one (1) year after the proposed date of
+termination.
+2.4 If either PN or Verizon provides notice of termination pursuant to Section 2.2 and
+by 11:59 PM Eastern Time on the proposed date of termination neither PN nor
+Verizon has requested negotiation of a new interconnection agreement, (a) this
+Agreement will terminate at 11:59 PM Eastern Time on the proposed date of
+termination, and (b) the Services being provided under this Agreement at the
+time of termination will be terminated, except to the extent that the Purchasing
+Party has requested that such Services continue to be provided pursuant to an
+applicable Tariff or Statement of Generally Available Terms (SGAT).
+3. Glossary and Attachments
+The Glossary and the following Attachments are a part of this Agreement:
+Additional Services Attachment
+Interconnection Attachment
+Resale Attachment
+Network Elements Attachment
+Collocation Attachment
+911 Attachment
+Pricing Attachment
+4. Applicable Law
+4.1 The construction, interpretation and performance of this Agreement shall be
+governed by (a) the laws of the United States of America and (b) the laws of the
+PN NJ Comp v3.2a 2
+
+140 West Street
+27th Floor
+New York, NY 10007-2109
+Tel (212) 321-8136
+Fax (212) 962-1687
+keefe.b.clemons@verizon.com
+Keefe B. Clemons
+Associate General Counsel – NY & CT
+October 16, 2007
+BY HAND
+Honorable Jaclyn A. Brilling
+Secretary
+New York Public Service Commission
+Three Empire State Plaza
+Albany, New York 12223
+Re: Interconnection Agreement between
+Verizon New York Inc. and Peerless Network of New York, LLC
+Dear Secretary Brilling:
+Enclosed please find the Interconnection Agreement, effective October 11, 2007,
+between Verizon New York Inc. and Peerless Network of New York, LLC. The contact person
+for Peerless Network of New York, LLC is:
+Scott Kell
+Peerless Network of New York, LLC
+27 North Wacker Street, Suite 244
+Chicago, IL 60606
+(312) 282-9323
+skell@peerlessnetwork.com
+If you have any questions regarding this matter, please feel free to contact me.
+Respectfully submitted,
+Keefe B. Clemons
+cc: Scott Kell (By E-Mail)
+
+AGREEMENT
+by and between
+PEERLESS NETWORK OF NEW YORK, LLC
+and
+VERIZON NEW YORK INC.
+FOR THE STATE OF
+NEW YORK
+PN NY Comp v3.1.doc
+
+AGREEMENT
+PREFACE
+This Agreement (“Agreement”) shall be deemed effective as of October 11, 2007 (the “Effective
+Date”), between Peerless Network of New York, LLC (“PN”), a Limited Liability Company
+organized under the laws of the State of Delaware, with offices at 27 N. Wacker St., Suite 444,
+Chicago, IL 60606 and Verizon New York Inc. (“Verizon”), a corporation organized under the
+laws of the State of New York with offices at 140 West Street, New York, NY 10007 (Verizon and
+PN may be referred to hereinafter, each, individually as a “Party”, and, collectively, as the
+“Parties”).
+GENERAL TERMS AND CONDITIONS
+In consideration of the mutual promises contained in this Agreement, and intending to be legally
+bound, pursuant to Section 252 of the Act, Verizon and PN hereby agree as follows:
+1. The Agreement
+1.1 This Agreement includes: (a) the Principal Document; (b) the Tariffs of each
+Party applicable to the Services that are offered for sale by it in the Principal
+Document (which Tariffs are incorporated into and made a part of this Agreement
+by reference); and, (c) an Order by a Party that has been accepted by the other
+Party.
+1.2 Except as otherwise expressly provided in the Principal Document (including, but
+not limited to, the Pricing Attachment), conflicts among provisions in the Principal
+Document, Tariffs, and an Order by a Party that has been accepted by the other
+Party, shall be resolved in accordance with the following order of precedence,
+where the document identified in subsection “(a)” shall have the highest
+precedence: (a) the Principal Document; (b) the Tariffs; and, (c) an Order by a
+Party that has been accepted by the other Party. The fact that a provision
+appears in the Principal Document but not in a Tariff, or in a Tariff but not in the
+Principal Document, shall not be interpreted as, or deemed grounds for finding, a
+conflict for the purposes of this Section 1.2.
+1.3 This Agreement constitutes the entire agreement between the Parties on the
+subject matter hereof, and supersedes any prior or contemporaneous
+agreement, understanding, or representation, on the subject matter hereof,
+provided, however, notwithstanding any other provision of this Agreement or
+otherwise, this Agreement is an amendment, extension and restatement of the
+Parties’ prior interconnection and resale agreement(s), if any, and, as such, this
+Agreement is not intended to be, nor shall it be construed to create, a novation or
+accord and satisfaction with respect to any prior interconnection or resale
+agreements and, accordingly, all monetary obligations of the Parties to one
+another under any prior interconnection or resale agreements shall remain in full
+force and effect and shall constitute monetary obligations of the Parties under
+this Agreement (provided, however, that nothing contained in this Agreement
+shall convert any claim or debt that would otherwise constitute a prepetition claim
+or debt in a bankruptcy case into a postpetition claim or debt). In connection with
+the foregoing, Verizon expressly reserves all of its rights under the Bankruptcy
+Code and Applicable Law to seek or oppose any relief in respect of the
+assumption, assumption and assignment, or rejection of any interconnection or
+resale agreements between Verizon and PN.
+PN NY Comp v3.1.doc 1
+
+1.4 Except as otherwise provided in the Principal Document, the Principal Document
+may not be waived or modified except by a written document that is signed by
+the Parties. Subject to the requirements of Applicable Law, a Party shall have
+the right to add, modify, or withdraw, its Tariff(s) at any time, without the consent
+of, or notice to, the other Party.
+2. Term and Termination
+2.1 This Agreement shall be effective as of the Effective Date and, unless cancelled
+or terminated earlier in accordance with the terms hereof, shall continue in effect
+until October 10, 2009 (the “Initial Term”). Thereafter, this Agreement shall
+continue in force and effect unless and until cancelled or terminated as provided
+in this Agreement.
+2.2 Either PN or Verizon may terminate this Agreement effective upon the expiration
+of the Initial Term or effective upon any date after expiration of the Initial Term by
+providing written notice of termination at least ninety (90) days in advance of the
+date of termination.
+2.3 If either PN or Verizon provides notice of termination pursuant to Section 2.2 and
+on or before the proposed date of termination either PN or Verizon has requested
+negotiation of a new interconnection agreement, unless this Agreement is
+cancelled or terminated earlier in accordance with the terms hereof (including,
+but not limited to, pursuant to Section 12), this Agreement shall remain in effect
+until the earlier of: (a) the effective date of a new interconnection agreement
+between PN and Verizon; or, (b) the date one (1) year after the proposed date of
+termination.
+2.4 If either PN or Verizon provides notice of termination pursuant to Section 2.2 and
+by 11:59 PM Eastern Time on the proposed date of termination neither PN nor
+Verizon has requested negotiation of a new interconnection agreement, (a) this
+Agreement will terminate at 11:59 PM Eastern Time on the proposed date of
+termination, and (b) the Services being provided under this Agreement at the
+time of termination will be terminated, except to the extent that the Purchasing
+Party has requested that such Services continue to be provided pursuant to an
+applicable Tariff or Statement of Generally Available Terms (SGAT).
+3. Glossary and Attachments
+The Glossary and the following Attachments are a part of this Agreement:
+Additional Services Attachment
+Interconnection Attachment
+Resale Attachment
+Network Elements Attachment
+Collocation Attachment
+911 Attachment
+Pricing Attachment
+4. Applicable Law
+4.1 The construction, interpretation and performance of this Agreement shall be
+governed by (a) the laws of the United States of America and (b) the laws of the
+PN NY Comp v3.1.doc 2
+
+SIGNATURE PAGE
+INWITNESS WHEREOF, the Parties hereto have caused this Agreement to beexecuted as of
+the Effective Date.
+PEERLESS NETWORK OF NEW YORK, LLC VERIZON NE
+By:
+BY~
+Printed: Scott Kell Printed: Gary Librizzi
+Title: SVP Operations and Engineering Title: Director - Negotiations
+PN NY Comp v3.1.doc 26
+
+EXHIBIT C
+3 COM, LLC.
+KEY MANAGEMENT AND TECHNICAL PERSONNEL
+EXHIBIT C
+
+3 COM KEY MANAGEMENT & TECHNICAL PERSONNEL
+Mr. David Singer
+Mr. David Singer is a dynamic telecom executive with over 35 years in the telecommunications
+industry and is the President of 3 COM, LLC.
+Mr. Singer has been involved with many successful telecommunications companies ranging from
+traditional CLEC’s, to CMRS, to VoIP companies and has experience in all areas of operations.
+From management, to finance internal operations to technical and infrastructure deployment David
+employs a wide and vast skill set of knowledge.
+Using his 16 years’ experience as an electrical engineer prior to commencing in the telecom world
+Mr. Singer has been able to design and configure advanced systems and technology and even now
+with his design and development of the 3 COM, LLC network has a sophisticated network which
+is fully STIR/SHAKEN compliant.
+In previous ventures and now with 3 COM, LLC in serving also as both an advanced customer
+service and support specialist and running his team, Mr. Singer has compiled an extensive toolbox
+to create positive telecom solutions.
+Throughout the telecom industry Mr. Singer is widely known, extremely well regarded and is
+viewed by many in the industry as “Chief Connector”. Under this moniker not only within 3 COM,
+LLC. but also, in the industry at large Mr. Singer continues to expand the capabilities not only the
+company but serves as a sage to the new entrants into the industry who are seeking to set up their
+own telecommunications companies.
+For much of the 1980s, he traveled throughout the Far East and the United States, training telecom
+technicians and network engineers about how to improve their operations and customer support.
+Through his many ventures and now 3 COM, LLC. Mr. Singer applies his unique vision to deliver
+the communications services that today’s entrepreneurs and emerging companies need. His “secret
+sauce” is a passion for not only great pricing but also for excellent, service delivery to clients and
+superior customer service.
+David’s vision for 3 COM, LLC remains in perfect harmony with what modern business owners
+want. When not spinning miracles in the office,

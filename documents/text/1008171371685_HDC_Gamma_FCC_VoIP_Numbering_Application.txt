@@ -1,0 +1,319 @@
+151SouthhallLane.Ste450
+Maitland.FL32751
+I
+P.O.Drawer200
+WnterPark.FL3279().0200
+www.inteserra.com
+October8, 2019
+Via ECFS Filing
+REDACTED FOR PUBLICINSPECTION
+Secretary, Federal Communications Commission
+Washington, DC20554
+Attn: Wireline Competition Bureau
+RE: Request for Confidential Treatment of Filing ofHOC Gamma, llCj Application ofHDCGamma,
+LLC for Authorization to Obtain Numbering Resources Pursuant to Section 52.15(g) of the
+Commission'sRules, WCDocketNo. 19-.
+DearSecretary:
+Pursuant to Section 52.15{g)(3)(i) ofthe Commission's Rules, HOC Gamma, LLC ("HOC Gamma") hereby
+submits its application requesting authorizationto obtain numberingresources.
+HOCGamma respectfully requests that, pursuantto Sections0.457 and 0.459 ofthe Commission's rules,
+47 C.F.R. §§ 0.457 and 0.459, the Commission withhold from public inspection and accord confidential
+treatment to Exhibit A to the application because that document contains sensitive trade secrets and
+commercial information that falls within Exemption 4 ofthe Freedom ofInformation Act ("FOIA").l HOC
+Gamma is voluntarily providing this information, "of a kind that would not customarily be released to
+the public"; therefore, this information is "confidential" under FOIA2 • Moreover, HOC Gamma would
+suffersubstantial competitive harm ifthis informationwere disclosed.3
+Exhibit A is accordingly marked with the header "SUBJECT TO REQUEST FOR CONFIDENTIAL TREATMENT
+NOTFOR PUBLICINSPECTION."
+5U.S.c. § 552{b)(4).
+See CriticalMass EnergyProjectv. NRC, 975 F.2d 871, 879 (D.C. Cir. 1992).
+3 See NationalParks andConservationAss'n v. Morton, 498F.2d 765 (D.C. Cir. 1974).
+
+October8, 2019
+Page 2of4
+In support of this request and pursuant to Section 0.459(b) of the Commission's rules4, HDC
+Gamma herebystates asfollows:
+1. IDENTIFICATION OFTHESPECIFICINFORMATION FORWHICH CONFIDENTIALTREATMENTIS
+s
+SOUGHT.
+HDCGamma seeks confidential treatmentofExhibitAtothe enclosed application.
+2. DESCRIPTION OFCIRCUMSTANCESGIVING RISETOTHESUBMISSION.6
+HDC Gamma is submitting as Exhibit A the agreement between it and its carrier partner, as
+proof of HDC Gamma's facilities readiness as required by Section 52. 15(g)(3)(i)(D) of the
+Commission's rules.
+3. EXPLANATION OF THE DEGREE TO WHICH THE INFORMATION IS COMMERCIAL OR FINANCIAL
+OR CONTAINSATRADESECRETORIS PRIVILEGED.7
+The information for which HDC Gamma seeks confidential treatment contains sensitive
+commercial information "which would customarily be guarded from competitors"8. Exhibit A
+describes the agreement between HDC Gamma and its carrier partner and contains proprietary
+commercial information concerning HDCGamma's network, customers, and services.
+4. EXPLANATION OF THE DEGREE TO WHICH THE INFORMATION CONCERNS A SERVICE THAT IS
+SUBJECTTOCOMPETITION.9
+ExhibitAcontains information relatingto commercial mattersthatcould be used bycompetitors
+to HDC Gamma's disadvantage. HDC Gamma has numerous competitors in the Voice over
+Internet Protocol ("VoIP") services sector in which it operates. Detailed operations and
+commercial information ofthe type provided by HDC Gamma could compromise HDC Gamma's
+position in this highly competitive industry. Release would therefore result in substantial
+competitive harmto HDCGamma.
+4 47 C.F.R. § 0.459(b).
+5 47 C.F.R. § 0.459(b)(l).
+6 47 C.F.R. §0.459(b)(2).
+7 47 C.F.R. §0.459(b)(3).
+8
+47 C.F.R. § 0.457(d)(2).
+9 47 C.F.R. § 0.459(b)(4).
+
+October8, 2019
+Page 3of4
+5. EXPLANATION OF HOW DISCLOSURE OF THE INFORMATION COULD RESULT IN SUBSTANTIAL
+COMPETITIVE HARMlo
+Competitors could use HOC Gamma's proprietary commercial and operational information to
+HOC Gamma's detriment as they would gain access to sensitive information about how HOC
+Gamma provides services as well as about HOCGamma's commercial agreements with others in
+the marketthatare not normallydisclosed to the public.
+6. IDENTIFICATION OF ANY MEASURES TAKEN BY THE SUBMITIING PARTY TO PREVENT
+UNAUTHORIZED DISCLOSURE.11
+HOCGamma has not distributedthe information in ExhibitAtothe public.
+7. IDENTIFICATION OF WHETHER THE INFORMATION IS AVAILABLE TO THE PUBLIC AND THE
+EXTENTOFANY PREVIOUSDISCLOSURE OFTHE INFORMATIONTOTHIRD PARTIES,12
+HOCGamma has notpreviouslydisclosed the information in ExhibitA.
+8. JUSTIFICATION OF THE PERIOD DURING WHICH THE SUBMITIING PARTY ASSERTS THAT
+MATERIALSHOULDNOTBEAVAILABLE FOR PUBLICDISCLOSURE,u
+HOCGamma requests that ExhibitAbetreated as confidential for aperiod often years.This
+period is necessary dueto the proprietary natureofthe information in ExhibitA.
+10 47 C.P.R. § 0.459(b)(5).
+11 47 C.P.R. § 0.459(b)(6).
+12 47 C.F.R. § 0.459(b)(7).
+13 47 C.F.R. § 0.459(b)(8).
+
+October8, 2019
+Page4of4
+9. OTHER INFORMATION THAT HOCGAMMA BELIEVES MAY BE USEFULIN ASSESSING WHETHER
+ITSREQUESTFORCONFIDENTIALITYSHOULD BE GRANTED.14
+The information concerns HDC Gamma's proprietary network information, related to current
+and planned commercial andoperational information, and as such, is commerciallysensitive.
+Any questions you may have regarding this filing should be directed to my attention at407-740-3006 or
+via emailtocroesel@inteserra.com. Thankyou foryourassistance inthis matter.
+Sincerely,
+/s/Carey Roesel
+Carey Roesel
+Consultantto HDCGamma, LLC
+cc: Kathryn Glaser- HDCGamma
+tms: FCCv1901 HDCGamma
+CR/gs
+14 47 C.F.R. § 0.459(b)(9).
+
+Beforethe
+FEDERAL COMMUNICATIONS COMMISSION
+Washington, D.C. 20554
+In the Matterof )
+)
+HDC Gamma, LLC )
+) WC DocketNo. 19----
+ForAuthorizationto ObtainNumbering )
+Resources Pursuantto Section 52.15(g) of )
+TheCommission'sRules )
+APPLICATION OFHDC GAMMA, LLC
+FORAUTHORIZATION TO OBTAINNUMBERINGRESOURCES
+HDCGamma,LLC("HDCGamma"),pursuanttoSection52.15(g)(3)(i)oftheCommission'sRules,
+respectfully requests authorization to obtainnumbering as described below.
+UndertheCommission'sNumberingOrder,1aninterconnectedVoIPprovidermayobtainnumbering
+resources from theNumbering Administratorupon ashowing thatitis authorized to provide service in the
+area for which the numbering resources are requested. Such authorization may be obtained upon an
+application to the Commission containingthe information detailed in Section52.15.(g)(3)(i)(A)-(G)ofthe
+Commission'sRules. HDCGammaherebyrequeststheCommissiongrantitthatauthorization. Insupportof
+this application, the Companyprovides the following information:
+I. INFORMATION REQUIRED BY SECTION 52.15(g)(3)(i)
+A. §52.15(g)(3)(i)(A)
+Name: HDC Gamma, LLC
+Address: 170 S. Green ValleyPkwy.
+Suite 300
+City: Henderson
+State: Nevada
+ZIP Code: 89012
+Telephone: 844-853-2222
+Website: https://gamma.hdcarrierholdings.com
+I NumberingPoliciesforModern Communications, FCC 15-70(reI.June 22,2015).
+
+Contact for Regulatory Requirements, Compliance, 911 and LawEnforcement:
+Name: David Erickson
+Address: 170 S. Green Valley Pkwy.
+Suite 300
+City: Henderson
+State: Nevada
+ZIP Code: 89012
+Telephone: 844-853-2222
+B. §52.15(g)(3)(i)(B)
+HDCGammaherebyacknowledgesthatauthorizationtoobtainnumberingresourcesunder
+Section52.l5(g)oftheCommission'sRulesissubjecttocompliancewithapplicableCommissionnumbering
+rules as wellas to thenumberingauthoritydelegatedto thestates. HDCGammaherebyalsoacknowledges
+thatthisauthorizationissubjecttocompliancewithindustryguidelinesandpracticesregardingnumbering,as
+applicabletotelecommunicationscarriers. ThenumberingresourcesthatarethesubjectofthisApplication
+will beused to provide interconnectedVoIP services initiallyinNY.
+c. §52.15(g)(3)(i)(C)
+HDC Gammaherebyacknowledges thatitmustfilerequests fornumberswiththerelevant
+state commission(s) atleast30days beforerequestingnumbers from theNumbering Administrators.
+D. §52.15(g)(3)(i)(D)
+HDC Gamma hereby sets forth its capability to provide service within 60 days ofthe
+numbering resources activation date.
+To demonstrate its facilities readiness, HDC Gamma will have the following resources
+availableatitsdisposal: afullyintegratedbackofficesupportsystemwiththeabilitytoscheduleandprocess
+LNP orders from customers andan experiencedprovisioningdepartmentcapableofhandlingbulknumber
+portswithover 10yearsLNP experience. HDCGammahasan agreementinplacewithaCLECpartnerto
+routetraffictotheILECs. HDCGammahasattachedtothisapplication,asExhibitA,anagreementbetween
+HDCGammaanditscarrierpartnerprovidingthatthecarrierpartnerwillhostHDCGamma'snumbersonits
+
+switches andprovideconnectivityto the PSTN for inbound calls to HDC Gamma numbers. HDCGamma
+hasrequestedconfidentialtreatmentundertheCommission'srulesforExhibitA. Alsoattached,asExhibit
+B, is evidence ofinterconnection agreements between HDC Gamma's carrierpartner and local exchange
+carriers in NY.
+E. § 52.15(g)(3)(i)(E)
+HDCGammaherebycertifiesthatitcomplieswithitsUniversalServiceFundcontribution
+obligationsunder47CFRpart54,subpartH,itsTelecommunicationsRelayServicecontributionobligations
+under 47 CFR § 64.604(c)(5)(iii), its North American Numbering Plan and Local Number Portability
+Administrationcontributionobligationsunder47 CFR§§ 52.17 and52.32, itsobligationstopayregulatory
+fees under47 CFR§ 1.1154, and its 911 obligationsunder47 CFRpart9.
+F. §52.15(g)(3)(i)(F)
+HDCGammacertifiesthatithasthefinancial,managerial,andtechnicalexpertisetoprovide
+reliable service. It is financially stable, led by a strong, experienced management team with substantial
+managerial experience in the telecommunications industry, and has sufficient technical expertise and
+infrastructureinplacetoprovidereliablenumberingservices.HDCGamma'skeymanagementandteclmical
+personnel are listed below. None ofthe identified personnel are being or have been investigated by the
+Commissionoranylawenforcementorregulatoryagencyforfailureto complywithanylaw, rule, ororder.
+Key Personnel:
+ManagingMember- DavidErickson
+ManagingMember- Kathryn Glaser
+ManagingMember- Scott Southron
+G. § 52.15(g)(3)(i)(G)
+HDCGammaherebycertifiesthatnopartytothisapplicationissubjecttoadenialoffederal
+benefitspursuantto Section 5301 ofthe Anti-Drug Abuse Actof1988,21 U.S.C. §862.
+
+II. ACKNOWLEDGEMENT OF CONDITIONS IN SECTION52.15(g)(3)(iv)
+As required by Section 52.15(g)(3)(iv), HDC Gamma will maintain the accuracy ofall contact
+information and certifications in this application and will file a correction with the Commission and each
+applicable state within 30 days ofany changes. HDC Gamma will also furnish accurate regulatory and
+numberingcontactinformation to each state commissionwhen requestingnumbers inthatstate.
+III. CONCLUSION
+Pursuant to Section 52.15(g)(3)(i) ofthe Commission's Rules, HDC Gamma respectfully
+requests theCommission grant this application for authorization to obtainnumberingresources.
+Respectfully submitted,
+~
+CareyRoesel, Consultant
+Inteserra Consulting Group, Inc.
+407-740-3006
+croesel@inteserra.com
+and
+DavidErickson, ManagingMember
+HDC Gamma, LLC
+844-853-2222
+info@gamma.hdcarrierholdings.com
+October 8, 2019
+
+Exhibit A
+AGREEMENT BETWEEN
+HDC GAMMA, LLC
+ANDCARRlERPARTNER
+(Confidential exhibit submitted separately)
+
+Exhibit B
+(for each state listed)
+INTERCONNECTION AGREEMENTS BY AND
+BETWEEN
+CARRIER PARTNER
+AND
+VERIZON NEW YORK INC.
+
+140WestStreet
+2ihFloor
+NewYork, NY 10007-2109
+Tel (212)321-8136
+Fax(212)962-1687
+keefe.b.c1emons@verizon.com
+KeefeB.Clemons
+GeneralCounsel-NortheastRegion
+March 26,2012
+Honorable Jaclyn A. Brilling
+Secretary
+New York Public Service Commission
+Three Empire State Plaza
+Albany, New York 12223
+Re:
+Dear SecretaryBrilling:
+Enclosed please find the InterconnectionAdoption, effective February 6, 2012, between
+Verizon New York Inc. and Wide Voice, LLC. The contactperson for Wide Voice, LLC is:
+Tara Odenthal
+Wide Voice, LLC
+410 South Rampart, Suite 390
+Las Vegas, NV 89145
+(702) 553-3007
+tara@widevoice.com
+Ifyou have any questions regarding this matter, please feel free to contactme.
+Respectfully submitted,
+Keefe B. Clemons
+cc: Tara Odenthal (ByE-Mail)
+
+SIGNATUREPAGE
+Please arrange for a dUly authorized representative of WID to sign this letter in the space
+provided belowand return ittoVerizon.
+Sincerely.
+VERIZON NEWYORKINC.
+Director-Interconnection
+Reviewedand countersignedasto Paragraph 1:
+WIDEVOIGE,LLC
+Attachment
+WIDNYCampv113010 5
+
+AGREEMENT
+by and between
+CINCINNATI BELLANY DISTANCEINC.
+and
+VERIZON NEWYORKINC.
+FORTHESTATE OF
+NEWYORK
+CBADNYCompEft11291O.doc
+
+the Parties. SUbjecttotherequirements ofApplicable Law, aParty shall have
+the righttoadd, modify, orwithdraw, its Tariff(s) atanytime, withouttheconsent
+of, ornoticeto, theotherParty.
+2. Term and Termination
+2.1 ThisAgreementshall be effectiveasofthe EffectiveDate and, unless cancelled
+orterminated earlierin accordancewith theterms hereof, shall continue in effect
+until November28, 2012(the"Initial.TeET").Tryrre~~~r;thi~i.A.~rr~rll.entshall
+continuein forceandeffectul1lessanduntilcancelledorterrninatedasprovided
+inthisAgreement.
+2.2 EitherCBADorVerizon mayterminate thisAgreement effective uponthe
+expiration ofthe Initial Term oreffective upon any date afterexpiration ofthe
+InitialTerm by providingwritten noticeoftermination at leastninety(90) days in
+advance ofthedateoftermination.
+2.3 IfeitherCBAD orVerizon provides noticeoftermination pursuantto Section 2.2
+and on orbeforethe proposed dateoftermination eitherCBADorVerizon has
+requested negotiation ofa newinterconnection agreement, unlessthis
+Agreement iscancelledorterminated earlierin accordancewith theterms hereof
+(inclUding, but notlimitedto, pursuanttoSection 12), thisAgreement shall
+remain in effect untiltheearlierof: (a)theeffectivedateofa newinterconnection
+agreement between CBADandVerizon; or, (b)thedateone (1)yearafterthe
+proposed date oftermination.
+2.4 IfeitherCBAD orVerizon proVides noticeoftermination pursuanttoSection 2.2
+and by 11:59PM Eastern Timeonthe proposed date oftermination neither
+CBAD norVerizon has requested negotiation ofanewinterconnection
+agreement, (a) thisAgreementwill terminateat 11:59 PM EasternTimeonthe
+proposed dateoftermination, and (b)the Services being provided underthis
+Agreement atthe timeoftermination will beterminated, exceptto theextentthat
+the Purchasing Party has requested thatsuch Servicescontinuetobe provided
+pursuantto an applicableTarifforStatementofGenerallyAvailable Terms
+(SGAT).
+3. Glossary and Attachments
+TheGlossary and the followingAttachments are apartofthisAgreement:
+Additional ServicesAttachment
+InterconnectionAttachment
+ResaleAttachment
+Network ElementsAttachment
+Collocation Attachment
+911 Attachment
+PricingAttachment
+4. Applicable Law
+4.1 Theconstruction, interpretation and performanceofthisAgreement shall be
+governed by (a)the laws ofthe United StatesofAmerica and (b)the lawsofthe
+StateofNewYork, without regard to itsconflictsoflaws rules. All disputes
+relating tothis Agreementshall be resolved through theapplication ofsuch laws.
+CBADNYCompEft112910.doc 2

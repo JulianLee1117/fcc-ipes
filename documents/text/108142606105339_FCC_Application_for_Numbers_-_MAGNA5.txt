@@ -1,0 +1,162 @@
+Before the
+FEDERAL COMMUNICATIONS COMMISSION
+Washington, D.C. 20554
+In the Matter of )
+)
+Magna5 LLC ) WC Docket No.
+)
+Application to Obtain Telephone Numbers )
+Directly From the North American Numbering )
+Plan Administrator and the Pooling )
+Administrator )
+NUMBERING AUTHORIZATION APPLICATION
+Magna5 LLC (“Applicant”), hereby applies for authorization to obtain telephone numbers directly from
+the North American Numbering Plan Administrator and the Pooling Administrator (collectively,
+"Numbering Administrators") pursuant to and in accordance with Section 52.15 (g) of the Commission's
+rules. In support hereof, Applicant respectfully states:
+1. Applicant’s name, headquarters’ address and telephone number are as follows:
+Magna5 LLC
+5445 Legacy Dr., Suite 180
+Plano, TX 75024
+214-932-9293
+2. The primary type of business of Applicant is telecommunications services, which includes
+interconnected VoIP. The numbering resources that are the subject of this Application will be
+used to provide interconnected VoIP services, initially in New York, Oregon, and Washington.
+Applicant intends to eventually use the numbering resources to provide such services
+throughout the United States, including its territories and possessions.
+3. The name and contact information for personnel of Applicant qualified to address issues
+relating to regulatory requirements, compliance with Commission rules, 911 and law
+enforcement is as follows:
+Joseph O'Hara, CFO; regulatory@magna5global.com; (214) 932-9293
+5445 Legacy Dr., Suite 180, Plano, TX 75024
+4. Applicant acknowledges that the authorization is subject to compliance with applicable
+Commission numbering rules, numbering authority delegated to the states and industry
+guidelines and practices regarding numbering applicable to telecommunications carriers.
+
+5. Applicant acknowledges that it must file requests for telephone numbers with the relevant state
+commissions at least thirty (30) days before requesting telephone numbers from the Numbering
+Administrators.
+6. As proof of facilities readiness, namely that Applicant is capable of providing service within sixty
+(60) days of the numbering resources activation date, Applicant submits that it already has
+interconnection with the PSTN pursuant to a commercial arrangement that provides access to
+the PSTN; in particular, Applicant has an agreement with its carrier partner, Inteliquent, who, in
+turn, has interconnection agreements in effect with all of the relevant local exchange carriers for
+the states that are the subject of the Application and in which such carriers provide access to
+the PSTN, including AT&T, Verizon, and CenturyLink. Applicant further states that it has in place
+the practices and procedures that already enable it to successfully route and port numbers as a
+licensed CLEC in Kentucky, Massachusetts, New Jersey, New York, Oregon, Pennsylvania, Utah,
+and Washington since 2015; in particular, Applicant has an OCN (090J), has an agreement with
+Inteliquent to support number routing, and has a full staff prepared for porting.
+7. Applicant certifies that it complies with its Universal Service Fund contribution obligations under
+47 CFR part 54, subpart H, its Telecommunications Relay Service contribution obligations under
+47 CFR § 64.604(c)(5)(iii), its North American Numbering Plan and Local Number Portability
+Administration contribution obligations under 47 CFR § § 52.17, 52.32, its obligations to pay
+regulatory fees under 47 CFR § 1.1154 and its 911 obligations under 47 CFR part 9.
+8. As demonstrated by its successful operations as a licensed facilities based CLEC in Kentucky,
+Massachusetts, New Jersey, New York, Oregon, Pennsylvania, Utah, and Washington since 2015,
+and as a FCC International Bureau Section 214 licensed carrier since 2015, Applicant certifies
+that it possesses the financial, managerial and technical expertise to provide reliable service.
+Attached hereto as Attachment A is the Applicant’s Organizational Chart. Attached hereto as
+Attachment B are the names and descriptions of Applicant's key management and technical
+personnel. Applicant states that none of the identified personnel are being or have been
+investigated by the Commission or any law enforcement or regulatory agency for failure to
+comply with any law, rule or order.
+9. Applicant certifies pursuant to Sections 1.2001 and 1.2002 of the Commission's rules that no
+party to this Application is subject to a denial of Federal benefits pursuant to Section 5301 of the
+Anti-Drug Abuse Act of 1988. See 21 U.S.C. § 862.
+WHEREFORE, Applicant respectfully requests the Commission to grant this Application for
+numbering resources.
+Respectfully Submitted,
+Matt W. Dean
+Matt W. Dean
+Regulatory Agent for Magna5 LLC
+12316 Hidden Forest Blvd.
+Oklahoma City, OK 73142
+(405) 755-8177 x103
+regcompliance@telecompliance.net
+
+Magna5 LLC
+LIST OF EXHIBITS
+EXHIBIT A Organizational Chart
+EXHIBIT B Biographies of Key Personnel
+
+EXHIBIT A
+Organizational Chart
+
+Magna5 Organization Chart
+NewSpring Holdings
+Management Company LLC
+NewSpring Holdings NewSpring Holdings
+LLC Parallel LLC
+Magna5 Partners LLC
+Magna5 Holding LLC
+Magna5 RTC LLC Magna5 LLC
+Magna5 International LLC
+
+EXHIBIT B
+Biographies of Key Personnel
+
+Greg Forrest
+Chief Executive Officer
+Greg brings global perspective, entrepreneurial drive and proven successes to his role as CEO of
+Magna5. With a track record of building businesses through enterprise transformations and
+market consolidation strategies, Greg has extensive experience in leading and operating
+technology-enabled services businesses; all resulting in significant revenue growth, operating
+leverage and improved operational efficiencies. His past successes in creating shareholder value
+through financial performance, in both public and private companies, drove him to lead the
+initiative to lead the acquisition of three companies and bring them together as Magna5.
+An enthusiastic, engaging leader driven to bring together teams of people within varied
+companies to drive greater successes, Greg is a talented c-level executive skilled in fostering
+business environments that encourage employees to exceed goals, all while keeping the service
+levels customer based and responsive to the changing needs of the marketplace. His has
+extensive expertise in Business Transformations, M&A, Integration, Compliance/Governance
+and Organizational Change Management.
+He previously served as CEO/President of publicly-traded XETA Technologies (NASDAQ:
+XETA) with annual revenues of $100M+ and headcount of 450 employees. He implemented
+growth strategies resulting in a 2X increase in revenue run rate, improved operating leverage
+while completing a business transformation and ultimately engineered the successful merger
+agreement with PAETEC Holding Corp. (now Windstream), acquired at $5.50 per share, a 67%
+premium over average market closing price for previous six months. Greg also launched a US
+Geo for a Global Technology Service Provider located in Mumbai, India. The two-year outcome
+of this initiative resulted in a profitable $50M U.S. operating entity where growth was achieved
+through acquisition and organic methods.
+In 2011, Greg was recognized for his significant accomplishments by being named a Finalist of
+the Ernst and Young Entrepreneur of the Year Award. Greg is a graduate of the University of
+Washington.
+
+Joe O'Hara
+Chief Financial Officer
+Chief Financial Officer Joe O’Hara brings a wealth of financial acumen specific to the
+telecommunications industry to Magna5. In his role, he oversees corporate finance and
+accounting functions for the company, including financial reporting, planning and analysis.
+Before joining Magna5 in January 2017, Joe was the CFO of ANPI, LLC where he led various
+initiatives of corporate development activity, including the launch of a start-up subsidiary and
+other business expansion initiatives. During his time at ANPI, Joe was in a variety of finance
+roles, including Director of Finance and Accounting.
+While responsible over the finance function, he worked to secure equity capital for the
+organization through multiple private placement offerings and by establishing commercial debt
+facilities, providing capital for the organization to successfully pursue its growth initiatives.
+Throughout his time at ANPI, Joe worked closely with the Chief Executive Officer and the
+Board of Directors regarding the strategic focus of mergers and acquisitions activity and led
+critical activities surrounding due diligence, structuring, negotiations and final documentation.
+Joe is a licensed Certified Public Accountant in Texas and Illinois, and is accredited in business
+valuation. He also holds a Masters of Business Administration degree with a concentration in
+finance from the University of Illinois at Urbana-Champaign.
+
+Dan Horton
+Chief Information Officer
+Dan brings 25 years of telecommunications and operations experience to Magna5 and is
+dedicated to providing strong leadership skills in technology management and product
+development.
+Dan served as the Chief Technology Officer at X5 Solutions, one of the companies brought
+together to make up Magna5, overseeing the day-to-day operations and operational strategy at
+one of the largest telecommunications providers in the Pacific Northwest.
+Before his tenure at X5 Solutions, he was co-founder and Chief Technology Officer of Who’s
+Calling, where he focused on growing the company from a start-up to $75 million in annual
+sales. Throughout his career in the telecommunications industry, Dan held many executive
+positions, exhibiting his abilities to respond to the changing needs a company, no matter the title
+he held; from COO to CIO, CTO and VP of Engineering in CLECs, ISPs and IXCs, Dan’s varied
+experience in dealing with all aspects of operational management, engineering and development,
+product management, network management and vendor management is extensive. He has unique
+experience bridging technology, business strategy, product development and operations together
+while transforming these elements from concepts to business success.

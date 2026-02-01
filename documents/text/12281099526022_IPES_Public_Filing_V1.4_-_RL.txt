@@ -1,0 +1,243 @@
+Before the FEDERAL COMMUNICATIONS COMMISSION Washington, D.C.
+20554
+In the Matter of Versatel LLC. ) WC Docket No. 20-
+For Authorization to Obtain Numbering )
+Resources Pursuant to Section 52.15(g) of )
+The Commission's Rules )
+APPLICATION OF Versatel, LLC, .FOR AUTHORIZATION TO OBTAIN
+NUMBERING RESOURCES
+Pursuant to Section 52.15(g)(3)(i) of the Commission’s Rules, Versatel, LLC /dba/ 46
+Labs Communications here forward known as (“46 Labs”),hereby submits its application
+to obtain numbering resources as described below.
+Under the Commission's Numbering Order, an Interconnected VoIP provider may obtain
+numbering resources from the Numbering Administrator upon a showing that it is
+authorized to provide service in the area for which the numbering resources are
+requested. Such authorization may be obtained upon an application to the Commission
+containing the information detailed in Section 52.15 (g)(3)(i)(A)-(G) of the Commission’s
+Rules. Versatel, LLC hereby requests the Commission grant it that authorization. In support
+of this application, 46 Labs provides the following information:
+I. INFORMATION REQUIRED BY SECTION 52.15(g)(3)(i)
+A. § 52.15(g)(3)(i)(A)
+Name: 46 LABs, Corporation.
+Address: 1503 E. 19th St.
+City: Edmond
+State: OK
+ZIP Code: 73013
+Executive for 46 LABs, Corporation.
+Name: Trevor Francis
+Address: 1503 E. 19th St.
+City: Edmond
+State: OK
+ZIP Code: 73013
+Page | 1
+
+Contact for Regulatory Filing, IPES license information, FCC filing information, IPES
+general information:
+Name: Ronald J Grob
+Address: 2525 W Rock Quarry Rd.
+City: Buford
+State: GA
+Zip: 30519
+Email: rongrob@apelaprofsvcs.com
+B. § 52.15(g)(3)(i)(B)
+46 Labs hereby acknowledges that authorization to obtain numbering resources
+under Section 52.15(g) of the Commission's Rules is subject to compliance with applicable
+Commission numbering rules as well as to the numbering authority delegated to the
+states. The Company hereby also acknowledges that this authorization is subject to
+compliance with industry guidelines and practices regarding numbering, as applicable to
+telecommunications carriers. 46 Labs intends to offer services immediately in the state
+of California but also seeks authority to access numbering resources throughout the
+United States.
+C. § 52.15(g)(3)(i)(C)
+46 Labs acknowledges that it must file requests for numbers with the relevant state
+commission(s) at least 30 days before requesting numbers from the Numbering
+Administrators.
+D. § 52.15(g)(3)(i)(D)
+46 Labs authenticates its’ capability to provide service within 60 days of the numbering
+resources activation date. 46 Labs is an established interconnected VoIP carrier
+providing voice and network services for small to medium sized businesses located in the
+United States. The Company was founded by several highly experienced
+telecommunications professionals and in addition, has several highly skilled technical
+employees. 46 Labs has negotiated an Interconnect Agreement with Sinch Networks, a
+(CLEC) Competitive Local Exchange Carrier, to serve as 46 Labs’ access homing
+tandem and to route local and access traffic (both originating and terminating) to the
+PSTN. 46 Labs will interconnect with and broadcast Sinch's tandem platforms for the
+purposes of managing all codes assigned to 46 Labs OCNs. The interconnect
+agreement demonstrating the access to the platform and capability of (Sinch’s Network)
+is attached to this application as Confidential Exhibit C.
+46 Labs is Stir & Shaken compliant and will provide the necessary “KYC”
+documentation for their customers as required by STI-GA Authorities. In addition 46 LABs
+will sign all of their outbound calls with a Stir & Shaken certificate and will validate all
+incoming calls for a Stir & Shaken certificate.
+Page | 2
+
+In addition, Sinch’s interconnection to the PSTN through it’s MSA/ICA with the LECs is
+included in Exhibit D. of this filing.
+Page | 3
+
+E. § 52.15(g)(3)(i)(E)
+46 Labs hereby certifies that it will comply with its Universal Service Fund contribution
+obligations under 47 CFR part 54, subpart H, its Telecommunications Relay Service
+contribution obligations under 47 CFR § 64.604(c)(5)(iii), its North American
+Numbering Plan and Local Number Portability Administration contribution obligations
+under 47 CFR §§ 52.17 and 52.32, its obligations to pay regulatory fees under 47 CFR §
+1.1154, and its 911 obligations under 47 CFR part 9. 46 Labs’ FRN and 499 filer ID is
+included in Exhibit A
+F. § 52.15(g)(3)(i)(F)
+The Company certifies that it has the financial, managerial, and technical expertise to
+provide reliable service. It is financially stable, led by a strong, experienced management
+team with substantial managerial experience in the telecommunications industry, and has
+sufficient technical expertise and infrastructure in place to provide reliable numbering
+services. 46 Labs’ key management and technical personnel are identified in attached
+Exhibit B. None of the identified personnel are being or have been investigated by the
+Commission or any law enforcement or regulatory agency for failure to comply with any
+law, rule, or order.
+G. § 52.15(g)(3)(i)(G)
+46 Labs hereby certifies that no party to this application is subject to a denial of
+Federal benefits pursuant to Section 5301 of the Anti-Drug Abuse Act of 1988,21 U.S.C.
+§ 862.
+II. ACKNOWLEDGEMENT OF CONDITIONS IN SECTION 52.15(g)(3)(iv)
+As required by Section 52.15(g)(3)(iv), 46 Labs will maintain the accuracy of all contact
+information and certifications in this application and will file a correction with the
+Commission and each applicable state within 30 days of any changes. 46 Labs will also
+furnish accurate regulatory and numbering contact information to each state commission
+when requesting numbers in that state.
+III. CONCLUSION
+Pursuant to Section 52.15(g)(3)(i) of the Commission’s Rules, 46 Labs, respectfully
+requests the Commission grant this application for authorization to obtain numbering
+resources.
+Respectfully submitted for 46 Labs,INC.
+Page | 4
+
+Ronald J Grob
+Principal Telecommunications Consultant To: 46 LABs, Corp
+APELA Professional Services, INC.
+Page | 5
+
+EXHIBIT A
+A1. FCC FRN
+A2. 499 Filer ID
+Page | 6
+
+EXHIBIT
+B
+Key Managerial and Technical
+Personnel
+• Trevor Francis
+CEO of 46 Labs and General Manager of Versatel, LLC
+Attended Harvard University
+Oklahoma City, Oklahoma, United
+States
+Trevor is a leading authority on telecom voice infrastructures. He is the Founder and CEO of
+46 Labs, has
+built voice networks on 4 continents and has almost two decades of experience developing
+cutting edge software and hardware solutions for many different industries.
+Trevor started his telecom career in 2001 by consulting with various PTTs in developing
+countries on how to better manage and operate their voice networks. His success in those
+engagements led to him to found a company that supervised and managed voice and IP
+interconnections for the same PTTs that he consulted with.
+Trevor created one of the industry’s first purely software-driven VOIP applications that
+connected political parties with their constituents. His software was instrumental in securing
+wins in various congressional, gubernatorial and presidential elections.
+Trevor studied Management Information Services at the University of Oklahoma and Finance
+at Harvard
+Univer
+sity.
+• Ali Mumtaz
+CTO at 46 Labs
+LLC Lahore,
+Punjab, Pakistan
+Ali is Chief Software Officer of 46 Labs where he oversees the development of 46 LABs
+products, internal tools, project management, NOC support, customer requirement and
+delivery of required software.
+Ali has been with 46 LABs with over 10 years now and was hire #1, Ali has over 15 years of
+experience in running agile development methodology and product delivery. Ali has vast
+experience with Telecom industry related products and data processing and RFC related
+knowledge. During his time with 46 LABs some of his most prominent achievements have
+been successfully launching 3 different versions of peer edge products, MS Teams
+Certification for the SBC.
+
+• Max Adams
+Chief Revenue Officer (CRO) at 46
+Labs LLC Texas A&M University
+Dallas-Fort Worth
+Metroplex
+Max Adams has over 25 years of experience in building and managing direct and channel
+sales organizations for global service providers that have consistently over performed
+expectations in the information technology and network services industry. In addition, he
+has specialized in identifying and developing strategic partnerships that create sustainable
+value, and results.
+Max spent the first 17 years of his career at Williams Network, where he held management
+responsibilities for the National Account, System Integrator, and ultimately Network Services
+organization culminating in his appointment to Senior Vice President of Sales for the US. In
+addiction he has served in Executive leadership positions focused on developing vertical
+market segments and growth for British Telecom North America, and Excel
+Communications.
+Max is a graduate of Texas A&M University school of business / Marketing
+Analytics.
+• Daniel Cavazos
+Chief Experience
+Officer
+Dallas-Fort Worth
+Metroplex
+Dan joined 46 Labs in 2018 and currently serves as Chief Experience Officer at 46 Labs, a
+leading Telecommunications Software company. His responsibilities include overseeing the
+Service Delivery and Service Assurance Teams.
+Prior to his position at 46 Labs, Dan owned and managed Market Center Creative, a website
+design, web applications development and web hosting company for 25 years where his
+primary focus was leading the company and responsibility for customer relations. He
+oversaw a team of eight consisting of designers, developers and technicians.
+Dan and his wife, Mary, founded and pastored an independent church that has served
+their community for 15 years
+• Jim Albee
+SVP, Finance &
+Accounting
+University of Colorado
+Denver
+Denver Metropolitan
+Area
+
+Jim Albee has over 30 years of experience in the telecom and data service provider
+industries in roles spanning corporate finance & accounting, corporate development, product
+management, and network engineering and planning.
+Jim provides fractional CFO services to businesses in varied industries, including joining 46
+Labs in March 2022.Current and recent industry engagements include communications
+services, software-as-a- service, data center & hosted applications, and residential real
+estate brokerage.
+Jim holds a Bachelor of Science in Electrical Engineering from Montana State University and
+a Master of Business Administration from University of Colorado – Denver.
+• Daniel Howard, JD, MBA
+General Counsel of 46 Labs LLC and General Manager of Versatel, LLC
+Oklahoma City University – JD
+Oklahoma State University - MBA
+Boulder Colorado, United
+States
+Dan serves as General Counsel for the telecommunications software company, 46 Labs LLC.
+Prior to his
+current role he also served as CFO, where he oversaw day-to-day operations and assisted
+the company developing new businesses and partnerships. In addition to his work with 46
+Labs, Dan spent over adecade in the information technology industry working for both
+Cerner Corporation (CERN) and H&R Block (HRB) in director and executive roles. Dan has
+practiced law for over eighteen years, most recently at the firm Rubenstein & Pitts a multi-
+specialty law firm in Oklahoma. Dan’s legal practice included business formation, contracts,
+general commercial litigation, internet law and intellectual property issues. Dan holds a
+Bachelor of Science in Computing and Information Sciences and an MBA from Oklahoma
+State University and a Juris Doctorate from Oklahoma City University graduating Magna
+Cum Laude.
+Dan is active with the Oklahoma State University College of Business and a member of the
+Executive Committee for the OSU college of Business. Dan has served on many for profit
+and not-for-profit boards, including most recently Children's Hospital Foundation of
+Oklahoma where he was the Finance Chair.
+In addition to his Business and Academic achievements, Dan has been honored by
+Oklahoma State University receiving the prestigious Orange Star award. Dan has also been
+named one of the Spears School of Business top 100 MBA graduates and recently was
+named as a Cowboy100 honoree for his leadership at 46 Labs.
+
+Confidential Exhibit C
+46 Labs Interconnect Agreement with SINCH
+as their IPES Partner
+
+Confidential EXHIBIT D
+Sinch and Quest Communications Interconnect
+Agreements and
+Amendments

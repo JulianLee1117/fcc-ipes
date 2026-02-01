@@ -1,0 +1,457 @@
+Jeffrey J. Carlisle
+jcarlisle@lermansenter.com
+202-416-6768
+November 25, 2024
+CONFIDENTIALITY REQUEST PURSUANT TO 47 C.F.R. § 0.459
+BY ECFS
+Ms. Marlene H. Dortch, Secretary
+Federal Communications Commission
+Office of the Secretary
+9050 Junction Drive
+Annapolis Junction, MD 20701
+Attn: Enforcement Bureau, Investigations and Hearings Division, FCC
+Re: Request for Confidential Treatment, Application of Telimize LLC for Authority to
+Obtain Numbering Resources Pursuant to Section 52.15(g) of the Commission’s
+Rules
+Dear Ms. Dortch:
+Pursuant to Section 52.15(g) of the Commission’s Rules, Telimize LLC (“Telimize”)
+hereby submits the enclosed application for authorization to obtain numbering resources (the
+“Application”) and respectfully requests confidential treatment of the text indicated in the Application
+and Exhibits A and B contained therein. Consistent with Sections 0.457 and 0.459 of the Commission’s
+Rules, Telimize has labeled the relevant exhibits “Confidential, Not for Public Inspection.” Confidential
+treatment in this circumstance is fully consistent with the Administrative Procedure Act (“APA”) and
+past Commission practice.
+The redacted materials in the Application and the Exhibits contain (i) commercially sensitive
+information that identifies Telimize’s vendors for interconnection, numbering and 911 services, (ii)
+commercially sensitive information agreements between Telimize and its vendors and (iii)
+technologically sensitive explanations and diagrams showing how Telimize complies with 911 and
+
+Ms. Marlene H. Dortch
+November 25, 2024
+Page 2
+CALEA requirements. Confidential treatment of this information is appropriate under Exemption 4 of
+the Freedom of Information Act, which apply to information constituting “trade secrets and commercial
+or financial information” that “would not customarily be released to the public.” See 5 U.S.C. §
+552(b)(4); 47 C.F.R. § 0.457(d).
+In support of this request, Telimize provides the following information, as provided for under
+Section 0.459(b) of the Commission’s Rules.
+1. Specific Information for Which Confidential Treatment is Sought - § 0.459(b)(1): Telimize
+requests that the redacted parts of the Application and Exhibits A and B be withheld from public
+disclosure under 5 U.S.C. § 552(b)(4) and 47 CFR § 0.457(d)(2). Specifically, (i) the Application
+identifies Telimize’s vendors, (ii) the Exhibits contain proprietary and commercially sensitive
+information concerning Telimize’s commercial agreements with these vendors and technical diagrams
+and descriptions showing how Telimize complies with 911 and CALEA obligations, and (iii) Exhibit B
+includes the pricing and terms of the agreement between Telimize and the vendor that provides
+Telimize’s homing tandem and routing of local and access traffic (both originating and terminating) to
+the public switched telephone network (“PSTN”).
+2. Circumstances Giving Rise to the Submission - § 0.459(b)(2): Telimize is submitting the
+Application and Exhibits as proof that (i) it complies with its 911 obligations under Part 9 of the
+Commission’s Rules, (ii) it complies with the provisions of CALEA, pursuant to section
+52.15(g)(3)(ii)(E) of the Commission’s Rules, and (iii) it is capable of providing service within sixty
+days of the numbering resources activation date, pursuant to section 52.15(g)(3)(ii)(H) of the
+Commission’s rules.
+3. Degree to Which the Information is Commercial or Financial, or Contains a Trade Secret
+or Is Privileged - § 0.459(b)(3): The Application discloses the names of Telimize’s vendors, Exhibit A
+provides technical diagrams and descriptions of how Telimize complies with 911 and CALEA
+requirements, and Exhibit B contains business confidential agreements between Telimize and its vendor.
+Exhibit B thus includes confidential pricing and technical terms. This information is subject to
+exemption from public disclosure under FOIA Exemption 4.4. None of this information would normally
+be made available to the public, and public disclosure would make available to competitors proprietary
+information that is competitively sensitive and could undermine Telimize’s business strategy. See 5
+U.S.C. § 552(b)(4); 47 C.F.R. § 0.457(d) (Commission authorized to withhold “materials which would
+not customarily be released to the public”). To date, disclosure of the information and documents
+subject to this request has been limited to certain executives and employees of Telimize and their outside
+legal counsel, and the counterparties to the agreements provided under Exhibit B.
+4. Degree to Which the Information Concerns a Service That is Subject to Competition - §
+0.459(b)(4): The market for interconnected voice over Internet Protocol (“VoIP”) is highly competitive
+with low barriers to entry. The commercial information at issue goes directly to Telimize’s ability to
+comply with the 911 service and CALEA obligations applicable to all VoIP service providers, and
+
+Ms. Marlene H. Dortch
+November 25, 2024
+Page 3
+Telimize’s ability to provide VoIP service by interconnecting with the PSTN through its vendor. Thus,
+this information “concerns a service subject to competition.” Accordingly, this information qualifies as
+sensitive internal business and commercial information entitled to protection under FOIA and the
+Commission’s rules.
+5. How Disclosure of the Information Could Result in Substantial Competitive Harm - §
+0.459(b)(5): As the VoIP industry is highly competitive, and the nature of the confidential information
+is sensitive as to Telimize’s relations with its vendors and technical processes, public release of
+confidential information in the Application and Exhibits A and B would cause significant competitive
+harm to Telimize. Not only would the identity of its vendors become public, but the substantive terms
+of its commercial agreements, including pricing and negotiated service terms, will become known to its
+competitors. Moreover, its processes for complying with regulatory obligations to provide emergency
+services and lawful interception would become publicly known, which would not only cause
+competitive harm to Telimize, but would also undermine Telimize’s ability to provide safe and secure
+VoIP services to its end users.
+6. Measures Taken by Telimize to Prevent Unauthorized Disclosure - § 0.459(b)(6): Telimize
+has limited access to the information and documents subject to this request to those officers, directors,
+employees, and counsel who require its disclosure in order to perform their duties. Telimize treats the
+documents provided in Exhibits A and B as confidential and proprietary and has not publicly disclosed
+this information.
+7. The Information Submitted is Not Available to the Public and Has Not Previously Been
+Disclosed to Third Parties, Except for Appropriately Limited Circumstances - § 0.459(b)(7): To the
+best of Telimize’s knowledge, the information and documentation for which confidential treatment is
+sought has not been publicly disclosed. Disclosure by Telimize has been limited to those with a need to
+know, and to those who are subject to professional or other confidentiality obligations.
+8. Period During Which the Submitted Material Should Not Be Available for Public
+Disclosure - § 0.459(b)(8): Telimize respectfully requests that the confidential information in the
+Application and Exhibits A and B be kept confidential indefinitely given the sensitive nature of this
+information and the risks inherent in any unauthorized disclosure. It is not clear at this time what
+potential period of non-disclosure is required in order to protect Telimize’s interests.
+9. Other Information Supporting Request for Confidential Treatment - § 0.459(b)(9): Not
+applicable.
+* * * * *
+
+Ms. Marlene H. Dortch
+November 25, 2024
+Page 4
+For the reasons stated above, Telimize requests that the Commission withhold from public
+inspection the information identified herein, according it full confidential treatment.
+Respectfully submitted,
+/s/ Jeffrey Carlisle
+Jeffrey Carlisle
+Lerman Senter PLLC
+2001 L Street, NW, Suite 400
+Washington, DC 20036-4945
+(202) 429-8970
+Counsel for Telimize
+Enclosure
+
+NECA assigned Telimize’s OCN on November 4, 2024, and it will use Company Code 053L as
+an IPES provider.
+I. INFORMATION REQUIRED BY SECTION 52.15(g)(3)(ii)
+Telimize provides the following information in support of its application:
+1. Company and Contact Information (Section 52.15(g)(3)(i)(A))
+Name: Telimize, LLC
+Address: 212 E 22nd Street, Suite 1003, Cheyenne, WY 82001
+Telephone Number: 707-371-6927
+Contact for regulatory requirements, compliance with Commission’s Rules, 911 and law
+enforcement:
+Name: Grantham Hamm, CEO
+Address: Telimize, LLC, 212 E 22nd Street, Suite 1003, Cheyenne, WY
+82001
+Telephone: 707-371-6927
+Email: grantham@telimize.com
+2. Acknowledgment of Compliance Obligations (Section 52.15(g)(3)(i)(B))
+Telimize hereby acknowledges that authorization to obtain numbering resources under
+Section 52.15(g) of the Commission’s Rules is subject to compliance with (1) applicable
+Commission numbering rules, (2) numbering authority delegated to the states and the state laws,
+regulations, and registration requirements applicable to businesses operating in each state where
+Telimize seeks numbering resources, and (3) industry guidelines and practices regarding
+numbering as applicable to telecommunications carriers.
+3. Certification Regarding Proper Use (Section 52.15(g)(3)(ii)(C))
+Telimize hereby certifies that it will not use the numbers obtained pursuant to an
+authorization under Section 52.15(g) to knowingly transmit, encourage, assist, or facilitate illegal
+robocalls, illegal spoofing, or fraud, in violation of robocall, spoofing, and deceptive
+2
+REDACTED - FOR PUBLIC INSPECTION
+
+10. Certification Regarding Universal Service (Section 52.15(g)(3)(ii)(J))
+Telimize hereby certifies that, when it commences service, it will comply with its
+Universal Service Fund contribution obligations under 47 C.F.R. part 54, subpart H; its
+Telecommunications Relay Service contribution obligations under 47 C.F.R. § 64.604(c)(5)(iii);
+its North American Numbering Plan and Local Number Portability administration contribution
+obligations under 47 C.F.R. §§ 52.17 and 52.32; its obligations to pay regulatory fees under 47
+C.F.R. § 1.1154; and its 911 obligations under 47 C.F.R. part 9. Telimize’s FRN is 0034355206
+and its 499 Filer ID Number is 836414.
+11. Certification Regarding Financial, Managerial and Technical Expertise (Section
+52.15(g)(3)(ii)(K))
+Telimize hereby certifies that it possesses the financial, managerial, and technical
+expertise to provide reliable service. Telimize has already successfully operated as an IT
+provider, installing call center and office collaboration systems, and optimized delivery of
+UCaaS platforms and business phone systems through integration with Android and iOS, as well
+as web browsers. Today, Telimize provides IT services to small- and medium-sized businesses
+across 6 states and in several foreign countries, and anticipates significant growth once it begins
+to provide interconnected VoIP using its own numbering resources. Telimize is led by a strong,
+experienced team with extensive technical expertise and infrastructure in place to enable the
+company to provide reliable numbering services. Telimize’s key management and technical
+personnel are identified in Exhibit D. Neither Telimize nor any of the personnel identified in
+Exhibit D are being or have been investigated by the Commission, law enforcement, or any
+regulatory agency for failure to comply with any law, rule, or order, including the Commission’s
+Rules applicable to unlawful robocalls or unlawful spoofing.
+5
+REDACTED - FOR PUBLIC INSPECTION
+
+12. Disclosable Ownership (Section 52.15(g)(3)(ii)(L))
+Individuals or entities that own ten percent or more of the equity and/or voting interests
+in Telimize are as follows:
+Name: Telimize Holding LLC
+Address: 212 E 22nd Street, Suite 1003, Cheyenne, WY 82001
+Jurisdiction of Formation: Wyoming
+Principal Business: Telecommunications and information services
+Percentage Interest: 100% voting and equity in Telimize
+Name: Grantham Hamm
+Address: 212 E 22nd Street, Suite 1003, Cheyenne, WY 82001
+Citizenship: United States
+Principal Business: Telecommunications and information services
+Percentage Interest: 100% voting and equity in Telimize Holding LLC
+Telimize hereby certifies that it does not have any interlocking directorates with any
+foreign carrier and is not affiliated with any foreign carrier.
+13. Certification Regarding Anti-Drug Abuse Act (Section 52.15(g)(3)(i)(M))
+Telimize hereby certifies that no party to this application is subject to a denial of Federal
+benefits pursuant to section 5301 of the Anti-Drug Abuse Act of 1988 (21 U.S.C. § 862).
+14. Declaration
+A declaration under penalty of perjury pursuant to 47 C.F.R. § 1.16 is attached hereto as
+Exhibit E.
+II. ACKNOWLEDGEMENT OF CONDITIONS IN SECTION 52.15(g)(3)(x)
+As required by Section 52.15(g)(3)(x), Telimize will maintain the accuracy of all contact
+information, certifications, and ownership or affiliation information in this application, and will
+notify the Commission within 30 days of any changes to the above.
+6
+REDACTED - FOR PUBLIC INSPECTION
+
+III. CONCLUSION
+Pursuant to Section 52.15(g)(3)(ii) of the Commission's Rules, Telimize respectfully
+requests the Commission grant this application for authorization to obtain numbering resources.
+If the Commission has any questions or needs additional information with respect to the
+application, please do not hesitate to contact the undersigned.
+Respectfully submitted,
+/s/ Jeffrey Carlisle
+Jeffrey Carlisle
+Lerman Senter PLLC
+2001 L Street, NW
+Suite 400
+Washington, DC 20036
+(202)416-6768
+jcarlisle@lermansenter.com
+Counsel for Telimize, LLC
+November 25, 2024
+7
+REDACTED - FOR PUBLIC INSPECTION
+
+EXHIBIT A
+911 and CALEA Process
+REDACTED – FOR PUBLIC INSPECTION
+
+[REDACTED IN FULL]
+REDACTED – FOR PUBLIC INSPECTION
+
+EXHIBIT B
+SERVICE AGREEMENTS
+REDACTED – FOR PUBLIC INSPECTION
+
+[REDACTED IN FULL]
+REDACTED – FOR PUBLIC INSPECTION
+
+EXHIBIT C
+TELIMIZE 499 FILER ID
+REDACTED – FOR PUBLIC INSPECTION
+
+11/21/24, 2:06 PM FCC Form 499 Filer Database Detailed Information
+Search | RSS | Updates | E-Filing | Initiatives | Consumers | Find People
+FCC Form 499 Filer Database Detailed Information
+FCC > CGB Home > FCC Form 499 Filer Database > FCC Form 499 Filer Database Detailed Information FCC site map
+FCC Form 499 Filer Database
+DETAILED INFORMATION
+Form 499 Filer 836414 RSS Feed
+Filer Identification Information:
+No Longer Active as of .
+Replaced by filer:
+Historical Data:
+499 Filer ID Number: 836414
+Registration Current as of: 4/1/2024
+Legal Name of Reporting Entity: Telimize LLC
+Doing Business As: Telimize
+Principal Communications Type: Interconnected VoIP
+Universal Service Fund Contributor: No
+(Contact USAC at 888-641-8722 if this is not correct.)
+Holding Company:
+Registration Number (CORESID): 0034355206
+Management Company:
+Headquarters Address: 30 N Gould St
+Suite R
+City: Sheridan
+State: WY
+ZIP Code: 82801
+Customer Inquiries Address: 30 N Gould St
+Suite R
+City: Sheridan
+State: WY
+ZIP Code: 82801
+Customer Inquiries Telephone: 707-371-6927 Ext:
+Other Trade Names: Telimize
+Agent for Service of Process:
+Local/Alternate Agent for Service
+of Process:
+Telephone:
+Extension:
+Fax:
+E-mail:
+Business Address of Agent for
+Mail or Hand Service of Documents:
+City:
+State:
+ZIP Code:
+D.C. Agent for Service of Process: Registered Agents
+Registered Agents Inc.
+Telephone: 202-403-0599
+Extension:
+Fax:
+E-Mail: agent@washingtondcregisteredagent.com
+Business Address of D.C. Agent for
+Mail or Hand Service of Documents: 1717 N Street NW, STE 1
+City: Washington
+State: DC
+ZIP Code: 20036
+FCC Registration Information:
+Chief Executive Officer: Grantham Hamm
+Business Address: 30 N Gould St
+Suite R
+City: Sheridan
+State: WY
+ZIP Code: 82801
+Chairman or Other Senior Officer:
+Business Address:
+City:
+State:
+ZIP Code: REDACTED - FOR PUBLIC INSPECTION
+https://apps.fcc.gov/cgb/form499/499detail.cfm?FilerNum=836414 1/2
+
+EXHIBIT D
+KEY MANAGEMENT AND TECHNICAL PERSONNEL
+REDACTED – FOR PUBLIC INSPECTION
+
+GRANTHAM HAMM
+PROFILE
+I have a dynamic track record of driving results and excelling in all facets of
+business development and management. Demonstrated ability to active
+engage in operations, finance, marketing and human resources. Adept at
+leading teams and implementing strategic initiatives to drive profitability. I
+possess a degree from a prestigious university, exceptional communication
+CONTACT skills, and strong multitasking capabilities. Skilled entrepreneur with a talent for
+identifying and capitalizing on new technologies, oppurtunities leading to
+exceptional business growth.
+\. 405-880-9990
+WORK EXPERIENCE
+m granthamhamm@telimize.com
+9
+212 E 22nd
+• Telimize LLC 2023-PRESENT
+Suite #1003
+Cheyenne, Wyoming 82001
+Chief Executive Officer/ Head of Finance
+• Develop and execute comprehensive sales & marketing strategies and
+campaigns that align with the company's goals and objectives.
+EDUCATION
+• Lead, mentor, and manage a high-performing marketing team,
+fostering a collaborative and results-driven work environment.
+2020-2024 • Monitor brand consistency across marketing channels and materials.
+• Ensure project completion and customer service quality across IT &
+UNIVERSITY OF MARYLAND
+Networking deployments for enterprise customers.
+• Bachelor of Science in
+Criminal Law
+• United States Army
+• Minor in Political Science I
+2024 2020-2023
+Hawaii Human Resource Sergeant
+GOOGLE
+Project Management Professional • Trained new hires and cross-trained team members on document
+Certification management and filing procedures, resulting in a 40% reduction in
+training time and a 15% increase in team productivity
+• Maintained essential documents, including contracts, agreements, and
+SKILLS
+financial records,
+• Ammunition Handler, maintaining accountability for approximately
+• Project Management $24,000 dollars of ammunition in transport and in usage. Kept
+accountability of over 48,000 rounds for 20 range qualifications.
+• Client Relations
+Maintained Soldiers and Special Agents qualifications with in the
+• Human Resource
+standards of the Army. Kept attention to detail with no deficiencies or
+• Financial & Economical shortage of ammunition
+• Battalion weapons structural expert in M249, M4, M 18 valued at
+Planning
+$20,000. Made sure assigned weapons were in good standing and fully
+• Compliance & Regulatory
+functioning for all ranges. Taught soldiers how to dismantle, preform
+• Business Operations & functions check, andP ropper fundamentals of firing weapons.
+• Oversaw Human Resource Section during the transition of the
+Strategy
+Department of the Army, Criminal Investigation Division (CID), helping
+• Marketing & Sales
+Soldiers and Special Agents with the constant change of new processes
+and maintained accountability of personnel actions.
+• Assisted CID in transporting prisoners across the island to and from the
+brig for holding on pending trials ensuring the safety of the Special
+Agents and prisoners throughout the process.
+REDACTED - FOR PUBLIC INSPECTION
+
+Griffin McGinty
+Passion-driven Technology Executive with a proven record of
+optimising and leveraging IT & Network Systems. Forward
+thinking Chief Technology Officer with experience leading
+cross-functional IT teams and driving technological
+advancement of the organization.
+Work Experience
+Chief Technology Officer
+Telimize LLC
+Sep 2023 - Present Contact
+Steered the technological vision of the company while fostering
+212 E 22nd Suite #1003
+innovation and collaboration across IT teams.
+Cheyenne, WY 82001
+Successfully led the development and deployment of CPaaS Call
+M: 918-961-2225
+Tracking Platform, an MVP Enterprise solution for agencies, marketers
+griffin@telimize.com
+and businesses of any size.
+Led a team in successfully navigating a complex audit, ensuring
+compliance with industry regulations. Technical Skills
+Oversaw the development and implementation of strategic technology
+IT Programming
+initiatives.
+Network Layers & Protocol
+Spearheaded the creation of strategic roadmap, outlining technology
+Enterprise Voice & Network
+investments and initiatives to support business objectives and goals.
+Security
+Rest API
+Patriot Enhanced Operator Maintainer Secret Security Clearance JSON, JavaScript
+United States Army, Baumholder, Germany Django, NodeJS, C#
+Penetration & Testing
+April 2018 - August 2018 SIP, IP Frameworks
+Extensive training in operating and maintaining the Patriot missile Firewall Management
+defense system, ensuring peak operational readiness and effective Cisco Packet Tracer/PuTTY
+engagement of airborne threats in diverse environments. SecureShell
+Proficient in all technical components of the system, including radar, SQL DB
+launchers, and command and control centers, with advanced skills in Cloud Computing & Servers
+troubleshooting and system diagnostics.
+Led and coordinated with foreign allies in joint defense operations, Certifications
+fostering strong partnerships and ensuring seamless integration of the
+Patriot system in multinational environments.
+Network Routing & Switching
+Supported mission-critical operations in both training and live settings,
+Layer 3 Technologies
+consistently achieving operational success by collaborating with team
+VoIP Design and Telephony
+members and foreign defense forces.
+Fundamentals
+Mastering SIP VoIP
+Technologies
+Educational Background
+Asterisk/Kamailio Certification
+Oklahoma State University Microsoft Teams Direct
+Routing
+Bachelor of Science in Business Administration
+Master Load Balancing with
+Major: General Business
+HAProxy
+Minor: Management Information Systems
+UDP Socket Programming
+REDACTED - FOR PUBLIC INSPECTION
+
+EXHIBIT E
+DECLARATION OF GRANTHAM HAMM
+I, Grantham Hamm, do hereby declare under the penalty of perjury, pursuant to 47 C.F.R.
+§ 1.16, that the following is true and correct:
+1. I am the Chief Executive Officer for Telimize, LLC (“Telimize”).
+2. I have reviewed the foregoing Application of Telimize for Authorization to Obtain
+Numbering Resources, and the Exhibits thereto, and I am familiar with their contents.
+3. To the best of my knowledge, information and belief, all statements in the application
+and the Exhibit thereto are true and accurate.
+Executed on November 25, 2024
+Grantham Hamm
+CEO
+Telimize, LLC

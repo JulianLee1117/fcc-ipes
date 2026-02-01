@@ -1,0 +1,194 @@
+REDACTED FOR PUBLIC INSPECTION
+July 7, 2023
+BY ELECTRONIC MAIL
+Marlene H. Dortch, Secretary
+Federal Communications Commission
+445 12th St. SW
+Washington, DC 20554
+Re: REQUEST FOR CONFIDENTIAL TREATMENT
+Interconnected VoIP Numbering Authorization Application Filed by Consolidated
+Communications Enterprise Services, Inc. Pursuant to Section 52.15(g)(3) of the
+Commission's Rules, WC Docket No. 23-6
+Dear Ms. Dortch:
+On December 19, 2022, Consolidated Communications Enterprise Services, Inc.
+(“CCES”) filed an application seeking direct access to numbering resources for provision of
+interconnected VOIP services (the “Application”). In the attached Supplement, CCES provides
+additional operational information requested by the Wireline Competition Bureau staff
+concerning that Application.
+Pursuant to Section 0.459(b) of the Commission’s rules, CCES requests confidential
+treatment of certain non-public information provided as Exhibit A to the Supplement. In support
+of this request, CCES hereby states as follows:
+(1) Identification of the specific information for which confidential treatment is
+sought. CCES seeks confidential treatment of Exhibit A to the Supplement in its
+entirety. Exhibit A is the “VoIP TN Service Schedule,” dated October 2, 2018, to the
+Master Services Agreement between CCES and Inteliquent, Inc. (the “Confidential
+Information”).
+(2) Identification of the Commission proceeding in which the information was
+submitted or a description of the circumstances giving rise to the submission.
+The Confidential Information is submitted to supplement the CCES Application
+currently pending in Interconnected VoIP Numbering Authorization Application Filed
+by Consolidated Communications Enterprise Services, Inc. Pursuant to Section
+52.15(g)(3) of the Commission's Rules, WC Docket No. 23-6.
+
+REDACTED FOR PUBLIC INSPECTION
+Consolidated Communications Enterprise Services, Inc.
+Request for Confidential Treatment
+WC Docket No. 23-6
+July 7, 2023
+(3) Explanation of the degree to which the information is commercial or financial,
+or contains a trade secret or is privileged. “[T]rade secrets and commercial or
+financial information obtained from a person and privileged or confidential” are
+exempt from disclosure under FOIA Exemption 4.1 CCES and its affiliates compete
+vigorously for market share among business, enterprise, and residential customers;
+government and non-profit entities; and other community anchor institutions such as
+schools, libraries, and healthcare providers. The Confidential Information concerns
+the terms and conditions for critical wholesale inputs to the services CCES provides.
+Disclosure of that Information would harm the competitive position of CCES in these
+important markets and place them at an unfair competitive disadvantage in seeking to
+serve these customers.
+(4) Explanation of the degree to which the information concerns a service that is
+subject to competition. CCES operates in highly competitive telecommunications
+markets across the country, facing substantial competition from wireline incumbents,
+competitive providers (including other interconnected VOIP providers), and wireless
+service providers. The presence of such competition and the likelihood of
+competitive injury as a result of the release of the Confidential Information should
+compel the Commission to withhold the information from public disclosure.2
+(5) Explanation of how disclosure of the information could result in substantial
+competitive harm. The Supreme Court has held that a showing of competitive harm
+is not required to satisfy FOIA Exemption 4.3 Nevertheless, this information is
+highly sensitive because multiple service providers compete, or could potentially
+compete, with CCES and its affiliates throughout their service areas. Disclosure of
+the Confidential Information would give competing service providers access to
+sensitive information concerning CCES’s VOIP service operations. Doing so would
+undermine its competitive position and would place CCES and its affiliates at an
+unfair competitive disadvantage in the market.
+(6) Identification of any measures taken by the submitting party to prevent
+unauthorized disclosure. This information is not normally distributed, circulated, or
+provided to any party outside of CCES and its affiliates. CCES treats this information
+as confidential and competitively sensitive information; thus, only specialized
+1 5 U.S.C. §552(b)(4).
+2 Frazee v. U.S. Forest Service, 97 F.3d 367, 371 (9th Cir. 1996); CNA Financial Corp. v. Donovan,
+830 F.2d 1132, 1152 (D.C. Cir. 1987); Gulf & Western Indus. v. U.S., 615 F.2d 527, 530 (D.C. Cir.
+1979); National Parks & Conservation Assoc. v. Morton, 498 F.2d 765, 769-70 (D. C. Cir. 1974).
+3 Food Mktg. Inst. v. Argus Leader Media, 139 S. Ct. 2356, 2363 (2019) (“Argus Leader”) (rejecting
+“substantial competitive harm” as probative under FOIA Exemption 4).
+2
+
+REDACTED FOR PUBLIC INSPECTION
+Consolidated Communications Enterprise Services, Inc.
+Request for Confidential Treatment
+WC Docket No. 23-6
+July 7, 2023
+personnel within the company, as well as outside counsel who are bound by ethical
+obligations to preserve client confidences, have access to it.4
+(7) Identification of whether the information is available to the public and the extent
+of any previous disclosure of the information to third parties. To the knowledge
+of CCES, the Confidential Information is not available to the public and has not
+previously been disclosed to third parties; any such disclosure would be made only
+pursuant to confidentiality obligations and/or nondisclosure agreements.
+(8) Justification of the period during which the submitting party asserts that
+material should not be available for public disclosure. The Confidential
+Information should remain subject to confidential treatment indefinitely. CCES
+intends to operate indefinitely under the VoIP TN Service Schedule that comprises
+the Confidential Information. Disclosure at any time would provide a competitive
+and strategic advantage to CCES’s competitors.
+(9) Any other information that the party seeking confidential treatment believes
+may be useful in assessing whether its request for confidentiality should be
+granted. The information covered by this request falls under Exemption 4 of the
+Freedom of Information Act (FOIA), insofar as this information is (i) commercial or
+financial in nature; (ii) obtained by a person outside government; and (iii) privileged
+and confidential. See, e.g., Washington Post Co. v. U.S. Department of Health and
+Human Services, 690 F.2d 525 (D.C. Cir. 1982).
+* * * * *
+For the foregoing reasons, and pursuant to section 0.459 of the Commission's rules, 47
+C.F.R. § 0.459, CCES requests that the Commission withhold the Confidential Information from
+public disclosure. If the Commission is unable for any reason to do so, CCES respectfully
+requests that the Commission return the information pursuant to section 0.459(e) of the
+Commission's rules, 47 C.F.R. § 0.459(e).
+4 See Argus Leader, 139 S. Ct. at 2363 (explaining that information is confidential where a party
+“do[es] not disclose . . . or make it publicly available . . . [and] only small groups of employees
+usually have access to it”).
+3
+
+REDACTED FOR PUBLIC INSPECTION
+Consolidated Communications Enterprise Services, Inc.
+Request for Confidential Treatment
+WC Docket No. 23-6
+July 7, 2023
+Should you have any questions, please contact the undersigned at (202) 230-4962 or
+richard@cameronlawpolicy.com.
+Very truly yours,
+Richard R. Cameron
+Counsel for Consolidated Communications
+Enterprise Services, Inc.
+4
+
+REDACTED FOR PUBLIC INSPECTION
+July 7, 2023
+VIA ELECTRONIC FILING
+Ms. Marlene H. Dortch, Secretary
+Federal Communications Commission
+45 L Street N.E.
+Washington, D.C. 20554
+Re: Supplement to Interconnected VoIP Numbering Authorization Application Filed
+by Consolidated Communications Enterprise Services, Inc. Pursuant to Section
+52.15(g)(3) of the Commission's Rules, WC Docket No. 23-6
+Dear Ms. Dortch:
+On December 19, 2022, Consolidated Communications Enterprise Services, Inc.
+(“CCES”) filed an application seeking direct access to numbering resources for provision of
+interconnected VOIP services (the “Application”). This Supplement provides additional
+information concerning CCES’s operational and facilities readiness to provide interconnected
+VOIP services, as requested by the staff of the Wireline Competition Bureau (the “Bureau”).
+The Commission’s 2015 Order establishing the process for authorizing interconnected
+VoIP providers to obtain direct access to telephone numbering resources permitted applicants to
+“demonstrate proof of facilities readiness by . . . providing a combination of an agreement
+between the interconnected VoIP provider and its carrier partner and an interconnection
+agreement between that carrier and the relevant local exchange carrier.”1 To meet this
+requirement, CCES’s Application explained that it currently provides interconnected VOIP
+services under agreement to use facilities owned by its local exchange carrier (“LEC”) affiliates.
+CCES further stated that, in areas where CCES does not have an LEC affiliate whose facilities it
+can use to provision interconnected VOIP service, it has entered into an interconnection or Local
+Transit agreement, such as the Master Services Agreement (“MSA”) currently in place between
+CCES and Inteliquent, Inc.,2 dated May 15, 2018.
+1 Numbering Policies for Modern Communications, WC Docket No. 13-97, Report and Order, FCC 15-
+70, 30 FCC Rcd 6839 (2015), at ¶ 37; see also 47 C.F.R. §§ 52.15(g)(3)(i)(D), 52.15(g)(2).
+2 See Application, WC Docket No. 23-6 (filed Dec. 19, 2022), at 3.
+
+REDACTED FOR PUBLIC INSPECTION
+Consolidated Communications Enterprise Services, Inc.
+Request for Confidential Treatment
+WC Docket No. 23-6
+July 7, 2023
+In this Supplement, CCES offers additional detail in support of those representations.
+First, CCES calls the Bureau’s attention to the interconnection agreement in place between CCES
+and AT&T Texas, which is a representative example among other interconnection agreements in
+place in those states where CCES operates. That agreement can be found as follows:
+Joint Application of Southwestern Bell Telephone Company d/b/a AT&T Texas and
+Consolidated Communications Enterprise Services, Inc. for Approval of Amendment
+to Interconnection Agreement under PURA and the Telecommunications Act of
+1996, Docket No. 51032 (filed August 10, 2020), available at:
+https://interchange.puc.texas.gov/search/documents/?controlNumber=51032&
+itemNumber=4
+Second, as Exhibit A, CCES submits the text of the VoIP TN Service Schedule to the
+MSA. The VoIP TN Service Schedule supports CCES delivery of VoIP services in areas where
+CCES lacks sufficient facilities or customer demand to provide these services efficiently using
+its own Operating Company Number and interconnection agreements, chiefly (but not solely) in
+areas outside of those served by one of CCES’s ILEC affiliates. For the reasons described in the
+accompanying Request for Confidential Treatment, Exhibit A is redacted in its entirety from the
+public version of this Supplement.
+Please contact the undersigned should you have any questions.
+Very truly yours,
+Richard R. Cameron
+Counsel for Consolidated Communications
+Enterprise Services, Inc.
+2
+
+REDACTED FOR PUBLIC INSPECTION
+Consolidated Communications Enterprise Services, Inc.
+Request for Confidential Treatment
+WC Docket No. 23-6
+July 7, 2023
+EXHIBIT A
+VoIP TN Service Schedule dated October 2, 2018, to the Master Services Agreement between
+Inteliquent, Inc., and Consolidated Communications Enterprise Services, Inc.
+[REDACTED IN ITS ENTIRETY]

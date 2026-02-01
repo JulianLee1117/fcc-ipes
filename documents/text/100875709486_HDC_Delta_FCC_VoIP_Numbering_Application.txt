@@ -1,0 +1,292 @@
+151SouthhallLane.Ste450
+Maitland.FL32751
+I
+P.O.Drawer200
+WinterPark.FL3279().0200
+www.inteserra.com
+October8, 2019
+Via ECFS Filing
+REDACTED FOR PUBLICINSPECTION
+Secretary, Federal Communications Commission
+Washington, DC20554
+Attn: WirelineCompetition Bureau
+RE: Request for Confidential Treatment of Filing of HOC Delta, LLCj Application ofHOC Delta, LLC
+for Authorization to Obtain Numbering Resources Pursuant to Section 52.15(g) of the
+Commission'sRules, WCDocketNo. 19-.
+DearSecretary:
+Pursuant to Section 52.15(g)(3)(i) of the Commission's Rules, HDC Delta, LLC ("HDC Delta") hereby
+submits its application requesting authorizationto obtain numberingresources.
+HDC Delta respectfully requests that, pursuanttoSections0.457 and0.459 ofthe Commission's rules, 47
+C.F.R. §§ 0.457 and 0.459, the Commission withhold from public inspection and accord confidential
+treatment to Exhibit A to the application because that document contains sensitive trade secrets and
+commercial information that falls within Exemption 4 ofthe Freedom ofInformation Act ("FOIA").l HDC
+Delta is voluntarily providing this information, "of a kind that would not customarily be released to the
+public"; therefore, this information is "confidential" under FOIA2 • Moreover, HDC Delta would suffer
+substantial competitive harm ifthis informationwere disclosed.3
+Exhibit A is accordingly marked with the header "SUBJECT TO REQUEST FOR CONFIDENTIAL TREATMENT
+NOTFOR PUBLICINSPECTION."
+5U.S.c. § 552(b)(4).
+2 SeeCriticalMass EnergyProjectv. NRC, 975 F.2d871, 879 (D.C. Cir. 1992).
+3 See NationalParks andConservationAss'nv. Morton} 498 F.2d 765 (D.C. Cir. 1974).
+
+October8, 2019
+Page 2of4
+In support of this request and pursuant to Section 0.459(b) of the Commission's rules4 , HDC
+Delta herebystates asfollows:
+1. IDENTIFICATION OFTHESPECIFICINFORMATION FORWHICHCONFIDENTIALTREATMENT IS
+s
+SOUGHT.
+HDC Delta seeksconfidential treatmentofExhibitAto the enclosed application.
+2. DESCRIPTION OFCIRCUMSTANCESGIVINGRISETOTHESUBMISSION.6
+HDC Delta is submitting as Exhibit Athe agreement between it and its carrier partner, as proof
+of HDC Delta's facilities readiness as required by Section 52. 15(g)(3)(i)(D) of the Commission's
+rules.
+3. EXPLANATION OF THE DEGREE TO WHICH THE INFORMATION IS COMMERCIAL OR FINANCIAL
+ORCONTAINSATRADESECRETOR ISPRIVILEGED.7
+The information for which HDC Delta seeks confidential treatment contains sensitive
+commercial information "which would customarily be guarded from competitors"8 . Exhibit A
+describes the agreement between HDC Delta and its carrier partner and contains proprietary
+commercial information concerning HDCDelta's network, customers, and services.
+4. EXPLANATION OF THE DEGREE TO WHICH THE INFORMATION CONCERNS A SERVICE THAT IS
+SUBJECTTOCOMPETITION.9
+ExhibitAcontains information relatingto commercial mattersthat could be used bycompetitors
+to HDC Delta's disadvantage. HDC Delta has numerous competitors in the Voice over Internet
+Protocol ("Volp") services sector in which it operates. Detailed operations and commercial
+information of the type provided by HDC Delta could compromise HDC Delta's position in this
+highly competitive industry. Release would therefore result in substantial competitive harm to
+HDC Delta.
+4 47 C.F.R. § 0.459(b).
+s
+47 C.F.R. § 0.459(b)(1).
+6 47 C.F.R. §0.459(b)(2).
+7 47 C.F.R. §0.459(b)(3).
+8 47 C.F.R. § 0.457(d)(2).
+9 47 C.F.R. § 0.459(b)(4).
+
+October8, 2019
+Page 3of4
+5. EXPLANATION OF HOW DISCLOSURE OF THE INFORMATION COULD RESULT IN SUBSTANTIAL
+COMPETITIVE HARMIO
+Competitors could use HOC Delta's proprietary commercial and operational informationto HOC
+Delta's detriment as they would gain access to sensitive information about how HOC Delta
+provides services as well as about HOC Delta's commercial agreements with others in the
+marketthat are notnormallydisclosed to the public.
+6. IDENTIFICATION OF ANY MEASURES TAKEN BY THE SUBMITIING PARTY TO PREVENT
+UNAUTHORIZEDDISCLOSURE.ll
+HOCDelta has not distributedthe information in ExhibitAto the public.
+7. IDENTIFICATION OF WHETHER THE INFORMATION IS AVAILABLE TO THE PUBLIC AND THE
+EXTENTOFANY PREVIOUSDISCLOSURE OFTHE INFORMATIONTOTHIRD PARTIES,12
+HOCDelta has notpreviouslydisclosedthe information in ExhibitA.
+8. JUSTIFICATION OF THE PERIOD DURING WHICH THE SUBMITIING PARTY ASSERTS THAT
+MATERIALSHOULDNOTBEAVAILABLE FOR PUBLIC DISCLOSURE.13
+HOC Delta requests that ExhibitAbetreated as confidential for aperiod often years. This period
+is necessarydueto the proprietary nature ofthe information in ExhibitA.
+10 47 C.P.R. §0.459(b)(5).
+11 47 C.P.R. § 0.459(b)(6).
+12 47 C.F.R. §0.459(b)(7).
+13 47 C.F.R. § 0.459(b)(8).
+
+October8, 2019
+Page4of4
+9. OTHER INFORMATION THAT HOC DELTA BELIEVES MAY BE USEFUL IN ASSESSING WHETHER
+ITSREQUESTFORCONFIDENTIALITYSHOULD BEGRANTED.14
+The information concerns HDC Delta's proprietary network information, related to current and
+planned commercial and operational information, and as such, is commerciallysensitive.
+Any questions you may have regarding this filing should be directed to my attention at 407-740-3006 or
+via email tocroesel@inteserra.com. Thankyou foryourassistance inthis matter.
+Sincerely,
+/s/Carey Roesel
+Carey Roesel
+Consultantto HDC Delta, LLC
+cc: Kathryn Glaser- HDCDelta
+tms: FCCv1901 HDCDelta
+CR/gs
+14 47 C.F.R. § 0.459(b)(9).
+
+Beforethe
+FEDERAL COMMUNICATIONS COMMISSION
+Washington, D.C. 20554
+In theMatterof )
+)
+HDC Delta, LLC )
+) WC DocketNo. 19- _
+ForAuthorization to ObtainNumbering )
+Resources Pursuantto Section52.15(g) of )
+The Commission's Rules )
+APPLICATION OF HDC DELTA,LLC
+FORAUTHORIZATION TO OBTAINNUMBERINGRESOURCES
+HDC Delta, LLC ("HDC Delta"), pursuant to Section 52.15(g)(3)(i) ofthe Commission's Rules,
+respectfully requests authorization to obtainnumbering as describedbelow.
+UndertheCommission'sNumberingOrder, aninterconnectedVoIPprovidermayobtainnumbering
+I
+resources from the NumberingAdministratorupon ashowing thatit is authorized to provide service in the
+area for which the numbering resources are requested. Such authorization may be obtained upon an
+application to the Commission containingthe informationdetailed in Section 52.15.(g)(3)(i)(A)-(G) ofthe
+Commission'sRules. HDCDeltaherebyrequeststheCommissiongrantitthatauthorization. Insupportof
+this application, the Companyprovides the following information:
+I. INFORMATION REQUIRED BY SECTION 52.15(g)(3)(i)
+A. §52.15(g)(3)(i)(A)
+Name: HDC Delta, LLC
+Address: 170 S. Green ValleyPkwy.
+Suite 300
+City: Henderson
+State: Nevada
+ZIP Code: 89012
+Telephone: 844-853-4444
+Website: https://delta.hdcarrierholdings.com
+I NumberingPoliciesforModern Communications,FCC 15-70(reI.June22,2015).
+
+Contact for Regulatory Requirements, Compliance, 911 and LawEnforcement:
+Name: David Erickson
+Address: 170 S. Green Valley Pkwy.
+Suite 300
+City: Henderson
+State: Nevada
+ZIP Code: 89012
+Telephone: 844-853-4444
+B. §52.15(g)(3)(i)(B)
+HDC Delta hereby acknowledges that authorization to obtain numbering resources under
+Section52.15(g)oftheCommission'sRulesissubjecttocompliancewithapplicableCommissionnumbering
+rulesaswellastothenumberingauthoritydelegatedtothestates. HDCDeltaherebyalsoacknowledgesthat
+this authorization is subject to compliance with industry guidelines andpractices regarding numbering, as
+applicableto telecommunicationscarriers. ThenumberingresourcesthatarethesubjectofthisApplication
+will beused to provide interconnectedVoIP services initiallyin MA.
+c. § 52.15(g)(3)(i)(C)
+HDCDeltaherebyacknowledgesthatitmustfilerequestsfornumberswiththerelevantstate
+commission(s) atleast30 days beforerequestingnumbers from the NumberingAdministrators.
+D. § 52.15(g)(3)(i)(D)
+HDCDeltaherebysetsforthitscapabilitytoprovideservicewithin60daysofthenumbering
+resources activationdate.
+Todemonstrateitsfacilitiesreadiness,HDCDeltawillhavethefollowingresourcesavailable
+at its disposal: a fully integratedback office support system with the ability to schedule and process LNP
+orders from customersand anexperiencedprovisioningdepartmentcapableofhandlingbulknumberports
+with over 10 years LNP experience. HDC Delta has an agreement in place with a CLEC partnerto route
+traffic to the ILECs. HDC Deltahasattachedto thisapplication, asExhibitA, anagreementbetweenHDC
+Deltaand itscarrierpartnerprovidingthatthecarrierpartnerwillhostHDCDelta'snumbersonitsswitches
+
+andprovide connectivityto the PSTNfor inbound calls to HDCDeltanumbers. HDC Deltahas requested
+confidentialtreatmentundertheCommission'srulesforExhibitA. Alsoattached,asExhibitB,isevidence
+ofinterconnectionagreementsbetweenHDC Delta's carrierpartnerand local exchangecarriers inMA.
+E. § 52.15(g)(3)(i)(E)
+HDC Delta hereby certifies that it complies with its Universal Service Fund contribution
+obligationsunder47CFRpart54,subpartH,itsTelecommunicationsRelayServicecontributionobligations
+under 47 CFR § 64.604(c)(5)(iii), its North American Numbering Plan and Local Number Portability
+Administrationcontributionobligationsunder47 CFR§§52.17and52.32, itsobligationstopayregulatory
+fees under47 CFR § 1.1154, and its 911 obligationsunder47 CFRpart9.
+F. § 52.15(g)(3)(i)(F)
+HDC Deltacertifiesthatithas thefinancial, managerial, andtechnicalexpertisetoprovide
+reliable service. It is financially stable, led by a strong, experienced management team with substantial
+managerial experience in the telecommunications industry, and has sufficient technical expertise and
+infrastructure inplaceto providereliablenumberingservices. HDCDelta'skey managementand technical
+personnel are listed below. None ofthe identified personnel are being or have been investigated by the
+Commissionoranylawenforcementorregulatoryagencyforfailure to complywithanylaw, rule,ororder.
+Key Personnel:
+ManagingMember- David Erickson
+ManagingMember- Kathryn Glaser
+ManagingMember- ScottSouthron
+G. § 52.15(g)(3)(i)(G)
+HDC Deltaherebycertifies that nopartyto thisapplicationis subjectto a denial offederal
+benefitspursuantto Section 5301 ofthe Anti-Drug Abuse Actof1988,21 U.S.C. § 862.
+
+II. ACKNOWLEDGEMENT OFCONDITIONS IN SECTION 52.15(g)(3)(iv)
+As required by Section 52.15(g)(3)(iv), HDC Delta will maintain the accuracy of all contact
+information and certifications in this application and will file a correction with the Commission and each
+applicable state within 30 days of any changes. HDC Delta will also furnish accurate regulatory and
+numbering contact information to each state commissionwhen requestingnumbers in thatstate.
+III. CONCLUSION
+Pursuant to Section 52.l5(g)(3)(i) of the Commission's Rules, HDC Delta respectfully
+requests the Commissiongrant this application for authorization to obtainnumbering resources.
+Respectfully submitted,
+CareyRoesel, Consultant
+InteserraConsultingGroup, Inc.
+407-740-3006
+croesel@inteserra.com
+and
+DavidErickson, ManagingMember
+HDC Delta, LLC
+844-853-4444
+info@delta.hdcarrierholdings.com
+October 8, 2019
+
+Exhibit A
+AGREEMENT BETWEEN
+HDC DELTA, LLC
+AND CARRIER PARTNER
+(Confidential exhibit submitted separately)
+
+Exhibit B
+(for each state listed)
+INTERCONNECTION AGREEMENTS BY AND
+BETWEEN
+CARRIER PARTNER
+AND
+VERIZON MASSACHUSETTS
+
+AGREEMENT
+byand between
+WIDEVOICE, LLC
+and
+VERIZONNEWENGLANDINC.,D/B/j1.VERIZQNMA$$ACIiUSETTS
+FORTHECOMMONWEALTHOF
+MASSACHUSETTS
+WideVoice ComprehensiveVer3.4b-1-MA.doc
+
+1.4 Exceptas otherwise provided inthe Principal Document, the Principal Document
+may notbewaived ormodified exceptbyawritten documentthat is signed by
+the Parties. Subjecttothe requirements ofApplicable Law, a Partyshall have
+the righttoadd, modify, orwithdraw, its Tariff(s) atanytime, withouttheconsent
+of, ornoticeto, theotherParty.
+2. Term and Termination
+2.1 ThisAgreementshall beeffectiveas ofthe EffectiveDateand, unlesscancelled
+orterminated earlierin accordancewith theterms hereof, shall continue in effect
+until October31~ 2015(theUlnitial Term"). Ther~aft~r,\thisA~re.~rn~ntshall
+continue.inf()rce./and effectunlessanduntilcancelledorterminatedasprovided
+inthisAgreement.
+2.2 EitherWideVoiceorVerizon mayterminatethisAgreementeffective upon the
+expiration ofthe InitialTerm oreffective upon any date afterexpiration ofthe
+Initial Term by providingwritten noticeoftermination atleastninety(90) daysin
+advanceofthedateoftermination.
+2.3 IfWideVoiceorVerizon provides noticeoftermination pursuantto Section 2.2
+and on orbeforethe proposed date oftermination eitherWideVoice orVerizon
+has requested negotiation ofa newinterconnection agreement, unlessthis
+Agreement is cancelled orterminated earlierin accordancewith theterms hereof
+(including, but notlimitedto, pursuantto Section 12), thisAgreement shall
+remain in effect untiltheearlierof: (a)the effectivedateofa newinterconnection
+agreement between WideVoice and Verizon; or, (b)thedateone (1)yearafter
+the proposed dateoftermination.
+2.4 IfWideVoiceorVerizon provides noticeoftermination pursuantto Section 2.2,
+and by 11:59 PM Eastern Timeonthe proposed dateoftermination neitherWide
+Voice norVerizon has requested negotiation ofa newinterconnection agreement
+(or, in accordancewith Subsection 2.3(b), ifnonewagreement is reached bythe
+dateone (1) yearafterthe proposed dateoftermination), then (a) thisAgreement
+will terminateat 11:59 PM Eastern Time onthe proposed dateoftermination (or
+in thecaseoftermination in accordancewith Subsection 2.3(b), at 11:59 PM
+Eastern Timeon thedateone (1) yearafterthe proposed dateoftermination),
+and (b)the Services being provided underthisAgreementatthe time of
+termination will beterminated, exceptto theextentthatthe Purchasing Party has
+requested thatsuch Servicescontinueto be provided pursuantto an applicable
+TarifforStatementofGenerallyAvailable Terms (SGAT).
+3. Glossary and Attachments
+The Glossaryand the following Attachments are apartofthisAgreement:
+Additional ServicesAttachment
+InterconnectionAttachment
+ResaleAttachment
+NetworkElementsAttachment
+CollocationAttachment
+911 Attachment
+PricingAttachment
+4. Applicable Law
+WideVoiceComprehensiveVer3.4b-1-MA.doc 2
+
+SIGNATURE PAGE
+INWITNESSWHEREOF,thePartiesheretohavecausedthisAgreementtobeexecutedasof
+theEffectiveDate.
+WIDEVOICE, LLC VERIZONNEWENGLANDINC.,D/B/AVERIZON
+MASSACHUSETTS
+--r---lr---~";"""""""""'--- By:
+By:
+Printed: PatrickJ. Chicas Printed: MicltaeIH. Mil~8n
+.::r~ -tI ~
+,I\~
+Title: President Title: 'President- VerizonGlobalWholesale
+WideVoiceComprehensiveVar3.4b-1-MA.doc 26

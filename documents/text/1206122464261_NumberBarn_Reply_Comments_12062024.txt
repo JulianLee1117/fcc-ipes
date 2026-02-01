@@ -1,0 +1,789 @@
+Before the
+FEDERAL COMMUNICATIONS COMMISSION
+Washington, D.C. 20554
+In the Matter of )
+)
+NumberBarn, LLC ) WC Docket No. 19-99
+)
+Application For Authorization to Obtain )
+Numbering Resources Pursuant to )
+Section 52.15(g) of the Commission’s Rules )
+REPLY COMMMENTS OF NUMBERBARN, LLC
+Allison D. Rule, Esq.
+Michael P. Donahue, Esq.
+Christine McLaughlin, Esq.
+Adam M. Davis, Esq.
+Marashlian & Donahue, PLLC
+1430 Spring Hill Road, Suite 310
+McLean, Virginia 22102
+adr@commlawgroup.com
+mpd@commlawgroup.com
+czm@commlawgroup.com
+amd@commlawgroup.com
+(703) 714-1312
+OUTSIDE COUNSEL TO
+NUMBERBARN, LLC
+December 6, 2024
+
+Table of Contents
+SUMMARY ..................................................................................................................................... i
+REPLY COMMMENTS OF NUMBERBARN, LLC .................................................................... 1
+I. The PUC Entities Have a Fundamental Misunderstanding of NumberBarn’s Business and
+Operations ................................................................................................................................... 2
+II. The Issue of Number Exhaustion Implicates Industry-Wide Policy Concerns Well Beyond
+the Scope of the Application ....................................................................................................... 3
+III. The PUC Entities Do Not Understand NumberBarn’s Search Engine Tool or Its
+Functionality ............................................................................................................................... 4
+IV. The Provision of Vanity Numbers Is Not Unique to NumberBarn ..................................... 9
+V. NumberBarn Is Not Stockpiling or Warehousing Toll-Free Numbers .............................. 11
+VI. There Are Legitimate Cases for the Use and Purchase of Numbers by Out of State End
+Users… ..................................................................................................................................... 11
+VII. NumberBarn’s Practices Are Consistent with Numbering Guidelines ......................... 13
+VIII. NumberBarn’s Call Parking Services Are a Legitimate Service and Similar to Services
+Offered by Other Providers with Direct Access to Numbering Resources ............................... 15
+IX. NumberBarn’s Compliance with State and Federal Registration, Reporting and
+Certification Requirements ....................................................................................................... 16
+A. NumberBarn Makes Every Effort to Comply with Applicable State Registration and
+Reporting Requirements ....................................................................................................... 17
+
+B. NumberBarn Does Not Have NRUF Reporting and Forecasting Obligations and Cannot
+Control the Practices of Upstream Carriers .......................................................................... 19
+C. NumberBarn’s Robocall Mitigation Certifications Are Accurate and Valid ................. 21
+X. The PUC Entities’ Concerns Regarding NumberBarn’s Application and Calls for Audits or
+Investigations of the Company Are Unfounded ........................................................................ 23
+CONCLUSION ............................................................................................................................. 25
+
+SUMMARY
+The PUC Entities’ Comments opposing NumberBarn’s Application for access to direct
+Numbering Resources are based on speculation, misunderstandings of and prejudice against
+NumberBarn’s business, misinterpretations of the application requirements for IVoIP providers,
+and/or issues of general applicability to Numbering Resources which must be addressed, if at all,
+in a rulemaking proceeding under the APA or through Congressional action.
+NumberBarn is not “hoarding” or “warehousing” numbers; it provides a search engine for
+numbers available from wholesale carriers. These numbers are unassigned numbers made
+available by carriers to their thousands of wholesale customers (of which NumberBarn is one), on
+a first come, first served basis, and NumberBarn does not have exclusive access to these numbers.
+Approximately 94% of the numbers searchable on NumberBarn’s website are from thousands-
+blocks that have been allocated to carriers by NANPA, but whose numbers have not been fully
+assigned, or are SPARE numbers available to any active RespOrg.
+The PUC Entities’ argument that a grant of NumberBarn’s Application “could” or “might”
+cause or exacerbate number exhaust is speculative and unsupported by any factual data.
+NumberBarn is far from the only entity with this business model. Carriers obtain numbers in
+thousands-blocks, and entities such as NumberBarn merely provide a platform to make the unused
+numbers of such carriers available to end users. Similarly, assigning groups of numbers and vanity
+numbers is lawful; such practices are long-standing, widespread, and of great value to certain
+customers, such as businesses and governmental entities. NumberBarn agrees that number exhaust
+is a serious issue, but an issue with industry-wide policy implications should be addressed by the
+rulemaking process. And, contrary to the PUC Entities’ claims, NumberBarn’s search engine may
+i
+
+potentially improve the efficient use of numbers, especially numbers that would otherwise remain
+unassigned.
+NumberBarn further disputes the PUC Entities’ claims that it has failed to register, obtain
+authority, or contribute to universal service in jurisdictions where it is, in fact, required to do so.
+NumberBarn inadvertently failed to complete a required registration in Michigan, which it
+remedied promptly upon the MI PSC raising the matter in its Comments. Similarly, the PUC
+Entities’ allegations regarding the filing of NRUF reports are misplaced. The FCC’s rules and
+VoIP numbering orders require such filings of an IVoIP provider that has been granted direct
+number access – which NumberBarn does not yet have.
+The PUC Entities’ claims of robocall violations are likewise baseless. NumberBarn
+complies with STIR/SHAKEN, and implements strict policies, including in its Terms of Service,
+to prevent fraud, robocalling, and similarly inappropriate uses of its services. To the extent that the
+PUC Entities have noted promotional “scams” at certain numbers, NumberBarn has no control
+over how third-party carriers utilize numbers in their inventory. Concerns in the Comments that
+NumberBarn is somehow enabling spammers or robocallers are likewise speculative and specious.
+Finally, there is nothing untoward regarding NumberBarn’s offer to provide copies of its
+FCC Forms 477 and 499 upon FCC request. Those filings contain sensitive financial and
+commercial information and are available to the FCC. Likewise, NumberBarn’s current services
+do not require interconnection agreements with carriers. NumberBarn has provided IVoIP services
+for a decade and has been connecting calls to the public switched network via agreements with
+carriers who have interconnection agreements. That said, as part of its Application, NumberBarn
+provided the FCC a copy of an interconnection agreement it entered into in anticipation of its
+Application being granted.
+ii
+
+Before the
+FEDERAL COMMUNICATIONS COMMISSION
+Washington, D.C. 20554
+In the Matter of )
+)
+NumberBarn, LLC ) WC Docket No. 19-99
+)
+Application For Authorization to Obtain )
+Numbering Resources Pursuant to )
+Section 52.15(g) of the Commission’s Rules )
+REPLY COMMMENTS OF NUMBERBARN, LLC
+NumberBarn, LLC (“NumberBarn” or “the Company”) respectfully submits these Reply
+Comments in response to the Public Notices released by the Federal Communications Commission
+(“FCC” or “the Commission”) on September 24, 2024, October 4, 2024, and November 19, 2024,
+and the comments submitted by the California Public Utilities Commission (“CPUC”), Maine
+Public Utilities Commission, New Hampshire Department of Energy, Washington Utilities and
+Transportation Commission, Public Service Commission of West Virginia, Public Service
+Commission of the District of Columbia,1 the Michigan Public Service Commission (“MI PSC”),
+and the Arizona Corporation Commission (“ACC”) with respect to the Application for
+Authorization to Obtain Numbering Resources (“Application”) filed by the Company.
+As set forth in NumberBarn’s Request for Extension, the PUC Entities’ opposition to
+NumberBarn’s Application rests primarily on (1) unsubstantiated allegations that reflect a
+fundamental misunderstanding of, or prejudice against, NumberBarn and its business model and
+1 The California Public Utilities Commission, Maine Public Utilities Commission, New Hampshire
+Department of Energy, Washington Utilities and Transportation Commission, Public Service
+Commission of West Virginia, and the Public Service Commission of the District of Columbia
+filed joint comments and are referred to herein as the “State Commissions.” References to all of
+the entities filing comments in this proceeding are designated as “the PUC Entities.”
+
+(2) broad policy concerns that impact the entire communications industry and go well beyond the
+scope of the instant Application. Accordingly, the PUC Entities failed to articulate any good cause
+as to why NumberBarn’s Application should be denied or treated any differently than those of
+other similarly situated providers whose applications have been granted.2
+I. The PUC Entities Have a Fundamental Misunderstanding of NumberBarn’s
+Business and Operations
+As an initial matter, it is difficult to believe that the pervasive misunderstanding of
+NumberBarn’s operations on the part of the PUC Entities is not, to some degree, willful.
+NumberBarn first addressed a number of these apparent misunderstandings regarding the function
+and use of the search tool on its website in its Opposition to the National Association of Regulatory
+Commissioners’ (“NARUC”) request for an Extension3. NumberBarn made clear that the vast
+majority of the numbers found through its search tool are not held by NumberBarn or its customers
+and are unassigned numbers that are being made available by carriers to their wholesale customers
+(of which NumberBarn is one) on a first come, first served basis. In addition, NumberBarn has
+sent written correspondence to the NARUC executive committee inviting it to engage in an open
+dialogue whereby the Company could provide NARUC and its members information about its
+business model and operations.4
+A NumberBarn representative also attended the recent NARUC annual meeting and even
+volunteered to participate in a panel discussion as part of its outreach efforts. At the meeting,
+2 Given that the PUC Entities’ comments included all manner of perceived failings and misdeeds
+on the part of NumberBarn regardless of how specious or unrelated those are to the Company’s
+instant Application, it is worth noting that both the Arizona ACC and Michigan PSC failed to serve
+notice of their comments on NumberBarn.
+3 See https://www.fcc.gov/ecfs/document/100170639531/1 (“Opposition”).
+4 See November 7, 2024 Letter from NumberBarn outside counsel to NARUC President, Julie
+Fedorchak attached as Exhibit A to NumberBarn’s Motion for Extension of Time.
+2
+
+NumberBarn also met with staff from various PUCs. Tellingly, staff from the CPUC flatly refused
+to meet with NumberBarn personnel and instead elected to file comments with the other State
+Commissions that were rife with baseless and damaging allegations against the Company.
+Nevertheless, NumberBarn held an open demonstration for NARUC members on November 25,
+2024, where it walked them through the Company’s platform, business model, and explanation of
+its use of available numbers. It does not appear that representatives from the California, Maine,
+New Hampshire, or West Virigina PUCs attended the demonstration on the 25th.
+In contrast to NumberBarn’s outreach efforts, none of the PUC Entities appear to have read
+or considered the Company’s Opposition in preparing their comments. Further, despite claiming
+to have conducted thorough “investigations” into NumberBarn’s operations, neither NARUC nor
+any one of its members engaged in any prior outreach to learn more about NumberBarn’s services
+despite the lengthy extension granted by the FCC in which to file comments in this proceeding.
+Thus, in these Reply Comments, NumberBarn will again attempt to educate NARUC and the PUC
+Entities as to the nature of its services and the functionality of the search tool found on its website
+in order to rebut and dispel each of the PUC Entities’ unsubstantiated allegations and far-fetched
+hypotheticals.
+II. The Issue of Number Exhaustion Implicates Industry-Wide Policy Concerns
+Well Beyond the Scope of the Application
+The PUC Entities each argue throughout their comments that granting NumberBarn’s
+Application “could” or “might” exacerbate the issue of number exhaustion. While number resource
+depletion is a serious issue, it is one that impacts the industry as a whole and goes well beyond the
+scope of the instant Application. Solutions need to be industry-wide, not application-specific, if
+the FCC and the PUC Entities are serious about addressing this issue. Thus, NumberBarn
+maintains that such broad policy concerns should not factor into the FCC’s consideration of
+3
+
+NumberBarn’s Application, especially when the concerns raised in the context of NumberBarn’s
+Application are purely speculative and based on a misunderstanding of the Company’s services.
+It would violate fundamental notions of due process and the dictates of the Administrative
+Procedure Act for the FCC to make sweeping policy changes and pronouncements in this matter,
+as doing so would unjustly prejudice a single provider. There is little question, especially in light
+of recent precedent, that the courts would look unfavorably on any attempts by the FCC to usher
+in broad policy changes through a one-off application process.5 Further, given the imminent
+change in FCC leadership, the FCC should promptly act on this Application and abstain from
+addressing broad, partisan, or controversial policy matters during this transition period, as
+requested by Congressional leaders.6 This further supports granting NumberBarn’s Application
+and allowing the new administration to address concerns of number depletion and numbers as
+property through the rulemaking process or Congressional action.
+That being said, in support of their arguments that NumberBarn’s business practices were
+contributing to the problem of number exhaustion, the PUC Entities made a number of incorrect,
+misleading, and unsubstantiated claims that NumberBarn is compelled to address herein.
+III. The PUC Entities Do Not Understand NumberBarn’s Search Engine Tool or
+Its Functionality
+In discussing NumberBarn’s operations and practices and leveling accusations of number
+stockpiling against NumberBarn, the PUC Entities apparently failed to recognize that the search
+tool on NumberBarn’s website is just that - a search engine of available numbers. Contrary to the
+misunderstanding held by the PUC Entities, NumberBarn itself does not hold, warehouse, or own
+5 Loper Bright Enterprises v. Raimondo, 603 U.S. ___ (2024); In re MCP No. 425, 2024 WL
+3517673 (6th Cir. 2024).
+6 See https://www.cnet.com/home/internet/gop-cruz-tell-fcc-pencils-down-after-trump-election-
+win/ .
+4
+
+the over 70,000,000 phone numbers that are searchable using its website tool. Rather, with limited
+exception, these numbers are unassigned numbers made available by carriers to their thousands of
+wholesale customers (of which NumberBarn is one), on a first come first served basis, and
+NumberBarn does not have exclusive access to these numbers. Thus, the PUC Entities’ allegations
+of stockpiling or warehousing numbers are without merit and based on a fundamental
+misunderstanding of the purpose and functionality of the search tool on NumberBarn’s website.
+Next, the State Commissions seemingly contradict themselves by questioning whether
+NumberBarn has the authority to “list” numbers on its website (i.e., searchable through its website
+tool), if the Company does not have exclusive access to the numbers.7 Putting aside the issue of
+whether a company needs authorization to list unassigned numbers, this question also illustrates a
+misunderstanding on the part of the State Commissions as to the reason there exists large swaths
+of unassigned numbers.
+In order to “enter” a rate center, a carrier must obtain a block of 1000 numbers (the
+minimum allocation size) from the North American Numbering Plan Administrator (“NANPA”),
+even if it just wanted a single number, e.g. for an LRN, or even for a single subscriber. This leaves
+potentially 999 unassigned numbers that were “necessarily” allocated to the carrier by NANPA. It
+can sometimes take months to obtain and activate a block, so carriers need to forecast and request
+well ahead of actual need. While there is an economic disincentive for them to over-forecast, the
+carriers obviously want to err on the side of too many rather than not enough.
+Adding to this issue is the fact that carriers are not always able to “return” allocations back
+to NANPA, even when they want to do so; as there are strict rules on returning blocks,8 and some
+7 See Comments of State Commissions at 3-4.
+8 See, e.g., Section 11.1.1 of the Thousands-Block (NPA-NXX-X) & Central Office Code (NPA-
+NXX) Administration Guidelines (TBCOCAG) ATIS-0300119.
+5
+
+“contaminated” blocks are unable to be returned. And, because NANPA is fragmented into over
+20,000 rate centers, carriers desiring a nationwide footprint need to obtain thousands-blocks in
+thousands of rate centers, potentially tying up millions of phone numbers.
+All of these factors above contribute to the current situation where some wholesale carriers
+have millions of unassigned numbers, even when acting responsibly with regard to numbering
+efficiency. NumberBarn aggregates availability information from many carriers about these
+unassigned numbers (that is, numbers that have been allocated to the carriers by NANPA but do
+not yet have an active subscriber). This is the data which becomes the basis of the Company’s
+search engine. While these unassigned numbers are in a status that could be reported by carriers
+in their Number Resource Utilization Forecast (“NRUF”) submissions as unassigned,
+NumberBarn does not have visibility into other carriers’ NRUF policies and procedures.
+Approximately 94% of the numbers searchable on NumberBarn’s website are from
+thousands-blocks that have been allocated to carriers by NANPA, but whose numbers have not
+been fully assigned, or are SPARE numbers available to any active RespOrg.9 The Company relies
+on upstream carriers to provide availability information via API, and NumberBarn caches this
+information periodically. When a NumberBarn customer adds a number to their basket, the
+Company re-confirms the availability of that number and then, in most cases, “reserves” that
+number for a brief period while the Company completes the order. As noted in NumberBarn’s
+Opposition, it is common industry practice for carriers, including VoIP providers who have already
+been granted access to Numbering Resources, to allow their customers to select numbers from a
+“pool” of unused or available numbers. None of the PUC Entities have articulated a single reason
+9 To clarify, NumberBarn and upstream carriers use the term “pooled” or “spare” as synonymous
+with “unassigned”. This is a wholly different concept than the NANPA concept of number
+pooling.
+6
+
+why NumberBarn’s Application should be treated any differently from other similarly situated
+applicants.10
+The suggestion that NumberBarn is listing or selling numbers unbeknownst to the end users
+is defamatory and suggests that NumberBarn is somehow stealing numbers from unwitting end
+users – something it does not, would not, and cannot do. That would be an impractical and
+unsustainable business model. Moreover, NumberBarn does not have numbering authorization, so
+it cannot take or steal numbers, and it would not do so if granted authorization. At the time of order
+fulfillment, the Company requests that the relevant carrier assign the number to the Company and
+then relies on that carrier to fulfill the order. As set forth in more detail below, in a small portion
+of cases, a NumberBarn customer will elect to list and sell its number on NumberBarn’s website.
+In that case, when NumberBarn receives an order for that number, the Company reviews it, and
+transfers the number to the buyer at the time that it charges the buyer and pays the seller.
+Contrary to the PUC Entities’ claims, NumberBarn’s search engine may potentially
+improve the efficient use of numbers, especially numbers that would otherwise remain unassigned.
+Every number an end user identifies and requests through the search engine is one less unassigned
+number depleting existing Numbering Resources. NumberBarn’s search engine facilitates better,
+more efficient utilization of the 70,000,000 currently unassigned numbers, reducing the need for
+end users and carriers to request additional thousands-blocks for a single number.
+10 See, e.g., a sampling of other entities offering the “sale” of virtual numbers to VoIP customers
+and/or allowing customers to select numbers: www.zoom.com/en/products/voip-
+phone/features/virtual-phone-number/; https://www.phone.com/virtual-phone-number/ ;
+https://www.ooma.com/phone-numbers/ ; https://voipstudio.com/voip-numbers/;
+https://www.telinta.com/solutions/business/virtual-numbers/. VoIPReview.org has published a list
+of “The 9 Best Virtual Phone Number Providers of 2024,” which includes such entities as Google
+Voice and RingCentral. See, https://www.voipreview.org/virtual-phone-number-providers.
+7
+
+The PUC Entities likewise suggest that NumberBarn is selling large groups of consecutive
+numbers and that this practice is contributing to number exhaustion. Again, these concerns are
+unsupported and unfounded. Further, the assertion by the ACC and the State Commissions that
+NumberBarn may, at some point in the future, violate sequential numbering rules11 is purely
+speculative and cannot serve as a good faith basis on which to deny the Company’s Application.
+NumberBarn offers “consecutive” search functionality to allow customers to find groups
+of consecutive numbers. NumberBarn does not and has not requested any thousands-blocks or CO
+codes from NANPA or its carriers. Indeed, NumberBarn does not have the authority to request
+assignment of blocks from NANPA, as it does not currently have numbering authorization. It is
+striking that the PUC Entities are accusing the Company of abusing access it does not even have.
+Similarly, NumberBarn has never requested access to entire blocks of numbers from its
+suppliers. NumberBarn’s search engine aggregates knowledge of unassigned numbers from
+multiple sources and makes those numbers searchable on its website. To the extent that an entire
+block of numbers is found using the search tool on NumberBarn’s site, those are coming from
+other sources – either wholesale carriers or a combination of wholesale carriers and end users
+listing their numbers. Again, most of the numbers identified through the search tool are currently
+unassigned numbers. Where a customer is able to identify a group of numbers through the tool
+and then obtain those numbers, NumberBarn’s search tool actually facilitates efficient use of
+Numbering Resources by enabling activation of unassigned numbers where a requirement for
+consecutive numbers might otherwise lead to a carrier requesting an additional thousands-block.
+Moreover, there are common, industry accepted reasons for end users to request groups of
+consecutive numbers. One common scenario is for a business that is assigning phone numbers to
+11 See Comments of ACC at 3 and Comments of State Commissions at 7.
+8
+
+their employees, to prefer a consistent NPA-NXX for all employees, and/or for the least significant
+digits of the assigned phone numbers to “line up” with their internal extension numbers. In fact,
+the MI PSC’s own employee directory suggests that they engage in this practice with regard to
+consecutive numbers within the 517-284-XXXX block.12 It is also interesting to note that Somos,
+which is authorized by the FCC to operate the registry of toll-free numbers, offers a “consecutive”
+number search tool to all Responsible Organizations (“Resp Orgs”) and has done so since the
+advent of toll-free numbers.
+IV. The Provision of Vanity Numbers Is Not Unique to NumberBarn
+The ACC and State Commissions both allege that NumberBarn’s provisioning of vanity
+and “valuable” numbers will contribute to number exhaustion.13 As set forth above, while the
+general issue of number exhaustion is a serious issue, it is a broad policy issue that impacts the
+entire industry and goes beyond the parameters of the instant Application. The causes of any
+potential number exhaustion likewise cannot be tied to NumberBarn or to vanity numbers. That
+said, the inaccurate and unsupported factual allegations made by the ACC and State Commissions
+must be addressed.
+First, as of the date of this filing, NumberBarn’s searches indicate that there are just over
+250,000 Arizona numbers across five area codes that are searchable on NumberBarn’s website –
+this is substantially less than the number set forth in the ACC’s comments. Of those numbers,
+approximately 92% are available through upstream carriers that make their numbers available to
+multiple wholesale customers on a first come, first served basis. The remaining 8% come from
+other sources, including 3% that account for NumberBarn subscribers who have opted to list their
+12 See www.michigan.gov/mpsc/-/media/Project/Websites/mpsc/about/MPSC_Phone_List-
+Internet.pdf
+13 See Comments of ACC at 2-3 and Comments of State Commissions at 2-3.
+9
+
+numbers for sale, something that NumberBarn permits its customers to do, but does not require.
+Further, NumberBarn’s customers are free to list their numbers elsewhere, and NumberBarn does
+not require that any sales be done exclusively through its website. Thus, contrary to the ACC’s
+accusations, NumberBarn is not hoarding or otherwise stockpiling “valuable” numbers, as most of
+the Arizona numbers searchable on NumberBarn’s website are held by other carriers and are
+available to all of those carriers’ customers on a first come, first served basis.
+NumberBarn does not dispute that a small portion of number patterns are considered
+valuable by end users who may wish to sell them, however (1) the reasonableness of this practice
+is a matter for public policy debate and should be addressed through a rulemaking or Congressional
+action rather than as part of the consideration of this Application and (2) the total quantity of these
+numbers (i.e., the “size” of the vanity number market in aggregate) is limited in comparison to the
+number of assigned numbers. Indeed, of the numbers searchable on NumberBarn’s website, less
+than 5% are so called “valuable” numbers.
+With respect to the concern of NumberBarn’s provision of vanity numbers, many providers,
+including those who have already been granted access to Numbering Resources allow customers
+to “choose your number,”14 which is the very essence of a vanity number. Contrary to the
+assertions of the State Commissions, NumberBarn does not and has not auctioned numbers, other
+than the auction of the 833 area code as permitted by the FCC.15 NumberBarn has never
+stockpiled, requested, or targeted blocks with vanity numbers, and assertions that it might do so in
+the future are pure speculation.
+14 See infra ftnt. 9.
+15 See https://auction.somos.com/
+10
+
+V. NumberBarn Is Not Stockpiling or Warehousing Toll-Free Numbers
+Both the State Commissions and the MI PSC raised concerns that NumberBarn might be
+warehousing or hoarding toll-free numbers.16 In addition to the fact this claim is pure speculation,
+the suggestion that NumberBarn is somehow stockpiling these numbers represents yet another
+blatant and intentional failure to understand NumberBarn’s business and erroneously presumes
+that NumberBarn has exclusive access to all of the toll-free numbers found through the search tool
+on its website, when in reality these numbers (with limited exceptions) are unassigned and
+available to any RespOrg wishing to assign them to their customers.
+As a RespOrg, NumberBarn has direct access and visibility into all telephone numbers
+within the active toll-free area codes (800, 888, 877, 866, 855, 844, and 833) that are classified by
+Somos as SPARE, that is, numbers that are available for search and reservation by any RespOrg
+on a first come, first served basis. To be clear, NumberBarn currently has approximately 64,000
+toll-free numbers that are assigned to bona fide subscribers (end users); these numbers are
+classified by Somos in WORKING status. In addition, NumberBarn currently has 225 toll-free
+numbers that are in RESERVED status, which is well below the Reservation Limits prescribed by
+Somos.17
+VI. There Are Legitimate Cases for the Use and Purchase of Numbers by Out of
+State End Users
+In its comments, the ACC states that NumberBarn and its upstream vendors are acting in
+concert to deplete Arizona Numbering Resources by offering numbers to mostly out of state
+16 See Comments of MI PSC at 4 and Comments of State Commissions at 6.
+17 See https://www.somos.com/tariff Section 2. 2.3.1.(A).(4) (4). The designation as RESERVED
+indicates a temporary hold initiated by NumberBarn in the context of a pending activation of
+service for a bona fide NumberBarn subscriber.
+11
+
+entities for the purposes of making spam calls to Arizona residents.18 The ACC claims that
+NumberBarn’s vendors have received more than 4.5 million numbers in Arizona and speculates
+that NumberBarn “through partnership” with these carriers is facilitating the availability of
+Arizona numbers to out of state entities for the purposes of spam calls.19
+As stated above, concerns regarding the scarcity and/or depletion of Numbering Resources
+are policy issues that are outside the scope of the instant Application, impact the broader industry
+as a whole, and are properly addressed through the FCC’s rulemaking process or Congressional
+action. That said, in addition to raising broad policy issues in the context of a single Application,
+the ACC’s allegations are unproven, speculative, and damaging to the Company. The ACC’s
+arguments require multiple cognitive leaps and are unsupported by any evidentiary offerings.
+First, the ACC states, without any evidence, that most of the Arizona numbers obtained by
+upstream carries are being used by companies seeking to appear as if they are located in Arizona.
+In fact, the ACC has no knowledge of or insight into whether the end users of these numbers are
+located in Arizona.20 The ACC then speculates that the only reason that non-Arizona based end
+users would want an Arizona number is to place spam calls.21 There are a number of legitimate
+reasons why companies not headquartered in Arizona or end uses not located in Arizona could
+seek Arizona numbers, especially in the current environment where remote work is the norm, not
+the exception to the rule.
+The argument that NumberBarn “may” be selling numbers to end users to facilitate spam
+calls, illegal robocalling, and similar conduct, is not only speculative, it also makes no economic
+18 See Comments of ACC at 6-7.
+19 Id.
+20 Id. at 7.
+21 Id.
+12
+
+sense. NumberBarn serves a primarily retail market and prices its services accordingly. Any
+wholesale customer that intended to buy in bulk (whether that be for legitimate or illegitimate
+purposes) would likely contract directly with any number of wholesale platforms that offer
+numbers in bulk for pennies per month. Fear and conjecture cannot be the basis on which to deny
+NumberBarn access to Numbering Resources when other similarly situated providers have been
+granted such access and have not been subjected to defamatory and speculation-driven malignment
+by the PUC Entities.
+VII. NumberBarn’s Practices Are Consistent with Numbering Guidelines
+As with the PUC Entities’ other allegations, their assertions that NumberBarn’s practices
+violate numbering guidelines are without merit and based on a false narrative of the Company’s
+operations. Specifically, as set forth above, NumberBarn has never auctioned numbers, other than
+as permitted by the FCC, and is not in violation of sequential numbering rules; nor is it brokering,
+warehousing, or hoarding numbers. Assertions that the Company “might” do so in the future are
+nothing more than worst-case speculation grounded in fear rather than fact. It would be a gross
+overreach of the Commission’s authority to deny NumberBarn’s Application based on the
+unsubstantiated fears, beliefs, and feelings of the PUC Entities.
+For example, in its comments, the MI PSC lamented NumberBarn’s “business practices in
+handling telephone Numbering Resources.”22 In reality, the MI PSC had no actual knowledge of
+NumberBarn’s practices and based its concerns on a misreading or misunderstanding of
+NumberBarn’s operations. The MI PSC mistakenly assumed that NumberBarn acquires large
+quantities of both geographic and toll-free numbers based on a statement on the Company’s
+website that it has over 70 million numbers available for assignment. As set forth in NumberBarn’s
+22 See Comments of MI PSC at 2.
+13
+
+Opposition and above, the vast majority of the numbers that can be found through the search tool
+on NumberBarn’s website not held by NumberBarn are unassigned and can likewise be found on
+other wholesale provider platforms. Simply put, there is no evidence that NumberBarn has, does,
+or will hoard numbers, as most of the numbers found through NumberBarn’s search tool are
+unassigned and remain available to thousands of wholesale customers of their respective carriers.
+The PUC Entities also cite the Alliance for Telecommunications Industry Solutions
+(“ATIS”) guidelines and allege, again without evidence, that NumberBarn “is circumventing, or
+allowing other providers to circumvent, telecommunications industry best practices.”23 Notably,
+the PUC Entities base their allegations on “investigations” they conducted on NumberBarn. As
+set forth herein, NumberBarn was never contacted by the PUC Entities, alerted to the
+investigations, or asked to provide information related to the same.
+As an initial matter, ATIS’s guidelines are just that – guidelines. The FCC has “full
+jurisdiction over the telephone numbering system in the United States.”24 The FCC’s jurisdiction
+notwithstanding, NumberBarn disputes the MI PSC’s characterization and maintains that its
+practices are consistent with industry standards and the practices of other VoIP providers that have
+already been granted access to Numbering Resources. Likewise, the insinuation that NumberBarn
+somehow controls the practices of its competitors or upstream providers is ludicrous and is based
+on pure supposition and a fundamental misunderstanding of NumberBarn’s business and the
+industry. Lastly, as with concerns regarding number exhaustion, discussions as to whether
+numbers are properly considered to be property or a public resource is a question of policy that is
+23 See Comments of MI PSC at 3. See also, Comments of ACC at 7-8 and Comments of State
+Commissions at 3.
+24See https://www.fcc.gov/general/numbering-
+issues#:~:text=The%20FCC%20has%20full%20jurisdiction,the%20efficient%20use%20of%20n
+umbers.
+14
+
+properly considered in the context of a broader rulemaking or Congressional proceeding, not in
+the Application of a single provider.
+VIII. NumberBarn’s Call Parking Services Are a Legitimate Service and Similar to
+Services Offered by Other Providers with Direct Access to Numbering
+Resources
+The State Commissions claim, without providing a single citation, that NumberBarn’s call
+parking services may violate FCC regulations and/or industry guidelines because parked numbers
+may also be offered for sale on NumberBarn’s site.25 However, the practice of number parking is
+commonplace in the industry and does not, in and of itself, violate federal law. To the extent that
+the FCC wishes to examine whether regulatory oversight over parking services is necessary or
+within its jurisdiction, such issues must be addressed through a rulemaking, and are not properly
+considered in the context of an application of a single provider.
+With respect to NumberBarn’s parking services, the Company provides certain enhanced
+services that do not enable two-way communication. NumberBarn allows customers on parked
+plans to play a custom or default greeting, receive call notifications, and, in some cases, to receive
+inbound SMS. Countless companies that have been granted numbering authorization offer
+enhanced one-way services that include auto-attendant, voicemail, IVR, menu, pre-recorded
+message playback, and inbound SMS messaging. The PUC Entities have failed to articulate any
+reason why NumberBarn’s parking services should be treated any differently than similar services
+offered by other providers.
+A common use case for NumberBarn’s parking service is when a wireless customer plans
+to travel for a long period and wants to retain their phone number with a minimal feature set during
+25 See Comments of State Commissions at 5. As set forth herein, NumberBarn does allow its bona
+fide subscribers to list their telephone numbers for sale, and those customers may be subscribers
+to the Company’s parking services.
+15
+
+that time. They will port their number to NumberBarn and then port it back to their wireless
+provider when they return and are ready to resume their service. It is unreasonable for the State
+Commissions to suggest that all assigned telephone numbers must offer two-way
+communication.26 It is also unreasonable for the State Commissions to suggest that this activity
+violates Commission’s rules. In fact, many wireless companies offer a “suspend your line” or
+“seasonal suspend” feature that allows the subscriber to maintain ownership of their phone number
+without service for a reduced fee.27
+IX. NumberBarn’s Compliance with State and Federal Registration, Reporting
+and Certification Requirements
+In their comments, each of the PUC Entities alleges that NumberBarn’s Application should
+be denied because the Company has failed to comply with certain state and federal registration,
+reporting, and/or certification requirements. These allegations are largely without merit and are
+based on the PUC Entities’ misunderstanding or misapplication of applicable legal requirements.
+NumberBarn takes its regulatory obligations seriously, as evidenced by the fact that it has never
+been the subject of any public investigation,28 enforcement action, or other adverse action on the
+26 Such a suggestion is also factually and legally incorrect – one-way paging is among the oldest
+of wireless telecommunications services and provides neither voice communications nor two-way
+transmission; yet one-way paging carriers may obtain direct access to Numbering Resources. See
+e.g., https://www.nanpa.com/sites/default/files/2024-
+06/NewSPChecklist_COCode%26amp%3BThousands-Block.pdf (listing the types of entities that
+may obtain direct number access) and https://www.neca.org/business-solutions/company-
+codes/company-code-request-instructions (including “paging, beeper” in the company code for
+wireless carriers entitled to direct number access).
+27 See https://www.att.com/support/article/wireless/KM1046747/;
+https://www.att.com/support/article/my-account/KM1009512/;
+https://www.verizon.com/support/suspend-service-faqs/ .
+28 While the PUC Entities’ claim to have conducted investigations into NumberBarn’s practices,
+the Company was never notified of such investigations until receipt of the comments in this
+proceeding. Indeed, none of the PUC Entities bothered to contact NumberBarn during the course
+of these “investigations” to request information about the Company or its services. NumberBarn
+16
+
+part of the FCC or any state utility commission. These arguments are simply another example of
+the PUC Entities tilting at windmills in their attempt to encourage the FCC to deny the Application,
+further underscoring the fact that none of the PUC Entities have any good faith or factual basis on
+which to oppose the Application.
+A. NumberBarn Makes Every Effort to Comply with Applicable State
+Registration and Reporting Requirements
+The ACC, the Public Service Commission of the District of Columbia, the MI PSC, and
+the Maine Public Utilities Commission each maintain that NumberBarn failed to register or seek
+Certificates of Public Convenience and Necessity (“CPCNs”) from appropriate state authorities.29
+The PUC Entities base their allegations on a review of NumberBarn’s listing in the Form 499 Filer
+database. The information in the database is based on filers’ Form 499 registrations. Notably,
+while the database provides a list of “jurisdictions in which the filing entity provides
+telecommunications services,” Line 227 of the Form 499-A requires providers to indicate
+jurisdictions in which they provide services, including jurisdictions where providers are likely to
+provide services in the next twelve months.
+While NumberBarn does have a handful of customers in Maine, it is not providing
+regulated services to those customers and therefore does not currently have any regulatory fee
+remittance obligations in the state and is not required to register with the third-party fee
+administrator. When and if it does provide regulated services to Maine customers, NumberBarn
+will comply with all obligations associated with those services. With regard to the District of
+has not been provided with the results of these “investigations” or been provided the opportunity
+to provide any input into the same. Yet, the PUC Entities have cited to these secret investigations
+to malign NumberBarn and its customers. It is difficult to imagine a better example of gross abuse
+of governmental authority.
+29 See Comments of ACC at 5-6; Comments of State Commissions at 7-8; and Comments of the
+MI PSC at 4-5.
+17
+
+Columbia, in 2024 YTD, provision of regulated services has resulted in under $2.00 in D.C. USF
+contribution obligations, which would result in no contribution obligation if/when reported.
+NumberBarn conducts quarterly reviews of the tax and fee data from its tax engine software to
+determine where it needs to begin initiating state and regulatory fee reporting. Based on the
+comments in this proceeding, NumberBarn can report the approximately $1.74 in USF obligations
+to District of Columbia Universal Service Trust Fund to assuage any concerns the State
+Commissions have.
+Next, the ACC alleges that NumberBarn has failed to comply with state regulatory
+obligations in Arizona because it has not requested or obtained a CPCN from the ACC. As the
+ACC is aware, as a provider of nomadic IVoIP services, NumberBarn has no obligation to obtain
+a CPCN in Arizona. Indeed, the ACC has specifically declined to exercise regulatory authority
+over nomadic IVoIP service providers,30 which is probably the reason that the ACC failed to cite a
+single regulatory provision in support of its claim that NumberBarn and other nomadic IVoIP
+providers are required to obtain CPCNs in Arizona.
+In addition, the ACC also attempts to claim that NumberBarn’s eCorp system registration
+is somehow misleading because it lists itself as a phone number management company. The
+instructions to the registration form direct filers to “[b]riefly describe the purpose of the foreign
+LLC or the general character of business it proposes to transact in Arizona.” In its submission,
+NumberBarn identified the general character of the business it transacts and the Company’s general
+purpose. Simply put, there was and is no misrepresentation.
+30 In The Matter of The Application of Skype Communications Us Corporation to Provide Notice
+of the Launch of Interconnected Voice Over Internet Protocol (VoIP) Service in the State of Arizona
+Under the Skype for Business Brand to Business Customers. (ACC Docket No. T-20950A-16-
+0039; June 21, 2016). See also A.R.S § 40-212(A).
+18
+
+Lastly, the MI PSC maintains that NumberBarn failed to register with the state’s Intrastate
+Telecommunications Service Provider database or the Michigan Department of Licensing and
+Regulatory Affairs. NumberBarn appreciates the MI PSC bringing this to its attention. The
+Company took immediate corrective action. It has submitted registration to the Michigan
+Department of Licensing and Regulatory Affairs and, once approved, will complete its registration
+with the state’s Intrastate Telecommunications Service Provider database. Given the patch-work
+quilt of state utility commission regulation over VoIP services and the continuing evolution of the
+same, it can be a challenge for VoIP carriers to monitor and adhere to requirements that vary
+between each of the fifty states. Indeed, NumberBarn is curious whether the MI PSC likewise
+reviewed the 499 database entries for each of the other VoIP providers who have already been
+granted access to Numbering Resources and confirmed the registration status of those carriers. If
+so, NumberBarn is confident that it is not alone in this regard.
+B. NumberBarn Does Not Have NRUF Reporting and Forecasting Obligations
+and Cannot Control the Practices of Upstream Carriers
+The ACC and State Commissions assert that NumberBarn and its carrier partners31 have
+failed to file accurate NRUF reports with NANPA and cite this alleged failure as grounds on which
+to deny the Application.32 As an initial matter, contrary to the ACC’s and State Commissions’
+assertion, NumberBarn currently has no legal obligation or duty to file NRUF reports because it
+31 The use of the phrase “carrier partners” in NumberBarn’s Application refers to upstream carriers
+from which NumberBarn does or will obtain services. This should be immediately obvious to
+anyone reviewing the Application. However, the PUC Entities appear to have seized on this phrase
+to suggest that the Company and its upstream carriers are in league to commit any number of
+potential bad acts and/or that NumberBarn has some degree of control over the operations,
+compliance decisions, and business strategies of these carriers. Just to state the obvious - it does
+not.
+32 See Comments of ACC at 4-5 and Comments of State Commissions at 5-6.
+19
+
+does not have direct access to Numbering Resources and is an IVoIP provider, not a
+telecommunications carrier.
+In adopting the present regime for direct numbering access by IVoIP providers, the
+Commission contemplated that such providers would be subject to, inter alia, the requirement to
+file NRUF reports only after an authorization was granted. The Notice of Proposed Rulemaking
+in that proceeding noted that, in the waivers that preceded the Commission’s proposal to allow
+direct numbering access by IVoIP generally, compliance with NRUF filings and other regulatory
+requirements were made “a condition of its authorization[.]”33 The Commission proposed that its
+IVoIP numbering rules “impose these same requirements — the number utilization and
+optimization requirements and industry guidelines and practices that apply to carriers—on
+interconnected VoIP providers that obtain direct access to numbers.”34 In adopting final rules, the
+Commission stressed that “VoIP providers that obtain a Commission authorization to enable direct
+access to Numbering Resources will be subject to the Commission’s numbering rules and industry
+guidelines and practices for numbering applicable to telecommunications carriers … [which]
+include, inter alia, filing NRUF Reports[.]”35 NumberBarn has not yet “obtain[ed] direct access
+to [N]umbering [R]esources.” Thus, NumberBarn is not obligated to file NRUF reports unless and
+until it receives authorization to obtain Numbering Resources directly; until then, its
+acknowledgment that it will be subject to the Commission’s numbering rules, including NRUF
+report filing, is all that the rules require.
+33 See In the Matter of Numbering Policies for Modern Communications, Notice of Proposed
+Rulemaking, Order and Notice of Inquiry, FCC 13-51, ¶ 22 (rel. Apr. 18, 2013) (“VoIP Numbering
+NPRM”).
+34 Id. (emphasis added).
+35 See In the Matter of Numbering Policies for Modern Communications, Report and Order, FCC
+15-70, ¶ 27 (rel. June 22, 2015) (“VoIP Numbering Order”) (emphasis added).
+20
+
+Without any proof whatsoever, the ACC expresses “concern” NumberBarn will fail to
+adhere to reporting and forecasting requirements if its Application were to be granted. Neither the
+ACC nor the State Commissions provide any factual support for their “concerns” and instead offer
+the alleged potential non-compliance of unrelated third parties as “proof” that NumberBarn will,
+in the future, violate obligations it currently does not have. Specifically, the ACC posits that
+NumberBarn may have more than one upstream carrier, and if so, those additional carriers may not
+be complying with their own reporting requirements. Even if proven, NumberBarn does not and
+cannot control the compliance practices of its upstream vendors.
+The Commission was well aware, when allowing IVoIP providers to obtain direct access
+to numbers, that wholesale carriers often did not properly report the numbers such carriers made
+available to IVoIP providers.36 Rather than treating carrier violations as a reason to deny
+Numbering Resources to IVoIP providers, the Commission has noted that direct access to
+Numbering Resources, and direct reporting requirements for VoIP providers allows for greater
+accuracy in number utilization reporting.37 It would be a flagrant violation of the Commission’s
+rules and NumberBarn’s due process rights for the FCC to deny the Application based on alleged
+(and unproven) non-compliance of unrelated third parties.
+C. NumberBarn’s Robocall Mitigation Certifications Are Accurate and Valid
+The PUC Entities also note that, in some cases, calls to random numbers found through use
+of the search tool on the Company’s website resulted in commercial offerings. The ACC suggests
+that because numbers found using the search tool on NumberBarn’s website can be used in possible
+36 See VoIP Numbering NPRM, supra, at ¶ 22; VoIP Numbering Order, supra, at ¶ 31.
+37 See VoIP Numbering NPRM at ¶ 22; VoIP Numbering Order at ¶ 7.
+21
+
+scams, NumberBarn’s certification that it is not facilitating illegal robocalling is ipso facto false or
+inaccurate.38
+These concerns are based on a fundamental and pervasive misunderstanding of the purpose
+of the number search tool on NumberBarn’s website. The MI PSC refers to these numbers as
+“NumberBarn’s inventory.” This is not accurate. As explained herein and in its filings in this
+proceeding, the vast majority of the numbers found through the search tool on NumberBarn’s
+website are unassigned numbers, not held by NumberBarn, and available to any wholesale
+customer of their respective carriers. During the course of their “investigations,” the PUC Entities
+apparently failed to determine whether any of the numbers connecting to promotional “scams”
+were held by NumberBarn or other carriers. Thus, the concern raised by the PUC Entities are
+properly directed to the upstream providers, that ironically already have direct access to
+Numbering Resources, not NumberBarn. NumberBarn has no control over how or if those carriers
+elect to monetize the numbers they hold.
+NumberBarn offers enhanced and voice communication services to bona fide subscribers
+on approximately 1.2 million telephone numbers. The PUC Entities’ suggestion that NumberBarn
+is not compliant with its STIR/SHAKEN obligations as related to inbound calling towards
+NumberBarn subscribers, represents the general misunderstanding of STIR/SHAKEN on the part
+of the states. NumberBarn is compliant with STIR/SHAKEN, and implements strict policies to
+prevent fraud, robocalling, and similarly inappropriate uses of its services. The Company’s Terms
+of Service strictly forbid illegal activity.39 To the extent that a NumberBarn subscriber uses
+outbound calling features and services, NumberBarn appropriately signs those outbound calls
+38 See Comments of ACC at 4. See also Comments of State Commissions at 4 and Comments of
+the MI PSC at 3.
+39 https://www.numberbarn.com/terms
+22
+
+consistent with FCC requirements, and NumberBarn promptly investigates and responds to all
+fraud reports.
+Therefore, NumberBarn’s STIR/SHAKEN certifications are accurate, and the PUC
+Entities’ suggestion to the contrary is unsupported by evidence and is without merit. Similarly, the
+notion that NumberBarn has any obligation to monitor the numbers held by unrelated carriers to
+ensure whether those carriers are attempting to monetize their numbers in unlawful or
+unscrupulous ways is as impractical as it is baseless.
+X. The PUC Entities’ Concerns Regarding NumberBarn’s Application and Calls
+for Audits or Investigations of the Company Are Unfounded
+The State Commissions also complain that NumberBarn’s Application is incomplete
+because the Company did not include its Form 499 or Form 477 filings,40 and the PUC Entities
+suggest that the FCC should investigate or audit the Company’s practices. As with the PUC
+Entities’ citation to other imagined violations on the part of NumberBarn, this too is grasping at
+straws.
+The Company’s Forms 477 and 499 contain highly confidential and sensitive information.
+And, at the time it submitted its original Application in 2019, provision of these forms was not
+required. However, in the five years that NumberBarn’s Application has been pending, the FCC
+amended the application requirements for VoIP providers seeking access to Numbering
+Resources.41 During its continued outreach efforts with the FCC to obtain some idea of when the
+Application would be placed on public notice, FCC staff requested that the Company update its
+40 See Comments of State Commissions at 3 and 9; Comments of MI PSC at 5; and Comments of
+ACC at 7-9.
+41 Federal Communications Commission, Second Report and Order and Second Further Notice of
+Proposed Rulemaking, FCC 23-75, WC Docket Nos. 13-97, 07-243, 20-67, IB Docket No. 16-155
+(Sept. 21, 2023).
+23
+
+Application in light of recent updates to application requirements. NumberBarn agreed to the
+Commission’s request, but because of the highly confidential nature of the Company’s Form 477
+and 499 filings, and because provision of these documents was not required at the time its
+Application was originally filed, the Company put FCC staff on notice that it would provide these
+materials upon request rather than include them in its supplemental filing. FCC staff could have
+easily requested that the Company provide these materials through a supplemental filing if the
+Commission disagreed with NumberBarn’s approach, as evidenced by the fact that FCC staff did
+request NumberBarn to update the declaration provided in its supplemental filing.42 It did not.
+The ACC also asserts that the Company has provided contradictory statements as to when
+it plans to begin providing services. This is based on a highly suspicious misreading of
+NumberBarn’s Application and supplements thereto. In accordance with the requirements of 47
+C.F.R. § 52.15(g), NumberBarn advised the Commission that it has in place an agreement with
+carriers that have interconnection agreements with local exchange carriers and provided an
+interconnection agreement it had entered into directly with an incumbent provider. NumberBarn
+also noted that it had been providing IVoIP services since 2014 – something for which
+interconnection agreements are not required. This is wholly consistent with statements made in
+subsequent filings. Further, because NumberBarn has not yet been granted access to Numbering
+Resources, it has not taken service pursuant to the interconnection agreement it has in place. Rather
+than taking this simple and obvious fact into account, the ACC states, without any proof, that
+NumberBarn likely failed to enter into an interconnection agreement in the State of Arizona. In the
+42 See NumberBarn’s Third Supplement to its Application,
+https://www.fcc.gov/ecfs/document/10814956029230/1.
+24
+
+alternative, the ACC apparently asks the FCC to hold NumberBarn accountable if its upstream
+carriers failed to comply with obligations to file interconnection agreements.
+Unsupported and illogical allegations cannot and should not serve as the basis upon which
+to deny NumberBarn’s Application or initiate audits or investigations of the Company’s practices.
+Moreover, as stated herein, NumberBarn cannot and does not control where or how its upstream
+carriers file their interconnection agreements. Any lapse in this regard, if one even exists, would
+rest with those carriers, not NumberBarn.
+It is important to remember that the Company’s Application has been pending for five years
+– a period disproportionately longer than other similarly situated applicants have faced. During
+this period, the FCC has had ample opportunity to request additional information from the
+Company to address questions or concerns it had. Indeed, the Company has remained in consistent
+contact with the FCC during the past five years, has fully cooperated with Commission staff, and
+has promptly responded to all requests for additional information from the Commission, as
+reflected in the multiple supplements it has made to its Application. It is difficult to fathom what
+imagined transgression that the PUC Entities believe could be uncovered that the FCC somehow
+failed to discover in the five years the Application has been pending.
+CONCLUSION
+NumberBarn appreciates the opportunity to file Reply Comments in this proceeding in
+order to correct the record and address the numerous unsupported and speculative allegations made
+by the PUC Entities. It would be a gross overreach to single out NumberBarn’s Application and
+treat the Company differently than similarly situated providers who have been granted the very
+access NumberBarn is seeking, especially when doing so would rest solely on speculation and the
+unpublished results of secretive and incomplete “investigations” on the part of the PUC Entities.
+25
+
+While the PUC Entities do raise some broad policy concerns, these are concerns that fall
+outside the scope of the instant Application and must be addressed on an industry-wide basis. If its
+Application is granted, NumberBarn is committed to complying with all state and federal
+requirements and being a responsible steward of the Numbering Resources to which it will have
+access.
+Respectfully submitted,
+_________________________
+Allison D. Rule, Esq.
+Michael P. Donahue, Esq.
+Christine McLaughlin, Esq.
+Adam M. Davis, Esq.
+Marashlian & Donahue, PLLC
+1430 Spring Hill Road, Suite 310
+McLean, Virginia 22102
+adr@commlawgroup.com
+mpd@commlawgroup.com
+czm@commlawgroup.com
+amd@commlawgroup.com
+(703) 714-1312
+OUTSIDE COUNSEL TO
+NUMBERBARN, LLC
+December 6, 2024
+26

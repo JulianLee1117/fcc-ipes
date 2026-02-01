@@ -1,0 +1,71 @@
+The Steimel Law Group
+Walter Steimel, Jr.
+Principal
+March 13, 2017
+VIA ECFS
+Ms. Marlene H. Dortch
+Secretary, Federal Communications Commission
+445 12th Street, S.W.
+Washington, DC 20554
+Re: Docket No. WC 17-62
+Application of Megaphone, Inc.
+For Authorization to Obtain Numbering Resources
+Dear Ms. Dortch:
+Pursuant to Section 52.15(g)(3)(i) of the Commission’s Rules, Megaphone, Inc.
+(“Megaphone”) respectfully submits the following additional information regarding, and
+clarification of, its Application to Obtain Numbering Resources, Docket No. WC 17-62
+(“Application”), in response to an inquiry by Commission staff. It also attaches an amended
+Application incorporating the corrections and clarifications contained herein.
+1. The interconnection agreement Megaphone provided with the Application makes
+reference to “termination.” For clarification, this reference is for both inbound and outbound
+termination, that is, each of the interconnected carriers can terminate both ends of two-way
+communications to each other. The interconnection agreement makes no reference to either
+inbound or outbound services, as all services are two-way.
+Megaphone and its interconnected carrier have not revised their interconnection
+agreement as the current agreement provides for both inbound and outbound call interconnection
+and permits completely interconnected two-way communications with the PSTN.
+The original Application, however, did contain only a reference to “inbound”
+connectivity. This reference was in error and was inadvertent. Accordingly, we have amended
+Section I. (D) of the Application to correct this inadvertent reference and correct it to explicitly
+state both “inbound” and “outbound.” The corrected sentence now reads –
+As proof of its facilities readiness, Megaphone has attached to this application (1)
+an interconnection agreement between Megaphone and a carrier partner providing
+that the carrier partner will host Megaphone numbers on its switches and provide
+PSTN connectivity for both inbound and outbound calls to Megaphone numbers,
+and (2) demonstration that Megaphone’s carrier partner maintains Feature Group
+D connections with an ILEC and is fully interconnected to the PSTN.
+The Steimel Law Group
+1455 Pennsylvania Avenue NW, Suite 770, Washington DC 20006
+Telephone: 202-271-9258 E-mail: waltersteimel@gmail.com
+
+The Steimel Law Group
+Walter Steimel, Jr.
+Principal
+2. We have amended the Application by changing the reference “primarily” on the
+second page to state “exclusively.” The statement now reads –
+Megaphone will exclusively use numbers to provide voice over Internet protocol
+services. Applicant also provides the following information…. (emphasis
+provided)
+3. We have also amended the Application by including the following statement
+immediately before the sentence referenced in point 2, above:
+Megaphone is exclusively an interconnected VoIP service provider as defined by
+Section 9.3 of the Commission’s Rules, 47 C.F.R. § 9.3.
+4. We have amended the Application by providing specific contact information for
+each of the Qualified Personnel identified in Section I. (A), and each of the Key Personnel
+identified in Section I. (F). Please see the amended Application for this contact detail.
+5. In accordance with the strong suggestion contained in footnote 74 of Numbering
+Policies for Modern Communications, FCC 15-70 (rel. June 22, 2015), Megaphone clarifies in
+the new Exhibit C attached to its amended Application that the initial state in which Megaphone
+will be requesting numbers is Massachusetts, but that it may eventually request numbers in all
+fifty states. Megaphone acknowledges that it will file with each relevant state commission at
+least 30 days before making such requests.
+6. Megaphone confirms that it has no foreign ownership.
+Thank you for your attention to this matter. Please contact me with any further
+comments or questions.
+Very truly yours,
+Walter E. Steimel, Jr.
+CC: Megaphone, Inc.
+Attachment: Amended Application
+The Steimel Law Group
+1455 Pennsylvania Avenue NW, Suite 770, Washington DC 20006
+Telephone: 202-271-9258 E-mail: waltersteimel@gmail.com

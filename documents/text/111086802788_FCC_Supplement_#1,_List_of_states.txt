@@ -1,0 +1,38 @@
+November 10, 2023
+BY ELECTRONIC DELIVERY
+Marlene H. Dortch, Secretary
+Federal Communications Commission
+445 12th Street S.W.
+Washington D.C. 20554
+Re: Supplement to Application of SimpleVoIP, LLC. for Authorization to Obtain Numbering
+Resources
+WC Docket No.
+Dear Ms. Dortch:
+SimpleVoIP, LLC by its consultant, hereby provides this letter supplementing its Application for
+Authority to Obtain Numbering Resources, dated November 10, 2023. SimpleVoIP, LLC herein
+confirms that, once it receives authority from the Commission to secure numbering resources, it will
+secure such resources in the attached list of States wherein SimpleVoIP, LLC operates. Any
+additional states will be added at a later date.
+In addition, pursuant to the request of Commission staff, SimpleVoIP, LLC is providing publicly
+available ICAs between its Carrier Partner and AT&T to its Application as proof of SimpleVoIP,
+LLC’s facility readiness per the Commission’s rules Section 52.15(g)(3)(i)(D).
+AT&T’s ICAs are lengthy, therefore links to the publicly available documents are:
+Code Part 763.1120: Submission of Negotiated Agreement filed by Illinois Bell
+Telephone Company, LLCd/b/a AT&T Wholesaled/b/a AT&T Illinois on 12/1/2022
+7:38 AM
+Thank you for your attention to this matter. Please contact the undersigned if you have any questions.
+Sincerely,
+Ron Shelton
+Compliance Solutions, Inc.
+Consultant to Affiliated Technology Solutions, LLC.
+
+SimpleVoIP, LLC.
+States with Interconnected VoIP Operations
+Illinois
+
+Public Facing Document
+Exhibit B
+(for each state listed)
+Interconnection Agreement
+by and between
+Carrier Partner and AT&T

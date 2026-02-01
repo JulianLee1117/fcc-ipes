@@ -1,0 +1,236 @@
+BEFORE THE
+FEDERAL COMMUNICATIONS COMMISSION
+WASHINGTON, D.C. 20554
+Business Telecommunications Services, Inc. )
+) WC Docket No. 20-_____________
+Application for Authority to Obtain Direct )
+Access to Numbering Resources Pursuant to )
+Section 52.15(g) of the Commission’s Rules )
+APPLICATION
+Business Telecommunications Services, Inc. (“BTS”), by counsel and pursuant to Section
+52.15(g)(3)(i) of the rules of the Federal Communications Commission (the “Commission”),
+respectfully requests authority, in its capacity as a provider of interconnected Voice-over-
+Internet-Protocol (“VoIP”) services, to directly obtain numbering resources from the North
+American Numbering Plan Administrator and the Pooling Administrator. One of the
+requirements to obtain such numbering resources is demonstration that the requesting company
+is authorized to provide service in the area for which the numbering resources are requested.1
+Grant of this application will constitute such authority.2
+Pursuant to Section 52.15(g)(3)(i), BTS submits the following:
+A. The Applicant
+Business Telecommunications Services, Inc.
+2620 SW 27 Avenue
+Miami, FL 33133
+Contact(s): Andrés Proaño, Chief Financial Officer
+Tel.: 305-358-5850
+Email: aproano@bts.io
+1 47 C.F.R. §52.15(g)(2).
+2 47 C.F.R. §52.15(g)(3).
+1
+4822-8722-0159v.1
+
+B. BTS acknowledges that authorization to obtain numbering resources granted
+under this paragraph is subject to compliance with applicable Commission
+numbering rules; numbering authority delegated to the states; and industry
+guidelines and practices regarding numbering as applicable to
+telecommunications carriers.3
+C. BTS acknowledges that it must file requests for numbers with the relevant state
+commission(s) at least 30 days before requesting numbers from the Numbering
+Administrators.4
+D. BTS is capable of providing service within sixty days5 in the states where it
+proposes to request numbering resources. BTS initially seeks access to numbers
+only in the state of Florida.
+BTS has provided wholesale telecommunications and interconnected VoIP
+services for over 25 years. The Company, based in Miami, FL and Zaragoza,
+Spain, has interconnection agreements with over 180 carriers worldwide and
+carries traffic to and from 200 countries. Background information on BTS and its
+history is provided in Attachment 1.
+The Company has an operating agreement (the “Agreement”) with a carrier
+partner in the United States, Peerless Network, Inc., that provides BTS with
+public switched telephone network (“PSTN”) access through that partner entity’s
+approved interconnection agreements (“ICAs”) with the relevant local exchange
+3 47 C.F.R. §52.15(g)(3)(i)(B).
+4 47 C.F.R. §52.15(g)(3)(i)(C).
+5 47 C.F.R. §52.15(g)(3)(i)(D).
+2
+4822-8722-0159v.1
+
+carriers. As demonstration of this readiness, the Company provides a copy of
+agreements with its carrier partner, Peerless Network, Inc. as Attachment 2.
+These agreements are provided under seal, with an accompanying request for
+confidentiality.
+BTS’s carrier partner maintains interconnection agreements (“ICAs”) with ILECs
+in Florida and throughout the country. Evidence of Peerless’s ICAs with ILECs
+in Florida was submitted in several recently approved applications for numbering
+authority, including Assurance Telecom, LLC.6
+Upon grant of this authority, BTS intends to amend its interconnection agreement
+with its partner to provide the critical resources necessary for efficient porting of
+numbers.
+6 See Notice of Interconnected VoIP Numbering Application Granted (Assurance Telecom,
+LLC), DA 20-152, WC Docket No. 19-335 (rel. Feb. 13, 2020). Assurance submitted a
+Peerless ICA with the AT&T ILECs, including Florida in Docket 19-335 on Dec. 16,
+2019. Assurance Telecom, LLC, Supplement, WC Docket No. 19-335, filed Dec. 16,
+2019 (available at https://www.fcc.gov/ecfs/filing/1216272011264).
+3
+4822-8722-0159v.1
+
+E. BTS certifies that it complies with its Universal Service Fund contribution
+obligations under 47 CFR part 54, subpart H, its Telecommunications Relay
+Service contribution obligations under 47 CFR 64.604(c)(5)(iii), its NANP and
+LNP administration contribution obligations under 47 CFR 52.17 and 52.32, its
+obligations to pay regulatory fees under 47 CFR 1.1154, and its 911 obligations
+under 47 CFR part 9;7
+F. BTS certifies that it possesses the financial, managerial, and technical expertise to
+provide reliable service.8 Key management personnel are identified in
+Attachment 3. None of the identified personnel are being or have been
+investigated by the Federal Communications Commission or any law enforcement
+or regulatory agency for failure to comply with any law, rule, or order.
+G. BTS certifies that it is not subject to a denial of Federal benefits pursuant to
+section 5301 of the Anti-Drug Abuse Act of 1988.9
+7 47 C.F.R. §52.15(g)(3)(i)(E).
+8 47 C.F.R. §52.15(g)(3)(i)(F).
+9 47 C.F.R. §52.15(g) (3)(i)(G); 47 C.F.R. § 1.2001, 1.2002.
+4
+4822-8722-0159v.1
+
+Pursuant to 52.15(g)(3)(iv), BTS commits to compliance with the conditions applicable
+to all interconnected VoIP provider numbering authorizations, specifically to:
+(A) Maintain the accuracy of all contact information and certifications in its
+application. If any contact information or certification is no longer accurate,
+the provider must file a correction with the Commission and each applicable
+state within thirty (30) days of the change of contact information or
+certification. The Commission may use the updated information or
+certification to determine whether a change in authorization status is
+warranted;
+(B) Comply with the applicable Commission numbering rules; numbering authority
+delegated to the states; and industry guidelines and practices regarding
+numbering as applicable to telecommunications carriers;
+(C) File requests for numbers with the relevant state commission(s) at least thirty
+(30) days before requesting numbers from the Numbering Administrators;
+(D) Provide accurate regulatory and numbering contact information to each state
+commission when requesting numbers in that state.10
+CONCLUSION
+For the foregoing reasons, BTS requests, pursuant to Section 52.15(g)(3)(i) of the rules,
+authority, in its capacity as a provider of interconnected Voice-over-Internet-Protocol (“VoIP”)
+services, to directly obtain numbering resources from the North American Numbering Plan
+Administrator and the Pooling Administrator.
+10 47 C.F.R. §52.15(g)(3)(iv)(A-D).
+5
+4822-8722-0159v.1
+
+Respectfully Submitted,
+BUSINESS TELECOMMUNICATIONS
+SERVICES, INC.
+Steven A. Augustino
+KELLEY DRYE & WARREN, LLP
+3050 K Street NW
+Suite 400
+Washington, DC 20007
+(202) 342-8540
+Counsel to Business Telecommunications
+Services, Inc.
+June 11, 2020
+6
+4822-8722-0159v.1
+
+Attachment 1
+Background on BTS
+BTS began providing telecommunications services in 1993, initially offering a variety of
+wholesale and retail long distance services. In 1996, BTS established direct routes for the
+termination of international voice services throughout Latin America and the Caribbean. In
+2001, BTS expanded its reach with strategic agreements with foreign operators in Latin America
+and Africa. Today, BTS has offices in Miami, Florida, Zaragosa, Spain, Singapore and Dubai.
+BTS has interconnection agreements with over 180 carriers worldwide and carries traffic to and
+from 200 countries.
+BTS is a member of numerous industry organizations, including the i3 Forum, GBET
+Association, GW Tracker and ITW’s Global Leadership Forum’s Communications Blockchain
+Network.
+4819-2457-3372v.1
+
+Attachment 2
+BTS Agreements with Peerless Network, Inc.
+(filed confidentially under seal)
+4819-2457-3372v.1
+
+Confidential Treatment Requested
+4819-2457-3372v.1
+
+Attachment 3
+Key Management and Technical Personnel
+Rafael Olloqui. President & Co-Founder of BTS Group. Mr. Olloqui is responsible for global
+and executive strategies for Grupo BTS. Mr. Olloqui has nearly 30 years’ experience in
+telecommunications and has overseen BTS’ growth from its founding in 1993. Leading
+publications in the US, have named Rafael Olloqui among the most important Hispanic
+entrepreneurs in South Florida on numerous occasions. In 2001, The US-Spain Chamber of
+Commerce awarded BTS the honor of “Company of the Year,” which has recognized this
+Spanish business each year, for its excellent results and potential in the North American market.
+In 2002, the Spanish Chamber of Commerce in the US gave Rafael Olloqui the “Top Young
+Executive Award.” In 2003, the Latin Chamber of Commerce in the United States
+(CAMACOL), awarded him the “Special Recognition Award” for his support to the business
+community, and his contribution to the economic development of Miami-Dade. In 2005 and
+2006, South Florida CEO magazine included BTS in its list of “Florida’s Top 500 Private
+Companies.”
+Rafael Olloqui was a member of The US-Spain Chamber of Commerce for 8 years, and was its
+first vice president. He is currently the treasurer of the “Centro Cultural Español de Cooperación
+Iberoamericana”, and is an administrator, and member, of the Board of Directors at St. Thomas
+University and CAMACOL.
+Ricardo Olloqui. President & Co-Founder of BTS Group. Mr. Olloqui is responsible for
+customer relations as well as the development of new business, partnerships and BTS operations.
+He has nearly 30 years’ experience in telecommunications, and has been involved in the growth
+of BTS since 1993. Ricardo is a member of the 100 Circle of the Chamber of Commerce of
+Greater Miami, a member of the board of the “Fundación Vizcaya,” a member of the US-Spain
+Council, a member of the Spanic Heritage Advisory Board, and has been a member of the board
+of The US-Spain Chamber of Commerce, for the past 8 years. In 2002, Ricardo Olloqui won the
+“Top Young Executive Award,” given by the Spanish Chamber of Commerce in the United
+States.
+Andrés Proaño. Chief Financial Officer and Executive Vice President. Andres Proaño is the
+chief financial officer and executive vice president of BTS Group. Mr. Proaño has extensive
+operational and financial experience in BTS for over sixteen years of service. Mr. Proaño is
+responsible for BTS’s overall financial and strategic management, including the company’s
+financial reporting, long-range business planning, and investor relations. Additionally, he
+oversees Business Operations, Corporate Development, Strategy, Treasury, and other corporate
+functions. Mr. Proaño earned a Master’s Degree in Business Administration from Georgia
+Southern University and Bachelor’s degree in Business Administration in Finance and
+Economics from Georgia Southern University.
+4819-2457-3372v.1
+
+Luis Benavente. CTO of BTS Group. Mr. Benavente is responsible for network operations as
+well as development of new services and platforms used by BTS and its clients. He has over 30
+years’ experience in technology developing solutions for the telecommunications industry, and
+has been involved in the growth of BTS since 1999. He has worked in many international
+projects in all continents. Luis holds a degree in physics and an MBA. He also has several
+certifications ranging from artificial intelligence to fintech.
+Juan Florez. Commercial Vice President. Mr. Florez has over 25 years of telecommunications
+experience in International and Domestic voice services delivered to a broad range of customers
+worldwide. Juan possesses an in-depth understanding of the technology, services and
+marketplace with the ability to sustain financial performance through both individual
+contributions and team management. Juan holds a bachelor’s degree in Electronics Engineering
+from the Universidad Santo Tomás de Aquino in Colombia and a Master’s degree in Telecom
+Regulation from Universidad Externado de Colombia.
+Jesus Mendia. Senior Director Traffic Management & Marketing. With more than 15 years’
+experience in telecom industry, Mr. Mendía is responsible for routing and bilateral deals among
+other tasks. He is also in charge of creating products and to manage and control providers’ cost
+basis for BTS. He has been involved in multiple complex operations projects for BTS, including
+its joint venture with a major Japanese investment company and studies to increase retail
+operations, innovation, modernization and adaptation of company resources. Mr. Mendía earned
+his Bachelor of Arts degree in Business Administration in the Business Cardiff School
+(University of Wales).
+Javier Gallert. Chief Voice and Network Engineer. Mr. Gallert has significant experience in
+deploying large VoIP systems all over the world. He was the chief designer of the BTS VoIP
+platform, which has been running billions of minutes for several years. He is also in charge of
+the STIR/SHAKEN implementation as an addition to the platform. Javier obtained a degree in
+Telecom Engineering from the University of Zaragoza.
+Fernando Abras. Chief Legal Counsel. Mr. Abras is responsible for BTS’s legal team,
+including the legal supervision of all interconnections, supervision of the compliance policies,
+preparation and negotiation of JV and M&A contracts, as well as legal advice for its corporate
+development and strategy. Mr. Abras earned three 5-year Degrees in Law, Business
+Administration and Political Sciences from Comillas University (ICADE) in 2009, and he
+studied at the Diplomatic School of Madrid and worked at the Legal Department of the
+International Trade Center (WTO-UNCTAD) before joining BTS.
+Maria del Carmen Perez. Project Manager. Ms. Perez holds a bachelor's degree in computer
+systems engineering from the University of Zaragoza and a Master's degree in IT management
+from the European University from Madrid. She has served as PMP at the Project Management
+Institute since 2010, ITIL IE Service Design since 2015 and Scrum Manager Certified since
+2016, she is in continuous learning on Agile methodologies and best practices on projects and
+team management. She has been serving in a variety of management roles in BTS for over 15
+years.
+4819-2457-3372v.1

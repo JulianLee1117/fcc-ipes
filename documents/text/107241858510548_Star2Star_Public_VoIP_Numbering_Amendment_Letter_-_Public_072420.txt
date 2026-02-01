@@ -1,0 +1,106 @@
+Potomac Law Group, PLLC
+1300 Pennsylvania Avenue, NW, Suite 700
+Washington, D.C. 20004
+Telephone: (202) 792-6422
+Fax: (202) 318-7707
+July 24, 2020
+PUBLIC VERSION –
+CONFIDENTIAL INFORMATION EXCLUDED
+VIA ECFS
+Marlene Dortch
+Secretary
+Federal Communications Commission
+445 12th Street SW
+Washington, DC 20554
+Re: Supplement to the Application of Star2Star Communications, LLC, For
+Authorization to Obtain Numbering Resources, Pursuant to Section 52.15(g), Docket No.
+20-165
+Dear Ms. Dortch:
+Pursuant to §52.15(g)(3)(i) of the Commission’s Rules,1 Star2Star Communications,
+LLC (“Star2Star”) applied for direct access to number resources in the above-captioned
+docket on June 8, 2020 (“Application”). By this letter, Star2Star supplements its
+Application for Authorization to Obtain Numbering Resources.
+The ongoing contacts for Star2Star are as follows:
+For 911 and Law Enforcement:
+Shawn Solomon, EVP of Infrastructure and Dev-Ops
+Star2Star Communications, LLC
+600 Tallevast Road, Suite 202
+Sarasota, FL 34243
+Telephone: 941-234-0001
+Facsimile: 941-355-7878
+E-Mail: s@star2star.com
+1 47 C.F.R. § 52.15(g).
+
+Marlene Dortch, Secretary
+Federal Communications Commission
+July 24, 2020
+Page 2 of 4
+For Regulatory and Compliance:
+Bruce H. Illes, Chief Legal Officer
+Star2Star Communications, LLC
+600 Tallevast Road, Suite 202
+Sarasota, FL 34243
+Telephone: 941-234-0001
+Facsimile: 941-355-7878
+E-mail: BIlles@star2star.com
+In addition, Star2Star supplements its Application with a copy of its Service Addendum
+with its underlying carrier. Please note, this Service Addendum, marked as Supplement Exhibit
+A, contains confidential material, the disclosure of which would competitively harm the
+Company. Accordingly, Star2Star requests this material be filed under seal, pursuant to §0.459
+of the Commission’s Rules.2 In support of this request, Star2Star submits the following:
+1. Identification of the information for which confidential treatment is sought.
+Star2Star seeks confidential treatment of Supplement Exhibit A to its Application, and
+specific references to these exhibits found in the body of its Application.
+2. Description of the circumstances giving rise to the submission.
+As part of its Application, Star2Star is including the agreement between its carrier
+partner as proof of its facilities readiness as required by §52.15(g)(3)(i)(D) of the
+Commission’s Rules, and copies of a number of the carrier’s interconnection agreements
+with incumbent carriers. The current Supplement Exhibit A is a Service Addendum to
+Star2Star’s agreement with its carrier partner.
+3. Explanation of the degree to which the information is commercial or financial, or
+contains a trade secret or is privileged.
+The information for which Star2Star seeks confidential treatment contains sensitive
+commercial information “which would customarily be guarded from competitors.”
+Supplement Exhibit A to this Application describes the agreement between Star2Star
+and its carrier partner and contains proprietary commercial information concerning
+Star2Star’s network, customers, financing, and services.
+2 47 C.F.R. § 0.459.
+
+Marlene Dortch, Secretary
+Federal Communications Commission
+July 24, 2020
+Page 3 of 4
+4. Explanation of the degree to which the information is commercial or financial or
+contains a trade secret or is privileged.
+Supplement Exhibit A contains information relating to commercial matters which can be
+used by other interconnected Voice over Internet Protocol (“VoIP”) providers to
+compromise Star2Star’s position in the highly competitive interconnected VoIP sector.
+Accordingly, release of this information would result in substantial competitive harm to
+Star2Star.
+5. Explanation of how disclosure of the information could result in substantial competitive
+harm.
+Competitors could use Star2Star’s proprietary commercial and operational information to
+Star2Star’s detriment as they would gain access to sensitive information concerning
+Star2Star’s commercial agreements, as well as information as to how Star2Star provides
+its services. This information is not typically disclosed publicly.
+6. Identification of any measures taken to prevent unauthorized disclosure, or if the
+information has been disclosed previously.
+Neither Star2Star nor its carrier-partner have distributed the information to the public or
+to any third party.
+7. Justification of the period during which Star2Star asserts that material should not be
+available for public disclosure.
+Star2Star requests that Supplement Exhibit A be treated as confidential for a minimum
+period of ten years. This period is necessary due to the nature of the proprietary
+information in the Supplement Exhibit A of the Application.
+Two copies of this filing with the confidential information included are being submitted
+concurrently via overnight courier.
+Thank you for your assistance in this matter and please do not hesitate to contact me at
+(202) 792-6422, or kmarshall@potomaclaw.com if you have any questions or concerns.
+Respectfully submitted,
+Katherine Barker Marshall, Counsel to Star2Star Communications, LLC
+cc: Bruce Illes, Star2Star Communications, LLC
+
+Supplement Exhibit A
+Service Addendum
+Confidential and Proprietary – Filed Under Seal
+Pursuant to 47 C.F.R. §0.459

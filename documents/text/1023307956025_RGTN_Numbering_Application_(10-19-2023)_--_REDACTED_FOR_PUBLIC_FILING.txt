@@ -1,0 +1,260 @@
+RGTN USA Inc.
+244 Fi(cid:332)h Avenue, Suite L220
+NewYork, N.Y. 10001
+October23, 2023
+VIA ECFS & FIRST-CLASS MAIL
+Marlene H. Dortch
+Office of the Secretary
+Federal Communications Commission
+445 12th Street SW
+Washington, D.C. 20554
+Re: Request for Confidential Treatment of Filing of RGTN, LLC; Application of RGTN,
+LLC for Authorization to Obtain Numbering Resources, WC Docket No. 23-335
+Dear Ms. Dortch:
+Pursuant to Section 52.15(g)(3)(i) of the Commission’s Rules,RGTNUSA Inc.(“RGTN”),hereby
+submits its application requesting authorization to obtain numbering resources. This filing includes
+confidential information.
+As contemplated by the Commission’s rules, we are filing the publicversion electronically and the
+confidential version via first-class mail.
+RGTNrespectfully requests that, pursuant to Sections 0.457 and 0.459 of the Commission’s rules,
+47 C.F.R. §§ 0.457 and 0.459, the Commission withhold from public inspection and grant
+confidential treatment to Exhibit A and B, a document that contains sensitive trade secrets and
+commercial information that falls within Exemption 4 of the Freedom of Information Act
+(“FOIA”).1 RGTN is voluntarily providing this information, “of a kind that would customarily
+not be released to the public”; therefore, this information is “confidential” under FOIA.2
+Moreover, RGTN would suffer substantial competitive harm if this information were disclosed.3
+As such, Exhibit A and B are marked with the header “SUBJECT TO REQUEST FOR
+CONFIDENTIAL TREATMENT – NOT FOR PUBLIC INSPECTION.” Further details
+supporting this request for confidential treatment arecontained inAttachment Ato this letter.
+Any questions you may have regarding this filing should be directed to my attention at (888)
+977-7486or via email to l.herps@rgtn.com. Thank you for your assistance in this matter.
+Respectfully Submitted,
+/a/
+Leonardus Herps
+On behalf of RGTN USA Inc.
+15 U.S.C. § 552(b)(4).
+2Critical Mass Energy Project v. NRC, 975 F.2d 871, 879 (D.C. Cir. 1992).
+3SeeNat’l Parks & Conservation Ass’n v. Morton, 498 F.2d 765 (D.C. Cir. 1974).
+
+Attachment A
+In support of this request and pursuant to Section 0.459(b) of the Commission’s rules,4 RGTN
+hereby states as follows:
+1. IDENTIFICATION OF THE SPECIFICINFORMATION FOR WHICH
+CONFIDENTIAL TREATMENT IS SOUGHT.5
+RGTNseeks confidential treatment ofExhibit A and B to the enclosed application.
+2. DESCRIPTION OF CIRCUMSTANCES GIVING RISE TO THE SUBMISSION.6
+As proof of RGTN’s facilities readiness as required by Section 52.15(b)(3)(i)(D) of the
+Commission’s rules, RGTN is submitting the agreement between it and its carrier partner as
+Exhibit A and B.
+3. EXPLANATION OF THE DEGREE TO WHICH THE INFORMATION IS
+COMMERCIALOR FINANCIAL, OR CONTAINS A TRADE SECRET OR IS
+PRIVILEGED.7
+The information for which RGTN seeks confidential treatment contains sensitive commercial
+information which would customarily be guarded from competitors.8 Exhibit A and B describe
+the agreement between RGTN and its carrier partner and contain proprietary commercial
+information concerning the operations and pricing of RGTN’s carrier partner and RGTN’s
+network, services, and operating costs and expenses.
+4. EXPLANATION OF THE DEGREE TO WHICH THE INFORMATION
+CONCERNS A SERVICE THAT IS SUBJECT TO COMPETITION.9
+Exhibit A and B contain information relating to commercial matters that could be used by
+competitors toRGTN’s disadvantage. RGTNhas numerous competitors in the Voice over Internet
+Protocol (“VoIP”) services sector in which it operates. Detailed operations and commercial
+information of the type provided by RGTN could compromise RGTN’s position in this highly
+competitive industry. Release would therefore result in substantial competitive harm toRGTN.
+5. EXPLANATION OF HOW DISCLOSURE OF THE INFORMATION COULD
+RESULT INSUBSTANTIAL COMPETITIVE HARM.10
+Competitors could use RGTN’s proprietary commercial and operational information to RGTN’s
+detriment as they would gain access to sensitive information about how RGTN provides services
+4 47 C.F.R. § 0.459(b).
+547 C.F.R. § 0.459(b)(1).
+647 C.F.R. § 0.459(b)(2).
+747 C.F.R. § 0.459(b)(3).
+847 C.F.R. §§ 0.457(d) and 0.459.
+947 C.F.R. § 0.459(b)(4).
+1047 C.F.R. § 0.459(b)(5).
+
+as well as about RGTN’s commercial agreements with others in the market that are not normally
+disclosed to the public.
+6. IDENTIFICATION OF ANY MEASURES TAKEN BY THE SUBMITTING
+PARTY TO PREVENT UNAUTHORIZED DISCLOSURE.11
+RGTNhas not distributed the information in Exhibit A and B to the public.
+7. IDENTIFICATION OF WHETHER THE INFORMATION IS AVAILABLE TO
+THE PUBLIC AND THE EXTENT OF ANY PREVIOUS DISCLOSURE OF THE
+INFORMATION TO THIRD PARTIES.12
+RGTNhas not previously disclosed the information in Exhibit A and Bto the public or to third
+parties.
+8. JUSTIFICATION OF THE PERIOD DURING WHICH THE SUBMITTING
+PARTY ASSERTS THAT MATERIAL SHOULD NOT BE AVAILABLE FOR
+PUBLIC DISCLOSURE.13
+RGTN requests that Exhibit A and B be treated as confidential for a period of ten years. This
+periodis necessary due to the proprietary nature of the information inExhibit A and B.
+9. OTHER INFORMATION THAT RGTN BELIEVES MAY BE USEFUL IN
+ASSESSING WHETHER ITS REQUEST FOR CONFIDENTIALITY SHOULD
+BE GRANTED.14
+The information concernsRGTN’s proprietary network information, related to current andplanned
+commercial and operational information, and, as such, is commercially sensitive.
+1147 C.F.R. § 0.459(b)(6).
+1247 C.F.R. § 0.459(b)(7).
+1347 C.F.R. § 0.459(b)(8).
+1414 47 C.F.R. § 0.459(b)(9).
+
+Before the
+Federal Communications Commission
+Washington, D.C. 20554
+In the Matter of )
+)
+RGTN USA, Inc. ) Docket No. 23-335
+)
+For Authorization to Obtain Numbering )
+Resources Pursuant to Section 52.15(g) of )
+The Commission’s Rules )
+APPLICATION OF RGTN USA INC. FOR AUTHORIZATION
+TO OBTAIN NUMBERING RESOURCES
+RGTN USA Inc. (“RGTN”), pursuant to Section 52.15(g)(3)(i) of the Commission’s
+rules, respectfully requests authorization to obtain numbering resources as described below.
+As set forth in the Commission’s Numbering Order1, an interconnected VoIP provider
+may obtain numbering resources from the Numbering Administrator upon a showing that it is
+authorized to provide service in the area for which the numbering resources are requested. Such
+authorization may be obtained upon an application to the Commission containing the information
+detailed in Sections 52.15(g)(3)(i)(A)-(F) of the Commission’s Rules.
+RGTN is a subsidiary of renowned Dutch provider of hosted VOIP and mobile telecom
+services to B2B customers. RGTN provides hosted VoIP / hosted PBX for companies that want
+an easy-to-use solution with a lot of options, along with SMS and other platform solutions.
+Through this application RGTN seeks to expand its services to the United States with access to
+numbering resources. In support of this application, RGTN provides the following information.
+1 Numbering Policies for Modern Communications et al., Report and Order, 30 FCC Rcd. 6839 (2015).
+1
+
+I. INFORMATION REQUIRED BY SECTION 52.15(g)(3)(i)
+(A) § 52.15(g)(3)(i)(A)
+Name: RGTN USA, Inc.
+Address: 244 Fifth Avenue, Suite L220, New York, N.Y. 10001
+Telephone: (888) 977-7486
+Qualified Personnel: Leonardus Herps
+Contact for Regulatory Requirements, Compliance, 911, and Law Enforcement:
+Name: Leonardus Herps
+Address: 244 Fifth Avenue, Suite L220, New York, N.Y. 10001
+Telephone: (888) 977-7486
+Email: l.herps@rgtn.com
+(B) § 52.15(g)(3)(i)(B)
+RGTN hereby acknowledges that authorization to obtain numbering resources under
+Section 52.15(g) of the Commission’s rules is subject to compliance with applicable
+Commission numbering rules as well as to the numbering authority delegated to the states.
+RGTN hereby also acknowledges that this authorization is subject to compliance with industry
+guidelines and practices regarding numbering, as applicable to telecommunications carriers.
+(C) § 52.15(g)(3)(i)(C)
+2
+
+RGTN hereby acknowledges that is must file requests for numbers with the relevant state
+commission(s) at least 30 days before requesting numbers from the Numbering Administrators.
+(D) § 52.15(g)(3)(i)(D)
+RGTN hereby sets forth its capability to provide service within 60 days of the numbering
+resources activation date.
+RGTN seeks to expand its VoIP services to the United States. RGTN plans to begin
+placing numbers into service almost immediately and, in any event, within sixty (60) days of the
+numbering resources activation date. As further proof of its facilities readiness, RGTN is an
+establish IP-communications provider in The Netherlands offering wholesale and retail
+interconnected communications services to global enterprises. RGTN also provides mobile
+virtual network enabler (MVNE) and SMS routing services to global enterprise customers. And,
+our RGTN subsidiary offers services to 911-emergency services call centers of several larger
+areas in The Netherlands.
+Proof of facilities readiness. Enclosed as Exhibit A is an excerpt from RGTN’s current
+Reciprocal Carrier Services Agreement with RSCom LTD. Exhibit B contains the full
+Agreement.
+Consistent with the Commission’s Direct Access Order (FCC 15-70), This agreement
+between RGTN and carrier partner (RSCom), illustrates applicant’s capability to provide
+interconnected VoIP service – including that the service “[p]ermits users generally to receive
+calls that originate on the public switched telephone network and to terminate calls to the public
+switched telephone network” within 60 days of numbering resource activation date.
+(E) § 52.15(g)(3)(i)(E)
+3
+
+RGTN hereby certifies that it complies with its Universal Service Fund contribution
+obligations under 47 CFR part 54, subpart H; its Telecommunications Relay Service contribution
+obligations under 47 CFR § 64.604(c)(5)(iii); its North American Numbering Plan and Local
+Number Portability Administration contribution obligations under 47 CFR §§ 52.17 and 52.32 its
+obligations to pay regulatory fees under 47 CFR § 1.1154; and its 911 obligations under 47 CFR
+part 9.
+(F) § 52.15(g)(3)(i)(F)
+RGTN hereby certifies that it has the financial, managerial, and technical expertise to
+provide reliable service. RGTN, as a subsidiary of a renown IP-communications provider in The
+Netherlands offering wholesale and retail interconnected communications services to global
+enterprises, is led by a strong, experienced management team with substantial managerial
+experience in the telecommunications industry. RGTN has sufficient technical expertise and
+existing infrastructure in place to provide reliable numbering and related VoIP services.
+RGTN has the superior technical qualifications necessary to provide and maintain
+successful operations within its existing service area. RGTN has the capabilities to efficiently
+port and place numbers into service and successfully route calls.
+RGTN’s key management and technical personnel are listed below. None of the
+identified personnel is being or has been investigated by the Commission or any law enforcement
+or regulatory agency for failure to comply with any law, rule, or order.
+Key Personnel:
+Leonardus Herps: Mr. Herps is RGTN’s Chief Executive Officer, where he has been
+leading the development of the company’s short- and long-term strategy for the past fourteen
+years. Prior to serving as CEO, Mr. Herps served as the Chief Technology Officer for several
+4
+
+innovative IP-based communications solutions providers. Mr. Herps holds a degree in
+international private law from Maastricht University.
+(G) § 52.15(g)(3)(i)(G)
+RGTN hereby certifies that no party to this application is subject to a denial of Federal
+benefits pursuant to Section 5301 of the Anti-Drug Abuse Act of 1988, 21 U.S.C. § 862.
+II. ADDITIONAL REQUIRED INFORMATION
+1. List of U.S. States. Pursuant to the Commission’s Direct Access Order, para. 24
+& n.74,2 the following is a list of all U.S. states in which RGTN USA, Inc. plans to offer
+interconnected VoIP services:
+ California  New York
+ Florida  North Carolina
+ Georgia  Ohio
+ Illinois  Pennsylvania
+ Iowa  Texas
+ Massachusetts
+ New Jersey
+2. STIR/SHAKEN: Pursuant to Commission’s Second Report and Order (FCC 20-
+136),3 a certification has been filed in the Robocall Mitigation Database4 regarding the
+implementation level of the STIR/SHAKEN caller ID authentication framework and other
+required Robocall Mitigation efforts. Evidence of this certification is enclosed in Exhibit C.
+II. ACKNOWLEDGEMENT OF CONDITIONS IN SECTION 52.15(g)(3)(iv)
+2 In the Matter of Numbering Policies for Modern Communications, Notice of Proposed Rulemaking, Order And
+Notice Of Inquiry, WC Docket No. 13-97 (28 FCC Rcd 5842 (7)) (Apr 18, 2013).
+3 In the Matter of Call Authentication Trust Anchor, Second Report and Order, WC Docket No. 17-97 (36 FCC Rcd
+1859 (4)) (Sep 29, 2020).
+4 https://www.fcc.gov/robocall-mitigation-database
+5
+
+As required by Section 52.15(g)(3)(iv), RGTN will maintain the accuracy of all contact
+information and certifications in this application and will file a correction with the Commission
+and each applicable state within 30 days of any changes. RGTN will also furnish accurate
+regulatory and numbering contact information to each state commission when requesting
+numbers in that state.
+III.CONCLUSION
+Pursuant to Section 52.15(g)(3)(i) of the Commission’s Rules, RGTN respectfully
+requests the Commission grant this application for authorization to obtain numbering resources.
+RGTN USA, Inc. respectfully submits these comments on this 19th day of October 2023.
+__________________________________
+Leonardus Herps
+CEO
+RGTN USA, Inc.
+244 Fifth Avenue, Suite L220
+New York, N.Y. 10001
+(888)977-7486
+l.herps@rgtn.com
+6
+
+ExhibitA
+RGTN Reciprocal Carrier Services Agreement (Excerpt)
+PSTN Demonstrating Interconnection Services for iVoIP Services
+
+[THIS EXHIBIT
+SUBJECT TO REQUEST FOR CONFIDENTIAL TREATMENT
+–NOT FOR PUBLIC INSPECTION –]
+
+Exhibit B
+RGTN Reciprocal Carrier Services Agreement (Full)
+
+[THIS EXHIBIT
+SUBJECT TO REQUEST FOR CONFIDENTIAL TREATMENT
+–NOT FOR PUBLIC INSPECTION –]
+
+Exhibit C
+RGTN Robocall Mitigation Certification

@@ -1,0 +1,677 @@
+,
+Wi_ 151SouthhallLane.Ste450
+Inteserra Maitland.FL32751
+P.O.Drawer200
+'MnterPark.FL32790-0200
+www.inteserra.com
+June 25, 2019
+Via ECFSFiling
+REDACTED FOR PUBLICINSPECTION
+Secretary, Federal Communications Commission
+Washington, DC20554
+Attn: Wireline Competition Bureau
+RE: Request for Confidential Treatment ofFiling ofThe Voice Application Network, LLC; Application
+of The Voice Application Network LLC for Authorization to Obtain Numbering Resources
+PursuanttoSection52.15(g)oftheCommission'sRules, WCDocketNo. 19-__
+DearSecretary:
+Pursuant to Section 52.15(g)(3)(i) of the Commission's Rules, The Voice Application Network LLC ("The
+Voice Application Network") hereby submits its application requesting authorization to obtain
+numberingresources.
+The Voice Application Network respectfully requests that, pursuant to Sections 0.457 and 0.459 ofthe
+Commission's rules, 47 C.F.R. §§ 0.457 and 0.459, the Commission withhold from public inspection and
+accord confidential treatment to ExhibitA to the application because that document contains sensitive
+trade secrets and commercial information that falls within Exemption 4 ofthe Freedom of Information
+Act ("FOIA").l The Voice Application Network is voluntarily providing this information, "of a kind that
+would not customarily be released to the public"; therefore, this information is "confidential" under
+FOIA2 • Moreover, The Voice Application Network would suffer substantial competitive harm if this
+information were disclosed.3
+Exhibit A is accordingly marked with the header "SUBJECT TO REQUEST FOR CONFIDENTIAL TREATMENT
+NOTFOR PUBLICINSPECTION."
+1 5U.S.c. § 552(b)(4).
+2 See CriticalMass EnergyProjectv. NRC, 975 F.2d 871, 879 (D.C. Cir. 1992).
+3 SeeNationalParks andConservationAss'nv.Morton, 498 F.2d 765 (D.C. Cir. 1974).
+
+June 25, 2019
+Page 2of4
+In support of this request and pursuant to Section 0.459(b) of the Commission's rules4 , The
+Voice Application Networkherebystates asfollows:
+1. IDENTIFICATIONOFTHESPECIFICINFORMATION FORWHICH CONFIDENTIALTREATMENTIS
+SOUGHT.5
+The Voice Application Network seeks confidential treatment of Exhibit A to the enclosed
+application.
+2. DESCRIPTION OFCIRCUMSTANCESGIVING RISETOTHESUBMISSION.6
+The Voice Application Network is submitting as Exhibit A the agreement between it and its
+carrier partner, as proof of The Voice Application Network's facilities readiness as required by
+Section 52. 15(g)(3)(i)(D)ofthe Commission's rules.
+3. EXPLANATION OFTHE DEGREE TO WHICH THE INFORMATION IS COMMERCIAL OR FINANCIAL
+ORCONTAINSATRADE SECRETOR ISPRIVILEGED.'
+The information for which The Voice Application Networkseeks confidential treatmentcontains
+sensitive commercial information "which would customarily be guarded from competitors"8 •
+Exhibit A describes the agreement between The Voice Application Network and its carrier
+partner and contains proprietary commercial information concerning The Voice Application
+Network's network, customers, and services.
+4. EXPLANATION OF THE DEGREE TO WHICH THE INFORMATION CONCERNS A SERVICE THAT IS
+SUBJECTTOCOMPETITION.9
+ExhibitAcontains information relatingto commercial mattersthatcould be used bycompetitors
+to The Voice Application Network's disadvantage. The Voice Application Network has numerous
+competitors in the Voice over Internet Protocol ("Volp") services sector in which it operates.
+Detailed operations and commercial information ofthe type provided by The Voice Application
+Network could compromise The Voice Application Network's position in this highly competitive
+industry. Release would therefore result in substantial competitive harm to The Voice
+Application Network.
+4 47 C.F.R. § 0.459(b).
+5 47 C.F.R. § 0.459(b)(1).
+6 47 C.F.R. §0.459(b)(2).
+7 47 C.F.R. §0.459(b)(3).
+8 47 C.F.R. § 0.457(d)(2).
+9 47 C.F.R. § 0.459(b)(4).
+
+June 25, 2019
+Page 3of4
+5. EXPLANATION OF HOW DISCLOSURE OF THE INFORMATION COULD RESULT IN SUBSTANTIAL
+COMPETITIVEHARM10
+Competitors could use The Voice Application Network's proprietary commercial and operational
+information to The Voice Application Network's detrimentasthey would gain accessto sensitive
+information about how The Voice Application Network provides services as well as about The
+Voice Application Network's commercial agreements with others in the market that are not
+normallydisclosedto the public.
+6. IDENTIFICATION OF ANY MEASURES TAKEN BY THE SUBMITTING PARTY TO PREVENT
+UNAUTHORIZEDDISCLOSURE.ll
+The Voice Application Networkhas notdistributedthe information in ExhibitAto the public.
+7. IDENTIFICATION OF WHETHER THE INFORMATION IS AVAILABLE TO THE PUBLIC AND THE
+EXTENTOFANYPREVIOUSDISCLOSURE OFTHE INFORMATIONTOTHIRD PARTIESP
+The Voice Application Networkhas notpreviouslydisclosedthe information in ExhibitA.
+8. JUSTIFICATION OF THE PERIOD DURING WHICH THE SUBMITTING PARTY ASSERTS THAT
+MATERIALSHOULDNOTBEAVAILABLE FOR PUBLICDISCLOSURE.13
+The Voice Application Networkrequests that ExhibitAbetreated as confidential for aperiod of
+ten years. This period is necessaryduetothe proprietary nature ofthe information in ExhibitA.
+10 47 C.P.R. § 0.459(b)(5).
+11 47 C.P.R. § 0.459(b)(6).
+12 47 C.F.R. §0.459(b)(7).
+13 47 C.F.R. §0.459(b)(8).
+
+June 25, 2019
+Page4of4
+9. OTHER INFORMATION THATTHE VOICE APPLICATION NETWORK BELIEVES MAY BE USEFUL IN
+ASSESSING WHETHER ITS REQUESTFORCONFIDENTIALITYSHOULDBEGRANTED.14
+The information concerns The Voice Application Network's proprietary network information,
+related to current and planned commercial and operational information, and as such, is
+commercially sensitive.
+Any questions you may have regarding this filing should be directed to my attention at407-740-3006 or
+via emailtocroesel@inteserra.com.Thankyou foryourassistance inthis matter.
+Sincerely,
+lsICarey Roesel
+Carey Roesel
+ConsultanttoThe Voice Application Network, LLC
+cc: Andrew Nickerson -The Voice Application Network
+tms: FCCx1901
+CRlgs
+14 47 C.F.R. § 0.459(b)(9).
+
+Beforethe
+FEDERAL COMMUNICATIONS COMMISSION
+Washington, D.C. 20554
+In theMatter of )
+)
+TheVoice ApplicationNetworkLLC )
+) WC DocketNo. 19- _
+ForAuthorizationto Obtain Numbering )
+Resources Pursuantto Section 52.15(g) of )
+TheCommission'sRules )
+APPLICATION OFTHE VOICE APPLICATIONNETWORKLLC
+FORAUTHORIZATIONTO OBTAINNUMBERING RESOURCES
+The Voice Application Network LLC ("The Voice Application Network"), pursuant to Section
+52.15(g)(3)(i)oftheCommission'sRules,respectfullyrequestsauthorizationtoobtainnumberingasdescribed
+below.
+UndertheCommission'sNumberingOrder, IaninterconnectedVoIPprovidermayobtainnumbering
+resourcesfromtheNumberingAdministratoruponashowingthatitisauthorizedtoprovideserviceinthearea
+forwhichthenumberingresourcesarerequested. Suchauthorizationmaybeobtaineduponanapplicationto
+the Commission containingthe information detailed in Section 52.15.(g)(3)(i)(A)-(G) ofthe Commission's
+Rules. TheVoiceApplicationNetworkherebyrequeststheCommissiongrantitthatauthorization. Insupport
+ofthis application, the Companyprovidesthe following information:
+I. INFORMATIONREQUIRED BY SECTION 52.15(g)(3)(i)
+A. §52.15(g)(3)(i)(A)
+Name: TheVoice ApplicationNetworkLLC
+Address: 2150 ParkPlace
+Suite 100
+City: EISegundo
+State: California
+ZIP Code: 90245
+Telephone: 702-553-3007
+I NumberingPolicies/orModern Communications, FCC 15-70(reI. June22,2015).
+
+Contactfor RegulatoryRequirements, Compliance, 911 and LawEnforcement:
+Name: AndrewNickerson
+Address: 2150 ParkPlace
+Suite 100
+City: EISegundo
+State: California
+ZIP Code: 90245
+Telephone: 702-553-3007
+Facsimile: 702-825-2582
+B. § 52.15(g)(3)(i)(B)
+TheVoiceApplicationNetworkherebyacknowledgesthatauthorizationtoobtainnumbering
+resources under Section 52.l5(g) of the Commission's Rules is subject to compliance with applicable
+Commission numbering rules as well as to the numbering authority delegated to the states. The Voice
+ApplicationNetworkherebyalsoacknowledgesthatthisauthorizationissubjecttocompliancewithindustry
+guidelinesandpracticesregardingnumbering,asapplicabletotelecommunicationscarriers. Thenumbering
+resourcesthatarethesubjectofthisApplicationwillbeusedtoprovideinterconnectedVolPservicesinitially
+inCO, ND, and WA.
+C. §52.15(g)(3)(i)(C)
+TheVoiceApplicationNetworkherebyacknowledges thatitmustfilerequestsfornumbers
+with the relevant state commission(s) at least 30 days before requesting numbers from the Numbering
+Administrators.
+D. §52.15(g)(3)(i)(D)
+TheVoiceApplicationNetworkherebysetsforth itscapabilitytoprovideservicewithin60
+days ofthenumberingresources activation date.
+Todemonstrateitsfacilitiesreadiness,TheVoiceApplicationNetworkwillhavethefollowing
+resourcesavailableatitsdisposal: afullyintegratedbackofficesupportsystemwiththeabilitytoscheduleand
+process LNP orders from customers and an experienced provisioning departmentcapable ofhandling bulk
+
+numberportswithover10yearsLNPexperience. TheVoiceApplicationNetworkhasanagreementinplace
+with a CLEC partner to route traffic to the ILECs. The Voice Application Network has attached to this
+application, as Exhibit A, an agreement between The Voice Application Network and its carrier partner
+providing that the carrierpartnerwill host The Voice Application Network's numbers on its switches and
+provideconnectivitytothePSTNforinboundcallstoTheVoiceApplicationNetworknumbers. TheVoice
+ApplicationNetworkhasrequestedconfidentialtreatmentundertheCommission'srulesforExhibitA. Also
+attached,asExhibitB,isevidenceofinterconnectionagreementsbetweenTheVoiceApplicationNetwork's
+carrierpartnerand local exchange carriers inCO, ND, and WA.
+E. § 52.15(g)(3)(i)(E)
+TheVoice ApplicationNetwork herebycertifies thatitcomplies with its Universal Service
+Fund contribution obligations under 47 CFR part 54, subpart H, its Telecommunications Relay Service
+contribution obligations under 47 CFR § 64.604(c)(5)(iii), its North American Numbering Plan and Local
+NumberPortabilityAdministrationcontributionobligationsunder47CFR§§52.17and52.32,itsobligations
+topayregulatoryfees under47 CFR§ 1.1154, and its 911 obligationsunder47 CFRpart9.
+F. § 52.15(g)(3)(i)(F)
+TheVoice ApplicationNetworkcertifies thatithas the financial, managerial, andtechnical
+expertisetoprovidereliableservice.Itisfinanciallystable,ledbyastrong,experiencedmanagementteamwith
+substantialmanagerialexperienceinthe telecommunications industry, andhas sufficienttechnicalexpertise
+and infrastructure in place to provide reliable numbering services. The Voice Application Network's key
+managementandtechnicalpersonnelarelistedbelow. Noneoftheidentifiedpersonnelarebeingorhavebeen
+investigatedbytheCommissionoranylawenforcementorregulatoryagencyfor failure to complywithany
+law, rule, ororder.
+Key Personnel:
+ChiefExecutiveOfficer- AndrewNickerson
+
+G. § 52.15(g)(3)(i)(G)
+TheVoiceApplicationNetworkherebycertifiesthatnopartytothisapplicationissubjecttoa
+denial offederalbenefitspursuantto Section 5301 oftheAnti-DrugAbuse Actof1988,21 U.S.C. §862.
+II. ACKNOWLEDGEMENT OF CONDITIONS IN SECTION 52.15(g)(3)(iv)
+AsrequiredbySection52.15(g)(3)(iv),TheVoiceApplicationNetworkwillmaintaintheaccuracyof
+allcontactinformationandcertificationsinthisapplicationandwillfileacorrectionwiththeCommissionand
+eachapplicablestatewithin30daysofanychanges. TheVoiceApplicationNetworkwillalsofurnishaccurate
+regulatoryandnumberingcontactinformationtoeachstatecommissionwhenrequestingnumbersinthatstate.
+III. CONCLUSION
+Pursuant to Section 52.15(g)(3)(i) of the Commission's Rules, The Voice Application
+Network respectfullyrequests the Commission grant this application for authorization to obtain numbering
+resources.
+Respectfullysubmitted,
+CareyRoesel, Consultant
+InteserraConsultingGroup, Inc.
+(407) 740-3006
+croesel@inteserra.com
+and
+AndrewNickerson, ChiefExecutiveOfficer
+TheVoice ApplicationNetworkLLC
+702-553-3007
+regulatory@widevoice.com
+June 25,2019
+
+Exhibit A
+AGREEMENT BETWEEN
+THE VOICE APPLICATION NETWORK LLC
+AND CARRIER PARTNER
+(Confidential exhibit submitted separately}
+
+Exhibit B
+(for each state listed)
+INTERCONNECTION AGREEMENTS BY AND
+BETWEEN
+CARRIER PARTNER
+AND
+CENTURYLINK QC (FKA QWEST)
+
+OocuSignEnvelope10:5E4619FC-230F-4502-8A70-668549908260
+Interconnection Agreement
+Terms and Conditions for Interconnection, Unbundled Network Elements,
+Ancillary Services, and Resale ofTelecommunications Services
+between
+Qwest Corporation dba CenturyLink QC
+and
+Wide Voice LLC
+For the State ofColorado
+Agreement Number
+CDS-150325-0001
+
+OocuSignEnvelope10:5E4619FC-230F-4502-8A70-668549908260
+Section5
+TermsandConditions
+5.1.3.4 It is the responsibility ofeither Party to inform its End User Customers of
+service impacting impairmentthat may result in discontinuance ofservice as soon as the
+Party receives notice ofsame.
+5.1.4 Each Party is solely responsible for the services it provides to its End User
+Customers and to otherTelecommunications Carriers. This provision is not intended to limitthe
+liability ofeither Partyfor itsfailure to perform underthis Agreement.
+5.1.5 The Parties shall work cooperatively to minimize fraud associated with third-
+number billed calls, calling card calls, and any otherservices related to this Agreement.
+5.1.6 Nothing in this Agreement shall prevent either Party from seeking to recover the
+costs and expenses, if any, it may incur in (a) complying with and implementing its obligations
+under this Agreement, the Act, and the rules, regulations and orders of the FCC and the
+Commission, and (b) the development, modification, technical installation and maintenance of
+any systems or other infrastructure which it requires to comply with and to continue complying
+with its responsibilities and obligations under this Agreement. Notwithstanding the foregoing,
+CenturyLink shall not assess any charges against CLEC for services, facilities, Unbundled
+Network Elements, ancillary services and other related work or services covered by this
+Agreement, unless the charges are expressly provided for in this Agreement. All services and
+capabilities currently provided hereunder (including resold Telecommunications Services,
+Unbundled Network Elements, UNE Combinations and ancillary services) and all new and
+additional services or Unbundled Network Elements to be provided hereunder, shall be priced in
+accordance with all applicable provisions of the Act and the rules and orders of the Federal
+Communications Commission and orders ofthe Commission.
+5.2 Term ofAgreement
+5.2.1 This Agreement shall become effective on the date of Commission Approval
+("Effective Date"); however, the Parties may agree to implement the provisions of this
+Agreement upon execution. This Agreement shall be binding upon the Parties for a term of
+three (3) years.
+5.2.2 Upon expiration of the term of this Agreement, this Agreement shall continue in
+full force and effect until superseded by asuccessor agreement in accordance with this Section
+5.2.2. Any Party may request negotiation of a successor agreement by written notice to the
+other Party no earlier than one hundred sixty (160) Days prior to the expiration of the term, or
+the Agreement shall renew on a month to month basis. The date of this notice will be the
+starting point for the negotiation window under Section 252 of the Act. This Agreement will
+terminate on the date a successor agreement is approved by the Commission. However,
+nothing relieves CLEC from fulfilling the obligations incurred underthe priorAgreement.
+5.3 ProofofAuthorization
+5.3.1 Each Party shall be responsible for obtaining and maintaining Proof of
+Authorization (POA) as required by applicable federal and state law, as amended from time to
+time.
+5.3.2 The Parties shall make POAs available to each other upon request in the event
+of an allegation of an unauthorized change in accordance with all Applicable Laws and rules
+and shall be subjectto any penalties contained therein.
+March 25, 2015/kjc/WideVoice/CDS-1 50325-0001/CO
+CenturyLink Fourteen State NegotiationsTemplate- (v1-21-15) 29
+
+OocuSignEnvelope10:5E4619FC-230F-4502-8A70-668549908260
+Section22
+SignaturePage
+Section 22.0 -SIGNATURE PAGE
+By signing below, and in consideration ofthe mutual promises set forth herein, and othergood
+and valuable consideration, the Parties agree to abide by the terms and conditions set forth in
+this Interconnection Agreement.
+Wide Voice LLC Qwest Corporation dba CenturyLinkQC
+E~~:::J!--_----
+Signature Signature
+Patrick J. Chicas L. T. Christensen
+Name Printedrryped NamePrintedrryped
+President Director- Wholesale Contracts
+Title Title
+3/30/2015 3/30/2015
+Date Date
+March 25, 2015/kjclWideVoice/CDS-1 50325-0001/CO
+CenturyLinkFourteen StateNegotiationsTemplate- (v1-21-15) 310
+
+100eTEDrive,Dallas,Pa 18612
+October24,2013
+SharonThomas
+TechnologiesManagementInc
+2600MaitlandCenterParkway,Suite300
+Maitland,FL32751
+RE: InterconnectionAgreementbetweenFrontierCommunicationsNorthwestIncandWideVoice
+LLCforthestateofWashington
+Sharon:
+EnclosedpleasefindafullyexecutedInterconnectionAgreementbetweenWideVoicelLCand Frontier
+Communications Northwestincforyourfiles. IhavealsosentthisagreementtoFrontier'sRegulatory
+departmentinWashingtonforfilingwiththeWashingtonCommissionforapproval.
+Teresa Moffitt,Esquire
+Manager,InterconnectionandContractNegotiation
+Enclosure
+
+AGREEMENT
+byand between
+Wide Voice, LLC
+and
+FRONTIERCOMMUNICATIONSNORTHWESTINC.
+FORTHESTATE OF
+WASHINGTON
+WideVoiceWACompv3.3a
+
+AGREEMENT
+PREFACE
+ThisAgreement ("Agreement") shall be deemedeffective upon approval bytheWashington
+UtilitiesCommission (the"Effective Date"), betweenWideVoice, LLC ('WideVoice"), alimited
+liabilitycompanyorganized underthe lawsoftheStateof Nevada, with officesat410 South
+Rampart, Suite390, LasVegas, NV 89145 and FrontierCommunications Northwest Inc.
+("Frontier"), acorporation organized underthe lawsoftheStateofWashington with officesat 180
+S. ClintonAvenue, Rochester, NY 14646 (FrontierandWide Voice maybe referredto
+hereinafter, each, individuallyasa"Party", and, collectively, asthe"Parties").
+GENERALTERMS AND CONDITIONS
+In consideration ofthe mutual promisescontained inthisAgreement, and intendingtobe legally
+bound, pursuantto Section252 oftheAct, FrontierandWide Voice herebyagree asfollows:
+1. The Agreement
+1.1 ThisAgreement includes: (a)the Principal Document; (b) the Tariffsof each
+Partyapplicabletothe Servicesthatare offeredforsale by itinthe Principal
+Document (which Tariffsare incorporatedintoand made apart ofthisAgreement
+byreference); and, (c) an OrderbyaPartythathasbeen accepted bytheother
+Party.
+1.2 Exceptasotherwise expresslyprovided inthe Principal Document (inclUding, but
+notlimitedto, the PricingAttachment), conflictsamong provisions inthe Principal
+Document, Tariffs, and anOrderbyaPartythat hasbeen accepted bytheother
+Party, shall be resolved in accordancewith thefollowing orderof precedence,
+where the documentidentifiedinsubsection "(a)"shall havethe highest
+precedence: (a)thePrincipal Document; (b)theTariffs; and, (c) an Orderbya
+Partythat hasbeen accepted bytheotherParty. Thefactthata provision
+appears in the Principal DocumentbutnotinaTariff, orin aTariffbutnotinthe
+Principal Document, shall notbeinterpretedas, ordeemed groundsforfinding, a
+conflictforthe purposesofthisSection 1.2.
+1.3 ThisAgreementconstitutestheentireagreement between the Partiesonthe
+subjectmatterhereof, and supersedesany priororcontemporaneous
+agreement, understanding, orrepresentation, onthe subject matterhereof,
+provided, however, notwithstanding anyotherprovision ofthis Agreement or
+otherwise, thisAgreementisan amendment, extensionand restatement ofthe
+Parties' priorinterconnection and resale agreement(s), ifany, and, assuch, this
+Agreement isnotintendedtobe, norshall itbe construed to create, a novation or
+accord and satisfactionwith respect toanypriorinterconnection orresale
+agreementsand, accordingly, all monetaryobligationsofthe Partiestoone
+anotherunderanypriorinterconnection orresale agreementsshall remain infull
+force and effectandshall constitutemonetaryobligationsofthe Parties under
+thisAgreement (provided, however, thatnothingcontained inthisAgreement
+shall convertanyclaim ordebtthatwould otherwise constitutea prepetition claim
+ordebtin a bankruptcycase intoapostpetition claim ordebt). Inconnection with
+theforegoing, Frontierexpressly reserves all ofitsrights underthe Bankruptcy
+Codeand Applicable Lawto seekoropposeany reliefin respect ofthe
+assumption, assumptionand assignment, orrejection ofanyinterconnectionor
+resale agreements between FrontierandWideVoice.
+WideVoiceWACompv3.3a_07142010
+
+1.4 Exceptasotherwise providedinthe Principal Document,the Principal Document
+maynotbewaived ormodified except byawritten documentthat issignedby
+the Parties. Subjecttothe requirementsofApplicableLaw, a Partyshall have
+the righttoadd, modify, orwithdraw, itsTariff(s) atanytime, withouttheconsent
+of, ornoticeto, theotherParty.
+2. TermandTermination
+2.1 ThisAgreement shall be effective asofthe EffectiveDateand, unlesscancelled
+orterminated earlierinaccordancewith thetermshereof, shall continuein effect
+fortwo (2) years (the"InitialTerm"). Thereafter, thisAgreementshall continuein
+force and effect unlessand until cancelledorterminated asprovided inthis
+Agreement.
+2.2 EitherWideVoice orFrontiermayterminatethisAgreement effective uponthe
+expiration ofthe Initial Term oreffective upon anydateafterexpiration ofthe
+InitialTerm byprovidingwritten noticeoftermination atleast ninety(90) daysin
+advance ofthe dateoftermination.
+2.3 IfeitherWide Voice orFrontierprovidesnoticeoftermination pursuantto Section
+2.2 andon orbeforethe proposeddateoftermination eitherWide Voiceor
+Frontierhas requested negotiationofanewinterconnection agreement, unless
+thisAgreementiscancelled orterminated earlierinaccordancewiththeterms
+hereof (including, but notlimitedto, pursuantto Section 12),thisAgreement shall
+remain in effect until the earlierof: (a) the effectivedateof a newinterconnection
+agreement betweenWide Voiceand Frontier; or, (b)thedate one (1) yearafter
+the proposed dateoftermination.
+2.4 If eitherWide VoiceorFrontierprovidesnoticeoftermination pursuanttoSection
+2.2 andby 11:59 PM EasternTimeontheproposeddate oftermination neither
+WideVoicenorFrontierhasrequested negotiation ofanewinterconnection
+agreement, (a)thisAgreement will terminate at 11:59 PM Eastern Time onthe
+proposed date oftermination, and (b)theServicesbeing provided underthis
+Agreementatthe timeofterminationwill beterminated, excepttothe extentthat
+the Purchasing Partyhasrequestedthatsuch Servicescontinueto be provided
+pursuanttoanapplicableTarifforStatementofGenerallyAvailableTerms
+(SGAT).
+3. Glossaryand Attachments
+The Glossaryandthefollowing Attachmentsare apartofthisAgreement:
+Additional ServicesAttachment
+InterconnectionAttachment
+Resale Attachment
+NetworkElementsAttachment
+CollocationAttachment
+911 Attachment
+PricingAttachment
+4. Applicable Law
+4.1 Theconstruction, interpretation and performanceofthisAgreement shall be
+governedby (a) the lawsofthe UnitedStatesof Americaand (b)thelawsofthe
+°
+WideVoiceWACompv3.3a_0714201 2
+
+SIGNATUREPAGE
+INWITNESSWHEREOF, the Parties heretohavecausedthisAgreementtobeexecutedasof
+theEffectiveDate.
+INC'£l2
+WideVoice, LLC FRONTIERCOMMUNICATIONSNORTHWEST
+By: By:
+Printed: PatrickJ. Chicas Printed: Stephen Levan
+Title: President
+Date: Date:
+WideVoiceWACompv3.3a_07142010 27
+
+CenturyLink0
+JasonD.Topp
+SeniorCorporateCounsel·Regulatory
+(651)312·5364
+December23,2013
+Mr. Darrell Nitschke
+NORTHDAKOTA
+ExecutiveSecretary PUBLICSERVICECOMMISSION
+NorthDakotaPublic ServiceCommission
+600EastBoulevardAvenue, 12th Floor
+Bismarck, NO 58505-0480
+Re: Adoptionofthe WirelineInterconnectionAgreementbetween
+Qwest Corporation dbaCenturyLinkQC and WideVoice, LLC
+forthe StateofNorthDakota
+DearMr. Nitschke:
+Enclosed for filing for approval bytheNorthDakotaPublic ServiceCommission
+pursuantto 47 U.S.C. §252 andN.D. Cent. Code §49-21-01.7 isthe Adoptionofthe
+WirelineInterconnectionAgreement betweenQwest Corporation dbaCenturyLinkQC
+("CenturyLink") and Wide Voice, LLC ("WideVoice") for the StateofNorthDakota. Wide
+Voiceis adoptingtheInterconnectionAgreement betweenSprintCommunicationsCompany
+L.P. andCenturyLink, which was approvedbytheCommissionon April 8, 2004 inCaseNo.
+PU-04-12.
+Contact information for WideVoice is as follows:
+TandyDeCosta PatrickChicas
+WideVoice, LLC WideVoice, LLC
+410 SouthRampart, Suite390 410 SouthRampart, Suite390
+LasVegas, NY 89145 LasVegas,NY 89145
+(702) 553-3007 (702) 553-3007
+tdecosta@widevoice.com Ric@widevoice.com
+1 PU-13-920 Filed:12/23/2013 Pages:5
+WirelineInterconnectionAgreement
+ONestCorporation
+JasonTopp
+
+Mr. DarrellNitschke
+Page2
+December23,2013
+Thankyou for yourhelp withthis matter. Pleasecontactmeifyou haveany
+questionsorconcerns.
+Verytrulyyours,
+CJe!:!'
+T()(JP
+Enclosure
+cc: TandyDeCosta(viaemail)
+PatrickChicas (viaemail)
+
+OocuSignEnvelope10:OF02030B-3CE6-4OC3·B170-84F274CFAOF9
+~,,~
+~4~~
+CenturyLink'"
+ADOPTION OF THE
+WIRELINE INTERCONNECTION AGREEMENT
+BY
+WIDE VOICE, LLC
+ADOPTING THE
+WIRELINE INTERCONNECTION AGREEMENT
+BETWEEN
+QWEST CORPORATION DBACENTURYLINKQC
+AND
+SPRINT COMMUNICATIONS COMPANY L.P.
+FORTHE STATE OF:
+NORTH DAKOTA
+
+OocuSignEnvelope10:OF02030B·3CE6-40C3-B170-84F274CFAOF9
+Adoption oftheWirelineInterconnectionAgreement
+This Adoption ofthe Wireline Interconnection Agreement ("Agreement") is entered into by and between
+Qwest Corporation dba CenturyLink QC ("CenturyLink"), a Colorado corporation, and Wide Voice, LLC
+("CLEC"), aNevada corporation, each ofwhich maybe referredtohereinas"Party", orcollectivelyasthe
+"Parties", to establish theterms, conditions and rates for local interconnection and the exchange ofLocal
+trafficfortheStateofNorth Dakota.
+NOWTHEREFORE,the Partiesagreeasfollows:
+1. ADOPTED AGREEMENT
+1.1 This Agreement between the Parties shall consist of the Wireline Interconnection
+Agreement entered into by and between Qwest Corporation dba CenturyLink QC and
+Sprint Communications Company. L.P. approved by the Commission in 2004, for the
+StateofNorthDakota.
+1.2 This Agreement is made a part of and incorporates the terms and conditions of the
+AdoptedAgreement, includingallamendmentstothatAdopted Agreement(the"Terms").
+1.3 Except as set forth herein, the Adopted Agreement remains unchanged and in full force
+and effect. In the event ofaconflict between the Terms ofthe Adopted Agreement and
+thisAgreement, thisAgreementwillcontrol.
+2. PARTY
+Forthe purposes ofthis Agreement, CLEC is hereby substituted in the Adopted Agreementfor
+SprintCommunications CompanyL.P.
+3. PROVISIONS
+3.1 TheTermsofthe SprintCommunications CompanyL.P. Agreementare being adoptedin
+its entirety by CLEC pursuant to CLEC's statutoryrights underSection 252(i). The filing
+and performancebyCenturyLinkoftheTermsdoesnotin anywayconstitute awaiverby
+CenturyLink ofany position as to the Terms ora portion thereof, nordoes it constitutea
+waiverbyCenturyLinkofanyorall rights and remedies itmayhaveto seek reviewofthe
+Terms, orto seek reviewin anywayofanyprovisions includedin these Termsasaresult
+ofCLEC's252(i)election.
+3.2 Should CLEC attempt to apply the adopted Terms in a manner that conflicts with the
+provisions set forth herein, CenturyLink reserves its rights to seek appropriate legal
+and/orequitablerelief.
+4. EFFECTIVEDATE ANDTERM
+4.1 ThisAgreement, ifan initialAgreementshallbecomeeffectiveonthedateofCommission
+Approval ("Effective Date"); however the Parties may agree to implement the provisions
+of this Agreement upon execution by both Parties. However, the initiation of a new
+account, any new provision of service or obligation or any revision to currently existing
+services or obligations may take up to 60 days to accommodate any required initial
+processes.
+4.2 In the event that the Parties currently have an existing Wireline Interconnection
+Agreement, thisAgreementshall replacetheexisting Wireline InterconnectionAgreement
+in itsentiretybeginningonthe EffectiveDate. However, nothingrelieves the Partiesfrom
+fulfilling all obligations incurredunderthatpriorWireline InterconnectionAgreement.
+4.3 The expiration date of this Agreement shall be the expiration date of the Adopted
+Agreement, which is listed above, however, notwithstanding the forgoing, the Expiration
+Date ofthe Adopted Agreement and this Agreement are extended until March 31, 2014
+November27,2013/swd-kclWideVoice,LLC/ND-(v9-12-13)
+AgreementNumberCDS-131127-QOO2
+Page2
+
+DocuSignEnvelope10:OF02030B-3CE6-40C3-B170-84F274CFAOF9
+pursuanttotheOwestICenturyLinkmergersettlementagreement.
+5. NOTICES
+Except as otherwise provided, all notices and communication hereunderwill be deemed to have
+been duly given when made in writing and delivered in person or deposited in the U.S. mail,
+certified, postagepaid, return receiptrequested, andaddressedasfollows:
+ToCenturyLink: With Copyto:
+CenturyLink CenturyLinkLegal Department
+DirectorWholesaleContracts WholesaleInterconnection
+930 15thStreet, 6thFloor 1801 CaliforniaStreet, 9th Floor
+Denver, CO 80202 Denver, CO 80202
+Phone: 303-672-2879 Phone: 303-383-6553
+Email: intagree@centurylink.com Email: Legal.lnterconnection@centurylink.com
+ToCLEC: WithCopyto:
+WideVoice, LLC WideVoice, LLC
+TandyDeCosta, DirTelephoneSvcs PatrickChicas, President
+410SouthRampart, Suite30- 410South Rampart, Suite390
+Las Vegas, NV 89145 LasVegas, NV 89145
+702-553-3007 702-553-3007
+Email: tdecosta@widevoice.com Email: pjc@widevoice.com
+6. REGULATORYREQUIREMENTS
+6.1 CLEC represents and warrants that it is authorized to provide telecommunications
+servicesintheStateof.NorthDakota.
+6.2 The Parties will cooperate to file this Agreement with the Commission for approval and
+completeallattendantrequirementsoftheCommissionforsuchapproval.
+IN WITNESS WHEREOF, CLEC and CenturyLink have caused this Agreement to be executed by their
+respectivedulyauthorized representatives.
+Wide Voice, LLC QwestCorporation dba CenturyLinkQC
+~05E9FC68BD574S4"'1
+l~~~dst~I- _
+Signature Signature
+PatrickChicas L. T. Christensen
+Printed Name PrintedName
+President Director- Wholesale Contracts
+Title Title
+12/2/2013 12/2/2013
+Date Date
+November27,2013/swd-kcJWideVoice,LLC/ND-(v9-12-13)
+AgreementNumberCDS-131127-0002
+Page3
+
+LOCAL INTERCONNECTION AGREEMENT
+Between Qwest Corporation
+And
+Sprint Communications Company L.P.
+Forthe State of North Dakota
+TERMS AND CONDITIONS FOR INTERCONNECTION,
+UNBUNDLED NETWORK ELEMENTS, ANCILLARY SERVICES,
+AND RESALE OF TELECOMMUNICATION SERVICES
+December9, 2003/jld/Sprint- ND
+CDS-031209-0002
+
+Section 5
+Terms and Conditions
+5.1.3.4 It is the responsibility of either Party to inform its End User Customers of
+service impacting impairment that may result in discontinuance of service as soon as the
+Party receives notice of same.
+5.1.4 Each Party is solely responsible for the services it provides to its End User
+Customers and to otherTelecommunications Carriers. This provision is not intended to limit the
+liability of either Partyfor its failure to perform underthis Agreement.
+5.1.5 The Parties shall work cooperatively to minimize fraud associated with third-
+numberbilled calls, calling card calls, and any otherservices related to this Agreement.
+5.1.6 Nothing in this Agreement shall prevent either Party from seeking to recover the
+costs and expenses, if any, it may incur in (a) complying with and implementing its obligations
+under this Agreement, the Act, and the rules, regulations and orders of the FCC and the
+Commission, and (b) the development, modification, technical installation and maintenance of
+any systems or other infrastructure which it requires to comply with and to continue complying
+with its responsibilities and obligations under this Agreement. Notwithstanding the foregoing,
+Owest shall not assess any charges against Sprint for services, facilities, Unbundled Network
+Elements, ancillary service and other related works or services covered by this Agreement,
+unless the charges are expressly provided for in this Agreement. All services and capabilities
+currently provided hereunder (including resold Telecommunications Services, Unbundled
+Network Elements, UNE combinations and ancillary services) and all new and additional
+services or Unbundled Network Elements to be provided hereunder, shall be priced in
+accordance with all applicable provisions of the Act and the rules and orders of the Federal
+Communications Commission and orders ofthe Commission.
+5.2 Term of Agreement
+5.2.1 This Agreement shall be deemed effective upon Commission approval, pursuant
+to Section 252 of the Act (lithe Effective Date"); however, the Parties agree to implement the
+provisions ofthis Agreement upon execution. This Agreement shall be binding upon the Parties
+for aterm ofthree (3) years and shall expire on January 1,2007.
+5.2.2 Upon expiration of the term of this Agreement, this Agreement shall continue in
+force and effect until superseded by a successor agreement in accordance with this Section
+5.2.2. Any Party may request negotiation of a successor agreement by written notice to the
+other Party no earlier than one hundred sixty (160) Days prior to the expiration of the term, or
+the Agreement shall renew on a month to month basis. The date of this notice will be the
+starting point for the negotiation window under Section 252 of the Act. This Agreement will
+terminate on the date asuccessoragreement is approved bythe Commission.
+5.2.2.1 Prior to the conclusion of the term specified above, Sprint may obtain
+Interconnection services under the terms and conditions of a then-existing SGAT or
+agreement to become effective at the conclusion of the term or priorto the conclusion of
+the term if Sprint so chooses.
+5.3 Proof of Authorization
+5.3.1 Each Party shall be responsible for obtaining and maintaining Proof of
+Authorization (POA), as required by applicable federal and state law, as amended from time to
+time. POAmay be acquired in the following ways:
+December9, 2003/jld/Sprint-NO 30
+CDS-031209-0002
+
+Section 22
+SignaturePage
+Section 22.0 - SIGNATURE PAGE
+The Parties intending to be legally bound have executed this Agreement as of
+the dates set forth below, in multiple counterparts, each of which is deemed an
+original, but all of which shall constitute one and the same instrument.
+Sprint Communications Company L.P. Qwest Corporation
+Signature Signature
+L.T. Christensen
+Name Printedrryped Name Printedrryped
+Director-Interconnection Agreements
+Title Title
+Date Date
+Qwest Corporation
+Signature
+Deborah L. Petrie
+Name Printedrryped
+V.P. Marketing & Sales Operations
+Title
+Date
+December9, 2003/jld/Sprint-NO 344
+CDS-031209-0002

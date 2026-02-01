@@ -1,0 +1,235 @@
+Before the
+Public Version –
+FEDERAL COMMUNICATIONS COMMISSION
+Confidential
+Washington, D.C. 20554
+Information Excluded
+In the Matter of IntelePeer Networks LLC )
+) WC Docket No. 20-_____
+Application For Authorization to Obtain Numbering )
+Resources Pursuant to Section 52.15(g) of )
+The Commission’s Rules )
+APPLICATION OF INTELEPEER NETWORKS LLC
+FOR AUTHORIZATION TO OBTAIN NUMBERING RESOURCES
+By this Application, IntelePeer Networks LLC (“IntelePeer” or “Company”), an
+interconnected Voice over Internet Protocol (“VoIP”) provider, seeks to obtain direct access to
+numbering resources from the North American Numbering Plan Administrator and the Pooling
+Administrator (“Numbering Administrators”) pursuant to Section 52.15(g)(3)(i) of the
+Commission’s Rules.1
+IntelePeer provides the following information in support of this Application:
+I. INFORMATION REQUIRED BY 47 C.F.R. § 52.15(g)(3)(i)
+A. § 52.15(g)(3)(i)(A)
+IntelePeer Networks LLC
+155 Bovet Road, Suite 405
+San Mateo, CA 94402
+Telephone: (866) 780-8639
+Facsimile: (650) 403-0796
+Website: https://www.intelepeer.com/
+Contact for Regulatory Requirements, Compliance, 911 and Law Enforcement:
+Kristin Manwarren
+Chief Legal Officer
+5975 South Quebec, Suite 300, Centennial, CO 80111
+Telephone: (720) 889-9568
+Facsimile: (650) 403-0796
+E-mail: kmanwarren@intelepeer.com
+1 47 C.F.R. § 52.15(g)(3).
+1
+
+B. § 52.15(g)(3)(i)(B)
+IntelePeer hereby acknowledges that authorization to obtain numbering resources under
+Section 52.15(g) of the Commission’s Rules is subject to compliance with applicable Commission
+numbering rules, as well as to the numbering authority delegated to the states. The Company
+hereby also acknowledges that this authorization is subject to compliance with industry guidelines
+and practices regarding numbering, as applicable to telecommunications carriers. The numbering
+resources that are the subject of this Application will be used to provide interconnected VoIP
+services initially in California, and ultimately nationwide. Accordingly, to the extent required,
+IntelePeer requests the Commission grant it authority to obtain numbering resources in all states.
+C. § 52.15(g)(3)(i)(C)
+IntelePeer acknowledges that it must file requests for numbers with the relevant state
+commission(s) at least 30 days before requesting numbers from the Numbering Administrators.
+D. § 52.15(g)(3)(i)(D)
+IntelePeer hereby sets forth its capability to provide service within 60 days of the
+numbering resources activation date. IntelePeer has an agreement in place with a nationally
+recognized carrier partner that has interconnection agreements in effect with all relevant incumbent
+local exchange carriers in order to route traffic. A copy of this agreement is attached as Exhibit A
+to this Application. IntelePeer respectfully requests that this agreement be accorded confidential
+treatment pursuant to Section 0.459 of the Commission’s Rules.2 As Exhibit B, IntelePeer
+provides evidence of current interconnection agreements between its carrier partner and incumbent
+2 47 C.F.R. § 0.459. The agreement contains trade secret information that is not publicly
+available, the disclosure of which would cause competitive and economic harm to IntelePeer.
+2
+
+local exchange carriers (“ILECs”).
+In addition, the Company has a back-office support system with the ability to schedule and
+process Local Number Portability (“LNP”) orders from customers, and has staff experienced in
+handling LNP between itself and other carriers and interconnected VoIP providers.
+E. § 52.15(g)(3)(i)(E)
+IntelePeer hereby certifies that it will comply with its Universal Service Fund contribution
+obligations under 47 C.F.R. part 54, subpart H, its Telecommunications Relay Service contribution
+obligations under 47 C.F.R. § 64.604(c)(5)(iii), its North American Numbering Plan and Local
+Number Portability Administration contribution obligations under 47 C.F.R. §§ 52.17 and 52.32,
+its obligations to pay regulatory fees under 47 C.F.R. § 1.1154, and its 911 obligations under 47
+C.F.R. part 9.3
+F. § 52.15(g)(3)(i)(F)
+IntelePeer certifies that it has the financial, managerial, and technical expertise to provide
+reliable service. It is financially stable, led by a strong, management team with substantial
+experience in the telecommunications industry, and has sufficient technical expertise and
+infrastructure in place to provide reliable service.
+IntelePeer’s key management and technical personnel, along with their respective
+experience, are identified in Exhibit C. None of the identified personnel are being, or have been,
+investigated by the Commission or any law enforcement or regulatory agency for failure to comply
+with any law, rule, or order. A description of IntelePeer’s corporate structure is attached as Exhibit
+D.
+3 IntelePeer’s 499 Filer ID is 833966.
+3
+
+G. § 52.15(g)(3)(i)(G)
+IntelePeer hereby certifies that no party to this Application is subject to a denial of Federal
+benefits pursuant to Section 5301 of the Anti-Drug Abuse Act of 1988, 21 U.S.C. § 862.
+II. ACKNOWLEDGEMENT OF CONDITIONS IN 47 C.F.R. § 52.15(g)(3)(iv)
+As required by Section 52.15(g)(3)(iv), IntelePeer will maintain the accuracy of all
+contact information and certifications in this Application, and will file a correction with the
+Commission and each applicable state within 30 days of any changes.4 IntelePeer will also furnish
+accurate regulatory and numbering contact information to each state commission when requesting
+numbers in that state.
+III. CONCLUSION
+Pursuant to Section 52.15(g)(3)(i) of the Commission’s Rules, IntelePeer Networks LLC
+respectfully requests that the Commission grant this Application for authorization to obtain
+numbering resources.
+Respectfully submitted,
+INTELEPEER NETWORKS LLC
+By: /s/ Katherine E. Barker Marshall_
+Katherine E. Barker Marshall
+Potomac Law Group, PLLC
+1300 Pennsylvania Ave NW, Suite 700
+Washington, DC 20004
+Telephone: (202) 792-6422
+E-mail: kmarshall@potomaclaw.com
+Date: October 30, 2020
+4 47 C.F.R. § 52.15(g)(3)(iv).
+4
+
+Exhibit A
+Agreement with Underlying CLEC
+Confidential and Proprietary – Filed Under Seal
+Pursuant to 47 C.F.R. § 0.459
+A copy of the Agreement is filed under seal.
+
+Exhibit B
+Interconnection Agreements
+Confidential and Proprietary – Filed Under Seal
+Pursuant to 47 C.F.R. § 0.459
+IntelePeer hereby submits copies of its underlying carrier’s interconnection
+agreements, filed under seal.
+
+Exhibit C
+Managerial Information
+IntelePeer’s key management and technical personnel are listed below. None of the
+identified personnel are being or have been investigated by the Commission or any law
+enforcement or regulatory agency for failure to comply with any law, rule, or order.
+Frank Fawzi
+PRESIDENT & CEO
+Frank is the President and Chief Executive Officer at IntelePeer. He has been a guiding force in
+driving the company’s growth and achieving its mission to become a dominant Communications
+Platform as a Service (CPaaS) provider for enterprises. With IntelePeer’s voice, messaging, ready-
+to-use applications, open APIs, and AI-powered analytics, companies can build and integrate
+communications-enabled workflows without the need for any programming to create world-class
+customer experiences and improve business processes through automation. Frank founded and
+grew CommTech Corporation between 1990 and 2001 to be an early leader in the communications
+software sector before selling the company to ADC, a leading provider of broadband solutions for
+the telecommunications industry, for $178 million. Prior to founding CommTech, he worked at
+AT&T Bell Laboratories as the lead data communications architect for a $1.4B winning bid to the
+IRS. Frank received a Bachelor of Science in Computer Science and a Master of Science in
+Management from Stevens Institute of Technology and participated in the Wharton Executive
+Management Program at the University of Pennsylvania. He was also selected as a QuantumShift’s
+Top Entrepreneurs in America for 2017 by KPMG’s Private Markets Group and the University of
+Michigan’s Ross School of Business.
+Andre Simone
+CHIEF FINANCIAL OFFICER
+Andre has served as a Chief Financial Officer for over 21 years for a variety of Silicon Valley
+technology companies and has been IntelePeer’s Chief Financial Officer since February 2007.
+Before joining the company, Andre served as CFO of Dimatix, Inc. that was acquired by Fujifilm.
+Prior to Dimatix, he served as CFO of SAP Markets, Inc., that was acquired by SAP. Prior to SAP,
+he served as a Consultant at Bain & Company. Andre holds a Bachelor of Arts in economics with
+Distinction from Stanford University and a Masters of Business Administration from The Wharton
+School of Business at the University of Pennsylvania.
+Matt Edic
+CHIEF EXPERIENCE OFFICER
+Matt serves as the Chief Experience Officer. In this role, he and his team ensure the highest level
+of support in customer interactions. Previously, Matt served as Senior Vice President, Customer
+
+Experience and Vice President, Enterprise Sales and Business Development for IntelePeer. Matt
+brings to IntelePeer more than 20 years of leadership experience and a strong passion for serving
+customers, continuous improvement, and teamwork. Prior to IntelePeer, Matt worked for
+NexTone, JP Morgan Chase & Co., and Qwest Communications. He holds a Bachelor of Science
+in Computer Science from the United States Naval Academy in Annapolis, Maryland.
+Robert Galop
+CHIEF MARKETING OFFICER
+As the Chief Marketing Officer, Robert is responsible for all activities and initiatives related to
+product management, product marketing, channel and corporate marketing. Prior to joining
+IntelePeer, Robert led product development and product management at multiple companies
+including Fiserv, Amazon, and Electrolux. He received his MBA from Augusta State University
+and his Bachelor of Science in Computer Engineering from the Honors College at the University
+of South Carolina.
+Jeremy Jones
+CHIEF COMMERCIAL OFFICER
+Jeremy is Chief Commercial Officer at IntelePeer and responsible for channel partners, solution
+providers, sales engineering, and referral programs with the company. He oversees the expansion
+of account revenues through value-added sales, solution-based selling techniques and the
+achievement of maximum productivity. Previously, Jeremy was the National Director of Partner
+Sales for Level 3 Communications. During his tenure at Global Crossing, Jeremy managed channel
+partner relationships for national and global services in leadership roles presiding over teams
+responsible for account management, customer support, and sales engineering.
+John Ward
+CHIEF TECHNOLOGY OFFICER
+John serves as Chief Technology Officer and leads his team in delivering advanced and innovative
+solutions for IntelePeer’s infrastructure and its partners and customers. He has authored many of
+IntelePeer’s patents. John brings 25 years of telecommunications and systems experience holding
+architecture and engineering positions at Level 3, Hewlett Packard, and MCI. John holds a
+Bachelor of Science in Computer Science from Colorado State University.
+Kristin Manwarren
+CHIEF LEGAL OFFICER
+Kristin Manwarren serves as Chief Legal Officer at IntelePeer. In this role, she guides the legal
+initiatives of the company with regard to corporate transactions, intellectual property portfolio,
+product development, government affairs and information security and privacy compliance. Prior
+to joining IntelePeer in 2010, Kristin worked as in-house counsel with Qwest Communications
+Corporation and as outside counsel at Gray Cary and Blumenfeld & Cohen in Washington, DC.
+Kristin earned her Bachelor of Arts degree in communications from Butler University, and her
+J.D. from Indiana University School of Law.
+
+Exhibit D
+Corporate Structure and Ownership Information
+IntelePeer Networks LLC is a wholly owned subsidiary of IntelePeer Holdings, Inc. The
+following shareholders control 10% or more of IntelePeer Holdings, Inc.:
+Vantage Point Venture Partners 2006 (Q), LP
+1111 Bayhill Drive, Suite 220
+San Bruno, CA 94066
+US Investment Fund
+Ownership: 25.1039%
+Kenet II LP
+400 Concar Drive
+San Mateo, CA 94402
+US Investment Fund
+Ownership: 15.4377%
+Frank Fawzi
+IntelePeer Holdings, Inc.
+155 Bovet Road, Suite 405
+San Mateo, CA 94402
+US Citizen
+Ownership: 10.0429%
+No other person or entity can assert 10% or more control over IntelePeer Holdings, Inc.
+
+DECLARATION
+Kristin Manwarren, under penalty of perjury deposes and states as follows:
+1. My name is Kristin Manwarren. I am the Chief Legal Officer of IntelePeer Networks
+LLC ("IntelePeer").
+2. I have reviewed the information set forth in IntelePeer's Application to Obtain
+Numbering Resources to which this declaration is attached.
+3. The statements set forth in IntelePeer' s Application are true and correct to the best
+of my knowledge, information, and belief.
+V�tfma11�J1M1
+Kr1stm Manwarren
+Chief Legal Officer
+IntelePeer Networks LLC
+2
+Dated: October %020

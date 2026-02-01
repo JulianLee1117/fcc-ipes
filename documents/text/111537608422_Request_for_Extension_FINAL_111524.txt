@@ -1,0 +1,212 @@
+Before the
+FEDERAL COMMUNICATIONS COMMISSION
+Washington, D.C. 20554
+In the Matter of )
+)
+NumberBarn, LLC ) WC Docket No. 19-99
+)
+Application For Authorization to Obtain )
+Numbering Resources Pursuant to )
+Section 52.15(g) of the Commission’s Rules )
+To: Secretary, Federal Communications Commission
+Chief, Wireline Competition Bureau
+MOTION FOR EXTENSION OF TIME
+Pursuant to Rules 1.45 and 1.46 of the Federal Communications Commission’s (“FCC” or
+“the Commission”) Rules of Practice and Procedure, 47 C.F.R. §§ 1.45 and 1.46, NumberBarn,
+LLC (“NumberBarn” or “the Company”), by its attorneys and pursuant to Section 1.45(b) of the
+Commission’s Rules, 47 CFR § 1.45(b), hereby submits its motion to extend the time in which to
+file Reply Comments in the above-captioned proceeding from November 22, 2024 until December
+6, 2024.
+In support hereof, the following is respectfully shown:
+While NumberBarn continues to be anxious for the Commission to grant its Application
+for Authorization to Obtain Numbering Resources (“Application”) that has been pending for five
+years, it is now presented with addressing lengthy comments from multiple state public utility
+commissions (collectively, “the PUCs”) within a two-week timeframe. These comments contain
+numerous unsupported allegations and accusations against NumberBarn that pose serious threats
+to the Company’s reputation, operations, and business. While the bulk of these accusations are
+unsubstantiated, grounded in fear rather than fact, and reflect a fundamental misunderstanding of
+or prejudice against NumberBarn and its business model, each must be responded to thoroughly
+
+and thoughtfully in order to (1) provide the Commission with an accurate record upon which to
+reach its decision; (2) ensure that NumberBarn’s Application is treated in the same manner as other
+similarly situated providers whose applications have been granted by the FCC; and (3) adequately
+protect NumberBarn against reputational harm created by the lobbing of unfounded accusations
+by the PUCs.
+The PUCs’ comments also include a number of broad policy arguments, including
+questioning whether numbers should be considered property or a public resource and concerns
+over number exhaustion. While NumberBarn does not dispute that these are important policy
+discussion points, it maintains these concerns are properly addressed through the FCC’s
+rulemaking process, as these issues go well beyond the scope of the Application at issue in the
+instant proceeding and have broad and substantial impacts on the communications and VoIP
+industry as a whole. It would be inappropriate and a violation of the Administrative Procedure
+Act for FCC to make such broad policy pronouncements on those issues in this proceeding. Given
+this concern, NumberBarn also requires sufficient opportunity to fully brief its position on the
+PUCs’ attempts to have the FCC usher in broad policy changes and pronouncements through this
+matter that would disproportionately impact and single out a single provider – NumberBarn –
+while simultaneously and without appropriate opportunity to participate or comment imposing
+upon similarly situated providers policies adopted in an unrelated party’s application proceeding.
+Given NARUC’s and the PUCs’ fundamental misunderstanding of NumberBarn’s
+operations, the Company spent the last two weeks focused on engaging in proactive outreach
+efforts with NARUC and its members in order to educate NARUC and its members about
+NumberBarn’s business model and to assuage the PUCs’ “worst-case scenario” fears as to
+NumberBarn’s role in the marketplace. The Company’s efforts included outreach to NARUC’s
+2
+
+general counsel and written correspondence to NARUC’s executive committee in an effort to
+initiate an open dialogue between the parties. See Exhibit A hereto. To date, NumberBarn has not
+received any written response from NARUC.
+However, NumberBarn took the additional step of attending NARUC’s annual meeting
+from November 10th-13th. NumberBarn personnel even agreed to participate in a panel discussion
+during the meeting and made additional outreach efforts to attendees at the meeting. While some
+state PUC staffers were open and willing to engage in productive discussions with NumberBarn,
+others, including staffers from several PUCs that filed comments in this proceeding, flatly refused
+to engage in any discussions with NumberBarn personnel. This is especially disappointing, as it
+is indicative that some of the PUCs’ comments are grounded on willful ignorance rather than
+reality.
+Lastly, the FCC granted NARUC’s request for an extension of thirty days for its members
+to prepare and submit their comments. Without an extension, NumberBarn is at a distinct
+disadvantage, having only two weeks to respond to over fifty-seven pages of inflammatory rhetoric
+from multiple parties.1 Moreover, NumberBarn has requested a more limited extension of fourteen
+days in which to respond and is simply seeking the same consideration which the FCC provided
+to NARUC and its members.
+1 The PUCs for Arizona and Michigan did not email or otherwise serve NumberBarn with their
+comments, and thus NumberBarn was not immediately aware of their filings until searching ECFS
+the next day. That said, a copy of this Motion is being served via email on all commenters in this
+proceeding, regardless of whether their comments were served on NumberBarn.
+3
+
+For all the foregoing reasons, NumberBarn respectfully requests that the Commission
+extend its deadline to file Reply Comments to December 6, 2024.
+Respectfully submitted,
+NUMBERBARN, LLC
+By
+Allison D. Rule
+Its Attorney
+Marashlian & Donahue, PLLC
+1430 Spring Hill Road, Suite 310
+McLean, VA 2210
+(703)714-1312
+adr@commlawgroup.com
+November 15, 2024
+cc: DAA@fcc.gov
+Margoux Newman, Attorney, Competition Policy Division, FCC Wireline
+Competition Bureau [via Margoux.Newman@fcc.gov]
+Jordan Marie Reth, Attorney, Competition Policy Division, FCC Wireline
+Competition Bureau [via Jordan.Reth@fcc.gov]
+James Bradford Ramsay, General Counsel, NARUC [via jramsay@naruc.org]
+Robert C. Cain, Assistant General Counsel, NARUC [via rcain@naruc.org]
+Anna B. Stirling, Assistant Attorneys General, Michigan Public Service Division
+[stirlinga1@michigan.gov]
+Thomas Van Flein, Chief Counsel, Arizona Corporation Commission
+[tvanflein@azcc.gov]
+Laura H. Walt, Senior Attorney Advisor, Public Service Commission of the District of
+Columbia [lwalt@psc.dc.gov]
+Jonathan Koltz, Assistant General Counsel, California Public Utilities Commission
+[Jonathan.koltz@cpuc.ca.gov]
+Philip L. Bartlett, II, Chairman, Maine Public Utilities Commission
+[phil.bartlett@maine.gov]
+Jared Chicoine, Commissioner, New Hampshire Department of Energy
+[Jared.S.Chicoine@energy.nh.gov]
+4
+
+EXHIBIT A
+
+November 7, 2024
+Julie Fedorchak
+President
+National Association of Regulatory Commissioners
+1101 Vermont Avenue NW, Suite 401
+Washington, DC 20005
+Ms. Fedorchak:
+I am writing on behalf of my client, NumberBarn, LLC. We learned that the National Association of
+Regulatory Commissioners (“NARUC”) recently circulated a draft resolution (“Resolution”) regarding
+telephone number resource optimization that appears to reference my client. The Resolution, as well as
+NARUC’s filing associated with NumberBarn’s application for numbering authorization before the Federal
+Communications Commission (“FCC”) in WC Docket No. 19-19 indicates that NARUC and, by extension,
+its members, have some rather fundamental misconceptions regarding NumberBarn’s business operations
+and its position in the marketplace.
+Accordingly, we wanted to take this opportunity to provide some input on the resolution, to correct some
+factual errors and misconceptions found therein and provide the opportunity for productive discourse on
+this issue. As an initial matter, the Resolution states that ATIS guidelines prohibit end users from selling
+telephone numbers. This is dangerously misleading, and is simply false:
+• ATIS-0300119, Thousands-Block (NPA-NXX-X) & Central Office Code (NPA-NXX) Administration
+Guidelines, § 2.1 provides guidance to Service Providers, not End Users.
+• The “Numbering Resources” being discussed in ATIS-0300119 are CO Codes and Thousands
+Blocks that are assigned to Service Providers, not individual telephone numbers.
+The Resolution also suggests, without evidence, that “brokering” and “warehousing” of telephone
+numbers has led to exhaust of certain area codes. While it is true that a small number of numeric patterns
+are highly sought after, it is not true that “brokering” or “warehousing” is a primary (or even relevant)
+contributer to exhaust.
+Even more troubling is the suggestion in the Resolution that NumberBarn and/or its suppliers, customers,
+or affiliates are warehousing, hoarding, or otherwise “own” 70,000,000+ telephone numbers. This
+assertion is particularly concerning to NumberBarn because it addressed the same in its October 1, 2024
+Opposition submitted in WC Docket No. 19-99. Based on the statements in its Resolution, NARUC either
+disregarded the facts in preparing the draft or based the same on a continued misunderstanding of
+NumberBarn’s operations. In either case, NumberBarn is compelled to correct the record with NARUC
+and the FCC.
+NumberBarn offers a search engine (“marketplace”) that allows end users to choose their telephone
+number from over 70,000,000 options. However, numbers are obtained and allocated only at the time
+
+PAGE 2
+of a bona fide end-user order. For example, there are over 10,000,000 toll-free numbers that are
+currently in SPARE status with Somos, available to any Resp Org for search and reservation. The
+suggestion that NumberBarn is “warehousing” these numbers simply by offering them for selection
+through its search engine represents a failure to understand NumberBarn’s position in the market.
+NumberBarn does not broker the sale of toll-free numbers, nor does it operate auctions of telephone
+numbers, other than certain specific numbers carved out by the FCC in its 2019 833 auction.
+The Resolution touches several times on "telephone numbers as property" and suggests that there are
+some existing prohibitions on their purchase, sale, or license. However, the Telecommunications Act of
+1996 grants end users the perpetual right to control their numbers and to transfer those numbers
+between carriers. Though it does not explicitly codify the telephone number as an asset that can be
+bought and sold, it at a minimum prescribes a perpetual, transferrable, license.
+While the FCC imposes limits on "warehousing" and "hoarding" of toll-free numbers under 47 CFR §
+52.105, it does not do so for geographic numbers. The FCC acknowledges “numbers as property” via
+countless regulations in and around consumer rights and advocacy. The FCC conducted its own auction
+of certain numbers in the 833 area code in 2019 (see https://auction.somos.com/). What is an auction
+of, if not of property?
+While industry guidelines do appear to prohibit sales of CO codes and Thousands Blocks, they do not
+generally suggest that end users, whether that be consumers, businesses, or wholesale customers of
+service providers, should be prohibited from selling or licensing their own telephone numbers. Telephone
+numbers are a natural part of consumer and business identity, and are bought, sold, and licensed,
+thousands of times each day, many in publicly recorded asset purchase agreements. As a practical matter,
+the prohibition against the transfer of a phone number as part of an asset purchase agreement would be
+untenable, and extremely costly to an estimated one million small businesses that are bought and sold
+annually.
+NumberBarn shares the concerns of many NARUC members regarding numbering exhaust. However, it
+does not believe that “warehousing” by end users, to the extent that it even occurs, or “brokering” are
+barriers to numbering efficiency. In fact, NumberBarn’s search engine (“marketplace”) brings telephone
+numbers to market that would otherwise be dormant and unavailable to end users.
+NumberBarn respectfully suggests that NARUC attention and resources would be better spent on simple
+and tangible efforts that could bring 2-3 billion additional telephone numbers into circulation, without the
+need for the expense and societal cost of converting NANP to a 12-digit numbering system. Such efforts
+could include:
+• Exploring lifting numbering restrictions on NXXs. Permitting “0” and “1” as leading digits would
+make over 1 billion new numbering combinations available;
+• Considering the reclassification of easily recognizable area codes (ERCs) and N9X area codes for
+geographic assignment, which would increase the available geographic numbering space by
+over 1 billion telephone numbers;
+• Auditing and eliminating the use of the Retained status (“RT”) on Thousand blocks. This
+industry-sanctioned practice is currently being used by service providers to hoard over 300
+million telephone numbers; and
+
+PAGE 3
+• Exploring opportunities to improve efficiency through rate center consolidation. NANP is
+fragmented into over 20,000 geographic rate centers, even in an age where geography
+(especially within an NPA) is not relevant to consumers. Today’s numbering assignment rules
+generally require a service provider that is entering a market to obtain dozens of Thousand
+blocks within that market, in order to “service” each of the rate centers. NumberBarn estimates
+that rate center consolidation within NPAs or within LATAs could conservatively “free up” 600
+million numbers, currently pooled at service providers, to become available for assignment.
+NumberBarn’s CEO and CTO are planning to attend NARUC’s conference in Anaheim and have reached
+out to NARUC’s general counsel to help facilitate a productive discussion of these issues. The Company
+is eager to better understand how NARUC members view the relationship between NumberBarn’s search
+engine (“marketplace”) and their existing concerns regarding numbering exhaust.
+As a leader in the market, NumberBarn would be happy to discuss ways that it can help advance causes
+that encourage numbering efficiency and to work together with NARUC members to become an ally rather
+than a perceived threat.
+In the event the Executive Committee believes it would be useful, NumberBarn would be happy to arrange
+a demo for the Executive Committee and/or any of NARUC’s members that might help all parties
+understand the Company’s model and assuage some of their concerns.
+Sincerely,
+Allison D. Rule
+Outside Counsel for NumberBarn

@@ -1,0 +1,151 @@
+Before the
+Federal Communications Commission
+Washington, D.C. 20554
+Application of Consolidated Communications WC Docket No. 22-___
+Enterprise Services, Inc. d/b/a Consolidated
+Communications For Certification As An
+Interconnected VOIP Provider for Direct
+Access to Numbering Resources Pursuant To
+Section 52.15(g)(3) of the Commission’s Rules,
+47 CFR §52.15(g)(3)
+Application of Consolidated Communications Enterprise Services, Inc.
+Pursuant to Section 52.15(g)(3) of the Commission’s rules, 47 CFR §52.15(g)(3),
+Consolidated Communications Enterprise Services, Inc. (“CCES”) d/b/a Consolidated
+Communications files this application for certification as a provider of interconnected VoIP
+services for the purpose of gaining direct access to telephone numbering resources from the
+North American Numbering Plan Administrator. CCES provides the following information in
+support of this Application, as required under the Commission’s rules, and respectfully requests
+that this Application be placed on Public Notice as complete and sufficient for filing.
+I. Contact Information
+1. Applicant Name and Business Address:
+Consolidated Communications Enterprise Services, Inc.
+d/b/a Consolidated Communications
+2116 S. 17th St
+Mattoon, IL 61938
+The applicant, CCES, is a wholly-owned subsidiary of Consolidated Communications,
+Inc. (“CCI”). Michael Shultz, whose declaration supports the application, is Vice President of
+Regulatory for both CCES and CCI, and his responsibilities include regulatory compliance for
+the applicant, CCES.1
+1 See Certification of Michael Shultz (attached hereto), ¶ 1.
+
+Application of Consolidated Communications Enterprise Services, Inc.
+WC Docket No. 22-___
+December 19, 2022
+2. Personnel Responsible for Compliance with Regulatory Requirements and
+Commission Rules:
+Kevin Kastor
+Senior Director – Government Affairs
+CONSOLIDATED COMMUNICATIONS
+350 S. Loop 336 W
+Conroe, Texas 77304
+Kevin.Kastor@consolidated.com
+Phone: 936-788-7420
+With a copy to:
+Barbara Galardo
+Director – Government Affairs
+CONSOLIDATED COMMUNICATIONS
+5 Davis Farm Rd.
+Portland, ME 04103
+Barbara.Galardo@consolidated.com
+Phone: 207-535-4126
+3. Personnel Responsible for E-911 Compliance:
+Jon Eon
+CONSOLIDATED COMMUNICATIONS
+5 Davis Farm Rd.
+Portland, ME 04103
+Jon.Eon@consolidated.com
+Phone: 207-770-9848
+4. Personnel Responsible for Compliance with Law Enforcement:
+Garrett Van Osdell
+350 South Loop 336 West
+Conroe, TX 77304
+Phone: 936-521-0027
+II. Acknowledgements
+CCES hereby acknowledges that:
+a. Authorization granted under this application is subject to compliance with
+applicable Commission numbering rules, numbering authority delegated to the states, and
+industry practices and guidelines regarding numbering as applicable to telecommunications
+carriers; and
+2
+
+Application of Consolidated Communications Enterprise Services, Inc.
+WC Docket No. 22-___
+December 19, 2022
+b. CCES must file requests for numbers with the relevant state Commissions at least
+thirty (30) days prior to requesting numbering from the numbering administrators.2
+III. Interconnected VoIP Service Readiness
+CCES seeks direct access to telephone numbering resources for the provision of
+interconnected Voice Over Internet Protocol (“i-VOIP”) in the contiguous 45 states, excluding
+Maine, Vermont, and New Hampshire. CCES previously acquired direct access for numbering
+resources in Maine, New Hampshire and Vermont on November 24, 2018.3
+CCES is capable of providing service within sixty days of the numbering resource
+activation date in accordance with Section 52.15(g)(2) of the Commission’s rules4 and has
+provided i-VoIP service in many states since 2015 through a cloud based i-VOIP service known as
+ProConnect Unified Communications to enterprise customers.5 These services currently are offered
+out-of-footprint using a numbering partner. If this petition is granted, CCES will continue
+offering the services it offers today without the need for a numbering partner.6
+CCES will continue to provide i-VoIP service the same way it does today under an
+agreement to use facilities owned by its local exchange carrier (“LEC”) affiliates. In areas where
+CCES does not have an LEC affiliate whose facilities it can use to provision i-VoIP service, it
+has entered into an interconnection or Local Transit agreement. CCES has such a confidential
+agreement today, for example, with Inteliquent covering geographic areas where the LEC is not a
+CCES affiliate.
+2 Id. at ¶ 2.
+3 Public Notice, WC Docket No. 18-204, “Notice of Interconnected VoIP Numbering
+Authorization Granted,” DA 18-1191, 33 FCC Rcd 11265 (Wir. Comp. Bur. 2018). Effective
+January 1, 2019, the applicant, Enhanced Communications of Northern New England, Inc.,
+merged into CCES.
+4 47 CFR §52.15(g)(2).
+5 See Certification of Michael Shultz at ¶ 3.
+6 See Certification of Michael Shultz at ¶ 4.
+3
+
+Application of Consolidated Communications Enterprise Services, Inc.
+WC Docket No. 22-___
+December 19, 2022
+IV. Certifications
+a. CCES hereby certifies that it complies with its Federal Universal Service Fund
+(“USF”) contribution obligations under 47 C.F.R. Part 54. Subpart H; its Telecommunications
+Relay Services Fund (“TRSF”) contribution obligations under 47 C.F.R. § 64.604(c)(5)(iii); its
+NANP and LNP administration and contribution obligations under 47 C.F.R. §§ 52.17 and 52.32;
+its obligations to pay regulatory fees under 47 C.F.R. §1.1154; and its 911 obligations under 47
+C.F.R. Part 9.
+b. CCES certifies that it possesses the financial, managerial and technical expertise
+to provide reliable i-VOIP service. CCI is a publicly-traded company, and is required to make
+financial filings with the Securities and Exchange Commission (“SEC”). All SEC filings
+including audit financial statements can be found at Consolidated Communications Holdings,
+Inc. - Financials & Filings - SEC Filings. CCI’s management team, who also are the
+management team for CCES, includes Chief Technology Officer Thomas White, Executive Vice
+President of Operations Gabe Waggoner, and Executive Vice President & Chief Financial
+Officer Fred Graffam, III. None of the aforementioned managers has been investigated by the
+Commission or any law enforcement or regulatory agency for failure to comply with any law,
+rule or order.7 A full listing of CCI’s management team with biographies can be found at
+Consolidated Communications Holdings, Inc. - Governance - Executive Management.
+c. CCES certifies that no party to this application is subject to a denial of Federal
+benefits pursuant to section 5301 of the Anti-Drug Abuse Act of 1988, 21 U.S.C. §862.8
+7 See Certification of Michael Shultz at ¶ 7.
+8 See Certification of Michael Shultz at ¶ 8.
+4
+
+Application of Consolidated Communications Enterprise Services, Inc.
+WC Docket No. 22-___
+December 19, 2022
+V. Conclusion
+For the foregoing reasons, CCES respectfully requests that the Commission certify it as
+an interconnected VoIP provider, and authorize it to obtain numbering resources directly from
+NANPA, pursuant to Section 52.15(g)(3) of the Commission’s rules, 47 C.F.R. §52.15(g)(3).
+Respectfully submitted,
+Richard R. Cameron
+RICHARD R. CAMERON PLLC
+2550 M Street, N.W., Suite 300
+Washington, D.C. 20037
+(202) 230-4962
+Richard@CameronLawPolicy.com
+Counsel for Consolidated Communications
+5
+
+Application of Consolidated Communications Enterprise Services, Inc.
+WC Docket No. 22-___
+December 19, 2022
+Attachment: Certification of Michael Shultz, December 14, 2022
+6

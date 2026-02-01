@@ -1,0 +1,79 @@
+September 21, 2023
+Via Electronic Filing
+Marlene H. Dortch, Secretary
+Federal Communications Commission
+45 L Street NE
+Washington, DC 20554
+Richard R. Cameron
+Partner
+Re: Interconnected VOIP Numbering Authorization
+Direct Dial: +1 (202) 857-4527
+Application filed by Consolidated Communications E-mail: Richard.Cameron@wbd-us.com
+Enterprise Services, Inc., Pursuant to Section 52.15(g)(3) of
+the Commission’s Rules, WC Docket No. 23-6
+Dear Ms, Dortch:
+On December 19, 2022, Consolidated Communications Enterprise Services, Inc.
+(“CCES”), filed an application in the above-referenced docket seeking direct access to
+numbering resources for provision of interconnected VOIP services (the “Application”). On July
+7, 2023, CCES filed a supplement to that application (the “Supplement”) providing additional
+detail concerning the “facilities readiness” requirements of Sections 52.15(g)(2) and
+52.15(g)(3)((i)(D) of the Commission’s rules.1 At the request of the staff of the Wireline
+Competition Bureau (the “Bureau”), through counsel, CCES now further supplements its
+Application to clarify two additional matters.
+First, CCES confirms that the certifications and other factual representations it provided
+in the Application, as well as the further information it provided concerning facilities readiness
+in the Supplement, apply to all states nationwide for which CCES seeks direct access to
+numbering resources in this proceeding, including without limitation Maine, New Hampshire,
+and Vermont. Those states were the explicit subject of a previous grant of authority for direct
+access to numbering resources for Enhanced Communications of Northern New England, Inc.,
+which merged into CCES, effective as of January 1, 2019.2
+Second, CCES calls the Bureau’s attention to the International Bureau’s 2021 grant of a
+Petition for Declaratory Ruling seeking authority for foreign investment in CCES’s controlling
+US parent, Consolidated Communications, Inc. (“CCI”), to exceed the 25 percent benchmark for
+foreign investment contained in Section 310(b)(4) of the Communications Act of 1934, as
+amended. This Declaratory Ruling permitted an investment in CCI’s parent, Consolidated
+Communications Holdings, Inc. (“Consolidated”) through a group of funds affiliated with
+1 47 C.F.R. §§ 52.15(g)(2), 52.15(g)(3)(i)(D).
+2 See Application at 3; Public Notice, WC Docket No. 18-204, “Notice of Interconnected VoIP
+Numbering Authorization Granted,” DA 18-1191, 33 FCC Rcd 11265 (Wir. Comp. Bur. 2018).
+Womble Bond Dickinson (US) LLP is a member of Womble Bond Dickinson (International) Limited, which consists of independent and autonomous law firms
+providing services in the US, the UK, and elsewhere around the world. Each Womble Bond Dickinson entity is a separate legal entity and is not responsible for the
+acts or omissions of, nor can bind or obligate, another Womble Bond Dickinson entity. Womble Bond Dickinson (International) Limited does not practice law. Please
+see www.womblebonddickinson.com/us/legal-notice for further details.
+
+September 21, 2023
+Page 2
+Searchlight Capital Partners, L.P. (“Searchlight”).3 The International Bureau authorized up to
+100 percent aggregate foreign ownership of CCI, as the controlling U.S. parent of Commission
+licensees, subject to the terms and conditions set forth in section 1.5004 of the Commission’s
+rules, 47 C.F.R. § 1.5004.4 In addition, it granted advance approval for each of the identified
+foreign entities to increase its indirect equity and/or voting interests in CCI up to a non-
+controlling 49.99 percent.5
+CCI’s parent, Consolidated Communications Holdings, Inc., recently retabulated its
+ownership data for its most recent Proxy Statement, which is incorporated herein by reference.6
+Those recent data confirm that there have been no substantial changes in the Searchlight-affiliated
+ownership percentages previously disclosed in connection with the Petition for Declaratory
+Ruling7 and approved by the Commission. CCI’s foreign ownership today remains within the
+limits of the authority previously granted by the Commission, with no substantive changes.
+Very truly yours,
+Womble Bond Dickinson (US) LLP
+Richard R. Cameron
+Counsel for Consolidated Communications
+Enterprise Services, Inc.
+3 47 U.S.C. § 310(b)(4); Public Notice, IB Docket No. IB 21-172, Grant of Consolidated Communications
+Holdings, Inc. and Searchlight III CLV, L.P. Petition for Declaratory Ruling, DA 21-1468, 36 FCC Rcd
+16416 (Int. Bur. 2021).
+4 Public Notice at 7.
+5 Id.
+6 Consolidated Communications Holdings, Inc., Proxy Statement Pursuant to Section 14(a) of the Securities
+Exchange Act of 1934 (Mar. 21, 2023), at 12, available at: https://d18rn0p25nwr6d.cloudfront.net/CIK-
+0001304421/8e90954f-dc29-4cc1-ab39-04a3639474eb.pdf.
+7 See Supplement of Consolidated Communications Holdings, Inc. and Searchlight III CVL, L.P., IBFS File No.
+ISP-PDR-20210105-00001 (filed Nov. 17, 2021) (disclosing the parties updated expectation that, following
+completion of the second stage of the Transaction, Searchlight III CVL, L.P. (“Searchlight Aggregator”) would
+hold approximately 34.55% of Consolidated’s common voting stock and approximately 49.21% of
+Consolidated’s equity, including voting common shares and non-voting preferred shares); See also Supplement of
+Consolidated Communications Holdings, Inc. and Searchlight III CVL, L.P., IBFS File No. ISP-PDR-20210105-
+00001 (filed Dec. 27, 2021); Application for Transfer of Control of CCES, ULS File No. 0009825803 (granted
+Dec. 15, 2021) (transfer of indirect de jure ownership of CCES to Searchlight Aggregator through the transfer of
+more than 50 percent of the aggregate equity (but not 50 percent of the voting stock) of Consolidated).

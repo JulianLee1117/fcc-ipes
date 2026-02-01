@@ -1,0 +1,982 @@
+•
+Neutral Tandem requests disconnection of the subject
+facility or an alternative term that Verizon offers under Its
+Interstate special access tariff for the subject facility or
+service.
+1.7.2.2.1 In the case of Dark Fiber Transport (there being
+no analogous service under Verizon's access
+tariffs), the monthly recurring charges that
+Verizon may charge, and that Neutral Tandem
+shalf be obligated to pay, for each circuit shall be
+shall be the charges for the commercial service
+that Verizon, in its sole discretion, determines to
+be analogous to the subject Dark Fiber
+Transport and, unless otherwise agreed in
+writing by the Parties, Verizon may, without
+further notice, disconnect the subject dark fiber
+facility within thirty (30) days of the date on
+which the dispute is resolved in Verizon's favor.
+In any case where Neutral Tandem, within thirty
+(30) days of the date on which the dispute is
+resolved in Verlzon's favor, submits a· valid ASR
+for a "lit" service to replace the subject Dark ~
+Fiber Transport faclllty, Verizon shall continue to
+provide the Dark Fiber Transport facility at the
+rates specified above, but only for the duration
+• of the standard Interval for installation of the •fit"
+service .
+1. 7. 2.3 Notwithstanding any other provision of the Agreement,
+Verizon may reject a Neutral Tandem order for a TRRO
+Certification Element without first seeking dispute
+resolution: (a) in any case where Neutral Tandem's order
+conflicts with a provision of a Verizon Tariff, (b) in any case
+where Neutral Tandem's order conflicts with a non-impaired
+UNE Wire Center designation set forth in a Wire Center List
+that Verizon has made available to Neutral Tandem by
+notice and/or by publication on Verlzon's wholesale website,
+(c) In any case where Neutral Tandem's order conflicts with
+a non-impaired UNE Wire Center designation that the
+Commission or the FCC has ordered or approved or that
+has otherwise been confirmed through previous dispute
+resolution (regardless of whether Neutral Tandem was a
+party to such dispute resolution), or (d) as otherwise
+permitted under the Federal Unbundling Rules (including,
+but not limited to, upon a determination by the Commission,
+the FCC, or a court of competent jurisdiction that Verizon
+may reject orders for TRRO Certification Elements without
+first seeking dispute resolution).
+1.8 Limitation With Resoect to Replacement ArranC!§ments. Notwithstanding any
+other provision of this Agreement, any negotiations regarding any UNE
+replacement arrangement, facility, service or the like that Verizon Is not required
+to provide under the Federal Unbundling Rules (inGludlng without limitation any
+arrangement, facility, service or the like that Verizon offers under an access tariff)
+•
+shall be deemed not to have been conducted pursuant to the Agreement, 47 ··
+U.S.C. § 252(aX1}, or 47 C.F.R. Part 51, and shall not be subject to arbitration or
+NT PAe Compv~.1 09262007f,doc 87
+L--- - ------------··- -· -· --- -----·-
+
+•
+other requirements under to 47 U.S.C. § 252(b ). Any·r eference in this
+Attachment to Verizon's provision ofa arrangement, facility, service or the like
+that Verizon Is not required to·p rovide ander1he Federal Unbundling Rules Is
+solely for the convenience of the Parties and shaH not be construed to require or
+permit (a) arbitration pursa~nno 47 U.S.C. § 252(b) of the rates, terms, or
+conditions upon Whlch Verilon may pro\lide such arrangement. facility, service or
+the like, or (b) application of 47 U.S.C. § 252 In any other respect.
+2. VerlZon's Provision of Network Elements
+_ Subject to the condltlons setforth in Section 1 of1hls Attachment, in accordance with, but
+only to the extent required by, the Federal Unbundling Rules, Verizon shaR provlde
+Neutral Tandem access to the following: -
+2.1 Loops, as set forth In Section 3 of this Attachment;
+2.2 Une Splitting {also referred to as •Loop Sharing•), as set forth In Section 4 of this
+Attachment;
+· 2.3 · [Intentionally Left Blank];
+2.4 Sub-Loops, as set forth In Section 6 of this Attachment;
+Z.5 Sub-Loop for Multiunlt Tenant Premises Access, as set forth in Section 7 of thfs
+Attachment;
+2.6 -Dark Fiber Transport (sometimes referred to as ~oar1c Aber IOP), as set forth In •
+Section 8 of this Attachment;
+2.7 Network Interface Device, as set forth In Section 9 of this Attachment:
+2.8 (Intentionally Left Blank];
+2.9 Dedicated Transport (may also be referred to as •interoffice Transmission
+Facilities•) (or •toP), as set forth in Section 11 of.this Attachment
+2.1 Q (Intentionally Left Blank]:
+2.11 Operations Support Systems, as set forth In Section 13 of this Attachment: and
+2.12 Other UNEs In accordance with Section 14 of thfS Attachment.
+3. toop TraMmlulOn Typo
+3.1 Subject to the conditions set forth in Section 1 of this Attachment, Verizon shall
+allow Neutral Tandem to access Loops unbundled from local switching and local
+transport. In accordance with this 5ectlorf3 and the rates and charges provided
+In the Pricing Attachment Verizon shall allow Neutral Tandem access to Loops
+in accordance -Mth, but only to extent required by, the Federal Unbundling Rules.
+Subject to the foregoing and the provisions regarding FTTP Loops, In Sectlon 3.5
+below, and Hybrid Loops, In Section 3.6 below, the available Loop types are as
+set forth below:
+3.1.1 "2 Wire AnalQ9 Voice Grade Loop• -or "Analog 2W' provides an
+effective 2-wlre Qhannel with 2..wlre Interfaces at each end that Is
+saltable for the transport of analog Voice Grade (nominal 300 to 3000
+Hz) signals and loop-start-signaling. This Loop type IS more fully .
+described in Verizon Technical Reference (TR)-72565, as revised from
+NT .P.Ae compvs.~ 002a2001r.doc 88
+
+•
+time-t£>-time. If "Customer-Specified Signaling" is requested, the Loop
+will operate with one of the following signaling types that may be
+specified when the Loop is ordered: loop-start, ground-start. loop
+reverse-battery, and no signaling. Customer specified signaling is
+more fully described in Verizon TR-72570, as revised from time-to
+time. Verizon will not build new facilities or modify existing facilities
+except to the extent required in Section 17 of this Attachment
+3.1.2 "4-Wire Analog Voice Grade Loop· or "Analog 4W" provides an
+effective 4-wire channel with 4-wlre interfaces at each end that is
+suitable for the transport of analog Voice Grade (nominal 300 to 3000
+Hz) signals. This Loop type will operate with one of the following
+signaling types that may be specified when the Loop is ordered: loop
+start, ground-start. loop-reverse-battery, duplex, and no signaling. This
+Loop type Is more fully described in Verizon TR-72570, as revised from
+time-to-time. Verizon will not build new facilities or modify existing
+facilities except to the extent required In Section 17 of this Attachment
+3. 1.3 "2-Wire ISDN Digital Grade Loop" or "BRI ISDN" provides a channel
+with 2-wlre ·interfaces at each end that Is suitable for the transport of
+160 kbps digital services using the ISDN 2B1Q line code. This Loop
+type Is more fully described in American National Standards lnstitut~
+(ANSI) T1.601-1998 and Verizon TR 72575, as revised from time-to
+time. In some cases loop extension equipment may be necessary to
+·bring the line loss within acceptable levels. Verizon will provide loop
+eictension equipment only upon request A separate charge will apply
+•
+for loop extension equipment The 2-Wire ISDN Digital Grade Loop is
+available only fn the fonner Bell Atlantic Service Areas. In the former
+GTE Service Areas only, Neutral Tandem may order a 2-Wire Digital
+Compatible Loop using 2-wire ISDN ordering codes to provide similar
+capablllty. Verizon wi11 not build new facilities or modify existing
+facilities except to the extent required In Section 17 of this Attachment.
+3.1.4 "2-Wire ADSL-Compatible. Loop" or "ADSL 2W' provides a channel
+with 2-wlre interfaces at each end that is suitable for the transport of
+digital signals up to 8 Mbps toward the Customer and up to 1 Mbps
+.from the Customer. This Loop type is more fully described in Verizon
+TR-72575, as revised from time-to-time. ADSL-Compatlble Loops will
+be available only where existing copper facilities are available and
+meet applicable specifications. Verizon will not build new facilities or
+modify existing facilities except to the extent required In Sections 3.2 or
+17 of this Attachment The upstream and downstream ADSL power
+spectral density masks and de line power limits in Verizon TR 72575,
+as revised from time-to-time, must be met The 2-Wlre ADSL
+Compatible Loop Is available only in the fonner Bell Atlantic Service
+Areas. In the former GTE Service Areas only, Neutral Tandem may
+order a 2-Wire Digital Compatible Loop using 2-wire ADSL ordering
+codes to provide similar capability.
+3.1.5 "2-Wire HDSL-Compatlble Loop" or "HDSL 2W' consists of a single 2-
+wire non-loaded, twisted copper pair that meets the carrier serving
+area design criteria. This Loop type ls more fully described in Verizon
+TR-72575, as revised from time-to-time. The HDSL power spectral .
+density mask and de line power limits referenced In Verizon TR 72575,
+• as revised from time-to-time, must be met 2-Wire HDSL-Compatible
+Loops will be provided only where existing facilities are available and
+NT PAe Compv3.1 09282007f.doc 89
+
+•
+can meet applicable specifications. The 2-Wlre HDSL-compatlble
+Loop Is available only In the former Sell Atlantic Service areas. In the .
+former GTE Service Areas only,,Neutral Tandem may order a 2-Wire
+Digital Compatible Loop using 2-Wire HDSL ordering codes to provide
+similar capability. Verizon will not build new facilities or modify existing
+facilities except to the extent required In Sections 3.2 or 17 of this
+Attachment.
+3. 1-.6 "4-Wlre HDSL-Compatlble Loop" or •HDSL 4W" consists of two 2-wlre
+non-loaded, twisted copper pairs that meet the carrier serving area
+design criteria. This Loop type is more fully described in Verizon TR-
+72575, as revised·from time-to-time. The HDSL power spectral density
+mask and de ·lfne power limits referenced In Verizon TR 72575, as
+reVised from time-to-time, must be met. 4-Wire HDSL..compatlble
+Loops will be provided only wnere existing facilities are avaUable and
+can meet applicable specifications. Verizon will not build new facilities
+or modify existing facilities except to the extent required In Sections 3.2
+or 17 of this Attachment
+3.1. 7 "2-Wlre IDSL-Compatible Metallic Loop" consists of a single 2-wire
+non-loaded, twisted copper pair that meets revised resistance design
+aiteria. This Loop is Intended to be used with very-low band
+symmetric -OSL systems that meet the Class 1 signal power limits and
+other crftena in the T1 E1 .4 loop spectrum-management standard
+(T1 E1 .412000-002R3} and are not compatible with 281 Q 160 kbps
+ISDN transport systems. The actual data rate achieved depends upon
+the performance of CLEO-provided modems with the electrical •
+charactertsHcs associated with the loop. Thi$ Loop type Is more fully
+described In T1 E1.412000-002R3, 8$ revised from time-to-time. This
+loop cannot be provided via UOLC. The 2-Wire IOSL-Compatlble
+Metallic Loop Is available only In the former Bell Atlantic Service Areas.
+In the former GlE Service Areas only, Neutral Tandem may order a 2-
+Wire Digital Compatible Loop using ISDN ordering codes to provide
+similar capablllty. Verizon will llQt build new facilities or modify existing
+faclilties except to the extent required In Sections 3.2 or 17 of thls
+Attachment.
+3.1.8 ·2-Wire SDSL-Compatible Loop•, Is Intended to be used with low band
+symmetric DSL systems that m,eet the Class 2 signal power limits and
+o~r crlterfa In the T1-E~ .4 loop s~m· management standard
+. (T1 E1.412000-002R3). This Loop consists of~ single 2-wfre non
+loaded, twisted copper pair that meets Class 2 length llrnlt In
+T1 E1 .4/2ooo.-002R3. The data rate achieved depends on the
+performance of th8 CLEC-provided modems with the electrical
+characteristics assbclated with the loop ..T his Loop type Is more fully
+desCFibed In T1 E1.4/2000-002R3, as revl$8d from time-to-time. The 2·
+Wire SDSL-Compatible Loop ls available only ln the former Bell ·
+Atlantic Service Areas. In the former GTE Service Areas only, Neutral
+Tandem may order a 2-Wrre Digital Compatible Loop to provide similar
+capablllty. SDSL-compatible local loops will be provided only where
+facilities are avallable and can meet applicable speclflcattOf'.l~· Verizon
+wm
+not build new facilities or modify existing facilities except to the
+extent required In Sections 3.2 or 17 of this Attachment.
+3.1.9 "4-Wlre 56 kbps Loop" Is a 4-wire Loop that provides a.transmission. •
+path tha~ is suitable for the transport of dlgftal data at a synchronous
+NJ P~e·Compv3J 00282007f.doc 90
+--·-------··------ ------- ----------------------------
+
+•
+rate of 56 kbps in opposite directions on such Loop simultaneously. A
+4-Wlre 56 kbps Loop consists of two pairs of non-loaded copper wires
+with no intermediate electronics or it consists of universal digifal loop
+carrier with 56 kbps DDS dataport transport capability. Verizon shall
+provide 4-Wire 56 kbps Loops to Neutral Tandem in accordance with,
+and subject to, the technical specifications set forth In Verizon TR-
+72575, as revised from time-to-time. Verizon will not build new
+facilities or modify existing facilities except to the extent required in
+Section 17 of this Attachment
+3.1.10 "DS1 Loops" provide a digital transmission channel suitable for the
+transport of 1.544 Mbps digital signals. This Loop type is more fully
+described In Verizon TR 72575, as revised from time to time. The DS1
+Loop Includes the electronics neoessary to provide the 081
+transmission rate. If, at the requested installation date, the electronics
+necessary to provide the OS1 transmission rate are not available for
+the requested 081 Loop, then Verizon will not install new electronics
+except to the extent required In Section 17 of this Attachment Verizon
+will not build new facilities and will not modify existing faet1lties except
+to the extent required in Section 17 of this Attachment. If the
+electronics necessary to provide Clear Channel (88ZS) signaling are at
+the requested installation date available for a requested OS1 Loop,..
+upon request by Neutral Tandem, the DS1 Loop will be furnished with
+Clear Channel (BBZS} signaling. Verizon will not install new
+electronics to furnish Clear Channel (BBZS) signaling. For purposes of
+provisions Implementing any right Verizon may have to cease
+•
+providing unbundled access to OS1-capacity Loops under the TRRO
+pursuant to Section 1· of this Attachment, the term "OS1 Loop" further
+includes any type of Loop described In Section 3.1 of the Network
+Elements Attachment that provides a digital transmlssion channel
+suitable for the transport of 1.544 Mbps digital sigAals, regardless of
+whether the subject Loop meets the specific definition of a 0$1 Loop
+set forth Jn this section.
+3.1.11 "OS3 Loops" will support the transmission of isochronous bipolar serial
+data at a rate of 44.7 36 Mbps (the equivalent of 28 DS1 channels).
+This Loop type is more fully described in Verizon TR 72575, as revised
+from time to time. The DS3 Loop includes the electronics necessary td
+provide the DS3 transmission rate. If, at the requested installatlon
+date, the electronics necessary to provide the DS3 transmission rate
+are not available for the requested DS3 Loop, then Verizon will not.
+install new electronics except to the extent required in Section 17 of
+this Attachment Verizon will not build new facllltles and will not modify
+existing facilities except to the extent required In Section 17 of this
+Attachment For purposes of provisions implementing any right
+Verizon may have to cease providing unbundled access to 083-
+capaclty loops under the TRRO pursuant to Section 1 of this
+Attachment. the term "DS3 Loop" further includes any type of Loop
+described in Section 3.1 of the Network Elements Attachment that
+provides a digital transmission channel sult~ble for the transport of
+44.736 Mbps digital signals, regardless of whether the subject Loop
+meets the specific definition of a DS3 Loop set forth in this section.
+3.1.12 In the former Bell Atlantic Service Areas only, "Digital Designed Loops"
+• are comprised of designed loops that meet specific Neutral Tandem
+requirements for metallip loops over 18k ft. or for conditioning of ADSL,
+NT PAe Compv3.1 09282007f.doc 91
+
+•
+HOSL, SDSL, IDSL, or BRI ISDN Loops. •Digital Designed Loops"
+may rnolude requests for. -
+3.1.12. t -a 2W Digital Designed Metalllc loop With a total loop length
+of 18k to 30k ft, unloaded, witttthe option to remove
+bridged tap;
+3.1.12.2 -a 2W A:DSL Loop of 12k to 18k ft. with an option to remove
+bridged tap (such a Loop with the bridged tap so removed
+shall be deemed to be a •2w ADSL Compatible Loop");
+3.1.12.3 a 2W ADSL Loop of less than f2k fl with an option to
+.remove bridged tap (such a LOOp with the bridged tap so
+removed shall be deemed to be a •2w ADSL Compatible
+Loop•); -
+3.1.12.4 a 2W HDSL Loop of le5s than 12k ft. wJth an option to
+remove bridged tap:
+3.1.12.5 a 4W HDSL Loop of less than 12k ft with an option to
+remove bridged tap;
+3.1.12.6- _a 2 W Digital Designed Metallic loop with Verizon-placed
+· ISDN loop extension electronics; •
+3. f .12.7 a 2W SDSL Loop with an option to remove bridged tap; and
+•
+3.1.12.8 a 2W IDSL Loop of less than 1Sk ft with an option to
+remove bridged tap:
+3.1.1-3 Verizon shall make Digital Designed Loops available Neutral Tandem
+at the rates as set forth In the Pricing Attachment.
+3.1.14 In the former GTE Service Areas only, "Conditioned Loops• are
+comprised of designed loops that meet specific Neutral Tandem
+requirements for metallic loops over 12k ft or for conditioning of 2-wlre
+or 4-wlre digltal or 13RI ISDN Loops. MQondltloned Loops" may include
+requests for:
+3.1.14.1 a 2W Digital Loop with a total loop length of 12k to 30k ft.,
+unloaded, with the option to ~emove bridged tap (such a
+Loop, unloaded, with bridged tap so removed shall be
+~med to be a ·2w DiQl.tal Compatible Loop•);
+3.1.14.2 a 2W Digltal Loop of 12k to 18k ft. with an option to remove
+load COiis and/or bridged tap (such a Loop with load coils
+and/or bridged tap so remo'1ed shall be deemed to be a
+~2W Digital Compatible Loop~):
+3.1.14.3 a 2W Digital or 4W Digital Loop of less than 12k ft. with an
+option to remove bridged tap (such a 2W Loop with bridged
+-tap so removed shall be deemed to be a "2W Digital
+Compatible L.oop11
+);
+3.1-.14.4 a 2W Digital Loop with Verfzon-placed ISDN loop extension
+electronics (such a Loop with ISDN loop extension
+•
+electronics so placed shall be deemed to be a "2W Digital
+Compatible Loop").
+NT PAe Compv3.1 092820Q7f.doe
+
+•
+3.1.15 Verizon shall make Conditioned Loops available to Neutral Tandem at
+the rates as set forth in the Pricing Attachment.
+3.2 The following ordering procedures shall apply to xDSL Compatible Loops, Digital
+Designed and Conditioned Loops:
+3.2.1 Neutral Tandem shall place orders for xDSL Compatible Loops, Digital
+Designed and Conditioned Loops by delivering to Verizon a valid
+electronic transmittal Service Order or other mutually agreed upon type
+of Service Order. Such Service Order shall be provided In accordance
+with industry format and specifications or such format and
+specifications as may be agreed to by the Parties.
+3.2.2 In former Bell Atlantic Service Areas, Verizon is conducting a
+mechanized survey of existing Loop facilities, on a Central Office by
+Central Office basis, to identify those Loops that meet the applicable
+technical characteristics established by Verizon for compatibility with
+xDSL Compatible or BRI ISDN signals. The results of this survey will
+be. stored in a mechanized database and made available to Neutral
+Tandem as the process is completed in each Central Office. Neutral
+Tandem must utilize this mechanized loop qualification database, ·
+where available, in advance of submitting a valid electronic transmittal
+Service Ot'der for an xDSL Compatible or BRl ISON Loop. Charges for
+mechanized loop qualification Information are set forth in the Pricing
+Attachment· In former GTE Service Areas, Verizon provides access to
+mechanized xDSL loop quallflcatlon Information to help identify those
+•• loops that meet applicable technical characteristics for compatibility
+with xDSL Services that the CLEC may wish to offer to Its end user
+Customers. Neutral Tandem must access Verizon's mechanized loop
+qualification system through the use of the on-line computer interface
+at www.verizon.com/wise in advance of submitting a valid electronic
+transmittal Service Order for xDSL service arrangements. The loop
+qualification information provided by Verizon gives Neutral Tandem the
+ability to determine loop composition and loop length, and may provide
+other loop characteristics, when present, that may indicate
+Incompatibility with xDSL Services such as load coils or Digital Loop
+Carrier. Information provided by the mechanized loop quafification
+system also indicates whether loop conditioning may be necessary. It
+is the responsibility of Neutral Tandem to evaluate the loop
+qualification infOrmation provided by Verizon and determine whether a
+loop meets Neutral Tandem requirements for xDSL Service, including
+determining whether conditioning should be ordered, prior to
+submitting an Order. ·
+3.2.3 If the Loop is not listed in the mechanized database described in
+Section 3.2.2 of this Attachment, Neutral Tandem must request a
+manual loop qualification, where such qualification is available, prior to
+submitting a valid electronic Service Order for an xDSL Compatible or
+BRI ISDN Loop. In general, Verizon will complete a manual loop
+qualification request within three (3) Business Days, although Verizon
+may require additional time due .to poor record conditions, spikes In
+demand, or other unforeseen events. The manual loop qualification
+process is currently available in the former Bell Atlantic Service Areas
+only.
+.·
+•
+3.2.4 It a query to the mechanized loop qualification database or manual
+loop quaiiflcatlon indicates that a Loop does not qualify (e.g., because
+t
+NT PAe Compv3.1 09282007f.doc 93
+L---- - - - - -·-· .. - - ·· --··--- . ···- ...
+
+•
+It does not meet the applicable technical parameters set forth In the
+Loop descriptions above), Neutral Tandem may request an
+Engineering Query,, where availJtble, as described In Section 3.2. 7 of
+"'-· this Attachment, to determine whether the result Is due to
+characteristics of the loop Itself (e.g., specific number-and location of
+bridged taps, -the specific number of load cons, or the gauge of the
+cable). . .
+3.2.5 Once a Loop has been pr&qualified, Neutral Tandem will submit a
+Service Order pursuant to Section 3.2.1 of this Attachment If it wlshes
+to obtain the Loop.
+3.2.5.1 If the Loop is determined to ~ xDSL Compatlbkt and If the
+Loop serving the $erving address ls usable and available to
+be assigned as a xDSL Compatible Loop, Verizon will
+initiate -standard Loop provisioning and Installation
+processes, and standard Loop provisioning Intervals will
+apply.
+3.2.5.2 If the Loop is determined to be xOSL Compatible, but the
+Loop serving the-service address is unusable or unavailable
+to be assigned as an xOSL Compatible Loop, Verizon will
+search the Customer's serving terminal for a SijJfable spare
+facility, If an xDSL Compatible Loop is found within the
+serving terminal, Verizon will perform a Line and Station
+Transfer (or "pair swap") whereby the Verizon technician will
+· transfer the Customer's existing service from one existing •
+loop facility onto an alternate existing xDSL Compatible
+Loop facility serving the same location. Verizon performs
+Line and Station Transfers In accordance with lhe
+procedures developed in the OSL Collaborative Jn the State
+of New York. NY PSC Case OO-C-0127. Standard Intervals
+do not apply when Verizon performs a Une and Station
+Transfer, and addltlonal charges shall apply as set forth in
+the Pricing Attachment
+3.2.6 If Neutral Tandem submits a Service Order for an xDSL Compatible or
+BRI ISON Loop that has not ~n prequaUfled, Verizon will query the
+Service Order back to Neutral Tandem for qualification and will not
+accept such Service Order until the Loop has been prequallfled on a
+mechanized or manual basis. If Neutral Tandem submits a Service
+Order for an xPSL Compatibre or BRI ISON t.,oop that Is, In fact. not
+compatible with the requested service (e.g. ADSL, HDSL etc.) In Its
+exi~ng condition, Verizon will respond back to Neu~I Tandem with a
+"Notiqualiffect" Indicator and With Information showing whether the non-
+quaUfled result Is due to the presence of load colls, presence of digital
+loop carrier, or loop length (Including bridged tap).
+3.2.7 Where Neutral Tandem has followed the prequallficatlon procedure
+descnbed above and has determined that a loop is not compatible
+with xDSL technologies or BRI ISDN service In Its existing condition, it
+may either request an Engineering Query, where available, to
+determine whether conditioning may make the Loop compatible with
+the applicable service; or if Neutral Tandem Is already aware of the
+condltlonlnl;I required (e.g., where Neutral Tandem has previously
+•
+requested a qualification and has obtained loop characteristics), •
+Neutral Tandem may submit a Service Order for a Digital Designed
+NT PAe compv3.1 <Hl2&2007f.doc
+--·
+-----------~---------------------
+
+•
+Loop. Verizon will undertake to condition or extend the Loop in
+accordance with this Section 3.2 of this Attachment upon receipt of
+Neutral Tandem's valid, accurate and pre-qualffied Service Order for a
+Digital Designed Loop.
+3.2.B The Parties will make reasonable efforts to coordinate their respective
+roles in orderto minimize provisioning problems. In general, where
+conditioning or loop extensions are requested by Neutral Tandem, an
+interval of eighteen (18) Business Days will be required by Verizon to
+complete the loop analysis and the necessary construction work
+Involved in conditioning and/or extending the loop as follows:
+3.2.8.1 Three (3) Business Days will be required following receiP,t of
+Neutral Tandem's valld, accurate and pre-qualified Service
+Order for a Digital Designed or Conditioned Loop to analyze
+the loop and related plant records and to create an
+Engineering Work Order.
+3.2.B.2 Upon completion of an Engineering Work Order, Verizon
+will Initiate the construction order to perform the
+changes/modifications to the Loop requested by Neutral
+Tandem. Conditioning activities are, In most cases, able to
+be accomplished within fifteen {15) Business Days.
+Unforeseen conditions may add to this Interval.
+After the engineering and conditioning tasks have been completed, the
+• standard loop provisioning and installation process wilf be initiated,
+subject to Verlzon's standard provisioning intervals •
+3.2.9 If Neutral Tandem requires a change in scheduling, it must contact
+Verizon to issue a supplement to the original Service Order. If Neutral
+Tandem cancels the request for conditioning after a loop analysis has
+been completed but prior to the commencement of construction work,
+Neutral Tandem shall compensate Verizon for an Engineering Work
+Order charge as set forth in the Pricing Attachment. If Neutral Tandem
+cancels the request for conditioning after the loop analysis has been
+completed and after construction work has started or is complete,
+Neutral Tandem shall compensate Verizon for an Engineering Work
+Order charge as well as the charges associated with the conditioning
+tasks performetl as set forth in the Pricing Attachment.
+3.3 Conversion of Live Telephone Exchange Service to Analog 2W Loops.
+3.3.1 The following coordination procedures shall apply to "live" cutovers of
+Verizon Customers who are converting their Telephone Exchange
+Services to Neutral Tandem Telephone Exchange Services
+provisioned over Analog 2W unbundled Local Loops ("Analog 2W
+Loops} to be provided by Verizon to Neutral Tandem:
+3.3.1.1 Coordinated cutover charges shall apply to c;onversions of
+live Telephone Exchange Services to Analog 2W Loops.
+When an outside dispatch Is required to perform a
+conversion, additional charges may apply. If Neutral
+Tandem does not request a coordinated cutover, Verizon
+will process Neutral Tandem's order as a new installation
+•
+subject to.a pplicable standard provisioning intervals. ·
+NT PAa Compv3.1 09282007(.doc 95
+
+•
+3.3.1.2 Neutral Tandem shall request Analog 2W Loops for
+coordinated cutover from Verlzoh by delivering to Verizon a
+valid electronic Local.Service Request-(''LSR•). Verizon
+agrees to .accept from Neutral Tandem the date and time for
+the conversion designated on the LSR (•Scheduled
+Conversion Time"), provided that such designation fs within
+the regularly scheduled operating hours of the Verizon
+Regional CLEC Control Center (•RCCC") and subject to the
+availability of Verlzon's work force. In the event that
+Verizon's work force is not available, Neutral Tandem and ·
+Verizon shall mutually agree on a New Convention Time, as
+defined below. Neutral Tandem shall designate the
+Scheduled Conversion Time subject to Verizon standard
+provisioning Intervals as stated In the Verizon CLEC
+Handbook, as may be revised from time to time. Within
+three (3) Business -Days of Verlzon's receipt of such valid
+LSR, or as otherwise required by-the Federal Unbundllng
+Rules, Verizon shall provide Neutral Tandem the scheduled
+due-date for conversion of the Analog ~W Loops covered by
+such LSR.
+3.3.1.3 Neutral Tandem shall provide dlal tone at the Neutral
+Tandem collocation site at least forty-eight (48) hours prior
+to the Scheduled Conversion Time.
+3.3.1.4 Either Party may conta~t the other Party to negotiate a new
+Scheduled Con'ler$lon Time (the ~New Conversion Tlme")j •
+provided, however, ·that each Party shall use commercially
+reasonable efforts to provide four.(4) business hours'
+advance notice to the other Party of Its req~t for a New
+. Conversion Time. Any_ Scheduled Convel'Slon Time or New
+Conversion Time may not be rescheduled more than one
+(1} time In a Business Day, and any two New Conversion
+Times for a particular Analog 2W Loop shall differ by at
+least eight (8) hours, unless otherwise agreed to by the
+Parties.
+3.3.1.5 lf1he New Conversion Time is more than one (1) business
+-hour from the original SCheduled Conversion Time or from
+the previous New Conversl<?n Time, the Party requesting
+such New Conversion Time shall be subject to the following:
+3.3.1.5.1. lf Verizon requests to reschedule outside of the
+one (1) hour time frame above, the Analog 2W
+Loops S!irvlce Order Charge for the original
+Scheduled Conversion Time or the previous
+New Conversion Time shall be credited upon
+request from Neutral Tandem; and
+3.3.1.5.2 If Neutral Tandem requests t~ reschedule
+outside the one (1) hour time frame above,
+Neutral Tandem shall be charged an additional
+Analog 2W Loops Service Order Charge for
+rescheduling the conversion to the New
+Conversion Time.
+•
+NT PAe-Compv3. f 09282007f.doc 96
+---·····-------------------------- - ------- - - - - -----------------------
+
+•
+3.3.1.6 If Neutral Tandem is not ready to accept service at the
+Scheduled Conversion Time or at a New Conversion Time,
+as applicable, an additional Service Order Charge shall
+apply. If Verizon is not av~ilable or ready to perform the
+conversion within thirty (30) minutes of the Scheduled
+Conversion Time or New Conversion Time, as applicable,
+Verizon and Neutral Tandem will reschedule and, upon
+request from Neutral Tandem, Verizon will credit the Analog
+2W Loop Service Order Charge for the original Scheduled
+Conversion Time.
+3.3.1. 7 The standard time interval expected from disconnection of a
+live Telephone Exchange Service to the connection of the
+Analog 2W Loops to Neutral Tandem ls fifteen (15) minutes
+per Analog 2W Loop for all orders consisting of twenty {20)
+Analog 2W Loops or less. Orders Involving more than
+twenty (20) Loops will require a negotiated Interval.
+3.3.1.8 Conversions involving LNP will be completed according to
+North American Numbering Council (NANC) standards, via
+the regional Number Portability Administration Center
+{NPAC).
+3.3.1.9 If Neutral Tandem requires Analog 2W Loop conversions
+outside of the regularly scheduled Verizon RCCC operating
+hours, such conversions shall be separately negotiated.
+• Additional charges (e.g. overtime labor charges) may apply
+for desired dates and times outside of regular1y scheduled
+RCCC operating hours.
+3.4 [Intentionally Left Blank].
+3.5 FTTP Loops.
+3.5.1 New Builds. Notwithstanding any other provision of the Agreement or
+any Verizon Tariff, Neutral Tandem shall not be entitled to obtain
+access to a FTTP Loop, or any segment thereof, on an unbundled
+basis when Verizon deploys such a Loop to the Customer premises of
+an end user that has not been served by any Verizon Loop other than
+a FTTPLoop.
+3.5.2 Overbuilds. Notwithstanding any other provision of the Agreement or
+any Verizon Tariff, If (a) Verizon deploys an F1TP Loop to replace a
+copper Loop previously used to serve a particular end user's customer
+premises, and (b) Verizon retires that copper Loop and there are no
+other available copper Loops or Hybrid Loops for Neutral Tandem's
+provision of a voice grade service to that end user's customer
+premises, then in accordance with, but only to the extent required by,
+the Federal Unbundling Rules, Verizon shall provide Neutral Tandem
+with nondiscriminatory access on an unbundled basis to a transmission
+path capable of providing DSO voice grade service to that end user's
+customer premises.
+3.6 Hybrid Loops.
+•
+3.6.1 Packet Switched Features. Functions. and Capabilities.
+Notwithstanding any other provision of this Agreement or any Verizon
+NT PAe Compv3.1 09282007f.doc 97
+L____ _____ ______ - --. - .
+
+•
+Tariff or SGAT, Neutral Tandem shall not be entitled to obtain access
+to the Packet SWitchecl features, functions, or capablllties of any Hybrid
+Loop on an unbundled basis. . -
+3.6.2 Broadband Services. Subject to the conditions set forth In Section 1 of
+this AttaChrrient, when Neutral Tandem seeks access to a Hybrid Loop
+for ·the_p rovision of "broadband services,~ as such term is defined by
+the FCC, then in accordance with, but only to the extent required by,
+the Federal Unbundling Rules. Verizon shall provide Neutral Tandem
+with unbundled access to the existing time division multiplexing
+features, functions, and capabilities oft hat Hybrid Loop, Including 0$1
+or 053 capacity (but only where Impairment has been found to exist,
+which, for the avoidance of any doubt, does not Include Instances
+where Verizon is not required to provide unbundled access to a OS1
+loop or a 0$3 Loop under Section 1 of this Attachment) to establish a
+complete time division multiplexing transmission path between the
+main distribution. frame (or equivalent) In a Verizon End Office serving
+an end user to the demarcation point at the end user's Customer
+premises. This access Includes access to au features, functions, and
+capablllties of the Hybrid Loop that are not used to transmit packetlzed
+informatlon.
+3.6.3 Narrowband Services. Subject to the conditions set forth In Sectioll' 1
+of this Attachment, when Neutral Tandem seeks access to a Hybrid
+Loop for the provision to Its Customer of "narrowband services, .. as
+such term Is definecfby the FCC, then in accordance with, but only to
+the extent required by, the Federal Unbundling Rules, Verizon shall, In •
+Its sole discretion, either (a) provide access to a spare home-run
+copper Loop serving that Customer on an unbundled basis, or (b)
+provide access, on an unbundled basis, to a DSO voice-grade
+transmission path between the main distribution frame (or equivalent)
+In the ~nd user's serving End Office and the end user's Customer
+premises, aslng time division multiplexing technology.
+3.6.4 IDLC Hybrid Loops and Loops Provisioned via Loop Concentrator.
+Subject to the conditions set forth in Section 1 of this Attachment, If
+Neutral Tandem requests, In order to provide narrowband services,
+unbundling of a 2 wire analog or 4 wire analoq Loop currently
+provisioned via Integrated Digital Loop Carrier {over a Hybrid Loop) or
+via Remote Switching technology deployed as a Loop concentrator
+Veri:z:on. shall, In accordance with but only to the extent required by the
+Federal Unbundlirig Rules, provide Neutral Tandem unbundled access
+to a LoOp capable of voice-grade service to the end user Customer
+served by the Hybrid LOop.
+3,6.4.1 Verizon will endeavor to provide Neutral Tandem with an
+existing copper Loop or a Loop served by existing Universal
+Digital Loop Carrier (MUOLC"). Standard recurring and non
+recurring Loop charges will ~pply. In addition, a non-
+-recurring charge wlll apply whenever a line and station
+transfer Is performed.
+3.6.4.2 If neither a copper Loop .nor a Loop served by UDLC is -.
+_a vailable, Verjzon shall, upon request of Neutral Tandem,
+provide unbundled access to a DSO voice-grade
+transmission path between the main distribution frame (or
+equivalent) In the end user's serving End Office and the end
+NTP>,e Compv3.1 09282007(,doc
+····-··-··-·-----------__;_~---------------------
+
+•
+user's Customer premises via such technically feasible
+alternative that Verizon in its sole discretion may elect to
+employ. In addition ·to the rates and charges payable In
+connection with any unbundled Loop so provisioned by
+Verizon, Neutral Tandem shall be responsible for any of the
+following charges that apply in the event the technically
+feasible option involves construction, installation, or
+modification offaclllties: (a) an engineering query charge
+for preparation of a price quote; (b) upon Neutral Tandem's
+submission of a firm construction order, an engineering
+work order nonrecurring charge; and (c} construction
+charges, as set forth In the price quote. If the order is
+cancelled by Neutral Tandem after construction work has
+started, Neutral Tandem shall be responsible for
+cancellation charges and a pro-rated charge for
+construction work performed prfor to the cancellation.
+3.6.4.3 Verizon may exclude its performa~ in connection with
+providing unbundled loops pursuant to this Section 3.6.4
+from standard provisioning intervals and performance
+measures and remedies, if any, contained In the Agreement
+or elsewhere.
+4. Line Splitting {also referred to as "Loop Sharing")
+4.1 Une Splitting is a process in which one CLEC provides narrowband voice servjce
+•
+over the low frequency portion of an unbundled copper Loop obtained from
+Verizon (such CLEC may be referred to as the "VLEC") and a second CLEC
+provides digital subscriber line service over the high frequency portion of that
+same Loop (such CLEC may be referred to as the •oLEC"}. Line Splitting is
+accomplished through the use of a splitter collocated at the Verizon central office
+where the Loop te1TT1inates into a distribution frame or its equivalent.
+4.2 Subject to the conditions set forth in Section 1 of this Attachment, Neutral
+Tandem may engage in Line Splitting, in accordance with this Section 4 and the
+rates and charges provided for in the Pricing Attachment Verizon shall provlde
+access to Une Splitting In accordance with, but only to the extent required by, the
+Federal Unbundling Rules.
+4.3 Any Line Splitting between Nevtral Tandem and another CLEC shall be
+accomplished J>y prior negotiated arrangement between Neutral Tandem and the
+other CLEC. _Neutral Tandem shall give Verizon written notice of this
+arrangement through the Verizon Partner Solutions Local Service Customer
+Profile Form (formerly-referred to as the Verizon Wholesale Local Service
+Customer Profile Form) on the Verizon Partner Solutions website (formerly
+referred to as the Verizon wholesale website), or such other. electronic notice
+mechanism that Verizon may make available, at least thirty (30) days prior to
+placing an order for a Line Splitting arrangement with such other CLEC. The
+other CLEC must have an interconnection agreement with Verizon that permits it
+to engage in Une Splitting with Neutral Tandem. The VLEC shall be responsible
+for all rates and charges associated with the subject Loop as well as rates and
+charges associated with the DLEC's use of the high frequency portion of the
+Loop, Including, but not limited to, service order charges, provisioning and
+installation charges, central 9ffice wiring, loop qualification charges, and OSS
+• ~~- ~
+NT PAe COmpV3.1 09282007f.doc 99
+L__ _ _ ______ ___ _____ ____ _ - -·
+
+•
+4.4 In order to facilitate Neutral Tandem's engaging in Line Splitting pursuant to this
+Section 4, Neutral Tandem may order for use In a Line Splitting arrangement,
+those Network'Elements, Combinations, Collocation arrangements, services, ·
+facilities, equipment and arrangements, appropriate for Line Splitting, that are
+offered to Neutral Tandem by Verizon tµlder the other sect1or1s of this
+Agreement. Sll.ch Network Elements, Combinations, Collocation arr.angements,
+services, facllftles, equipment and arrangements, will be provided to Neutral
+Tandem in accordance with, and subject to, the rates and charges and other
+provisions.of this Agreement and Verlzon's appllcabre Tariffs, Verizon shall be
+obligated to pr-0vlde Network Elements, Comblnatlons, Collocation
+arrangements, services, facilities, equipment and arrangements, for Une Splitting
+only to the extent required by the Fede~! UnbUndling Rules.
+4.5 Neutral Tandem and/or the other participating ·cLEC shall provide any splitters
+and/or Digital Subscriber Une Access Multiplexers used In a Line Splitting
+arrangement.
+4.6 The standard provisioning Interval for the Line Splitting arrangement shall be as
+set out In the Verizon Product Interval Gulde; provided that the standard
+provisioning Interval for a Line Splitting arrangement shall not exceed the
+shortest of the following Intervals: (1) the standard provisioning Interval for a Une
+Splitting arrangement if stated In an applicable Verizon Tariff; or, (2) the standard
+provtslonlng Interval for a Une Splitting arrangement, If any, established In
+accordance with the Federal Unbundling Rules. The standard P.f'OVlsioning
+lnteNal for a Une Splitting arrangement shall commence only after any required
+engineering and conditioning tasks have been completed. The standard
+pcovisloning Interval shall not apply where a Une and Station Transfer is •
+performed.
+4. 7 Verizon shall not be liable for any claims~ damages, ,penalties, llablllties or the
+like of any kind for disruptions to either Neutral Tandem's or1he other CLEC's
+respective voice or data services over a Une Splitting arrangement.
+5. [This SectJon Intentionally Le~ Blank]
+6. Sub-Loop
+Subject to the conditions set-forth in Section 1 of this Attacllment and upon request by
+Neutral Tandem, Verizon shall allow Neutral Tandem to aeCess Sub-Loops unbundled
+from local switching and transport. In accordance. with the terms of this Section 6 and the
+rates and char;ges setforthJn itte Pricing Attachment Ve$on sh81r allow Neutral
+Tandem access to Sub-Loops In accordftnce with. but only tQ the extent required by, the
+Federal Unbundling Rules. The avaUable Sub-Loop types are as set forth below.
+6.1 Unbundled Sub-Loop Arrangement-Distribution (USLA).
+Subject to the conditions set forth fn Section 1 of this Atta~ment and upon
+request by Neutral Tandem, Verizon shall provide Neutral TaAdem with access to
+a Sub-Loop Ofstrlbution Facility in accordance With, and subject to, the terms and
+provisions of this Section 6.1, the rates set forth in the Pricing Attachment, and
+the rates, terms and conditions set forth in Verlzon's applicable Tariffs. Venzon
+shall provide Neutral Tandem with access to a SutH.oop ~lstributlon Facility In
+accordance with, but only to the extent required by, the Federal Unbundling
+Rules.
+•
+6.1.1 Neutral Tandem may request that Verizon reacPvate (If available} an
+1,mused drop-and NID or provide Neatral Tandem with access to a drop
+NTPAe Compv3.1 09282007f.doe 100
+-··--------- - - --..:....------ --------------
+
+•
+and NID that, at the time of Neutral Tandem's request, Verizon is using
+to provide service to the Customer (as such term is hereinafter
+defined).
+6.1.2 Upon site-specific request, Neutral Tandem may obtain access to the
+Sub-1,.oop Distribution Facility at a technically feasible access point
+located near a Verizon remote terminal equipment enclosure at the
+rates and charges provided for In the Pricing Attachment It is not
+technically feasible to access the Sub-Loop Distribution Facility if a
+technician must access the facility by removing a splice case to reach
+the wiring within the cable. Neutral Tandem may obtain access to a
+Sub-loop Distribution Facility .through any method required by the
+Federal Unbundling Rules, in addition to existing methods such as
+from a Telecommunications outside plant interconnection cabinet
+(TOPIC) or. if Neutral Tandem Is collocated at a remote terminal
+equipment enclosure and the FOi for such Sub-Loop Dlstrfbutlon
+Facility is located in such enclosure, from the collocation arrangement
+of Neutral Tandem at such terminal. If Neutral Tandem obtains access
+to a Sub-Loop Distribution Facility from a TOPIC, Neutral Tandem shall
+install a TOPIC on an easement or Right of Way obtained by Neutral
+Tandem wllhin 100 feet of the Verizon FOi fo which such Sub-Loop
+Distribution Facility is connected. A TOPIC must comply with
+applicable industry standards. Subject to the tenns of applicable
+Verizon easements, Verizon shall furnish and place an interconnecting
+cable between a Verizon FOi and a Neutral Tandem TOPIC and
+Verizon shall install a termination block within such TOPIC. Verizon
+•
+shall retain title to and maintain the interconnecting cable. Verizon
+shall not be responsible for building, maintaining or servicing the
+TOPIC and shall not provide any power that might be required by
+Neutral Tandem for any of Neutral Tandem's electronics In the TOPIC.
+Neutral Tandem shall provide any easement, Right of Way or trenching
+or supporting structure required for any portion of an interconnecting
+cable that runs beyond a Verizon easement
+6.1.3 Neutral Tandem may request from Verizon by submitting a loop make
+·up engineering query to Verizon, and Verizon shall provide to Neutral
+Tandem, the following information regarding a Sub-Loop Distribution
+Facility that serves an identified Customer: the Sub-Loop Distribution
+Facility's length and gauge; whether the Sub-Loop Distribution Facility
+has loadjng and bridg~i:J tap; the amount of bridged tap (if any) on the
+Sub-Loop Dlstrlbutlori ~aclllty; and, the lbcatlon of the FOi to which the
+Sui):Loop Distribution FaciHty Is connected.
+6.1.4 To order access to a Sub-Loop Distribution Facllity from a TOPIC,
+Neutral Tandem must first request that Verizon connect the Verizon
+FOi to which the Sub-Loop Distribution Facility is connected to a
+Neutral Tandem TOPIC. To make such a request, Neutral Tandem
+must submit to Verizon an application (a ·sub-Loop Distribution Facility
+Interconnection Appllcatlof'.l") that identifies the FOi at which Neutn;il
+Tandem wishes to access the Sub-Loop Distribution Facility. A Sub
+Loop Distribution Facility Interconnection Application shall state the
+location of the TOPIC, the size of the interconnecting cable and a
+descrip~on of the cable's supporting structure. A Sub-Loop
+Distribution Facility Interconnection Application shall also Include a
+• five-year forecast of Neut(al Tandem's ·demand for access to Sub-Loop
+· Distribution Facilities at the requested FOi. Neutral Tandem must
+NT PAe Compv3.1 09282007f.doc 101
+
+•
+submit the application fee set forth in the Pricing Attachment attached
+hereto lllnd Verizon's applicable Tariffs (a ~Sub-Loop Distribution
+Facility Application Fee") with Sub-Loop Distribution Facility
+lnterconneqion Application. Neutral Tandem must submit Sub-Loop.
+Interconnection Applications to: ·
+Collocatlon Applications
+.Verizon
+Room503
+185 Franklin Street
+Boston, MA 0211 O
+E-Mall: collocatlon.appllcatfons@Verizon.com
+6.1.5 Within sixty (60) days after It receives a complete Sub-Loop
+Distribution Faclllty Interconnection Application for acoess to a Sl.Jb..
+Loop Distribution Facility and the Sub-Loop Distribution Facility
+Application Fee for such application, Verizon shall provide to Neutral
+Tandem a work order that desaibes the work that Verizon must
+perform to provide such access (a •sub-Loop Distribution Facility Work
+Order") and a statement of the cost of such work (a "Sub-Loop
+Distribution Facility Interconnection Cost Statement").
+6.1.6 Neutral Tandem shall pay to Verizon fifty percent (50%) of the cost set
+forth In a Sub-Loop Distribution Facility Interconnection Cost Statement
+wlthln sixty (60) days of Neutral Tandem's receipt of such statement
+and the associated SUb-Loop Distr.tbution Faciffty Work Order, and •
+Verizon shall not be obligated to perform any of the work set forth In
+such order until Verizon has received such.payment. A Sub-Loop
+Distribution Facility Interconnection Application shall be deemed to
+have been withdrawn If Neutral Tandem breaches Its payment
+obligation under this Section. Upon Verizon 's completion of the work
+that Verizon must perform to provide Neutral Tandem wtth access to a
+Sub-Loop Distribution Facility, Verizon shall blll Neutral Tandem, and
+Neutral Tandem shall pay to Verizon, 1he balance of the cost set forth
+in the Sub-Loop Distribution Facility Interconnection Cost Statement for
+such access.
+6. 'f~7 After Verizon has completed the Installation of the Interconnecting
+cable to a Neutral Tandem TOPIC and Nevtral Tandem has paid the
+full east of such tns.tall&tlon, Neutrar Tandem can request the
+connection of Verizon Sub-Loop Distribution Factlities to the Neutral
+Tandem TOPIC. At the same time, Neutral Tandem shaft advise
+Verizon of the services that Neutral Tandem plans to provide over the
+Sub-Loop Distribution Facility, request any c6ndltlonlng of 1he Sub
+Loop Distribution Facility and assign the pairs In the Interconnecting
+cable. Neutral Tandem shall run any crosswlres within the TOPIC.
+6.1.8 If Neutral Tandem requests that Verizon reactivate an unused drop
+and NIO, then Neutral Tandem shall provide dial tone (or Its DSL
+equivalent) on the Neutral Tandem side of the applleable Verizon FOi
+at least twenty-four (24} hours before the due date. On the due date, a
+Verizon technician will run the appropriate cross connection to connect
+the Verizon Sub-Loop Olstribution Facility to the Neutral Tandem dial
+tone or equivalent from the TOPIC. If Neutral Tandem requests that •
+Verizon provide Neutral Tandem with access to a Sub-Loop ·
+NT P~ CQmpv3.1 09282001f.doe 102
+
+•
+Distribution Facility that, at the time of Neutral Tandem's request,
+Verizon is using to provide service to a Customer, then, after Neutral
+Tandem has looped two lntercennecting pairs through the TOPIC and
+at least twenty four (24) hours before the due date, a Verizon
+technician shall crosswire the dial tone from the Verizon central office
+through the Verizon side_ of the TOPIC and back out again to the
+Verizon FOi and Verizon Sub-Loop Distribution Facility using the "loop
+through• approach. On the due date, Neutral Tandem shall disconnect
+Verlzon's dial tone, crosswire Its dial tone to the Sub-Loop Distribution
+Facilfty and submit Neutral Tandem:s LNP request
+6.1.9 Verizon will not provide access to a Sub-Loop Distribution Facility If
+Verizon is using the loop of which the Sub-Loop Distribution Facility is
+a part to provide line sharing service to another CLEC or a service that
+uses derived channel technology to a Customer unless such other
+CLEC first terminates the Verizon-provided line sharing or such
+Customer first disconnects the service that utilizes derived channel
+technology.
+6.1.10 Verizon shall provide Neutral Tandem with access to a Sub-Loop
+Distribution Facility In accordance with negotiated intervals
+6.1.11 Verizon shall repair and maintain a Sub-Loop Distribution Facility al the
+request of Neutral Tandem and subject to the time and material rates
+set forth In Pricing Attachment and the rates, terms and conditions of
+Verizon's applicable Tariffs. Neutral Tandem accepts responsibility for
+•
+initial trouble isolation for Sub-Loop Distribution Facilities and providing
+Verizon with appropriate dispatch information based on Its test results .
+If (a) Neutral Tandem reports to Verizon a Customer trouble, (b)
+Neutral Ta!1dem requests a dispatch, (c) Verizon dispatches a
+technician, and (d) such trouble was not caused by Verizon Sub-Loop
+Distribution Facility facilities or equipment in whole or in part, Neutral
+Tandem shall pay Verizon the charges set forth in the Pricing
+Attachment and Verizon's applicable Tariffs for time associated with
+said dispatch. In addition, these charges also apply when the
+Customer contact as designated by Neutral Tandem is not available at
+the appointed time. If as the result of Neutral Tandem instructions,
+Verizon Is erroneously requested to dispatch to a site on Verizon
+company premises {"dispatch in"), the charges set forth in Pricing
+Attachment and Verizon's applicable Tariffs will be assessed per
+occurrence to Neutral Tandem by Verizon. If as the result of Neutral
+Tandem lriStructions, Verizon is erroneously requested to dispatch to a
+site outside of Verizon company premises ("dispatch out"), the charges
+set forth In Pricing Attachment and Verizon's applicable Tariffs will be
+assessed per occurrence to Neutral Tandem by Verizon.
+6.2 [Intentionally Left Blank].
+6.3 Collocation in Remote Terminals.
+To the extent required by Applicable Law, Verizon shall allow Neutral Tandem to
+collocate equipment in a Verizon remote terminal equipment enclosure in
+accordance with, and subject to, the rates, terms and conditions set forth in the
+Collocation Attachment and the Pricing Attachment
+•
+7. Sub-Loop for Multiunit T~~ant Premises Access
+l NT PAe Compv3.1 092B2007f.doc 103
+L ________ _
+
+•
+[Intentionally Left Blank]:
+8. Dark Fiber Tranaport and Tranaitional Provision of Embedd~ Dark Fiber Loops
+8.1 Subject to the CC)Jlditlons set forth In Section 1 of this Attachment and upon
+request by Neutral Tandem, Verizon shall provide Neutral Tandem with access to
+unbundled Dark Fiber Transport in accordance with, and subject to, the rates,
+tenns and conditions provided In the Pricing Attachment and rates, terms and
+conditions of Vertzon's applicable Tariffs. Verizon shall not be required to
+provide, and Neutral Tandem shall not request or obtain, unbundled access to
+any dark fiber·facillty that does not meet the definition of Dark Fiber Transport
+(except to the extent Verizon Is required to provide Neutral Tandem with
+unbundled access to Neutral Tandem's embedded base of Dark Fiber Loops
+8.a
+under Section below). -For the avoidance of any doubt, notwithstanding any
+other provis!Qn of this Agreement, a Verizon Tariff, or otherwise, Verizon shall not
+be required to provide, and Neutral Tandem shall not request or obtain, Dark
+Fiber Transport that does not connect a pair of Verizon UNE Wire Centers.
+~ccess to unbundled Dark Fiber Transport wftl be provided by Verizon only
+where existing facilities are available except as provided In Section 17 below.
+Access to Dark Fiber Transport will be provided In accordance with, but only to
+the extent required by, the Federal Unbundling Rules. Dark Fiber Transport
+consists of Venzon.o ptical transmisSion facilities Without attached multiplexers,
+aggregation or other electronics. To the extent Verizon's Dark Fiber Transpcsrt
+confalns any llghtwave repeaters (e.g., regenerators or optical amplifiers)
+installed thereon, Verizon shall not remove the .same. Except as otherwise
+required by the Federal Unbundling Rules, the following tenns and conditions
+•
+apply to Vertzon's Dark Fiber Tnmsport offerings._
+8.2 In addition to the other tenns and conditions oft his Agreement, the following
+terms and condltfons shall apply to Dark Fiber Transport:
+8.2.1 [Intentionally Left Blank].
+8.2.2 Neutral Tandem ·may access Dark Fiber-Transport only at a pre
+existing Verizon accessible -terminal of such.D ark Fiber Transport, and
+Neutral Tandem may not access Dark Fiber Transport at any other
+point, Including, but not limited to, a splice· point or case. Dark Fiber
+Transport is not available to Neutral Tandem unless such Dark
+Transport Is already tennlnated on an existing Verizon aocesslble
+ter:millSI. Unused fibers located In a cable vault or a controlled
+environment vault, manhole or other location outside the Verizon UNE
+Wlre.Cef:tter, and not termlnated to a fiber patch panel, are not
+available to Neutral Tandem.
+8.2.3 Except If and, to the extent required by, the Federal Unbundling Rules
+and Section 17 below, Verizon will not perform splicing (e.g., Introduce
+additional splice points or open existing splice points or cases) to
+accommodate Neutral Tandem's requ~st.
+8.2.4 Verizon shall perform au work necessary to Install a cross connect or a
+fiber jumper from a Verizon accessible terminal to a Neutral Tandem
+collocation arrangement -
+8.2.5 A •oark Fiber Inquiry Form• must be submitted prior to submitting an
+ASR. Upon receipt of Neutral Tandem>s completed Dark Fiber Inquiry
+•
+Form; Verizon will Initiate a revlew of Its cable recards to determine
+whether park Fiber Transport may bQ available between the locations
+~ PAe Cornpv3.1 09282.007f.doc 104

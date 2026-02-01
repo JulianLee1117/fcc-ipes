@@ -1,0 +1,305 @@
+Jeffrey J. Carlisle
+jcarlisle@lermansenter.com
+202-416-6768
+July 26, 2023
+VIA ECFS
+Marlene H. Dortch, Secretary
+Federal Communications Commission
+45 L Street, NE
+Washington, DC 20554
+Re: PAETEC iTEL, L.L.C.’s Restated Application for Interconnected VoIP
+Numbering Authorization
+WC Docket No. 20-416
+Dear Ms. Dortch:
+On behalf of PAETEC iTEL, L.L.C. (“Windstream IPES”), we provide this supplemental
+information relevant to the Restated Application for Interconnected VoIP Numbering
+Authorization (“Restated Application”) filed by Windstream IPES in the abovementioned
+docket.1 We provide this information at the request of Commission staff to update information
+regarding the Robocall Mitigation Database (“RMD”) and Windstream IPES’s indirect foreign
+ownership.
+RMD Filing
+Commission staff asked Windstream IPES to provide an update regarding the status of its
+filing in the RMD. As stated in the Restated Application, Windstream IPES’ ultimate parent
+company, Windstream Holdings II, LLC (“Holdings II”), holds its interest in Windstream IPES
+through a vertical chain of several wholly-owned subsidiary companies that are U.S. domestic
+entities, including Windstream Communications, LLC (“Windstream Communications”).2 On
+July 6, 2023, Windstream Communications updated its RMD filing for itself and all of its
+subsidiaries, including Windstream IPES, stating that Windstream IPES and its affiliates have
+1 Letter from Nicole Winters, Senior Counsel, Windstream IPES, to Marlene H. Dortch, Secretary, FCC, WC
+Docket No. 20-416 (filed July 28, 2022).
+2 Restated Application, 1-2.
+
+Windstream Holdings II, LLC
+July 26, 2023
+Page 2 of 3
+fully implemented the STIR/SHAKEN framework across their entire networks.3 A copy of the
+attachment submitted with the certification is attached hereto as Exhibit A, and specifically lists
+PAETEC iTEL, L.L.C., FRN 0015247810, as compliant.
+Ownership Information
+Commission staff asked Windstream IPES to update the ownership information provided
+in the Restated Application.4 The Restated Application noted that, when it was filed, Holdings II
+had filed a Petition for Declaratory Ruling (“Petition”) to permit foreign investors to own up to
+100% of equity and voting interests in Holdings II, and that the Petition was then under review
+by the Committee for the Assessment of Foreign Participation in the United States
+Telecommunications Services Sector (“Team Telecom”).5 On January 18, 2023, Holdings II
+entered into a Letter of Agreement (“LOA”) with certain Team Telecom agencies, concluding
+the national security review of Holdings II’s foreign ownership and its subsidiaries’ operations.6
+The International Bureau granted the Petition on June 2, 2023.7
+Today, the foreign ownership of Holdings II, and thus the indirect foreign ownership of
+Windstream IPES, remains the same as Holdings II disclosed to the Commission in the Petition,
+as amended and supplemented, and finally approved by the International Bureau.8 Holdings II
+has committed to the Commission that it will monitor its ownership, file annual certifications as
+to continuing compliance, and notifications within fifteen calendar days should it discover non-
+compliance.9
+Referral to Team Telecom Not Required
+To the extent Commission staff may consider a petition for access to numbering
+resources to be referable to Team Telecom, the instant application should be excluded from any
+such referral. The Commission stated that it would exclude international Section 214
+applications from referral to Team Telecom “where the applicant has an existing mitigation
+agreement, there are no new reportable foreign owners of the applicant since the effective date of
+3 See RMD Compliance Filing for Windstream Communications LLC, RMD0012713, FRN 0014409924 (filed July
+7, 2023).
+4 Restated Application, 1-2.
+5 Id.; see Public Notice, Applications Granted for the Transfer of Control of Windstream Holdings, Inc., Debtor-in-
+Possession, and Subsidiaries, 35 FCC Rcd 10076 (2020).
+6 See Petition to Adopt Conditions to Authorizations and Licenses, Windstream Holdings II, LLC, ISP-PDR-
+20201021-00010 (filed Feb. 3, 2022).
+7 Public Notice, Grant of Windstream Holdings II, LLC Petition for Declaratory Ruling, DA 23-475, IB Docket No.
+22-129, ICFS File Nos. ISP-PDR-20201021-00010, ISP-AMD-20230330-00005 (IB released June 2, 2023) at 17.
+8 See Restated Petition for Declaratory Ruling, IB Docket No. 22-129, ISP-PDR-2020-1021-00010 (filed Oct. 26,
+2021). Counsel submitted amendments to the ownership information on May 13, 2022 and March 31, 2023, and
+supplements to the ownership information on December 21, 2022, January 11, 2023, January 17, 2023, and March
+14, 2023.
+9 Letter from Jeffrey J. Carlisle and David S. Keir, Counsel to Holdings II, to Marlene H. Dortch, Secretary, FCC,
+IB Docket No. 22-129; ICFS File Nos. ISP-PDR-20201021-00010, ISP-AMD-20230330-00005 (filed Apr. 27,
+2023).
+
+Windstream Holdings II, LLC
+July 26, 2023
+Page 3 of 3
+the mitigation agreement, and the applicant agrees to continue to comply with the terms of that
+mitigation agreement . . . .”10
+Assuming these same criteria would apply to requests for direct access to numbering
+resources, then this request should be excluded: Windstream IPES is fully subject to the LOA
+with Team Telecom; there are no new reportable foreign owners since the effective date of the
+LOA; and Windstream IPES agrees to continue to comply with the terms of the LOA.
+Thank you for your consideration of this supplemental information. If you have any
+questions about this filing, please do not hesitate to reach us by email or telephone.
+Respectfully submitted,
+PAETEC iTEL, L.L.C.
+By: /s/ Jeffrey J. Carlisle
+Jeffrey J. Carlisle
+David S. Keir
+Shannon Sylvester
+Lerman Senter PLLC
+2001 L Street, NW, Suite 400
+Washington, D.C. 20036
+(202) 429-8970
+Its Attorneys
+cc: Jodie May, WCB
+Heather Hendrickson, WCB
+Michelle Sclater, WCB
+10 Process Reform for Executive Branch Review of Certain FCC Applications and Petitions Involving Foreign
+Ownership, Report and Order, 35 FCC 10927, 10938 (2020).
+
+EXHIBIT A
+WINDSTREAM ROBOCALL MITIGATION DATABASE
+FILING ATTACHMENT
+
+Windstream Holdings II, LLC
+FRN 0030023923
+Windstream Communications, LLC
+FRN 0014409924
+July 6, 2023
+Robocall Mitigation Database Certification Attachment
+This filing is made by Windstream Holdings II, LLC on behalf of itself and its operating
+subsidiaries identified in Attachment A (collectively “Windstream”) in compliance with the FCC’s
+Sixth Report and Order and Fifth Report and Order (Gateway Provider Order) in the Advanced
+Methods to Target and Eliminate Unlawful Robocalls, Call Authentication Trust Anchor dockets.
+1. Specific reasonable steps Windstream has taken to avoid carrying or processing illegal
+robocall traffic:
+Windstream has taken significant steps to avoid carrying or processing illegal traffic.
+Windstream serves as a gateway provider in only a small portion of its total network traffic. The
+vast majority of Windstream call traffic originates and terminates domestically.
+Using reasonable analytics, Windstream employs a rigorous process for manually blocking
+calls originating on its network that are suspected to be spam, robocalls, or otherwise fraudulent.
+Windstream continues to participate in the FCC-sponsored Industry Traceback Group and remains
+engaged at both the federal and state levels of robocall policymaking.
+For calls originated by its wholesale customers, Windstream blocks calls that can be identified
+as coming from known scam-related inbound-only numbers (e.g., Internal Revenue Service
+inbound, toll-free number). This currently is a manual process and is implemented as Windstream
+becomes aware of abusers. Each day at 2PM EST, a report of the highest offending Automatic
+1
+
+Number Identifications (“ANIs”) for the previous 36 hours is generated. Windstream then uploads
+those ANIs to its High Velocity, Short Duration (HVSD) database. Known legitimate numbers are
+scrubbed from the report (i.e. known disaster/emergency services call centers). Windstream then
+generates a Routing Block File and sends it to its internal Network Routing team for
+implementation. The team performs final checks-and-balances and uploads to Windstream’s
+routing platform.
+In addition, Windstream has partnered with a major national vendor to utilize its
+reputational database automated solution to identify calls as likely spam in the Caller ID service
+for calls where the called party is a Windstream end-user (business or consumer).
+Windstream also has several line-specific features which can assist customers with
+blocking unwanted calls. These include:
+Anonymous Call Rejection by which an incoming call will automatically be blocked if the
+caller has blocked the Caller ID – i.e., blocked the display of the originating number. This feature
+is automatically activated without charge on customer lines and may be deactivated by the
+customer using *87.
+Selective Call Acceptance which permits a customer to create a list of numbers that they
+will accept calls from. This feature is free of charge and is accessible directly from the customer’s
+phone by using the *64 feature.
+2
+
+Selective Call Rejection by which a customer can block calls from a specific number. This
+feature is free of charge and is accessible directly from the customer’s phone by using the *60
+feature.
+Consumers who need additional assistance, may call 800-341-1991 or access information
+on Windstream’s website at https://www.windstream.com/support/phone/Features-and-
+Information-of-Local-Phone. Enterprise customers who need additional assistance, may call 800-
+600-5050.
+Windstream has implemented STIR/SHAKEN technology solutions on the IP portions of
+its network and has met the FCC deadline for registration in the Robocall Mitigation Database.
+Windstream is also monitoring and participating in industry working groups to address gaps in
+existing STIR/SHAKEN standards.
+Additionally, Windstream has deployed the Reputational Database/Spam Identification
+Method (offered by a major provider of such services) which is the most current technology. The
+FCC’s recent authorized permissive call-blocking with customer opt-out option is not currently
+technically feasible and not available on a commercial basis. (Unintended blocking of large
+volumes of legitimate calls, i.e., false positives, which presents a significant hurdle.) Nevertheless,
+Windstream is actively monitoring and is an active industry participant in the development of call
+blocking options.
+Windstream is actively testing and monitoring development of non-IP technology solutions
+for illegal and unwanted robocalls for future deployment.
+2. 24 Hour Traceback Request Commitment
+Windstream commits to responding fully and within 24 hours to all traceback requests from
+the Commission, law enforcement, and the industry traceback consortium, and to cooperate with
+3
+
+such entities in investigating and stopping any illegal robocallers that use its service to carry or
+process calls.
+/s Paul St. Clair
+Paul St. Clair
+Director, Federal Government Affairs
+Paul.stclair@windstream.com
+(202) 997-8746
+4
+
+Attachment A
+Windstream Operating Companies
+FRN ENTITY NAME
+0028311876 American Telephone Company LLC
+0003775285 Broadview Networks, Inc.
+0003744935 Business Telecom, LLC
+0015799133 Cavalier Telephone Mid-Atlantic, LLC
+0003757275 Cavalier Telephone, LLC
+0004328464 Choice One Communications of Connecticut, Inc.
+0008190662 Choice One Communications of Maine, Inc.
+0004328480 Choice One Communications of Massachusetts, Inc.
+0004328506 Choice One Communications of New York, Inc.
+0004328530 Choice One Communications of Ohio, Inc.
+0004328555 Choice One Communications of Pennsylvania, Inc.
+0004328563 Choice One Communications of Rhode Island, Inc.
+0018746727 Choice One Communications Resale, L.L.C.
+0004328498 Choice One of New Hampshire, Inc.
+0005078829 Connecticut Broadband, LLC
+0008841959 Conversent Communications of Connecticut, LLC
+0008841900 Conversent Communications of Maine, LLC
+0008841876 Conversent Communications of Massachusetts, Inc.
+0008842007 Conversent Communications of New Hampshire, LLC
+0008841983 Conversent Communications of New Jersey, LLC
+0008841991 Conversent Communications of New York, LLC
+0008841975 Conversent Communications of Rhode Island, LLC
+0005013669 CTC Communications Corp.
+0005183025 DeltaCom, LLC
+0004967741 Georgia Windstream, LLC
+0013102439 Intellifiber Networks, LLC
+0004371043 LDMI Telecommunications, LLC
+0006194187 Lightship Telecom, LLC
+0028299816 Masscomm, LLC
+0003716073 McLeodUSA Telecommunications Services, LLC
+0004071262 Network Telephone, LLC
+0004966552 Oklahoma Windstream, LLC
+0016991374 PAETEC Communications of Virginia, LLC
+0011017795 PAETEC Communications, LLC
+0015247810 PAETEC iTel, LLC
+0015669492 Talk America of Virginia, LLC
+0004319430 Talk America, LLC
+0004967808 Texas Windstream, LLC
+0015620198 The Other Phone Company, LLC
+5
+
+FRN ENTITY NAME
+0003721396 US LEC Communications, LLC
+0003721396 US LEC of Alabama, LLC
+0004987814 US LEC of Florida, LLC
+0004987848 US LEC of Georgia, LLC
+0004987798 US LEC of Maryland, LLC
+0004987707 US LEC of North Carolina, LLC
+0004987715 US LEC of Pennsylvania, LLC
+0004987780 US LEC of South Carolina, LLC
+0004987723 US LEC of Tennessee, LLC
+0004987764 US LEC of Virginia, LLC
+0004328605 US Xchange of Illinois, L.L.C.
+0004328597 US Xchange of Indiana, L.L.C.
+0004328589 US Xchange of Michigan, L.L.C.
+0004328613 US Xchange of Wisconsin, L.L.C.
+0003783123 Valor Telecommunications of Texas, LLC dba Windstream Communications Southwest
+0001856145 Windstream Accucomm Telecommunications, LLC
+0004966594 Windstream Alabama, LLC
+0006580518 Windstream Arkansas, LLC
+0008343162 Windstream Buffalo Valley, Inc.
+0001687813 Windstream Communications Kerrville, LLC
+0004941142 Windstream Communications Telecom, LLC
+0014409924 Windstream Communications, LLC
+0003762010 Windstream Concord Telephone, LLC
+0005386172 Windstream Conestoga, Inc.
+0003735776 Windstream D&E Systems, Inc.
+0003271871 Windstream D&E, Inc.
+0004967337 Windstream East Texas, LLC f/k/a Windstream Sugar Land, LLC
+0003738465 Windstream EN-TEL, LLC
+0004329363 Windstream FiberNet, LLC f/k/a EarthLink Carrier, LLC
+0004967360 Windstream Florida, LLC
+0004967725 Windstream Georgia Communications, LLC
+0004967840 Windstream Georgia Telephone, LLC
+0004967030 Windstream Georgia, LLC
+0003911385 Windstream Iowa Communications, LLC
+0005089446 Windstream Iowa-Comm, LLC
+0013623335 Windstream IT-Comm, LLC
+0004565008 Windstream KDL, LLC
+0005095856 Windstream Kentucky East, LLC
+0004967816 Windstream Kentucky West, LLC
+0003738424 Windstream Lakedale Link, LLC
+0003738416 Windstream Lakedale, Inc.
+6
+
+FRN ENTITY NAME
+0001959758 Windstream Lexcom Communications, LLC
+0006814990 Windstream Long Distance, LLC
+0004967774 Windstream Mississippi, LLC
+0004965992 Windstream Missouri, LLC
+0003708575 Windstream Montezuma, LLC
+0004966099 Windstream Nebraska, Inc.
+0003720471 Windstream New Edge, LLC f/k/a EarthLink Business, LLC
+0004967055 Windstream New York, Inc.
+0007345754 Windstream Norlight, LLC
+0004967634 Windstream North Carolina, LLC
+0018879585 Windstream NorthStar, LLC
+0002704682 Windstream NTI, LLC
+0004944187 Windstream NuVox Arkansas, LLC
+0004944302 Windstream NuVox Illinois, LLC
+0004946091 Windstream NuVox Indiana, LLC
+0004944229 Windstream NuVox Kansas, LLC
+0004944245 Windstream NuVox Missouri, LLC
+0004945457 Windstream NuVox Ohio, LLC
+0004944260 Windstream NuVox Oklahoma, LLC
+0004319414 Windstream NuVox, LLC
+0004986147 Windstream of the Midwest, LLC
+0006236608 Windstream Ohio, LLC
+0004967790 Windstream Oklahoma, LLC
+0004967683 Windstream Pennsylvania, LLC
+0030023899 Windstream Services, LLC
+0004967014 Windstream South Carolina, LLC
+0004207239 Windstream Standard, LLC
+0004967691 Windstream Western Reserve, LLC
+7

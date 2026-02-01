@@ -1,0 +1,168 @@
+August 21, 2017
+Federal Communications Commission
+445 12th Street SW
+Washington, DC 20554
+RE: Application for Authorization to obtain VoIP Numbering Resources
+Applicant: Terra Nova Telecom, Inc.
+11523 Palm Brush Trl #401
+Lakewood Ranch, FL 34202
+Phone: 813 867-5000
+Regulatory Contact: Mike Ray
+mike@tntelecom.net
+Phone: 813 867-5000 x 207
+Applicant Terra Nova Telecom, Inc. hereby applies for status as an Interconnected VoIP Provider in order to obtain
+numbering resources from the Numbering Administrators.
+Applicant understands that such authorization, if granted, sha ll be subject to compliance with applicable Commission
+rules, state numbering authority and industry guidelines and practices as applicable to Telecommunications Carriers.
+Applicant understands that it must request numbering authority from each state at least thirty days prior to requesting
+numbers from the Numbering Administrators.
+Applicant hereby provides its Interconnection Agreement wi th Peerless Network Inc as proof that it is capable of
+providing service within 60 days of activation of numbering resources.
+Applicant certifies that it is in compliance with its Universal Service Fund, Telecommunications Relay Fund, North
+American Numbering Plan, and Local Number Portability contribution obligations as well as with regulatory fees and 911
+obligations in all respects.
+Applicant further certifies that it possesses the financial, man agerial and technical expertise to provide reliable service.
+Applicant is a CLEC in the State of Florida where it operates its own network today, with officers Travis Mikalson and
+Mike Ray who have both served in the telecom industry for more than a decade. Applicant is applying for this status in
+order to provide VoIP service in states other than Florida. None of applicant’s personnel are being or have been
+investigated by the FCC or any other agency for failure to co mply with any law, rule or order.
+Applicant further certifies that no party to the application is subject to denial of Federal benefits pursuant to section 5301
+of the Anti-Drug Abuse Act of 1988.
+11523 Palm Brush Trail, Suite 401 • Lakewood Ranch, FL 34202 • 813 867-5000
+
+Ü±½«Í·¹² Û²ª»´±°» ×Üæ éÞßëÞëéêóëêÝéóìÜßÚóÞÛéÚóèÝîìÝðßëïÝÛÞ
+Service Order - PSTN Control Service Interconnected VoIP
+This Service Order PSTN Control Service, dated August 21, 2017, is subject to and made a part of the Master
+Service Agreement Number TRNV150812-3001201 between Terra Nova Telecom, Inc.
+Peerless Network. This Service Order and the Master Service Agreement governs the sale and purchase of
+the Local Exchange Services described below. This Service Order Initial Term is one (1) year from the Service
+Commencement Date and renews for one (1) month periods unless either Party cancels the Service Order or
+MSA.
+1. Service Description. Peerless will provide PSTN Control Service to the Customer to originate and
+based upon incumbent LEC requirements, which may include using existing Peerless interconnection facilities
+or separate facilities dedicated to the Customer. As a condition of Peerless PSTN Control Service, Customer is
+required to enter into the Peerless Transit and Local Termination Service Orders as specified below. In the
+event Customer chooses to route additional types of traffic, Customer agrees to enter into the appropriate
+Service Orders as specified below.
+2. Customer Responsibilities. Customer acknowledges and agrees that, prior to Service
+commencement, it is an Interconnected VoIP Provider as defined by the Federal Communications
+certified and in good standing at the FCC and in each applicable state and responsible
+for all applicable regulatory requirements, including but not limited to:
+a) Fulfilling obligations of the incumbent LEC; and
+b) Obtaining or assigning a CLLI code per LATA as defined by Peerless; and
+c) Obtaining all necessary industry identifiers including but not limited to; OCN, ACNA, LNP Service
+Provider ID (SPID); and
+d) -
+Central Office Code Assignment Guidelines shall include:
+i. SW IDENT: Customer CLLI Code
+ii. ACTUAL SW ID: Peerless Network provided CLLI Code per market; and
+e) Block NPA-NXX and LRN to Peerless as soon as it is received by the Customer, but
+no later than seven (7) days after receipt; and
+f) Establishing an AOCN relationship with an AOCN provider for entering and maintaining all
+appropriate LERG designations; and
+g) Establishing and supporting all local number portability processes; and
+h) Implementing a solution for delivering/accepting all ancillary call types in accordance with all
+federal, state, and municipal laws, in addition to all Interconnection Agreemnt requirements.
+Ancillary call types include, but are not limited to, 911, E911, 311 Operator Services, Directory
+Assistance, 900, 500, 976 services; and
+i) Establishing at least one one-way outbound trunk group for local termination and transit services
+and two one-way inbound trunk groups between Customer and Peerless Network for the delivery of
+inbound local/intraLATA and interLATA traffic. Connections to Peerless Network will be made using
+Session Initiation Protocol (SIP) using either G.711 and/or G.729 codes unless mutually agreed upon
+to in writing by both parties; and
+j) Agreeing to enter into, and be bound by the terms and conditions of, the appropriate Service
+Order(s) (e.g., Voice Termination) in the event Customer chooses to route additional traffic; and
+k) Agreeing to be in compliance with all third party traffic termination arrangements, including primary
+toll carrier agreements, and optional and/or extended calling area plans; and
+l) Acknowledging that service is only available to Customer for use in providing telecommunications or
+telecommunications-related services to its customers within the Peerless network or its
+service areas, and that service may not be used for termination of "pass through" or transit access
+traffic if such use results in an arrangement that seeks to avoid the appropriate application of
+switched access charges; and
+
+Ü±½«Í·¹² Û²ª»´±°» ×Üæ éÞßëÞëéêóëêÝéóìÜßÚóÞÛéÚóèÝîìÝðßëïÝÛÞ
+m) Arranging and bearing all costs of connection to its customers; and
+n) Routing all outbound local and local toll (intraLATA) traffic to Peerless and entering into Peerless
+Transit and Local Termination Service Orders, with rates for each state where service is provided;
+and
+o) Billing and collecting any Customer End User fees; and
+p) Submitting all orders to orderentry@ peerlessnetwork.com; and
+q) Billing and collecting any applicable End Office switched access fees, including Intercarrier
+Compensation.
+3. Peerless Responsibilities(cid:1) In providing the PSTN Control Service, Peerless acknowledges and agrees
+that it (or a related subsidiary) will:
+a) Maintain appropriate interconnection facilities to the incumbent local exchange carrier tandem(s),
+and assist (as needed) in the ordering and provisioning of interconnection facilities with the
+incumbent LEC; and
+b) Coordinate any SS7 route sets as may be required for interconnection to the LEC; and
+c) Provide Customer with Peerless CLLI Codes mentioned above; and
+d)
+tandem both directly or indirectly from another carrier to the Customer.
+e) Accept and route any 1+ or 8YY originated traffic from the Customer.
+f) Route originating local and intraLATA traffic from the Customer to Peerless on-net customers
+vice, only with a valid Transit Service Order for this
+traffic as noted in Customer Responsibilities.
+g) Route originating local and intraLATA traffic from the Customer to off-net carriers (including the
+ILEC) via less Network Local Termination Service Order,
+only with a valid Peerless Local Termination Service Order for this traffic as noted in Customer
+Responsibilities.
+h) Voice
+Termination Service, only if the Customer enters into the Peerless Voice Termination Service Order
+for this traffic.
+i) Provide Customer with a list of all on-net and off-net carriers based on LATA and OCN in each
+market service where local transit and local termination is established.
+j) Provide EMI records.
+k) Use commercially reasonable efforts to provision orders within twenty (20) days of receipt from
+Customer. Orders received after 3:00pm CST will be considered as received the next business day.
+Orders that are expedited will be assessed a fee of $500.00 per order.
+(cid:1). Pricin(cid:1). The prices for PSTN Control Services are as follows:
+PSTN Control Port Monthly $7.00 per switch port
+Charges
+PSTN Control Switch Ports = Number of Inbound
+Minutes / 7,000,000 x 672
+Off-Net Local Transit* Pursuant to the Peerless Network Local
+Termination Service Order
+On-Net Local Transit* Pursuant to the Peerless Network Transit Service
+Order
+Outbound Long Distance* Pursuant to the Peerless Network Voice
+Termination Service Order
+* Customer must have valid Service Orders for this traffic.
+
+Ü±½«Í·¹² Û²ª»´±°» ×Üæ éÞßëÞëéêóëêÝéóìÜßÚóÞÛéÚóèÝîìÝðßëïÝÛÞ
+4.1 Rates are subject to change on seven (7) days written notice. Modification in rates may be in the
+form of new rates, charges and/or surcharges or through modification of existing rate elements which
+are used to determine rates and/or charges. Customer is liable for payment on any rate changes past
+the effective date as documented in a delivered rate modification notice. Unless explicitly stated, any
+pricing not covered in this Service Order is subject to the Applicable Tariffs covering such services. In
+addition, Peerless will not act as a billing intermediary or cl
+4.2 Peerless may charge applicable tandem switched access rates to a third party for originating and/or
+terminating traffic to the Customer. If Peerless is charged by a third party for services typically billed to the
+end office provider (Customer), Peerless will pass through such charges to Customer. Customer
+acknowledges and agrees that Peerless is not responsible for any charges levied by any third party in
+connection with such traffic , including intercarrier compensation.
+4.3 Customer will not charge Peerless any amounts in connection with any traffic exchanged under this
+Service Order including terminating and originating switched access fees for traffic utilizing a Peerless CIC
+Code.
+4.4
+numbers, would be rated as local or IntraLATA according to the state-mandated then current local serving
+area, including mandatory local calling scope arrangements, or intraMTA traffic terminating to a wireless
+carrier. A Mandatory Local Calling Scope arrangement is an arrangement that provides End-Users a local
+calling scope, i.e. Extended Area Service (EAS), beyond their basic exchange serving area. Local Traffic does
+not include optional local calling scopes, i.e. optional rate packages that permit the End-User to choose a
+local calling scope beyond their basic exchange serving area for an additional fee, referred to hereafter as
+Customer will route special services calls, including, but not limited to 311, 411, 611, 976,
+500, 700, 900, and 911 calls, via another local exchange carrier or service provider. The service includes only
+local calling or 1+ calling to the Interexchange Carrier chosen by the customer for Long Distance Services, or
+toll free calling.
+4.4 Should the Customer provide Peerless proper notice of cancellation of this Service Order, Customer
+will use best efforts to migrate the traffic off of the Peerless network within thirty (30) days, but in no way
+should Company take more than sixty (60) days to finalize such migration. Customer is responsible for
+network.
+IN WITNESS WHEROF, the Parties hereto have caused this Service Order PSTN Control to be executed as of
+the day and year first above written.
+Peerless Net(cid:1)or(cid:1), Inc.
+Customer: Terra Nova Telecom, Inc.
+By: By:
+Name: Name:
+Title: Title:
+Date: Date:

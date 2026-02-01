@@ -1,0 +1,1622 @@
+April 1, 2025
+Marlene H Dortch, Secretary
+Federal Communications Commission
+45 L Street NE
+Washington, DC 20554
+Re: Request for Confidential Treatment, Application of Cornfield Voice LLC for Authority to
+Obtain Numbering Resources Pursuant to Section 52.15(g) of the Commission’s Rules.
+Dear Ms. Dortch,
+Cornfield Voice LLC (“Cornfield”) encloses for filing its Application to Obtain Numbering
+Resources ("Application") and corresponding Confidential Exhibit A, an agreement between
+Cornfield and its carrier partner (Confidential Exhibit A or "Carrier Agreement"). The Application
+and its exhibits are sent to you for filing pursuant to Section 52.15(g)(3)(ii) of the Commission's
+Rules.
+Cornfield respectfully requests that, pursuant to Sections 0.457 and 0.459 of the Commission's
+rules, 47 C.F.R. §§ 0.457 and 0.459, the Commission withhold from public inspection and
+accord confidential treatment to the Carrier Agreement. The document contains trade secrets
+and commercial, technical and financial information that falls within Exemption 4 of the Freedom
+of Information Act ("FOIA").
+Exemption 4 of FOIA provides that the public disclosure requirement of the statute "does
+not apply to matters that are ... ( 4) trade secrets and commercial or financial information
+obtained from a person and privileged or confidential." Cornfield is voluntarily providing this
+trade secret and commercial and financial information "of a kind that would not customarily be
+released to the public"; therefore, this information is "confidential" under Exemption 4 of FOIA.
+Moreover, Cornfield would suffer substantial competitive harm if the Carrier Agreement was
+disclosed and if the identity of its carrier partner was disclosed.
+In support of this request and pursuant to Section 0.459(b) of the Commission's rules, Cornfield
+hereby states as follows:
+1. IDENTIFICATION OF THE SPECIFIC INFORMATION FOR WHICH CONFIDENTIAL
+TREATMENT IS SOUGHT
+
+Cornfield seeks confidential treatment of the 911 Agreement, CALEA Plan, and CLEC Partner
+Agreement, submitted with the Application as Confidential Exhibits A, B, and C respectively.
+2. DESCRIPTION OF CIRCUMSTANCES GIVING RISE TO THE SUBMISSION
+The 911 Agreement and CALEA Plan are being submitted to the Commission as proof it
+complies with its obligations as required by Section 52.15(g)(3)(ii)(E) of the Commission’s rules.
+The CLEC Partner Agreement is being submitted to the Commission as proof of facilities
+readiness, as required by Section 52.15(g)(3)(ii)(H) of the Commission's rules.
+3. EXPLANATION OF THE DEGREE TO WHICH THE INFORMATION IS COMMERCIAL OR
+FINANCIAL, OR CONTAINS A TRADE SECRET OR IS PRIVILEGED
+The information for which Cornfield seeks confidential treatment contains sensitive commercial,
+financial, and technical information as described in Section 0.457( d) of the Commission's rules.
+The 911 Agreement, CALEA Plan, and CLEC Partner Agreement contain trade secrets and
+proprietary commercial and technical information relating to the manner in which Cornfield and
+its carrier partner conduct network operations.
+4. EXPLANATION OF THE DEGREE TO WHICH THE INFORMATION CONCERNS A
+SERVICE THAT IS SUBJECT TO COMPETITION
+The 911 Agreement, CALEA Plan, and CLEC Partner Agreement provide detailed information
+relating to commercial and operational matters that could be used by competitors to the
+disadvantage of Cornfield. Disclosure of Cornfield’s confidential information would cause
+substantial competitive harm.
+5. EXPLANATION OF HOW DISCLOSURE OF THE INFORMATION COULD RESULT IN
+SUBSTANTIAL COMPETITIVE HARM
+Competitors could use the information in the 911 Agreement, CALEA Plan, and CLEC Partner
+Agreement to Cornfield’s detriment as they would gain access to sensitive and proprietary
+information about how Cornfield provides services as well as about Cornfield’s commercial
+agreements with others that are not ordinarily disclosed to the public.
+6. IDENTIFICATION OF ANY MEASURES TAKEN BY THE SUBMITTING PARTY TO
+PREVENT UNAUTHORIZED DISCLOSURE
+Cornfield has made the substance of the 911 Agreement, CALEA Plan, and CLEC Partner
+Agreement known only to those employees who have a need to know the subject matter and
+those employees are aware of the confidential and sensitive nature of the information. The 911
+Agreement, CALEA Plan, and CLEC Partner Agreement have not been disclosed by Cornfield
+
+to any non-signatories outside Cornfield except pursuant to appropriate confidentiality
+agreements.
+7. IDENTIFICATION OF WHETHER THE INFORMATION IS AVAILABLE TO THE PUBLIC AND
+THE EXTENT OF ANY PREVIOUS DISCLOSURE OF THE INFORMATION TO THIRD
+PARTIES
+Cornfield has not previously disclosed the 911 Agreement, CALEA Plan, or CLEC Partner
+Agreement.
+8. JUSTIFICATION OF THE PERIOD DURING WHICH THE SUBMITTING PARTY ASSERTS
+THAT MATERIAL SHOULD NOT BE AVAILABLE FOR PUBLIC DISCLOSURE
+Cornfield requests that the 911 Agreement, CALEA Plan, and CLEC Partner Agreement be
+treated as confidential and should never be released for public inspection. This is necessary
+because its information is commercially sensitive and confidential and any release would
+commercially disadvantage Cornfield.
+9. OTHER INFORMATION THAT CORNFIELD BELIEVES MAY BE USEFUL IN ASSESSING
+WHETHER ITS REQUEST FOR CONFIDENTIALITY SHOULD BE GRANTED
+Under applicable Commission and federal court precedent, the information provided by
+Cornfield on a confidential basis should be shielded from public disclosure. Exemption 4 of
+FOIA shields information that is: (1) commercial or financial in nature; (2) obtained from a
+person outside government; and (3) privileged or confidential. The commercial and financial
+information in question clearly satisfies this test. As such, Cornfield respectfully requests the
+Commission keep Exhibits A, B, and C within the enclosed document confidential and withhold
+them from public inspection.
+Respectfully submitted,
+Justin B Newman
+Manager
+Cornfield Voice LLC
+e. fcc-justin@cornfieldvoice.com
+o. 312-265-4123
+
+Before the
+Federal Communications Commission
+Washington, D.C. 20054
+_________________________________________
+)
+In the Matter of )
+Cornfield Voice LLC )
+For Authority to Obtain Numbering )
+Resources Pursuant to Section 52.15(g) of )
+The Commission’s Rules )
+_________________________________________)
+Application of Cornfield Voice LLC
+For Authorization to Obtain Numbering Resources
+Cornfield Voice LLC (“Cornfield”), hereby respectfully requests authorization from the
+Federal Communications Commission (“FCC” or “Commission”) for numbering resources
+pursuant to Commission Rule Section 52.15(g)(3)(ii). The company is owned by Uptown Moose,
+Inc., which is in turn owned by long-time telecommunications executive Justin Newman.
+Under the Commission’s Numbering Order, an interconnected VoIP provider may obtain
+numbering resources from the Numbering Administrator upon a showing that it is authorized to
+provide service in the area for which the numbering resources are requested. Such
+authorization may be obtained upon an application to the Commission containing the
+information detailed in Section 52.15(g)(3)(ii)(A)-(N) of the Commission’s Rules. The number
+resources that are the subject of the Application will be used to provide services initially in the
+District of Columbia, although Cornfield ultimately intends to provide such service throughout
+the United States.
+Cornfield has negotiated an Interconnect Agreement with a Competitive Local Exchange
+Carrier (“CLEC Partner”) to serve as Cornfield’s access homing tandem and to route local and
+access traffic (both originating and terminating) to the PSTN. Cornfield will interconnect with and
+broadcast CLEC Partner’s tandem platforms for the purpose of managing Cornfield’s assigned
+Operating Company Number (OCN). To further support this application, Cornfield provides the
+following additional information:
+I. Information Required by Section 52.15(g)(3)(ii)
+A. § 52.15(g)(3)(ii)(A)
+Name: Cornfield Voice LLC
+Address: 4422 N Ravenswood Ave., #55
+
+City: Chicago
+State: IL
+Zip Code: 60640
+Country: USA
+Telephone: 312-265-4123
+Website: https://cornfieldvoice.com
+Contact for regulatory requirements and compliance with Commission’s rules:
+Name: Justin Newman
+Address: 4422 N Ravenswood Ave., #55
+City: Chicago
+State: IL
+Zip Code: 60640
+Country: USA
+Telephone: 312-265-4123
+E-mail Address: fcc-justin@cornfieldvoice.com
+Contact for 911 and Law Enforcement:
+Name: Justin Newman
+Address: 4422 N Ravenswood Ave., #55
+City: Chicago
+State: IL
+Zip Code: 60640
+Country: USA
+Telephone: 312-265-4123
+E-mail Address: fcc-justin@cornfieldvoice.com
+B. § 52.15(g)(3)(ii)(B)
+Cornfield hereby acknowledges that authorization to obtain numbering resources under Section
+52.15(g) of the Commission’s Rules is subject to compliance with applicable Commission
+numbering rules, to the numbering authority delegated to the states, and the state laws,
+regulations, and registration requirements applicable to businesses operating in each state
+where Cornfield seeks numbering resources. The Company hereby also acknowledges that this
+authorization is subject to compliance with industry guidelines and practices regarding
+numbering, as applicable to telecommunications carriers.
+C. § 52.15(g)(3)(ii)(C)
+Cornfield hereby certifies that it will not use the numbers obtained pursuant to an authorization
+under Section 52.15(g) to knowingly transmit, encourage, assist, or facilitate illegal robocalls,
+
+illegal spoofing, or fraud, in violation of robocall, spoofing, and deceptive telemarketing
+obligations under 47 CFR §§ 64.1200, 64.1604, and 64.6300 through 64.6308 of this chapter
+and 16 CFR 310.3(b).
+D. § 52.15(g)(3)(ii)(D)
+Cornfield hereby certifies that it has fully complied with all applicable STIR/SHAKEN caller ID
+authentication and robocall mitigation program requirements and filed a certification in the
+Robocall Mitigation Database as required by §§ 64.6301 through 64.6305 of this chapter.
+E. § 52.15(g)(3)(ii)(E)
+Cornfield hereby certifies that it complies with its 911 obligations under part 9 of this chapter,
+and that it complies with the provisions of the Communications Assistance with Law
+Enforcement Act (“CALEA”), 47 U.S.C. 1001 et seq. Cornfield complies with its 911
+requirements through its CLEC Partner. Its Agreement, as applicable to 911 is attached as
+Exhibit A. The Company requests confidential treatment under the Commission’s rules for parts
+of Exhibit A. Cornfield’s plan for compliance with CALEA is attached as Exhibit B. The Company
+requests confidential treatment under the Commission’s rules for parts of Exhibit B.
+F. § 52.15(g)(3)(ii)(F)
+Cornfield hereby certifies that it complies with the Access Stimulation rules under 47 CFR §
+51.914.
+G. § 52.15(g)(3)(ii)(G)
+Cornfield hereby acknowledges that it must file requests for numbers with the relevant state
+commission(s) at least 30 days before requesting numbers from the Numbering Administrators;
+H. § 52.15(g)(3)(ii)(H)
+Cornfield hereby sets forth its capability to provide service within 60 days of the numbering
+resources activation date. An interconnect agreement demonstrating the access to platform and
+capability of CLEC Partner’s network is attached to this application as Exhibit C. The Company
+requests confidential treatment under the Commission’s rules for Exhibit C. Also attached, as
+Exhibit D, is evidence of CLEC Partner’s interconnection to the PSTN through its MSA/ICA with
+LECs.
+I. § 52.15(g)(3)(ii)(I)
+Proof that Cornfield has filed FCC Forms 499 is attached hereto as Exhibit E. Corn field has not
+filed FCC Form 477 yet. FCC Form 477 is not yet applicable to Cornfield because it has not
+
+commenced operations. Cornfield hereby acknowledges that it will comply with filing deadlines
+for Form 477.
+J. § 52.15(g)(3)(ii)(J)
+Cornfield hereby certifies that it complies with its Universal Service Fund contribution obligations
+under part 54, subpart H, of this chapter, its Telecommunications Relay Service contribution
+obligations under 47 CFR § 64.604(c)(5)(iii), its NANP and local number portability (LNP)
+administration contribution obligations under 47 CFR §§ 52.17 and 52.32, and its obligations to
+pay regulatory fees under 47 CFR § 1.1154. Cornfield’s FRN is 0036810414 and 499 Filter ID is
+837546.
+K. § 52.15(g)(3)(ii)(K)
+Cornfield certifies that it has the financial managerial, and technical expertise to provide reliable
+service. The Company’s key manager and technical resource is Justin Newman, who serves as
+Chief Operating Officer and Chief Technology Officer. Mr. Newman has over a decade of
+experience with financial, managerial, and technical operations of telecommunications and VoIP
+companies. Neither Cornfield nor Mr. Newman are being or have been investigated by the
+Commission, law enforcement, or any regulatory agency for failure to comply with any law, rule,
+or order, including the Commission's rules in this chapter applicable to unlawful robocalls or
+unlawful spoofing.
+L. § 52.15(g)(3)(ii)(L)
+Cornfield is 100% owned by Uptown Moose, Inc., which is 100% owned by Justin B Newman.
+Cornfield is neither a foreign entity nor affiliated with any foreign entities. A diagram of
+ownership is attached as Exhibit F.
+M. § 52.15(g)(3)(ii)(M)
+Cornfield hereby certifies that no party to the application is subject to a denial of Federal
+benefits pursuant to section 5301 of the Anti-Drug Abuse Act of 1988, see 21 U.S.C. 862.
+N. § 52.15(g)(3)(ii)(N)
+A declaration prepared pursuant to Section 1.16 of the Commission’s rules is attached hereto as
+Exhibit G.
+II. Acknowledgement of Conditions in Section 52.15(g)(3)(x)
+As required by Section 52.15(g)(3)(x), Cornfield will maintain the accuracy of all contact
+information, certifications, and ownership, or affiliation information in this application and will
+notify the Commission within 30 days of any changes to the above.
+
+III. Conclusion
+Pursuant to Section 52.15(g)(3)(ii) of the Commission’s Rules, Cornfield respectfully requests
+the Commission grant this application for authorization to obtain numbering resources.
+Respectfully submitted,
+Justin B Newman
+Manager
+Cornfield Voice LLC
+
+Index to Exhibits
+Exhibit A: 911 Agreement
+Confidential treatment requested.
+Exhibit B: CALEA
+Confidential treatment requested.
+Exhibit C: CLEC Partner Agreement
+Confidential treatment requested.
+Exhibit D: CLEC Partner ICA
+Exhibit E: Proof of Filing for FCC Forms 499
+Exhibit F: Diagram of Ownership
+Exhibit G: Officer’s Declaration
+
+CONFIDENTIAL EXHIBIT A
+911 AGREEMENT
+
+CONFIDENTIAL EXHIBIT B
+CALEA PLAN
+
+CONFIDENTIAL EXHIBIT C
+CLEC PARTNER AGREEMENT
+
+EXHIBIT D
+CLEC PARTNER ICA
+
+AGREEMENT
+by and between
+WIDE VOICE, LLC
+and
+VERIZON WASHINGTON, DC INC.
+FOR THE DISTRICT OF COLUMBIA
+Wide Voice Comprehensive Ver3.4b-1-DC.doc
+
+TABLE OF CONTENTS
+AGREEMENT ............................................................................................................................... 1
+1. The Agreement .................................................................................................................. 1
+2. Term and Termination ....................................................................................................... 2
+3. Glossary and Attachments ............................................................................................... 2
+4. Applicable Law .................................................................................................................. 2
+5. Assignment ........................................................................................................................ 4
+6. Assurance of Payment ...................................................................................................... 4
+7. Audits .................................................................................................................................. 5
+8. Authorization...................................................................................................................... 5
+9. Billing and Payment; Disputed Amounts ........................................................................ 6
+10. Confidentiality .................................................................................................................... 7
+11. Counterparts ...................................................................................................................... 9
+12. Default ................................................................................................................................. 9
+13. Discontinuance of Service by Wide Voice ...................................................................... 9
+14. Dispute Resolution ............................................................................................................ 9
+15. Force Majeure .................................................................................................................. 10
+16. Forecasts .......................................................................................................................... 10
+17. Fraud ................................................................................................................................. 10
+18. Good Faith Performance ................................................................................................. 11
+19. Headings ........................................................................................................................... 11
+20. Indemnification ................................................................................................................ 11
+21. Insurance .......................................................................................................................... 13
+22. Intellectual Property ........................................................................................................ 14
+23. Joint Work Product ......................................................................................................... 15
+24. Law Enforcement ............................................................................................................. 15
+25. Liability ............................................................................................................................. 15
+26. Network Management ..................................................................................................... 16
+Wide Voice Comprehensive Ver3.4b-1-DC.doc i
+
+27. Non-Exclusive Remedies ................................................................................................ 17
+28. Notice of Network Changes ............................................................................................ 17
+29. Notices .............................................................................................................................. 17
+30. Ordering and Maintenance ............................................................................................. 18
+31. Performance Standards .................................................................................................. 18
+32. Point of Contact for Wide Voice Customers ................................................................. 19
+33. Predecessor Agreements ............................................................................................... 19
+34. Publicity and Use of Trademarks or Service Marks ..................................................... 19
+35. References ....................................................................................................................... 20
+36. Relationship of the Parties ............................................................................................. 20
+37. Reservation of Rights ..................................................................................................... 21
+38. Subcontractors ................................................................................................................ 21
+39. Successors and Assigns ................................................................................................ 21
+40. Survival ............................................................................................................................. 21
+41. Taxes ................................................................................................................................. 21
+42. Technology Upgrades ..................................................................................................... 24
+43. Territory ............................................................................................................................ 24
+44. Third Party Beneficiaries ................................................................................................ 24
+45. [This Section Intentionally Left Blank] .......................................................................... 24
+46. 252(i) Obligations ............................................................................................................ 24
+47. Use of Service .................................................................................................................. 24
+48. Waiver ............................................................................................................................... 25
+49. Warranties ........................................................................................................................ 25
+50. Withdrawal of Services ................................................................................................... 25
+SIGNATURE PAGE .................................................................................................................... 26
+GLOSSARY ................................................................................................................................ 27
+1. General Rule..................................................................................................................... 27
+2. Definitions ........................................................................................................................ 27
+Wide Voice Comprehensive Ver3.4b-1-DC.doc ii
+
+ADDITIONAL SERVICES ATTACHMENT ................................................................................ 43
+1. Alternate Billed Calls ....................................................................................................... 43
+2. Dialing Parity - Section 251(b)(3) ................................................................................... 43
+3. [This Section Intentionally Left Blank] .......................................................................... 43
+4. Directory Listing and Directory Distribution ................................................................ 43
+5. [This Section Intentionally Left Blank] .......................................................................... 45
+6. Intercept and Referral Announcements ........................................................................ 45
+7. Originating Line Number Screening (OLNS) ................................................................ 46
+8. Operations Support Systems (OSS) Services .............................................................. 46
+9. Poles, Ducts, Conduits and Rights-of-Way .................................................................. 51
+10. Telephone Numbers ........................................................................................................ 52
+11. Routing for Operator Services and Directory Assistance Traffic ............................... 52
+12. Unauthorized Carrier Change Charges ......................................................................... 53
+13. Good Faith Performance ................................................................................................. 53
+INTERCONNECTION ATTACHMENT ....................................................................................... 54
+1. General ............................................................................................................................. 54
+2. Points of Interconnection and Trunk Types ................................................................. 54
+3. Alternative Interconnection Arrangements .................................................................. 58
+4. Initiating Interconnection ................................................................................................ 60
+5. Transmission and Routing of Telephone Exchange Service Traffic.......................... 61
+6. Traffic Measurement and Billing over Interconnection Trunks .................................. 63
+7. Reciprocal Compensation Arrangements Pursuant to Section 251(b)(5) of the Act 64
+8. Other Types of Traffic ..................................................................................................... 65
+9. Transmission and Routing of Exchange Access Traffic ............................................. 66
+10. Meet-Point Billing (MPB) Arrangements ....................................................................... 67
+11. Toll Free Service Access Code (e.g., 800/888/877) Traffic .......................................... 69
+12. Tandem Transit Traffic .................................................................................................... 71
+13. Number Resources, Rate Center Areas and Routing Points ...................................... 73
+Wide Voice Comprehensive Ver3.4b-1-DC.doc iii
+
+14. Joint Network Implementation and Grooming Process; Forecasting ........................ 73
+15. Number Portability - Section 251(B)(2) .......................................................................... 75
+16. Good Faith Performance ................................................................................................. 77
+RESALE ATTACHMENT ........................................................................................................... 78
+1. General ............................................................................................................................. 78
+2. Use of Verizon Telecommunications Services ............................................................. 78
+3. Availability of Verizon Telecommunications Services ................................................ 79
+4. Responsibility for Charges ............................................................................................. 79
+5. Operations Matters .......................................................................................................... 80
+6. Rates and Charges .......................................................................................................... 80
+7. Good Faith Performance ................................................................................................. 81
+NETWORK ELEMENTS ATTACHMENT ................................................................................... 82
+1. General ............................................................................................................................. 82
+2. Verizon’s Provision of Network Elements .................................................................... 84
+3. Loop Transmission Types .............................................................................................. 85
+4. Line Splitting (also referred to as “Loop Sharing”) ..................................................... 96
+5. [This Section Intentionally Left Blank] .......................................................................... 97
+6. Sub-Loop .......................................................................................................................... 97
+7. Sub-Loop for Multiunit Tenant Premises Access ...................................................... 100
+8. Dark Fiber Transport ..................................................................................................... 100
+9. Network Interface Device ..............................................................................................1 05
+10. [This Section Intentionally Left Blank] ........................................................................ 107
+11. Dedicated Transport ...................................................................................................... 107
+12. [This Section Intentionally Left Blank] ........................................................................ 107
+13. Operations Support Systems ....................................................................................... 107
+14. Availability of Other Network Elements on an Unbundled Basis ............................. 107
+15. Maintenance of Network Elements .............................................................................. 109
+16. Combinations, Commingling, and Conversions ........................................................ 109
+Wide Voice Comprehensive Ver3.4b-1-DC.doc iv
+
+17. Routine Network Modifications .................................................................................... 112
+18. Rates and Charges ........................................................................................................ 113
+19. Good Faith Performance ............................................................................................... 113
+COLLOCATION ATTACHMENT .............................................................................................. 114
+1. Verizon’s Provision of Collocation .............................................................................. 114
+911 ATTACHMENT .................................................................................................................. 115
+1. 911/E-911 Arrangements ............................................................................................... 115
+2. ALI Database .................................................................................................................. 115
+3. 911/E-911 Interconnection ............................................................................................ 116
+4. 911/E-911 General .......................................................................................................... 117
+5. Good Faith Performance ............................................................................................... 117
+PRICING ATTACHMENT ......................................................................................................... 119
+1. General ........................................................................................................................... 119
+2. Verizon Telecommunications Services Provided to Wide Voice for Resale Pursuant
+to the Resale Attachment ............................................................................................. 119
+3. Wide Voice Prices .......................................................................................................... 121
+4. [This Section Intentionally Left Blank] ........................................................................ 121
+5. Regulatory Review of Prices ........................................................................................1 21
+APPENDIX A TO THE PRICING ATTACHMENT .................................................................... 123
+EXHIBIT A TO SECTION 3.1 (FIBER MEET ARRANGEMENT) OF THE INTERCONNECTION
+ATTACHMENT ......................................................................................................................... 148
+Wide Voice Comprehensive Ver3.4b-1-DC.doc v
+
+AGREEMENT
+PREFACE
+This Agreement (“Agreement”) shall be deemed effective as of September 1, 2015 (the “Effective
+Date”), between Wide Voice, LLC (“Wide Voice”), a limited liability company organized under the
+laws of the State of Nevada, with offices at 410 South Rampart, Suite 390, Las Vegas, NV 89145
+and Verizon Washington, DC Inc. (“Verizon”), a corporation organized under the laws of the State
+of New York with offices at 1300 I Street, N.W., Suite 400 West, Washington, DC 20005 (Verizon
+and Wide Voice may be referred to hereinafter, each, individually as a “Party”, and, collectively,
+as the “Parties”).
+GENERAL TERMS AND CONDITIONS
+In consideration of the mutual promises contained in this Agreement, and intending to be legally
+bound, pursuant to Section 252 of the Act, Verizon and Wide Voice hereby agree as follows:
+1. The Agreement
+1.1 This Agreement includes: (a) the Principal Document; (b) the Tariffs of each
+Party applicable to the Services that are offered for sale by it in the Principal
+Document (which Tariffs are incorporated into and made a part of this Agreement
+by reference); and, (c) an Order by a Party that has been accepted by the other
+Party.
+1.2 Except as otherwise expressly provided in the Principal Document (including, but
+not limited to, the Pricing Attachment), conflicts among provisions in the Principal
+Document, Tariffs, and an Order by a Party that has been accepted by the other
+Party, shall be resolved in accordance with the following order of precedence,
+where the document identified in subsection “(a)” shall have the highest
+precedence: (a) the Principal Document; (b) the Tariffs; and, (c) an Order by a
+Party that has been accepted by the other Party. The fact that a provision
+appears in the Principal Document but not in a Tariff, or in a Tariff but not in the
+Principal Document, shall not be interpreted as, or deemed grounds for finding, a
+conflict for the purposes of this Section 1.2.
+1.3 This Agreement constitutes the entire agreement between the Parties on the
+subject matter hereof, and supersedes any prior or contemporaneous
+agreement, understanding, or representation, on the subject matter hereof,
+provided, however, notwithstanding any other provision of this Agreement or
+otherwise, this Agreement is an amendment, extension and restatement of the
+Parties’ prior interconnection and resale agreement(s), if any, and, as such, this
+Agreement is not intended to be, nor shall it be construed to create, a novation or
+accord and satisfaction with respect to any prior interconnection or resale
+agreements and, accordingly, all monetary obligations of the Parties to one
+another under any prior interconnection or resale agreements shall remain in full
+force and effect and shall constitute monetary obligations of the Parties under
+this Agreement (provided, however, that nothing contained in this Agreement
+shall convert any claim or debt that would otherwise constitute a prepetition claim
+or debt in a bankruptcy case into a postpetition claim or debt). In connection with
+the foregoing, Verizon expressly reserves all of its rights under the Bankruptcy
+Code and Applicable Law to seek or oppose any relief in respect of the
+assumption, assumption and assignment, or rejection of any interconnection or
+resale agreements between Verizon and Wide Voice.
+Wide Voice Comprehensive Ver3.4b-1-DC.doc 1
+
+1.4 Except as otherwise provided in the Principal Document, the Principal Document
+may not be waived or modified except by a written document that is signed by
+the Parties. Subject to the requirements of Applicable Law, a Party shall have
+the right to add, modify, or withdraw, its Tariff(s) at any time, without the consent
+of, or notice to, the other Party.
+2. Term and Termination
+2.1 This Agreement shall be effective as of the Effective Date and, unless cancelled
+or terminated earlier in accordance with the terms hereof, shall continue in effect
+until August 31, 2017 (the “Initial Term”). Thereafter, this Agreement shall
+continue in force and effect unless and until cancelled or terminated as provided
+in this Agreement.
+2.2 Either Wide Voice or Verizon may terminate this Agreement effective upon the
+expiration of the Initial Term or effective upon any date after expiration of the
+Initial Term by providing written notice of termination at least ninety (90) days in
+advance of the date of termination.
+2.3 If Wide Voice or Verizon provides notice of termination pursuant to Section 2.2
+and on or before the proposed date of termination either Wide Voice or Verizon
+has requested negotiation of a new interconnection agreement, unless this
+Agreement is cancelled or terminated earlier in accordance with the terms hereof
+(including, but not limited to, pursuant to Section 12), this Agreement shall
+remain in effect until the earlier of: (a) the effective date of a new interconnection
+agreement between Wide Voice and Verizon; or, (b) the date one (1) year after
+the proposed date of termination.
+2.4 If Wide Voice or Verizon provides notice of termination pursuant to Section 2.2,
+and by 11:59 PM Eastern Time on the proposed date of termination neither Wide
+Voice nor Verizon has requested negotiation of a new interconnection agreement
+(or, in accordance with Subsection 2.3(b), if no new agreement is reached by the
+date one (1) year after the proposed date of termination), then (a) this Agreement
+will terminate at 11:59 PM Eastern Time on the proposed date of termination (or
+in the case of termination in accordance with Subsection 2.3(b), at 11:59 PM
+Eastern Time on the date one (1) year after the proposed date of termination),
+and (b) the Services being provided under this Agreement at the time of
+termination will be terminated, except to the extent that the Purchasing Party has
+requested that such Services continue to be provided pursuant to an applicable
+Tariff or Statement of Generally Available Terms (SGAT).
+3. Glossary and Attachments
+The Glossary and the following Attachments are a part of this Agreement:
+Additional Services Attachment
+Interconnection Attachment
+Resale Attachment
+Network Elements Attachment
+Collocation Attachment
+911 Attachment
+Pricing Attachment
+4. Applicable Law
+Wide Voice Comprehensive Ver3.4b-1-DC.doc 2
+
+4.1 The construction, interpretation and performance of this Agreement shall be
+governed by (a) the laws of the United States of America and (b) the laws of the
+District of Columbia, without regard to its conflicts of laws rules. All disputes
+relating to this Agreement shall be resolved through the application of such laws.
+4.2 Each Party shall remain in compliance with Applicable Law in the course of
+performing this Agreement.
+4.3 Neither Party shall be liable for any delay or failure in performance by it that
+results from requirements of Applicable Law, or acts or failures to act of any
+governmental entity or official.
+4.4 Each Party shall promptly notify the other Party in writing of any governmental
+action that limits, suspends, cancels, withdraws, or otherwise materially affects,
+the notifying Party’s ability to perform its obligations under this Agreement.
+4.5 If any provision of this Agreement shall be invalid or unenforceable under
+Applicable Law, such invalidity or unenforceability shall not invalidate or render
+unenforceable any other provision of this Agreement, and this Agreement shall
+be construed as if it did not contain such invalid or unenforceable provision;
+provided, that if the invalid or unenforceable provision is a material provision of
+this Agreement, or the invalidity or unenforceability materially affects the rights or
+obligations of a Party hereunder or the ability of a Party to perform any material
+provision of this Agreement, the Parties shall promptly renegotiate in good faith
+and amend in writing this Agreement in order to make such mutually acceptable
+revisions to this Agreement as may be required in order to conform the
+Agreement to Applicable Law.
+4.6 If any legislative, regulatory, judicial or other governmental decision, order,
+determination or action, or any change in Applicable Law, materially affects any
+material provision of this Agreement, the rights or obligations of a Party
+hereunder, or the ability of a Party to perform any material provision of this
+Agreement, the Parties shall promptly renegotiate in good faith and amend in
+writing this Agreement in order to make such mutually acceptable revisions to
+this Agreement as may be required in order to conform the Agreement to
+Applicable Law. If within thirty (30) days of the effective date of such decision,
+determination, action or change, the Parties are unable to agree in writing upon
+mutually acceptable revisions to this Agreement, either Party may pursue any
+remedies available to it under this Agreement, at law, in equity, or otherwise,
+including, but not limited to, instituting an appropriate proceeding before the
+Commission, the FCC, or a court of competent jurisdiction, without first pursuing
+dispute resolution in accordance with Section 14 of this Agreement.
+4.6.1 Notwithstanding Section 4.6 above, to the extent Verizon is required
+by a change in Applicable Law to provide to Wide Voice a Service that
+is not offered under this Agreement to Wide Voice, the terms,
+conditions and prices for such Service (including, but not limited to, the
+terms and conditions defining the Service and stating when and where
+the Service will be available and how it will be used, and terms,
+conditions and prices for pre-ordering, ordering, provisioning, repair,
+maintenance and billing) shall be as provided in an applicable Verizon
+Tariff, or, in the absence of an applicable Verizon Tariff, as mutually
+agreed by the Parties in a written amendment to the Agreement that,
+upon the request of either Party, the Parties shall negotiate in
+accordance with the requirements of Section 252 of the Act. In no
+event shall Verizon be required to provide any such Service in the
+absence of such a Verizon Tariff or amendment.
+Wide Voice Comprehensive Ver3.4b-1-DC.doc 3
+
+4.7 Notwithstanding anything in this Agreement to the contrary, if, as a result of any
+legislative, judicial, regulatory or other governmental decision, order,
+determination or action, or any change in Applicable Law, Verizon is not required
+by Applicable Law to provide any Service, payment or benefit, otherwise required
+to be provided to Wide Voice hereunder, then Verizon may discontinue the
+provision of any such Service, payment or benefit, and Wide Voice shall
+reimburse Verizon for any payment previously made by Verizon to Wide Voice
+that was not required by Applicable Law. Verizon will provide thirty (30) days
+prior written notice to Wide Voice of any such discontinuance of a Service, unless
+a different notice period or different conditions are specified in this Agreement
+(including, but not limited to, in the Networks Element Attachment or an
+applicable Tariff) or Applicable Law for termination of such Service in which event
+such specified period and/or conditions shall apply. For the avoidance of any
+doubt, this Section 4.7 is self-effectuating and no amendment to this Agreement
+shall be required to implement it.
+5. Assignment
+Neither Party may assign this Agreement or any right or interest under this Agreement,
+nor delegate any obligation under this Agreement, without the prior written consent of the
+other Party, which consent shall not be unreasonably withheld, conditioned or delayed.
+Any attempted assignment or delegation in violation of this Section 5 shall be void and
+ineffective and constitute default of this Agreement.
+6. Assurance of Payment
+6.1 Upon request by Verizon, Wide Voice shall, at any time and from time to time,
+provide to Verizon adequate assurance of payment of amounts due (or to
+become due) to Verizon hereunder.
+6.2 Assurance of payment of charges may be requested by Verizon if Wide Voice or
+its Affiliates (a) prior to the Effective Date, has failed to timely pay a bill rendered
+to Wide Voice by Verizon or its Affiliates, (b) on or after the Effective Date, fails to
+timely pay a bill rendered to Wide Voice by Verizon or its Affiliates, (c) in
+Verizon’s reasonable judgment, at the Effective Date or at any time thereafter, is
+unable to demonstrate that it is creditworthy, or (d) admits its inability to pay its
+debts as such debts become due, has commenced a voluntary case (or has had
+a case commenced against it) under the U.S. Bankruptcy Code or any other law
+relating to bankruptcy, insolvency, reorganization, winding-up, composition or
+adjustment of debts or the like, has made an assignment for the benefit of
+creditors or is subject to a receivership or similar proceeding.
+6.3 Unless otherwise agreed by the Parties, the assurance of payment shall consist
+of an unconditional, irrevocable standby letter of credit naming Verizon as the
+beneficiary thereof and otherwise in form and substance satisfactory to Verizon
+from a financial institution acceptable to Verizon. The letter of credit shall be in
+an amount equal to two (2) months anticipated charges (including, but not limited
+to, both recurring and non-recurring charges), as reasonably determined by
+Verizon, for the Services to be provided by Verizon to Wide Voice in connection
+with this Agreement. If Wide Voice or its Affiliates meets the condition in
+subsection 6.2(d) above or has failed to timely pay two or more bills rendered by
+Verizon or a Verizon Affiliate in any twelve (12)-month period, Verizon may, at its
+option, demand (and Wide Voice shall provide) additional assurance of payment,
+including monthly advanced payments of estimated charges as reasonably
+determined by Verizon, with appropriate true-up against actual billed charges no
+more frequently than once per Calendar Quarter.
+Wide Voice Comprehensive Ver3.4b-1-DC.doc 4
+
+6.4 Verizon may (but is not obligated to) draw on the letter of credit upon notice to
+Wide Voice in respect of any amounts to be paid by Wide Voice hereunder that
+are not paid within thirty (30) days of the date that payment of such amounts is
+required by this Agreement.
+6.5 If Verizon draws on the letter of credit, upon request by Verizon, Wide Voice shall
+provide a replacement or supplemental letter of credit conforming to the
+requirements of Section 6.3.
+6.6 Notwithstanding anything else set forth in this Agreement, if Verizon makes a
+request for assurance of payment in accordance with the terms of this Section,
+then Verizon shall have no obligation thereafter to perform under this Agreement
+until such time as Wide Voice has provided Verizon with such assurance of
+payment.
+6.7 The fact that a letter of credit is requested by Verizon hereunder shall in no way
+relieve Wide Voice from compliance with the requirements of this Agreement
+(including, but not limited to, any applicable Tariffs) as to advance payments and
+payment for Services, nor constitute a waiver or modification of the terms herein
+pertaining to the discontinuance of Services for nonpayment of any amounts
+payment of which is required by this Agreement.
+7. Audits
+7.1 Except as may be otherwise specifically provided in this Agreement, either Party
+(“Auditing Party”) may audit the other Party’s (“Audited Party”) books, records,
+documents, facilities and systems for the purpose of evaluating the accuracy of
+the Audited Party’s bills. Such audits may be performed once in each Calendar
+Year; provided, however, that audits may be conducted more frequently (but no
+more frequently than once in each Calendar Quarter) if the immediately
+preceding audit found previously uncorrected net inaccuracies in billing in favor
+of the Audited Party having an aggregate value of at least $1,000,000.
+7.2 The audit shall be performed by independent certified public accountants
+selected and paid by the Auditing Party. The accountants shall be reasonably
+acceptable to the Audited Party. Prior to commencing the audit, the accountants
+shall execute an agreement with the Audited Party in a form reasonably
+acceptable to the Audited Party that protects the confidentiality of the information
+disclosed by the Audited Party to the accountants. The audit shall take place at
+a time and place agreed upon by the Parties; provided, that the Auditing Party
+may require that the audit commence no later than sixty (60) days after the
+Auditing Party has given notice of the audit to the Audited Party.
+7.3 Each Party shall cooperate fully in any such audit, providing reasonable access
+to any and all employees, books, records, documents, facilities and systems,
+reasonably necessary to assess the accuracy of the Audited Party’s bills.
+7.4 Audits shall be performed at the Auditing Party’s expense, provided that there
+shall be no charge for reasonable access to the Audited Party’s employees,
+books, records, documents, facilities and systems necessary to assess the
+accuracy of the Audited Party’s bills.
+8. Authorization
+8.1 Verizon represents and warrants that it is a corporation duly organized, validly
+existing and in good standing under the laws of the State of New York and has
+Wide Voice Comprehensive Ver3.4b-1-DC.doc 5
+
+full power and authority to execute and deliver this Agreement and to perform its
+obligations under this Agreement.
+8.2 Wide Voice represents and warrants that it is a limited liability company duly
+organized, validly existing and in good standing under the laws of the State of
+Nevada, and has full power and authority to execute and deliver this Agreement
+and to perform its obligations under this Agreement.
+8.3 Wide Voice Certification.
+Notwithstanding any other provision of this Agreement, Verizon shall have no
+obligation to perform under this Agreement until such time as Wide Voice has
+obtained such FCC and Commission authorization as may be required by
+Applicable Law for conducting its business in the District of Columbia. Wide
+Voice shall not place any Orders under this Agreement until it has obtained such
+authorization. Wide Voice shall provide proof of such authorization to Verizon
+upon request.
+9. Billing and Payment; Disputed Amounts
+9.1 Except as otherwise provided in this Agreement, each Party shall submit to the
+other Party on a monthly basis in an itemized form, statement(s) of charges
+incurred by the other Party under this Agreement.
+9.2 Except as otherwise provided in this Agreement, payment of amounts billed for
+Services provided under this Agreement, whether billed on a monthly basis or as
+otherwise provided in this Agreement, shall be due, in immediately available U.S.
+funds, on the later of the following dates (the “Due Date”): (a) the due date
+specified on the billing Party’s statement; or (b) twenty (20) days after the date
+the statement is received by the billed Party. Payments shall be transmitted by
+electronic funds transfer.
+9.3 If any portion of an amount billed by a Party under this Agreement is subject to a
+good faith dispute between the Parties, the billed Party shall give notice to the
+billing Party of the amounts it disputes (“Disputed Amounts”) and include in such
+notice the specific details and reasons for disputing each item. A Party may also
+dispute prospectively with a single notice a class of charges that it disputes.
+Notice of a dispute may be given by a Party at any time, either before or after an
+amount is paid, and a Party’s payment of an amount shall not constitute a waiver
+of such Party’s right to subsequently dispute its obligation to pay such amount or
+to seek a refund of any amount paid. The billed Party shall pay by the Due Date
+all undisputed amounts. Billing disputes shall be subject to the terms of Section
+14, Dispute Resolution.
+9.4 Charges due to the billing Party that are not paid by the Due Date, shall be
+subject to a late payment charge. The late payment charge shall be in an
+amount specified by the billing Party which shall not exceed a rate of one-and-
+one-half percent (1.5%) of the overdue amount (including any unpaid previously
+billed late payment charges) per month.
+9.5 Although it is the intent of both Parties to submit timely statements of charges,
+failure by either Party to present statements to the other Party in a timely manner
+shall not constitute a breach or default, or a waiver of the right to payment of the
+incurred charges, by the billing Party under this Agreement, and, except for
+assertion of a provision of Applicable Law that limits the period in which a suit or
+other proceeding can be brought before a court or other governmental entity of
+appropriate jurisdiction to collect amounts due, the billed Party shall not be
+Wide Voice Comprehensive Ver3.4b-1-DC.doc 6
+
+entitled to dispute the billing Party’s statement(s) based on the billing Party’s
+failure to submit them in a timely fashion.
+10. Confidentiality
+10.1 As used in this Section 10, “Confidential Information” means the following
+information that is disclosed by one Party (“Disclosing Party”) to the other Party
+(“Receiving Party”) in connection with, or anticipation of, this Agreement:
+10.1.1 Books, records, documents and other information disclosed in an audit
+pursuant to Section 7;
+10.1.2 Any forecasting information provided pursuant to this Agreement;
+10.1.3 Customer Information (except to the extent that (a) the Customer
+information is published in a directory, (b) the Customer information is
+disclosed through or in the course of furnishing a Telecommunications
+Service, such as directory assistance, operator service, Caller ID or
+similar service, or LIDB service, or (c) the Customer to whom the
+Customer Information is related has authorized the Receiving Party to
+use and/or disclose the Customer Information);
+10.1.4 information related to specific facilities or equipment (including, but not
+limited to, cable and pair information);
+10.1.5 any information that is in written, graphic, electromagnetic, or other
+tangible form, and marked at the time of disclosure as “Confidential” or
+“Proprietary”; and
+10.1.6 any information that is communicated orally or visually and declared to
+the Receiving Party at the time of disclosure, and by written notice with
+a statement of the information given to the Receiving Party within ten
+(10) days after disclosure, to be “Confidential” or “Proprietary”.
+Notwithstanding any other provision of this Agreement, a Party shall have the
+right to refuse to accept receipt of information which the other Party has identified
+as Confidential Information pursuant to Sections 10.1.5 or 10.1.6.
+10.2 Except as otherwise provided in this Agreement, the Receiving Party shall:
+10.2.1 use the Confidential Information received from the Disclosing Party
+only in performance of this Agreement; and
+10.2.2 using the same degree of care that it uses with similar confidential
+information of its own (but in no case a degree of care that is less than
+commercially reasonable), hold Confidential Information received from
+the Disclosing Party in confidence and restrict disclosure of the
+Confidential Information solely to those of the Receiving Party’s
+Affiliates and the directors, officers, employees, Agents and
+contractors of the Receiving Party and the Receiving Party’s Affiliates,
+that have a need to receive such Confidential Information in order to
+perform the Receiving Party’s obligations under this Agreement. The
+Receiving Party’s Affiliates and the directors, officers, employees,
+Agents and contractors of the Receiving Party and the Receiving
+Party’s Affiliates, shall be required by the Receiving Party to comply
+with the provisions of this Section 10 in the same manner as the
+Receiving Party. The Receiving Party shall be liable for any failure of
+Wide Voice Comprehensive Ver3.4b-1-DC.doc 7
+
+the Receiving Party’s Affiliates or the directors, officers, employees,
+Agents or contractors of the Receiving Party or the Receiving Party’s
+Affiliates, to comply with the provisions of this Section 10.
+10.3 The Receiving Party shall return or destroy all Confidential Information received
+from the Disclosing Party, including any copies made by the Receiving Party,
+within thirty (30) days after a written request by the Disclosing Party is delivered
+to the Receiving Party, except for (a) Confidential Information that the Receiving
+Party reasonably requires to perform its obligations under this Agreement, and
+(b) one copy for archival purposes only.
+10.4 Unless otherwise agreed, the obligations of Sections 10.2 and 10.3 do not apply
+to information that:
+10.4.1 was, at the time of receipt, already in the possession of or known to
+the Receiving Party free of any obligation of confidentiality and
+restriction on use;
+10.4.2 is or becomes publicly available or known through no wrongful act of
+the Receiving Party, the Receiving Party’s Affiliates, or the directors,
+officers, employees, Agents or contractors of the Receiving Party or
+the Receiving Party’s Affiliates;
+10.4.3 is rightfully received from a third person having no direct or indirect
+obligation of confidentiality or restriction on use to the Disclosing Party
+with respect to such information;
+10.4.4 is independently developed by the Receiving Party;
+10.4.5 is approved for disclosure or use by written authorization of the
+Disclosing Party (including, but not limited to, in this Agreement); or
+10.4.6 is required to be disclosed by the Receiving Party pursuant to
+Applicable Law, provided that the Receiving Party shall have made
+commercially reasonable efforts to give adequate notice of the
+requirement to the Disclosing Party in order to enable the Disclosing
+Party to seek protective arrangements.
+10.5 Notwithstanding the provisions of Sections 10.1 through 10.4, the Receiving
+Party may use and disclose Confidential Information received from the Disclosing
+Party to the extent necessary to enforce the Receiving Party’s rights under this
+Agreement or Applicable Law. In making any such disclosure, the Receiving
+Party shall make reasonable efforts to preserve the confidentiality and restrict the
+use of the Confidential Information while it is in the possession of any person to
+whom it is disclosed, including, but not limited to, by requesting any
+governmental entity to whom the Confidential Information is disclosed to treat it
+as confidential and restrict its use to purposes related to the proceeding pending
+before it.
+10.6 The Disclosing Party shall retain all of the Disclosing Party’s right, title and
+interest in any Confidential Information disclosed by the Disclosing Party to the
+Receiving Party. Except as otherwise expressly provided in this Agreement, no
+license is granted by this Agreement with respect to any Confidential Information
+(including, but not limited to, under any patent, trademark or copyright), nor is
+any such license to be implied solely by virtue of the disclosure of Confidential
+Information.
+Wide Voice Comprehensive Ver3.4b-1-DC.doc 8
+
+10.7 The provisions of this Section 10 shall be in addition to and not in derogation of
+any provisions of Applicable Law, including, but not limited to, 47 U.S.C. § 222,
+and are not intended to constitute a waiver by a Party of any right with regard to
+the use, or protection of the confidentiality of, CPNI provided by Applicable Law.
+10.8 Each Party’s obligations under this Section 10 shall survive expiration,
+cancellation or termination of this Agreement.
+11. Counterparts
+This Agreement may be executed in two or more counterparts, each of which shall be
+deemed an original and all of which together shall constitute one and the same
+instrument.
+12. Default
+If either Party (“Defaulting Party”) fails to make a payment required by this Agreement
+(including, but not limited to, any payment required by Section 9.3 of undisputed amounts
+to the billing Party) or materially breaches any other material provision of this Agreement,
+and such failure or breach continues for thirty (30) days after written notice thereof from
+the other Party, the other Party may, by written notice to the Defaulting Party, (a)
+suspend the provision of any or all Services hereunder, or (b) cancel this Agreement and
+terminate the provision of all Services hereunder.
+13. Discontinuance of Service by Wide Voice
+13.1 If Wide Voice proposes to discontinue, or actually discontinues, its provision of
+service to all or substantially all of its Customers, whether voluntarily, as a result
+of bankruptcy, or for any other reason, Wide Voice shall send written notice of
+such discontinuance to Verizon, the Commission, and each of Wide Voice’s
+Customers. Wide Voice shall provide such notice such number of days in
+advance of discontinuance of its service as shall be required by Applicable Law.
+Unless the period for advance notice of discontinuance of service required by
+Applicable Law is more than thirty (30) days, to the extent commercially feasible,
+Wide Voice shall send such notice at least thirty (30) days prior to its
+discontinuance of service.
+13.2 Such notice must advise each Wide Voice Customer that unless action is taken
+by the Wide Voice Customer to switch to a different carrier prior to Wide Voice’s
+proposed discontinuance of service, the Wide Voice Customer will be without the
+service provided by Wide Voice to the Wide Voice Customer.
+13.3 Should a Wide Voice Customer subsequently become a Verizon Customer, Wide
+Voice shall provide Verizon with all information necessary for Verizon to establish
+service for the Wide Voice Customer, including, but not limited to, the Wide Voice
+Customer’s billed name, listed name, service address, and billing address, and
+the services being provided to the Wide Voice Customer.
+13.4 Nothing in this Section 13 shall limit Verizon’s right to cancel or terminate this
+Agreement or suspend provision of Services under this Agreement.
+14. Dispute Resolution
+14.1 Except as otherwise provided in this Agreement, any dispute between the Parties
+regarding the interpretation or enforcement of this Agreement or any of its terms
+shall be addressed by good faith negotiation between the Parties. To initiate
+such negotiation, a Party must provide to the other Party written notice of the
+Wide Voice Comprehensive Ver3.4b-1-DC.doc 9
+
+dispute that includes both a detailed description of the dispute or alleged
+nonperformance and the name of an individual who will serve as the initiating
+Party’s representative in the negotiation. The other Party shall have ten
+Business Days to designate its own representative in the negotiation. The
+Parties’ representatives shall meet at least once within 45 days after the date of
+the initiating Party’s written notice in an attempt to reach a good faith resolution
+of the dispute. Upon agreement, the Parties’ representatives may utilize other
+alternative dispute resolution procedures such as private mediation to assist in
+the negotiations.
+14.2 If the Parties have been unable to resolve the dispute within 45 days of the date
+of the initiating Party’s written notice, either Party may pursue any remedies
+available to it under this Agreement, at law, in equity, or otherwise, including, but
+not limited to, instituting an appropriate proceeding before the Commission, the
+FCC, or a court of competent jurisdiction.
+15. Force Majeure
+15.1 Neither Party shall be responsible for any delay or failure in performance which
+results from causes beyond its reasonable control (“Force Majeure Events”),
+whether or not foreseeable by such Party. Such Force Majeure Events include,
+but are not limited to, adverse weather conditions, flood, fire, explosion,
+earthquake, volcanic action, power failure, embargo, boycott, war, revolution, civil
+commotion, act of public enemies, labor unrest (including, but not limited to,
+strikes, work stoppages, slowdowns, picketing or boycotts), inability to obtain
+equipment, parts, software or repairs thereof, acts or omissions of the other
+Party, and acts of God.
+15.2 If a Force Majeure Event occurs, the non-performing Party shall give prompt
+notification of its inability to perform to the other Party. During the period that the
+non-performing Party is unable to perform, the other Party shall also be excused
+from performance of its obligations to the extent such obligations are reciprocal
+to, or depend upon, the performance of the non-performing Party that has been
+prevented by the Force Majeure Event. The non-performing Party shall use
+commercially reasonable efforts to avoid or remove the cause(s) of its non-
+performance and both Parties shall proceed to perform once the cause(s) are
+removed or cease.
+15.3 Notwithstanding the provisions of Sections 15.1 and 15.2, in no case shall a
+Force Majeure Event excuse either Party from an obligation to pay money as
+required by this Agreement.
+15.4 Nothing in this Agreement shall require the non-performing Party to settle any
+labor dispute except as the non-performing Party, in its sole discretion,
+determines appropriate.
+16. Forecasts
+In addition to any other forecasts required by this Agreement, upon request by Verizon,
+Wide Voice shall provide to Verizon forecasts regarding the Services that Wide Voice
+expects to purchase from Verizon, including, but not limited to, forecasts regarding the
+types and volumes of Services that Wide Voice expects to purchase and the locations
+where such Services will be purchased.
+17. Fraud
+Wide Voice Comprehensive Ver3.4b-1-DC.doc 10
+
+Wide Voice assumes responsibility for all fraud associated with its Customers and
+accounts. Verizon shall bear no responsibility for, and shall have no obligation to
+investigate or make adjustments to Wide Voice's account in cases of, fraud by Wide
+Voice’s Customers or other third parties.
+18. Good Faith Performance
+The Parties shall act in good faith in their performance of this Agreement. Except as
+otherwise expressly stated in this Agreement (including, but not limited to, where
+consent, approval, agreement or a similar action is stated to be within a Party’s sole
+discretion), where consent, approval, mutual agreement or a similar action is required by
+any provision of this Agreement, such action shall not be unreasonably withheld,
+conditioned or delayed. If and, to the extent that, Verizon, prior to the Effective Date of
+this Agreement, has not provided in the District of Columbia a Service offered under this
+Agreement, Verizon reserves the right to negotiate in good faith with Wide Voice
+reasonable terms and conditions (including, without limitation, rates and implementation
+timeframes) for such Service; and, if the Parties cannot agree to such terms and
+conditions (including, without limitation, rates and implementation timeframes), either
+Party may utilize the Agreement’s dispute resolution procedures.
+19. Headings
+The headings used in the Principal Document are inserted for convenience of reference
+only and are not intended to be a part of or to affect the meaning of the Principal
+Document.
+20. Indemnification
+20.1 Each Party (“Indemnifying Party”) shall indemnify, defend and hold harmless the
+other Party (“Indemnified Party”), the Indemnified Party’s Affiliates, and the
+directors, officers and employees of the Indemnified Party and the Indemnified
+Party’s Affiliates, from and against any and all Claims that arise out of bodily
+injury to or death of any person, or damage to, or destruction or loss of, tangible
+real and/or personal property of any person, to the extent such injury, death,
+damage, destruction or loss, was proximately caused by the grossly negligent or
+intentionally wrongful acts or omissions of the Indemnifying Party, the
+Indemnifying Party’s Affiliates, or the directors, officers, employees, Agents or
+contractors (excluding the Indemnified Party) of the Indemnifying Party or the
+Indemnifying Party’s Affiliates, in connection with this Agreement.
+20.2 Indemnification Process.
+20.2.1 As used in this Section 20, “Indemnified Person” means a person
+whom an Indemnifying Party is obligated to indemnify, defend and/or
+hold harmless under Section 20.1.
+20.2.2 An Indemnifying Party’s obligations under Section 20.1 shall be
+conditioned upon the following:
+20.2.3 The Indemnified Person: (a) shall give the Indemnifying Party notice
+of the Claim promptly after becoming aware thereof (including a
+statement of facts known to the Indemnified Person related to the
+Claim and an estimate of the amount thereof); (b) prior to taking any
+material action with respect to a Third Party Claim, shall consult with
+the Indemnifying Party as to the procedure to be followed in defending,
+settling, or compromising the Claim; (c) shall not consent to any
+settlement or compromise of a Third Party Claim without the written
+Wide Voice Comprehensive Ver3.4b-1-DC.doc 11
+
+consent of the Indemnifying Party; (d) shall permit the Indemnifying
+Party to assume the defense of a Third Party Claim (including, except
+as provided below, the compromise or settlement thereof) at the
+Indemnifying Party’s own cost and expense, provided, however, that
+the Indemnified Person shall have the right to approve the
+Indemnifying Party's choice of legal counsel.
+20.2.4 If the Indemnified Person fails to comply with Section 20.2.3 with
+respect to a Claim, to the extent such failure shall have a material
+adverse effect upon the Indemnifying Party, the Indemnifying Party
+shall be relieved of its obligation to indemnify, defend and hold
+harmless the Indemnified Person with respect to such Claim under this
+Agreement.
+20.2.5 Subject to 20.2.6 and 20.2.7, below, the Indemnifying Party shall have
+the authority to defend and settle any Third Party Claim.
+20.2.6 With respect to any Third Party Claim, the Indemnified Person shall be
+entitled to participate with the Indemnifying Party in the defense of the
+Claim if the Claim requests equitable relief or other relief that could
+affect the rights of the Indemnified Person. In so participating, the
+Indemnified Person shall be entitled to employ separate counsel for
+the defense at the Indemnified Person’s expense. The Indemnified
+Person shall also be entitled to participate, at its own expense, in the
+defense of any Claim, as to any portion of the Claim as to which it is
+not entitled to be indemnified, defended and held harmless by the
+Indemnifying Party.
+20.2.7 In no event shall the Indemnifying Party settle a Third Party Claim or
+consent to any judgment with regard to a Third Party Claim without the
+prior written consent of the Indemnified Party, which shall not be
+unreasonably withheld, conditioned or delayed. In the event the
+settlement or judgment requires a contribution from or affects the
+rights of an Indemnified Person, the Indemnified Person shall have the
+right to refuse such settlement or judgment with respect to itself and,
+at its own cost and expense, take over the defense against the Third
+Party Claim, provided that in such event the Indemnifying Party shall
+not be responsible for, nor shall it be obligated to indemnify or hold
+harmless the Indemnified Person against, the Third Party Claim for
+any amount in excess of such refused settlement or judgment.
+20.2.8 The Indemnified Person shall, in all cases, assert any and all
+provisions in applicable Tariffs and Customer contracts that limit
+liability to third persons as a bar to, or limitation on, any recovery by a
+third-person claimant.
+20.2.9 The Indemnifying Party and the Indemnified Person shall offer each
+other all reasonable cooperation and assistance in the defense of any
+Third Party Claim.
+20.3 Each Party agrees that it will not implead or bring any action against the other
+Party, the other Party’s Affiliates, or any of the directors, officers or employees of
+the other Party or the other Party’s Affiliates, based on any claim by any person
+for personal injury or death that occurs in the course or scope of employment of
+such person by the other Party or the other Party’s Affiliate and that arises out of
+performance of this Agreement.
+Wide Voice Comprehensive Ver3.4b-1-DC.doc 12
+
+20.4 Each Party’s obligations under this Section 20 shall survive expiration,
+cancellation or termination of this Agreement.
+21. Insurance
+21.1 Wide Voice shall maintain during the term of this Agreement and for a period of
+two years thereafter all insurance required to satisfy its obligations under this
+Agreement (including, but not limited to, its obligations set forth in Section 20
+hereof) and all insurance required by Applicable Law. The insurance shall be
+obtained from an insurer having an A.M. Best insurance rating of at least A-,
+financial size category VII or greater. At a minimum and without limiting the
+foregoing undertaking, Wide Voice shall maintain the following insurance:
+21.1.1 Commercial General Liability Insurance, on an occurrence basis,
+including but not limited to, premises-operations, broad form property
+damage, products/completed operations, contractual liability,
+independent contractors, and personal injury, with limits of at least
+$2,000,000 combined single limit for each occurrence.
+21.1.2 Commercial Motor Vehicle Liability Insurance covering all owned,
+hired and non-owned vehicles, with limits of at least $2,000,000
+combined single limit for each occurrence.
+21.1.3 Excess Liability Insurance, in the umbrella form, with limits of at least
+$10,000,000 combined single limit for each occurrence.
+21.1.4 Worker’s Compensation Insurance as required by Applicable Law and
+Employer’s Liability Insurance with limits of not less than $2,000,000
+per occurrence.
+21.1.5 All risk property insurance on a full replacement cost basis for all of
+Wide Voice's real and personal property located at any Collocation site
+or otherwise located on or in any Verizon premises (whether owned,
+leased or otherwise occupied by Verizon), facility, equipment or right-
+of-way.
+21.2 Any deductibles, self-insured retentions or loss limits (“Retentions”) for the
+foregoing insurance must be disclosed on the certificates of insurance to be
+provided to Verizon pursuant to Sections 21.4 and 21.5, and Verizon reserves
+the right to reject any such Retentions in its reasonable discretion. All Retentions
+shall be the responsibility of Wide Voice.
+21.3 Wide Voice shall name Verizon and Verizon’s Affiliates as additional insureds on
+the foregoing liability insurance.
+21.4 Wide Voice shall, within two (2) weeks of the Effective Date hereof at the time of
+each renewal of, or material change in, Wide Voice’s insurance policies, and at
+such other times as Verizon may reasonably specify, furnish certificates or other
+proof of the foregoing insurance reasonably acceptable to Verizon. The
+certificates or other proof of the foregoing insurance shall be sent to: Director-
+Negotiations, Verizon Partner Solutions, 600 Hidden Ridge, HQEWMNOTICES,
+Irving, TX 75038.
+21.5 Wide Voice shall require its contractors, if any, that may enter upon the premises
+or access the facilities or equipment of Verizon or Verizon’s affiliates to maintain
+insurance in accordance with Sections 21.1 through 21.3 and, if requested, to
+Wide Voice Comprehensive Ver3.4b-1-DC.doc 13
+
+furnish Verizon certificates or other adequate proof of such insurance acceptable
+to Verizon in accordance with Section 21.4.
+21.6 Failure of Wide Voice or Wide Voice’s contractors to maintain insurance and
+provide certificates of insurance as required in Sections 21.1 through 21.5,
+above, shall be deemed a material breach of this Agreement.
+21.7 Certificates furnished by Wide Voice or Wide Voice’s contractors shall contain a
+clause stating: “Verizon Washington, DC Inc. shall be notified in writing at least
+thirty (30) days prior to cancellation of, or any material change in, the insurance.”
+22. Intellectual Property
+22.1 Except as expressly stated in this Agreement, this Agreement shall not be
+construed as granting a license with respect to any patent, copyright, trade
+name, trademark, service mark, trade secret or any other intellectual property,
+now or hereafter owned, controlled or licensable by either Party. Except as
+expressly stated in this Agreement, neither Party may use any patent,
+copyrightable materials, trademark, trade name, trade secret or other intellectual
+property right, of the other Party except in accordance with the terms of a
+separate license agreement between the Parties granting such rights.
+22.2 Except as stated in Section 22.4, neither Party shall have any obligation to
+defend, indemnify or hold harmless, or acquire any license or right for the benefit
+of, or owe any other obligation or have any liability to, the other Party or its
+Affiliates or Customers based on or arising from any Third Party Claim alleging or
+asserting that the provision or use of any service, facility, arrangement, or
+software by either Party under this Agreement, or the performance of any service
+or method, either alone or in combination with the other Party, constitutes direct,
+vicarious or contributory infringement or inducement to infringe, or misuse or
+misappropriation of any patent, copyright, trademark, trade secret, or any other
+proprietary or intellectual property right of any Party or third person. Each Party,
+however, shall offer to the other reasonable cooperation and assistance in the
+defense of any such claim.
+22.3 NOTWITHSTANDING ANY OTHER PROVISION OF THIS AGREEMENT, THE
+PARTIES AGREE THAT NEITHER PARTY HAS MADE, AND THAT THERE
+DOES NOT EXIST, ANY WARRANTY, EXPRESS OR IMPLIED, THAT THE
+USE BY EACH PARTY OF THE OTHER’S SERVICES PROVIDED UNDER
+THIS AGREEMENT SHALL NOT GIVE RISE TO A CLAIM OF INFRINGEMENT,
+MISUSE, OR MISAPPROPRIATION OF ANY INTELLECTUAL PROPERTY
+RIGHT.
+22.4 Wide Voice agrees that the Services provided by Verizon hereunder shall be
+subject to the terms, conditions and restrictions contained in any applicable
+agreements (including, but not limited to software or other intellectual property
+license agreements) between Verizon and Verizon’s vendors. Verizon agrees to
+advise Wide Voice, directly or through a third party, of any such terms, conditions
+or restrictions that may limit any Wide Voice use of a Service provided by Verizon
+that is otherwise permitted by this Agreement. At Wide Voice’s written request,
+to the extent required by Applicable Law, Verizon will use Verizon’s best efforts,
+as commercially practicable, to obtain intellectual property rights from Verizon’s
+vendor to allow Wide Voice to use the Service in the same manner as Verizon
+that are coextensive with Verizon’s intellectual property rights, on terms and
+conditions that are equal in quality to the terms and conditions under which
+Verizon has obtained Verizon’s intellectual property rights. Wide Voice shall
+reimburse Verizon for the cost of obtaining such rights.
+Wide Voice Comprehensive Ver3.4b-1-DC.doc 14
+
+23. Joint Work Product
+The Principal Document is the joint work product of the Parties, has been negotiated by
+the Parties, and shall be fairly interpreted in accordance with its terms. In the event of
+any ambiguities, no inferences shall be drawn against either Party.
+24. Law Enforcement
+24.1 Each Party may cooperate with law enforcement authorities and national security
+authorities to the full extent required or permitted by Applicable Law in matters
+related to Services provided by it under this Agreement, including, but not limited
+to, the production of records, the establishment of new lines or the installation of
+new services on an existing line in order to support law enforcement and/or
+national security operations, and, the installation of wiretaps, trap-and-trace
+facilities and equipment, and dialed number recording facilities and equipment.
+24.2 A Party shall not have the obligation to inform the other Party or the Customers
+of the other Party of actions taken in cooperating with law enforcement or
+national security authorities, except to the extent required by Applicable Law.
+24.3 Where a law enforcement or national security request relates to the
+establishment of lines (including, but not limited to, lines established to support
+interception of communications on other lines), or the installation of other
+services, facilities or arrangements, a Party may act to prevent the other Party
+from obtaining access to information concerning such lines, services, facilities
+and arrangements, through operations support system interfaces.
+25. Liability
+25.1 As used in this Section 25, “Service Failure” means a failure to comply with a
+direction to install, restore or terminate Services under this Agreement, a failure
+to provide Services under this Agreement, and failures, mistakes, omissions,
+interruptions, delays, errors, defects or the like, occurring in the course of the
+provision of any Services under this Agreement.
+25.2 Except as otherwise stated in Section 25.5, the liability, if any, of a Party, a
+Party’s Affiliates, and the directors, officers and employees of a Party and a
+Party’s Affiliates, to the other Party, the other Party’s Customers, and to any
+other person, for Claims arising out of a Service Failure shall not exceed an
+amount equal to the pro rata applicable monthly charge for the Services that are
+subject to the Service Failure for the period in which such Service Failure occurs.
+25.3 Except as otherwise stated in Section 25.5, a Party, a Party’s Affiliates, and the
+directors, officers and employees of a Party and a Party’s Affiliates, shall not be
+liable to the other Party, the other Party’s Customers, or to any other person, in
+connection with this Agreement (including, but not limited to, in connection with a
+Service Failure or any breach, delay or failure in performance, of this Agreement)
+for special, indirect, incidental, consequential, reliance, exemplary, punitive, or
+like damages, including, but not limited to, damages for lost revenues, profits or
+savings, or other commercial or economic loss, even if the person whose liability
+is excluded by this Section has been advised of the possibility of such damages.
+25.4 The limitations and exclusions of liability stated in Sections 25.1 through 25.3
+shall apply regardless of the form of a claim or action, whether statutory, in
+contract, warranty, strict liability, tort (including, but not limited to, negligence of a
+Party), or otherwise.
+Wide Voice Comprehensive Ver3.4b-1-DC.doc 15
+
+25.5 Nothing contained in Sections 25.1 through 25.4 shall exclude or limit liability:
+25.5.1 under Sections 20, Indemnification, or 41, Taxes.
+25.5.2 for any obligation to indemnify, defend and/or hold harmless that a
+Party may have under this Agreement.
+25.5.3 for damages arising out of or resulting from bodily injury to or death of
+any person, or damage to, or destruction or loss of, tangible real
+and/or personal property of any person, or Toxic or Hazardous
+Substances, to the extent such damages are otherwise recoverable
+under Applicable Law;
+25.5.4 for a claim for infringement of any patent, copyright, trade name, trade
+mark, service mark, or other intellectual property interest;
+25.5.5 under Section 258 of the Act or any order of FCC or the Commission
+implementing Section 258; or
+25.5.6 under the financial incentive or remedy provisions of any service
+quality plan required by the FCC or the Commission.
+25.6 In the event that the liability of a Party, a Party’s Affiliate, or a director, officer or
+employee of a Party or a Party’s Affiliate, is limited and/or excluded under both
+this Section 25 and a provision of an applicable Tariff, the liability of the Party or
+other person shall be limited to the smaller of the amounts for which such Party
+or other person would be liable under this Section or the Tariff provision.
+25.7 Each Party shall, in its tariffs and other contracts with its Customers, provide that
+in no case shall the other Party, the other Party’s Affiliates, or the directors,
+officers or employees of the other Party or the other Party’s Affiliates, be liable to
+such Customers or other third-persons for any special, indirect, incidental,
+consequential, reliance, exemplary, punitive or other damages, arising out of a
+Service Failure.
+26. Network Management
+26.1 Cooperation. The Parties will work cooperatively in a commercially reasonable
+manner to install and maintain a reliable network. Wide Voice and Verizon will
+exchange appropriate information (e.g., network information, maintenance
+contact numbers, escalation procedures, and information required to comply with
+requirements of law enforcement and national security agencies) to achieve this
+desired reliability. In addition, the Parties will work cooperatively in a
+commercially reasonable manner to apply sound network management principles
+to alleviate or to prevent traffic congestion and subject to Section 17, to minimize
+fraud associated with third number billed calls, calling card calls, and other
+services related to this Agreement.
+26.2 Responsibility for Following Standards. Each Party recognizes a responsibility to
+follow the standards that may be agreed to between the Parties and to employ
+characteristics and methods of operation that will not interfere with or impair the
+service, network or facilities of the other Party or any third parties connected with
+or involved directly in the network or facilities of the other.
+26.3 Interference or Impairment. If a Party (“Impaired Party”) reasonably determines
+that the services, network, facilities, or methods of operation, of the other Party
+(“Interfering Party”) will or are likely to interfere with or impair the Impaired Party’s
+Wide Voice Comprehensive Ver3.4b-1-DC.doc 16
+
+provision of services or the operation of the Impaired Party’s network or facilities,
+the Impaired Party may interrupt or suspend any Service provided to the
+Interfering Party to the extent necessary to prevent such interference or
+impairment, subject to the following:
+26.3.1 Except in emergency situations (e.g., situations involving a risk of
+bodily injury to persons or damage to tangible property, or an
+interruption in Customer service) or as otherwise provided in this
+Agreement, the Impaired Party shall have given the Interfering Party at
+least ten (10) days’ prior written notice of the interference or
+impairment or potential interference or impairment and the need to
+correct the condition within said time period; and taken other actions, if
+any, required by Applicable Law; and,
+26.3.2 Upon correction of the interference or impairment, the Impaired Party
+will promptly restore the interrupted or suspended Service. The
+Impaired Party shall not be obligated to provide an out-of-service
+credit allowance or other compensation to the Interfering Party in
+connection with the suspended Service.
+26.4 Outage Repair Standard. In the event of an outage or trouble in any Service
+being provided by a Party hereunder, the Providing Party will follow Verizon’s
+standard procedures for isolating and clearing the outage or trouble.
+27. Non-Exclusive Remedies
+Except as otherwise expressly provided in this Agreement, each of the remedies
+provided under this Agreement is cumulative and is in addition to any other remedies that
+may be available under this Agreement or at law or in equity.
+28. Notice of Network Changes
+If a Party makes a change in the information necessary for the transmission and routing
+of services using that Party’s facilities or network, or any other change in its facilities or
+network that will materially affect the interoperability of its facilities or network with the
+other Party’s facilities or network, the Party making the change shall publish notice of the
+change at least ninety (90) days in advance of such change, and shall use reasonable
+efforts, as commercially practicable, to publish such notice at least one hundred eighty
+(180) days in advance of the change; provided, however, that if an earlier publication of
+notice of a change is required by Applicable Law (including, but not limited to, 47 CFR
+51.325 through 51.335) notice shall be given at the time required by Applicable Law.
+29. Notices
+29.1 Except as otherwise provided in this Agreement, notices given by one Party to
+the other Party under this Agreement:
+29.1.1 shall be in writing;
+29.1.2 shall be delivered (a) personally, (b) by express delivery service with
+next Business Day delivery, (c) by first class, certified or registered
+U.S. mail, postage prepaid, or (d) by facsimile telecopy, with a copy
+delivered in accordance with (a), (b) or (c), preceding; and
+29.1.3 shall be delivered to the following addresses of the Parties:
+To Wide Voice:
+Wide Voice Comprehensive Ver3.4b-1-DC.doc 17
+
+Tandy DeCosta
+410 South Rampart, Suite 390
+Las Vegas, NV 89145
+Telephone Number: (702) 553-3007, Ext.: None
+Facsimile Number: (562) 437-1422
+Internet Address: tdecosta@widevoice.com
+To Verizon:
+Director-Negotiations
+Verizon Partner Solutions
+600 Hidden Ridge
+HQEWMNOTICES
+Irving, TX 75038
+Facsimile Number: (972) 719-1519
+Internet Address: wmnotices@verizon.com
+with a copy to:
+Vice President and Deputy General Counsel
+Verizon Partner Solutions
+1320 North Court House Road
+9th Floor
+Arlington, VA 22201
+Facsimile: (703) 351-3656
+or to such other address as either Party shall designate by proper notice.
+Notices will be deemed given as of the earlier of (a) where there is personal
+delivery of the notice, the date of actual receipt, (b) where the notice is sent via
+express delivery service for next Business Day delivery, the next Business Day
+after the notice is sent, (c) where the notice is sent via First Class U.S. Mail,
+three (3) Business Days after mailing, (d) where notice is sent via certified or
+registered U.S. mail, the date of receipt shown on the Postal Service receipt, and
+(e) where the notice is sent via facsimile telecopy, if the notice is sent on a
+Business Day and before 5 PM. in the time zone where it is received, on the date
+set forth on the telecopy confirmation, or if the notice is sent on a non-Business
+Day or if the notice is sent after 5 PM in the time zone where it is received, the
+next Business Day after the date set forth on the telecopy confirmation.
+Wide Voice shall notify Verizon, by written notice pursuant to this Section 29, of
+any changes in the addresses or other Wide Voice contact information identified
+under Section 29.1.3 above.
+30. Ordering and Maintenance
+Wide Voice shall use Verizon’s electronic Operations Support System access platforms
+to submit Orders and requests for maintenance and repair of Services, and to engage in
+other pre-ordering, ordering, provisioning, maintenance and repair transactions. If
+Verizon has not yet deployed an electronic capability for Wide Voice to perform a pre-
+ordering, ordering, provisioning, maintenance or repair, transaction offered by Verizon,
+Wide Voice shall use such other processes as Verizon has made available for performing
+such transaction (including, but not limited, to submission of Orders by telephonic
+facsimile transmission and placing trouble reports by voice telephone transmission).
+31. Performance Standards
+Wide Voice Comprehensive Ver3.4b-1-DC.doc 18
+
+31.1 Verizon shall provide Services under this Agreement in accordance with the
+performance standards required by Applicable Law, including, but not limited to,
+Section 251(c) of the Act.
+31.2 Wide Voice shall provide Services under this Agreement in accordance with the
+performance standards required by Applicable Law.
+32. Point of Contact for Wide Voice Customers
+32.1 Wide Voice shall establish telephone numbers and mailing addresses at which
+Wide Voice Customers may communicate with Wide Voice and shall advise Wide
+Voice Customers of these telephone numbers and mailing addresses.
+32.2 Except as otherwise agreed to by Verizon, Verizon shall have no obligation, and
+may decline, to accept a communication from a Wide Voice Customer, including,
+but not limited to, a Wide Voice Customer request for repair or maintenance of a
+Verizon Service provided to Wide Voice.
+33. Predecessor Agreements
+33.1 Except as stated in Section 33.2 or as otherwise agreed in writing by the Parties:
+33.1.1 Further to the provisions of Section 1 of the General Terms and
+Conditions of this Agreement, any prior interconnection or resale
+agreement between the Parties for the District of Columbia pursuant to
+Section 252 of the Act and in effect prior to the Effective Date is
+hereby amended, extended and restated; and
+33.1.2 any Services that were purchased by one Party from the other Party
+under a prior interconnection or resale agreement between the Parties
+for the District of Columbia pursuant to Section 252 of the Act and in
+effect prior to the Effective Date, shall as of the Effective Date be
+subject to and purchased under this Agreement.
+33.2 Except as otherwise agreed in writing by the Parties, if a Service purchased by a
+Party under a prior interconnection or resale agreement between the Parties
+pursuant to Section 252 of the Act was subject to a contractual commitment that
+it would be purchased for a period of longer than one month, and such period
+had not yet expired as of the Effective Date and the Service had not been
+terminated prior to the Effective Date, to the extent not inconsistent with this
+Agreement, such commitment shall remain in effect and the Service will be
+purchased under this Agreement; provided, that if this Agreement would
+materially alter the terms of the commitment, either Party may elect to cancel the
+commitment.
+33.3 If either Party elects to cancel the commitment pursuant to the proviso in Section
+33.2, the Purchasing Party shall not be liable for any termination charge that
+would otherwise have applied. However, if the commitment was cancelled by the
+Purchasing Party, the Providing Party shall be entitled to payment from the
+Purchasing Party of the difference between the price of the Service that was
+actually paid by the Purchasing Party under the commitment and the price of the
+Service that would have applied if the commitment had been to purchase the
+Service only until the time that the commitment was cancelled.
+34. Publicity and Use of Trademarks or Service Marks
+Wide Voice Comprehensive Ver3.4b-1-DC.doc 19
+
+34.1 A Party, its Affiliates, and their respective contractors and Agents, shall not use
+the other Party’s trademarks, service marks, logos or other proprietary trade
+dress, in connection with the sale of products or services, or in any advertising,
+press releases, publicity matters or other promotional materials, unless the other
+Party has given its written consent for such use, which consent the other Party
+may grant or withhold in its sole discretion.
+34.2 Neither Party may imply any direct or indirect affiliation with or sponsorship or
+endorsement of it or its services or products by the other Party.
+34.3 Any violation of this Section 34 shall be considered a material breach of this
+Agreement.
+35. References
+35.1 All references to Sections, Appendices and Exhibits shall be deemed to be
+references to Sections, Appendices and Exhibits of this Agreement unless the
+context shall otherwise require.
+35.2 Unless the context shall otherwise require, any reference to a Tariff, agreement,
+technical or other document (including Verizon or third party guides, practices or
+handbooks), or provision of Applicable Law, is to such Tariff, agreement,
+document, or provision of Applicable Law, as amended and supplemented from
+time to time (and, in the case of a Tariff or provision of Applicable Law, to any
+successor Tariff or provision).
+36. Relationship of the Parties
+36.1 The relationship of the Parties under this Agreement shall be that of independent
+contractors and nothing herein shall be construed as creating any other
+relationship between the Parties.
+36.2 Nothing contained in this Agreement shall make either Party the employee of the
+other, create a partnership, joint venture, or other similar relationship between
+the Parties, or grant to either Party a franchise, distributorship or similar interest.
+36.3 Except for provisions herein expressly authorizing a Party to act for another
+Party, nothing in this Agreement shall constitute a Party as a legal representative
+or Agent of the other Party, nor shall a Party have the right or authority to
+assume, create or incur any liability or any obligation of any kind, express or
+implied, against, in the name or on behalf of the other Party unless otherwise
+expressly permitted by such other Party in writing, which permission may be
+granted or withheld by the other Party in its sole discretion.
+36.4 Each Party shall have sole authority and responsibility to hire, fire, compensate,
+supervise, and otherwise control its employees, Agents and contractors. Each
+Party shall be solely responsible for payment of any Social Security or other
+taxes that it is required by Applicable Law to pay in conjunction with its
+employees, Agents and contractors, and for withholding and remitting to the
+applicable taxing authorities any taxes that it is required by Applicable Law to
+collect from its employees.
+36.5 Except as otherwise expressly provided in this Agreement, no Party undertakes
+to perform any obligation of the other Party, whether regulatory or contractual, or
+to assume any responsibility for the management of the other Party's business.
+Wide Voice Comprehensive Ver3.4b-1-DC.doc 20
+
+36.6 The relationship of the Parties under this Agreement is a non-exclusive
+relationship.
+37. Reservation of Rights
+37.1 Notwithstanding anything to the contrary in this Agreement, neither Party waives,
+and each Party hereby expressly reserves, its rights: (a) to appeal or otherwise
+seek the reversal of and changes in any arbitration decision associated with this
+Agreement; (b) to challenge the lawfulness of this Agreement and any provision
+of this Agreement; (c) to seek changes in this Agreement (including, but not
+limited to, changes in rates, charges and the Services that must be offered)
+through changes in Applicable Law; (d) to challenge the lawfulness and propriety
+of, and to seek to change, any Applicable Law, including, but not limited to any
+rule, regulation, order or decision of the Commission, the FCC, or a court of
+applicable jurisdiction; and (e) to collect debts owed to it under any prior
+interconnection or resale agreements. Nothing in this Agreement shall be
+deemed to limit or prejudice any position a Party has taken or may take before
+the Commission, the FCC, any other state or federal regulatory or legislative
+bodies, courts of applicable jurisdiction, or industry fora. The provisions of this
+Section shall survive the expiration, cancellation or termination of this
+Agreement.
+37.2 Wide Voice acknowledges Wide Voice has been advised by Verizon that it is
+Verizon’s position that this Agreement contains certain provisions which are
+intended to reflect Applicable Law and Commission and/or FCC arbitration
+decisions.
+38. Subcontractors
+A Party may use a contractor of the Party (including, but not limited to, an Affiliate of the
+Party) to perform the Party’s obligations under this Agreement; provided, that a Party’s
+use of a contractor shall not release the Party from any duty or liability to fulfill the Party’s
+obligations under this Agreement.
+39. Successors and Assigns
+This Agreement shall be binding on and inure to the benefit of the Parties and their
+respective legal successors and permitted assigns.
+40. Survival
+The rights, liabilities and obligations of a Party for acts or omissions occurring prior to the
+expiration, cancellation or termination of this Agreement, the rights, liabilities and
+obligations of a Party under any provision of this Agreement regarding confidential
+information (including but not limited to, Section 10), indemnification or defense
+(including, but not limited to, Section 20), or limitation or exclusion of liability (including,
+but not limited to, Section 25), and the rights, liabilities and obligations of a Party under
+any provision of this Agreement which by its terms or nature is intended to continue
+beyond or to be performed after the expiration, cancellation or termination of this
+Agreement, shall survive the expiration, cancellation or termination of this Agreement.
+41. Taxes
+41.1 In General. With respect to any purchase of Services under this Agreement, if
+any federal, state or local tax, fee, surcharge or other tax-like charge, excluding
+any tax levied on property or net income, (a "Tax") is required or permitted by
+Applicable Law or a Tariff to be collected from the Purchasing Party by the
+Wide Voice Comprehensive Ver3.4b-1-DC.doc 21
+
+Providing Party, then (a) the Providing Party shall bill the Purchasing Party for
+such Tax, as a separately stated item on the invoice, (b) the Purchasing Party
+shall timely remit such Tax to the Providing Party and (c) the Providing Party
+shall timely remit such collected Tax to the applicable taxing authority as and to
+the extent required by Applicable Law.
+41.2 Taxes Imposed on the Providing Party or Receipts. With respect to any
+purchase of Services under this Agreement, if any federal, state or local Tax is
+imposed by Applicable Law on the receipts of the Providing Party, and such
+Applicable Law permits the Providing Party to exclude certain receipts received
+from sales to a public utility, distributor, telephone company, local exchange
+carrier, telecommunications company or other communications company
+(“Telecommunications Company”), such exclusion being based on the fact that
+the Purchasing Party is also subject to a tax based upon receipts (“Receipts
+Tax”), then the Purchasing Party shall pay and remit the Receipts Tax as
+required by Applicable Law.
+41.3 Taxes Imposed on Subscriber. With respect to any purchase of Services under
+this Agreement that are resold to a third party, if any federal, state or local Tax is
+imposed by Applicable Law on the subscriber, end-user, customer or ultimate
+consumer (“Subscriber”) in connection with any such purchase, which a
+Telecommunications Company is required to impose and/or collect from a
+Subscriber, or if any federal, state or local Tax is imposed on the Providing Party
+and required by Applicable Law to be passed through to the Subscriber, then the
+Purchasing Party (a) shall impose and/or collect such Tax from the Subscriber
+and (b) shall timely remit such Tax to the applicable taxing authority.
+41.4 Tax Exemptions and Exemption Certificates. If Applicable Law clearly exempts a
+purchase hereunder from a Tax, and if such Applicable Law also provides an
+exemption procedure, such as an exemption certificate requirement, then, if the
+Purchasing Party complies with such procedure, the Providing Party shall not
+collect such Tax during the effective period of such exemption. Such exemption
+shall be effective upon receipt of the exemption certificate or affidavit in
+accordance with the terms set forth in Section 41.7. If Applicable Law clearly
+exempts a purchase hereunder from a Tax, but does not also provide an
+exemption procedure, then the Providing Party shall not collect such Tax if the
+Purchasing Party (a) furnishes the Providing Party with a letter signed by an
+officer requesting such an exemption and citing the provision in the Applicable
+Law which clearly allows such exemption and (b) supplies the Providing Party
+with an indemnification agreement, acceptable to the Providing Party, which
+holds the Providing Party harmless on an after-tax basis with respect to its
+forbearing to collect such Tax.
+41.5 Liability for Uncollected Tax, Interest and Penalty.
+41.5.1 If the Providing Party has not received an exemption certificate from
+the Purchasing Party and the Providing Party fails to bill the
+Purchasing Party for any Tax as required by Section 41.1, then, as
+between the Providing Party and the Purchasing Party, (a) the
+Purchasing Party shall remain liable for such unbilled Tax and any
+interest assessed thereon and (b) the Providing Party shall be liable
+for any penalty assessed with respect to such unbilled Tax by a taxing
+authority.
+41.5.2 If the Providing Party properly bills the Purchasing Party for any Tax
+but the Purchasing Party fails to remit such Tax to the Providing Party
+as required by Section 41.2, then, as between the Providing Party and
+Wide Voice Comprehensive Ver3.4b-1-DC.doc 22
+
+the Purchasing Party, the Purchasing Party shall be liable for such
+uncollected Tax and any interest assessed thereon, as well as any
+penalty assessed with respect to such uncollected Tax by the
+applicable taxing authority.
+41.5.3 If the Providing Party does not collect any Tax as required by Section
+41.1 because the Purchasing Party has provided such Providing Party
+with an exemption certificate that is later found to be inadequate,
+invalid or inapplicable by a taxing authority, then, as between the
+Providing Party and the Purchasing Party, the Purchasing Party shall
+be liable for such uncollected Tax and any interest assessed thereon,
+as well as any penalty assessed with respect to such uncollected Tax
+by the applicable taxing authority.
+41.5.4 If the Purchasing Party fails to pay the Receipts Tax as required by
+Section 41.2, then, as between the Providing Party and the
+Purchasing Party, (a) the Providing Party shall be liable for any Tax
+imposed on its receipts and (b) the Purchasing Party shall be liable for
+any interest assessed thereon and any penalty assessed upon the
+Providing Party with respect to such Tax by the applicable taxing
+authority.
+41.5.5 If the Purchasing Party fails to impose and/or collect any Tax from
+Subscribers as required by Section 41.3, then, as between the
+Providing Party and the Purchasing Party, the Purchasing Party shall
+remain liable for such uncollected Tax and any interest assessed
+thereon, as well as any penalty assessed with respect to such
+uncollected Tax by the applicable taxing authority. With respect to any
+Tax that the Purchasing Party has agreed to pay, or is required to
+impose on and/or collect from Subscribers, the Purchasing Party
+agrees to indemnify and hold the Providing Party harmless on an after-
+tax basis for any costs incurred by the Providing Party as a result of
+actions taken by the applicable taxing authority to recover the Tax
+from the Providing Party due to the failure of the Purchasing Party to
+timely pay, or collect and timely remit, such Tax to such authority.
+41.6 Audit Cooperation. In the event either Party is audited by a taxing authority, the
+other Party agrees to cooperate fully with the Party being audited in order to
+respond to any audit inquiries in a proper and timely manner so that the audit
+and/or any resulting controversy may be resolved expeditiously.
+41.7 Notices. All notices, affidavits, exemption-certificates or other communications
+required or permitted to be given by either Party to the other, for purposes of this
+Section 41, shall be made in writing and shall be delivered in person or sent by
+certified mail, return receipt requested, or registered mail, or a courier service
+providing proof of service, and sent to the addressees set forth in Section 29 as
+well as to the following:
+To Verizon:
+Verizon Communications
+Tax Department
+One Verizon Way, VC53S-221
+Basking Ridge, NJ 07920
+To Wide Voice:
+Wide Voice Comprehensive Ver3.4b-1-DC.doc 23
+
+Shane Murphy
+410 South Rampart, Suite 390
+Las Vegas, Nevada 89145
+Each Party may from time to time designate another address or other
+addressees by giving notice in accordance with the terms of this Section. Any
+notice or other communication shall be deemed to be given when received.
+42. Technology Upgrades
+Notwithstanding any other provision of this Agreement, Verizon shall have the right to
+deploy, upgrade, migrate and maintain its network at its discretion. The Parties
+acknowledge that Verizon, at its election, may deploy fiber throughout its network and
+that such fiber deployment may inhibit or facilitate Wide Voice’s ability to provide service
+using certain technologies. Nothing in this Agreement shall limit Verizon's ability to
+modify its network through the incorporation of new equipment or software or otherwise.
+Wide Voice shall be solely responsible for the cost and activities associated with
+accommodating such changes in its own network.
+43. Territory
+43.1 This Agreement applies to the territory in which Verizon operates as an
+Incumbent Local Exchange Carrier in the District of Columbia. Verizon shall be
+obligated to provide Services under this Agreement only within this territory.
+43.2 Notwithstanding any other provision of this Agreement, Verizon may terminate
+this Agreement as to a specific operating territory or portion thereof if Verizon
+sells or otherwise transfers its operations in such territory or portion thereof to a
+third-person. Verizon shall provide Wide Voice with at least 90 calendar days
+prior written notice of such termination, which shall be effective upon the date
+specified in the notice.
+44. Third Party Beneficiaries
+Except as expressly set forth in this Agreement, this Agreement is for the sole benefit of
+the Parties and their permitted assigns, and nothing herein shall create or be construed
+to provide any third-persons (including, but not limited to, Customers or contractors of a
+Party) with any rights (including, but not limited to, any third-party beneficiary rights)
+hereunder. Except as expressly set forth in this Agreement, a Party shall have no liability
+under this Agreement to the Customers of the other Party or to any other third person.
+45. [This Section Intentionally Left Blank]
+46. 252(i) Obligations
+To the extent required by Applicable Law, each Party shall comply with Section 252(i) of
+the Act. To the extent that the exercise by Wide Voice of any rights it may have under
+Section 252(i) results in the rearrangement of Services by Verizon, Wide Voice shall be
+solely liable for all costs associated therewith, as well as for any termination charges
+associated with the termination of existing Verizon Services.
+47. Use of Service
+Each Party shall make commercially reasonable efforts to ensure that its Customers
+comply with the provisions of this Agreement (including, but not limited to the provisions
+of applicable Tariffs) applicable to the use of Services purchased by it under this
+Agreement.
+Wide Voice Comprehensive Ver3.4b-1-DC.doc 24
+
+48. Waiver
+A failure or delay of either Party to enforce any of the provisions of this Agreement, or
+any right or remedy available under this Agreement or at law or in equity, or to require
+performance of any of the provisions of this Agreement, or to exercise any option which is
+provided under this Agreement, shall in no way be construed to be a waiver of such
+provisions, rights, remedies or options.
+49. Warranties
+EXCEPT AS EXPRESSLY STATED IN THIS AGREEMENT, NEITHER PARTY MAKES
+OR RECEIVES ANY WARRANTY, EXPRESS OR IMPLIED, WITH RESPECT TO THE
+SERVICES PROVIDED, OR TO BE PROVIDED, UNDER THIS AGREEMENT AND THE
+PARTIES DISCLAIM ANY OTHER WARRANTIES, INCLUDING BUT NOT LIMITED TO,
+WARRANTIES OF MERCHANTABILITY, WARRANTIES OF FITNESS FOR A
+PARTICULAR PURPOSE WARRANTIES AGAINST INFRINGEMENT, AND
+WARRANTIES ARISING BY TRADE CUSTOM, TRADE USAGE, COURSE OF
+DEALING OR PERFORMANCE, OR OTHERWISE.
+50. Withdrawal of Services
+50.1 Notwithstanding anything contained in this Agreement, except as otherwise
+required by Applicable Law, Verizon may terminate its offering and/or provision of
+any Service under this Agreement upon thirty (30) days prior written notice to
+Wide Voice.
+50.2 Notwithstanding anything contained in this Agreement, except as otherwise
+required by Applicable Law, Verizon may with thirty (30) days prior written notice
+to Wide Voice terminate any provision of this Agreement that provides for the
+payment by Verizon to Wide Voice of compensation related to traffic, including,
+but not limited to, Reciprocal Compensation and other types of compensation for
+termination of traffic delivered by Verizon to Wide Voice. Following such
+termination, except as otherwise agreed in writing by the Parties, Verizon shall
+be obligated to provide compensation to Wide Voice related to traffic only to the
+extent required by Applicable Law. If Verizon exercises its right of termination
+under this Section, the Parties shall negotiate in good faith appropriate substitute
+provisions for compensation related to traffic; provided, however, that except as
+otherwise voluntarily agreed by Verizon in writing in its sole discretion, Verizon
+shall be obligated to provide compensation to Wide Voice related to traffic only to
+the extent required by Applicable Law. If within thirty (30) days after Verizon’s
+notice of termination the Parties are unable to agree in writing upon mutually
+acceptable substitute provisions for compensation related to traffic, either Party
+may submit their disagreement to dispute resolution in accordance with Section
+14 of this Agreement.
+Wide Voice Comprehensive Ver3.4b-1-DC.doc 25
+
+EXHIBIT E
+PROOF OF 499 FILING
+
+EXHIBIT F
+DIAGRAM OF OWNERSHIP

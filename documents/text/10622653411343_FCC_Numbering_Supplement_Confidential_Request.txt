@@ -1,0 +1,107 @@
+TNC Communications T 919.275.5172
+624 Holly Springs Rd. addam@tncconnected.com
+Suite 409 tncconnected.com
+Holly Springs, NC 27540
+Addam Holdorf
+CxO Emerging Markets & Hospitality Team
+Via Electronic Comment Filing System & Federal Express
+Date: 10‐JUNE‐2021
+Ms. Marlene Dortch
+Secretary
+Federal Communications Commission
+445 12th Street SW
+Washington, DC 20554
+Re: Request for Confidential Treatment for Application of TNC Communications, Inc. For Authorization to
+Obtain Numbering Resources Pursuant to Section 52.15(g) of the Commission’s Rules
+Dear Ms. Dortch:
+Pursuant to Section 51.15(g)(3)(i) of the Commission’s Rules, TNC Communications, Inc. (“TNC”) hereby
+submits its application requesting authorization to obtain numbering resources.
+TNC respectfully requests that, pursuant to Sections 0.457 and 0.459 of the Commission’s rules, 47 C.F.R.
+§§ 0.457 and 0.459, the Commission withhold from public inspection and treatment Exhibit 2 to this
+application as confidential because that document contains sensitive trade secrets and commercial
+information that falls within Exemption 4 of the Freedom of Information Act (“FOIA”).1 The information in
+Exhibit 2 is “of a kind that would not customarily be released to the public,” therefore, this information
+qualified for confidential treatment under FOIA2. TNC respectfully submits that it would suffer substantial
+competitive harm if this information were disclosed.3
+TNC hereby certifies that it has the managerial, technical, and financial ability to provide reliable service.
+TNC is a wireless and fiber provider that provides high speed internet and phone services via VoIP primarily
+to commercial customers. None of the identified personnel in the Application of TNC Communications for
+Authorization to Obtain Numbering Resources are being or have been investigated by the Commission, any
+law enforcement agency, or any regulatory agency for failure to comply with any law, rule, or order.
+Exhibit 2 is accordingly marked with the header “SUBJECT TO REQUEST FOR CONFIDENTIAL TREATMENT ‐
+NOT FOR PUBLIC INSPECTION.”
+________________________
+1 5 U.S.C. § 552(b)(4).
+2 See Critical Mass Energy Project v. NRC, 975 F.2d 871, 879 (D.C. Cir. 1992).
+3 See National Parks and Conservation Ass’n v. Morton, 498 F.2d 765 (D.C. Cir. 1974).
+
+Ms. Marlene H. Dortch
+10‐JUNE‐2021
+Page 2 of 3
+In support of this request and pursuant to Section 0.459(b) of the Commission’s rules,4 TNC hereby states
+as follows:
+1. IDENTIFICATION OF THE SPECIFIC INFORMATION FOR WHICH CONFIDENTIAL TREATMENT IS
+SOUGHT5
+TNC seeks confidential treatment of Exhibit 2 to the enclosed supplement.
+2. DESCRIPTION OF CIRCUMSTANCES GIVING RISE TO THE SUBMISSION6
+TNC is submitting the supplement, a Confidential agreement between it and its carrier partner, as
+proof of TNC’s facilities readiness as required by Section 52.15(g)(3)(i)(D) of the Commission's
+rules.
+3. EXPLANATION OF THE DEGREE TO WHICH THE INFORMATION IS COMMERCIAL OR FINANCIAL,
+OR CONTAINS A TRADE SECRET OR IS PRIVILEGED7
+The information for which TNC seeks confidential treatment contains sensitive commercial
+information “which would customarily be guarded from competitors.”8 Exhibit 2 consists of a
+commercial agreement between TNC and its carrier partner and contains proprietary commercial
+information concerning TNC’s network, customers, and services.
+4. EXPLANATION OF THE DEGREE TO WHICH THE INFORMATION CONCERNS A SERVICE THAT IS
+SUBJECT TO COMPETITION9
+Exhibit 2 contains information relating to commercial matters that could be used by competitors
+to TNC’s disadvantage. TNC has numerous competitors in the Voice over Internet Protocol
+(“VoIP”) services sector in which it operates. Detailed operations and commercial information of
+the type provided by TNC could compromise TNC’s positions in this highly competitive industry.
+Release would therefore result in substantial competitive harm to TNC.
+______________________________
+4 47 C.F.R. § 0.459(b).
+5 47 C.F.R. § 0.459(b)(1).
+6 47 C.F.R. § 0.459(b)(2).
+7 47 C.F.R. § 0.459(b)(3).
+8 47 C.F.R. § 0.459(b)(2).
+9 47 C.F.R. § 0.459(b)(4).
+
+Ms. Marlene H. Dortch
+10‐JUNE‐2021
+Page 3 of 3
+5. EXPLANATION OF HOW DISCLOSURE OF THE INFORMATION COULD RESULT IN SUBSTANTIAL
+COMPETITIVE HARM10
+Competitors could use TNC’s proprietary commercial and operational information to TNC’s detriment as
+they would gain access to sensitive information about how TNC provides services as well as about TNC’s
+commercial agreements with others in the market that are not normally disclosed to the public.
+6. IDENTIFICATION OF ANY MEASURE TAKEN BY THE SUBMITTING PARTY TO PREVENT
+UNAUTHORIZED DISCLOSURE11
+TNC has not distributed the information in Exhibit 2 to the public.
+7. IDENTIFICATION OF WHETHER THE INFORMATION IS AVAILABLE TO THE PUBLIC AND THE
+EXTENT OF ANY PREVIOUS DISCLOSURE OF THE INFORMATION TO THIRD PARTIES12
+TNC has not previously disclosed the information in Exhibit 2.
+8. JUSTIFICATION OF THE PERIOD DURING WHICH THE SUBMITTING PARTY ASSERTS THAT
+MATERIAL SHOULD NOT BE AVAILABLE FOR PUBLIC DISCLOSURE13
+TNC requests that Exhibit 2 be treated as confidential for a period of ten years. This period is
+necessary due to the proprietary nature of the information in Exhibit 2.
+9. OTHER INFORMATION THAT TNC BELIEVES MAY BE USEFUL IN ASSESSING WHETHER ITS
+REQUEST FOR CONFIDENTIALITY SHOULD BE GRANTED 14
+The information concerns TNC’s proprietary network information, related to current and planned
+commercial and operational information, and as such, is commercially sensitive.
+Should you have any questions regarding the foregoing information, please don’t hesitate to contact me.
+Respectfully submitted,
+/s/ Addam Holdorf
+_______________________________
+10 47 C.F.R. § 0.459(b)(5).
+11 47 C.F.R. § 0.459(b)(6).
+12 47 C.F.R. § 0.459(b)(7).
+13 47 C.F.R. § 0.459(b)(8).
+14 47 C.F.R. § 0.459(b)(9).
+
+SUBJECT TO REQUEST FOR CONFIDENTIAL TREATMENT –
+NOT FOR PUBLIC INSPECTION
+EXHIBIT 2
+CONFIDENTIAL MATERIALS OMITTED
+AGREEMENT BETWEEN TNC AND CARRIER PARTNER

@@ -1,0 +1,250 @@
+IPtelX, LLC
+100 Webster Street
+Bay City, MI 48708
+(989) 891-2900
+March 26, 2018
+Ms. Marlene Dortch
+Secretary
+Federal Communications Commission
+445 12th Street SW
+Washington, DC 20554
+RE: AMENDED APPLICATION OF IPTELX, LLC FOR AUTHORIZATION TO OBTAIN
+NUMBERING RESOURCES PURSUANT TO SECTION 52.15(g) OF THE
+COMMISSION’S RULES
+Dear Ms. Dortch,
+On February 14, 2018 and pursuant to Section 52.15(g)(3)(i) of the Commission’s Rules, IPtelX,
+LLC (“IPtelX”) submitted an application requesting authorization to obtain numbering resources.
+On March 26, 2018, IPtelX was informed of an error in its application, specifically on page 4, in
+paragraph (E), the Telecommunications Relay Service contribution obligations were erroneously cited as
+47 CFR § 64.604I(5)(iii). IPtelX hereby submits it’s amended application to correct this citing to 47 CFR
+§ 64.604(c)(5)(iii) and further attests that it is 100% owned and controlled by US citizens.
+In accordance with IPtelX’s Request for Confidential Treatment filed with the Commission on
+February 14, 2018, it maintains and respectfully requests that, pursuant to Sections 0.457 and 0.459 of the
+Commission’s rules, 47 C.F.R. § 0.457 and 0.459, the Commission withhold from public inspection,
+Exhibit B of the application in its entirety as confidential and hereby incorporates its original request as if
+fully restated herein. For clarification, Exhibit B is hereby unchanged from its original filing.
+If you should have any questions or concerns, please feel free to contact me at your convenience.
+Sincerely,
+Jordan R. Dice
+President/CEO
+IPtelX, LLC
+100 Webster Street
+Bay City, MI 48708
+(989) 891-2900 ex. 102
+jordan.dice@iptelx.net
+
+Before the
+FEDERAL COMMUNICATIONS COMMISSION
+Washington, DC
+In the Matter of )
+)
+IPtelX, LLC )
+Applicant ) WC Docket No. 18-58
+For Authorization to Obtain Numbering )
+Resources Pursuant to Section 52.15(g) of )
+the Commission’s Rules )
+AMENDED APPLICATION OF IPTELX, LLC FOR AUTHORIZATION TO
+OBTAIN NUMBERING RESOURCES
+IPtelX, LLC (“IPtelX”), a Michigan Limited Liability Company, pursuant to Section
+52.15(g)(3)(i) of the Commission’s Rules, respectfully requests authorization to obtain numbering
+resources as described below.
+As set forth in Numbering Policies for Modern Communications, FCC 15-70 (rel. June 22,
+2015), an interconnected VoIP provider may obtain numbering resources from the Numbering
+Administrators upon a showing that it is authorized to provide service in the area for which the
+numbering resources are requested. Such authorization may be obtained upon an application to the
+Commission containing the information detailed in Sections 52.15(g)(3)(i)(A)-(F) of the
+Commission’s rules. IPtelX hereby requests the Commission grant it that authorization and subject
+to reserving the nationwide authority anticipated, it presently intends to initially obtain numbering
+resources in the following states: Arizona, California, District of Columbia, Florida, Georgia,
+Illinois, Indiana, Kentucky, Maryland, Michigan, New Jersey, Nevada, New York, Ohio,
+Oklahoma, Pennsylvania, Texas, Virginia, and Washington. IPtelX intends to use the numbering
+
+resources to support interconnected VoIP services to its clients and in support of this application,
+provides the following information:
+I. INFORMATION REQUIRED BY SECTION 52.15(g)(3)(i)
+(A) § 52.15(g)(3)(i)(A)
+Applicant’s Name IPtelX, LLC
+Address 100 Webster Street
+Bay City, Michigan 48708
+Telephone (989) 891-2900
+Qualified Contact * Jordan R. Dice
+President/CEO
+100 Webster Street
+Bay City, Michigan 48708
+(989) 891-2900 ex. 102
+jordan.dice@iptelx.net
+* The qualified contact is hereby designated on behalf of IPtelX to address issues relating
+to regulatory requirements, compliance with Commission’s rules, 911, and law
+enforcement
+(B) § 52.15(g)(3)(i)(B)
+IPtelX hereby acknowledges that authorization to obtain numbering resources under
+Section 52.15(g) of the Commission’s Rules is subject to compliance with applicable Commission
+numbering rules as well as to the numbering authority delegated to the states. IPtelX further
+acknowledges this authorization is subject to compliance with industry guidelines and practices
+regarding numbering, as applicable to telecommunications carriers.
+
+(C) § 52.15(g)(3)(i)(C)
+IPtelX hereby acknowledges that it must file requests for numbers with the relevant state
+commission(s) at least 30 days before requesting numbers from the Numbering Administrators.
+(D) § 52.15(g)(3)(i)(D)
+IPtelX hereby sets forth its capability to provide service within 60 days of the numbering
+resources activation date. IPtelX has an Operating Company Number (OCN) of ‘088J’ issued by
+the National Exchange Carrier Association (NECA) and appears in the Internet Protocol Enabled
+Services (IPES) category [NECA Letter attached as Exhibit A]. IPtelX has further established its
+OCN as an Administrative Operating Company Number (AOCN) in the Business Integrated
+Routing and Rating Database System (BIRRDS) and as a Service Provider ID (SPID) in the
+Number Portability Administration Center, Service Management System (NPAC/SMS). IPtelX
+also has an Access Carrier Name Abbreviation (ACNA) of ‘IXZ’ which has been established in
+the Common Language Online Entry System (CLONES). Therefore, IPtelX is fully capable of
+provisioning and managing common language codes identifying its Switches and Point of
+Interfaces (POI’s), routing and rating details for its numbering resources in the Local Exchange
+Routing Guide (LERG), and subscription versions for local number portability in and out of its
+network. Lastly, IPtelX has entered into agreements with several LEC’s for interconnection to the
+PSTN and routing of its numbering resources it intends to obtain pursuant to this application [LEC
+Agreements attached as Exhibit B].
+IPtelX respectfully requests the agreements attached in Exhibit B receive confidential
+treatment in their entirety, pursuant to Section 0.459 of the Commission’s rules as the contents of
+said agreements contain trade secrets and commercially sensitive information that is not publicly
+available, the disclosure of which would cause economic harm to IPtelX.
+(E) § 52.15(g)(3)(i)(E)
+
+IPtelX has established a Form 499 Filer ID of ‘830940’ and hereby certifies that it complies
+with its Universal Service Fund contribution obligations under 47 CFR part 54, subpart H, its
+Telecommunications Relay Service contribution obligations under 47 CFR § 64.604(c)(5)(iii), its
+North American Numbering Plan and Local Number Portability Administration contribution
+obligations under 47 CFR § 52.17 and 52.32, its obligations to pay regulatory fees under 47 CFR
+§ 1.1154, and its 911 obligations under 47 CFR part 9. A written certification confirming
+compliance with these obligations has been given by an officer of IPtelX [Certification Letter –
+Exhibit C].
+(F) § 52.15(g)(3)(i)(F)
+IPtelX hereby certifies that it has the financial, managerial, and technical expertise to
+provide reliable service. The company is financially stable, led by a strong, experienced
+management team with substantial experience in the telecommunications industry, and has
+sufficient technical knowledge and infrastructure in place to provide reliable services. IPtelX’s key
+management and technical personnel are listed below with biographies, none of which are being
+or have been investigated by the Commission or any law enforcement or regulatory agency for
+failure to comply with any law, rule, or order.
+President/CEO Jordan R. Dice
+Jordan Dice is a co-founder of IPtelX and has served as the company’s President and CEO since
+its inception in 2013. Dice is responsible for overseeing the company’s day-to-day operations and
+industry relationships. A graduate of finance, office administration, and computer science, Dice
+has worked in the telecommunications industry for nearly 15 years and has diverse experience in
+negotiating carrier contracts and engineering voice and data networks. In addition to IPtelX, Dice
+founded StarNet Wireless, a local internet service provider based in Bay City, Michigan at age 14.
+The company was a success, reaching over 1,000 subscribers within two years of operation. Dice
+later developed an interest in real estate and holds a commercial brokers license. Always up for a
+challenge, Dice never passes on an opportunity, which he says has led to his success.
+
+Co-Founder Clifford V. Dice
+Clifford Dice is the CEO and founder of DICE Corporation, one of the leading research and
+development companies in the security industry. As an innovator of software solutions that have
+helped shape the security industry, Dice has created many of the products and solutions used by
+some of the largest security companies. After obtaining a degree from Northwood University, Dice
+founded a software consulting company and was employed by various CPA firms as an accounting
+and business manager. In the early 1990s, Dice was challenged by a security monitoring company
+to write an accounting solution, when they said others have tried but no one was able to develop
+what was needed. Loving a challenge, Dice developed the software, which led to DICE Corporation
+in 1992. Some of DICE Corporation’s top services include alarm monitoring, service, sales, smart
+home, and telecom solutions. DICE also operates the industry’s largest cloud hosting center,
+supplying over one million subscribers with direct service and six million subscribers with alarm
+signaling telecom services.
+(G) § 52.15(g)(3)(i)(G)
+IPtelX hereby certifies pursuant to Sections 1.2001 and 1.2002 of the Commission’s rules,
+that no party to this application is subject to a denial of Federal benefits pursuant to Section 5301
+of the Anti-Drug Abuse Act of 1988, 21 U.S.C. § 862.
+II. ACKNOWLEDGEMENT OF CONDITIONS IN SECTION 52.15(g)(3)(iv)
+As required by Section 52.15(g)(3)(iv), IPtelX will maintain the accuracy of all contact
+information and certifications in this application, and will file a correction with the Commission
+and each applicable state within 30 days of any changes. IPtelX will also furnish accurate
+regulatory and numbering contact information to each state commission when requesting numbers
+in that state.
+III. CONCLUSION
+
+Pursuant to Section 52.15(g)(3)(i) of the Commission’s Rules, IPtelX respectfully requests
+the Commission grant this application for authorization to obtain numbering resources,
+nationwide.
+OFFICER VERIFICATION
+I, Jordan R. Dice, President/CEO of IPtelX do hereby declare under penalty of perjury that the
+above Application is true and correct to the best of my knowledge and belief. Further, I attest that
+the submission is complete and accurate, with no material omissions.
+Dated: March 26, 2018 ______________________________
+JORDAN R. DICE
+President/CEO
+IPtelX, LLC
+100 Webster Street
+Bay City, MI 48708
+(989) 891-2900 ex. 102
+jordan.dice@iptelx.net
+
+EXHIBIT A
+NECA Letter
+
+80 South Jefferson Road
+Whippany, NJ 07981
+Tuesday, August 01, 2017
+Mr. Jordan R. Dice
+IPtelX, LLC
+100 Webster Street
+Bay City, Michigan 48708
+Phone: 989-891-2900
+Fax: 989-891-2901
+Email: jordan.dice@iptelx.net
+Dear Mr. Jordan R. Dice:
+This letter confirms your request for company code(s) for IPtelX, LLC, headquartered at 100 Webster Street, Bay
+City, Michigan 48708.
+Company Code Company Name Category
+088J IPtelX, LLC IPES
+If you have any questions, please contact the Company Code Administrator on (973) 884-8105 or at
+ccfees@neca.org. For future code requests, please use our online ordering system, or print the latest version of the
+company code request form from our website at http://www.neca.org/.
+Sincerely,
+Panchali Das
+Product Manager - Tariff No. 4
+Panchali Das  Phone: 973-884-8494 Fax: 973-884-8082  Email: pdas@neca.org
+
+EXHIBIT B
+LEC Agreements
+Confidential and Proprietary – Filed Under Seal
+Pursuant to 47 C.F.R. §0.459
+
+EXHIBIT C
+Certification Letter
+
+IPtelX, LLC
+100 Webster Street
+Bay City, MI 48708
+(989) 891-2900
+March 26, 2018
+Ms. Marlene Dortch
+Secretary
+Federal Communications Commission
+445 12th Street SW
+Washington, DC 20554
+RE: IPTELX, LLC CERTIFICATION OF COMPLIANCE WITH ITS OBLIGATIONS
+UNDER COMMISSION RULES
+Dear Ms. Dortch,
+The purpose of this letter is to certify the following before the Federal Communications
+Commission on application of IPtelX, LLC for Authorization to Obtain Numbering Resources,
+dated February 14, 2018:
+• IPtelX is current on its Form 499 filings and Universal Service Fund contributions
+pursuant to 47 CFR part 54, subpart H.
+• IPtelX is current on its Telecommunications Relay Service Fund contributions pursuant
+to 47 CFR § 64.604(c)(5)(iii).
+• IPtelX is current on its North American Number Plan Fund contributions pursuant to
+47 CFR § 52.17.
+• IPtelX is current on its Local Number Portability Fund contributions pursuant to 47
+CFR § 52.32.
+• IPtelX is current on its obligation to pay regulatory fees to the Federal Communications
+Commission pursuant to 47 CFR § 1.1154.
+• IPtelX is in compliance with its obligations to provide 911 service pursuant to 47 CFR
+part 9.
+
+If you should have any questions or concerns, please feel free to contact me at your convenience.
+Sincerely,
+Jordan R. Dice
+President/CEO
+IPtelX, LLC
+100 Webster Street
+Bay City, MI 48708
+(989) 891-2900 ex. 102
+jordan.dice@iptelx.net

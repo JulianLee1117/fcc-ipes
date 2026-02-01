@@ -1,0 +1,2676 @@
+PUBLIC VERSION
+September 16, 2020
+VIA ECFS & FEDEX
+Marlene H. Dortch
+Office of the Secretary
+Federal Communications Commission
+445 12th Street SW
+Washington, D.C. 20554
+RE: Request for Confidential Treatment of Filing of Skye Telecom, LLC; Application
+of Skye Telecom, LLC for Authorization to Obtain Numbering Resources,
+WC Docket No. 20-__
+Dear Ms. Dortch:
+Pursuant to Section 52.15(g)(3)(i) of the Commission’s Rules, Skye Telecom, LLC (“Skyetel”),
+hereby submits its application requesting authorization to obtain numbering resources.
+This filing includes confidential information. As contemplated by the Commission’s rules, we
+are filing the public version electronically and the confidential version via FedEx. Skyetel respectfully
+requests that, pursuant to Sections 0.457 and 0.459 of the Commission’s rules, 47 C.F.R. §§ 0.457 and
+0.459, the Commission withhold from public inspection and grant confidential treatment to Exhibit A, a
+document that contains sensitive trade secrets and commercial information that falls within Exemption 4
+of the Freedom of Information Act (“FOIA”).1 Skyetel is voluntarily providing this information, “of a
+kind that would customarily not be released to the public”; therefore, this information is “confidential”
+under FOIA.2 Moreover, Skyetel would suffer substantial competitive harm if this information were
+disclosed.3 As such, Exhibit A is marked with the header “SUBJECT TO REQUEST FOR
+CONFIDENTIAL TREATMENT – NOT FOR PUBLIC INSPECTION.”
+In support of this request and pursuant to Section 0.459(b) of the Commission’s rules,4 Skyetel
+hereby states as follows:
+1 5 U.S.C. § 552(b)(4).
+2 Critical Mass Energy Project v. NRC, 975 F.2d 871, 879 (D.C. Cir. 1992).
+3 See Nat’l Parks & Conservation Ass’n v. Morton, 498 F.2d 765 (D.C. Cir. 1974).
+4 47 C.F.R. § 0.459(b).
+
+PUBLIC VERSION
+Marlene H. Dortch
+Office of the Secretary
+September 16, 2020
+Page 2
+1. IDENTIFICATION OF THE SPECIFIC INFORMATION FOR WHICH
+CONFIDENTIAL TREATMENT IS SOUGHT.5
+Skyetel seeks confidential treatment of Exhibit A to the enclosed application.
+2. DESCRIPTION OF CIRCUMSTANCES GIVING RISE TO THE SUBMISSION.6
+As proof of Skyetel’s facilities readiness as required by Section 52.15(b)(3)(i)(D) of the
+Commission’s rules, Skyetel is submitting the agreement between it and its carrier partner as
+Exhibit A.
+3. EXPLANATION OF THE DEGREE TO WHICH THE INFORMATION IS
+COMMERCIAL OR FINANCIAL, OR CONTAINS A TRADE SECRET OR IS
+PRIVILEGED.7
+The information for which Skyetel seeks confidential treatment contains sensitive commercial
+information which would customarily be guarded from competitors.8 Exhibit A describes the
+agreement between Skyetel and its carrier partner and contains proprietary commercial
+information concerning the operations and pricing of Skyetel’s carrier partner and Skyetel’s
+network, services, and operating costs and expenses.
+4. EXPLANATION OF THE DEGREE TO WHICH THE INFORMATION CONCERNS
+A SERVICE THAT IS SUBJECT TO COMPETITION.9
+Exhibit A contains information relating to commercial matters that could be used by competitors
+to Skyetel’s disadvantage. Skyetel has numerous competitors in the Voice over Internet
+Protocol (“VoIP”) services sector in which it operates. Detailed operations and commercial
+information of the type provided by Skyetel could compromise Skyetel’s position in this highly
+competitive industry. Release would therefore result in substantial competitive harm to Skyetel.
+5. EXPLANATION OF HOW DISCLOSURE OF THE INFORMATION COULD
+RESULT IN SUBSTANTIAL COMPETITIVE HARM.10
+Competitors could use Skyetel’s proprietary commercial and operational information to
+Skyetel’s detriment as they would gain access to sensitive information about how Skyetel
+5 47 C.F.R. § 0.459(b)(1).
+6 47 C.F.R. § 0.459(b)(2).
+7 47 C.F.R. § 0.459(b)(3).
+8 47 C.F.R. §§ 0.457(d) and 0.459.
+9 47 C.F.R. § 0.459(b)(4).
+10 47 C.F.R. § 0.459(b)(5).
+
+PUBLIC VERSION
+Marlene H. Dortch
+Office of the Secretary
+September 16, 2020
+Page 3
+provides services as well as about Skyetel’s commercial agreements with others in the market
+that are not normally disclosed to the public.
+6. IDENTIFICATION OF ANY MEASURES TAKEN BY THE SUBMITTING PARTY
+TO PREVENT UNAUTHORIZED DISCLOSURE.11
+Skyetel has not distributed the information in Exhibit A to the public.
+7. IDENTIFICATION OF WHETHER THE INFORMATION IS AVAILABLE TO THE
+PUBLIC AND THE EXTENT OF ANY PREVIOUS DISCLOSURE OF THE
+INFORMATION TO THIRD PARTIES.12
+Skyetel has not previously disclosed the information in Exhibit A to the public or to third
+parties.
+8. JUSTIFICATION OF THE PERIOD DURING WHICH THE SUBMITTING PARTY
+ASSERTS THAT MATERIAL SHOULD NOT BE AVAILABLE FOR PUBLIC
+DISCLOSURE.13
+Skyetel requests that Exhibit A be treated as confidential for a period of ten years. This period
+is necessary due to the proprietary nature of the information in Exhibit A.
+9. OTHER INFORMATION THAT SKYETEL BELIEVES MAY BE USEFUL IN
+ASSESSING WHETHER ITS REQUEST FOR CONFIDENTIALITY SHOULD BE
+GRANTED.14
+The information concerns Skyetel’s proprietary network information, related to current and
+planned commercial and operational information, and, as such, is commercially sensitive.
+11 47 C.F.R. § 0.459(b)(6).
+12 47 C.F.R. § 0.459(b)(7).
+13 47 C.F.R. § 0.459(b)(8).
+14 47 C.F.R. § 0.459(b)(9).
+
+PUBLIC VERSION
+Marlene H. Dortch
+Office of the Secretary
+September 16, 2020
+Page 4
+Any questions you may have regarding this filing should be directed to my attention at (804) 441-8701
+or via email to jbowser@rothjackson.com. Thank you for your assistance in this matter.
+Sincerely,
+Joseph P. Bowser
+1519 Summit Ave, Suite 102
+Richmond, Virginia 23230
+T: (804) 441-8701
+F: (804) 441-8438
+jbowser@rothjackson.com
+Counsel to Skyetel
+
+PUBLIC VERSION
+Before the
+Federal Communications Commission
+Washington, D.C. 20554
+In the Matter of )
+)
+Skye Telecom, LLC ) WC Docket No. 20-____
+)
+For Authorization to Obtain Numbering )
+Resources Pursuant to Section 52.15(g) of )
+The Commission’s Rules )
+APPLICATION OF SKYE TELECOM, LLC
+FOR AUTHORIZATION TO OBTAIN NUMBERING RESOURCES
+Skye Telecom, LLC (“Skyetel”), pursuant to Section 52.15(g)(3)(i) of the Commission’s
+Rules, respectfully requests authorization to obtain numbering resources as described below.
+As set forth in the Commission’s Numbering Order,1 an interconnected VoIP provider
+may obtain numbering resources from the Numbering Administrator upon a showing that it is
+authorized to provide service in the area for which the numbering resources are requested. Such
+authorization may be obtained upon an application to the Commission containing the information
+detailed in Sections 52.15(g)(3)(i)(A)-(F) of the Commission’s Rules. Skyetel, an interconnected
+VoIP provider, hereby requests the Commission grant it that authorization. In support of this
+application, Skyetel provides the following information.
+1 Numbering Policies for Modern Communications et al., Report and Order, 30 FCC Rcd.
+6839 (2015).
+
+PUBLIC VERSION
+I. INFORMATION REQUIRED BY SECTION 52.15(g)(3)(i)
+(A) § 52.15(g)(3)(i)(A)
+Name: Skye Telecom, LLC
+Address: 915 Broadway St #100
+Vancouver, WA 98660
+Telephone: (360) 600-0000
+Qualified Personnel: Christopher Bardos, CEO
+Contact for Regulatory Requirements, Compliance, 911, and Law Enforcement:
+Name: Christopher Bardos, CEO
+Address: 915 Broadway St #100
+Vancouver, WA 98660
+Telephone: (360) 600-0000
+Email: chris@skyetel.com
+(B) § 52.15(g)(3)(i)(B)
+Skyetel hereby acknowledges that authorization to obtain numbering resources under
+Section 52.15(g) of the Commission’s Rules is subject to compliance with applicable
+Commission numbering rules as well as to the numbering authority delegated to the states.
+Skyetel hereby also acknowledges that this authorization is subject to compliance with industry
+guidelines and practices regarding numbering, as applicable to telecommunications carriers.
+(C) § 52.15(g)(3)(i)(C)
+Skyetel hereby acknowledges that is must file requests for numbers with the relevant
+state commission(s) at least 30 days before requesting numbers from the Numbering
+Administrators.
+
+PUBLIC VERSION
+(D) § 52.15(g)(3)(i)(D)
+Skyetel hereby sets forth its capability to provide service within 60 days of the numbering
+resources activation date.
+Skyetel provides VoIP services in Washington, Oregon, California, New York, Texas,
+Hawaii, and Florida through its own facilities and those of its CLEC partners with which it has
+arrangements in place for routing traffic to and from the PSTN. Under its current agreements
+and established procedures, Skyetel will be able to place nearly all numbers into service within a
+short timeframe, and all numbers will be placed into service within 60 days of activation. As
+further proof of its facilities readiness, Skyetel has attached to this application, as Exhibit A, a
+confidential agreement between Skyetel and one of its carrier partners providing that the carrier
+partner will provide switching and transport services for traffic associated with Skyetel’s
+numbers and, in that connection, provide connectivity to the PSTN for inbound calls to and
+outbound calls from Skyetel numbers. (Skyetel has requested confidential treatment under the
+Commission’s rules for Exhibit A.) Also attached, as Exhibit B, is evidence of interconnection
+agreements between Skyetel’s carrier partner and incumbent local exchange carriers in
+Washington, Oregon, California, New York, Texas, Hawaii, and Florida.
+(E) § 52.15(g)(3)(i)(E)
+Skyetel hereby certifies that it complies with its Universal Service Fund contribution
+obligations under 47 CFR part 54, subpart H; its Telecommunications Relay Service contribution
+obligations under 47 CFR § 64.604(c)(5)(iii); its North American Numbering Plan and Local
+Number Portability Administration contribution obligations under 47 CFR §§ 52.17 and 52.32;
+its obligations to pay regulatory fees under 47 CFR § 1.1154; and its 911 obligations under 47
+CFR part 9.
+
+PUBLIC VERSION
+(F) § 52.15(g)(3)(i)(F)
+Skyetel hereby certifies that it has the financial, managerial, and technical expertise to
+provide reliable service. It is financially stable, led by a strong, experienced management team
+with substantial managerial experience in the telecommunications industry, and has sufficient
+technical expertise and infrastructure in place to provide reliable numbering and related VoIP
+services.
+Skyetel has the superior technical qualifications necessary to provide and maintain
+successful operations within its service area. Skyetel has the capabilities to efficiently port and
+place numbers into service and successfully route calls. Additionally, Skyetel’s management
+team’s lengthy experience with number porting enables it, along with its carrier partners, to
+create routing arrangements that seamlessly deliver calls to numbers directly assigned to Skyetel.
+Furthermore, Skyetel’s personnel have extensive business and network-management
+experience in telecommunications-related businesses and in serving its targeted customer
+segment, including telecommunications carriers, IP service providers, enterprises and business
+customers of IP, communications, and information services. These individuals lead a team that
+is highly qualified to manage the operations of Skyetel throughout its service area. Skyetel’s key
+management and technical personnel are listed below. None of the identified personnel is being
+or has been investigated by the Commission or any law enforcement or regulatory agency for
+failure to comply with any law, rule, or order.
+Key Personnel: The names, titles, and biographies of Skyetel’s leadership and
+network management team are reflected in Exhibit C hereto.
+
+PUBLIC VERSION
+(G) § 52.15(g)(3)(i)(G)
+Skyetel hereby certifies that no party to this application is subject to a denial of Federal
+benefits pursuant to Section 5301 of the Anti-Drug Abuse Act of 1988, 21 U.S.C. § 862.
+II. ACKNOWLEDGEMENT OF CONDITIONS IN SECTION 52.15(g)(3)(iv)
+As required by Section 52.15(g)(3)(iv), Skyetel will maintain the accuracy of all contact
+information and certifications in this application, and will file a correction with the Commission
+and each applicable state within 30 days of any changes. Skyetel will also furnish accurate
+regulatory and numbering contact information to each state commission when requesting
+numbers in that state.
+III. CONCLUSION
+Pursuant to Section 52.15(g)(3)(i) of the Commission’s Rules, Skyetel respectfully
+requests the Commission grant this application for authorization to obtain numbering resources.
+Dated: September 16, 2020 Respectfully submitted,
+___________________________
+Joseph P. Bowser
+ROTH JACKSON
+1519 Summit Avenue, Suite 102
+Richmond, Virginia 23230
+Phone: 804-441-8701
+Fax: 804-441-8438
+jbowser@rothjackson.com
+Counsel to Skye Telecom, LLC
+
+PUBLIC VERSION
+EXHIBIT A
+NUMBERING AUTHORIZATION APPLICATION OF SKYE TELECOM, LLC
+PSTN-TERMINATION AGREEMENT SERVICE SCHEDULE BETWEEN
+SKYE TELECOM, LLC AND CARRIER PARTNER
+SUBJECT TO REQUEST FOR CONFIDENTIAL TREATMENT –
+NOT FOR PUBLIC INSPECTION
+
+PUBLIC VERSION
+EXHIBIT B
+NUMBERING AUTHORIZATION APPLICATION OF SKYE TELECOM, LLC
+CARRIER PARTNER-ILEC INTERCONNECTION AGREEMENTS IN
+WA, OR, CA, NY, TX, HI, AND FL
+
+PUBLIC VERSION
+INTERCONNECTION AGREEMENT
+TERMS AND CONDITIONS FOR INTERCONNECTION,
+UNBUNDLED NETWORK ELEMENTS, ANCILLARY SERVICES,
+AND RESALE OF TELECOMMUNICATIONS SERVICES
+BETWEEN
+Qwest Corporation
+AND
+Neutral Tandem, Inc.
+For the State ofWashington
+April 21,2010
+Agreement Number
+CDS-100422-0002
+
+PUBLIC VERSION
+Section 1
+General Terms
+Section 1.0 - GENERAL TERIIS
+1. 1 This Agreement for Interconnection, Unbundled Network Elements, ancillary
+services, and resale of Telecommunications Services is between Neutral Tandem, Inc. (CLEC),
+a Delaware corporation with offices at 1 South Wacker Drive, Suite 200, Chicago, Illinois 60606
+and Qwest Corporation (Qwest), a Colorado corporation with offices at 1801 California Street,
+Denver, Colorado 80202, pursuant to Section 252(f) ofthe Telecommunications Act of 1996,for
+purposes offulfilling Qwest's obligations under Sections 222, 251(a), (b), and (c),252, and other
+relevant provisions ofthe Act and the rules and regulations promulgated there under.
+1.2 Intentionally Left Blank.
+1.3 This Agreement sets forth the terms, conditions and pricing under which Qwest
+will provide to CLEC network Interconnection, access to Unbundled Network Elements, ancillary
+services, and Telecommunications Services available for resale within the geographical areas in
+which Qwest is providing local Exchange Service at that time, and for which Qwest is the
+incumbent Local Exchange Carrier within the State of Washington, for purposes of providing
+local Telecommunications Services.
+Intentionally Left Blank.
+1.5 Intentionally Left Blank.
+1.6 Intentionally Left Blank.
+1.7 Intentionally Left Blank.
+1.8 With respect to the terms and provisions of this Agreement, Qwest has
+negotiated the Agreement in its entirety, and the inclusion of any particular provision, or rate,
+term and condition, is not evidence of the reasonableness thereof when considered apart from
+all other provisions ofthe Agreement.
+April 21,2010/cac/Neutral Tandem/WA/Agreement Number CDS-100422-0002
+Qwest Fourteen State Negotiations Template, February 8, 2010
+
+PUBLIC VERSION
+Section 5
+Terms and Conditions
+5.1.3.4 It is the responsibility of either Party to inform its End User Customers of
+service impacting impairment that may result in discontinuance ofservice as soon as the
+Party receives notice ofsame.
+5.1.4 Each Party is solely responsible for the services it provides to its End User
+Customers and to other Telecommunications Carriers. This provision is not intended to limit the
+liability ofeither Party for its failure to perform under this Agreement.
+5.1.5 The Parties shall work cooperatively to minimize fraud associated with third-
+number billed calls, calling card calls, and any other services related to this Agreement.
+5.1.6 Nothing in this Agreement shall prevent either Party from seeking to recover the
+costs and expenses, if any, it may incur in (a) complying with and implementing its obligations
+under this Agreement, the Act, and the rules, regulations and orders of the FCC and the
+Commission, and (b) the development, modification, technical installation and maintenance of
+any systems or other infrastructure which it requires to comply with and to continue complying
+with its responsibilities and obligations under this Agreement. Notwithstanding the foregoing,
+Qwest shall not assess any charges against CLEC for services, facilities, Unbundled Network
+Elements, ancillary services and other related work or services covered by this Agreement,
+unless the charges are expressly provided for in this Agreement. All services and capabilities
+currently provided hereunder (including resold Telecommunications Services, Unbundled
+Network Elements, UNE Combinations and ancillary services) and all new and additional
+services or Unbundled Network Elements to be provided hereunder, shall be priced in
+accordance with all applicable provisions of the Act and the rules and orders of the Federal
+Communications Commission and orders ofthe Commission.
+5.2 Term ofAgreement
+5.2.1 This Agreement shall become effective on the date of Commission Approval.
+This Agreement shall be binding upon the Parties for a term of three (3)years and shall expire
+on July 21, 2013.
+5.2.2 Upon expiration of the term of this Agreement, this Agreement shall continue in
+full force and effect until superseded by a successor agreement in accordance with this Section
+5.2.2. Any Party may request negotiation of a successor agreement by written notice to the
+other Party no earlier than one hundred sixty (160) Days prior to the expiration of the term, or
+the Agreement shall renew on a month to month basis. The date of this notice will be the
+starting point for the negotiation window under Section 252 of the Act. This Agreement will
+terminate on the date a successor agreement is approved by the Commission. However,
+nothing relieves CLEC from fulfilling the obligations incurred under the prior Agreement.
+5.3 Proof ofAuthorization
+5.3. 1 Each Party shall be responsible for obtaining and maintaining Proof of
+Authorization (POA) as required by applicable federal and state law, as amended from time to
+time.
+5.3.2 The Parties shall make POAs available to each other upon request in the event
+of an allegation of an unauthorized change in accordance with all Applicable Laws and rules
+and shall be subject to any penalties contained therein.
+April 21,2010/cac/Neutral Tandem/WA/Agreement Number CDS-100422-0002
+Qwest Fourteen State Negotiations Template, February 8, 2010 29
+
+PUBLIC VERSION
+Section 22
+Signature Page
+Section 22.0 - SIGNATURE PAGE
+By signing below, and in consideration ofthe mutual promises set forth herein, and other good
+and valuable consideration, the Parties agree to abide by the terms and conditions set forth in
+this Interconnection Agreement.
+Neutral Tandem, inc.
+signature
+Signature
+David Tatak L.T. Christensen
+Name Printed/Typed Name Printed/Typed
+VP — Billin 8 Revenue Service Director — Wholesale Contracts
+Title
+Date
+April 21,2010/cac/Neutral Tandem/WA/Agreement Number CDS-100422-0002
+Qwest Fourteen State Negotiations Template, February 8, 2010 311
+
+PUBLIC VERSION
+INTERCONNECTION AGREEMENT
+TERMS AND CONDITIONS FOR INTERCONNECTION,
+UNBUNDLED NETWORK ELEMENTS, ANCILLARY SERVICES,
+AND RESALE OF TELECOMMUNICATIONS SERVICES
+BETWEEN
+Qwest Corporation
+and
+Neutral Tandem, Inc.
+For the State of Oregon
+April 14, 2010
+Agreement Number
+CDS-100414-0001
+
+PUBLIC VERSION
+Section 1
+General Terms
+Section 1.0 - GENERAI TERMS
+1. 1 This Agreement for Interconnection, Vnbundled Network Elements, ancillary
+services, and resale of Telecommunications Services is between Neutral Tandem, Inc. (CLEC),
+a Delaware corporation with offices at 1 South Wacker Drive, Suite 200, Chicago, Illinois 60606
+and Qwest Corporation (Qwest), a Colorado corporation with offices at 1801 California Street,
+Denver, Colorado 80202, pursuant to Section 252(f) ofthe Telecommunications Act of 1996,for
+purposes offulfilling Qwest's obligations under Sections 222, 251(a), (b), and (c), 252, and other
+relevant provisions ofthe Act and the rules and regulations promulgated there under.
+1.2 Intentionally Leff Blank.
+1.3 This Agreement sets forth the terms, conditions and pricing under which Qwest
+will provide to CLEC network Interconnection, access to Unbundled Network Elements, ancillary
+services, and Telecommunications Services available for resale within the geographical areas in
+which Qwest is providing local Exchange Service at that time, and for which Qwest is the
+incumbent Local Exchange Carrier within the state of Oregon, for purposes of providing local
+Telecommunications Services.
+1.4 Intentionally Left Blank.
+1.5 Intentionally Left Blank.
+1.6 Intentionally Left Blank.
+1.7 Intentionally Left Blank
+1.8 With respect to the terms and provisions of this Agreement, Qwest has
+negotiated the Agreement in its entirety, and the inclusion of any particular provision, or rate,
+term and condition, is not evidence of the reasonableness thereof when considered apart from
+all other provisions ofthe Agreement.
+April 14,2010/cac/Neutral Tandem/OR/Ag
+Qwest Fourteen State Negotiations Tempi
+
+PUBLIC VERSION
+Section 5
+Terms and Conditions
+5.1.3.4 It is the responsibility of either Party to inform its End User Customers of
+service impacting impairment that may result in discontinuance ofservice as soon as the
+Party receives notice ofsame.
+5.1.4 Each Party is solely responsible for the services it provides to its End User
+Customers and to other Telecommunications Carriers. This provision is not intended to limit the
+liability of either Party for its failure to perform under this Agreement.
+5.1.5 The Parties shall work cooperatively to minimize fraud associated with third-
+number billed calls, calling card calls, and any other services related to this Agreement.
+5.1.6 Nothing in this Agreement shall prevent either Party from seeking to recover the
+costs and expenses, if any, it may incur in (a) complying with and implementing its obligations
+under this Agreement, the Act, and the rules, regulations and orders of the FCC and the
+Commission, and (b) the development, modification, technical installation and maintenance of
+any systems or other infrastructure which it requires to comply with and to continue complying
+with its responsibilities and obligations under this Agreement. Notwithstanding the foregoing,
+Qwest shall not assess any charges against CLEC for services, facilities, Unbundled Network
+Elements, ancillary services and other related work or services covered by this Agreement,
+unless the charges are expressly provided for in this Agreement. All services and capabilities
+currently provided hereunder (including resold Telecommunications Services, Unbundled
+Network Elements, UNE Combinations and ancillary services) and all new and additional
+services or Unbundled Network Elements to be provided hereunder, shall be priced in
+accordance with all applicable provisions of the Act and the rules and orders of the Federal
+Communications Commission and orders ofthe Commission.
+5.2 Term ofAgreement
+5.2. 1 This Agreement shall become effective on the date of Commission Approval.
+This Agreement shall be binding upon the Parties for a term of three (3)years and shall expire
+on July 14,2013.
+5.2.2 Upon expiration of the term of this Agreement, this Agreement shall continue in
+full force and effect until superseded by a successor agreement in accordance with this Section
+5.2.2. Any Party may request negotiation of a successor agreement by written notice to the
+other Party no earlier than one hundred sixty (160) Days prior to the expiration of the term, or
+the Agreement shall renew on a month to month basis. The date of this notice will be the
+starting point for the negotiation window under Section 252 of the Act. This Agreement will
+terminate on the date a successor agreement is approved by the Commission. However,
+nothing relieves CLEC from fulfilling the obligations incurred under the prior Agreement.
+5.3 Proof ofAuthorization
+5.3. 1 Each Party shall be responsible for obtaining and maintaining Proof of
+Authorization (POA) as required by applicable federal and state law, as amended from time to
+time.
+5.3.2 The Parties shall make POAs available to each other upon request in the event
+of an allegation of an unauthorized change in accordance with all Appiicable Laws and rules
+and shall be subject to any penalties contained therein.
+April 14,2010/cac/Neutral Tandem/OR/Agreement Number CDS-100414-0001
+Qwest Fourteen State Negotiations Template, February 8, 2010
+29
+
+PUBLIC VERSION
+Section 22
+Signature Page
+Section 22.0 - SIGNATURE PAGE
+By signing below, and in consideration of the mutual promises set forth herein, and other good
+and valuable consideration, the Parties agree to abide by the terms and conditions set forth in
+this Interconnection Agreement.
+Neutral Tandem, Inc.
+Signature Signature
+David Tatak L.T.Christensen
+Name Printed/Typed Name Printed/Typed
+— —
+VP Billin 8 Revenue Service Director Wholesale Contracts
+Title
+«
+~I
+1 &0
+Date
+April 14,2010/cac/Neutral Tandem/OR/Agreement Number CDS-100414-0001
+Qwest Fourteen State Negotiations Template, February 8, 2010
+317
+
+PUBLIC VERSION
+AMENDED, EXTENDED AND RESTATED AGREEMENT FOR
+LOCAL INTERCONNECTION
+by and between
+ONVOY, LLC
+and
+FRONTIER COMMUNICATIONS OF THE SOUTHWEST INC.
+FOR THE STATE OF
+CALIFORNIA
+
+PUBLIC VERSION
+AMENDED, EXTENDED AND RESTATED AGREEMENT
+PREFACE
+This Amended, Extended and Restated Agreement (“Agreement”) shall be deemed effective
+upon Commission approval pursuant to Section 252 of the Act (the “Effective Date”), between
+Onvoy, LLC (“Onvoy”), a limited liability company organized under the laws of the State of
+Minnesota, with offices at 10300 6th Avenue North, Plymouth, MN 55441 and Frontier
+Communications of the Southwest Inc., a corporation organized under the laws of the State of
+Delaware (“Frontier”) with offices at 401 Merritt 7, Norwalk, CT 06851, (Frontier and Onvoy may
+be referred to hereinafter, each, individually as a “Party”, and, collectively, as the “Parties”).
+GENERAL TERMS AND CONDITIONS
+In consideration of the mutual promises contained in this Agreement, and intending to be legally
+bound, pursuant to Section 252 of the Act, Frontier and Onvoy hereby agree as follows:
+1. The Agreement
+1.1 This Agreement includes: (a) the Principal Document; (b) the Tariffs of each
+Party applicable to the Services that are offered for sale by it in the Principal
+Document (which Tariffs are incorporated into and made a part of this Agreement
+by reference); and, (c) an Order by a Party that has been accepted by the other
+Party.
+1.2 Except as otherwise expressly provided in the Principal Document (including, but
+not limited to, the Pricing Attachment), conflicts among provisions in the Principal
+Document, Tariffs, and an Order by a Party that has been accepted by the other
+Party, shall be resolved in accordance with the following order of precedence,
+where the document identified in subsection “(a)” shall have the highest
+precedence: (a) the Principal Document; (b) the Tariffs; and, (c) an Order by a
+Party that has been accepted by the other Party. The fact that a provision
+appears in the Principal Document but not in a Tariff, or in a Tariff but not in the
+Principal Document, shall not be interpreted as, or deemed grounds for finding, a
+conflict for the purposes of this Section 1.2.
+1.3 This Agreement constitutes the entire agreement between the Parties on the
+subject matter hereof, and supersedes any prior or contemporaneous
+agreement, understanding, or representation, on the subject matter hereof,
+provided, however, notwithstanding any other provision of this Agreement or
+otherwise, this Agreement is an amendment, extension and restatement of the
+Parties’ prior interconnection and resale agreement(s), if any, and, as such, this
+Agreement is not intended to be, nor shall it be construed to create, a novation or
+accord and satisfaction with respect to any prior interconnection or resale
+agreements and, accordingly, all monetary obligations of the Parties to one
+another under any prior interconnection or resale agreements shall remain in full
+force and effect and shall constitute monetary obligations of the Parties under
+this Agreement (provided, however, that nothing contained in this Agreement
+shall convert any claim or debt that would otherwise constitute a prepetition claim
+or debt in a bankruptcy case into a postpetition claim or debt). In connection with
+the foregoing, Frontier expressly reserves all of its rights under the Bankruptcy
+Code and Applicable Law to seek or oppose any relief in respect of the
+assumption, assumption and assignment, or rejection of any interconnection or
+resale agreements between Frontier and Onvoy.
+Onvoy Comprehensive ICA CA F13 010318.docx 1
+
+PUBLIC VERSION
+1.4 Except as otherwise provided in the Principal Document, the Principal Document
+may not be waived or modified except by a written document that is signed by
+the Parties. Subject to the requirements of Applicable Law, a Party shall have
+the right to add, modify, or withdraw, its Tariff(s) at any time, without the consent
+of, or notice to, the other Party.
+2. Term and Termination
+2.1 This Agreement shall be effective as of the Effective Date and, unless cancelled
+or terminated earlier in accordance with the terms hereof, shall continue in effect
+until April 14, 2020 (the “Initial Term”). Thereafter, this Agreement shall continue
+in force and effect unless and until cancelled or terminated as provided in this
+Agreement.
+2.2 Either Onvoy or Frontier may terminate this Agreement effective upon the
+expiration of the Initial Term or effective upon any date after expiration of the
+Initial Term by providing written notice of termination at least ninety (90) days in
+advance of the date of termination.
+2.3 If either Onvoy or Frontier provides notice of termination pursuant to Section 2.2
+and on or before the proposed date of termination either Onvoy or Frontier has
+requested negotiation of a new interconnection agreement, unless this
+Agreement is cancelled or terminated earlier in accordance with the terms hereof
+(including, but not limited to, pursuant to Section 12), this Agreement shall
+remain in effect until the earlier of: (a) the effective date of a new interconnection
+agreement between Onvoy and Frontier; or, (b) the date one (1) year after the
+proposed date of termination.
+2.4 If either Onvoy or Frontier provides notice of termination pursuant to Section 2.2
+and by 11:59 PM Eastern Time on the proposed date of termination neither
+Onvoy nor Frontier has requested negotiation of a new interconnection
+agreement, (a) this Agreement will terminate at 11:59 PM Eastern Time on the
+proposed date of termination, and (b) the Services being provided under this
+Agreement at the time of termination will be terminated, except to the extent that
+the Purchasing Party has requested that such Services continue to be provided
+pursuant to an applicable Tariff or Statement of Generally Available Terms
+(SGAT).
+3. Glossary and Attachments
+The Glossary and the following Attachments are a part of this Agreement:
+Additional Services Attachment
+Interconnection Attachment
+Traffic Exchange Attachment
+Resale Attachment
+Network Elements Attachment
+Collocation Attachment
+9-1-1 Attachment
+Pricing Attachment
+4. Applicable Law
+Onvoy Comprehensive ICA CA F13 010318.docx 2
+
+PUBLIC VERSION
+DocuSign Envelope ID: 4F7A7076-AFF7-4013-BBF2-763CE68B31BD
+SIGNATURE PAGE
+IN WITNESS WHEREOF, the Parties hereto have caused this Agreement to be executed as of
+the Effective Date.
+ONVOY, LLC FRONTIER COMMUNICATIONS OF THE
+SOUTHWEST INC.
+—DocuSigned by: » 3 \ ^ ^ \
+^(JL 1/ fetWmA./ By. ^ ^—
+By:
+-B1691B160EA9420...
+r,. . . Kyle V. Bert rand . ,
+Printed: Printed: Michael Daniel
+Title: VP procurement MGMT and Ntwk opt. Title: SVP, Carrier Services
+Date: ^^^2018
+Onvoy Comprehensive ICA OA F13 010318 26
+
+Contract Id: 4924919
+PUBLIC VERSION
+Signature Page/AT&T-21STATE
+Page 1 of 4
+Page 2 of 57 NEUTRAL TANDEM
+Version: 4Q15 – 10/20/15
+AMENDMENT
+BETWEEN
+BELLSOUTH TELECOMMUNICATIONS, LLC D/B/A AT&T ALABAMA,
+AT&T FLORIDA, AT&T GEORGIA, AT&T KENTUCKY, AT&T LOUISIANA,
+AT&T MISSISSIPPI, AT&T NORTH CAROLINA, AT&T SOUTH CAROLINA
+AND AT&T TENNESSEE, ILLINOIS BELL TELEPHONE COMPANY D/B/A
+AT&T ILLINOIS, INDIANA BELL TELEPHONE COMPANY
+INCORPORATED D/B/A AT&T INDIANA, MICHIGAN BELL TELEPHONE
+COMPANY D/B/A AT&T MICHIGAN, NEVADA BELL TELEPHONE
+COMPANY D/B/A AT&T NEVADA AND AT&T WHOLESALE, THE OHIO
+BELL TELEPHONE COMPANY D/B/A AT&T OHIO, PACIFIC BELL
+TELEPHONE COMPANY D/B/A AT&T CALIFORNIA, SOUTHWESTERN
+BELL TELEPHONE COMPANY D/B/A AT&T ARKANSAS, AT&T
+KANSAS, AT&T MISSOURI, AT&T OKLAHOMA AND AT&T TEXAS,
+WISCONSIN BELL, INC. D/B/A AT&T WISCONSIN
+AND
+Page 640 of 695
+
+Contract Id: 4924919
+PUBLIC VERSION
+Signature Page/AT&T-21STATE
+Page 2 of 4
+Page 3 of 57 NEUTRAL TANDEM
+Version: 4Q15 – 10/20/15
+NEUTRAL TANDEM-ALABAMA, LLC; NEUTRAL TANDEM-LOUISIANA,
+LLC; NEUTRAL TANDEM-MISSISSIPPI, LLC; NEUTRAL TANDEM-
+NORTH CAROLINA, LLC; NEUTRAL TANDEM-SOUTH CAROLINA, LLC;
+NEUTRAL TANDEM-TENNESSEE, LLC; NEUTRAL TANDEM-FLORIDA,
+LLC; NEUTRAL TANDEM-GEORGIA, LLC; NEUTRAL TANDEM-
+KENTUCKY, LLC; NEUTRAL TANDEM-ILLINOIS, LLC; NEUTRAL
+TANDEM-ARKANSAS, LLC; NEUTRAL TANDEM-KANSAS, LLC;
+NEUTRAL TANDEM-OKLAHOMA, LLC; NEUTRAL TANDEM-INDIANA,
+LLC; NEUTRAL TANDEM-MISSOURI, LLC: NEUTRAL TANDEM-
+NEVADA, LLC; NEUTRAL TANDEM-MICHIGAN, LLC; NEUTRAL
+TANDEM-CALIFORNIA, LLC; NEUTRAL TANDEM-TEXAS, LLC
+Page 641 of 695
+
+Contract Id: 4924919
+PUBLIC VERSION
+Signature Page/AT&T-21STATE
+Page 3 of 4
+Page 4 of 57 NEUTRAL TANDEM
+Version: 4Q15 – 10/20/15
+Signature: _e_S_i_g_n_e_d_ -_ _J_o_h_n_ _S_c_h_o_d_e_r_____________ Signature: _e_S_i_g_n_e_d_ _- _W__il_lia__m_ _A_._ B_o__c_k_e_lm__a_n___________
+Name: _e_S_i_g_n_e_d_ _- _J_o_h_n_ _S_c_h_o_d__e_r_______________ Name: e_S__ig_n_e__d_ -_ W__i_ll_ia_m__ A__. _B_o_c_k_e_l_m__a_n______________
+(Print or Type) (Print or Type)
+Title: _C_M__O__________________________________ Title: _D_i_re_c_t_o_r____________________________________
+(Print or Type) (Print or Type)
+Date: _2_2_ O__c_t _2_0_1_6____________________________ Date: _2_5_ O__c_t _2_0_1_6_________________________________
+Neutral Tandem-Alabama, LLC; Neutral Tandem- BellSouth Telecommunications, LLC d/b/a AT&T
+Louisiana, LLC; Neutral Tandem-Mississippi, LLC; ALABAMA, AT&T FLORIDA, AT&T GEORGIA, AT&T
+Neutral Tandem-North Carolina, LLC; Neutral KENTUCKY, AT&T LOUISIANA, AT&T MISSISSIPPI,
+Tandem-South Carolina, LLC; Neutral Tandem- AT&T NORTH CAROLINA, AT&T SOUTH CAROLINA
+Tennessee, LLC; Neutral Tandem-Florida, LLC; and AT&T TENNESSEE, Illinois Bell Telephone
+Neutral Tandem-Georgia, LLC; Neutral Tandem- Company d/b/a AT&T ILLINOIS, Indiana Bell Telephone
+Kentucky, LLC; Neutral Tandem-Illinois, LLC; Company Incorporated d/b/a AT&T INDIANA, Michigan
+Neutral Tandem-Arkansas, LLC; Neutral Tandem- Bell Telephone Company d/b/a AT&T MICHIGAN,
+Kansas, LLC; Neutral Tandem-Oklahoma, LLC; Nevada Bell Telephone Company d/b/a AT&T NEVADA
+Neutral Tandem-Indiana, LLC; Neutral Tandem- and AT&T Wholesale, The Ohio Bell Telephone
+Missouri, LLC: Neutral Tandem-Nevada, LLC; Company d/b/a AT&T OHIO, Pacific Bell Telephone
+Neutral Tandem-Michigan, LLC; Neutral Tandem- Company d/b/a AT&T CALIFORNIA, Southwestern Bell
+California, LLC; Neutral Tandem-Texas, LLC Telephone Company d/b/a AT&T ARKANSAS, AT&T
+KANSAS, AT&T MISSOURI, AT&T OKLAHOMA and
+AT&T TEXAS, Wisconsin Bell, Inc. d/b/a AT&T
+WISCONSIN by AT&T Services, Inc., its authorized
+agent
+State CLEC OCN
+ALABAMA 604E
+ARKANSAS 348F
+CALIFORNIA 649C
+FLORIDA 937C
+GEORGIA 067D
+ILLINOIS 505B
+INDIANA 097D
+KANSAS 205F
+KENTUCKY 896E
+LOUISIANA 749E
+MICHIGAN 543C
+MISSISSIPPI 719E
+MISSOURI 093F
+NEVADA 029F
+Page 642 of 695
+
+Contract Id: 4924919
+PUBLIC VERSION
+Signature Page/AT&T-21STATE
+Page 4 of 4
+Page 5 of 57 NEUTRAL TANDEM
+Version: 4Q15 – 10/20/15
+NORTH CAROLINA 638E
+OHIO 464C
+OKLAHOMA 409F
+SOUTH CAROLINA 548E
+TENNESSEE 525E
+TEXAS 903C
+WISCONSIN 225C
+Description ACNA Code(s)
+ACNA(s) OWS
+Page 643 of 695
+
+PUBLIC VERSION
+AMENDMENT – RECIPROCAL COMPENSATION/PACIFIC BELL TELEPHONE COMPANY D/B/A SBC CALIFORNIA
+PAGE 1 OF 3
+SBC CALIFORNIA/NEUTRAL TANDEM – CALIFORNIA, LLC
+061004
+AMENDMENT
+TO INTERCONNECTION AGREEMENT
+BY AND BETWEEN
+PACIFIC BELL TELEPHONE COMPANY d/b/a SBC CALIFORNIA
+AND
+NEUTRAL TANDEM – CALIFORNIA, LLC
+WHEREAS, Neutral Tandem – California, LLC (“CLEC”) filed an advice letter seeking to adopt the
+provisions of the Interconnection Agreement between Pacific Bell Telephone Company d/b/a SBC
+California1 (“SBC California”) and MCImetro Access Transmission Services, LLC (“MCIm”);
+WHEREAS, CLEC and SBC California agreed to exempt from the adoption request the rates,
+terms and conditions set forth in Attachment Reciprocal Compensation and the Amendment Superseding
+Certain Reciprocal Compensation, Interconnection and Trunking Terms to such Agreement;
+WHEREAS, SBC California and CLEC are hereby filing this amendment (“Amendment”) to
+incorporate rates, terms and conditions relating to intercarrier compensation and provide terms and
+conditions for alternately billed services into the Parties’ Interconnection Agreement; and
+WHEREAS, pursuant to Resolution ALJ-181, this filing will become effective, absent rejection of
+the advice letter by the California Public Utilities Commission (“Commission”), thirty (30) days after the filing
+date of the advice letter to which this Amendment is appended (“Effective Date”).
+NOW THEREFORE, the Parties agree as follows:
+I. The Agreement is amended to add the Negotiated Appendix Intercarrier Compensation (After
+FCC Order No. 01-131 Agreeing to Exchange All ISP-Bound and Section 251(b)(5) Traffic at
+the FCC Rates in Certain States, Where Applicable) to such Agreement, which is attached
+hereto and incorporated herein by this reference.
+II. The Agreement is amended to add the Appendix Pricing - All Traffic to such Agreement, which
+is attached hereto and incorporated herein by this reference.
+III. EXCEPT AS MODIFIED HEREIN, ALL OTHER TERMS AND CONDITIONS OF THE
+UNDERLYING AGREEMENT SHALL REMAIN UNCHANGED.
+IV. In entering into this Amendment and carrying out the provisions herein, neither Party waives,
+but instead expressly reserves, all of its rights, remedies and arguments with respect to any
+orders, decisions, legislation or proceedings and any remands thereof and any other federal or
+state regulatory, legislative or judicial action(s), including, without limitation, its intervening law
+rights (including intervening law rights asserted by either Party via written notice predating this
+Amendment) relating to the following actions, which the Parties have not yet fully incorporated
+into this Agreement or which may be the subject of further government review: the United
+States Supreme Court’s opinion in Verizon v. FCC, et al, 535 U.S. 467 (2002); the D.C.
+Circuit’s decision in United States Telecom Association, et. al (“USTA”) v. FCC, 290 F.3d 415
+(D.C. Cir. 2002) and following remand and appeal, the D.C. Circuit’s March 2, 2004 decision in
+1 Pacific Bell Telephone Company, a California corporation, f/k/a SBC Pacific Bell Telephone Company, is now doing business in California as SBC
+California.
+Page 418 of 695
+
+PUBLIC VERSION
+AMENDMENT – RECIPROCAL COMPENSATION/PACIFIC BELL TELEPHONE COMPANY D/B/A SBC CALIFORNIA
+PAGE 2 OF 3
+SBC CALIFORNIA/NEUTRAL TANDEM – CALIFORNIA, LLC
+061004
+USTA v. FCC, Case No. 00-1012 (D.C. Cir. 2004); the FCC’s Triennial Review Order, released
+on August 21, 2003, In the Matter of Review of the Section 251 Unbundling Obligations of
+Incumbent Local Exchange Carriers, CC Docket No. 01-338, Implementation of the Local
+Competition Provisions of the Telecommunications Act of 1996, CC Docket No. 96-98,
+Deployment of Wireline Services Offering Advanced Telecommunications Capability, CC
+Docket No. 98-147 (FCC 03-36) and the FCC’s Biennial Review Proceeding which the FCC
+announced, in its Triennial Review Order, is scheduled to commence in 2004; the FCC’s
+Supplemental Order Clarification (FCC 00-183) (rel. June 2, 2000), in CC Docket 96-98; and
+the FCC’s Order on Remand and Report and Order in CC Dockets No. 96-98 and 99-68, 16
+FCC Rcd 9151 (2001), (rel. April 27, 2001) (“ISP Compensation Order”), which was remanded
+in WorldCom, Inc. v. FCC, 288 F.3d 429 (D.C. Cir. 2002), and as to the FCC’s Notice of
+Proposed Rulemaking on the topic of Intercarrier Compensation generally, issued In the
+Matter of Developing a Unified Intercarrier Compensation Regime, in CC Docket 01-92 (Order
+No. 01-132), on April 27, 2001 (collectively “Government Actions”). Notwithstanding anything
+to the contrary in this Agreement (including this and any other amendments to the Agreement),
+SBC California shall have no obligation to provide UNEs, combinations of UNEs, combinations
+of UNE(s) and CLEC’s own elements or UNEs in commingled arrangements beyond those
+required by the Act, including the lawful and effective FCC rules and associated FCC and
+judicial orders. Further, neither Party will argue or take the position before any state or federal
+regulatory commission or court that any provisions set forth in this Agreement and this
+Amendment constitute an agreement or waiver relating to the appropriate routing, treatment
+and compensation for Voice Over Internet Protocol traffic and/or traffic utilizing in whole or part
+Internet Protocol technology; rather, each Party expressly reserves any rights, remedies, and
+arguments they may have as to such issues including but not limited, to any rights each may
+have as a result of the FCC’s Order In the Matter of Petition for Declaratory Ruling that AT&T’s
+Phone-to-Phone IP Telephony Services are Exempt from Access Charges, WC Docket No.
+02-361 (rel. April 21, 2004). The Parties acknowledge and agree that SBC California has
+exercised its option to adopt the FCC ISP terminating compensation plan (“FCC Plan”) in
+California and as of the date of that election by SBC California, the FCC Plan shall apply to
+this Agreement, as more specifically provided for in this Amendment. If any action by any
+state or federal regulatory or legislative body or court of competent jurisdiction invalidates,
+modifies, or stays the enforcement of laws or regulations that were the basis or rationale for
+any rate(s), term(s) and/or condition(s) (“Provisions”) of the Agreement and this Amendment
+and/or otherwise affects the rights or obligations of either Party that are addressed by the
+Agreement and this Amendment, specifically including but not limited to those arising with
+respect to the Government Actions, the affected Provision(s) shall be immediately invalidated,
+modified or stayed consistent with the action of the regulatory or legislative body or court of
+competent jurisdiction upon the written request of either Party (“Written Notice”). With respect
+to any Written Notices hereunder, the Parties shall have sixty (60) days from the Written
+Notice to attempt to negotiate and arrive at an agreement on the appropriate conforming
+modifications to the Agreement. If the Parties are unable to agree upon the conforming
+modifications required within sixty (60) days from the Written Notice, any disputes between the
+Parties concerning the interpretation of the actions required or the provisions affected by such
+order shall be resolved pursuant to the dispute resolution process provided for in this
+Agreement.
+V. This Amendment is effective only for the term of the Agreement.
+VI. This Amendment shall be filed with and subject to approval by the Commission.
+Page 419 of 695
+
+PUBLIC VERSION
+AMENDMENT —RECIPROCAL COMPENSATION/PACIFIC SELLTELEPHONE COMPANY D/B/A SBCCALIFORNIA
+PAGE3OF3
+SBCCALIFORNIA/NEUTRAL TANDEM — CALIFORNIA, LLC
+061004
+IN WITNESS WHEREOF, the Parties hereto have caused this Amendment to be executed on the
+date shown below by their respective duly authorized representatives.
+-
+Neutral Tandem California, LLC Pacific Bell Telephone Company d/b/a SBC
+California by SBCTelecommunications, Inc., its
+auth
+By: By:
+Mshe Auinbauh
+Print Name: Print Name:
+Title: Title: «/President- Industry Markets
+29 5N
+JUN
+Date Signed:
+
+PUBLIC VERSION
+INTERCONNECTION AGREEMENT UNDER SECTIONS 251 AND 252
+OF THE TELECOMMUNICATIONS ACT OF 1996
+by and between
+PACIFIC BELL
+and
+MCIMETRO ACCESS TRANSMISSION
+SERVICES LLC
+Page 1 of 695
+
+PUBLIC VERSION
+GENERAL TERMS AND CONDITIONS
+PAGE 18 OF 51
+PACIFIC/MCIm
+21.9 PACIFIC participates at OBF to develop standardized methods and shall
+implement ordering and billing formats/processes consistent with industry
+guidelines as capabilities are deployed. Where such industry guidelines are not
+available or PACIFIC decides not to fully utilize industry guidelines, the Parties
+agree to comply with the applicable provisions of the change management
+process.
+21.10 For the purposes of establishing provisioning and billing service to MCIm, MCIm
+is required to provide to PACIFIC its PACIFIC-authorized and nationally
+recognized OCN for facilities-based business (interconnection and/or Unbundled
+Network Elements) in areas of California served by PACIFIC. The MCIm name
+associated with specific OCN must be consistent in areas of California served by
+PACIFIC.
+21.11 This Agreement, and any amendment or modification hereof, will be submitted to
+the Commission for approval in accordance with Section 252 of the Act.
+22. TERM AND TERMINATION
+*22.1 This Agreement will remain in effect for a term of three (3) years after the
+Effective Date and, unless terminated pursuant to Section 22.2 below, shall
+continue in full force and effect until a successor agreement is reached by the
+Parties in accordance with the requirements set forth in Section 22.4 below.
+22.2 Either Party may terminate this Agreement in the event that the other Party fails to
+perform a material obligation or materially breaches a material term of this
+Agreement and such failure or breach materially disrupts the operation of either
+Party's network and/or materially interferes with either Party's Customer service and
+fails to cure such material nonperformance or material breach within forty-five (45)
+days after written notice thereof.
+22.3 Upon termination of this Agreement in accordance with this Section 22:
+(a) each Party shall continue to comply with its obligations under Section 29.6
+(Confidentiality),
+(b) each Party shall promptly pay all amounts (including any late payment charges)
+owed under this Agreement, and
+(c) each Party's indemnification obligations shall survive.
+22.4 If, upon termination of this Agreement other than pursuant to Section 22.2, the
+Parties are negotiating a successor agreement, during such period each Party shall
+*represents a Non-Voluntary Arrangement.
+Page 18 of 695
+
+PUBLIC VERSION
+GENERAL TERMS AND CONDITIONS
+PAGE 19 OF 51
+PACIFIC/MCIm
+continue to perform its obligations and provide the services described herein that
+are to be included in the successor agreement until such time as a successor
+agreement becomes effective; provided, however, that if the Parties are unable to
+reach agreement prior to the termination of this Agreement, either Party has the
+right to submit this matter to the Commission for resolution. Until a successor
+agreement is reached or the Commission resolves the matter, whichever is sooner,
+the terms, conditions, rates and charges stated herein will continue to apply, subject
+to a true-up based on the Commission action or the new agreement, if any.
+22.5 Except as and to the extent set forth in this Agreement, no remedy set forth in this
+Agreement is intended to be exclusive and each and every remedy shall be
+cumulative and in addition to any other rights or remedies now or hereafter existing
+under applicable law or otherwise.
+23. DISCLAIMER OF REPRESENTATOINS AND WARRANTIES
+EXCEPT AS EXPRESSLY PROVIDED UNDER THIS AGREEMENT, NO PARTY
+MAKES OR RECEIVES ANY WARRANTY, EXPRESS OR IMPLIED, WITH
+RESPECT TO THE SERVICES, FUNCTIONS AND PRODUCTS IT PROVIDES
+UNDER OR CONTEMPLATED BY THIS AGREEMENT, AND THE PARTIES
+DISCLAIM THE IMPLIED WARRANTIES OF MERCHANTABILITY OR OF
+FITNESS FOR A PARTICULAR PURPOSE. ADDITIONALLY, NEITHER PACIFIC
+NOR MCIm ASSUMES RESPONSIBILITY WITH REGARD TO THE
+CORRECTNESS OF DATA OR INFORMATION SUPPLIED BY THE OTHER WHEN
+THIS DATA OR INFORMATION IS ACCESSED AND USED BY A THIRD PARTY.
+24. CHANGES IN CUSTOMER LOCAL EXCHANGE SERVICE PROVIDER
+SELECTION
+Each Party will abide by applicable state or federal laws and regulations in obtaining
+Customer authorization prior to changing Customer’s local service provider to itself and
+in assuming responsibility for any applicable charges as specified in Section 258(b) of the
+Telecommunications Act of 1996. The Parties shall make any required authorization
+available to each other upon reasonable request and at no charge. Only an Customer can
+initiate a challenge to a change in its local exchange service provider. If an Customer
+notifies PACIFIC or MCIm that the Customer requests local exchange service, the Party
+receiving such request shall be free to immediately provide service to such Customer.
+When an Customer changes or withdraws authorization, the serving Party shall release
+customer-specific facilities in accordance with the Customer’s direction or that of the
+Customer’s authorized agent. Further, when an Customer abandons the premise,
+PACIFIC is free to reclaim the resold and unbundled network element facilities from
+MCIm for use by another customer and is free to issue service orders required to reclaim
+such facilities.
+25. SEVERABILITY
+*represents a Non-Voluntary Arrangement.
+Page 19 of 695
+
+PUBLIC VERSION
+Agreement Number: 06-Neutral Tandem-FTR-001
+AGREEMENT FOR
+LOCAL INTERCONNECTION
+between
+Frontier Telephone of Rochester, lnc.
+and
+Neutral Tandem-New York, LLC.
+Dated: June 15,2006
+J8
+~y
+,
+fpP
+~(p4
+Page 1
+
+PUBLIC VERSION
+Agreement Number: 06-Neutral Tandem-FTR-001
+AGREEMENT FOR
+LOCAL INTERCONNECTION
+This Agreement For Local Interconnection ("Agreement" )made this 15'" day ofJune, 2006, is by and
+between Frontier Telephone ofRochester, Inc., having its principal place of business at 180South Clinton
+Avenue, Rochester, New York 14646("Frontier" )and Neutral Tandem-New York, LLC., a Delaware
+Limited Liability Company, having its principal place ofbusiness at 1 South Wacker, Suite 200, Chicago,
+IL 60606("Carrier" ). Frontier and Carrier may also be referred to herein singularly as a "Party" or
+collectively as "the Parties".
+SECTION 1. RECITALS AND PRINCIPLES
+Frontier is a telecommunications company authorized to provide telecommunications services in the State
+ofNew York; and
+Carrier is a telecommunications company authorized by the Commission to provide local exchange
+telecommunications services in the State ofNew York; and
+The Parties have in good faith negotiated, and agreed on local Interconnection terms and conditions as
+set forth below; and
+In consideration ofthe mutual provisions contained herein and other good and valuable consideration, the
+receipt and sufficiency ofwhich are hereby acknowledged, Carrier and Frontier hereby covenant and
+agree as follows:
+SECTION 2. GENERAL DEFINITIONS
+Except as otherwise specified herein, the following definitions will apply to all sections contained in this
+Agreement. Additional definitions that are specific to the matters covered in a particular section may
+appear in that section.
+2.1. Access Services is a service that connects interexchange carriers to their End Users located
+within a local access and transport area (LATA). Access service is used in originating and terminating
+intraLATA/interLATA toll telecommunications.
+2.2. Access Service Re uest (ASR) means the industry standard forms and supporting documentation
+used for ordering Access Services. The ASR will be used to identify the specific trunking and facilities
+request for Interconnection.
+2.3. Act means the Telecommunications Act of 1934,as amended from time to time.
+2.4. Automatic Number Identification (ANI) refers to the number transmitted through the network
+identifying the calling party.
+2.5. CLLI Codes means Common Language Location Identifier Codes
+2.6 Commission means the governing state regulatory commission, board or authority (PSC, PUC,
+etc.).
+2.7. Com etitive Local Exchan e Carrier (CLEC) means a telephone company certified by the
+Commission, for Frontier's franchised area, to provide local exchange service within Frontier's franchised
+area, and which has a Local Exchange Carrier Tariff approved by the Commission.
+2.8. DS1 is a digital signal rate of 1.544 Megabits per second ("Mbps").
+Neutral Tandem ICA -FTR FINAL.doc Page 2
+
+PUBLIC VERSION
+Agreement Number: 06-Neutral Tandem-FTR-001
+9. 1 Fire, explosion, flood, earthquake, hurricane, cyclone, tornado, storm, epidemic, breakdown of
+plant or power failure;
+9.2 War, revolution, civil commotion, acts ofpublic enemies, terrorism, blockade or embargo;
+9.3 Any law, order, proclamation, regulation, ordinance, demand or requirement ofany government or
+any subdivision, authority, or representative ofany such government;
+9.4 Labor difficulties, such as strikes, picketing or boycotts;
+9.5 Delays caused by other service or equipment vendors;
+9.6 Any other circumstance beyond the reasonable control ofthe Party affected;
+then the Party affected, upon giving notice to the other Party, will be excused from such performance on a
+day-for-day basis to the extent ofsuch prevention, restriction, or interference (and the other Party will
+likewise be excused from performance ofits obligations on a performance so prevented, restricted or
+interfered with); provided that the Party so affected will use reasonable efforts to avoid or remove such
+causes ofnonperformance and both Parties will proceed to perform with dispatch whenever such causes
+are removed or cease.
+SECTION 10. REGULATORY APPROVALS
+10.1 This Agreement, and any amendment or modification hereof, will be submitted to the Commission
+for approval in accordance with Section 252 ofthe Act. In the event any governmental authority or agency
+ofcompetent jurisdiction rejects any provision hereof, the Parties shall negotiate promptly and in good
+faith such revisions as may reasonably be required to achieve approval.
+10.2 In the event the FCC orthe Commission promulgates rules or regulations, rates or issues orders,
+or a court with appropriate jurisdiction issues orders, which make unlawful or changes the intent ofany
+provision ofthis Agreement, the Parties shall negotiate promptly and in good faith in order to amend the
+Agreement to substitute contract provisions which are consistent with such rules, regulations or orders. In
+the event the Parties cannot agree on an amendment within thirty (30)days from the date any such rules,
+regulations or orders become effective, then the Parties shall resolve their dispute under the applicable
+procedures set forth in the Dispute Resolution Section ofthis Agreement.
+10.3 The Parties acknowledge that terms ofthis Agreement were established pursuant to FCC and
+Commission orders. Nothing in this Agreement shall be deemed an admission by the Parties regarding
+the interpretation or effect ofthese rules or orders or an admission by either party that the existing rules or
+order shall not be changed, vacated dismissed or modified.
+10.4 The Parties jointly agree to cooperate in the filing ofthis Interconnection Agreement and share
+equally the expenses associated with obtaining Commission approval.
+SECTION 11. ENTIRE AGREEMENT
+This Agreement sets forth the entire understanding and supersedes prior agreements between the Parties
+relating to the subject matter contained herein and merges all prior discussions between them, and neither
+Party will be bound by any definition, condition, provision, representation, warranty, covenant or promise
+other than as expressly stated in this Agreement or as is contemporaneously or subsequently set forth in
+writing and executed by a duly authorized officer or representative ofthe Party to be bound thereby.
+-
+Neutral Tandem ICA FTRFlNAL.doc Page 8
+
+PUBLIC VERSION
+Agreement Number: 06-Neutral Tandem-FTR-001
+12. 1 This Agreement will become effective upon the first business day following the date this
+Agreement has been approved by the Commission and will continue for a period of one (1)year unless
+terminated earlier under the conditions set forth herein. This Agreement will be automatically renewed for
+successive periods ofsix (6)months after the initial term unless either Party provides the other Party with
+no less than ninety (90)day's prior, written notification of, in the case of Frontier, its intent to terminate this
+Agreement, or, in the case of either Party, its desire to renegotiate at the end of the initial or any
+successive period. If Carrier does not respond to Frontier's written notification of the intent to terminate
+the Agreement prior to the expiration of the Agreement term, the Agreement will terminate and not renew
+at the end ofthe Agreement term. Either Party may send a request to renegotiate this Agreement upon its
+termination and the Parties intend that the negotiation and arbitration processes of the Act will be
+applicable to such a request. The date of the notice to negotiate a successor agreement will be the
+starting point for the negotiation window under Section 252 of the Act. The Parties intend that a
+renegotiated or arbitrated Agreement will be effective as ofthe date oftermination ofthis Agreement and
+any new negotiated or arbitrated rates will be subject to true-up as of the termination date of this
+Agreement.
+12.2 Upon termination or expiration ofthis Agreement each Party shall promptly pay all amounts
+(including any late payment charges) owed under this Agreement.
+SECTION 13.INSURANCE
+13. 1 Carrier will carry or cause to be carried the following insurance coverage which will be paid for and
+maintained at all times during the term ofthis Agreement. Such coverage will be provided through an
+insurance provider with an A.M. Bestfinancial rating of"A"or better. Frontier shall be named as an
+additional insured on all applicable policies as specified below except for Workers' Compensation.
+(i)Commercial General Liability Insurance with a minimum limit ofliability of$2,000,000.00
+combined single limit for each occurrence for bodily injury including death, and property damage.
+Such coverage under the Contractual Liability section will be broad enough to cover the terms and
+conditions ofthe Indemnification clause included with this Agreement. Coverage for explosion
+collapse and underground ("x,c, u") will be included.
+(ii) Business Automobile Liability Insurance with a minimum limit ofliability of$2,000,000.00
+combined single limit for each occurrence for bodily injury, including death, and property damage,
+covering any automobile used and or operated by, or on behalf ofthe Carrier on Frontier's Real
+Property.
+(iii) Workers Compensation Insurance with statutory limits and Employer's Liability Insurance with
+limits of$500,000 each accident, $500,000disease -each employee, $500,000disease - policy
+limit.
+(iv) Excess Liability Insurance with a minimum limit of$10,000,000.The limit ofliability under this
+insurance may be increased accordingly to satisfy the minimum limit requirements under the
+Commercial General Liability, Business Automobile Liability and Employer's Liability Insurances.
+(v) Property Insurance in an amount sufficient to cover the cost ofreplacing Carrier's Equipment
+on Frontier's property or located at or used at Frontier's facility. Such insurance policy will provide
+that the insurance company will waive all rights ofrecovery by way ofsubrogation against Frontier
+in connection with any damage covered by the policy.
+(vi) Upon the commencement ofthis Agreement and upon renewal ofany policy referenced,
+satisfactory evidence ofcompliance with such insurance requirements will be issued to the
+Frontier. The insurance companies referenced on such evidence will give the Licensor at least
+thirty (30)days advance written notice ofany material change to, andlor cancellation ofany ofthe
+policies referenced in such evidence.
+Neutral Tandem ICA -FTRFINAL.doc Page 9
+
+PUBLIC VERSION
+Agreement Number: 06-Neutral Tandem-FTR-001
+AND
+Frontier, A Citizens Communications Company
+Attn: Kevin Saville, Associate General Counsel
+2378 Wilshire Blvd.
+Mound, MN 55364
+Frontier, A Citizens Communications Company
+Attn: Gregg Sayre, Associate General Counsel
+180S. Clinton Ave, 7' Floor
+Rochester, NY 14646
+Frontier, A Citizens Communications Company
+Attn: Chuck Best, VP, Administration and Legal
+4400 NE 77'" Ave
+Vancouver, WA 98662
+Ifpersonal delivery is selected to give notice, a receipt ofsuch delivery shall be obtained. The address to
+s w u h c i h ch P n a o rt t y ice to s t o h r e c o o t m he m r u p n u ic r a s t u i a o n n t s to m t a h y is b S e ec g t i i v o e n n . to either Party may be changed by written notice given by
+The Parties have caused this Local Interconnection Agreement to be executed on their behalf on the
+dates set forth below.
+Neutral Tandem-New York, LLC. Frontier Telephone ofRochester, lnc
+By
+Typed:
+Title:ilk 6iu tent, (. CEVEklvE 8v:5 vms: SJP %~i, IJC A~vinrc:
+Date: I-G- C4
+Date:
+Neutral Tandem ICA - FTR FINAL.doc
+Page 17
+
+PUBLIC VERSION
+veriTon
+John C. Peterson, Director
+Contract Performance and Administration
+Wholesale Markets
+Wholesale Markets
+600 Hidden Ridge, HQE03D52
+P.O. Box 152092
+Irving, TX 75038
+Phone 972-718-5988
+Fax 972-719-1519
+john.c.peterson @ verizon.com
+April 19, 2004
+Ronald Gavillet
+EVP & General Counsel
+Neutral Tandem-New York, LLC
+2 North LaSalle Street
+Chicago, YL 60602
+Re: Requested Adoption Under Section 252(i) of the TA96
+Dear Mr. Gavillet:
+Verizon New York Inc. ("Verizon"), a New York corporation, with principal place of
+business at 1095 Avenue of The Americas, New York, New York 10036, has received
+your letter stating that, under Section 252(i) of the Telecommunications Act of 1996 (the
+"Act"), Neutral Tandem-New York, LLC ("NTI"), a Delaware limited liability
+corporation, with principal place of business at 2 North LaSalle Street, Suite 1615,
+Chicago, Illinois 60602, wishes to adopt the terms of the arbitrated Interconnection
+Agreement between AT&T Communications of New York Inc. ("AT&T") and Verizon
+that was approved by the New York Public Service Commission (the "Commission") as
+an effective agreement in the State of New York in Docket No. Ol-C-0095, as such
+agreement exists on the date hereof after giving effect to operation of law (the "Terms").
+I understand NTI has a copy of the Terms. Please note the following with respect to
+NTI's adoption of the Terms.
+1. By NTI's countersignature on this letter, NTI hereby represents and agrees to the
+following five points:
+(A) NTI adopts (and agrees to be bound by) the Terms of the AT&T/Verizon
+arbitrated agreement for interconnection as it is in effect on the date hereof
+after giving effect to operation of law, and in applying the Terms, agrees that
+NTI NY 252S1A 031904.DOC
+
+PUBLIC VERSION
+NTI shall be substituted in place of AT&T Communications of New York Inc.
+and AT&T in the Terms wherever appropriate.
+(B) For avoidance of doubt, adoption of the Terms does not include adoption of
+any provision imposing an unbundling obligation on Verizon that no longer
+applies under the Report and Order and Order on Remand (FCC 03-36)
+released by the Federal Communications Commission ("FCC") on August 21,
+2003 in CC Docket Nos. 01-338, 96-98, 98-147 ("Triennial Review Order"),
+or that is otherwise not required by both 47 U.S.C. Section 251(c)(3) and 47
+C.F.R. Part 51. Moreover, Verizon, on March 10, 2004, filed a petition at the
+New York Public Service Commission to arbitrate amendments to
+interconnection agreements (including the Terms) with respect to the
+Triennial Review Order ("TRO Arbitration"). Once the Commission issues an
+effective order approving an amendment with respect to the Triennial Review
+Order in the TRO Arbitration (an "Approved Amendment"): 1) the terms of
+such Approved Amendment shall be deemed to amend this adoption effective
+on the effective date of such Commission order, 2) NTI agrees to be bound by
+the terms of such Approved Amendment effective on the effective date of
+such Commission order, and 3) Verizon and NTI shall execute an amendment
+to this adoption to memorialize that this adoption is amended by the terms of
+such Approved Amendment effective on the effective date of such
+Commission order; provided, however, failure by either party to do so shall
+not be cited as a basis for contesting the effectiveness of the provisions in 1)
+and 2) above.
+(C) Notice to NTI and Verizon as may be required under the Terms shall be
+provided as follows:
+To: Neutral Tandem-New York, LLC
+Attention: Ronald W. Gavillet
+2 North LaSalle Street, Suite 1615
+Chicago, IL 60602
+Telephone Number: 312-384-8040
+Facsimile Number: 312-346-3276
+Internet Address: rgavillet@neutraltandem.com
+To Verizon:
+Director-Contract Performance & Administration
+Verizon Wholesale Markets
+600 Hidden Ridge
+HQEWMNOTICES
+Irving, TX 75038
+Telephone Number: 972-718-5988
+Facsimile Number: 972-719-1519
+Internet Address: wmnotices@verizon.com
+NTI NY 252SIA 031904.DOC
+
+PUBLIC VERSION
+with a copy to:
+Vice President and Associate General Counsel
+Verizon Wholesale Markets
+1515 N. Court House Road
+Suite 500
+Arlington, VA 22201
+Facsimile: 703-351-3664
+(D) NTI represents and warrants that it is a certified provider of local
+telecommunications service in the State of New York, and that its
+adoption of the Terms will cover services in the State of New York only.
+(E) In the event an interconnection agreement between Verizon and NTI is
+currently in effect in the State of New York (the "Original ICA"), this
+adoption shall be an amendment and restatement of the operating terms
+and conditions of the Original ICA, and shall replace in their entirety the
+terms of the Original ICA. This adoption is not intended to be, nor shall it
+be construed to create, a novation or accord and satisfaction with respect
+to the Original ICA. Any outstanding payment obligations of the parties
+that were incurred but not fully performed under the Original ICA shall
+constitute payment obligations of the parties under this adoption.
+(F) Verizon's standard pricing schedule for interconnection agreements in the
+State of New York (as such schedule may be amended from time to time)
+(attached as Appendix 1 hereto) shall apply to NTI's adoption of the
+Terms. NTI should note that the aforementioned pricing schedule may
+contain rates for certain services the terms for which are not included in
+the Terms or that are otherwise not part of this adoption, and may include
+phrases or wording not identical to those utilized in the Terms. In an
+effort to expedite the adoption process, Verizon has not deleted such rates
+from the pricing schedule or attempted to customize the wording in the
+pricing schedule to match the Terms. However, the inclusion of such rates
+in no way obligates Verizon to provide the subject services and in no way
+waives Verizon's rights, and the use of slightly different wording or
+phrasing in the pricing schedule does not alter the obligations and rights
+set forth in the Terms.
+2. NTI's adoption of the AT&T arbitrated Terms shall become effective as of
+May 3, 2004. The Parties understand and agree that Verizon will file this
+adoption letter with the Commission promptly upon my receipt of a copy of this
+letter, countersigned by NTI as to points (A), (B), (C), (D), (E) and (F) of
+paragraph 1 above. The term and termination provisions of the AT&T/Verizon
+agreement shall govern NTI's adoption of the Terms. The adoption of the Terms
+is currently scheduled to expire on June 23, 2005.
+NTI NY 252S1A 031904.DOC
+
+PUBLIC VERSION
+3. As the Terms are being adopted by you pursuant to your statutory rights under
+section 252(i), Verizon does not provide the Terms to you as either a voluntary or
+negotiated agreement. The filing and performance by Verizon of the Terms does
+not in any way constitute a waiver by Verizon of any position as to the Terms or a
+portion thereof, nor does it constitute a waiver by Verizon of all rights and
+remedies it may have to seek review of the Terms, or to petition the Commission,
+other administrative body, or court for reconsideration or reversal of any
+determination made by the Commission pursuant to arbitration in Docket No. 01-
+C-0095, or to seek review in any way of any provisions included in these Terms
+as a result of NTT s 252(i) election.
+4. Nothing herein shall be construed as or is intended to be a concession or admission
+by Verizon that any contractual provision required by the Commission in Docket
+No. 01-C-0095 (the AT&T arbitration) or any provision in the Terms complies with
+the rights and duties imposed by the Act, the decisions of the FCC and the
+Commissions, the decisions of the courts, or other law, and Verizon expressly
+reserves its full right to assert and pursue claims arising from or related to the
+Terms.
+5. Verizon reserves the right to deny NTI's adoption and/or application of the
+Terms, in whole or in part, at any time:
+(a) when the costs of providing the Terms to NTI are greater than the costs of
+providing them to AT&T;
+(b) if the provision of the Terms to NTI is not technically feasible; and/or
+(c) to the extent that Verizon otherwise is not required to make the Terms
+available to NTI under applicable law.
+6. For avoidance of doubt, please note that adoption of the Terms will not result in
+reciprocal compensation payments for Internet traffic. Verizon has always taken
+the position that reciprocal compensation was not due to be paid for Internet
+traffic under section 251(b)(5) of the Act. Verizon's position that reciprocal
+compensation is not to be paid for Internet traffic was confirmed by the FCC in
+the Order on Remand and Report and Order adopted on April 18, 2001 ("FCC
+Internet Order"), which held that Internet traffic constitutes "information access"
+outside the scope of the reciprocal compensation obligations set forth in section
+251(b)(5) of the Act.' Accordingly, any compensation to be paid for Internet
+traffic will be handled pursuant to the terms of the FCC Internet Order, not
+pursuant to adoption of the Terms.2 Moreover, in light of the FCC Internet
+Order on Remand and Report and Order, In the Matters of: Implementation of the Local Competition
+Provisions in the Telecommunications Act of 1996 and Intercarrier Compensation for ISP-Bound Traffic,
+CC Docket No. 99-68 (rel. April 27, 2001) ("FCC Remand Order") f44, remanded, WorldCom, Inc. v.
+FCC, No. 01-1218 (DC Cir. May 3, 2002). Although the D.C. Circuit remanded the FCC Remand Order
+to permit the FCC to clarify its reasoning, it left the order in place as governing federal law. See
+WorldCom, Inc. v. FCC, No. 01-1218, slip op. at 5 (D.C. Cir. May 3, 2002).
+2 For your convenience, an industry letter distributed by Verizon explaining its plans to implement the FCC
+Internet Order can be viewed at Verizon's Customer Support Website at URL www.verizon.com/wise
+NTI NY 252SIA 031904.DOC
+
+PUBLIC VERSION
+Order, even if the Terms include provisions invoking an intercarrier
+compensation mechanism for Internet traffic, any reasonable amount of time
+permitted for adopting such provisions has expired under the FCC's rules
+implementing section 252(i) of the Act.3 In fact, the FCC Internet Order made
+clear that carriers may not adopt provisions of an existing interconnection
+agreement to the extent that such provisions provide compensation for Internet
+traffic.4
+7. Should NTI attempt to apply the Terms in a manner that conflicts with paragraphs
+3-6 above, Verizon reserves its rights to seek appropriate legal and/or equitable
+relief.
+8. In the event that a voluntary or involuntary petition has been or is in the future
+filed against NTI under bankruptcy or insolvency laws, or any law relating to the
+relief of debtors, readjustment of indebtedness, debtor reorganization or
+composition or extension of debt (any such proceeding, an "Insolvency
+Proceeding"), then: (i) all rights of Verizon under such laws, including, without
+limitation, all rights of Verizon under 11 U.S.C. § 366, shall be preserved, and
+NTI's adoption of the Verizon Terms shall in no way impair such rights of
+Verizon; and (ii) all rights of NTI resulting from NTI's adoption of the Verizon
+terms shall be subject to and modified by any Stipulations and Orders entered in
+the Insolvency Proceeding, including, without limitation, any Stipulation or Order
+providing adequate assurance of payment to Verizon pursuant to 11 U.S.C. § 366.
+(select Verizon East Customer Support, Business Resources, Customer Documentation, Resources,
+Industry Letters, CLEC, May 21, 2001 Order on Remand).
+3 See, e.g., 47 C.F.R. Section 51.809(c).
+4 FCC Internet Order f 82.
+NTI NY 252SIA 031904.DOC
+
+PUBLIC VERSION
+SIGNATURE PAGE
+Please arrange for a duly authorized representative of NTI to sign this letter in the space
+provided below and return it to Verizon.
+Sincerely,
+VERIZON NEW YORK INC.
+^C S
+Jofin C. Peterson, Director
+Contract Performance and Administration
+Wholesale Markets
+Reviewed and countersigned as to points A, B, C, D, E and F of paragraph 1:
+NEUTRAL TANDEM-NEW YORK, LLC
+g/l^ /£)cLis*~c£^<-
+Jobm Bamicle
+Chief Operating Officer
+c: K. Robertson - Verizon
+NT1NV252SIA03I904
+
+PUBLIC VERSION
+Risk Management Department
+295 N. Maple Avenue
+Room 7146K2
+Basking Ridge, NJ 07920-1002
+22.0 TERM AND TERMINATION; DEFAULT
+22.1 This Agreement shall be effective as of the date first above written and,
+unless terminated earlier in accordance with the terms hereof, shall continue in effect
+until June 23, 2005 (the "Initial Term"), and thereafter the Agreement shall continue in
+force and effect on a month-to-month basis unless and until terminated as provided
+herein.
+22.2 [Intentionally deleted]
+22.3 Either AT&T or Verizon may terminate this Agreement, effective upon
+the expiration of the Initial Term or effective upon any date after expiration of the Initial
+Term, by providing written notice of termination at least ninety (90) days, but not greater
+than nine (9) months, in advance of the date of termination. In the event of such
+termination, if neither Party has requested renegotiation of a successor interconnection
+agreement pursuant to Section 22.4, the service arrangements made available under this
+Agreement and existing at the time of termination shall, unless otherwise agreed to by the
+Parties, continue without interruption under (a) standard Interconnection terms and
+conditions approved and made generally effective by the Commission, (b) Tariff terms
+and conditions generally available to CLECs or (c) if none of the above is available,
+under the terms of this Agreement on a month-to-month basis until such time as a new
+agreement is entered into, or if no agreement is entered into, until (a) or (b) becomes
+available.
+22.4 AT&T (i) may make, at its option, nine (9) months prior to the expiration
+of the Initial Term, or (ii) shall make, at Verizon's request, but no earlier than nine (9)
+month prior to the end of the Initial Term, a written request to Verizon to renegotiate the
+terms of this Agreement pursuant to Section 251(c)(1) of the Act ("Request for
+Renegotiation"). The date of receipt of such Request for Renegotiation shall be the
+"Renegotiation Request Date". Any such Request for Renegotiation shall be deemed by
+both Parties to be notice of termination of this Agreement and a good faith request for
+Interconnection pursuant to Section 252 of the Act (or any successor provision). The
+terms and conditions of this Agreement shall remain in effect during the period of
+renegotiations; provided, however, if the Parties do not execute a new interconnection
+agreement within one hundred and sixty (160) days after the Renegotiation Request Date,
+the terms and conditions of this Agreement shall continue in full force and effect only if
+AT&T files an arbitration petition pursuant to Section 252(b) of the Act, in which case,
+this Agreement shall remain in effect until the Parties execute a successor agreement.
+22.4.1 If either Party defaults in the payment of any amount due
+hereunder, except for amounts subject to a bona fide dispute pursuant to Section 28.9
+hereof with respect to which the disputing party has complied with the requirements of
+71
+
+PUBLIC VERSION
+AMENDED, EXTENDED AND RESTATED AGREEMENT FOR
+LOCAL INTERCONNECTION
+by and between
+ONVOY, LLC
+and
+FRONTIER SOUTHWEST INCORPORATED
+FOR THE STATE OF
+TEXAS
+
+PUBLIC VERSION
+1.4 Except as otherwise provided in the Principal Document, the Principal Document
+may not be waived or modified except by a written document that is signed by
+the Parties. Subject to the requirements of Applicable Law, a Party shall have
+the right to add, modify, or withdraw, its Tariff(s) at any time, without the consent
+of, or notice to, the other Party.
+2. Term and Termination
+2.1 This Agreement shall be effective as of the Effective Date and, unless cancelled
+or terminated earlier in accordance with the terms hereof, shall continue in effect
+until April 14, 2020 (the “Initial Term”). Thereafter, this Agreement shall continue
+in force and effect unless and until cancelled or terminated as provided in this
+Agreement.
+2.2 Either Onvoy or Frontier may terminate this Agreement effective upon the
+expiration of the Initial Term or effective upon any date after expiration of the
+Initial Term by providing written notice of termination at least ninety (90) days in
+advance of the date of termination.
+2.3 If either Onvoy or Frontier provides notice of termination pursuant to Section 2.2
+and on or before the proposed date of termination either Onvoy or Frontier has
+requested negotiation of a new interconnection agreement, unless this
+Agreement is cancelled or terminated earlier in accordance with the terms hereof
+(including, but not limited to, pursuant to Section 12), this Agreement shall
+remain in effect until the earlier of: (a) the effective date of a new interconnection
+agreement between Onvoy and Frontier; or, (b) the date one (1) year after the
+proposed date of termination.
+2.4 If either Onvoy or Frontier provides notice of termination pursuant to Section 2.2
+and by 11:59 PM Eastern Time on the proposed date of termination neither
+Onvoy nor Frontier has requested negotiation of a new interconnection
+agreement, (a) this Agreement will terminate at 11:59 PM Eastern Time on the
+proposed date of termination, and (b) the Services being provided under this
+Agreement at the time of termination will be terminated, except to the extent that
+the Purchasing Party has requested that such Services continue to be provided
+pursuant to an applicable Tariff or Statement of Generally Available Terms
+(SGAT).
+3. Glossary and Attachments
+The Glossary and the following Attachments are a part of this Agreement:
+Additional Services Attachment
+Interconnection Attachment
+Traffic Exchange Attachment
+Resale Attachment
+Network Elements Attachment
+Collocation Attachment
+9-1-1 Attachment
+Pricing Attachment
+4. Applicable Law
+Onvoy Comprehensive ICA TX CTF 020518 .docx 2
+
+PUBLIC VERSION
+To Frontier:
+Frontier Communications
+Tax Department
+401 Merritt 7
+Norwalk, CT 06851
+To Onvoy:
+Onvoy, LLC
+Tax Department
+Attention: Connie Loepke
+550 West Adams Street, Suite 900
+Chicago, Illinois 60661
+Each Party may from time to time designate another address or other
+addressees by giving notice in accordance with the terms of this Section. Any
+notice or other communication shall be deemed to be given when received.
+42. Technology Upgrades
+Notwithstanding any other provision of this Agreement, Frontier shall have the right to
+deploy, upgrade, migrate and maintain its network at its discretion. The Parties
+acknowledge that Frontier, at its election, may deploy fiber throughout its network and
+that such fiber deployment may inhibit or facilitate Onvoy’s ability to provide service using
+certain technologies. Nothing in this Agreement shall limit Frontier's ability to modify its
+network through the incorporation of new equipment or software or otherwise. Onvoy
+shall be solely responsible for the cost and activities associated with accommodating
+such changes in its own network.
+43. Territory
+43.1 This Agreement applies to the territory in which Frontier operates as an
+Incumbent Local Exchange Carrier in the State of Texas. Frontier shall be
+obligated to provide Services under this Agreement only within this territory.
+43.2 Notwithstanding any other provision of this Agreement, Frontier may terminate
+this Agreement as to a specific operating territory or portion thereof if Frontier
+sells or otherwise transfers its operations in such territory or portion thereof to a
+third-person. Frontier shall provide Onvoy with at least 90 calendar days prior
+written notice of such termination, which shall be effective upon the date
+specified in the notice.
+44. Third Party Beneficiaries
+Except as expressly set forth in this Agreement, this Agreement is for the sole benefit of
+the Parties and their permitted assigns, and nothing herein shall create or be construed
+to provide any third-persons (including, but not limited to, Customers or contractors of a
+Party) with any rights (including, but not limited to, any third-party beneficiary rights)
+hereunder. Except as expressly set forth in this Agreement, a Party shall have no liability
+under this Agreement to the Customers of the other Party or to any other third person.
+45. [This Section Intentionally Left Blank]
+46. 252(i) Obligations
+To the extent required by Applicable Law, each Party shall comply with Section 252(i) of
+the Act. To the extent that the exercise by Onvoy of any rights it may have under Section
+Onvoy Comprehensive ICA TX CTF 020518 .docx 24
+
+PUBLIC VERSION
+DocuSign Envelope ID: 3EA2CDF3-5741-4CAE-8A71-2E436B1775E5
+SIGNATURE PAGE
+IN WITNESS WHEREOF,t he Parties hereto have caused this Agreement to be executed as of
+the Effective Date.
+ONVOY, LLC FRONTIER SOUTHWEST INCORPORATED
+-DocuSigned by:
+I/.
+By: By;
+-B1691B160EA9420...
+Printed: ^ertrand
+Printed: Michael Daniel
+Title: VP Procurement mgmt and Ntwk opt. jltle: SVP, Carrier Services
+3/6/2018
+Date: Date:
+Onvoy Comprehensive ICA TX OTP 020518 26
+
+PUBLIC VERSION
+AGREEMENT
+by and between
+NEUTRAL TANDEM -TEXAS, LLC
+and
+GTE SOUTHWEST INCORPORATED, D/B/A VERIZON SOUTHWEST
+FOR THE STATE OF
+TEXAS
+NTTXICA062207final
+
+PUBLIC VERSION
+AGREEMENT
+PREFACE
+This Agreement ("Agreement" )shall be deemed effective as ofJune 29,2007 (the "Effective
+Date"), between Neutral Tandem —Texas, LLC ("Neutral Tandem" ),a Limited Liability Company
+organized under the laws ofthe State ofDelaware, with offices at 1 South Wacker, Suite 200,
+Chicago, IL 60606and GTE Southwest incorporated, d/b/a Verizon Southwest ("Verizon"), a
+corporation organized under the laws ofthe State ofDelaware with offices at 500East Carpenter
+Freeway, Irving, TX 75062 (Verizon and Neutral Tandem may be referred to hereinafter, each,
+individually as a "Party", and, collectively, as the "Parties").
+Whereas, the Parties wish to enter into this Agreement pursuant to Section 252 ofthe Act; and
+—
+Whereas, pursuant to 47 U.S.C. g 252(i), effective October 16,2006, Neutral Tandem New
+York, LLC adopted the August 1,2006 "Interconnection Agreement Under Sections 251 and 252
+ofthe Telecommunications Act of1996Byand Between Verizon New York Inc. and AT&T
+"
+Communications ofNew York, Inc., including (but not limited to) the AT&T DSO Loop/Resale
+Amendment and the Unitary Rate Amendment; and
+Whereas, the Unitary Rate Amendment was amended by an amendment signed by "The Neutral
+Tandem Parties" (as described in the amendment) on January 4, 2007 and "TheVerizon Parties'*
+(as described in the amendment) on January 11,2007 (the "January 11,2007 URA
+Amendment" );and
+Whereas, the Parties acknowledge and reaffirm that as a result ofsuch adoption the AT&T DSO
+Loop/Resale Amendment applies to this Agreement in accordance with the terms ofthe AT&T
+DSO Loop/Resale Amendment; and
+Whereas, the Parties acknowledge and reaffirm that as a result ofsuch adoption and the January
+11,2007 URA Amendment, the Unitary Rate Amendment, as amended by the January 11,2007
+URA Amendment, applies to this Agreement in accordance with the terms ofthe Unitary Rate
+Amendment, as amended by the January 11,2007 URA Amendment;
+Now Therefore, in consideration ofthe mutual promises contained in this Agreement, and
+intending to be legally bound, pursuant to Section 252 ofthe Act, Verizon and Neutral Tandem
+hereby agree as follows:
+GENERAL TERMS AND CONDITIONS
+The Agreement
+1. 1 This Agreement includes: (a)the Principal Document; (b)the Tariffs ofeach
+Party applicable to the Services that are offered for sale by it in the Principal
+Document (which Tariffs are incorporated into and made a part ofthis Agreement
+by reference), and, (c)an Order by a Party that has been accepted by the other
+Party.
+1.2 Except as otherwise expressly provided in the Principal Document (including, but
+not limited to, the Pricing Attachment), conflicts among provisions in the Principal
+Document, Tariffs, and an Order by a Party that has been accepted by the other
+Party, shall be resolved in accordance with the following order ofprecedence,
+where the document identified in subsection "(a)"shall have the highest
+precedence: (a)the Principal Document; (b)the Tariffs; and, (c)an Order by a
+NTTX ICA062207final
+
+PUBLIC VERSION
+Party that has been accepted by the other Party. The fact that a provision
+appears in the Principal Document but not in a Tariff, orin a Tariff but not in the
+Principal Document, shall not be interpreted as, or deemed grounds forfinding, a
+conflict for the purposes ofthis Section 1.2.
+1.3 This Agreement constitutes the entire agreement between the Parties on the
+subject matter hereof, and supersedes any prior or contemporaneous
+agreement, understanding, or representation, on the subject matter hereof,
+provided, however, notwithstanding any other provision ofthis Agreement or
+otherwise, this Agreement is an amendment, extension and restatement ofthe
+Parties' prior interconnection and resale agreement(s), ifany, and, as such, this
+Agreement is not intended to be, nor shall it be construed to create, a novation or
+accord and satisfaction with respect to any prior interconnection or resale
+agreements and, accordingly, all monetary obligations ofthe Parties to one
+another under any prior interconnection orresale agreements shall remain in full
+force and effect and shall constitute monetary obligations ofthe Parties under
+this Agreement (provided, however, that nothing contained in this Agreement
+shall convert any claim or debt that would otherwise constitute a prepetition claim
+or debt in a bankruptcy case into a postpetition claim or debt). In connection with
+the foregoing, Verizon expressly reserves all ofits rights under the Bankruptcy
+Code and Applicable Law to seek or oppose any relief in respect ofthe
+assumption, assumption and assignment, or rejection ofany interconnection or
+resale agreements between Verizon and Neutral Tandem.
+1.4 Except as otherwise provided in the Principal Document, the Principal Document
+may not be waived or modified except by a written document that issigned by
+the Parties. Subject to the requirements ofApplicable Law, a Party shall have
+the right to add, modify, orwithdraw, its Tariff(s) at any time, without the consent
+of, or notice to, the other Party.
+Term and Termination
+2.1 This Agreement shall be effective as ofthe Effective Date and, unless cancelled
+orterminated earlier in accordance with the terms hereof, shall continue in effect
+until June 28, 2009 (the "Initial Term"). Thereafter, this Agreement shall continue
+in force and effect unless and until cancelled orterminated as provided in this
+Agreement.
+2.2 Either Neutral Tandem or Verizon may terminate this Agreement effective upon
+the expiration ofthe Initial Term or effective upon any date after expiration ofthe
+Initial Term by providing written notice oftermination at least ninety (90)days in
+advance ofthe date oftermination.
+2.3 Ifeither Neutral Tandem or Verizon provides notice oftermination pursuant to
+Section 2.2 and on or before the proposed date oftermination either Neutral
+Tandem or Verizon has requested negotiation ofa new interconnection
+agreement, unless this Agreement is cancelled orterminated earlier in
+accordance with the terms hereof (including, but not limited to, pursuant to
+Section 12),this Agreement shall remain in effect until the earlier of:(a)the
+effective date ofa new interconnection agreement between Neutral Tandem and
+Verizon; or, (b)the date one (1)year after the proposed date oftermination.
+2.4 Ifeither Neutral Tandem orVerizon provides notice oftermination pursuant to
+Section 2.2 and by 11:59PM Eastern Time on the proposed date oftermination
+neither Neutral Tandem nor Verizon has requested negotiation ofa new
+interconnection agreement, (a)this Agreement will terminate at 11:59PM
+Eastern Time on the proposed date oftermination, and (b)the Services being
+NTTX ICA062207final
+
+PUBLIC VERSION
+Party that has been accepted by the other Party. The fact that a provision
+appears in the Principal Document but not in a Tariff, orin a Tariff but not in the
+Principal Document, shall not be interpreted as, or deemed grounds forfinding, a
+conflict for the purposes ofthis Section 1.2.
+1.3 This Agreement constitutes the entire agreement between the Parties on the
+subject matter hereof, and supersedes any prior or contemporaneous
+agreement, understanding, or representation, on the subject matter hereof,
+provided, however, notwithstanding any other provision ofthis Agreement or
+otherwise, this Agreement is an amendment, extension and restatement ofthe
+Parties' prior interconnection and resale agreement(s), ifany, and, as such, this
+Agreement is not intended to be, nor shall it be construed to create, a novation or
+accord and satisfaction with respect to any prior interconnection or resale
+agreements and, accordingly, all monetary obligations ofthe Parties to one
+another under any prior interconnection orresale agreements shall remain in full
+force and effect and shall constitute monetary obligations ofthe Parties under
+this Agreement (provided, however, that nothing contained in this Agreement
+shall convert any claim or debt that would otherwise constitute a prepetition claim
+or debt in a bankruptcy case into a postpetition claim or debt). In connection with
+the foregoing, Verizon expressly reserves all ofits rights under the Bankruptcy
+Code and Applicable Law to seek or oppose any relief in respect ofthe
+assumption, assumption and assignment, or rejection ofany interconnection or
+resale agreements between Verizon and Neutral Tandem.
+1.4 Except as otherwise provided in the Principal Document, the Principal Document
+may not be waived or modified except by a written document that issigned by
+the Parties. Subject to the requirements ofApplicable Law, a Party shall have
+the right to add, modify, orwithdraw, its Tariff(s) at any time, without the consent
+of, or notice to, the other Party.
+Term and Termination
+2.1 This Agreement shall be effective as ofthe Effective Date and, unless cancelled
+orterminated earlier in accordance with the terms hereof, shall continue in effect
+until June 28, 2009 (the "Initial Term"). Thereafter, this Agreement shall continue
+in force and effect unless and until cancelled orterminated as provided in this
+Agreement.
+2.2 Either Neutral Tandem or Verizon may terminate this Agreement effective upon
+the expiration ofthe Initial Term or effective upon any date after expiration ofthe
+Initial Term by providing written notice oftermination at least ninety (90)days in
+advance ofthe date oftermination.
+2.3 Ifeither Neutral Tandem or Verizon provides notice oftermination pursuant to
+Section 2.2 and on or before the proposed date oftermination either Neutral
+Tandem or Verizon has requested negotiation ofa new interconnection
+agreement, unless this Agreement is cancelled orterminated earlier in
+accordance with the terms hereof (including, but not limited to, pursuant to
+Section 12),this Agreement shall remain in effect until the earlier of:(a)the
+effective date ofa new interconnection agreement between Neutral Tandem and
+Verizon; or, (b)the date one (1)year after the proposed date oftermination.
+2.4 Ifeither Neutral Tandem orVerizon provides notice oftermination pursuant to
+Section 2.2 and by 11:59PM Eastern Time on the proposed date oftermination
+neither Neutral Tandem nor Verizon has requested negotiation ofa new
+interconnection agreement, (a)this Agreement will terminate at 11:59PM
+Eastern Time on the proposed date oftermination, and (b)the Services being
+NTTX ICA062207final
+
+PUBLIC VERSION
+SIGNATURE PAGE
+IN WITNESS WHEREOF, the Parties hereto have caused this Agreement to be executed as of
+the Effective Date.
+NEUTRAL TANDEM -TEXAS, LLC GTE SOUTHWEST INCORPORATED, D/8/A
+VERIZON SOUTHWEST
+By:
+Printed: David Tatak Printed: Jeffrey A. Masoner
+Title: VP Billing and Revenue Services Title: Vice President - interconnection Services
+NT TXlCA 062207final.doc
+27
+
+DocuSign Envelope ID: 569C9F69-BA33-4628-A814-D0D0A8033P40UABLIC VERSION
+INTERCONNECTION AGREEMENT
+BY AND BETWEEN
+CENTURYTEL OF LAKE DALLAS, INC. DBA CENTURYLINK
+CENTURYTEL OF PORT ARANSAS, INC. DBA CENTURYLINK
+CENTURYTEL OF SAN MARCOS, INC. DBA CENTURYLINK
+AND
+ONVOY, LLC
+FOR THE STATE OF TEXAS
+April 12, 2018/kjc/Onvoy/TX
+CT/EQ ICA (Teleport)Template (v.05.31.13 negot) 1
+
+DocuSign Envelope ID: 569C9F69-BA33-4628-A814-D0D0A8033P40UABLIC VERSION
+This Interconnection Agreement is entered into by and between CenturyTel of Lake Dallas, Inc.
+dba CenturyLink; CenturyTel of Port Aransas, Inc. dba CenturyLink; CenturyTel of San Marcos,
+Inc. dba CenturyLink and Onvoy, LLC, (CLEC) in their capacity as certified providers of local
+wireline Telecommunications Service. CenturyLink and CLEC are herein referred to collectively
+as the “Parties” and each individually as a “Party” provided however, that even though this
+Agreement refers to the Incumbent Local Exchange Carriers (ILECs) doing business as
+“CenturyLink” by a single name, the terms and provisions of this Agreement shall apply
+separately and independently with respect to each of such separate, legal, entities, not as a
+collective group, and the exercise, assertion, application, waiver or enforcement of each and
+any of the terms, obligations, duties, liabilities, rights, privileges or other interests embodied in
+this Agreement by or against any of such ILECs shall pertain, in each instance, only with
+respect to a single, individual ILEC, and shall not be deemed to apply in an aggregate fashion to
+any of the other ILECs who are signatory parties to this Agreement, unless mutually agreed
+upon in a separate written instrument executed by each affected entity. This Agreement covers
+services in the State of Texas (State) and only in areas which both Parties are certificated.
+WHEREAS, the Parties wish to interconnect their local exchange networks for the purposes of
+transmission and termination of Local Traffic (as hereinafter defined), so that customers of each
+can receive calls that originate on the other’s network and place calls that terminate on the
+other’s network; and
+WHEREAS, the Parties desire to exchange such traffic and related signaling in a technically
+and economically efficient manner at defined and mutually agreed upon Interconnection points;
+and
+WHEREAS, the Parties wish to set forth terms for the purchase of Unbundled Network
+Elements, Resale, Additional Services and for Collocation arrangements for the provision of
+Telecommunications Services; and
+NOW, THEREFORE, in consideration of the mutual provisions contained herein and other good
+and valuable consideration, the receipt and sufficiency of which are hereby acknowledged, and
+without waiving any reservation of rights set forth herein, CenturyLink and CLEC hereby
+covenant and agree as follows:
+April 12, 2018/kjc/Onvoy/TX
+CT/EQ ICA (Teleport)Template (v.05.31.13 negot) 5
+
+DocuSign Envelope ID: 569C9F69-BA33-4628-A814-D0D0A8033P40UABLIC VERSION
+ARTICLE II. GENERAL TERMS AND CONDITIONS
+3. APPLICATION OF THESE GENERAL TERMS AND CONDITIONS
+3.1 Except as may otherwise be set forth in a particular Article or attachments
+incorporated by reference within this Agreement, in which case the provisions of
+such Article or attachment shall control, these General Terms & Conditions apply
+to all Articles and Appendices of this Agreement.
+4. POSITION OF THE PARTIES
+4.1 This Agreement is an integrated package that reflects a balancing of interests
+critical to the Parties. The Parties agree that their entry into this Agreement is
+without prejudice to and does not waive any positions they may have taken
+previously, or may take in the future, in any legislative, regulatory, judicial or
+other public forum addressing any matters, including matters related to the same
+types of arrangements and/or matters related to CenturyLink’s rates and cost
+recovery that may be covered in this Agreement. CLEC agrees to accept these
+terms and conditions with CenturyLink based on this Agreement as reciprocal
+where applicable. Furthermore, to the extent they apply to CenturyLink’s
+provision of services and/or facilities to CLEC, such terms are intended to apply
+only to the extent required by Applicable Law.
+5. INTENTIONALLY LEFT BLANK.
+6. REGULATORY APPROVALS
+6.1 This Agreement, and any amendment or modification hereof, will be submitted to
+the Commission for approval in accordance with §252 of the Act within thirty (30)
+Days after obtaining the last required Agreement signature. CenturyLink and
+CLEC shall use their best efforts to obtain approval of this Agreement by any
+regulatory body having jurisdiction over this Agreement. In the event any
+governmental authority or agency rejects any provision hereof, the Parties shall
+negotiate promptly and in good faith such revisions as may reasonably be
+required to achieve approval.
+7. EFFECTIVE DATE, TERM AND TERMINATION
+7.1 Effective Date. Subject to Section 6.1, this Agreement shall become effective on
+the date of Commission Approval (“Effective Date”); however the Parties may
+agree to implement the provisions of this Agreement upon execution by both
+Parties.
+7.1.1 Notwithstanding the above, the initiation of a new CLEC account, any
+new provision of service or obligation or any revision to currently existing
+services or obligations shall not take effect for sixty (60) Days after the
+Effective Date to accommodate required initial processes. No order or
+request for services under this Agreement shall be processed nor shall
+any CenturyLink obligation take effect before CLEC has established a
+customer account with CenturyLink and has completed any
+implementation, planning, and forecasting requirements as described in
+this Agreement.
+April 12, 2018/kjc/Onvoy/TX
+CT/EQ ICA (Teleport)Template (v.05.31.13 negot) 24
+
+DocuSign Envelope ID: 569C9F69-BA33-4628-A814-D0D0A8033P40UABLIC VERSION
+7.2 Term. This Agreement shall be in effect for a period of three (3) years after
+execution by both Parties (the “Initial Term), unless terminated earlier in
+accordance with the terms of this Agreement. If neither Party terminates this
+Agreement as of the last day of the Initial Term, this Agreement shall continue in
+force and effect on a month-to-month basis unless and until terminated as
+provided in this Agreement.
+7.2.1 Notwithstanding the above, CenturyLink may terminate this Agreement
+after six consecutive months of inactivity on the part of CLEC. Inactivity is
+defined as CLEC’s failure, as required in this Agreement, to initiate the
+required pre-ordering activities, CLEC’s failure to perform billing functions,
+submit any orders, or CLEC’s failure to exchange any Local Traffic.
+7.3 Notice of Termination. Either Party may terminate this Agreement effective upon
+the expiration of the Initial Term by providing written notice of termination (Notice
+of Termination) at least ninety (90) Days prior to the last day of the Initial Term.
+Either Party may terminate this Agreement after the Initial Term by providing a
+Notice of Termination at least thirty (30) Days prior to the effective date of such
+termination.
+7.4 Effect on Termination of Negotiating Successor Agreement. If either Party
+provides Notice of Termination pursuant to Section 7.3 and, on or before the
+noticed date of termination (the “End Date), either Party has requested
+negotiation of a new interconnection agreement, such notice shall be deemed to
+constitute a bona fide request to negotiate a replacement agreement for
+interconnection, services or network elements pursuant to §252 of the Act and
+this Agreement shall remain in effect until the earlier of: (a) the effective date of
+a new interconnection agreement between CLEC and CenturyLink; or, (b) one
+hundred sixty (160) Days after the requested negotiation or such longer period
+as may be mutually agreed upon, in writing, by the Parties, or (c) the issuance of
+an order (or orders) by the Commission resolving each issue raised in
+connection with any arbitration commenced within the timeframe contemplated in
+(b) above. If a replacement agreement has not been reached when the
+timeframe contemplated in (b) above expires and neither Party has commenced
+arbitration, then CenturyLink and CLEC may mutually agree in writing to continue
+to operate on a month-to-month basis under the terms set forth herein, subject to
+written notice of termination pursuant to Section 7.3. Should the Parties not
+agree to continue to operate under the terms set forth herein after one hundred
+eighty (180) Days, then the provisions of Section 7.5 shall apply. The foregoing
+shall not apply to the extent that this Agreement is terminated in accordance with
+Section 7.6 or Section 7.7.
+7.5 Termination and Post-Termination Continuation of Services. If either Party
+provides Notice of Termination pursuant to Section 7.3 and, by 11:59 p.m.
+Central Time on the stated date of termination, neither Party has requested
+negotiation of a new interconnection agreement, (a) this Agreement will terminate
+at 11:59 p.m. Central Time on the termination date identified in the Notice of
+Termination, and (b) the services and functions being provided by CenturyLink
+under this Agreement at the time of termination, including Interconnection
+arrangements and the exchange of local traffic, may be terminated by
+CenturyLink unless the Parties jointly agree to other continuing arrangements.
+April 12, 2018/kjc/Onvoy/TX
+CT/EQ ICA (Teleport)Template (v.05.31.13 negot) 25
+
+DocuSign Envelope ID: 569C9F69-BA33-4628-A814-D0D0A8033P40UABLIC VERSION
+SIGNATURE PAGE
+IN WITNESS WHEREOF, each of the Parties has caused this Agreement to be executed and accepted
+by its duly authorized representatives
+Onvoy, LLC CenturyTel of Lake Dallas, Inc. dba
+CenturyLink
+CenturyTel of Port Aransas, Inc. dba
+CenturyLink
+CenturyTel of San Marcos, Inc. dba
+CenturyLink and Neutral Tandem-
+Texas, LLC
+By: By:
+Name : Kyle Bertrand Name: Kimberly J. Povirk
+Title: Vice President- NO/PM Title: Director Sales Support
+4/18/2018 4/18/2018
+Date: Date:
+April 12, 2018/kjc/Onvoy/TX
+CT/EQ ICA (Teleport)Template (v.05.31.13 negot) 172
+
+PUBLIC VERSION
+FILED Hawaiian Telcom
+ZHODfClO P 2:1,5
+December 10, 2013
+PUBLIC UTILiriES 2 0 1 3 - 0 4 21
+COMMISSION
+Public Utilities Commission
+ofthe State of Hawaii
+465 South King Street
+Honolulu, HI 96813
+Honorable Commissioners:
+Neutral Tandem-Hawaii, LLC
+Adoption ofthe Amended, Extended and Restated Agreement between
+Wavecom Solutions Corporation and Hawaiian Telcom. Inc.
+Pursuant to Section 252(i) ofthe Telecommunications Act of 1996, enclosed for filing with the
+Commission is Neutral Tandem-Hawaii, LLC ("Neutral") adoption ofthe terms ofthe Amended,
+Extended and Restated Agreement between Wavecom Solutions Corporation ("Wavecom"), f/k/a
+Pacific Lightnet, Inc. ("PLNI") and Hawaiian Telcom, Inc. ("HT").
+The Commission approved the Wavecom/HT agreement for interconnection in Decision and
+Order No. 23500 dated June 20, 2007 in Docket 03-0197. The enclosed adoption letter sets forth
+the manner in which the terms ofthe agreement will be applied to Neutral.
+Communications on this matter should be addressed to:
+Steven P. Golden John Harrington
+Vice President - Extemal Affairs Senior VP- Regulatory & Litigation
+Hawaiian Telcom, Inc. Neutral Tandem-Hawaii, LLC
+P.O. Box 2200 550 West Adams, 9"^ Floor
+Honolulu, HI 96841 Chicago, IL 60661
+Very truly yours,
+Steven P. Golden
+Vice President - Extemal Affairs
+SPG:ls
+Enclosure
+c: Division of Consumer Advocacy (w/encl.)
+John Harrington - Neutral Tandem-Hawaii, LLC (w/encl.)
+Always on.' PO Box 2200, Honolulu, HI 96841 hawaiiantel.com
+
+PUBLIC VERSION
+Hawaiian Telcom
+November 6, 2013
+Mr. John Bullock
+Senior VP and Chief Technical Officer
+Neutral Tandem-Hawaii, LLC
+550 West Adams, 9"^ Floor
+Chicago, IL 60661
+Re; Requested Adoption of Interconnection Agreement under Section 252(i^ of the
+Telecommunications Act of 1996
+Dear Mr. Bullock,
+Hawaiian Telcom, Inc. ("HT"). has received a letter from Scott Kellogg, Counsel to Neutral Tandem-
+Hawaii, LLC, stating that, under Section 252(1) of the Telecommunications Act of 1996 (the "Act"), Neutral
+Tandem-Hawaii, LLC ("Neutral") wishes to adopt the terms of the Amended, Extended and Restated
+Agreement between Wavecom Solutions Corporation ("Wavecom"), f/Wa Pacific Lightnet, Inc. ("PLNI")
+and Hawaiian Telcom Inc., with an effective date of June 20, 2007, that was approved by the Hawaii
+Public Utilities Commission (the "Commission") as an effective agreement in the State of Hawaii, as such
+agreement exists on the date hereof after giving effect to operation of law (the "Terms"). I understand
+Neutral has a copy of the Terms. Please note the following with respect to Neutrat's adoption of the
+Terms.
+1. By Neutrat's countersignature on this letter. Neutral hereby represents and agrees to the following
+three points:
+(A) Neutral adopts (and agrees to be bound by) the Temis of the Wavecom/HT agreement for
+interconnection as it is in effect on the date hereof after giving effect to operation of law, and in applying
+the Terms, agrees that Neutral shall be substituted in place of Wavecom in the Temns wherever
+appropriate.
+(B) Notice to Neutral and HT as may be required under the Terms shall be provided as follows:
+To: Neutral
+John Harrington
+Senior VP - Regulatory & Litigation
+Neutral Tandem-Hawaii, LLC
+550 West Adams, 9"^ Floor
+Chicago, IL 60661
+Telephone: 312-380-4528
+Facsimile: 312-346-2601
+Email: iharrinqtonfaneutraltandem.com
+PO Box 2200. Honolulu, HI 96841 hawaiianteLcom
+
+PUBLIC VERSION
+Page 2 of4
+With a copy to; John Bullock
+Senior VP and Chief Technical Officer
+Neutral Tandem-Hawaii. LLC
+550 West Adams, 9^ Floor
+Chicago, IL 60661
+Telephone: 312-384-8032
+Facsimile: 312-346-2601
+Email: ibullock@neutraltandem.com
+To HT
+Vice President - Wholesale Markets
+Hawaiian Telcom, Inc.
+1177 Bishop St.
+Honolulu, HI 96813
+With a copy to:
+Vice President and General Counsel
+Hawaiian Telcom, Inc.
+1177 Bishop St
+Honolulu, HI 96813
+(C) Neutral represents and warrants that it is a certified provider of local telecommunications service
+in the State of Hawaii, and that its adoption ofthe Terms will cover services in the State of Hawaii only.
+2. Neutral's adoption of the Wavecom Terms shall become effective on November 1, 2013 and is
+subject to regulatory approval. HT shall file this adoption letter with the Commission promptly upon receipt
+of an original of this letter countersigned by an authorized officer of Neutral. The term and termination
+provisions of the Wavecom/HT agreement shall govern Neutral's adoption of the Terms. The adoption of
+(and agreement to be bound by) the Terms is currently scheduled to expire on October 31, 2014.
+3. As the Terms are being adopted by you pursuant to your statutory rights under section 252(i), HT
+does not provide the Terms to you as either a voluntary or negotiated agreement. The filing and
+performance by HT of the Terms does not in any way constitute a waiver by HT of any position as to the
+Terms or a portion thereof, nor does it constitute a waiver by HT of atl rights and remedies it may have to
+seek review of the Terms, or to seek review in any way of any provisions included in these Terms as a
+result of Neutral's 252(1) election.
+4. On January 25.1999, the Supreme Court of the United States ("Court") issued its decision on the
+appeals of the Eighth Circuit's decision in Iowa Utilities Board. Specifically, the Supreme Court modified
+several of the FCC's and the Eighth Circuit's rulings regarding unbundled network elements and pricing
+requirements under the Act AT&T Corp. v. Iowa Utilities Board, 119 S. Ct. 721 (1999). Certain
+provisions of the Terms may be void or unenforceable as a result of the Court's decision of January 25,
+1999, theUnitedStatesEighthCircuitCourtof Appeals'decision in Docket No. 96-3321 regarding the
+FCC's pricing rules, and the cun'ent appeal before the U.S. Supreme Court regarding the FCC's new UNE
+rules. Moreover, nothing herein shall be construed as or Is intended to be a concession or admission by
+PO Box 2200, Honolulu, HI 96841 hawaiiantel.com
+
+PUBLIC VERSION
+Page 3 of 4
+HT that any provision in the Terms complies with the rights and duties Imposed by the Act, the decisions
+of the FCC and the Commissions, the decisions of the courts, or other law, and HT expressly reserves its
+full right to assert and pursue claims arising from or related to the Terms.
+5. HT reserves the right to deny Neutral's adoption and/or application of the Terms, in whole or in
+part, at any time:
+(a) when the costs of providing the Temis to Neutral are greater than the costs of providing them to
+Wavecom;
+(b) If the provision of the Terms to Neutral is not technically feasible; and/or
+(c) to the extent that HT otherwise is not required to make the Temns available to Neutral under
+applicable law.
+6. For avoidance of doubt, please note that adoption of the Terms will not result in reciprocal
+compensation payments for Internet traffic. HT has always taken the position that reciprocal
+compensation was not due to be paid for Internet traffic under section 251 (b) (5) of the Act HT's position
+that reciprocal compensation is not to be paid for Internet traffic was confirmed by the FCC in the Order
+on Remand and Report and Order adopted on April 18, 2001 ("FCC Internet Order"), which held that
+Intemet traffic constitutes "information access' outside the scope of the reciprocal compensation
+obligations set forth in section 251(b) (5) of the Act. Accordingly, any compensation to be paid for
+Intemet traffic will be handled pursuant to the terms of the FCC Internet Order, not pursuant to adoption
+of the Terms. Moreover, in light of the FCC Intemet Order, even if the Terms include provisions invoking
+an intercamer compensation mechanism for Intemet traffic, any reasonable amount of time permitted for
+adopting such provisions has expired under the FCC's rules implementing section 252(1) of the Act. In
+fact, the FCC Internet Order made clear that carriers may not adopt provisions of an existing
+interconnection agreement to the extent that such provisions provide compensation for Intemet traffic.
+7. WHEREAS, the Federal Communications Commission released its USF/ICC Transformation Order,
+FCC 11-161 (Nov. 18, 2011), which among other things substantially changes the rules governing the
+exchange of telecommunications traffic between CLECs and local exchange carriers, including Neutral
+and HT, and the Parties desire to confonm their interconnection and traffic exchange arrangements to the
+new rules therein established. Notwithstanding any other provisions of the existing or amended Terms to
+the contrary, the Parties shall exchange all Reciprocal Compensation Traffic as defined in Section 7 of
+the Interconnection Attachment of the Terms at bill-and-keep (that is, at a zero Intercarrier compensation
+rate for traffic in either direction between the parties).
+8. Should Neutral attempt to apply the Terms in a manner that conflicts with paragraphs 3-7 above,
+HT reserves its rights to seek appropriate legal and/or equitable relief.
+9. tn the event that a voluntary or involuntary petition has been or is in the future filed against
+Neutral under bankruptcy or insolvency laws, or any law relating to the relief of debtors, readjustment of
+indebtedness, debtor reorganization or composition or extension of debt (any such proceeding, an
+"Insolvency Proceeding"), then: (i) all rights of HT under such laws, including, without limitation, all rights
+of HT under 11 U.S.C. § 366, shall be preserved, and Neutral's adoption of the HT Terms shall in no way
+impair such rights of HT: and (ii) all rights of Neutral resulting from Neutral's adoption of the HT tenms
+shall be subject to and modified by any Stipulations and Orders entered in the Insolvency Proceeding,
+including, without limitation, any Stipulation or Order providing adequate assurance of payment to HT
+pursuant to 11 U.S.C. §366.
+PO Box 2200, Honolulu, HI 96841 hawaiiantel.com
+
+PUBLIC VERSION
+Page 4 of 4
+Please arrange for a duly authorized representative of Neutral to sign this letter In the space provided
+below and return it to the undersigned.
+Sincerely,
+HAWAIIAN TELCOM, INC.
+Approved
+05 to form
+By 4^,
+DateWnTDT/f^
+Paul Krueger
+Vice President - Business and Wholesale Sales
+Reviewed and countersigned:
+NEUTRAL TANDEM-HAWAII. LLC
+j^h^_EtJL.^_sy P
+(PRINT NAME and TITLE)
+(DATE)
+PO Box 2200, Honolulu, HI 96841 hawaiiantel.com
+
+PUBLIC VERSION
+AMENDED, EXTENDED AND RESTATED AGREEMENT
+by and between
+PACIFIC UGHTNET, INC.
+and
+HAWAIIAN TELCOM, INC.
+FOR THE STATE OF
+HAWAII
+#
+
+PUBLIC VERSION
+(e.g., an agreement commonly used in the industry), which holds the Providing
+Party harmless on an after-tax basis with respect to its forbeanng to collect such
+Tax.
+41.6 All notices, affidavits, exemption-certificates or other communications required or
+permitted to be given by either Party to the other, for purposes of this Section 41,
+shall be made in writing and shall be delivered in person or sent by certified mail,
+return receipt requested, or registered mail, or a couner service providing proof of
+service, and sent to the addressees set forth in Section 29 as well as to the
+following:
+To Hawaiian Telcom:
+Tax Department
+Hawaiian Telcom. Ine.
+P. O Box 2200
+Honolulu. HI 96841
+To PLNI:
+Vice President, Business Operations
+Pacific Lightnet, Inc.
+1132 Bishop Street
+Suite 800
+Honolulu, HI 96813
+Either Party may from time to time designate another address or other
+addressees by giving notice in accordance with the terms of this Section. Any
+notice or other communication shall be deemed to be given when received.
+42. Technology Upgrades
+Notwithstanding any other provision of this Agreement. Hawaiian Telcom shall have the
+right to deploy, upgrade, migrate and maintain its network at its discretion. The Parties
+acknowledge that Hawaiian Telcom, at its election, may deploy fiber throughout its
+network and that such fiber deployment may inhibit or facilitate PLNI's ability to provide
+serviee using certain technologies. Nothing in this Agreement shall limit Hawaiian
+Telcom's ability to modify its network through the incorporation of new equipment or
+software or otherwise. PLNI shall be solely responsible for the cost and activities
+associated with accommodating such changes in its own network.
+43. Territory
+43.1 This Agreement applies to the territory in which Hawaiian Telcom operates as an
+Incumbent Local Exchange Carrier in the State of Hawaii. Hawaiian Telcom shall
+be obligated to provide Services under this Agreement only within this terntory.
+43.2 Notwithstanding any other provision of this Agreement, Hawaiian Telcom may
+terminate this Agreement as to a specific operating territory or portion thereof if
+Hawaiian Telcom sells or otherwise transfers its operations in such territory or
+portion thereof to a third-person. Hawaiian Telcom shall provide PLNI with at
+least 90 calendar days prior wntten notice of such termination, which shall be
+effective upon the date specified in the notice.
+9
+44. Third Party Beneficiaries
+24
+
+PUBLIC VERSION
+1.4 Except as otherwise provisioned in the Principal Document, the Pnncipal
+Document may not be waived or modified except by a written document that is
+signed by the Parties. Subject to the requirements of Applicable Law, a Party
+shall have the right to add, modify, or withdraw, its Tanff(s) at any time, without
+the consent of, or notice to. the other Party.
+1.5 Upon both Parties' execution of this Agreement, Hawaiian Telcom shall. In a
+timely manner, file the Agreement with the Commission for approval pursuant to
+Section 252(e) of the Act. PLNI shall cooperate fully as requested by Hawaiian
+Telcom in the preparation and submission of the requisite filing.
+2, Term and Termination
+2.1 This Agreement shall be effective as of the Effective Date and, unless cancelled
+or terminated earfier in accordance with the terms hereof, shall continue In effect
+until [Mo, Day, Year, indicate date one day previous to effective date, plus 2
+years] (the "Initial Term"). Thereafter, this Agreement shall continue in force and
+effect unless and until cancelled or terminated as provided in this Agreement.
+2.2 Either PLNI or Hawaiian Telcom may terminate this Agreement effective upon
+the expiration of the Initial Term or effective upon any date after expiration of the
+Initial Term by providing written notice of termination at least ninety (90) days in
+advance of the date of termination.
+2.3 If either PLNI or Hawaiian Telcom provides notice of termination pursuant to
+Section 2.2 and on or before the proposed date of termination either PLNI or
+Hawaiian Telcom has requested negotiation of a new interconnection agreement,
+unless this Agreement is cancelled or terminated earfier in accordance with the
+terms hereof (including, but not limited to, pursuant to Section 12), this
+• Agreement shall remain in effect until the earlier of: (a) the effective date of a
+new interconnection agreement between PLNI and Hawaiian Telcom; or, (b) the
+date one (1) year after the proposed date of termination.
+2.4 If either PLNI or Hawaiian Telcom provides notice of termination pursuant to
+Section 2.2 and by 11:59 PM Eastern Time on the proposed date of termination
+neither PLNI nor Hawaiian Telcom has requested negotiation of a new
+interconnection agreement, (a) this Agreement will terminate at 11:59 PM
+Eastern Time on the proposed date of termination, and (b) the Services being
+provided under this Agreement at the time of termination will be terminated,
+except to the extent that the Purchasing Parfy has requested that such Services
+continue to be provided pursuant to an applicable Tariff or Statement of
+Generally Available Terms (SGAT).
+3. Glossary and Attachments
+The Glossary and the following Attachments are a part of this Agreement:
+Additional Services Attachment
+Interconnection Attachment
+Resale Attachment
+Network Elements Attachment
+Collocation Attachment
+911 Attachment
+Pricing Attachment
+
+PUBLIC VERSION
+SIGNATURE PAGE
+IN WITNESS WHEREOF, the Parties hereto have caused this Agreement to be executed as of
+the Effective Date.
+PACIFIC UGHTNET, INC. HAWAIIAN TELCOM, INC.
+f < : ^, B . - ^ ^ ^:
+By: ; y > ' » ' H ^ - -^
+By
+Pnnted: Patrick Uuatflmante-37hvl^'^ ^- CCCK^ Pnnted; Michael S. Ruley
+Title .Chief Operating Officer Title: President and Chief Executive Officer
+JUL 19 2007
+Date: W 1 i ^^1
+Date:
+oxtonsnn
+9
+27
+
+PUBLIC VERSION
+Jeffrey A.Masoner
+Vice President
+Interconnection Services
+1310North Court House Rd.
+9th Floor, Room 9E104
+Arlington, VA 22201
+:
+Tel. 703974&610
+Fax: 703974-0314
+jeffrey.a.masoneroverizon. corn
+November 21,2005
+Ron Gavillet
+EVP 8 General Counsel
+Neutral Tandem-Florida, LLC
+1 S.Wacker, Suite 200
+Chicago, IL 60606
+Re: Requested Adoption Under Section 252(i) ofthe Communications Act
+Dear Mr. Gavillet:
+Verizon Florida Inc. , f/k/a GTE Florida Incorporated ("Verizon"), a Florida
+corporation, with principal place of business at 201 N Franklin Street, Tampa, FL
+33602-5167, has received correspondence stating that Neutral Tandem-Florida,
+LLC ("Neutral Tandem" ), a Delaware Limited Liability Company, with principal
+place of business at 1 S. Wacker, Suite 200, Chicago, IL 60606wishes, pursuant
+to Section 252(i) ofthe Communications Act, to adopt the terms ofthe arbitrated
+Interconnection Agreement between US LEC of Florida Inc. ("USLEC")and
+Verizon that was approved by the Florida Public Service Commission (the
+"Commission" ) as an effective agreement in the State ofFlorida in Docket No.
+020412-TP, as such agreement exists on the date hereof after giving effect to
+operation of law (the "Terms"). understand Neutral Tandem has a copy ofthe
+I
+Terms. Please note the following with respect to Neutral Tandem*s adoption of
+the Terms.
+Neutral Tandem FLMFN 100605.doc
+
+PUBLIC VERSION
+SIGNATURE PAGE
+Please arrange for a duly authorized representative of Neutral Tandem to sign
+this letter in the space provided below and return it to Verizon.
+Sincerely,
+VERIZON FLORIDA INC.
+Vice President
+Interconnection Services Policy 8 Planning
+Reviewed and countersigned as to Paragraph 1:
+NEUTRAL TANDEM-FLORIDA, LLC
+EVP 8 General Counsel
+c: Kathy Robertson - Verizon
+Neutral Tandem FLMFN 100605.doc
+
+PUBLIC VERSION
+bW DA.
+I
+~p&- I& F
+o
+pQ fZ+6 MGi~~~
+
+PUBLIC VERSION
+1. By Neutral Tandem's countersignature on this letter, Neutral Tandem
+hereby represents and agrees to the following seven points:
+A. Neutral Tandem adopts (and agrees to be bound by) the Terms
+and, in applying the Terms, agrees that Neutral Tandem shall be
+substituted in place of US LEC of Florida Inc. and US LEC in the
+Terms wherever appropriate.
+For the avoidance of any doubt, adoption ofthe Terms does not
+include adoption ofany provision imposing an unbundling obligation
+on Verizon (i)that no longer applies to Verizon under the Report
+and Order and Order on Remand (FCC 03-36)released by the
+Federal Communications Commission ("FCC")on August 21,2003
+in CC Docket Nos. 01-338,96-98,98-147 ("Triennial Review
+Order" ), or the Order on Remand in WC Docket No. 04-313and CC
+Docket No. 01-338,released by the FCC on February 4, 2005 (the
+"TRO Remand Order" ),or (ii) that is otherwise not required by 47
+U. S.C.Section 251(c)(3)or by 47 C.F.R.Part 51. Moreover,
+Verizon, on February 20, 2004, filed a petition at the Commission to
+arbitrate amendments to interconnection agreements (including the
+Terms) with respect to the Triennial Review Order ("TRO
+Arbitration" ). IfUS LEC is a party to the TRO Arbitration at the time
+the Commission issues an effective order approving an amendment
+with respect to the Triennial Review Order in the TRO Arbitration
+(an "Approved Amendment" ):(i)the terms ofsuch Approved
+Amendment shall be deemed to amend this adoption effective on
+the effective date ofsuch Commission order, (ii) Neutral Tandem
+agrees to be bound by the terms ofsuch Approved Amendment
+effective on the effective date ofsuch Commission order, and (iii)
+Verizon and Neutral Tandem shall execute an amendment to this
+adoption to memorialize that this adoption is amended by the terms
+ofsuch Approved Amendment effective on the effective date of
+such Commission order; provided, however, failure by either party
+to do so shall not be cited as a basis for contesting the
+effectiveness ofthe provisions in subsections (i) and (ii) above.
+C. Notice to Neutral Tandem and Verizon as may be required or
+permitted under the Terms shall be provided as follows:
+To Neutral Tandem-Florida, LLC:
+Neutrai Tandem FLMFN 100605.doc
+
+PUBLIC VERSION
+SIGNATURE PAGE
+Please arrange for a duly authorized representative of Neutral Tandem to sign
+this letter in the space provided below and return it to Verizon.
+Sincerely,
+VERIZON FLORIDA INC.
+Vice President
+Interconnection Services Policy 8 Planning
+Reviewed and countersigned as to Paragraph 1:
+NEUTRAL TANDEM-FLORIDA, LI C
+Ron Gavillet
+EVP 8 General Counsel
+c: Kathy Robertson - Verizon
+Neutral Tandem FLMFN 100605.doc
+
+PUBLIC VERSION
+AGREEMENT
+by and between
+US LEC OF FLORIDA INC.
+and
+VERIZON FLORIDA INC.,
+f/k/a GTE FLORIDA INCORPORATED
+FOR THE STATE OF
+FLORIDA
+VZ-US LEC FL9-8-03conformed (2)
+
+PUBLIC VERSION
+AGREEMENT
+PREFACE
+This Agreement ("Agreement" )shall be deemed effective as ofSeptember 8, 2003 (the "Effective
+Date"), between US LEC ofFlorida Inc. ("USLEC"),a corporation organized under the laws ofthe
+State ofNorth Carolina, with offices at 6801 Morrison Boulevard, Charlotte, North Carolina 28211
+and Verizon Florida Inc.,f/k/a GTE Florida Incorporated ("Verizon"), a corporation organized
+under the laws ofthe State of Florida with offices at 201 N. Franklin Street, Tampa, Florida
+33602-5167(Verizon and US LEC may be referred to hereinafter, each, individually as a "Party",
+and, collectively, as the "Parties").
+GENERAL TERMS AND CONDITIONS
+In consideration ofthe mutual promises contained in this Agreement, and intending to be legally
+bound, pursuant to Section 252 ofthe Act, Verizon and US LEC hereby agree as follows:
+The Agreement
+1. 1 This Agreement includes: (a) the Principal Document; (b)the Tariffs ofeach
+Party applicable to the Services that are offered for sale by it in the Principal
+Document (which Tariffs are incorporated into and made a part ofthis Agreement
+by reference); and, (c)an Order by a Party that has been accepted by the other
+Party.
+1.2 Except as otherwise expressly provided in the Principal Document (including, but
+not limited to, the Pricing Attachment), conflicts among provisions in the Principal
+Document, Tariffs, and an Order by a Party that has been accepted by the other
+Party, shall be resolved in accordance with the following order ofprecedence,
+where the document identified in subsection "(a)"shall have the highest
+precedence: (a)the Principal Document; (b)the Tariffs; and, (c)an Order by a
+Party that has been accepted by the other Party. The fact that a provision
+appears in the Principal Document but not in a Tariff, or in a Tariff but not in the
+Principal Document, shall not be interpreted as, or deemed grounds for finding, a
+conflict for the purposes ofthis Section 1.2.
+1.3 This Agreement constitutes the entire agreement between the Parties on the
+subject matter hereof, and supersedes any prior or contemporaneous
+agreement, understanding, or representation, on the subject matter hereof.
+Except as otherwise provisioned in the Principal Document, the Principal
+Document may not be waived or modified except by a written document that is
+signed by the Parties. Subject to the requirements ofApplicable Law, a Party
+shall have the right to add, modify, orwithdraw, its Tariff(s) at any time, without
+the consent of, or notice to, the other Party.
+Term and Termination
+2. 1 This Agreement shall be effective as ofthe Effective Date and, unless cancelled
+or terminated earlier in accordance with the terms hereof, shall continue in effect
+until September 7,2005 (the "Initial Term"). Thereafter, this Agreement shall
+continue in force and effect unless and until cancelled or terminated as provided
+in this Agreement.
+2.2 Either US LEC or Verizon may terminate this Agreement effective upon the
+expiration ofthe Initial Term or effective upon any date after expiration ofthe
+
+PUBLIC VERSION
+Initial Term by providing written notice oftermination at least ninety (90)days in
+advance ofthe date oftermination.
+Ifeither US LEC orVerizon provides notice oftermination pursuant to Section 2.2
+and on or before the proposed date oftermination either US LEC or Verizon has
+requested negotiation ofa new interconnection agreement, unless this
+Agreement is cancelled or terminated earlier in accordance with the terms hereof
+(including, but not limited to, pursuant to Section 12),this Agreement shall
+remain in effect until the earlier of:(a)the effective date ofa new interconnection
+agreement between US LEC and Verizon; or, (b)the date one (1)year after the
+proposed date oftermination.
+2.4 Ifeither US LEC or Verizon provides notice oftermination pursuant to Section 2.2
+and by 11:59PM Eastern Time on the proposed date oftermination neither US
+LEC nor Verizon has requested negotiation ofa new interconnection agreement,
+(a) this Agreement will terminate at 11:59PM Eastern Time on the proposed date
+oftermination, and (b)the Services being provided under this Agreement at the
+time oftermination will be terminated, except to the extent that the Purchasing
+Party has requested that such Services continue to be provided pursuant to an
+applicable Tariff or SGAT.
+Glossary and Attachments
+The Glossary and the following Attachments are a part ofthis Agreement:
+Additional Services Attachment
+Interconnection Attachment
+Resale Attachment
+UNE Attachment
+Collocation Attachment
+911Attachment
+Pricing Attachment
+Applicable Law
+4. 1 The construction, interpretation and performance ofthis Agreement shall be
+governed by (a)the laws ofthe United States ofAmerica and (b) the laws ofthe
+State ofFlorida, without regard to its conflicts oflaws rules. All disputes relating
+to this Agreement shall be resolved through the application ofsuch laws.
+4.2 Each Party shall remain in compliance with Applicable Law in the course of
+performing this Agreement.
+4.3 Neither Party shall be liable for any delay orfailure in performance by it that
+results from requirements ofApplicable Law, or acts or failures to act ofany
+governmental entity or official.
+4.4 Each Party shall promptly notify the other Party in writing ofany governmental
+action that limits, suspends, cancels, withdraws, or otherwise materially affects,
+the notifying Party's ability to perform its obligations under this Agreement.
+4.5 Ifany provision ofthis Agreement shall be invalid or unenforceable under
+Applicable Law, such invalidity or unenforceability shall not invalidate or render
+unenforceable any other provision ofthis Agreement, and this Agreement shall
+be construed as ifit did not contain such invalid or unenforceable provision;
+
+PUBLIC VERSION
+INTERCONNECTION ADOPTION AGREEIIIIENT/ATB|T-9STATE
+PAGE 1OF3
+AT&T-9STATE/Neutral Tandem
+VERSION
+—11/26/07
+AGREEMENT
+This Agreement, which shall become effective thirty (30)days following the date ofthe last signature of
+both Parties ("Effective Date"),is entered into by and between Neutral Tandem — Florida, LLC, Neutral Tandem—
+Georgia, LLC,and Neutral Tandem — Kentucky, LLC collectively ("Neutral Tandem"),all ofwhich are Delaware
+corporations on behalf ofitself, and BellSouth Telecommunications, Inc.d/b/a AT&TAlabama, ATBTFlorida, ATBT
+Georgia, AT&T Kentucky, AT&T Louisiana, AT&T Mississippi, ATBTNorth Carolina, ATBTSouth Carolina and ATBT
+Tennessee, ("AT&T"),having an office at 675W.Peachtree Street, Atlanta, Georgia, 30375,on behalf ofitself and its
+successors and assigns.
+WHEREAS, the Telecommunications Act of1996(the "Act")was signed into law on February 8,1996;and
+WHEREAS, pursuant toSection 252(i) ofthe Act, for purposes ofthis Agreement, CLEC has adopted the
+Comcast Phone, LLCand Comcast Phone II,Inc.for the States ofFlorida, Georgia, and Kentucky ("the MFN
+Agreement" );
+WHEREAS, Neutral Tandem has requested that ATBTmake available the interconnection agreement in its
+entirety executed between AT&T and Comcast Phone, LLCand Comcast Phone II, Inc.dated September 25,2005for
+the state(s) ofFlorida, Georgia, and Kentucky.
+NOW, THEREFORE, in consideration ofthe promises and mutual covenants ofthis Agreement, Neutral
+Tandem and AT&Thereby agree asfollows:
+1. Neutral Tandem and AT&T shall adopt in its entirety the Comcast Phone, LLCand Comcast Phone II,
+Inc. Interconnection Agreement dated September 25,2005and any and all amendments to said agreement executed
+and approved by the appropriate state regulatory commission as ofthe date ofthe execution ofthis Agreement. The
+Comcast Phone, LLCand Comcast Phone II,Inc. Interconnection Agreement and all amendments are attached hereto
+as Exhibit1 and incorporated herein by this reference. The adoption ofthis agreement with amendment(s) consists of
+the following:
+2. In the event that Neutral Tandem consists oftwo (2)or more separate entities as set forth in the
+preamble tothis Agreement, all such entities shall bejointly and severally liable forthe obligations ofNeutral Tandem
+under this Agreement.
+3. The term ofthis Agreement shall be from the Effective Date as
+CCCS3of7
+
+PUBLIC VERSION
+setforth above and shall expire as set forth in Section 2, General Terms and Conditions ofthe Comcast Phone, LLCand
+Comcast Phone II, Inc. Interconnection Agreement. For the purposes ofdetermining the expiration date ofthis
+Agreement pursuant to Section 2ofthe Comcast Phone, LLC and Comcast Phone II, Inc. Interconnection Agreement,
+the effective date shall be thirty (30)days following the date ofthe last signature.
+4. Neutral Tandem shall accept and incorporate any amendments tothe Comcast Phone, LLCand
+Comcast Phone II,Inc. Interconnection Agreement executed as aresult ofany final judicial, regulatory, orlegislative
+action.
+5. In entering into this MFN Agreement, the Parties acknowledge and agree that neither Party waives,
+and each Party expressly reserves, any ofits rights, remedies or arguments itmay have at law orunder the intervening
+law or regulatory change provisions in this MFN Agreement (including intervening law rights asserted by either Party via
+written notice as tothe Separate Agreement), with respect to any orders, decisions, legislation orproceedings and any
+remands by the FCC, state utility commission, court, legislature or other governmental body including, without limitation,
+any such orders, decisions, legislation, proceedings, and remands which were issued, released or became effective prior
+tothe Effective Date ofthis MFN Agreement, orwhich the Parties have not yet fully incorporated into this Agreement or
+which may be the subject offurther government review.
+6. Every notice, consent or approval ofa legal nature, required or permitted by this Agreement shall be in
+writing and shall be delivered either by hand, by overnight courier orby US mail postage prepaid, oremail ifan email
+address is listed below, addressed to:
+AT&T Local Contract Manager
+600North 19'"Street, 8'"floor
+Birmingham, Alabama 35203
+and
+Business Markets Attorney
+Suite 4300
+675W.Peachtree St.
+Atlanta, GA 30375
+Neutral Tandem — Florida, LLC
+Neutral Tandem —Georgia, LLC
+—
+Neutral Tandem Kentucky, LLC
+Ron Gavillet
+1South Wacker, Suite 200
+Chicago, IL 60606
+312.384.8040voice
+312.346.3276fax
+r aviiiet neutraltandem. com
+or atsuch other address as the intended recipient previously shall have designated bywritten notice to the other Party,
+Where speciTically required, notices shall be by certified orregistered mail. Unless otherwise provided in this Agreement,
+notice by mail shali be effective on the date itis officially recorded as delivered by return receipt orequivalent, and in the
+Version: 10/18/07
+CCCS4 of7
+
+PUBLIC VERSION
+absence ofsuch record ofdelivery, itshall be presumed tohave been delivered the fifth day, or next business day after
+the fifth day, after itwas deposited in the mails.
+Version: 10/18/07
+CCCS5of7
+
+aan- xv-avvp in: aa ria iseutr aj. iana P et U a B ~ L j I . C c~ o V ~ E o R vv S v ION
+INTERCONNECTION ADOPTION AGREEMENT/AT&T-SSTATE
+SIGNATURE PAGE
+~AT Y. STATBNclgra-l Tandem
+VERSION l1/26/07
+eutral Tandem» - Florida, LLC BellSouth Tefecommunications, Inc.d/b/a
+eutrai Tandem -Georgia, II.C AT&TAlabama, AT&TFlorida, AT&TGeorgia,
+eutral Tandem Kentucky, LLC AT&TKentucky, AT&Tl.ouisiana, AT&T
+Iwississippi, AT&TNorth Carolina, AT&TSouth
+Name; christen E.Shore
+»
+J& 0«~its tRsva ~a
+Title; l3irector
+¹
+¹'
+OCN ACNA OCN ACNA
+8AMA MISSISSIPPI
++
+R~~ 4%5
+RIDA NORTH CAROLINA
+~6+1
+RGIA SOUTH CAROLINA
+88~
+E
+KE TUCKY TENNESSEE
+SIAMA
+CCCS6of7
+
+PUBLIC VERSION
+1.3 Should Comcast Phone's certification in any state be rescinded or otherwise
+terminated, BeHSouth may, at its election, terminate this Agreement in accordance
+with any applicable Commission rules for termination. As permitted by
+Commission rules, BeHSouth may refuse to provide services hereunder in that state
+until certi6cation is reinstated in that state. Comcast Phone shall provide an
+effective certification to do business issued by the secretary ofstate or equivalent
+authority in each state covered by this Agreement.
+2. Term ofthe Agreement
+2.1 The term ofthis Agreement shall be three years, beginning on the Effective Date
+and shall apply to the BeHSouth territory in.the state of.Florida, Georgia and
+Kentucky. Notwithstanding any prior agreement ofthe Parties, the rates, terms
+and conditions oftins Agreement shall not be applied retroactively prior to the
+Effective Date.
+2.2 The Parties agree that no later than one hundred and eighty(180) days prior to the
+expiration ofthis Agreement, they shall commence negotiations for anew
+agreement to be effective beginning on the expiration date ofthis Agreement
+(" Subsequent Agreement" ).
+2.3 If, within one hundred and tlmty-Ave (135)days ofcommencing the negotiation
+referred to in Section 2.2 above, the Parties are unable to negotiate new terms,
+conditions and prices for a Subsequent Agreement„either Party may petition the
+Commission to establish appropriate terms, conditions and prices for the
+Subsequent Agreement pursuant to 47U.S.C.252,
+2.4 If, as ofthe expiration ofthis Agreement, a Subsequent Agreement has not been
+executed by the Parties, and the Parties are not yet in arbitration, this Agreement
+shaH continue on amonth-to-month basis while a Subsequent Agreement is
+actively being negotiated in good faith or alternatively, atimely petition has been
+61edwith the respective Commission and the Subsequent Agreement is subject to
+the respective Commission arbitration pursuant to 252 ofthe Act. Upon
+conversion to amonth-to-month term, during such negotiations, provided that the
+Parties are not in arbitration, then either Party, in its discretion, may terminate this
+Agreement upon sixty (60)days written notice to the other Party.
+Notwithstanding the foregoing, the Agreement cannot be terminated prior to 180
+days after the original expiration date. In the event that BeHSouth terminates this
+Agreement as provided herein, BeHSouth shaH continue to provide services to
+Comcast Phone pursuant to the terms, conditions and rates set forth in BeHSouth's
+standard interconnection agreement then in eFect and made available to CLECs
+requesting negotiations pursuant to Section 251 ofthe Act, Ifthe Parties are
+actively pursuing good faith negotiations for a Subsequent Agreement or a
+transition plan Born this Agreement, except as expressly provided, neither Patty
+shall refuse to provide services to the other Party during the negotiation ofthe
+Subsequent Agreement or the transition Rom this Agreement to the Subsequent
+Agreement.
+Version May 27,2002
+CCCSBof448
+
+PUBLIC VERSION
+INTERCONNECTION, COLLOCATION AND RESALE AGREEMENT
+FORTHE STATE OFFLORIDA
+Effective: March 1,2007
+Expiration: February 28,2009
+Neutral Tandem-Florida LLC
+Embar' Florida, Inc.
+Embarq — Neutral Tandem-Florida LLC
+Interconnection, Collocation And Resale Agreement-FL
+Effective: March I,2007
+Page 1of147
+Rev. 11.17.06a
+
+PUBLIC VERSION
+INTERCONNECTION, COLLOCATION AND RESALE AGREEMENT
+This Interconnection, Collocation and Resale Agreement {the"Agreement" ),dated this 1stday ofMarcls,
+2007,is entered into by and between Neutral Tandem-Florida LLC{"CLEC"),aDelaware limited liability
+company, and Embarq Florida, Inc.("Embarq"), aFlorida corporation, to establish the rates, terms and conditions
+for local interconnection, collocation, local resale, and purchase ofunbundled Network Elements (individually
+referred to asthe "service" orcollectively asthe "services").
+WHEREAS, the Parties wish to interconnect their local exchange networks for the purposes oftransmission
+and termination ofcalls, sothat customers ofeach can receive calls that originate onthe other's network and place
+calls that terminate on the other's network, and for CLEC's use inthe provision ofexchange access (" Local
+Interconnection*'); and
+,
+WHEREAS, CLECwishes to purchase Telecommunications Services forresale to others, and Embarq is
+willing toprovide these services; and
+WHEREAS, CLECwishes to purchase unbundled Network Elements, ancillary services and functions and
+additional features (" Network Elements" )forthe provision ofTelecommunications Services to others, and Embarq
+iswilling toprovide unbundled Network Elements and services; and
+WHEREAS, the Parties intend the rates, terms and conditions ofthis Agreement, and their performance of
+obligations thereunder, to comply with the Communications Act of1934,as amended (the "Act"),the Rules and
+Regulations ofthe Federal Communications Commission ("FCC"),and the orders, rules and regulations ofthe
+Commission; and
+WHEREAS, the Parties wish toreplace any and all other prior agreements, written and oral, applicable to
+the state ofFlorida.
+Now, therefore, in consideration ofthe terms and conditions contained in this Agreement, CLEC and
+Embarq hereby mutually agree as follows:
+—
+Embarq Xeutrai
+Interconnection, CoIlocation And
+Eff
+Page 7of147
+Rev. 11.17.06a
+
+PUBLIC VERSION
+the applicability ofsuch order orthe resulting appropriate modifications to this Agreement, either
+party may invoke the Dispute Resolution provisions ofthis Agreement, itbeing the intent ofthe
+parties that this Agreement shall be brought into conformity with the then current obligations
+under the Act as determined by the Amended Rules. Embarq may charge rates to CLECunder this
+Agreement that are approved by the Commission in ageneric costproceeding, whether such
+action was commenced before orafter the Effective Date ofthis Agreement, as ofthe effective
+date ofthe Commission decision.
+4.4, Inthe event that as aresult ofany effective decision, order, or determination ofany judicial or
+regulatory authority with jurisdiction over the subject matter hereof, Embarq determines that itis
+not required tofurnish any service, facility, arrangement, orbenefit required tobe furnished or
+provided to CLECunder this Agreement, then Embarq may discontinue any service, facility,
+arrangement, orbenefit (" Discontinued Arrangement" )tothe extent permitted by any such
+decision, order, ordetermination byproviding sixty (60)Days written notice to CLEC.
+Immediately upon provision ofsuch written notice to CLEC, CLECwill beprohibited &om
+ordering and Embarq will not provide new Discontinued Arrangements.
+5. TERM AND TERMINATION
+5.1. This Agreement shall be deemed effective upon the Effective Date first stated above, and continue
+for aperiod oftwo years until February 28,2009 ("EndDate"),unless earlier terminated in
+accordance with this Section 5,provided however that ifCLEChas any outstanding past due
+obligations toEmbarq orany ofEmbarq's affiliates, this Agreement will not be effective until
+such time as any past due obligations with Embarq are paid in full. This agreement shall become
+binding upon execution by the Parties. No order orrequest for services under this Agreement
+shall beprocessed before the Effective Date, except as otherwise agreed to in writing by the
+Parties, No order orrequest forservices under this Agreement shall beprocessed before CLEC
+has established acustomer account with Embarq and has completed the Implementation Plan
+described in this Agreement,
+5,2. In the event ofeither Party's material breach ofany ofthe terms orconditions hereof, including
+the failure tomake any undisputed payment when due, the non-defaulting Party may immediately
+terminate this Agreement inwhole orinpart ifthe non-defaulting Party so advises the defaulting
+Party in writing ofthe event ofthe alleged default and the defaulting Party does not remedy the
+alleged default within sixty (60)Days after written notice thereof. The non-defaulting Party may
+pursue all available legal and equitable remedies for such breach.
+5.3. Embarq may terminate this Agreement upon ten (10)Days notice ifCLECisnot exchanging
+traffic with Embarq orhas not submitted orders pursuant tothis Agreement within one-hundred-
+eighty (180)Days ofthe Effective Date. Inaddition, Embarq reserves the right toterminate this
+Agreement immediately upon notice &omthe CLECthat ithas ceased doing business inthis state,
+In addition tonotice &om CLEC,Embarq may utilize any publicly available information in
+concluding that CLECisno longer doing business in this state, and immediately terminate this
+Agreement.
+5.4. Termination ofthis Agreement forany cause shall not release either Party &om any liability which
+atthe time oftermination has already accrued to the other Party orwhich thereafter may accrue in
+respect to any actor omission prior totermination or&om any obligation which isexpressly stated
+in this Agreement to survive termination.
+5.5. Notwithstanding the above, should Embarq sell ortrade substantially all the assets in an exchange
+orgroup ofexchanges that Embarq uses toprovide Telecommunications Services, then Embarq
+may terminate this Agreement inwhole orinpart as tothat particular exchange orgroup of
+exchanges upon sixty (60)Days prior written notice.
+Embarq — Neutral Tandem-Florida LLC
+Interconnection, Collocation And Resale Agreement-FL
+Effectiver March 1,2007
+Page 19of147
+Rev. 11.17.06a
+
+PUBLIC VERSION
+99.1. CLECwarrants that ithas had no dealings with any broker or agent in connection with this
+Agreement, and covenants topay, hold harmless and indemnify Embarq from and against any and
+all cost, expense orliability for any compensation, commissions and charges claimed by any
+broker or agent with respect to this Agreement orthe negotiation thereof.
+99.2. Submission ofthis instrument for examination or signature by Embarq does not constitute a
+reservation ofor option for license, and itisnot effective, as alicense or otherwise, until execution
+and delivery by both Embarq and CLEC.
+99.3. Neither Embarq nor its agents have made any representation orwarranties with respect to the
+Collocation Space ofthis Agreement except as expressly set forth herein; no rights, easements, or
+licenses shall be acquired by CLECby implication or otherwise unless expressly set forth herein.
+99.4. In the event ofwork stoppages, Embarq may establish separate entrances for use bypersonnel of
+CLECorthe Approved Contracts provisioning on the behalf ofthe CLEC. CLECshall comply
+with any emergency operating procedures established by Embarq to deal with work stoppages.
+99.5. The individuals executing this Agreement onbehalf ofCLECrepresent and warrant to Embarq
+they are fully authorized and legally capable ofexecuting this Agreement on behalf ofCLEC.
+IN WITNESS WHEREOF, each ofthe Parties has caused this Agreement to be executed and accepted by
+its duly authorized representatives.
+ccCLEC99 "Embarq"
+Neutral Tandem-Florida LLC Embarq Florida, Inc.
+By By:
+Name: David Tatak Name: William E.Cheek
+Title; VP — Billin &Revenue Services Title: President Wholesale Markets
+V)cr
+Date: Date:
+—
+Embarq Neutral Tandem-Florida LLC
+Interconnection, Collocation And Resale Agreement-FL
+Effective: Marcb I,2007
+Page 125of147
+Rev. 11.17.06a
+
+PUBLIC VERSION
+EXHIBIT C
+NUMBERING AUTHORIZATION APPLICATION OF SKYE TELECOM, LLC
+KEY MANAGEMENT AND TECHNICAL PERSONNEL
+The following are the names, titles, and brief biographies of Skyetel’s key management
+and technical personnel are as follows:
+Christopher Bardos – President
+chris@skyetel.com
+(360) 986-5200
+Chris Bardos began his telecom career in 2011 when he consulted for small businesses and
+enterprises on telecom deployments. In 2013, he was awarded the CIO of the Year by Frost and
+Sullivan for Unified Communications for one of those deployments. In 2014, he began a
+consulting company explicitly for carrier services and in 2016 founded Skye Telecom. Skye
+Telecom has customers throughout the country and all provinces in Canada. During his tenior at
+Skye Telecom, he has managed tens of thousands of port orders, phone number route changes
+and feature requests. Additionally, Chris managed all aspects of Skye Telecom's operations to
+include remaining compliant in all service areas, maintaining relationships with upstream
+vendors and establishing new markets as Skye Telecom grows.
+Joshua Riffle, M.S. - DevOps Manager
+josh@skyetel.com
+(360) 986-5200
+Joshua Riffle is a lead development and systems engineer across a wide range of software
+languages, frameworks, and system architectures at Skye Telecom. He graduated from Azusa
+Pacific University in 2006, completing a degree in Computer Science and in 2016 with a masters
+degree in Information Technology. From 2007, he served in roles that included Consultant,
+System Administrator, Senior Software Engineer, and Lead DevOps Engineer. During his tenure
+
+PUBLIC VERSION
+at Skye Telecom, Josh and his team have managed hundreds of millions of phone calls and is
+directly responsible for maintaining an exceptionally high call delivery success rate in all Skye
+Telecom's service areas. Additionally, the inventory system designed by Josh has successfully
+managed hundreds of thousands of phone numbers, and tens of thousands of Port Request
+Submissions, Feature Changes, and Routing updates.
+Brian Green - Sr. DevOps Engineer
+brian@skyetel.com
+(360) 986-5200
+Brian Green joined Skye Telecom in 2017. Brian has been recognized repeatedly for his support
+to many thousands of end users nationwide. His work was specifically recognized in 2012 by the
+State of California by being awarded Business Partner of the Year through nomination by local
+non-profit organizations. He is a graduate of California State University, San Bernardino, with a
+B.S. in Computer Science. During his tenure at Skye Telecom, Brian has served in a variety of
+roles; from providing direct end user support, to serving as the bridge between Skye Telecom's
+support department and porting department. He and his team have diagnosed and resolved tens
+of thousands of support requests, has worked with dozens of upstream carriers and vendors to
+resolve technical issues, and has himself processed many thousands of port requests during busy
+periods. Brian is highly regarded by Skye Telecom's customer base for his generosity, kindness
+and patience and serves as a key part of its excellence.
+Kari Sexton, M.A. - LNP & Provisioning Director
+kari@skyetel.com
+(360) 986-5200
+Kari Sexton serves as Skye Telecom's Provisioning Director and is primarily responsible for all
+Skye Telecom's Port Requests and number ordering. She graduated from Azusa Pacific
+University with a B.A. in Psychology and later went on to earn a Masters degree. During her
+
+PUBLIC VERSION
+tenure at Skye Telecom, Kari and her team have managed tens of thousands of port orders from
+across the country and all provinces in Canada. Furthermore, she maintains all Skye Telecom's
+relationships with porting agents with other CLECs and other telecom providers, and handles all
+port order changes and ensures minimal disruption to end users during the porting process.

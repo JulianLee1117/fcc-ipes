@@ -1,0 +1,733 @@
+July 16, 2021
+Via Email
+Pamela Arluk, Chief
+Competition Policy Division
+Wireline Competition Bureau
+Federal Communications Commission
+45 L Street NE
+Washington, DC 20554
+Re: WC Docket Nos. 13-97, 17-97, 18-124 – Terra Nova Telecom, Inc.
+Dear Ms. Arluk:
+Our Firm represents Terra Nova Telecom, Inc. (“TNT”). TNT is located in Lakewood Ranch,
+Florida. It operates several businesses. It is a Competitive Access Provider (“CAP”), a Competitive
+Local Exchange Carrier (“CLEC”), and an Interconnected VoIP operator (“I-VoIP”). TNT offers I-VoIP
+services throughout the Continental United States, including in the state of Louisiana.1 However, all I-
+0F
+VoIP services are provided on a wholesale basis. TNT has no retail customers.2
+1F
+As explained below, the Louisiana Public Service Commission (“LPSC”) has conditioned TNTs
+request for telephone numbers on submission to state regulation of TNT’s wholesale services. We
+respectfully submit that this action exceeds the LPSC’s authority under Part 52 of the rules of the
+Commission and is contrary to TNT’s rights as a provider of I-VoIP services and/or as a private carrier.
+Therefore, TNT requests the Commission direct the Pooling Administrator (“PA”) to issue the requested
+numbers to TNT.
+In WC Docket No. 18-124, the Commission granted TNT direct access to telephone numbers
+effective July 7, 2018.3 Pursuant to this authority, TNT has requested and received telephone numbers
+2F
+from the North American Numbering Plan Administrator (“NANPA”) and from the Pooling Administrator
+(“PA”). TNT complies with all applicable Commission rules and directives with respect to number
+access, including notification to the appropriate state commissions.
+1At the present time, TNT serves customers in the New Orleans and Baton Rouge LATAs.
+2 To the extent that the Federal Communications Commission (“Commission” or “FCC”) might view TNT’s I-
+VoIP operations as carrier services, TNT submits they are all private carrier services. National Ass'n of
+Regulatory Util. Comm'rs v. FCC, 525 F.2d 630 (D.C. Cir. 1976), cert. denied, 425 U.S. 992 (1976) (“NARUC
+I”); National Ass'n of Regulatory Util. Comm'rs v. FCC, 533 F.2d 601 (D.C. Cir. 1976) (“NARUC II”). As
+explained below, TNT’s services are not subject to regulation in the manner proposed by the Louisiana
+Commission.
+3 Public Notice, “Notice of Interconnected VoIP Numbering Authorization Granted [for Terra Nova Telecom,
+Inc.],” 33 FCC Rcd 6493 (2018).
+
+PAMELA ARLUK
+JULY 16, 2021
+PAGE 2
+As shown in the Declaration of Michael Ray (Exhibit A), TNT received requests from customers
+and prospective customers for numbers in the state of Louisiana, specifically in the Shreveport LATA.
+In response, TNT requested numbers from the PA and also notified the LPSC of TNT’s request, as
+required. The LPSC, in return, notified TNT that numbers would not be provided to TNT unless TNT
+registered with the LPSC as a CLEC. TNT objected and explained that it was not operating as a CLEC in
+Louisiana (only in Florida) and, as such, should not be required to register as a CLEC in order to obtain
+telephone numbers needed to provide service to TNT’s customers. Later discussions between the LPSC
+staff and TNT’s counsel resulted in an altered direction that would require TNT to register as a CAP in
+order to obtain access to numbers.
+In order to register as a CAP, TNT would be required to fill out and file the LPSC’s “Utility
+Registration Form,” Exhibit B. TNT, in the spirit of working constructively with the LPSC, indicated its
+willingness to fill out the registration form as a CAP but requested certain waivers or exceptions from
+specific requirements that seem more directed to retail service providers. Email message from Robert
+Jackson, counsel to TNT, to Don Dewald, Utilities Specialist, LPSC, dated July 7, 2021 (Exhibit C).
+Specifically, as a wholesale provider that does not serve end user customers and/or a private carrier,
+TNT requested to be excused from providing the information in items 7 (financial, managerial and
+technical capacities) and 8 (service description and service maps). Additionally, TNT requested to be
+excused from providing an illustrative tariff (item 11) and explanations of how the tariff addresses LPSC
+mandates related to the provision of services to retail customers (item 13).
+In a July 9, 2021 reply by Mr. Dewald to Mr. Jackson (Exhibit D), the LPSC limited what needed
+to be provided. Mr. Dewald confirmed that all information required in item 7 must be provided, along
+with a brief history of the applicant and its operations, and a “description of the services to be offered”
+(item 8), but excused TNT from providing a service map. TNT was further directed to file an
+informational tariff that consists of “terms and conditions of service,” while permitting prices to be
+determined on an individual case basis. Certain information identified in item 13 must still be provided.
+While TNT appreciates the efforts of the LPSC to narrow its regulatory requirements to fit the
+facts, TNT respectfully submits that the FCC’s rules and orders do not permit the LPSC to impose the
+above conditions on TNT’s access to telephone numbers authorized in WC Docket No. 18-124. Further,
+the requirements exceed those permitted by the FCC for state regulation of I-VoIP services and/or
+private carriers.
+State commissions have limited authority over telephone numbers and access thereto. The
+Commission has delegated to state commissions authority over number reclamation. 47 C.F.R. §
+52.15(i). They can access the semi-annual Numbering Resource Utilization/Forecast (“NRUF”) reports,
+as well as carriers’ applications for initial and additional number resources. 47 C.F.R. §§ 52.15(f)(7),
+(g)(5). This enables state commissions to “discuss with carriers their need for numbers and to object
+to number requests” and even to “affirm or overturn a Numbering Administrator’s decision to withhold
+numbers from a carrier, and to implement mandatory thousands-block number pooling.” Numbering
+Policies for Modern Communications, Report & Order, 30 FCC Rcd 6839, at ¶ 27, n.88 (2015) (“VoIP
+Direct Access Order”). See also, 47 C.F.R. § 52.15(g)(3)(B)(iv), (g)(4).
+The purpose of requiring advance notice for numbering requests was not to confer general
+regulatory jurisdiction over I-VoIP providers but rather, to “ensure the integrity of the number
+assignment process without needlessly blocking or delaying number assignments to interconnected
+VoIP providers.” VoIP Direct Access Order, at ¶ 26. Indeed, the FCC specifically rejected the request
+of the Wisconsin Commission to impose other requirements beyond 30-days’ notice and contact
+information on VoIP provider obtaining numbering resources. Id. at ¶¶ 42, et seq.
+
+PAMELA ARLUK
+JULY 16, 2021
+PAGE 3
+Also, while states can require VoIP providers to pay public interest fund fees and likely enforce
+certain consumer protection regulations that apply all businesses, courts have regularly prohibited
+broad utility-style regulation of VoIP providers. “[A]ny state regulation of an information service
+conflicts with the federal policy of nonregulation." Minnesota Pub. Utilities Comm’n v. FCC, 483 F.3d
+570, 580 (8th Cir. 2007); Charter Advanced Servs. (MN), LLC v. Lange, 903 F.3d 715 (8th Cir. 2018). In
+Lange, the appeals court affirmed a grant of summary judgment to Charter since its VoIP service was
+found to be an information service and not a telecommunications service under federal law.
+Also, and to the extent the Commission were to find TNT was a carrier of sorts, it is private
+carrier. TNT does not serve retail customers, but only sells its services to other providers that, in turn,
+resell TNT’s services to retail customers. Neither does TNT hold itself out to serve all comers. Under
+the NorLight decision, TNT is a private carrier. NorLight, Memorandum Opinion & Order, 2 FCC Rcd
+5167 (1987). Like NorLight, TNT “negotiate[s] with customers on an individualized basis.” Id. at ¶ 5.
+Its contracts are of a longer-term and stable basis like those of NorLight. Id. See also, NARUC I.
+Further, the FCC preempted several state regulations as applied to NorLight, including a
+restriction on the carrier’s ability to serve customers other than its owners (various electric power
+companies), as being an undue burden on interstate services. NorLight, at ¶¶ 16-17. The same
+reasoning applies to TNT’s I-VoIP operations in Louisiana. See also, Public Service Company of
+Oklahoma Request for Declaratory Ruling, Declaratory Ruling, 3 FCC Rcd. 2327 (1988) (preempting
+state entry and rate regulation of private hybrid microwave systems).
+Here, tying submission to common carrier regulation to access to telephone numbers negates
+TNT’s federal rights to access those numbers granted in the VoIP Direct Access Order, Part 52 of the
+FCC’s rules, and WC Docket No. 18-124. Limiting TNT’s access to additional telephone numbers
+presents a wall against TNT’s growth in the Louisiana market and constitutes a prohibition against
+TNT’s ability to provide intra- and interstate services in violation of 47 U.S.C. § 253(a). It is essentially
+a barrier to full market entry condemned by NorLight and PSC of Oklahoma. Similarly, since TNT
+serves only sophisticated customers that negotiate individual contracts with TNT, there is no reason for
+the LPSC to require access to information about TNT’s financial, managerial and technical capacities.
+Each of TNT’s potential customers can adequately investigate those factors before they sign an
+agreement for wholesale services.
+Finally, the requirement to file a tariff (even as to terms and conditions), which is totally
+inconsistent with the right and obligation of a wholesale or private carrier to negotiated individual
+contracts with customers, has the effect of unlawfully subjecting TNT to rate regulation, also in
+violation of controlling precedent.
+
+PAMELA ARLUK
+JULY 16, 2021
+PAGE 4
+In sum, TNT respectfully requests that the Commission direct the PA to assign the requested
+telephone numbers to TNT and direct the LPSC to cease and desist from imposing common carrier
+regulation on TNT as a condition of TNT’s federal rights to obtain telephone numbers in Louisiana.
+Please direct any questions to the undersigned. Thank you.
+Terra Nova Telecom, Inc.
+By _s/ Robert H Jackson_______
+Robert H Jackson, Its Attorney
+cc: Don Dewald
+H. Barlow Holley
+Michelle Sclater
+Jordan Marie Reth
+Melissa Droller Kirkel
+
+Exhibit A
+DECLARATION OF MICHAEL RAY
+I, Michael Ray, declare:
+1. This )Declaration is filed in support of Terra Nova Telecom, Inc.'s ("TNT") request to the Federal
+Communications Commission ("Commission" or "FCC") to direct the Pooling Administrator ("PA") to assign certain telephone
+numbers requested by N within the state of Louisiana. If called as a witness in this matter before the Commission, I could
+�
+and would competentlytestify to the information contained in this Declaration.
+!
+2. I am the Operations Director at TNT located at 11523 Palm Brush Tri., #401, Lakewood Ranch, FL 34202.
+I oversee and direct all aspects of numbering resource assignments as well as its regulatory and engineering departments. I
+have worked in the telecommunications industry for 24 years.
+3. TNT offers IPES services throughout the Continental United States, including in the state of Louisiana.
+4. TNT offers these services only on a wholesale basis to entities which use TNT's service as a component of
+their own various servi es sold to end user subscribers. TNT does not sell any services to end user subscribers nor does it
+provide any retail services. Neither does TNT hold itself out to the public as a retail provider of telecommunications services
+in Louisiana. )
+5. All sJrvices are provided by TNT to other entities through individually negotiated contracts that tend to be
+longer-term in nature nd on a stable basis. TNT does not experience any regular turnover in its customers.
+6. TNT provides service today in the Baton Rouge and New Orleans markets in Louisiana. TNT obtained
+numbering resources Jorn the PA under the IPES program in November 2019 for Baton Rouge and in April 2019 for New
+Orleans. TNT is currently seeking to serve the Shreveport LATA under the same IPES program, where its resource requests
+have been denied.
+I dedlare under penalty of perjury under Florida law that the foregoing is true and correct, and that this
+Declaration was signed by me on July 16 2021, in Lakewood Ranch, Florida.
+,
+By Mdt};
+
+Terra Nova Telecom Exhibit B
+Page 1 of 12
+LOUISIANA PUBLIC SERVICE COMMISSION Date:
+602 North, 5th Street, 12th Floor
+Galvez Building
+Baton Rouge, LA 70802
+Attention: Utilities Division
+TSP Registration
+Utility Classification [X applicable classification(s)]
+Type of Authority Requested.
+ILEC CLEC LDC/IXC CMRS OSP PSP/ICSP CAP VoIP
+Yes Yes Yes
+☐Yes
+Yes Yes Yes
+☐Yes
+☐ ☐ ☐ ☐ ☐ ☐
+No No No No No No No No
+☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐
+ILEC – Incumbent Local Exchange Carrier CAP – Competitive Access Provider
+CMRS – Commercial Mobile Radio Service LDC/IXC – Long Distance Company / Inter Exchange Carrier
+OSP – Operator Service Provider PSP - Payphone Service Provider
+VoIP – Voice Over Internet Protocol ICSP – Inmate Calling Service Provider
+Application Fee in the amount of $250 is to accompany the filing.
+(General Order No. R-31891, dated March 11, 2014, Section 301.E.)
+1.a. The Legal Name of the Business under which the applicant intends to operate:
+(General Order No. R-31891, dated March 11, 2014, Section 301.E.1)
+Click here to enter text.
+1.b. Federal Tax Identification No.
+Click here to enter text.
+1.c. Louisiana Tax Identification No.
+Click here to enter text.
+1.d. The physical address and telephone number(s) of the applicant [Domicile Address:
+City/State/Zip Code/Telephone Number (s)]: (General Order No. R-31891, dated March 11, 2014, Section
+301.E.1)
+(Physical Address)
+Street Address: Click here to enter text.
+City: Click here to enter text.
+State: Click here to enter text.
+Zip Code: Click here to enter text.
+Telephone No.: Click here to enter text.
+FAX: Click here to enter text.
+(Mailing Address)
+Street Address: Click here to enter text.
+City: Click here to enter text.
+State: Click here to enter text.
+Zip Code: Click here to enter text.
+Telephone No.: Click here to enter text.
+FAX: Click here to enter text.
+TSP Checklist 2020
+
+Terra Nova Telecom Exhibit B
+Page 2 of 12
+1.e. Names under which the applicant intends to do business - Trade Names / DBAs:
+(General Order No. R-31891, dated March 11, 2014, Section 301.E.2)
+Click here to enter text.
+Click here to enter text.
+Click here to enter text.
+Click here to enter text.
+2. The name, address and telephone #s of the applicant’s principal corporate officers:
+(General Order No. R-31891, dated March 11, 2014, Section 301.E.2)
+2.a.
+Name of officer: Click here to enter text.
+Title: Click here to enter text.
+Street Address: Click here to enter text.
+City: Click here to enter text.
+State: Click here to enter text.
+Zip Code: Click here to enter text.
+Telephone No.: Click here to enter text.
+FAX: Click here to enter text.
+2.b.
+Name of officer: Click here to enter text.
+Title: Click here to enter text.
+Street Address: Click here to enter text.
+City: Click here to enter text.
+State: Click here to enter text.
+Zip Code: Click here to enter text.
+Telephone No.: Click here to enter text.
+FAX: Click here to enter text.
+2.c.
+Name of officer: Click here to enter text.
+Title: Click here to enter text.
+Street Address: Click here to enter text.
+City: Click here to enter text.
+State: Click here to enter text.
+Zip Code: Click here to enter text.
+Telephone No.: Click here to enter text.
+FAX: Click here to enter text.
+2.d.
+Name of officer: Click here to enter text.
+Title: Click here to enter text.
+Street Address: Click here to enter text.
+City: Click here to enter text.
+State: Click here to enter text.
+Zip Code: Click here to enter text.
+Telephone No.: Click here to enter text.
+FAX: Click here to enter text.
+TSP Checklist 2020
+
+Terra Nova Telecom Exhibit B
+Page 3 of 12
+3. If different from two (2) above, please indicate the names, addresses and telephone no.(s)
+of officers and or employees responsible for Louisiana operations.
+3.a.
+Name of officer: Click here to enter text.
+Title: Click here to enter text.
+Street Address: Click here to enter text.
+City: Click here to enter text.
+State: Click here to enter text.
+Zip Code: Click here to enter text.
+Telephone No.: Click here to enter text.
+FAX: Click here to enter text.
+E-Mail: Click here to enter text.
+3.b.
+Name of officer: Click here to enter text.
+Title: Click here to enter text.
+Street Address: Click here to enter text.
+City: Click here to enter text.
+State: Click here to enter text.
+Zip Code: Click here to enter text.
+Telephone No.: Click here to enter text.
+FAX: Click here to enter text.
+E-mail: Click here to enter text.
+4. Information about the structure of the business organization, and, where applicable, a
+copy of any articles of incorporation, partnership agreement or by-laws of the applicant. An
+applicant shall also disclose all affiliate entities offering and/or providing
+telecommunications services in Louisiana. (Include in Registration as “Attachment A”)
+(General Order No. R-31891, dated March 11, 2014, Section 301.E.5)
+5. A certified copy of the applicant’s authorization to do business in Louisiana. (Include in
+Registration as “Attachment B” – Louisiana Secretary of State Certificate) (General Order No.
+R-31891, dated March 11, 2014, Section 301.E.5)
+6. The name, address and telephone number of the applicant’s Louisiana agent for service
+of process: (General Order No. R-31891, dated March 11, 2014, Section 301.E.2)
+Agent: Click here to enter text.
+Street Address/P.O. Box Click here to enter text.
+City: Click here to enter text.
+State: Click here to enter text.
+Zip Code: Click here to enter text.
+Telephone No.: Click here to enter text.
+FAX: Click here to enter text.
+7. Documentation demonstrating managerial, financial and technical abilities, including but
+not limited to, the following:
+(a) To demonstrate financial ability, each applicant shall provide a copy of its most recent
+stockholders annual report and its most recent SEC 10K, or, if the applicant is not publicly
+traded, its most recent financial statements. If the applicant does not have separate financial
+TSP Checklist 2020
+
+Terra Nova Telecom Exhibit B
+Page 4 of 12
+reports, it may submit applicable financial statements of an affiliate with explanation to
+demonstrate the financial ability of the applicant. (Include in Registration as “Attachment
+C”)
+(General Order No. R-31891, dated March 11, 2014, Section 301.E.7.a)
+(b) To demonstrate managerial ability, each applicant shall attach a brief description of its
+history of providing telecommunications services and shall list the geographic areas in which
+it has been and is currently providing telecommunications services. Newly created
+applicants shall list the experience of each principal officer in order to show its ability to
+provide service. (Include in Registration as “Attachment D”) (General Order No. R-31891, dated
+March 11, 2014, Section 301.E.7.b)
+(c) Technical ability shall be indicated by a description of the applicant’s experience in
+providing telecommunications services, or in the case of newly created companies, the
+applicant may provide other documentation which supports its technical ability. (Include in
+Registration as “Attachment E”) (General Order No. R-31891, dated March 11, 2014, Section 301.E.7.c)
+8. A description of the services proposed to be offered, the proposed exact geographic areas
+in which the services shall be offered and a map thereof. (Include in Registration as
+“Attachment F”) (General Order No. R-31891, dated March 11, 2014, Section 301.E.8)
+9. Point of Contact to Which Service or Other Customer Complaints Should be Directed:
+(General Order 11-16-2014 - The Commission seeks to aid Louisiana consumers in their dealings with TSPs. In order
+to assist Commission Staff in performing this important function, all TSPs are hereby required to provide Commission
+Staff with a list of the names and direct telephone numbers of three (3) company representatives that Commission
+Staff may directly contact during normal business hours.)
+Repair and maintenance information, including the name, address and telephone number of
+a Louisiana contact person responsible for and knowledgeable about the applicant’s
+operations.
+(General Order No. R-31891, dated March 11, 2014, Section 301.E.9)
+Name #1: Click here to enter text.
+Title: Click here to enter text.
+Street Address/P.O. Box Click here to enter text.
+City / State / Zip Code: Click here to enter text.
+E-mail Address: Click here to enter text.
+Telephone Number: Click here to enter text.
+FAX: Click here to enter text.
+Name #2: Click here to enter text.
+Title: Click here to enter text.
+Street Address/P.O. Box Click here to enter text.
+City / State / Zip Code: Click here to enter text.
+E-mail Address Click here to enter text.
+Telephone Number: Click here to enter text.
+FAX: Click here to enter text.
+TSP Checklist 2020
+
+Terra Nova Telecom Exhibit B
+Page 5 of 12
+10. A list of other states where the applicant has applied to operate as a telecommunications
+services provider and/or to offer telecommunications services, a list of other states where the
+applicant is authorized to operate, and a list of those states which have denied any requested
+authority. (Include in Registration as “Attachment G”) (General Order No. R-31891, dated March 11,
+2014, Section 301.E.10.)
+11. Illustrative tariffs in compliance with the requirements set forth in Section 401 below.
+(Include in Registration as “Attachment H”) (General Order No. R-31891, dated March 11, 2014, Section
+301.E.11) & (General Order 3-11-2014 Section 401 Tariffs / Docket No. R-31891)
+All Telecommunication Service Providers (TSP) shall file tariffs with the Commission describing the services offered
+and the rates charged. Note: for format and content refer to Section 401 of LPSC General Order dated 3-11-2014.
+CHECK LIST FOR SUBMISSION OF TARIFFS
+A. Has the tariff been submitted on 8½ x 11 sheets, using one side of the paper only? (General Order No. R-
+31839, dated March 11, 2014, Section 401 C.2.a)
+Yes No
+B. Is each page numbered successively in the upper right-hand corner and must be marked as either an
+original or revised page? Example: Original Page, No. 3 or
+2nd Revised Page, No. 5, cancels 1st Revised Page, No. 5. (General Order No. R-31839, dated March 11,
+2014, Section 401 C.2.b-e)
+Yes No
+C. Does each page bear the Applicant’s name in the upper left-hand corner? (General Order No. R-
+31839, dated March 11, 2014, Section 401 C.2.c)
+Yes No
+D. Does each page have the issued date in the upper left-hand corner of the page? (The “issued date” is
+the date shown on the transmittal letter to the Commission referencing the tariff filing.) (General
+Order No. R-31839, dated March 11, 2014, Section 401 C.2.f)
+Yes No
+E. Is the name and title of the issuing officer in the upper left-hand corner of each page? (General Order
+No. R-31839, dated March 11, 2014, Section 401 C.2.h)
+Yes No
+F. Does the tariff contain the following information, in the order listed: (General Order No. R-31839,
+dated March 11, 2014, Section 401 C.2.i)
+a. title page identifying the name, address, and telephone number of the Applicant?
+Yes No
+TSP Checklist 2020
+
+Terra Nova Telecom Exhibit B
+Page 6 of 12
+b. A Table of Contents identifying the page location of each section in the tariff? If the tariff is
+less than 30 pages, the Table of Contents may serve as the subject index for the entire
+volume.
+Yes No
+c. A definition of symbols that are used in the tariff? (The definitions must conform with
+General Order No. R-31839, dated March 11, 2014, Section 401 H.3)
+Yes No
+d. A definition of technical terms and abbreviations? (The definitions must
+contain full and concise information as to the meaning of all technical and special
+terms and abbreviations used in the tariff.)
+Yes No
+e. A description of rules and regulations? (The Rules and Regulations section must contain all
+rules, regulations, practices, etc. relative to providing services. The rules must be consistent with
+the Commission’s General Orders.)
+Yes No
+f. An index with an alphabetical listing of services and the page number on which they may be
+found?
+Yes No
+Questions G-J only apply to those requesting IXC authority
+g. A description of how a billable call is timed when timing begins and ends, and the method
+used to make this determination? (General Order No. R-31839, dated March 11, 2014, Section
+1)
+Yes No
+h. A description of how distance is measured for toll rating purposes and the formula used to
+compute it, as well as what points are used for origination and termination with respect to
+calculation of distance between them? (General Order No. R-31839, dated March 11, 2014,
+Section 1)
+Yes No
+i. A description of how all relevant information pertains to a particular type of service?
+(General Order No. R-31839, dated March 11, 2014, Section 1)
+Yes No
+j. A description of the rate schedules, charge for all services, and other data necessary to
+compute a monthly bill for intrastate service? (General Order No. R-31839, dated March 11,
+2014, Section 1)
+Yes No
+TSP Checklist 2020
+
+Terra Nova Telecom Exhibit B
+Page 7 of 12
+12. Such other information as the Commission Staff may specifically request of any
+applicant.
+13. Relevant Commission General Orders for TSP Authority (Include the following in the
+company tariff and indicate the page number on which they may be found.)
+A. NSF Charges: Does Applicant comply with the General Order dated January 1, 2000 which
+establishes that the maximum NSF charge allowed is $20.00? (Applies to all carriers.)
+Yes No Page:
+B. Deposits: Does Applicant comply with the General Order dated September 17, 1991, which
+requires that the Applicant pay interest of 5% per annum for customer deposits retained for
+more than six months? (Applies to all carriers.)
+Yes No Page:
+C. Deposits: Does Applicant comply with the General Order dated September 17, 1991, which
+provides that a telecommunications service provider may not collect deposits in excess of 2½
+times the average monthly bill? (Applies to all carriers.)
+Yes No Page:
+D. Late Charges: Does Applicant comply with the General Order dated July 12, 1976 and
+February 20, 1973 which collectively state that: (1) a bill is not considered past due until 20
+days after the billing date; (2) that a company may charge a maximum of 5% penalty on a
+past due amount; and (3) a TSP cannot charge a late fee on a previously unpaid late fee?
+(Applies to all except CMRS providers.)
+Yes No Page:
+E. Challenging the Validity of a Bill: If a provision limits the time that the customer has to
+challenge the validity of a bill, does the tariff also include a provision regarding the
+Commission’s authority to review billing and charges? (Applies to all carriers.)
+Yes No Page:
+F. Disconnection for Nonpayment: Commission General Order dated July 12, 1976 Paragraph D
+provides that a customer cannot be disconnected for non-payment until the bill is past due.
+Once the bill becomes past due, five days written notice must be given prior to disconnection
+of a customer for nonpayment. Is Applicant in compliance with this Order? (Applies to all
+except CMRS providers.)
+Yes No Page:
+G. When Charges begin and Terminate for Phone Calls: According to the General Order dated
+October 23, 1989, TSPs, together with Alternative Operator Service providers, must provide
+answer supervision and cannot attempt to collect for busy or unanswered calls. Is Applicant
+in compliance with this Order? (Does not apply to CMRS or VoIP.)
+Yes No Page:
+TSP Checklist 2020
+
+Terra Nova Telecom Exhibit B
+Page 8 of 12
+H. Blocking of 900, 976, and 700 Numbers: According to the General Order dated December 5,
+1990, the tariff must provide free blocking of 900, 976, and 700 or informational numbers to
+any customer requesting same. Is Applicant in compliance with this Order? (Does not apply
+to CMRS or VoIP.)
+Yes No Page:
+I. Governing Law: All tariffs should state that it is governed and interpreted according to the
+Laws of Louisiana. Is Applicant in compliance with this Order? (Applies to all carriers.)
+Yes No Page:
+J. Rates: Is Applicant in compliance with the requirement that tariffs include specified rates?
+(Applies to all except CMRS and non-ETC VoIP providers.)
+Yes No ICB: Page:
+Checklist below only for those requesting either CLEC or ETC Authority
+K. CLEC Universal Service Requirement: If the Applicant is a CLEC, does the Applicant
+furnish all services that are designated as part of Universal Service, as required by Section
+501 A of the Local Competition Regulations? The services are as follows: (General Order No.
+R-31839, dated March 11, 2014, Section 501 A.1)
+L. Voice grade access to the public switched network?
+Yes No Page:
+M. Touch tone capability?
+Yes No Page:
+N. White page directory listing (residential and business)? (General Order No. R-31839, dated
+March 11, 2014)
+Yes No Page:
+O. Access to directory assistance (local)?
+Yes No Page:
+P. Directory distribution? (General Order No. R-31839, dated March 11, 2014)
+Yes No Page:
+Q. Access to emergency (911) Service?
+Yes No Page:
+R. Access to long distance carriers and operator services?
+Yes No Page:
+TSP Checklist 2020
+
+Terra Nova Telecom Exhibit B
+Page 9 of 12
+S. Access to the telephone relay system?
+Yes No Page:
+T. Access to 8xx services?
+Yes No Page:
+U. Lifeline rate for eligible customers? (Applies to ETCs offering Lifeline only.)
+Yes No Page:
+TSP Checklist 2020
+
+Terra Nova Telecom Exhibit B
+Page 10 of 12
+14. Fees & Taxes which “MAY” be applicable to Telecommunication Service
+Providers
+Requirements of Telecommunication Service Providers (TSPs) to Collect and Remit
+Fees & Surcharges. Additional information regarding applicable surcharges and fees
+can be obtained by contacting the Louisiana Department of Revenue, Telephone No.
+(225) 219-7656 or the Louisiana Public Service Commission, Telephone No. (225) 342-
+4999.
+(A.) Inspection and supervision fees; Utility and Carrier Inspection and Supervision
+Fund.
+Louisiana Revised Statutes Title 45 Section 1177. Louisiana Department of Revenue
+Form R-5197. The Amount of the fee shall be measured by the gross receipts of each
+public utility from its Louisiana intrastate business.
+Louisiana Department of Revenue
+P.O. Box 201
+Baton Rouge, LA 70821-0201
+Telephone No. (855) 307-3893
+(B.) Telecommunications tax for the Deaf. Louisiana Revised Statutes Title 45 Section
+1061. Louisiana Department of Revenue Form R-5702-L
+Louisiana Department of Revenue
+Excise Section
+P.O. Box 201
+Baton Rouge, LA 70821-9201
+Tax payer Services Division
+Telephone No. (225) 219-7656
+Telephone No. (225) 219-2114 (TDD)
+(C.) Relay Administration Board (RAB), Louisiana Public Service Commission Order
+No. U-17656, dated October 17, 1990 and Louisiana Public Service Commission Order
+No. U-17656-A. Louisiana Public Service Commission Business & Executive Session
+Minutes Note: January 16, 2002, the $0.11 (11 cent) per month line charge fee eliminated.
+(D.) Louisiana State Universal Fund. Louisiana Public Service Commission, Order No.
+R-30480, dated February 9, 2009.
+Fund Administrator Contact Information
+LaPorte, Sehrt, Romig, & Hand
+Town Hall West
+10000 Perkins Rowe
+Suite 200
+Baton Rouge, LA 70810-1797
+Telephone No. (225) 296-5150
+TSP Checklist 2020
+
+Terra Nova Telecom Exhibit B
+Page 11 of 12
+15. Reporting Requirements (http://lpsc.louisiana.gov/teleannualreports.aspx )
+(A.) All Telecommunication Services Providers (TSP) in Louisiana shall file with the
+Commission annual financial reports. The reports shall include Louisiana income
+statements, balances sheets, number of customers and access lines served.
+(B.) One year from the date of obtaining its Certificate of Authority, and semi-annually
+thereafter, all Local Exchange Carriers (LECs) shall file with the Commission retail
+service quality reports as follows in Commission Order; Docket No. R-31300 General
+Order Dated July 26, 2013:
+Commission Complaints per 10,000 access lines for LECs with more than 100,000
+access lines; or Commission Complaints per 100 access lines for LECs with less than
+100,000 access lines regarding residential telecommunications service.
+If the Commission finds as a result of monitoring that the LEC’s service quality is
+substandard as compared to other LECs, the Commission may, after notice and hearing,
+take action as it deems necessary and proper to assure a desirable level of service quality,
+including imposing a monetary penalty not exceeding ten thousand dollars ($10,000) per
+violation.
+Company Report Reporting
+Reference Due Date Contents
+Type Name Year
+TSPs Annual General Calendar 120 days Income statement &
+All Carriers Financial Order #2 7- Year from then balance sheet Specific to
+Reports 1-1921 & or end of the Louisiana
+General Fiscal Year calendar
+Download Order 6-19- year or
+Form 2012 fiscal year
+PDF Format
+LECs & Service General Semi- September Commission Complaints
+CLECs Quality Order annually 30th & per 10,000 access lines
+Reports 3/11/2014 March 31st for LECs with more than
+Sections 100,000 access lines; or
+Download 302.B & Commission Complaints
+Form 701.J.3 per 100 access lines for
+PDF Format LECs with less than
+100,000 access lines
+regarding residential
+telecom service.
+TSP Checklist 2020
+
+Terra Nova Telecom Exhibit B
+Page 12 of 12
+ILECs & Local General Annually April 1st ILECs and CLECs shall file
+CLECs Terminating Order reports with the
+Traffic 3/11/2014 Commission Secretary on
+Report Section April 1st of each year
+901.G which show, by month,
+Download the volume of local
+Form terminating traffic
+PDF Format delivered to ILECs or
+CLECs during the previous
+year.
+TSP Checklist 2020
+
+Terra Nova Telecom Exhibit C
+From: Robert Jackson
+To: Don Dewald
+Subject: RE: Terra Nova Telecom, Inc. Numbering Resources Request
+Date: Wednesday, July 7, 2021 3:50:00 PM
+Attachments: image001.png
+image002.png
+Thank you both for the phone conversation and for the written materials.
+I’ve been communicating with my Client. We have some questions.
+I will assume that Terra Nova Telecom would register as a “competitive access provider” since it
+offers only wholesale services and none to end user customers. Some of the questions with respect
+to registration do not seem to fit. For example, items 7 and 8 do not seem to fit as they are
+seemingly geared to retail providers. Would this information need to be provided? You had
+indicated that the Commission was reevaluating its rules as they impact VoIP and wholesale
+providers, if I understood you correctly. Could TNT receive a waiver from filing that information?
+Also, since TNT does not serve end users, it has no standard price list/tariff. All service agreements
+are negotiated individually. Could TNT be exempted from filing items 11 and 13?
+Beyond registration, are there any specific regulations or reporting obligations for CAPs? None seem
+to fit. Also, I did not see any USF obligations for CAPs, which both makes sense and is consistent
+with the FCC’s USF framework. Am I correct?
+Is there anything else I am missing?
+Thanks much for your help.
+Sincerely,
+Rob Jackson
+Counsel for Terra Nova Telecom
+From: Don Dewald <Don.Dewald@la.gov>
+Sent: Wednesday, July 7, 2021 11:39 AM
+To: Robert Jackson <rhj@commlawgroup.com>
+Cc: Barlow Holley <Barlow.Holley@la.gov>; Arnold Chauviere <Arnold.Chauviere@LA.GOV>
+Subject: RE: Terra Nova Telecom, Inc. Numbering Resources Request
+Mr. Jackson,
+Per our conversation, I’ve attached the relevant documentation for registering as a telecom service
+provider.
+Thanks!
+1
+
+Terra Nova Telecom Exhibit C
+Don Dewald
+Utilities Specialist
+LA Public Service Commission
+P.O. Box 91154
+Baton Rouge, LA 70821
+Ph: (225) 342-5710
+Fax: (225) 342-5610
+This Staff Opinion is given without prejudice to the authority of the Commission to make
+investigations and require any reasonably necessary action it may legally find to be in the public
+interest. Further, this opinion is intended to apply to this recipient only, and is based entirely on
+the situation described herein. Should a modification in the course of action be proposed, this
+opinion may be modified.
+From: Robert Jackson <rhj@commlawgroup.com>
+Sent: Wednesday, July 07, 2021 10:02 AM
+To: Don Dewald <Don.Dewald@la.gov>
+Cc: Mike Ray, MBA, CNE, CTE <mike@tntelecom.net>
+Subject: RE: Terra Nova Telecom, Inc. Numbering Resources Request
+EXTERNAL EMAIL: Please do not click on links or attachments unless you know the content is safe.
+Mr. Dewald,
+I’m available today until 3 pm eastern and tomorrow morning until noon. Next week is quite
+flexible.
+As you will note, I’ve copied Mike Ray.
+Rob Jackson
+From: Don Dewald <Don.Dewald@la.gov>
+Sent: Wednesday, July 7, 2021 10:55 AM
+To: Robert Jackson <rhj@commlawgroup.com>
+Subject: RE: Terra Nova Telecom, Inc. Numbering Resources Request
+That’s fine. What time works best for you?
+Don Dewald
+2
+
+Terra Nova Telecom Exhibit D
+From: Don Dewald
+To: Robert Jackson
+Subject: RE: Terra Nova Telecom, Inc. Numbering Resources Request
+Date: Friday, July 9, 2021 4:50:20 PM
+Attachments: image001.png
+image002.png
+Good afternoon Mr. Jackson,
+I apologize for the delay in getting back to you. The LPSC is not currently revising its telecom
+regulations, but Commission Staff has discussed opening a rulemaking to update the regulations and
+also to possibly create a separate application process for VoIP, but this is still preliminary at best. The
+documentation in item 7 is required of all applicants as these are used to determine the financial,
+technical, and managerial fitness of the company to provide the services being offered. Also, please
+include a brief history of the company and list other states where the applicant is authorized to
+provide service. For item 8, simply provide a description of the services proposed to be offered. No
+need to submit a map in this case.
+As for Item 11, we do require all registered TSPs to provide some sort of tariff to keep on file here at
+the Commission’s Baton Rouge office. These tariffs are illustrative/informational in nature. In the
+case of a CAP, the tariff may consist of terms and conditions of service only. You may also indicate in
+the tariff that prices are determined on an individual case basis.
+Additionally, we also require that TSPs operating in Louisiana comply with certain General Orders. Of
+the relevant orders listed in Item 13, please include provisions in the proposed tariff for: A, B, C D, E,
+F, and I as these apply to CAP/VoIP carriers. These cover NSF charges, deposits, late charges, billing
+disputes, disconnection for non-payment, and a statement regarding the tariff being governed and
+interpreted in accordance with the laws of Louisiana. If the company does not have an NSF policy or
+does not require a deposit etc., then please indicate in the proposed tariff that the company does
+not require these.
+Let me know if you have any other questions or require further assistance.
+Thanks!
+Don Dewald
+Utilities Specialist
+LA Public Service Commission
+P.O. Box 91154
+Baton Rouge, LA 70821
+Ph: (225) 342-5710
+Fax: (225) 342-5610
+1
+
+Terra Nova Telecom Exhibit D
+This Staff Opinion is given without prejudice to the authority of the Commission to make
+investigations and require any reasonably necessary action it may legally find to be in the public
+interest. Further, this opinion is intended to apply to this recipient only, and is based entirely on
+the situation described herein. Should a modification in the course of action be proposed, this
+opinion may be modified.
+From: Don Dewald <Don.Dewald@la.gov>
+Sent: Wednesday, July 7, 2021 11:39 AM
+To: Robert Jackson <rhj@commlawgroup.com>
+Cc: Barlow Holley <Barlow.Holley@la.gov>; Arnold Chauviere <Arnold.Chauviere@LA.GOV>
+2

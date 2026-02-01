@@ -1,0 +1,63 @@
+Freeway Communications, LLC
+
+FCC Application Interconnected VoIP Providers – Direct Access to Numbers
+
+Applicant Information:
+
+Lee Reeves/CEO
+
+Freeway Communications
+
+800 S. Hope St. Suite 101
+
+213 225 2200 x 101
+
+2. Qualified Personnel (to address issues relating to regulatory requirements):
+
+Randy Young/VP and NOC Supervisor
+
+800 S. Hope St. Suite 101
+
+213 225 2200 x 123
+
+3. We acknowledge that the authorization is granted in this section of the rules that is subject to compliance with applicable Commission numbering rules, numbering authority delegated to the states, and, industry guidelines and practices regarding numbering as applicable to telecommunications carriers; 
+
+4. We acknowledge that the applicant must file requests for numbers with the relevant state commission(s) at least thirty (30) days before requesting numbers from the Numbering Administrators; 
+
+5. Proof that the applicant is capable of providing service within sixty (60) days of the numbering resources activation date in accordance with 47 CFR § 52.15(g)(2); 
+
+ Our Software Telephony Switching Platform is collocated at our Loss Angeles site (see below address). This has been fully functional and stable for over 10 years.  We have redundant to Fiber to our site at 800 S. Hope St. Los Angeles, CA 90017. We have two systems administrators, as well as contracted engineers that maintain our network/ Data Base(s). We currently have the network infrastructure and connectivity to terminate numbers. We have a porting department and we are e911 compliant. Our day to day procedures and operational procedures are stable and tested over the course of 10+ years of telephony service. 
+
+To learn more, go to http://www.freeway.com and select Terms of Use 
+
+Also
+
+Below listed is information pulled from our SIP User Interface to our customers:
+
+The Accounts Manager page provides the ability to retrieve information on the status of a customer account, providing details on various products and services that the customer may or may not have enabled on their account.
+
+Account: View/Edit existing account information such as call plan, credit balance etc.
+
+SIP Account: View/Edit SIP client account settings such as CallerID, Codec, etc on the PBX server.
+
+IAX Account: View/Edit IAX client account settings such as CallerID, Codec, etc on the PBX server.
+
+Feature Codes: Enable/Disable feature codes assigned to a SIP/IAX client.
+
+Account Balance: This information will be updated at the end of each completed call.
+
+6. Certification that the applicant complies with its Universal Service Fund contribution obligations under 47 CFR part 54, subpart H, its Telecommunications Relay Service contribution obligations under 47 CFR § 64.604(c)(5)(iii), its North American Numbering Plan and Local Number Portability Administration contribution obligations under 47 CFR §§ 52.17, 52.32, its obligations to pay regulatory fees under 47 CFR § 1.1154, and its 911 obligations under 47 CFR part 9; 
+
+We pay our USF and our Telecommunications Relay Service contributions. This is paid through Avalara Communications Tax product. For further inquiries please contact Tom Tampus (Accounting) at 213 225 2200 x113
+
+7.  Certification that the applicant possesses the financial, managerial, and technical expertise to provide reliable service. 
+
+. We are Certified with the FCC and local state agencies through the FCC 477 as well as the FCC 499Q and the FCC 499A . The Management team includes, Lee Reeves (CEO), Randy Young (VP and Network Operations Manager), Relys Moreira (Telephony Switch Admin and Systems Administrator), Chris Magnusson (LNP Porting).  None of the listed personnel have been or are being investigated by the FCC or law enforcement agency or regulatory agency for failure to comply with any law, rule or order.
+
+8. It is Certified that  no party to the application I subject to a denial of Federal benefits pursuant to section 5301 of the Anti-Drug Abuse Act of 1988.
+
+(Melvin) Lee Reeves,
+
+ CEO
+
+Freeway Communications LLC

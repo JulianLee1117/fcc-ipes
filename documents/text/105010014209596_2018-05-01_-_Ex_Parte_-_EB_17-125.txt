@@ -1,0 +1,96 @@
+Jeanine Poltronieri AT&T Services, Inc.
+Assistant Vice President 1120 20th Street, N.W.
+External Affairs Suite 1000
+Washington, D.C. 20036
+Phone: 202-457-2042
+Email: Jp7321@att.com
+CORRECTED
+May 1, 2018
+VIA ECFS
+Ms. Marlene H. Dortch
+Secretary
+Federal Communications Commission
+445 12th Street, S.W.
+Room 4C-224
+Washington, D.C. 20554
+Re: Ex Parte re: Amendment of Procedural Rules Governing Formal Complaint Proceedings
+Delegated to the Enforcement Bureau: EB 17-245
+Ms. Dorch:
+The Federal Communications Commission (“FCC” or “Commission”) has recently released a Notice of
+Proposed Rulemaking (“NPRM”) seeking comment on creating a uniform set of procedural rules for
+certain formal complaint proceedings delegated to the Enforcement Bureau.1 In the NPRM, the
+Commission proposes several changes to its procedural rules that will modernize
+its enforcement processes. AT&T commends the Commission for proposing new rules that will
+streamline its procedures and supports the Commission’s suggestions to harmonize the procedural rules
+that apply to Section 208 formal complaints, Section 224 pole attachment complaints, and
+disability access complaints.
+In addition to the rule changes proposed in the NPRM, the Commission asks “whether any additional
+procedural rules should be included in the proceeding.”2 The answer to that question is yes. In
+particular, the Commission should adopt a rule setting forth processes for the filing and consideration of
+pre-answer Motions to Dismiss for all kinds of formal complaints.3 Although the Commission already
+has authority to entertain and grant such motions,4 adopting a rule specifying procedures for doing so
+would provide Commission staff and formal complaint parties with useful guidance and certainty.
+1 Amendment of Procedural Rules Governing the Formal Complaint Proceedings Delegated to the Enforcement Bureau,
+Notice of Proposed Rulemaking, EB Docket 17-245, 32 FCC Rcd 7155 (2017).
+2 NPRM at 7156, para 7.
+3 Given that the Commission has already acknowledged – correctly – that no NPRM at all was necessary as a predicate for
+adopting formal complaint procedural rules, the lack of any specific reference in the NPRM to motions to dismiss does not
+preclude the Commission for adopting rules regarding such motions. NPRM at 7155, n.5.
+4 See, e.g., 47 CFR §§ 1.727(b)(providing requirements for “dispositive motions”); 1.728(a)(providing that “[a]ny document
+purporting to be a formal complaint which does not state a cause of action under the Communications Act will be
+dismissed.”); Amendment of Rules Governing Procedures to Be Followed When Formal Complaints are Filed Against
+Common Carriers, Report and Order, 12 FCC Rcd 22497, 22592, para. 229 (1997)(stating that the Commission “do[es] not
+intend to prohibit the filing of motions to dismiss a complaint for failure to state a claim or failure to comply with procedural
+
+Such a rule would allow for more efficient adjudication of certain formal complaints, conserving the
+resources and time of Commission staff as well as formal complaint parties. In AT&T’s experience,
+many formal complaints raise threshold legal questions that, if decided at early stages of the
+proceedings, would significantly narrow or eliminate entirely the litigation, minimizing or avoiding the
+need for potentially costly, lengthy, and onerous discovery, non-dispositive motions practice, and fact-
+finding. Providing an opportunity to reduce such burdens would plainly serve the public interest.
+A properly crafted new rule could specify that a defendant may file, before the deadline for submitting
+an answer, a motion for leave to file a motion for partial or complete dismissal of the complaint.
+Enforcement Bureau staff would have discretion to grant or deny the motion for leave. If Enforcement
+Bureau staff grants leave to file a motion to dismiss, the defendant will have thirty calendar days to file
+its motion to dismiss, complete with a detailed explanation and analysis of the legal foundations for why
+the motion should be granted. Such grounds for pre-complaint dismissal would resemble those set forth
+in Rule 12(b) of the Federal Rules of Civil Procedure and would include (but not be limited to) failure to
+state a claim upon which relief can be granted; lack of jurisdiction; expiration of the statute of
+limitations; and enforcement of an alternative dispute resolution agreement between the parties. The
+plaintiff will then have twenty calendar days to file an opposition to the motion to dismiss, including a
+detailed explanation and analysis of the legal foundations for why the motion to dismiss should be
+denied. No further pleadings regarding the motion to dismiss would be expressly permitted, but
+Enforcement Bureau staff would retain discretion to direct, sua sponte, the filing of such further
+pleadings. Enforcement Bureau staff also could retain discretion to alter the pleading cycle to suit the
+case before it. For example, if the motion to dismiss was likely to present only narrow issues, staff
+might shorten the pleading cycle. During the pendency of the motion to dismiss, all other processes that
+would otherwise occur under the rules would be automatically stayed.
+Proposed S.1.729, which governs Motions, can be modified to allow for Motions to Dismiss explicitly
+by an addition of new part (f):
+* * *
+(f) A defendant may file, before the deadline for submitting an answer, a motion for leave to file
+a motion for partial or complete dismissal of the complaint. Enforcement Bureau staff has
+discretion to grant or deny the motion for leave. If Enforcement Bureau Staff grants leave to file
+a motion to dismiss, the defendant will have thirty (30) calendar days to file its motion to
+dismiss, complete with an explanation and analysis of the legal foundations for why the motion
+should be granted. The plaintiff will then have twenty (20) calendar days to file an opposition to
+the motion to dismiss, including an explanation and analysis of the legal foundations for why the
+motion to dismiss should be denied. During the pendency of the motion to dismiss, all other
+processes that would otherwise occur under applicable rules would be automatically stayed.
+Grounds for pre-complaint dismissal would include (but not be limited to) failure to state a claim upon
+which relief can be granted; lack of jurisdiction; expiration of the statute of limitations; and enforcement
+of an alternative dispute resolution agreement between the parties. Furthermore, all facts alleged in the
+complaint are accepted as true, but solely for purposes of deciding the motion to dismiss.
+* * *
+requirements.”).
+2
+
+Please contact me at (202) 457-2042 if you have any questions about this proposal. We look forward to
+working with the Commission on modernizing the Enforcement Bureau rules for the 21st century.
+Sincerely,
+Jeanine Poltronieri
+Copies:
+Rosemary Harold
+Christopher Killion
+Rosemary McEnery
+3

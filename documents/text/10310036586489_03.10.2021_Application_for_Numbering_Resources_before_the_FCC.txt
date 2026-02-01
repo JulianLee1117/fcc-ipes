@@ -1,0 +1,133 @@
+Before the
+FEDERAL COMMUNICATIONS COMMISSION
+Washington, D.C. 20554
+In the Matter of CallShaper, LLC )
+) WC Docket No. 21-______
+For Authorization to Obtain Numbering )
+Resources Pursuant to Section 52.15(g) of )
+The Commission's Rules )
+APPLICATION OF CALLSHAPER, LLC
+FOR AUTHORIZATION TO OBTAIN NUMBERING RESOURCES
+CallShaper, LLC (“CallShaper” or the “Company”), pursuant to Section 52.15(g)(3)(i)
+of the Commission’s Rules, respectfully requests authorization to obtain numbering resources
+as described below.
+Under the Commission's Numbering Order, an interconnected VoIP provider may
+obtain numbering resources from the Numbering Administrator upon a showing that it is
+authorized to provide service in the area for which the numbering resources are requested. Such
+authorization may be obtained upon an application to the Commission containing the
+information detailed in Section 52.15(g)(3)(i)(A)-(G) of the Commission’s Rules. CallShaper
+hereby requests the Commission grant it that authorization. In support of this Application,
+CallShaper provides the following information:
+I. INFORMATION REQUIRED BY SECTION 52.15(g)(3)(i)
+A. § 52.15(g)(3)(i)(A)
+CallShaper, LLC
+5009 Honeygo Center Drive, Suite 205
+Perry Hall, MD
+Tel: 1-888-276-1370
+14220414 v1 1
+
+Contact for Regulatory Requirements, Compliance, 911 and Law:
+Bob Wienholt, CEO
+5009 Honeygo Center Drive, Suite 205
+Perry Hall, MD
+Tel: 1-888-276-1370, ext. 3001
+bob@callshaper.com
+B. § 52.15(g)(3)(i)(B)
+CallShaper hereby acknowledges that authorization to obtain numbering resources under
+Section 52.15(g) of the Commission’s Rules is subject to compliance with applicable
+Commission numbering rules as well as to the numbering authority delegated to the states. The
+Company hereby also acknowledges that this authorization is subject to compliance with
+industry guidelines and practices regarding numbering, as applicable to telecommunications
+carriers. The numbering resources that are the subject of this Application will be used to
+provide interconnected VoIP services initially in Maryland; however, the Company anticipates
+that it may provide interconnected VoIP service nationwide, and accordingly, will request
+numbers from the other states as well. Accordingly, to the extent required, CallShaper requests
+the Commission grant it authority to obtain numbering resources in all states.
+C. § 52.15(g)(3)(i)(C)
+CallShaper acknowledges that it must file requests for numbers with the relevant state
+commission(s) at least 30 days before requesting numbers from the Numbering
+Administrators.
+D. § 52.15(g)(3)(i)(D)
+CallShaper hereby sets forth its capability to provide service within 60 days of the
+numbering resources activation date. CallShaper has an agreement in place with a nationally
+recognized carrier partner, which has interconnection agreements in effect with all relevant
+incumbent local exchange carriers, in order to route traffic. Callshaper plans to initially offer
+14220414 v1 2
+
+services utilizing the facilities of its carrier partner. CallShaper is also in the process of
+obtaining an Operating Company Number (“OCN”), which will be provided to the
+Commission.
+As proof of its facilities readiness, CallShaper has attached to this application, as
+Confidential Exhibit A, an interconnection agreement between CallShaper and its carrier
+partner and, as Confidential Exhibit B, an interconnection agreement between that carrier
+partner and a local exchange carrier.
+In addition, CallShaper has a back-office support system with the ability to handle all
+number porting obligations.
+E. § 52.15(g)(3)(i)(E)
+CallShaper hereby certifies that it will comply with its Universal Service Fund
+contribution obligations under 47 CFR part 54, subpart H, its Telecommunications Relay
+Service contribution obligations under 47 CFR § 64.604(c)(5)(iii), its North American
+Numbering Plan and Local Number Portability Administration contribution obligations under
+47 CFR §§ 52.17 and 52.32, its obligations to pay regulatory fees under 47 CFR § 1.1154,
+and its 911 obligations under 47 CFR part 9.
+F. § 52.15(g)(3)(i)(F)
+The Company certifies that it has the financial, managerial, and technical expertise to
+provide reliable service. It is financially stable, led by a strong, experienced manager with
+substantial operational experience in the telecommunications industry, and has sufficient
+technical expertise and infrastructure in place to provide reliable service.
+Sean Bright serves as CallShaper’s Chief Technology Officer. He has more than 20
+years’ experience in the telecommunications industry. Since 2014, Mr. Bright has worked for
+and with telecom providers to implement voice and ISP networks. He is not being and has not
+14220414 v1 3
+
+been investigated by the Commission or any law enforcement or regulatory agency for failure
+to comply with any law, rule, or order.
+G. § 52.15(g)(3)(i)(G)
+CallShaper hereby certifies that no party to this Application is subject to a denial of
+Federal benefits pursuant to Section 5301 of the Anti-Drug Abuse Act of 1988, 21 U.S.C. §
+862.
+II. ACKNOWLEDGEMENT OF CONDITIONS IN SECTION 52.15(g)(3)(iv)
+As required by Section 52.15(g)(3)(iv), CallShaper will maintain the accuracy of all
+contact information and certifications in this Application and will file a correction with the
+Commission and each applicable state within 30 days of any changes. CallShaper will also
+furnish accurate regulatory and numbering contact information to each state commission when
+requesting numbers in that state.
+III. CONCLUSION
+Pursuant to Section 52.15(g)(3)(i) of the Commission’s Rules, CallShaper respectfully requests
+the Commission grant this Application for authorization to obtain numbering resources.
+March 9, 2021 Respectfully submitted,
+/s/ David M. Krueger
+David M. Krueger
+Suzanne M. Alton de Eraso
+BENESCH, FRIEDLANDER, COPLAN &
+ARONOFF LLP
+200 Public Square, Suite 2300
+Cleveland, Ohio 44114-2378
+Telephone: 216.363.4500
+Email: dkrueger@beneschlaw.com
+SAltondeEraso@beneschlaw.com
+Attorneys for CallShaper, LLC
+14220414 v1 4
+
+DECLARATION
+Sean Bright, under penalty of perjury deposes and states as follows:
+1. My name is Sean Bright. I am the Chief Technology Officer of CallShaper, LLC.
+2. I have reviewed the information set forth in the Company's Application to Obtain
+Numbering Resources to which this declaration is attached.
+3. The statements set forth in CallShaper’s Application are true and correct to the best
+of my knowledge, information and belief.
+Sean Bright
+SEAN BRIGHT
+CHIEF TECHNOLOGY OFFICER
+CALLSHAPER, LLC
+14220414 v1 5
+
+Exhibit A
+Agreement with Underlying CLEC
+(Confidential and Proprietary – Filed Under Seal Pursuant to 47 C.F.R. § 0.459)
+14220414 v1 6
+
+Exhibit B
+Agreement Between CLEC & LEC
+(Confidential and Proprietary – Filed Under Seal Pursuant to 47 C.F.R. § 0.459)
+14220414 v1 6

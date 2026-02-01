@@ -1,0 +1,130 @@
+Before the
+FEDERAL COMMUNICATIONS COMMISSION
+Washington, D.C. 20554
+In the Matter of )
+)
+Zoom Voice Communications, Inc., )
+Applicant, )
+) WC Docket No. 20-419
+For Authorization to Obtain Numbering )
+Resources Pursuant to Section 52.15(g) )
+of the Commission’s Rules )
+)
+REPLY COMMENTS OF ZOOM VOICE COMMUNICATIONS, INC.
+Kari Zeni Brita D. Strandberg
+Associate General Counsel Daniel P. Tingley
+ZOOM VOICE COMMUNICATIONS, INC. HARRIS, WILTSHIRE & GRANNIS LLP
+1919 M Street, NW, 8th Floor
+Washington, DC 20036
+(202) 730-1300
+Counsel to Zoom Voice Communications, Inc.
+March 5, 2021
+
+Zoom Voice Communications, Inc. (“Zoom”) submits this response to comments filed by
+CarrierX regarding Zoom’s application for authorization to obtain numbering resources.1 The
+Commission’s rules provide that the Bureau may remove an application from streamlined
+processing if (1) an applicant fails to respond promptly to Commission inquiries; (2) an
+application is associated with a non-routine request for waiver of the Commission’s rules; (3)
+timely-filed comments on the application raise public interest concerns that require further
+Commission review; or (4) the Bureau determines that the application requires further analysis to
+determine whether granting the application serves the public interest. 47 C.F.R. §
+52.15(g)(3)(iii). None of these conditions are met here. The comments filed by CarrierX raise
+no public interest concerns related to Zoom’s application that merit further review by the
+Commission. The Commission should therefore continue to process the application on a
+streamlined basis and deem the application granted pursuant to Section 52.15(g)(3)(iii).
+Zoom filed an application to obtain numbering authorization from the Commission on
+December 9, 2020.2 On February 5, 2021, the Commission issued a Public Notice stating that
+Zoom’s application contained the information required by the Commission’s rules and finding
+the application “upon initial review, to be acceptable for filing as a streamlined application.”3
+Only one party, CarrierX, filed comments on Zoom’s application. CarrierX did not identify any
+defects in Zoom’s application or raise any issues about Zoom that present public interest
+1 Comments of CarrierX, WC Docket No. 20-419 (filed Feb. 22, 2021) (“CarrierX
+Comments”).
+2 Application of Zoom Voice Communications, Inc. for Numbering Authorization, WC Docket
+No. 20-419 (filed Dec. 9, 2020).
+3 Interconnected VoIP Numbering Authorization Application Filed by Zoom Voice
+Communications, Inc. Pursuant to Section 52.15(g)(3) of the Commission’s Rules, Public
+Notice, WC Docket No. 20-419, at 2 (rel. Feb. 5, 2021).
+2
+
+concerns. Instead, CarrierX argued that because the Bureau recently removed a “substantially
+similar application” from streamlined processing, it should do the same for Zoom’s application
+out of fairness.
+Zoom’s application is readily distinguishable from the applications that the Commission
+removed from streamlined processing. CarrierX’s comments referred to applications filed by
+five entities collectively known as the “HDC Companies.”4 After the HDC Companies filed
+applications for numbering authority, AT&T filed comments in opposition identifying issues
+specific to the applications that raised public interest concerns.5 AT&T noted that the applicants
+appeared to be related to an individual and entities linked to “access arbitrage schemes.”6 AT&T
+further observed that a formal complaint was pending at the Commission against a local
+exchange carrier owned by that same individual. The complaint was even specifically related to
+the carrier’s use of VoIP services from a related company: it alleged that the carrier “is using a
+closely associated provider of VoIP services in an attempt to evade its intercarrier compensation
+obligations,” leading to “call blocking and congestion.”7 AT&T therefore asked the Commission
+to remove the application from streamlined processing due to the applicants’ “apparent
+connection to entities linked to access arbitrage activities,” and it asked to review sealed
+materials to determine whether the applicants intended to access the PSTN via the carrier that
+4 See Applications of HDC Alpha, LLC; HDC Beta, LLC; HDC Delta, LLC; HDC Epsilon,
+LLC; and HDC Gamma, LLC, for Authorization to Obtain Numbering Resources, WC
+Docket Nos. 19-313, 19-314, 19-315, 19-316 & 19-317 (filed Oct. 8, 2019).
+5 Comments of AT&T in Opposition to Interconnected VoIP Numbering Authorization
+Applications Filed by HDC Alpha, LLC et al., WC Docket Nos. 19-313, 19-314, 19-315, 19-
+316 & 19-317 (filed Jan. 21, 2021).
+6 Id. at 2.
+7 Id.
+3
+
+was the subject of the formal complaint.8 Unlike CarrierX, AT&T’s comments raised specific,
+particularized public interest concerns with the applications before the Commission.
+CarrierX, on the other hand, does not argue that Zoom receiving numbering authority
+would raise distinct public interest concerns. Instead, it argues that the Commission should
+impose further scrutiny on Zoom’s application to evaluate “whether the request for additional
+numbering resources will promote access arbitrage practices or create incentives for inefficient
+number utilization,” without offering any basis to think that those issues are relevant to Zoom.9
+The Commission has already examined the generalized concerns raised by CarrierX and
+addressed them through notice and comment rulemaking. In its Order adopting numbering
+access requirements, the Commission noted concerns raised by commenters, including that direct
+access “could have negative consequences for routing and intercarrier compensation,” and
+concluded both that the benefits of direct access “outweigh any perceived risks” and that the
+conditions adopted by the Commission would “mitigate any risks.”10 CarrierX’s objection to
+Zoom’s application is in an improper, time-barred collateral attack on this conclusion and the
+Commission’s prior rulemaking, not a party-specific objection to Zoom’s request for numbering
+authority.
+The Commission has made it clear that objections like CarrierX’s are improper. In the
+transaction context, for example, the Commission weighs “transaction-specific” benefits—those
+that arise as a result of the transaction and could not be accomplished in the absence of the
+8 Id. at 2-3.
+9 CarrierX Comments at 3.
+10 Numbering Policies for Modern Communications, Report & Order, 30 FCC Rcd. 6839, ¶ 15
+(2015).
+4
+
+transaction—and it imposes conditions only to ameliorate the “transaction-specific” harms. 11
+The Commission does not address issues raised by parties who comment on the proceeding to
+raise concerns that are irrelevant or unrelated to the specific transaction under review.12 This
+established, well-founded rule applies with just as much force in this context.13
+CarrierX’s comments provide no reason to remove Zoom’s application from streamlined
+processing. They do not allege that Zoom has violated any Commission rule, identify any
+deficiencies in Zoom’s application, or identify any public interest concerns related to Zoom that
+require further review. The Commission should process the application on a streamlined basis
+and ultimately deem the application granted.
+Respectfully submitted,
+/s/ Brita D. Strandberg
+Kari Zeni Brita D. Strandberg
+Associate General Counsel Daniel P. Tingley
+ZOOM VOICE COMMUNICATIONS, INC. HARRIS, WILTSHIRE & GRANNIS LLP
+1919 M Street, NW, 8th Floor
+Washington, DC 20036
+(202) 730-1300
+Counsel to Zoom Voice Communications, Inc.
+11 See, e.g., Applications of T-Mobile US, Inc., & Sprint Corp., for Consent to Transfer Control
+of Licenses & Authorizations, 34 FCC Rcd. 10,578, ¶¶ 40, 214 (2019).
+12 See, e.g., Applications of Softbank Corp., Starburst II, Inc., Sprint Nextel Corp., & Clearwire
+Corp., 28 FCC Rcd. 9642, ¶¶ 80-81 (2013) (rejecting calls to address industry-wide issues in
+a party-specific transaction).
+13 The Commission’s greenmail rules are another example of the Commission’s disapproval of
+insincere, irrelevant attempts by interested parties to derail legitimate applications filed with
+the Commission. See, e.g., Amendment of Part 90 of the Commission's Rules to Permit the
+Short-Spacing of Specialized Mobile Radio Sys. Upon Concurrence from Co-Channel
+Licensees, 7 FCC Rcd. 6069, ¶ 9 (1992).
+5

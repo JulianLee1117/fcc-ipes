@@ -1,0 +1,128 @@
+RGTN USA Inc.
+244 Fi(cid:332)h Avenue, Suite L220
+New York, N.Y. 10001
+VIA ECFS & FIRST-CLASS MAIL
+Marlene H. Dortch
+Office of the Secretary
+Federal Communications Commission
+445 12th Street SW
+Washington, D.C. 20554
+Re: Supplement toApplication of RGTN USA, Inc. for Authorization to Obtain
+Numbering Resources(WC Docket No. 23-335);Request for Confidential Treatment
+of Filing.
+Attn:
+Pursuant to Section 52.15(g)(3)(i) of the Commission’s Rules, RGTN USA Inc. (“RGTN”)
+hereby submits the following documents in support of its application requesting authorization to
+obtain numbering resources. This current filing supplements the Application for Authorization to
+Obtain Numbering Resources (“Application”) filed by RGTN on November 15, 2023.
+This Application contains the following supplemental information.
+1. A signed agreement with Lingo, which shall take the place of the unsigned Agreement
+contained inExhibitsAandB of the Application.
+2. A signed agreement with PortaOne, which shall be supplemented to ExhibitsAandB of
+the Application.
+In addition, RGTN clarifies and certifies to the Commission that the company will be fully
+STIR/SHAKEN compliant before services are initiated in the United States. Indeed.the company
+is currently working with John Staurulakis, LLC to implement comprehensive STIR/SHAKEN
+compliance and will submit and update all necessary certificationsto the FCC before any U.S.
+domestic voice traffic is initiated.
+Finally, please note thatin the original Application, the reference toExhibit C on Page5 should
+be Exhibit D, and the reference toExhibitD on Page6should be Exhibit C.
+As contemplated by the Commission’s rules, we are filing the public version of the Application
+electronically and the confidential version via first-class mail.
+RGTNrespectfully requests that, pursuant to Sections 0.457 and 0.459 of the Commission’s rules,
+47 C.F.R. §§ 0.457 and 0.459, the Commission withhold from public inspection and grant
+confidential treatment to Exhibit A and B, a document that contains sensitive trade secrets and
+commercial information that falls within Exemption 4 of the Freedom of Information Act
+(“FOIA”).1 RGTN is voluntarily providing this information, “of a kind that would customarily
+15 U.S.C. § 552(b)(4).
+
+not be released to the public”; therefore, this information is “confidential” under FOIA.2
+Moreover, RGTN would suffer substantial competitive harm if this information were disclosed.3
+As such, Exhibits A and B are marked with the header “SUBJECT TO REQUEST FOR
+CONFIDENTIAL TREATMENT – NOT FOR PUBLIC INSPECTION.” Further details
+supporting this request for confidential treatment are contained inAttachment Ato this letter.
+Any questions you may have regarding this filing should be directed to my attention at (888)
+977-7486 or via email to l.herps@rgtn.com. Thank you for your assistance in this matter.
+Respectfully Submitted,
+/a/
+Leonardus Herps
+On behalf of RGTN USA Inc.
+2Critical Mass Energy Project v. NRC, 975 F.2d 871, 879 (D.C. Cir. 1992).
+3SeeNat’l Parks & Conservation Ass’n v. Morton, 498 F.2d 765 (D.C. Cir. 1974).
+
+Attachment A
+In support of thisrequest and pursuant to Section 0.459(b) of the Commission’s rules,4 RGTN
+hereby states as follows:
+1. IDENTIFICATION OF THE SPECIFIC INFORMATION FOR WHICH
+CONFIDENTIAL TREATMENT IS SOUGHT.5
+RGTNseeks confidential treatment ofExhibit A and B to the enclosed application.
+2. DESCRIPTION OF CIRCUMSTANCES GIVING RISE TO THE SUBMISSION.6
+As proof of RGTN’s facilities readiness as required by Section 52.15(b)(3)(i)(D) of the
+Commission’s rules, RGTN is submitting the agreement between it and its carrier partner as
+Exhibit A and B.
+3. EXPLANATION OF THE DEGREE TO WHICH THE INFORMATION IS
+COMMERCIAL OR FINANCIAL, OR CONTAINS A TRADE SECRET OR IS
+PRIVILEGED.7
+The information for which RGTN seeks confidential treatment contains sensitive commercial
+information which would customarily be guarded from competitors.8 Exhibit A and B describe
+the agreement between RGTN and its carrier partner and contain proprietary commercial
+information concerning the operations and pricing of RGTN’s carrier partner and RGTN’s
+network, services, and operating costs and expenses.
+4. EXPLANATION OF THE DEGREE TO WHICH THE INFORMATION
+CONCERNS A SERVICE THAT IS SUBJECT TO COMPETITION.9
+Exhibit A and B contain information relating to commercial matters that could be used by
+competitors toRGTN’s disadvantage. RGTNhas numerous competitors in the Voice over Internet
+Protocol (“VoIP”) services sector in which it operates. Detailed operations and commercial
+information of the type provided by RGTN could compromise RGTN’s position in this highly
+competitive industry. Release would therefore result in substantial competitive harm toRGTN.
+5. EXPLANATION OF HOW DISCLOSURE OF THE INFORMATION COULD
+RESULT IN SUBSTANTIAL COMPETITIVE HARM.10
+Competitors could use RGTN’s proprietary commercial and operational information to RGTN’s
+detriment as they would gain access to sensitive information about how RGTN provides services
+4 47 C.F.R. § 0.459(b).
+547 C.F.R. § 0.459(b)(1).
+647 C.F.R. § 0.459(b)(2).
+747 C.F.R. § 0.459(b)(3).
+847 C.F.R. §§ 0.457(d) and 0.459.
+947 C.F.R. § 0.459(b)(4).
+1047 C.F.R. § 0.459(b)(5).
+
+as well as about RGTN’s commercial agreements with others in the market that are not normally
+disclosed to the public.
+6. IDENTIFICATION OF ANY MEASURES TAKEN BY THE SUBMITTING
+PARTY TO PREVENT UNAUTHORIZED DISCLOSURE.11
+RGTNhas not distributed the information in Exhibit A and B to the public.
+7. IDENTIFICATION OF WHETHER THE INFORMATION IS AVAILABLE TO
+THE PUBLIC AND THE EXTENT OF ANY PREVIOUS DISCLOSURE OF THE
+INFORMATION TO THIRD PARTIES.12
+RGTNhas not previously disclosed the information in Exhibit A and Bto the public or to third
+parties.
+8. JUSTIFICATION OF THE PERIOD DURING WHICH THE SUBMITTING
+PARTY ASSERTS THAT MATERIAL SHOULD NOT BE AVAILABLE FOR
+PUBLIC DISCLOSURE.13
+RGTN requests that Exhibit A and B be treated as confidential for a period of ten years. This
+periodis necessary due to the proprietary nature of the information inExhibit A and B.
+9. OTHER INFORMATION THAT RGTN BELIEVES MAY BE USEFUL IN
+ASSESSING WHETHER ITS REQUEST FOR CONFIDENTIALITY SHOULD
+BE GRANTED.14
+The information concernsRGTN’s proprietary network information, related to current andplanned
+commercial and operational information, and, as such, is commercially sensitive.
+1147 C.F.R. § 0.459(b)(6).
+1247 C.F.R. § 0.459(b)(7).
+1347 C.F.R. § 0.459(b)(8).
+1414 47 C.F.R. § 0.459(b)(9).
+
+ExhibitA
+RGTN Reciprocal Carrier Services Agreement (Excerpt)
+PSTN Demonstrating Interconnection Services for iVoIP Services
+
+[THIS EXHIBIT
+SUBJECT TO REQUEST FOR CONFIDENTIAL TREATMENT
+–NOT FOR PUBLIC INSPECTION –]
+
+Exhibit B
+RGTN Reciprocal Carrier Services Agreement (Full)
+
+[THIS EXHIBIT
+SUBJECT TO REQUEST FOR CONFIDENTIAL TREATMENT
+–NOT FOR PUBLIC INSPECTION –]

@@ -1,0 +1,993 @@
+•
+43.1 This Agreement applies to the territory in which Verizon operates as an
+Incumbent Local Exchange Carrier in the Commonwealth of Pennsylvania.
+Verizon shall be obligated to provide Services under this Agreement only within
+this territory. ·
+43.2 Notwithstanding any other provision of this Agreement, Verizon may terminate
+this Agreement as to a specific operating territory or portion thereof If Verizon
+sel_ls or otherwise transfers Its operations fn such territory or portion thereof to a
+third-person. Verizon shall provide Neutral Tandem with at least 90 calendar
+days prior written notice of such termination, which shall be effective upon the
+date specified in the notice.
+44. Third Party Beneficiaries
+Except as expr13ssly set forth in this Agreement, this Agreement is for the sole benefit of
+the Parties and their pennitted assigns, and nothing herein shall create or be construed
+to provide any third-persons (including, but not limited to, Customers or contractors of a
+Party} with any rights (including, but not limited to, any third-party beneficiary rights)
+hereunder. Except as expressly set forth in this Agreement, a Party shall have no liability
+under this Agreement to the Customers of the other Party or to any other third person.
+45. [This Section Intentionally Left Blank]
+46. 252(1) Obligations
+To the extent required by Applicable Law, each Party shall comply with Section 252(i) of
+• the Act To the extent that the exercise by Neutral Tandem of any rights It may have
+under Section 252(i) results in the rearrangeme11t of Services by Verizon, Neutral
+Tandem shall be solely liable for all costs associated therewith, as well as for any
+termination ch~rges associated with the termination of existing Verizon Services.
+47. Use of Service
+Each Party shall make commercially reasonable efforts to ensure that its Customers
+comply with the provisions of this Agreement (including, but not limited to the provisions -I
+of applicable Tariffs) applicable to the use of Services purchased by it under this
+Agreement.
+48. Waiver
+A failure or delay of either Party to enforce any of the provisions of this Agreement, or
+any right or remedy available under this Agreement or at law or in equity, or to require
+performance of any of the provisions of this Agreement, or to exercise any option which is
+provided under this Agreement, shall in no way be construed to be a waiver of such
+provisions, rights, remedies or options.
+49. Warranties
+EXCEPT AS EXPRESSLY STATED IN THIS AGREEMENT, NEITHER PARTY MAKES
+OR RECEIVES ANY WARRANTY, EXPRESS OR IMPLIED, WITH RESPECT TO THE
+SERVICES PROVIDED, OR TO BE PROVIDED, UNDER THIS AGREEMENT AND THE
+PARTIES DISCLAIM ANY OTHER WARRANTIES, INCLUDING BUT NOT LIMITED TO,
+WARRANTIES OF MERCHANTABILITY, WARRANTIES OF FITNESS FORA
+PARTICULAR PURPOSE WARRANTIES AGAINST INFRINGEMENT, AND
+WARRANTIES ARISING BY TRADE CUSTOM, TRADE USAGE, COURSE OF
+• DEALING OR PERFORMANCE, OR OTHERWISE.
+50 • Withdrawal of Services ·
+NT PAe Compv3.1 09282007f.doc 25
+- - --- ----- ---- - ·----··- - . -
+-
+
+•
+50.1 Notwithstanding anything contained jn this Agreement, except as otherwise
+. required by Applicable Law, Verizon may terminate its offering and/or provision of
+. any Service under this Agreement upon thirty (30) days prior written notice to
+Neutral Tandem. · .
+50.2 Notwithstanding anything contained In this Agreement, except as otherwise
+required .by Applicable Law, Verizon may with thirty (30) days prior written notice
+to Neutral Tandem terminate any provision of this Agreement that provides for
+the payment by Verizon to Neutral Tandem of compensation related to traffic,
+including, but not limited to. Reclpr:ocal Compensation and other types of
+compensation for termination of traffic delivered byVerizon to Neutral Tandem.
+Following sach termination, except as otherwise agreed In writing by the Parties,
+Verizon shall b~ obligated to provide compensation to Neutral Tandem related to
+traffic only to the extent required by Applicable Law. If Verizon exercises its right
+of termlnatron under this Section, the Parties shall negotiate in good faith
+appropriate substitute provisions for compensation related to traffic; provided,
+however, that except as otherwise voluntarily agreed ·by Verizon In writing in its
+~e discretion, Verizon shall be obligated to provide compensation to Neutral
+Tandem related to traffic only to the extent required by Applicable Law. If within
+thfrty (30) days after Verizon's notice of tennination the Partle.s are unable to
+a9fee in writing upon mutually acceptable substitute provisions for compensation
+related to traffic, either Party may submit their disagreement to dispute resolution
+In accordance with Section 14 of this Agreement.
+•
+•
+.·
+·NT PAe·Compv3.10 0282007f.doc
+··-------·-··-----------------------------------
+
+•
+SIGNATURE PAGE
+lN WITNESS WHEREOF, the Parties hereto have caused this Agreement to be executed as of
+the Effective Date.
+NEUTRAL TANDEM -PENNSYLVANIA, LLC VERIZON PENNSYLVANIA INC.
+By;__)>_.. _ , ~~~---.....;--- av:~C..h~L-
+Printed: David Tatak Printed: Jeffrey A Masoner
+Title: VP Billing and Revenue Services Title: Vice President -Interconnection Services
+_I o _/_9_/_6! _ _____- ,.--_
+Date: Date:
+l t
+•
+•
+.·
+NT PAe Compv3 1 09282007f.doc 27
+
+-.
+GLOSSARY
+1. General Rule
+1.1- The provisions ·Of ·sections 1'.2 through 1.4 and Section 2 apply with regard to the
+Principal Document. Terms used in a Tariff shall have the meanings stated In
+the Tf,lriff.
+1.2 Unless the context clearly indicates otherwise, When a term listed in this Glossary
+Is used In the Principl:tl Document, the tenn Shall have the meaning stated In this
+Glossary. A defined term intended to convey the meaning stated in this Glossary
+is capitalized when used. Other terms that are capitalized, and not defined in this
+Glossary or elsewhere In the Principal Document, shall have the meaning stated
+In the Act Additior:ial definitions that are specific to the matters covered In a
+particular provlslon of the Principal Document may appear In that provision. To
+the extent that there may be any conflict between a definition set forth In this
+Glossary end any definition in a specific provision, the definition set forth in the
+specific provision. shall control with respectfo that-provision.
+1.3 Unless the context clearly indicates otherwise, any term defined in this Glossary
+which Is defined or used In the singular shall Include the plural. and any term
+defined In this Glossary which is defined or used In the plural shall Include the~
+singular.
+1.4 The words •shall" and "will" are used Interchangeably throughout the Principal
+•
+Document and the use of either indicates a mandatory requirement The use of
+one or the other shall not confer a different degree of right or obligation for either
+Party.
+2. Definitions
+2.'f Act
+The Communications Act of 1-934 (47 U.S.C. §151 et seq.), as from time to time
+amended {including, but not Umlted to, by the Telecommunications Act of 1996}.
+2.2 Advanced Services.
+As a general matter, shall have the meaning set forth by the FCC.
+2.a
+Affiliate.
+Shall bave the meaning set torth In the Act.
+2.4 Agent.
+An agent or servaAt.
+2.5 Agreement.
+This Agreement, as defined in Section 1 of the General Terms and Conditions.
+2.6 AU (Automatic Location ldentificatlon) Database.
+•
+The emergency services (E~911) database controlled by Verizon containing ,,
+NT PAe Compv3.1 09282007.f.doc 28
+·-----------------· - - -
+----------------~------------------
+
+•
+caller address/location information including the carrier name, National
+Emergency Numbering Administration ("NENA") ID, Call Back Number, and other
+carrier information used to process caller location records.
+2.7 Ancillary Traffic.
+All traffic that is destined for ancillary services, or that may have special billing
+requirements, including but not limited to the following: directory assistance,
+911/E-911, operator services (lntraLATA call completion), lntraLATA third party,
+collect and calling card, 800/888 database query and LIDS.
+2.8 ANI (Automatic Number Identification).
+The signaling parameter that refers to the number transmitted through the
+network identifying the billing number of the calling party.
+2.9 Applicable Law.
+All effective laws, government regulations and government orders, applicable to
+each Party's performance of its obligations under this Agreement. For the
+avoidance of any doubt, when used in relation to unbundled Network Elements or
+Combinations of unbundled N~twork Elements, the term "Applicable Law" means
+the Federal Unbundling Rules.
+2.10 ASR (Access Service Request).
+• An industry standard fonn, which contains data elements and usage rules used
+by the Parties to add, establish, change or disconnect services or trunks for the
+purposes of Interconnection.
+2.11 ATIS.
+The Alliance for Telecommunications Industry Solutions.
+2.12 BFR (Bona Fide Request).
+The process descn'bed in the Network Element Attachment that prescribes the
+terms and conditions relating to a Party's request that the other Party provide a
+UNE that it is not otherwise required to provide under the tenns of this
+Agreement.
+2.13 Business Day.
+Monday through Friday, except for holidays observed by Verizon.
+2.14 Calendar Quarter.
+January through March, April through June, July through September, or October
+through December.
+2.15 Calendar Year.
+January through December.
+• .2 .16 [Intentionally Left Blank].
+2.17 Call BackNumber,
+NT PAe Compv3.1 09282007f.doe 29
+
+•
+A telephone numb.er that can be used by the ~SAP to re-contact the location
+from which a 911 /E-911 Call was placed. The telephon~ number may or may not
+be the telephone number of the station used to originate the 911 IE-911 Call .
+. 2.18 CCS (Common Channel Signaling).
+A method of transmitting call set""-lp and network control data over a digital
+signaling network separate fr0m the pubUc sWitched telephone network facilities
+that carry the actual voice or data content of the call.
+2.19 Central Office.
+An End Office or Tandem. Sometimes this tenn is used to refer to a telephone
+company building In which switching systems and telephone equipment are
+installed.
+2.20 [Intentionally Left Blank].
+2.21 Claims.
+Any and all claims, demands, suits, actions, settlements, judgments, fines,
+penalties, liabilities, Injuries, damages, losses, costs (Including, but not limited to,
+court costs). and expenses (including, but not limited to, reasonable attorney's
+fees).
+2.22 CLEC (Competitive Local Exchange carrier).
+•
+Any .Local Exchange carrier other than Verizon that is operating as a Local
+·Exchange Carrier In the territory In which Verizon operates as an ILEC in the
+Commonwealth of Pennsylvania. Neutral Tandem Is or shortly will become a
+CLEC.
+2.23 CLLI Codes.
+Common Language Location Identifier Codes.
+2.24 CMOS (Centralized Message Distribution System).
+The billing record and clearing house transport system that LECs use to
+exchange out collects and In collects as well as Carrier Access Billing System
+(CABS) records.
+2.25 Commission.
+Pennsylvania Public Utility Commission.
+2.26 Controlling 911 Authority.
+The duly authorized state, county or local government agency empowered by law
+to oversee the 911/E~911 services, operations and systems within a defined
+jurisdiction.
+2.27 CPN (Calling Party Number).
+··,
+A CCS parameter that ldent~es the calling party's telephone number.
+2.28 CPNI (Customer ~roprietary Network Information).
+NT PAeCompv3.1 09282007f.doc 30
+
+•
+Shall have the meaning set forth In Section 222 of the Act, 47 U.S.C. § 222.
+2.29 Cross Connection.
+For a collocation arrangement, the faclllties between the collocating Party's
+equipment and the equipment or facilities of the housing Party (such as the
+housing Party's digital signal cross connect, Main Distribution Frame, or other
+suitable frame or panel).
+f
+2.30 Customer.
+A third party residence or business end-user subscriber to Telephone Exchange
+Services provided by either of the Parties.
+2.31 Dark Fiber Loop.
+Consists of fiber optic strand(s) in a Verizon fiber optic cable between Verizon's
+accessible terminal, such as the fiber disbibution frame, or its functional
+equivalent, located within a Verizon End Office, and Verizon's accessible
+terminal located in Verizon's main termination point at a Customer premises,
+such as a fiber patch panel, and that Verizon has not activated through
+connection to electronics that "light" it and render It capable of canying
+Telecommunications Services.
+2.32 Dark Fiber Transport.
+• An optical transmission facility, within a LATA , that Verizon has not activated by
+attaching multiplexing, aggregation or other electronics, between Verizon
+switches (as identified in the LERG) or UNE Wire Centers.
+2.33 Dedicated Transport.
+A DSO-, DS1-, or DS3-capacity transmission facility between Verizon switches
+(as identified in the LERG) or UNE Wire Centers, within a LATA, that is dedicated
+to a particular end user or carrier. Dedicat~ Transport is sometimes referred to
+as dedicated interoffice facilities ("IOF"). Dedicated Transport does nQt include
+any facllfty that does not eonnect a pair of Verizon UNE Wire Centers.
+2.34 Default PSAP.
+The PSAP designated by the Controlling 911 Authority to recei\le a 911/E-911
+Call when it is not feasible to route that911/E-911 Call to the Designated PSAP.
+2.35 Designated PSAP.
+The primary PSAP designated by the Controlling 911 Authority to receive a
+911/E~911 Call based upon the geographic location of the end user.
+2.36 Digital Signal Level.
+One of several transmission rates in the time-division multiplex hierarchy.
+2.37 Discontinued Facility.
+Any facility, element, arrangement or the like that the Federal Unbundling Rules
+•
+do not require Verizon to provide on an unbundled basis to Neutral Tandem, •
+whether because the facfllty was never subject to an unbundling requirement
+NT PAe Compv3.1 09282007f.doc 31
+J
+~-----~----·-- - . ···~·
+
+•
+under the Federal Unbundling Rules, because the facility by operation of law has
+ceased or ceases to be subject to an unbundling req_uSrement under the Federal
+Unbuadling Rules, or otherwise.
+--
+2.~8 DSO (Digital Signal Level 0).
+The 64kbps zero-lever·s ignal in the time-division multiplex hierarchy.
+.2 .39 DS1 (Digital Signal Level 1).
+The 1.544 Mbps first~evel signal In the time-division multiplex hierarchy.
+2.40 OS1 Dedicated Transport
+Dedicated Transport having a total digital signal speed of 1.544-Mbps.
+2.41 DS3 (Digital Signal Level 3).
+The 44.736 Mbps thfrd..fevel signal in the time-division multlplex hierarchy.
+2.42 DS3 Oedlcated Transport.
+Dedicated Transporthavlng a total digital signal speed of 44.736 Mbps.
+2.43 DS3loop.
+A digital transmission channel, between the main distribution frame (or Its
+•
+equivalent) In an end user's serving UNE Wire Center and the demarcation point -
+at the end user customer's premises, suitable for the transport of Isochronous
+btpolar serial data at a rate of 44.736 Mbps (the equivalent of 28 0$1 channels).
+This Loop type Is more fully described in Verizon TR 72575, as revised from time
+to time. A 053 Loop requires the electronics necessary to provide the ·os3
+transmission rate.
+2.44 EMI {Exchange Message Interface).
+Standard used for the interexch.ange of telecommunications message Information
+between local exchange carriers and lnterexchange carriers for billable, non-
+billable, sample, settlement and study data. Data ls provided between
+companies via a unlque record layout that contains customer bllling information,
+account summary and tracking analysis. EMI format is contained in document
+SR-320 published by AT IS. ,
+2.45 End Office.
+A switching entity that is used for connecting lines to lines or lines to trunks for
+the purpose of originating/terminating calls. Sometimes this term is used to refer
+to a telephone company buUding in which switching systems and telephone
+equipment are installed •
+._
+2.46 [Intentionally Left Blank).
+-- 2.47 Exchan99 Access.
+_, . Shall have the me"nlng set forth in the Act
+•
+.2.48 Extended Local Calling Scope Arrangement.
+NT PAe Gompv3,1 09282007f.doc 32
+. -- ··--··----------~-----------------
+
+•
+An arrangement that provides a Customer a local calling scope (Extended Area
+Service, "EAS"), outside of the Customer's basic exchange serving area.
+Extended Local Calling Scope Arrangements may be either optional or non
+optional. ·optional Extended Local Calling Scope Arrangement Traffic• is traffic
+that under an optional Extended Local Calling Scope Arrangement chosen by the
+Customer terminates outside of the Customer's basic exchange serving area.
+2.49 FCC.
+The Fe~eral Communications Commission.
+2.50 FCC Internet Order.
+Order on Remand and Report and Order, In the Matter ofI mplementation oft he
+Local Competition Provisions in the Telecommunications Act of 1996, Jntercarrier
+Compensation for ISP Bound Traffic, FCC 01-131, CC Docket Nos. 96-98 and
+99-68, (adopted April 18, 2001 }.
+2.51 FCC Regulations.
+The unstayed, effective regulations promulgated by the FCC, as amended from
+time to time.
+2.52 Federal Unbundling Rules.
+Any lawful requirement to provide access to unbundled Network Elements or
+• Combinations of unbundled Network Elements that is Imposed upon Verizon by
+the FCC pursuant to both 47 U.S.C. § 251(c)(3) and 47 C.F.R. Part 51. Any
+reference in this Agreement to "Federal Unbundling Rules" shall not Include an
+unbundling requirement If the unbundling requirement does not exist under both
+47 U.S.C. § 251(c}{3) and 47 C.F.R Part 51.
+2.53 Feeder.
+The fiber optic cable (lit or unlit) or metallic portion of a Loop between a serving
+End Office and a remote terminal or feeder/distribution interface.
+2.54 FNID (Fiber Network Interface Device).
+A passive fiber optic demarcation unit designed for the interconnection and
+demarcation of optical fibers between two separate network providers.
+2.55 FTTP Loop.
+A Loop consisting entirely of fiber optic cable, whether dark or lit, that extends
+from the main distribution frame (or its equivalent) in an end user's serving End
+Office to the demarcation point at the end user's customer premises or to a
+serving area interface at which the fiber optic cable connects to copper ot coaxial
+distribution faclllties that extend to the end user's customer premises
+demarcation point, provided that all copper or coaxial· distribution facilities
+extending from such serving area interface are not more than 500 feet from the
+demarcation point at the respective end users' customer premises; provided,
+however, that In the case of predominantly residential multiple dwelling units
+(MDUs), an FTTP Loop Is a Loop consisting entirely of fiber optic cable, whether
+• dark or lit, that extends from the main distribution frame (or Its equivalent) in the
+End Office that serves the multiunit premises: (a) to or beyond the multiur.1it
+NT PAe Compv3.1 09282007f.doc 33
+I
+J
+
+-·
+premises' minimum point of entry (MPOE·), as defined in 47 C.F.R. § 68.105; or
+(b) to a serving area Interface at which the fiber optic cable connects to,.copper or
+coaxial distribution facilities that extend to or beyond the multiunit premises'
+MPOE, provided that ~II copper or coaxfal distribution faclllties extending from
+such serving area Interface are not more than 500 feet from ihe MPOE at the
+multlunlt premises.
+2.56 House and Riser Cable.
+A two-wire metallic distribution facility in Verizon's network between the minimum
+. point of entry for a building where a premises of a Customer fs located (such a
+point, an "MPOE") and the Rate OemarcaUon Point for such raclllty (or NID) If the
+NID is located at such Rate Demarcation Point).
+2.57 Hybrid loop.
+A Loop composed of both fiber optie cable and copper Wire or cable. An FTTP
+-Loop is not a Hybrid loop.
+2.58 . IDLC (Integrated Digital ·Loop Carrier).
+A subscriber loop carrier system ihat integrates wiihin the switch at a OS1 level,
+which Is twenty-four (24} Loop transmission paths combined into a 1.544 Mbps
+digital signal.
+2.59 ILEC (Incumbent Local Exchange Carrier).
+•
+Shall have the meaning stated In the Act.
+2.60 . Information Access.
+The provision of specialized exchange telecommunications ·services In
+connection with the origination, termination, transmission, switching, forwarding
+or routing of telecommunications traffic to or from the facilities of a provider of
+Information services, Including a provider of Internet access or Internet
+transmission serv~.
+2.61 Inside Wire or Inside Wiring.
+All wire, cable, terminals, hardware, and other equipment or materials, on the
+Customer's side of the Rate Demarcation Point
+2.62 Interconnection Wire Center.
+·A bulldfng or _portion thereof which serves as the premises for one or mor.e End
+Offices, Tandems and related facilities.
+2.6$ Internet Traffic.
+Any traffic 1hat is transmitted to or returned from the Internet at any point during
+the duration of the tran$1Tllsslon •
+2.64 .h iterLATA Service.
+Shall have the meaning_ set forth In the Act.
+•
+.
+2.65 lntraLATA.
+..
+NT PAe Compv3.1 09282007f.doc 34
+
+• Telecommunications that originate and terminate within the same LATA.
+2.66 pntentionally Left Blank].
+2.67 ISDN (Integrated Services Digital Network).
+A switched network service providing encHo-end digital connectivity for the
+simultaneous transmission of voice and data. Basic Rate lnterface-ISDN {BRl
+ISDN) provides for digital transmission of two (2) 64 kbps bearer channels and
+one (1) 16 kbps data and signaling channel (2B+D). Primary Rate lnterface
+ISDN (PRl-ISDN) provides for digital transmission of twenty-three (23) 64 kbps
+bearer channels and one (1) 64 kbps data and signaling channel (238+0).
+2.68 IXC (lnterexchange Carrier).
+A Telecommunications Carrier that provides. directly or indirectly, lnterLATA or
+lntraLATA Telephone Toll Services.
+2.69 LATA (Local Access and Transport Area).
+Shall have the meaning set forth in the Act
+2. 70 LEC (Local Exchange Carrier).
+Shall have the meaning set forth in the Act
+• 2.71 LERG (Local Exchange Routing Guide).
+A Telcordia Technologies reference containing NPA/NXX routing and homing
+information.
+2.72 LIDB (Line Information Data Base).
+Line Information databases which provide, among other things, calling card
+validation functionality for telephone line number cards issued by Verizon and
+other entities and validation data for collect and third number-billed calls (e.g.,
+data for billed number screening).
+2.73 '[Intentionally Left Blank].
+2. 7 4 Line Side.
+An End Office connection that provides transmission, switching and optional
+features suitable for Customer connection to the public switched network,
+including loop start supervision, ground start supervision and signaling for BRl
+ISDN service.
+2.75 Loop.
+A transmission path that extends from a Main Distribution Frame or functionally
+comparable piece of equipment in a Customer's serving End Office, to the Rate
+Demarcation Point (or NID if installed at the Rate Demarcation Point) in or at the
+Customer's premises. The actual transmission facilities used to provide a Loop
+may utilize any of several technologies.
+•
+2.76 LSR (Local Service Request). .·
+NT PAe Compv3.1 09282007f.doc 35
+
+•
+An industry standard form, which contains data elements and usage rules, used
+by the Parties to establish, add, change or disconnect resold
+Telecommunications Services and Network Elements.
+2.77 Maintenance Control Office.
+-Elth_er Party's center ;esponslble for control of the maintenance and repair of a
+·circuit.
+2.78 MDF (Main Distribution Frame).
+The primQry polnt at which outside plant facilities tennlnate within an-
+Interconnection Wire Center, for Interconnection to other Telecommunications
+.· facilities within the Interconnection Wire Center. The distribution frame used to
+interconnect cable pairs and line trunk equipment terminating on a swttchlng
+system. ·
+..
+2.79 Measured lntemet Traffic.
+Dial-up, switched Internet Traffic originated by a Customer of one Party on that
+Party's network at a point In a Verizon local calling area, and-dellvered to a
+Customer or an Internet Service Provider served by the other Party, on that other
+Party's network at a point In the same Verizon local calling area. Verizon local
+calling areas shall be as defined by Verizon. ·for the purposes of this definitiOFt, a
+Verizon local calling area Includes a Verizon non-optlon~I Extended Local Calling
+Scope Arrangement, but does not lnclu_de a Verizon optional Extended Local
+·Calling Scope Arrangement Calls originated -Oh a .1+ presubscrlptlon basis, or
+•
+on a casual dialed (10XXX/101XXXX).basis, are not considered Measured
+Internet Traffic• . For the avoidance of any doubt, Virtual Foreign Exchange Traffic
+(I.e., V/FX Traffic) (as.d efined In the Interconnection Attachment) does not
+constitute Measur.ed Internet Traffic.
+2.80 MECAB-(Multlple Exchange carrier Access Biiling}.
+A document prepared by the Billing Committee of the Ordering and BIRing Forum
+(OBF), which functions under the auspices of the Carrier Ualson Committee
+(CLC) of ATIS. The MECAB document. published by ATIS as "ATIS/OBF-
+MECAB", a~ re.vised from time to time, contains the recommended guidelines for
+the billing of an Exchange Access Service provided by two or more LECs, or by
+one LEC In two or more states, within a single LAT A. ·
+2:a1 ~ECOD (Multlp,le Exchaf'!ge Carriers Ordering and Design Guidelines for Access
+Serviees -lnctustry Support Interface).
+· A document developed by the Ordering/Provisioning Committee under the
+a1..1spices of the Ordering and Billing Forum (OBF}, which functions under the
+l; auspices of the camer Liaison Committee (CLO) of AT IS. The MECOD
+document, published by ATIS as •ATIS/OBF-MECOO", as revised from time to
+time, establishes methods fer processing orders for Exchange Access Service
+that Is to be provided .by two er more LECs.
+2.82 Ontentionally Left Blan.k].
+2.83 MobRe -Wireless seivl~.
+Arty mobile wireless Telecommunications Servlce, including any commercial •
+mobRe radio service.
+.NT PAe Compv3.t ~282007f.doc 36
+
+2.84 NANP (North American Numbering Plan).
+The system of telephone numbering employed In the United States, Canada,
+Bermuda, Puerto Rico and certain Caribbean islands. The NANP format is a 10-
+digit number that consist of a 3-diglt NPA Code (commonly referred to as the
+area code), followed by a 3-dlgit NXX code and 4 digit llne number.
+z.ao NetworK Element
+Shall have the meaning stated in the Act
+2.86 NIO (Network Interface Device}.
+The Verizon provided interface terminating Verizon's Telecommunications
+network on the property where the Customer's service Is located at a point
+aeterminea t>y Venzon. Ttle NID contains an FCC Part 68 registered Jack rrom
+which Inside Wire may be connected to Verizon's network.
+2.87 911/E-911 Call(s).
+Call{s) made by the Neutral Tandem end user by dialing the three digit telephone
+number "911" to facilitate the reporting of an emergency requiring response by a
+public safety agency.
+2.88 911/E-911 Service Provider.
+• An entity authorized to provide 911/E-911 network and database services within
+a particular jurisdiction .
+2.89 Non-Revertive.
+Where traffic is redirected to a protection line because of failure of a working line
+and the working line is repaired, traffic will remain on the protection line until
+there is either manual intervention or a failure of the protection line.
+2.90 NPA (Numbering Plan Area}.
+Also sometimes referred to as an area code, is the first three-d!git indicator of
+each 10-dicit telephone number within the NANP. There are two general
+categories of NPA, "Geographic NPAs" and "Non-Geographic NPAs". A
+Geographic NPA is associated with a defined geographic area, and alt telephone
+numbers bearing such NPA are associated with services provided within that
+geographic area. A Non-Geographic NPA, also known as a •service Access
+Code" or "SAC Code" is typically associated with a specialized
+Telecommunicatlons Service that may be provided across multiple geographic
+NPA areas. 500, 700, 800, 888 and 900 are examples of Non-Geographic
+NPAe.
+2.91 NXX, NXX Code, Central Office Code or CO Code.
+The three-digit switch entity indicator (i.e. the first three digits of a seven-digit
+telephone number).
+2.92 Order.
+• An order or application to provide, change or terminate a Service {including, but
+not limited to, a commitment to purchase a stated number or minimum number of
+NT PAe Compv3.1 09282007f.doc 37
+
+•
+lines ~r other Services for a stated period or minimum period of time).
+Z.93 Originating SWltched Access Detail Usage Data •
+. -
+A category 1101XX record as defined in the EMI Telcordla Practice BR--010~20()..
+010.
+2.94. POr (Point of Interconnection).
+The physical location where the Parties' respective facllltles physically
+Interconnect for the purpose of mutually exchanging their traffic. As set forth In
+the Interconnection Attachment, a Point of Interconnection shall be at (I) a
+technically feasible point on Verlzon's network in a l.ATA and/or (II) a fiber meet
+point to which the Parties mutually agr.ee under the terms of this Agreement. By
+way of example, a technlcally feasible Point of Interconnection on Ve.rizon's
+network In a LATAwould Include an applicable Verizon Tandem Interconnection
+Wire Center or Verizon End Office Interconnection Wire Center but,
+-. notwithstanding any other provision of this Agreement or otherwise, would not
+inclUde a Ne~I Tandem Interconnection Wire Center, Neutral Tandem.switch
+ot any portion of a transport facility provided by Verizon to Neutral Tandem or
+aooth.er party between (x) a Verizon Interconnection Wire Center or switch and
+(y) the Interconnection Wire Center or switch of Neutral Tandem or another party.
+2.95 Primary Reference Source.
+Equipment that provides a timing signal to synchronize network elements.
+•
+- 2.96 PrlnclpalDocurnent
+This document, including, but not limited to, the Title Page, the Table of
+Contents, the Preface, the General Terms and ·Conditions, the slgnatare page,
+this Glossar'y, the Attachments, and the Appendices to the Attachments.
+2.97 Providing Party.
+. . A Party offering or providing a Service to the other P~rty under this Agreement
+2.96 PSAP.
+Public Safety An~wering Point
+2:99 Pu~aslng Party.
+A Party requesting or recelvlng a Service from the other .Party under this
+AgreellltM'lt
+. .
+.2.1.00- Quanfylng UNE.
+An unbundled Network Element or a combination of unbundled Network
+..
+Elements obtained, pursuant to the Federal Unbundl~. Rules, under this
+~reement or a Verizon UNE Tariff.
+2.101 Qualifying Wholesale Services.
+Wholesale services obtained from Venzon under a Verizon access Tariff or a
+separate wholesa~ agr.eement. •
+NT PAe Compv3.1 09282007f.doC: 38
+. :1
+
+•
+2.102 Rate Center Area.
+The geographic area that has been identified by a given LEC as being
+associated with a particular NPA-NXX co9e assigned to the LEC for its provision
+of Telephone Exchange Services. The Rate Center Area ls the exclusive
+geographic area that the LEC has identified as the area within which it will
+provide Telephone Exchange Services bearing the particular NPA-NXX
+designation associated with the specific Rate Center Area.
+2.103 Rate Center Point
+A specific geographic point. defined by a V&H coordinate, located within the Rate
+Center Area and used to measure distance for the purpose of billing for distance
+sensitive Telephone Exchange Services and Toil Traffic. Pursuant to Telcordia
+Practice BR-795-100-100, the Rate Center Point may be an End Office location,
+or a •LEC Consortium Point Of Interconnection."
+2.104 Rate Demarcation Point
+The physical point in a Verizon provided network .facility at which Verizon's
+responsibility for maintaining that network facility ends and the Customer's
+responsibll!ty for maintaining the remainder of the facility begins, as set forth in
+this Agreement Verlzon's applicable Tariffs, if any, or as otherwise prescribed
+under Applicable Law.
+2.105 Reciprocal Compensation.
+•
+The arrangement for recovering, in accordance with Section 251(b)(5) of the Act,
+the FCC Internet Order, and other applicable FCC orders and FCC Regulations,
+costs incurred for the transport and tennlnation of Reciprocal Compensation
+Traffic originating on one Party's network and terminating on the other Party's
+network (as set forth In Section 7 of the Interconnection Attachment).
+2.106 Reciprocal Compensation Traffic.
+Telecommunications traffic originated by a customer of one Party on that Party's
+network and terminated to a Customer of the other Party on that other Party's
+network, except for Telecommunications traffic that is interstate or intrastate
+Exchange Access, Information Access, or exchange services for Exchange
+Access or Information Access. The determination of whether
+T elecomfllunications traffic is Exchange Acress or Information Access shall be
+based upon Verizon's local calling areas as defined by Verizon. Reciprocal
+. ~mpensation Traffic does not include the following traffic (It being understood
+that certain traffic types will fall Into more than one ( 1} of the categories below
+that do not constitute Reciprocal Compensation Traffic): (1} any Internet Traffic;
+(2} traffic that does not originate and tenninate within the same Verizon local
+calling area as defined by Verizon, and based on the actual originating and
+terminating points of the complete end-to-end communication; (3) Toll Traffic,
+including, but not limited to, calls originated on a 1+ presubscrlption basis, or on
+a casual dialed (10XXX/101XXXX) basis; (4) Optional Extended Local Calling
+Scope Arrangement Traffic; (5) special a~ss. private line, Frame Relay, AT M,
+or any other traffic that is not switched by the terminating Party; (6) Tandem
+Transit Traffic; (7) Voice Information Service Traffic (as defined In Section 5 of
+the Additional Services Attachment); or, (8) Virtual Foreign Exchange Traffic (or
+V/FX Traffic) (as defined in the Interconnection Attachment). For the purposes of
+this definition, a Verizon local calling area Includes a Verizon non-optional
+NT PAe Compv3.1 09282007f.doc gg
+I
+.J
+
+•
+Extended Local Calling Scope Arrangement. but does not Include a Verizon
+optional Extended Local Calling Scope Arrangement
+2.107 Retall Prices.
+The prices at which a Service Is provided by Verizon at retail to subscribers whQ
+are not Telecommunicatlons·carrlers.
+2.108 Routing Point
+A specific geographic point Identified by a specific V&H coordinate. The Routing
+Point Is used to route Inbound traffic to specified NPA~XX:s. The Routing Point
+must be located within the LATA In which the corresponding NPA--NXX Is
+located. However, the Routing Point associated with each NPA-NXX need not
+be the same as the corresponding Rate Center Point, normust.lt be located
+within the corresponding Rate Center Area, nor must there be a unique and
+separate Routing Point corresponding to each unique and separate Rate Center
+Area.
+2.109 Service.
+Any Interconnection-arrangement, Network Element, Telecommunlcatlons
+Service, collocation arrangement, or other servlcet faclllty or arrangement,
+_offered by a Party under this Agreement
+2.110 [Intentionally Left Blank].
+2.111 SS7 (Slgnatrng System 7). •
+The common channel out.of-band signaling protocol developed by the
+Consultative Committee for International Telephone and-Telegraph (CCITT) and
+the American Nation~! Standards \nstitute (ANS\}. Verizon and Neutral Tandem
+utilize this out..qf-band si·gnaling protocol .in relation to their routing ahd
+completion of traffic.
+2.112 Subsidiary,
+A corporation or other person that is controlled by a Party.
+2.113 Sub-Loop Distribution ·Facility.
+A two-wire or fOl;lr..wlra mE1tallic distribution facility in Ver!Zon's network between a
+Verizon feeder .distribution Interface {"FOi") ancf ttie Rate Demarcation Point for
+such facility (or NID If the NID ls located at such Rate Demarcation Point).
+2.114 Switched Exctiange Access Service.
+The offering of transmission and switching services for the purpose of the
+origination or tennination of Toll Traffic. SWltched Exchange Access Services
+Include but may not be limited to: Feature Group-A, Feature Group B. Feature
+Group 0, 700 access, 800 access, 888 access and 900 access.
+2.115 Tandem.
+A switching entity that has billing and recording capabllltles and Is used to
+connect and swltch trunk circuits between and among End Offices and between •
+and among End Offices and carriers' aggregation points, points of t,rmlnatio".l, or
+NT PAe·Compva.1 09282007f.doc 40
+
+•
+points of presence, and to provide Switched Exchange Access Services.
+Sometimes this term is used to refer to a telephone company bullding in which
+switching systems and telephone equipment are installed.
+2.116 Tariff.
+2.116.1 Any applicable Federal or state tariff of a Party, as amended from time
+to~me; or
+2.116.2 Any standard agreement or other document, as amended from time to
+time, that sets forth the generally available terms, conditions and prices
+under which a Party offers a Service.
+The term "Tariff' does not include any Verizon Statement of Generally Available
+Terms (SGAT) which has been approved or is pending approval by the
+Commission pursuant to Section 252(f) of the Act
+2.117 Telcordia Technologies.
+Telcordia Technologies, Inc., formerly known as Bell Communications Research,
+Inc. (Bellcore).
+2.118 Telecommunications Carrier.
+Shall have the meaning set forth In the Act
+•
+2.119 Telecommunications Services.
+Shall have the meaning set forth in the Act
+2.120 Telephone Exchange Service.
+Shall have the meaning set forth In the Act.
+2.121 Terminating Switched Access Detail Usage Data.
+A category 1101.XX record as defined in the EMI Telcordia Practice BR-010-200-
+010.
+2.122 Third Party Claim.
+A Claim where there is (a) a claim, demand, suit or action by a person who Is not
+a Party, (b) a settlement with, judgment by, or liability to._ a person who is not a
+Party, or (c) a fine or penalty imposed by a person who Is not a Party.
+2.123 Toll Traffic.
+Traffic that Is originated by a Customer of one Party on that Party's network and
+tenninates to a Customer of the other Party on that other Party's network and is
+not Reciprocal Compensation Traffic, Measured Internet Traffic, or Ancillary
+Traffic. Toll Traffic may be either "lntraLATA Toll Traffic" or "lnterLATA Toll
+Traffic". depending on whether the originating and terminating points are within
+tnesameLATA
+• 2.124 Toxic or Hazardous Substance.
+Any substance designated or defined as toxic or hazardous under any
+NT PAe Compv3.1 09282007f.doc 41
+
+•
+"Environmental Law" or that poses a risk to human health or safety, or the
+environment,. and products and materials containing such substance.
+"Environmental Laws" me"ns the Comprehensive Environmental Response,
+Compensation. and Liability Act, the Emergency Planning and Community Right
+to-Know Act, the Water Pollution Control Act, the Air Pollution Control Act, the
+Toxic Substances Control Act, the Resource Conservation and Recovery Act, the
+Occupational Safety and Health Act, and all other Federal, State or local laws or
+g0vemmental regulations or requirements, that are slmllar to the abov&
+referenced laws or that otherwise govern ref eases, chemicals, products,
+materials or wastes that may pose risks to human. health· or safety, or the
+environment, or that relate to the protection of wetlands or other natural
+resources.
+2.125 Traffic Factor 1.
+via
+· For traffic exchanged Interconnection Trunks, a percentage calculated by
+diVidlng the number of minutes of interstate traffic (excluding Measur.ed Internet
+Traffic) -by the total number of minutes of Interstate and intrastate traffic.
+([Interstate Traffic Total Minutes of Use {excludlng Measured Internet Traffic
+Total Minutes of Use} +{Interstate Traffic Total Minutes of Use+ Intrastate Traffic
+Total Minutes of Use}] x 100). Until the form of a Party's bills 1$ updated to use
+the term "Traffic Factor 1,• the term "Traffic Factor 1" may be referred to on the
+Party's bills and In billing related communications as "Percent Interstate Usage"
+orMPIU:
+2.126 Traffic Factor 2. ·
+For traffic exchanged via l'nterconnection Trunks, a· pereentage calculated by •
+dividing the combined to.tal number of minutes of Reciprocal Compensation
+Traffic and Measur~ Internet Traffic by the combined total number of minutes of
+Intrastate traffic and Measured Internet Traffic. ([{Reciprocal Compensation
+Traffic Total Minutes of Use+ Measured Internet Traffic Total Minutes of Use}+
+{Intrastate Traffic Total Minutes of Use+ Measured Internet Traffic T-otal Minutes
+of Use}] x 100). Until the form of a Party's bnts ls updated to use the term "Traffic
+Factor 2,··the term "Traffic Factor 2" may be referted to on the Party's blHs and In
+billing related communications as •Percent Local Usage• or •pLU:
+2.127 . Triennial Review Remand Order (TRRO).
+cc
+The FCC's Order on Remand in WC Docket No. 04-313 and Docket No. 01~
+· -338, r~ ooFebruary-4, 2005.
+2.128 Trunk Side.
+A Central Office Switch connection that is capable of, and·h as been programmed
+to treat the circuit as, connecting to another switching entity, for example, to
+another carrier's network. Trunk side connections offer those transmission and
+signaling features appropriate for the connection of switching entftles and cannot
+be used for the direct connection of ordinary telephone station sets.
+2.129 UOLC (Universal Digital Loop Carrier).
+UDLC arrangements consist of a Central Office Terminal and a Remote Terminal
+located In the outside plant or at a Customer premises. The Central Office and
+•
+the Remote Terminal units perform analog to digital conversions to allow th~
+feeding facility to be dlgftal. UDLC is deployed where the types of services to be
+NT"PAe Comp113.~ 09282007f.doc-
+----··------------------------------
+
+•
+provisioned by the systems cannot be integrated such as non-switched services
+and UNE Loops.
+2.130 UNE Wire Center.
+Shall have the same meaning as "Wire Center" set forth in 47 C.F .R. § 51.5.
+2.131 V and H Coordinates Method.
+A method of computing airline miles between two points by utilizing an
+established formula that is based on the vertical and horizontal coordinates of the
+two points.
+2.132 Voice.Grade.
+Either an analog signal of 300 to 3000 Hz or a digital signal of 56/64 kilobits per
+second. When referring to digital Voice Grade service (a 56-64 kbps channel),
+the terms "DSO" or "sub-DS1" may also be used.
+2.133 xDSL
+As defined and offered in this Agreement. The small "x" before the letters DSL
+signifies reference to DSL as a generic transmission technology, as opposectto a
+specific DSL "flavor."
+•
+•
+NT PAe Compv3.1 09282007f.doc 43
+
+•
+ADDITIONAL SERVIC~S ATTACHMENT
+1 ~ Alternate Biiied Calls
+t .1 The Parties will engage in settlements of1ntral.AT A intrastate alternate-billed
+calls~' collect. calllng card, and third-party billed caUs} originated or
+authorized by their respective Customers In accordance with an arrangement
+m~tually a9reed to by the Parties.
+2. D~allng Parity· Section 251(b)(3)
+Each Party shall provide the other Party with nondlscnmlnat6ry acce5s to such services
+and Information as are necessary to allow the other Party to Implement local Dialing
+Parity In accordance with the requirements of Section 251(b)(3) of1he Act.
+3. ['rhi• Section lnt•ntlonally Left Blank)
+...
+Directory Listing and Directory Distribution
+T-o the extent required by Applicable Law, Verizon will provide directory services to
+Neutral Tandem. Such services wlll be provided In accordance with the terms set focth
+herein.
+4.1 Listing lnfonnatlon.
+•
+As used herein, uustlng Information• means a Neutral Tandem Customer's
+primary name, address (including city, state and zip code), telephone. number(s),
+tile delivery address and number of directories to be delivered, and, in the case
+of a business Customer, the primary business heading under which the business
+Customer desires to be placed, and any other Information Verizon deems
+necessary for the publloatton and delivery of ~lrectodes.
+4.2 Listing Information Supply.
+Neutral Tandem shall provide to Verizon on-a regulady scheduled basis, at no
+charge, and ln a format required by Verizon or by a mutually agreed upon
+Industry standard (e.g., Ordering and Bllllng Forum developed) all Listing
+Information and the service address for each Neutral Tandem C~tomer whose
+service address location falls within the geographic area covered by the relevant
+Verizon directory. Neutral Tandem shall also provide to Verizon on a daPy basis:
+(a)'lnformation shewing Neutral Tandem Customers who have disconnected or
+terminated their service with ·Neutral Tandem; and (b) delivery information for
+each non-listed or non-published Neulral Tandem Customer to enable Verizon to
+perform Its directOfY distribution responslbllltles. Verizon shall promptiy provide
+to Neutral.Tandem (normally within fQrty..alght (48) hours of receipt by Verizon,
+excluding non-business days) a query on any listing that is not acceptable.
+4.3 Ustlng Inclusion and Distribution.
+Verizon shall Include each Neutral Tandem Customer's primary listing in the
+appropriate alphabetical directory and, for business Customers, In the
+appropriate classified (Yellow Pages} directory In accordance with the directory
+configuration, scope and schedules determined by Verizon in Its sole discretion,
+•
+and shall pr.ovlde ln!Oal distribution of such directories to such Neutral Tandem
+Customers In the same manner It provides Initial distribution of such directories to
+NT PAe Compv3.1 09282007f.doc
+
+•
+its own Customers. "Primary Listing• means a customer's primary name,
+address, and telephone number. Listings of Neutral Tandem's Customers shall
+be interfiled with listings of Verizon's Customers and the Customers of other
+LECs included in the Verizon directories. Neutral Tandem shall pay Verlzon's
+Tariffed charges for additional, foreign, and other listings products (as
+documented in local Tariff) for Neutral Tandem's Customers.
+4.4 Verizon Information.
+Upon request by Neutral Tandem, Verizon shall make available to Neutral
+Tandem the following Information to 1he extent that Verizon provides sucb
+information to Its own business offices: a directory list of relevant NXX codes,
+directory and CUstomer Guide close dates, and Yellow Pages headings. Verizon
+shall also make available to Neutral Tandem, on Verizon's Wholesale website
+(or, at Verizon's option, in writing) Verizon's directory listings standards and
+specifications.
+4.5 Confidentiality of Listing Information.
+Verizon shall accord Neutral Tandem Listing Information the same level of
+confidentiality that Verizon accords its own listing information, and shall U$0 such
+Listing Information solely for the purpose of providing directory-related services;
+provided, however, that should Verizon elect to do SQ, it may use or license •
+Neutral Tandem Listing Information for directory publishing, direct marketing, or
+any other purpose for which Verizon uses or licenses its own listing information,
+• so Jong as Neutral Tandem Customers are not separately identified as such; and
+provided further that Neutral Tandem may identify those.of Its customers who
+request that their names not be sold for direct marketing purposes and Verizon
+shall honor such requests to the same extent that it does for its own Customers.
+Verizon shall not be obligated to compensate Neutral Tandem for Verizon's use
+or licensing of Neutral Tandem Listing Information.
+4.6 Accuracy.
+Both Parties shaD use commercially reasonable efforts to ensure the accurate
+publication of Neutral Tandem Customer listings. At Neutral Tandem's request,
+Verizon shall provide Neutral Tandem with a report of all Neutral Tandem
+Customer listings In a reasonable tlmeframe prior to the service order close date
+for the applicable directory. Verizon shall process any corrections made by
+Neutral Tandem with respect to its listings, provided-such.corrections are
+received prior to-the close date of the partielllar· directory.
+4.7 Indemnification.
+Neutral Tandem shall adhere to all practices, standards~ and ethical
+requirements established by Verizon with regard to listings. By providing Verizon
+with Listing Information, Neutral Tandem warrants to Verizon that Neutral
+Tandem has the right to provide such Ustlng lnformatron to Verizon on behalf of
+its Customers. . Neutral Tandem shall make commerclaHy reasonable efforts to.
+ensure that any business or person to be listed is authorized and has 1he right (a}
+to provide the product or service offered, and (b) to use any personal or
+corporate name, trade name, trademark, service mark or language used in the
+listing. Neutral Tandem agrees to release, defend, hold harmless and indemnify
+• Verizon from and against any and all claims, losses, damages, suits, or other
+actions, or any liability whatsoever, suffered, made, instituted, or asserted by .any
+NT PAe Compvs:1 09282007f.doc 45
+
+•
+person arising out of Verizon's publication or dissemination of the Ustlng
+·Information as provided by Neutral Tandem hereunder.
+4.8 Uab1Rty.
+Verizon's llablllty to Neutral Tandem In the event sf a Verizon error In or omission
+of a Neutral Tandem Customer listing shall not exceed the amount actually paid
+by Neutral Tandem to Verizon for such listing. Neutral Tandem agrees to take all
+reasonable steps, Including, but not limited to, entering Into appropriate
+contractual provisions with Its Customers, to ensure that Its and Verlzon's liability
+to Neutral Tandem's Customers In the event of a Verizon error In or omission of a
+listing shaR be subject to the same limitations of liability applicable between
+Verizon and Its own C1,1_storners as set forth 1n Verlzon'.s applicable Tariffs.
+·4.~ Service Information Pages.
+Verizon shall Include all Neutral Tandem NXX codes associated with the
+geographic areas to which each directory pertains, to the extent It does so for
+Verizon's own NXX codes, in any lists of such codes that are contained in the
+general reference portion of each directory. Neutral Tandem's NXX codes shall
+appear In such lists In the same manner as Verizon's NXX information. In
+addition, when Ne4tral Tandem is "uthorlzed to, .and Is offering, local service to
+Customers l~ted within the geographic area covered by a specific dlrector'Y, at
+Neutral Tandem's request, Verizon shall Include, at no charge, In the "Customer
+Gulde" or comparable section of the applicable alphabetical directories, Neutral
+Tandem's critical contact Information for Neutral Tandem's Installation, repair and
+Customer service, as provided by Neutral Tandem. Such critical contact
+information shall appear alphabetically by local exchange carrier-and In •
+accordance with Vertzon's generally appllcable policies. Neutral Tandem shall
+be responsible for providing the necessary information to Verizon by the
+applicable close date fer each affected directory,
+4.1 O Directory Publication.
+Nothing In this Agreement shall require Venzon to publish a directory where it
+would not otherwise do so.
+4.11 Other Directory Services.
+Neutral Tandem acknowledges that if Neutral. Tandem desires dfrectOry services
+In add!Uon ta those described herein, such additional services must be obtained
+under separate agreement with Verlzon's directory publishing company.
+·5, Voice Information Service Trafftc
+· 5.1 For purposes of this Section 5, (a) Voice Information Service means a servlce
+-that provides [I] recorded voice annoancement Information or 01) a vocal
+discussion program .open to the public, and (b) Voice Information Service Traffic
+means lntralATA swltchecl voice traffic, deflvered to a Voice Information Service.
+Voice Information·S ervice Traffic does not inolude any form of Internet Traffic.
+Voice fnformatlon Service Traffic also does notl nclude 555 traffic or similar traffic
+with AIN service lnferfa~s. which traffic shaH·b e subject to separate
+arrangements between the Parties. Voice Information Service Traffic Is not
+subject to Reclp~I Compensation charges under Section 7 of the
+Interconnection Attachment
+Nt PAe Compv3.1 09282007f.doc
+
+•
+5.2 ff a Neutral Tandem Customer is served by resold Verizon dial tone line
+Telecommunications Service, to the extent reasonably feasible, Verizon will route
+Voice Information Service Traffic originating from such Service to the appropriate
+Voice Information Service connected to Verizon's network unless a feature
+blocking such Voice Information Service Traffic has been installed. For such
+Voice Information Service Traffic, Neutral Tandem shall pay to Verizon without
+discount any Voice Information Service provider charges billed by Verizon to
+Neutral Tandem. Neutral Tandem shall pay Verizon such charges In full
+regardless of whether or not Neutral Tandem collects such charges from its
+Customer.
+5.3 Neutral Tandem shall have the option to route Voice Information Service Traffic
+that originates on .Its own network to the appropriate Voice Information Service
+connected to Verizon's network. In the event Neutral Tandem exercises such
+option, Neutral Tandem will establish, at its own expense, a dedicated trunk
+group to the Verizon Voice Information Service serving switch. This trunk group
+will be utilized to allow Neutral Tandem to route Voice Information Service Traffic
+originated on its network to Verizon. For such Voice Information Service Traffic,
+unless Neutral Tandem has entered into a written agreement with Verizon under
+which Neutral Tandem will collect from Neutral Tandem's Customer and remit to
+Verizon the Voice Information Service provider's charges, Neutral Tandem shall
+pay to Verizon without discount any Voice Information Service provider charq,es
+billed by Verizon to Neutral Tandem. Neutral Tandem shall pay Verizon such
+charges in full regardless of whether or not Neutral Tandem collects such
+charges from Its own Customer.
+•
+6. Intercept and Referral Announcements
+6.1 When a Customer changes its service provider from Verizon to Neutral Tandem,
+or from Neutral Tandem to Verizon, and does not retain its original telephone
+number, the Party formerly providing service to such Customer shall provide a
+referral announcement ("Referral Announcemenf') on the abandoned telephone
+number which provides the Customer's new number or other appropriate
+information, to the extent known to the Party formerly providing service.
+Notwithstanding the foregoing, a Party shall not be obligated under this Section
+to provide a Referral Announcement if the Customer owes the Party unpaid
+overdue amounts or the Customer requests that no Referral Announcement be
+provided.
+6.2 Referral Announcements shall be provided, In the case of business Customers,
+for a period of not less than·o ne hqndred and twenty ( 120) days after the date the
+Customer changes its telephone number, and, in the case of residential
+Customers, not Jess than thirty (30) days after the date the Customer changes its
+telephone number; provided that if a longer time period is required by Applicable
+Law, such longer time period shall apply. Except as otherwi~ provided by
+Applicable Law, the period for a referral may be shortened by the Party formerly
+providing service if a number shortage condition requires reassignment of the
+telephone number.
+6.3 This referral announcement will be provided by each Party at no charge to the
+other Party; provided that the Party formerly providing service may bill the
+Customer its standard Tariff charge, If any, for the referral announcement.
+7. Originating Line Number Screening (OLNS)
+•
+Upon Neutral Tandem's request, Verizon will update its database used to provide
+originating line number screening (the database of information which indicates to an
+NT PAe Compv3.1 09282007f.doc 47

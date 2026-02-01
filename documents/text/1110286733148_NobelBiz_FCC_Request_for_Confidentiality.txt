@@ -1,0 +1,67 @@
+November 9, 2020
+Marlene H. Dortch, Secretary
+Federal Communications Commission
+445 12th Street, SW
+Washington, DC 20554
+Re: Request for Confidential Treatment of Exhibits to NobelBiz’s Application
+under 47 C.F.R. 52.15(g)
+Dear Ms. Dortch:
+Please find enclosed herewith an Application for Authorization to Obtain Numbering Resources
+(“Application”) submitted by NobelBiz, Inc. (“NobelBiz”) pursuant to 47 C.F.R. 52.15(g)(3)(i).
+The Application includes two confidential attachments: Exhibit A is an agreement between
+NobelBiz and its carrier partner, and Exhibit B is an interconnection agreement between that
+carrier partner and an incumbent local exchange carrier (“Attachments”). NobelBiz
+respectfully requests that, pursuant to 47 C.F.R. 0.457 and 0.459, the Commission withhold from
+public inspection and grant confidential treatment to the Attachments. These documents each
+contain sensitive commercial and financial information and trade secrets, falling within an
+exemption under 5 U.S.C. 552(b)(4) (“FOIA”).
+NobelBiz voluntarily provides the commercial and financial information and trade secrets
+contained in the Attachments, which is “of a kind that would not customarily be released to the
+public” and therefore constitutes “confidential” information under FOIA. See Critical Mass
+Energy Project v. NRC, 975 F.2d 871, 879 (D.C. Cir. 1992). Further, NobelBiz would suffer
+substantial competitive harm if information contained in the Attachments were disclosed. See
+National Parks and Conservation Ass’n v. Morton, 498 F.2d 765 (D.C. Cir. 1974).
+In support of this request and pursuant to 47 C.F.R. 0.459(b) NobelBiz avers as follows:
+A. Identification of the Specific Information for Which Confidential Treatment is
+Sought
+NobelBiz seeks confidential treatment of the Attachments: an agreement between
+NobelBiz and its carrier partner as set forth in Exhibit A, and an interconnection
+agreement between that carrier partner and an incumbent local exchange carrier as set
+forth in Exhibit B.
+B. Description of Reason for the Submission
+NobelBiz voluntarily submits the Attachments to the Commission as proof of the
+readiness of its facilities as required by 47 C.F.R. 52.15(g)(3)(i)(D).
+
+C. Explanation of Degree to Which Information is Commercial or Financial, Contains
+a Trade Secret or is Privileged
+The Attachments contain sensitive commercial and financial information that “would
+customarily be guarded from competitors”. 47 C.F.R. 0.457(d) and 0.459. Each also
+contains proprietary information relating to NobelBiz’s network, costs, and expenses.
+D. Explanation of Degree to Which Information Concerns a Service Subject to
+Competition
+The information contained in Attachments could be used by NobelBiz’s numerous
+competitors in the Voice over Internet Protocol (“VoIP”) business to NobelBiz’s
+disadvantage. Disclosure of such information would therefore result in substantial
+competitive harm.
+E. Explanation of How Disclosure of Information Could Result in Substantial
+Competitive Harm
+Competitors could use the information contained in the Attachments to NobelBiz’s
+detriment as they would gain access to sensitive and proprietary information, including
+its commercial agreements with others that are not ordinarily disclosed to the public.
+F. Identification of Measures Taken by NobelBiz to Prevent Unauthorized Disclosure
+NobelBiz does not disclose the Attachments to the public.
+G. Identification of Whether Information is Available to the Public and Extent of
+Previous Disclosure of Third Parties
+NobelBiz has not previously disclosed the Attachments to the public or third parties.
+H. Justification of Period During Which NobelBiz Asserts Material Should Not be
+Available for Public Disclosure
+NobelBiz respectfully requests that the Attachments be treated as confidential for a
+period of ten years. This period is necessary due to the sensitive and proprietary nature of
+the information contained in the Attachments.
+
+Please contact me at colleen.guffey@nobelbiz.com if you have any questions regarding this
+request for confidentiality.
+Respectfully submitted,
+_/s/ Colleen Guffey___________________
+Vice President
+NobelBiz, Inc.

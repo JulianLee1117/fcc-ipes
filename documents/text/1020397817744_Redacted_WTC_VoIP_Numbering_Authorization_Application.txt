@@ -1,0 +1,128 @@
+REDACTED – FOR PUBLIC INSPECTION
+Before the
+FEDERAL COMMUNICATIONS COMMISSION
+Washington, D.C. 20554
+In the Matter of )
+)
+WTC Technologies, Inc. ) WC Docket No. 17-_____________________
+)
+For Authorization to Obtain Numbering )
+Resources Pursuant to Section 52.15(g) of )
+the Commission’s Rules )
+APPLICATION OF WTC TECHNOLOGIES, INC. FOR AUTHORIZATION
+TO OBTAIN NUMBERING RESOURCES
+WTC Technologies, Inc. (“WTC Tech”), pursuant to Section 52.15(g)(3)(i) of the
+Commission’s Rules, respectfully requests authorization to obtain numbering resources as
+described below.
+As set forth in the Commission’s Numbering Order,1 an interconnected VoIP provider
+may obtain numbering resources from the Numbering Administrator upon a showing that it is
+authorized to provide service in the area for which the numbering resources are requested. Such
+authorization may be obtained upon an application to the Commission containing the information
+detailed in Sections 52.15(g)(3)(i)(A)-(F) of the Commission’s Rules. WTC Tech hereby
+requests the Commission grant it that authorization. In support of this application, WTC Tech
+provides the following information.
+1 Numbering Policies for Modern Communications et al., Report and Order, 30 FCC Rcd
+6839 (2015).
+
+REDACTED – FOR PUBLIC INSPECTION
+I. INFORMATION REQUIRED BY SECTION 52.15(g)(3)(i)
+(A) § 52.15(g)(3)(i)(A)
+Name: WTC Technologies, Inc.
+Address: 1009 Lincoln Avenue
+P.O. Box 25
+Wamego, KS 66547
+Telephone: (785) 456-1000
+Qualified Personnel: Jeff Wick, President/General Manager
+Parent Company: Wamego Telecommunications Company, Inc.
+Parent Company’s OCN: 1845
+(B) § 52.15(g)(3)(i)(B)
+WTC Tech hereby acknowledges that authorization to obtain numbering resources under
+Section 52.15(g) of the Commission’s Rules is subject to compliance with applicable
+Commission numbering rules as well as to the numbering authority delegated to the states. WTC
+Tech also acknowledges that this authorization is subject to compliance with industry guidelines
+and practices regarding numbering, as applicable to telecommunications carriers.
+(C) § 52.15(g)(3)(i)(C)
+WTC Tech hereby acknowledges that it must file requests for numbers with the relevant
+state commission(s) at least 30 days before requesting numbers from the Numbering
+Administrators.
+(D) § 52.15(g)(3)(i)(D)
+WTC Tech hereby sets forth its capability to provide service within 60 days of the
+numbering resources activation date.
+WTC Tech is a broadband provider currently providing VoIP services in rural Kansas
+through its own facilities. WTC Tech has access to numbering resources, and routes calls to the
+PSTN through a third party interconnected VoIP provider. WTC Tech seeks the instant IVP
+certificate to interconnect directly with other carriers and to obtain numbers on its own. WTC
+2
+
+REDACTED – FOR PUBLIC INSPECTION
+Tech will also enter into an agreement with its parent, Wamego Telecommunications Company,
+Inc. (“Wamego”), a rural incumbent local exchange carrier (“ILEC”) operating in Kansas, to
+route VoIP traffic on Wamego’s switch. Under its current and pending agreements and
+established procedures, WTC Tech will be able to place all numbers into service within a short
+timeframe, and all numbers will be placed into service within 60 days of activation. WTC Tech
+already provides VoIP service and routes calls to the PSTN, and as further proof of its facilities
+readiness, WTC Tech has attached to this application a representative facilities order
+demonstrating that WTC Tech obtains interconnection with the PSTN pursuant to a commercial
+arrangement that provides access to the PSTN. WTC Tech has already submitted and obtained
+facilities through this process. This facilities order, submitted confidentially, is attached as
+Exhibit A.
+(E) § 52.15(g)(3)(i)(E)
+WTC Tech hereby certifies that it complies with its Universal Service Fund contribution
+obligations under 47 CFR part 54, subpart H, its Telecommunications Relay Service contribution
+obligations under 47 CFR § 64.604(c)(5)(iii), its North American Numbering Plan and Local
+Number Portability Administration contribution obligations under 47 CFR §§ 52.17 and 52.32,
+its obligations to pay regulatory fees under 47 CFR § 1.1154, and its 911 obligations under 47
+CFR part 9.
+(F) § 52.15(g)(3)(i)(F)
+WTC Tech hereby certifies that it has the financial, managerial, and technical expertise to
+provide reliable service. It is financially stable, is led by a strong, experienced team of
+individuals with substantial managerial experience in the telecommunications industry, and has
+sufficient technical expertise and infrastructure in place to provide reliable numbering services.
+3
+
+REDACTED – FOR PUBLIC INSPECTION
+Specifically, WTC Tech is a wholly-owned subsidiary of Wamego Telecommunications, a rural
+Kansas incumbent local exchange carrier that has been providing telephone and other advanced
+communications services since 1912. As an affiliate of a long standing and experienced
+telecommunications service provider, WTC Tech will rely on the experience and personnel of its
+parent in order to provide service to its customers. Furthermore, WTC Tech has the capabilities
+to seamlessly port and place numbers into service and successfully route calls. WTC Tech’s
+lengthy experience with number porting enables it, along with its carrier partners, to create
+routing arrangements that seamlessly deliver calls to numbers directly assigned to WTC Tech.
+WTC Tech’s key management and technical personnel are listed below and each has at
+least 25 years of relevant industry experience. None of the identified personnel is being or has
+been investigated by the Commission or any law enforcement or regulatory agency for failure to
+comply with any law, rule, or order.
+Key Personnel: Jeff Wick, President/General Manager
+Suzanne Hemphill, Commercial Operations Manager
+Rod Sackrider, Network Operations Manager
+(G) § 52.15(g)(3)(i)(G)
+WTC Tech hereby certifies that no party to this application is subject to a denial of
+Federal benefits pursuant to Section 5301 of the Anti-Drug Abuse Act of 1988, 21 U.S.C. § 862.
+II. ACKNOWLEDGEMENT OF CONDITIONS IN SECTION 52.15(g)(3)(iv)
+As required by Section 52.15(g)(3)(iv), WTC Tech will maintain the accuracy of all
+contact information and certifications in this application, and will file a correction with the
+Commission and each applicable state within 30 days of any changes. WTC Tech will also
+furnish accurate regulatory and numbering contact information to each state commission when
+requesting numbers in that state.
+4
+
+REDACTED – FOR PUBLIC INSPECTION
+III. CONCLUSION
+Pursuant to Section 52.15(g)(3)(i) of the Commission’s Rules, WTC Tech respectfully
+requests the Commission grant this application for authorization to obtain numbering resources.
+Respectfully submitted,
+/s Tony S. Lee
+Tony S. Lee
+Fletcher, Heald & Hildreth, P.L.C.
+1300 North 17th Street
+11th Floor
+Arlington, VA 22209
+(703) 812-0400
+February 3, 2017 Counsel to WTC Technologies, Inc.
+5
+
+REDACTED – FOR PUBLIC INSPECTION
+EXHIBIT A
+FACILITIES ORDER
+Exhibit Removed – Contains Confidential Information

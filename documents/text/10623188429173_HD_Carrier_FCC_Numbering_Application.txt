@@ -1,0 +1,334 @@
+June 23,2017
+ViaECFSFiling
+REDACTED FORPUBLIC INSPECTION
+Marlene Dortch
+Secretary
+Federal Communications Commission
+445 12th StreetSW
+Washington, DC 20554
+RE: Request for Confidential Treatment ofFiling ofHD Can-ier, LLC; Application ofHD Carrier,
+LLCfor Authorization to Obtain Numbering Resources Pursuant to Section 52.15(g) ofthe
+Commission'sRules, WCDocketNo. 17-__
+DearMs. Dortch:
+Pursuant to Section 52.15(g)(3)(i) ofthe Commission's Rules, HD Carrier, LLC ("HD Carrier") hereby
+submits its application requestingauthorization to obtain numbering resources.
+HD Carrier respectfully requests that, pursuantto Sections 0.457 and 0.459 ofthe Commission's rules, 47
+C.F.R. §§ 0.457 and 0.459, the Commission withhold from public inspection and accord confidential
+treatment to Exhibit A to the application because that document contains sensitive trade secrets and
+commercial information that falls within Exemption 4 ofthe Freedom ofInformation Act ("FOIA,,).I HD
+Carrier is voluntarily providing this information, "ofa kind that would not customarily be released to the
+public"; therefore, this information is "confidential" under FOIA2 Moreover, HD Carrier would suffer
+•
+substantial competitive hann ifthis information were disclosed.3
+Exhibit A is accordingly marked with the header "SUBJECT TO REQUEST FOR CONFIDENTIAL
+TREATMENT-NOTFORPUBLIC INSPECTION."
+5U.S.C. §552(b)(4).
+2 See CriticalMass EnergyProjectv. NRC, 975 F.2d 871, 879 (D.C. Cir. 1992).
+See NationalParks andConservationAss'n v. Morton, 498 F.2d 765 (D.C. Cir. 1974).
+151 SouthhallLane,Suite450- Maitland,FL 32751
+P.O.Drawer 200- WinterPark,FL32790-0200- Telephone:407-740-8575- Facsimile:407-740-0613
+www.trnillc.com
+
+Ms. Marlene Dortch
+June 23, 2017
+Page 2of4
+In support of this request and pursuant to Section 0.459(b) of the Commission's rules4 , HD
+Carrierhereby states as follows:
+1. IDENTIFICATION OFTHE SPECIFIC INFORMATIONFORWHICH
+CONFIDENTIALTREATMENT IS SOUGHT.5
+HD Carrierseeks confidentialtreatmentofExhibitA tothe enclosed application.
+2. DESCRIPTION OF CIRCUMSTANCES GIVING RISE TOTHE SUBMISSION.6
+HD Carrier is submittingas ExhibitAthe agreement between itand its carrierpartner, as proofof
+HD Carrier's facilities readiness as required by Section 52. 15(g)(3)(i)(D) ofthe Commission's
+rules.
+3. EXPLANATION OF THE DEGREE TO WHICH THE INFORMATION IS
+COMMERCIAL OR FINANCIAL, OR CONTAINS A TRADE SECRET OR IS
+PRIVILEGED.7
+The information for which HD Carrier seeks confidential treatment contains sensitive commercial
+information "which would customarily be guarded from competitors"s. Exhibit A describes the
+agreement between HD Carrier and its carrier partner and contains proprietary commercial
+information concerning HD Carrier's network, customers, and services.
+4. EXPLANATION OF THE DEGREE TO WHICH THE INFORMATION CONCERNS A
+SERVICE THAT IS SUBJECT TO COMPETITION.9
+Exhibit A contains information relating to commercial matters that could be used by competitors
+to HD Carrier's disadvantage. HD Carrier has numerous competitors in the Voice over Internet
+Protocol ("VoIP") services sector in which it operates. Detailed operations and commercial
+infonnation ofthe type provided by HD Carrier could compromise HD Carrier's position in this
+highly competitive industry. Release would therefore result in substantial competitive harm to
+HD Carrier.
+4 47 C.F.R. §0.459(b).
+47 C.F.R. §0.459(b)(l).
+6 47 C.F.R. §0.459(b)(2).
+7 47 C.F.R. §0.459(b)(3).
+47 C.F.R. §0.457(d)(2).
+9 47 C.F.R. §0.459(b)(4).
+
+Ms. Marlene DOltch
+June 23, 2017
+Page 3of4
+5. EXPLANATION OF HOW DISCLOSURE OF THE INFORMATION COULD RESULT
+INSUBSTANTIAL COMPETITIVEHARMIO
+Competitors could use HD Carrier's proprietary commercial and operational information to HD
+Carrier's detriment as they would gain access to sensitive information about how HD Carrier
+provides services as well as about HD Carrier's commercial agreements with others in the market
+thatare not normally disclosed to the public.
+6. IDENTIFICATION OF ANY MEASURES TAKEN BY THE SUBMITTING PARTY TO
+PREVENTUNAUTHORIZED DISCLOSURE.
+II
+HD Carrierhas notdistributed the information in ExhibitA to the public.
+7. IDENTIFICATION OF WHETHER THE INFORMATION IS AVAILABLE TO THE
+PUBLIC AND THE EXTENT OF ANY PREVIOUS DISCLOSURE OF THE
+INFORMATIONTO THIRD PARTIES.'2
+HD Carrierhas not previouslydisclosed the information in ExhibitA.
+8. JUSTIFICATION OF THE PERIOD DURING WHICH THE SUBMITTING PARTY
+ASSERTS THAT MATERIAL SHOULD NOT BE AVAILABLE FOR PUBLIC
+DISCLOSURE.
+13
+HDCarrierrequests that ExhibitA betreated as confidential for a periodoftenyears. Thisperiod
+is necessaryduetothe proprietarynature ofthe information in ExhibitA.
+10 47 C.P.R. §0.459(b)(5).
+11 47 c.P.R. §0.459(b)(6).
+12 47 C.F.R. §0.459(b)(7).
+13 47 C.F.R. §0.459(b)(8).
+
+Ms. Marlene Dortch
+June 23, 2017
+Page4of4
+9. OTHER INFORMATION THAT HD CARRIER BELIEVES MAY BE USEFUL IN
+ASSESSING WHETHER ITS REQUEST FOR CONFIDENTIALITY SHOULD BE
+GRANTED.
+14
+The information concems HD Carrier's proprietary network information, related to current and
+planned commercial and operational information, and as such, iscommercially sensitive.
+Any questions you may have regarding this filing should be directed to my attention at 407-740-3006 or
+viaemail tocroesel@tminc.com. Thankyou foryourassistance inthis matter.
+Sincerely,
+lsiCarey Roesel
+Carey Roesel
+Consultantto HDCarrier, LLC
+cc: Josh Lowenthal- HD Carrier
+tms: FCCxl701
+CR/gs
+14 47 C.F.R. §0.459(b)(9).
+
+Before the
+FEDERAL COMMUNICATIONS COMMISSION
+Washington, D.C.20554
+In the Matter of )
+)
+HD Carrier, LLC )
+) WC DocketNo. 17- _
+ForAuthorizationto ObtainNumbering )
+Resources Pursuantto Section 52.15(g) of
+The Commission's Rules
+APPLICATION OF HD CARRIER, LLC
+FORAUTHORIZATION TO OBTAIN NUMBERING RESOURCES
+HD Carrier, LLC ("HD Carrier"), pursuant to Section 52.15(g)(3)(i) ofthe Commission's Rules,
+respectfully requests authorization to obtain numberingas described below.
+UndertheCommission'sNumberingOrder,Ian interconnectedVoIPprovidermayobtainnumbering
+resourcesfromtheNumberingAdministratoruponashowingthatitisauthorizedtoprovideserviceinthearea
+forwhichthe numberingresourcesarerequested. Suchauthorization maybeobtaineduponanapplicationto
+the Commission containingthe information detailed in Section 52.15.(g)(3)(i)(A)-(G) ofthe Commission's
+Rules. HDCarrierherebyrequeststheCommissiongrantitthatauthorization. Insupportofthisapplication,
+HD Carrierprovidesthefollowing information:
+I. INFORMATIONREQUIRED BYSECTION 52.15(g)(3)(i)
+A. §52.15(g)(3)(i)(A)
+Name: HD Carrier, LLC
+Address: 170 S. Green ValleyParkway
+Suite 300
+City: Henderson
+State: Nevada
+ZIP Code: 89074
+Telephone: 725-333-1011
+
+Contact for Regulatory Requirements, Compliance, 911 and LawEnforcement:
+Name: Josh Lowenthal
+Address: 170 S. Green ValleyParkway
+Suite 300
+City: Henderson
+State: Nevada
+ZIP Code: 89074
+Telephone: 725-333-1011
+Facsimile: 725-333-1015
+B. § 52.15(g)(3)(i)(B)
+HD Carrier hereby acknowledges that authorization to obtain numbering resources under
+Section52.15(g)oftheCommission'sRules issubjecttocompliancewithapplicableCommissionnumbering
+rulesaswellastothenumberingauthoritydelegatedtothestates. HDCarrierherebyalsoacknowledgesthat
+this authorization is subject to compliance with industry guidelines and practices regarding numbering, as
+applicable totelecommunications carriers. The numberingresources thatare thesubjectofthis Application
+will be used to provide interconnected VoIP services initially in CA and NY.
+c.
+§52.15(g)(3)(i)(C)
+HDCarrierherebyacknowledgesthatitmustfilerequestsfornumberswiththerelevantstate
+commission(s) at least30 days before requesting numbers from the NumberingAdministrators.
+D. §52.15(g)(3)(i)(D)
+HDCarrierherebysetsforth itscapabilitytoprovideservicewithin60daysofthenumbering
+resourcesactivation date.
+Todemonstrateitsfacilities readiness, HDCarrierwillhavethefollowingresourcesavailable
+at its disposal: a fully integrated back office support system with the ability to schedule and process LNP
+orders from customers and an experienced provisioningdepartmentcapable ofhandling bulk numberports
+withover10yearsLNPexperience. HDCarrierhasanagreementinplacewithaCLECpartnertoroutetraffic
+1NumberingPoliciesfor Modern Communications, FCC 15-70(rel. June22, 2015).
+
+totheILECs. HDCarrierhasattachedtothisapplication,asExhibitA,anagreementbetweenHDCarrierand
+itscarrierpartnerprovidingthatthecarrierpaItnerwillhostHDCarrier'snumbersonitsswitchesandprovide
+connectivityto the PSTN for inbound calls to HD Carrier numbers. HD Carrierhas requested confidential
+treatment under the Commission's rules for Exhibit A. Also attached, as Exhibit B, is evidence of
+interconnectionagreementsbetweenHDCarrier'scarrierpartnerand localexchangecarriers inCAandNY.
+E. § 52.15(g)(3)(i)(E)
+HD Carrier hereby certifies that it complies with its Universal Service Fund contribution
+obligationsunder47CFRpart54, subpartH, itsTelecommunicationsRelayServicecontributionobligations
+under 47 CFR § 64.604(c)(5)(iii), its North American Numbering Plan and Local Number Portability
+Administration contribution obligations under47 CFR §§ 52.17 and 52.32, its obligationsto payregulatory
+fees under47 CFR§ 1.1154, and its 911 obligations under47 CFRpart9.
+F. §52.15(g)(3)(i)(F)
+HD Carrier certifies that ithas the financial, managerial, and technical expertiseto provide
+reliable service. It is financially stable, led by a strong, experienced management team with substantial
+managerial experience in the telecommunications industry, and has sufficient technical expertise and
+infrastructure in place to provide reliable numberingservices. HD Carrier's key managementand technical
+personnel are listed below. None ofthe identified personnel are being or have been investigated by the
+Commission orany law enforcementorregulatory agencyfor failure to complywith any law, rule, ororder.
+
+Key Personnel:
+ChiefOperatingOfficer- Josh Lowenthal
+G. §52.15(g)(3)(i)(G)
+HD Carrierherebycertifies thatno partyto this application is subjectto adenial ofFederal
+benefits pursuantto Section 5301 ofthe Anti-Drug Abuse Actof1988,21 U.S.c. §862.
+II. ACKNOWLEDGEMENT OF CONDITIONS IN SECTION 52.15(g)(3)(iv)
+As required by Section 52.15(g)(3)(iv), HD Carrierwill maintain the accuracy ofall
+contact information and certifications in this application and will file acorrection with the
+Commission and each applicable statewithin 30 days ofanychanges. HD Carrierwill alsofurnish
+accurate regulatoryand numberingcontact information to each state commission when requesting
+numbers in that state.
+III. CONCLUSION
+Pursuant to Section 52.15(g)(3)(i) of the Commission's Rules, HD Carrier respectfully
+requests the Commission grantthis application for authorization to obtain numbering resources.
+Respect?~
+Carey Roesel, Technologies Management, Inc.
+Consultantto HD Carrier, LLC
+(407) 740-3006
+croesel@tminc.com
+And
+Josh Lowenthal, ChiefOperatingOfficer
+HD Carrier, LLC
+170 S. Green ValleyParkway, Suite 300
+June 23, 2017 Henderson, Nevada89074
+
+Exhibit A
+AGREEMENT BETWEEN HD CARRIER, LLC, AND
+CARRIER PARTNER
+(Confidential exhibit submitted separately)
+
+Exhibit B
+(for each state listed)
+INTERCONNECTION AGREEMENTS BY AND
+BETWEEN
+CARRIER PARTNER
+AND
+VERIZON NEW YORK INC.
+AND
+PACIFIC BELL TELEPHONE COMPANY D/B/A AT&T
+CALIFORNIA
+
+AT&TWholesale
+311S.Akard,gfuFloor
+Dallas,TX 75202
+Fax 214464-2006
+at&t
+February 11, 2011
+VIA E-MAIL(sthomas@tminc.com)
+Sharon Thomas
+Consultant
+Technologies Management, Inc.
+2600 Maitland CenterParkway
+Suite 300
+Maitland, FL32751
+Re: WideVoice, LLC'sAdoption RequestunderSection252(i)oftheAct
+DearSharonThomas:
+OnFebruary01,2011,AT&TreceivedyourletterdatedFebruary01,2011,viafacsimile,inwhichyourequestedon
+behalfofWideVoice, LLC("WideVoice")toadopttheCaliforniaInterconnectionAgreementbetween PacificBell
+TelephoneCompanyd/b/aAT&TCalifornia1("AT&TCalifornia")andComityCommunications,LLC ("Comity")(the
+"SeparateAgreement"). TheadoptionwillincludeanyandallapprovedamendmentstotheSeparateAgreement
+(collectivelythe"MFNAgreement")pursuanttoSection 252(i)oftheTelecommunicationsActof1996(the"Act")
+and Resolution ALJ-181 Rule6.
+AT&T CaliforniaacceptsWide Voice's requesttoadopttheSeparateAgreement.2
+TheentireMFNAgreementbetweenWideVoiceandAT&TCaliforniashallexpireonNovember27,2011. Please
+notethatthe MFN Agreementmaybeterminated byeitherPartyin writing in accordancewith itsterms.
+InenteringintothisMFNAgreement,thePartiesacknowledgeandagreethatneitherPartywaives,andeachParty
+expressly reserves, anyofits rights, remedies orarguments itmay have at laworunderthe intervening lawor
+regulatorychangeprovisionsinthisMFNAgreement(includinginterveninglawrightsassertedbyeitherPartyvia
+writtennoticeastotheSeparateAgreement),withrespecttoanyorders,decisions,legislationorproceedingsand
+anyremandsbytheFCC,stateutilitycommission,court,legislatureorothergovernmentalbodyincluding,without
+limitation, any such orders, decisions, legislation, proceedings, and remands which were issued, released or
+became effective prior to the Effective Date of this MFN Agreement, or which the Parties have not yet fully
+incorporated intothisAgreementorwhich maybethe subjectoffurthergovernmentreview.
+AT&T California notes that pursuant to the SBC/Ameritech Merger Conditions, approved by the FCC its
+Memorandum Opinion and Order, CC Docket 98-141, reI. (October8,1999), SBC/Ameritech was obligated to
+transitiontheprovisioningofcertainAdvancedServices,asthattermisdefinedinsuchConditions,tooneormore
+separate Advanced Services affiliates undercertain conditions. Because SBC/Ameritech hastransitioned such
+Advanced Services to its structurally separate affiliate(s), AT&T California has no further obligation to make
+available such Advanced Servicesfor resale orto interconnectits Frame Relay networkwith CLEC and has no
+1PacificBellTelephoneCompany,aCaliforniacorporation,isnowdoingbusinessinCaliforniaas"AT&TCalifornia".
+2AT&T'sagreementthatCarriermayadopttheMFNAgreementinitsentirety,includingtherates,termsandconditionsforISPBoundTrafficandalilegiUmatelyrelatedterms,
+shallnotconstituteorotherwisebeinterpretedasawaiverofAT&T'spositionthatAllTrafficAdoptingFCCInterimTerminatingCompensationPlanisnotgovernedbySection
+251(b)(5)oftheAct. Rather,AT&Tfullyreservesallofitsrightsandargumentsastoitspositionthat.consistentwiththeFCC'sISPCompensationOrder,AllTrafficAdoptingFCC
+InterimTerminatingCompensationPlanisnotgovernedbySection251(b)(5)oftheAct.
+
+SharonThomas
+Page2
+furtherobligationtomakeavailablesuchAdvancedServicesforresaleortoprovisionFrameRelayinterconnection
+underthe rates, termsand conditionssetforth intheMFN Agreement(totheextentapplicable).
+Finally, it is AT&T California's position that this MFN Agreement (including all attachments thereto) and every
+interconnection,serviceandnetworkelementprovidedhereunder,isSUbjecttoallotherrates,termsandconditions
+containedintheMFNAgreement(includingallattachments/appendicesthereto),andthatallofsuchprovisionsare
+integrallyrelated and non-severable.
+Itiswith this understanding andonthesetermsthatAT&TCalifornia isherebyaccepting Wide Voice'srequestto
+adopt the MFN Agreement. Should the foregoing not accurately reflect your understanding of the Parties'
+agreement, pleasecontactSuzetteQuateat(214)858-0726orEricPetersonat(214)858-0716onorbefore3:00
+p.m. C.S.T. on February 14, 2011. If AT&T California does not hearfrom you on or before that time, AT&T
+CaliforniawillassumethatthePartieshave reached afinalagreementastoWideVoice'sadoption requestbased
+uponthetermsand conditionssetforth herein.
+Sincerely,
+cc: John M. Leutza, Director
+TelecommunicationsDivision
+CaliforniaPublicUtilitiesCommission
+505VanNessAvenue, 3rdFloor
+San Francisco, CA 94102
+
+STATE OF NEW YORK DEPARTMENT OF PUBLIC SERVICE
+THREE EMPIRE STATE PLAZA, ALBANY, NY 12223-1350
+www.dps.ny.gov
+PUBLICSERVICECOMMISSION
+GARRYA.BROWN PETERMcGOWAN
+Chairman GeneralCounsel
+PATRICIAL.ACAMPORA
+MAUREENF.HARRIS JACLYNA.BRILLING
+JAMESL.LAROCCA Secretary
+GREGGC.SAYRE
+Commissioners
+July 17, 2012
+Keefe B. Clemons
+General Counsel - Northeast Region
+Verizon NewYork Inc.
+140West Street - 27'h Floor
+New York, NY 10007-2109
+RE: Case 12-00681-Petition ofVerizon New York Inc. for approval ofan
+InterconnectionAgreement with Wide Voice, LLC.
+Dear Mr. Clemons:
+This is to inform you that the interconnection agreement executed February 6,
+2012, between Verizon NewYork Inc. and Wide Voice, LLC has been reviewed by
+Department ofPublic Service Staff. This agreement, received bythe Departmenton
+March 26, 2012 became effective 90 days from receipt by the Department on June 24,
+2012 by operation oflaw in accordance with the provisions of§252(e)(4) ofthe
+Telecommunications Act of 1996.
+Ifyou have any questions, please contact Dave Kitchen at (518) 486-2819 orvia
+e-mail at david.kitchen@dps.ny.gov.
+Sincerely- ....... /
+b/V~
+had G. Hume
+Director- Office ofTelecommunications
+cc: Tara Odenthal
+Wide Voice, LLC
+410 South Rampart
+Suite 390
+Las Vegas, NV 89145

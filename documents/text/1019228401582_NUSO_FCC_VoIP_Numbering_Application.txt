@@ -1,0 +1,434 @@
+... .
+151 Southhalllane, Ste 450
+lnteserra Maitland, FL32751
+P.O. Drawer 200
+IMnter Park. Fl 32790-0200
+www.inteserra.com
+October 19, 2020
+Via ECFS Filing
+REDACTED FOR PUBLIC INSPECTION
+Secretary, Federal Communications Commission
+Washington, DC 20554
+Attn: Wireline Competition Bureau
+RE: Request for Confidential Treatment of Filing of NUSO, LLC; Application of NUSO, LLC for
+Authorization to Obtain Numbering Resources Pursuant to Section 52.15(g) of the
+Commission's Rules, WC Docket No. 20-.
+Dear Secretary:
+Pursuant to Section 52.15(g)(3)(i) of the Commission's Rules, NUSO, LLC ("NUSO") hereby submits its
+application requesting authorization to obtain numbering resources.
+NUSO respectfully requests that, pursuant to Sections 0.457 and 0.459 of the Commission's rules, 47
+C.F.R. §§ 0.457 and 0.459, the Commission withhold from public inspection and accord confidential
+treatment to Exhibit A to the application because that document contains sensitive trade secrets and
+commercial information that falls within Exemption 4 of the Freedom of Information Act ("FOIA").1
+NUSO is voluntarily providing this information, "of a kind that would not customarily be released to the
+public"; therefore, this information is "confidential" under FOIA2 • Moreover, NUSO would suffer
+substantial competitive harm if this information were disclosed.3
+Exhibit A is accordingly marked with the header "SUBJECT TO REQUEST FOR CONFIDENTIAL TREATMENT
+NOT FOR PUBLIC INSPECTION."
+u.s.c.
+5 § 552(b)(4).
+See Critical Mass Energy Project v. NRC, 975 F.2d 871, 879 (D.C. Cir. 1992).
+3 See National Parks and Conservation Ass'n v. Morton, 498 F.2d 765 (D.C. Cir. 1974).
+
+October 19, 2020
+Page 2 of 4
+In support of this request and pursuant to Section 0.459{b) of the Commission's rules4 , NUSO
+hereby states as follows:
+1. IDENTIFICATION OF THE SPECIFIC INFORMATION FOR WHICH CONFIDENTIAL TREATMENT IS
+SOUGHT.5
+NUSO seeks confidential treatment of Exhibit A to the enclosed application.
+2. DESCRIPTION OF CIRCUMSTANCES GIVING RISE TO THE SUBMISSION.6
+NUSO is submitting as Exhibit A the agreement between it and its carrier partner, as proof of
+NUSO's facilities readiness as required by Section 52. 15{g){3){i){D) of the Commission's rules.
+3. EXPLANATION OF THE DEGREE TO WHICH THE INFORMATION IS COMMERCIAL OR FINANCIAL
+OR CONTAINS A TRADE SECRET OR IS PRIVILEGED.7
+The information for which NUSO seeks confidential treatment contains sensitive commercial
+information "which would customarily be guarded from competitors"8 • Exhibit A describes the
+agreement between NUSO and its carrier partner and contains proprietary commercial
+information concerning NUSO's network, customers, and services.
+4. EXPLANATION OF THE DEGREE TO WHICH THE INFORMATION CONCERNS A SERVICE THAT IS
+SUBJECT TO COMPETITION.9
+Exhibit A contains information relating to commercial matters that could be used by competitors
+to NUSO's disadvantage. NUSO has numerous competitors in the Voice over Internet Protocol
+{"VoiP") services sector in which it operates. Detailed operations and commercial information of
+the type provided by NUSO could compromise NUSO's position in this highly competitive
+industry. Release would therefore result in substantial competitive harm to NUSO.
+4 47 C.F.R. § 0.459{b).
+5 47 C.F.R. § 0.459{b){l).
+6 47 C.F.R. § 0.459{b){2).
+7 47 C.F.R. § 0.459{b){3).
+8 47 C.F.R. § 0.457{d){2).
+9 47 C.F.R. § 0.459{b){4).
+
+October 19, 2020
+Page 3 of4
+5. EXPLANATION OF HOW DISCLOSURE OF THE INFORMATION COULD RESULT IN SUBSTANTIAL
+COMPETITIVE HARM10
+Competitors could use NUSO's proprietary commercial and operational information to NUSO's
+detriment as they would gain access to sensitive information about how NUSO provides services
+as well as about NUSO's commercial agreements with others in the market that are not normally
+disclosed to the public.
+6. IDENTIFICATION OF ANY MEASURES TAKEN BY THE SUBMITTING PARTY TO PREVENT
+UNAUTHORIZED DISCLOSURE.11
+NUSO has not distributed the information in Exhibit A to the public.
+1. IDENTIFICATION OF WHETHER THE INFORMATION IS AVAILABLE TO THE PUBLIC AND THE
+EXTENT OF ANY PREVIOUS DISCLOSURE OF THE INFORMATION TO THIRD PARTIES.12
+NUSO has not previously disclosed the information in Exhibit A.
+8. JUSTIFICATION OF THE PERIOD DURING WHICH THE SUBMITTING PARTY ASSERTS THAT
+MATERIAL SHOULD NOT BE AVAILABLE FOR PUBLIC DISCLOSURE.13
+NUSO requests that Exhibit A be treated as confidential for a period of ten years. This period is
+necessary due to the proprietary nature of the information in Exhibit A.
+10 47 C.P.R.§ 0.459{b)(S).
+11 47 C.P.R.§ 0.459{b)(6).
+12 47 C.F.R. § 0.459{b)(7).
+13 47 C.F.R. § 0.459{b)(8).
+
+October 19, 2020
+Page 4 of4
+9. OTHER INFORMATION THAT NUSO BELIEVES MAY BE USEFUL IN ASSESSING WHETHER ITS
+REQUEST FOR CONFIDENTIALITY SHOULD BE GRANTED.14
+The information concerns NUSO's proprietary network information, related to current and
+planned commercial and operational information, and as such, is commercially sensitive.
+Any questions you may have regarding this filing should be directed to my attention at 407-740-3006 or
+via email to croesel@inteserra.com. Thank you for your assistance in this matter.
+Sincerely,
+/sf Carey Roesel
+Carey Roesel
+Consultant to NUSO, LLC
+tms: FCCv2001
+CR/gs
+
+Before the
+FEDERAL COMMUNICATIONS COMMISSION
+Washington, D.C. 20554
+In the Matter of )
+)
+NUSO,LLC )
+) WC Docket No. 20-
+----
+For Authorization to Obtain Numbering )
+Resources Pursuant to Section 52.15(g) of )
+The Commission's Rules )
+APPLICATION OF NUSO, LLC
+FOR AUTHORIZATION TO OBTAIN NUMBERING RESOURCES
+NUSO, LLC ("NUSO") pursuant to Section 52.15(g)(3)(i) of the Commission's Rules, respectfully
+requests authorization to obtain numbering as described below.
+Under the Commission's Numbering Order, 1 an interconnected VoiP provider may obtain numbering
+resources from the Numbering Administrator upon a showing that it is authorized to provide service in the
+area for which the numbering resources are requested. Such authorization may be obtained upon an
+application to the Commission containing the information detailed in Section 52.l5.(g)(3)(i)(A)-(G) ofthe
+Commission's Rules. NUSO hereby requests the Commission grant it that authorization. In support of this
+application, NUSO provides the following information:
+I. INFORMATION REQUIRED BY SECTION 52.15(g)(3)(i)
+A. § 52.15(g)(3)(i)(A)
+Name: NUSO, LLC
+Address: 6677 Delmar Blvd, Suite 300
+City: University City
+State: Missouri
+ZIP Code: 63130
+Telephone: (844) 438-6876
+Website: www.nuso.cloud
+1 Numbering Policies for Modern Communications, FCC 15-70 (rel. June 22, 2015).
+
+Contact for Regulatory Requirements, Compliance, 911, and Law Enforcement:
+Name: Kevin Moss
+Address: 6677 Delmar Blvd, Suite 300
+City: University City
+State: Missouri
+ZIP Code: 63130
+Telephone: (314) 390-6208
+B. § 52.15(g)(3)(i)(B)
+NUSO hereby acknowledges that authorization to obtain numbering resources under Section
+52.15(g) of the Commission's Rules is subject to compliance with applicable Commission numbering rules as
+well as to the numbering authority delegated to the states. NUSO hereby also acknowledges that this
+authorization is subject to compliance with industry guidelines and practices regarding numbering, as
+applicable to telecommunications carriers. The numbering resources that are the subject of this Application
+will be used to provide interconnected VoiP services initially in the state ofTexas.
+C. § 52.15(g)(3)(i)(C)
+NUSO hereby acknowledges that it must file requests for numbers with the relevant state
+commission(s) at least 30 days before requesting numbers from the Numbering Administrators.
+D. § 52.15(g)(3)(i)(D)
+NUSO hereby sets forth its capability to provide service within 60 days of the numbering
+resources activation date.
+To demonstrate its facilities readiness, NUSO will have the following resources available at
+its disposal: a fully integrated back office support system with the ability to schedule and process LNP orders
+from customers and an experienced provisioning department capable of handling bulk number ports. NUSO
+has an agreement in place with a CLEC partner to route traffic to the ILECs. NUSO has attached to this
+application, as Exhibit A, an agreement between NUSO and its carrier partner providing that the carrier
+partner will host NUSO's numbers on its switches and provide connectivity to the PSTN for inbound calls to
+NUSO numbers. NUSO has requested confidential treatment under the Commission's rules for Exhibit A.
+
+Also attached, as Exhibit B, is evidence of interconnection agreements between NUSO's carrier partner and
+local exchange carriers in the state of Texas.
+E. § 52.15(g)(3)(i)(E)
+NUSO hereby certifies that it complies with its Universal Service Fund contribution
+obligations under 47 CFR part 54, subpart H, its Telecommunications Relay Service contribution obligations
+under 47 CFR § 64.604(c)(5)(iii), its North American Numbering Plan and Local Number Portability
+Administration contribution obligations under 4 7 CFR § § 52.17 and 52.32, its obligations to pay regulatory
+fees under 4 7 CFR § 1.1154, and its 911 obligations under 4 7 CFR part 9.
+F. § 52.15(g)(3)(i)(F)
+NUSO certifies that it has the financial, managerial, and technical expertise to provide
+reliable service. It is financially stable, led by a strong, experienced management team with substantial
+managerial experience in the telecommunications industry, and has sufficient technical expertise and
+infrastructure in place to provide reliable numbering services. NUSO's key management and technical
+personnel are listed below. None of the identified personnel are being or have been investigated by the
+Commission or any law enforcement or regulatory agency for failure to comply with any law, rule, or order.
+Key Personnel:
+CEO - Matt Siemens
+CFO-Todd Bromfman
+Vice Presidents - Paul Matte & Kevin Moss
+Technical Executive-Garry Vardanyan
+G. § 52.15(g)(3)(i)(G)
+NUSO hereby certifies that no party to this application is subject to a denial of Federal
+benefits pursuant to Section 5301 of the Anti-Drug Abuse Act of 1988, 21 U.S.C. § 862.
+
+II. ACKNOWLEDGEMENT OF CONDITIONS IN SECTION 52.15(g)(3)(iv)
+As required by Section 52.15(g)(3)(iv), NUSO will maintain the accuracy of all contact information
+and certifications in this application and will file a correction with the Commission and each applicable state
+within 30 days of any changes. NUSO will also furnish accurate regulatory and numbering contact
+information to each state commission when requesting numbers in that state.
+III. CONCLUSION
+Pursuant to Section 52.15(g)(3)(i) of the Commission's Rules, NUSO respectfully requests the
+Commission grant this application for authorization to obtain numbering resources.
+Respectfully submitted,
+Carey Roesel, Consultant
+Inteserra Consulting Group, Inc.
+(407) 740-3006
+croesel@inteserra.com
+and
+Kevin Moss, Vice President
+NUSO,LLC
+6677 Delmar Blvd, Suite 300
+University City, MO 63130
+(314) 3 90-6208
+October 19, 2020
+
+Exhibit A
+AGREEMENT BETWEEN
+NUSO AND CARRIER PARTNER
+(Confidential exhibit submitted separately)
+
+Exhibit B
+(for each state listed)
+INTERCONNECTION AGREEMENTS BY AND
+BETWEEN CARRIER PARTNER
+AND
+SOUTHWESTERN BELL TELEPHONE, L.P.
+DBA SBC TEXAS
+
+T. Aaron Morris
+@at&t
+Senior Attorney
+Legal
+•
+AT&'tTexu · T: 512.870.5717
+400 W. 15111 Street, Suite 1030 F: 512.870.3420
+AusUn, Texas 78701 aaron.morrJiCI!att.com
+May 8, 2008
+Commission Filing Clerk
+Public Utility Commission of Texas
+170t N. Congress Avenue
+Austin, iexas 78701
+RE: Docket 35525 .• Joint Application of Southwestern Bell Telephone Company
+d/b/a AT&T Texas and Neutral Tandem-Texas. LLC for Approval of
+·Amendment to Interconnection Agreement under PURA and the
+Telecommunications Act of 1996
+Dear Filing Clerk:
+In response to Order No. 2, Approving Amendment to Interconnection Agreement, issued •
+Aprtr· 17, 2008, attached is the complete amended interconnection agreement between
+Southwestern Bell Telephone Company d/b/a AT&T Texas and Neutral Tandem-n~xas,
+l.LC. - .
+Please do not hesitate to call me if you have any questions regarding this matter.
+Sin<?er~ly, ·
+T. Aaron Morris
+Senior Attom~y
+co: David Tatak, Vice .President of Billing & Revenue Services for Neutral Tandem·
+Texas, LLC (U.S. mall)
+General Counsel, PUC (Hand delivered)
+Central Records; PUC (Hand delivered)
+•
+2
+
+•
+AT&T/NEUTRAL
+TANDEM-TEXAS, LLC
+e
+INTERCONNECTION
+AGREEMENT AMENDED
+AS OF 4/17/08
+•
+3
+
+GENERAL TERMS AND CONDITIONS/SBC·13STATE
+PAGE1 OF61
+SBC=13SIATEINEUTRAL TANDEM-{AR INKS MO NV OKTX), LLC.
+•
+032405
+INTERCONNECTION AND/OR RESALE AGREEMENT UNDER
+SECTIONS 251 AND 252 OF THE TELECOMMUNICATIONS ACT OF
+1996
+between one or more of
+Illinois Bell Telephone Company d/b/a SBC Illinois,
+Indiana Bell Telephone Company Incorporated d/b/a SBC Indiana,
+Michigan Bell Telephone Company d/b/a SBC Michigan,
+Nevada Bell Telephone Company d/b/a SBC Nevada,
+The Ohio Bell Telephone Company d/b/a SBC Ohio,
+Pacific Bell Telephone Company d/b/a SBC California,
+•
+The Southern New England Telephone Company d/b/a SBC
+Connecticut,
+Southwestern Bell Telephone, L.P. d/b/a SBC Arkansas, SBC
+Kansas, SBC Missouri, SBC Oklahoma and/or SBC Texas,.
+Wisconsin Bell, Inc. d/b/a SBC Wisconsin
+and
+Neutral Tandem-Arkansas, LLC; Neutral Tandem-Indiana, LLC;
+Neutral Tandem-Kansas, LLC; Neutral Tandem-Missouri, LLC;
+Neutral Tandem-Nevada, LLC; Neutral Tandem-Oklahoma, LLC;
+Neutral Tandem-Texas, LLC
+•
+7
+
+GENERAL TERMS AND CONDITIONSISBC=13STATE
+PAGE130F6t
+SSC=13STA1JINEUTRAL TANDEM-{AR INKS MO NV OK TX), LLC.
+• . 032405
+Point need nat be the same as the Rating Point, nor must it be located within the Rate Center
+area, ~ut must be In the same LATA as the NPA-NXX.
+1.1.100"SBC Communications Inc." (SBC) means the holding company which directly or indirectly
+owns the following ILECs: Illinois Bell Telephone Company d/b/a SBC Illinois, Indiana Bell
+Telephone Company Incorporated d/b/a SBC Indiana, Michigan Bell Telephone Company d/b/a
+SBC Michigan, Nevada Bell Telephone Company d/b/a SBC Nevada, The Ohio Bell Telephone
+Company d/b/a SBC Ohio, Pacific Bell Telephone Company d/b/a SBC California, The
+Southern New England Telephone Company d/b/a SBC Connecticut, Southwestern Bell
+Telephone, L.P. d/b/a SBC Arkansas, SBC Kansas, SBC Missouri, SBC Oklahoma and/or SBC
+Texas, and/or Wisconsin Bell, Inc. d/b/a SBC Wisconsin.
+1.1.10111SBC·2STATE" - As used herein, SBC·2STATE means SBC· CALIFORNIA and SBC
+NEVADA. the applicable SBC-owned ILEC(s) doing business In California and Nevada.
+1.1.10211SBC-4STATE"- As used herein, SBC-4STATE means Southwestern Bell Telephone, L.P .•
+d/b/a SBC Arkansas, SBC Kansas, SBC Missouri, and SBC Oklahoma, the applicable sse
+owned ILEC(s) doing business in Arkansas, Kansas, Missouri and Oklahoma.
+1.1.10311SBC-7STAT§11 As used herein, SBC·7STATE means SBC SOUTHWEST REGION 5-
+-
+STATE, SBC CALIFORNIA and SBC NEVADA, the applicable SBC-owned ILEC(s) doing
+business in Arkansas, California, Kansas, Missouri, Nevada, Oklahoma, and Texas.
+1.1.104"SBC·8STATE" - As used herein, SBC.SSTAJJ means SBC SOUTHWEST REGION 5-
+STATE; SBC CALIFORNIA, SBC NEVADA, and SBC CONNECTICUT the applicable SSC·
+owned ILEC(s) doing business in Arkansas, California, Connecticut, Kansas, Missouri, Nevada,
+Oklahoma, and Texas. ·
+•
+1.1.105"SBC·10STATE" ·As used herein, SBC·10STATE means SBC SOUTHWEST R§GION 5-
+STATE and SBC MIDWEST REGION 5-STAJJ an the applicable SBC-owned ILEC(s) doing
+business in Arkansas, Illinois, Indiana, Kansas, Michigan, Missouri, Ohio, Oklahoma, Texas,
+and Wisconsin. · ·
+1.1.106"SBC·12STATE11 ·As used herein, SBC·12STATE means SBC SOUTHWEST REGION 5-
+STATE. SBC MIDWEST REGION 5-STATE and .SBC·2STATE the applicable SBC-owned
+ILEC(s) doing business In Arkansas, California, Illinois, Indiana, Kansas, Michigan, Missouri,
+Nevada, Ohio, Oklahoma, Texas, and Wisconsin.
+1.1.107"SBC-13STATE" ·As USed herein, SBC-13STAT§ means SBC SOUTHWEST REGION 5-
+STATE. SBC MIDWEST REGION 5-STATE. SBC-2STATE and SBC CONNECTICUT the
+applicable SBC-owned ILEC(s) doing business in Arkansas, California, Connecticut, Illinois,
+Indiana, Kansas, Michigan, Missouri, Nevada, Ohio, Oklahoma, Texas, and Wisconsin.
+1.1.108"SBC ARKANSAS"· As used herein, SBC ARKANSAS means Southwestern Bell Telephone,
+l.P. d/bla SBC Arkansas, the applicable SBC-owned ILEC doing business in Arkansas.
+1.1.109"SBC CALIFORNIA" ·As used herein, SBC CALIFORNIA means Pacific Bell Telephone
+Company d/b/a SBC California, the applicable _SBC-owned ILEC doing business In California.
+1.1.11011SBC CONNECTICUT"- As used herein, SBC CONNECTICUT means The Southam New
+England Telephone Company d/b/a SBC Connecticut, the applicable above listed ILEC doing
+business In Connecticut.
+1.1.111 "SBC KANSAS"· As used herein, SBC KANSAS means Southwestern Bell Telephone, L.P.
+d/b/a SBC Kansas, the applicable SBC-owned ILEC doing business in Kansas.
+1.1.112 "SBC ILLINOIS" - As used herein, SBC ILLINOIS means Illinois Bell Telephone Company
+•
+d/b/a SBC Illinois, the applicable SBC-owned ILEC doing business In Illinois .
+1.1.113"SBC INDIANA"-As used herein, SBC INDIANA means Indiana Bell Telephone Company,
+Incorporated d/b/a SBC Indiana, the applicable SBC-owned ILEC doing business in Indiana.
+19
+
+GENERAL TERMS-AND CONDITIONS/SBC:13SJ'AIE
+PAGE240F"61
+SBC:13STaJ'.i'Nt:UTRAL TANDEM-(AR IN I(S M0 NV 01< tx), LLC. •
+032405
+referring Party's tariff(s). However, if either Party provides Referral Announcements for
+a period longer than the above periOd(s) when Its End Users change their telephone
+numbel'$, such Party shall provide the $arne level of service to End Users c;~f the other
+Party. ·
+. 4.~.4 The following applies to SBC OHIO only:
+4.9.4.1 Referral Announcements shall be provided· by· a Party to the other Party for the period
+of time specified In Rule 4901:1-5-12, Ohio Administrative Code and at the rates set
+forth In the referring ·Party's tariff(s). However, if either Party provides Referral
+Announcements for a period longer than the above period(s) when its. End Users
+change· their telephone numbers, such Party shall provide the same level of service to
+End Users of the other'Party.
+4.10. Eacli Party shall be r&sponslllle for lallor relations with its own employees. Each Party agrees to notify
+the other Party as soon as practicable whenever such Party ·has knowledge that a labor dispute
+· · concerning Its employees ls delaying· or threatens ·to delay such Party's timely performance of its
+obligations under this Agreement and shall endeavor to minimize Impairment of service to the other
+Party (for example, by using Its management personnel to perforn'l work or by other means) In the event
+of a. labor dispute to the extent permitted by Applicable Law.
+4.11 Each Party shall act In good faith In Its performance under this Agreement and, In each case In which ;;~
+Party's consent or agreement Is required or requested hereunder, such Party shall not unreasonably
+withhold or delay such consent or agreement. · .
+4.12 This Agreement contains comprehensive OSS terms and condltionsj however, CLEC represents and
+covenants that It will only use OSS fumlshed pursuant to this Agreement for activities related to Lawful •
+UNEs, resold services or other services covered by this Agreement, for which this Agreement contains
+explicit terms, conditions and rates. · .
+4,13 T.he Parties acknowledge and agree that they dQ not Intend to Include products and services In this
+A-greement that do not have corresponding rates and charges, Accordingly, If this Agreement Is
+executed and/or approved by the· Commission and the Parties later discover that a product or service Is
+Included ·In this Agreement without an associated rate or charge, ·the Parties agree that they will agree
+~pon a rate or charge to lnclude In this Agreement before the product or service Is provided or
+perfprmed. If the Parties cannot agr.ee, either Party may pursue dispute resolution under the applicable
+provisions of this Agreement
+..
+5. EFFECTIVE DATE, TERM, AND TERMINATION
+5.1 ln SBC·13STAIE. with the exception of SBC OHfO, the Effective Date of this Agreement shall be ten
+(~0) ·calendar days after the Commission approves this Agreement under Section 252(e) of the Act or,
+absent such Commission approval, the date this Agreement Is deemed approved under Seotlon
+252(e)(4) of the Act. In §BC OHIO, based on lhe PUC-OH, the Agreement is Effective upon filing and Is
+deemed approved by operation ot:law on the 91• day after filing.
+5.2 The 'term of this Agreement shall commence upon the Effective Date of this Agreement and shall expire
+on July 18, 2006, provided; however, should CLEC Implement Q.e. prQvided assurance of payment,
+ordered facilities, and submitted ASRs for trunklng) this Agreement within six (6) months of the Effective
+. Date, then this Agreement will automatically renew for one addiUonal year and expire on July 18, 2007
+(the "Termj. Absent the l'eC:elPt by pne Party Qfwritten notice from the. other Party Within 180 calendar
+·. days prior to 1he expiration of. the Term-to 1ha· effect that sgch Party does not Intend to extend·the T.enn;
+:this Agreement shaH remain In tuB fon::e an~ effect on altd after the expiration of the Tenn until
+•
+terminated by either Party pursuant to Section 5.3 or 5,4.
+5.2.1 Notwithstanding anything to th~ contrarY In this Section 5, the original expiration date of thls
+Agreement, as modified by this Amendment, will be extended for a period of three (3) years frQm
+January 11, 2008 until January 11, 2011 (the NExtended Expiration Date"). The Agreement shall
+30
+
+GENERAL TERMS AND CONOITIONS/SBC·13STATE
+PAGE 61 OF 61
+SBC·13STATEJNEUTRAL TANDEM-{AR INKS MO NV OK TX}, LLC.
+• 032405
+SBC·13STAT E Agreement
+Signatures
+THIS AGREEMENT CONTAINS A BINDING
+ARBITRATION PROVISION WHICH MAY BE .
+ENFORCED BY THE PARTIES.
+CLEC's STATE-SPECIFIC:
+FACILITIES.BASED OCN # -____,,-----
+RESALE OCN # ----
+ACNA
+Neutral Tandem-Arkansas, LLC; Neutral Tandem· Indiana Bell Telephone Company Incorporated d/b/a SBC
+Indiana, LLC; Neutral Tandem-Kansas, LLC; Neutral Indiana, Nevada Bell Telephone Company d/bla SBC
+•
+Tandem-Missouri, LLC; Neutral Tandem-Nevada, Nevada, ancUor Southwestern Bell Telephone, LP. d/bla
+LLC: Neutral Tandem-Oklahoma, LLC; Neutral SBC Arkansas, SBC Kansas, SBC Missouri, SBC
+Tandem·Texas,LLC Oklahoma, SBC Texas; by SB Operations, Inc., its
+authorized agent ,.-
+D~ ~
+Signature:
+Name: ])t \ v 'b --;;,.." "'- Name: ___MJ _ke_A_uh_n_b__auh ______
+(Print or Type) (Print or Type)
+Tffie:~~ '.C~~~· . .._
+Title: AVP-Locallnterconnection Marketing
+(P orType)
+It,,.,
+Date: S { o $" JUN I 2 a5
+Date:
+•
+67

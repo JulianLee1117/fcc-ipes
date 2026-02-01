@@ -1,0 +1,30 @@
+STATES IN WHICH VONAGE MAY REQUEST NUMBERS FOR ITS INITIAL ROLLOUT
+OF DIRECT ACCESS
+(cid:120) Arizona
+(cid:120) California
+(cid:120) Colorado
+(cid:120) Connecticut
+(cid:120) District of Columbia
+(cid:120) Delaware
+(cid:120) Florida
+(cid:120) Illinois
+(cid:120) Indiana
+(cid:120) Maryland
+(cid:120) Maine
+(cid:120) Michigan
+(cid:120) North Carolina
+(cid:120) New Hampshire
+(cid:120) New Jersey
+(cid:120) New York
+(cid:120) Pennsylvania
+(cid:120) South Carolina
+(cid:120) Texas
+(cid:120) Utah
+(cid:120) Virginia
+(cid:120) Washington
+(cid:120) Wisconsin
+Note: This list includes all the states that have rate centers in the LATAs that Vonage has
+targeted for its initial rollout of direct access. Because some LATAs have rate centers outside
+the primary state for the LATA (e.g. Charlotte LATA has a handful of rate centers in South
+Carolina), it is unlikely that Vonage will request new numbering resources in all of the states on
+this list as part of its initial rollout.

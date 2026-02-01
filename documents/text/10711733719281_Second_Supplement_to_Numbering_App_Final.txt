@@ -1,0 +1,249 @@
+Before the
+FEDERAL COMMUNICATIONS COMMISSION
+Washington, D.C. 20554
+In the Matter of )
+)
+NumberBarn, LLC ) WC Docket No. 19-99
+)
+Applicant For Authorization to Obtain )
+Numbering Resources Pursuant to )
+Section 52.15(g) of the Commission’s Rules )
+SECOND SUPPLEMENT TO APPLICATION OF NUMBERBARN, LLC
+FOR AUTHORIZATION TO OBTAIN NUMBERING RESOURCES
+Pursuant to 47 C.F.R §52.15(g)(3) of the Commission’s Rules and the advice of the
+Commission’s staff, NumberBarn, LLC (“NumberBarn”), a provider of interconnected VoIP
+(“IVoIP”) services, hereby supplements the above-referenced application for authorization to
+obtain numbering resources (the “Application”), filed on or about April 15, 2019, and the
+Supplement thereto filed on or about August 5, 2022 (the “First Supplement”).
+1. In September 2023, the Commission released an order amending Section 52.15 of
+the Rules, imposing additional and amended requirements upon VoIP providers seeking direct
+access to numbering resources.1 The Commission’s staff has requested that NumberBarn submit
+the certifications required by the amended Section 52.15(g)(3)(ii), including ownership information
+as required by amended Section 52.15(g)(3)(ii)(L), and NumberBarn is therefore submitting this
+Second Supplement to provide such certifications and information.2 Where necessary, NumberBarn
+1 In the Matter of Numbering Policies for Modern Communications, Second Report and Order and
+Second Notice of Proposed Rulemaking, FCC 23-75 (rel. Sept. 22, 2023) (“Second Numbering
+R&O”).
+22 The new rules became effective on December 20, 2023, except that the amendments to 47 CFR
+52.15(g)(3)(ii)(B) through (F), (I), (K), (L), and (N) and (g)(3)(x)(A) will not become effective
+until further notice is published in the Federal Register. See “Document Details” in the online
+Federal Register publication of the Second Numbering R&O,
+https://www.federalregister.gov/documents/2023/11/20/2023-24679/numbering-policies-for-
+
+will also update information provided in the Application. Each item required by Section
+52.15(g)(3)(ii) is set forth separately below.
+2. 47 CFR § 52.15(g)(3)(ii)(A): The applicant's name, address, and telephone
+number and contact information for personnel qualified to address issues relating to
+regulatory requirements, compliance with Commission's rules in this chapter, 911, and law
+enforcement.
+NumberBarn’s name remains unchanged from the Application.
+Address: 2510 S. Escondido Blvd.
+Escondido, CA 92025
+OCN: 658J
+Telephone No.: 760-877-8759
+Regulatory Contact:
+Matthew Veling
+2510 S. Escondido Blvd.
+Escondido, CA 92025
+760-877-8759
+mveling@numberbarn.com
+3. 47 CFR § 52.15(g)(3)(ii)(B): An acknowledgment that the authorization
+granted under this paragraph is subject to compliance with applicable Commission numbering
+rules; numbering authority delegated to the states, and the state laws, regulations, and
+registration requirements applicable to businesses operating in each state where the applicant
+seeks numbering resources; and industry guidelines and practices regarding numbering as
+applicable to telecommunications carriers.
+modern-communications. NumberBarn is nonetheless providing certifications responsive to those
+amended subsections.
+2
+
+NumberBarn hereby acknowledges that the authorization requested in its Application is
+subject to compliance with applicable Commission numbering rules, numbering authority delegated
+to the states, state laws, regulations and registration requirements applicable to businesses operating
+in each state where NumberBarn seeks numbering resources, and industry guidelines and practices
+regarding numbering as applicable to telecommunications carriers.
+4. 47 CFR § 52.15(g)(3)(ii)(C): A certification that the applicant will not use the
+numbers obtained pursuant to an authorization under this paragraph to knowingly transmit,
+encourage, assist, or facilitate illegal robocalls, illegal spoofing, or fraud, in violation of
+robocall, spoofing, and deceptive telemarketing obligations under §§ 64.1200, 64.1604, and
+64.6300 et seq. of this chapter, and 16 CFR 310.3(b).
+NumberBarn certifies that it will not use the numbers obtained pursuant to an authorization
+pursuant to Section 52.15 of the Rules to knowingly transmit, encourage, assist, or facilitate illegal
+robocalls, illegal spoofing, or fraud, in violation of robocall, spoofing, and deceptive telemarketing
+obligations under §§ 64.1200, 64.1604, and 64.6300 et seq. of the Commission’s Rules, and 16
+CFR 310.3(b).
+5. 47 CFR § 52.15(g)(3)(ii)(D): A certification that the applicant has fully
+complied with all applicable STIR/SHAKEN caller ID authentication and robocall
+mitigation program requirements and filed a certification in the Robocall Mitigation
+Database as required by §§ 64.6301 to 64.6305 of this chapter.
+NumberBarn certifies that it has fully complied with all applicable STIR/SHAKEN caller
+ID authentication and robocall mitigation program requirements and has filed a certification in the
+Robocall Mitigation Database as required by §§ 64.6301 to 64.6305 of the Commission’s Rules.
+3
+
+6. 47 CFR § 52.15(g)(3)(ii)(E): A certification with accompanying evidence that
+the applicant complies with its 911 obligations under part 9 of this chapter, and that it
+complies with the provisions of the Communications Assistance with Law Enforcement Act,
+47 U.S.C. 1001 et seq. Wireline Competition Bureau (Bureau) or other Commission staff may
+request additional documentation from the applicant to demonstrate compliance with these
+public safety obligations, where necessary.
+NumberBarn certifies that it complies with its 911 obligations under 47 CFR Part 9, and
+that it complies with the provisions of the Communications Assistance with Law Enforcement Act,
+47 U.S.C. 1001 et seq. NumberBarn has previously provided the Commission with documentation
+of its compliance with its public safety obligations.
+7. 47 CFR § 52.15(g)(3)(ii)(F): A certification that the applicant complies with the
+Access Stimulation rules under §51.914 of this chapter.
+NumberBarn certifies that it complies with the Access Stimulation rules under 47 CFR
+§51.914.
+8. 47 CFR § 52.15(g)(3)(ii)(G) An acknowledgment that the applicant must file
+requests for numbers with the relevant state commission(s) at least 30 days before requesting
+numbers from the Numbering Administrators.
+There is no change to NumberBarn’s certification on this matter in its Application.
+9. 47 CFR § 52.15(g)(3)(ii)(H): Proof that the applicant is or will be capable of
+providing service within sixty (60) days of the numbering resources activation date in
+accordance with paragraph (g)(2) of this section.
+There is no change to the information provided on this matter in NumberBarn’s
+Application.
+4
+
+10. 47 CFR § 52.15(g)(3)(ii)(I): Proof that the applicant has filed FCC Forms 477
+and 499, or a statement explaining why each such form is not yet applicable.
+Copies of the filing confirmations for NumberBarn’s most recent FCC Form 477 and 499
+can be provided upon request.
+11. 47 CFR § 52.15(g)(3)(ii)(J): A certification that the applicant complies with its
+applicable Universal Service Fund contribution obligations under part 54, subpart H of this
+chapter, its Telecommunications Relay Service contribution obligations under §
+64.604(c)(5)(iii) of this chapter, its NANP and LNP administration contribution obligations
+under §§ 52.17 and 52.32 of this chapter, and its obligations to pay regulatory fees under §
+1.1154 of this chapter.
+NumberBarn certifies that it complies with its applicable Universal Service Fund
+contribution obligations under 47 CFR part 54, subpart H, its Telecommunications Relay Service
+contribution obligations under 47 CFR § 64.604(c)(5)(iii), its NANP and LNP administration
+contribution obligations under 47 CFR §§ 52.17 and 52.32, and its obligations to pay regulatory
+fees under 47 CFR § 1.1154.
+12. 47 CFR § 52.15(g)(3)(ii)(K): A certification that the applicant possesses the
+financial, managerial, and technical expertise to provide reliable service. This certification
+must include the name of applicant’s key management and technical personnel, such as the
+Chief Operating Officer and the Chief Technology Officer, or equivalent, and state that
+neither the applicant nor any of the identified personnel are being or have been investigated
+by the Federal Communications Commission, law enforcement, or any regulatory agency for
+failure to comply with any law, rule, or order, including the Commission’s rules applicable
+to unlawful robocalls or unlawful spoofing.
+5
+
+There is no change to NumberBarn’s certification in its Application regarding its financial,
+managerial and technical expertise, nor to the key management and technical personnel identified
+therein. Since NumberBarn’s original Application was submitted in 2019, NumberBarn, LCC
+underwent corporate restructuring, and as result, it is now wholly owned by ClearHello LLC.
+Ownership information regarding ClearHello is set forth in more detail in Exhibit One to this
+Second Supplement. ClearHello does not provide communications services and does not maintain
+an OCN. While the reorganization inserted ClearHello as NumberBarn’s parent company, it does
+not otherwise modify the information provided in the Application or First Supplement.
+NumberBarn certifies that neither NumberBarn nor any of the identified personnel are being or
+have been investigated by the Federal Communications Commission, law enforcement, or any
+regulatory agency for failure to comply with any law, rule, or order, including the Commission’s
+rules applicable to unlawful robocalls or unlawful spoofing.
+13. 47 CFR § 52.15(g)(3)(ii)(L): The same information, disclosures, and
+certifications required by §§ 63.18(h) and (i) of this chapter.
+The information required by Section 63.18(h) of the Commission’s Rules is provided in
+Exhibit One attached hereto. Pursuant to Section 63.18(i) of the Commission’s Rules,
+NumberBarn certifies that is not, nor is it affiliated with, a foreign carrier.
+14. 47 CFR § 52.15(g)(3)(ii)(M): A certification pursuant to §§ 1.2001 and 1.2002
+of this chapter that no party to the application is subject to a denial of Federal benefits
+pursuant to section 5301 of the Anti-Drug Abuse Act of 1988, see 21 U.S.C. 862.
+There is no change to NumberBarn’s certification as to this matter in its Application;
+NumberBarn certifies that neither it nor any party to the Application, as supplemented, subject to
+6
+
+a denial of Federal benefits pursuant to section 5301 of the Anti-Drug Abuse Act of 1988, see 21
+U.S.C. 862.
+15. 47 CFR § 52.15(g)(3)(ii)(N): A declaration under penalty of perjury pursuant
+to § 1.16 of this chapter that all statements in the application and any appendices are true
+and accurate. This declaration shall be executed by an officer or other authorized
+representative of the applicant.
+The Declaration is attached hereto as Exhibit Two.
+16. Pursuant to 47 CFR 52.15(g)(3)(x), NumberBarn certifies that if any contact
+information, certification, or affiliation information submitted in its Application, as supplemented,
+is no longer accurate, it will file a correction with the Commission and each applicable state within
+thirty (30) days of the change of contact information, certification, or affiliation information.
+For all the reasons stated herein, in the Application and in the First Supplement,
+NumberBarn respectfully requests that the Application, as supplemented, be expeditiously
+granted.
+Respectfully submitted,
+Allison D. Rule
+Marashlian & Donahue, PLLC
+1430 Spring Hill Road, Suite 310
+McLean, VA 2210
+(703)714-1312
+adr@commlawgroup.com
+Date: July 11, 2024
+7
+
+NUMBERBARN, LLC
+WC Docket No. 19-99
+Second Supplement to Application for
+Authorization to Obtain Numbering Resources
+EXHIBIT ONE, Page 1 of 2
+OWNERSHIP DISCLOSURES
+Pursuant to 47 CFR § 52.15(g)(3)(ii)(L), NumberBarn, LLC (“NumberBarn”) hereby provides
+the information required by 47 CFR § 63.18(h); specifically, the name, address, citizenship and
+principal businesses of any person or entity that directly or indirectly owns at least ten percent of
+the equity of the applicant, and the percentage of equity owned by each of those entities (to the
+nearest one percent).
+The direct ownership interest in NumberBarn LLC of at least 10% or more is as follows:
+ClearHello LLC
+Percentage Ownership: 100%
+Citizenship: US (California limited liability company)
+Address: 2510 S. Escondido Blvd., Escondido, CA 92025
+Principal Business: Business & personal brand management
+The following individuals and entities directly or indirectly hold 10% or more of the equity in
+ClearHello (and therefore an indirect interest in NumberBarn):
+Matthew Veling
+Percentage Ownership: 37.27%
+Citizenship: U.S.
+Address: 2510 S. Escondido Blvd., Escondido, CA 92025
+Principal Business: CEO, ClearHello LLC
+Brian McNeill
+Percentage Ownership: 37.27%
+Citizenship: U.S.
+Address: 2510 S. Escondido Blvd., Escondido, CA 92025
+Principal Business: CMO, ClearHello LLC
+Brain Scott
+Percentage Ownerhsip:13.98%
+Citizenship: U.S.
+Address: 2510 S. Escondido Blvd., Escondido, CA 92025
+Principal Business: CTO, ClearHello LLC
+TierraNet Inc.
+Percentage Ownership: 10.48%
+Citizenship: US (California corporation)
+Address: 2510 S. Escondido Blvd., Escondido, CA 92025
+
+NUMBERBARN, LLC
+WC Docket No. 19-99
+Second Supplement to Application for
+Authorization to Obtain Numbering Resources
+EXHIBIT ONE, Page 2 of 2
+Principal Business: Internet Domain Name resale
+The persons or entities with ownership interests of 10% or more in TierraNet are
+as follow:
+Brian Scott
+Percentage Ownership: 25%
+Citizenship: US
+Address: 2510 S. Escondido Blvd., Escondido, CA 92025
+Principal Business: CTO of NumberBarn
+Brian Samaritoni –
+Percentage Ownership: 25%
+Citizenship: U.S.
+Address: 2510 S. Escondido Blvd., Escondido, CA 92025
+Principal Business: CFO, TierraNet Inc.
+Chris Samaritoni
+Percentage Ownership: 25%
+Citizenship: U.S.
+Address: 2510 S. Escondido Blvd., Escondido, CA 92025
+Principal Business: COO, TierraNet Inc.
+Dan Risse 25%
+Percentage Ownership: 25%
+Citizenship: U.S.
+Address: 2510 S. Escondido Blvd., Escondido, CA 92025
+Principal Business: CIO, TierraNet Inc.
+NumberBarn has no interlocking directorates with any foreign carrier.

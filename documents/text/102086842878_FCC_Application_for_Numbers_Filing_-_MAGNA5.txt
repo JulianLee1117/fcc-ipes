@@ -1,0 +1,337 @@
+Before the
+FEDERAL COMMUNICATIONS COMMISSION
+Washington, D.C. 20554
+In the Matter of )
+)
+Magna5 LLC ) WC Docket No.
+)
+Application to Obtain Telephone Numbers )
+Directly From the North American Numbering )
+Plan Administrator and the Pooling )
+Administrator )
+NUMBERING AUTHORIZATION APPLICATION
+Magna5 LLC (“Applicant”), hereby applies for authorization to obtain telephone numbers directly from
+the North American Numbering Plan Administrator and the Pooling Administrator (collectively,
+"Numbering Administrators") pursuant to and in accordance with Section 52.15 (g) of the Commission's
+rules. In support hereof, Applicant respectfully states:
+1. Applicant’s name, headquarters’ address and telephone number are as follows:
+Magna5 LLC
+5445 Legacy Dr., Suite 180
+Plano, TX 75024
+214-932-9293
+2. The primary type of business of Applicant is telecommunications services, which includes
+interconnected VoIP. The numbering resources that are the subject of this Application will be
+used to provide interconnected VoIP services, initially in New York, Oregon, and Washington.
+Applicant intends to eventually use the numbering resources to provide such services
+throughout the United States, including its territories and possessions.
+3. The name and contact information for personnel of Applicant qualified to address issues
+relating to regulatory requirements, compliance with Commission rules, 911 and law
+enforcement is as follows:
+Joseph O'Hara, CFO; regulatory@magna5global.com; (214) 932-9293
+5445 Legacy Dr., Suite 180, Plano, TX 75024
+4. Applicant acknowledges that the authorization is subject to compliance with applicable
+Commission numbering rules, numbering authority delegated to the states and industry
+guidelines and practices regarding numbering applicable to telecommunications carriers.
+
+Magna5 LLC
+LIST OF EXHIBITS
+EXHIBIT A Organizational Chart
+EXHIBIT B Biographies of Key Personnel
+
+EXHIBIT A
+Organizational Chart
+
+Magna5 Organization Chart
+NewSpring Holdings
+Management Company LLC
+NewSpring Holdings NewSpring Holdings
+LLC Parallel LLC
+Magna5 Partners LLC
+Magna5 Holding LLC
+Magna5 RTC LLC Magna5 LLC
+Magna5 International LLC
+
+EXHIBIT B
+Biographies of Key Personnel
+
+Greg Forrest
+Chief Executive Officer
+Greg brings global perspective, entrepreneurial drive and proven successes to his role as CEO of
+Magna5. With a track record of building businesses through enterprise transformations and
+market consolidation strategies, Greg has extensive experience in leading and operating
+technology-enabled services businesses; all resulting in significant revenue growth, operating
+leverage and improved operational efficiencies. His past successes in creating shareholder value
+through financial performance, in both public and private companies, drove him to lead the
+initiative to lead the acquisition of three companies and bring them together as Magna5.
+An enthusiastic, engaging leader driven to bring together teams of people within varied
+companies to drive greater successes, Greg is a talented c-level executive skilled in fostering
+business environments that encourage employees to exceed goals, all while keeping the service
+levels customer based and responsive to the changing needs of the marketplace. His has
+extensive expertise in Business Transformations, M&A, Integration, Compliance/Governance
+and Organizational Change Management.
+He previously served as CEO/President of publicly-traded XETA Technologies (NASDAQ:
+XETA) with annual revenues of $100M+ and headcount of 450 employees. He implemented
+growth strategies resulting in a 2X increase in revenue run rate, improved operating leverage
+while completing a business transformation and ultimately engineered the successful merger
+agreement with PAETEC Holding Corp. (now Windstream), acquired at $5.50 per share, a 67%
+premium over average market closing price for previous six months. Greg also launched a US
+Geo for a Global Technology Service Provider located in Mumbai, India. The two-year outcome
+of this initiative resulted in a profitable $50M U.S. operating entity where growth was achieved
+through acquisition and organic methods.
+In 2011, Greg was recognized for his significant accomplishments by being named a Finalist of
+the Ernst and Young Entrepreneur of the Year Award. Greg is a graduate of the University of
+Washington.
+
+Joe O'Hara
+Chief Financial Officer
+Chief Financial Officer Joe O’Hara brings a wealth of financial acumen specific to the
+telecommunications industry to Magna5. In his role, he oversees corporate finance and
+accounting functions for the company, including financial reporting, planning and analysis.
+Before joining Magna5 in January 2017, Joe was the CFO of ANPI, LLC where he led various
+initiatives of corporate development activity, including the launch of a start-up subsidiary and
+other business expansion initiatives. During his time at ANPI, Joe was in a variety of finance
+roles, including Director of Finance and Accounting.
+While responsible over the finance function, he worked to secure equity capital for the
+organization through multiple private placement offerings and by establishing commercial debt
+facilities, providing capital for the organization to successfully pursue its growth initiatives.
+Throughout his time at ANPI, Joe worked closely with the Chief Executive Officer and the
+Board of Directors regarding the strategic focus of mergers and acquisitions activity and led
+critical activities surrounding due diligence, structuring, negotiations and final documentation.
+Joe is a licensed Certified Public Accountant in Texas and Illinois, and is accredited in business
+valuation. He also holds a Masters of Business Administration degree with a concentration in
+finance from the University of Illinois at Urbana-Champaign.
+
+Dan Horton
+Chief Information Officer
+Dan brings 25 years of telecommunications and operations experience to Magna5 and is
+dedicated to providing strong leadership skills in technology management and product
+development.
+Dan served as the Chief Technology Officer at X5 Solutions, one of the companies brought
+together to make up Magna5, overseeing the day-to-day operations and operational strategy at
+one of the largest telecommunications providers in the Pacific Northwest.
+Before his tenure at X5 Solutions, he was co-founder and Chief Technology Officer of Who’s
+Calling, where he focused on growing the company from a start-up to $75 million in annual
+sales. Throughout his career in the telecommunications industry, Dan held many executive
+positions, exhibiting his abilities to respond to the changing needs a company, no matter the title
+he held; from COO to CIO, CTO and VP of Engineering in CLECs, ISPs and IXCs, Dan’s varied
+experience in dealing with all aspects of operational management, engineering and development,
+product management, network management and vendor management is extensive. He has unique
+experience bridging technology, business strategy, product development and operations together
+while transforming these elements from concepts to business success.
+
+Service Exhibit
+Host Switch and Transport Services
+Under this Service Exhibit and the terms of the Master Services Agreement ('MSA') betrveen X5
+OpCo, LLC. ('Customey'') and Inteliquent Inc. ("Canier") dated February 22,2016, Customer will
+receive and Carrier will provide Host Switch and Transport Services (the "Services"). In the event of
+a conflict between a tenn in this Service Exhibit and a term in the MSA, the term in this Service
+Exhibit will govern with respect to the Services. The definitions in the MSA apply to any term that is
+not defined in this Service Exhibit. This Service Exhibit is effective on February 22,2016 ("Effective
+Date').
+l. l.
+List of market(s). Carrier will provide the Services in the LATAs set forth on Exhibit The
+parties may add additional markets by executing "Seryice Orders" that set out by LATA the relevant
+charges and any additional terms and conditions agreed to by the parties.
+2.
+The Services: and Certain Definitions.
+2.1
+For the purposcs of this Service Exhibit:
+a.
+"Host Switch" has the meaning defined in the next paragraph.
+b.
+"ILEC'means an Incumbent Local Exchange Carrier.
+c.
+"Inbound Traffic" means all inbound traffic terminating to Customer under this Agreement.
+d.
+"IXC'means an Inter-exchange Carrier
+e.
+"Local Traffrc" means calls that Carrier receives from the ILEC over its local tunks with the
+applicable ILEC. o'Local Traffic" includes traffrc originating from a third pady that the ILEC
+feats as local transit haffrc.
+f.
+"Local Transit Traf,fic" means calls that that Carrier receives over its local transit seryice
+trunks from an On-net carrier. "Local Transit Traffic" excludes Local Traffic.
+g.
+"OfFnet carrief' or "Of[-net IXC carriet'' means a third party carrier to which Carrier is not
+directly connected.
+h. "On-net carrier" or "On-n€t IXC carrier" means a third party carrier to which Canier is
+directly connected. In no event will the ILEC be an On-net carrier or On-net IXC carrier.
+i. "Switched Access Traffic" means InterLATA or IntraLATA toll calls terminating to
+Customer via Carrier's FGD tandem.
+2.2
+Customer may use Canier's interconnection trunks to the applicable ILECs by populating
+Carrier's switch (the "Host S\uitch") as the 'Actu:d SW ID' in the LERG for Customer's NPA./IDO('s
+for the purpose ofreceiving:
+a.
+Local Traffic originating fiom an ILEC subscriber; and
+I
+Confidential
+
+b.
+Local Traffic originating from a non-ILEC subscriber transited by the ILEC via the ILEC's
+local fansit service.
+2.3
+Customer will receive from Carrier Local Transit Traffic that originates from Carrier's third
+party provider customers and terminates to Customer via Carrier's tandem.
+2.4 Customer will populate Carrier's access tandem as the originating and terminating FGD
+Tandem for Customer's NPA./I{XX's so that Switched Access Traffic will be terminated from IXCs
+via Carrier's access homing tandem service.
+3.
+Transport Services. Carrier will receive all Local Traffic, Local Transit Traffic and Switched
+Access Traffic calls and transport such traffic'(the "Transport Service") to Customer using the
+interconnection fasilities set out in Section 4.
+4. Interconnection. The parties plan to connect using a public IP connection, If the parties
+subsequently elect to interconnect using a GigE transport facility, Customer will pay Canier the
+charges mutually agreed to by the parties in writing for such interconnection. Separate trunk groups
+will be used for calls terminating to calling card applieations. Separate trunk groups will also be used
+for any other service provided by Carrier, such as Carrier's DID service.
+Customer will not send any outbound traffic under this Service Exhibit. Any outbound traffic must
+be sent under a separate agreement using separate ffunk groups.
+5. Term: Commencing on the date set forth underneath Customer's signahrre, the initial term of
+this Agreement is one year. The term will automatically renew on a month to month basis, unless
+terminated by written notice provided by either Party to the other no less than 90 days prior to the end
+of the initial term or 30 days prior to any renewal term. Notwithstandirrg the foregoing, Customer
+may terminate this Agreement on 30 days'notice if Carrier exercises its right to adjust the rates and
+fees (as set forth in Section 6 or in Exhibit l).
+6.
+Monthly Charges. In exchange for the Services, Customer will pay the charges set forth on
+l.
+Exhibit Canier may adjust the prices by providing Customer with 60 day's prior written notice.
+7. Customer Responsibilities. Customer will: (a) enter into and maintain an interconnection
+agreement ("ICA') with the ILECs seruing the local calling area in which the Host Switch is located,
+(b) meet all 9l I requirements, including 9l l interconnections or waivers, (c) meet any local number
+porability (LNP/LRN) requirements, (d) obtain a POI CLLI (common language location identifier)
+code in the serving LATA to home its NPANXX's, (e) populate Carrier's end-office switch in the
+LERG as the 'Actual SW ID' for purposes of receiving Local Traffrc and Local Transit Traffic over
+the ILEC interconnection trunks and populate Carrier's access tandem as the originating and
+terminating FGD Tandem in the LERG with an effective date that has been agreed to by Carrier, and
+(f) meet any other responsibility normally associated with operating as a facilities based local service
+provider in the state in which the Host Switch is located.
+Customer must also obtain and maintain LRN for delivery of 3d Parly Traffic to Customer in the
+applicable market.
+8. Carrier ResLonsibilities. If applicable, Carrier will provide Customer with a letter of
+authorization (LOA) allowing Customer to use Carrier's Host Switch as the Actual Switch in the
+LERG. Upon the completion of installation and testing of interconnection facilities and
+2
+Confidential
+
+implementation of the Services using a Host Switch in a LATA, Carrier will notiff Customer, in
+writing or email, that the Service is available for use.
+9. Third Parties. Customer will not charge Carrier any amounts in connection with Local
+Traffic, Local Transit Traffic and Switched Access Traffic or otherwise under this Service Exhibit.
+Customer will be responsible for and indemni$ Carrier against any and all charges levied by any
+third party telecommunications provider in connection with the Local Traffic, Local Transit Traffic
+and Switched Access Traffic, including any intercarier compensation or termination charges.
+Customer will be responsible for Carrier's expenses, including reasonable attorneys' fees and
+expenses, incurred in successfully collecting any such amounts from Customer.
+X5 OpCo, LLC
+Name: Nathan Bledsoe
+Title: CTO
+Inteliquent, Inc. acceptance
+signature:
+3
+Confidential
+
+INTERCONNECTION AGREEMENT
+TERMS AND CONDITIONS FOR INTERCONNECTION,
+UNBUNDLED NETWORK ELEMENTS, ANCILLARY SERVICES,
+AND RESALE OF TELECOMMUNICATIONS SERVICES
+BETWEEN
+Qwest Corporation
+AND
+Neutral Tandem, Inc.
+For the State ofWashington
+April 21,2010
+Agreement Number
+CDS-100422-0002
+
+Section 1
+General Terms
+Section 1.0 - GENERAL TERIIS
+1. 1 This Agreement for Interconnection, Unbundled Network Elements, ancillary
+services, and resale of Telecommunications Services is between Neutral Tandem, Inc. (CLEC),
+a Delaware corporation with offices at 1 South Wacker Drive, Suite 200, Chicago, Illinois 60606
+and Qwest Corporation (Qwest), a Colorado corporation with offices at 1801 California Street,
+Denver, Colorado 80202, pursuant to Section 252(f) ofthe Telecommunications Act of 1996,for
+purposes offulfilling Qwest's obligations under Sections 222, 251(a), (b), and (c),252, and other
+relevant provisions ofthe Act and the rules and regulations promulgated there under.
+1.2 Intentionally Left Blank.
+1.3 This Agreement sets forth the terms, conditions and pricing under which Qwest
+will provide to CLEC network Interconnection, access to Unbundled Network Elements, ancillary
+services, and Telecommunications Services available for resale within the geographical areas in
+which Qwest is providing local Exchange Service at that time, and for which Qwest is the
+incumbent Local Exchange Carrier within the State of Washington, for purposes of providing
+local Telecommunications Services.
+Intentionally Left Blank.
+1.5 Intentionally Left Blank.
+1.6 Intentionally Left Blank.
+1.7 Intentionally Left Blank.
+1.8 With respect to the terms and provisions of this Agreement, Qwest has
+negotiated the Agreement in its entirety, and the inclusion of any particular provision, or rate,
+term and condition, is not evidence of the reasonableness thereof when considered apart from
+all other provisions ofthe Agreement.
+April 21,2010/cac/Neutral Tandem/WA/Agreement Number CDS-100422-0002
+Qwest Fourteen State Negotiations Template, February 8, 2010
+
+Section 5
+Terms and Conditions
+5.1.3.4 It is the responsibility of either Party to inform its End User Customers of
+service impacting impairment that may result in discontinuance ofservice as soon as the
+Party receives notice ofsame.
+5.1.4 Each Party is solely responsible for the services it provides to its End User
+Customers and to other Telecommunications Carriers. This provision is not intended to limit the
+liability ofeither Party for its failure to perform under this Agreement.
+5.1.5 The Parties shall work cooperatively to minimize fraud associated with third-
+number billed calls, calling card calls, and any other services related to this Agreement.
+5.1.6 Nothing in this Agreement shall prevent either Party from seeking to recover the
+costs and expenses, if any, it may incur in (a) complying with and implementing its obligations
+under this Agreement, the Act, and the rules, regulations and orders of the FCC and the
+Commission, and (b) the development, modification, technical installation and maintenance of
+any systems or other infrastructure which it requires to comply with and to continue complying
+with its responsibilities and obligations under this Agreement. Notwithstanding the foregoing,
+Qwest shall not assess any charges against CLEC for services, facilities, Unbundled Network
+Elements, ancillary services and other related work or services covered by this Agreement,
+unless the charges are expressly provided for in this Agreement. All services and capabilities
+currently provided hereunder (including resold Telecommunications Services, Unbundled
+Network Elements, UNE Combinations and ancillary services) and all new and additional
+services or Unbundled Network Elements to be provided hereunder, shall be priced in
+accordance with all applicable provisions of the Act and the rules and orders of the Federal
+Communications Commission and orders ofthe Commission.
+5.2 Term ofAgreement
+5.2.1 This Agreement shall become effective on the date of Commission Approval.
+This Agreement shall be binding upon the Parties for a term of three (3)years and shall expire
+on July 21, 2013.
+5.2.2 Upon expiration of the term of this Agreement, this Agreement shall continue in
+full force and effect until superseded by a successor agreement in accordance with this Section
+5.2.2. Any Party may request negotiation of a successor agreement by written notice to the
+other Party no earlier than one hundred sixty (160) Days prior to the expiration of the term, or
+the Agreement shall renew on a month to month basis. The date of this notice will be the
+starting point for the negotiation window under Section 252 of the Act. This Agreement will
+terminate on the date a successor agreement is approved by the Commission. However,
+nothing relieves CLEC from fulfilling the obligations incurred under the prior Agreement.
+5.3 Proof ofAuthorization
+5.3. 1 Each Party shall be responsible for obtaining and maintaining Proof of
+Authorization (POA) as required by applicable federal and state law, as amended from time to
+time.
+5.3.2 The Parties shall make POAs available to each other upon request in the event
+of an allegation of an unauthorized change in accordance with all Applicable Laws and rules
+and shall be subject to any penalties contained therein.
+April 21,2010/cac/Neutral Tandem/WA/Agreement Number CDS-100422-0002
+Qwest Fourteen State Negotiations Template, February 8, 2010 29
+
+Section 22
+Signature Page
+Section 22.0 - SIGNATURE PAGE
+By signing below, and in consideration ofthe mutual promises set forth herein, and other good
+and valuable consideration, the Parties agree to abide by the terms and conditions set forth in
+this Interconnection Agreement.
+Neutral Tandem, inc.
+signature
+Signature
+David Tatak L.T. Christensen
+Name Printed/Typed Name Printed/Typed
+VP — Billin 8 Revenue Service Director — Wholesale Contracts
+Title
+Date
+April 21,2010/cac/Neutral Tandem/WA/Agreement Number CDS-100422-0002
+Qwest Fourteen State Negotiations Template, February 8, 2010 311

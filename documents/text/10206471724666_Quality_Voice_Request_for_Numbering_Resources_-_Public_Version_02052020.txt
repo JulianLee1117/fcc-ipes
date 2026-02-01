@@ -1,0 +1,182 @@
+PUBLIC VERSION - CONFIDENTIAL AND PROPRIETARY INFORMATION EXCLUDED
+CONFIDENTIAL INFORMATION FILED UNDER SEAL, PURSUANT TO 47 C.F.R. § 0.459
+Before the
+FEDERAL COMMUNICATIONS COMMISSION
+Washington, D.C. 20554
+In the Matter of Quality Voice & Data Inc. )
+) WC Docket No. 20- ________
+For Authorization to Obtain Numbering )
+Resources Pursuant to Section 52.15(g) of )
+The Commission's Rules )
+APPLICATION OF QUALITY VOICE & DATA INC.
+FOR AUTHORIZATION TO OBTAIN NUMBERING RESOURCES
+Quality Voice & Data Inc. (“Quality Voice” or “Company”), pursuant to Section 52.15(g)(3)(i) of
+the Commission’s Rules, respectfully requests authorization to obtain numbering as described below.
+Under the Commission's Numbering Order,1 an interconnected VoIP provider may obtain
+numbering resources from the Numbering Administrator upon a showing that it is authorized to provide
+service in the area for which the numbering resources are requested. Such authorization may be obtained
+upon an application to the Commission containing the information detailed in Section 52.15 (g)(3)(i)(A)-
+(G)of the Commission’s Rules. Quality Voice hereby requests the Commission grant it that
+authorization. In support of this application, Quality Voice provides the following information:
+I. INFORMATION REQUIRED BY SECTION 52.15(g)(3)(i)
+A. § 52.15(g)(3)(i)(A)
+Name: Quality Voice & Data Inc.
+Address: 102 Grant Street
+City: Aurora
+State: NE
+ZIP Code: 68818
+Telephone: 888-656-5111
+Website: www.qualityvoicedata.com
+Contact for Regulatory Requirements, Compliance, 911 and Law Enforcement:
+Name: Dean Garfinkel, President
+Address: 102 Grant Street
+City: Aurora
+State: NE
+1 Numbering Policies for Modern Communications, FCC 15-70 (rel. June 22, 2015).
+1
+
+PUBLIC VERSION - CONFIDENTIAL AND PR OPRIETARY INFORMATION EXCLUDED
+CONFIDENTIAL INFORMATION FILED UNDER SEAL, PURSUANT TO 47 C.F.R. § 0.459
+ZIP Code: 68818
+Telephone: (516) 656-5115
+Facsimile: 888-656-5111
+E-mail: dean.garfinkel@qualitycontactsolutions.com
+B. § 52.15(g)(3)(i)(B)
+Quality Voice hereby acknowledges that authorization to obtain numbering resources under
+Section 52.15(g) of the Commission’s Rules is subject to compliance with applicable Commission
+numbering rules as well as to the numbering authority delegated to the states. The Company hereby also
+acknowledges that this authorization is subject to compliance with industry guidelines and practices
+regarding numbering, as applicable to telecommunications carriers. The numbering resources that are the
+subject of this Application will be used to provide interconnected VoIP services initially in Florida,
+however the Company anticipates that it will provide interconnected VoIP service nationwide, and
+accordingly, will request numbers from the other states in turn after its initial request in Florida.
+Accordingly, to the extent required, Quality Voice requests the Commission grant it authority to obtain
+numbering resources in all states.
+C. § 52.15(g)(3)(i)(C)
+Quality Voice acknowledges that it must file requests for numbers with the relevant state
+commission(s) at least 30 days before requesting numbers from the Numbering Administrators.
+D. § 52.15(g)(3)(i)(D)
+Quality Voice hereby sets forth its capability to provide service within 60 days of the numbering
+resources activation date. Quality Voice has an agreement in place with a nationally recognized carrier
+partner, which has interconnection agreements in effect with all relevant incumbent local exchange
+carriers, in order to route traffic. A copy of this agreement is attached as Exhibit A to this application.
+Quality Voice respectfully requests this agreement be accorded confidential treatment, pursuant to §0.459
+2
+
+PUBLIC VERSION - CONFIDENTIAL AND PR OPRIETARY INFORMATION EXCLUDED
+CONFIDENTIAL INFORMATION FILED UNDER SEAL, PURSUANT TO 47 C.F.R. § 0.459
+of the Commission’s rules.2 As Exhibit B, Quality Voice provides a current interconnection agreement
+between its carrier partner and an incumbent local exchange carrier (“ILEC”).
+In addition, the Company has developed an integrated back office support system with the ability
+to schedule and process LNP orders from customers, and has staff experienced in handling Local Number
+Portability between itself and other carriers and interconnected VoIP providers.
+E. § 52.15(g)(3)(i)(E)
+Quality Voice hereby certifies that it will comply with its Universal Service Fund contribution
+obligations under 47 CFR part 54, subpart H, its Telecommunications Relay Service contribution
+obligations under 47 CFR § 64.604(c)(5)(iii), its North American Numbering Plan and Local Number
+Portability Administration contribution obligations under 47 CFR §§ 52.17 and 52.32, its obligations to
+pay regulatory fees under 47 CFR § 1.1154, and its 911 obligations under 47 CFR part 9.3
+F. § 52.15(g)(3)(i)(F)
+The Company certifies that it has the financial, managerial, and technical expertise to provide
+reliable service. It is financially stable, led by a strong, experienced management team with substantial
+managerial experience in the telecommunications industry, and has sufficient technical expertise and
+infrastructure in place to provide reliable service.
+Quality Voice’s key management and technical personnel are listed below, and more information
+concerning the managerial and team is included in Exhibit C. None of the identified personnel are being
+or have been investigated by the Commission or any law enforcement or regulatory agency for failure to
+comply with any law, rule, or order.
+G. § 52.15(g)(3)(i)(G)
+Quality Voice hereby certifies that no party to this application is subject to a denial of Federal
+benefits pursuant to Section 5301 of the Anti-Drug Abuse Act of 1988, 21 U.S.C. § 862.
+2 47 C.F.R. § 0.459. The agreement contains trade secret information that is not publicly available, the disclosure of
+which would cause economic harm to Quality Voice.
+3 Quality Voice’s 499 Filer ID is 863267.
+3
+
+PUBLIC VERSION - CONFIDENTIAL AND PR OPRIETARY INFORMATION EXCLUDED
+CONFIDENTIAL INFORMATION FILED UNDER SEAL, PURSUANT TO 47 C.F.R. § 0.459
+II. ACKNOWLEDGEMENT OF CONDITIONS IN SECTION 52.15(g)(3)(iv)
+As required by Section 52.15(g)(3)(iv), Quality Voice will maintain the accuracy of all
+contact information and certifications in this application, and will file a correction with the
+Commission and each applicable state within 30 days of any changes. Quality Voice will also furnish
+accurate regulatory and numbering contact information to each state commission when requesting
+numbers in that state.
+III. CONCLUSION
+Pursuant to Section 52.15(g)(3)(i) of the Commission’s Rules, Quality Voice & Data Inc.
+respectfully requests the Commission grant this application for authorization to obtain numbering
+resources.
+Respectfully submitted,
+QUALITY VOICE & DATA INC.
+Katherine E. Barker Marshall
+Potomac Law Group, PLLC
+1300 Pennsylvania Ave NW, Suite 700
+Washington, DC 20004
+Telephone: (202) 792-6422
+E-mail: kmarshall@potomaclaw.com
+Date: February 6, 2020
+4
+
+PUBLIC VERSION - CONFIDENTIAL AND PR OPRIETARY INFORMATION EXCLUDED
+CONFIDENTIAL INFORMATION FILED UNDER SEAL, PURSUANT TO 47 C.F.R. § 0.459
+Exhibit A
+Agreement with Underlying CLEC
+Confidential and Proprietary – Filed Under Seal
+Pursuant to 47 C.F.R. §0.459
+REDACTED
+
+PUBLIC VERSION - CONFIDENTIAL AND PR OPRIETARY INFORMATION EXCLUDED
+CONFIDENTIAL INFORMATION FILED UNDER SEAL, PURSUANT TO 47 C.F.R. § 0.459
+Exhibit B
+Interconnection Agreements
+Confidential and Proprietary – Filed Under Seal
+Pursuant to 47 C.F.R. §0.459
+REDACTED
+
+PUBLIC VERSION - CONFIDENTIAL AND PR OPRIETARY INFORMATION EXCLUDED
+CONFIDENTIAL INFORMATION FILED UNDER SEAL, PURSUANT TO 47 C.F.R. § 0.459
+Exhibit C
+Managerial Information
+Quality Voice’s key management and technical personnel are listed below. None of the identified
+personnel are being or have been investigated by the Commission or any law enforcement or regulatory
+agency for failure to comply with any law, rule, or order.
+DEAN GARFINKEL
+Dean Garfinkel is the President of Quality Voice & Data Inc. Well-known within the telecommunications
+and teleservices industries, Garfinkel has more than 30 years’ experience in a wide range of technologies,
+including TDM, SS7, IP, WIFI and Wireless, and specializes in value-added solution development.
+Garfinkel invented TeleBlock®, a patented call routing system, which has become a national telecom
+standard and is sold by telecom giants like AT&T, Verizon, CenturyLink and Windstream. In 2017, he
+also developed a patented text solution for businesses called TextBetter™. He is a leading expert on
+telecommunications, Caller ID and Do Not Call compliance, and is a regular speaker within the industry
+circuit.
+Past member of the National Board of Directors and Treasurer of the Professional Association for
+Customer Engagement. He was instrumental in developing and implementing the Self-Regulatory
+Organization (SRO), which has been credited by the Federal Trade Commission as a positive step in the
+teleservices industry.
+KELSEY OLSEN
+Kelsey Olsen is Director of Enhanced Telecom Services for Quality Voice & Data. Kelsey is responsible
+for leading a cross-functional team including sales, client services and customer support for various
+telecom solutions, including local Caller ID, TextDesk and TextBetter. Prior to joining Quality Voice &
+Data, Kelsey spent over 8 years working for a large inbound & outbound call center in various roles
+including human resources, technical support, reporting and data management. Under Kelsey’s direction,
+the QVD team has experienced double digit growth on an annual basis for the last 5 years. Kelsey is
+currently leading an effort to expand into providing local phone numbers and TextDesk solutions for the
+credit and collections call center space.
+RICH HAMILTON
+Rich Hamilton is the Director of Marketing & Product Development for Quality Voice & Data. As
+Director of Marketing, Rich is the creative powerhouse behind executing on a wide spectrum of
+marketing initiatives for the organization. He also works tirelessly to bring new products to the
+teleservices and call center market. In addition, Rich is a telemarketing compliance guru with a Customer
+Engagement Compliance Professional (CECP) certification to back it up. Prior to joining Quality Voice
+
+PUBLIC VERSION - CONFIDENTIAL AND PR OPRIETARY INFORMATION EXCLUDED
+CONFIDENTIAL INFORMATION FILED UNDER SEAL, PURSUANT TO 47 C.F.R. § 0.459
+& Data, Rich spent 9+ years working in and managing a variety of small and large call centers. Rich has
+a B.S. in Business Management with an emphasis in Marketing Management.
+CHERYL CONNER
+Cheryl Conner is Client Service Analyst for Quality Voice & Data. Cheryl is responsible for customer
+service, order provisioning and Caller ID inventory management. Prior to joining Quality Voice & Data,
+Cheryl worked in higher education in various roles including office manager and assistant to the Dean. In
+her role, Cheryl is one of the key people delivering on the promise “numbers within 15 minutes or less”.
+
+PUBLIC VERSION - CONFIDENTIAL AND PROPRIETARY INFORMATION EXCLUDED
+CONFIDENTIAL INFORMATION FILED UNDER SEAL, PURSUANT TO 47 C.F.R. § 0.459

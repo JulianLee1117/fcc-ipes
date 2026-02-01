@@ -1,0 +1,1117 @@
+..
+151 Southhall Lane. Ste 450
+ln.teserra Maitland, FL 32751
+P.O. Drawer 200
+Wnter Park. FL 32790-0200
+www.inteserra.com
+August 27, 2019
+Via ECFS Filing
+REDACTED FOR PUBLIC INSPECTION
+Secretary, Federal Communications Commission
+Washington, DC 20554
+Attn: Wireline Competition Bureau
+RE: Request for Confidential Treatment of Filing of Ton80 Communications, LLC; Application of
+TonBO Communications, LLC for Authorization to Obtain Numbering Resources Pursuant to
+Section 52.15(g) of the Commission's Rules, WC Docket No. 19-______
+Dear Ms. Dortch:
+Pursuant to Section 52.15(g)(3)(i) of the Commission's Rules, Ton80 Communications, LLC ("Ton80
+Communications") hereby submits its application requesting authorization to obtain numbering
+resources.
+Ton80 Communications respectfully requests that, pursuant to Sections 0.457 and 0.459 of the
+Commission's rules, 47 C.F.R. §§ 0.457 and 0.459, the Commission withhold from public inspection and
+accord confidential treatment to Exhibit A to the application because that document contains sensitive
+trade secrets and commercial information that falls within Exemption 4 of the Freedom of Information
+Act ("FOIA").1 Ton80 Communications is voluntarily providing this information, "of a kind that would not
+customarily be released to the public"; therefore, this information is "confidential" under FOIA2 •
+Moreover, Ton80 Communications would suffer substantial competitive harm if this information were
+disclosed.3
+Exhibit A is accordingly marked with the header "SUBJECT TO REQUEST FOR CONFIDENTIAL TREATMENT
+NOT FOR PUBLIC INSPECTION."
+u.s.c.
+5 § 552(b)(4).
+2 See Critical Mass Energy Project v. NRC, 975 F.2d 871, 879 (D.C. Cir. 1992).
+3 See National Parks and Conservation Ass'n v. Morton, 498 F.2d 765 (D.C. Cir. 1974).
+
+August 27, 2019
+Page 2 of 4
+In support of this request and pursuant to Section 0.459{b) of the Commission's rules4 , Ton80
+Communications hereby states as follows:
+1. IDENTIFICATION OF THE SPECIFIC INFORMATION FOR WHICH CONFIDENTIAL TREATMENT IS
+SOUGHT.5
+Ton80 Communications seeks confidential treatment of Exhibit A to the enclosed application.
+2. DESCRIPTION OF CIRCUMSTANCES GIVING RISE TO THE SUBMISSION.6
+Ton80 Communications is submitting as Exhibit A the agreement between it and its carrier
+partner, as proof of Ton80 Communications' facilities readiness as required by Section 52.
+15{g){3)(i)(D) of the Commission's rules.
+3. EXPLANATION OF THE DEGREE TO WHICH THE INFORMATION IS COMMERCIAL OR FINANCIAL,
+OR CONTAINS A TRADE SECRET OR IS PRIVILEGED/
+The information for which Ton80 Communications seeks confidential treatment contains
+sensitive commercial information "which would customarily be guarded from competitors"8 .
+Exhibit A describes the agreement between Ton80 Communications and its carrier partner and
+contains proprietary commercial information concerning Ton80 Communications' network,
+customers, and services.
+4. EXPLANATION OF THE DEGREE TO WHICH THE INFORMATION CONCERNS A SERVICE THAT IS
+SUBJECT TO COMPETITION. 9
+Exhibit A contains information relating to commercial matters that could be used by competitors
+to Ton80 Communications' disadvantage. Ton80 Communications has numerous competitors in
+the Voice over Internet Protocol {"VoiP") services sector in which it operates. Detailed
+operations and commercial information of the type provided by Ton80 Communications could
+compromise Ton80 Communications' position in this highly competitive industry. Release would
+therefore result in substantial competitive harm to Ton80 Communications.
+4 47 C.F.R. § 0.459{b).
+5 47 C.F.R. § 0.459{b){l).
+6 47 C.F.R. § 0.459{b)(2).
+7 47 C.F.R. § 0.459{b){3).
+8 47 C.F.R. § 0.457{d)(2).
+9 47 C.F.R. § 0.459{b)(4).
+
+August 27, 2019
+Page 3 of4
+5. EXPLANATION OF HOW DISCLOSURE OF THE INFORMATION COULD RESULT IN SUBSTANTIAL
+COMPETITIVE HARM10
+Competitors could use Ton80 Communications' proprietary commercial and operational
+information to Ton80 Communications' detriment as they would gain access to sensitive
+information about how Ton80 Communications provides services as well as about Ton80
+Communications' commercial agreements with others in the market that are not normally
+disclosed to the public.
+6. IDENTIFICATION OF ANY MEASURES TAKEN BY THE SUBMITTING PARTY TO PREVENT
+UNAUTHORIZED DISCLOSURE.11
+Ton80 Communications has not distributed the information in Exhibit A to the public.
+7. IDENTIFICATION OF WHETHER THE INFORMATION IS AVAILABLE TO THE PUBLIC AND THE
+EXTENT OF ANY PREVIOUS DISCLOSURE OF THE INFORMATION TO THIRD PARTIES.'Z
+Ton80 Communications has not previously disclosed the information in Exhibit A.
+8. JUSTIFICATION OF THE PERIOD DURING WHICH THE SUBMITTING PARTY ASSERTS THAT
+MATERIAL SHOULD NOT BE AVAILABLE FOR PUBLIC DISCLOSURE.13
+Ton80 Communications requests that Exhibit A be treated as confidential for a period of ten
+years. This period is necessary due to the proprietary nature of the information in Exhibit A.
+10 47 C.P.R.§ 0.459(b)(S).
+11 47 C.P.R. § 0.459(b)(6).
+12 47 C.F.R. § 0.459(b)(7).
+13 47 C.F.R. § 0.459(b)(8).
+
+August 27, 2019
+Page 4 of4
+9. OTHER INFORMATION THAT TONSO COMMUNICATIONS BELIEVES MAY BE USEFUL IN
+ASSESSING WHETHER ITS REQUEST FOR CONFIDENTIALITY SHOULD BE GRANTED.14
+The information concerns Ton80 Communications' proprietary network information, related to
+current and planned commercial and operational information, and as such, is commercially
+sensitive.
+Any questions you may have regarding this filing should be directed to my attention at 407-740-3004 or
+via email to nfernandez@inteserra.com. Thank you for your assistance in this matter.
+Sincerely,
+Is/Nelson Fernandez
+Nelson Fernandez
+Consultant
+cc: Brett Mingo-Ton80 Communications
+tms: FCx1901
+NF/mp
+14 47 C.F.R. § 0.459(b)(9).
+
+Before the
+FEDERAL COMMUNICATIONS COMMISSION
+Washington, D.C. 20554
+In the Matter of )
+)
+Ton80 Communications, LLC )
+) WC Docket No. 19-___
+For Authorization to Obtain Numbering )
+Resources Pursuant to Section 52.15(g) of
+The Commission's Rules
+APPLICATION OF TONSO COMMUNICATIONS, LLC
+FOR AUTHORIZATION TO OBTAIN NUMBERING RESOURCES
+Ton80 Communications, LLC ("Ton80 Communications"), pursuant to Section 52.15(g)(3)(i) oft he
+Commission's Rules, respectfully requests authorization to obtain numbering as described below.
+Under the Commission's Numbering Order, 1 an interconnected VoiP provider may obtain numbering
+resources from the Numbering Administrator upon a showing that it is authorized to provide service in the
+area for which the numbering resources are requested. Such authorization may be obtained upon an
+application to the Commission containing the information detailed in Section 52.15.(g)(3)(i)(A)-(G) ofthe
+Commission's Rules. Ton80 Communications hereby requests the Commission grant it that authorization. In
+support of this application, Ton80 Communications provides the following information:
+I. INFORMATION REQUIRED BY SECTION 52.15(g)(3)(i)
+A. § 52.15(g)(3)(i)(A)
+Name: Ton80 Communications, LLC
+Address: 213 South Main Street
+City: Anderson
+State: South Carolina
+ZIP Code: 29642
+Telephone: (864) 225-3212
+I Numbering Policies for Modern Communications, FCC 15-70 (rei. June 22, 20 15).
+
+Contact for Regulatory Requirements, Compliance, 911 and Law Enforcement:
+Name: Bret Mingo
+Address: 213 South Main Street
+City: Anderson
+State: South Carolina
+ZIP Code: 29642
+Telephone: (864) 225-3212
+Facsimile: N/A
+B. § 52.15(g)(3)(i)(B)
+Ton80 Communications hereby acknowledges that authorization to obtain numbering
+resources under Section 52.15(g) of the Commission's Rules is subject to compliance with applicable
+Commission numbering rules as well as to the numbering authority delegated to the states. Ton80
+Communications hereby also acknowledges that this authorization is subject to compliance with industry
+guidelines and practices regarding numbering, as applicable to telecommunications carriers. The numbering
+resources that are the subject of this Application will be used to provide interconnected VoiP services initially
+in the states oflllinois, Nevada and Texas.
+C. § 52.15(g)(3)(i)(C)
+Ton80 Communications hereby acknowledges that it must file requests for numbers with the
+relevant state commission(s) at least 30 days before requesting numbers from the Numbering Administrators.
+D. § 52.15(g)(3)(i)(D)
+Ton80 Communications hereby sets forth its capability to provide service within 60 days of
+the numbering resources activation date.
+To demonstrate its facilities readiness, Ton80 Communications will have the following
+resources available at its disposal: a fully integrated back office support system with the ability to schedule
+and process LNP orders from customers and an experienced provisioning department capable of handling
+bulk number ports with over 10 years LNP experience. Ton80 Communications has an agreement in place
+
+with a CLEC partner to route traffic to the ILECs. Ton80 Communications has attached to this application, as
+Exhibit A, an agreement between Ton80 Communications and its carrier partner providing that the carrier
+partner will host Ton SO Communications' numbers on its switches and provide connectivity to the PSTN for
+inbound calls to Ton80 Communications numbers. Ton80 Communications has requested confidential
+treatment under the Commission's rules for Exhibit A. Also attached, as Exhibit B, is evidence of
+interconnection agreements between Ton SO Communications' carrier partner and local exchange carriers in
+the states oflllinois, Nevada, and Texas.
+E. § 52.15(g)(3)(i)(E)
+Ton80 Communications hereby certifies that it complies with its Universal Service Fund
+contribution obligations under 4 7 CFR part 54, subpart H, its Telecommunications Relay Service contribution
+obligations under 47 CFR § 64.604(c)(5)(iii), its North American Numbering Plan and Local Number
+Portability Administration contribution obligations under 47 CFR §§ 52.17 and 52.32, its obligations to pay
+regulatory fees under 4 7 CFR § 1.1154, and its 911 obligations under 4 7 CFR part 9.
+F. § 52.15(g)(3)(i)(F)
+Ton SO Communications certifies that it has the financial, managerial, and technical expertise
+to provide reliable service. It is financially stable, led by a strong, experienced management team with
+substantial managerial experience in the telecommunications industry, and has sufficient technical expertise
+and infrastructure in place to provide reliable numbering services. Ton80 Communications' key management
+and technical personnel are listed below. None of the identified personnel are being or have been investigated
+by the Commission or any law enforcement or regulatory agency for failure to comply with any law, rule, or
+order.
+Key Personnel:
+President - Robert Beaty
+Vice President - Bret Mingo
+Technical Consultant-Glen Dalgliesh
+
+G. § 52.15(g)(3)(i)(G)
+Ton80 Communications hereby certifies that no party to this application is subject to a denial
+ofFederal benefits pursuant to Section 5301 of the Anti-Drug Abuse Act of 1988,21 U.S.C. § 862.
+II. ACKNOWLEDGEMENT OF CONDITIONS IN SECTION 52.15(g)(3)(iv)
+As required by Section 52.15(g)(3)(iv), Ton80 Communications will maintain the accuracy of all contact
+information and certifications in this application and will file a correction with the Commission and each
+applicable state within 30 days of any changes. Ton80 Communications will also furnish accurate regulatory
+and numbering contact information to each state commission when requesting numbers in that state.
+III. CONCLUSION
+Pursuant to Section 52.15(g)(3)(i) of the Commission's Rules, Ton80 Communications respectfully
+requests the Commission grant this application for authorization to obtain numbering resources.
+Respectfully submitted,
+Nelson Fernandez, Inteserra Consulting Group
+Consultant to Ton80 Communications, LLC
+(407) 740-3004
+nfernandez@inteserra.com
+And
+Bret Mingo, Vice President
+Ton80 Communications, LLC
+213 South Main Street
+Anderson, SC 29642
+(864) 225-3212
+August 27, 2019
+
+Exhibit A
+AGREEMENT BETWEEN TON80 COMMUNICATIONS,
+LLC, AND CARRIER PARTNER
+(Confidential exhibit submitted separately)
+
+Exhibit B
+({or each state listed)
+INTERCONNECTION AGREEMENTS BY AND
+BETWEEN CARRIER PARTNER
+AND
+ILLINOIS BELL TELEPHONE CO.
+D/B/A AT&T ILLINOIS
+AND
+NEVADA BELL TELEPHONE CO.
+D/B/A AT&T NEVADA
+AND
+CENTRAL TELEPHONE CO.
+D/B/A CENTURYLINK
+AND
+AT&T TEXAS
+AND
+GTE SOUTHWEST INC. D/B/A VERIZON SOUTHWEST
+N/K/A FRONTIER
+
+INTERCONNECTION AGREEMENT SHORT FORM UNDER SECTIONS 251 AND 252/ILLINOIS BELL TELEPHONE COMPANY
+PAGE 1 OF3
+AT&T ILLINOIS/PEERLESS NETWORK OF ILLINOIS, LLC
+032309
+INTERCONNECTION AGREEMENT
+UNDER SECTIONS 251 AND 252
+OF THE
+TELECOMMUNICATIONS ACT OF 1996
+This Interconnection Agreement is being entered into by and between Illinois Bell Telephone Company1 d/b/a
+AT&T Illinois ("AT&T Illinois"), and Peerless Network of Illinois, LLC ("CLEC" or "Requesting Carrier"), (each a "Party"
+and, collectively, the "Parties"), pursuant to Sections 251 and 252 of the Telecommunications Act of 1996 ("the Act").
+RECITALS
+WHEREAS, pursuant to Section 252(i) of the Act, CLEC has requested to adopt that certain Interconnection
+Agreement by and between AT&T Illinois and Globalcom, Inc. for the State of Illinois, which was approved by the
+Illinois Commerce Commission ("the Commission") under Section 252(e) of the Act on August 8, 2001 in docket
+number 01-0437, including any Commission approved amendments to such agreement (collectively the "Adopted
+Agreement"), which is incorporated herein by reference; and
+WHEREAS, AT&T Illinois has agreed to make available to CLEC the Adopted Agreement for adoption in
+exchange for CLEC's agreement, in conjunction with its adoption of the Adopted Agreement, to amend such
+agreement to conform it to governing law; and
+WHEREAS, the amendment(s) the Parties have agreed to on a negotiated basis to conform the Adopted
+Agreement to governing law, along with any other voluntarily negotiated provisions which are also set forth in this
+Interconnection Agreement (collectively "the MFN Agreement"), are all incorporated herein by this reference and are
+attached hereto and will be submitted to the Commission for approval; and
+NOW, THEREFORE, in consideration of the mutual provisions contained herein and other good and valuable
+consideration, the receipt and sufficiency of which are hereby acknowledged, CLEC and AT&T Illinois hereby agree
+as follows:
+1.0 Incorporation of Recitals and Adopted Agreement by Reference
+1.1 The foregoing Recitals are hereby incorporated into and made a part of the MFN Agreement.
+1.2 Except as expressly stated herein, the Adopted Agreement (including any and all applicable
+Appendices, Schedules, Exhibits, Attachments and Commission-approved Amendments thereto) is
+incorporated herein by this reference and forms an integral part of the MFN Agreement.
+2.0 Modifications to Adopted Agreement
+2.1 References in the Adopted Agreement to "Carrier'', or "CLEC," or to "Other" shall for purposes of the
+MFN Agreement be deemed to refer to CLEC as defined herein.
+2.2 References in the Adopted Agreement to the "Effective Date," the date of effectiveness thereof and like
+provisions shall for purposes of the MFN Agreement be deemed to refer to the date which is ten (10)
+days following Commission approval of the MFN Agreement or, absent Commission approval, the date
+the MFN Agreement is deemed approved under Section 252(e)(4) of the Act. In addition, the MFN
+Agreement shall expire on August 19, 2003.
+2.3 The Notices Section in the Adopted Agreement is hereby revised to reflect that Notices should be sent
+to CLEC under the MFN Agreement at the following address:
+1 Illinois Bell Telephone Company (previously referred to as 'Illinois Bell" or 'SBC Illinois') now operates under the name 'AT&T Illinois'
+pursuant to an assumed name filing with the State of Illinois.
+Page 1 of 354
+
+INTERCONNECTION AGREEMENT SHORT FORM UNDER SECTIONS 251 AND 252/ILLINOIS BELL TELEPHONE COMPANY
+PAGE2 OF3
+AT&T ILLINOIS/PEERLESS NETWORK OF ILLINOIS, LLC
+032309
+NOTICE CONTACT CLEC CONTACT
+NAME/TITLE Dan Meldazis/Director Regulatory
+STREET ADDRESS 225 W Washington St, Rm 1285
+CITY, STATE, ZIP CODE Chicago, IL 60606
+FACSIMILE NUMBER 312-506-0931
+2.4 The Notices Section in the Adopted Agreement is hereby revised to reflect that Notices should be sent
+to AT&T Illinois under the MFN Agreement at the following address:
+NOTICE CONTACT AT&T·135TATE CONTACT
+NAME/TITLE Contract Management
+AT IN: Notices Manager
+STREET ADDRESS 311 S. Akard, 9th Floor
+Four AT&T Plaza
+CITY, STATE, ZIP CODE Dallas, TX 75202-5398
+FACSIMILE NUMBER 214-464-2006
+3.0 Clarifications
+3.1 In entering into this MFN Agreement, the Parties acknowledge and agree that neither Party waives, and
+each Party expressly reserves, any of its rights, remedies or arguments it may have at law or under the
+intervening law or regulatory change provisions in this MFN Agreement (including intervening law rights
+asserted by either Party via written notice as to the Adopted Agreement), with respect to any orders,
+decisions, legislation or proceedings and any remands by the FCC, state utility commission, court,
+legislature or other governmental body including, without limitation, any such orders, decisions,
+legislation, proceedings, and remands which were issued, released or became effective prior to the
+Effective Date of this MFN Agreement, or which the Parties have not yet fully incorporated into this
+Agreement or which may be the subject of further government review.
+3.2 It is AT&T Illinois' position that the MFN Agreement, and every interconnection, service and network
+element provided hereunder, is subject to all rates, terms and conditions contained in the MFN
+Agreement, and that all of such provisions are integrally related and non-severable.
+Page 2 of354
+
+INTERCONNECTION AGREEMENT SHORT FORM UNDER SECTIONS 251 AND 252/ILUNOJS BELL TELEPHONE COMPANY
+PAGE30F3
+AT&T ILUNOISIPEERLESS NETWORK OF ILLINOIS, LLC
+032309
+Peerless Network of Illinois, LLC Illinois Bell Telephone Company d/b/a AT&T Illinois by
+AT&T Operations, Inc., its authorized agent
+By~
+Printed: Eddie A. Reed, Jr.
+Title: Pt<.ts tiJ~t01. ~- CEo Title: Director-Interconnection Agreements
+(Print or Type)
+Date: 3HsjCJ $ Date: 3 ,3 f ·Oj
+SWITCH BASED OCN II 063E
+ACNA: OPF
+Page 3 of354
+
+INTERCONNECTION AGREEMENT UNDER SECTIONS 251 AND 252 OF THE
+TELECOMMUNICATIONS ACT OF 1996
+Dated as of February __, 20011
+by and between
+AMERITECH ILLINOIS,
+and
+GLOBALCOM, INC.
+1 See footnotes on signature page.
+Page 4 of354
+
+INTERCONNECTION AGREEMENT UNDER SECTIONS 251 AND 252
+OF THE TELECOMMUNICATIONS ACT OF 1996
+This Interconnection Agreement under Sections 251 and 252 of the Telecommunications Act of
+1996 ("Agreement"), is dated as of the __ day of February, 2001 (the "Effective Date"), by and
+between Ameritech Illinois, Inc., an Illinois corporation with offices at 225 W. Randolph, Chicago, IL.
+60606 ("Ameritech") and Globalcom, Inc., an Illinois corporation with offices at 333 W. Wacker Dr.
+Chicago, Illinois 60606(''Requesting Carrier").
+RECITALS
+A. Ameritech is an Incumbent Local Exchange Carrier as defined by the Act, authorized to
+provide certain Telecommunications Services within Illinois.
+B. Ameritech is engaged in the business of providing, among other things, local Telephone
+Exchange Service within Illinois.
+C. Requesting Carrier has been granted or, prior to the provisioning of any Interconnection,
+access to unbundled Network Elements, Telecommunications Service or any other services hereunder, will
+have been granted authority to provide certain local Telephone Exchange Services within Illinois and is a
+Local Exchange Carrier as defined by the Act.
+D. The Parties desire to Interconnect their telecommunications networks and facilities to comply
+with the Act, and exchange traffic so that their respective Customers may communicate with each other
+over, between and through such networks and facilities.
+E. The Parties are entering into this Agreement to set forth the respective obligations of the
+Parties and the terms and conditions under which the Parties will Interconnect their networks and facilities
+and provide to each other Telecommunications Services as required by the Act as set forth herein.
+NOW, TiffiREFORE, in consideration of the mutual promises and the covenants contained herein
+and other good and valuable consideration, the receipt and sufficiency of which are hereby acknowledged,
+Requesting Carrier and Ameritech hereby agree as follows:
+ARTICLE I
+DEFINITIONS AND CONSTRUCTION
+1.1 Structure. This Agreement includes certain Exhibits and Schedules which immediately
+follow this Agreement, all of which are hereby incorporated in this Agreement by this reference and
+constitute a part of this Agreement.
+1
+Page 12 of 354
+
+including cooperating with the Disclosing Party to obtain an appropriate order or other reliable assurance
+that confidential treatment will be accorded the Proprietary Information.
+XX.4 Ownership.
+:XX.4.1 All Proprietary Information, other than Derivative Information, shall remain the
+property of the Disclosing Party, and all documents or other tangible media delivered to the Receiving Party
+that embody such Proprietary Information shall be, at the option of the Disclosing Party, either promptly
+returned to Disclosing Party or destroyed, except as otherwise may be required from time to time by
+Applicable Law (in which case the use and disclosure of such Proprietary Information will continue to be
+subject to this Agreement), upon the earlier of (i) the date on which the Receiving Party's need for it has
+expired and (ii) the expiration or termination of this Agreement.
+:XX.4.2 At the request of the Disclosing Party, any Derivative Information shall be, at the
+option of the Receiving Party, either promptly returned to the Disclosing Party or destroyed, except as
+otherwise may be required from time to time by Applicable Law (in which case the use and disclosure of
+such Derivative Information will continue to be subject to this Agreement), upon the earlier of (i) the date
+on which the Receiving Party's need for it has expired and (ii) the expiration or termination of this
+Agreement.
+:XX.4.3 The Receiving Party may at any time either return the Proprietary Information to
+the Disclosing Party or destroy such Proprietary Information. If the Receiving Party elects to destroy
+Proprietary Information, all copies of such information shall be destroyed and upon the written request of
+the Disclosing Party, the Receiving Party shall provide to the Disclosing Party written certification of such
+destruction. The destruction or return of Proprietary Information shall not relieve any Receiving Party of
+its obligation to treat such Proprietary Information in the manner required by this Agreement.
+ARTICLE XXI
+TERM AND TERMINATION
+XXI.l Term. The initial term of this Agreement shall commence on the Effective Date and shall
+continue in full force and effect until and including August 19, 2003 (the "Initial Term"). Upon expiration
+of the Initial Term, this Agreement shall automatically be renewed for additional one (I)-year periods (each,
+a "Renewal Term"; "Renewal Term" and "Initial Term" sometimes collectively referred to herein as
+the "Term") unless a Party delivers to the other Party written notice of termination of this Agreement at
+least one hundred twenty (120) days prior to the expiration of the Initial Term or a Renewal Term.
+73
+Page 84 of 354
+
+XXI.2 Renegotiation of Certain Terms. Notwithstanding anything to the contrary in Section
+21.1, upon delivery of written notice at least one hundred twenty (120) days prior to the expiration of the
+Initial Term or any Renewal Term, either Party may require negotiations of any or all ofthe rates, prices,
+charges, terms, and conditions of the products and services described in this Agreement, with such resulting
+rates, prices, charges, terms and conditions to be effective upon expiration of the Term. Upon receipt of
+notice, each Party shall have a good faith obligation to engage in such negotiations. If the Parties are unable
+to satisfactorily negotiate such new rates, prices, charges and terms within ninety (90) days of such written
+notice, either Party may petition the Commission or take such other action as may be necessary to establish
+appropriate terms. If prior to the expiration of the Term, the Parties are unable to mutually agree on such
+new rates, prices, charges, terms and conditions, or the Commission has not issued its order to establish
+such provisions, the Parties agree that the rates, terms and conditions ultimately ordered by such
+Commission or negotiated by the Parties shall be effective retroactive to the expiration date of such Term.
+XXI.3 Default. When a Party believes that the other Party is in violation of a material term or
+condition of this Agreement ("Defaulting Party"), it shall provide written notice to such Defaulting Party
+of such violation prior to commencing the dispute resolution procedures set forth in Section 27.3 and it shall
+be resolved in accordance with the procedures established in Section 27.3.
+XXI.4 Payment Upon Expiration or Termination In the case of the expiration or tetmination
+of this Agreement for any reason, each of the Parties shall be entitled to payment for all services performed
+and expenses accrued or incurred prior to such expiration or termination.
+ARTICLE XXII
+DISCLAIMER OF REPRESENTATIONS AND WARRANTIES
+EXCEPT AS EXPRESSLY PROVIDED UNDER THIS AGREEMENT, NO PARTY MAKES
+OR RECEIVES ANY WARRANTY, EXPRESS, IMPLIED OR STATUTORY, WITH RESPECT TO
+THE SERVICES, FUNCTIONS AND PRODUCTS IT PROVIDES OR IS CONTEMPLATED TO
+PROVIDE UNDER THIS AGREEMENT AND EACH PARTY DISCLAIMS THE IMPLIED
+WARRANTIES OF MERCHANTABILITY AND/OR OF FITNESS FOR A PARTICULAR
+PURPOSE.
+ARTICLE XXIII
+SEVERABILITY
+If any provision of this Agreement shall be held to be illegal, invalid or unenforceable, each Party
+agrees that such provision shall be enforced to the maximum extent permissible so as to effect the intent of
+the Parties, and the validity, legality and enforceability of the remaining provisions of this Agreement shall
+not in any way be affected or impaired thereby. If necessary to effect the intent of the Parties, the Parties
+shall negotiate in good faith to amend this Agreement to replace the unenforceable language with
+enforceable language that reflects such intent as closely as possible.
+ARTICLE XXIV
+74
+Page 85 of 354
+
+Page 1 of430
+AT&T Wholesale Agreement
+Contract Number: 19054
+Page 1 of532
+
+Page 2 of430 at&t WHOLESALE AGREEMENT
+Customer Name: Peerless Network
+Peerless ICA CT FL GA IN NC NV OH TN TX 3
+Table of Contents 4
+General Terms and Conditions 7
+Signature Page 51
+Attachment 02 -ISP -Network Interconnection 52
+Attachment 03- Structure Access 95
+Attachment 04- Local Number Portability and Numbering 128
+Attachment 05- 911 -E91I 136
+Attachment 06- Customer Information Services 144
+Attachment 07 -Operations Support Systems I 57
+Attachment 08 -Bona Fide Request 171
+Attachment 09-Performance Measurements 175
+Attachment 1O SW-ABT -Billing-Collecting-Remitting and Clearinghouse 179
+Attachment I OW -ABT -Data Exchange I85
+Attachment IOMWSE-ABT-Non-Intercompany Settlement~ 193
+Attachment II -Daily Usage File 197
+Attachment 12- Collocation 200
+Attachment 13 -25lc3 UNES 235
+Attachment I4 -xDSL Loops 260
+Attachment I5 -Coordinated Hot Cut 265
+Attachment 16 -Resale 269
+Pricing Schedule 275
+CT Pricing Schedule -UNE 280
+CT Pricing Schedule -Collocation 282
+IN Pricing Schedule -UNE ISP 288
+IN Pricing Schedule -Collocation 295
+NV Pricing Schedule -UNE Rec ISP 301
+NV Pricing Schedule-UNE Non- Rec- OANAD 322
+NV Pricing Schedule -Collocation 324
+OH Pricing Schedule- UNE ISP 330
+Page :t ~~ml This page is not part of the actual signed contract/amendment, but is present for record keeping purposes only.
+
+Page 4 of430
+CLEC Agreement with:
+Peerless Network
+Page 3 ofli32 CCCS 3 of424
+
+General Terms and Conditions/AT&T-22STATE
+Page 4 of 44
+Peerless Network
+Version: 3008 - CLEC ICA 12/22/08
+INTERCONNECTION AND/OR RESALE AGREEMENT
+UNDER SECTIONS 251 AND 252 OF THE TELECOMMUNICATIONS ACT OF 1996
+This Interconnection and/or Resale Agreement under Sections 251 and 252 of the Telecommunications Act of 1996 (the
+Agreement), by and between one or more of the AT&T Inc. owned ILECs: BeiiSouth Telecommunications, Inc. d/b/a AT&T
+Alabama, AT&T Florida, AT&T Georgia, AT&T Kentucky, AT&T louisiana, AT&T Mississippi, AT&T North Carolina, AT&T
+South Carolina, and AT&T Tennessee; Illinois Bell Telephone Company d/b/a AT&T Illinois, Indiana Bell Telephone
+Company Incorporated d/b/a AT&T Indiana, Michigan Bell Telephone Company d/b/a AT&T Michigan, Nevada Bell
+Telephone Company d/b/a AT&T Nevada, The Ohio Bell Telephone Company d/b/a AT&T Ohio, Pacific Bell Telephone
+Company d/b/a AT&T California, The Southern New England Telephone Company d/b/a AT&T Connecticut
+Southwestern Bell Telephone Company d/b/a AT&T Arkansas, AT&T Kansas, AT&T Missouri, AT&T Oklahoma, AT&T
+Texas and Wisconsin Bell, Inc. d/b/a AT&T Wisconsin, (only to the extent that the agent for each such AT&T-owned ILEC
+executes this Agreement for such AT&T Inc. owned ILEC and only to the extent that such AT&T Inc. owned ILEC provides
+Telephone Exchange Services as an ILEC in each of the State(s) listed below) and Peerless Network of Connecticut. LLC,
+Peerless Network of Florida, LLC, Peerless Network of Georgia, LLC, Peerless Network of Indiana, LLC, Peerless Network of
+North Carolina, LLC, Peerless Network of Nevada, LLC, Peerless Network of Ohio, LLC, Peerless Network of Tennessee LLC,
+and Peerless Network of Texas, LLC ("CLEC" also referenced as "Peerless Network"}, (Connecticut, Florida, Georgia, Indiana,
+North Carolina, Nevada, Ohio, Tennessee, and Texas Limited Liability Companies}, shall apply to the States of Connecticut,
+Florida, Georgia, Indiana, North Carolina, Nevada, Ohio, Tennessee and Texas.
+WHEREAS, CLEC represents that it is, or intends to become, a provider of Telephone Exchange Service to residential
+and business End Users offered exclusively over its own Telephone Exchange Service facilities or predominantly over its own
+Telephone Exchange Service facilities in combination with the use of 251(c)(3} Unbundled Network Elements purchased from
+other entity(ies) and the Resale of Telecommunications Services of other carriers.
+WHEREAS, the Parties want to Interconnect their networks at mutually agreed upon Points of Interconnection to provide
+Telephone Exchange Services and Exchange Access to residential and business End Users over their respective Telephone
+Exchange Service facilities in the state or states which are subject to this Agreement; and
+WHEREAS, the Parties are entering into this Agreement to set forth the respective obligations of the Parties and the terms
+and conditions under which the Parties will Interconnect their networks and facilities and provide to each other services as
+required by the Telecommunications Act of 1996 as specifically set forth herein; and
+WHEREAS, for purposes of this Agreement, CLEC intends to operate where one or more of the AT&T Inc. entities,
+hereinafter referred to as, BeiiSouth Telecommunications, Inc. d/b/a AT&T Alabama, AT&T Florida, AT&T Georgia, AT&T
+Kentucky, AT&T louisiana, AT&T Mississippi, AT&T North Carolina, AT&T South Carolina, and AT&T Tennessee; Illinois
+Bell Telephone Company d/b/a AT&T Illinois, Indiana Bell Telephone Company Incorporated d/b/a AT&T Indiana,
+Michigan Bell Telephone Company d/b/a AT&T Michigan, Nevada Bell Telephone Company d/b/a AT&T Nevada, The
+Ohio Bell Telephone Company d/b/a AT&T Ohio, Pacific Bell Telephone Company d/b/a AT&T California, The Southern
+New England Telephone Company d/b/a AT&T Connecticut, Southwestern Bell Telephone Company dlb/a AT&T
+Arkansas, AT&T Kansas, AT&T Missouri, AT&T Oklahoma, AT&T Texas and Wisconsin Bell. Inc. d/b/a AT&T Wisconsin,
+the Incumbent Local Exchange Carrier(s) and CLEC, a Competitive Local Exchange Carrier, has or, prior to the provisioning of
+any Interconnection, access to 251(c)(3) Unbundled Network Elements, Telecommunications Services or any other functions,
+facilities, products or services hereunder, will have been granted authority to provide certain local Telephone Exchange Services
+in the foregoing ILEC Service areas by the appropriate State Commission(s);
+NOW, THEREFORE, the Parties hereby agree as follows:
+Page 10 of 332 CCCS 10 of 424
+
+at&t
+Page 30 General Terms and Conditions/AT&T-22STATE
+Page 20 of 44
+Peerless Network
+Version: 3008 - CLEC ICA 12/22/08
+be deemed a CLEC to CLEC Mass Migration. The CLEC that is a Party to this Agreement shall provide AT&T-
+22STATE with ninety (90) calendar days advance written Notice of any CLEC to CLEC Mass Migration.
+CLEC's written Notice shall include the anticipated effective date of the assignment or transfer. The acquiring
+CLEC must cure any outstanding charges associated w~h any Interconnection Service to be transferred. In
+addition, the acquiring CLEC may be required to tender additional assurance of payment if requested under the
+terms of the acquiring CLEC's agreement.
+7.5.2 Both CLECs involved in any CLEC to CLEC Mass Migration shall comply with all Applicable Law relating
+thereto, including but not limited to all FCC and state Commission rules relating to notice(s) to End Users. The
+acquiring CLEC shall be responsible for issuing all service orders required to migrate any Interconnection,
+Resale Service, 251 (c)(3) UNEs, function, facility, product or service provided hereunder. The appropriate
+service order charge or administration fee (for Interconnection) will apply as specified in the Pricing Schedule to
+the acquiring CLEC's agreement. The acquiring CLEC shall also submit a new Operator Services
+Questionnaire (OSQ) to update any OS/DA Rate Reference information and Branding pursuant to the rates
+specified in the Pricing Schedule to the acquiring CLEC's agreement. In addition, the acquiring CLEC shall pay
+any and all charges required for re-stenciling, re-engineering, changing locks and any other work necessary
+with respect to Collocation, as determined on an individual case basis.
+7.6 Project Coordination:
+7.6.1 AT&T-22STATE will provide project management support to effectuate changes of the types identified in
+Section 7.5 above.
+7.6.2 AT&T-22STATE will provide project management support to minimize any possible service outages during any
+CLEC to CLEC Mass Migration. Should AT&T-22STATE's most current version of LSOR or ASOR guidelines
+not support the required order activ~y. AT&T-22STATE will issue service orders at the manual rate, as
+specified in the Pricing Schedule to this Agreement. based upon type of service provided, and on the condition
+that CLEC provides to AT&T-22STATE any and all information AT&T-22STATE reasonably requests to
+effectuate such changes.
+7. 7 Referral Announcement
+7.7.1 When an End User changes its service provider from AT&T-22STATE to CLEC or from CLEC to AT&T-
+22STATE and does not retain its original telephone number, the Party formerly providing service to such End
+User shall furnish a referral announcement C'Referral Announcement") on the original telephone number that
+specifies the End User's new telephone number in accordance w~h any applicable state laws, rules and tariffs.
+8.0 Effective Date, Term and Termination
+8.1 Effective Date:
+8.1.1 In AT&T-22STATE, with the exception of AT&T OHIO, the Effective Date of this Agreement shall be ten (10)
+calendar days after the Commission approves this Agreement under Section 252(e) of the Act or, absent such
+Commission approval, the date this Agreement is deemed approved under Section 252(e)(4) of the Act. In
+AT&T OHIO, based on the PUC-OH, the Agreement is Effective upon filing and is deemed approved by
+operation of law on the 91st day after filing.
+8.2 Term:
+8.2.1 Unless terminated for breach (including nonpayment), the term of this Agreement shall commence upon the
+Effective Date of this Agreement and shall expire on July 19, 2012 (the "Initial Term}.
+8.3 Termination for Nonperformance or Breach:
+8.3.1 Notwithstanding any other provision of this Agreement, either Party may terminate this Agreement and the
+provision of any Interconnection Services provided pursuant to this Agreement. at the sole discretion of the
+terminating Party, in the event that the other Party fails to perform a material obligation or breaches a material
+term of this Agreement and the other Party fails to cure such nonperformance or breach within forty-five (45)
+calendar days after written Notice thereof. If the nonperforming Party fails to cure such nonperformance or
+breach within the forty-five (45) calendar day period provided for within the original Notice, then the terminating
+Party will provide a subsequent written Notice of the termination of this Agreement and such termination shall
+take effect immediately upon delivery of written Notice to the other Party.
+Page 2S of lJ32 CCCS 26 of 424
+
+at&t
+Page 30 General Terms and Conditions/AT&T-22STATE
+Page 21 of 44
+Peerless Network
+Version: 3008 - CLEC ICA 12/22/08
+8.3.2 If, at any time during the term of this Agreemen~ AT&T-22STATE is unable to contact CLEC pursuant to the
+·Notices provision hereof or any other contact information provided by CLEC under this Agreement, and there
+are no active services being provisioned under this Agreement, then AT&T-22STATE may, at its discretion,
+terminate this Agreement, without any liability whatsoever, upon sending of notification to CLEC pursuant to the
+Notices section hereof.
+8.4 Termination of Agreement arter initial term expiration:
+8.4.1 Where CLEC has no End Users or is no longer purchasing any services under this Agreement, CLEC may
+terminate the Agreement by providing "Notice of Termination" to AT&T-22STATE at any time after the initial
+term of this Agreement. After termination the Parties' liability for termination of this Agreement shall be limited
+to obligations under the Survival 40.1 below of this GTC.
+8.4.2 Where CLEC has End Users and/or is purchasing Interconnection Services under this Agreement and either
+Party seeks to terminate this Agreement, CLEC shall cooperate in good faith to effect an orderly transition of
+service under this Agreement. CLEC shall be solely responsible {from a financial, operational and
+administrative standpoint) to ensure that its End Users are transitioned to a new LEG prior to the expiration or
+termination date of this Agreement.
+8.4.3 If at any time within one hundred and eighty {180) days or any time thereafter of the expiration of the Term, if
+either Party serves "Notice of Expiration," CLEC shall have ten {10) calendar days to provide AT&T-22STATE
+written confirmation to the Notice of Expiration indicating if CLEC wishes to pursue a successor agreement with
+AT&T-22STATE or terminate its Agreement. CLEC shall identify the action to be taken in each of the
+applicable state{s). If CLEC wishes to pursue a successor agreement with AT&T-22STATE, CLEC shall attach
+to its written confirmation or Notice of Expiration, a written request to commence negotiations with AT&T-
+22STATE under Sections 251/252 of the Act and identify each of the state(s) to which the successor
+agreement will apply. Upon receipt of CLEC's Section 252{a){1) request, the Parties shall commence good
+faith negotiations for a successor agreement.
+8.4.4 If the Parties are in "Active Negotiations" {negotiations within the statutory clock established in the Act under
+Section 252{b)) or have filed for arbitration with the Commission upon expiration date of the Agreement AT&T-
+22STATE shall continue to offer services to CLEC pursuant to the rates, terms and conditions set forth in this
+Agreement until a successor agreement becomes effective between the Parties. AT&T-22STATE's obligation
+to provide services under this Agreement beyond the expiration date conditions upon the Parties adherence to
+the timeframes established within Section 252(b) of the Act. If CLEC does not adhere to said timeframes or
+CLEC withdraws its arbitration or seeks an extension of time or continuance of such arbitration w~h AT&T·
+22STATE's consent, AT&T-22STATE may provide Notice to CLEC that all services provided thereafter shall be
+pursuant to the rates, terms and conditions set forth in AT&T-22STATE's then current standard interconnection
+agreement f'Generic") as found on AT&Ts CLEC Online website.
+8.4.5 Either on or following the expiration date of this Agreement, if the Parties have not entered into a new
+agreement or are not in Active Negotiations as described in Section 8.4.4 above, then upon written Notice to
+CLEC by AT&T-22STATE, AT&T-22STATE may continue to offer services to CLEC pursuant to the rates,
+terms and conditions set forth in AT&T-22STATE's then current Generic found at the AT&T CLEC Online
+website. At any time thereafter, the Parties may initiate negotiations for a new agreement by providing a written
+Notice under Section 252 to the other Party.
+9.0 End User Fraud
+9.1 AT&T-22STATE shall not be liable to CLEC for any fraud associated with CLEC's End User account, including 1+ lntraLATA toll,
+ported numbers, and ABT.
+9.2 The Parties agree to cooperate with one another to investigate, minimize, and take corrective action in cases of fraud involving
+1+ lntraLATA toll calls, ABT, and ported numbers. The Parties' fraud minimization procedures are to be cost-effective and
+implemented so as not to unduly burden or harm one Party as compared to the other.
+9.3 In cases of suspected fraudulent activity by an End User, at a minimum, the cooperation referenced in Section 9.1 above will
+include providing to the other Party, upon request, information concerning End Users who terminate services to that Party
+without paying all outstanding charges. The Party seeking such information is responsible for securing the End User's
+permission to obtain such information.
+Page 28 of 332 CCCS 27 of 424
+
+"'
+at&t
+of~
+Page 52
+General Terms and Conditions/AT&T-22STATE
+Signature Page 1 of 1
+Peerless Network
+Version: 3008-CLEC ICA 1222/08
+Peerless Network of Connecticut, llC, BeiiSouth Telecommunications, Inc. d/b/a
+Peerless Network of Florida, llC, Peerless AT&T Florida, AT&T Georgia, AT&T North
+Network of Georgia, llC, Peerless Network of Carolina, and AT&T Tennessee; Indiana Bell
+Indiana, llC, Peerless Network of North Telephone Company Incorporated d/b/a AT&T
+Carolina, llC, Peerless Network of Nevada, Indiana, Nevada Bell Telephone Company
+llC, Peerless Network of Ohio, llC, Peerless d/b/a AT&T Nevada, The Ohio Bell Telephone
+Network of Tennessee, llC, and Peerless Company d/b/a AT&T Ohio, The Southern New
+Network of Texas, llC England Telephone Company dlb/a AT&T
+Connecticut, Southwestern BeD Telephone
+Company d/b/a AT&T Texas by AT&T
+::~edagem
+By:~
+Name: Eddie A. Reed, Jr.
+Trtle: Director-Interconnection Agreements
+5 -r9
+Date: -~+
+RESAlEOCN UNEOCN SWITCH BASED OCN
+CONNECTICUT
+FLORIDA
+GEORGIA
+INDIANA
+NEVADA
+NORTH CAROUNA
+OHIO
+TENNESSEE
+1:r-rr-
+TEXAS
+e>Pr-
+ACNA
+Page 52 of t'i32
+
+DocuSign Envelope ID: 8133BABB-F67A-4C44-8158-3F657E6BOFEO
+INTERCONNECTION, COLLOCATION AND RESALE AGREEMENT
+FOR THE
+STATE
+OF
+NEVADA
+Peerless Network of Nevada, LLC
+and
+Central Telephone Company d/b/a CenturyLink
+This Interconnection Agreement ("Agreement"), dated and effective August 26, 2011, is entered into by
+and between Peerless Network of Nevada, LLC, a Nevada CLEC ("Peerless"), and Central Telephone
+Company d/b/a Centurylink, a Nevada ILEC ("Centurylink"). Centurylink and Peerless are collectively
+referred to herein as "the Parties" to establish the rates, terms and conditions for interconnection and the
+exchange of traffic for the state of Nevada.
+NOW THEREFORE, the Parties agree as follows:
+1. ADOPTED AGREEMENT
+1.1 This Agreement between the Parties shall consist of the Interconnection Agreement for
+the state of Nevada entered into by and between TCG Los Angeles, Inc. and Centurylink
+(then known as Embarq), dated July 16, 2009 ("Adopted Agreement").
+1.2 This Agreement is made a part of and incorporates the terms and conditions of the
+Adopted Agreement.
+1.3 Except as set forth herein, the Adopted Agreement remains unchanged and in full force
+and effect. In the event of a conflict between the terms of the Adopted Agreement and
+this Agreement, this Agreement will control.
+1.4 This Agreement shall supersede and replace in full any and all prior agreements, written
+and oral, between Peerless and Centurylink pertaining to the subject matter hereof,
+applicable to the state of Nevada.
+2. PARTIES
+For the purposes of this Agreement, Peerless is hereby substituted in the Adopted
+Agreement for TCG Los Angeles, Inc. and Centurylink shall remain as the other Party to
+the Adopted Agreement.
+CenturyLink-Peerless Network
+Interconnection Agreement· NV
+Page 1 of 3
+
+DocuSign Envelope ID: 8133BABB-F67A-4C44-8158-3F657E6BOFEO
+3. PROVISIONS
+3.1 The Terms of the Adopted Agreement are being adopted by Peerless pursuant to its
+statutory rights under Section 252(i). CenturyLink does not provide these Terms to
+Peerless as either a voluntary or negotiated agreement. The filing and performance by
+CenturyLink of the Terms does not in any way constitute a waiver by CenturyLink of any
+position as to the Terms or a portion thereof, nor does it constitute a waiver by
+CenturyLink of all rights and remedies it may have to seek review of the Terms, or to
+seek review in any way of any provisions included in these Terms as a result of
+Peerless's 252(i) election.
+3.2 The Terms shall be subject to any and all applicable laws, rules, or regulations that
+subsequently may be prescribed by any federal, state or local governmental authority.
+To the extent required by any such subsequently prescribed law, rule, or regulation, the
+Parties agree to modify, in writing, the affected term(s) and condition(s) of this Agreement
+to bring them into compliance with such law, rule, or regulation.
+3.3 CenturyLink reserves the right to deny to Peerless any obligation under or application of
+the adopted Terms, in whole or in part, at any time:
+(a) when the costs of providing the Terms to Peerless are greater than the costs of
+providing it to the original signatory carrier;
+(b) if the provision of the Terms to Peerless are not technically feasible; and/or to the
+extent Peerless already has an existing interconnection agreement (or existing
+252(i) adoption) with CenturyLink and the Terms were approved before the date
+of approval of the existing interconnection agreement (or the effective date of the
+existing 252(i) adoption).
+3.4 Should any such condition occur, CenturyLink will notify Peerless in writing and
+CenturyLink and Peerless agree to work towards any mutually agreeable alternative or
+resolution.
+3.5 Should Peerless attempt to apply the adopted Terms in a manner that conflicts with the
+provisions set forth herein, CenturyLink reserves its rights to seek appropriate legal
+and/or equitable relief.
+4. EFFECTIVE DATE AND TERM
+4.1 This Agreement has an Effective Date of August 26, 2011, but becomes effective only
+upon execution by both Parties and, if required, Commission approval. If there is
+initiation of a new account, any new provision of service or obligation, or any revision to
+currently existing services or obligations, shall not take effect for 60 days to
+accommodate required initial processes.
+4.2 The Initial Term of this Agreement shall be from the Effective Date through March 31,
+2014.
+5. NOTICES
+Except as otherwise provided, all notices and communication hereunder will be deemed
+to have been duly given when made in writing and delivered in person or deposited in the
+U.S. mail, certified, postage paid, return receipt requested, and addressed as follows:
+CenturyLink-Peerless Network
+Interconnection Agreement-NV
+Page 2 of3
+
+DocuSign Envelope ID: 8133BABB-F67A-4C44-B15B-3F657E6BOFEO
+If to Peerless: If to CenturyLink:
+Dan Meldazis Centurylink
+Director Regulatory Affairs Director Wholesale Contracts
+Peerless Network of Nevada 930 15th Street, 6th Floor
+222 S. Riverside Plaza, STE 2730 Denver, CO 80202
+Chicago, IL 60606
+intagree@centurylink.com
+dmeldazis@peerlessnetwork.com 303-672-2879
+312-506-0933
+Copy to:
+Centurylink Law Department
+Associate General Counsel,
+Interconnection
+1801 California Street, 9th Floor
+Denver, CO 80202
+Legal.lnterconnection@centurylink. com
+303-383-6553
+IN WITNESS WHEREOF, Peerless and Centurylink have caused this Agreement to be executed by their
+respective duly authorized representatives.
+Peerless Network of Nevada, LLC Central Telephone Company d/b/a CenturyLink
+GDocuSigned by. ~05E9FC68BD57454 ... ~
+Scdt WL
+~i~~~ist-J
+By: By:
+E4999C!i91 961478
+Name: Scott Kell Name: L. T. Christensen
+Title: EVP Operations Title: Director-Wholesale Contracts
+8/25/2011 8/25/2011
+Date: Date:
+CenturyLink-Peerless Network
+Interconnection Agreement-NV
+Page 3 of 3
+
+I I I 09 SEP I 7 PH I: ~ 3 EMBARQ"'
+Voice Data jlntemet Wireless £ntertaiornent
+~
+Mail$top: NVI.SYB0226
+330 S. \1.111"1 Vi.,.. lllvd.
+las Vtps, IN 89107
+September 17, 2009 ~<.em
+Ms. Crystal Jackson
+Commission Secretary
+Public Utilities Commiss.ion of Nevada
+1150 East William Street
+Carson City, Nevada .89701·3109
+Re; In re Joint Petition of Central Telephone Company dba Embarq
+ud TCG Los Angeles, Inc. for approval of the Jnterconnection,
+Collocation and Resale Agreement for the State of Nevada
+pursuant to Section 252 of the Telecommunications
+Act of1996.
+Dear Ms. Jackson:
+Enclosed for filing is a Petition for Approval ofthelntcrconnection, Collocation nnd Resale
+Agreement fo.r the State ofN'evada tmdet Sections 251 and 252 of the Telecommunications Act
+of 1996 between Central Telephone Company dba Embarq f'Embarq')} and TCG Los Angeles,
+Inc. Embatq and TCG Los Angeles, Inc. submit the Agreetnent tor the Commission's approval
+pursuant to Section 252(e) of the Telecommunications Act of 1996. Also enclosed is a check in
+the amount of$200 to CQver the filing fee.
+If you have any questions.please contact Scott Collins at (702) 244-7706 or myself at (702) 244--
+7318. Thank you for your assistance.
+Very truly yours,
+~~~~~
+gdaStinar.
+D.ircctor Regulatory Afrairs
+LCS;sc
+Enc10S'Ul't':S
+Cc: David Hammock
+
+BEFORE THE PUBLIC UTILITIES COMMISSION OF NEVADA
+In re Joint Petition of Central Telephone Company dba Embarq . )
+and TCG Los Angeles, Inc. for approval of the Interconnection> )
+Collocation and Resale Agreement for the State of Nevada )
+pursuant to Section 252ofthe Telecommunications Act of 1996. ) Docket No. 09-
+PETITION FOR APPROVAL OF THE INTERCONNECTION. COLLOCATION AND
+RESALE AGREEMENT FOR THE STATE OF NEVADA UNDERSECI'IONS 251 AND .
+252 OF THE TELECOMMUNICATIQ:NS ACT OF 1996
+Central Telephone Company dba Embarq (~Embatq1') and TCG Los Angeles, Inc.
+(collectively referred to as. the "Parties"), hereby petition the Public Utilities Commission
+("'PUC" or "Commission"} for approval of the Interconnection, Collocation and Resale
+Agreement for the State of Nevada, attached hereto as Attachment A (the "Agreement'}
+The Parties submit the Agreement for approval in accordance with the tetmS of Section
+252(e) of the Telecommunications Act of 1996 (the .. Act~). .The Panies request that the
+Commission approve the Agreeroent in accordance with the requirements of Section 252(e) of
+the Act by detennining that the grounds for rejection of such Agreement set forth in Section 252
+(eX2)(A)(i) and Section 252 (e)(2)(A)(ii) of the Act are not appli{;able to the Agreement With
+respect to Section 252(e) (2) of the Act, the Parties assert that the Agreement does no~
+discriminate against any telecommunications carrier not a party to the Agreement. The
+implementation of the Agreement is consistent with the public interest, convenience, and
+necessity. The Agreement does not violate any requirement of the Commission.
+The Parties respectfully request that the Commission expeditiously approve the
+Agreement consistent with the intent of the Act.
+1
+
+Dated this 17th day of September, 2009.
+CENTRAL TELEPHONE COMPANY DBA
+EMBARQ
+By:J~~
+TCG Los Angeles, Inc. Linda C. Stinar
+David Hammock - Regional VP Carrier Mgmt. Director Regulatory Affairs
+645 E. Plumb Lane · 330 South Valley View Boulevard
+Reno, NV 89520 Las Vegas, Nevada 89107
+2
+
+I •
+INTERCONNE:CnON, COLLQCATlON AND RESALE AGREEMENT
+FOR THE STATE OF NEVADA
+Effective Date: July 16, 2009
+End Date: July 16, 2011
+TCG Los Angeles, Inc.
+Central Telephone Company dlbla Embarq
+NV-Rev. 09.05.07
+
+action was commenced before or after the Effective Date of this Agreement Should the
+Parties be unable to reach agreement with respect to the applicabliHy of such order or the
+resulting appropriate modifications to this Agreement, either party may invoke the DisPllle
+Resolution provisions of this Agreement, it being the intent of the parties that this
+Agreement shall be brought into conformity with the then current obligatiOns under the
+Act aa determined by the Amended Rules. Embarq may charge fates to CLEC under this
+Agreement that are apPI"oVed by the Commission in a generic cost proceading, whether
+such action was commenced before or after the Effeci:Ne Date of this Agreement. as of
+the effective date of the Commission decision.
+4.4. In the event that as a result of any effective decision, order, or determinatiOn of any
+judicial or regulatory authority with jurisdiction over the subject matter hereof, Embatq
+determines that it is not required to fumish any service, facility, arrangement, or benefit
+required to be fumishe<l or provided to CLEC under this Agreement. then Embarq may
+di$COntinue any service, facility, arrangement. or benefit ("Discontinued Arrangement} to
+the extent permitted by any such decision, order, or determination by providing sixty {60)
+Days wntten notice to CLEC. Immediately upon provision of such written notice to CLEC,
+CLEC will be prohibited from ordering and Embarq will not provide new Discontinued
+Arrangements.
+5. TERM AND TERMlNATION
+5.1. This Agreement shall be deemed effectiVe upon the EffectiVe Date first stated above, and
+continue for a period of two yearti until July 16. 2011 (~End Date"), unless earlier
+terminated In accordance with thie Section S, provided however that if CLEC has any
+outstanding past due obligations to Embarq or any Of Embarq's affiliates, this Agreement
+will not be effective until such time as any past due obligations with Embarq are paid in
+full. Thi~ agreement Ghalt become binding upon ~~utkm by the Parties. No order or
+request for services under this Agreement shall be processed before the Effective Date.
+except as otherwise agreed to ln wr!Ung by the Parties. No order or request for services
+under thi~ Agreement shall be processed before CLEC has established a customer
+account with Embarq and has completed the Implementation Plan described io this
+Agreement
+5. 2. In the event of either Party's material breach of any of the tenns or conditions hereof,
+Including the failure to make any undisputed payment when due, the non..<Jefaulting Party
+may immediately terminate this Agreement in whole or in part if the non-defaulting Party
+or
+so advises the defaulting Party in writing of the event the alleged default and the
+defaulting Party does not remedy the alleged default within siXty (60) Days after written
+notice thereof. The non-defaulting Party may pursue all available legal and equitable
+remedies for such brea.ch.
+5.3. Embarq may terminate this Agreement upon ten (10) Cays notice If CLEC is not
+exchanging traffic with Embarq or has not submitted orders ~>Ursuant to this Agreement
+within one-hundred-eighty{180) Days of the Effective Date. In addition, Embarq reserves
+the right to terminate this Agreement Immediately upon notk>e from the CLEC that It has
+ceased doing business in this state. In addition to notice from CLEC. Embarq may utilize
+any publicly available information In concluding that CLEC is no loti9er doing business in
+this state, and Immediately terminate this Agreement.
+5.4. Termination of this Agreement for any causa shall not release either Party from any
+liability which at the time of termination has already aoorued to the other Party or which
+thereafter may accrue in respect to any act or omission prior to termination or from any
+obligation which is expressly stated in this Agreement to survive l$rmlnation.
+5.5. Notwithstanding the above, should Embarq sell or trade substantlalyall the assets in an
+exchange or group of exchang~s that Embarq uses to provide Te leoommunlcatioos
+NV-Rev. 09.05.07 13
+
+Services, then Embarq may terminate this Agreement In whole or in part as to that
+particular exchange or group of exchanges upon sixty (60) Days prior written notice.
+6. POST EXPIRATION INTERIM SERVICE ARRANGEMENTS
+6.1. No later then one-hundred sixty (160) Days prior to the End Date, ClEC will provide
+Embarq notiCe to commence negotiations pursuant to §§251 and 252 of the Act for
+terms. conditions and rates tor a successor agreement to be effective on or before the
+End Date.
+6.2. In the event that this Agreement expires under Section 5.1. CLEC has submitted a notice
+to commence negotiations under Section G.1. and the Parties have not executed a
+successor agreement at the time of expiration, provided the Parties are actually in
+arbitration or mediation before the CommiSsion ()(FCC under §252 of the Act or the
+Parties have a written agreement to continue negotiations under §252, it is ihe intent of
+the Parti$$ to provide in this Section for post·explmtion interim service arrangements
+between tne Parties so that service to their respective end users will not be interrupted
+5hould a new agreement not be consummated prior to the End Date. Therefore, except
+in the case of termination as a result of the events under Sections 5.2. 5.4. and 5.5,
+services that had been available under this Agreement, were ordered prior to the End
+are
+Date and actually In service as of the End Date may continue uninterrupted after the
+End Date at the written request of either Party only until the earlier to occur of (i) the
+Parties execute a successor agreement. (ii) the issuance of an on:ter, whether a final non
+appealable order or not, by me Commission or FCC, approving ao agreement resulting
+from the resolution of the issues set forth in soch arbitration or mediation request. or
+(UI) the fnt anniversary of the End Date.
+6.3. In the evant that on the End Date the Parties have not executed a successor agreement
+and Section 6.2 does not apply or rio longer applies,. Embarq will continue to provide
+to
+services pursuant one of the following:
+6.3.1. Such standard terms and condHions or tariffs approved by and made generally
+available by the Commission, If they exist; or
+6.3.2. An existing agreement between Embarq and another oarner adopted by ClEC
+for the remaining term of that agreement If CLEC fails to designate an
+agreement under this subsection, then Embarq may designate such
+agreement.
+7. CHARGES, BILLING AND PAYMENT
+7.1. ln consideration of the services provided by Embarq under this Agreement. CLSC 6hall
+pay the charges set forth in Part C subject to the provisions of Section 4 hereof and
+subject to the dispute provisions provided herein. Additional bHllng procedures for
+charges Incurred by CLEC hereunder are set forth in Part J.
+7.2. Subject to the terms of this Agreement, the Parties shall pay invoices within thirty (30)
+0~ from the bill date shown on the invoice.
+7. 2.1. F.or invoices not paid when due late payment charges will be assessed under
+Section 7.4.
+is
+7. 2.2. If the payment due date a saturday, Sunday or a designated bank holiday,
+payment shall be made the next business day.
+7.2.3. If ao invoice Is not paid wlthln fot't.y-flve (45) Days after the trill date, embarq
+may suspend ~ocessing new orders and cancel any pending orders.
+NV-Rev. 09.05.07 14
+
+IN WITNESS WHEREOF, each of the Parties has caused this Agreement to be executed
+and accepted by its duly authorized representatives.
+CLEC
+DaVid G. Hammock Mlke Hunsucker
+Name:
+Name:----------------~------
+lltle: Regional VP· earner Management Title: Director-Contract Management
+Date:
+Date~
+..
+NV· Rev. 09.05.07 119
+
+AGREEMENT
+by and batween
+PEERLESS NETWORK OF TEXAS LLC
+and
+GTE SOUTHWEST INCORPORATED, D/B/A VERIZON SOUTHWEST
+FOR THE STATE OF
+TEXAS
+PN TX Comp v3.3
+17
+
+•.
+AGREEMENT
+PREFACE
+This Agreement ("Agreemenr) shall be deemed effective as of April24, 2009 (the "Effective
+Date"), between Peerless Network of Texas LLC ("PN"), a limited liabUity company organized
+under the laws of the State of Texas, with offices at 225 W. Washington Street, Suite 1285,
+Chicago, IL 60606 and GTE Southwest Incorporated, d/b/a Verizon Southwest ("Verizon"), a
+corporation organized under the laws of the State of Delaware with offices at 600 Hidden Ridge,
+HQE04H12, Irving, TX 75038 (Verizon and PN may be referred to hereinafter, each, individually
+as a "Party", and, collectively, as the "Parties").
+GENERAL TERMS AND CONDITIONS
+In consideration of the mutual promises contained in this Agreement, and intending to be legally
+bound, pursuant to Section 252 of the Act, Verizon and PN hereby agree as follows:
+1. The Agreement
+1.1 This Agreement includes: (a) the Principal Document; (b) the Tariffs of each
+Party applicable to the Services that are offered for sale by it in the Principal
+Document (which Tariffs are incorporated into and made a part of this Agreement
+by reference); and, (c) an Order by a Party that has been accepted by the other
+Party.
+1.2 Except as otherwise expressly provided in the Principal Document (including, but
+not limited to, the Pricing Attachment), conflicts among provisions in the Principal
+Document, Tariffs, and an Order by a Party that has been accepted by the other
+Party, shall be resolved in accordance with the following order of precedence,
+where the document identified in subsection "(a)" shall have the highest
+precedence: (a) the Principal Document; (b) the Tariffs; and, (c) an Order by a
+Party that has been accepted by the other Party. The fact that a provision
+appears in the Principal Document but not in a Tariff, or in a Tariff but not in the
+Principal Document, shall not be interpreted as, or deemed grounds for finding, a
+conflict for the purposes of this Section 1.2.
+1.3 This Agreement constitutes the entire agreement between the Parties on the
+subject matter hereof, and supersedes any prior or contemporaneous
+agreement, understanding, or representation, on the subject matter hereof,
+provided, however, notwithstanding any other provision of this Agreement or
+otherwise, this Agreement is an amendment, extension and restatement of the
+Parties' prior interconnection and resale agreement(s), if any, and, as such, this
+Agreement is not intended to be, nor shall it be construed to create, a novation or
+accord and satisfaction with respect to any prior interconnection or resale
+agreements and, accordingly, all monetary obligations of the Parties to one
+another under any prior interconnection or resale agreements shall remain in full
+force and effect and shalf constitute monetary obligations of the Parties under
+this Agreement (provided, however, that nothing contained in this Agreement
+shall convert any claim or debt that would otherwise constitute a prepetition claim
+or debt in a bankruptcy case into a postpetition claim or debt). In connection with
+the foregoing, Verizon expressly reserves ail of its rights under the Bankruptcy
+Code and Applicable Law to seek or oppose any relief in respect of the
+assumption, assumption and assignment, or rejection of any interconnection or
+resale agreements between Verizon and PN.
+PN TX Camp v3.3
+24
+
+1.4 Except as otherwise provided in the Principal Document, the Principal Document
+may not be waived or modified except by a written document that is signed by
+the Parties. Subject to the requirements of Applicable law, a Party shall have
+the right to add, modify, or withdraw, its Tariff(s) at any time, without the consent
+of, or notice to, the other Party.
+2. Term and Termination
+2.1 This Agreement shall be effective as of the Effective Date and, unless cancelled
+or terminated earlier in accordance with the terms hereof, shall continue in effect
+until April23, 2011 (the "Initial Term"). Thereafter, this Agreement shall continue
+in force and effect unless and until cancelled or terminated as provided in this
+Agreement.
+2.2 Either PN or Verizon may terminate this Agreement effective upon the expiration
+of the Initial Term or effective upon any date after expiration of the Initial Term by
+providing written notice of termination at least ninety (90) days in advance of the
+date of termination.
+2.3 If either PN or Verizon provides notice of termination pursuant to Section 2.2 and
+on or before the proposed date of termination either PN or Verizon has requested
+negotiation of a new interconnection agreement, unless this Agreement is
+cancelled or terminated earlier in accordance with the terms hereof (including,
+but not limited to, pursuant to Section 12), this Agreement shall remain in effect
+until the earlier of: (a) the effective date of a new interconnection agreement
+between PN and Verizon; or, (b) the date one (1) year after the proposed date of
+termination.
+2.4 If either PN or Verizon provides notice of termination pursuant to Section 2.2 and
+by 11:59 PM Eastern Time on the proposed date of termination neither PN nor
+Verizon has requested negotiation of a new interconnection agreement, (a) this
+Agreement will terminate at 11:59 PM Eastern Time on the proposed date of
+termination, and (b) the Services being provided under this Agreement at the
+time of termination will be terminated, except to the extent that the Purchasing
+Party has requested that such Services continue to be provided pursuant to an
+applicable Tariff or Statement of GeneraHy Available Terms (SGAT).
+3. Glossary and Attachments
+The Glossary and the following Attachments are a part of this Agreement:
+Additional Services Attachment
+Interconnection Attachment
+Resale Attachment
+Network Elements Attachment
+Collocation Attachment
+911 Attachment
+Pricing Attachment
+4. Applicable Law
+4.1 The construction, interpretation and performance of this Agreement shall be
+governed by (a) the laws of the United States of America and (b) the laws of the
+PN TX Comp v3.3 2
+25
+
+SIGNATURE PAGE
+IN WITNESS WHEREOF. the Parties hereto have caused this Agreement to be executed as of
+the Effective Date.
+PEERLESS NETWORK OF TEXAS LLC GTE SOUTHWEST INCORPORATED, D/B/A
+VERIZON SOUTHWEST
+By~
+.,,~Cht..t~
+Printed: Scott Kell Printed: rey A. Masoner
+Trtle: Chief Operating Officer Title: Vice President -Interconnection Services
+PN 1X Comp v3.3
+49

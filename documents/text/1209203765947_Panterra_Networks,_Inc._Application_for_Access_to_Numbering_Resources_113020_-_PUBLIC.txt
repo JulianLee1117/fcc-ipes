@@ -1,0 +1,186 @@
+Before the
+Public Version –
+FEDERAL COMMUNICATIONS COMMISSION
+Confidential
+Washington, D.C. 20554
+Information Excluded
+In the Matter of PanTerra Networks, Inc. )
+) WC Docket No. 20-_____
+Application For Authorization to Obtain Numbering )
+Resources Pursuant to Section 52.15(g) of )
+The Commission’s Rules )
+APPLICATION OF PANTERRA NETWORKS, INC.
+FOR AUTHORIZATION TO OBTAIN NUMBERING RESOURCES
+By this Application, PanTerra Networks, Inc. (“PanTerra” or “Company”), an
+interconnected Voice over Internet Protocol (“VoIP”) provider, seeks to obtain direct access to
+numbering resources from the North American Numbering Plan Administrator and the Pooling
+Administrator (“Numbering Administrators”) pursuant to Section 52.15(g)(3)(i) of the
+Commission’s Rules.1
+PanTerra provides the following information in support of this Application:
+I. INFORMATION REQUIRED BY 47 C.F.R. § 52.15(g)(3)(i)
+A. § 52.15(g)(3)(i)(A)
+PanTerra Networks, Inc.
+4655 Old Ironsides Drive, Suite 300
+Santa Clara, CA 95054
+Telephone: (800) 805-0558
+Facsimile: (408) 980-9877
+Website: www.panterranetworks.com
+Contact for Regulatory Requirements, Compliance, 911 and Law Enforcement:
+Jeff Boucher
+Chief Financial Officer
+PanTerra Networks, Inc.
+4655 Old Ironsides Drive, Suite 300
+Santa Clara, CA 95054
+Telephone: (800) 805-0558
+1 47 C.F.R. § 52.15(g)(3).
+1
+
+Facsimile: (408) 980-9877
+E-Mail: jboucher@panterranetworks.com
+B. § 52.15(g)(3)(i)(B)
+PanTerra hereby acknowledges that authorization to obtain numbering resources under
+Section 52.15(g) of the Commission’s Rules is subject to compliance with applicable Commission
+numbering rules, as well as to the numbering authority delegated to the states. The Company
+hereby also acknowledges that this authorization is subject to compliance with industry guidelines
+and practices regarding numbering, as applicable to telecommunications carriers. The numbering
+resources that are the subject of this Application will be used to provide interconnected VoIP
+services initially in California, and ultimately nationwide. Accordingly, to the extent required,
+PanTerra requests the Commission grant it authority to obtain numbering resources in all states.
+C. § 52.15(g)(3)(i)(C)
+PanTerra acknowledges that it must file requests for numbers with the relevant state
+commission(s) at least 30 days before requesting numbers from the Numbering Administrators.
+D. § 52.15(g)(3)(i)(D)
+PanTerra hereby sets forth its capability to provide service within 60 days of the numbering
+resources activation date. PanTerra has agreements in place with nationally recognized carrier
+partners that have interconnection agreements in effect with all relevant incumbent local exchange
+carriers in order to route traffic. Copies of its agreements are attached as Exhibit A to this
+Application. PanTerera respectfully requests that these agreements be accorded confidential
+treatment pursuant to Section 0.459 of the Commission’s Rules.2 As Exhibit B, PanTerra provides
+2 47 C.F.R. § 0.459. These agreements contain trade secret information that is not publicly
+available, the disclosure of which would cause competitive and economic harm to PanTerra.
+2
+
+evidence of current interconnection agreements between its carrier partners and incumbent local
+exchange carriers (“ILECs”).
+In addition, the Company has a back-office support system with the ability to schedule and
+process Local Number Portability (“LNP”) orders from customers, and has staff experienced in
+handling LNP between itself and other carriers and interconnected VoIP providers.
+E. § 52.15(g)(3)(i)(E)
+PanTerra hereby certifies that it will comply with its Universal Service Fund contribution
+obligations under 47 C.F.R. part 54, subpart H, its Telecommunications Relay Service contribution
+obligations under 47 C.F.R. § 64.604(c)(5)(iii), its North American Numbering Plan and Local
+Number Portability Administration contribution obligations under 47 C.F.R. §§ 52.17 and 52.32,
+its obligations to pay regulatory fees under 47 C.F.R. § 1.1154, and its 911 obligations under 47
+C.F.R. part 9.3
+F. § 52.15(g)(3)(i)(F)
+PanTerra certifies that it has the financial, managerial, and technical expertise to provide
+reliable service. It is financially stable, led by a strong, management team with substantial
+experience in the telecommunications industry, and has sufficient technical expertise and
+infrastructure in place to provide reliable service.
+PanTerra’s key management and technical personnel, along with their respective
+experience, are identified in Exhibit C. None of the identified personnel are being, or have been,
+investigated by the Commission or any law enforcement or regulatory agency for failure to comply
+with any law, rule, or order. PanTerra’s shareholder information is provided at Exhibit D.
+3 PanTerra’s 499 Filer ID is 831149.
+3
+
+G. § 52.15(g)(3)(i)(G)
+PanTerrra hereby certifies that no party to this Application is subject to a denial of Federal
+benefits pursuant to Section 5301 of the Anti-Drug Abuse Act of 1988, 21 U.S.C. § 862.
+II. ACKNOWLEDGEMENT OF CONDITIONS IN 47 C.F.R. § 52.15(g)(3)(iv)
+As required by Section 52.15(g)(3)(iv), PanTerra will maintain the accuracy of all
+contact information and certifications in this Application, and will file a correction with the
+Commission and each applicable state within 30 days of any changes.4 PanTerra will also furnish
+accurate regulatory and numbering contact information to each state commission when requesting
+numbers in that state.
+III. CONCLUSION
+Pursuant to Section 52.15(g)(3)(i) of the Commission’s Rules, PanTerra Networks, Inc.
+respectfully requests that the Commission grant this Application for authorization to obtain
+numbering resources.
+Respectfully submitted,
+PANTERRA NETWORKS, INC.
+By:
+Katherine E. Barker Marshall
+Potomac Law Group, PLLC
+1300 Pennsylvania Ave NW, Suite 700
+Washington, DC 20004
+Telephone: (202) 792-6422
+E-mail: kmarshall@potomaclaw.com
+Date: December 8, 2020
+4 47 C.F.R. § 52.15(g)(3)(iv).
+4
+
+Exhibit A
+Agreement with Underlying CLEC
+Confidential and Proprietary – Filed Under Seal
+Pursuant to 47 C.F.R. § 0.459
+PUBLIC VERSION – CONFIDENTIAL INFORMATION EXCLUDED
+
+Exhibit B
+Interconnection Agreements
+Confidential and Proprietary – Filed Under Seal
+Pursuant to 47 C.F.R. § 0.459
+PUBLIC VERSION – CONFIDENTIAL INFORMATION EXCLUDED
+
+Exhibit C
+Managerial Information
+PanTerra’s key management and technical personnel are listed below. None of the
+identified personnel are being or have been investigated by the Commission or any law
+enforcement or regulatory agency for failure to comply with any law, rule, or order.
+Arthur Chang, President and CEO, Board Member
+Arthur Chang brings over 20 years of hi-tech executive experience to PanTerra Networks. Artie,
+a Silicon Valley serial entrepreneur, held senior executive positions at several successful
+companies in Silicon Valley. Prior to PanTerra Networks, Artie was the CEO of Cradle
+Technologies, a multi-core multimedia DSP company and SoloPoint Communications, a
+provider of telecom equipment. Artie started his career at Bell Laboratories.
+Jeff Boucher, Chief Financial Officer & Vice President of Finance
+Jeff Boucher brings over 20 years of finance, accounting and operations experience in SaaS
+technology companies. Prior to PanTerra Networks, Jeff was the VP of Finance at Power Assure,
+a SaaS provider of data center energy management software. Prior to that he was the VP of
+Finance at Bytemobile, a company acquired by Citrix Systems. Jeff started his career at the
+public accounting firm Frank, Rimerman & Co., where he earned his California CPA license as
+an audit manager.
+Robert Perez Mainor, Executive Vice President, Operations
+Robert Mainor has over 20 years of senior level executive experience in the communications
+industry. Rob has held strategic roles in marketing, sales, business development and operations
+and is considered a key pioneer in bringing VoIP to the masses. Prior to PanTerra Networks, Rob
+was the co-founder and COO of SunRocket. Prior to SunRocket, Rob was the President of
+Xpedite Systems, a $200M multi-modal communications services company. At COLT Telecom
+in London, he built their pan-European business as president and Managing Director. He
+founded and sold Seara Information Strategy Corp to CompuServe, where he served as VP of
+Product Management and Marketing.
+
+David Ryan, Vice President of Sales
+David Ryan brings with him over 20 years of sales leadership to PanTerra Networks. Dave has
+held strategic roles in sales leadership, sales, operations and business development in the UCaaS,
+SaaS and telecommunications industries. Prior to joining PanTerra Networks, Dave was
+Regional Director of Sales at Nextel Partners, Inc. a wireless communication provider. Prior to
+Nextel Partners, Mr. Ryan was the Regional Director of Sales at Verizon Wireless.
+Ranga Rao Vutukuru, Vice President of Development
+Ranga Rao Vutukuru has over 20 years of experience in software engineering, management and
+strategic direction setting. Prior to PanTerra Networks, Ranga was the Chief Architect at
+eMatrix. Prior to eMatrix, Ranga held engineering architect positions at MedPlexus, Ericsson,
+and NHCL.
+Jerome Friesenhahn, Vice President of Customer Success
+Jerome Friesenhahn has over 20 years of hi-tech experience with a focus on cloud-based unified
+communications since 2000. Prior to PanTerra Networks, Jerome was EVP with Allnet Services,
+where he managed all sales and technical operations, including building strong business
+relationships with early adopters of cloud unified communications providers.
+Dave Immethun, Senior Director of Marketing
+Dave Immethun has spent over 20 years in various marketing and sales positions in the
+communications field. Prior to PanTerra Networks, Dave was the Sr. Director of Sales and
+Director of Product Marketing at Packet8/8x8 Inc. Prior to 8x8 Inc., Dave was Director of
+Product Management at AltiGen Communications, an IP-PBX equipment provider. Mr.
+Immethun started his career at Nortel Networks.
+
+Exhibit D
+Ownership Information
+The following shareholders can assert a 10% or more ownership interest in PanTerra:
+Topiary Capital Management, LLC
+Address: 1350 Old Bayshore Hwy, #920, Burlingame, CA 94010
+Telephone: (650) 469-3008
+Website: www.topiarycapital.com
+Ownership Interest: 54%
+Citizenship: United States
+Principal Business: Investment Fund
+No other entity can assert a 10% or more interest in PanTerra.

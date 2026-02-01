@@ -1,0 +1,345 @@
+ConnectTo Communications, Inc.
+Robocall Mitigation Plan
+(December 2024)
+
+Introduction
+This Robocall Mitigation Plan (RMP) details the reasonable steps and actions taken by ConnectTo
+Communications, Inc. (“ConnectTo”) to mitigate and eliminate illegal robocalling. ConnectTo has
+implemented STIR/SHAKEN, and has an ongoing commitment to identify and help alleviate illegal
+robocalling by pre-qualifying prospective customers, monitoring existing customers for traffic
+patterns indicative of prohibited robocalls, and working with other providers and regulatory
+agencies in combatting fraudulent voice activity.
+All calls that originate on its network are subject to a robocall mitigation program. All telecom
+services rely, in part, on ConnectTo’s underlying providers for STIR/SHAKEN implementation and
+other robocall mitigation efforts.
+The Company is not a foreign voice service provider.
+The Company does not sell services to international call originators using North American
+Numbering Plan Numbers.
+Compliance History
+In the past two years, the Company has not been the subject of a formal Commission, law
+enforcement, or regulatory agency action or investigation with accompanying findings of actual
+or suspected wrongdoing due to the filing entity transmitting, encouraging, assisting, or
+otherwise facilitating illegal robocalls or spoofing, or a deficient Robocall Mitigation Database
+certification or mitigation program description.
+No prior RMD certification has been removed by the Commission. The Company has not been
+prohibited from filing in the Robocall Mitigation Database by the Commission.
+The person within the Company responsible for addressing all robocall mitigation-related issues,
+is:
+Name: Aram Ter-Martirosyan
+Title: CTO/CIO
+Department: IT
+Telephone Number: (818) 546-4601
+Email Address: aram@connectto.com
+STIR/SHAKEN Implementation
+ConnectTo has fully implemented the STIR/SHAKEN authentication framework across the entire
+IP portion of its network, and all calls it originates are compliant with § 64.6301(a)(1) and (2). This
+compliance is due, in part, to ConnectTo’s underlying service providers being STIR/SHAKEN
+compliant within the IP portions of their networks.
+
+The Company uses a third-party vendor/underlying carrier to sign its calls and ConnectTo has its
+own token. ConnectTo does not allow its customers to spoof CallerID, so any outgoing CallerID
+can easily be traced back to ConnectTo’s customer.
+In addition to analytics provided by its underlying service provider(s), the Company uses a third-
+party call analytics vendor, Transnexus. ConnecTo utilizes AI-driven call analytics systems to
+monitor and flag suspicious patterns, such as high-volume short-duration calls or calls to
+disconnected numbers. Calls flagged as likely illegal are automatically blocked.
+Traceback Requests
+The Company commits to respond fully within 24 hours to all traceback requests from the
+Commission, law enforcement, and the industry traceback consortium, and to cooperate with
+such entities in investigating and stopping any illegal robocallers that use its service to originate
+calls.
+If a traceback exposes an existing customer as the source of fraudulent robocalls, or as having
+transmitted fraudulent robocalls, a demand for an explanation and verification of mitigation of
+the traffic is issued to the customer. If the fraudulent traffic is not remediated, ConnectTo initiates
+blocking of all traffic from the offending customer.
+The Company’s point of contact to handle traceback requests is:
+Name: Aram Ter-Martirosyan
+Title: CTO/CIO
+Department: IT
+Telephone Number: (818) 546-4601
+Email Address: aram@connectto.com
+Know Your Customer
+ConnectTo has implemented Know Your Customer (KYC) policies when onboarding new or
+renewing customers to ensure that such customers and providers do not or are not likely to
+engage in any prohibited conduct. Post-onboarding, ConnectTo continuously monitors call traffic
+for unusual patterns or violations of its terms of service.
+ConnectTo’s KYC practices include:
+1. Customer Information: Potential clients must provide government-issued identification,
+proof of business registration, contact details, and a valid tax ID.
+
+2. Caller ID Restrictions: Customers are required to use valid, non-spoofed caller IDs. Invalid
+or unverified caller IDs are blocked.
+3. Payment Limits: Payments are monitored, and suspicious activity, such as unusually large
+or frequent transactions, is flagged for review.
+4. Ongoing Monitoring: Customer call traffic is continuously analyzed for compliance, and
+accounts exhibiting irregular patterns are reviewed.
+5. Account Vetting: ConnectTo reviews business use cases to ensure services are used only
+for legitimate purposes, terminating accounts if illegal activity is detected.
+Additionally, prospects are required to agree to ConnectTo’s strict Acceptable Use Policies (AUP)
+prohibiting, among other things, the act of fraudulent voice activity as a condition of doing
+business with ConnectTo.
+ConnectTo requires all customers to comply with the Telephone Consumer Protection Act and its
+implementing regulations, the Telemarketing Sales Rule, regulations implementing the FCC’s
+national Do-Not-Call registry, and all other rules and regulations governing the sending of
+telemarketing calls and/or robocalls.
+Telephone Number Validation:
+A Telephone Number (“TN”) based caller identity is the originating phone number included in call
+signaling used to identify the caller for screening purposes that is uniquely associated with the
+subscriber. A subscriber is permitted to use a TN as a caller identity if a TN is directly managed by
+ConnectTo and/or obtained by ConnectTo from ConnectTo’s underlying carrier for use by the
+subscriber.
+For subscribers with multi-line telephone systems, ConnectTo and its underlying provider(s) only
+allow calls to be connected if the originating number matches one of the TN’s assigned to the
+subscriber. This screening capability enables an automated and secure method of validating
+originating telephone numbers.
+Ongoing Robocall Mitigation
+ConnectTo monitors and examines customer traffic to detect suspicious call activity and/or calling
+patterns. When ConnectTo and/or its underlying providers detect network usage patterns
+consistent with illegal robocalls or suspect illegal robocalling is taking place, ConnectTo will
+immediately seek to identify the party that is originating, terminating, or routing these calls so
+that it may take appropriate action. The actions taken may include, but are not limited to,
+initiating a traceback investigation; verifying that the originating customer owns or is authorized
+
+to use the Caller ID number; determining whether the Caller ID name sent to a receiving party
+matches the customer’s corporate and/or d/b/a name; block (or initiate third-party blocking) the
+party’s ability to originate, terminate, or route calls on the network; and/or providing notice to
+law enforcement authorities.
+As part of its plan to mitigate and prevent any originating robocalls, ConnectTo is committed to
+early identification and investigation of possible robocalling conditions. Among other things,
+ConnectTo watches for higher-than-normal subscriber traffic volume, including large bursts of
+traffic in small timeframes or spikes in usage. ConnectTo also monitors for originating calls of short
+duration and low call completion percentages and originating calls with sequential “called to”
+number dialing patterns.
+Updating ConnectTo’s RMD Submission and RMP
+Consistent with FCC Regulations, 47 C.F.R. § 64.6305(d)(5), (e)(5) and (f)(5), ConnectTo will update
+its submission in the RMD within 10 business days of any change to the applicable information it
+must provide and update in the RMD.
+The Company’s RMP continues to develop as the Company and the industry gain expertise and
+deploy new robocall mitigation strategies and will be supplemented in future updates.
+
+ConnectTo Communications, Inc.
+Robocall Mitigation Plan
+(December 2024)
+
+Introduction
+This Robocall Mitigation Plan (RMP) details the reasonable steps and actions taken by ConnectTo
+Communications, Inc. (“ConnectTo”) to mitigate and eliminate illegal robocalling. ConnectTo has
+implemented STIR/SHAKEN, and has an ongoing commitment to identify and help alleviate illegal
+robocalling by pre-qualifying prospective customers, monitoring existing customers for traffic
+patterns indicative of prohibited robocalls, and working with other providers and regulatory
+agencies in combatting fraudulent voice activity.
+All calls that originate on its network are subject to a robocall mitigation program. All telecom
+services rely, in part, on ConnectTo’s underlying providers for STIR/SHAKEN implementation and
+other robocall mitigation efforts.
+The Company is not a foreign voice service provider.
+The Company does not sell services to international call originators using North American
+Numbering Plan Numbers.
+Compliance History
+In the past two years, the Company has not been the subject of a formal Commission, law
+enforcement, or regulatory agency action or investigation with accompanying findings of actual
+or suspected wrongdoing due to the filing entity transmitting, encouraging, assisting, or
+otherwise facilitating illegal robocalls or spoofing, or a deficient Robocall Mitigation Database
+certification or mitigation program description.
+No prior RMD certification has been removed by the Commission. The Company has not been
+prohibited from filing in the Robocall Mitigation Database by the Commission.
+The person within the Company responsible for addressing all robocall mitigation-related issues,
+is:
+Name: Aram Ter-Martirosyan
+Title: CTO/CIO
+Department: IT
+Telephone Number: (818) 546-4601
+Email Address: aram@connectto.com
+STIR/SHAKEN Implementation
+ConnectTo has fully implemented the STIR/SHAKEN authentication framework across the entire
+IP portion of its network, and all calls it originates are compliant with § 64.6301(a)(1) and (2). This
+compliance is due, in part, to ConnectTo’s underlying service providers being STIR/SHAKEN
+compliant within the IP portions of their networks.
+
+The Company uses a third-party vendor/underlying carrier to sign its calls and ConnectTo has its
+own token. ConnectTo does not allow its customers to spoof CallerID, so any outgoing CallerID
+can easily be traced back to ConnectTo’s customer.
+In addition to analytics provided by its underlying service provider(s), the Company uses a third-
+party call analytics vendor, Transnexus. ConnecTo utilizes AI-driven call analytics systems to
+monitor and flag suspicious patterns, such as high-volume short-duration calls or calls to
+disconnected numbers. Calls flagged as likely illegal are automatically blocked.
+Traceback Requests
+The Company commits to respond fully within 24 hours to all traceback requests from the
+Commission, law enforcement, and the industry traceback consortium, and to cooperate with
+such entities in investigating and stopping any illegal robocallers that use its service to originate
+calls.
+If a traceback exposes an existing customer as the source of fraudulent robocalls, or as having
+transmitted fraudulent robocalls, a demand for an explanation and verification of mitigation of
+the traffic is issued to the customer. If the fraudulent traffic is not remediated, ConnectTo initiates
+blocking of all traffic from the offending customer.
+The Company’s point of contact to handle traceback requests is:
+Name: Aram Ter-Martirosyan
+Title: CTO/CIO
+Department: IT
+Telephone Number: (818) 546-4601
+Email Address: aram@connectto.com
+Know Your Customer
+ConnectTo has implemented Know Your Customer (KYC) policies when onboarding new or
+renewing customers to ensure that such customers and providers do not or are not likely to
+engage in any prohibited conduct. Post-onboarding, ConnectTo continuously monitors call traffic
+for unusual patterns or violations of its terms of service.
+ConnectTo’s KYC practices include:
+1. Customer Information: Potential clients must provide government-issued identification,
+proof of business registration, contact details, and a valid tax ID.
+
+2. Caller ID Restrictions: Customers are required to use valid, non-spoofed caller IDs. Invalid
+or unverified caller IDs are blocked.
+3. Payment Limits: Payments are monitored, and suspicious activity, such as unusually large
+or frequent transactions, is flagged for review.
+4. Ongoing Monitoring: Customer call traffic is continuously analyzed for compliance, and
+accounts exhibiting irregular patterns are reviewed.
+5. Account Vetting: ConnectTo reviews business use cases to ensure services are used only
+for legitimate purposes, terminating accounts if illegal activity is detected.
+Additionally, prospects are required to agree to ConnectTo’s strict Acceptable Use Policies (AUP)
+prohibiting, among other things, the act of fraudulent voice activity as a condition of doing
+business with ConnectTo.
+ConnectTo requires all customers to comply with the Telephone Consumer Protection Act and its
+implementing regulations, the Telemarketing Sales Rule, regulations implementing the FCC’s
+national Do-Not-Call registry, and all other rules and regulations governing the sending of
+telemarketing calls and/or robocalls.
+Telephone Number Validation:
+A Telephone Number (“TN”) based caller identity is the originating phone number included in call
+signaling used to identify the caller for screening purposes that is uniquely associated with the
+subscriber. A subscriber is permitted to use a TN as a caller identity if a TN is directly managed by
+ConnectTo and/or obtained by ConnectTo from ConnectTo’s underlying carrier for use by the
+subscriber.
+For subscribers with multi-line telephone systems, ConnectTo and its underlying provider(s) only
+allow calls to be connected if the originating number matches one of the TN’s assigned to the
+subscriber. This screening capability enables an automated and secure method of validating
+originating telephone numbers.
+Ongoing Robocall Mitigation
+ConnectTo monitors and examines customer traffic to detect suspicious call activity and/or calling
+patterns. When ConnectTo and/or its underlying providers detect network usage patterns
+consistent with illegal robocalls or suspect illegal robocalling is taking place, ConnectTo will
+immediately seek to identify the party that is originating, terminating, or routing these calls so
+that it may take appropriate action. The actions taken may include, but are not limited to,
+initiating a traceback investigation; verifying that the originating customer owns or is authorized
+
+to use the Caller ID number; determining whether the Caller ID name sent to a receiving party
+matches the customer’s corporate and/or d/b/a name; block (or initiate third-party blocking) the
+party’s ability to originate, terminate, or route calls on the network; and/or providing notice to
+law enforcement authorities.
+As part of its plan to mitigate and prevent any originating robocalls, ConnectTo is committed to
+early identification and investigation of possible robocalling conditions. Among other things,
+ConnectTo watches for higher-than-normal subscriber traffic volume, including large bursts of
+traffic in small timeframes or spikes in usage. ConnectTo also monitors for originating calls of short
+duration and low call completion percentages and originating calls with sequential “called to”
+number dialing patterns.
+Updating ConnectTo’s RMD Submission and RMP
+Consistent with FCC Regulations, 47 C.F.R. § 64.6305(d)(5), (e)(5) and (f)(5), ConnectTo will update
+its submission in the RMD within 10 business days of any change to the applicable information it
+must provide and update in the RMD.
+The Company’s RMP continues to develop as the Company and the industry gain expertise and
+deploy new robocall mitigation strategies and will be supplemented in future updates.
+
+FCC VoIP Numbering Authorization Application
+Applicant Information:
+• Company Name: ConnectTo Communications, Inc.
+• Website: http://www.ConnectTo.com
+• Address: 555 Riverdale, Suite A, Glendale, CA 91204
+• Primary Contact: Aram Ter-Martirosyan
+• Email: aram@ConnectTo.com
+• Phone: 818.546.4601
+• Fax: 818.546.4617
+Operating Company Number (OCN): OOU
+214 License: Authorized for international telecommunications services
+California CPCNs:
+• ConnectTo Communications (U-6977-C)
+• ConnectTo World (U-4541-C)
+Application Statement:
+Pursuant to Section 52.15(g)(3) of the Federal Communications Commission's (FCC) rules,
+ConnectTo Communications, Inc. ("ConnectTo") hereby submits this application for authorization
+to obtain numbering resources directly from the North American Numbering Plan Administrator
+(NANPA) and/or the Pooling Administrator (PA). ConnectTo seeks nationwide authorization to
+support its interconnected VoIP services.
+Certifications:
+1. FCC Numbering Rules Compliance (47 CFR § 52.15(g)(3)(ii)(B))
+ConnectTo Communications certifies that it will comply with all applicable numbering rules
+and industry guidelines as set forth by the FCC.
+2. Robocall Mitigation Certification (47 CFR § 52.15(g)(3)(ii)(C))
+ConnectTo Communications certifies that it complies with the robocall mitigation
+requirements established by the FCC and has implemented an appropriate robocall
+mitigation plan to prevent unlawful robocalls.
+3. STIR/SHAKEN Compliance Certification (47 CFR § 52.15(g)(3)(ii)(D))
+ConnectTo Communications certifies compliance with the STIR/SHAKEN framework for
+caller ID authentication to prevent caller ID spoofing and ensure trust in voice
+communications.
+
+4. 911/CALEA Compliance Certification (47 CFR § 52.15(g)(3)(ii)(E))
+ConnectTo Communications certifies that it complies with all applicable regulations
+regarding 911 emergency services and the Communications Assistance for Law
+Enforcement Act (CALEA), ensuring that emergency calls are properly routed to Public
+Safety Answering Points (PSAPs). ConnectTo Communications is a CLEC and has 911
+connectivity and is already routing 911 calls.
+5. Access Stimulation Certification (47 CFR § 52.15(g)(3)(ii)(F))
+ConnectTo Communications certifies that it does not engage in access stimulation as
+defined in the FCC's rules and will notify the FCC if its business model changes in a way
+that would require it to comply with access stimulation rules.
+6. Cross-Referenced Rules Certification (47 CFR § 52.15(g)(3)(ii)(J))
+ConnectTo Communications certifies compliance with all applicable FCC regulations,
+including those referenced in the cross-referenced sections of 47 CFR § 52.15(g)(3).
+7. Technical Personnel Certification (47 CFR § 52.15(g)(3)(ii)(K))
+ConnectTo Communications certifies that it has identified technical personnel responsible
+for compliance with numbering authorization rules. The following individual oversees these
+technical responsibilities:
+o Aram Ter-Martirosyan, CIO
+o aram@connectto.com
+8. Additional Required Disclosures (47 CFR § 52.15(g)(3)(ii)(L))
+ConnectTo Communications provides the required information as outlined in Sections
+68.18(h) and (i), including multiple subparts.
+Facilities Readiness Proof (47 CFR § 52.15(g)(3)(ii)(H))
+ConnectTo Communications provides documentation evidence supporting its facilities readiness.
+This includes commercial agreements with carrier partners and interconnection agreements (ICA)
+between the carrier partner and ILEC, which clearly outline the ability to originate and terminate
+calls to and from the PSTN, per FCC Orders (2015 Order, para. 37, and 2023 Order, para. 57). A
+redacted version of the ICA with signatures and terms or a link to a publicly filed ICA is included.
+ConnectTo Communications is a Competitive Local Exchange Carrier (CLEC) operating in California
+and has interconnection agreements with AT&T and Verizon. Additionally, ConnectTo has all
+required interconnection agreements with incumbent local exchange carriers (ILECs) to support its
+operations.
+Proof of 911/CALEA Compliance (47 CFR § 52.15(g)(3)(ii)(E))
+In addition to the required certification, ConnectTo Communications submits supporting
+documentation, including a service agreement with a carrier partner that clearly outlines
+Emergency 911 voice service and PSAP call-back capabilities.
+
+State List:
+ConnectTo Communications, Inc. currently operates in California and has existing interconnection
+agreements. ConnectTo Communications will start by expanding to adjacent states to California
+and then progressively extend numbering resources to all other U.S. states and territories under this
+authorization.
+State Notification:
+ConnectTo understands its obligation to notify each relevant state commission at least 30 days
+before requesting numbering resources.
+Numbering Resource Request:
+ConnectTo acknowledges the requirement to submit evidence of FCC authorization, state
+notifications, and facilities readiness to NANPA or the PA when requesting numbering resources.
+Certification Statement:
+I, Aram Ter-Martirosyan, hereby certify under penalty of perjury that the information contained in
+this application is true and accurate to the best of my knowledge.
+Signature: __ _
+Printed Name: Aram Ter-Martirosyan
+Title: Chief Information Officer
+Date: ______3/6/2025____
+List of Requested Proof Documents for Attachment:
+1. Interconnection Agreements (ICA) with AT&T, Verizon, and other ILECs
+https://clec.att.com/clec_cms/clec/Docs/Doc_2139992.pdf
+https://clec.att.com/clec_cms/clec/clec1.html
+https://documents.dps.ny.gov/public/MatterManagement/CaseMaster.aspx?MatterSeq=27
+170&MNO=06-C-1339
+
+https://docs.fcc.gov/public/attachments/DA-05-2540A1.pdf
+2. Commercial Agreements with carrier partners for facilities readiness proof
+3. Robocall Mitigation Plan showing compliance with FCC requirements
+4. STIR/SHAKEN Implementation Proof
+5. 911 Service Agreement with a carrier partner for emergency call routing
+6. CALEA Compliance Documentation
+Our Switch CALEA compliance certification online
+https://share.signalwire.com/hubfs/PDFs/SignalWire-FreeSWITCH-Advantage-
+Agreement.pdf
+7. State Notification Copies showing compliance with 30-day notification requirements
+These documents should be attached to the application submission to ensure compliance with
+FCC requirements.

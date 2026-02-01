@@ -1,0 +1,603 @@
+!
+Telengy,!LLC!
+11!Broadway,!Suite!1015!
+New!York,!NY!10004!
+!
+Gregory!Borodiansky!
+CTO!
+(212)!379E4041!
+gregory@telengy.net!
+!
+January'3,'2017'
+VIA'ECFS'
+!
+Ms.!Marlene!H.!Dortch!
+Secretary!
+Federal!Communications!Commission!
+445!12th!Street!SW!
+Washington,!DC!20554!
+!
+Re:!Docket!WC'16=297'='Telengy!LLC,!Number!Authorization!Application'
+!
+Dear!Ms.!Dortch:!
+!
+Pursuant!to!Section!52.15(g)(3)(i)!of!the!Commission’s!Rules,!Telengy,!LLC!hereby!submits!the!
+following!additional!information!and!documentation!to!its!Numbering!Authorization!Application,!
+originally!filed!September!21,!2016!under!Docket!WC!16E297,!as!requested!by!FCC!staff.!
+!
+As!of!the!date!of!this!letter,!Telengy!provides!Interconnected!VoIP!Service!to!revenue!generating!
+endEusers,!and!will!file!FCC!Form!477!upon!the!next!due!date.!
+!
+Attached! is! documentation! showing! proof! of! its! facilities! readiness! and! demonstrating! an!
+established!interconnect!between!Telengy!and!its!carrier!partner,!Inteliquent!(formerly!Neutral!
+Tandem).! These! documents! show! the! trunk! in! service! between! Inteliquent! and! Telengy!
+(Attachment!A)!for!inbound!calls!to!Telengy!numbers,!as!well!as!agreements!in!place!between!
+Inteliquent!and!Verizon!(Attachment!B),!covering!the!eight!states!and!Washington!DC!which!
+Telengy!intends!to!initially!obtain!numbers!within.!
+!
+Should!you!have!any!questions,!please!feel!free!to!contact!me!at!any!time.!
+!
+Sincerely,!
+!
+Gregory!Borodiansky!
+CTO!
+Telengy,!LLC!
+!
+
+!
+!
+!
+Attachment!A!
+! !
+
+The following inbound trunk group(s) have been completed, activated and are in service as
+of 12/9/2016 for Inteliquent customer Telengy:
+Order 1061107
+Thank you,
+Chris Sayer
+Chris Sayer
+Director Product Management, Inteliquent
+o: 312-348-8822 m: 303.250.0872 24-hr NOC: 866.388.7258
+1500 Champa Street, Suite 201, Denver, CO 80202
+www.inteliquent.com e: csayer@inteliquent.com
+inteliquent. 550 West Adams Street. Suite 900. Chicago, IL 60661. 855.404.4768. inteliquent.com
+
+!
+!
+!
+Attachment!B!
+!
+
+AMENDMENT
+to
+INTERCONNECTION AGREEMENTS
+THIS AMENDMENT (this "Amendment" ) amends each of the following
+Interconnection Agreements {the "Interconnection Agreements" ):(a) each Interconnection
+Agreement listed in Appendix 2 to this Amendment; and, (b), any other Interconnection
+Agreement under Sections 251 and 252 of the Communications Act of 1934,47 U. S.C. gg
+251 and 252 (including, but not limited to, an interconnection agreement that is an
+adoption pursuant to 47 U.S.C. $ 252(i)) that became effective prior to October l6, 2006,
+or that becomes effective on or after October 16, 2006, between a Verizon Party and an
+NT Party for the Verizon Party's Incumbent Local Exchange Carrier service area. As used
+in this Amendment, (a) the "Verizon Parties" include each of the Verizon companies listed
+in Appendix 1 (each individually "Verizon" or a "Verizon Party" and collectively "Verizon" or
+the "Verizon Parties"), and, (b) the "NT Parties" include each of the NT companies listed in
+Appendix 1 and each of their wireline affiliates (each individually "NT" or an "NT Party" and
+collectively "NT" or the "NT Parties"). Verizon and NT are hereinafter referred to, each
+"
+individually, as a "Party" and, collectively, as the "Parties. This Amendment shall become
+effective for each of the Interconnection Agreements listed in Appendix 2 as of October 16,
+2006 and for any other Interconnection Agreement as of the later of October 16, 2006 or
+the date on which such Interconnection Agreement becomes effective. The term
+"
+"affiliates, as used in this Amendment, shall have the same meaning as under Rule 405 of
+the Rules promulgated pursuant to the Securities Act of 1933,as amended.
+WITNESSETH:
+W—HEREAS, pursuant to 47 U. S.C. $ 252(i), effective October 16,2006, Neutral
+Tandem New York, LLC adopted the August 1,2006 "Interconnection Agreement Under
+Sections 251 and 252 of the Telecommunications Act of 1996By and Between Verizon
+New York Inc. and ATBT Communications of New York, Inc."; and
+WHEREAS, in such adoption letter, Verizon and NT recognized and agreed that the
+Unitary Rate Amendment (as defined in Section 1, below) shall apply to all of the
+Interconnection Agreements in accordance with the Unitary Rate Amendment's terms; and
+WHEREAS, the Parties desire to amend the Unitary Rate Amendment and each
+Interconnection Agreement as set forth herein;
+NOW, THEREFORE, in consideration of the mutual promises, provisions and
+covenants herein contained, the Parties agree as follows:
+Definition. As used in this Amendment, "Unitary Rate Amendment" means
+Amendment No. 1 to the August 1,2006 "Interconnection Agreement Under
+Sections 251 and 252 of the Telecommunications Act of 1996By and Between
+"
+Verizon New York Inc. and A—TBT Communications of New York, Inc. that was
+,
+adopted by Neutral Tandem New York, LLC, effective October 16,2006, pursuant
+Neutral Tandem Amend 121106
+
+to 47 U.S.C. g 252(i). A copy of the Unitary Rate Amendment is set out in Appendix
+3to this Amendment.
+2. ~Alication of the Unita Rate Amendment. The Parties hereby reaffirm that the
+Unitary Rate Amendment, as amended by this Amendment, shall apply to and be a
+part of each Interconnection Agreement in accordance with the Unitary Rate
+Amendment's terms. References to AT8T in the Unitary Rate Amendment shall be
+deemed to be references to NT.
+Amendment of the Unita Rate Amendment. The Unitary Rate Amendment and
+each Interconnection Agreement is amended as follows:
+" "
+a. Existing Section 6, "Other Traffic, ofAttachment 2, "Terms and Conditions, of
+the Unitary Rate Amendment is deleted from the Unitary Rate Amendment.
+"
+b. A new Section 6, "Other Traffic, as set out in Appendix 4 to this Amendment, is
+added to Attachment 2 of the Unitary Rate Amendment in lieu of existing Section
+6 of Attachment 2 ofthe Unitary Rate Amendment.
+"
+c. The second sentence of Section 8(a), "Interconnection Architecture, "Traffic to
+"
+Which The Interconnection Architecture Applies, of Attachment 2 ofthe Unitary
+Rate Amendment, which presently reads:
+"They also apply to interconnection facilities used by the Parties to exchange
+translated LEC IntraLATA toll free service access code (e.g. 800/888/877)
+,
+traffic, IntraLATA Toll traffic, tandem transit traffic, V/FX Traffic that is not ISP-
+Bound Traffic, and VOIP Traffic, subject, however, to the applicable terms, if
+any, set forth in the Interconnection Agreements or applicable tariffs (if any)
+"
+relating to compensation for facilities, as modified by this Amendment.
+is amended to read:
+"They also apply to interconnection facilities used by the Parties to exchange
+translated LEC IntraLATA toll free service access code (e.g., 800/888/877)
+traffic, IntraLATA Toll traffic, Tandem Transit Traffic (as defined in Section
+6.2.1.1,above), Four-Party Traffic (as defined in Section 6.2.2.1,above), V/FX
+Traffic that is not ISP-Bound Traffic, and VOIP Traffic, subject, however, to the
+applicable terms, if any, set forth in the Interconnection Agreements or
+applicable tariffs (if any) relating to compensation for facilities, as modified by
+"
+this Amendment.
+d. The third sentence of Section 8(d)(i) of Attachment 2 ofthe Unitary Rate
+Amendment, which presently reads:
+"Appendix A sets forth those LATAs where ATBT and Verizon are not
+interconnected as of November 1,2004 and for which the mutual POI terms set
+forth below shall apply, if interconnection is implemented between the Parties in
+"
+those LATAs.
+Neutral Tandem Amend 121106
+
+"Forthose LATAs where NT and Venzon were not interconnected as o
+November 1,2004, the mutual POI terms set forth below shall apply, if
+"
+interconnection is implemented between the Parties in those LATAs.
+"
+e. "Appendix A, "LATAs Where Verizon and AT8 7 Are Not Interconnected As of
+"
+August 1,2006, of Attachment 2 of the Unitary Rate Amendment is deleted.
+f. Section 8(d)(vi) of Attachment 2 of the Unitary Rate Amendment is deleted.
+"
+g. "Appendix B, "3DCondo and Shared Network Facility Arrangements ("SNFA")
+"
+Established Between the Parties as of August 1,2006, of Attachment 2 of the
+Unitary Rate Amendment is deleted.
+Sco e of this Amendment. This Amendment shall amend, modify and revise the
+Unitary Rate Amendment and each Interconnection Agreement only to the extent
+set forth expressly in this Amendment, and, except to the extent set forth in this
+Amendment, the rates, terms and provisions of the Unitary Rate Amendment and
+each Interconnection Agreement shall remain in full force and effect after the
+effective date of this Amendment. Nothing in this Amendment shall be deemed to
+extend or amend the term of the Unitary Rate Amendment or any Interconnection
+Agreement, or to affect the right of a Party to exercise any right of termination it may
+have under the Unitary Rate Amendment or any Interconnection Agreement.
+Conflicts. This Amendment shall be deemed to revise the rates, terms and
+provisions of the Unitary Rate Amendment and each Interconnection Agreement to
+the extent necessary to give effect to the rates, terms and provisions of this
+Amendment. In the event of a conflict between the rates, terms and provisions of
+this Amendment and the rates, terms and provisions of the Unitary Rate
+Amendment or an Interconnection Agreement, this Amendment shall govern,
+provided, however, that the fact that a rate, term or provision appears in this
+Amendment but not in the Unitary Rate Amendment or an Interconnection
+Agreement, or in the Unitary Rate Amendment or an Interconnection Agreement but
+not in this Amendment, shall not be interpreted as, or deemed grounds for finding, a
+conflict for purposes of this Section 5.
+t rt . This Amendment may be executed in one or more counterparts,
+each of which when so executed and delivered shall be an original and all of which
+together shall constitute one and the same instrument.
+~Ca tions. The Parties acknowledge that the captions in this Amendment have been
+inserted solely for convenience of reference and in no way define or limit the scope
+or substance of any rate, term or provision of this Amendment.
+Neutral Tandem Amend 121306
+
+SIGNATURE PAGE
+IN WITNESS WHEREOF, the Parties hereto have caused this Amendment to be
+executed.
+The Neutral Tandem Parties The Verizon Parties
+By: By:
+Printed: Printed: Jeffrey A. Masoner
+Title: tlP g«Linc graven uf Title: Vice President — Interconnection
+t
+Q~TC.&iC-L= 5 Services
+ilq eq
+Date: Date:
+Neutral Tandem Amend 121106
+
+VERIZON PARTIES
+Verizon California Inc. , a California corporation with a place of business at 112
+Lakeview Canyon Road, Thousand Oaks, California, 91362.
+Verizon Delaware LLC, a Delaware limited liability company with a place of
+business at 901 Tatnall Street, Wilmington, Delaware, 19801.
+Verizon Florida Inc. , a Florida corporation with a place of business at 201 North
+Franklin Street, One Tampa City Center, Tampa, Florida, 33602.
+Verizon Maryland Inc. , a Maryland corporation with a place of business at One
+8'"
+East Pratt Street, Floor, Baltimore, Maryland 21202.
+Verizon New England Inc. , a New York corporation with a place of business at
+185Franklin Street, Boston, Massachusetts, 02110.
+Verizon New Jersey Inc., a New Jersey corporation with a place of business at
+540 Broad Street, Newark, New Jersey 07102.
+Verizon New York Inc. , a New York corporation with a place of business at 140
+West Street, New York, New York, 10007.
+Verizon North Inc. , a Wisconsin corporation with a place of business at 8001
+West Jefferson Boulevard, Fort Wayne, Indiana, 46804.
+Verizon Northwest Inc. , a Washington corporation with a place of business at
+41"
+1800 Street, Everett, Washington, 98201.
+Verizon Pennsylvania Inc. , a Pennsylvania corporation with a place of business
+at 1717Arch Street, Philadelphia, Pennsylvania, 19103.
+Verizon South Inc. , a Virginia corporation with a place of business at 201 North
+Franklin Street, One Tampa City Center, Tampa, Florida, 33602.
+Verizon Virginia lnc., a Virginia corporation with a place of business at 600 East
+Main Street, 11'" Floor, Richmond, Virginia, 23219.
+Verizon Washington, DC Inc. , a New York corporation with a place of business at
+2055 L Street, NW, 5'" Floor, Washington, DC, 20036.
+Verizon West Virginia Inc, a West Virginia corporation with a place of business at
+1500MacCorkle Ave. , S.E. , Charleston, West Virginia, 25314.
+GTE Southwest Incorporated a Delaware corporation with a place of business at
+500 East Carpenter Freeway, Irving, Texas, 75062.
+Appendix 1
+Neutral Tandem Amend 121106
+
+Contel of the South Inc. , a Georgia corporation with a place of business at 600
+Hidden Ridge, Irving, Texas, 75038.
+Appendix 1
+Neutral Tandem Amend 121106
+
+NEUTRAL TANDEM PARTIES
+—
+Neutral Tandem California, LLC, a Delaware limited liability company with a
+place of business at 1 South Wacker Drive, Suite 200, Chicago, Illinois, 60606.
+—
+Neutral Tandem Florida, LLC, a Delaware limited liability company with a place
+of business at 1 South Wacker Drive, Suite 200, Chicago, Illinois, 60606.
+—
+Neutral Tandem Illinois, LLC, a Delaware limited liability company with a place
+of business at 1 South Wacker Drive, Suite 200, Chicago, Illinois, 60606.
+—
+Neutral Tandem Maryland, LLC, a Delaware limited liability company with a
+place of business at 1 South Wacker Drive, Suite 200, Chicago, Illinois, 60606.
+—
+Neutral Tandem Massachusetts, LLC, a Delaware limited liability company with
+a place of business at 1 South Wacker Drive, Suite 200, Chicago, Illinois, 60606.
+—
+Neutral Tandem Michigan, LLC, a Delaware limited liability company with a
+place of business at 1 South Wacker Drive, Suite 200, Chicago, Illinois, 60606.
+—
+Neutral Tandem New Jersey, LLC, a Delaware limited liability company with a
+place of business at 1 South Wacker Drive, Suite 200, Chicago, Illinois, 60606.
+—
+Neutral Tandem New York, LLC, a Delaware limited liability company with a
+place of business at 1 South Wacker Drive, Suite 200, Chicago, Illinois, 60606.
+—
+Neutral Tandem Virginia, LLC, a Delaware limited liability company with a place
+of business at 1 South Wacker Drive, Suite 200, Chicago, Illinois, 60606.
+—
+Neutral Tandem Washington, D.C. , LLC, a Delaware limited liability company
+with a place of business at 1 South Wacker Drive, Suite 200, Chicago, Illinois,
+60606.
+Appendix 1
+Neutral Tandem Amend 121106
+
+Appendix 2
+Interconnection Agreements Between the Parties as of October 16,2006
+THIS
+TITLEOF AMENDMENT
+NAMES OF EFFECTIVE
+STATE INTERCONNECTION IS
+PARTIES DATE
+AGREEMENT AMENDMENT
+- NUMBER
+California Adoption—by Neutral Verizon 10/23/2004 No. 3
+Tandem California, LLC California Inc.
+Pursuant to 47 U.S.C. 5
+252(i) ofthe: Neutral
+Tandem—
+Interconnection, Resale California, LLC
+and Unbundling
+Agreement between GTE
+California Incorporated,
+Contel ofCalifornia, Inc.
+and AT&T
+Communications of
+California, Inc.
+District of Agreement by and Verizon 3/27/2006 No. 2
+Columbia between Neutral Tandem- Washington,
+Washington, D.C., LLC DC inc.
+and Verizon Washington,
+DC Inc.forthe District of Neutral
+Columbia Tandem—
+Washington,
+D.C. , LLC
+Florida Adoption—by Neutral Verizon Florida 11/7/05 No. 1
+Tandem Florida, LLC Inc.
+Pursuant to 47 U.S.C.g
+252(i) ofthe: Neutral
+Tandem—
+Agreement by and Florida, LLC
+Between Us LECof
+Florida Inc. and Verizon
+Florida Inc.,f/k/a GTE
+Florida incorporated for
+the State of Florida
+Maryland Agreement by and Verizon 3/27/2006 No. 2
+between Neutral Tandem- Maryland Inc.
+Maryland, LLC and
+Verizon Maryland Inc.for Neutral
+the State of Maryland Tandem-
+Ma land, LLC
+Appendix 2
+Neutral Tandem Amend 121106
+
+Massachusetts Adoption—by Neutral Verizon New 5/4/04
+Tandem Massachusetts, England Inc.
+LLC Pursuant to 47 g
+U.S.C.252(i) ofthe: Neutral
+Tandem—
+Interconnection Massachusetts,
+Agreement between LLC
+ATBT Communications of
+New England, Inc., and
+New England Telephone
+and Telegraph Company,
+d/b/a Bell Atlantic—
+Massachusetts
+New Jersey Adoption—by Neutral Verizon New 5/10/04
+Tandem New Jersey, Jersey Inc.
+LLC Pursuant to 47 g
+U.S.C.252(i) ofthe: Neutral —
+Tandem New
+Agreement Between Bell Jersey, LLC
+—
+Atlantic New Jersey,
+Inc. and Sprint
+Communications
+Com an L.P.
+New York Adoption—ByNeutral Verizon New 10/16/06
+Tandem New York, LLC York Inc.
+Pursuant To47 U.S.C.)
+252(i) ofthe: Neutral —
+Tandem New
+Interconnection York, LLC
+Agreement Under
+Sections 251 And 252 of
+the Telecommunications
+Act of 1996by and
+between Verizon New
+York lnc. and ATBT
+Communications of New
+York Inc.
+Appendix 2
+Neutral Tandem Amend 121106
+
+Ohio Adoption—by Neutral Verizon North 5/3/04
+Tandem Michigan, LLC Inc.
+Pursuant to 47 U.S.C. 5
+252(i) ofthe: Neutral
+Tandem—
+Interconnection, Resale Michigan, LLC
+and Unbundling
+Agreement between GTE
+North Incorporated and
+AT&T Communications of
+Ohio, Inc.
+Virginia Agreement by and Verizon Virginia 3/27/2006
+between Neutral Tandem- Inc.
+Virginia, LLC and Verizon
+Virginia Inc.forthe Neutral
+Commonwealth ofVirginia Tandem-
+Vir inia LLC
+Virginia Agreement by and Verizon South 3/27/2006
+between Neutral Tandem- Inc.
+Virginia, LLC and Verizon
+South inc. for the Neutral
+Commonwealth ofVirginia Tandem-
+Vir inia, LLC
+Wisconsin Adoption—by Neutral Verizon North 10/22/04
+Tandem Illinois, LLC lnc.
+Pursuant to 47 U.S.C. 5
+252(i) ofthe: Neutral
+Tandem-
+Interconnection, Resale lllinois, LLC
+and Unbundling
+Agreement between
+ATBT Communications of
+Wisconsin, Inc. and GTE
+North Incor orated
+Appendix 2
+Neutral Tandem Amend 121106
+
+Global Wholeseie
+600Hidden Ridge
+HQEVVMNOTIGES
+P.o.Bor152092
+irving, TX75038
+wmnoticesoverizon. corn
+July 19,2010
+Richard Monto
+Neutral Tandem -Pennsylvania, LLC
+1South Wacker, Suite 200
+Chicago, IL 60606
+rmonto@neutraltandern. corn
+Subject; Comprehensive Agreement between Verizon North Inc.,flkja GTENorth incorporated
+and Neutral Tandem -Pennsylvania, LLCin the Commonwealth ofPennsylvania dated
+October 10,2007(the "Agreement" )
+On July 1,2010,Verizon Communications Inc. ("Verizon"), the ultimate parent corporation toVerizon
+North inc.,conducted an internal restructuring, whereby Verizon North transferred certain assets,
+liabilities and contracts, Including the Agreement, toVerizon North Retain Co.(the "Transaction"}.
+Verizon North Retain Co.remains asubsidiary ofVerizon.
+Your organization will continue tohave avalid and binding contract with Verlzon North Retain Co.,a
+wholly owned subsidiary ofVerizon. Verizon North Retain Co, assumes all ofthe responsibilities,
+liabilities and rights ofVerizon North inc. under the Agreement on and after the closing date ofJuly 1,
+2010.
+Bythis letter, Verizon isrequesting the consent ofyour organization tothe assignment ofthe Agreement
+from Verizon North Inc.toVerizon North Retain Co.as ofthe closing ofthe Transaction, Your consent
+means that you agree that the Agreement will continue in force and effect in accordance with its rates,
+terms and conditions, on and after the closing ofthe Transaction, between your organization and Verizon
+North Retain Co,
+Bysending this letter Verizon does not admit that your consent is required orwaive any ofits rights under
+the Agreement.
+VPS2-ReieinCo
+1T736
+
+Comprehensive Agreement between Verizon North inc„f/k/a GTENorth Incorporated and Neutral Tandem-
+Pennsylvania, LLCin the Commonwealth ofPennsylvania dated October 10,2007(the "Agreement")
+July t4,2010
+Page 2
+Please indicate the consent ofyour organization' by executing this letter where indicated in the space
+provided below and returning itto:
+Verizon Global Wholesale
+Director-Contract Management
+600Hidden Ridge, HQEWMNotices
+Irving, TX 75038
+Should you have any questions you may contact your account team.
+Sincerely,
+.
+4--(/)44.~ ' 8
+David J.Goldhirsch
+Director-Contract Management
+Accepted and Agreed to by:
+Neutral Tandem -Pennsylvania, LLC
+Na
+Title;
+Date:
+VIA Electronic Mail
+VPS2-RetainCo
+17738
+
+AGREEMENT
+by and between
+NEUTRAL TANDEM -PENNSYLVANIA, LLC
+and
+VERIZON NORTH INC.
+FORTHE COMMONWEALTH OF
+PENNSYLVANIA
+NTPAw Compv3.109282007f.doc
+
+AGREEMENT
+PREFACE
+This Agreement ("Agreement" )shall be deemed effective as ofOctober 10,2007(the "Effective
+Date"),between Neutral Tandem - Pennsylvania, LLC ("Neutral Tandem" ),a Limited Liability
+Company organized under the laws ofthe State ofDelaware, with offices at 1 South Wacker,
+Suite 200, Chicago, IL 60606and Verizon North Inc. ("Verizon"), a corporation organized under
+the laws ofthe State ofWisconsin with offices at 8001 West Jefferson, Ft.Wayne, iN 46804
+(Verizon and Neutral Tandem may be referred to hereinafter, each, individually as a "Party", and,
+collectively, as the "Parties").
+Whereas, the Parties wish to enter into this Agreement pursuant to Section 252ofthe Act; and
+—
+Whereas, pursuant to47 U. S.C.g 252(i), effective October 16,2006, Neutral Tandem New
+York, LLC adopted the August 1,2006 "Interconnection Agreement Under Sections 251 and 252
+o C f o t m he mu T n e i l c e a c t o io m ns mun o ic f a N ti e o w ns Yo A rk c , t I o n f c. 1 , " 9 i 9 n 6 clu B d y in a g nd (b B u e t tw no e t en lim V ite e d rizo to n ) t N h e e w A Y T& or T k D In S c O .a L n o d op A /R T& es T ale
+Amendment and the Unitary Rate Amendment; and
+Whereas, the Unitary Rate Amendment was amended by an amendment signed by "The Neutral
+Tandem Parties" (as described in the amendment) on January 4,2007and "The Verizon Parties"
+(as described in the amendment) on January 11,2007(the "January 11,2007 URA
+Amendment" );and
+Whereas, the Parties acknowledge and reaffirm that as a result ofsuch adoption the AT&T DSO
+Loop/Resale Amendment applies to this Agreement in accordance with the terms ofthe AT&T
+DSO Loop/Resale Amendment; and
+Whereas, the Parties acknowledge and reaffirm that as a result ofsuch adoption and the January
+11,2007URA Amendment, the Unitary Rate Amendment, as amended by the January 11,2007
+URA Amendment, applies to this Agreement in accordance with the terms ofthe Unitary Rate
+Amendment, as amended by the January 11,2007 URA Amendment;
+Now Therefore, in consideration ofthe mutual promises contained in this Agreement, and
+intending to be legally bound, pursuant to Section 252 ofthe Act, Verizon and Neutral Tandem
+hereby agree as follows:
+GENERAL TERMS AND CONDITIONS
+The Agreement
+1.1 This Agreement inciudes: (a)the Principal Document {b)the Tariffs ofeach
+Party applicable to the Services that are offered for sale by itin the Principal
+Document (which Tariffs are incorporated into and made a part ofthis Agreement
+by reference); and, (c)an Order by a Party that has been accepted by the other
+Party.
+1.2 Except as otherwise expressly provided in the Principal Document (including, but
+not limited to, the Piicing Attachment), conflicts among provisions in the Principal
+Document, Tariffs, and an Order by a Party that has been accepted by the other
+Party, shall be resolved in accordarice with the following order ofprecedence,
+where the document identified. in subsection "(a)"shall have the highest
+precedence: (a)the Principal Document; (b)the Tariffs; and, {c)an Order by a
+Party that has been accepted by the other Party. The fact that a provision
+appears in the Principal Document but not in aTariff, or in aTariff but not in the
+NT PAw Compv3.109282007f.doc
+
+SIGNATURE PAGE
+IN WITNESS WHEREOF, the Parties hereto have caused this Agreement to be executed as of
+the Effective Date,
+NEUTRAL TANDEM - PENNSYLVANIA, LLC VERIZON NORTH INC.
+By:
+Printed: David Tatak Printed: Jeffrey A. Masoner
+Title; VP Billing and Revenue Services Title: Vice President -interconnection Services
+Date: Date:
+NTPAw compv3 109282007f.doc 27
+
+AGREEMENT
+by and between
+NEUTRAL TANDEM-RHODE ISLAND, LLC
+and
+VERIZON NEW ENGLAND INC.,D/BlA YERIZON RHODE ISLAND
+FORTHE STATE OF
+RHODEISLAND
+NT Rlv3.102112008
+
+AGREEMENT
+PREFACE
+This Agreement ("Agreement" )shall be deemed effective as ofFebruary 25,2008(the "Effective
+Date"),between Neutral Tandem-Rhode Island, LLC ("Neutral Tandem" ),a limited liability
+company organized under the laws ofthe State ofDelaware, with offices at 1 South Wacker,
+Suite 200, Chicago, IL 60605and Verizon New England Inc.,d/b/a Verizon Rhode Island
+("Verizon"), a corporation organized under the laws ofthe State ofNew York with offices at 185
+Franklin Street, Boston, MA 02110(Verizon and Neutral Tandem may be referred to hereinafter,
+each, individually as a "Party", and, collectively, as the "Parties").
+Whereas, the Parties wish to enter into this Agreement pursuant to Section 252ofthe Act; and
+—
+Whereas, pursuant to 47U.S.C.g 252(i), effective October 16,2006, Neutral Tandem New
+York, LLCadopted the August 1,2006"Interconnection Agreement Under Sections 251 and 252
+ofthe Telecommunications Act of 1996Byand Between Verizon New York Inc. and ATBT
+"
+Communications ofNew York, Inc., including (but not limited to)the AT&T DSO Loop/Resale
+Amendment and the Unitary Rate Amendment; and
+Whereas, the Unitary Rate Amendment was amended by an amendment signed by "The Neutral
+Tandem Parties" (as described in the amendment) on January 4, 2007and "TheVerizon Parties"
+(as described in the amendment) on January 11,2007(the "January 11,2007URA
+Amendment" );and
+Whereas, the Parties acknowledge and reaffirm that as a result ofsuch adoption the AT8T DSO
+Loop/Resale Amendment applies to this Agreement in accordance with the terms ofthe ATBT
+DSO Loop/Resale Amendment; and
+Whereas, the Parties acknowledge and reaffirm that as a result ofsuch adoption and the January
+11,2007URA Amendment, the Unitary Rate Amendment, as amended by the January 11,2007
+URA Amendment, applies tothis Agreement in accordance with the terms ofthe Unitary Rate
+Amendment, as amended by the January 11,2007URA Amendment;
+Now Therefore, in consideration ofthe mutual promises contained in this Agreement, and
+intending to be legally bound, pursuant to Section 252ofthe Act, Verizon and Neutral Tandem
+hereby agree asfollows:
+GENERAL TERMS AND CONDITIONS
+The Agreement
+1. 1 This Agreement includes: (a)the Principal Document; (b)the Tariffs ofeach
+Party applicable to the Services that are offered for sale by itin the Principal
+Document (which Tariffs are incorporated into and made a part ofthis Agreement
+by reference); and, (c)an Order by a Party that has been accepted by the other
+Party.
+1.2 Except as otherwise expressly provided in the Principal Document (including, but
+not limited to, the Pricing Attachment), conflicts among provisions in the Principal
+Document, Tariffs, and an Order by a Party that has been accepted by the other
+Party, shall be resolved in accordance with the following order ofprecedence,
+where the document identified in subsection "(a)"shall have the highest
+precedence: (a)the Principal Document; (b)the Tariffs; and, (c)an Order by a
+Party that has been accepted by the other Party. The fact that a provision
+appears in the Principal Document but not in aTariff, orin aTariff but not in the
+NTRlv3.102112008
+
+NTRlv3.102'l$2008 27

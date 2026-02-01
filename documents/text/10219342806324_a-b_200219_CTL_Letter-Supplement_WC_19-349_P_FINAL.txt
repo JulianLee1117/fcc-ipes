@@ -1,0 +1,156 @@
+CenturyLink
+Room 3162
+14111 Capital Boulevard
+Wake Forest, NC 27587
+Phone 984-237-1330
+Jeanne.W.Stockman@centurylink.com
+Jeanne W. Stockman
+Associate General Counsel
+February 19, 2020
+Non-Redacted Via Courier – Redacted Via ECFS
+Marlene H. Dortch
+Office of the Secretary
+Enforcement Bureau
+Federal Communications Commission
+445 12th Street, S.W.
+Washington, DC 20554
+Re: Request for Confidential Treatment of Exhibit A and Supplement to
+Application of CenturyLink Communications, LLC For Interconnected VoIP
+Numbering Authorization, WC Docket No. 19-349
+Dear Ms. Dortch:
+Pursuant to Section 52.15(g)(3)(i) of the Commission’s Rules, CenturyLink
+Communications, LLC (“CCLLC”), is supplementing its application requesting authorization to
+obtain numbering resources. Exhibit A of this is confidential information and bears the legend
+“CONFIDENTIAL INFORMATION – NOT FOR PUBLIC INSPECTION.” CCLLC is
+filing a public version of its supplement electronically (without Exhibit A) and a confidential
+version of Exhibit A to its supplement via courier. The confidential information in this
+submission reflects commercial information that is not routinely made available to the public and
+would cause competitive harm to CCLLC if disclosed. As such, this submission should be
+afforded confidential treatment under 47 C.F.R. §§ 0.457 and 0.459 of the Commission’s Rules,
+and CCLLC provides its justification for such treatment in the attached Appendix.
+Please contact the undersigned if you have questions concerning this submission.
+Respectfully submitted,
+/s/ Jeanne W. Stockman
+Enclosures
+cc (via email): Jordan Reth
+
+2 | Pa g e
+APPENDIX
+Confidentiality Request and Justification
+47 C.F.R. § 0.457
+Pursuant to Section 0.457 of the Commission’s Rules, 47 C.F.R. § 0.457, CCLLC requests
+confidential treatment of Exhibit A to the enclosed Supplement to Application of CenturyLink
+Communications, LLC For Interconnected VoIP Numbering Authorization in WC Docket No.
+19-349. CCLLC is an affiliate of its parent company, CenturyLink, Inc., and filed its
+Application on November 14, 2019. The type of information included in the attached
+Exhibit A, which is confidential and proprietary commercial information of CCLLC, is not
+routinely available for public inspection and thus is protected from public availability
+under Section 0.457(d).
+47 C.F.R. § 0.459
+Should the Commission not deem that CCLLC’s Exhibit A is protected from public disclosure
+under 47 C.F.R. § 0.457, then CCLLC requests confidential treatment pursuant to 47 C.F.R. §
+0.459(b) as described below.
+Information for which confidential treatment is sought
+CCLLC requests confidential treatment of Exhibit A to the enclosed Supplement to Application
+of CenturyLink Communications, LLC For Interconnected VoIP Numbering Authorization in
+WC Docket No. 19-349. Exhibit A includes confidential and proprietary commercial
+information, which is protected from disclosure under Exemption 4 of the Freedom of
+Information Act.1 The Commission has long recognized that, for purposes of FOIA Exemption
+4, “records are ‘commercial’ as long as the submitter has a commercial interest in them.”2
+Exhibit A, for which confidential treatment is sought, bears the legend “CONFIDENTIAL
+INFORMATION – NOT FOR PUBLIC INSPECTION.”
+Commission proceeding in which the information was submitted
+The information is being submitted in WC Docket No. 19-349, which is an application for
+authority for CCLLC to obtain numbering resources. Exhibit A is a required part of that
+application.
+15 U.S.C. § 552(b)(4); see also 47 C.F.R. § 0.457(d).
+2Robert J. Butler, 6 FCC Rcd 5414, 5415 (1991), citing Public Citizen Health Research Group
+v. FDA, 704 F.2d 1280, 1290 (D.C. Cir. 1983); American Airlines v. National Mediation Board,
+588 F. 2d 863, 868 (2d Cir. 1978).
+
+3 | Pa g e
+Degree to which the information in question is commercial or financial, or contains a trade secret
+or is privileged
+Exhibit A contains commercial information that CenturyLink considers proprietary and
+confidential. This information concerns CenturyLink’s agreements with other carrier partners,
+including terms, conditions and pricing. This information is competitively sensitive information
+that would not normally be released to the public, as such release would have a substantial
+negative competitive impact on CenturyLink. The D.C. Circuit Court of Appeals has found that
+parties do not have to “show actual competitive harm” to justify confidential treatment. Rather,
+“actual competition and the likelihood of substantial competitive injury is sufficient to bring
+commercial information within the realm of confidentiality.”3
+Degree to which the information concerns a service that is subject to competition; and manner in
+which disclosure of the information could result in substantial competitive harm
+The information in Exhibit A relates to CCLLC’s provision of VoIP service, which is highly
+competitive with a multitude of service providers in the marketplace. Detailed operational and
+commercial information of the type provided in Exhibit A would generally not be made available
+to the public and disclosure of this information to CCLLC’s competitors could produce
+competitive harm.
+Steps taken to prevent unauthorized disclosure; and availability of the information to the public
+and the extent of any previous disclosure of the information to third parties
+CCLLC has treated and treats the type of information disclosed in Exhibit A as confidential and
+has protected it from public disclosure.
+Justification of the period during which CenturyLink asserts that the material should not be
+available for public disclosure
+At this time, CCLLC cannot determine any date on which the information disclosed in Exhibit A
+should not be considered confidential or would become stale, except that the information will be
+handled in conformity with CCLLC’s records retention policies, absent any continuing legal
+hold.
+Other information that CenturyLink believes may be useful in assessing whether its request for
+confidentiality should be granted
+Under applicable Commission and court rulings, the information in question should be withheld
+from public disclosure. Exemption 4 of the Freedom of Information Act shields information that
+is (1) commercial or financial in nature; (2) obtained from a person outside the government; and
+(3) privileged and confidential. The information in question satisfies this test.
+3Public Citizen Health Research Group v. FDA, 704 F.2d at 1291, quoting Gulf & Western
+Industries v. U.S., 615 F.2d 527, 530 (D.C. Cir. 1979).
+
+Before the
+FEDERAL COMMUNICATIONS COMMISSION
+Washington, D.C. 20554
+In the Matter of )
+)
+CenturyLink Communications, LLC, Applicant )
+For Authorization to Obtain Numbering ) WC Docket No. 19-349
+Resources Pursuant to Section 52.15(g) of )
+the Commission’s Rules )
+SUPPLEMENT TO APPLICATION OF
+CENTURYLINK COMMUNICATIONS, LLC FOR
+INTERCONNECTED VOIP NUMBERING AUTHORIZATION
+CenturyLink Communications, LLC (“CCLLC”), a current provider of interconnected
+voice over internet protocol (“VoIP”) service, files this supplement to its application with the
+Federal Communications Commission (the “Commission”) for authorization to acquire
+telephone numbers directly from the North American Numbering Plan Administrator and the
+Pooling Administrator (the “Numbering Administrators”) pursuant to Commission rule section
+52.15(g)(3).1
+CCLLC provides the following supplementary information in support of its application:
+1. CCLLC intends to request numbering resources and offer interconnected VoIP services
+in the following states: Alabama, Arkansas, Arizona, California, Delaware, District of
+Columbia, Florida, Georgia, Iowa, Idaho, Illinois, Indiana, Kansas, Kentucky, Louisiana,
+Massachusetts, Maryland, Michigan, Minnesota, Missouri, Mississippi, Montana, North
+Carolina, North Dakota, Nebraska, New Hampshire, New Jersey, New Mexico, Nevada,
+New York, Ohio, Oklahoma, Oregon, Pennsylvania, Rhode Island, South Carolina, South
+147 C.F.R. § 52.15(g)(3). CCLLC filed its application on November 14, 2019.
+
+Dakota, Tennessee, Texas, Utah, Virginia, Washington, Wisconsin, West Virginia and
+Wyoming.
+2. To demonstrate facilities readiness, CCLLC attaches as CONFIDENTIAL Exhibit A an
+agreement between it and its carrier partner.
+3. To further demonstrate facilities readiness, CCLLC attaches as Exhibit B an
+interconnection agreement between its carrier partner and an incumbent local exchange
+carrier (“ILEC”) for one of the states listed in Paragraph 1. Additional interconnection
+agreements between CCLLC’s carrier partner and relevant ILECs can be provided upon
+Commission request.
+4. CenturyLink clarifies the certifications made in its application to specify (1) that it
+complies with its 911 obligations under Commission rule Part 9; and (2) that no party to
+the application, as defined in Commission rule sections 1.2001 and 1.2002, is subject to a
+denial of Federal benefits pursuant to section 5301 of the Anti-Drug Abuse Act of 1988.
+A revised certification from CCLLC to this effect executed by Stacy Hartman, VP Public
+Policy & Compliance is attached as Exhibit C.
+2
+
+LIST OF EXHIBITS
+Exhibit A: Carrier Partner Agreement **CONFIDENTIAL**
+Exhibit B: Interconnection Agreement
+Exhibit C: Certification of Stacy Hartman
+4

@@ -1,0 +1,259 @@
+PUBLIC VERSION
+Andrew O. Isar
+Via ECFS and Overnight Delivery
+January 19, 2018
+Ms. Marlene H. Dortch
+Secretary
+Federal Communications Commission
+9050 Junction Drive
+Annapolis Junction, MD 20701
+Re: Origin Networks, LLC dba Infostructure, Application for Authorization to Obtain
+Numbering Resources, WC Docket No. 18-
+Dear Ms. Dortch:
+Pursuant to pursuant to Section 52.15(g)(3)(i) of the Commission’s Rules 47 C.F.R.
+§52.15(g)(3)(i), Origin Networks, LLC dba Infostructure (“Infostructure”), hereby submits to
+the Commission an Application to Obtain Numbering Resources (“Application”). By its
+Application, Infostructure requests authority to acquire telephone numbers directly from the
+North American Numbering Plan Administrator and the Pooling Administrator as an
+interconnected Voice over Internet Protocol service provider. In support of its Application,
+Infostructure includes confidential Attachment A, an interconnection agreement (“ICA”)
+between Infostructure and its carrier partner and interconnecting local exchange carrier.
+Pursuant to Sections 0.457 and 0.459 of the Commission’s rules, 47 C.F.R. §§ 0.457 and 0.459,
+Infostructure respectfully requests that the Commission withhold from public inspection and
+accord confidential treatment to its ICA. This document contains trade secrets and commercial,
+technical and financial information that fall within Exemption 4 of the Freedom of Information
+Act (“FOIA”).1
+1 5 U.S.C. § 552(b)(4)
+
+PUBLIC VERSION
+Ms. Marlene H. Dortch
+January 19, 2018
+Page 2
+Exemption 4 of FOIA establishes that that the public disclosure requirement of the statute “does
+not apply to matters that are . . . (4) trade secrets and commercial or financial information
+obtained from a person and privileged or confidential.”2 The ICA Infostructute voluntarily
+submits constitutes the type of trade secret and commercial and financial information that would
+otherwise not be released to the public, and meets Exemption 4 of FOIA, accordingly.3 Further,
+public disclosure of confidential Attachment A to Infostructure’s Application would cause
+Infostructure substantial and irreparable competitive harm.4
+In support of this request and pursuant to Section 0.459(b) of the Commission’s rules,5
+Infostructure states as follows:
+1. IDENTIFICATION OF THE SPECIFIC INFORMATION FOR WHICH CONFIDENTIAL
+TREATMENT IS SOUGHT
+Infostructure seeks confidential treatment of Attachment A to its Application. Attachment A
+consists of an ICA between Infostructure’s carrier partner and a local exchange carrier.
+2. DESCRIPTION OF CIRCUMSTANCES GIVING RISE TO THE SUBMISSION
+The ICA is being voluntarily submitted to the Commission in support of the Company’s
+Application for Authorization to Obtain Numbering Resources.
+3. EXPLANATION OF THE DEGREE TO WHICH THE INFORMATION IS COMMERCIAL OR
+FINANCIAL, OR CONTAINS A TRADE SECRET OR IS PRIVILEGED
+The document for which Infostructure seeks confidential treatment contains sensitive commercial,
+financial, and technical information “which would customarily be guarded from competitors.”6
+The ICA contains trade secrets and technical information governing the relationship between
+Infostructure and its carrier partner.
+2 Id.
+3 See Critical Mass Energy Project v. NRC, 975 F.2d 871, 879 (D.C. Cir. 1992).
+4 See National Parks and Conservation Ass’n v. Morton, 498 F.2d 765 (D.C. Cir. 1974).
+5 47 C.F.R. § 0.459(b)
+6 47 C.F.R. § 0.457.
+
+PUBLIC VERSION
+Ms. Marlene H. Dortch
+January 19, 2018
+Page 3
+4. EXPLANATION OF THE DEGREE TO WHICH THE INFORMATION CONCERNS A SERVICE
+THAT IS SUBJECT TO COMPETITION
+The ICA for which confidential protection is requested pertains to the provision of interconnected
+Voice over Internet Protocol (“iVoIP”) services. Such services are available from numerous
+separate entities in a market established to be highly concentrated and subject to significant
+competition. The ICA contains detailed information governing operational relationships that if
+available to competitors could be used to the disadvantage of Infostructure and cause substantial
+competitive harm.
+5. EXPLANATION OF HOW DISCLOSURE OF THE INFORMATION COULD RESULT IN
+SUBSTANTIAL COMPETITIVE HARM
+Competitors could use the information contained in the ICA to establish the basis and scope of
+Company operations Infostructure’s determent.
+6. IDENTIFICATION OF ANY MEASURES TAKEN BY THE SUBMITTING PARTY TO PREVENT
+UNAUTHORIZED DISCLOSURE
+Infostructure treats the ICA as highly confidential and exercises significant care to ensure that
+such information is not disclosed to competitors, the public, or third parties.
+7. IDENTIFICATION OF WHETHER THE INFORMATION IS AVAILABLE TO
+THE PUBLIC AND THE EXTENT OF ANY PREVIOUS DISCLOSURE OF THE
+INFORMATION TO THIRD PARTIES
+Infostructure does not make the redacted information to the public or to third parties.
+8. JUSTIFICATION OF THE PERIOD DURING WHICH THE SUBMITTING
+PARTY ASSERTS THAT MATERIAL SHOULD NOT BE AVAILABLE FOR
+PUBLIC DISCLOSURE
+The ICA voluntarily submitted by InfoStructure. Infostructure requests that the redacted
+information be treated as confidential indefinitely as the Company cannot identify a date certain
+by which this information could be disclosed without causing irreparable competitive harm to.
+
+PUBLIC VERSION
+Ms. Marlene H. Dortch
+January 19, 2018
+Page 4
+9. ANY OTHER INFORMATION [INFOSTRUCTURE] BELIEVES MAY BE
+USEFUL IN ASSESSING WHETHER ITS REQUEST FOR CONFIDENTIALITY
+SHOULD BE GRANTED.
+Infostructure has not previously disclosed the ICA to the public. Disclosure of the ICA and its
+contents could be used by numerous competitors to gain valuable competitive information and
+ultimately to cause Infostructute significant competitive detriment and undermine Infostructure’s
+operations. Infostructure’s request is consistent with requests made by similarly situated providers
+and granted by the Commission.
+Respectfully submitted,
+MILLER ISAR, INC.
+/s/ Andrew O. Isar
+Andrew O. Isar
+Consultants to
+Origin Networks, LLC dba Infostructure
+
+PUBLIC VERSION
+Before the
+FEDERAL COMMUNICATIONS COMMISSION
+Washington, D.C. 20554
+In the Matter of )
+)
+Origin Networks, LLC dba Infostructure, )
+Applicant ) WC Docket No. 18-
+)
+For Authorization to Obtain Numbering )
+Resources Pursuant to Section 52.15(g) of )
+the Commission’s Rules )
+APPLICATION OF ORIGIN NETWORKS, LLC DBA INFOSTRUCTURE
+FOR AUTHORIZATION TO OBTAIN NUMBERING RESOURCES
+Origin Networks, LLC dba Infostructure (“Infostructure” or “Applicant”), pursuant to
+section 52.15 (g)(3)1 of the Federal Communications Commission’s (“Commission”) rules,
+submits to the Commission this Application for authority to acquire telephone numbers directly
+from the North American Numbering Plan Administrator and the Pooling Administrator
+(“Numbering Administrators”) as an interconnected voice over Internet protocol (“iVoIP”)
+service provider. As set forth in the Commission’s Numbering Order,2 an iVoIP provider may
+obtain numbering resources from Numbering Administrators upon a showing of the provider’s
+authority to provide service in the service area for which the numbering resources are requested.
+In support of its request for authority to obtain numbering resources from Numbering
+Administrators, Infostructure submits the following information pursuant to Sections
+52.15(g)(3)(i)(A)-(F) of the Commission’s Rules.
+1 47 C.F.R. §52.15(g)(3).
+2 Numbering Policies for Modern Communications, 30 FCC Rcd. 6839 (2015).
+
+PUBLIC VERSION
+I. INFORMATION REQUIRED BY SECTION 52.15(g)(3)(i)
+A. The applicant's name, address, and telephone number, and contact information
+for personnel qualified to address issues relating to regulatory requirements,
+compliance with Commission's rules, 911, and law enforcement
+(52.15(g)(3)(i)(A)).
+Applicant’s Name: Origin Networks, LLC dba Infostructure
+Address: 288 South Pacific Highway
+Talent, OR 97540
+Telephone Number: 541.773.5000
+Contact Information for Qualified Personnel:
+Jeff Rhoden
+Managing Member
+288 South Pacific Highway
+Talent, OR 97540
+Telephone: 541.773.5000
+Email: jrhoden@infostructure.net
+B. An acknowledgment that the authorization granted under this paragraph is
+subject to compliance with applicable Commission numbering rules;
+numbering authority delegated to the states; and industry guidelines and
+practices regarding numbering as applicable to telecommunications carriers
+(52.15(g)(3)(i)(B)).
+Infostructure acknowledges that its authorization to obtain numbering resources under
+Section 52.15(g) of the Commission’s Rules is subject to compliance with applicable Commission
+numbering rules and compliance with industry guidelines and practices regarding numbering,
+consistent with such obligations applicable to telecommunications carriers.
+2
+
+PUBLIC VERSION
+C. An acknowledgement that the applicant must file requests for numbers with
+the relevant state commission(s) at least 30 days before requesting numbers
+from the Numbering Administrators (52.15(g)(3)(i)(C)).
+Infostructure acknowledges that it must file requests for numbers with the relevant state
+regulatory utility commission(s) at least thirty (30) days before requesting numbers from the
+Numbering Administrators.
+D. Proof that the applicant is or will be capable of providing service within sixty
+(60) days of the numbering resources activation date in accordance with
+paragraph (g)(2) of this section (52.15(g)(3)(i)(D)).
+Infostructure demonstrates its capability to provide service within sixty (60) days of the
+numbering activation date. Infostructure has agreements in place with carrier partners who in turn
+have interconnection agreements in effect with the relevant local exchange carriers. Infostructure
+has served as a competitive local exchange carrier since 2013, maintains well-established
+operations and processes, and has experienced staff to support number requests and routing as
+supported by its AOCN.
+As evidence of its operational readiness to begin providing service within sixty (60) days
+of the numbering activation date, attached hereto at confidential Attachment A is an
+interconnection agreement between Infostructure’s carrier partner and a local exchange carrier.
+Infostructure is submitting Exhibit A separately in accordance with its request for confidential
+treatment.
+E. Certification that the applicant complies with its Universal Service Fund
+contribution obligations under 47 CFR part 54, subpart H, its
+Telecommunications Relay Service contribution obligations under 47 CFR
+64.604(c)(5)(iii), its NANP and LNP administration contribution obligations
+under 47 CFR 52.17 and 52.32, its obligations to pay regulatory fees under 47
+CFR 1.1154, and its 911 obligations under 47 CFR part 9 (52.15(g)(3)(i)(E)).
+Infostructure certifies that it complies with its Universal Service Fund contribution
+3
+
+PUBLIC VERSION
+obligations under 47 CFR part 54, subpart H; its Telecommunications Relay Service contribution
+obligations under 47 CFR § 64.604(c)(5)(iii); its North American Numbering Plan and Local
+Number Portability Administration contribution obligations pursuant to Sections 52.17 and 52.32
+of the Commission’s rules;9 its obligations to pay regulatory fees pursuant to Section 1.1154 of the
+Commission’s rules;10 and its obligations for the provision of access to emergency 911 services
+pursuant to Part 9 of the Commission’s rules.11
+F. Certification that the applicant possesses the financial, managerial, and
+technical expertise to provide reliable service. This certification must include
+the name of applicant's key management and technical personnel, such as the
+Chief Operating Officer and the Chief Technology Officer, or equivalent, and
+state that none of the identified personnel are being or have been investigated
+by the Federal Communications Commission or any law enforcement or
+regulatory agency for failure to comply with any law, rule, or order
+(52.15(g)(3)(i)(F)).
+Infostructure certifies that it possesses the financial, managerial, and technical expertise to
+provide reliable service. Infostructure has demonstrated its financial, managerial, and technical
+expertise to provide reliable service as a telecommunications service provider to the state
+regulatory utility commissions in those states where it serves.
+Infostructure’s key management and technical personnel are:
+Jeff Rhoden, Managing Member and Director, 541.773.5000, jrhoden@infostructure.net
+Scott Hansen, Managing Member and Chief Operations Officer, 541.773.5000,
+shansen@infostructure.net
+Infostructure states and avers that none of the identified personnel is being or has been
+investigated by the Commission, by any law enforcement, or by any regulatory agency for failure to
+comply with any law, rule or order.
+9 47 CFR §§ 52.17 and 52.32.
+10 47 CFR § 1.1154.
+11 47 CFR part 9.
+4
+
+PUBLIC VERSION
+G. Certification pursuant to Sections 1.2001 and 1.2002 of this chapter that no
+party to the application is subject to a denial of Federal benefits pursuant to
+section 5301 of the Anti-Drug Abuse Act of 1988. See 21 U.S.C. 862
+(52.15(g)(3)(i)(G)).
+Infostructure certifies that no party to this application is subject to a denial of Federal
+benefits to Section 5301 of the Anti-Drug Abuse Act of 1988, 21 U.S.C. § 862.
+II. ACKNOWLEDGEMENT OF CONDITIONS APPLICABLE TO ALL
+INTERCONNECTED VOIP PROVIDER NUMBERING AUTHORIZATIONS,
+SECTION 52.15(g)(3)(iv).
+As set forth in Section 52.15(g)(3)(iv), Infostructure will maintain the accuracy of all
+contact information and certifications in the application, and will file a correction with the
+Commission and each applicable state within thirty (30) days of any changes. Further,
+Infostructure will furnish accurate regulatory and numbering contact information to each state
+regulatory utility commission when requesting numbers in that state.
+III. CONCLUSION
+Pursuant to Section 52.15(g)(3)(i) of the Commissions' Rules, Infostructure respectfully
+requests the Commission grant this application for authorization to obtain numbering resources
+from Numbering Administrators as an iVoIP provider.
+Respectfully submitted this 19th day of January, 2018,
+/s/ Andrew O. Isar
+Andrew O. Isar
+MILLER ISAR, INC.
+4304 92nd Avenue NW
+Gig Harbor, WA 98335
+Consultants to
+Origin Networks, LLC dba Infostructure
+5
+
+PUBLIC VERSION
+ATTACHMENT A
+INTERCONNECTION AGREEMENT
+(Submitted pursuant to Confidentiality Request under 47 C.F.R. §§ 0.457 and 0.459)

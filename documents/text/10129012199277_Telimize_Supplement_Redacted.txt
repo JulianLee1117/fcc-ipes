@@ -1,0 +1,140 @@
+Jeffrey J. Carlisle
+jcarlisle@lermansenter.com
+202-416-6768
+January 29, 2025
+CONFIDENTIALITY REQUEST PURSUANT TO 47 C.F.R. § 0.459
+VIA ECFS
+Ms. Marlene H. Dortch, Secretary
+Federal Communications Commission
+Office of the Secretary
+45 L Street, NE
+Washington, DC 20554
+Re: Request for Confidential Treatment, Supplement to Application of Telimize LLC
+for Authority to Obtain Numbering Resources Pursuant to Section 52.15(g) of the
+Commission’s Rules, WC Docket No. 24-656
+Dear Ms. Dortch:
+Telimize LLC (“Telimize”) hereby submits the enclosed supplement (“Supplement”) to its
+application for authorization to obtain numbering resources and respectfully requests confidential
+treatment of the text indicated in the Supplement. Consistent with Sections 0.457 and 0.459 of the
+Commission’s Rules, Telimize has provided a confidential version of the Supplement labelled
+“Confidential, Not for Public Inspection.” Confidential treatment in this circumstance is fully consistent
+with the Administrative Procedure Act (“APA”) and past Commission practice.
+The redacted materials in the Supplement contain commercially sensitive information that
+identifies Telimize’s vendors for interconnection, numbering and 911 services. Confidential treatment
+of this information is appropriate under Exemption 4 of the Freedom of Information Act, which applies
+to information constituting “trade secrets and commercial or financial information.” See 5 U.S.C. §
+552(b)(4); 47 C.F.R. § 0.457(d).
+
+Ms. Marlene H. Dortch
+January 29, 2025
+Page 2
+In support of this request, Telimize provides the following information, as provided for under
+Section 0.459(b) of the Commission’s Rules.
+1. Specific Information for Which Confidential Treatment is Sought - § 0.459(b)(1):
+Telimize requests that the redacted parts of the Supplement be withheld from public disclosure under 5
+U.S.C. § 552(b)(4) and 47 C.F.R. § 0.457(d)(2). Specifically, the Supplement identifies Telimize’s
+vendors and provides information from which their identities may be easily derived.
+2. Circumstances Giving Rise to the Submission - § 0.459(b)(2): Telimize is submitting the
+information in the Supplement as proof that (i) it is capable of providing service within sixty days of the
+numbering resources activation date as required by section 52.15(g)(3)(ii)(H) of the Commission’s rules
+and (ii) it complies with its 911 obligations under Part 9 of the Commission’s Rules as required by
+section 52.15(g)(3)(i)(E) of the Commission’s Rules.
+3. Degree to Which the Information is Commercial or Financial, or Contains a Trade Secret
+or Is Privileged - § 0.459(b)(3): The Supplement discloses the names of Telimize’s vendors and
+provides links to (i) agreements between one of Telimize’s vendors and incumbent local exchange
+carriers and (ii) terms and conditions of service for Telimize’s 911 vendors. This information is subject
+to exemption from public disclosure under FOIA Exemption 4.4. None of this information would
+normally be made available to the public, and public disclosure would make available to competitors
+proprietary information that is competitively sensitive and could undermine Telimize’s business
+strategy. See 5 U.S.C. § 552(b)(4); 47 C.F.R. § 0.457(d). To date, disclosure of the information and
+documents subject to this request has been limited to certain executives and employees of Telimize and
+their outside legal counsel, and Telimize’s vendors.
+4. Degree to Which the Information Concerns a Service That is Subject to Competition - §
+0.459(b)(4): The market for interconnected voice over Internet Protocol (“VoIP”) is highly competitive
+with low barriers to entry. The commercial information at issue goes directly to Telimize’s ability to
+comply with the 911 service obligations applicable to all VoIP service providers and to provide VoIP
+service by interconnecting with the PSTN through its vendor. Thus, this information “concerns a
+service subject to competition.” Accordingly, this information qualifies as sensitive internal business and
+commercial information entitled to protection under FOIA and the Commission’s rules.
+5. How Disclosure of the Information Could Result in Substantial Competitive Harm - §
+0.459(b)(5): As the VoIP industry is highly competitive, and the nature of the confidential information
+is sensitive as to Telimize’s relations with its vendors and technical processes, public release of the
+identity of Telimize’s vendors as disclosed in the Supplement would cause significant competitive harm
+to Telimize. Moreover, Telimize’s plans for complying with regulatory obligations to provide
+emergency services and facilities readiness would become publicly known, which would not only cause
+competitive harm to Telimize, but could undermine Telimize’s ability to provide safe and secure VoIP
+services to its end users.
+
+Ms. Marlene H. Dortch
+January 29, 2025
+Page 3
+6. Measures Taken by Telimize to Prevent Unauthorized Disclosure - § 0.459(b)(6): Telimize
+has limited access to the information and documents subject to this request to those officers, directors,
+employees, and counsel who require its disclosure in order to perform their duties. Telimize treats the
+documents provided in the Supplement as confidential and proprietary and has not publicly disclosed
+this information.
+7. The Information Submitted is Not Available to the Public and Has Not Previously Been
+Disclosed to Third Parties, Except for Appropriately Limited Circumstances - § 0.459(b)(7): To the
+best of Telimize’s knowledge, the information and documentation for which confidential treatment is
+sought has not been publicly disclosed. Disclosure by Telimize has been limited to those with a need to
+know, and to those who are subject to professional or other confidentiality obligations.
+8. Period During Which the Submitted Material Should Not Be Available for Public
+Disclosure - § 0.459(b)(8): Telimize respectfully requests that the confidential information in the
+Supplement be kept confidential indefinitely given the sensitive nature of this information and the risks
+inherent in any unauthorized disclosure. It is not clear at this time what potential period of non-
+disclosure is required in order to protect Telimize’s interests.
+9. Other Information Supporting Request for Confidential Treatment - § 0.459(b)(9): Not
+applicable.
+* * * * *
+For the reasons stated above, Telimize requests that the Commission withhold from public
+inspection the information identified herein, according it full confidential treatment.
+Respectfully submitted,
+/s/ Jeffrey Carlisle
+Jeffrey Carlisle
+Lerman Senter PLLC
+2001 L Street, NW, Suite 400
+Washington, DC 20036-4945
+(202) 429-8970
+Counsel for Telimize LLC
+Enclosure
+
+Jeffrey J. Carlisle
+jcarlisle@lermansenter.com
+202-416-6768
+January 29, 2025
+VIA ECFS
+Marlene H. Dortch, Secretary
+Federal Communications Commission
+45 L Street, NE
+Washington, DC 20554
+Re: Supplement to Application of Telimize LLC for Authority to Obtain
+Numbering Resources Pursuant to Section 52.15(g) of the Commission’s
+Rules, WC Docket No. 24-656
+Dear Ms. Dortch:
+On behalf of Telimize LLC (“Telimize”), I provide this supplemental information
+relevant to the application for authority to obtain numbering resources (“Application”) filed by
+Telimize in the abovementioned docket.1 Commission staff requested this information to
+correct, augment and clarify information Telimize submitted as part of the Application.
+1. Correction
+The Application states the formal name of Telimize as “Telimize, LLC.” As filed with
+the Wyoming Secretary of State, however, the entity’s formal name is “Telimize LLC” without a
+comma.
+2. Ownership Chart
+As required by 47 C.F.R. § 63.18(h)(2), Exhibit A provides a diagram illustrating
+Telimize’s vertical ownership structure, including all direct and indirect ownership interests held
+by individuals named in the application in response to § 63.18(h)(1).
+1 Application of Telimize LLC for Authorization to Obtain Numbering Resources, WC Docket No. 24-656 (filed
+Nov. 25, 2024).
+REDACTED -- FOR PUBLIC INSPECTION
+
+EXHIBIT A
+Telimize Ownership Chart
+Grantham Hamm
+(US Citizen)
+100% equity & voting
+Telimize Holding LLC
+(Wyoming)
+100% equity & voting
+Telimize LLC
+(Wyoming)
+REDACTED -- FOR PUBLIC INSPECTION

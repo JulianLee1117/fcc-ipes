@@ -1,0 +1,150 @@
+Law Office of Mark C. Del Bianco
+3929 Washington Street
+Kensington, MD 20895
+301.602.5892
+mark@markdelbianco.com
+February 13, 2017
+Marlene Dortch
+Secretary CONFIDENTIAL - NOT FOR PUBLIC
+Federal Communications Commission INSPECTION
+445 12th Street SW
+Washington, DC 20554 [Redacted Version]
+Re: Telnyx LLC Authorization to Obtain Numbering Resources Pursuant to
+Section 52.15(g) of the Commission’s Rules, WC Docket No. 16-172
+Dear Ms. Dortch:
+This letter is submitted on behalf of Telnyx LLC (“Telnyx”), which received authorization
+to obtain numbering resources as a provider of interconnected VoIP services in the above
+captioned proceeding.
+Telnyx provides Internet protocol communications services, including interconnected
+VoIP services to Internet protocol communications services providers and enterprise customers.
+Telnyx’s services are all provided on a nomadic basis – the customer can access the service from
+anywhere with a broadband connection to the public Internet. As we discussed in our December
+meeting with Sanford Williams and Marilyn Jones of the Wireline Competition Bureau, pursuant
+to its authorization, Telnyx has requested numbering resources in a number of states from
+Neustar, as the numbering administrator. In each instance, Telnyx has provided the relevant
+state regulatory agency with the notification and information required under the Commission’s
+order in Numbering Policies for Modern Communications, Report and Order, rel. June 22, 2015
+(Docket Nos. WC 13-97, WC 04-36, WC 07-243, CC 95-116, CC 01-92, WC 10-90, and CC 99-
+200) (the “Numbering Order”) and the Commission’s rules (47 C.F.R. § 52.15(g)(3)(iv)).
+Telnyx has used the 30-day notice template provided by INC, which has been accepted by nearly
+all states.
+In some cases, before responding to Neustar, the state agency has contacted Telnyx to
+discuss its offering, in order to determine whether any additional state requirements might apply.
+As a result, all but three of the states that have acted to date have notified Neustar that they have
+no objection to the request. The exceptions are [ ], and [ ].
+The [ ] Public Service Commission (“PSC”) has notified Neustar that it will not
+process the notification provided by Telnyx, and as a result Neustar has notified Telnyx that it will
+
+Marlene Dortch Confidentiality Requested
+Secretary
+Federal Communications Commission
+not provide the numbers requested by Telnyx (see the email printout attached as Exhibit A). The
+PSC’s position, as set forth in its version of the ATIS form attached as Exhibit B) and its response
+to Telnyx’s inquiries (see Exhibit C) is that Telnyx must register with the Corporations Division
+of the Department of [ ] before the PSC will process its
+notification. Telnyx has no plant, property, equipment nor employees or offices in [ ].
+Under Section [ ] Laws, it is not doing business in the state
+and therefore has no obligation to register with the Corporations Division of the [ ]
+Department of [ ]. Registration as an entity doing business within
+a state triggers a variety of reporting and filing obligations that no business, especially a startup
+such as Telnyx, wants to undertake unless it is required to do so by law. Thus, Telnyx strenuously
+objects to the PSC’s attempt to use the numbering process to coerce it into accepting unnecessary
+duties in [ ].
+The [ ] situation is even more egregious. At the behest of the [ ] Utility
+Regulatory Commission (“URC”), Neustar rejected Telnyx’s request for numbers. According to
+Neustar, the request was rejected because:
+The [ ] Utility Regulatory Commission indicated that the proper forms per [ ]
+Codes [ ] were not received. [ ] Code [ ]
+requires that a person or entity seeking to provide communications services in [ ] file an
+application for a [ ] with the URC. Communications
+services are identified in [ ]. Additionally, [ ] Code [ ] requires
+any person or entity engaged in or transacting business in [ ] to register with the [
+] Secretary of State. Proof of registration is a requirement for a [ ].
+(See the email printout attached as Exhibit D). The [ ] Application form and instructions
+can be found on the URC website at [ ]. As you can see,
+the [ ] Application is essentially an application for CLEC status. It is more intrusive and requires
+more information than the [ ] form, and as discussed below, both are inconsistent
+with the language and intent of the Numbering Order. In addition, as is the case in [ ],
+Telnyx has no plant, property, equipment nor employees or offices in [ ] and it is not doing
+business in the state. [ ] does not apply because merely using a number in an [
+] NPA does not mean that an entity is “engaged in or transacting business in the state of [
+]” and thus required to register with the [ ] Secretary of State.
+The key goals of the Commission in enacting the reforms in the Numbering Order were to
+increase competition, prevent number exhaustion, and improve service, especially as it relates to
+number portability. The actions of the PSC and the URC run counter to each of these goals. As a
+result of the agencies’ actions, Telnyx is forced to continue to obtain numbers on behalf of its service
+provider customers via intermediaries. These intermediaries not only charge Telnyx a monthly fee
+for every number, they often charge exorbitant port-out fees which in turn Telnyx is forced to levy
+on its customers.
+2
+
+Marlene Dortch Confidentiality Requested
+Secretary
+Federal Communications Commission
+In regards to number portability, the decisions made by [ ] and [ ] affect more
+than the constituents of their respective states. They impact customers that may have been issued
+numbers in states, but no longer live in them. Often, consumers switch to VoIP services like Google
+Voice in order to have true number mobility, allowing them the ability to make and receive phone
+calls across multiple devices using the same number. These services help prevent number exhaustion
+by replacing the one device, one number paradigm with the one subscriber, one number paradigm
+and help lower prices through increased competition.
+Without direct access to numbering resources in [ ], Telnyx is unable to facilitate
+porting of any [ ] number, regardless of where the end user of that
+number may reside. This is because number portability relies on having an LRN in the same LATA
+as the telephone number. In other words, an end user with a [ ] number may live in Illinois,
+but will be unable to port his number to a service that is powered by Telnyx because of [ ]’s
+refusal to provide even minimal numbering resources. In this case, a call would be routed through [
+], but would neither terminate or originate in the State. The same is true for numbers in [
+] NPAs.
+The hurdle that the state agencies seek to impose is similar to other burdensome proposals
+that the Commission specifically declined to adopt in the Numbering Order. For example, it declined
+to require interconnected VoIP providers to take numbers from certain rate centers chosen by the
+state commissions in more populous areas or in blocks of less than 1000 numbers, because no such
+restrictions were imposed on telecommunications carriers. It went on to conclude that additional
+restrictions beyond those that it adopted in the Order “are unnecessary and would significantly
+disadvantage interconnected VoIP providers relative to competing carriers offering voice services.”
+Numbering Order at para. 48. In his statement approving the adoption of the Numbering Order,
+Chairman Pai noted that he was “especially excited we’ve made clear that interconnected VoIP
+providers need only apply once to serve anywhere in the nation. This one-and-done system keeps
+regulatory barriers to telephone numbers low, which ultimately will benefit would-be competitors
+and competition.” https://www.fcc.gov/document/fcc-releases-voip-direct-access-numbering-report-
+and-order/pai-statement.
+Under the Numbering Order, a state may not require a Commission-authorized
+interconnected VoIP provider to register to do business or impose other state registration
+requirements simply because the authorized provider has requested numbers assigned to a rate center
+in that state. Telnyx would like to discuss with the Wireline Competition Bureau ways to resolve this
+issue in an expeditious manner that would not require the volume of staff resources involved in a
+declaratory ruling proceeding under §1.2 of the Commission’s rules. I will contact the Bureau this
+week about setting up a meeting to discuss such options.
+Telnyx respectfully requests that, pursuant to Sections 0.457 and 0.459 of the
+Commission’s rules, 47 C.F.R. §§ 0.457 and 0.459, the Commission withhold from public
+inspection and accord confidential treatment to the bracketed portions of this letter and the entirety of
+Exhibits A through D because they contain sensitive trade secrets and commercial information that
+3
+
+Marlene Dortch Confidentiality Requested
+Secretary
+Federal Communications Commission
+falls within Exemption 4 of the Freedom of Information Act (“FOIA”), 5 U.S.C. § 552(b)(4). The
+bracketed portions and the Exhibits contain proprietary commercial information concerning the states
+in which Telnyx will be expanding its network and providing numbering resources pursuant to its
+Commission authorization, and also contains details of its current and future commercial and
+operational plans. Telnyx operates in the voice over internet protocol (VOIP) market. It has
+dozens, if not hundreds, of competitors in the VOIP market. The bracketed information and the
+information in the Exhibits is commercially sensitive information that would customarily be
+guarded from disclosure to those competitors. Disclosure of the operational and commercial
+information in brackets or in the Exhibits would give any of Telnyx’s competitors an unfair
+competitive advantage and undercut Telnyx’s position in this highly competitive industry. The
+release of the information would therefore result in substantial competitive harm to Telnyx.
+Telnyx has not previously disclosed the information to the public or any competitors.
+Telnyx requests that the information be treated as confidential for a period of two years, or until
+Telnyx has received the requested numbers in the two states. This period is necessary due to the
+proprietary nature of the information.
+Should you have any questions, please contact me. We look forward to working with the
+Commission to resolve this issue.
+Respectfully submitted,
+Mark C. Del Bianco
+Counsel to Telnyx LLC
+cc: Sanford Williams, WCB
+Marilyn Jones, WCB
+4

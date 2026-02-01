@@ -1,0 +1,32 @@
+September 24, 2020
+Marlene H. Dortch, Secretary
+Office of the Secretary
+Federal Communications Commission
+445 12th Street, S.W., Room TW-A325
+Washington, DC 20554
+Re: WC Docket No. 20-248
+In the Matter of Astro Telco, LLC, For Authorization to Obtain Numbering Resources Pursuant to
+Section 52.15(g) of The Commission’s Rules
+APPLICATION OF Astro Telco, LLC FOR AUTHORIZATION TO OBTAIN NUMBERING RESOURCES
+SUPPLEMENT
+Dear Ms. Dortch:
+On behalf of Astro Telco, LLC, this letter provides critical, additional information, and supporting evidence to its’
+Application submitted on July 28, 2020. As requested, Astro Telco (applicant) is providing an updated and
+corrected version of their Service Order - PSTN Control Service – Interconnected VoIP from Peerless
+Networks, filed as a Supplement through ECFS.
+Astro Telco respectfully requests that, pursuant to Sections 0.457 and 0.459 of the Commission’s rules, 47
+C.F.R. § 0.457 and 0.459, the Commission withhold from public inspection, this updated version of the
+Service Order - PSTN Control Service – Interconnected VoIP of Exhibit A to this application in its entirety
+as confidential because the documents contain trade secrets and commercially sensitive “Pricing”
+information that falls within Exemption 4 of the Freedom of Information Act (“FOIA”), 5 U.S.C. § 552(b)(4).
+The information in Exhibit A is “of a kind that would not customarily be released to the public” and
+therefore, this information qualifies for confidential treatment under FOIA. Astro Telco respectfully submits
+that it would suffer substantial competitive harm if this information were disclosed.
+Please contact me if you have any additional questions or concerns regarding this matter.
+Respectfully submitted,
+Ronald J Grob
+APELA Professional Services, LLC
+Senior Telecommunications Consultant To Astro Telco, LLC
+
+Exhibit A Supplement
+ASTRO TELCO PSTNC-IPV Final – Confidential

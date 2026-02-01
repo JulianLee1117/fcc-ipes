@@ -1,0 +1,257 @@
+REDACTED FOR PUBLIC INSPECTION
+June 23, 2017
+Marlene H. Dortch, Esq.
+Secretary
+Federal Communications Commission
+445 12th Street, S.W.
+Washington, DC 20554
+Re: Request for Confidential Treatment of Filing of BIuIP Inc.;
+Application of B/u/P Inc. for Authorization to Obtain Numbering Resources Pursuant to
+Section 52.15(8) of the Commission's Rules, WC Docket No. 97-
+Dear Ms. Dortch:
+Pursuant to Section 52.15(g)(3)(i) of the Commission's Rules, BIuIP Inc. ("BIuIP") hereby submits its
+application requesting authorization to obtain numbering resources.
+BIuIP respectfully requests that, pursuant to Sections 0.457 and 0.459 of the Commission's rules, 47
+C.F.R. §§ 0.457 and 0.459, the Commission withhold from public inspection and accord confidential
+treatment to certain information within the application, including Exhibits B and C, because those
+documents contain sensitive trade secrets and commercial information that falls within Exemption 4 of the
+Freedom of Information Act ("FOIA").' BIuIP is voluntarily providing this information, which is "of a kind
+that would not customarily be released to the public"; therefore, this information is "confidential" under
+FOIA.2 Moreover, BIuIP would suffer substantial competitive harm if this information were disclosed.3
+Exhibit[ ] is accordingly marked with the header "SUBJECT TO REQUEST FOR CONFIDENTIAL
+TREATMENT —NOT FOR PUBLIC INSPECTION."
+In support of this request and pursuant to Section 0.459(b) of the Commission's Rules,4 BIuIP hereby
+states as follows:
+IDENTIFICATION OF THE SPECIFIC INFORMATION FOR WHICH CONFIDENTIAL
+TREATMENT IS SOUGHT.S
+BIuIP seeks confidential treatment of certain text and Exhibits B and C to the enclosed
+application.
+2. DESCRIPTION OF CIRCUMSTANCES GIVING RISE TO THE SUBMISSION.6
+BIuIP is submitting as Exhibits B and C the agreements between it and its carrier partners, as
+proof of BIuIP's facilities readiness as required by Section 52.15(g)(3)(i)(D) of the Commission's
+rules.
+5 U.S.C. § 552(b)(4).
+z See Critzcal Mass Energy Project v. NRC,9 75 F.2d 871, 879( D.C. Cir. 1992).
+3 See National Pai°Ics and Conservation Assn v. A1or~ton, 498 F.2d 765 (D.C. Cir. 1974).
+4 47 C.F.R. § 0.459(b)
+s 47 C.F.R. § 0.459(b)(1).
+~ 47 C.F.R. § 0.459(b)(2).
+
+3. EXPLANATION OF THE DEGREE TO WHICH THE INFORMATION IS COMMERCIAL OR
+FINANCIAL, OR CONTAINS A TRADE SECRET OR IS PRIVILEGED.'
+The information for which BIuIP seeks confidential treatment contains sensitive commercial
+information "which would customarily be guarded from competitors."8 Exhibits B and C contain
+confidential agreements between BIuIP and its carrier partners and contains proprietary
+commercial information concerning BIuIP's network, customers, and services.
+4. EXPLANATION OF THE DEGREE TO WHICH THE INFORMATION CONCERNS A SERVICE
+THAT IS SUBJECT TO COMPETITION.9
+Exhibits B and C and certain text in the application contain information relating to commercial
+matters that could be used by competitors to BIuIP's disadvantage. BIuIP has numerous
+competitors in the Voice over Internet Protocol ("VoIP") and managed services sector in which it
+operates. Detailed operations and commercial information of the type provided by BIuIP could
+compromise BIuIP's position in this highly competitive industry. Release would therefore result in
+substantial competitive harm to BIuIP.
+5. EXPLANATION OF HOW DISCLOSURE OF THE INFORMATION COULD RESULT IN
+SUBSTANTIAL COMPETITIVE HARM.~o
+Competitors could use BIuiP's proprietary commercial and operational information to BIuIP's
+detriment as they would gain access to sensitive information about how BIuIP provides services
+as well as about BIuIP's commercial agreements with others in the market that are not normally
+disclosed to the public.
+6. IDENTIFICATION OF ANY MEASURES TAKEN BY THE SUBMITTING PARTY TO PREVENT
+UNAUTHORIZED DISCLOSURE.'
+BIuIP has not distributed the redacted information in the text of the application and Exhibits B and
+C to the public.
+7. IDENTIFICATION OF WHETHER THE INFORMATION IS AVAILABLE TO THE PUBLIC AND
+THE EXTENT OF ANY PREVIOUS DISCLOSURE OF THE INFORMATION TO THIRD
+PARTIES.12
+BIuIP has not previously disclosed the information in the text of the application and in Exhibits B
+and C.
+JUSTIFICATION OF THE PERIOD DURING WHICH THE SUBMITTING PARTY ASSERTS
+THAT MATERIAL SHOULD NOT BE AVAILABLE FOR PUBLIC DISCLOSURE.13
+BIuIP requests that the redacted information in the text of the application and Exhibit B and C be
+treated as confidential for a period often years. This period is necessary due to the proprietary
+nature of the information in Exhibits B and C.
+47 C.F.R. ~ 0.459(b)(3).
+$ 47 C.F.R. § 0.457(d)(2).
+4~ c.~.R. § o.4s9(b)(4>.
+10 47 C.F.R. § 0.459(b)(5).
+" 47 C.F.R. § 0.459(b)(6).
+12 47 C.F.R. § 0.459(b)(7).
+" 47 C.P.R. ~ 0.459(b)(8).
+2
+
+9. OTHER INFORMATION THAT BIu1P BELIEVES MAY BE USEFUL IN ASSESSING WHETHER
+ITS REQUEST FOR CONFIDENTIALITY SHOULD BE GRANTED.~a
+The information concerns BIuIP's proprietary network information, related to current and planned
+commercial and operational information, and as such, is commercially sensitive.
+Any questions you may have regarding this filing should be directed to my attention via email. Thank you
+for your assistance in this matter.
+Respectfully submitted,
+~ G~.
+Michael H. Pryor
+mpryor@cooley.com
+MHP:rkk
+14 47 C.F.R. § 0.459(b)(9).
+3
+
+REDACTED FOR PUBLIC INSPECTION
+Before the
+FEDERAL COMMUNICATIONS COMMISSION
+Washington, D.C. 20554
+In the Matter of )
+BLuIP Inc. ) WC Docket No. 17-
+For Authorization to Obtain Numbering )
+Resources Pursuant to Section 52.15(g) of )
+the Commission's Rules )
+APPLICATION OF BLUIP INC. FOR AUTHORIZATION TO
+OBTAIN NUMBERING RESOURCES
+B1uIP Inc. ("BIuIP"), pursuant to Section 52.15(g)(3) of the Federal Communications
+Commission's ("Commission") Rules, respectfully requests authorization to obtain numbering
+ls
+resources as described below.
+As set forth in the Commission's Numbering O~~der,16 an interconnected VoIP provider
+may obtain numbering resources from the Numbering Administrator upon a showing that it is
+authorized to provide service in the area for which the numbering resources are requested. Such
+authorization may be obtained upon an application to the Commission containing the information
+detailed in Sections 52.15(g)( 3)(i)(A)-(F) of'the Commission's Rules. Blu1P hereby requests
+that the Commission grant it that authorization. In support of this application, BIuIP provides the
+following infot•mation:
+15 4~ c.r.R. § s2.is(g)(3).
+'~ Numbering Policiesf or A7odern Communications, Report arld Order, 30 FCC Rcd 6839 (2015).
+
+I. INFORMATION REQUIRED BY SECTION 52.15(8)( 3)(i)
+(A) §52.15(g)(3)(i)(A)
+Name: B1uIP Inc.
+Address: 410 S. Rampart, Suite 460
+Las Vegas, NV 89145
+Telephone: 702-690-4400
+Qualified Personnel: Edwin Martirosyan, Chief Technical Officer
+Steve Lance, Director of Operations
+BIuIP's IPES OCN is 819H.
+(B) §52.15(g)(3)(i)(B)
+BIuIP hereby acknowledges that authorization to obtain numbering resources under
+Section 52.15(8) of the Commission's Rules is subject to compliance with applicable
+Commission numbering rules as well as to the numbering authority delegated to the states.
+BIuIP hereby also acknowledges that this authorization is subject to compliance with industry
+guidelines and practices regarding numbering,j ust as to telecommunications carriers.
+(C) §52.15(g)(3)(i)(C)
+B1uIP hereby acknowledges that it must file requests for numbers with the relevant state
+comi~ission(s) at least 30 days before requesting numbers from the Numbering Administrators.
+The list of states in which B1uIP intends to request numbers is set forth in Exhibit 1 of this
+application.
+(D) §52.15(g)(3)(i)(D)
+BIuIP already has in place the necessary procedures to enable it to place numbers into
+service, within 60 days of activation. BIuIP, which has been in business since 2011, offers
+interconnected VoIP and advanced telephony solutions such as Hosted PBX, cloud-based
+managed communications services, and SIP trunking to SMBs and enterprise customers. B1uIP
+5
+
+currently utilizes more than _numbers and serves some -customers. B1uIP has
+entered into agreements with carriers and other providers, including
+to provide for routing of calls to and from the PSTN, emergency 911
+calling, and the routing of calls to 711 and other specialized dialing patterns. As an example of
+such agreements, attached hereto at Exhibit B is a copy of BIuIP's voice termination agreement
+with~ .B IuIP has requested confidential tieatinent of this agi°eement. BIuIP has also
+entered into IP-to-IP interconnection agreements with several carriers. BIuIP will continue to
+utilize these agreements to route outgoing calls to the PSTN.
+To ensure routing of calls to numbers that BIuIP will obtain directly, BIuIP has entered
+into a further agreement with ,which will host location routing numbers on
+its switch and ensure the proper routing of calls to BIuIP's customers. This and related
+agreements are attached at Exhibit C. B1uIP has also requested confidential treatment
+of this agreement. B1uIP also has the expertise and back office tools and systems in place to
+enable number porting and has, with its carrier partners, successfully ported thousands of
+numbers, including bulk ports of over 1000 numbers each.
+(E) §52.15(g)(3)(i)(E)
+BIuIP hereby certifies that it complies with its Universal Service Fund contribution
+obligations under 47 CFR part 54, subpart H, its Telecommunications Relay Service contribution
+obligations under 47 CFR § 64.604(c)(5)(iii), its North American Numbering Plan and Local
+Number Portability Administration contribution obligations under 47 CFR §§ 52.17, 52.32, its
+obligations to pay regulatory fees under 47 CFR § 1.1154, and its 911 obligations under 47 CFR
+Part 9.
+(F) §52.15(g)(3)(i)(F)
+D
+
+B1uIP hereby certifies that it leas the financial, managerial, and technical expertise to
+provide reliable service. As noted above, BIuIP was founded in 2011 and today serves more
+than- customers and has assigned more than_ telephone numbers utilizing its
+carrier partners. BIuIP's founders and key employees collectively have more than 50 years of
+experience in telecommunications. The co-founders of the company each have more than 15
+years of experience in telecom and IT industries. B1uIP's Vice President of Engineering has over
+24 years of experience with long distance, CLEC, and wireless companies, in which he has held
+senior engineering positions. The company has received numerous awards for its services,
+including recently being named one of the top 10 VoIP solution providers by Enterprise
+Magazine and for providing the Internet Telephony product of the year by TMC's Internet
+Telephony Magazine. The company is privately held and cash-flow positive. Key managerial
+and technical personnel are identified below.
+Key Personnel: Armen Martirosyan, Chief Executive Officer
+Edwin Martirosyan, Chief Technical Officer
+Patrick Case, Vice President of Engineering
+(G) §5215(g)(3)(i)(G)
+B1uIP hereby certifies that no party to this application is subject to a denial of Federal
+benefits pursuant to Section 5301 of the Anti-Drug Abuse Act of 1988, 21 U.S.C. § 862.
+II. ACKNOWLEDGEMENT OF CONDITIONS IN SECTION 52.15(g)(3)(iv)
+As required by Section 52.15(g)(3)(iv), B1uIP will maintain the accuracy of all contact
+information and certifications in this application, and will file a correction with the Commission
+and each applicable state within 30 days of any changes. BIuIP will also furnish accurate
+II
+
+regulatory and numbering contact information to each state commission when requesting
+numbers in that state.
+III. CONCLUSION
+Pursuant to Section 52.15(g)(3)(i) of the Commission's Rules, BIuIP respectfully requests
+the Commission grant this application for authorization to obtain numbering resources.
+Respectfully submitted,
+Armen Martirosyan
+Chief Executive Officer, BIuIP, Inc.
+Michael Pryor
+1299 Pennsylvania Ave. NW
+Suite 700
+Washington, D.C. 20004
+(202)776-2339
+rnpryor@cooley.conl
+Counsel to BIuIP
+
+EXHIBIT A
+STATES IN WHICH BLUIP INTENDS TO OBTAIN NUMBERS
+BIuIP intends to request numbers in the following states:
+California
+Florida
+Illinois
+Nevada
+Texas
+
+REDACTED FOR PUBLIC INSPECTION
+EXHIBIT B
+Voice Termination Agreement
+10
+
+REDACTED ~`OR PUBLIC ZNS~~CTTON
+
+REDACTED FOR PUBLIC INSP~CTTON
+
+REDACTED FOR PUBLZC TNSP~CTTON
+
+REDACTED FOR PUBLIC ~NSP~CTTON
+
+REDACTED FOR PUBLIC INSP CTTON
+
+REDACTED FOR PUBLIC INSPECTION
+EXHIBIT C
+Agreement between BIuIP, Inc. and its Carrier Partner to Host Numbers and Route Calls
+11
+
+REDACTED FOR PUBLIC TNSP CTTON
+
+~E~~cT~n ~aR ~usLrc zNs~~cm~o~
+
+REDACTED FOR PUBLIC INSPECTION
+
+REDACTED FOR PUBLIC INSP~CTIdN
+
+~~DAc~~~ ~aR ~U~Lzc ~Ns~~c~~o~
+
+REDACTED FOR PUBLIC TNS~ECTTON
+
+REDACTED FOR PUBLIC TNS~ECTION
+
+REDACTED FOR PUBLIC INS~ECTTON

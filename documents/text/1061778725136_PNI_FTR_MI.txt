@@ -1,0 +1,129 @@
+224 W. Exchange
+Owosso, MI 48867
+Phone: 989-723-0277
+Fax: 989-723-5939
+June 6, 2018
+Ms. Kavita Kale
+Executive Secretary
+Michigan Public Service Commission
+PO Box 30221
+7109 W Saginaw Highway
+Lansing, MI 48917
+RE: MPSC Case No. U-20195, Interconnection Agreement Between Peerless
+Network of Michigan, LLC and Frontier North Inc. and Frontier Midstates
+Inc.
+Dear Ms. Kale:
+Attached for filing is the joint application requesting approval of the Interconnection
+Agreement by and between Frontier North Inc. and Frontier Midstates Inc. (“Frontier”) and
+Peerless Network of Michigan, LLC (“Peerless”). In accordance with the Commission’s request,
+Frontier makes this filing electronically by posting the attached Agreement and related pleadings
+onto the Commission’s website at:
+http://efile.mpsc.cis.state.mi.us/efile/
+If you have any questions about this application, please contact me at 989-723-0277 or
+robert.e.stewart@ftr.com.
+Sincerely,
+Robert Stewart
+cc: Scott Kell - Peerless
+Enclosures
+
+MICHIGAN
+BEFORE THE MICHIGAN PUBLIC SERVICE COMMISSION
+* * * * *
+In the request for Commission approval of an )
+Interconnection agreement by and between ) Case No. U-20195
+Peerless Network of Michigan, LLC and Frontier ) E-file/Paperless
+North Inc. and Frontier Midstates Inc. )
+__________________________________________)
+JOINT APPLICATION
+Frontier North Inc. and Frontier Midstates Inc. (“Frontier”) and Peerless Network of
+Michigan, LLC (“Peerless”) hereby jointly apply to the Michigan Public Service Commission
+(“Commission”) pursuant to Section 203(1) of the Michigan Telecommunications Act (“MTA”),
+as amended, MCL 484.2203(1), and Section 252(e)(1) of the Telecommunications Act of 1996
+(“the Act”), 47 U.S.C. § 252(e)(1), for approval of an interconnection agreement by and between
+Frontier and Peerless. In support of this joint application, Frontier and Peerless state as follows:
+1. Frontier North Inc. is a Wisconsin corporation and Frontier Midstates Inc. is a
+Georgia corporation engaged in providing communications services to the public in
+its various exchanges throughout Michigan.
+2. Peerless Network of Michigan, LLC is a Michigan corporation with offices in
+Chicago, IL engaged in providing communications services to the public in its
+various exchanges throughout Michigan.
+3. Pursuant to Section 251 and 252 of the Act, Peerless and Frontier engaged in good
+faith negotiations for an interconnection agreement. These negotiations resulted in a
+completion of a new Agreement. A copy of the new Agreement is submitted with
+this joint application as Exhibit A.
+
+AGREEMENT FOR LOCAL INTERCONNECTION
+by and between
+PEERLESS NETWORK OF MICHIGAN, LLC
+and
+FRONTIER NORTH INC. AND
+FRONTIER MIDSTATES INC.
+FOR THE STATE OF
+MICHIGAN
+
+1.4 Except as otherwise provided in the Principal Document, the Principal Document
+may not be waived or modified except by a written document that is signed by
+the Parties. Subject to the requirements of Applicable Law, a Party shall have
+the right to add, modify, or withdraw, its Tariff(s) at any time, without the consent
+of, or notice to, the other Party.
+2. Term and Termination
+2.1 This Agreement shall be effective as of the Effective Date and, unless cancelled
+or terminated earlier in accordance with the terms hereof, shall continue in effect
+until April 24, 2020 (the “Initial Term”). Thereafter, this Agreement shall continue
+in force and effect unless and until cancelled or terminated as provided in this
+Agreement.
+2.2 Either PN or Frontier may terminate this Agreement effective upon the expiration
+of the Initial Term or effective upon any date after expiration of the Initial Term by
+providing written notice of termination at least ninety (90) days in advance of the
+date of termination.
+2.3 If either PN or Frontier provides notice of termination pursuant to Section 2.2 and
+on or before the proposed date of termination either PN or Frontier has
+requested negotiation of a new interconnection agreement, unless this
+Agreement is cancelled or terminated earlier in accordance with the terms hereof
+(including, but not limited to, pursuant to Section 12), this Agreement shall
+remain in effect until the earlier of: (a) the effective date of a new interconnection
+agreement between PN and Frontier; or, (b) the date one (1) year after the
+proposed date of termination.
+2.4 If either PN or Frontier provides notice of termination pursuant to Section 2.2 and
+by 11:59 PM Eastern Time on the proposed date of termination neither PN nor
+Frontier has requested negotiation of a new interconnection agreement, (a) this
+Agreement will terminate at 11:59 PM Eastern Time on the proposed date of
+termination, and (b) the Services being provided under this Agreement at the
+time of termination will be terminated, except to the extent that the Purchasing
+Party has requested that such Services continue to be provided pursuant to an
+applicable Tariff or Statement of Generally Available Terms (SGAT).
+3. Glossary and Attachments
+The Glossary and the following Attachments are a part of this Agreement:
+Additional Services Attachment
+Interconnection Attachment
+Traffic Exchange Attachment
+Resale Attachment
+Network Elements Attachment
+Collocation Attachment
+911 Attachment
+Pricing Attachment
+4. Applicable Law
+4.1 The construction, interpretation and performance of this Agreement shall be
+governed by (a) the laws of the United States of America and (b) the laws of the
+PN MI Comp v5.1 012418 2
+
+DocuSign Envelope ID: DEBC2731-D33C-4988-AF65-9441EAA6962D
+SIGNATURE PAGE
+IN WITNESS WHEREOF, the Parties hereto have caused this Agreement to be executed as of
+the Effective Date.
+PEERLESS NETWORK OF MICHIGAN, LLC FRONTIER NORTH INC. AND
+FRONTIER MIDSTATES INC.
+By: _________________________________ By: _________________________________
+Printed: __Scott Kell_____________________ Printed: Michael Daniel
+Title: ____EVP, Operations_______________ Title: SVP, Carrier Services
+PN MI Comp v5.1 012418 26
+
+SIGNATURE PAGE
+IN WITNESS WHEREOF, the Parties hereto have caused this Agreement to be executed as of
+the Effective Date.
+PEERLESS NETWORK OF MICHIGAN, LLC FRONTIER NORTH INC. AND
+FRONTIER MIDSTATES INC.
+By: By:
+Printed: Printed: Michael Daniel
+Title: Title: SVP, Carrier Services
+PN MICompvS.I 012418 26

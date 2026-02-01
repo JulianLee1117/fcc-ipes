@@ -1,0 +1,942 @@
+608 Robin Road
+Lakeland, FL 33803
+863.583.0291 p
+863.627.5192 F
+866.4.MIXNET
+www.mixnetworks.com
+networ
+'i
+March 22, 2016
+VIAECFS
+Marlene Dortch, Secretary
+Federal Communciations Commission
+445 121 h Street SW
+Washington, DC 20554
+Re: MIX Networks, Inc., Applicant for Authorization to Obtain Number Resources Pursuant to
+Section 52.15(g) of the Commissions Rules
+Dear Ms. Dortch:
+Pursuant to Section 52.15(g)(3)(i) of the Commissions Rules, MIX Networks, Inc. hereby submits its
+application requesting authorization to obtain numbering resources.
+For any question regarding this application please contact Aelea Christofferson at 541-771-8814 or
+aelea(a).atlc.com.
+Louie M. Holmes, II
+MIX Networks, Inc.
+:\t I I I .. t ':'.°?- L\
+
+Before the
+FEDERAL COMMUNICATIONS COMMISSION
+Washington, DC 20054
+In the matter of:
+MIX Networks, Inc., Applicant For )
+Authorization to Obtain Numbering )
+Resources Pursuant to Section )
+52.15(g) of the Commission Rules
+APPLICATION OF MIX NETWORKS, INC. AUTHORIZATION
+TO OBTAIN NUMBERING RESOURCES
+MIX Networks, Inc. pursuant to Section 52.1 S(g)(3)(i) of the Commission's Rules, respectfully requests
+authorization to obtain numbering resources as described below.
+Applicant requests the Commission grant it authorization as set forth in the Commission's Numbering and
+Policies for the 1\1odern Communications, FCC 15-70 (June 22, 20 IS) to obtain numbering resources from the
+North American Numbering Administrator.
+In support of this application MIX Networks, lnc. provides the following information.
+Applicant:
+Louie M. Holmes II
+CEO
+608 Robin Toad
+Lakeland, FL 33803
+863-583-2863
+lmh@M IX networks.c om
+Qualified personnel:
+Mark Lammert
+Compliance Solutions, lnc. (CSI)
+242 Rangeline Road
+Longwood, FL 32750
+407-260-1011
+MIX Networks, Inc. acknowledges that authorization to obtain numbering resources under Section 52.15 (g) of
+the Commission's Rules is subject to compliance with applicable Commission numbering rules, numbering
+
+authority delegated to the states, and industry guidelines and practices regarding numbering as applicable to
+telecommunications carriers.
+MIX Networks, Inc. acknowledges it must file requests for numbers with the relevant state commission(s) at least
+thirty (30) days before requesting numbers from the Numbering Administrators.
+As proof of its facilities readiness, MIX Networks, Inc. has attached to this application a letter from Inteliquent,
+Inc. verifying facilities readiness (Exhibit A). Inteliquent, Inc. wiJI be hosting the MIX Networks switches and
+providing PSTN connectivity. Also attached is an interconnection agreement between Inteliquent, Inc. and its
+local exchange carrier (Exhibit B). Also attached is an agreement with ATL Communications to ensure all
+number portability requirements are met and for the necessary interfaces for acquiring numbers (Exhibit C). As a
+result, MIX Networks, Inc. already has in place the necessary procedures to enable it to place numbers into
+service within 60 days of activation.
+MIX Networks, Inc. certifies that it will comply with its Universal Service Fund contribution obligations under 47
+CFR part 54, subpart H, its Telecommunications Relay Service contribution obligations under 47 CFR §
+64.604(5)(iii), its North American Numbering Plan and Local Number Portability Administration contribution
+obligations under 47 CFR §§52.17, 52.32, its obligations to pay regulatory fees under 47CFR§1.1154, and its
+91 J obligations under 47 CFR part 9;
+MIX Networks, Inc. certifies that it has the financial, managerial, and technical expertise or has contracted with
+other vendors to provide such expertise as to provide reliable service.
+MIX Network, Inc. 's key management personnel are listed below. None of the identified personnel are being or
+h~ve been investigated by the Commission or any law enforcement or regulatory agency for failure to comply
+with any law, rule or order.
+Louie M. Holmes TI, President and CEO
+Tracy Shirley, Comptroller
+MTX Networksf Inc certifies that no rty t th· l" · · ·
+f 530 l h . . pa o is app icahon is subject to a denial of Federal benefits pursuant to
+sec ion o t e Anh-Drug Abuse Act of 1988. See 21 U.S.C. § 862
+As required by Section 52. l S(g)(J)(iv) MTX Network . . .
+and ce1tifications in this application , d ·11 fil s, In~. wil~ mamtam the accuracy of all contact information
+within 30 days of any changes. ~ ~ w1 ' ea co1:·ectron with the Commission and each applicable state
+. £ . etwork:s, Inc. will al:;o fu . h
+In 0J"ffi3tiOn to each State COJnmission when requesting numb ~JSh accurate regufato1y and numbering COnfaCt
+ers m t at state.
+PursuanL lo Section 52 15( )(3)(I
+. · g ) of the Commission' Rules MIX N
+grant this application for authorization to obt . b ' etworks respectfully request the Commission
+am num er resources.
+~
+Louie M. Holmes II
+President/CEO
+MIX Networks, Inc.
+
+EXHIBIT A
+\QnteliQuenr
+The following Mix Network trunk groups are completed and in service as of 2/4/ 16.
+Order10722471nbound
+Order10722581nbound
+Order 1072263 Outbound
+Order 1072289 Outbound
+Thank you,
+Nickey
+JC:····
+John Nickey
+\0.
+Dir. Product Development, lnteliquent
+~r
+o: m: .c,
+550 West Adams Street, Suite 900, Chicago, IL 60661
+inteliQuenr
+inteliquent. 550 West Adams Street. Suite 900. Chicago, IL 60661. 855.404.4768. 1ntel1quent.corn
+
+EXHIBITB
+•
+Global Wlloleut.
+600 Hidden Ridge
+HOEWMNOTICES
+P.O. Box 152092
+Irving, TX 75038
+wmnotices@verizon.com
+July 19, 2010
+Richard Monto
+Neutral Tandem -Pennsylvania, LLC
+1 South Wacker, Suite 200
+Chicago, IL 60606
+rmonto@neutraltandem.com
+Subject: Comprehensive Agreement between Verizon North Inc., f/k/a GTE North Incorporated
+and Neutral Tandem -Pennsylvania, LLC In 1he Commonwealth of Pennsylvania dated
+October 10, 2007 (the "Agreemenr)
+•
+On July 1, 2010, Verizon Communications Inc. ("Verizon"), the ultimate parent corporation to Verizon
+North Inc. • conducted an internal restructuring, whereby Verizon North transferred certain assets,
+liabilities and contracts, including the Agreement, to Verizon North Retain Co. (the "Transactionj.
+Venzon North Retain Co. remains a subsidiary of Verizon.
+Your organization will continue to have a valid and binding contract with Verizon Nor.th Retain Co., a
+wholly owned subsidiary of Verizon. Verizon Nor.th Retain Co. assumes all of the responsibilities,
+liabilities and rights of Verizon North Inc. under the Agreement on and after the closing date of July 1,
+2010.
+By this letter, Verizon Is requesting the consent of your organization to the assignment of the Agreement
+from Verizon North Inc. to Verizon North Retain Co. as of the closing of the Transaction. Your consent
+means that you agree that the Agreement will continue in force and effect in accordance with its rates,
+terms and conditions, on and after the closing of the Transaction, between your organization and Verizon
+North Retain Co.
+By sending this letter Verizon does not admit that your consent is required or waive any of its rights under
+the Agreement.
+VPS2-RetainCo
+17738
+
+...
+•
+Comprehensive Agreement between Verizon North Inc., f/k/a GTE North Incorporated and Neutral Tandem -
+Pennsylvania. LLC in the Commonwealth of Pennsylvania dated October 10, 2007 (the "Agreemenr)
+July 14, 2010
+Page2
+Please indicate the consent of your organization by executing this letter where indicated in the space
+provided below and returning It to:
+Verizon Global VVholesale
+Director-Contract Management
+600 Hidden Ridge, HQEWMNotices
+Irving. TX 75038
+Should you have any questions you may contact your account team.
+Sincerely,
+~<lljJ.J!£~~/{,
+David J. Goldhirsch
+DirectorpContract Management
+Accepted and Agreed to by:
+Neutral Tandem -Pennsylvania, LLC
+-~')J-=-L· --i-~~\a_
+•
+By:
+Moo to
+B;c.\.\~ L...
+Name:
+(p"'.carJ., CovvtsQ.. \
+TiUe:
+Date: _J=u.._1_.,.~~lq _,,,_,2 _0_1_ 0 ___
+VIA Electronic Mail
+VPS2-RetainCo
+17738
+
+eJ.
+NEUTRAL
+.. -TANDEM. .
+One South Wacker, Suite 200
+Chicago, IL 60606
+ph.12.384.8000
+Fox 12.346.3276
+Via Overnight Delivery
+October 2, 2007
+Ann Lassen
+Verizon Communications
+600 Hidden Ridge, HQE03D40
+Irving, TX 75038
+RE: Neutral Tandem - Pennsylvania, LLC -Negotiated Interconnection Agreement
+between Verizon Pennsylvania (PAe) and Verizon North Inc (PAw) with Neutral
+Tandem-Pennsylvania, LLC for the State of Pennsylvania
+Dear Ms. Lassen,
+•
+Enclosed are two original executed signature pages oft he negotiated Interconnection
+Agreements referenced above.
+Please arrange for signature within Verizon and for filing with the Pennsylvania Public
+Utility Commission. After execution, please send one complete original to my attention
+at the following address:
+Neutral Tandem, Inc
+1 South Wacker, Suite 200
+Chicago, IL 60606
+Ify ou have any questions, I can be reached at 312-384-8050.
+Sincerely,
+David Tatak
+Enclosures
+•
+make every minute count
+
+_,
+•
+SIGNATURE PAGE
+IN WITNESS WHEREOF, the Parties hereto have caused this Agreement to be executed as of
+the Effective Date.
+NEUTRAL TANDEM -PENNSYLVANIA, LLC VERIZON NORTH INC.
+By:___..;__~-~-'____...~---
+By:
+Printed: David Tatak Printed: Jeffrey A. Masoner
+Title: VP Billing and Revenue Services Title: Vice President -Interconnection Services
+Date:
+Date: -------------
+•
+NT PAW Compv3 1 09282007f.doc 27
+
+·-
+. ""
+,;
+• •
+SIGNATURE PAGE
+IN WITNESS WHEREOF, the Parties hereto have caused this Agreement to be executed as of
+the Effective Date.
+NEUTRAL TANDEM -PENNSYLVANIA, LLC VERIZON PENNSYLVANIA INC.
+By: By:
+Printed: David Tatak Printed: Jeffrey A. Masoner
+Title: VP Billing and Revenue Services Title: Vice President -Interconnection Services
+Date:
+Date: -------------
+NT PAo Compv3 1 09282007f.doc 27
+
+....
+•
+AMENDMENT
+to
+INTERCONNECTION AGREEMENTS
+THIS AMENDMENT {this "Amendment") amends each of the following
+Interconnection Agreements (the "Interconnection Agreements"): (a) each Interconnection
+Agreement listed in Appendix 2 to this Amendment; and, (b), any other Interconnection
+Agreement under Sections 251 and 252 of the Communications Act of 1934, 47 U.S.C. §§
+251 and 252 (including, but not limited to, an interconnection agreement that is an
+adoption pursuant to 47 U.S.C. § 252(i)) that became effective prior to October 16, 2006,
+or that becomes effective on or after October 16, 2006, between a Verizon Party and an
+NT Party for the Verizon Party's Incumbent Local Exchange Carrier service area. As used
+in this Amendment, (a) the 'Verizon Parties" include each of the Verizon companies listed
+in Appendix 1 (each individually 'Verizon" or a 'Verizon Party" and collectively 'Verizon" or
+the 'Verizon Parties"), and, {b) the "NT Parties" include each of the NT companies listed in
+Appendix 1 and each of their wireline affiliates (each individually "NT" or an "NT Party" and
+collectively "NT" or the "NT Parties"). Verizon and NT are hereinafter referred to, each
+individually, as a "Party" and, collectively, as the "Parties." This Amendment shall become
+effective for each of the Interconnection Agreements listed in Appendix 2 as of October 16,
+2006 and for any other Interconnection Agreement as of the later of October 16, 2006 or
+•
+the date on which such Interconnection Agreement becomes effective. The term
+"affiliates," as used in this Amendment, shall have the same meaning as under Rule 405 of
+the Rules promulgated pursuant to the Securities Act of 1933, as amended.
+WITNESS ETH:
+WHEREAS, pursuant to 47 U.S.C. § 252(i), effective October 16, 2006, Neutral
+Tandem-New York, LLC adopted the August 1, 2006 "Interconnection Agreement Under
+Sections 251 and 252 of the Telecommunications Act of 1996 By and Between Verizon
+New York Inc. and AT&T Communications of New York, Inc."; and
+WHEREAS, in such adoption letter, Verizon and NT recognized and agreed that the
+Unitary Rate Amendment (as defined in Section 1, below) shall apply to all of the
+Interconnection Agreements in accordance with the Unitary Rate Amendment's terms; and
+WHEREAS, the Parties desire to amend the Unitary Rate Amendment and each
+Interconnection Agreement as set forth herein;
+NOW, THEREFORE, in consideration of the mutual promises, provisions and
+covenants herein contained, the Parties agree as follows:
+1. Definition. As used in this Amendment, "Unitary Rate Amendment" means
+• Amendment No. 1 to the August 1, 2006 "Interconnection Agreement Under
+Sections 251 and 252 of the Telecommunications Act of 1996 By and Between
+Verizon New York Inc. and AT&T Communications of New York, Inc.," that was
+adopted by Neutral Tandem- New York, LLC, effective October 16, 2006, pursuant
+Neutral Tandem Amend 121106 1
+·-·-···
+~-----
+
+•
+to 47 U.S.C. § 252(i). A copy of the Unitary Rate Amendment is set out in Appendix
+3 to this Amendment.
+2. Application of the Unitary Rate Amendment. The Parties hereby reaffirm that the
+Unitary Rate Amendment, as amended by this Amendment, shall apply to and be a
+part of each Interconnection Agreement in accordance with the Unitary Rate
+Amendment's terms. References to AT&T in the Unitary Rate Amendment shall be
+deemed to be references to NT.
+3. Amendment of the Unitary Rate Amendment. The Unitary Rate Amendment and
+each Interconnection Agreement is amended as follows:
+a. Existing Section 6, "Other Traffic," of Attachment 2, "Terms and Conditions," of
+the Unitary Rate Amendment is deleted from the Unitary Rate Amendment.
+b. A new Section 6, "Other Traffic," as set out in Appendix 4 to this Amendment, is
+added to Attachment 2 of the Unitary Rate Amendment in lieu of existing Section
+6 of Attachment 2 of the Unitary Rate Amendment.
+c. The second sentence of Section 8(a), "Interconnection Architecture," "Traffic to
+Which The Interconnection Architecture Applies,· of Attachment 2 of the Unitary
+Rate Amendment, which presently reads:
+•
+''They also apply to interconnection facilities used by the Parties to exchange
+translated LEC lntral..ATA toll free service access code (e.g., 800/888/877)
+traffic, lntralATA Toll traffic, tandem transit traffic, V/FX Traffic that is not ISP
+Bound Traffic, and VOiP Traffic, subject, however, to the applicable terms, if
+any, set forth in the Interconnection Agreements or applicable tariffs (if any)
+relating to compensation for facilities, as modified by this Amendment."
+is amended to read:
+"They also apply to interconnection facilities used by the Parties to exchange
+translated LEC lntraLATA toll free service access code (e.g., 800/888/877)
+traffic, lntral..ATA Toll traffic, Tandem Transit Traffic (as defined in Section
+6.2.1.1, above), Four-Party Traffic (as defined in Section 6.2.2.1, above), V/FX
+Traffic that is not ISP-Bound Traffic, and VOiP Traffic, subject, however, to the
+applicable terms, if any, set forth in the Interconnection Agreements or
+applicable tariffs (if any) relating to compensation for facilities, as modified by
+this Amendment."
+d. The third sentence of Section 8(d)(i) of Attachment 2 of the Unitary Rate
+Amendment, which presently reads:
+"Appendix A sets forth those LATAs where AT&T and Verizon are not
+•
+interconnected as of November 1, 2004 and for which the mutual POI terms set
+forth below shall apply, if interconnection is implemented between the Parties in
+those LAT As."
+Neutral Tandem Amend 121106 2
+
+...
+•
+is amended to read:
+"For those LATAs where NT and Verizon were not interconnected as of
+November 1, 2004, the mutual POI terms set forth below shall apply, if
+interconnection is implemented between the Parties in those LAT As."
+e. "Appendix A," "LATAs Where Verizon and AT&T Are Not Interconnected As of
+August 1, 2006," of Attachment 2 of the Unitary Rate Amendment is deleted.
+f. Section 8(d)(vi) of Attachment 2 of the Unitary Rate Amendment is deleted.
+g. "Appendix B," "30 Condo and Shared Network Facility Arrangements ("SNFA")
+Established Between the Parties as of August 1, 2006," of Attachment 2 of the
+Unitary Rate Amendment is deleted.
+4. Scope of this Amendment. This Amendment shall amend, modify and revise the
+Unitary Rate Amendment and each Interconnection Agreement only to the extent
+set forth expressly in this Amendment, and, except to the extent set forth in this
+Amendment, the rates, terms and provisions of the Unitary Rate Amendment and
+each Interconnection Agreement shall remain in full force and effect after the
+effective date of this Amendment. Nothing in this Amendment shall be deemed to
+•
+extend or amend the term of the Unitary Rate Amendment or any Interconnection
+Agreement, or to affect the right of a Party to exercise any right of termination it may
+have under the Unitary Rate Amendment or any Interconnection Agreement.
+s. Conflicts. This Amendment shall be deemed to revise the rates, terms and
+provisions of the Unitary Rate Amendment and each Interconnection Agreement to
+the extent necessary to give effect to the rates, terms and provisions of this
+Amendment. In the event of a conflict between the rates, terms and provisions of
+this Amendment and the rates, terms and provisions of the Unitary Rate
+Amendment or an Interconnection Agreement, this Amendment shall govern,
+provided, however, that the fact that a rate, term or provision appears in this
+Amendment but not in the Unitary Rate Amendment or an Interconnection
+Agreement, or in the Unitary Rate Amendment or an Interconnection Agreement but
+not in this Amendment, shall not be interpreted as, or deemed grounds for finding, a
+conflict for purposes of this Section 5.
+s. Counterparts. This Amendment may be executed in one or more counterparts,
+each of which when so executed and delivered shall be an original and all of which
+together shall constitute one and the same instrument.
+7. Captions. The Parties acknowledge that the captions in this Amendment have been
+inserted solely for convenience of reference and in no way define or limit the scope
+• or substance of any rate, term or provision of this Amendment.
+Neutral Tandem Amend 121106 3
+
+.
+..
+••
+SIGNATURE PAGE
+IN WITNESS WHEREOF, the Parties hereto have caused this Amendment to be
+executed.
+The Neutral Tandem Parties The Verizon Parties
+~ ~
+By:
+\v' ~'--\ ..J~.__ (\
+By:/Jtlt,{). ~
+Printed: Jeffrey A. Masoner
+VP
+Title: ~(LL 1~~ ~ 'Rc-ve->v£ Title: Vice President- Interconnection
+S€R..VtC...~S Services
+!/ /oz
+• Date: oate: t I
+~---,,,__--f,'---'----------
+•
+Neutral Tandem Amend 121106 4
+. ---·--------·- - - - ------------'
+
+•
+APPENDIX 1
+•
+•
+
+•
+VERIZON PARTIES
+Verizon California Inc., a California corporation with a place of business at 112
+Lakeview Canyon Road, Thousand Oaks, California, 91362.
+Verizon Delaware LLC, a Delaware limited liability company with a place of
+business at 901 Tatnall Street, Wilmington, Delaware, 19801.
+Verizon Florida Inc., a Florida corporation with a place of business at 201 North
+Franklin Street, One Tampa City Center, Tampa, Florida, 33602.
+Verizon Maryland Inc., a Maryland corporation with a place of business at One
+East Pratt Street, 8th Floor, Baltimore, Maryland 21202.
+Verizon New England Inc., a New York corporation with a place of business at
+185 Franklin Street, Boston, Massachusetts, 02110.
+Verizon New Jersey Inc., a New Jersey corporation with a place of business at
+540 Broad Street, Newark, New Jersey 07102.
+Verizon New York Inc., a New York corporation with a place of business at 140
+West Street, New York, New York, 10007.
+•
+Verizon North Inc., a Wisconsin corporation with a place of business at 8001
+West Jefferson Boulevard, Fort Wayne, Indiana, 46804.
+Verizon Northwest Inc., a Washington corporation with a place of business at
+1800 4151 Street, Everett, Washington, 98201.
+Verizon Pennsylvania Inc., a Pennsylvania corporation with a place of business
+at 1717 Arch Street, Philadelphia, Pennsylvania, 19103.
+Verizon South 'Inc., a Virginia corporation with a place of business at 201 North
+Franklin Street, One Tampa City Center, Tampa, Florida, 33602.
+Verizon Virginia Inc., a Virginia corporation with a place of business at 600 East
+Main Street, 11th Floor, Richmond, Virginia, 23219.
+Verizon Washington, DC Inc., a New York corporation with a place of business at
+2055 L Street, NW, 5th Floor, Washington, DC, 20036.
+Verizon West Virginia Inc, a West Virginia corporation with a place of business at
+1500 MacCorkle Ave., S.E., Charleston, West Virginia, 25314.
+•
+GTE Southwest Incorporated a Delaware corporation with a place of business at
+500 East Carpenter Freeway, Irving, Texas, 75062.
+Appendix 1 1
+Neutral Tandem Amend 121106
+
+•
+Conte! of the South Inc., a Georgia corporation with a place of business at 600
+Hidden Ridge, Irving, Texas, 75038 .
+•
+•
+Appendix 1 2
+Neutral Tandem Amend 121106
+
+•
+NEUTRAL TANDEM PARTIES
+Neutral Tandem-California, LLC, a Delaware limited liability company with a
+place of business at 1 South Wacker Drive, Suite 200, Chicago, Illinois, 60606.
+Neutral Tandem-Florida, LLC, a Delaware limited liability company with a place
+of business at 1 South Wacker Drive, Suite 200, Chicago, Illinois, 60606.
+Neutral Tandem-Illinois, LLC, a Delaware limited liability company with a place
+of business at 1 South Wacker Drive, Suite 200, Chicago, Illinois, 60606.
+Neutral Tandem-Maryland, LLC, a Delaware limited liability company with a
+place of business at 1 South Wacker Drive, Suite 200, Chicago, Illinois, 60606.
+Neutral Tandem-Massachusetts, LLC, a Delaware limited liability company with
+a place of business at 1 South Wacker Drive, Suite 200, Chicago, Illinois, 60606.
+Neutral Tandem-Michigan, LLC, a Delaware limited liability company with a
+place of business at 1 South Wacker Drive, Suite 200, Chicago, Illinois, 60606.
+Neutral Tandem-New Jersey, LLC, a Delaware limited liability company with a
+• place of business at 1 South Wacker Drive, Suite 200, Chicago, Illinois, 60606.
+Neutral Tandem-New York, LLC, a Delaware limited liability company with a
+place of busine.ss at 1 South Wacker Drive, Suite 200, Chicago, Illinois, 60606.
+Neutral Tandem-Virginia, LLC, a Delaware limited liability company with a place
+of business at 1 South Wacker Drive, Suite 200, Chicago, Illinois, 60606.
+Neutral Tandem-Washington, D.C., LLC, a Delaware limited liability company
+with a place of business at 1 South Wacker Drive, Suite 200, Chicago, Illinois,
+60606 .
+•
+Appendix 1 3
+Neutral Tandem Amend 121106
+
+..
+•
+APPENDIX2
+•
+•
+
+•
+Appendix2
+Interconnection Agreements Between the Parties as of October 16, 2006
+THIS
+TITLE OF AMENDMENT
+NAMES OF EFFECTIVE
+STATE INTERCONNECTION IS
+PARTIES DATE
+AGREEMENT AMENDMENT
+NUMBER
+California Adoption by Neutral Verizon 10/23/2004 No.3
+Tandem-California, LLC California Inc.
+Pursuant to 47 U.S.C. §
+252(i) of the: Neutral
+Tandem-
+Interconnection, Resale California, LLC
+and Unbundling
+Agreement between GTE
+California Incorporated,
+Contel of California, Inc.
+andAT&T
+Communications of
+California, Inc.
+District of Agreement by and Verizon 3/27/2006 No.2
+Columbia between Neutral Tandem- Washington,
+•
+Washington, D.C., LLC DC Inc .
+and Verizon Washington,
+DC Inc. for the District of Neutral
+Columbia Tandem-
+Washington,
+D.C., LLC
+Florida Adoption by Neutral Verizon Florida 11/7/05 No.1
+Tandem-Florida, LLC Inc.
+Pursuant to 47 U.S.C. §
+252(i) of the: Neutral
+Tandem-
+Agreement by and Florida, LLC
+Between Us LEC of
+Florida Inc. and Verizon
+Florida Inc., f/k/a GTE
+Florida Incorporated for
+the State of Florida
+Maryland Agreement by and Verizon 3/27/2006 No.2
+between Neutral Tandem- Maryland Inc.
+Maryland, LLC and
+Verizon Maryland Inc. for Neutral
+the State of Maryland Tandem-
+Marvland, LLC
+•
+Appendix2 1
+Neutral Tandem Amend 121106
+
+•
+Massachusetts Adoption by Neutral Verizon New 5/4/04 No.2
+Tandem-Massachusetts, England Inc.
+LLC Pursuant to 47 §
+U.S.C. 252(i) of the: Neutral
+Tandem-
+Interconnection Massachusetts,
+Agreement between LLC
+AT&T Communications of
+New England, Inc., and
+New England Telephone
+and Telegraph Company,
+d/b/a Bell Atlantic -
+Massachusetts
+New Jersey Adoption by Neutral Verizon New 5/10/04 No.2
+Tandem-New Jersey, Jersey Inc.
+LLC Pursuant to 47 §
+U.S.C. 252(i) of the: Neutral
+Tandem-New
+Agreement Between Bell Jersey, LLC
+Atlantic - New Jersey,
+Inc. and Sprint
+Communications
+Company L.P.
+New York Adoption By Neutral V~rizon New 10/16/06 No.1
+• Tandem-New York, LLC York Inc.
+Pursuant To 47 U.S.C. §
+252{i) of the: Neutral
+Tandem-New
+Interconnection York, LLC
+Agreement Under
+Sections 251 And 252 of
+the Telecommunications
+Act of 1996 by and
+between Verizon New
+York Inc. and AT&T
+Communications of New
+York Inc.
+•
+Appendix2 2
+Neutral Tandem Amend 121106
+'-------·- - --------- -------···--
+
+•
+Ohio Adoption by Neutral Verizon North 5/3/04 No.1
+Tandem-Michigan, LLC Inc.
+Pursuant to 47 U.S.C. §
+252(i) of the: Neutral
+Tandem-
+Interconnection, Resale Michigan, LLC
+and Unbundling
+Agreement between GTE
+North Incorporated and
+AT&T Communications of
+Ohio, Inc.
+Virginia Agreement by and Verizon Virginia 3/27/2006 No.2
+between Neutral Tandem- Inc.
+Virginia, LLC and Verizon
+Virginia Inc. for the Neutral
+Commonwealth of Virginia Tandem-
+Virginia, LLC
+Virginia Agreement by and Verizon South 3/27/2006 No.2
+between Neutral Tandem- Inc.
+Virginia, LLC and Verizon
+South Inc. for the Neutral
+Commonwealth of Virginia Tandem-
+Virginia, LLC
+Wisconsin Adoption by Neutral Verizon North 10/22/04 No. 1
+• Tandem-Illinois, LLC Inc.
+Pursuant to 47 U.S.C. §
+252(i} of the: Neutral
+Tandem-
+Interconnection, Resale Illinois, LLC
+and Unbundling
+Agreement between
+AT&T Communications of
+Wisconsin, Inc. and GTE
+North Incorporated
+•
+Appendlx2 3
+Neutral Tandem Amend 121106
+
+..
+•
+APPENDIX3
+•
+•
+'--------- -- .
+
+•
+APPENDIX4
+•
+•
+I
+I
+J
+
+r
+•
+6. Other Traffic
+Notwithstanding any other provision in the Interconnection Agreements
+(including, but not limited to, in the Unitary Rate Amendment), a tariff, an SGAT,
+or otherwise:
+6.1 For any traffic originating with a third party Telecommunications Carrier
+and delivered by NT to Verizon: (a) NT shall pay Verizon the same
+amount that such third party Telecommunications Carrier would have
+been obligated to pay Verizon for termination of that traffic at the location
+the traffic is delivered to Verizon by NT; and, (b) if NT pays Verizon for
+termination of such traffic in accordance with Section 6.1 (a), preceding,
+Verizon shall not bill the third party Telecommunications Carrier for
+termination of that traffic. This Section 6.1 does not apply to Four-Party
+Traffic that is subject to Section 6.2.
+6.2 Tandem Transit Traffic and Four-Party Traffic
+6.2.1 Tandem Transit Traffic
+6.2.1.1 As used in this Section 6.2, "Tandem Transit Trafficn is
+Telephone Exchange Service traffic1 that originates on
+•
+NT's network (i.e., where an NT End User originates the
+call on NT's network), and is transported through Verizon's
+Tandem to the subtending End Office or its equivalent of a
+Telecommunications Carrier other than Verizon {e.g., a
+competitive Local Exchange Carrier (CLEC), Incumbent
+Local Exchange Carrier (ILEC) other than Verizon, other
+Local Exchange Carrier (LEC), or Commercial Mobile
+Radio Service (CMRS) carrier)2 • Neither the originating
+customer nor the terminating customer is an End User of
+Verizon. Subtending End Offices or their equivalent shall
+be determined in accordance with and as identified in the
+Local Exchange Routing Guide {LERG). For the
+avoidance of any doubt, under no circumstances shall
+Verizon be obligated to transit traffic through a Verizon
+Tandem to an End Office or its equivalent that the LERG
+does not identify as subtending that particular Verizon
+1 For the purposes of this Section 6.2, "Telephone Exchange Service traffic" shall be deemed to
+include (but not be limited to) VOiP Traffic where the actual originating and terminating points
+of the complete end-to-end communication are both located within the same Verizon local
+calling area. (the Parties hereby acknowledge that they shall not be deemed, by virtue of this
+•
+Section 6.2, to have agreed for any other purpose whether such VOiP Traffic is or is not
+"Telephone Exchange Service traffic.") The first sentence of this footnote shall not apply to
+VOiP Traffic that Is subject to Section S(a), above.
+2
+Such a carrier is referred to in this Section 6.2 as a "Receiving Carrier."
+Appendix4 1
+Neutral Tandem Amend 121106
+--·-- -··-·- ----- - - -- -- - --- -· - ·•··-·-·--·---
+
+r
+•
+Tandem. Switched Exchange Access service traffic is not
+Tandem Transit Traffic.
+6.2.1.2 Tandem Transit Traffic Service provides NT with the
+transport of Tandem Transit Traffic as provided in this
+Section 6.2.1 and Section 6.2.3.
+6.2.1.3 NT may use Tandem Transit Traffic Service only for traffic
+that originates on NT's network.
+6.2.1.4 NT shall pay Verizon for Tandem Transit Traffic Service at
+the rates for Tandem Transit Traffic Service provided for in
+Exhibit 1, "Pricing Attachment for Tandem Transit Traffic
+Service and Four-Party Traffic Service," attached. The
+"Pricing Attachment for Tandem Transit Traffic Service and
+Four-Party Traffic Service" is hereby made a part of this
+Section 6.2.
+6.2.1.5 The provisions of Section 6.2.3 apply to and are
+incorporated into this Section 6.2.1.
+6.2.2 Four-Party Traffic
+•
+6.2.2.1 As used in this Section 6.2, "Four-Party Traffic" is
+Telephone Exchange Service traffic3 that (a) originates on
+the network of a Telecommunications Carrier other than
+NT (e.g., a CLEC, ILEC other than Verizon, other LEC, or
+Commercial Mobile Radio Service (CMRS) carrier), (b) is
+transported through NT's network and delivered by NT to
+Verizon, and (c) then is transported through Verizon's
+Tandem to the subtending End Office or its equivalent of a
+Telecommunications Carrier other than Verizon (e.g., a
+CLEC, ILEC other than Verizon, other LEC, or Commercial
+Mobile Radio Service (CMRS) carrier)4 • Neither the
+originating customer nor the terminating customer is an
+End User of Verizon or NT. Subtending End Offices or
+their equivalent shall be determined in accordance with
+and as identified in the Local Exchange Routing Guide
+(LERG). For the avoidance of any doubt, under no
+3 For the purposes of this Section 6.2, "Telephone Exchange Service traffic'' shall be deemed to
+include (but not be limited to) VOiP Traffic where the actual originating and terminating points
+of the complete end-to-end communication are both located within the same Verizon local
+calling area. (The Parties hereby acknowledge that they shall not be deemed, by virtue of this
+•
+Section 6.2, to have agreed for any other purpose whether such VOiP Traffic is or is not
+"Telephone Exchange Service traffic.") The first sentence of this footnote shall not apply to
+VOiP Traffic that is subject to Section S(a), above.
+4 Such a carrier is referred to in this Section 6.2 as a "Receiving Carrier.~
+Appendix4 2
+Neutral Tandem Amend 121106
+
+.
+...
+•
+circumstances shall Verizon be obligated to transit traffic
+through a Verizon Tandem to an E:nd Office or its
+equivalent that the LERG does not identify as subtending
+that particular Verizon Tandem. Switched Exchange
+Access service traffic is not Four-Party Traffic.
+6.2.2.2 Four-Party Traffic Service provides NT with the transport of
+Four-Party Traffic as provided in this Section 6.2.2 and
+Section 6.2.3.
+6.2.2.3 NT shall pay Verizon for Four-Party Traffic Service at the
+rates for Four-Party Traffic Service provided for in Exhibit
+1, "Pricing Attachment for Tandem Transit Traffic Service
+and Four-Party Traffic Service," attached. The "Pricing
+Attachment for Tandem Transit Traffic Service and Four
+Party Traffic Service" is hereby made a part of this Section
+6.2.
+6.2.2.4 The provisions of Section 6.2.3 apply to and are
+incorporated into this Section 6.2.2.
+6.2.3 Additional Provisions
+•
+6.2.3.1 The provisions in this Section 6.2.3 apply to Sections 6.2.1
+and 6.2.2, above.
+6.2.3.2 As used in this Section 6.2.3:
+6.2.3.2.1 "Traffic" means and is comprised of "Tandem
+Transit Traffic" (as defined in Section 6.2.1) and
+"Four-Party Traffic" (as defined in Section 6.2.2).
+6.2.3.2.2 "Receiving Carrier'' means a
+Telecommunications Carrier to whom Verizon
+has transported Traffic that was delivered by NT
+to Verizon, as described in Section 6.2.1 or
+Section 6.2.2.
+6.2.3.3 Traffic shall be routed over the interconnection trunks
+described in the Interconnection Agreement (including, but
+not limited to, in the Unitary Rate Amendment) for the
+delivery of Local Traffic to Verizon. NT shall deliver each
+call to Verizon's Tandem with Common Channel Signaling
+(CCS) and the appropriate Transactional Capabilities
+Application Part (''TCAP") message to facilitate full
+•
+interoperability of CLASS Features and billing functions .
+I
+I
+Appendix4 3
+Neutral Tandem Amend 121106
+1
+
+)'
+f
+•
+6.2.3.4 NT shall exercise commercially reasonable efforts
+(including, but not limited to, requesting assistance from a
+state regulatory commission, the Federal Communications
+Commission, or other appropriate government authorities)
+to promptly establish a reciprocal traffic exchange
+arrangement (either via written agreement or mutual tariffs)
+with every Receiving Carrier to which NT delivers Traffic
+through Verizon's Tandem. Such reciprocal traffic
+exchange arrangements shall provide for the Receiving
+Carrier to terminate or complete Traffic delivered by NT
+and to bill NT or another Telecommunications Carrier other
+than Verizon, and not to bill Verizon, for such Traffic. If
+Verizon believes that NT has not exercised commercially
+reasonable efforts to promptly establish such reciprocal
+traffic exchange arrangements, each Party may use the
+dispute resolution processes of the Interconnection
+Agreement.
+6.2.3.5 Verizon shall not be liable for compensation to any
+Receiving Carrier or to NT or to any other person or entity
+for any Traffic that is transported through Verizon's
+Tandem, and Verizon reserves the right to assess to NT,
+•
+and NT shall promptly pay to Verizon, any charges or costs
+any Receiving Carrier or other person or entity bills to, or
+imposes or levies on, Verizon for the delivery, transport or
+termination of such Traffic, including, but not limited to, any
+switched Exchange Access service charges. If Verizon is
+billed by any Receiving Carrier or other person or entity for
+any Traffic delivered by NT to Verizon, Verizon may
+provide notice to NT of such billing. Upon receipt of such
+notice, NT shall immediately cease sending to Verizon any
+Traffic going to such Receiving Carrier or other person or
+entity until Verizon provides written notice to NT that NT
+may resume sending to Verizon Traffic going to such
+Receiving Carrier or other person or entity (which Verizon
+will do upon receipt of a written certification signed by an
+authorized officer or agent of the Receiving Carrier or of
+the other person or entity, in form and substance
+acceptable to Verizon, that the Receiving Carrier or other
+person or entity has removed such billed charges from the
+bill the Receiving Carrier or other person or entity has
+submitted to Verizon and that the Receiving Carrier or
+other person or entity will not bill Verizon for any Traffic
+delivered by NT to Verizon} .
+•
+6.2.3.6 If NT uses Verizon's network for Traffic volumes (total
+combined Tandem Transit Traffic and Four-Party Traffic
+Appendix4 4
+Neutral Tandem Amend 121106
+L_:._, _____ --
+
+•
+•
+volumes) that exceed the CCS busy hour equivalent of
+200,000 combined minutes of use per month {a DS1
+equivalent) to the subtending End Office or its equivalent of
+a particular Receiving Carrier for any month (the
+"Threshold Level"), NT shall use good faith efforts to
+establish direct interconnection with such Receiving Carrier
+and reduce such Traffic volumes below the Threshold
+Level. If Verizon believes that NT has not exercised good
+faith efforts promptly to obtain such direct interconnection,
+each Party may attempt to resolve the dispute in
+accordance with the dispute resolution provisions of the
+Interconnection Agreement.
+6.2.4 Traffic Delivered to Third-Party Telecommunications Carriers
+Connected to NT
+6.2.4.1 Upon written request from Verizon, NT shall offer to
+Verizon service arrangements equivalent to or the same as
+the service arrangements provided by Verizon to NT
+pursuant to Sections 6.2.1 through 6.2.3 such that Verizon
+may terminate calls to a switch or its equivalent of a
+Telecommunications Carrier (e.g., CLEC, ILEC other than
+•
+Verizon, other LEC, or Commercial Mobile Radio Service
+(CMRS) carrier), that subtends or interconnects with an NT
+switch or its equivalent ("Reciprocal Transit/Four-Party
+Traffic Servicen). NT shall offer such Reciprocal
+Transit/Four-Party Traffic Service arrangements under the
+rates, terms and other provisions of a written amendment
+to the Interconnection Agreements that expressly
+references this Section 6.2.4. Such rates, terms and other
+provisions shall be no less favorable to Verizon than the
+rates, terms and other provisions set out in Sections 6.2.1
+through 6.2.3, above, Exhibit 1, "Pricing Attachment for
+Tandem Transit Traffic Service and Four-Party Traffic
+Service," attached, and other applicable provisions of the
+Interconnection Agreements (including, but not limited to,
+the Unitary Rate Amendment). Verizon shall have the right
+to determine in its sole discretion whether it will enter into
+such a written amendment to the Interconnection
+Agreements and shall have no obligation to enter into such
+a written amendment to the Interconnection Agreements.
+An NT tariff shall not be deemed to be such a written
+amendment to the Interconnection Agreements.
+•
+6.2.4.2 Verizon may deliver to NT, and NT may accept from
+Verizon, traffic that is to be transported or delivered from
+NT to another Telecommunications Carrier only pursuant
+Appendix4 5
+Neutral Tandem Amend 121106
+
+f
+•
+to the rates, terms and other provisions of a written
+amendment to the Interconnection Agreements that has
+been entered into by Verizon and NT pursuant to Section
+6.2.4.1, above. If such a written amendment to the
+Interconnection Agreements is not in effect (e.g., because
+Verizon and NT have not entered into such a written
+amendment to the Interconnection Agreements, or
+because such a written amendment to the Interconnection
+Agreements has expired): (a) Verizon shall not deliver to
+NT traffic that is to be transported or delivered from NT to
+another Telecommunications Carrier; (b) NT shall not
+accept from Verizon traffic that is to be transported or
+delivered from NT to another Telecommunications Carrier;
+and, (c) NT shall not bill Verizon, and Verizon shall have no
+obligation to pay NT, any charges for, or in connection
+with, (i) any traffic delivered by Verizon to NT that is
+transported or delivered from NT to another
+Telecommunications Carrier, or (ii) any services, facilities
+or other arrangements used in connection with such traffic.
+6.2.5 General Provisions
+•
+6.2.5.1 Each Party may enter into a direct and reciprocal traffic
+exchange arrangement with any other Telecommunications
+Carrier. Neither Party shall take any actions to prevent the
+other Party from entering into a direct and reciprocal traffic
+exchange arrangement with any other Telecommunications
+Carrier.
+6.2.5.2 If NT fails to comply with this Section 6.2, such failure shall
+be a material breach of a material provision of the
+Interconnection Agreements and Verizon may exercise any
+and all remedies under the Interconnection Agreements
+and Applicable Law for such breach. Without limiting the
+preceding sentence, if NT fails to comply with this Section
+6.2, and such failure continues for thirty (30) days after
+written notice thereof from Verizon, Verizon may, by written
+notice to NT, (a) suspend the provision of any or all
+services under this Section 6.2, or (b) cancel the
+Interconnection Agreements and terminate the provision of
+all services under the Interconnection Agreements.
+6.3 The following traffic shall not be included in the calculation of the
+• Aggregated Traffic Ratio in Section (3)(a) above: (a) Local Traffic or ISP
+Bound Traffic that originates with a third party Telecommunications
+Carrier, is routed through such third party Telecommunications Carrier's
+Appendix4 6
+Neutral Tandem Amend 121106
+
+•
+own switch, and is handed off by NT to Verizon; and, (b) Local Traffic or
+ISP-Bound Traffic that Verizon hands off to NT for delivery to a third party
+Telecommunications Carrier and is routed through such third party
+Telecommunications Carrier's own switch .
+•
+•
+Appendix4 7
+Neutral Tandem Amend 121106
+I·

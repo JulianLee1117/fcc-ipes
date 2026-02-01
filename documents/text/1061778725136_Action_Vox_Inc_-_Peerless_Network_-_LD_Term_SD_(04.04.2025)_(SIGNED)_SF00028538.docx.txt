@@ -1,0 +1,180 @@
+Docusign Envelope ID: 1EF76080-BC5F-4503-A17A-F289BDC142B3
+Service Order – Long Distance Voice Termination – Short Duration
+This Service Order is subject to and made a part of the Master Service Agreement between the customer identifed
+below and Peerless Network, Inc. (collectively referred to as the “Parties”), and governs the sale and purchase of
+the Services described below. This Service Order Initial Term is one (1) year from the Service Commencement Date
+and renews for one (1) month periods unless either Party cancels the Service Order or MSA. The Effective Date of
+the Amendment is the last date when the Amendment was signed (“Effective Date”).
+The Parties have caused this Amendment to be duly executed by their authorized representatives:
+Customer: ActionVox Inc Peerless Network, Inc. and its Affiliates
+Signature: Signature:
+Allan Noorda Mijo Soldin
+Name: Name:
+Title: President Title: VP Telecom Strategy and Partherships
+Date: 10 April 2025 Date: 10 April 2025
+Rate Deck Contact: Allan Noorda
+Attn: Allan Noorda
+Email: allan.noorda@action-vox.com
+Phone #: 702-550-0899
+Description. Peerless will provide Long Distance Voice Termination service between the Customer’s network and other
+telecommunications carriers. The Customer may pass Domestic traffic to Peerless to be terminated to any of the
+locations listed on the Domestic rate deck. Customer agrees to connect to Peerless’ network in a manner and at
+locations determined by Peerless. Start of service will be concurrent with Customer’s directing SIP-Configured calls via
+the Public Internet to the IP addresses designated by Peerless, dedicated SIP connection, or TDM circuit.
+Section 1: Traffic Pattern. The Customer must specify its traffic pattern and rate deck and agree to be bound by the
+associated pricing and terms. Customer certifies that is purchasing services to provide:
+_X__ telecommunications services that originate and terminate within the U.S.
+___ telecommunications services that originate outside U.S. but terminate within of the U.S.
+Notwithstanding the choice(s) above, if any portion of Customer’s traffic does not fit the profile
+selected, Customer (1) agrees to fully cooperate in requests from Peerless, the FCC, a state Public Utility or
+Service Commission, or any other governmental body or agency having jurisdiction to explain or otherwise
+validate such traffic pattern; and (2) is not relieved of any associated liability should its traffic pattern differ
+from the selection.
+Section 2. Rate Deck and Pricing.
+2.1 Rates and Rate Changes. Rates for Termination of Domestic Originated Traffic are per minute and provided
+to Customer via rate deck with pricing and availability updates on a regular basis by LATA/OCN or by NPANXX at the
+Customer’s choice. The Short Duration Domestic Deck identifies the appropriate footprint and associated rate. Unless
+explicitly stated, any pricing not covered in this Service Order is subject to the applicable Peerless Network Tariff
+covering such service. The currency of settlement shall be US Dollar (US$). Every minute is billed at a single rate.
+Rates for all traffic are subject to change on seven (7) days notice. Modification in rates may be in the form of new
+rates, charges and/or surcharges or through modification of existing rate elements which are used to determine rates
+and/or charges. Customer is liable for payment on any rate changes past the effective date as documented in a delivered
+rate modification notice.
+PEERLESS NETWORK - CONFIDENTIAL Page 1 of 4
+
+Docusign Envelope ID: 1EF76080-BC5F-4503-A17A-F289BDC142B3
+2.2 Domestic Termination Default Rate and Call Increments. Traffic sent for domestic termination outside of the
+footprint will be billed at the domestic default rate identified in the Domestic Rate Deck.
+2.3 Call Jurisdiction. For rating purposes, Customer acknowledges that the call jurisdiction will be determined based
+upon available call stream data. Customer warrants that it will not delete, or modify in any way, call stream data.
+Except as otherwise noted, the point of origination is determined by the originating ANI (where “originating ANI” is
+defined as the charge party/billing number or the calling number for instances where there is no charge party/billing
+number) and must follow the North American Numbering Plan format. International Originated Traffic that does not
+conform to the North American Numbering Plan format for the originating ANI and terminating within the United States,
+will be rated as INTERstate only if such traffic adheres to the standards of globalized E.164 strings for all fields, including
+a (+) preceding the originating ANI or using SIP-T with nature of address.
+2.4 International and Indeterminant Traffic Identification. Customers must include the (+) preceding the originating
+ANI to identify International Originated traffic. For traffic that does not adhere to the E.164(+) standard for
+International originated calls or where call jurisdiction is otherwise unknown or indeterminate, Customer shall pay the
+greater of the interstate or intrastate per minute rate.
+2.5 Call Parameters and Surcharges. Customer shall adhere to the following call parameters or the applicable
+surcharges will apply.
+2.5.1 Calls Per Second. Calls Per Second (“CPS”) refers to how many telephone calls that can be handled in
+a second. Peerless Network will provision services to not exceed 100 calls per second per 500 ports.
+2.5.2 Short Duration Terms. Customer acknowledges that it has chosen to send Short Duration traffic. A
+Short Duration call is a completed call that is six (6) seconds or less in duration. This product is billing in six (6)
+second increments using a fifteen (15) second minimum. It is the Customer’s responsibility to monitor its
+traffic for SD traffic. Short Duration traffic is limited to the United States (i.e, does not include Canada or other
+areas outside of the U.S., but within the North American Numbering Plan). Customer’s Short Duration traffic
+during any business cycle must not exceed a seventy (70) percent threshold (“SD Threshold”).
+2.5.2.1 Short Duration traffic percentages are calculated based on the total traffic associated with a
+product pricing list. If Customer has traffic associated with multiple product pricing lists, a Short
+Duration percentage will be calculated per product pricing list. For SD Threshold violations, Peerless
+will charge, without notice and in addition to the per minute rates (Interstate Long Distance, Intrastate
+Long Distance and Local, if applicable) a surcharge equal to $0.01 per Short Duration call exceeding
+the SD Threshold during that billing cycle under this Service Order.
+2.5.3 Incomplete Call Ratio Surcharges. A Completed Call is a call where Peerless receives answer
+supervision from the terminating end. The Total Call Attempts equals the total calls attempted (both answered
+and incomplete). The Incomplete Call Ratio (“ICR”) is the ratio of the total call attempts less the completed
+calls to the total number of attempted calls expressed as a percentage. ICR = ((Total Call Attempts – Total
+Completed Calls)/Total Call Attempts) *100. Customer’s ICR shall not exceed fifty-five (55) percent (“ICR
+Threshold”). Peerless may, in its sole discretion and upon notice, modify the ICR Threshold if industry
+standards change. If Customer’s ICR is above the ICR Threshold, Peerless reserves the right, at its sole
+discretion to impose a surcharge, in addition to the per minutes rates (Interstate Long Distance, Intrastate Long
+Distance and Local, if applicable) equal to $0.01 per incomplete call exceeding the ICR Threshold during that
+billing cycle under this Agreement.
+2.5.4 If Customer is in violation of this Section 2.5, it must take immediate curative
+action. Notwithstanding, if Customer's actions for cure do not result in immediate resolution of the issue,
+Peerless may, in addition to applying applicable surcharges and in its sole discretion (i) modify the CPS; (ii)
+modify the ICR; and (iii) take curative action that may result in the modification, suspension or cancellation of
+Customer’s.
+Section 3. Additional Terms.
+3.1 Acceptable Use. Parties agree to work cooperatively to address unlawful use in a timely manner. Peerless
+PEERLESS NETWORK - CONFIDENTIAL Page 2 of 4
+
+Docusign Envelope ID: 1EF76080-BC5F-4503-A17A-F289BDC142B3
+works cooperatively with the industry, law enforcement, governmental entities, regulatory entities, and other
+carriers (collectively “Cooperative Parties”), to address issues related to illegality, fraud and abuse. In accordance
+with laws applicable to Peerless and notwithstanding anything to the contrary in this Agreement, Peerless may
+disclose Customer’s information and such disclosure will not be a violation of this Agreement.
+Unlawful Use. Customer will use best efforts to prevent unauthorized, illegal, or fraudulent use of the Services, and
+shall terminate any unauthorized, illegal, or fraudulent user access and immediately notify Peerless of any such
+unauthorized, illegal, or fraudulent use, attempted use of, or access to, the Services. Regardless of how Customer
+becomes aware of unlawful activity, Customer is not relieved of liability related to the offending traffic and will also
+be responsible for paying third-party fees directly related to the offending traffic. Further, any unauthorized, illegal,
+or fraudulent use or misuse of the Services by or through Customer voids all warranties, express or implied, by
+Peerless, and relieves Peerless from any responsibility for performance under the respective Service Order where
+fraud, abuse or illegality occurred. Peerless has no obligation to prevent, monitor, notify, or actively seek facts or
+circumstances indicating any fraud, abuse or illegal activities.
+Traceback Efforts. Customer warrants that it will participate in any traceback efforts authorized by US Telecom’s
+Traceback Group regarding suspicious robocalls without the need for a subpoena or formal demand. Customer
+agrees that its response shall indicate if it is in the call path as the originating provider of the calls (i.e., Customer
+received the calls from Customer’s End User) or (ii) a transit provider (i.e., Customer received the calls from another
+voice provider). The response shall also identify the source of the calls.
+Penalties. In addition to penalties outlined above, Peerless may, in its sole discretion, take any or all of the following
+actions to address if it discovers or reasonably suspects any abuse or unlawful activity: (i) take commercially
+reasonable action on offending numbers in order to minimize misuse; (ii) issue a verbal, e-mail or written warning
+notifying the Customer of the misuse and the corrective action that must be taken; (iii) suspend, with or without
+warning, all or part of a Customer’s Service and may condition restoration of such Service upon Customer affecting
+corrective action; and/or (iv) terminate, with or without warning, all or part of Customer’s service and may
+terminate Customer’s Agreement. Any unauthorized, illegal, or fraudulent use or misuse of the Services by or
+through Customer voids all warranties, express or implied, by Peerless, and relieves Peerless from any responsibility
+for performance under the respective Service Order where fraud, abuse or illegality occurred.
+3.2 Signaling. Concerning all traffic handled for Customer, Parties agree to pass through, without change, all ANI
+(Automatic Number Identification) and CPN (Calling or Charge Party Number) information used in determining
+jurisdiction, access billing and reciprocal compensation charges. Parties agree that prefixes presented in the line
+record including, but not limited to 0, 011, and +, may be normalized to facilitate call completion.
+3.3 Peerless, at its sole discretion, may return a redirect message to the Customer for any destination it is unable
+to deliver traffic. On certain destinations volume restrictions may be applied. These volume restrictions become
+effective on the first of each month after a fourteen (14) day written notice period.
+3.4 Nothing in this Service Order shall be construed as obligating Customer to utilize Peerless exclusively for
+delivery, or routing of, traffic that is destined for the subscribers of Peerless’ Carrier Customers.
+3.5 For the purposes of this Service Order, Peerless is not responsible for fees, duties, taxes or assessments related
+to any portion of the International traffic delivered to Peerless, and therefore all such duties and taxes shall be
+borne and paid by the Customer at the rate, and in the manner prescribed by law in the Customer’s country and/or
+country of origin of the call. Further, for taxing purposes, non-U.S.-based customers sending domestically-
+originated traffic for termination by Peerless must have a valid Federal Communications Commission Federal
+Registration Number (“FRN”).
+3.6 Customer agrees, in accordance with the terms of this Service Order, NOT to send any E911, 911, operator
+services or any other traffic destined for any emergency 911 Center or any other local, state or federal emergency
+organization. Peerless will return this traffic to Customer’s originating equipment and will be held harmless from
+any issues arising from this traffic being blocked by Peerless.
+3.7 Unless specified in this Sevice Order or mutually agreed to by the Parties, Peerless reserves the right to block
+any unique telecommunications services, including, but not limited to, 311, 411, 611, 976, 500, 700 and 900
+PEERLESS NETWORK - CONFIDENTIAL Page 3 of 4
+
+Docusign Envelope ID: 1EF76080-BC5F-4503-A17A-F289BDC142B3
+numbers.
+3.8 Attestation. SHAKEN/STIR[1] is an industry-developed set of protocols and operational procedures designed to
+authenticate telephone calls and mitigate spoofing and illegal robocalling. Supported by the Federal
+Communications Commission (“FCC”), Peerless has implemented the SHAKEN/STIR protocol. The Customer
+acknowledges and agrees to abide by such protocol. Adherence to this protocol includes, but not limited to, utilizing
+necessary identifications, implementing verifications, participating in traceback efforts, and maintain an accurate
+SHAKEN/STIR implementation certification in the Robocall Mitigation Database. Customers with their own token
+are required to provide attestation to their traffic. Peerless does not attest to traffic of these Customers.
+For Customers without a token, Peerless signs and attests to calls using the Peerless’s token. Peerless’s current
+business practice for assigning attestation levels are enumerated below. Peerless reserves the right to modify the
+attestation business practices without notice as standards and regulations require.
+ A-level Attestation
+o Peerless assigns A-level attestation to calls originated from Peerless telephone numbers assigned to
+the Customer or from other numbers for which Peerless has verified are owned by that Customer.
+ B-level Attestation
+o Peerless assigns B-level attestation to Customer calls that originate within the United States that are
+not assigned A-level attestation. It is the responsibility of the Customer to confirm these calls originate
+within the United States.
+ C-level Attestation
+o Peerless assigns C-level attestation to Customer calls that originate outside the United States and are
+not assigned A-level attestation. It is the responsibility of the Customer to request, from Peerless, a
+dedicated trunk group with C-level attestation for calls that originate outside the United
+States. Customer must route calls that originate outside the United States to the Peerless designated
+trunk group for those calls to be assigned C-level attestation.
+SHAKEN/STIR1 is an industry-developed set set of protocols and operational procedures designed to authenticate
+telephone calls and mitigate spoofing and illegal robocalling. Supported by the Federal Communications
+Commission (“FCC”), Peerless has implemented the SHAKEN/STIR protocol, and Customer acknowledges and agrees
+that it will abide by such protocol, including, but not limited to, utilizing necessary identifications, implementing
+verifications, participating in traceback efforts, and having an accurate SHAKEN/STIR implementation certification
+in the Robocall Mitigation Database as required by the protocol. Customers with their own token must attest their
+traffic. Peerless will not attest Customer’s traffic using Peerless’ token.
+[End of Document]
+[1] STIR (“Secure Telephony Identity Revisited”) and SHAKEN (“Secure Handling of Asserted information using toKENs”)
+PEERLESS NETWORK - CONFIDENTIAL Page 4 of 4

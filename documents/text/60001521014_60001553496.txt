@@ -1,0 +1,886 @@
+•
+EXHIBIT 1
+PRICING ATTACHMENT
+FOR TANDEM TRANSIT TRAFFIC SERVICE AND
+FOUR-PARTY TRAFFIC SERVICE
+1. Part of Section 6.2 of Attachment 2 of the Unitary Rate Amendment.
+This "Pricing Attachment for Tandem Transit Traffic Service and Four
+Party Traffic Service" ("Pricing Attachmenf') is hereby made a part of
+Section 6.2 of Attachment 2 of the Unitary Rate Amendment.
+2. General
+2.1 As used in this Pricing Attachment:
+2.1.1 "Services" means and is comprised of Tandem Transit
+Traffic Service and Four-Party Traffic Service.
+2.1.2 "Charges" means the rates, fees, charges and prices for a
+Service.
+•
+2.1.3 "Commission" means, for each state and the District of
+Columbia, the State Commission for that state or the District
+of Columbia, as the term "State Commission" is defined in 47
+u.s.c.
+§ 153(41).
+2.1.4 "FCC" means the Federal Communications Commission.
+2.2 Charges for Services shall be as stated in this Section 2.
+2.3 The Charges for a Service shall be the Charges for the Service
+stated in Verizon's appficable Tariff.
+2.4 In the absence of Charges for a Service established pursuant to
+Section 2.3 of this Pricing Attachment, the Charges shall be as
+follows:
+2.4.1 For each Interconnection Agreement, the Charges for
+Tandem Transit Traffic Service shall be the Charges for
+Tandem Transit Traffic Service provided for in such
+Interconnection Agreement (including, if the Interconnection
+Agreement is an adoption by NT pursuant to 47 U.S.C. §
+252(i), the Charges for Tandem Transit Traffic Service
+provided for in the 47 U.S.C. § 252(i) adoption letter for the
+•
+Interconnection Agreement) on the later of (a) October 16,
+2006., or (b) the date on which such Interconnection
+Agreement became effective between the Parties.
+Appendix4 8
+Neutral Tandem Amend 121106
+
+..
+•
+2.4.2 For each Interconnection Agreement, the Charges for Four
+Party Traffic Service shall be the Charges for Tandem
+Transit Traffic Service provided for in such Interconnection
+Agreement (including, if the Interconnection Agreement is an
+adoption by NT pursuant to 47 U.S.C. § 252(i), the Charges
+for Tandem Transit Traffic Service provided for in the 47
+U.S.C. § 252(i) adoption letter for the Interconnection
+Agreement) on the later of (a) October 16, 2006, or (b) the
+date on which such Interconnection Agreement became
+effective between the Parties.
+2.4.3 The Charges provided for in Sections 2.4.1 and 2.4.2,
+above, shall be automatically superseded by any applicable
+Verizon Tariff Charges. The Charges provided for in
+Sections 2.4.1 and 2.4.2, above, also shall be automatically
+superseded by any new Charge(s) when such new
+Charge(s) are required by any order of the Commission or
+the FCC, approved by the Commission or the FCC, or
+otherwise allowed to go into effect by the Commission or the
+FCC (including, but not limited to, in a Verizon Tariff that has
+been filed with the Commission or the FCC), provided such
+• new Charge(s) are not subject to a stay issued by any court
+of competent jurisdiction .
+2.5 In the absence of Charges for a Service established pursuant to
+Sections 2.3 through 2.4 of this Pricing Attachment, if Charges for a
+Service are otherwise expressly provided for in the Interconnection
+Agreement, such Charges shall apply.
+2.6 In the absence of Charges for a Service established pursuant to
+Sections 2.3 through 2.5 of this Pricing Attachment, the Charges for
+the Service shall be Verizon's FCC or Commission approved
+Charges.
+2.1 In the absence of Charges for a Service established pursuant to
+Sections 2.3 through 2.6 of this Pricing Attachment, the Charges for
+the Service shall be mutually agreed to by the Parties in writing.
+3. NT Charges
+3.1 NT shall not impose any charges upon Verizon pursuant to Section
+6.2 or this Pricing Attachment.
+4. Regulatory Review of Prices
+• 4.1 Notwithstanding any other provision of the Interconnection
+Agreements, each Party reserves its respective rights to institute an
+appropriate proceeding with the FCC, the Commission or other
+Appendix4 9
+Neutral Tandem Amend 121106
+
+'
+,
+.
+•
+governmental body of appropriate jurisdiction with regard to the
+Charges for Services (including, but not limited to, a proceeding to
+change the Charges for the Services, whether provided for in any of
+Verizon's Tariffs, this Amendment, or otherwise) .
+•
+•
+Appendix4 10
+Neutral Tandem Amend 121106
+
+COMMONWEALT H OF PENNSYLVANIA
+PENNSYLVANIA PUBLIC UTILITY COMMISSION
+P.O. BOX 3265, HARRISBURG, PA 17105-3265 IN REPl.Y PLEASE
+REFER TO OUR FILE
+•
+December 24, 2007
+A-311435F7000
+RONALD GAVILLET
+NEUTRAL TANDEM INC
+1 SOUTH WACKER SUITE 200
+CHICAGO IL 60606
+Joint Petition of Verizon Pennsylvania Inc. and Neutral Tandem-Pennsylvania, LLC for Approval of an
+Interconnection Agreement Under Section 252(e) of the Telecommunications Act of 1996
+To Whom It May Concern:
+This is to advise you that the Commission in Public Meeting on December 20, 2007 has adopted
+an Opinion and Order in the above entitled proceeding.
+• An Opinion and Order has been enclosed for your records.
+Very truly yours,
+James J. McNulty
+Secretary
+encl s
+cert. mail
+JF
+•
+
+- .
+)< ' • '
+•
+PENNSYLVANIA
+PUBLIC UTILITY COMMISSION
+Harrisburg, PA 17105-3265
+Public Meeting held December 20, 2007
+Commissioners Present:
+Wendell F. Holland, Chairman
+James H. Cawley, Vice Chairman
+Tyrone J. Christy
+Kim Pizzingrilli
+Joint Petition of Verizon Pennsylvania Inc. A-311435F7000
+~d Neutral Tandem-Pennsylvania, LLC for
+Approval of an Interconnection Agreement
+Under Section 252( e) of the Telecommµn.ications
+Act of 1996
+•
+OPINION AND ORDER
+BY THE COMMISSION:
+Before the Commission for consideration is the Joint Petition for approval
+of an Interconnection Agreement (Agreement) between Verizon Pennsylvania Inc.
+(Verizon) and Neutral Tandem-Pennsylvania, LLC (Neutral Tandem). The Agreement
+was filed pursuant to the Telecommunications Act of 1996, Pub. L. No. 104-104, 110
+Stat 56 (codified as amended in scattered sections ofT itle 47, United States Code)
+(TA-96), including 47 U.S.C. §§ 251, 252, and 271, and the Commission's Orders in In
+Re: Implementation oft he Telecommunications Act of1 996, Docket No. M-00960799
+(Order entered June 3, 1996); Order on Reconsideration entered September 9, 1996; see
+also Proposed Modifications to the Review ofI nterconnection Agreements (Order entered
+May 3, 2004) (Implementation Orders) .
+•
+--- ---·- - - --- ----- ------- - -------'
+
+•
+History of the Proceedin2
+On October 26, 2007, Verizon and Neutral Tandem filed the instant Joint
+Petition seeking approval of the Agreement The Commission ·published notice of the
+Joint Petitio~ and the Agreement in the Pennsylvania Bulletin on November 17, 2007,
+· advising that any interested parties could file coniments within ten days. No comments
+have been received.
+. The Agreement has an effective date of October 10, 2007, and unless
+cancelled or terminated earlier in accordance with the terms of the Agreement, will
+continue in effect until October 9, 2009. Thereafter, the Agreement will continue in force
+·and effect unless and until cancelled or terminated as provided in the Agreement.
+Agreement at 2.
+In the Joint Petition before us, Verizon is the Incumbent Local Exchange •
+· Carrier (ILEC) and Neutral Tandem is certified to provide facilities-based and resold
+local exchange services as a Competitive Local Exchange Carrier (CLEC)..1
+Discussion
+A. Standard of Review
+The Commission~s standard of review of a negotiated interconnection
+-agreement is set out in Section 252(e)(2) ofTA-96, 47 U.S.C § 252(e)(2), which
+provides, in 'pertinent part, that:
+·It is noted that regardless of the types of services· covered by this
+i .
+Interconnectien Agreement, it would be a violation of the Public Utility Code, 66 Pa.
+C.S. §§ 101 et seq.~ if Neutral Tandem began offering services or assessing surcharges to
+end users which it has not been authorized to provide and for which tariffs have not been •
+authorized.
+~
+2
+
+,,,,,. t ..
+•
+(2) Grounds for rejection. The state Commission may only reject -
+(A) an agreement (or any portion thereot) adopted by
+negotiation under subsection (a) ifi t finds-
+(i) the agreement (or portion thereof) discriminated
+against a telecommunications carrier not a party
+to the agreement; or
+(ii) the implementation of such agreement or portion
+is not consistent with the public interest, convenience
+and necessity .. ..
+With these criteria in mind, we shall review the Agreement submitted by Verizon and
+Neutral Tandem.
+B. Summary of Terms
+•
+The Agreement contains the terms, rates and conditions for the
+interconnection of the Parties' local exchange networks, for the purpose of transmission
+and termination of calls, so that customers of each can receive calls that originate on the
+other's network and place calls that terminate on the other's network, as well as Neutral
+Tandem's purchase of telecommunication services for resale to others. The Parties agree
+that the charges for a specific service shall be the charges for the service as stated in the
+providing party's applicable tariff. Pricing Attachment at 123. The Discount Resale Rate
+for the resale of retail service is 22.00 percent, ifN eutral Tandem provides its own
+operator services platform, and 18.34 percentifNeutral Tandem uses Verizon's operator
+services platform. Appendix A to the Pricing Attachment at 135.
+Reciprocal Compensation Rates for traffic termination are as follows: the
+rate for traffic to an end office is $0.000987 per nrinute of use (MOU); and the rate for
+• tandem traffic is $0.002439 per MOU. Appendix A to the Pricing Attachment at 127.
+3
+
+t •
+•
+The Parties also agree to provide Number Portability (NP) in accordance
+with the rules and regulations prescribed by the Federal Communications Commission
+(FCC); and to follow the Local Number Portability (LPN} provisioning process
+recommended by the North American Numbering Council (NANC) and the Industry
+Numbering Council (lNC), and adopted by the FCC. Local Number Portability will be
+provided on a reciprocal basis. Agreement at 76-78.
+C. Disposition
+We shall approve the Agree~ent, finding that it satisfies the two-pronged
+criteria of Section 252(e ) of TA-96. We note that in appro.ving this privately negotiated
+Agreement, including any provisions limiting unbundled access to Verizon's network, we
+ezj>re8s no opinion regarding the enforceability of our independent state authority
+preserved by 47 U.S.C. § 251(d)(3) and any other applicable law. •
+· We shall minimize the potential for discrimination against other carriers not
+parties to the Agreement by providing here that our approval of this Agreement shall not
+serve as precedent for agreements to ~e negotiated or arbitrated by other parties. This is
+consistent with our policy of encouraging settlements. 52 Pa. Code § S.231; see also,
+52 Pa. Code ~ 6~.401,. et seq., relating to settlement guidelines, and our Statement of
+. ..
+Policy relating to the Alternative Dispute Resolution Process, 52 Pa. Code § 69.391, et
+seq. Based on the foregoing, we find that the Agreement does not discriminate against
+telecoUllllunications carriers not parties to the negotiations.
+be
+TA-96 requires that the terms of the Agreement made available for other
+parties to review. 47 U.S.C. § 252(h). However, this availability is only for purposes of
+•
+full disclOsute of the terms and arrangements contained therein. The accessibility of the
+Agreement and its terms to ·other parties does not connote any intent that our approval
+4 .
+
+' . '·1 • 111) •
+•
+will affect the status of negotiations between other parties. In this context, we will not
+require Verizon and Neutral Tandem to embody the terms of the Agreement in a filed
+tariff.
+With regard to the public inter~t element of this matter, we note that no
+negotiated interconnection agreement may affect those obligations of the ILEC in the
+areas of protection of public safety and welfare, service quality, and the rights of
+consumers. See, e.g., Section 253(b) ofTA-96. This is consistent with TA-96 wherein
+service quality and standards, i.e., Unive~al Service, 911, Enhanced 91 l(E911), and
+Telecommunications Relay Service, are inherent obligations of the ILEC and
+continu~
+unaffected by a negotiated agreement. We have reviewed the Agreement's terms relating
+to 911 and E91 l services, and conclude that these provisions of the instant Agreement are
+consistent with the public interest.
+•
+Consistent with our May 3, 2004 Order at Docket No. M-00960799, we
+will require that Verizon file an electronic, true and correct copy of the Interconnection
+Agreement in ".pelf format'' for inclusion on the Commission's website, within thirty
+days of the date of entry of this Opinion and Order.
+Conclusion
+Based on the foregoing and pursuant to Section 252( e) of TA-96, supra,
+and our Implementation Orders, we determine that the Interconnection Agreement
+between Verizon and Neutral Tandem is non-discriminatory to other telecommunications
+companies not parties to it and that it is consistent with the public interest;
+THEREFORE,
+_,
+• I
+5
+- --- ----- - - - - --- ----------
+
+•.
+•
+IT IS ORDERED:
+1. That the Joint Petition for approval of an Interconnection Agreement
+filed on October 26, 2007, by Verizon Pennsylvania Inc. and Neutral Tandem
+Pennsylvania, LLC, pursuant to the Telecommunications Act of 1996, and the
+Commission's Orders in Jn Re: Implementation oft-he Telecommunications Act of1 996,
+Docket No. M-00960799 (Order entered June 3, 1996); Order on Reconsideration (Order
+entered Septe.mber 9, 1996); and Proposed Modifications to the Review of
+Interconnection Agreements (Order entered May 3, 2004) is granted, consistent with this
+Opinion and Order.
+2. That approval of the Interconnection Agreement shall not serve as
+to
+binding precedent for negotiated or arbitrated agreements between non-parties the
+Agreement.
+su~ject • •
+3. That Verizon Pennsylvania Inc. shall file an electronic, true and
+correct copy of the Interconnection Agreement, in ".pelf format'', with this Commission
+!
+within thirty (30) days of the date -of entry of this Opinion and Order, for inclusion on the
+I
+I
+Co:mniission's website.
+i
+' !I
+BY THE COMMISSION
+~/~~
+James J. McNulty
+Secretary
+(SEAL)
+ORDER ADOPTED: December 20, 2007
+•
+ORDER ENTERED: DEC J 4 2007
+·, .
+6
+
+• I
+~
+• Suzan DeBusk Paiva ver1 • zon
+Assistant General Counsel
+Verizon Pennsylvania Inc.
+1717 Arch Street, Floor 10
+Philadelphia, PA 19103
+Tel: (215) 466-4755
+Fax: (215) 563-2658
+Suzan.D. Paiva@Verizon.com
+October 26, 2007
+VIA UPS OVERNIGHT
+James J. McNulty, Secretary
+Pennsylvania Public Utility Commission
+Commonwealth Keystone Building
+400 North Street, 2ru1 Floor
+Harrisburg, PA 17120
+RE: Joint Filing of
+Verizon Pennsylvania Inc. and
+• Neutral Tandem - Pennsylvania, LLC
+for Approval of an Interconnection Agreement
+Dkt. No.
+Dear Mr. McNulty:
+Enclosed please find an original and three (3) copies of the joint filing of Verizon Pennsylvania
+Inc. and Neutral Tandem - Pennsylvania, LLC for Approval of an Interconnection Agreement. The
+Interconnection Agreement is deemed effective October 10, 2007, and was signed by the two parties'
+signers on October 2, 2007 and October 9, 2007 respectively. Thus, this Joint Filing is being made
+within 30 days of the day that the Agreement was signed, as required by ordering Paragraph 5 of the
+Commission's May 3, 2004 Final Order in Docket No. M-00960799. As evidenced by the cc: below,
+notice oft his filing is being provided to Neutral Tandem - Pennsylvania, LLC.
+Please date stamp the enclosed additional copy and return it to me in the enclosed self~addressed,
+stamped envelope.
+Very truly yours,
+SDP/slb
+• Enclosure
+cc: David Tatak, Neutral Tandem, Inc.
+Attached Service List
+
+1
+,j.- #.'
+•
+SERVICE LIST
+Irwin A. Popowsk:y William Lloyd Charles F. Hoffman
+Office of Consumer Advocate Office of Small Business Advo.cate Office ofT rial Staff
+555 Walnut Street, 5th Floor Commerce Building, Suite 1102 PA Public Utility Commission
+Harrisburg, PA 17101-1921 300 North Second Street Commonwealth Keystone Bldg
+Harrisburg, PA 17101 400 North Street
+Harrisburg, PA 17105-3265
+Office ofS pecial Assistants Bureau of Consumer Services Bureau of Fixed Utility Services
+PA Public Utility Commission PA Public Utility Commission PA Public Utility Commission
+P.O.Box3265 P. 0. Box 3265 P. 0. Box 3265
+Harrisburg, PA 17105-3265 Harrisburg, PA 17105-3265 Harrisburg, PA 17105-3265
+Office of the Attorney General
+Bureau ofC onsumer Protection
+Strawberry Square, 14th Floor
+Harrisburg, PA 17120
+•
+•
+\
+
+I
+SIGNATURE PAGE
+lN WITNESS WHEREOF, the Parties hereto have caused this Agreement to be executed as of
+the Effective Date.
+NEUTRAL TANDEM -PENNSYLVANIA, LLC VERIZON PENNSYLVANIA INC.
+_µ.....__"_' ~___..;:~------ By:~C,~1.-
+By:
+Printed: David Tatak Printed: Jeffrey A. Masoner
+Title: VP Billing and Revenue Services Title: Vice President -Interconnection Services
+o_,__/9,_+-/_er_7 ____
+Date: oate: __,{_ _
+r1
+I
+I
+NT PAe Compv3 1 09282007f.doc 27
+
+•
+AGREEMENT
+by and between
+NEUTRAL TANDEM -PENNSYLVANIA, LLC
+and
+•
+VERIZON PENNSYLVANIA INC•
+FOR THE COMMONWEALTH OF
+PENNSYLVANIA
+•
+NT PAe Compv3.1 09282007f.doc
+
+•
+TABLE OF CONTENTS
+AGREEMENT ···························-···················. ..· ·················: ..................... -................•.. -..•........•.....• 1
+1. The Agreement ............................................................................................................ 1
+2. Term.and Termination ...................................- ..........................................................2
+3. Glossary and Attachments .......................................................................................3
+4. Applicable Law ············································································-·····························3
+5.
+Assignment ···············································································~·-······························4
+6. Assurance of Payment .•...........•..•..•..••.........•...•........••...•.....•...•...••.••.........••...•...•..... 4
+7. Audits ....................................................- ........................................•......•.....••............. 5
+8. Authorization ................................................................................................................. 6
+9. Billing and Payment; Disputed Amounts ........................................................... , ....&
+10. Confidentiality .............................................................................................................7
+• 11. Counterparts .................................- ........... -...............................................................9
+12. Default ..................._ .......................................................................................................9
+13. Discontinuance of Service by Neutral Tandem ......................................................9
+14. Dispute Resolution .........................................................- ...........~ ...........................1 O
+15. Force Majeure ..............................................................................~ . ................ :. ........1 0
+16. Forecasts ..................................................................................................................1 1
+17. Fraud .................................................................................~ ....................... -..............1 1
+18. Good Faith Pel"'formance .•... :. .................................- .................................................1 1
+19. Headi11gs ........................................................................................................ -.••..•.•.•1 1
+20. Indemnification .....................~ ..................................................................................1 2
+21. lnsurance ........................................................................•......................•.....•...- .......1 3
+22. Intellectual Property ..................... ~····· .. ··································~··············· .................1 4.
+23. Joint Work Product. .................................................................................................1 5
+24. Law Enforcement. ............: .....................................- ................................................1 5
+25. Liability ..............•............- ; .....•.....................•...- .........................................~ .................. 16
+NT PAe Compv3.1 09282007f.doc
+
+•
+·26. Natw-Ol"k Manag•ll'l8nt• •• ,• ••••• , ••••••••• ., •••••••••• ,. ••••••••• ,,. ....................................................1 7
+27. Non-Exclualve Rernecltes .........................................................................................1 7
+·~. Notice of Netw'ortc Ch~naes ···············-·········-·····································. ....................1 8
+~9. Notices ........................................................................................................................1 8
+30. Qrd.,ing and Maintenance .......... " .....................- . ....... ,. .................... -....................... 19
+31. Perf'Oft'l18nc9 .standards ................................................. ,,. ......, . ......................... r ····· 19
+32. Point of Contact for Neutral Tandem CustORl9rs .................................................1 9
+33. Predecessor Agreements •• ,, •••••••••••••••••••••••••••••••••••••••••••••••••••••• ,. .............................2 0
+34. Publicity and Use of Trademarks or Ser.vice Marks .............................................2 0
+35. Refere11Ces ................................................. 1 11•••••••11•••••••111••·································-········20
+36. Relatlon1hlp of tfle Parties .••...........••..••....••..•.•.••...••.......•.•.•••••.•••.••.•••..••..•••••••• ,. •.•• 21
+37. R•••rvatlon of Rlgflts •••••••••••••.•• ,, .........................................................., ,. ............. ;.21
+38. Subcontractors. •••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••• '!.22
+•
+39. Succttasor'9 and Assigns .....................................- .........................................." •••••••• 22
+40. Survival ................................................. -···············-······················"·······················-····22
+41.
+Taxes. ......................... 22
+11 ••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••• , ......................
+42. TechlJOlogy Upgrades ..................., ••••••• -.................................................................- 24
+43. Te rrttory ............................................._ • •••••••••••••••••••••••.••••••.••••••••••••••••••• ~• • -•••••••••••••••• 24
+44. Third Party Beneficiaries ............................................................................................ 25
+4'5. [This Section Intentionally Left Blank] ..................................................................2 5
+46. 252(1) OblJg.atlons ............................................................~ •••••• ~ ................... -••••••••••••••• 25
+47. Use of S8rvlce ............................................................ 25
+11 ....................: ...........................
+48. Waiver .................................................................................................................. -...•..•. 25
+49. Warranties ···············-············-·····••"!••····. .· ··························•··························•·········25
+50. Withdrawal of Services ••• ,• •••••••••••••••••••. ~ •••••••••••••••••••••••••••••. '• ••••••• ~ ••••••••• ,• ••••••••.••.••• 25
+··········••••N••· ...· ·· .. ························-···················-···············-···············,,··-········. ..
+SIGNATURE PAGE 27
+GLOSSARY. ..........................................................................................................................- ••••••• 28
+.
+. . .
+1·. . .
+General Rule ...... ... ··································-·············28
+~················-···················~··"··········
+NT·PAe Coinpv3~1 09282007f.doc ii
+
+•
+2. Definitions ..............................................•...........•.............•................•.............•........ 28
+ADDITIONAL SERVICES ATTACHMENT ....................... , •••.••••• 44
+m ................................................
+1. Alternate Billed Calls ...............................................................................................4 4
+2. Dialing Parity-Section 251(b)(3) ...........................................................................4 4
+3. [This Section Intentionally .Left Blank] ................................... ~ .•..•...•••.•.•••••...•..•...• 44
+4. Directory Listing and Directory Dlstribution. ........................- ............ -•••••••••••••••• 44
+5. Voice Information Service Traffic ..........................................................................4 6
+6. Intercept and Referral Announcements ................................................................4 7
+7. Originating Line Number Screening (OLNS). ........................................................4 7
+8. Operations Support Systems (OSS) Services .................... ~ ................................. 48
+9. Poles, Ducts, Conduits and Rights-of-Way. .......................................................... 53
+10. Telephone Numbers ................................................................................................ 54
+11. Routing for Operator Services and Directory Assistance Traffic. ......................5 4
+e
+12. Unauthorized Carrier Change Charges ................................................................. 55
+13. Good Faith Pel"forrtlance ............................................................................................ 55
+INTERCONNECTION ATTACHMENT. ..........................................................................................5 6
+1. General• •••.•••••.•••••••••••••.••••••••••.••..•••...••••••••••••.•.•.••••••.•••.••••.•..•.•..•.•••.•..•.•..••••..•••••.••••. 56
+2. Points of Interconnection and Trunk Types ••.•.•••••••.•••••••••••••••••••• : ••••••••••.•••..••••••• 56
+3. Alternative Interconnection Arrangements. ..........................................................6 0
+4. Initiating lnterconnectton ................................................................... -....................... 63
+5. Transmission and Routing of'Telephone Exchange Service· Traffic. .................6 3
+6. Traffic Measurement and Billing over Interconnection Trunks .......................... 64
+7. Reciprocal Compensation Arrangements Pursuant to Section 251{b)(5) of the
+Act .............................................................................................................................6 6
+8. Other Types of Traffic .............................................................................................6 7
+9. Transmission and Routing of Exchange Access Traffic .....................................6 8
+. .
+10. Meet.Point Billing Arrangements ...........................................................................6 8
+11. Toll Free Service Access Code {e.g., 800/888/Bn) Traffic .................._ . .......... {. .7 1
+NT PAe Compv3.1 09282007f.doc iii
+
+•
+12.
+Tandem Transit tr•ffic ······-·················-··················-··-.············. ......, ••••.•••.•.•.• -•••, ••• 73
+13'. Number Rnourcas, Rate Center Areas and Routing Points ..............................7 4
+14. Jornt Network Implementation and Grooming Procep; Forecasting ................7 5
+15. Number PortabllttY-Section 251(8)(2) ................................... :. .............................7 6
+16. Good Faith PerfcJrmilrace ...................................., . ........ ,. .........................................7 8
+RESAL,E ATTACHMENT ················~··-··················-·-················-······················ ....• •••·•. . ················80
+1. GeMral• ..••.•••..••...•• ,. ........, ................................................................- .......................... 80
+2.
+3. Avallablllty of Verizon TeleCommunications Services .........................................8 1
+4. ·-···········-·····11:·•· ..
+Resporaslblllty for CMrges ····-·······. ......................... ···················81
+5. Of>'ratlons Mattera .......................................... ~. ............................. ~········. . •• ... ············82.
+6. Rates: and Ctiarges ••••: ; •••••••••••• -......... -...................- .......................................... .:• • 83
+!· ·1. Good Faith Parformanc•···················-···································-·························-······83
+NE'fW'ORI( ELEMENTS ATTACHMENT ·-·-·····························~"-· ..........................................8 4 ••
+,llt•••························,··•!······················-·························-···················"'
+General •••.••••.••.•.
+2. · Verizon'& Provision of Network Elements. ............................................................ 88
+3~ Loop Tra11:1mlseion Ty.,.a ········································~··············-······ ..· ···················88
+..4 . Line Splitting (also referred to -5 "Loop Sharing") ............... -.............. '". ......... :99
+5. [This Section Intentionally Left Bl•'1k]. ..............................................~ .................1 00
+... ···-········.-:··
+6. Sul>-Loop. ••• "···········~··-~················-·····~············;·····,··~····!·•··············· 100
+7. . ·. .S ub-L.OQP for .MultJ1,1nlt Tenant Premises Accns-·~-·· ........................................1 03
+:a. Dark Fiber Transport arid Jransltlonal Provision of Embedded Oa"' Fiber .
+Loops ···-·-·····························-············-·······-····-··················································1 o•
+9.. Network. Interface D8v1c;a ....- ••• -..................................................... ; ••••••••••••••••••••••• 109
+10:a [This Section Intention.Hy Left Blank] .........................- ..............- ..........- ..........1 10
+!•••····················· ...
+11. Dedicated Transpc;>rt •.• ····················~"···········,·····:······················110
+12. [This Section Intentionally Left Blank] ··~····· ................. ~ .•••••..•••.••.... ~. ..................1 11
+•
+13. Operatfc;.ns Support Syst81118 ................................................................................1 1"1
+Iv
+NT PAe .Compv3.1 09282007f.doc
+
+•
+14. Availability of Other Network Elements on an Unbundled Basis ..................... 111
+15. Maintenance of Network Elements ............ 1 . ...................................... -................1 13
+16. Combinations, Commingling, and Conversions ................................................ 113
+17. Routine Network Modifications ............................................................................1 16
+18. Rates and Charges ................................................................................................1 17
+19. Good Faith Performance ....................................... -.............................................. 117
+COLLOCATION ATTACHMENT ................................................................................................. 118
+1. Verizon's Provision of Collocation ...................................................................... 118
+911 ATTACHMENT-.................................................................................................................... 119
+1. 911/E-911 Arrangements ........................................................................................ 119
+2. ALI Database····································-···································································-119
+3. 911/E-911 lnterconnection ....................................................................................1 20
+4. 911/E-911 Ganera,1 ....................................................................................................1 21
+5. Good Faith Perforrnance. .........................- ...........................................................1 21
+PRICING ATTACHMENT ........................................................................................, . ...................1 23
+1. GeMral._ ............................... -..................................................... -........................... 123
+2. Verizon Telecommunications Services Provided to Neutral Tandem for Resale
+Pursuant to the Resale Attachment ................................................... _. ............... 123
+3. Nelltral Tandem Prices ........... _. ................................................ ".• ..... ~····················· 125
+4. [This Section Intentionally Left Blank] ................................................................1 25
+5. Regulatory Review of ~rices ................................................................................1 25
+APPENDIX A TO THE PRICING AT I'ACHMENT ............................................~ . ......................... 127 ·
+EXHIBIT A TO SECTION 3.1 (FIBER MEET ARRANGEMENT} OF THE INTERCONNECTION
+ATTACHMENT ..........................................- ..•.. -........................................................................... 137
+•
+NT PAe Compv3.1 09282007f.doc v
+
+•
+AGREEMENT
+PREFACE
+This Agreement ("Agreemenf') shall be deemed effective as of October 10, 2007 (the "Effective
+Date"), between Neutral Tandem -Pennsylvania, LLC ("Neutral Tandem"), a Limited Liability
+Company organized under the laws of the State of Delaware, with offices at 1 South Wacker,
+Suite 200, Chicago, IL 60606 and Verizon Pennsylvania Inc. ("Verizon"), a corporation organ1zed
+under the laws of the Commonwealth of Pennsylvania with offices at 1717 Arch Street,
+Philadelphia, PA 19103 (Verizon and Neutral Tandem may be referred to hereinafter. each,
+a
+Individually as •party", and, collectlvely, as the "Parties").
+Whereas, the Parties wish to enter into this Agreement pursuant to Section 252 of the Act; and
+Whereas, pursuant to 47 U.S.C. § 252(i), effective October 16, 2006, Neutral Tandem-New
+York, LLC adopted the August 1, 2006 "Interconnection Agreement Under Sectiohs 251 and 252
+of the Telecommunications Act of 1996 By and Between Verizon New York Inc. and AT&T
+Communications of New York, Inc.," including (but not limited to) the AT&T DSO Loop/Resale
+Amendment and the Unitary Rate Amendment; and
+Whereas, the Unitary Rate Amendment was amended by an amendment signed by "The Neutral
+Tandem Parties" (as described In the amendment) on January 4, 2007 and "The Verizon Parties"
+(as described in the amendment) on January 11, 2007 (the "January 11, 2007 URA ~
+Amendmenf'); and •
+Whereas, the Parties acknowledge and reaffirm that as a result of such adoption the AT&T DSO
+Loop/Resale Amendment applies to this Agreement in accordance with the terms of the AT&T
+DSO Loop/Resale Amendment; and
+Whereas, the Parties acknowledge and reaffirm that as a result of such adoption and the January
+11, 2007 URA Amendment, the Unitary Rate Amendment. as amended by the January 11, 2007
+URA Amendment, applies to this Agreement in accordance with the terms of the Unitary Rate
+Amendment, as amended by the January 11, 2007 URA Amendment; .,
+Now Theref.ore, in consideration of the mutual promises contained In this Agreement, and
+Intending to be legally bound, pursuant to Section 252 of the Act, Verizon and Neutral Tandem
+hereby agree as follows:
+GENERAL TERMS AND CONDITIONS
+°"'e
+1. Agreement
+1.1 This Agreement Includes: (a) the Principal Document; (b) the Tariffs of each
+Party applicable to the Services that are offered for sale by it In the Principal
+Document (which Tariffs are incorporated into and made a part of this Agreement
+by reference); and, (c) an Order by a Party that has been accepted by the other
+Party.
+1.2 Except as otherwise expressly provided in the Principal Document (including, but
+not limited to, the Pricing Attachment}, conflicts among provisions in the Principal
+Document, Tariffs, and an Order by a Party that has been accepted by the other
+Party, shall be resolved in accordance with the following order of precedence,
+where the document identified in subsection "(a)" shall have the !'lighest
+precedence: (a) the Principal Document; (b} the Tariffs; ·and, {c) an Order by a
+•
+Party that has been accepted by the other Party. The fact that a provision
+appears in the Pri11cipal Document but not in a Tariff, or In a Tariff but not in the
+NT PAe Compv3.1 09282007f.doc 1
+- - - - -- ---·--
+
+'.
+•
+Prlnclpal Document, shall not be interpreted as, or deemed grounds for finding, a
+conflict for the purposes of this Section 1.2. ·
+1.3 This Agreement constitutes the entire agreement between the Parties on the
+subject matter hereof, and supersedes any prior or contemporaneous
+agreement, understanding, or representation, on the subje~t matter hereof,
+provided, however, notwithstanding any other provision of this Agreement or
+otherwise, this Agreementis an amendment, extension and restatement of the
+Parties' prior Interconnection and resale agreement(s), If any, ~nd, as such, this
+Agreement is not Intended to be, nor shall it be eonstrued to create, a novation or
+accord and satlsf~ctlon With respect to any prior Interconnection or resale
+agreements and, accordingly, all monetary obligations·o f the Parties to one
+another under any prior Interconnection or·resale-agreements shall remain in full
+force and effect and shall constitute monetary obligations of tne Parties under
+this Agreement (provided, .however, that nothing contained in thls Agreement
+shall convert any claim or debt that would other\vlse constitute a prepetltlon claim
+or debt in a l;>ankruptey case into a postpetltian cf aim or debt). In connection with
+the foregoing, Verizon expressly reserves all of its rights under the Bankruptcy
+Code and Appficable Law to seek or oppose any ~lief In respect of the
+assumption, assumption ahd asslgnment, or rejection of any Interconnection or
+resale agreements betw-8en Verizon and Neutral Tandem •
+1.4 .E xcept as otherwise provided in the Principal Doeument, the Principal Document
+may not be waived or modified except by a written document that Is signed by-
+the Parties. Subject to the requirements of Applicable Law, a Party shall have.
+the right to adc;I, modify, or withdraw, its Tariff(s) at any time, without the consent
+of, or notice to, the other Party. - •
+2. Term and Tennlnatlon
+2.1 This Agreement shall be effective as of the Effective·D ate and, unless cancelled
+or terminated ear11er In accordance with the terms hereof, shall continue In effect
+e.
+until October 2009 (the Mlnitial Term·). Thereafter, this Agreement shall
+·cOntinue in force and effect unless and until canceUed or terminated as provided
+In 1his Agreement.
+2.2 Either Neutr~l Tandem or Verizon may terminate this Agreement effective upon
+the expiration of the Initial Term or effective upon any date after expiration of the
+Initial Term by providing written notice of termination at least ninety (90) days in
+-advance of the date of termination.
+2.3 If either Neutral Tandem or Verizon provides notice of termination pursuant to
+Section 2.2 and on or before the proposed date of termination either Neutral
+Tandem ot Verizon has requested negotiation of a new lnterconnectlon .
+.agreement, unless this Agreement ls caacelled or terminated ear11er In
+accordance with the terms hereof (lnduding, but not limited to, pursuant to
+S8ct1Qn 12), this Agreement shall remain in effect until the earlier of: (a) the
+effective date of a new interconnection agreement between Neutral Tandem and
+Venzon; or, (b) the date one (1) year after the proposed ~ate oftermlnatl~n-
+2.4 If either Neutral Tandem or Verizon provides notice of termination pursuant to
+-Section 2.2 and by 11:59 PM Eastern Time on the propos.ed date oft ermination
+neither Neutral Tandem nor Verizon has requested negotiation of a new
+interconnection agreement, (a) this Agreement win terminate at 11 :59 PM
+Eastern Time on the proposed date of termination, and (b} the Services being
+·provided under this Agreement at the time of termination will be terminated, •
+except to the exte~t that the Purchasing Party has requested that such Serviees
+--
+...;
+NT ~Ae Compv3.1 ll9282007f.doc 2
+
+•
+continue to be provided pursuant to an applicable Tariff or Statement of
+Generally Avaifable Terms (SGAT}.
+3. Glossary and Attachments
+The Glossary and the following Attachments are a part of this Agreement:
+Additional Services Attachment
+Interconnection Attachment
+Resale Attachment
+Network Elements Attachment
+Collocation Attachment
+911 Attachment
+Pricing Attachment
+4. Applicable Law
+4. 1 The construction, interpretation and performance of this Agreement shall be
+governed by (a) the laws of the United States of America and (b) the laws of the
+Commonwealth of Pennsylvania, without regard to Its conflicts of laws rules. All
+disputes relating to this Agreement shall be resolved through the application of
+such laws.
+4.2 Each Party shall remain in compliance with Applicable Law in the course of
+• performing this Agreement. ·
+4.3 Neither Party shall be liabte for any delay or failure in performance by it that
+results from requirements of Applicable Law, or acts or failures to act of any
+governmental entity or official.
+4.4 Each Party shall promptly notify the other Party in writing of any governmental
+action that limits, suspends, cancels, withdraws, or otherwise materially affects,
+the notifying Party's ability to perform its obligations under thls Agreement.
+4.5 If any provision of this Agreement shall be Invalid or unenforceable under
+Applicable Law, such invalidity or unenforceability shall not invalidate or render
+unenforceable any other provision of this Agreement, and this Agreement shall
+be construed as if it did not contain such invalid or unen.forceable provision;
+provided, that.if the invalid or unenforceable provision is a mater~al provision of
+this Agreement. or the invalidity ot unenforceability· materially affects the rights or
+obligations of a Party hereunder or the ability of a Party to perform any material
+provision of this Agreement, the Parties shall promptly renegotiate in good faith
+and amend in writing this Agreement in order to make such mutually acceptable
+revisions to this Agreement as may be required In order to conform the
+Agreement to Applicable Law.
+4.6 If any legislative, regulatory, judicial or other governmental decision, order,
+determination or action, or any change in Applicable Law, materially affects any
+material provision of this Agreement, the rights or obligations of a Party
+hereunder, or the ability of a Party to perform any material provision of this
+Agreement. the Parties shall promptly renegotiate in goOd faith and amend in
+writing this Agreement in order to make such mutually aC(:epfable revisions to
+• this Agreement as may be required in order to conform the Agreement to
+Applicable Law. If within thirty {30) days-of the effective date of such decision;
+NT PAe Compv3.1 09282007f.doc 3
+L---------------- - ----- - -----·- ------
+
+•
+determination, action or change, the Parties are unable to agree in writing upon
+mutually acceptable revisions to this Agreement, either Party may pursue any
+. remedies available to it under this Agreement, at law, In equity, or otherwise, .
+Including, but not limited to, Instituting an appropriate proceeding before the
+Commission, the FCC, or a court of competent jurisdiction, without first pursuing
+dispute resolution in accordance with Section 14 of this Agreement.
+4.6.1 Notwithstanding Section 4.6 above, to the extent Verizon ts required by
+a change In Applicable Law to provide to Neutral Tandem a Service
+that Is not offered under this Agreement to Neutral Tandem, the tenns,
+conditions ~nd prices for such Service (including, but not limited to, the
+terms and concf itions defining the Ser:vlce and stating when and where
+the Service will be available and how It will be used, and terms,
+conditions and prices for pre-ordering, ordering, provisioning, repair,
+maintenance and· billing) shall be as provided in an applicable Verizon
+Tariff, or, In the absence of an applicable Verizon Tariff, as mutually
+agreed by the Parties In a written amendment to the Agreement that,
+upon the request of either Party, the Parties shall negotiate In
+accordance with the requirements of Section 252 of the N:;t. In no
+event shall Verizon be required to provide any such Service In the
+·. absence of such a Verizon Tariff or amendment
+4. 7 Notwithstanding anything In this Agreement to the contrary, if, as a result of any
+legislative, judicial, regulatory or other governmental decision, order,
+or
+determination or action, any change In Applicable Law, Verlton Is not required
+by Applicable Law to provide any Service, payment or benefit. othet'Wlse required
+••
+to be provided 1o Neutral Tandem hereunder, then Verizon may discontinue the
+provision of any such Service, payment or benefit. and Neutral Tandem shall
+reimburse Verizon for any payment previously made by Verizon to Neutral
+Tandem that was r-iot required by Applicable Law. Verizon will provide thirty (30)
+days prior written ·notice to Neutral Tandem of any sucm discontinuance of a
+Service, unless a different notice period or different conditions are speeified In
+this Agreement (Including, but not limited to, In the Networks Element Attachment
+or an applicable tariff} or Applicable Law for tetmlnatloo of sucb Service In which
+event such specified period and/or conditions shall apply. For the avoldaoce of
+any doubt, this Section 4.7 ls self-effectuating and no amendment to this
+Agreement shall be required to Implement It.
+5. Assignment
+N.elther Party may a~lgn this :Agreement or any right or int~rest under this Agreement.
+' nor delegate any obligation under tflls Agreement, without the prior written consent ofthe
+.. other P~rty. which consent shall not be unreaSQnably withheld, conditioned or delayed.
+Any attempted assignment or delegation In violation of this Section 5 shall be void and
+Ineffective and constitute default of thl~ Agreement
+&. Assurance of Payment
+6.1 Upon request by Verizon, Neutral Tandem shall, at any time and from time to
+time, provide to Verizon adequate assurance of payment of amounts due (or to .
+become due) to Verizon hereunder.
+6,2· Assurance of payment of charges may be requested by Verizon If Neutral
+Tandem (a) prior-to the Effective Date, has failed to tltnely pay charges billed by
+Verizon or a Verizon·A ffiliate to Neutral Tandem that are not subject to a good- ·
+••
+faith dispute, (b )-on or after the Effective Date, fails to timely pay charges billed
+by' Verizon or a V~rlzon Affiliate to Neutral Tt1ndem ·that are not subject to ~ good
+NT PAe Compv3.1 09282007!.doc
+
+•
+faith dispute, {c) in Verizon's reasonable judgment, at the Effective Date or at any
+time thereafter, is unable to demonstrate that it is creditworthy, or (d) admits its
+inability to pay its debts as such d.ebts become due, has commenced a voluntary
+case (or has had a case commenced against it) under the U.S. Bankruptcy Code
+or any other law relating to bankruptcy, insolvency, reorganization, winding-up, ·
+composition or adjustment of debts or the like, has made an assignment for 1he
+benefit of creditors or is subject to a receivership or similar proceeding.
+6.3 Unless otherwise agreed by the Parties, the assurance of payment shall consist
+of an unconditional, irrevocable standby letter of credit naming Verizon as the
+beneficiary thereof and otherwise in form and substance satisfactory to Verizon
+from a financial institution acceptable to Verizon. The letter of credit shall be in
+an amount equal to two (2) months anticipated charges (including, but not limited
+to, both recurring and non-recurring charges), as reasonably determined by
+Verizon, for the Services to be provided by Verizon to Neutral Tandem in
+connection with this Agreement. If Neutral Tandem meets the condition in
+subsection 6.2{d} above or has failed to timely pay two or more bills rendered by
+Verizon or a Verizon Affiliate in any twelve {12}-month period, Verizon may, at its
+option, demand (and Neutral Tandem shall provide) additional assurance of
+payment, consisting of monthly advanced payments of estimated charges as
+reasonably determined by Verizon, with appropriate true-up against actual billed
+charges no more frequently than once per Calendar Quarter.
+6.4 [Intentionally Left Blank).
+6.5 [Intentionally Left Blank].
+•• 6.6 Verizon may (but is not obligated to) draw on the letter of credit upon notice to
+Neutral Tandem in respect of any amounts to be paid by Neutral Tandem
+hereunder that are not paid within thirty (30) days of the date that payment of
+such amounts is required by this Agreement.
+6.7 If Verizon draws on the letter of credit, upon request by Verizon, Neutral Tandem
+shall provide a replacement or supplemental letter of credit confoIT(ling to the
+requirements of Section 6.3.
+6.8 Notwithstanding anything else set forth in this Agreement. lf Verizon makes a
+request for assurance of payment in accordance with the terms of this Section,
+then Verizon sha!J have no obligation thereafter to perform under this Agreement
+until such time as Neutral Tandem has provided Verizon with such assurance of
+payment. . · ·
+6.9 The fact that a letter of credit is requested by Verizon hereunder shall in no way
+relieve Neutral Tandem from compliance with the requirements of this Agreement
+(including, but not limited to. any applicable Tariffs) as to advance payments and
+payment for Services, nor constitute a waiver or modification of the terms herein
+pertaining to the discontinuance of Services for nonpayment of any amounts
+payment of which is required by this Agreement.
+7. Audits
+7.1 Except as may be otherwise specifically provided. in this Agreement, either Party
+("Auditing Party'') may audit the other Party's ("Audited Party") books, records,
+documents, facilities and systems for the purpose of evaluating the accuracy of
+the Audited Party's bills. Such audits may be performed once in each Calendar
+• Year; provided, however, that audits may be conducted more frequently (but no
+more frequently than once in each Calendar Quarter) if the immediately ·
+NT PAe Compv3.1 09282007f.doc 5
+
+•
+preceding audit found previously uncorrected net inaccuracies In bllllng in favor
+of the Audited Party having an aggregate value of at least $1,000,000.
+7. 2 The audit shall be performed by Independent auditors selected and paid by the
+Auditing Party. The auditors shall be reasonably acceptable to the Audited Party.
+Prior to commenctng the audit, the auditors shall execat~ an agreement with the
+Audited Party in a form reasonably acceptable to the Audited Party that protects
+the confidentiality of the Information disclosed by the Audited Party to the
+auditors. The audit shall take place at a time and pl~ce agreed upon by the
+Parties; provided, thatthe Auditing Party may require that the audit commence
+no later than sixty (60) days after the Auditing Party has given notice of the audit
+to the Audited Party.
+7:3 Each Party shall cooperate fully in any such a®I~ providing reasonable access
+to any and all employ.~s. books, records, docUments, facilities and systems,
+reasonably necessary to assess the accuracy of th8 Audited Party's bills.
+7. 4 Audits shall be performed at the Audltlng·Party's expense, provided that there
+. shall be no charge for reasonable access to the Audited Party's employees,
+books, records, documents, facllltles and systems necessary to assess the
+accuracy of the Audited Party's bllls.
+8. Authorization
+8.1 Verizon represents a ' nd w.arrants that it Is a corporation duly organized, validly~
+existing and In good .standing under the laws of the Commonwealth of
+Pennsylvania and has .full power and authority to execute and deliver this
+Agreement and to perform Its obligations under this Agreement. •
+8.2 Neutral Tandem represents and warrants that It is a Limited J,.iabillty Company
+duly organized, validly existing and In good standing under the laws of the State
+of Delaware, and has full power and authority to execute and deliver this
+Agreement and to perform Its obligations under this Agreement.
+8.3 Neutral Tandem Certification.
+t.· -
+Notwithstanding any other provision of this Agreement, Verizon shall have no
+._
+obligation to perform under this Agreement until such·t ime as Neutral Tandem
+has obtained such FCC and Commission authorization as may be required by
+Applicable Law for CQOductlng business In the Commonwealth of Pennsylvania.
+Neutral Tandem shall not place any Orders under this Agreement until It has
+obtained such authorization. Neutral Tandem shall provide proof of such
+auttiorizafk>n.t o VQriZQ!'l upon request
+t. .anuiig anct Payment; 01S.,uted Amounts
+Exc' ept as ot' hefWlse provided In this Agreement, each Party shall submit to the
+other Party on a monthly-basis in an itemized form, statement(s) of charges
+incurred by the other Party under this Agreement.
+9.2 Except as otherwise provided In this Agreement, payment of amOlllts billed for
+Services provided under this Agreement, whether billed on a monthly basis or E3S
+otherwise provided in this Agreement, shall be due, In Immediately available U.S.
+funds, on the later of the following dates (the MDueDate"): (a) the due date
+specified on the billing Party's statement; or (b) twenty (20) days after the date
+the statement Is rec;elved by the billed Party. Payments shall be transmltt~ by ••
+NT PAe-Compv3.1 09282007f.doc 6

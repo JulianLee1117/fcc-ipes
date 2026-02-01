@@ -1,0 +1,212 @@
+Before the
+FEDERAL COMMUNICATIONS COMMISSION
+Washington, D.C. 20554
+In the Matter of )
+)
+Dialwave, Inc. )
+For Authorization to Obtain Numbering ) WC Docket No. 25 -___________
+Resources Pursuant to Section 52.15(g) of )
+The Commission’s Rules )
+APPLICATION OF DIALWAVE, INC.
+FOR AUTHORIZATION TO OBTAIN NUMBERING RESOURCES
+The Commission’s Numbering Order established that interconnected VoIP providers may
+obtain numbering resources from the Numbering Administrator by showing authority to provide
+service in the territory where numbers are sought. Dialwave, Inc. (“Dialwave”) seeks such
+authority and submits the information required by 47 C.F.R. § 52.15(g)(3)(ii) as of the day of
+filing.
+a. INFORMATION REQUIRED BY 47 C.F.R. § 52.15(g)(3)(ii):
+1. 47 C.F.R. § 52.15(g)(3)(ii)(A)
+Name: Dialwave, Inc.
+Address: 31 West 34th Street
+8th Floor
+New York, NY 10001
+Telephone: +1 888 899 9283
+Contact for Regulatory Requirements, Compliance, 911, and Law Enforcement:
+Name: Robert Nichols
+Address: 31 West 34th Street
+8th Floor
+New York, NY 10001
+Telephone: +1 888 899 9283
+Email: robert.nichols@dialwave.com
+
+2. 47 C.F.R. § 52.15(g)(3)(ii)(B)
+Dialwave acknowledges that the authorization granted under 47 C.F.R. §
+52.15(g)(3) is subject to compliance with applicable Commission numbering
+rules, numbering authority delegated to the states, and state laws, regulations, and
+registration requirements. Dialwave acknowledges that authorization is subject to
+compliance with industry guidelines and numbering practices applicable to
+telecommunications carriers. The numbering resources subject to this Application
+will be used at first in the state of New York.
+3. 47 C.F.R. § 52.15(g)(3)(ii)(C)
+Dialwave certifies that it will not use the numbers obtained pursuant to an
+authorization granted under 47 C.F.R. § 52.15(g)(3) to knowingly transmit,
+encourage, assist, or facilitate illegal robocalls, illegal spoofing, or fraud, in
+violation of robocall, spoofing, and deceptive telemarketing obligations under 47
+C.F.R. §§ 64.1200, 64.1604, 64.6300–64.6308, and 16 C.F.R. § 310.3(b).
+4. 47 C.F.R. § 52.15(g)(3)(ii)(D)
+Dialwave certifies that it has fully complied with all applicable
+STIR/SHAKEN caller ID authentication and robocall mitigation program
+requirements and that it has filed a certification in the Robocall Mitigation
+Database as required by 47 C.F.R. §§ 64.6301–64.6305.
+5. 47 C.F.R. § 52.15(g)(3)(ii)(E)
+i. Dialwave certifies that it complies with its 911 obligations as outlined in
+47 C.F.R. Part 9. Evidence in support of this certification can be found in
+Confidential Exhibit A. Dialwave requests confidential treatment under
+
+Commission rules for Confidential Exhibit A and is submitting
+Confidential Exhibit A separately in accordance with its request for
+confidential treatment.
+ii. Dialwave certifies that it complies with the provisions of the
+Communications Assistance with Law Enforcement Act (CALEA), as set
+forth in 47 U.S.C. § 1001 et seq. Evidence in support of this certification
+can be found in Exhibit B.
+6. 47 C.F.R. § 52.15(g)(3)(ii)(F)
+Dialwave certifies that it complies with the Access Stimulation rules under
+47 C.F.R. § 51.914.
+7. 47 C.F.R. § 52.15(g)(3)(ii)(G)
+Dialwave understands and acknowledges that it must file requests for
+numbers with the relevant state commissions at least 30 days prior to requesting
+numbers from the Numbering Administrators.
+8. 47 C.F.R. § 52.15(g)(3)(ii)(H)
+Dialwave has the operational capability to provide services within sixty
+(60) days of the numbering resource activation date. As evidence of this readiness,
+attached as Confidential Exhibit C is an interconnection agreement between
+Dialwave and its carrier partner. Additionally, attached as Confidential Exhibit D
+is an interconnection agreement between Dialwave’s carrier partner and a local
+exchange carrier in New York. Dialwave requests confidential treatment for both
+exhibits under Commission rules and is submitting them separately in accordance
+with its request.
+
+9. 47 C.F.R. § 52.15(g)(3)(ii)(I)
+Dialwave certifies that it has filed FCC Forms 477 and 499. Evidence in
+support of this certification can be found in Exhibit E.
+10. 47 C.F.R. § 52.15(g)(3)(ii)(J)
+Dialwave certifies that it complies with its Universal Service Fund
+contribution obligations under 47 C.F.R. Part 54, Subpart H; its
+Telecommunications Relay Service contribution obligations under 47 C.F.R. §
+64.604(c)(5)(iii); its North American Numbering Plan and Local Number
+Portability Administration contribution obligations under 47 C.F.R. §§ 52.17 and
+52.32; and its obligations to pay regulatory fees under 47 C.F.R. § 1.1154.
+11. 47 C.F.R. § 52.15(g)(3)(ii)(K)
+i. Dialwave certifies that it possesses the financial, managerial, and technical
+expertise to provide reliable service.
+ii. Dialwave’s key management and technical personnel are as follows:
+Robert Nichols, Chief Executive Officer
+iii. Neither Dialwave, nor any of the identified key management personnel,
+are being or have been investigated by the Commission, law enforcement,
+or any regulatory agency for failure to comply with any law, rule, or order,
+including the Commission’s rules in 47 C.F.R. Chapter I, applicable to
+unlawful robocalls or unlawful spoofing.
+
+12. 47 C.F.R. § 52.15(g)(3)(ii)(L)
+i. 47 C.F.R. § 63.18(h)
+Name: Robert Nichols
+Address: 31 West 34th Street
+8th Floor
+New York, NY 10001
+Citizenship: US
+Principal Business: Telecommunications
+Shares Owned: 100%
+ii. 47 C.F.R. § 63.18(i)
+Dialwave is not a foreign carrier, is not associated with a foreign carrier,
+and is 100% directly owned by a single individual. As there are no
+intervening entities, no equity interests are held indirectly.
+13. 47 C.F.R. § 52.15(g)(3)(ii)(M)
+Dialwave certifies that no party to this application is subject to denial of
+Federal benefits pursuant to Section 5301 of the Anti-Drug Abuse Act of 1988, 21
+U.S.C. § 862.
+14. 47 C.F.R. § 52.15(g)(3)(ii)(N)
+The undersigned declares, under penalty of perjury pursuant to 47 C.F.R. §
+1.16, that all statements in this application and supporting exhibits are true and
+accurate.
+
+b. REQUEST FOR CONFIDENTIAL TREATMENT
+1. 47 C.F.R. § 0.459(b)(1)
+Dialwave seeks confidential treatment of Confidential Exhibit A,
+Confidential Exhibit C, and Confidential Exhibit D.
+2. 47 C.F.R. § 0.459(b)(2)
+As proof of Dialwave’s compliance with 47 C.F.R. Part 9 as required by
+47 C.F.R. § 52.15(g)(3)(ii)(E), Dialwave is submitting technical details of its 911
+integration and agreement with its carrier partner as Confidential Exhibit A.
+As proof of Dialwave’s facilities readiness as required by 47 C.F.R. §
+52.15(g)(3)(ii)(H), Dialwave is submitting the interconnection agreement between
+it and its carrier partner as Confidential Exhibit C. Dialwave is also submitting
+the interconnection agreement between Dialwave’s carrier partner and a local
+exchange carrier in New York as Confidential Exhibit D.
+3. 47 C.F.R. § 0.459(b)(3)
+Confidential Exhibit A describes the technical details of Dialwave’s 911
+integration. Confidential Exhibit A, Confidential Exhibit C, and Confidential
+Exhibit D contain agreements between Dialwave and its carrier partner. All three
+exhibits contain proprietary commercial information regarding the operations,
+pricing, network, services, and operating costs of both Dialwave and its carrier
+partner.
+4. 47 C.F.R. § 0.459(b)(4)
+Confidential Exhibit A, Confidential Exhibit C, and Confidential Exhibit
+D contain information relating to commercial matters that could be used to the
+
+competitive disadvantage of Dialwave. Dialwave has numerous competitors in the
+Voice over Internet Protocol (“VoIP”) services sector in which it operates.
+Detailed operations and commercial information of the type provided by
+Dialwave could compromise Dialwave’s position in this highly competitive
+industry. Release would therefore result in substantial competitive harm to
+Dialwave.
+5. 47 C.F.R. § 0.459(b)(5)
+Competitors could use Dialwave’s proprietary commercial and operational
+information to Dialwave’s detriment as they would gain access to sensitive
+information about how Dialwave provides services as well as about Dialwave’s
+commercial agreements with others in the market that are not normally disclosed
+to the public.
+6. 47 C.F.R. § 0.459(b)(6)
+Dialwave has not disclosed the information in Confidential Exhibit A,
+Confidential Exhibit C, and Confidential Exhibit D to the public.
+7. 47 C.F.R. § 0.459(b)(7)
+Dialwave has not disclosed the information in Confidential Exhibit A,
+Confidential Exhibit C, and Confidential Exhibit D to the public or third parties.
+8. 47 C.F.R. § 0.459(b)(8)
+Dialwave requests that Confidential Exhibit A, Confidential Exhibit C,
+and Confidential Exhibit D be treated as confidential for a period of ten years.
+This period is necessary due to the proprietary nature of the information contained
+in the exhibits.
+
+9. 47 C.F.R. § 0.459(b)(9)
+The information concerns Dialwave’s proprietary network information,
+related to current and planned commercial and operational information, and, as
+such, is commercially sensitive.
+c. CONCLUSION
+Dialwave respectfully requests that the Commission grant this application for
+authorization to obtain numbering resources.
+Respectfully submitted,
+/s/ Robert Nichols
+Robert Nichols
+CEO
+Dialwave, Inc.
+robert.nichols@dialwave.com
+Dated: June 24, 2025
+
+LIST OF EXHIBITS
+Confidential Exhibit A 911 Technical Details and Compliance
+Exhibit B Communications Assistance with Law Enforcement Act
+(CALEA) Compliance
+Confidential Exhibit C Interconnection Agreement Between Dialwave, Inc. and Its
+Carrier Partner
+Confidential Exhibit D Interconnection Agreement Between Carrier Partner and Local
+Exchange Carrier
+Exhibit E Proof of Filing FCC Forms 477 and 499
+
+CONFIDENTIAL EXHIBIT A
+911 Technical Details and Compliance
+REDACTED
+
+EXHIBIT B
+Communications Assistance with Law Enforcement Act (CALEA) Compliance
+
+CONFIDENTIAL EXHIBIT C
+Interconnection Agreement Between Dialwave, Inc. and Its Carrier Partner
+REDACTED
+
+CONFIDENTIAL EXHIBIT D
+Interconnection Agreement Between Carrier Partner and Local Exchange Carrier
+REDACTED
+
+EXHIBIT E
+Proof of Filing FCC Forms 477 and 499

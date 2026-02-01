@@ -1,0 +1,129 @@
+April 17, 2020
+VIA FIRST CLASS MAIL
+Marlene H. Dortch REQUEST FOR
+Secretary CONFIDENTIAL TREATMENT
+Federal Communications Commission
+445 12th Street, SW
+Washington, DC 20554
+Re: 8x8, Inc. Supplement to Application for Authorization to Obtain Numbering
+Resources & Request for Confidential Treatment
+WC Docket No. 20-19
+Dear Ms. Dortch:
+8x8, Inc. (“8x8”) hereby encloses for filing a Supplement to its previously filed Application to
+Obtain Numbering Resources (“Application”) and corresponding Confidential Exhibit D, entitled
+Declaration of Bryan Martin (“Declaration”). The Supplement and Declaration are sent to you
+for filing pursuant to Section 52.15(g)(3)(i) of the Commission’s Rules.
+8x8 respectfully requests that, pursuant to Sections 0.457 and 0.459 of the Commission’s rules,
+47 C.F.R. §§ 0.457 and 0.459, the Commission withhold from public inspection and accord
+confidential treatment to the Declaration. This document contains trade secrets and commercial,
+technical and financial information that fall within Exemption 4 of the Freedom of Information
+Act (“FOIA”).1
+Exemption 4 of FOIA provides that the public disclosure requirement of the statute “does not
+apply to matters that are . . . (4) trade secrets and commercial or financial information obtained
+from a person and privileged or confidential.”2 8x8 is voluntarily providing this trade secret and
+commercial and financial information “of a kind that would customarily not be released to the
+public”; therefore, this information is “confidential” under Exemption 4 of FOIA.3 Moreover,
+8x8 would suffer substantial competitive harm if the Declaration were disclosed.4 8x8 treats the
+Declaration as private and provides it with the understanding that the Bureau will treat it as
+private.5
+1 5 U.S.C. § 552(b)(4).
+2 Id.
+3 See Critical Mass Energy Project v. NRC, 975 F.2d 871, 879 (D.C. Cir. 1992).
+4 See National Parks and Conservation Ass’n v. Morton, 498 F.2d 765 (D.C. Cir. 1974).
+5 See Food Marketing Inst. v. Argus Leader Media, 588 U.S. __, 2019 WL 2570624, at *7 (2019).
+
+In support of this request and pursuant to Section 0.459(b) of the Commission’s rules,6 8x8
+hereby states as follows:
+1. IDENTIFICATION OF THE SPECIFIC INFORMATION FOR WHICH CONFIDENTIAL
+TREATMENT IS SOUGHT7
+8x8 seeks confidential treatment of the Declaration.
+2. DESCRIPTION OF CIRCUMSTANCES GIVING RISE TO THE SUBMISSION8
+The Declaration is being submitted to the Commission in conformity with the referenced
+docket number.
+3. EXPLANATION OF THE DEGREE TO WHICH THE INFORMATION IS COMMERCIAL OR
+FINANCIAL, OR CONTAINS A TRADE SECRET OR IS PRIVILEGED9
+The information for which 8x8 seeks confidential treatment contains sensitive
+commercial, financial, and technical information which would customarily be guarded from
+competitors. The Declaration contains trade secrets and technical information relating to the
+manner in which 8x8 and its carrier partner conduct network operations.
+4. EXPLANATION OF THE DEGREE TO WHICH THE INFORMATION CONCERNS A SERVICE
+THAT IS SUBJECT TO COMPETITION10
+The Declaration contains detailed information relating to operational matters that could
+be used by competitors to the disadvantage of 8x8. Disclosure of 8x8’s confidential information
+would cause substantial competitive harm.
+5. EXPLANATION OF HOW DISCLOSURE OF THE INFORMATION COULD RESULT IN
+SUBSTANTIAL COMPETITIVE HARM11
+Competitors could use the information in the Declaration to 8x8’s detriment.
+6. IDENTIFICATION OF ANY MEASURES TAKEN BY THE SUBMITTING PARTY TO PREVENT
+UNAUTHORIZED DISCLOSURE12
+6 47 C.F.R. § 0.459(b).
+7 Id. § 0.459(b)(1).
+8 Id. § 0.459(b)(2).
+9 Id. § 0.459(b)(3).
+10 Id. § 0.459(b)(4).
+11 Id. § 0.459(b)(5).
+12 Id. § 0.459(b)(6).
+
+8x8 has made the substance of the Declaration known only to those employees who have
+a need to know the subject matter, and those employees are aware of the confidential and
+sensitive nature of the information. The Declaration has not been disclosed by 8x8 to any non-
+signatories outside 8x8 except pursuant to appropriate confidentiality agreements.
+7. IDENTIFICATION OF WHETHER THE INFORMATION IS AVAILABLE TO THE PUBLIC AND
+THE EXTENT OF ANY PREVIOUS DISCLOSURE OF THE INFORMATION TO THIRD
+PARTIES13
+8x8 has not previously disclosed the Declaration to the public.
+8. JUSTIFICATION OF THE PERIOD DURING WHICH THE SUBMITTING PARTY ASSERTS
+THAT MATERIAL SHOULD NOT BE AVAILABLE FOR PUBLIC DISCLOSURE14
+8x8 requests that the Declaration be treated as confidential for a period of ten years. This
+period is necessary due to the sensitive nature of the information in the Declaration.
+9. OTHER INFORMATION THAT 8X8 BELIEVES MAY BE USEFUL IN ASSESSING WHETHER
+ITS REQUEST FOR CONFIDENTIALITY SHOULD BE GRANTED15
+The disclosure of the name of 8x8’s carrier partner could be used to the competitive
+detriment of 8x8.
+Respectfully submitted,
+________________________________
+Brita D. Strandberg
+HARRIS, WILTSHIRE & GRANNIS LLP
+1919 M Street N.W.
+Eighth Floor
+Washington, D.C. 20036
+Tel.: (202) 730-1316
+Fax: (202) 730-1301
+Counsel to 8x8, Inc.
+13 Id. § 0.459(b)(7).
+14 Id. § 0.459(b)(8).
+15 Id. § 0.459(b)(9).
+
+Before the
+FEDERAL COMMUNICATIONS COMMISSION
+Washington, D.C. 20554
+In the Matter of )
+)
+8x8, Inc., Applicant ) WC Docket No. 20-19
+)
+For Authorization to Obtain Numbering )
+Resources Pursuant to Section 52.15(g) of )
+the Commission’s Rules )
+SUPPLEMENT TO THE APPLICATION OF 8X8, INC.
+FOR AUTHORIZATION TO OBTAIN NUMBERING RESOURCES
+On December 19, 2019, 8x8, Inc. (“8x8”) respectfully requested authorization to obtain
+numbering resources as an interconnected VoIP provider pursuant to Section 52.15(g)(3)(i) of the
+Commission’s Rules.
+In response to 8x8’s application, the Wireline Competition Bureau requested additional
+information to demonstrate proof of facilities readiness under Direct Access Order (FCC 15-70)
+paragraph 37. 8x8 hereby files the requested additional information as Confidential Exhibit D,
+submitted pursuant to 8x8’s concurrently filed request for confidential treatment.
+Respectfully submitted,
+________________________________
+Brita D. Strandberg
+HARRIS, WILTSHIRE & GRANNIS LLP
+1919 M Street N.W.
+Eighth Floor
+Washington, D.C. 20036
+Tel.: (202) 730-1300
+Fax: (202) 730-1301
+Counsel to 8x8, Inc.
+
+Confidential Exhibit D
+
+Exhibit Redacted in its Entirety
