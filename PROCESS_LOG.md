@@ -123,3 +123,53 @@ Download requires:
 | File types | 492 PDF, 18 DOCX, 2 DOC |
 
 Filename format: `{filing_id}_{original_filename}`
+
+---
+
+## 2026-01-31 18:33 — Phase 5: Enrichment Strategy
+
+### The Question
+
+Before writing enrichment code, tested: **What data sources actually work for these 200 companies?**
+
+Tested on: 8x8 (big), Vonage (acquired), Global Net (mid-tier), 200 Networks (obscure).
+
+### What I Found
+
+| Source | Quality | Coverage |
+|--------|---------|----------|
+| **FCC doc text** | High | ~70% have structured sections |
+| **Filing metadata** | High | 100% (already have it) |
+| **Web search** | Varies | Great for famous, useless for obscure |
+
+**FCC applications are surprisingly rich.** The standard format includes:
+- § 52.15(g)(3)(i)(A): Address, phone, email
+- § 52.15(g)(3)(i)(F): Key personnel with bios
+- Often: founding dates, service descriptions
+
+Example: 8x8's filing contains CEO/CTO/CFO names, full bios, and "$50B market" positioning.
+
+**Web search has a long tail problem.** 8x8 and Vonage return Gartner reports and financials. Obscure companies return nothing or just breach news.
+
+**Filing patterns are activity signals.** 98/200 companies filed multiple times. Recent filings = likely still operating.
+
+### Strategy
+
+1. **Parse docs first** (free) — extract what's already in the filings
+2. **Use filing signals** (free) — multiple filings, recent dates = active
+3. **Web search** (1 call/company) — supplement, not primary source
+4. **LLM synthesis** (1 call/company) — combine evidence, output structured fields
+
+This avoids over-relying on web search for companies that won't have results.
+
+### Web Search Tool Selection
+
+Tested `ddgs` (DuckDuckGo search) on 3 sample companies:
+
+| Company | Results |
+|---------|---------|
+| 8x8 Inc | Wikipedia, VoIP reviews, patents |
+| Global Net Communications | Company website, services |
+| 200 Networks LLC | D&B profile, breach article |
+
+**Decision:** Use `ddgs` — free, no API key, effective results. Add 1s delay between requests.
