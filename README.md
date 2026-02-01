@@ -175,18 +175,30 @@ data/
 documents/
 ├── original/                      # 512 downloaded files (620 MB)
 └── text/                          # Extracted text from PDFs
+
+PRD.md                             # Implementation plan (Claude Code)
+PROCESS_LOG.md                     # Decision reasoning log
+ENRICHMENT_IMPROVEMENT.md          # Post-enrichment fix plan
 ```
 
 ---
 
 ## Development Process
 
-1. **Planning** — Iterated on PRD with Claude Code to identify edge cases and API quirks
-2. **Execution** — Used Claude Code plan mode to implement phase-by-phase
+1. **Planning** — Created PRD using Claude Code plan mode
+2. **Execution** — Implemented phase-by-phase, iterating on the plan between phases to test effectiveness
 3. **Testing** — Small samples first (10 companies), validated outputs, then scaled
-4. **Refinement** — Post-processing scripts to fix data quality issues discovered during review
+4. **Refinement** — Analyzed enrichment results, created improvement plan, applied post-processing fixes
 
 Each phase produces a standalone artifact — if time ran out, earlier phases would still be complete.
+
+### Documentation
+
+| File | Purpose |
+|------|---------|
+| [PRD.md](./PRD.md) | Implementation plan created with Claude Code plan mode. Executed phase-by-phase with iteration between phases to validate approach. |
+| [PROCESS_LOG.md](./PROCESS_LOG.md) | Decision log tracking the reasoning behind each design choice — why two queries, why this filter, why this schema, etc. |
+| [ENRICHMENT_IMPROVEMENT.md](./ENRICHMENT_IMPROVEMENT.md) | Follow-up plan created with Claude Code to fix data quality issues discovered after initial enrichment. |
 
 ---
 
