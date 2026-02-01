@@ -6,19 +6,40 @@ Extract, structure, and AI-enrich FCC IPES (Interconnected VoIP Provider) number
 
 ---
 
+## Overview
+
+This pipeline transforms raw FCC filings into a structured company database in 6 steps:
+
+```
+FCC API → 2,364 filings → Filter to 896 IPES → Dedupe to 200 companies → Download 512 docs → AI enrich
+```
+
+**The core challenge:** The FCC doesn't have a clean "IPES companies" dataset. Applications are scattered across thousands of filings with inconsistent formats, duplicate submissions, and noise from unrelated proceedings.
+
+**The solution:** A multi-phase pipeline that progressively filters, structures, and enriches the data:
+
+1. **Extract** — Query FCC API with two search strategies to catch all IPES filings
+2. **Filter** — Remove noise (COVID programs, Section 214 transfers) using keyword matching
+3. **Structure** — Group filings by company, deduplicate by normalized name
+4. **Download** — Fetch 512 PDF/DOCX application documents from FCC servers
+5. **Parse** — Extract contact info, personnel, and dates from document text (free data)
+6. **Enrich** — Web search + LLM synthesis to determine activity status, industry, and market position
+
+**Key insight:** FCC applications themselves contain valuable structured data (addresses, key personnel, founding dates). Parsing these *before* calling the LLM provides better context and reduces reliance on web search, which fails for obscure companies.
+
+---
+
 ## Quick Start
 
 ```bash
-# Install dependencies
 pip install -r requirements.txt
 
-# Run pipeline (phases execute sequentially)
-python -m src.extract      # 1. Fetch from FCC API
-python -m src.filter       # 2. Filter to IPES applications
-python -m src.structure    # 3. Dedupe into companies
+python -m src.extract       # 1. Fetch from FCC API
+python -m src.filter        # 2. Filter to IPES applications
+python -m src.structure     # 3. Dedupe into companies
 python -m src.download_docs # 4. Download documents
-python -m src.extract_text # 5. Extract text from PDFs
-python -m src.enrich       # 6. AI enrichment
+python -m src.extract_text  # 5. Extract text from PDFs
+python -m src.enrich        # 6. AI enrichment
 ```
 
 ---
@@ -27,151 +48,114 @@ python -m src.enrich       # 6. AI enrichment
 
 ### Phase 1: Extraction
 
-**Problem:** The FCC ECFS API doesn't have a clean "IPES applications" filter. Different applications use different description formats.
+**Problem:** No single FCC API query catches all IPES applications — different filings use different description formats.
 
-**Solution:** Two-query union strategy:
-1. `"Numbering Authorization Application"` → 959 filings (standard format)
-2. `52.15(g)` → 2,347 filings (catches edge cases)
+**Solution:** Union of two queries, deduplicated by `id_submission`:
+- `"Numbering Authorization Application"` → 959 filings (standard format)
+- `52.15(g)` → 2,347 filings (catches edge cases like HDC, Stratus)
 
-Deduplicated by `id_submission` → **2,364 unique filings**
-
-**Why two queries?** Testing showed no single query catches everything:
-- Query 1 catches standard applications + INBOX-52.15 staging filings
-- Query 2 catches rare formats (HDC Alpha/Beta/etc., Stratus Networks)
+**Result:** 2,364 unique filings
 
 ### Phase 2: Filtering
 
-**Problem:** The 2,364 filings include noise (COVID Telehealth, copper retirement notices, Section 214 transfers).
+**Problem:** Raw filings include noise (COVID Telehealth, copper retirement, Section 214 transfers).
 
-**Solution:** Keep filings matching ANY of:
-- Proceedings description contains `"interconnected voip numbering"` OR `"voip numbering authorization application"` OR `"authorization to obtain numbering resources"`
-- Document filename contains `"voip numbering"`
+**Solution:** Keep filings where description OR document filename contains IPES-related keywords (`"interconnected voip numbering"`, `"voip numbering authorization"`, etc.)
 
-**Result:** 896 IPES-related filings (240 APPLICATIONs + supplements/notices)
+**Result:** 896 IPES filings (240 APPLICATIONs + supplements)
 
 ### Phase 3: Structuring
 
-**Problem:** Same company files multiple times (initial app, supplements, amendments). Data is filing-centric but the question is company-centric.
+**Problem:** Same company files multiple times (initial app, supplements, amendments).
 
-**Solution:**
-1. Extract company name from proceedings description using regex (`Filed By (.+?) Pursuant`)
-2. Normalize names (lowercase, strip suffixes like LLC/Inc/Corp)
-3. Group filings by normalized name
-4. Keep original variations as `name_variations[]`
+**Solution:** Extract company name via regex (`Filed By (.+?) Pursuant`), normalize (lowercase, strip LLC/Inc), group by normalized name.
 
-**Result:** 200 unique IPES companies
-
-**Edge case:** 34 records had person names (attorneys/officers) instead of company names. The actual company name often appears in `proceeding_types`. Fixed via post-processing regex extraction.
+**Result:** 200 unique companies
 
 ### Phase 4: Document Downloads
 
-**Problem:** FCC document server is finicky. Standard HTTP/2 requests fail.
+**Problem:** FCC document server rejects standard HTTP requests.
 
-**Solution:** Specific request settings discovered through testing:
-- Force HTTP/1.1
-- TLS 1.2
-- User-Agent: `PostmanRuntime/7.47.1`
-- Cookie: `lmao=1`
+**Solution:** Force HTTP/1.1, TLS 1.2, specific User-Agent (`PostmanRuntime/7.47.1`).
 
-**Result:** 512 documents downloaded (492 PDF, 18 DOCX, 2 DOC), 620 MB total
+**Result:** 512 documents (492 PDF, 18 DOCX, 2 DOC), 620 MB
 
 ### Phase 5: AI Enrichment
 
-**Strategy:** Maximize free data before expensive API calls.
+**Strategy:** Maximize free data extraction before expensive API calls.
 
 | Step | Action | API Calls | Coverage |
 |------|--------|-----------|----------|
 | 1 | Parse FCC docs (regex) | 0 | 188 companies with address/phone/personnel |
 | 2 | Compute filing signals | 0 | 200 companies |
-| 3 | Web search (DuckDuckGo) | 200 | Background info for all |
+| 3 | Web search (DuckDuckGo) | 200 | Background info |
 | 4 | LLM synthesis (Claude) | 200 | Final enrichment |
 
-**Why this order?** FCC applications contain structured sections (address, key personnel, founding dates). Parsing these first provides better LLM context than web search alone. Web search works well for famous companies (8x8, Vonage) but returns nothing for obscure ones.
+### Post-Enrichment Cleanup
 
-### Post-Enrichment Improvements
-
-Three additional data quality passes (no LLM calls):
-
-1. **Fix person names** → 15 company names extracted from `proceeding_types` where filer was an attorney
-2. **Clean key personnel** → Filtered noise entries (734 → 109 valid names)
-3. **Infer market position** → Rules-based inference reduced "Unknown" from 50% → 29%
+Three additional passes (no LLM calls):
+1. **Fix person names** — Extract real company names from `proceeding_types` for 15 attorney-filed records
+2. **Clean key personnel** — Filter noise entries (734 → 109 valid names)
+3. **Infer market position** — Rules-based inference reduced "Unknown" from 50% → 29%
 
 ---
 
-## Schema Design
+## Schema
 
-### Company Record (Primary Output)
+### Core Fields
+| Field | Description |
+|-------|-------------|
+| `company_name` | Primary identifier |
+| `docket_numbers[]` | FCC proceeding references |
+| `first_filing_date` | Market entry timing |
+| `documents[]` | Downloaded application files |
 
-| Field | Type | Why |
-|-------|------|-----|
-| `company_name` | string | Primary identifier |
-| `company_name_normalized` | string | For deduplication |
-| `docket_numbers` | string[] | Links to FCC proceedings |
-| `first_filing_date` | date | Market entry timing |
-| `documents[]` | object[] | Download URLs for PDFs |
-| `filings[]` | object[] | All related submissions |
+### Enrichment Fields (Assignment Required)
+| Field | Description |
+|-------|-------------|
+| `is_active` | Boolean — still operating? |
+| `activity_signal` | Evidence supporting determination |
+| `industry_segment` | UCaaS / CCaaS / CPaaS / Carrier / etc. |
+| `product_summary` | 1-2 sentence description |
+| `market_position` | Enterprise / Mid-Market / SMB / Startup / Unknown |
 
-### Enrichment Fields (Required by Assignment)
-
-| Field | Type | Notes |
-|-------|------|-------|
-| `is_active` | bool | LLM-determined from evidence |
-| `activity_signal` | string | Must cite sources |
-| `industry_segment` | string | UCaaS/CCaaS/CPaaS/Carrier/etc. |
-| `product_summary` | string | 1-2 sentences |
-| `market_position` | string | Enterprise/Mid-Market/SMB/Startup/Unknown |
-
-### Data Quality Fields
-
-| Field | Type | Why |
-|-------|------|-----|
-| `enrichment_confidence` | High/Med/Low | Transparency on evidence quality |
-| `market_position_source` | llm/rules/undetermined | Provenance tracking |
-| `filing_signals` | object | Activity indicators (filing count, recency) |
-| `parsed_*` | various | Contact data extracted from FCC docs |
-
-**Schema philosophy:** Every field serves a purpose. `enrichment_confidence` distinguishes well-known companies (8x8, Bandwidth) from obscure ones. `market_position_source` documents whether the value came from LLM analysis, rules inference, or couldn't be determined.
+### Quality Tracking
+| Field | Description |
+|-------|-------------|
+| `enrichment_confidence` | High / Medium / Low |
+| `market_position_source` | `llm` / `rules` / `undetermined` |
+| `parsed_*` | Contact data extracted from FCC docs |
 
 ---
 
 ## Assumptions
 
-1. **Coverage window:** ~2016/17 to present. Section 52.15(g) was introduced then; earlier filings use different formats.
-2. **Company = applicant:** If multiple entities file under one docket, they're treated as one company.
-3. **Active = operating:** Companies with recent filings or web presence are "active"; those with only old filings and no web trace are "inactive."
-4. **Person filers:** When an individual files an application, the actual company usually appears in `proceeding_types`. If not, marked as `filer_type: "individual"`.
+1. **Coverage:** ~2016/17 to present (Section 52.15(g) was introduced then)
+2. **Company = applicant:** Multiple entities under one docket treated as one company
+3. **Active = operating:** Recent filings or web presence → active; only old filings + no web trace → inactive
+4. **Person filers:** When an individual files, the company usually appears in `proceeding_types`
 
 ---
 
 ## Verification
 
-### Extraction Accuracy
+### Extraction
+- Two-query union tested individually — each missed filings the other caught
+- Manually reviewed ~50 rejected filings — confirmed noise
+- 240 APPLICATIONs matches expected range from FCC docket counts
 
-- **Two-query union:** Tested individually, found gaps in each, combined catches all
-- **Filter precision:** Manually reviewed ~50 rejected filings — confirmed noise (COVID programs, Section 214 transfers)
-- **240 APPLICATION filings** matches expected range from FCC docket counts
+### Enrichment Spot Checks
+| Company | is_active | industry_segment | market_position | Correct? |
+|---------|-----------|------------------|-----------------|----------|
+| 8x8, Inc. | true | UCaaS | SMB | Yes |
+| Bandwidth, Inc. | true | CPaaS | Enterprise | Yes |
+| Twilio International | true | CPaaS | Enterprise | Yes |
+| Vonage Holdings | false | UCaaS | Enterprise | Yes (acquired 2022) |
 
-### Enrichment Accuracy
-
-**Spot checks on known companies:**
-
-| Company | is_active | industry_segment | market_position | Verified? |
-|---------|-----------|------------------|-----------------|-----------|
-| 8x8, Inc. | true | UCaaS | SMB | Correct |
-| Bandwidth, Inc. | true | CPaaS | Enterprise | Correct |
-| Twilio International | true | CPaaS | Enterprise | Correct |
-| Vonage Holdings | false | UCaaS | Enterprise | Correct (acquired by Ericsson 2022) |
-
-**Confidence distribution:**
+### Confidence Distribution
 - High: 54 companies (multiple confirming signals)
-- Medium: 87 companies (some signals, incomplete)
+- Medium: 87 companies (some signals)
 - Low: 59 companies (FCC data only)
-
-### Document Parsing
-
-- 507/512 documents matched (99%)
-- 5 unmatched due to filename encoding edge cases
-- All 200 companies have at least one document from related filings
 
 ---
 
@@ -184,10 +168,9 @@ data/
 │   └── extraction_meta.json       # Query stats
 ├── processed/
 │   ├── filings_filtered.jsonl     # 896 IPES filings
-│   ├── companies.json             # 200 deduped companies (pre-enrichment)
+│   ├── companies.json             # 200 companies (pre-enrichment)
 │   ├── companies_enriched.json    # Final enriched output
-│   ├── companies_enriched.csv     # Flat CSV export
-│   └── enrichment_logs/           # 400 prompt/response pairs
+│   └── companies_enriched.csv     # Flat CSV export
 
 documents/
 ├── original/                      # 512 downloaded files (620 MB)
@@ -198,28 +181,28 @@ documents/
 
 ## Development Process
 
-1. **Planning:** Iterated on PRD with ChatGPT to identify edge cases and API quirks
-2. **Execution:** Used Cursor plan mode to implement phase-by-phase
-3. **Testing:** Small samples first (10 companies), validated outputs, then scaled
-4. **Refinement:** Created post-processing scripts after reviewing initial enrichment quality
+1. **Planning** — Iterated on PRD with Claude Code to identify edge cases and API quirks
+2. **Execution** — Used Claude Code plan mode to implement phase-by-phase
+3. **Testing** — Small samples first (10 companies), validated outputs, then scaled
+4. **Refinement** — Post-processing scripts to fix data quality issues discovered during review
 
-Each phase produces a shippable artifact. If time ran out, earlier phases would still be complete.
+Each phase produces a standalone artifact — if time ran out, earlier phases would still be complete.
 
 ---
 
 ## Limitations
 
 - No coverage before ~2016 (different filing format)
-- Contact data coverage: 68% have addresses, 60% have phones, 42% have emails
-- Market position undetermined for 29% of companies (obscure entities with minimal web presence)
-- Some companies may have rebranded/merged since their FCC filing
+- Contact data: 68% addresses, 60% phones, 42% emails
+- Market position undetermined for 29% of companies (obscure entities)
+- Some companies may have rebranded/merged since filing
 
 ---
 
-## Tools Used
+## Tools
 
-- **API:** FCC ECFS Public API (`publicapi.fcc.gov/ecfs/filings`)
-- **Web Search:** DuckDuckGo via `ddgs` package (no API key needed)
-- **LLM:** Claude Sonnet via Anthropic API
-- **PDF Text:** PyMuPDF (`fitz`)
-- **HTTP:** `httpx` with HTTP/1.1 forced
+- **API:** FCC ECFS Public API
+- **Web Search:** DuckDuckGo (`ddgs` package)
+- **LLM:** Claude Sonnet (Anthropic API)
+- **PDF:** PyMuPDF (`fitz`)
+- **HTTP:** `httpx` with HTTP/1.1
