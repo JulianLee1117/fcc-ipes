@@ -447,3 +447,57 @@ Replaced with consistent `market_position_source` enum on all records:
 ### Result
 
 Every record now has `market_position_source`. Schema is self-documenting without needing to read code.
+
+---
+
+## 2026-01-31 21:15 — Final Gap Fill
+
+### Problem
+
+After initial enrichment + post-processing, still had gaps:
+- 4 Unknown `industry_segment`
+- 59 Unknown `market_position`
+- 38 missing `city/state`
+
+### Approach (3 passes)
+
+**Pass 1: Keyword search** (`fill_enrichment_gaps.py`)
+- DuckDuckGo search for each company
+- Classify industry by keyword matching (UCaaS/CCaaS/CPaaS/Carrier signals)
+- Classify market by employee count patterns and revenue signals
+- Result: 21 market positions, 8 locations filled
+
+**Pass 2: Targeted sources + rules** (`fill_gaps_v2.py`)
+- LinkedIn/Crunchbase/ZoomInfo searches for company size signals
+- Filing-based heuristics:
+  - Single filing + inactive carrier → SMB
+  - 5+ filings + recent activity → Mid-Market
+  - Industry-based defaults (UCaaS/CCaaS/CPaaS → SMB)
+- Result: 28 market positions (26 rule-based), 2 industries
+
+**Pass 3: Manual research** (10 remaining)
+- Searched each company individually
+- Key findings:
+  - IDT Domestic Telecom → Enterprise (NASDAQ-listed parent)
+  - CallWorks Corporation → Enterprise (911/PSAP solutions)
+  - Alaska Communications → Mid-Market (major Alaskan ISP)
+  - Volt Labs Inc. → UCaaS (VoIP startup)
+- Result: 12 fields filled, 0 Unknown remaining
+
+### Final Coverage
+
+| Field | Before | After |
+|-------|--------|-------|
+| `industry_segment` | 98% | **100%** |
+| `market_position` | 70.5% | **100%** |
+| `parsed_city` | 67% | **90%** |
+| `parsed_state` | 66% | **90%** |
+
+### Market Position Distribution (Final)
+
+| Position | Count |
+|----------|-------|
+| SMB | 115 |
+| Enterprise | 61 |
+| Mid-Market | 19 |
+| Startup | 5 |

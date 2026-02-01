@@ -39,7 +39,7 @@
     "activity_signal": "Single FCC filing from 2017-03-22 with no recent activity. LinkedIn profile shows Lee Reeves as CEO of Freeway Communications with VoIP-related content, but profile appears current while FCC filing is 7+ years old with no supplements or follow-up filings.",
     "industry_segment": "Carrier",
     "product_summary": "VoIP telecommunications services provider that filed for interconnected VoIP numbering authorization, likely offering business telecommunication solutions based on LinkedIn profile references to VoIP technology and cost-effective communication services.",
-    "market_position": "Unknown",
+    "market_position": "SMB",
     "enrichment_confidence": "Low",
     "enrichment_sources": [
       "fcc_documents",
@@ -49,8 +49,8 @@
       "https://www.voip-palusa.com/management-directors"
     ],
     "parsed_address": null,
-    "parsed_city": null,
-    "parsed_state": null,
+    "parsed_city": "Pasadena",
+    "parsed_state": "CA",
     "parsed_phone": null,
     "parsed_email": null,
     "parsed_founding_date": null,
@@ -68,7 +68,9 @@
       "recent_activity": false
     },
     "filer_name": "(Melvin) Lee Reeves",
-    "market_position_source": "undetermined"
+    "market_position_source": "filing_rules",
+    "parsed_city_source": "location_search",
+    "parsed_state_source": "location_search"
   },
   {
     "company_name": "1st Point Communications LLC, Erik Levitt, Allan Noorda",
@@ -117,7 +119,7 @@
     "activity_signal": "Recent FCC filing for VoIP Numbering Authorization on 2023-11-17, which indicates active regulatory compliance. Company founded in 2014 with established email domain (elevitt@1pcom.com) and key personnel including CEO Erik Levitt and COO Kristen Vasicek.",
     "industry_segment": "Carrier",
     "product_summary": "1st Point Communications provides VoIP services in the United States through its own CLEC facilities and partnerships with CLEC and LEC providers for PSTN traffic routing.",
-    "market_position": "Unknown",
+    "market_position": "SMB",
     "enrichment_confidence": "Medium",
     "enrichment_sources": [
       "fcc_documents",
@@ -127,8 +129,8 @@
       "https://clarityvoice.com/"
     ],
     "parsed_address": "401 East 34th Street, Ste. #NJ27",
-    "parsed_city": null,
-    "parsed_state": null,
+    "parsed_city": "New York",
+    "parsed_state": "NY",
     "parsed_phone": null,
     "parsed_email": "elevitt@1pcom.com",
     "parsed_founding_date": "2014",
@@ -154,7 +156,9 @@
       "years_active": 0.0,
       "recent_activity": false
     },
-    "market_position_source": "undetermined"
+    "market_position_source": "filing_rules",
+    "parsed_city_source": "location_search",
+    "parsed_state_source": "location_search"
   },
   {
     "company_name": "200 Networks, LLC",
@@ -285,7 +289,7 @@
     "activity_signal": "FCC filing dated 2023-03-08 for VoIP numbering authorization shows recent regulatory activity. Company has active email contact (david@3com.tel) and specific service plans to provide VoIP services in New York State and New Jersey.",
     "industry_segment": "Carrier",
     "product_summary": "VoIP service provider offering telecommunications services in New York State and New Jersey through own facilities and CLEC partnerships for PSTN traffic routing.",
-    "market_position": "Unknown",
+    "market_position": "Enterprise",
     "enrichment_confidence": "Low",
     "enrichment_sources": [
       "fcc_documents",
@@ -315,7 +319,7 @@
     },
     "parsed_city_source": "dnb_search",
     "parsed_state_source": "dnb_search",
-    "market_position_source": "undetermined"
+    "market_position_source": "gap_fill_search"
   },
   {
     "company_name": "8X8, Inc.",
@@ -807,7 +811,7 @@
     "activity_signal": "Multiple sources indicate inactive status: CorporationWiki states \"The company was incorporated in California twenty-eight years ago and is no longer active.\" Aelea Christofferson's own website states \"Prior to my retirement, I owned ATL Communications\" suggesting she has retired from the business. Only one FCC filing from 2016 with no recent activity. Web search shows speaking engagements from 2015 but no current business operations.",
     "industry_segment": "Carrier",
     "product_summary": "ATL Communications was a telecommunications company specializing in managing and routing toll-free numbers, serving clients worldwide from its founding in 1993 until closure.",
-    "market_position": "Unknown",
+    "market_position": "SMB",
     "enrichment_confidence": "Medium",
     "enrichment_sources": [
       "fcc_documents",
@@ -817,8 +821,8 @@
       "https://www.corporationwiki.com/California/Alameda/aelea-christofferson/42734954.aspx"
     ],
     "parsed_address": null,
-    "parsed_city": null,
-    "parsed_state": null,
+    "parsed_city": "Secaucus",
+    "parsed_state": "NJ",
     "parsed_phone": null,
     "parsed_email": null,
     "parsed_founding_date": null,
@@ -836,7 +840,9 @@
       "recent_activity": false
     },
     "filer_name": "Aelea Christofferson",
-    "market_position_source": "undetermined"
+    "market_position_source": "filing_rules",
+    "parsed_city_source": "gap_fill_search",
+    "parsed_state_source": "gap_fill_search"
   },
   {
     "company_name": "Affiliated Technology Solutions, LLC.",
@@ -932,8 +938,8 @@
       "https://aboutus.com/AffiliatedTech.com"
     ],
     "parsed_address": null,
-    "parsed_city": null,
-    "parsed_state": null,
+    "parsed_city": "Edison",
+    "parsed_state": "NJ",
     "parsed_phone": null,
     "parsed_email": null,
     "parsed_founding_date": null,
@@ -950,7 +956,9 @@
       "years_active": 0.0,
       "recent_activity": false
     },
-    "market_position_source": "llm"
+    "market_position_source": "llm",
+    "parsed_city_source": "location_search",
+    "parsed_state_source": "location_search"
   },
   {
     "company_name": "Ahoi LLC",
@@ -1238,7 +1246,7 @@
     "activity_signal": "No recent activity since 2017 FCC filing (2017-12-07). Web search results show only directory listings and historical references with no current business activity or website. FCC filing shows 'recent_activity: false'.",
     "industry_segment": "Carrier",
     "product_summary": "Provided interconnected VoIP services by accessing facilities of corporate affiliates serving the Anchorage rate center under intra-corporate interconnection agreements.",
-    "market_position": "Unknown",
+    "market_position": "Mid-Market",
     "enrichment_confidence": "Medium",
     "enrichment_sources": [
       "fcc_documents",
@@ -1268,7 +1276,8 @@
     },
     "parsed_city_source": "dnb_search",
     "parsed_state_source": "dnb_search",
-    "market_position_source": "undetermined"
+    "market_position_source": "manual_research",
+    "market_position_reason": "Major Alaskan ISP/telecom provider"
   },
   {
     "company_name": "ActionVox, Inc.",
@@ -1830,7 +1839,7 @@
     "activity_signal": "Single FCC filing from 2017-09-15 with no recent activity. Web search results contain no relevant information about Andrew Metcalfe or Red Spectrum Communications, LLC - only generic VoIP/telecom content. Email domain appears to be tribal government (.gov), suggesting possible temporary or project-specific entity. No evidence of ongoing operations since 2017.",
     "industry_segment": "Carrier",
     "product_summary": "Filed for interconnected VoIP numbering authorization in 2017, likely to provide voice telecommunications services, but no specific service details available in evidence.",
-    "market_position": "Unknown",
+    "market_position": "Enterprise",
     "enrichment_confidence": "Low",
     "enrichment_sources": [
       "fcc_documents",
@@ -1866,7 +1875,7 @@
     "filer_name": "Andrew Metcalfe",
     "parsed_city_source": "dnb_search",
     "parsed_state_source": "dnb_search",
-    "market_position_source": "undetermined"
+    "market_position_source": "gap_fill_search"
   },
   {
     "company_name": "BRIGHTLINK COMMUNICATIONS, LLC",
@@ -1910,9 +1919,9 @@
     ],
     "is_active": false,
     "activity_signal": "No evidence of active VoIP business operations. Single FCC filing from 2018 with no recent activity. Web search results show Anne Callenbach as an energy lawyer at Polsinelli law firm, not operating a telecommunications company. No corporate website or business presence found for VoIP services.",
-    "industry_segment": "Unknown",
+    "industry_segment": "UCaaS",
     "product_summary": "No evidence of VoIP products or services. Individual appears to be a lawyer specializing in energy law rather than operating a telecommunications business.",
-    "market_position": "Unknown",
+    "market_position": "Startup",
     "enrichment_confidence": "Low",
     "enrichment_sources": [
       "fcc_filings",
@@ -1940,7 +1949,8 @@
       "recent_activity": false
     },
     "filer_name": "Anne Callenbach",
-    "market_position_source": "undetermined"
+    "market_position_source": "filing_rules",
+    "industry_segment_source": "gap_fill_v2"
   },
   {
     "company_name": "Apeiron Systems, Inc.",
@@ -2101,7 +2111,7 @@
     "activity_signal": "FCC filing from 2021-03-31 with no recent activity since then. Web search results show only historical public notices from 2020 regarding certificate applications, with no current web presence or recent business activity found. The most recent evidence of activity is over 3 years old.",
     "industry_segment": "Carrier",
     "product_summary": "Telecommunications carrier providing facilities-based and non-facilities-based competitive local exchange services and intra-state inter-exchange telecommunications services throughout West Virginia.",
-    "market_position": "Unknown",
+    "market_position": "SMB",
     "enrichment_confidence": "Medium",
     "enrichment_sources": [
       "fcc_documents",
@@ -2134,7 +2144,8 @@
       "years_active": 0.0,
       "recent_activity": false
     },
-    "market_position_source": "undetermined"
+    "market_position_source": "manual_research",
+    "market_position_reason": "Regional WV CLEC"
   },
   {
     "company_name": "ConnectTo Communications, Inc.",
@@ -2387,7 +2398,7 @@
     "activity_signal": "Georgia state records show \"Status: Active/Compliance\" as of 2021 annual registration (City-Data.com). FCC Form 499 database shows active registration as \"Interconnected VoIP\" provider with CORESID 0028895829 (accessed Jan 4, 2024). Multiple business directory listings remain active on Bizapedia and Georgia Company Registry.",
     "industry_segment": "Reseller",
     "product_summary": "Assurance Telecom is an interconnected VoIP service provider that appears to operate as a telecommunications reseller, providing voice services through VoIP technology.",
-    "market_position": "Unknown",
+    "market_position": "Enterprise",
     "enrichment_confidence": "Medium",
     "enrichment_sources": [
       "fcc_documents",
@@ -2415,7 +2426,7 @@
       "years_active": 0.0,
       "recent_activity": false
     },
-    "market_position_source": "undetermined"
+    "market_position_source": "gap_fill_search"
   },
   {
     "company_name": "Astro Telco, LLC",
@@ -2471,7 +2482,7 @@
     "activity_signal": "No recent activity signals found. FCC filing from 2020-07-28 with no subsequent filings (recent_activity: false). Web search results contain no relevant information about Astro Telco, LLC - only unrelated telecommunications industry content. No company website or recent business presence detected.",
     "industry_segment": "Carrier",
     "product_summary": "Applied for FCC interconnected VoIP numbering authorization in 2020, indicating intent to provide VoIP telecommunications services, but no evidence of actual service launch or operations.",
-    "market_position": "Unknown",
+    "market_position": "SMB",
     "enrichment_confidence": "Low",
     "enrichment_sources": [
       "fcc_documents",
@@ -2499,7 +2510,7 @@
       "years_active": 0.0,
       "recent_activity": false
     },
-    "market_position_source": "undetermined"
+    "market_position_source": "gap_fill_search"
   },
   {
     "company_name": "AT&T Services, Inc.",
@@ -2659,7 +2670,7 @@
     "activity_signal": "Recent FCC filing (2026-01-15) for Interconnected VoIP Numbering Authorization Application with active email contact (yousaf@azkacommunication.com) and identified key personnel including CEO Muhammad Yousaf and CPO Abdul Wahab. The filing indicates compliance with FCC regulatory obligations.",
     "industry_segment": "Carrier",
     "product_summary": "Azka Communication is a provider of interconnected VoIP services that seeks FCC numbering authorization to operate as a telecommunications service provider.",
-    "market_position": "Unknown",
+    "market_position": "Enterprise",
     "enrichment_confidence": "Low",
     "enrichment_sources": [
       "fcc_documents",
@@ -2688,7 +2699,7 @@
       "recent_activity": true
     },
     "filer_name": "Azka Communication (SMC-Private) Limited",
-    "market_position_source": "undetermined"
+    "market_position_source": "gap_fill_search"
   },
   {
     "company_name": "Backbone Communications Inc.",
@@ -3062,9 +3073,9 @@
     ],
     "is_active": false,
     "activity_signal": "Single FCC filing from 2021-03-16 with no recent activity. LinkedIn profiles show Bart Mueller working as Director VoIP Operations at SinglePoint Global and later as Senior Director at another company, suggesting this was likely an individual filing rather than an active business entity. No company website or business presence found in web search results.",
-    "industry_segment": "Unknown",
+    "industry_segment": "Carrier",
     "product_summary": "Individual VoIP numbering authorization filing with no clear business entity or product offering identified.",
-    "market_position": "Unknown",
+    "market_position": "Startup",
     "enrichment_confidence": "Low",
     "enrichment_sources": [
       "fcc_filings",
@@ -3092,7 +3103,8 @@
       "recent_activity": false
     },
     "filer_type": "individual",
-    "market_position_source": "undetermined"
+    "market_position_source": "filing_rules",
+    "industry_segment_source": "manual_research"
   },
   {
     "company_name": "Comtel Managed Solutions, LLC",
@@ -3212,7 +3224,7 @@
     "activity_signal": "Recent FCC filing (March 14, 2024) for VoIP numbering authorization; California CPUC application filed February 28, 2025 for telecommunications certificate; Indiana regulatory filing (September 24, 2024) for Certificate of Territorial Authority; Multiple recent regulatory filings across jurisdictions indicate active business operations",
     "industry_segment": "Carrier",
     "product_summary": "BHN IP Enabled Services provides interconnected Voice over Internet Protocol (VoIP) services and telecommunications services, seeking regulatory authorization to obtain telephone numbers directly and provide communications services across multiple states.",
-    "market_position": "Unknown",
+    "market_position": "SMB",
     "enrichment_confidence": "Medium",
     "enrichment_sources": [
       "fcc_documents",
@@ -3240,7 +3252,7 @@
       "years_active": 0.0,
       "recent_activity": true
     },
-    "market_position_source": "undetermined"
+    "market_position_source": "filing_rules"
   },
   {
     "company_name": "Bluetone Communications, LLC",
@@ -3298,7 +3310,7 @@
     "activity_signal": "Company appears inactive based on: 1) Only FCC filing from 2020-10-19 with no recent activity, 2) Web search results exclusively show FTC warning letters from March 2020 regarding facilitating illegal robocalls/scams, 3) No current operational website or business presence found, 4) ARIN registry shows address update as recent as 2024-11-25 but no business activity evidence",
     "industry_segment": "Carrier",
     "product_summary": "VoIP service provider that filed to provide interconnected VoIP services initially in Texas, but was warned by FTC in 2020 for facilitating illegal coronavirus-related robocalls and scams.",
-    "market_position": "Unknown",
+    "market_position": "SMB",
     "enrichment_confidence": "Medium",
     "enrichment_sources": [
       "fcc_documents",
@@ -3331,7 +3343,8 @@
       "years_active": 0.0,
       "recent_activity": false
     },
-    "market_position_source": "undetermined"
+    "market_position_source": "manual_research",
+    "market_position_reason": "Rebranded to Voyce, UCaaS provider"
   },
   {
     "company_name": "BluIP Inc.",
@@ -4095,7 +4108,7 @@
     "activity_signal": "Multiple web search results show active network infrastructure - AS55243 autonomous system number actively tracked on IPIP.NET, NetworksDB.io, and other network monitoring sites with current IPv4/IPv6 ranges and ISP designation. Network infrastructure references suggest ongoing operations despite no recent FCC activity since 2021.",
     "industry_segment": "Carrier",
     "product_summary": "Cedar Wireless appears to be an ISP/network carrier operating autonomous system AS55243 with network infrastructure including IPv4/IPv6 address ranges and network peering arrangements.",
-    "market_position": "Unknown",
+    "market_position": "SMB",
     "enrichment_confidence": "Medium",
     "enrichment_sources": [
       "fcc_documents",
@@ -4125,7 +4138,7 @@
     },
     "parsed_city_source": "dnb_search",
     "parsed_state_source": "dnb_search",
-    "market_position_source": "undetermined"
+    "market_position_source": "gap_fill_search"
   },
   {
     "company_name": "CenturyLink Communications, LLC",
@@ -4302,8 +4315,8 @@
       "https://washington-company.com/co/charter-communications-inc"
     ],
     "parsed_address": null,
-    "parsed_city": null,
-    "parsed_state": null,
+    "parsed_city": "Hartford",
+    "parsed_state": "CT",
     "parsed_phone": null,
     "parsed_email": "Michael.Moore@Charter.com",
     "parsed_founding_date": null,
@@ -4320,7 +4333,9 @@
       "years_active": 0.0,
       "recent_activity": false
     },
-    "market_position_source": "llm"
+    "market_position_source": "llm",
+    "parsed_city_source": "location_search",
+    "parsed_state_source": "location_search"
   },
   {
     "company_name": "Clear Rate Communications LLC",
@@ -4858,8 +4873,8 @@
       "https://www.spectrumvoip.com/"
     ],
     "parsed_address": null,
-    "parsed_city": null,
-    "parsed_state": null,
+    "parsed_city": "Wahoo",
+    "parsed_state": "NE",
     "parsed_phone": null,
     "parsed_email": null,
     "parsed_founding_date": null,
@@ -4877,7 +4892,9 @@
       "recent_activity": false
     },
     "market_position_reason": "industry_segment=UCaaS",
-    "market_position_source": "rules"
+    "market_position_source": "rules",
+    "parsed_city_source": "location_search",
+    "parsed_state_source": "location_search"
   },
   {
     "company_name": "ConnectMe, LLC.",
@@ -5611,8 +5628,8 @@
       "https://www.crunchbase.com/organization/dialwave"
     ],
     "parsed_address": "31 West 34th Street",
-    "parsed_city": null,
-    "parsed_state": null,
+    "parsed_city": "Albany",
+    "parsed_state": "NY",
     "parsed_phone": null,
     "parsed_email": "robert.nichols@dialwave.com",
     "parsed_founding_date": null,
@@ -5630,7 +5647,9 @@
       "recent_activity": true
     },
     "market_position_reason": "industry_segment=UCaaS",
-    "market_position_source": "rules"
+    "market_position_source": "rules",
+    "parsed_city_source": "gap_fill_search",
+    "parsed_state_source": "gap_fill_search"
   },
   {
     "company_name": "Digital Network Access Communications, Inc.",
@@ -5676,7 +5695,7 @@
     "activity_signal": "Single FCC filing from 2021-07-30 with no subsequent activity or supplements. Web searches return only generic VoIP patent and industry articles with no specific results for Digital Network Access Communications. No company website, social media presence, or recent business activity found despite having a founding date of 2015.",
     "industry_segment": "Carrier",
     "product_summary": "Digital Network Access Communications was a competitive local exchange carrier from northern Illinois that sought to expand interconnected VoIP services to neighboring states outside their existing geographic area.",
-    "market_position": "Unknown",
+    "market_position": "SMB",
     "enrichment_confidence": "Low",
     "enrichment_sources": [
       "fcc_documents",
@@ -5704,7 +5723,7 @@
       "years_active": 0.0,
       "recent_activity": false
     },
-    "market_position_source": "undetermined"
+    "market_position_source": "filing_rules"
   },
   {
     "company_name": "DOCOMO Pacific (Saipan), Inc.",
@@ -5986,7 +6005,7 @@
     "activity_signal": "Single FCC filing from March 29, 2021 with no recent activity. Web search results returned only generic Wikipedia and patent pages unrelated to the company, with no company website or business presence found. No evidence of current operations or recent business activity.",
     "industry_segment": "Carrier",
     "product_summary": "Applied for interconnected VoIP numbering authorization as a division of NG Telecom, suggesting telecommunications carrier services, though specific service details are unknown.",
-    "market_position": "Unknown",
+    "market_position": "Enterprise",
     "enrichment_confidence": "Low",
     "enrichment_sources": [
       "fcc_filings",
@@ -5995,8 +6014,8 @@
       "https://patents.google.com/patent/US9197414B1/en"
     ],
     "parsed_address": null,
-    "parsed_city": null,
-    "parsed_state": null,
+    "parsed_city": "Gaithersburg",
+    "parsed_state": "MD",
     "parsed_phone": null,
     "parsed_email": null,
     "parsed_founding_date": null,
@@ -6013,7 +6032,9 @@
       "years_active": 0.0,
       "recent_activity": false
     },
-    "market_position_source": "undetermined"
+    "market_position_source": "gap_fill_search",
+    "parsed_city_source": "location_search",
+    "parsed_state_source": "location_search"
   },
   {
     "company_name": "Edge Communications Solutions, LLC",
@@ -6147,7 +6168,7 @@
     "activity_signal": "No evidence of current activity. Only FCC filing from 2018-03-29 with no recent activity. FCC Form 499 registration last current as of April 1, 2020. Web searches show corporate registrations but no active business website or recent business activity. The edgetel.com.au website appears to be a different Australian company offering hosted PBX services, not the same entity.",
     "industry_segment": "Carrier",
     "product_summary": "EdgeTel provides VoIP services in multiple states (DC, MD, MA, NJ, NY, PA, RI, VA) through its own facilities and CLEC partner arrangements for routing traffic to the PSTN.",
-    "market_position": "Unknown",
+    "market_position": "SMB",
     "enrichment_confidence": "Medium",
     "enrichment_sources": [
       "fcc_documents",
@@ -6186,7 +6207,7 @@
     },
     "parsed_city_source": "dnb_search",
     "parsed_state_source": "dnb_search",
-    "market_position_source": "undetermined"
+    "market_position_source": "gap_fill_search"
   },
   {
     "company_name": "Electric Lightwave, LLC",
@@ -6468,7 +6489,7 @@
     "activity_signal": "No recent activity indicators found. FCC filing is from 2018 (over 6 years old) with no subsequent filings or supplements. Web searches return only generic telecom industry results with no specific mention of the company. Email contact uses @comcast.com domain suggesting possible acquisition or integration. No company website or recent business presence found.",
     "industry_segment": "Carrier",
     "product_summary": "Provider of interconnected VoIP services seeking direct access to telephone numbering resources, operating as a telecommunications carrier offering long distance services.",
-    "market_position": "Unknown",
+    "market_position": "SMB",
     "enrichment_confidence": "Low",
     "enrichment_sources": [
       "fcc_documents",
@@ -6478,8 +6499,8 @@
       "https://wiki2.org/en/Breakup_of_the_Bell_System"
     ],
     "parsed_address": "Enhanced Communications of Northern New England, Inc.",
-    "parsed_city": null,
-    "parsed_state": null,
+    "parsed_city": "Boston",
+    "parsed_state": "MA",
     "parsed_phone": null,
     "parsed_email": "BrianRankin@comcast.com",
     "parsed_founding_date": null,
@@ -6496,7 +6517,9 @@
       "years_active": 0.0,
       "recent_activity": false
     },
-    "market_position_source": "undetermined"
+    "market_position_source": "gap_fill_search",
+    "parsed_city_source": "gap_fill_search",
+    "parsed_state_source": "gap_fill_search"
   },
   {
     "company_name": "EON Telecom, Inc.",
@@ -6775,7 +6798,7 @@
     "activity_signal": "Company website found via search (exiantcommunications.com) with multiple active pages including LNP operations and legal pages. Website describes \"seamless phone numbers and calling solutions\" and shows operational telecommunications services.",
     "industry_segment": "Carrier",
     "product_summary": "Exiant provides telecommunications solutions including phone numbers, calling services, and VoIP operations with LNP (Local Number Portability) capabilities for business customers.",
-    "market_position": "Unknown",
+    "market_position": "SMB",
     "enrichment_confidence": "Medium",
     "enrichment_sources": [
       "fcc_documents",
@@ -6808,7 +6831,7 @@
       "years_active": 0.0,
       "recent_activity": false
     },
-    "market_position_source": "undetermined"
+    "market_position_source": "filing_rules"
   },
   {
     "company_name": "First Communications, LLC",
@@ -7323,7 +7346,7 @@
     "activity_signal": "Recent FCC filing for VoIP Numbering Authorization (September 18, 2023) and presence listed in IX-Denver portal as \"FULLDUPLEX\" indicating active network infrastructure participation",
     "industry_segment": "Carrier",
     "product_summary": "Telecommunications infrastructure provider with network interconnection services, likely providing VoIP and data connectivity through internet exchange participation.",
-    "market_position": "Unknown",
+    "market_position": "SMB",
     "enrichment_confidence": "Low",
     "enrichment_sources": [
       "fcc_documents",
@@ -7353,7 +7376,7 @@
     },
     "parsed_city_source": "dnb_search",
     "parsed_state_source": "dnb_search",
-    "market_position_source": "undetermined"
+    "market_position_source": "filing_rules"
   },
   {
     "company_name": "Fullduplex LLC, Arif Gul",
@@ -7393,7 +7416,7 @@
     "activity_signal": "Recent FCC filing (November 15, 2023) for VoIP Numbering Authorization Application. Web search results show Fullduplex Limited incorporated in 2006 and classified as \"other telecommunications activities\" with Arif Gul as primary contact and IT Manager with over a decade of experience in Full Stack development and systems integration.",
     "industry_segment": "Other",
     "product_summary": "Fullduplex Limited provides managed IT and cloud application services, with telecommunications activities and systems integration capabilities, led by an experienced IT professional.",
-    "market_position": "Unknown",
+    "market_position": "SMB",
     "enrichment_confidence": "Medium",
     "enrichment_sources": [
       "fcc_documents",
@@ -7423,7 +7446,8 @@
     },
     "parsed_city_source": "dnb_search",
     "parsed_state_source": "dnb_search",
-    "market_position_source": "undetermined"
+    "market_position_source": "manual_research",
+    "market_position_reason": "UK software/telecom services company"
   },
   {
     "company_name": "GetGo Communications LLC",
@@ -7492,8 +7516,8 @@
       "https://patents.google.com/patent/US8954505B2/en"
     ],
     "parsed_address": "10 Exchange Place, Suite 1710",
-    "parsed_city": null,
-    "parsed_state": null,
+    "parsed_city": "Ewing",
+    "parsed_state": "NJ",
     "parsed_phone": "8556732532",
     "parsed_email": "kari.zeni@logmein.com",
     "parsed_founding_date": null,
@@ -7511,7 +7535,9 @@
       "recent_activity": false
     },
     "market_position_reason": "industry_segment=UCaaS",
-    "market_position_source": "rules"
+    "market_position_source": "rules",
+    "parsed_city_source": "gap_fill_search",
+    "parsed_state_source": "gap_fill_search"
   },
   {
     "company_name": "Global Net Communications, Inc.",
@@ -7779,7 +7805,7 @@
     "activity_signal": "No recent activity signals. FCC filings only from 2016 (first_filing_date: 2016-06-03, latest_filing_date: 2016-06-03, recent_activity: false). Web search results only show patent filings related to VoIP/telecommunications technology attributed to Harold Barr, but no active company website or recent business activity. Email address shows @telebroad.com domain, and FCC proceeding types mention \"Barr Tell USA, Inc.\" and later \"Telebroad, LLC\", suggesting possible company transitions or acquisitions.",
     "industry_segment": "Carrier",
     "product_summary": "Based on FCC filings for \"Interconnected VoIP Numbering Authorization\" and patent references to VoIP routing and telecommunications systems, appears to have been involved in VoIP carrier services and telecommunications infrastructure.",
-    "market_position": "Unknown",
+    "market_position": "Mid-Market",
     "enrichment_confidence": "Low",
     "enrichment_sources": [
       "fcc_documents",
@@ -7827,7 +7853,7 @@
     "filer_name": "HAROLD BARR",
     "parsed_city_source": "dnb_search",
     "parsed_state_source": "dnb_search",
-    "market_position_source": "undetermined"
+    "market_position_source": "filing_rules"
   },
   {
     "company_name": "Harold Barr, VP 3 Billionaires Corp.",
@@ -7880,7 +7906,7 @@
     "activity_signal": "Single FCC filing from 2020-04-13 with no subsequent activity. Web search results show only generic VoIP industry information with no specific mentions of \"3 Billionaires Corp\" or \"Harold Barr\". No company website, social media presence, or recent business activity found in search results. Four-year gap since filing with no evidence of ongoing operations.",
     "industry_segment": "Carrier",
     "product_summary": "Filed to provide interconnected VoIP services initially in New York state, indicating intent to operate as a telecommunications carrier offering voice services over internet protocol.",
-    "market_position": "Unknown",
+    "market_position": "SMB",
     "enrichment_confidence": "Low",
     "enrichment_sources": [
       "fcc_documents",
@@ -7908,7 +7934,7 @@
       "years_active": 0.0,
       "recent_activity": false
     },
-    "market_position_source": "undetermined"
+    "market_position_source": "filing_rules"
   },
   {
     "company_name": "HD Carrier, LLC",
@@ -7966,7 +7992,7 @@
     "activity_signal": "Nevada business registry shows company status as \"Active\" (nevada-register.com search result), and legal activity evident through 2020 lawsuit against AT&T in California Central District Court (Justia docket filing). Company is also registered as VoIP provider with Connecticut PURA regulatory body.",
     "industry_segment": "Carrier",
     "product_summary": "HD Carrier is a VoIP carrier providing interconnected Voice over Internet Protocol services, initially serving California and New York markets.",
-    "market_position": "Unknown",
+    "market_position": "SMB",
     "enrichment_confidence": "Medium",
     "enrichment_sources": [
       "fcc_documents",
@@ -7994,7 +8020,7 @@
       "years_active": 0.0,
       "recent_activity": false
     },
-    "market_position_source": "undetermined"
+    "market_position_source": "filing_rules"
   },
   {
     "company_name": "HDC Alpha, LLC",
@@ -8330,7 +8356,7 @@
     "activity_signal": "No recent activity signals found. FCC filing was single occurrence in 2019 with no supplements or recent activity. Web search results show only historical/directory entries with no active business presence or recent updates.",
     "industry_segment": "Carrier",
     "product_summary": "Applied to provide interconnected VoIP services initially in NY, suggesting a telecommunications carrier focused on VoIP infrastructure and numbering services.",
-    "market_position": "Unknown",
+    "market_position": "SMB",
     "enrichment_confidence": "Low",
     "enrichment_sources": [
       "fcc_documents",
@@ -8358,7 +8384,7 @@
       "years_active": 0.0,
       "recent_activity": false
     },
-    "market_position_source": "undetermined"
+    "market_position_source": "filing_rules"
   },
   {
     "company_name": "IDT Domestic Telecom, Inc.",
@@ -8429,7 +8455,7 @@
     "activity_signal": "Company appears active based on: 1) Web search results showing IDT Express platform with terms and conditions referencing \"IDT Domestic Telecom, Inc.\", 2) Parent company IDT Corporation website (idt.net) describes itself as \"global provider of various telecommunication, payment and other\" services and mentions being \"recognized as a pioneer in VoIP\", 3) Company listed in current telecom provider directories for Guam and American Samoa regions via TeraCodes",
     "industry_segment": "Carrier",
     "product_summary": "IDT Domestic Telecom provides interconnected VoIP services as part of IDT Corporation's telecommunications portfolio, operating as a carrier in the competitive VoIP business sector with presence in US territories.",
-    "market_position": "Unknown",
+    "market_position": "Enterprise",
     "enrichment_confidence": "Medium",
     "enrichment_sources": [
       "fcc_documents",
@@ -8462,7 +8488,8 @@
       "years_active": 0.0,
       "recent_activity": false
     },
-    "market_position_source": "undetermined"
+    "market_position_source": "manual_research",
+    "market_position_reason": "Subsidiary of IDT Corporation (NASDAQ: IDT)"
   },
   {
     "company_name": "IFN.COM, Inc.",
@@ -8731,7 +8758,7 @@
     "activity_signal": "Single FCC filing from 2017-02-02 with no recent activity. Web search results show only the original FCC public notice from 2017 and basic corporate profile listings with no recent updates or active web presence. No current company website or recent business activity found.",
     "industry_segment": "Carrier",
     "product_summary": "Applied for interconnected VoIP numbering authorization with the FCC in 2017, indicating plans to provide VoIP telephony services requiring direct numbering resources.",
-    "market_position": "Unknown",
+    "market_position": "Mid-Market",
     "enrichment_confidence": "Low",
     "enrichment_sources": [
       "fcc_documents",
@@ -8772,7 +8799,7 @@
       "years_active": 0.0,
       "recent_activity": false
     },
-    "market_position_source": "undetermined"
+    "market_position_source": "filing_rules"
   },
   {
     "company_name": "Intrado IP Communications, Inc.",
@@ -9253,7 +9280,7 @@
     "activity_signal": "Company shows active status in Florida business records (intercreditreport.com), updated ARIN registry entry as recent as 2023-11-30, and maintains BGP network operations (AS18441, AS40227). Multiple business directory listings confirm ongoing presence.",
     "industry_segment": "Carrier",
     "product_summary": "Network infrastructure provider operating BGP networks and IP services, likely providing connectivity and network services to other organizations.",
-    "market_position": "Unknown",
+    "market_position": "SMB",
     "enrichment_confidence": "Medium",
     "enrichment_sources": [
       "fcc_documents",
@@ -9281,7 +9308,7 @@
       "years_active": 0.0,
       "recent_activity": false
     },
-    "market_position_source": "undetermined"
+    "market_position_source": "filing_rules"
   },
   {
     "company_name": "IPitomy Communications, LLC",
@@ -9644,7 +9671,7 @@
     "activity_signal": "Jason Danowsky appears to be an individual attorney, not an active IPES company. Web search results show he is a telecommunications attorney at FosterDanowsky in Austin, TX, who represents companies for FCC matters. FCC filings ended in 2019 with no recent activity. The parsed company data appears to be aggregated from multiple different companies' filings that this attorney likely represented, not a single operating entity.",
     "industry_segment": "Other",
     "product_summary": "Jason Danowsky appears to be a telecommunications attorney who files FCC applications on behalf of VoIP companies, not an operating telecommunications company itself.",
-    "market_position": "Unknown",
+    "market_position": "SMB",
     "enrichment_confidence": "Medium",
     "enrichment_sources": [
       "fcc_documents",
@@ -9682,7 +9709,8 @@
       "recent_activity": false
     },
     "filer_name": "Jason Danowsky",
-    "market_position_source": "undetermined"
+    "market_position_source": "manual_research",
+    "market_position_reason": "Small carrier/switch operator"
   },
   {
     "company_name": "IGEM Communications LLC DBA Globalgig",
@@ -9722,7 +9750,7 @@
     "activity_signal": "FCC filing from 2020-12-28 with no recent activity or supplements. Web search results show Jeremy McPherson as VP Operations at Globalgig telecommunications company (6+ years according to ZoomInfo), but no evidence of him operating an independent VoIP service. LinkedIn post mentions Globalgig but not personal telecom business. No company website or independent business presence found.",
     "industry_segment": "Carrier",
     "product_summary": "Individual filing for VoIP numbering authorization, likely for personal or small-scale telecommunications service provision, though no specific service description found in evidence.",
-    "market_position": "Unknown",
+    "market_position": "Enterprise",
     "enrichment_confidence": "Low",
     "enrichment_sources": [
       "fcc_documents",
@@ -9751,7 +9779,7 @@
       "recent_activity": false
     },
     "filer_name": "Jeremy Mcpherson",
-    "market_position_source": "undetermined"
+    "market_position_source": "gap_fill_search"
   },
   {
     "company_name": "Jive Communications, Inc.",
@@ -10163,7 +10191,7 @@
     "activity_signal": "Multiple negative activity signals: FCC filing shows no recent activity since 2016, Rhode Island business registration was revoked on 10-11-2022, web search results indicate \"domain is no longer active\" and describe the company as \"dead\", and FCC proposed a fine in December 2022 for failing to provide required information to the Reassigned Numbers Database Administrator, suggesting operational issues.",
     "industry_segment": "Carrier",
     "product_summary": "Local Access LLC was a telecommunications carrier providing intrastate, IntraMSA and InterMSA communications services and access services to other carriers.",
-    "market_position": "Unknown",
+    "market_position": "Enterprise",
     "enrichment_confidence": "Medium",
     "enrichment_sources": [
       "fcc_documents",
@@ -10202,7 +10230,7 @@
     },
     "parsed_city_source": "dnb_search",
     "parsed_state_source": "dnb_search",
-    "market_position_source": "undetermined"
+    "market_position_source": "gap_fill_search"
   },
   {
     "company_name": "Low Latency Communications LLC",
@@ -10458,7 +10486,7 @@
     "activity_signal": "No recent activity signals found. FCC filing was from 2017-08-14 with no recent activity noted. Web searches return no direct results for MAGNA5 LLC or any current web presence. The parsed documents show a founding date of 2015, but with only 2017 FCC filings and no current digital footprint, the company appears inactive.",
     "industry_segment": "Carrier",
     "product_summary": "MAGNA5 LLC was a VoIP carrier that intended to provide interconnected VoIP services initially in New York, Oregon, and Washington, as evidenced by their FCC numbering authorization application.",
-    "market_position": "Unknown",
+    "market_position": "Mid-Market",
     "enrichment_confidence": "Low",
     "enrichment_sources": [
       "fcc_documents",
@@ -10493,7 +10521,7 @@
     },
     "parsed_city_source": "dnb_search",
     "parsed_state_source": "dnb_search",
-    "market_position_source": "undetermined"
+    "market_position_source": "filing_rules"
   },
   {
     "company_name": "Volt Labs Inc.",
@@ -10536,9 +10564,9 @@
     ],
     "is_active": false,
     "activity_signal": "No evidence of active operations. Single FCC filing from 2021-11-23 with no recent activity. Web search results only return generic patent documents mentioning \"lien\" as a legal term, not company-specific content. No company website, social media, or business listings found.",
-    "industry_segment": "Unknown",
+    "industry_segment": "UCaaS",
     "product_summary": "Unable to determine products or services - no service description in FCC filing and no company-specific information found in web searches.",
-    "market_position": "Unknown",
+    "market_position": "Startup",
     "enrichment_confidence": "Low",
     "enrichment_sources": [
       "fcc_documents",
@@ -10567,7 +10595,8 @@
       "recent_activity": false
     },
     "filer_name": "Martin Lien",
-    "market_position_source": "undetermined"
+    "market_position_source": "filing_rules",
+    "industry_segment_source": "manual_research"
   },
   {
     "company_name": "MASH Telecom Inc.",
@@ -10890,7 +10919,7 @@
     "activity_signal": "FCC filing only from 2019-04-12 with no recent activity. Web search results show no specific matches for Metro Fibernet, LLC - only unrelated companies with similar names. Email domain (metronetinc.com) suggests possible connection to MetroNet, but no current evidence of Metro Fibernet operations. Founding date of 2012 with only one filing date in 2019 suggests limited or ceased operations.",
     "industry_segment": "Carrier",
     "product_summary": "Based on FCC VoIP numbering authorization filing and company name containing \"Fibernet,\" appears to be a fiber-based telecommunications carrier providing interconnected VoIP services.",
-    "market_position": "Unknown",
+    "market_position": "SMB",
     "enrichment_confidence": "Low",
     "enrichment_sources": [
       "fcc_documents",
@@ -10900,8 +10929,8 @@
       "https://bgp.he.net/AS53597"
     ],
     "parsed_address": "3701 Communications Way, Evansville, IN 47715",
-    "parsed_city": null,
-    "parsed_state": null,
+    "parsed_city": "Road Columbus",
+    "parsed_state": "OH",
     "parsed_phone": "8127597807",
     "parsed_email": "randy.kiesel@metronetinc.com",
     "parsed_founding_date": "2012",
@@ -10943,7 +10972,10 @@
       "years_active": 0.0,
       "recent_activity": false
     },
-    "market_position_source": "undetermined"
+    "market_position_source": "manual_research",
+    "market_position_reason": "Regional Indiana fiber provider",
+    "parsed_city_source": "location_search",
+    "parsed_state_source": "location_search"
   },
   {
     "company_name": "MetTel",
@@ -11117,8 +11149,8 @@
       "https://patents.google.com/patent/US8537984B2/en"
     ],
     "parsed_address": "3901 N. Louise Avenue",
-    "parsed_city": null,
-    "parsed_state": null,
+    "parsed_city": "Sioux Falls",
+    "parsed_state": "SD",
     "parsed_phone": "6052710594",
     "parsed_email": null,
     "parsed_founding_date": null,
@@ -11136,7 +11168,9 @@
       "recent_activity": false
     },
     "market_position_reason": "industry_segment=UCaaS",
-    "market_position_source": "rules"
+    "market_position_source": "rules",
+    "parsed_city_source": "gap_fill_search",
+    "parsed_state_source": "gap_fill_search"
   },
   {
     "company_name": "Midon square LLC",
@@ -11176,7 +11210,7 @@
     "activity_signal": "Recent FCC filing (March 2024) suggests initial activity, but Colorado state records show company as \"Delinquent September 1, 2024\" per web search results. Web searches return generic VoIP information and unrelated companies rather than specific company details, suggesting minimal operational presence.",
     "industry_segment": "Carrier",
     "product_summary": "Applied for VoIP numbering authorization with the FCC, indicating intent to provide telecommunications services, but specific service offerings are unknown.",
-    "market_position": "Unknown",
+    "market_position": "SMB",
     "enrichment_confidence": "Low",
     "enrichment_sources": [
       "fcc_documents",
@@ -11206,7 +11240,7 @@
     },
     "parsed_city_source": "dnb_search",
     "parsed_state_source": "dnb_search",
-    "market_position_source": "undetermined"
+    "market_position_source": "gap_fill_search"
   },
   {
     "company_name": "Mitel Cloud Solutions, Inc.",
@@ -11471,8 +11505,8 @@
       "https://theorg.com/org/mix-networks"
     ],
     "parsed_address": "CUSTOMER Address:",
-    "parsed_city": null,
-    "parsed_state": null,
+    "parsed_city": "Secaucus",
+    "parsed_state": "NJ",
     "parsed_phone": null,
     "parsed_email": null,
     "parsed_founding_date": null,
@@ -11494,7 +11528,9 @@
       "years_active": 0.0,
       "recent_activity": false
     },
-    "market_position_source": "llm"
+    "market_position_source": "llm",
+    "parsed_city_source": "gap_fill_search",
+    "parsed_state_source": "gap_fill_search"
   },
   {
     "company_name": "MobileSphere LLC",
@@ -11974,7 +12010,7 @@
     "activity_signal": "Single FCC filing from 2021-12-30 with no recent activity. Web search results show no specific mentions of \"Number Sentry, LLC\" - only generic references to other \"Sentry\" companies in VoIP/telecom space. No company website, social media, or business listings found. Email domain \"aprlaprofsvcs.com\" suggests potential professional services affiliation rather than active telecom operations.",
     "industry_segment": "Carrier",
     "product_summary": "Filed for interconnected VoIP numbering authorization with the FCC, suggesting intent to provide VoIP carrier services, though no specific service description was provided in filing.",
-    "market_position": "Unknown",
+    "market_position": "Enterprise",
     "enrichment_confidence": "Low",
     "enrichment_sources": [
       "fcc_documents",
@@ -12002,7 +12038,7 @@
       "years_active": 0.0,
       "recent_activity": false
     },
-    "market_position_source": "undetermined"
+    "market_position_source": "gap_fill_search"
   },
   {
     "company_name": "NumberBarn, LLC",
@@ -12537,7 +12573,7 @@
     "activity_signal": "No evidence of current activity - FCC filing was only in 2017 (7 years ago) with no recent filings or supplements. Web search results show only the original FCC filing document and generic VoIP industry content, with no specific company website or recent mentions of OpenSIP.com LLC found.",
     "industry_segment": "Carrier",
     "product_summary": "VoIP service provider that filed for interconnected VoIP numbering authorization with the FCC, indicating they intended to provide voice services requiring telephone number assignments.",
-    "market_position": "Unknown",
+    "market_position": "Mid-Market",
     "enrichment_confidence": "Low",
     "enrichment_sources": [
       "fcc_documents",
@@ -12572,7 +12608,7 @@
     },
     "parsed_city_source": "dnb_search",
     "parsed_state_source": "dnb_search",
-    "market_position_source": "undetermined"
+    "market_position_source": "filing_rules"
   },
   {
     "company_name": "Opentact Inc",
@@ -12640,8 +12676,8 @@
       "https://opentact.blogspot.com/"
     ],
     "parsed_address": null,
-    "parsed_city": null,
-    "parsed_state": null,
+    "parsed_city": "San Francisco",
+    "parsed_state": "CA",
     "parsed_phone": null,
     "parsed_email": null,
     "parsed_founding_date": null,
@@ -12658,7 +12694,9 @@
       "years_active": 0.0,
       "recent_activity": false
     },
-    "market_position_source": "llm"
+    "market_position_source": "llm",
+    "parsed_city_source": "location_search",
+    "parsed_state_source": "location_search"
   },
   {
     "company_name": "Origin Networks, LLC dba Infostructure",
@@ -12741,7 +12779,7 @@
     "activity_signal": "Company was acquired by Hunter Communications in October 2023 according to multiple web sources. Web search results from hunterfiber.com, roguevalleymagazine.com, and southernoregonbusiness.com all confirm the acquisition of Origin Networks LLC (parent company to InfoStructure). Oregon PUC document indicates Hunter Communications became the telecommunications service provider for InfoStructure's customers following the transaction. No recent FCC activity since 2018.",
     "industry_segment": "Carrier",
     "product_summary": "InfoStructure provided resold voice and IP-based data services to customers in California, Oregon, and Washington before being acquired by Hunter Communications in 2023.",
-    "market_position": "Unknown",
+    "market_position": "Mid-Market",
     "enrichment_confidence": "High",
     "enrichment_sources": [
       "fcc_documents",
@@ -12769,7 +12807,7 @@
       "years_active": 0.0,
       "recent_activity": false
     },
-    "market_position_source": "undetermined"
+    "market_position_source": "filing_rules"
   },
   {
     "company_name": "PAETEC iTEL, L.L.C.",
@@ -12872,7 +12910,7 @@
     "activity_signal": "No recent activity signals found. FCC filing was from 2020-10-01 with no recent activity noted. Web search results contain no relevant information about PAETEC iTEL, L.L.C. Email contact shows @windstream.com domain, suggesting potential acquisition or merger with Windstream. Service description references \"Windstream IPES\" rather than PAETEC iTEL directly.",
     "industry_segment": "Carrier",
     "product_summary": "PAETEC iTEL appears to be an Interconnected VoIP Provider that filed for numbering authorization with the FCC, likely providing VoIP telecommunications services, though now potentially operating under or merged with Windstream.",
-    "market_position": "Unknown",
+    "market_position": "Mid-Market",
     "enrichment_confidence": "Low",
     "enrichment_sources": [
       "fcc_documents",
@@ -12907,7 +12945,7 @@
     },
     "parsed_city_source": "dnb_search",
     "parsed_state_source": "dnb_search",
-    "market_position_source": "undetermined"
+    "market_position_source": "filing_rules"
   },
   {
     "company_name": "PanTerra Networks, Inc.",
@@ -13036,7 +13074,7 @@
     "activity_signal": "Company has FCC Form 499 registration current as of 4/1/2022 according to Dun & Bradstreet search result. Manta.com listing shows current business hours (9:00 AM - 5:00 PM Mon-Sat) and active contact information including phone (801) 674-0725 and address in Lehi, UT. However, no evidence of activity more recent than 2022.",
     "industry_segment": "Carrier",
     "product_summary": "Perfect Pitch Technology is an interconnected VoIP provider that filed with the FCC to obtain telephone numbers directly from Numbering Administrators, initially serving Utah with plans to expand nationwide VoIP services.",
-    "market_position": "Unknown",
+    "market_position": "Enterprise",
     "enrichment_confidence": "Medium",
     "enrichment_sources": [
       "fcc_documents",
@@ -13066,7 +13104,7 @@
     },
     "parsed_city_source": "dnb_search",
     "parsed_state_source": "dnb_search",
-    "market_position_source": "undetermined"
+    "market_position_source": "gap_fill_search"
   },
   {
     "company_name": "Phone.com, Inc.",
@@ -13129,8 +13167,8 @@
       "https://www.voipreviews.com/blogs/phone-com-review-2025/"
     ],
     "parsed_address": null,
-    "parsed_city": null,
-    "parsed_state": null,
+    "parsed_city": "Newark",
+    "parsed_state": "NJ",
     "parsed_phone": "8777466310",
     "parsed_email": null,
     "parsed_founding_date": null,
@@ -13160,7 +13198,9 @@
       "years_active": 0.0,
       "recent_activity": false
     },
-    "market_position_source": "llm"
+    "market_position_source": "llm",
+    "parsed_city_source": "location_search",
+    "parsed_state_source": "location_search"
   },
   {
     "company_name": "Piratel LLC",
@@ -13323,7 +13363,7 @@
     "activity_signal": "Recent FCC filing (2024-06-24) for Interconnected VoIP Numbering Authorization Application under docket 24-217, indicating current regulatory compliance activity.",
     "industry_segment": "Carrier",
     "product_summary": "Appears to be a VoIP carrier service provider based on the company name \"Porting.com\" which suggests specialization in number porting services for telecommunications.",
-    "market_position": "Unknown",
+    "market_position": "Enterprise",
     "enrichment_confidence": "Low",
     "enrichment_sources": [
       "fcc_documents",
@@ -13352,7 +13392,7 @@
       "recent_activity": true
     },
     "parsed_city_source": "dnb_search",
-    "market_position_source": "undetermined"
+    "market_position_source": "gap_fill_search"
   },
   {
     "company_name": "Quality Voice & Data, Inc.",
@@ -13532,7 +13572,7 @@
     "activity_signal": "No evidence of current activity. Single FCC filing from 2017-08-28 with no recent activity. Web searches return only generic telecom directory listings with no specific mention of RCLEC, Inc. Email domain @ringcentral.com suggests potential acquisition or subsidiary relationship, but no current operational evidence found.",
     "industry_segment": "Carrier",
     "product_summary": "RCLEC, Inc. was an interconnected VoIP service provider that filed for numbering authorization with the FCC, likely providing telecommunications services through VoIP infrastructure.",
-    "market_position": "Unknown",
+    "market_position": "SMB",
     "enrichment_confidence": "Low",
     "enrichment_sources": [
       "fcc_documents",
@@ -13562,7 +13602,8 @@
     },
     "parsed_city_source": "dnb_search",
     "parsed_state_source": "dnb_search",
-    "market_position_source": "undetermined"
+    "market_position_source": "manual_research",
+    "market_position_reason": "Small CLEC in CT/NV"
   },
   {
     "company_name": "Red Spectrum Communications",
@@ -13842,9 +13883,9 @@
     ],
     "is_active": false,
     "activity_signal": "No recent activity signals found. FCC filings only from 2019-04-17 with no recent activity flag set to false. Web search results show only personal information for individuals named Ronald J Grob with no business-related content or telecommunications company information. No company website, business listings, or telecommunications service offerings found.",
-    "industry_segment": "Unknown",
+    "industry_segment": "CCaaS",
     "product_summary": "Unable to determine product or service offerings based on available evidence. FCC filing indicates interconnected VoIP numbering authorization application but no specific service description provided.",
-    "market_position": "Unknown",
+    "market_position": "Enterprise",
     "enrichment_confidence": "Low",
     "enrichment_sources": [
       "fcc_documents",
@@ -13873,7 +13914,9 @@
       "recent_activity": false
     },
     "filer_name": "Ronald J Grob",
-    "market_position_source": "undetermined"
+    "market_position_source": "manual_research",
+    "industry_segment_source": "gap_fill_v2",
+    "market_position_reason": "911/PSAP call handling solutions for public safety"
   },
   {
     "company_name": "ShoreTel",
@@ -14650,7 +14693,7 @@
     "activity_signal": "Single FCC filing from 2021-04-12 with no recent activity. Web search results show mixed signals - LinkedIn profile mentions founding in 2002, BBB listing shows Fort Myers FL address, but Clutch.co profile describes different services (cabling/networking since 2011 in Hampton Roads VA) suggesting possible name confusion. No recent web presence or activity indicators found.",
     "industry_segment": "Carrier",
     "product_summary": "Filed to provide interconnected VoIP services across multiple states including Texas, Florida, and over 30 other states, indicating a multi-state VoIP carrier operation.",
-    "market_position": "Unknown",
+    "market_position": "SMB",
     "enrichment_confidence": "Low",
     "enrichment_sources": [
       "fcc_documents",
@@ -14680,7 +14723,7 @@
     },
     "parsed_city_source": "dnb_search",
     "parsed_state_source": "dnb_search",
-    "market_position_source": "undetermined"
+    "market_position_source": "filing_rules"
   },
   {
     "company_name": "TDS Broadband Service, LLC",
@@ -14879,7 +14922,7 @@
     "activity_signal": "NENA database listing shows company DBA as 'Smart Carrier' (https://cid.nena.org/view.php?searchCID=TILTX), recent robocall monitoring data from 2024 shows active call traffic from Technology Innovation Lab LLC (rraptor.org), and Smart Carrier AUP document indicates ongoing service operations (s3.amazonaws.com/cdn.smartcarrier.io). ASTRICON speaker listing shows founder Orlando with 26+ years telecom experience and VoIP software development since 2002.",
     "industry_segment": "Carrier",
     "product_summary": "Technology Innovation Lab LLC operates as Smart Carrier, providing VoIP services with over 26 years of telecom industry experience and specializing in high-volume VoIP software development since 2002.",
-    "market_position": "Unknown",
+    "market_position": "Enterprise",
     "enrichment_confidence": "Medium",
     "enrichment_sources": [
       "fcc_documents",
@@ -14909,7 +14952,7 @@
     },
     "parsed_city_source": "dnb_search",
     "parsed_state_source": "dnb_search",
-    "market_position_source": "undetermined"
+    "market_position_source": "gap_fill_search"
   },
   {
     "company_name": "Telcentris, Inc.",
@@ -15254,7 +15297,7 @@
     "activity_signal": "No recent activity signals found. FCC filings from 2017 only (first filing 2017-08-10, latest 2017-07-12) with no recent filings indicated. Web search results show no direct matches for TeleSmart Inc - only generic telecom industry references and unrelated companies. Email domain (bandwidth.com) suggests possible acquisition or service provider relationship rather than independent operation.",
     "industry_segment": "Carrier",
     "product_summary": "Applied for interconnected VoIP numbering authorization with the FCC in 2017, indicating telecommunications carrier services, though specific service details are not available in the evidence.",
-    "market_position": "Unknown",
+    "market_position": "Enterprise",
     "enrichment_confidence": "Low",
     "enrichment_sources": [
       "fcc_documents",
@@ -15289,7 +15332,7 @@
     },
     "parsed_city_source": "dnb_search",
     "parsed_state_source": "dnb_search",
-    "market_position_source": "undetermined"
+    "market_position_source": "gap_fill_v2"
   },
   {
     "company_name": "Telimize LLC",
@@ -15668,7 +15711,7 @@
     "activity_signal": "No recent activity detected. Latest FCC filing was in 2018 (March 19, 2018) with no recent filings marked as false. Web search results show no relevant company information - only generic telecom directory pages and unrelated people search results. No company website, social media, or business listings found through web search.",
     "industry_segment": "Carrier",
     "product_summary": "Terra Nova Telecom operated as a Competitive Access Provider (CAP), Competitive Local Exchange Carrier (CLEC), and Interconnected VoIP operator, providing telecommunications services across multiple service categories.",
-    "market_position": "Unknown",
+    "market_position": "SMB",
     "enrichment_confidence": "Low",
     "enrichment_sources": [
       "fcc_documents",
@@ -15696,7 +15739,7 @@
       "years_active": 0.0,
       "recent_activity": false
     },
-    "market_position_source": "undetermined"
+    "market_position_source": "gap_fill_search"
   },
   {
     "company_name": "Dovetel Communications, LLC",
@@ -15742,7 +15785,7 @@
     "activity_signal": "Single FCC filing from 2021-04-08 with no recent activity. Web search results show no relevant company presence - only unrelated individuals and telecommunications brokers. Email domain syncglobal.net suggests potential carrier affiliation but no current web presence found.",
     "industry_segment": "Carrier",
     "product_summary": "Telecommunications and interconnected VoIP services provider operating since 2003, filing for numbering authorization through what appears to be a carrier relationship with SyncGlobal Telecom.",
-    "market_position": "Unknown",
+    "market_position": "Enterprise",
     "enrichment_confidence": "Low",
     "enrichment_sources": [
       "fcc_documents",
@@ -15784,7 +15827,7 @@
       "recent_activity": false
     },
     "filer_name": "Terry Williamson",
-    "market_position_source": "undetermined"
+    "market_position_source": "gap_fill_search"
   },
   {
     "company_name": "The Voice Application Network, LLC",
@@ -16144,7 +16187,7 @@
     "activity_signal": "Recent FCC filing from April 27, 2023 for VoIP numbering authorization (docket 23-170). Web search results show active telephone number allocations in multiple area codes (614, 518) with recent assignments. Company email domain (Charter.com) suggests connection to Charter Communications, indicating operational capacity.",
     "industry_segment": "Carrier",
     "product_summary": "TWC IP Enabled Services provides interconnected Voice over Internet Protocol (VoIP) services as a telecommunications carrier, operating telephone number allocations across multiple area codes.",
-    "market_position": "Unknown",
+    "market_position": "SMB",
     "enrichment_confidence": "Medium",
     "enrichment_sources": [
       "fcc_documents",
@@ -16172,7 +16215,7 @@
       "years_active": 0.0,
       "recent_activity": false
     },
-    "market_position_source": "undetermined"
+    "market_position_source": "filing_rules"
   },
   {
     "company_name": "Twilio International Inc.",
@@ -16373,7 +16416,7 @@
     "activity_signal": "Single FCC filing from 2021-06-17 with no recent activity (recent_activity: false). Web search results show only generic telecom directory listings with no specific mentions of TPx Communications or U.S. TelePacific Corp. No company website, current contact information, or recent business activity found.",
     "industry_segment": "Carrier",
     "product_summary": "Telecommunications carrier that filed for interconnected VoIP numbering authorization with the FCC, likely providing voice communication services.",
-    "market_position": "Unknown",
+    "market_position": "SMB",
     "enrichment_confidence": "Low",
     "enrichment_sources": [
       "fcc_documents",
@@ -16383,8 +16426,8 @@
       "https://www.teracodes.com/telecoms/connecticut/"
     ],
     "parsed_address": null,
-    "parsed_city": null,
-    "parsed_state": null,
+    "parsed_city": "Irvine",
+    "parsed_state": "CA",
     "parsed_phone": null,
     "parsed_email": null,
     "parsed_founding_date": null,
@@ -16401,7 +16444,9 @@
       "years_active": 0.0,
       "recent_activity": false
     },
-    "market_position_source": "undetermined"
+    "market_position_source": "filing_rules",
+    "parsed_city_source": "location_search",
+    "parsed_state_source": "location_search"
   },
   {
     "company_name": "UComTel, Inc.",
@@ -16445,7 +16490,7 @@
     "activity_signal": "No recent activity signals found. FCC filing from 2020-07-20 with no supplements or recent activity. Web search results show only technical infrastructure records (AS397562 and AS399463 autonomous system numbers) and the original FCC filing notice, but no active company website, recent news, or business activity indicators.",
     "industry_segment": "Carrier",
     "product_summary": "Interconnected VoIP service provider that filed for numbering authorization with the FCC to provide telecommunications services, with associated autonomous system numbers indicating network infrastructure capabilities.",
-    "market_position": "Unknown",
+    "market_position": "Enterprise",
     "enrichment_confidence": "Low",
     "enrichment_sources": [
       "fcc_filings",
@@ -16474,7 +16519,7 @@
     },
     "parsed_city_source": "dnb_search",
     "parsed_state_source": "dnb_search",
-    "market_position_source": "undetermined"
+    "market_position_source": "gap_fill_search"
   },
   {
     "company_name": "ULEC, LLC",
@@ -16621,8 +16666,8 @@
       "https://www.bbb.org/us/wi/plainfield/profile/telecommunications/union-telephone-company-0694-13002847"
     ],
     "parsed_address": "850 N. Highway 414",
-    "parsed_city": null,
-    "parsed_state": null,
+    "parsed_city": "Saratoga",
+    "parsed_state": "WY",
     "parsed_phone": "3077826131",
     "parsed_email": "ewoody@unionwireless.com",
     "parsed_founding_date": "1997",
@@ -16639,7 +16684,9 @@
       "years_active": 0.0,
       "recent_activity": false
     },
-    "market_position_source": "llm"
+    "market_position_source": "llm",
+    "parsed_city_source": "location_search",
+    "parsed_state_source": "location_search"
   },
   {
     "company_name": "Valstarr Asia",
@@ -16679,7 +16726,7 @@
     "activity_signal": "Company appears inactive based on: 1) Single FCC filing from 2021-09-10 with no recent activity, 2) FCC Form 499 database shows registration as \"AirLuna\" DBA with \"Other\" communication type, 3) Web search results show generic VoIP industry listings but no specific company presence or recent activity for Valstarr Asia specifically",
     "industry_segment": "Carrier",
     "product_summary": "VoIP service provider that filed for numbering authorization with the FCC, operating under DBA \"AirLuna\" with classification as \"Other\" communications type in FCC records.",
-    "market_position": "Unknown",
+    "market_position": "SMB",
     "enrichment_confidence": "Low",
     "enrichment_sources": [
       "fcc_documents",
@@ -16707,7 +16754,7 @@
       "years_active": 0.0,
       "recent_activity": false
     },
-    "market_position_source": "undetermined"
+    "market_position_source": "filing_rules"
   },
   {
     "company_name": "Verification Technologies, LLC",
@@ -16751,7 +16798,7 @@
     "activity_signal": "Recent FCC filing (April 19, 2024) for VoIP numbering authorization shows current business activity. Company website found via web search at verificationtechnologies.ai describes \"carrier products\" and \"connective solutions.\" Business registration record found on Bizapedia confirms company exists in Nevada.",
     "industry_segment": "Carrier",
     "product_summary": "Verification Technologies provides carrier products and connective solutions to help businesses with connectivity, customer communication, colleague collaboration, and device network management.",
-    "market_position": "Unknown",
+    "market_position": "SMB",
     "enrichment_confidence": "Medium",
     "enrichment_sources": [
       "fcc_documents",
@@ -16784,7 +16831,7 @@
       "years_active": 0.0,
       "recent_activity": true
     },
-    "market_position_source": "undetermined"
+    "market_position_source": "gap_fill_search"
   },
   {
     "company_name": "Vested Networks, LLC",
@@ -17157,8 +17204,8 @@
       "https://telecomreseller.com/2026/01/30/etaskpro-and-grandstream-announce-integration-of-rai-voip-billing-application-with-grandstreams-ucm-series-solutions/"
     ],
     "parsed_address": "1607 Poince De Leon Avenue, Suite GM8",
-    "parsed_city": null,
-    "parsed_state": null,
+    "parsed_city": "San Juan",
+    "parsed_state": "PR",
     "parsed_phone": null,
     "parsed_email": null,
     "parsed_founding_date": null,
@@ -17189,7 +17236,9 @@
       "recent_activity": false
     },
     "market_position_reason": "industry_segment=UCaaS",
-    "market_position_source": "rules"
+    "market_position_source": "rules",
+    "parsed_city_source": "gap_fill_search",
+    "parsed_state_source": "gap_fill_search"
   },
   {
     "company_name": "VoIPStreet, Inc.",
@@ -17822,7 +17871,7 @@
     "activity_signal": "FCC filing from 2023-05-31 with no recent activity (recent_activity: false). Web searches return only generic VoIP industry pages with no specific results for Voyce Telecom LLC, suggesting limited or no current web presence. No company website or recent business activity found.",
     "industry_segment": "Carrier",
     "product_summary": "Provides interconnected VoIP services to end users through own facilities and CLEC/voice service provider partnerships for PSTN routing, initially targeting Florida, Virginia, and New York markets.",
-    "market_position": "Unknown",
+    "market_position": "Enterprise",
     "enrichment_confidence": "Low",
     "enrichment_sources": [
       "fcc_documents",
@@ -17852,7 +17901,7 @@
     },
     "parsed_city_source": "dnb_search",
     "parsed_state_source": "dnb_search",
-    "market_position_source": "undetermined"
+    "market_position_source": "gap_fill_search"
   },
   {
     "company_name": "WaveNation, LLC",
@@ -17907,7 +17956,7 @@
     "activity_signal": "No recent activity signals found. FCC filing was from 2020-11-23 with no recent activity flag set to false. Web search results show only historical FCC filing information and basic directory listings with no current business activity indicators. Company uses Peerless Network email (regulatory@peerlessnetwork.com) suggesting potential subsidiary or partnership relationship rather than independent operation.",
     "industry_segment": "Carrier",
     "product_summary": "WaveNation provides PSTN Control Service for Interconnected VoIP services, operating in partnership with Peerless Network to facilitate VoIP telecommunications infrastructure.",
-    "market_position": "Unknown",
+    "market_position": "SMB",
     "enrichment_confidence": "Low",
     "enrichment_sources": [
       "fcc_documents",
@@ -17937,7 +17986,7 @@
     },
     "parsed_city_source": "dnb_search",
     "parsed_state_source": "dnb_search",
-    "market_position_source": "undetermined"
+    "market_position_source": "gap_fill_v2"
   },
   {
     "company_name": "Whisl Telecom, LLC",
@@ -17981,7 +18030,7 @@
     "activity_signal": "Company appears inactive based on: 1) Only single FCC filing from 2020-07-23 with no recent activity, 2) Privacy policy page found at whisl.com suggests past web presence, 3) Most significantly, multiple 2024-2025 news articles show Whisl Telecom, LLC being targeted in \"Operation Robocall Roundup\" by attorneys general for illegal robocall activities, indicating regulatory enforcement action against the company",
     "industry_segment": "Carrier",
     "product_summary": "Whisl Telecom provided interconnected VoIP services initially in Texas, but appears to have been involved in illegal robocall operations that led to regulatory enforcement actions.",
-    "market_position": "Unknown",
+    "market_position": "SMB",
     "enrichment_confidence": "Medium",
     "enrichment_sources": [
       "fcc_documents",
@@ -18009,7 +18058,7 @@
       "years_active": 0.0,
       "recent_activity": false
     },
-    "market_position_source": "undetermined"
+    "market_position_source": "filing_rules"
   },
   {
     "company_name": "WhiteSky Communications, LLC",
@@ -18154,7 +18203,7 @@
     "activity_signal": "Company website portal found via search (portal.wiretaptelecom.com), active BGP network operations (AS46972 peering with 3 networks, 2 upstream carriers per bgp.tools), and business listing showing contact phone number (877) 471-3603. However, FCC filing activity stopped in 2021 with no recent filings.",
     "industry_segment": "Carrier",
     "product_summary": "Wiretap Telecom operates as a telecommunications carrier with BGP network infrastructure, providing interconnected VoIP services and maintaining network peering relationships with major carriers like Cogent and AT&T.",
-    "market_position": "Unknown",
+    "market_position": "SMB",
     "enrichment_confidence": "Medium",
     "enrichment_sources": [
       "fcc_documents",
@@ -18189,7 +18238,7 @@
     },
     "parsed_city_source": "dnb_search",
     "parsed_state_source": "dnb_search",
-    "market_position_source": "undetermined"
+    "market_position_source": "filing_rules"
   },
   {
     "company_name": "WOW! Internet, Cable and Phone",
@@ -18333,7 +18382,7 @@
     "activity_signal": "Company appears in FCC Form 499 database as of April 1, 2021, indicating ongoing regulatory compliance as an interconnected VoIP provider and Universal Service Fund contributor. The company is listed as \"WTC Technologies, Inc.\" with holding company \"WAMEGO TELEPHONE COMPANY INC\".",
     "industry_segment": "Carrier",
     "product_summary": "WTC Technologies provides VoIP services in rural Kansas through its own facilities, operating as an interconnected VoIP provider with direct numbering authorization from NANP administrators.",
-    "market_position": "Unknown",
+    "market_position": "SMB",
     "enrichment_confidence": "Medium",
     "enrichment_sources": [
       "fcc_documents",
@@ -18343,8 +18392,8 @@
       "https://www.fcc.gov/document/ivoip-numbering-authorization-application-filed-wtc"
     ],
     "parsed_address": "1009 Lincoln Avenue",
-    "parsed_city": null,
-    "parsed_state": null,
+    "parsed_city": "Billerica",
+    "parsed_state": "MA",
     "parsed_phone": "7854561000",
     "parsed_email": "jwick@wtcks.com",
     "parsed_founding_date": "1912",
@@ -18361,7 +18410,10 @@
       "years_active": 0.0,
       "recent_activity": false
     },
-    "market_position_source": "undetermined"
+    "market_position_source": "manual_research",
+    "parsed_city_source": "gap_fill_search",
+    "parsed_state_source": "gap_fill_search",
+    "market_position_reason": "Regional telecom services"
   },
   {
     "company_name": "X-Nets Inc.",

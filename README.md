@@ -74,9 +74,25 @@ python -m src.enrich        # 6. AI enrichment
 
 ### Phase 4: Document Downloads
 
-**Problem:** FCC document server rejects standard HTTP requests.
+**Problem:** FCC document server rejects standard HTTP requests with HTTP/2 `INTERNAL_ERROR`.
 
-**Solution:** Force HTTP/1.1, TLS 1.2, specific User-Agent (`PostmanRuntime/7.47.1`).
+**Discovery process:** Used Postman to intercept a working browser request, then iteratively stripped headers to find the minimal working curl:
+
+```bash
+curl -L --tlsv1.2 --http1.1 \
+  -A 'PostmanRuntime/7.47.1' \
+  -H 'Accept: */*' \
+  -H 'Connection: keep-alive' \
+  -H 'Cookie: lmao=1' \
+  --compressed \
+  'https://www.fcc.gov/ecfs/documents/{id}/{seq}'
+```
+
+**Key findings:**
+- API returns `/ecfs/document/...` (singular) but downloads require `/ecfs/documents/...` (plural)
+- HTTP/2 fails with stream errors — must force HTTP/1.1
+- TLS 1.2 required
+- Cookie header required but value can be anything
 
 **Result:** 512 documents (492 PDF, 18 DOCX, 2 DOC), 620 MB
 
@@ -205,8 +221,7 @@ Each phase produces a standalone artifact — if time ran out, earlier phases wo
 ## Limitations
 
 - No coverage before ~2016 (different filing format)
-- Contact data: 68% addresses, 60% phones, 42% emails
-- Market position undetermined for 29% of companies (obscure entities)
+- Contact data: 68% addresses, 60% phones, 42% emails, 90% city/state
 - Some companies may have rebranded/merged since filing
 
 ---
