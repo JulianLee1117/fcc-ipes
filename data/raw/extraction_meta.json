@@ -1,0 +1,17 @@
+{
+  "extraction_time": "2026-02-01T01:31:01.978806Z",
+  "queries": [
+    {
+      "query": "\"Numbering Authorization Application\"",
+      "fetched": 959,
+      "new_unique": 959
+    },
+    {
+      "query": "52.15(g)",
+      "fetched": 2347,
+      "new_unique": 1405
+    }
+  ],
+  "total_unique_filings": 2364,
+  "output_file": "/Users/julian/Documents/GithubProjects/fcc-ipes/data/raw/filings_raw.jsonl"
+}
