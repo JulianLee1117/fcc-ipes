@@ -1,0 +1,35 @@
+{
+  "id": "msg_01B3LuPHWXRUNEFTUkm7UiNm",
+  "content": [
+    {
+      "id": "toolu_016tBasKv7rrDoP8XpiN7qvJ",
+      "input": {
+        "is_active": true,
+        "activity_signal": "Active YouTube channel with 211 subscribers and 154 videos (web search results), company profiles on Bloomberg Markets and Crunchbase showing current operations, and technology stack information from Enlyft showing use of 35 different technologies including modern tools like Zoom and Salesforce.com CRM",
+        "industry_segment": "UCaaS",
+        "product_summary": "Voyant Communications provides unified communications services including SIP trunking, messaging, fax, and SD-WAN data services on their carrier network serving 10,500 on-net rate centers.",
+        "market_position": "Mid-Market",
+        "enrichment_confidence": "Medium"
+      },
+      "name": "enrichment_result",
+      "type": "tool_use"
+    }
+  ],
+  "model": "claude-sonnet-4-20250514",
+  "role": "assistant",
+  "stop_reason": "tool_use",
+  "stop_sequence": null,
+  "type": "message",
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0,
+    "input_tokens": 1774,
+    "output_tokens": 238,
+    "server_tool_use": null,
+    "service_tier": "standard"
+  }
+}

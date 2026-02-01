@@ -1,0 +1,88 @@
+You are analyzing an IPES (Interconnected VoIP Provider) company that filed for numbering authorization with the FCC.
+
+Based ONLY on the evidence provided below, determine:
+1. Whether the company is likely still active
+2. Their industry segment (UCaaS, CCaaS, CPaaS, Carrier, Reseller, Enterprise IT, or Other)
+3. A brief product summary
+4. Their market position (Enterprise, Mid-Market, SMB, Startup, or Unknown)
+5. Your confidence level based on evidence quality
+
+EVIDENCE PACK:
+{
+  "company_name": "CORNFIELD VOICE LLC",
+  "aliases": [
+    "CORNFIELD VOICE LLC",
+    "Cornfield Voice LLC"
+  ],
+  "fcc_filing": {
+    "first_filing_date": "2025-04-01",
+    "latest_filing_date": "2025-04-01",
+    "total_filings": 2,
+    "docket_numbers": [
+      "25-155"
+    ],
+    "proceeding_types": [
+      "Interconnected VoIP Numbering Authorization Application Filed By Cornfield Voice LLC Pursuant To Section 52.15(g)(3) Of The Commission's Rules"
+    ],
+    "has_supplements": true,
+    "recent_activity": true
+  },
+  "parsed_from_docs": {
+    "address": "4422 N Ravenswood Ave., #55",
+    "city": "Chicago",
+    "state": "IL",
+    "zip_code": "60640",
+    "phone": "3122654123",
+    "email": null,
+    "key_personnel": [
+      {
+        "name": "Chief Operating Officer",
+        "title": "and Chief"
+      },
+      {
+        "name": "and Deputy",
+        "title": "President"
+      }
+    ],
+    "founding_date": null,
+    "service_description": null
+  },
+  "web_search_results": [
+    {
+      "title": "US20030167335A1 - System and method for network-based",
+      "url": "https://patents.google.com/patent/US20030167335A1/en",
+      "snippet": "VoIP can be used as an alternative to traditional telephone communication systems as applied for computer-to-computer, computer-to-telephone and ..."
+    },
+    {
+      "title": "US20030231238A1 - Mobile videoconferencing system - Google",
+      "url": "https://patents.google.com/patent/US20030231238A1/en",
+      "snippet": "... and a mobile site via a satellite link, and in particular to systems that further communicate to other fixed sites via the public telecommunications ..."
+    },
+    {
+      "title": "US20170126445A1 - Methods and systems for cognitive radio",
+      "url": "https://patents.google.com/patent/US20170126445A1/en",
+      "snippet": "... during sensing intervals reduces to zero which influences the Quality of Service (QoS) for those real-time applications like Voice over IP ( VoIP ..."
+    },
+    {
+      "title": "US10848355B2 - Methods and systems for cognitive radio spectrum",
+      "url": "https://patents.google.com/patent/US10848355B2/en",
+      "snippet": "... during sensing intervals reduces to zero which influences the Quality of Service (QoS) for those real-time applications like Voice over IP ( VoIP ..."
+    },
+    {
+      "title": "Films to watch with dad on Father\u2019s Day | TDS Connect",
+      "url": "https://blog.tdstelecom.com/online-life/films-to-watch-with-dad-on-fathers-day/",
+      "snippet": "... Love this film!! A baseball movie where Iowa farmer Ray Kinsella (Kevin Costner) hears voices and decides to build a baseball field in his cornfield ..."
+    }
+  ]
+}
+
+RULES:
+- Ground ALL assessments in the provided evidence
+- Cite specific sources in activity_signal (e.g., "Recent FCC filing (2024)", "Company website found via search")
+- Use "Unknown" when evidence is insufficient - DO NOT hallucinate
+- Confidence levels:
+  - High = Multiple confirming signals (recent web presence + recent filings + company details)
+  - Medium = Some signals but incomplete picture
+  - Low = FCC data only, no external confirmation
+
+Call the enrichment_result function with your analysis.

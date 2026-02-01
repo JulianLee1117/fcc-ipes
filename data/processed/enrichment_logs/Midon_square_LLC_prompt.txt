@@ -1,0 +1,76 @@
+You are analyzing an IPES (Interconnected VoIP Provider) company that filed for numbering authorization with the FCC.
+
+Based ONLY on the evidence provided below, determine:
+1. Whether the company is likely still active
+2. Their industry segment (UCaaS, CCaaS, CPaaS, Carrier, Reseller, Enterprise IT, or Other)
+3. A brief product summary
+4. Their market position (Enterprise, Mid-Market, SMB, Startup, or Unknown)
+5. Your confidence level based on evidence quality
+
+EVIDENCE PACK:
+{
+  "company_name": "Midon square LLC",
+  "aliases": [
+    "Midon square LLC"
+  ],
+  "fcc_filing": {
+    "first_filing_date": "2024-03-29",
+    "latest_filing_date": "2024-03-29",
+    "total_filings": 1,
+    "docket_numbers": [],
+    "proceeding_types": [
+      "VoIP Numbering Authorization Application (Fee Required)"
+    ],
+    "has_supplements": false,
+    "recent_activity": true
+  },
+  "parsed_from_docs": {
+    "address": null,
+    "city": null,
+    "state": null,
+    "zip_code": null,
+    "phone": null,
+    "email": null,
+    "key_personnel": [],
+    "founding_date": null,
+    "service_description": null
+  },
+  "web_search_results": [
+    {
+      "title": "Midon square LLC \u00b7 1800 Glenarm P Unit 121, Denver, CO 80202 The Most Feature-Rich VoIP Provider for Businesses Midon square LLC, Delinquent September 1, 2024 | Colorado ... MIDON SQUARE LLC in Denver, CO | Company Info & Reviews Phone Validator | Check Line Type & Lookup Carrier - IPQS Voice Over Internet Protocol (VoIP) | Federal Communications ... Telecom Services for Business | Voice. Network. Cloud. | Granite",
+      "url": "https://opengovco.com/business/20231383952",
+      "snippet": "Midon square LLC (Entity #20231383952) is a DLLC in Denver, Colorado registered with the Colorado Department of State (CDOS). The entity was formed on April 5, 2023 in the jurisdiction of Colorado. State-of-the-Art VoIP Service Provider As a Telecommunications Service Provider, we are devoted to providing quality local and international connections to our customers around the world. Provide information about Midon square LLC , Delinquent September 1, 2024, includes incorporation date, status, type, directors, address, contacts information & more. May 14, 2025 \u00b7 Discover Company Info on MIDON SQUARE LLC in Denver, CO, such as Contacts, Addresses, Reviews, and Registered Agent. Validating phone numbers for registrations, payments, marketing lists, and overall user verification (such as AML/KYC) is an industry best practice to ensure your user data is accurate and up to date. Phone number verification also has an added benefit of limiting abusive behavior such as fake duplicate accounts and abuse from credit card chargebac... See full list on ipqualityscore.com Upon searching with the phone number validator tool above, IPQS will automatically lookup the number against the country's number routing rules. A quick syntax check is performed to ensure the phone number is properly formatted and then matched against active line types. Once a match is found, the carrier details are retrieved and further analysis ... See full list on ipqualityscore.com Using either the phone verification API or bulk phone number validation processing will return the number's associated country, dialing code, carrier name, line type, prepaid status, risk score, and overall validity as true or false. This makes validating phone numbers an easy process which can identify invalid or disconnected phone numbersthat lik... See full list on ipqualityscore.com Validating phone numbers also includes line type detectionand carrier lookup details. IPQS phone number verification provides insight into the true quality of the user by detecting invalid phone numbers and the subscriber status. Some carriers, especially among ported numbers or prepaid plans, can represent higher risk. The IPQS phone validator too... See full list on ipqualityscore.com For most advanced telecom and voice users that want to verify phone numbers, we recommend our HLR lookup service & LRN phone data that can provide direct carrier details for number routing. Roaming status, carrier lookups, and line type checks, even for ported numbers, are fully available for most countries. Carrier lookups can provide important in... See full list on ipqualityscore.com Active phone numbers and phone number reputation can play an important role in identity verification. To check if a phone number is real or active in service, use the phone number lookup tool above. The phone number validatorwill use real-time carrier data with support for over 150 countries, to ping the carrier and check if the subscriber is activ... See full list on ipqualityscore.com Voice over Internet Protocol ( VoIP ), is a technology that allows you to make voice calls using a broadband Internet connection instead of a regular (or analog) phone line. Granite Telecommunications is a leading provider of comprehensive communication solutions for businesses across the United States and Canada."
+    },
+    {
+      "title": "The Most Feature-Rich VoIP Provider for Businesses",
+      "url": "https://voip.ms/",
+      "snippet": "State-of-the-Art VoIP Service Provider As a Telecommunications Service Provider, we are devoted to providing quality local and international connections to our customers around the world."
+    },
+    {
+      "title": "Midon square LLC, Delinquent September 1, 2024 | Colorado ...",
+      "url": "https://www.coloradocompanysearch.com/companies/midon-square-llc/",
+      "snippet": "Provide information about Midon square LLC , Delinquent September 1, 2024, includes incorporation date, status, type, directors, address, contacts information & more."
+    },
+    {
+      "title": "MIDON SQUARE LLC in Denver, CO | Company Info & Reviews",
+      "url": "https://www.bizapedia.com/co/midon-square-llc.html",
+      "snippet": "May 14, 2025 \u00b7 Discover Company Info on MIDON SQUARE LLC in Denver, CO, such as Contacts, Addresses, Reviews, and Registered Agent."
+    },
+    {
+      "title": "Phone Validator | Check Line Type & Lookup Carrier - IPQS Voice Over Internet Protocol (VoIP) | Federal Communications ... Telecom Services for Business | Voice. Network. Cloud. | Granite",
+      "url": "https://www.ipqualityscore.com/phone-number-validator",
+      "snippet": "Validating phone numbers for registrations, payments, marketing lists, and overall user verification (such as AML/KYC) is an industry best practice to ensure your user data is accurate and up to date. Phone number verification also has an added benefit of limiting abusive behavior such as fake duplicate accounts and abuse from credit card chargebac... See full list on ipqualityscore.com Upon searching with the phone number validator tool above, IPQS will automatically lookup the number against the country's number routing rules. A quick syntax check is performed to ensure the phone number is properly formatted and then matched against active line types. Once a match is found, the carrier details are retrieved and further analysis ... See full list on ipqualityscore.com Using either the phone verification API or bulk phone number validation processing will return the number's associated country, dialing code, carrier name, line type, prepaid status, risk score, and overall validity as true or false. This makes validating phone numbers an easy process which can identify invalid or disconnected phone numbersthat lik... See full list on ipqualityscore.com Validating phone numbers also includes line type detectionand carrier lookup details. IPQS phone number verification provides insight into the true quality of the user by detecting invalid phone numbers and the subscriber status. Some carriers, especially among ported numbers or prepaid plans, can represent higher risk. The IPQS phone validator too... See full list on ipqualityscore.com For most advanced telecom and voice users that want to verify phone numbers, we recommend our HLR lookup service & LRN phone data that can provide direct carrier details for number routing. Roaming status, carrier lookups, and line type checks, even for ported numbers, are fully available for most countries. Carrier lookups can provide important in... See full list on ipqualityscore.com Active phone numbers and phone number reputation can play an important role in identity verification. To check if a phone number is real or active in service, use the phone number lookup tool above. The phone number validatorwill use real-time carrier data with support for over 150 countries, to ping the carrier and check if the subscriber is activ... See full list on ipqualityscore.com Voice over Internet Protocol ( VoIP ), is a technology that allows you to make voice calls using a broadband Internet connection instead of a regular (or analog) phone line. Granite Telecommunications is a leading provider of comprehensive communication solutions for businesses across the United States and Canada."
+    }
+  ]
+}
+
+RULES:
+- Ground ALL assessments in the provided evidence
+- Cite specific sources in activity_signal (e.g., "Recent FCC filing (2024)", "Company website found via search")
+- Use "Unknown" when evidence is insufficient - DO NOT hallucinate
+- Confidence levels:
+  - High = Multiple confirming signals (recent web presence + recent filings + company details)
+  - Medium = Some signals but incomplete picture
+  - Low = FCC data only, no external confirmation
+
+Call the enrichment_result function with your analysis.

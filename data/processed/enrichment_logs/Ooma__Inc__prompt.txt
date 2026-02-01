@@ -1,0 +1,78 @@
+You are analyzing an IPES (Interconnected VoIP Provider) company that filed for numbering authorization with the FCC.
+
+Based ONLY on the evidence provided below, determine:
+1. Whether the company is likely still active
+2. Their industry segment (UCaaS, CCaaS, CPaaS, Carrier, Reseller, Enterprise IT, or Other)
+3. A brief product summary
+4. Their market position (Enterprise, Mid-Market, SMB, Startup, or Unknown)
+5. Your confidence level based on evidence quality
+
+EVIDENCE PACK:
+{
+  "company_name": "Ooma, Inc.",
+  "aliases": [
+    "Ooma, Inc."
+  ],
+  "fcc_filing": {
+    "first_filing_date": "2020-04-17",
+    "latest_filing_date": "2020-04-17",
+    "total_filings": 1,
+    "docket_numbers": [
+      "20-130"
+    ],
+    "proceeding_types": [
+      "Interconnected VoIP Numbering Authorization Application Filed  By Ooma, Inc Pursuant To Section 52.15(g)(3) Of The Commission's Rules"
+    ],
+    "has_supplements": false,
+    "recent_activity": false
+  },
+  "parsed_from_docs": {
+    "address": "525 AlmanorAve",
+    "city": "Sunnyvale",
+    "state": "CA",
+    "zip_code": "94085",
+    "phone": "6505187200",
+    "email": null,
+    "key_personnel": [],
+    "founding_date": null,
+    "service_description": "provide interconnectedVoIP services initially in the stateofTexas."
+  },
+  "web_search_results": [
+    {
+      "title": "Ooma - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Ooma",
+      "snippet": "Ooma , Inc . is an American publicly traded telecommunications company based in the Silicon Valley, California area. Ooma offers communications services including Voice over IP ( VoIP ) calling for business, home and mobile users. [3][4]"
+    },
+    {
+      "title": "Ooma VoIP Phone Service for Business and Home",
+      "url": "https://www.ooma.com/",
+      "snippet": "Switch to Ooma \u2019 s VoIP service\u2014free nationwide calls, no contracts, advanced features, and hardware for homes or small businesses. Get started today!"
+    },
+    {
+      "title": "Ooma Announces Definitive Agreement to Acquire Phone.com",
+      "url": "https://www.businesswire.com/news/home/20251124744833/en/Ooma-Announces-Definitive-Agreement-to-Acquire-Phone.com",
+      "snippet": "Nov 24, 2025 \u00b7 Ooma (NYSE: OOMA ) delivers phone, messaging, video, and advanced communications services that are easy to implement and provide great value."
+    },
+    {
+      "title": "Ooma, Inc. (OOMA): history, ownership, mission, how it works ...",
+      "url": "https://www.dcfmodeling.com/blogs/history/ooma-history-mission-ownership",
+      "snippet": "Ooma , Inc . primarily makes money through a subscription-based model, selling cloud-based communication services ( Voice over Internet Protocol or VoIP ) to both businesses and consumers."
+    },
+    {
+      "title": "Ooma, Inc. - LinkedIn",
+      "url": "https://www.linkedin.com/company/ooma",
+      "snippet": "Award-winning phone and communications services for businesses and consumers. Ooma delivers phone, messaging, video and advanced communications services that are easy to implement and provide..."
+    }
+  ]
+}
+
+RULES:
+- Ground ALL assessments in the provided evidence
+- Cite specific sources in activity_signal (e.g., "Recent FCC filing (2024)", "Company website found via search")
+- Use "Unknown" when evidence is insufficient - DO NOT hallucinate
+- Confidence levels:
+  - High = Multiple confirming signals (recent web presence + recent filings + company details)
+  - Medium = Some signals but incomplete picture
+  - Low = FCC data only, no external confirmation
+
+Call the enrichment_result function with your analysis.

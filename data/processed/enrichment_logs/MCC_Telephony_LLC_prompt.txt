@@ -1,0 +1,103 @@
+You are analyzing an IPES (Interconnected VoIP Provider) company that filed for numbering authorization with the FCC.
+
+Based ONLY on the evidence provided below, determine:
+1. Whether the company is likely still active
+2. Their industry segment (UCaaS, CCaaS, CPaaS, Carrier, Reseller, Enterprise IT, or Other)
+3. A brief product summary
+4. Their market position (Enterprise, Mid-Market, SMB, Startup, or Unknown)
+5. Your confidence level based on evidence quality
+
+EVIDENCE PACK:
+{
+  "company_name": "MCC Telephony LLC",
+  "aliases": [
+    "MCC Telephony LLC"
+  ],
+  "fcc_filing": {
+    "first_filing_date": "2022-10-28",
+    "latest_filing_date": "2022-10-28",
+    "total_filings": 1,
+    "docket_numbers": [
+      "22-385"
+    ],
+    "proceeding_types": [
+      "Interconnected VoIP Numbering Authorization Application  Filed By MCC Telephony, LLC Pursuant To Section 52.15(g)(3)  Of The Commission's Rules"
+    ],
+    "has_supplements": false,
+    "recent_activity": false
+  },
+  "parsed_from_docs": {
+    "address": "One Mediacom Way",
+    "city": "Mediacom",
+    "state": "NE",
+    "zip_code": "10918",
+    "phone": "8454432600",
+    "email": null,
+    "key_personnel": [
+      {
+        "name": "Chief Operating Officer",
+        "title": "Mark Stephan"
+      },
+      {
+        "name": "Chief Financial Officer",
+        "title": "Peter Lyons"
+      },
+      {
+        "name": "Chief Technical Officer",
+        "title": "Italia Commisso"
+      },
+      {
+        "name": "of Human",
+        "title": "President"
+      },
+      {
+        "name": "of Telephony",
+        "title": "President"
+      },
+      {
+        "name": "of Telephony",
+        "title": "President"
+      }
+    ],
+    "founding_date": null,
+    "service_description": "providers to compromise MCC Telephony's position in the highly\ncompetitive interconnected VoiP business sector."
+  },
+  "web_search_results": [
+    {
+      "title": "U.S. Telecom Listings - Interconnected Voip Providers |",
+      "url": "https://www.teracodes.com/telecoms/interconnected-voip-providers/",
+      "snippet": "Primus Telecommunications , Inc. ... Cablevision VOIP , LLC . ... Clear Voip Calling LLC ."
+    },
+    {
+      "title": "Susan Slinker Found - Phone Numbers, Addresses & Possible",
+      "url": "https://www.zabasearch.com/people/susan-slinker/",
+      "snippet": "mcc telephony llc ... new cingular wireless pcs llc - ga ... bellsouth telecommunications inc dba south central bell telephone (at&t southeast)"
+    },
+    {
+      "title": "Martha Dunlap Found - Phone Numbers, Addresses & Possible",
+      "url": "https://www.zabasearch.com/people/martha-dunlap/",
+      "snippet": "Piedmont Natural Gas Company Inc Telecommunications Analyst at Piedmont Natural Gas Company Inc (1991-1992) ... bellsouth telecommunications inc dba ..."
+    },
+    {
+      "title": "J Lebrun Found - Phone Numbers, Addresses & Possible",
+      "url": "https://www.ussearch.com/people-search/j-lebrun/",
+      "snippet": "bellsouth telecommunications inc dba southern bell telephone & telegraph (at&t southeast) ... mcc telephony llc"
+    },
+    {
+      "title": "Joseph Scally Found - Phone Numbers, Addresses & Possible",
+      "url": "https://www.ussearch.com/people-search/joseph-scally/",
+      "snippet": "mcc telephony llc ... bellsouth telecommunications inc dba southern bell telephone & telegraph (at&t southeast)"
+    }
+  ]
+}
+
+RULES:
+- Ground ALL assessments in the provided evidence
+- Cite specific sources in activity_signal (e.g., "Recent FCC filing (2024)", "Company website found via search")
+- Use "Unknown" when evidence is insufficient - DO NOT hallucinate
+- Confidence levels:
+  - High = Multiple confirming signals (recent web presence + recent filings + company details)
+  - Medium = Some signals but incomplete picture
+  - Low = FCC data only, no external confirmation
+
+Call the enrichment_result function with your analysis.

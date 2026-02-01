@@ -1,0 +1,99 @@
+You are analyzing an IPES (Interconnected VoIP Provider) company that filed for numbering authorization with the FCC.
+
+Based ONLY on the evidence provided below, determine:
+1. Whether the company is likely still active
+2. Their industry segment (UCaaS, CCaaS, CPaaS, Carrier, Reseller, Enterprise IT, or Other)
+3. A brief product summary
+4. Their market position (Enterprise, Mid-Market, SMB, Startup, or Unknown)
+5. Your confidence level based on evidence quality
+
+EVIDENCE PACK:
+{
+  "company_name": "BluIP Inc.",
+  "aliases": [
+    "BluIP Inc."
+  ],
+  "fcc_filing": {
+    "first_filing_date": "2017-06-23",
+    "latest_filing_date": "2017-06-23",
+    "total_filings": 2,
+    "docket_numbers": [
+      "17-191"
+    ],
+    "proceeding_types": [
+      "INTERCONNECTED VOIP NUMBERING AUTHORIZATION APPLICATION FILED BY BLUIP, INC PURSUANT TO SECTION 52.15(g)(3) OF THE COMMISSION&#146;S RULES"
+    ],
+    "has_supplements": true,
+    "recent_activity": false
+  },
+  "parsed_from_docs": {
+    "address": "410 S. Rampart, Suite 460",
+    "city": null,
+    "state": null,
+    "zip_code": null,
+    "phone": "7026904400",
+    "email": null,
+    "key_personnel": [
+      {
+        "name": "Chief Technical Officer",
+        "title": "Steve Lance"
+      },
+      {
+        "name": "of Engineering",
+        "title": "President"
+      },
+      {
+        "name": "Chief Executive Officer",
+        "title": "Edwin Martirosyan"
+      },
+      {
+        "name": "Chief Technical Officer",
+        "title": "Patrick Case"
+      },
+      {
+        "name": "of Engineering",
+        "title": "President"
+      }
+    ],
+    "founding_date": "2011",
+    "service_description": "offers\ninterconnected VoIP and advanced telephony solutions such as Hosted PBX, cloud-based\nmanaged communications services, and SIP trunking to SMBs and enterprise customers."
+  },
+  "web_search_results": [
+    {
+      "title": "BluIP: Conversational AI, No-Code Integrations, UCaaS, CCaaS",
+      "url": "https://www.bluip.com/",
+      "snippet": "BluIP\u00ae is a Tier1 global service provider and communications technology innovator. The company develops artificial intelligence and enterprise-grade telephony solutions for leaders in hospitality, restaurants, healthcare, small business, and the enterprise."
+    },
+    {
+      "title": "BluIP Inc. - LinkedIn",
+      "url": "https://www.linkedin.com/company/bluip",
+      "snippet": "BluIP combines AI, cloud communications, and enterprise-grade telephony to help businesses improve every customer interaction. Discover the future of business communications:..."
+    },
+    {
+      "title": "BluIP Inc.: Contact Details and Business Profile - RocketReach FCC Form 499 Filer Database Detailed Information BluIP Inc. - Crunchbase Company Profile & Funding BluIP Inc. Company Overview, Contact Details & Competitors ... BluIP Company Profile - Office Locations, Competitors ... - Craft",
+      "url": "https://rocketreach.co/bluip-inc-profile_b5e4a649f42e6660",
+      "snippet": "BluIP Inc . is a Software, Telecommunications , and Custom Software & Technical Consulting company_reader located in Las Vegas, Nevada with $22 million in revenue and 68 employees. Apr 1, 2025 \u00b7 Legal Name of Reporting Entity: BluIP , Inc . Doing Business As: BluIP , Inc . Principal Communications Type: Interconnected VoIP Universal Service Fund Contributor: Yes (Contact USAC at 888-641-8722 if this is not correct.) Holding Company: Registration Number (CORESID): 0020834776 BluIP is a leading wholesale provider of cloud-based voice technology. We deliver mission-critical products engineered for the SMB and LE Markets. We\u2019ve designed our network with only the most reliable and dependable network components such as Broadsoft, Cisco, and IBM and established redundant connections to support both public and private. Learn more about BluIP Inc .' s company details, contact information, competitors, and more. Find accurate contact data easily with LeadIQ. Book a demo today. BluIP is a provider of cloud-based communications. It offers application development, contact center, business intelligence, SIP (session initiation protocol) trunking, and other services. The company caters to hospitality, retail, restaurant, healthcare, and government industries."
+    },
+    {
+      "title": "FCC Form 499 Filer Database Detailed Information BluIP Inc. - Crunchbase Company Profile & Funding BluIP Inc. Company Overview, Contact Details & Competitors ... BluIP Company Profile - Office Locations, Competitors ... - Craft",
+      "url": "https://apps.fcc.gov/cgb/form499/499detail.cfm?FilerNum=828866",
+      "snippet": "Apr 1, 2025 \u00b7 Legal Name of Reporting Entity: BluIP , Inc . Doing Business As: BluIP , Inc . Principal Communications Type: Interconnected VoIP Universal Service Fund Contributor: Yes (Contact USAC at 888-641-8722 if this is not correct.) Holding Company: Registration Number (CORESID): 0020834776 BluIP is a leading wholesale provider of cloud-based voice technology. We deliver mission-critical products engineered for the SMB and LE Markets. We\u2019ve designed our network with only the most reliable and dependable network components such as Broadsoft, Cisco, and IBM and established redundant connections to support both public and private. Learn more about BluIP Inc .' s company details, contact information, competitors, and more. Find accurate contact data easily with LeadIQ. Book a demo today. BluIP is a provider of cloud-based communications. It offers application development, contact center, business intelligence, SIP (session initiation protocol) trunking, and other services. The company caters to hospitality, retail, restaurant, healthcare, and government industries."
+    },
+    {
+      "title": "BluIP Inc. - Crunchbase Company Profile & Funding BluIP Inc. Company Overview, Contact Details & Competitors ... BluIP Company Profile - Office Locations, Competitors ... - Craft",
+      "url": "https://www.crunchbase.com/organization/bluip-inc",
+      "snippet": "BluIP is a leading wholesale provider of cloud-based voice technology. We deliver mission-critical products engineered for the SMB and LE Markets. We\u2019ve designed our network with only the most reliable and dependable network components such as Broadsoft, Cisco, and IBM and established redundant connections to support both public and private. Learn more about BluIP Inc .' s company details, contact information, competitors, and more. Find accurate contact data easily with LeadIQ. Book a demo today. BluIP is a provider of cloud-based communications. It offers application development, contact center, business intelligence, SIP (session initiation protocol) trunking, and other services. The company caters to hospitality, retail, restaurant, healthcare, and government industries."
+    }
+  ]
+}
+
+RULES:
+- Ground ALL assessments in the provided evidence
+- Cite specific sources in activity_signal (e.g., "Recent FCC filing (2024)", "Company website found via search")
+- Use "Unknown" when evidence is insufficient - DO NOT hallucinate
+- Confidence levels:
+  - High = Multiple confirming signals (recent web presence + recent filings + company details)
+  - Medium = Some signals but incomplete picture
+  - Low = FCC data only, no external confirmation
+
+Call the enrichment_result function with your analysis.

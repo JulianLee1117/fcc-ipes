@@ -1,0 +1,35 @@
+{
+  "id": "msg_01HUDo3wSfGZAkT8yW6AJfxM",
+  "content": [
+    {
+      "id": "toolu_0121GgGkXhMCg6K6RvBWPY3C",
+      "input": {
+        "is_active": true,
+        "activity_signal": "Recent FCC filing (2024-10-30) with 3 filings in docket 24-628 for Interconnected VoIP Numbering Authorization. Active company website found (amcomlabs.io) describing current services. LinkedIn company profile shows ongoing business operations. Company email contact (jason@amcomlabs.io) matches domain.",
+        "industry_segment": "UCaaS",
+        "product_summary": "AM Communication Labs provides cloud-based unified communication solutions including managed speech, carrier services, and VoIP platforms with features for remote customer engagement across devices.",
+        "market_position": "SMB",
+        "enrichment_confidence": "High"
+      },
+      "name": "enrichment_result",
+      "type": "tool_use"
+    }
+  ],
+  "model": "claude-sonnet-4-20250514",
+  "role": "assistant",
+  "stop_reason": "tool_use",
+  "stop_sequence": null,
+  "type": "message",
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0,
+    "input_tokens": 2734,
+    "output_tokens": 239,
+    "server_tool_use": null,
+    "service_tier": "standard"
+  }
+}

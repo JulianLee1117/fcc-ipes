@@ -1,0 +1,83 @@
+You are analyzing an IPES (Interconnected VoIP Provider) company that filed for numbering authorization with the FCC.
+
+Based ONLY on the evidence provided below, determine:
+1. Whether the company is likely still active
+2. Their industry segment (UCaaS, CCaaS, CPaaS, Carrier, Reseller, Enterprise IT, or Other)
+3. A brief product summary
+4. Their market position (Enterprise, Mid-Market, SMB, Startup, or Unknown)
+5. Your confidence level based on evidence quality
+
+EVIDENCE PACK:
+{
+  "company_name": "Midco Voice, LLC",
+  "aliases": [
+    "Midco Voice, LLC"
+  ],
+  "fcc_filing": {
+    "first_filing_date": "2020-11-05",
+    "latest_filing_date": "2020-11-05",
+    "total_filings": 2,
+    "docket_numbers": [
+      "20-390"
+    ],
+    "proceeding_types": [
+      "Interconnected VoIP Numbering Authorization Application Filed By Midco Voice, LLC Pursuant To Section 52.15(g)(3) Of The Commission's Rules"
+    ],
+    "has_supplements": true,
+    "recent_activity": false
+  },
+  "parsed_from_docs": {
+    "address": "3901 N. Louise Avenue",
+    "city": null,
+    "state": null,
+    "zip_code": null,
+    "phone": "6052710594",
+    "email": null,
+    "key_personnel": [
+      {
+        "name": "Chief Technology Officer",
+        "title": "Jon Pederson"
+      }
+    ],
+    "founding_date": null,
+    "service_description": "provide interconnected\nVoIP services in South Dakota."
+  },
+  "web_search_results": [
+    {
+      "title": "Sonic (ISP) - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Sonic_(ISP)",
+      "snippet": "Gigabit Fiber \u2013 combined voice ( VoIP ) and data service offering up to 1,000Mbit/s per line using Passive Optical Networking , 1 with unlimited ..."
+    },
+    {
+      "title": "Consolidated Communications - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Consolidated_Communications",
+      "snippet": "The company offers internet, traditional landline phone or VoIP , home security, pay television, web hosting, and wholesale data) in 23 states across ..."
+    },
+    {
+      "title": "US8537984B2 - Voice over IP telephone recording architecture -",
+      "url": "https://patents.google.com/patent/US8537984B2/en",
+      "snippet": "Assignors: LIFESIZE, INC., LIGHT BLUE OPTICS INC., LO PLATFORM MIDCO , INC., SERENOVA WFM, INC., SERENOVA, LLC , SL MIDCO 1, LLC , SL MIDCO 2, LLC ..."
+    },
+    {
+      "title": "US7054420B2 - Voice over IP telephone recording architecture -",
+      "url": "https://patents.google.com/patent/US7054420B2/en",
+      "snippet": "Assignors: LIFESIZE, INC., LIGHT BLUE OPTICS INC., LO PLATFORM MIDCO , INC., SERENOVA WFM, INC., SERENOVA, LLC , SL MIDCO 1, LLC , SL MIDCO 2, LLC ..."
+    },
+    {
+      "title": "US20060233321A1 - Voice over IP telephone recording",
+      "url": "https://patents.google.com/patent/US20060233321A1/en",
+      "snippet": "Assignors: LIFESIZE, INC., LIGHT BLUE OPTICS INC., LO PLATFORM MIDCO , INC., SERENOVA WFM, INC., SERENOVA, LLC , SL MIDCO 1, LLC , SL MIDCO 2, LLC ..."
+    }
+  ]
+}
+
+RULES:
+- Ground ALL assessments in the provided evidence
+- Cite specific sources in activity_signal (e.g., "Recent FCC filing (2024)", "Company website found via search")
+- Use "Unknown" when evidence is insufficient - DO NOT hallucinate
+- Confidence levels:
+  - High = Multiple confirming signals (recent web presence + recent filings + company details)
+  - Medium = Some signals but incomplete picture
+  - Low = FCC data only, no external confirmation
+
+Call the enrichment_result function with your analysis.

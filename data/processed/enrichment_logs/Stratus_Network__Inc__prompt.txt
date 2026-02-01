@@ -1,0 +1,68 @@
+You are analyzing an IPES (Interconnected VoIP Provider) company that filed for numbering authorization with the FCC.
+
+Based ONLY on the evidence provided below, determine:
+1. Whether the company is likely still active
+2. Their industry segment (UCaaS, CCaaS, CPaaS, Carrier, Reseller, Enterprise IT, or Other)
+3. A brief product summary
+4. Their market position (Enterprise, Mid-Market, SMB, Startup, or Unknown)
+5. Your confidence level based on evidence quality
+
+EVIDENCE PACK:
+{
+  "company_name": "Stratus Network, Inc.",
+  "aliases": [
+    "Stratus Network, Inc."
+  ],
+  "fcc_filing": {
+    "first_filing_date": "2019-12-04",
+    "latest_filing_date": "2019-12-04",
+    "total_filings": 1,
+    "docket_numbers": [
+      "19-306"
+    ],
+    "proceeding_types": [
+      "In the Matter of Stratus Networks, Inc. Applicant for Authorization to Obtain Numbering Resources Pursuant to Section 52.15(g) of the Commission Rules"
+    ],
+    "has_supplements": false,
+    "recent_activity": false
+  },
+  "parsed_from_docs": {},
+  "web_search_results": [
+    {
+      "title": "Recent Mergers & Acquisitions In The Telecommunications",
+      "url": "https://anthonyveachlaw.com/blog/2021/11/10/recent-mergers-amp-acquisitions-in-the-telecommunications-industry-november-9-2021",
+      "snippet": "November 9, 2021 \u2013 The FCC\u2019s Wireline Competition Bureau is seeking comment on a Section 214 application filed by Stratus Networks , Inc ."
+    },
+    {
+      "title": "Streamlining Network Asset Management with Automation and",
+      "url": "https://telecomnewsroom.com/streamlining-network-asset-management-automation-intelligence/",
+      "snippet": "One company that no longer must face this challenge is Stratus Networks , Inc . ... By implementing The Connected World, Stratus Networks gained the ..."
+    },
+    {
+      "title": "StratusDial- Inclusive Business Phone System",
+      "url": "https://stratusdial.com/",
+      "snippet": "Based in Central Virginia, StratusDial is a fully licensed countrywide VoIP service provider that has served local and nationwide communities since ..."
+    },
+    {
+      "title": "Stratus Announces Unmatched Availability and Performance for",
+      "url": "https://vmblog.com/archive/2015/12/02/stratus-announces-unmatched-availability-and-performance-for-financial-services-applications.aspx",
+      "snippet": "These attributes are especially important in online trading applications in financial services, VoIP in telecommunications , and other applications ..."
+    },
+    {
+      "title": "KR20000049275A - Telecommunication network with relocateability",
+      "url": "https://patents.google.com/patent/KR20000049275A/en",
+      "snippet": "KR20000049275A - Telecommunication network with relocateability of subscriber number - Google Patents ... Telecommunication network with ..."
+    }
+  ]
+}
+
+RULES:
+- Ground ALL assessments in the provided evidence
+- Cite specific sources in activity_signal (e.g., "Recent FCC filing (2024)", "Company website found via search")
+- Use "Unknown" when evidence is insufficient - DO NOT hallucinate
+- Confidence levels:
+  - High = Multiple confirming signals (recent web presence + recent filings + company details)
+  - Medium = Some signals but incomplete picture
+  - Low = FCC data only, no external confirmation
+
+Call the enrichment_result function with your analysis.

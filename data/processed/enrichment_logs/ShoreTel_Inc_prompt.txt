@@ -1,0 +1,93 @@
+You are analyzing an IPES (Interconnected VoIP Provider) company that filed for numbering authorization with the FCC.
+
+Based ONLY on the evidence provided below, determine:
+1. Whether the company is likely still active
+2. Their industry segment (UCaaS, CCaaS, CPaaS, Carrier, Reseller, Enterprise IT, or Other)
+3. A brief product summary
+4. Their market position (Enterprise, Mid-Market, SMB, Startup, or Unknown)
+5. Your confidence level based on evidence quality
+
+EVIDENCE PACK:
+{
+  "company_name": "ShoreTel Inc",
+  "aliases": [
+    "ShoreTel Inc"
+  ],
+  "fcc_filing": {
+    "first_filing_date": "2017-06-07",
+    "latest_filing_date": "2017-06-07",
+    "total_filings": 2,
+    "docket_numbers": [
+      "16-172",
+      "17-272"
+    ],
+    "proceeding_types": [
+      "INTERCONNECTED VOIP NUMBERING AUTHORIZATION APPLICATION FILED BY SHORETEL SKY DBA M5 NETWORKS LLC PURSUANT TO SECTION 52.15(g)(3) OF THE COMMISSION&#146;S RULES",
+      "INTERCONNECTED VOIP NUMBERING AUTHORIZATION APPLICATION FILED BY TELNYX, LLC. PURSUANT TO SECTION 52.15(g)(3) OF THE COMMISSION?S RULES"
+    ],
+    "has_supplements": false,
+    "recent_activity": false
+  },
+  "parsed_from_docs": {
+    "address": "1385 Broadway FL 7",
+    "city": null,
+    "state": null,
+    "zip_code": null,
+    "phone": "8447467383",
+    "email": null,
+    "key_personnel": [
+      {
+        "name": "and CEO",
+        "title": "President"
+      },
+      {
+        "name": "and Chief",
+        "title": "President"
+      },
+      {
+        "name": "Chief Information Officer",
+        "title": "Mark Roberts"
+      }
+    ],
+    "founding_date": "2007",
+    "service_description": null
+  },
+  "web_search_results": [
+    {
+      "title": "ShoreTel - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/ShoreTel",
+      "snippet": "ShoreTel , Inc . was a telecommunications vendor providing unified communications for business.In September 1996, ShoreTel was co-founded as Shoreline Teleworks by Edwin J. Basart and Mike Harrigan, both of whom were co-founders of Network Computing Devices."
+    },
+    {
+      "title": "ShoreTel Inc Store - Newegg.com",
+      "url": "https://www.newegg.com/ShoreTel-Inc/BrandStore/ID-116879",
+      "snippet": "Shop for ShoreTel Inc products on Newegg.com. Quickly find what you are looking for with our amazing filter system. Order today for fast shipping and awesome customer service."
+    },
+    {
+      "title": "ShoreTel | Hardware, Telecommunications , VoIP",
+      "url": "https://dfkcompany.com/shoretel/",
+      "snippet": "ShoreTel is a Sunnyvale, Calif. a seller of IP telecom systems to large businesses. ShoreTel , Inc ., together with its subsidiaries, engages in the development and sale of Internet protocol ( IP ) communications systems for enterprises in the United States and internationally."
+    },
+    {
+      "title": "Shoretel - YouTube",
+      "url": "https://www.youtube.com/playlist?list=PLpFRbAofvcDQt4j6OU3pXlGsoT5XpR8X_",
+      "snippet": "ShoreTel , Inc . was a telecommunications company specializing in unified communications for businesses. Established in 1996, ShoreTel developed a range of communication solutions including business phone systems, contact center solutions, and hosted voice platforms."
+    },
+    {
+      "title": "ShoreTel Vs Telzio (Oct 2024) | ITQlick",
+      "url": "https://www.itqlick.com/compare/shoretel/telzio",
+      "snippet": "ShoreTel , Inc .: ShoreTel , Inc . is a software company based in Sunnyvale, California.ShoreTel is a growing cloud-based VoIP software, it is designed to support medium and large size business. ShoreTel received a rating of 4.9 from ITQlick team."
+    }
+  ]
+}
+
+RULES:
+- Ground ALL assessments in the provided evidence
+- Cite specific sources in activity_signal (e.g., "Recent FCC filing (2024)", "Company website found via search")
+- Use "Unknown" when evidence is insufficient - DO NOT hallucinate
+- Confidence levels:
+  - High = Multiple confirming signals (recent web presence + recent filings + company details)
+  - Medium = Some signals but incomplete picture
+  - Low = FCC data only, no external confirmation
+
+Call the enrichment_result function with your analysis.

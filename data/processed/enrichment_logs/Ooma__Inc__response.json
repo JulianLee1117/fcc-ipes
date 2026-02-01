@@ -1,0 +1,35 @@
+{
+  "id": "msg_011bzkhtdUkoLM4EszUnHQoj",
+  "content": [
+    {
+      "id": "toolu_01NSo4SCYWKAryhujju7DgFM",
+      "input": {
+        "is_active": true,
+        "activity_signal": "Company website active (ooma.com found via search), Wikipedia entry describes as \"publicly traded telecommunications company\", recent acquisition announcement from November 24, 2025 (Ooma announces definitive agreement to acquire Phone.com), and active LinkedIn company profile. NYSE listing (OOMA) indicates ongoing public company status.",
+        "industry_segment": "UCaaS",
+        "product_summary": "Ooma provides cloud-based VoIP communication services including phone, messaging, video, and advanced communications for both businesses and consumers through a subscription-based model.",
+        "market_position": "SMB",
+        "enrichment_confidence": "High"
+      },
+      "name": "enrichment_result",
+      "type": "tool_use"
+    }
+  ],
+  "model": "claude-sonnet-4-20250514",
+  "role": "assistant",
+  "stop_reason": "tool_use",
+  "stop_sequence": null,
+  "type": "message",
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0,
+    "input_tokens": 1689,
+    "output_tokens": 231,
+    "server_tool_use": null,
+    "service_tier": "standard"
+  }
+}

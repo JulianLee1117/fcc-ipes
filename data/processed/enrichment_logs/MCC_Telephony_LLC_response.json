@@ -1,0 +1,35 @@
+{
+  "id": "msg_01DG7ismU21FTVWRL9LtrftT",
+  "content": [
+    {
+      "id": "toolu_01MNH5L7JbmzJgGMnHfmxWYW",
+      "input": {
+        "is_active": false,
+        "activity_signal": "No recent activity signals found. FCC filing only from October 2022 with no subsequent filings or supplements. Web search results only show the company name in generic telecom listings and people search results without any active business presence, website, or current operations evidence.",
+        "industry_segment": "UCaaS",
+        "product_summary": "MCC Telephony LLC appears to be an interconnected VoIP service provider that filed for numbering authorization to operate in the competitive VoIP business sector.",
+        "market_position": "Unknown",
+        "enrichment_confidence": "Low"
+      },
+      "name": "enrichment_result",
+      "type": "tool_use"
+    }
+  ],
+  "model": "claude-sonnet-4-20250514",
+  "role": "assistant",
+  "stop_reason": "tool_use",
+  "stop_sequence": null,
+  "type": "message",
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0,
+    "input_tokens": 1814,
+    "output_tokens": 217,
+    "server_tool_use": null,
+    "service_tier": "standard"
+  }
+}

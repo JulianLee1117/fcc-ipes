@@ -1,0 +1,76 @@
+You are analyzing an IPES (Interconnected VoIP Provider) company that filed for numbering authorization with the FCC.
+
+Based ONLY on the evidence provided below, determine:
+1. Whether the company is likely still active
+2. Their industry segment (UCaaS, CCaaS, CPaaS, Carrier, Reseller, Enterprise IT, or Other)
+3. A brief product summary
+4. Their market position (Enterprise, Mid-Market, SMB, Startup, or Unknown)
+5. Your confidence level based on evidence quality
+
+EVIDENCE PACK:
+{
+  "company_name": "Arif Gul",
+  "aliases": [
+    "Arif Gul"
+  ],
+  "fcc_filing": {
+    "first_filing_date": "2023-09-29",
+    "latest_filing_date": "2023-09-29",
+    "total_filings": 1,
+    "docket_numbers": [],
+    "proceeding_types": [
+      "VoIP Numbering Authorization Application (Fee Required)"
+    ],
+    "has_supplements": false,
+    "recent_activity": false
+  },
+  "parsed_from_docs": {
+    "address": null,
+    "city": null,
+    "state": null,
+    "zip_code": null,
+    "phone": null,
+    "email": null,
+    "key_personnel": [],
+    "founding_date": null,
+    "service_description": null
+  },
+  "web_search_results": [
+    {
+      "title": "VoIP Business gives high-quality audio and video calls",
+      "url": "https://play.google.com/store/apps/details?id=app.voipbusiness.com",
+      "snippet": "VoIP Business. Arif Gul . 500+. Downloads."
+    },
+    {
+      "title": "VoIP Business APK for Android Download - PGYER APKHUB",
+      "url": "https://www.pgyer.com/apk/apk/app.voipbusiness.com",
+      "snippet": "VoIP Business. Arif Gul . INSTALL. VoIP Business is designed to provide you with the highest quality audio and video calls, making it an indispensable tool for your business communication needs. Beyond just voice and video capabilities, this application comes packed with a suite of..."
+    },
+    {
+      "title": "Arif Gul - Fullduplex | LinkedIn",
+      "url": "https://uk.linkedin.com/in/arif-gul-b215b51b",
+      "snippet": "View Arif Gul \u2019s profile on LinkedIn, a professional community of 1 billion members.- EFSET English Certificate - Score: 60/100, Upper Intermediate (CEFR B2). - The Cisco Certified Internetwork Expert (CCIE). - VoIP with SIP."
+    },
+    {
+      "title": "arif gul (@arifgul08293751) / Twitter",
+      "url": "https://twitter.com/arifgul08293751",
+      "snippet": "arif gul Retweeted. VIP UZMAN MAS\u00d6R. @Masor0671Uzman.This Tweet is unavailable. 1. arif gul . @arifgul08293751."
+    },
+    {
+      "title": "Sajjad Arif Gul - YouTube",
+      "url": "https://www.youtube.com/channel/UCfEzbIbiVu7zSyxxzkFEpXQ",
+      "snippet": "Official Youtube Channel of Sajjad Arif Gul . Hi! I am Sajjad Arif Gul . I love expressing myself, things I do & things I love. I love sharing personal experiences that could possibly help someone\u2019s life in some capacity."
+    }
+  ]
+}
+
+RULES:
+- Ground ALL assessments in the provided evidence
+- Cite specific sources in activity_signal (e.g., "Recent FCC filing (2024)", "Company website found via search")
+- Use "Unknown" when evidence is insufficient - DO NOT hallucinate
+- Confidence levels:
+  - High = Multiple confirming signals (recent web presence + recent filings + company details)
+  - Medium = Some signals but incomplete picture
+  - Low = FCC data only, no external confirmation
+
+Call the enrichment_result function with your analysis.

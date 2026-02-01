@@ -1,0 +1,83 @@
+You are analyzing an IPES (Interconnected VoIP Provider) company that filed for numbering authorization with the FCC.
+
+Based ONLY on the evidence provided below, determine:
+1. Whether the company is likely still active
+2. Their industry segment (UCaaS, CCaaS, CPaaS, Carrier, Reseller, Enterprise IT, or Other)
+3. A brief product summary
+4. Their market position (Enterprise, Mid-Market, SMB, Startup, or Unknown)
+5. Your confidence level based on evidence quality
+
+EVIDENCE PACK:
+{
+  "company_name": "U.S. TelePacific Corp. d/b/a TPx Communications",
+  "aliases": [
+    "U.S. TelePacific Corp. d/b/a TPx Communications"
+  ],
+  "fcc_filing": {
+    "first_filing_date": "2021-06-17",
+    "latest_filing_date": "2021-06-17",
+    "total_filings": 1,
+    "docket_numbers": [
+      "21-268"
+    ],
+    "proceeding_types": [
+      "Interconnected VoIP Numbering Authorization Application Filed By U.S. TelePacific Corp. dba TPx Communications Pursuant To Section 52.15(g)(3) Of The Commission's Rules"
+    ],
+    "has_supplements": false,
+    "recent_activity": false
+  },
+  "parsed_from_docs": {
+    "address": null,
+    "city": null,
+    "state": null,
+    "zip_code": null,
+    "phone": null,
+    "email": null,
+    "key_personnel": [
+      {
+        "name": "aanndd PPwwCC",
+        "title": "Coo"
+      }
+    ],
+    "founding_date": null,
+    "service_description": null
+  },
+  "web_search_results": [
+    {
+      "title": "District Of Columbia Telecoms List 2025 | TeraCodes",
+      "url": "https://www.teracodes.com/telecoms/district-of-columbia/",
+      "snippet": "List of all the telecom service providers operating in the state/region of District Of Columbia. ... Mobile Communications Corporation of America ..."
+    },
+    {
+      "title": "California Telecoms List 2025 | TeraCodes",
+      "url": "https://www.teracodes.com/telecoms/california/",
+      "snippet": "List of all the telecom service providers operating in the state/region of California. ... Mobile Communications Corporation of America, Inc."
+    },
+    {
+      "title": "Connecticut Telecoms List 2025 | TeraCodes",
+      "url": "https://www.teracodes.com/telecoms/connecticut/",
+      "snippet": "List of all the telecom service providers operating in the state/region of Connecticut. ... Mobile Communications Corporation of America, Inc."
+    },
+    {
+      "title": "Florida Telecoms List 2025 | TeraCodes",
+      "url": "https://www.teracodes.com/telecoms/florida/",
+      "snippet": "List of all the telecom service providers operating in the state/region of Florida. ... Mobile Communications Corporation of America, Inc."
+    },
+    {
+      "title": "Colorado Telecoms List 2025 | TeraCodes",
+      "url": "https://www.teracodes.com/telecoms/colorado/",
+      "snippet": "List of all the telecom service providers operating in the state/region of Colorado. ... Mobile Communications Corporation of America, Inc."
+    }
+  ]
+}
+
+RULES:
+- Ground ALL assessments in the provided evidence
+- Cite specific sources in activity_signal (e.g., "Recent FCC filing (2024)", "Company website found via search")
+- Use "Unknown" when evidence is insufficient - DO NOT hallucinate
+- Confidence levels:
+  - High = Multiple confirming signals (recent web presence + recent filings + company details)
+  - Medium = Some signals but incomplete picture
+  - Low = FCC data only, no external confirmation
+
+Call the enrichment_result function with your analysis.

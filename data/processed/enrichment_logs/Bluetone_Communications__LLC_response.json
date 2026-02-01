@@ -1,0 +1,35 @@
+{
+  "id": "msg_01N8ujHg92qgYN8pWoTkqFFN",
+  "content": [
+    {
+      "id": "toolu_01PFpyqsLo1ogUsedUGatiNs",
+      "input": {
+        "is_active": false,
+        "activity_signal": "Company appears inactive based on: 1) Only FCC filing from 2020-10-19 with no recent activity, 2) Web search results exclusively show FTC warning letters from March 2020 regarding facilitating illegal robocalls/scams, 3) No current operational website or business presence found, 4) ARIN registry shows address update as recent as 2024-11-25 but no business activity evidence",
+        "industry_segment": "Carrier",
+        "product_summary": "VoIP service provider that filed to provide interconnected VoIP services initially in Texas, but was warned by FTC in 2020 for facilitating illegal coronavirus-related robocalls and scams.",
+        "market_position": "Unknown",
+        "enrichment_confidence": "Medium"
+      },
+      "name": "enrichment_result",
+      "type": "tool_use"
+    }
+  ],
+  "model": "claude-sonnet-4-20250514",
+  "role": "assistant",
+  "stop_reason": "tool_use",
+  "stop_sequence": null,
+  "type": "message",
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0,
+    "input_tokens": 2015,
+    "output_tokens": 267,
+    "server_tool_use": null,
+    "service_tier": "standard"
+  }
+}

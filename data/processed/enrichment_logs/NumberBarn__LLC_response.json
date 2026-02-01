@@ -1,0 +1,35 @@
+{
+  "id": "msg_01HXGxdbB8rNK6VfH2pmxs5E",
+  "content": [
+    {
+      "id": "toolu_011yZRhNWpn5jncA8sXF2bQx",
+      "input": {
+        "is_active": true,
+        "activity_signal": "Company website found via search (www.numberbarn.com) showing active services for phone number parking, porting, and forwarding. Multiple recent web search results from 2024 including company profiles on Datanyze and Crunchbase indicating ongoing business operations. Website shows active FAQ section with current service offerings.",
+        "industry_segment": "Carrier",
+        "product_summary": "NumberBarn provides phone number services including toll-free and local number provisioning, number porting, parking, and call forwarding services as an interconnected VoIP provider.",
+        "market_position": "SMB",
+        "enrichment_confidence": "High"
+      },
+      "name": "enrichment_result",
+      "type": "tool_use"
+    }
+  ],
+  "model": "claude-sonnet-4-20250514",
+  "role": "assistant",
+  "stop_reason": "tool_use",
+  "stop_sequence": null,
+  "type": "message",
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0,
+    "input_tokens": 1859,
+    "output_tokens": 233,
+    "server_tool_use": null,
+    "service_tier": "standard"
+  }
+}

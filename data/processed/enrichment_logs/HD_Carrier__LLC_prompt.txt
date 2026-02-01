@@ -1,0 +1,78 @@
+You are analyzing an IPES (Interconnected VoIP Provider) company that filed for numbering authorization with the FCC.
+
+Based ONLY on the evidence provided below, determine:
+1. Whether the company is likely still active
+2. Their industry segment (UCaaS, CCaaS, CPaaS, Carrier, Reseller, Enterprise IT, or Other)
+3. A brief product summary
+4. Their market position (Enterprise, Mid-Market, SMB, Startup, or Unknown)
+5. Your confidence level based on evidence quality
+
+EVIDENCE PACK:
+{
+  "company_name": "HD Carrier, LLC",
+  "aliases": [
+    "HD Carrier, LLC"
+  ],
+  "fcc_filing": {
+    "first_filing_date": "2017-06-23",
+    "latest_filing_date": "2017-06-23",
+    "total_filings": 2,
+    "docket_numbers": [
+      "17-241"
+    ],
+    "proceeding_types": [
+      "INTERCONNECTED VOIP NUMBERING AUTHORIZATION APPLICATION FILED BY HD CARRIER, LLC PURSUANT TO SECTION 52.15(g)(3) OF THE COMMISSION&#146;S RULES"
+    ],
+    "has_supplements": true,
+    "recent_activity": false
+  },
+  "parsed_from_docs": {
+    "address": "170 S. Green ValleyParkway",
+    "city": "Henderson",
+    "state": "NE",
+    "zip_code": "89074",
+    "phone": "4077408575",
+    "email": null,
+    "key_personnel": [],
+    "founding_date": null,
+    "service_description": "provide interconnected VoIP services initially in CA and NY."
+  },
+  "web_search_results": [
+    {
+      "title": "VoIP carrier argues AT&T\u2019s motion to dismiss lawsuit is... | TechRadar",
+      "url": "https://www.techradar.com/news/atandt-accused-by-voip-carrier-of-blocking-its-calls",
+      "snippet": "HD Carrier LLC , a Voice over Internet Protocol ( VoIP ) provider currently suing AT&T in California, has said that attempts to dismiss its lawsuit are mere delaying tactics."
+    },
+    {
+      "title": "Telcodata.US - The Telecommunications Database",
+      "url": "https://www.telcodata.us/search-area-code-exchange-detail?npa=567&exchange=358",
+      "snippet": "Oh. HD Carrier LLC . 321J. Sylvania."
+    },
+    {
+      "title": "HD CARRIER LLC , E0568492011-9 | Nevada-register.com",
+      "url": "https://www.nevada-register.com/1079600-hd-carrier-llc",
+      "snippet": "Company name. HD CARRIER LLC . Status. Active.The company HD CARRIER LLC is managed by 3 persons in total. The persons responsible for business activities are BONDAR DIMITRY with the seat at 701 NORTH GREEN VALLEY PKWY., HENDERSON, 89074, NV as Manager..."
+    },
+    {
+      "title": "HD Carrier LLC v. AT and T Corp 2:2020cv06509 | Justia",
+      "url": "https://dockets.justia.com/docket/california/cacdce/2:2020cv06509/789027",
+      "snippet": "Justia Dockets & Filings Ninth Circuit California Central District HD Carrier LLC v. AT and T Corp.Filing 18 PROOF OF SERVICE Executed by Plaintiff HD Carrier LLC , upon Defendant AT and T Corp. served on 7/24/2020, answer due 8/14/2020."
+    },
+    {
+      "title": "VOIP Providers registered with pura",
+      "url": "https://portal.ct.gov/-/media/pura/telcom/el-adds/registered-voip-providers---pura-530.pdf",
+      "snippet": "6 A D N Internet /Telephone, LLC. 2/14/2018. 7 Affliated Technology Solutions, LLC.88 Hark, LLC f/k/a BA Telecom , Inc. 89 HD Carrier , LLC ."
+    }
+  ]
+}
+
+RULES:
+- Ground ALL assessments in the provided evidence
+- Cite specific sources in activity_signal (e.g., "Recent FCC filing (2024)", "Company website found via search")
+- Use "Unknown" when evidence is insufficient - DO NOT hallucinate
+- Confidence levels:
+  - High = Multiple confirming signals (recent web presence + recent filings + company details)
+  - Medium = Some signals but incomplete picture
+  - Low = FCC data only, no external confirmation
+
+Call the enrichment_result function with your analysis.

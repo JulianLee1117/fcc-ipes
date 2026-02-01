@@ -1,0 +1,92 @@
+You are analyzing an IPES (Interconnected VoIP Provider) company that filed for numbering authorization with the FCC.
+
+Based ONLY on the evidence provided below, determine:
+1. Whether the company is likely still active
+2. Their industry segment (UCaaS, CCaaS, CPaaS, Carrier, Reseller, Enterprise IT, or Other)
+3. A brief product summary
+4. Their market position (Enterprise, Mid-Market, SMB, Startup, or Unknown)
+5. Your confidence level based on evidence quality
+
+EVIDENCE PACK:
+{
+  "company_name": "Ewart Technologies, Inc",
+  "aliases": [
+    "Ewart Technologies Inc",
+    "Ewart Technologies, Inc"
+  ],
+  "fcc_filing": {
+    "first_filing_date": "2020-09-17",
+    "latest_filing_date": "2020-09-17",
+    "total_filings": 3,
+    "docket_numbers": [
+      "20-314"
+    ],
+    "proceeding_types": [
+      "Interconnected VoIP Numbering Authorization Application Filed By Ewart Technologies, Inc Pursuant To Section 52.15(g)(3) Of The Commission's Rules"
+    ],
+    "has_supplements": true,
+    "recent_activity": false
+  },
+  "parsed_from_docs": {
+    "address": "15751 Sheridan St PMB-160",
+    "city": null,
+    "state": null,
+    "zip_code": null,
+    "phone": null,
+    "email": null,
+    "key_personnel": [
+      {
+        "name": "Same as",
+        "title": "CEO"
+      },
+      {
+        "name": "and Chief",
+        "title": "President"
+      },
+      {
+        "name": "Chief Information Officer",
+        "title": "Same as"
+      }
+    ],
+    "founding_date": "1997",
+    "service_description": null
+  },
+  "web_search_results": [
+    {
+      "title": "Home - Ewart Technologies Inc .",
+      "url": "https://www.ewarttechnologies.com/",
+      "snippet": "Ewart Technologies is a cloud services provider offering web hosting, hosted email, dedicated virtual servers, online data backup, security services and more.CONTACT US. Ewart Technologies , Inc . 15751 Sheridan St, #160 Ft."
+    },
+    {
+      "title": "AS20388 - Ewart Technologies - PeeringDB",
+      "url": "https://www.peeringdb.com/net/4595",
+      "snippet": "Organization. Ewart Technologies Inc . Also Known As. IsleCall Communications.20388. IRR as-set/route-set. ARIN::RS- EWART - TECHNOLOGIES . Route Server URL."
+    },
+    {
+      "title": "Ewart Technologies , Inc . - 15751 Sheridan St #160, Fort... - Cybo",
+      "url": "https://et.cybo.com/US-biz/ewart-technologies-inc",
+      "snippet": "Ewart Technologies , Inc . asub kohas Fort Lauderdale. Ewart Technologies , Inc . ei tegutse valdkondades Elektroonika kauplused, Teadus- ja tehnilised teenused. Ettev\u00f5ttega saate \u00fchendust numbril (877) 241-1490."
+    },
+    {
+      "title": "AS20388 - ETI-FLL1, Ewart Technologies",
+      "url": "https://www.ip-tracker.org/asn.php?number=AS20388",
+      "snippet": "AS20388 - Ewart Technologies . AS20388 is AS block owned by Ewart Technologies . Each AS number is unique, identifies the organization or ISP and may contain one or more IP ranges, whether it is an IPv4 or IPv6 range."
+    },
+    {
+      "title": "AS20388 ETI-FLL1 - Ewart Technologies , Inc ., US | IPIP.NET",
+      "url": "https://whois.ipip.net/AS20388",
+      "snippet": "United States. IP Address Ranges.68.70.123.0/24. ROA Signed and Valid IRR Valid. Ewart Technologies , Inc ."
+    }
+  ]
+}
+
+RULES:
+- Ground ALL assessments in the provided evidence
+- Cite specific sources in activity_signal (e.g., "Recent FCC filing (2024)", "Company website found via search")
+- Use "Unknown" when evidence is insufficient - DO NOT hallucinate
+- Confidence levels:
+  - High = Multiple confirming signals (recent web presence + recent filings + company details)
+  - Medium = Some signals but incomplete picture
+  - Low = FCC data only, no external confirmation
+
+Call the enrichment_result function with your analysis.

@@ -1,0 +1,35 @@
+{
+  "id": "msg_011pd7C29ouEm8AA6mdz2dMy",
+  "content": [
+    {
+      "id": "toolu_01JRhczqJqAE3pNB1Ltr9uwH",
+      "input": {
+        "is_active": false,
+        "activity_signal": "Company was acquired by Fusion CX in May 2022 according to web search results, which indicates it no longer operates as an independent entity. FCC filing was from 2021-05-07 with no recent activity. LinkedIn profile shows \"(A Fusion CX Company)\" indicating the acquisition. No independent web presence or recent company activity found.",
+        "industry_segment": "CCaaS",
+        "product_summary": "Boomsourcing was a call center outsourcing company that provided voice and non-voice customer engagement services using proprietary \"Perfect Pitch Technology\" - a patented hosted call center suite integrating scripted audio into live agent conversations.",
+        "market_position": "Mid-Market",
+        "enrichment_confidence": "High"
+      },
+      "name": "enrichment_result",
+      "type": "tool_use"
+    }
+  ],
+  "model": "claude-sonnet-4-20250514",
+  "role": "assistant",
+  "stop_reason": "tool_use",
+  "stop_sequence": null,
+  "type": "message",
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0,
+    "input_tokens": 2446,
+    "output_tokens": 255,
+    "server_tool_use": null,
+    "service_tier": "standard"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "msg_018k2uCwpcyMMw3EAjHnUCoz",
+  "content": [
+    {
+      "id": "toolu_01JjM26zvKm8fggs6dpXPuiR",
+      "input": {
+        "is_active": false,
+        "activity_signal": "Company appears inactive based on: 1) Single FCC filing from 2020-07-23 with no recent activity, 2) Major data breach exposure in March 2021 involving robocall database (reported by Website Planet and multiple cybersecurity sources), 3) Web search results primarily show historical breach reports rather than active business operations, 4) No current company website or active business presence found in searches",
+        "industry_segment": "CPaaS",
+        "product_summary": "200 Networks was a robocall service provider that offered interconnected VoIP services, primarily operating automated calling systems and databases before experiencing a major data breach in 2021.",
+        "market_position": "SMB",
+        "enrichment_confidence": "Medium"
+      },
+      "name": "enrichment_result",
+      "type": "tool_use"
+    }
+  ],
+  "model": "claude-sonnet-4-20250514",
+  "role": "assistant",
+  "stop_reason": "tool_use",
+  "stop_sequence": null,
+  "type": "message",
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0,
+    "input_tokens": 3816,
+    "output_tokens": 256,
+    "server_tool_use": null,
+    "service_tier": "standard"
+  }
+}

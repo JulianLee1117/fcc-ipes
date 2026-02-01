@@ -1,0 +1,83 @@
+You are analyzing an IPES (Interconnected VoIP Provider) company that filed for numbering authorization with the FCC.
+
+Based ONLY on the evidence provided below, determine:
+1. Whether the company is likely still active
+2. Their industry segment (UCaaS, CCaaS, CPaaS, Carrier, Reseller, Enterprise IT, or Other)
+3. A brief product summary
+4. Their market position (Enterprise, Mid-Market, SMB, Startup, or Unknown)
+5. Your confidence level based on evidence quality
+
+EVIDENCE PACK:
+{
+  "company_name": "Invoxio Inc",
+  "aliases": [
+    "Invoxio Inc"
+  ],
+  "fcc_filing": {
+    "first_filing_date": "2017-07-13",
+    "latest_filing_date": "2017-07-13",
+    "total_filings": 1,
+    "docket_numbers": [
+      "17-217"
+    ],
+    "proceeding_types": [
+      "INTERCONNECTED VOIP NUMBERING AUTHORIZATION APPLICATION FILED BY INVOXIO, INC. PURSUANT TO SECTION 52.15(g)(3) OF THE COMMISSION&#146;S RULES"
+    ],
+    "has_supplements": false,
+    "recent_activity": false
+  },
+  "parsed_from_docs": {
+    "address": "4310 Metro Parkway Ste 110",
+    "city": null,
+    "state": null,
+    "zip_code": null,
+    "phone": "5619900000",
+    "email": null,
+    "key_personnel": [
+      {
+        "name": "Donovan Osbourne",
+        "title": "CTO"
+      }
+    ],
+    "founding_date": "4310",
+    "service_description": null
+  },
+  "web_search_results": [
+    {
+      "title": "Invoxio - The Phone Company for Developers",
+      "url": "https://invoxio.com/",
+      "snippet": "Carrier-grade voice , messaging, and data APIs. Built in the cloud, for the cloud. Powered by telco.dev, talk.dev, sms.dev, and more.Ready to get started? Join thousands of developers and businesses building with Invoxio ."
+    },
+    {
+      "title": "Invoxio - Voice , Messaging, Data",
+      "url": "https://invoxio.com/contact",
+      "snippet": "Invoxio Logo Invoxio . Home Contact. Login."
+    },
+    {
+      "title": "Invoxio - Voice , Messaging, Data",
+      "url": "https://invoxio.com/login",
+      "snippet": "Invoxio Logo Invoxio . Home Contact. Login."
+    },
+    {
+      "title": "American Samoa Telecoms List 2025 | TeraCodes",
+      "url": "https://www.teracodes.com/telecoms/american-samoa/",
+      "snippet": "STAR Telecommunications , Inc . ... PNG Telecommunications , Inc . ... Telecommunications Cooperative Network, Inc ."
+    },
+    {
+      "title": "Guam Telecoms List 2025 | TeraCodes",
+      "url": "https://www.teracodes.com/telecoms/guam/",
+      "snippet": "Telecommunications Cooperative Network, Inc . ... Tyco Telecommunications (US), Inc . ... VSNL Telecommunications (US) Inc ."
+    }
+  ]
+}
+
+RULES:
+- Ground ALL assessments in the provided evidence
+- Cite specific sources in activity_signal (e.g., "Recent FCC filing (2024)", "Company website found via search")
+- Use "Unknown" when evidence is insufficient - DO NOT hallucinate
+- Confidence levels:
+  - High = Multiple confirming signals (recent web presence + recent filings + company details)
+  - Medium = Some signals but incomplete picture
+  - Low = FCC data only, no external confirmation
+
+Call the enrichment_result function with your analysis.

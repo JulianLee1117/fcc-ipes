@@ -1,0 +1,76 @@
+You are analyzing an IPES (Interconnected VoIP Provider) company that filed for numbering authorization with the FCC.
+
+Based ONLY on the evidence provided below, determine:
+1. Whether the company is likely still active
+2. Their industry segment (UCaaS, CCaaS, CPaaS, Carrier, Reseller, Enterprise IT, or Other)
+3. A brief product summary
+4. Their market position (Enterprise, Mid-Market, SMB, Startup, or Unknown)
+5. Your confidence level based on evidence quality
+
+EVIDENCE PACK:
+{
+  "company_name": "Valstarr Asia",
+  "aliases": [
+    "Valstarr Asia"
+  ],
+  "fcc_filing": {
+    "first_filing_date": "2021-09-10",
+    "latest_filing_date": "2021-09-10",
+    "total_filings": 1,
+    "docket_numbers": [],
+    "proceeding_types": [
+      "VoIP Numbering Authorization Application"
+    ],
+    "has_supplements": false,
+    "recent_activity": false
+  },
+  "parsed_from_docs": {
+    "address": null,
+    "city": "Valley",
+    "state": "CA",
+    "zip_code": "92082",
+    "phone": null,
+    "email": "valstarrasiallc@gmail.com",
+    "key_personnel": [],
+    "founding_date": null,
+    "service_description": null
+  },
+  "web_search_results": [
+    {
+      "title": "FCC Form 499 Filer Database Detailed Information FCC MASSACRE: Commission Just Crushes 185 Telecom Providers ... FCC Delists 185 Providers Over Robocall Violations FCC MASSACRE: Commission Just Crushes 185 Telecom Providers ... List of VoIP Service Providers in Asia VoIP Providers - Compare and Start Saving - VoIP Monitor List of top Asia VoIP Companies - Crunchbase Hub Profile",
+      "url": "https://apps.fcc.gov/cgb/form499/499detail.cfm?FilerNum=834604",
+      "snippet": "Apr 1, 2021 \u00b7 Legal Name of Reporting Entity: Valstarr Asia Doing Business As: AirLuna Principal Communications Type: Other Local Universal Service Fund Contributor: No (Contact USAC at 888-641-8722 if this is not correct.) Holding Company: Registration Number (CORESID): 0031217029 Aug 11, 2025 \u00b7 All intermediate providers and voice service providers must cease accepting traffic from the Companies within two business days of the release date of this Order. The Companies shall not refile in the RMD unless and until both WCB and the Bureau consent. Short and sweet and fatal. Aug 11, 2025 \u00b7 Federal Communications Commission removes 185 telecom firms from the Robocall Mitigation Database. Providers must block traffic from these entities starting August 8. Aug 11, 2025 \u00b7 Insane. This means the FCC literally just shut down 185 telecom companies with a flick of the wrist. Here is the key language: We remove the certifications of the Companies identified in Appendix A from the RMD as of the release date of this Order. This is a list of VOIP Service Providers in Asia who offer full service products primarily aimed at the SMB telephone market. Aug 27, 2012 \u00b7 The VoIP rates are 80 percent cheaper for intercity calls, 20 percent lower for calls to mobile phones and 95 percent cheaper for international calls. According to the Korean Communications Commission, the number of paid Internet telephony subscribers broke the 10 million mark this year. This list of companies and startups in Asia in the voip space provides data on their funding history, investment activities, and acquisition trends. Insights about top trending companies, startups, investments and M&A. How much aggregate funding have these organizations raised over time?"
+    },
+    {
+      "title": "List of VoIP Service Providers in Asia",
+      "url": "https://www.voip-info.org/voip-service-providers-business-asia/",
+      "snippet": "This is a list of VOIP Service Providers in Asia who offer full service products primarily aimed at the SMB telephone market."
+    },
+    {
+      "title": "VoIP Providers - Compare and Start Saving - VoIP Monitor",
+      "url": "http://www.voipmonitor.net/CategoryView,category,VoIP+by+Region,Asia.aspx",
+      "snippet": "Aug 27, 2012 \u00b7 The VoIP rates are 80 percent cheaper for intercity calls, 20 percent lower for calls to mobile phones and 95 percent cheaper for international calls. According to the Korean Communications Commission, the number of paid Internet telephony subscribers broke the 10 million mark this year."
+    },
+    {
+      "title": "List of top Asia VoIP Companies - Crunchbase Hub Profile",
+      "url": "https://www.crunchbase.com/hub/asia-voip-companies",
+      "snippet": "This list of companies and startups in Asia in the voip space provides data on their funding history, investment activities, and acquisition trends. Insights about top trending companies, startups, investments and M&A. How much aggregate funding have these organizations raised over time?"
+    },
+    {
+      "title": "FCC MASSACRE: Commission Just Crushes 185 Telecom Providers ...",
+      "url": "https://tcpaworld.com/2025/08/11/fcc-massacre-commission-just-crushes-185-telecom-providers-requires-carriers-to-immediately-cease-accepting-their-traffic-in-biggest-sweep-ever-i-name-them-all/",
+      "snippet": "Aug 11, 2025 \u00b7 All intermediate providers and voice service providers must cease accepting traffic from the Companies within two business days of the release date of this Order. The Companies shall not refile in the RMD unless and until both WCB and the Bureau consent. Short and sweet and fatal."
+    }
+  ]
+}
+
+RULES:
+- Ground ALL assessments in the provided evidence
+- Cite specific sources in activity_signal (e.g., "Recent FCC filing (2024)", "Company website found via search")
+- Use "Unknown" when evidence is insufficient - DO NOT hallucinate
+- Confidence levels:
+  - High = Multiple confirming signals (recent web presence + recent filings + company details)
+  - Medium = Some signals but incomplete picture
+  - Low = FCC data only, no external confirmation
+
+Call the enrichment_result function with your analysis.

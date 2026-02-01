@@ -1,0 +1,35 @@
+{
+  "id": "msg_01CKaXKBxEhWjjr1J6RqdAa2",
+  "content": [
+    {
+      "id": "toolu_01XEFpYFTRdc6GnPySBUT9e7",
+      "input": {
+        "is_active": true,
+        "activity_signal": "Company has FCC Form 499 registration current as of 4/1/2022 according to Dun & Bradstreet search result. Manta.com listing shows current business hours (9:00 AM - 5:00 PM Mon-Sat) and active contact information including phone (801) 674-0725 and address in Lehi, UT. However, no evidence of activity more recent than 2022.",
+        "industry_segment": "Carrier",
+        "product_summary": "Perfect Pitch Technology is an interconnected VoIP provider that filed with the FCC to obtain telephone numbers directly from Numbering Administrators, initially serving Utah with plans to expand nationwide VoIP services.",
+        "market_position": "Unknown",
+        "enrichment_confidence": "Medium"
+      },
+      "name": "enrichment_result",
+      "type": "tool_use"
+    }
+  ],
+  "model": "claude-sonnet-4-20250514",
+  "role": "assistant",
+  "stop_reason": "tool_use",
+  "stop_sequence": null,
+  "type": "message",
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0,
+    "input_tokens": 2198,
+    "output_tokens": 270,
+    "server_tool_use": null,
+    "service_tier": "standard"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "msg_01Ww3vrhmwxLJDAhfr3TAjWs",
+  "content": [
+    {
+      "id": "toolu_019ycfsGdt6ZDfQJThCaBNUY",
+      "input": {
+        "is_active": true,
+        "activity_signal": "Company website found via search (site.tncconnected.com), active social media presence on Twitter (@TNC_Comm), LinkedIn company page exists, and PeeringDB AS number registration (AS396855) - all suggesting ongoing operations despite FCC filing being from 2020",
+        "industry_segment": "Carrier",
+        "product_summary": "TNC Communications provides telecommunications services including television, internet, VoIP phone, and managed IT services for residential, commercial, and multi-family markets.",
+        "market_position": "SMB",
+        "enrichment_confidence": "Medium"
+      },
+      "name": "enrichment_result",
+      "type": "tool_use"
+    }
+  ],
+  "model": "claude-sonnet-4-20250514",
+  "role": "assistant",
+  "stop_reason": "tool_use",
+  "stop_sequence": null,
+  "type": "message",
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0,
+    "input_tokens": 1742,
+    "output_tokens": 221,
+    "server_tool_use": null,
+    "service_tier": "standard"
+  }
+}

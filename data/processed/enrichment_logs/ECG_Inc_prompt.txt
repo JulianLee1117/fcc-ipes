@@ -1,0 +1,68 @@
+You are analyzing an IPES (Interconnected VoIP Provider) company that filed for numbering authorization with the FCC.
+
+Based ONLY on the evidence provided below, determine:
+1. Whether the company is likely still active
+2. Their industry segment (UCaaS, CCaaS, CPaaS, Carrier, Reseller, Enterprise IT, or Other)
+3. A brief product summary
+4. Their market position (Enterprise, Mid-Market, SMB, Startup, or Unknown)
+5. Your confidence level based on evidence quality
+
+EVIDENCE PACK:
+{
+  "company_name": "ECG Inc",
+  "aliases": [
+    "ECG Inc"
+  ],
+  "fcc_filing": {
+    "first_filing_date": "2021-06-01",
+    "latest_filing_date": "2021-06-01",
+    "total_filings": 1,
+    "docket_numbers": [
+      "21-198"
+    ],
+    "proceeding_types": [
+      "Interconnected VoIP Numbering Authorization Application Filed By ECG, Inc. Pursuant To Section 52.15(g)(3) Of The Commission's Rules"
+    ],
+    "has_supplements": false,
+    "recent_activity": false
+  },
+  "parsed_from_docs": {},
+  "web_search_results": [
+    {
+      "title": "Expert IT Network Consulting Services | VoIP Consulting | ECG",
+      "url": "https://www.ecg.co/",
+      "snippet": "We provide a full array of customized, outsourced network operations services for carriers and VoIP service providers. Rely on us for the supplemental expertise you need to maintain compliance while still completing critical projects on time."
+    },
+    {
+      "title": "ECG, Inc. - LinkedIn",
+      "url": "https://www.linkedin.com/company/-ecg-inc",
+      "snippet": "Trusted engineering expertise for voice & data networks. | ECG provide technical personnel to build and support global voice , data and cloud networks. Service providers, government agencies,..."
+    },
+    {
+      "title": "ECG, Inc. | (866) 324-0700 | Valdosta, Georgia - AllBiz",
+      "url": "https://www.allbiz.com/business/ecg-inc_18r-866-324-0700",
+      "snippet": "With expertise in critical voice infrastructure, ECG offers open-source software solutions, business services, and design solutions to address operational and marketplace challenges for telecom providers."
+    },
+    {
+      "title": "ECG (FQ3ZWHGLVR63)",
+      "url": "https://www.highergov.com/awardee/ecg-inc-10120559/",
+      "snippet": "We develop software products for telecom providers, carriers, and enterprises managing VoIP systems. ECG provides a full array of outsourced network operations services customized for VoIP Services Providers, and carriers offering both VoIP and traditional voice service."
+    },
+    {
+      "title": "ECG, Inc. - Fiber Network Alliance",
+      "url": "https://www.fibernetworkalliance.com/vendors/ecg-inc/",
+      "snippet": "ECG \u2019 s expertise is building and supporting global voice and data networks. Our customers include service providers, government agencies and enterprises around the world. We provide network design, network review, training, staff augmentation and project management solutions. \u00a9 2025 Fiber Network Alliance."
+    }
+  ]
+}
+
+RULES:
+- Ground ALL assessments in the provided evidence
+- Cite specific sources in activity_signal (e.g., "Recent FCC filing (2024)", "Company website found via search")
+- Use "Unknown" when evidence is insufficient - DO NOT hallucinate
+- Confidence levels:
+  - High = Multiple confirming signals (recent web presence + recent filings + company details)
+  - Medium = Some signals but incomplete picture
+  - Low = FCC data only, no external confirmation
+
+Call the enrichment_result function with your analysis.

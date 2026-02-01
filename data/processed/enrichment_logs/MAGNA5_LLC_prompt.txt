@@ -1,0 +1,176 @@
+You are analyzing an IPES (Interconnected VoIP Provider) company that filed for numbering authorization with the FCC.
+
+Based ONLY on the evidence provided below, determine:
+1. Whether the company is likely still active
+2. Their industry segment (UCaaS, CCaaS, CPaaS, Carrier, Reseller, Enterprise IT, or Other)
+3. A brief product summary
+4. Their market position (Enterprise, Mid-Market, SMB, Startup, or Unknown)
+5. Your confidence level based on evidence quality
+
+EVIDENCE PACK:
+{
+  "company_name": "MAGNA5 LLC",
+  "aliases": [
+    "MAGNA5 LLC",
+    "Magna5 LLC"
+  ],
+  "fcc_filing": {
+    "first_filing_date": "2017-08-14",
+    "latest_filing_date": "2017-08-14",
+    "total_filings": 4,
+    "docket_numbers": [
+      "17-216"
+    ],
+    "proceeding_types": [
+      "INTERCONNECTED VOIP NUMBERING AUTHORIZATION APPLICATION FILED BY MAGNA5, LLC PURSUANT TO SECTION 52.15(g)(3) OF THE COMMISSION&#146;S RULES"
+    ],
+    "has_supplements": true,
+    "recent_activity": false
+  },
+  "parsed_from_docs": {
+    "address": null,
+    "city": null,
+    "state": null,
+    "zip_code": null,
+    "phone": null,
+    "email": null,
+    "key_personnel": [
+      {
+        "name": "Chief Executive Officer",
+        "title": "Greg brings"
+      },
+      {
+        "name": "of\nMagna",
+        "title": "CEO"
+      },
+      {
+        "name": "of publicly",
+        "title": "President"
+      },
+      {
+        "name": "Chief Financial Officer",
+        "title": "Chief Financial"
+      },
+      {
+        "name": "of ANPI",
+        "title": "CFO"
+      },
+      {
+        "name": "Chief Executive Officer",
+        "title": "and the"
+      },
+      {
+        "name": "Chief Information Officer",
+        "title": "Dan brings"
+      },
+      {
+        "name": "Chief Technology Officer",
+        "title": "of Who"
+      },
+      {
+        "name": "to CIO",
+        "title": "COO"
+      },
+      {
+        "name": "and VP",
+        "title": "CTO"
+      },
+      {
+        "name": "Chief Executive Officer",
+        "title": "Greg brings"
+      },
+      {
+        "name": "of\nMagna",
+        "title": "CEO"
+      },
+      {
+        "name": "of publicly",
+        "title": "President"
+      },
+      {
+        "name": "Chief Financial Officer",
+        "title": "Chief Financial"
+      },
+      {
+        "name": "of ANPI",
+        "title": "CFO"
+      },
+      {
+        "name": "Chief Executive Officer",
+        "title": "and the"
+      },
+      {
+        "name": "Chief Information Officer",
+        "title": "Dan brings"
+      },
+      {
+        "name": "Chief Technology Officer",
+        "title": "of Who"
+      },
+      {
+        "name": "to CIO",
+        "title": "COO"
+      },
+      {
+        "name": "and VP",
+        "title": "CTO"
+      },
+      {
+        "name": "to his role",
+        "title": "CEO"
+      },
+      {
+        "name": "He previously served",
+        "title": "CEO"
+      },
+      {
+        "name": "to his role",
+        "title": "CEO"
+      },
+      {
+        "name": "He previously served",
+        "title": "CEO"
+      }
+    ],
+    "founding_date": "2015",
+    "service_description": "provide interconnected VoIP services, initially in New York, Oregon, and Washington."
+  },
+  "web_search_results": [
+    {
+      "title": "ApprovedTariffs - IPUC",
+      "url": "https://puc.idaho.gov:443/PublicDocs/ApprovedTariffs/4",
+      "snippet": "MCImetro Access Transmission Services, LLC dba Verizon ... SBC Long Distance, LLC dba SBC Long Distance, dba AT&T Long Distance IXC Price List"
+    },
+    {
+      "title": "206 Area Code - Location, Map, Current Time, Prefixes",
+      "url": "https://areacodes.net/206",
+      "snippet": "Onvoy, LLC - WA ... Mcleodusa Telecommunication Services, Inc. ... Bandwidth.com CLEC, LLC - WA"
+    },
+    {
+      "title": "Authorized Providers | Authenticate",
+      "url": "https://authenticate.iconectiv.com/authorized-service-providers-authenticate",
+      "snippet": "Business Automation Technologies Business Telecommunications Services, Inc C&T TELECOMMUNICATION POWER SOLUTIONS C2C VoIP , LLC CaberLink ..."
+    },
+    {
+      "title": "October 2020 - News Update \u2014 AVL Blog - Communications",
+      "url": "https://anthonyveachlaw.com/blog/2020/11/2/october-2020-news-update",
+      "snippet": "Department of Agriculture has announced a $544,000 ReConnect Program broadband grant has been awarded to Seneca Telecommunications LLC in rural New ..."
+    },
+    {
+      "title": "Aerocom | Forgot Password",
+      "url": "https://www.aerocominc.com/forgotpassword/",
+      "snippet": "Business Phone Systems (Hosted PBX, Cloud PBX, Hosted VoIP ) ... Sky Data Vault, LLC . ... voip .ms"
+    }
+  ]
+}
+
+RULES:
+- Ground ALL assessments in the provided evidence
+- Cite specific sources in activity_signal (e.g., "Recent FCC filing (2024)", "Company website found via search")
+- Use "Unknown" when evidence is insufficient - DO NOT hallucinate
+- Confidence levels:
+  - High = Multiple confirming signals (recent web presence + recent filings + company details)
+  - Medium = Some signals but incomplete picture
+  - Low = FCC data only, no external confirmation
+
+Call the enrichment_result function with your analysis.

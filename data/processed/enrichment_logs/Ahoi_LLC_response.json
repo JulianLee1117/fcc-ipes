@@ -1,0 +1,35 @@
+{
+  "id": "msg_01URVFJPyjeHhs4KbRpJmPpV",
+  "content": [
+    {
+      "id": "toolu_01VCLPgkHpFyXCMw2eujz3Vf",
+      "input": {
+        "is_active": true,
+        "activity_signal": "Recent FCC filing (January 14, 2025) for Interconnected VoIP Numbering Authorization. Active company website (ahoi.net) found via search results. LinkedIn company profile exists. Recent trademark registration for telecommunications services including VoIP, SMS, and MMS.",
+        "industry_segment": "CPaaS",
+        "product_summary": "Ahoi provides communication APIs and platform services including SMS messaging, VoIP, web call APIs, fax services, and AI-powered campaign registration designed for speed and simplicity.",
+        "market_position": "SMB",
+        "enrichment_confidence": "High"
+      },
+      "name": "enrichment_result",
+      "type": "tool_use"
+    }
+  ],
+  "model": "claude-sonnet-4-20250514",
+  "role": "assistant",
+  "stop_reason": "tool_use",
+  "stop_sequence": null,
+  "type": "message",
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0,
+    "input_tokens": 1805,
+    "output_tokens": 229,
+    "server_tool_use": null,
+    "service_tier": "standard"
+  }
+}

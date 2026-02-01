@@ -1,0 +1,83 @@
+You are analyzing an IPES (Interconnected VoIP Provider) company that filed for numbering authorization with the FCC.
+
+Based ONLY on the evidence provided below, determine:
+1. Whether the company is likely still active
+2. Their industry segment (UCaaS, CCaaS, CPaaS, Carrier, Reseller, Enterprise IT, or Other)
+3. A brief product summary
+4. Their market position (Enterprise, Mid-Market, SMB, Startup, or Unknown)
+5. Your confidence level based on evidence quality
+
+EVIDENCE PACK:
+{
+  "company_name": "Origin Networks, LLC dba Infostructure",
+  "aliases": [
+    "Origin Networks, LLC dba Infostructure"
+  ],
+  "fcc_filing": {
+    "first_filing_date": "2018-01-19",
+    "latest_filing_date": "2018-01-19",
+    "total_filings": 4,
+    "docket_numbers": [
+      "18-12"
+    ],
+    "proceeding_types": [
+      "INTERCONNECTED VOIP NUMBERING AUTHORIZATION APPLICATION FILED BY ORIGIN NETWORKS, LLC DBA INFOSTRUCTURE PURSUANT TO SECTION 52.15(g)(3) OF THE COMMISSION&#146;S RULES"
+    ],
+    "has_supplements": true,
+    "recent_activity": false
+  },
+  "parsed_from_docs": {
+    "address": "288 South Pacific Highway",
+    "city": null,
+    "state": null,
+    "zip_code": null,
+    "phone": "5417735000",
+    "email": "jrhoden@infostructure.net",
+    "key_personnel": [
+      {
+        "name": "Chief Operating Officer",
+        "title": "and the"
+      }
+    ],
+    "founding_date": "2013",
+    "service_description": null
+  },
+  "web_search_results": [
+    {
+      "title": "Hunter Communication's Acquisition of InfoStructure",
+      "url": "https://hunterfiber.com/hunter-communications-acquires-infostructure/",
+      "snippet": "Oct 3, 2023 \u00b7 MEDFORD, OR., October 3, 2023 \u2013 Today, Hunter Communications, Oregon\u2019s largest privately owned fiber-optic internet provider, announced the acquisition of Origin Networks LLC , the parent company to InfoStructure ."
+    },
+    {
+      "title": "Hunter Communications Purchases Infostructure, Adding More ...",
+      "url": "https://roguevalleymagazine.com/2023/10/24/hunter-communications-purchases-infostructure-adding-more-fiber-optic-telecommunications-services-to-oregon/",
+      "snippet": "Oct 24, 2023 \u00b7 MEDFORD, ORE., October 3, 2023 \u2013 Today Hunter Communications, Oregon\u2019s largest privately owned fiber-optic internet provider, announced the acquisition of Origin Networks LLC , the parent company to InfoStructure of Ashland."
+    },
+    {
+      "title": "Hunter Communications Acquires InfoStructure - Southern ...",
+      "url": "https://southernoregonbusiness.com/hunter-communications-acquires-infostructure/",
+      "snippet": "Oct 11, 2023 \u00b7 Hunter Communications, Oregon\u2019s largest privately owned fiber-optic internet provider, announced the acquisition of Origin Networks LLC , the parent company to InfoStructure ."
+    },
+    {
+      "title": "In the Matter of the Petition of Origin Networks, LLC for ...",
+      "url": "https://apps.puc.state.or.us/edockets/edocs.asp?FileType=HAO&FileName=cp1552hao9107.pdf&DocketID=18429&numSequence=14",
+      "snippet": "perty, and assets (including all customer contracts and customer relationships) used in or necessary for Infostructure \u2019s provision of resold voice and IP -based data services. Following the Transaction, Hunter Communications will become the telecommunications service provider for Infostructure \u2019s California, Oregon, and Washington customers ..."
+    },
+    {
+      "title": "Hunter Communications Acquires InfoStructure | Sheila C.",
+      "url": "https://www.linkedin.com/posts/sheilamcrawford_hunter-communications-acquires-infostructure-activity-7115396479699087361-n3PZ",
+      "snippet": "We are proud to announce that Hunter Communications has acquired Origin Networks LLC , the parent company to InfoStructure . Through our shared vision with the talented team at..."
+    }
+  ]
+}
+
+RULES:
+- Ground ALL assessments in the provided evidence
+- Cite specific sources in activity_signal (e.g., "Recent FCC filing (2024)", "Company website found via search")
+- Use "Unknown" when evidence is insufficient - DO NOT hallucinate
+- Confidence levels:
+  - High = Multiple confirming signals (recent web presence + recent filings + company details)
+  - Medium = Some signals but incomplete picture
+  - Low = FCC data only, no external confirmation
+
+Call the enrichment_result function with your analysis.

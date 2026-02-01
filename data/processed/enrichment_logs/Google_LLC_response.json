@@ -1,0 +1,35 @@
+{
+  "id": "msg_01NH59HdLfmPHQK3G4SfTyx5",
+  "content": [
+    {
+      "id": "toolu_016tvQvmuWwFVkdtQH6PAZha",
+      "input": {
+        "is_active": true,
+        "activity_signal": "Google LLC is a well-known active technology company. Web search results show recent VoIP-related patents and services including Google Duo (launched 2016, merged into Google Meet). The company maintains its headquarters address at 1600 Amphitheatre Parkway, Mountain View, CA 94043 with active phone number 6502530000.",
+        "industry_segment": "UCaaS",
+        "product_summary": "Google provides unified communications services including VoIP calling through Google Voice, video conferencing through Google Meet (formerly Google Duo), and various telecommunications patents and technologies.",
+        "market_position": "Enterprise",
+        "enrichment_confidence": "High"
+      },
+      "name": "enrichment_result",
+      "type": "tool_use"
+    }
+  ],
+  "model": "claude-sonnet-4-20250514",
+  "role": "assistant",
+  "stop_reason": "tool_use",
+  "stop_sequence": null,
+  "type": "message",
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0,
+    "input_tokens": 1653,
+    "output_tokens": 239,
+    "server_tool_use": null,
+    "service_tier": "standard"
+  }
+}

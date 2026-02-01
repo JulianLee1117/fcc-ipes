@@ -1,0 +1,35 @@
+{
+  "id": "msg_01VLuFmKpGUyprQ32oKoxi2J",
+  "content": [
+    {
+      "id": "toolu_016Rdwg6Pxx1HwsRqeAfWWGJ",
+      "input": {
+        "is_active": true,
+        "activity_signal": "Company website found via search (edgecommunications.com), active LinkedIn company profile, and current business listings on RocketReach and Buzzfile showing operational status with 179 employees and $73M revenue",
+        "industry_segment": "Enterprise IT",
+        "product_summary": "Edge Communications provides managed IT services including cybersecurity, IT support, network management, PBX systems, and telecommunications solutions for medium businesses.",
+        "market_position": "Mid-Market",
+        "enrichment_confidence": "Medium"
+      },
+      "name": "enrichment_result",
+      "type": "tool_use"
+    }
+  ],
+  "model": "claude-sonnet-4-20250514",
+  "role": "assistant",
+  "stop_reason": "tool_use",
+  "stop_sequence": null,
+  "type": "message",
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0,
+    "input_tokens": 1693,
+    "output_tokens": 205,
+    "server_tool_use": null,
+    "service_tier": "standard"
+  }
+}

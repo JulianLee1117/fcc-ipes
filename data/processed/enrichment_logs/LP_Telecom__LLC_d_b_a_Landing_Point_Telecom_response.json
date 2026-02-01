@@ -1,0 +1,35 @@
+{
+  "id": "msg_01GUZkiAw8Eb6rxWvyNN4PRn",
+  "content": [
+    {
+      "id": "toolu_01MjJ4dtqtmj5NVb8i6TWxUi",
+      "input": {
+        "is_active": true,
+        "activity_signal": "Web search results show John Bryant listed as CEO of LP Telecom LLC d/b/a Landing Point Telecom with active website (landingpointtele.com) as of 2022 Dallas News voter guide. FCC filing from 2020-11-03 shows company applied for VoIP numbering authorization.",
+        "industry_segment": "UCaaS",
+        "product_summary": "Landing Point Telecom provides interconnected VoIP services initially focused on the Texas market, offering voice over IP telecommunications solutions to businesses.",
+        "market_position": "Unknown",
+        "enrichment_confidence": "Medium"
+      },
+      "name": "enrichment_result",
+      "type": "tool_use"
+    }
+  ],
+  "model": "claude-sonnet-4-20250514",
+  "role": "assistant",
+  "stop_reason": "tool_use",
+  "stop_sequence": null,
+  "type": "message",
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0,
+    "input_tokens": 1931,
+    "output_tokens": 229,
+    "server_tool_use": null,
+    "service_tier": "standard"
+  }
+}

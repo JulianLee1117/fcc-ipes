@@ -1,0 +1,35 @@
+{
+  "id": "msg_01BtfSX6BuhkiigGMomPnaif",
+  "content": [
+    {
+      "id": "toolu_01UgXbXrwvuCKmxWA1FBKoox",
+      "input": {
+        "is_active": false,
+        "activity_signal": "Company was acquired by Hunter Communications in October 2023 according to multiple web sources. Web search results from hunterfiber.com, roguevalleymagazine.com, and southernoregonbusiness.com all confirm the acquisition of Origin Networks LLC (parent company to InfoStructure). Oregon PUC document indicates Hunter Communications became the telecommunications service provider for InfoStructure's customers following the transaction. No recent FCC activity since 2018.",
+        "industry_segment": "Carrier",
+        "product_summary": "InfoStructure provided resold voice and IP-based data services to customers in California, Oregon, and Washington before being acquired by Hunter Communications in 2023.",
+        "market_position": "Unknown",
+        "enrichment_confidence": "High"
+      },
+      "name": "enrichment_result",
+      "type": "tool_use"
+    }
+  ],
+  "model": "claude-sonnet-4-20250514",
+  "role": "assistant",
+  "stop_reason": "tool_use",
+  "stop_sequence": null,
+  "type": "message",
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0,
+    "input_tokens": 1909,
+    "output_tokens": 259,
+    "server_tool_use": null,
+    "service_tier": "standard"
+  }
+}

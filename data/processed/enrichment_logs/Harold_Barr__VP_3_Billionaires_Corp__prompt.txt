@@ -1,0 +1,78 @@
+You are analyzing an IPES (Interconnected VoIP Provider) company that filed for numbering authorization with the FCC.
+
+Based ONLY on the evidence provided below, determine:
+1. Whether the company is likely still active
+2. Their industry segment (UCaaS, CCaaS, CPaaS, Carrier, Reseller, Enterprise IT, or Other)
+3. A brief product summary
+4. Their market position (Enterprise, Mid-Market, SMB, Startup, or Unknown)
+5. Your confidence level based on evidence quality
+
+EVIDENCE PACK:
+{
+  "company_name": "Harold Barr, VP 3 Billionaires Corp.",
+  "aliases": [
+    "Harold Barr, VP 3 Billionaires Corp."
+  ],
+  "fcc_filing": {
+    "first_filing_date": "2020-04-13",
+    "latest_filing_date": "2020-04-13",
+    "total_filings": 1,
+    "docket_numbers": [
+      "20-129"
+    ],
+    "proceeding_types": [
+      "Interconnected VoIP Numbering Authorization Application Filed  By 3 Billiionaires Corp Pursuant To Section 52.15(g)(3) Of The Commission's Rules"
+    ],
+    "has_supplements": false,
+    "recent_activity": false
+  },
+  "parsed_from_docs": {
+    "address": "4140 Union St., Suite 14D",
+    "city": "Flushing",
+    "state": "NY",
+    "zip_code": "11561",
+    "phone": "5167080111",
+    "email": null,
+    "key_personnel": [],
+    "founding_date": null,
+    "service_description": "provide interconnected VoIP services initially in NY."
+  },
+  "web_search_results": [
+    {
+      "title": "List of telecommunications companies in the Americas",
+      "url": "https://en.wikipedia.org/wiki/List_of_telecommunications_companies_in_the_Americas",
+      "snippet": "A telecommunications company (historically known as a telephone company) is a company which provides broadband and/or telephony services. The telecommunications companies of the Americas are listed below:"
+    },
+    {
+      "title": "Navigating the Competitive Landscape of the Business VoIP ...",
+      "url": "https://www.linkedin.com/pulse/navigating-competitive-landscape-business-voip-services-market-c2hye",
+      "snippet": "6 days ago \u00b7 The Business VoIP Services market has become a critical component for organizations aiming to enhance communication efficiency while minimizing costs. As enterprises increasingly transition from ..."
+    },
+    {
+      "title": "The Most Feature-Rich VoIP Provider for Businesses",
+      "url": "https://voip.ms/",
+      "snippet": "State-of-the-Art VoIP Service Provider As a Telecommunications Service Provider, we are devoted to providing quality local and international connections to our customers around the world."
+    },
+    {
+      "title": "Best VoIP Phone System for Large Businesses | Enterprise ...",
+      "url": "https://setelecom.ca/voip-phone-system-for-large-businesses/",
+      "snippet": "Clear Clouds by SE Telecom \u2013 Enterprise Cloud VoIP Built for Scale Clear Clouds is increasingly selected as a VoIP phone system for large businesses by organizations seeking predictable pricing, strong governance, and scalable cloud communications without long-term lock-ins."
+    },
+    {
+      "title": "VoIP and 911 Service - Federal Communications Commission",
+      "url": "https://www.fcc.gov/sites/default/files/voip_and_911_service.pdf",
+      "snippet": "Oct 16, 2019 \u00b7 VoIP and 911 Service Portable interconnected Voice over Internet Protocol ( VoIP ) services can be used from virtually any internet connection anywhere, which raises challenges for the emergency services community in determining the location from which a 911 call has originated."
+    }
+  ]
+}
+
+RULES:
+- Ground ALL assessments in the provided evidence
+- Cite specific sources in activity_signal (e.g., "Recent FCC filing (2024)", "Company website found via search")
+- Use "Unknown" when evidence is insufficient - DO NOT hallucinate
+- Confidence levels:
+  - High = Multiple confirming signals (recent web presence + recent filings + company details)
+  - Medium = Some signals but incomplete picture
+  - Low = FCC data only, no external confirmation
+
+Call the enrichment_result function with your analysis.

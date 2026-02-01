@@ -1,0 +1,87 @@
+You are analyzing an IPES (Interconnected VoIP Provider) company that filed for numbering authorization with the FCC.
+
+Based ONLY on the evidence provided below, determine:
+1. Whether the company is likely still active
+2. Their industry segment (UCaaS, CCaaS, CPaaS, Carrier, Reseller, Enterprise IT, or Other)
+3. A brief product summary
+4. Their market position (Enterprise, Mid-Market, SMB, Startup, or Unknown)
+5. Your confidence level based on evidence quality
+
+EVIDENCE PACK:
+{
+  "company_name": "(Melvin) Lee Reeves",
+  "aliases": [
+    "(Melvin) Lee Reeves"
+  ],
+  "fcc_filing": {
+    "first_filing_date": "2017-03-22",
+    "latest_filing_date": "2017-03-22",
+    "total_filings": 1,
+    "docket_numbers": [
+      "17-88"
+    ],
+    "proceeding_types": [
+      "INTERCONNECTED VOIP NUMBERING AUTHORIZATION APPLICATION FILED BY FREEWAY COMMUNICATIONS, LLC PURSUANT TO SECTION 52.15(g)(3)"
+    ],
+    "has_supplements": false,
+    "recent_activity": false
+  },
+  "parsed_from_docs": {
+    "address": null,
+    "city": null,
+    "state": null,
+    "zip_code": null,
+    "phone": null,
+    "email": null,
+    "key_personnel": [
+      {
+        "name": "Freeway Communications",
+        "title": "CEO"
+      },
+      {
+        "name": "Freeway Communications",
+        "title": "CEO"
+      }
+    ],
+    "founding_date": null,
+    "service_description": null
+  },
+  "web_search_results": [
+    {
+      "title": "List of VoIP companies - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/List_of_VoIP_companies",
+      "snippet": "December 24, 2025 - This is a list of notable companies providing Voice over Internet Protocol (VoIP) services."
+    },
+    {
+      "title": "Lee Reeves - CEO - Freeway Communications | LinkedIn",
+      "url": "https://www.linkedin.com/in/lee-reeves-675b078/",
+      "snippet": "#VoIPSolutions #BusinessTelecom #InnovativeTelecommunications #ReliableVoIP #CostEffectiveCommunication #BusinessCommunication #TelecomRevolution #VoIPTechnology #EnhancedConnectivity #TelecomSavings #VoIPExperts #DigitalTelephony #TelecomInnovation #VoIPService ... If you are looking for a breakthrough in how you conduct your site audits... whether for asset audits, surveys, or ATP's... I'll happily put you in touch with the CEO referenced here who can speak first hand to the power of Digitata Networks Automation. ... Stay ahead of the curve with our innovative telecommunications solutions."
+    },
+    {
+      "title": "Management & Directors - VoIP",
+      "url": "https://www.voip-palusa.com/management-directors",
+      "snippet": "Dr. Melvin has also designed and built numerous micro-controller based embedded systems in the areas of machine vision, voice processing and industrial control. In the intellectual property area, Dr. Melvin has been working for more than 35 years as a consulting and testifying expert in intellectual property licensing and litigation cases."
+    },
+    {
+      "title": "VoIP Supply LLC | BBB Business Profile | Better Business Bureau",
+      "url": "https://www.bbb.org/us/ny/amherst/profile/telecommunication-equipment/voip-supply-llc-0041-66005743",
+      "snippet": "This business offers VoIP Hardware, VoIP Service, support and phone provisioning ."
+    },
+    {
+      "title": "The Most Feature-Rich VoIP Provider for Businesses",
+      "url": "https://voip.ms",
+      "snippet": "As a Telecommunications Service Provider, we are devoted to providing quality local and international connections to our customers around the world ."
+    }
+  ]
+}
+
+RULES:
+- Ground ALL assessments in the provided evidence
+- Cite specific sources in activity_signal (e.g., "Recent FCC filing (2024)", "Company website found via search")
+- Use "Unknown" when evidence is insufficient - DO NOT hallucinate
+- Confidence levels:
+  - High = Multiple confirming signals (recent web presence + recent filings + company details)
+  - Medium = Some signals but incomplete picture
+  - Low = FCC data only, no external confirmation
+
+Call the enrichment_result function with your analysis.

@@ -1,0 +1,78 @@
+You are analyzing an IPES (Interconnected VoIP Provider) company that filed for numbering authorization with the FCC.
+
+Based ONLY on the evidence provided below, determine:
+1. Whether the company is likely still active
+2. Their industry segment (UCaaS, CCaaS, CPaaS, Carrier, Reseller, Enterprise IT, or Other)
+3. A brief product summary
+4. Their market position (Enterprise, Mid-Market, SMB, Startup, or Unknown)
+5. Your confidence level based on evidence quality
+
+EVIDENCE PACK:
+{
+  "company_name": "Number Sentry, LLC",
+  "aliases": [
+    "Number Sentry, LLC"
+  ],
+  "fcc_filing": {
+    "first_filing_date": "2021-12-30",
+    "latest_filing_date": "2021-12-30",
+    "total_filings": 1,
+    "docket_numbers": [
+      "22-22"
+    ],
+    "proceeding_types": [
+      "Interconnected VoIP Numbering Authorization Application Filed By Number Sentry, LLC Pursuant To Section 52.15(g)(3) Of The Commission's Rules"
+    ],
+    "has_supplements": false,
+    "recent_activity": false
+  },
+  "parsed_from_docs": {
+    "address": "3861 River Mansion Drive,",
+    "city": "Peachtree",
+    "state": "GA",
+    "zip_code": "30096",
+    "phone": "4045194096",
+    "email": "rongrob@aprlaprofsvcs.com",
+    "key_personnel": [],
+    "founding_date": null,
+    "service_description": null
+  },
+  "web_search_results": [
+    {
+      "title": "Top Companies Using Sentry \u2013 List of Sentry Companies",
+      "url": "https://www.zoominfo.com/tech/15123/sentry-tech-by-revenue",
+      "snippet": "Sentry is an open source error tracking software. ... 1-10 of 211,748 Companies using Sentry ... Cisco IP Telephony ( VoIP )"
+    },
+    {
+      "title": "SENTRY - VoIP Supply",
+      "url": "https://www.voipsupply.com/sentry",
+      "snippet": "Designed by the experts at SYSTM to protect any on-premise, SIP-enabled PBX, SENTRY provides carrier-grade security technologies, delivered in a ..."
+    },
+    {
+      "title": "Courts Don't Budge on E911 Nov. 28th Deadline - VoIP Monitor",
+      "url": "http://www.voipmonitor.net/2005/11/16/Courts+Dont+Budge+On+E911+Nov+28th+Deadline.aspx",
+      "snippet": "... Sentry E911 Solutions Now Rated ''Avaya Compliant'' \u2022 Lightyear Network Solutions Switches to inetwork for VoIP E911 \u2022 VoIP Innovations Launches ..."
+    },
+    {
+      "title": "Brandon Morrison Found - Phone Numbers, Addresses &",
+      "url": "https://www.zabasearch.com/people/brandon-morrison/",
+      "snippet": "Please enter a valid phone number . ... bellsouth telecommunications inc dba south central bell telephone (at&t southeast)"
+    },
+    {
+      "title": "Maggie Morgan Found - Phone Numbers, Addresses & Possible",
+      "url": "https://www.zabasearch.com/people/maggie-morgan/",
+      "snippet": "Phone Number : ... Please enter a valid phone number . ... new cingular wireless pcs llc - il (at&t mobility)"
+    }
+  ]
+}
+
+RULES:
+- Ground ALL assessments in the provided evidence
+- Cite specific sources in activity_signal (e.g., "Recent FCC filing (2024)", "Company website found via search")
+- Use "Unknown" when evidence is insufficient - DO NOT hallucinate
+- Confidence levels:
+  - High = Multiple confirming signals (recent web presence + recent filings + company details)
+  - Medium = Some signals but incomplete picture
+  - Low = FCC data only, no external confirmation
+
+Call the enrichment_result function with your analysis.

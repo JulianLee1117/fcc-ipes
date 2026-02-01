@@ -1,0 +1,35 @@
+{
+  "id": "msg_01FCF2Z9rYUvbk1QYfGJvnf1",
+  "content": [
+    {
+      "id": "toolu_013riH69fsQJFDxZsMbnFZhp",
+      "input": {
+        "is_active": true,
+        "activity_signal": "Recent FCC filing (2025-03-21) for VoIP numbering authorization with 4 total filings and supplements, active company website found via search (rittercommunications.com), established business operations since 1906 per web search results, current executive team identified including CEO Kyle Keith",
+        "industry_segment": "Carrier",
+        "product_summary": "Ritter Communications is a telecommunications carrier founded in 1906, providing interconnected VoIP services, fiber networks, and comprehensive telecommunications solutions across multiple states.",
+        "market_position": "Enterprise",
+        "enrichment_confidence": "High"
+      },
+      "name": "enrichment_result",
+      "type": "tool_use"
+    }
+  ],
+  "model": "claude-sonnet-4-20250514",
+  "role": "assistant",
+  "stop_reason": "tool_use",
+  "stop_sequence": null,
+  "type": "message",
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0,
+    "input_tokens": 2264,
+    "output_tokens": 227,
+    "server_tool_use": null,
+    "service_tier": "standard"
+  }
+}

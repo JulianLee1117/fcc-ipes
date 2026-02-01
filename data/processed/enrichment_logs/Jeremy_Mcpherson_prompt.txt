@@ -1,0 +1,76 @@
+You are analyzing an IPES (Interconnected VoIP Provider) company that filed for numbering authorization with the FCC.
+
+Based ONLY on the evidence provided below, determine:
+1. Whether the company is likely still active
+2. Their industry segment (UCaaS, CCaaS, CPaaS, Carrier, Reseller, Enterprise IT, or Other)
+3. A brief product summary
+4. Their market position (Enterprise, Mid-Market, SMB, Startup, or Unknown)
+5. Your confidence level based on evidence quality
+
+EVIDENCE PACK:
+{
+  "company_name": "Jeremy Mcpherson",
+  "aliases": [
+    "Jeremy Mcpherson"
+  ],
+  "fcc_filing": {
+    "first_filing_date": "2020-12-28",
+    "latest_filing_date": "2020-12-28",
+    "total_filings": 1,
+    "docket_numbers": [],
+    "proceeding_types": [
+      "VoIP Numbering Authorization Application"
+    ],
+    "has_supplements": false,
+    "recent_activity": false
+  },
+  "parsed_from_docs": {
+    "address": "706 W Ben White Blvd #250B",
+    "city": "Austin",
+    "state": "TE",
+    "zip_code": "78704",
+    "phone": "8444835474",
+    "email": null,
+    "key_personnel": [],
+    "founding_date": null,
+    "service_description": null
+  },
+  "web_search_results": [
+    {
+      "title": "Jeremy Mcpherson posted on LinkedIn",
+      "url": "https://www.linkedin.com/posts/jemcpherson_globalgig-telecom-innovation-activity-7036366314319282176-diZy",
+      "snippet": "Thank you Gregg Rowe and Jeremy Mcpherson for being my wingmen today! We also helped to raise over $2k for children with cancer as a team."
+    },
+    {
+      "title": "Jeremy McPherson - VP, Operations at Globalgig | The Org Jeremy McPherson - Executive Bio, Work History, and Contacts ... Jeremy Mcpherson Email & Phone Number | Globalgig Vice ... Jeremy McPherson Email & Phone Number - Globalgig | ZoomInfo GitHub - ymerej0207/Jeremy-McPherson",
+      "url": "https://theorg.com/org/globalgig/org-chart/jeremy-mcpherson",
+      "snippet": "Jeremy McPherson is the Vice President of Operations at Globalgig . Jeremy has over ten years of experience in the telecommunications industry, including sales engineering, VoIP operations, and ITAC voice management. Jeremy is a telecommunications industry veteran with network, operations and VoIP engineering experience. At Globalgig, Jeremy is responsible for both the network/voice engineering and NOC operations teams. Jeremy Mcpherson , based in Texas, United States, is currently a Vice President of Operations at Globalgig. Jeremy Mcpherson brings experience from previous roles at Independent, GTT, One Source Networks and Level 3 Communications. Jeremy McPherson has been working as a Vice President, Operations at Globalgig for 6 years. Globalgig is part of the Telecommunications industry, and located in Texas, United States. After 15+ years leading IT operations, architecting telecom infrastructure, and driving innovation across healthcare, SaaS, and service industries, I\u2019ve mastered one truth:"
+    },
+    {
+      "title": "Jeremy McPherson - Executive Bio, Work History, and Contacts ...",
+      "url": "https://people.equilar.com/bio/jeremy-mcpherson-globalgig/32248847",
+      "snippet": "Jeremy is a telecommunications industry veteran with network, operations and VoIP engineering experience. At Globalgig, Jeremy is responsible for both the network/voice engineering and NOC operations teams."
+    },
+    {
+      "title": "Jeremy Mcpherson Email & Phone Number | Globalgig Vice ...",
+      "url": "https://rocketreach.co/jeremy-mcpherson-email_50276218",
+      "snippet": "Jeremy Mcpherson , based in Texas, United States, is currently a Vice President of Operations at Globalgig. Jeremy Mcpherson brings experience from previous roles at Independent, GTT, One Source Networks and Level 3 Communications."
+    },
+    {
+      "title": "Jeremy McPherson Email & Phone Number - Globalgig | ZoomInfo",
+      "url": "https://www.zoominfo.com/p/Jeremy-Mcpherson/-1033859132",
+      "snippet": "Jeremy McPherson has been working as a Vice President, Operations at Globalgig for 6 years. Globalgig is part of the Telecommunications industry, and located in Texas, United States."
+    }
+  ]
+}
+
+RULES:
+- Ground ALL assessments in the provided evidence
+- Cite specific sources in activity_signal (e.g., "Recent FCC filing (2024)", "Company website found via search")
+- Use "Unknown" when evidence is insufficient - DO NOT hallucinate
+- Confidence levels:
+  - High = Multiple confirming signals (recent web presence + recent filings + company details)
+  - Medium = Some signals but incomplete picture
+  - Low = FCC data only, no external confirmation
+
+Call the enrichment_result function with your analysis.

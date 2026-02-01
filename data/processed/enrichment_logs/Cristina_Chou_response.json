@@ -1,0 +1,35 @@
+{
+  "id": "msg_01Smv74mdkfaQLxyaTz94pj8",
+  "content": [
+    {
+      "id": "toolu_01Cm8XdGy2QYRxPqkijtiVKU",
+      "input": {
+        "is_active": true,
+        "activity_signal": "Cristina Chou is confirmed as Vice President, Federal Affairs for Altice USA via LinkedIn and professional profiles found in web search. She filed the VoIP numbering authorization on behalf of CSC Voice, LLC in 2022. Her active role at Altice USA (a major broadband provider) and professional web presence indicate ongoing activity.",
+        "industry_segment": "Carrier",
+        "product_summary": "CSC Voice, LLC provides interconnected VoIP services and filed for numbering authorization to acquire telephone numbers directly from numbering administrators, operating under the umbrella of Altice USA, a major broadband communications provider.",
+        "market_position": "Enterprise",
+        "enrichment_confidence": "Medium"
+      },
+      "name": "enrichment_result",
+      "type": "tool_use"
+    }
+  ],
+  "model": "claude-sonnet-4-20250514",
+  "role": "assistant",
+  "stop_reason": "tool_use",
+  "stop_sequence": null,
+  "type": "message",
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0,
+    "input_tokens": 1761,
+    "output_tokens": 248,
+    "server_tool_use": null,
+    "service_tier": "standard"
+  }
+}

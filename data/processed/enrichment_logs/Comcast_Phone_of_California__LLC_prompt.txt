@@ -1,0 +1,87 @@
+You are analyzing an IPES (Interconnected VoIP Provider) company that filed for numbering authorization with the FCC.
+
+Based ONLY on the evidence provided below, determine:
+1. Whether the company is likely still active
+2. Their industry segment (UCaaS, CCaaS, CPaaS, Carrier, Reseller, Enterprise IT, or Other)
+3. A brief product summary
+4. Their market position (Enterprise, Mid-Market, SMB, Startup, or Unknown)
+5. Your confidence level based on evidence quality
+
+EVIDENCE PACK:
+{
+  "company_name": "Comcast Phone of California, LLC",
+  "aliases": [
+    "Comcast Phone of California, LLC"
+  ],
+  "fcc_filing": {
+    "first_filing_date": "2025-09-19",
+    "latest_filing_date": "2025-09-19",
+    "total_filings": 1,
+    "docket_numbers": [
+      "25-297"
+    ],
+    "proceeding_types": [
+      "Interconnected VoIP Numbering Authorization Application Filed By Comcast Phone of California, LLC Pursuant To Section 52.15(g)(3) of the Commission's Rules"
+    ],
+    "has_supplements": false,
+    "recent_activity": true
+  },
+  "parsed_from_docs": {
+    "address": "One Comcast Center",
+    "city": "Philadelphia",
+    "state": "PA",
+    "zip_code": "19103",
+    "phone": "8002662278",
+    "email": "Stephanie_Power@comcast.com",
+    "key_personnel": [
+      {
+        "name": "Chief Executive Officer",
+        "title": "Brian Roberts"
+      },
+      {
+        "name": "or Other",
+        "title": "President"
+      }
+    ],
+    "founding_date": null,
+    "service_description": "Provider\u201d or \u201cIVP\u201d as used in this Agreement is the entity set forth in the Preamble and that provides\ninterconnected VoIP service as that term is defined in 47 U."
+  },
+  "web_search_results": [
+    {
+      "title": "Voice over IP (VoIP) & Landline Phone Services | Verizon",
+      "url": "https://www.verizon.com/business/products/voice-collaboration/voip/",
+      "snippet": "Discover Verizon's VoIP and landline phone services tailored for businesses like yours. Stay connected with customers, partners, and suppliers through advanced voice calling connectivity."
+    },
+    {
+      "title": "About | Comcast California Comcast Phone of California, LLC (U-5698-C) (\u201cComcast Phone ... SETTLEMENT APPENDIX - tellusventure.com ON PROPOSED DECISION ESTABLISHING REGULATORY FRAMEWORK FOR ... Comcast Business Model - How does Comcast make money? - zeen About | Comcast California About | Comcast California Voice over IP ( VoIP ) & Landline Phone Services | Verizon D0804042 Opinion Addressing Application of Comcast Phone of ...",
+      "url": "https://california.comcast.com/about/",
+      "snippet": "Comcast is deeply committed to California , where our nearly 5,000 employees serve 3.4 million customers throughout the state. Comcast is California \u2019s leading provider of Xfinity video, high-speed Internet, \u201csmart home\u201d and phone services. Instead of obtaining a CPCN, Commission staff effected the informal VoIP registration process, pursuant to which the VoIP provider submits a form in order for the provider to obtain an identification number used for reporting and remitting surcharges. This Settlement Agreement (\u201cAgreement\u201d) is entered into, by, and between Comcast Phone of California , LLC (U-5698-C) (\u201c Comcast Phone \u201d) and its Related Entities1 (collectively \"Comcast\"), and the Safety and Enforcement Division (\u201cSED\u201d) of the California Public Utilities Commission (\u201cCPUC\u201d or \u201cCommission\u201d), The Utility Reform ... Oct 10, 2024 \u00b7 7 R.22-08-008, Comcast Phone of California , LLC (U-5698-C) on Proposed Decision Establishing Regulatory Framework for Telephone Corporations Providing Interconnected Voice over Internet Protocol Service (filed Oct. 10, 2024), Article II. What is Comcast's VoIP service? Comcast offers a VoIP (Voice over Internet Protocol) service that includes text messaging, call forwarding, call-waiting, voice mails, local and international calling, and voice mail transcriptions. Comcast VoIP is one of the primary revenue drivers for the company , known mainly for its cable services. Is Comcast a California company? Comcast is deeply committed to California , where our nearly 5,000 employees serve 3.4 million customers throughout the state. Comcast is California\u2019s leading provider of Xfinity video, high-speed Internet, \u201csmart home\u201d and phone services. How many employees does Comcast have in California? Comcast is deeply committed to California, where our nearly 5,000 employees serve 3.4 million customers throughout the state.Comcast is California\u2019s leading ... What is voice over IP (VoIP) & phone services? Our Voice over IP ( VoIP ) and phone services help support mobile workforces and hybrid-working environments and include advanced features that help improve employee productivity, enhance customer experiences and more. Give your organization cost-effective, flexible communications. Here, the technical requirements of discontinuing Comcast Phone - CA 's circuit- switched service and continuing with AT&T California , the digital phone affiliate, or any other alternative carrier necessitates a \"break\" in the transfer."
+    },
+    {
+      "title": "Comcast Phone of California, LLC (U-5698-C) (\u201cComcast Phone ...",
+      "url": "https://www.tellusventure.com/downloads/cpuc/comcast_ponderosa/comcast_response_comcast_ponderosa_11oct2019.pdf",
+      "snippet": "Instead of obtaining a CPCN, Commission staff effected the informal VoIP registration process, pursuant to which the VoIP provider submits a form in order for the provider to obtain an identification number used for reporting and remitting surcharges."
+    },
+    {
+      "title": "D0804042 Opinion Addressing Application of Comcast Phone of ...",
+      "url": "https://docs.cpuc.ca.gov/published/FINAL_DECISION/81310-13.htm",
+      "snippet": "Here, the technical requirements of discontinuing Comcast Phone - CA 's circuit- switched service and continuing with AT&T California , the digital phone affiliate, or any other alternative carrier necessitates a \"break\" in the transfer."
+    },
+    {
+      "title": "D0804042 Opinion Addressing Application of Comcast Phone of ...",
+      "url": "https://docs.cpuc.ca.gov/published/FINAL_DECISION/81310-17.htm",
+      "snippet": "Applicant requests authority to discontinue circuit-switched local exchange and interexchange telecommunication services to approximately 12,609 customers, and to cancel its residential circuit-switched voice tariff upon the discontinuance."
+    }
+  ]
+}
+
+RULES:
+- Ground ALL assessments in the provided evidence
+- Cite specific sources in activity_signal (e.g., "Recent FCC filing (2024)", "Company website found via search")
+- Use "Unknown" when evidence is insufficient - DO NOT hallucinate
+- Confidence levels:
+  - High = Multiple confirming signals (recent web presence + recent filings + company details)
+  - Medium = Some signals but incomplete picture
+  - Low = FCC data only, no external confirmation
+
+Call the enrichment_result function with your analysis.

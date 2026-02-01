@@ -1,0 +1,87 @@
+You are analyzing an IPES (Interconnected VoIP Provider) company that filed for numbering authorization with the FCC.
+
+Based ONLY on the evidence provided below, determine:
+1. Whether the company is likely still active
+2. Their industry segment (UCaaS, CCaaS, CPaaS, Carrier, Reseller, Enterprise IT, or Other)
+3. A brief product summary
+4. Their market position (Enterprise, Mid-Market, SMB, Startup, or Unknown)
+5. Your confidence level based on evidence quality
+
+EVIDENCE PACK:
+{
+  "company_name": "Dialwave, Inc.",
+  "aliases": [
+    "Dialwave, Inc."
+  ],
+  "fcc_filing": {
+    "first_filing_date": "2025-06-24",
+    "latest_filing_date": "2025-06-24",
+    "total_filings": 2,
+    "docket_numbers": [
+      "25-204"
+    ],
+    "proceeding_types": [
+      "Interconnected VoIP Numbering Authorization Application Filed By Dialwave, Inc. Pursuant To Section 52.15(g)(3) of the Commission's Rules"
+    ],
+    "has_supplements": true,
+    "recent_activity": true
+  },
+  "parsed_from_docs": {
+    "address": "31 West 34th Street",
+    "city": null,
+    "state": null,
+    "zip_code": null,
+    "phone": null,
+    "email": "robert.nichols@dialwave.com",
+    "key_personnel": [
+      {
+        "name": "Chief Executive Officer",
+        "title": "Attached as"
+      },
+      {
+        "name": "Chief Executive Officer",
+        "title": "of Dialwave"
+      }
+    ],
+    "founding_date": null,
+    "service_description": null
+  },
+  "web_search_results": [
+    {
+      "title": "Cloud Communications Platform for Business | Dialwave",
+      "url": "https://dialwave.com/",
+      "snippet": "Dialwave is a leading provider of cloud-based voice and wireless communication products for businesses worldwide."
+    },
+    {
+      "title": "Interconnected VoIP Numbering Authorization Application Filed",
+      "url": "https://www.fcc.gov/document/interconnected-voip-numbering-authorization-application-filed-117",
+      "snippet": "Jan 15, 2026 \u00b7 Interconnected VoIP Numbering Authorization Application Filed Full Title: Interconnected VoIP Numbering Authorization Application Filed By Dialwave, Inc . Pursuant To Section 52.15 (g) (3) of the Commission's Rules Document Type: Public Notice Bureau (s):"
+    },
+    {
+      "title": "Dialwave - Crunchbase Company Profile & Funding Dialwave - Company Profile - Tracxn Dialwave Trademark - Dialwave, Inc. - New York, NY - Bizapedia Dialwave Features, Benefits, Alternatives, Review | SaaS Browser docs.fcc.gov",
+      "url": "https://www.crunchbase.com/organization/dialwave",
+      "snippet": "Dialwave provides next-generation, cloud-based telecom solutions for businesses worldwide. Our platform enables you to deploy voice, data, and mobile services with just a few clicks. Sep 10, 2025 \u00b7 What does Dialwave do? Cloud-based communications platform for businesses. It provides voice and wireless communication products for businesses, leveraging AI to revolutionize telephony and offering a infrastructure for the clients. It offers a range of products and services designed to streamline business operations and communication. Dialwave is a Trademark by Dialwave, Inc ., the address on file for this trademark is 31 West 34th Street, 8th Floor, New York, NY 10001 Learn about Dialwave - features, pricing plans, popular alternatives to other API & Backend-as-a-Service Platforms SaaS businesses and more. Dialwave, Inc . (Dialwave or Applicant), an interconnected Voice over Internet Protocol ( VoIP ) provider, filed a Numbering Authorization Application (Application) pursuant to section 52.15(g)(3) of the Federal Communications Commission\u2019s rules, seeking authorization to obtain North American Numbering Plan telephone numbers directly from the ..."
+    },
+    {
+      "title": "Dialwave - Company Profile - Tracxn",
+      "url": "https://tracxn.com/d/companies/dialwave/___JeqU2nrTlm39sL84lTx_n-It7jcV61jMQiyVVxrF58",
+      "snippet": "Sep 10, 2025 \u00b7 What does Dialwave do? Cloud-based communications platform for businesses. It provides voice and wireless communication products for businesses, leveraging AI to revolutionize telephony and offering a infrastructure for the clients. It offers a range of products and services designed to streamline business operations and communication."
+    },
+    {
+      "title": "Dialwave Trademark - Dialwave, Inc. - New York, NY - Bizapedia",
+      "url": "https://www.bizapedia.com/trademarks/dialwave-98441662.html",
+      "snippet": "Dialwave is a Trademark by Dialwave, Inc ., the address on file for this trademark is 31 West 34th Street, 8th Floor, New York, NY 10001"
+    }
+  ]
+}
+
+RULES:
+- Ground ALL assessments in the provided evidence
+- Cite specific sources in activity_signal (e.g., "Recent FCC filing (2024)", "Company website found via search")
+- Use "Unknown" when evidence is insufficient - DO NOT hallucinate
+- Confidence levels:
+  - High = Multiple confirming signals (recent web presence + recent filings + company details)
+  - Medium = Some signals but incomplete picture
+  - Low = FCC data only, no external confirmation
+
+Call the enrichment_result function with your analysis.

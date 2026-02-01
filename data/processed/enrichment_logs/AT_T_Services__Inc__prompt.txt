@@ -1,0 +1,80 @@
+You are analyzing an IPES (Interconnected VoIP Provider) company that filed for numbering authorization with the FCC.
+
+Based ONLY on the evidence provided below, determine:
+1. Whether the company is likely still active
+2. Their industry segment (UCaaS, CCaaS, CPaaS, Carrier, Reseller, Enterprise IT, or Other)
+3. A brief product summary
+4. Their market position (Enterprise, Mid-Market, SMB, Startup, or Unknown)
+5. Your confidence level based on evidence quality
+
+EVIDENCE PACK:
+{
+  "company_name": "AT&T Services, Inc.",
+  "aliases": [
+    "AT&T Services, Inc."
+  ],
+  "fcc_filing": {
+    "first_filing_date": "2016-04-15",
+    "latest_filing_date": "2016-04-15",
+    "total_filings": 4,
+    "docket_numbers": [
+      "16-135",
+      "17-125"
+    ],
+    "proceeding_types": [
+      "INTERCONNECTED VOIP NUMBERING AUTHORIZATION APPLICATION FILED BY TELESMART, INC. PURSUANT TO SECTION 52.15(g)(3) OF THE COMMISSION&#146;S RULES",
+      "Interconnected VoIP Numbering Authorization Application Filed By AT&T Corp. Pursuant To Section 52.15(g)(3) Of The Commission?s Rules"
+    ],
+    "has_supplements": false,
+    "recent_activity": false
+  },
+  "parsed_from_docs": {
+    "address": null,
+    "city": null,
+    "state": null,
+    "zip_code": null,
+    "phone": null,
+    "email": "Jp7321@att.com",
+    "key_personnel": [],
+    "founding_date": null,
+    "service_description": "provided iVoIP services\nfor over ten (10) years and continues to providethose services currently."
+  },
+  "web_search_results": [
+    {
+      "title": "AT&T Communications - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/AT&T_Communications",
+      "snippet": "AT & T Phone (formerly AT&T U-verse Voice) is a voice communication service delivered over AT& T 's IP network ( VoIP ). This phone service is digital and provides a voicemail service accessed by *98 from the home number."
+    },
+    {
+      "title": "AT&T - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/AT&T",
+      "snippet": "Since reforming, AT & T has continued being a major force in telecommunications . In 2006, it acquired BellSouth Corporation, gaining full control of Cingular Wireless. It also entered into content distribution with the launch of U-Verse TV, an IP television service."
+    },
+    {
+      "title": "AT&T Services Inc - Company Profile and News - Bloomberg Markets AT&T Services Inc.: A Telecommunications Giant in Transition AT&T Virtual Private Network AT&T - Wikipedia AT&T Customer Support",
+      "url": "https://www.bloomberg.com/profile/company/0126721D:US",
+      "snippet": "Mar 1, 1996 \u00b7 Company profile page for AT & T Services Inc including stock price, company news, executives, board members, and contact information In a landmark deal finalized in May 2024, AT & T Services Inc . merged with its long-time competitor, Verizon Communications Inc. This merger created a telecommunications behemoth, raising concerns about market concentration and potential price hikes for consumers. We're here to help. If you need assistance, contact us. AVPN international contact information. Since reforming, AT & T has continued being a major force in telecommunications . In 2006, it acquired BellSouth Corporation, gaining full control of Cingular Wireless. It also entered into content distribution with the launch of U-Verse TV, an IP television service. The AT & T Support Center provides personalized assistance for customers of AT & T Wireless, Internet, Prepaid, and more! Read our helpful Support articles to self-service and check on the status of your service request."
+    },
+    {
+      "title": "AT&T Services Inc.: A Telecommunications Giant in Transition",
+      "url": "https://pixelsseo.com/att-services-inc/",
+      "snippet": "In a landmark deal finalized in May 2024, AT & T Services Inc . merged with its long-time competitor, Verizon Communications Inc. This merger created a telecommunications behemoth, raising concerns about market concentration and potential price hikes for consumers."
+    },
+    {
+      "title": "AT&T Official Site | Our Best Wireless & Internet Service",
+      "url": "https://www.att.com/",
+      "snippet": "All of our postpaid wireless and fiber plans are backed by the AT & T Guarantee SM. That means it works, or we\u2019ll automatically credit you a full day of service. Guaranteed. Your meaningful moments."
+    }
+  ]
+}
+
+RULES:
+- Ground ALL assessments in the provided evidence
+- Cite specific sources in activity_signal (e.g., "Recent FCC filing (2024)", "Company website found via search")
+- Use "Unknown" when evidence is insufficient - DO NOT hallucinate
+- Confidence levels:
+  - High = Multiple confirming signals (recent web presence + recent filings + company details)
+  - Medium = Some signals but incomplete picture
+  - Low = FCC data only, no external confirmation
+
+Call the enrichment_result function with your analysis.

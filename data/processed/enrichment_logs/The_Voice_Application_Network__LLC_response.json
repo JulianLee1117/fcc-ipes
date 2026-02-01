@@ -1,0 +1,35 @@
+{
+  "id": "msg_01Ak63zXWeH8g3hBxmoULMmX",
+  "content": [
+    {
+      "id": "toolu_01FXhr2MtoqaTNZG5KCfhHy1",
+      "input": {
+        "is_active": false,
+        "activity_signal": "Single FCC filing from 2019-06-25 with no recent activity (has_recent_activity: false). Web search results only return generic VoIP patents with no specific company information. No company website, social media, or business listings found. Email domain (@centurylink.com) suggests possible acquisition or service arrangement with CenturyLink rather than independent operation.",
+        "industry_segment": "UCaaS",
+        "product_summary": "VoIP service provider that filed for interconnected VoIP numbering authorization, likely providing voice communication services over internet protocol networks.",
+        "market_position": "Unknown",
+        "enrichment_confidence": "Low"
+      },
+      "name": "enrichment_result",
+      "type": "tool_use"
+    }
+  ],
+  "model": "claude-sonnet-4-20250514",
+  "role": "assistant",
+  "stop_reason": "tool_use",
+  "stop_sequence": null,
+  "type": "message",
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0,
+    "input_tokens": 1701,
+    "output_tokens": 237,
+    "server_tool_use": null,
+    "service_tier": "standard"
+  }
+}

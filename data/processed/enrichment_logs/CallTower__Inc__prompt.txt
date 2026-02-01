@@ -1,0 +1,139 @@
+You are analyzing an IPES (Interconnected VoIP Provider) company that filed for numbering authorization with the FCC.
+
+Based ONLY on the evidence provided below, determine:
+1. Whether the company is likely still active
+2. Their industry segment (UCaaS, CCaaS, CPaaS, Carrier, Reseller, Enterprise IT, or Other)
+3. A brief product summary
+4. Their market position (Enterprise, Mid-Market, SMB, Startup, or Unknown)
+5. Your confidence level based on evidence quality
+
+EVIDENCE PACK:
+{
+  "company_name": "CallTower, Inc.",
+  "aliases": [
+    "CallTower, Inc."
+  ],
+  "fcc_filing": {
+    "first_filing_date": "2024-11-08",
+    "latest_filing_date": "2024-11-08",
+    "total_filings": 1,
+    "docket_numbers": [
+      "24-627"
+    ],
+    "proceeding_types": [
+      "Interconnected VoIP Numbering Authorization Application Filed By CallTower, Inc. Pursuant To Section 52.15(g)(3) Of The Commission's Rules"
+    ],
+    "has_supplements": false,
+    "recent_activity": true
+  },
+  "parsed_from_docs": {
+    "address": "10701 S. River Front Pkwy",
+    "city": null,
+    "state": "10",
+    "zip_code": null,
+    "phone": null,
+    "email": "bwatts@calltower.com",
+    "key_personnel": [
+      {
+        "name": "Chief Technology Officer",
+        "title": "Company Website"
+      },
+      {
+        "name": "William Rubio",
+        "title": "President"
+      },
+      {
+        "name": "Chief Revenue Officer",
+        "title": "Shawn Hansen"
+      },
+      {
+        "name": "Chief Financial Officer",
+        "title": "Brandon Watts"
+      },
+      {
+        "name": "Chief Technology Officer",
+        "title": "Doug Larsen"
+      },
+      {
+        "name": "As President",
+        "title": "President"
+      },
+      {
+        "name": "Chief Revenue Officer",
+        "title": "As the"
+      },
+      {
+        "name": "Chief Revenue Officer",
+        "title": "at CallTower"
+      },
+      {
+        "name": "of Sales",
+        "title": "President"
+      },
+      {
+        "name": "Chief Financial Officer",
+        "title": "As Chief"
+      },
+      {
+        "name": "Chief Technology Officer",
+        "title": "Brandon connects"
+      },
+      {
+        "name": "of Technology",
+        "title": "President"
+      },
+      {
+        "name": "of Technology",
+        "title": "President"
+      },
+      {
+        "name": "of Client",
+        "title": "President"
+      },
+      {
+        "name": "of Operations",
+        "title": "President"
+      }
+    ],
+    "founding_date": "1982",
+    "service_description": "provide VoIP services in the\nNew York State and New Jersey through its own facilities and those of its CLEC partner with\nwhich it has arrangements in place for routing traffic to the PSTN."
+  },
+  "web_search_results": [
+    {
+      "title": "CallTower Voip Provider",
+      "url": "https://businessvoipexperts.com/voipproviders/calltower.html",
+      "snippet": "VoIP Cost Savings. VoIP Integration & Productivity. VoIP Scalability & Maintenance. VoIP Number Portability. CallTower , Inc . is a provider of hosted enterprise-class Unified Communications solutions for businesses and organizations nationwide."
+    },
+    {
+      "title": "CallTower Reviews & Pricing 2023",
+      "url": "https://www.goodfirms.co/software/calltower",
+      "snippet": "CallTower enhances our clients\u2019 strategic and operational capabilities by integrating VoIP service, mobile applications, email hosting, unified messaging, instant messaging, audio, web and video conferencing, collaboration tools, contact center, cloud services and global networks..."
+    },
+    {
+      "title": "CallTower , 10701 River Front Pkwy, Ste 450, South... - MapQuest",
+      "url": "https://www.mapquest.com/us/utah/calltower-345860367",
+      "snippet": "Get more information for CallTower in South Jordan, UT. See reviews, map, get the address, and find directions. CallTower Inc . is a telecommunications company based in South Jordan, UT, specializing in providing cloud-based communication solutions for businesses of all sizes."
+    },
+    {
+      "title": "Voip Jobs, Employment in Utah | Indeed",
+      "url": "https://www.indeed.com/q-voip-l-utah-jobs.html",
+      "snippet": "CallTower , Inc . Salt Lake City, UT.Can program and administer networking (routers and switches), telecommunication (servers and VoIP phones), and computing equipment (printers, laptops, PC's, etc). Answer service phone calls with a customer support mindset."
+    },
+    {
+      "title": "CallTower Inc on Twitter: \" VOIP business phone systems like...\"",
+      "url": "https://twitter.com/calltower/status/1516477369695064073",
+      "snippet": "CallTower Inc . @calltower. VOIP business phone systems like Microsoft Teams are more affordable, more flexible, and offer more features than a traditional business phone installation: https://tinyurl.com/2mhc3un9."
+    }
+  ]
+}
+
+RULES:
+- Ground ALL assessments in the provided evidence
+- Cite specific sources in activity_signal (e.g., "Recent FCC filing (2024)", "Company website found via search")
+- Use "Unknown" when evidence is insufficient - DO NOT hallucinate
+- Confidence levels:
+  - High = Multiple confirming signals (recent web presence + recent filings + company details)
+  - Medium = Some signals but incomplete picture
+  - Low = FCC data only, no external confirmation
+
+Call the enrichment_result function with your analysis.

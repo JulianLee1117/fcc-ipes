@@ -1,0 +1,107 @@
+You are analyzing an IPES (Interconnected VoIP Provider) company that filed for numbering authorization with the FCC.
+
+Based ONLY on the evidence provided below, determine:
+1. Whether the company is likely still active
+2. Their industry segment (UCaaS, CCaaS, CPaaS, Carrier, Reseller, Enterprise IT, or Other)
+3. A brief product summary
+4. Their market position (Enterprise, Mid-Market, SMB, Startup, or Unknown)
+5. Your confidence level based on evidence quality
+
+EVIDENCE PACK:
+{
+  "company_name": "Aram Ter-Martirosyan",
+  "aliases": [
+    "Aram Ter-Martirosyan"
+  ],
+  "fcc_filing": {
+    "first_filing_date": "2025-02-26",
+    "latest_filing_date": "2025-02-26",
+    "total_filings": 6,
+    "docket_numbers": [
+      "25-112"
+    ],
+    "proceeding_types": [
+      "Interconnected VoIP Numbering Authorization Application Filed By ConnectTo Communications, Inc. Pursuant To Section 52.15(g)(3) Of The Commission's Rules"
+    ],
+    "has_supplements": false,
+    "recent_activity": true
+  },
+  "parsed_from_docs": {
+    "address": "555 Riverdale, Suite A, Glendale, CA 91204",
+    "city": null,
+    "state": null,
+    "zip_code": null,
+    "phone": null,
+    "email": "aram@ConnectTo.com",
+    "key_personnel": [
+      {
+        "name": "utilizes AI",
+        "title": "cTo"
+      },
+      {
+        "name": "utilizes AI",
+        "title": "cTo"
+      },
+      {
+        "name": "utilizes AI",
+        "title": "cTo"
+      },
+      {
+        "name": "utilizes AI",
+        "title": "cTo"
+      },
+      {
+        "name": "utilizes AI",
+        "title": "cTo"
+      },
+      {
+        "name": "utilizes AI",
+        "title": "cTo"
+      },
+      {
+        "name": "utilizes AI",
+        "title": "cTo"
+      }
+    ],
+    "founding_date": null,
+    "service_description": "provide interconnected VoIP services In all US States."
+  },
+  "web_search_results": [
+    {
+      "title": "Aram Ter-Martirosyan - Chief Information Officer at ConnectTo ... Aram Ter-Martirosyan \u2013 Armenian Engineers and Scientists ... Aram Ter-Martirosyan - LA Executive Awards - Los Angeles Times Aram Ter-Martirosyan Email & Phone Number - RocketReach Aram Ter-Martirosyan's Email & Phone - ConnectTo Communications Aram Ter-Martirosyan of ConnectTo is a Nominee for LA ... Aram Ter-Martirosyan \u2013 HyeID",
+      "url": "https://www.linkedin.com/in/aram-ter-martirosyan-7049248",
+      "snippet": "Chief Information Officer transforming how businesses communicate through innovative telecommunications solutions. With extensive experience in both telecommunications and software development,... As CIO and Co-Founder of ConnectTo, he has directed the development of advanced AI-based communication , CRM, and infrastructure solutions serving clients across multiple industries including telecom , healthcare, automotive, and defense. Aram Ter - Martirosyan is the chief information officer of ConnectTo Communications, a leading provider of AI-driven software and telecommunications solutions. With over 30 years in the... Aram Ter - Martirosyan Summary Aram Ter - Martirosyan , based in Glendale, CA, US, is currently a Chief Information Officer at ConnectTo Communications. Aram Ter - martirosyan has experience in the field of information technology, specifically in the area of CLEC, VoIP , IP, and Telecommunications . Aram Ter - martirosyan is also well-versed inbroadband, SIP Trunking, SIP, and Broadband. Mar 26, 2025 \u00b7 This recognition highlights Aram \u2019s achievements over the past 24 months in IT, AI, telecommunications , and software development. His dedication and expertise have been instrumental in driving ConnectTo\u2019s IT Solutions Company in Los Angeles County. Dec 12, 2010 \u00b7 From 1997 to 1999, he worked as an independent consultant for the software development and IT departments of Telecommunications and Internet companies. Aram Ter - Martirosyan worked with numerous well-known companies including MCI Telecommunications , Sprint Telecommunications , Star Telecom, Geocities.com (Yahoo) and Aegis Telecommunications Group."
+    },
+    {
+      "title": "Aram Ter-Martirosyan - LA Executive Awards - Los Angeles Times",
+      "url": "https://www.latimes.com/b2b/events/la-executive-awards/aram-ter-martirosyan",
+      "snippet": "Aram Ter - Martirosyan is the chief information officer of ConnectTo Communications, a leading provider of AI-driven software and telecommunications solutions. With over 30 years in the..."
+    },
+    {
+      "title": "Aram Ter-Martirosyan Email & Phone Number - RocketReach",
+      "url": "https://rocketreach.co/aram-ter-martirosyan-email_50137950",
+      "snippet": "Aram Ter - Martirosyan Summary Aram Ter - Martirosyan , based in Glendale, CA, US, is currently a Chief Information Officer at ConnectTo Communications."
+    },
+    {
+      "title": "Aram Ter-Martirosyan's Email & Phone - ConnectTo Communications",
+      "url": "https://contactout.com/Aram-Ter-martirosyan-104166578",
+      "snippet": "Aram Ter - martirosyan has experience in the field of information technology, specifically in the area of CLEC, VoIP , IP, and Telecommunications . Aram Ter - martirosyan is also well-versed inbroadband, SIP Trunking, SIP, and Broadband."
+    },
+    {
+      "title": "Aram Ter-Martirosyan of ConnectTo is a Nominee for LA ...",
+      "url": "https://www.thecaliforniacourier.com/leading-the-way-in-connectivity-innovation/",
+      "snippet": "Mar 26, 2025 \u00b7 This recognition highlights Aram \u2019s achievements over the past 24 months in IT, AI, telecommunications , and software development. His dedication and expertise have been instrumental in driving ConnectTo\u2019s IT Solutions Company in Los Angeles County."
+    }
+  ]
+}
+
+RULES:
+- Ground ALL assessments in the provided evidence
+- Cite specific sources in activity_signal (e.g., "Recent FCC filing (2024)", "Company website found via search")
+- Use "Unknown" when evidence is insufficient - DO NOT hallucinate
+- Confidence levels:
+  - High = Multiple confirming signals (recent web presence + recent filings + company details)
+  - Medium = Some signals but incomplete picture
+  - Low = FCC data only, no external confirmation
+
+Call the enrichment_result function with your analysis.

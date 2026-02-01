@@ -1,0 +1,35 @@
+{
+  "id": "msg_01XMT4whf3d1WWXzSBe34Wki",
+  "content": [
+    {
+      "id": "toolu_013iY3d8HGKRF4UZLdEdsfqf",
+      "input": {
+        "is_active": true,
+        "activity_signal": "Active Comcast Business website found via search offering \"business phone and Voice over IP (VoIP) services\", D&B business directory listing found, and company incorporated in 2005 with ongoing registry presence. While FCC filing is from 2018, the parent Comcast organization maintains active VoIP services.",
+        "industry_segment": "UCaaS",
+        "product_summary": "Comcast IP Phone, LLC is a subsidiary that provides Voice over IP (VoIP) phone services for Comcast Business customers, serving small businesses to enterprise corporations.",
+        "market_position": "Enterprise",
+        "enrichment_confidence": "Medium"
+      },
+      "name": "enrichment_result",
+      "type": "tool_use"
+    }
+  ],
+  "model": "claude-sonnet-4-20250514",
+  "role": "assistant",
+  "stop_reason": "tool_use",
+  "stop_sequence": null,
+  "type": "message",
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0,
+    "input_tokens": 1787,
+    "output_tokens": 233,
+    "server_tool_use": null,
+    "service_tier": "standard"
+  }
+}

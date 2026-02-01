@@ -1,0 +1,91 @@
+You are analyzing an IPES (Interconnected VoIP Provider) company that filed for numbering authorization with the FCC.
+
+Based ONLY on the evidence provided below, determine:
+1. Whether the company is likely still active
+2. Their industry segment (UCaaS, CCaaS, CPaaS, Carrier, Reseller, Enterprise IT, or Other)
+3. A brief product summary
+4. Their market position (Enterprise, Mid-Market, SMB, Startup, or Unknown)
+5. Your confidence level based on evidence quality
+
+EVIDENCE PACK:
+{
+  "company_name": "Local Access, LLC",
+  "aliases": [
+    "Local Access, LLC"
+  ],
+  "fcc_filing": {
+    "first_filing_date": "2016-06-16",
+    "latest_filing_date": "2016-06-16",
+    "total_filings": 2,
+    "docket_numbers": [
+      "16-198"
+    ],
+    "proceeding_types": [
+      "Interconnected VoIP Numbering Authorization Application Filed By Local Access, LLC Pursuant to Section 52.15(g)(3) of The Commission's Rules."
+    ],
+    "has_supplements": false,
+    "recent_activity": false
+  },
+  "parsed_from_docs": {
+    "address": "jfinneran@localaccessholdings.com",
+    "city": null,
+    "state": null,
+    "zip_code": null,
+    "phone": null,
+    "email": null,
+    "key_personnel": [
+      {
+        "name": "Local Access",
+        "title": "President"
+      },
+      {
+        "name": "Doug Osborne",
+        "title": "President"
+      },
+      {
+        "name": "and Deputy",
+        "title": "President"
+      }
+    ],
+    "founding_date": null,
+    "service_description": null
+  },
+  "web_search_results": [
+    {
+      "title": "Local Access, LLC | BBB Business Profile | Better Business Bureau LOCAL ACCESS LLC - ACCESS SERVICES TARIFF REGULATIONS AND ... RI Business Portal Local Access Reviews, Complaints, Customer Service FCC Proposes Fine Against Local Access for Reassigned Number ... Local Access Tariff Template - psc.ky.gov",
+      "url": "https://www.bbb.org/us/fl/windermere/profile/telephones/local-access-llc-0733-90333401",
+      "snippet": "Telephones in Windermere, FL. See BBB rating, reviews, complaints, and more. Local Exchange Routing Guide (LERG) The telecommunications industry database tool used to provision NPA/NNXs and provide routing infonnation to facilitate call completion. Entity Summary ID Number: 000798574 Summary for: LOCAL ACCESS LLC The exact name of the Foreign Limited Liability Company: LOCAL ACCESS LLC Entity type: Foreign Limited Liability Company Identification Number: 000798574 Date of Registration in Rhode Island: 04-26-2013 Effective Date: 04-26-2013 Date of Revocation Certificate: 10-11-2022 Shady, yet now dead: once upon a time this website was reported to be associated with Local Access , LLC , but after several inspections we\u2019ve come to the conclusion that this domain is no longer active. Local Access consumer reviews, complaints, customer service. Dec 12, 2022 \u00b7 FCC's Enforcement Bureau proposes a fine against Local Access LLC for apparently failing to provide information on a timely basis about telephone number disconnections to the Reassigned Numbers Database Administrator This tariff sets forth the competitive service offerings, rates, terms and conditions applicable to Local Access LLC (Company) furnishing intrastate, IntraMSA and InterMSA communications services."
+    },
+    {
+      "title": "LOCAL ACCESS LLC - ACCESS SERVICES TARIFF REGULATIONS AND ...",
+      "url": "https://www.puc.pa.gov/pcdocs/1190719.pdf",
+      "snippet": "Local Exchange Routing Guide (LERG) The telecommunications industry database tool used to provision NPA/NNXs and provide routing infonnation to facilitate call completion."
+    },
+    {
+      "title": "Local Access Reviews, Complaints, Customer Service FCC Proposes Fine Against Local Access for Reassigned Number ... Local Access Tariff Template - psc.ky.gov",
+      "url": "https://www.revdex.com/reviews/local-access-llc/7240024",
+      "snippet": "Shady, yet now dead: once upon a time this website was reported to be associated with Local Access , LLC , but after several inspections we\u2019ve come to the conclusion that this domain is no longer active. Local Access consumer reviews, complaints, customer service. Dec 12, 2022 \u00b7 FCC's Enforcement Bureau proposes a fine against Local Access LLC for apparently failing to provide information on a timely basis about telephone number disconnections to the Reassigned Numbers Database Administrator This tariff sets forth the competitive service offerings, rates, terms and conditions applicable to Local Access LLC (Company) furnishing intrastate, IntraMSA and InterMSA communications services."
+    },
+    {
+      "title": "FCC Proposes Fine Against Local Access for Reassigned Number ...",
+      "url": "https://www.fcc.gov/document/fcc-proposes-fine-against-local-access-reassigned-number-rules",
+      "snippet": "Dec 12, 2022 \u00b7 FCC's Enforcement Bureau proposes a fine against Local Access LLC for apparently failing to provide information on a timely basis about telephone number disconnections to the Reassigned Numbers Database Administrator"
+    },
+    {
+      "title": "Local Access Tariff Template - psc.ky.gov",
+      "url": "https://psc.ky.gov/tariffs/xtra+info/inactive+or+non-jurisdictional+utilities/telecommunications/local+access+llc/tariff+no.+1+-+access.pdf",
+      "snippet": "This tariff sets forth the competitive service offerings, rates, terms and conditions applicable to Local Access LLC (Company) furnishing intrastate, IntraMSA and InterMSA communications services."
+    }
+  ]
+}
+
+RULES:
+- Ground ALL assessments in the provided evidence
+- Cite specific sources in activity_signal (e.g., "Recent FCC filing (2024)", "Company website found via search")
+- Use "Unknown" when evidence is insufficient - DO NOT hallucinate
+- Confidence levels:
+  - High = Multiple confirming signals (recent web presence + recent filings + company details)
+  - Medium = Some signals but incomplete picture
+  - Low = FCC data only, no external confirmation
+
+Call the enrichment_result function with your analysis.

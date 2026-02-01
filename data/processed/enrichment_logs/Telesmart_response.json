@@ -1,0 +1,35 @@
+{
+  "id": "msg_01KwTNj6cyRDybD5ymGVrkQT",
+  "content": [
+    {
+      "id": "toolu_01RuFDNc5VqNri5quKFHHTvy",
+      "input": {
+        "is_active": true,
+        "activity_signal": "Company website found via search (https://www.telesmart.io/) showing current operations as \"Automated Global Number Operations for Carriers\", CBInsights profile indicates active telecommunications operations with API-driven platform, and Tracxn profile dated May 12, 2025 shows active business status",
+        "industry_segment": "CPaaS",
+        "product_summary": "Telesmart provides API-driven, white-label platform that automates telecommunications supply chain services including global number lifecycle management, voice and SMS messaging services, inventory management, porting, routing, and switching for carriers and businesses.",
+        "market_position": "Enterprise",
+        "enrichment_confidence": "Medium"
+      },
+      "name": "enrichment_result",
+      "type": "tool_use"
+    }
+  ],
+  "model": "claude-sonnet-4-20250514",
+  "role": "assistant",
+  "stop_reason": "tool_use",
+  "stop_sequence": null,
+  "type": "message",
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0,
+    "input_tokens": 1712,
+    "output_tokens": 240,
+    "server_tool_use": null,
+    "service_tier": "standard"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "msg_01U7mLth37tAorw9U7BzrqyH",
+  "content": [
+    {
+      "id": "toolu_01S3XgQaRxjRdhnBJkdGkTcy",
+      "input": {
+        "is_active": true,
+        "activity_signal": "Recent FCC filing (April 19, 2024) for VoIP numbering authorization shows current business activity. Company website found via web search at verificationtechnologies.ai describes \"carrier products\" and \"connective solutions.\" Business registration record found on Bizapedia confirms company exists in Nevada.",
+        "industry_segment": "Carrier",
+        "product_summary": "Verification Technologies provides carrier products and connective solutions to help businesses with connectivity, customer communication, colleague collaboration, and device network management.",
+        "market_position": "Unknown",
+        "enrichment_confidence": "Medium"
+      },
+      "name": "enrichment_result",
+      "type": "tool_use"
+    }
+  ],
+  "model": "claude-sonnet-4-20250514",
+  "role": "assistant",
+  "stop_reason": "tool_use",
+  "stop_sequence": null,
+  "type": "message",
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0,
+    "input_tokens": 2106,
+    "output_tokens": 220,
+    "server_tool_use": null,
+    "service_tier": "standard"
+  }
+}

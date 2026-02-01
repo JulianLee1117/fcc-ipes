@@ -1,0 +1,35 @@
+{
+  "id": "msg_015J38ARHjZvTxh2uTPQSe6D",
+  "content": [
+    {
+      "id": "toolu_013oFQfJncnXhJuMtqmNRkq2",
+      "input": {
+        "is_active": true,
+        "activity_signal": "Multiple active signals found: 1) Company profile on Cortera business directory showing current operations in Nashville, TN specializing in \"Telephone Communications, Except Radiotelephone\" 2) Recent contract awards including Prince George's County Public Schools E-Rate hosted VoIP contract (exp. 6-30-16 but shows recent vendor selection) 3) Active marketing materials showing \"ENA SmartVoice\" cloud-based VoIP solution from Alabama Community College System documentation 4) Listed as active provider offering \"Network monitoring\", \"SIP trunking\", and \"Managed IT services\" in State of Utah telecommunications services documentation",
+        "industry_segment": "UCaaS",
+        "product_summary": "ENA Services provides cloud-based VoIP and unified communications solutions including their \"ENA SmartVoice\" platform, SIP trunking services, and managed IT services primarily targeting educational institutions and government entities.",
+        "market_position": "Enterprise",
+        "enrichment_confidence": "High"
+      },
+      "name": "enrichment_result",
+      "type": "tool_use"
+    }
+  ],
+  "model": "claude-sonnet-4-20250514",
+  "role": "assistant",
+  "stop_reason": "tool_use",
+  "stop_sequence": null,
+  "type": "message",
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0,
+    "input_tokens": 2029,
+    "output_tokens": 315,
+    "server_tool_use": null,
+    "service_tier": "standard"
+  }
+}

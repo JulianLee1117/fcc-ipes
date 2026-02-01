@@ -1,0 +1,35 @@
+{
+  "id": "msg_01XfuN6QABqcGAJEhmKEmYWR",
+  "content": [
+    {
+      "id": "toolu_01DVrwbV3E4Ms9gvJsBUZHez",
+      "input": {
+        "is_active": false,
+        "activity_signal": "No evidence of current activity. Last FCC filing was 2017-11-01 with no recent activity flagged. Web searches returned generic VoIP industry results but no specific company website or current business presence for Advanced Telecom Solutions, LLC. Email domain (turbobridge.com) suggests potential connection to different entity.",
+        "industry_segment": "UCaaS",
+        "product_summary": "Provided \"Interconnected VoIP Service\" as defined by FCC rules, likely offering business telecommunications solutions based on company name and service description.",
+        "market_position": "Unknown",
+        "enrichment_confidence": "Low"
+      },
+      "name": "enrichment_result",
+      "type": "tool_use"
+    }
+  ],
+  "model": "claude-sonnet-4-20250514",
+  "role": "assistant",
+  "stop_reason": "tool_use",
+  "stop_sequence": null,
+  "type": "message",
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0,
+    "input_tokens": 1877,
+    "output_tokens": 229,
+    "server_tool_use": null,
+    "service_tier": "standard"
+  }
+}

@@ -1,0 +1,83 @@
+You are analyzing an IPES (Interconnected VoIP Provider) company that filed for numbering authorization with the FCC.
+
+Based ONLY on the evidence provided below, determine:
+1. Whether the company is likely still active
+2. Their industry segment (UCaaS, CCaaS, CPaaS, Carrier, Reseller, Enterprise IT, or Other)
+3. A brief product summary
+4. Their market position (Enterprise, Mid-Market, SMB, Startup, or Unknown)
+5. Your confidence level based on evidence quality
+
+EVIDENCE PACK:
+{
+  "company_name": "CCI Network Services LLC",
+  "aliases": [
+    "CCI Network Services LLC"
+  ],
+  "fcc_filing": {
+    "first_filing_date": "2021-02-26",
+    "latest_filing_date": "2021-02-26",
+    "total_filings": 3,
+    "docket_numbers": [
+      "21-75"
+    ],
+    "proceeding_types": [
+      "Interconnected VoIP Numbering Authorization Application Filed By CCI Network Services, LLC Pursuant To Section 52.15(g)(3) Of The Commission's Rules"
+    ],
+    "has_supplements": false,
+    "recent_activity": false
+  },
+  "parsed_from_docs": {
+    "address": "155 N 400 W Suite 100",
+    "city": "Salt",
+    "state": "UT",
+    "zip_code": "84103",
+    "phone": "8019944100",
+    "email": null,
+    "key_personnel": [
+      {
+        "name": "and Nathan",
+        "title": "COO"
+      }
+    ],
+    "founding_date": null,
+    "service_description": null
+  },
+  "web_search_results": [
+    {
+      "title": "CCI Network Services , LLC | Federal Communications Commission",
+      "url": "https://www.fcc.gov/document/cci-network-services-llc",
+      "snippet": "CCI Network Services , LLC . Full Title: CCI Network Services , LLC ."
+    },
+    {
+      "title": "CCI Network Services LLC Warning Letter | Federal Trade Commission",
+      "url": "https://www.ftc.gov/legal-library/browse/frequently-requested-foia-records/voip-companies/2020-00423-cci-network-services-llc-warning-letter",
+      "snippet": "Frequently Requested FOIA Records. VOIP Companies. CCI Network Services LLC Warning Letter. FOIA Request Number. 2020-00423."
+    },
+    {
+      "title": "CCI Network Services LLC - Company Profile... - Bloomberg Markets",
+      "url": "https://www.bloomberg.com/profile/company/1792030D:US",
+      "snippet": "Company profile page for CCI Network Services LLC including stock price, company news, executives, board members, and contact information."
+    },
+    {
+      "title": "CCI Network Services - Ownership and Business Overview | Mergr",
+      "url": "https://mergr.com/company/cci-network-services",
+      "snippet": "CCI Network Services is a provider of diversified telecom services. CCI designs, provisions, and manages customized, mission-critical voice , data and cloud solutions for enterprise customers and small to medium-sized businesses."
+    },
+    {
+      "title": "CCI NETWORK SERVICES , LLC ... | Nevada-register.com",
+      "url": "https://www.nevada-register.com/1022933-cci-network-services-llc",
+      "snippet": "The company CCI NETWORK SERVICES , LLC is managed by 2 persons in total. The persons responsible for business activities are CHRIS GOSE with the seat at 155 N 400 W SUITE 100, SALT LAKE CITY, 84103, UT as Managing Member..."
+    }
+  ]
+}
+
+RULES:
+- Ground ALL assessments in the provided evidence
+- Cite specific sources in activity_signal (e.g., "Recent FCC filing (2024)", "Company website found via search")
+- Use "Unknown" when evidence is insufficient - DO NOT hallucinate
+- Confidence levels:
+  - High = Multiple confirming signals (recent web presence + recent filings + company details)
+  - Medium = Some signals but incomplete picture
+  - Low = FCC data only, no external confirmation
+
+Call the enrichment_result function with your analysis.

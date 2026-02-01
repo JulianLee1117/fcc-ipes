@@ -1,0 +1,83 @@
+You are analyzing an IPES (Interconnected VoIP Provider) company that filed for numbering authorization with the FCC.
+
+Based ONLY on the evidence provided below, determine:
+1. Whether the company is likely still active
+2. Their industry segment (UCaaS, CCaaS, CPaaS, Carrier, Reseller, Enterprise IT, or Other)
+3. A brief product summary
+4. Their market position (Enterprise, Mid-Market, SMB, Startup, or Unknown)
+5. Your confidence level based on evidence quality
+
+EVIDENCE PACK:
+{
+  "company_name": "TDS Metrocom, LLC",
+  "aliases": [
+    "TDS Metrocom, LLC"
+  ],
+  "fcc_filing": {
+    "first_filing_date": "2024-10-11",
+    "latest_filing_date": "2024-10-11",
+    "total_filings": 1,
+    "docket_numbers": [
+      "24-502"
+    ],
+    "proceeding_types": [
+      "Interconnected VoIP Numbering Authorization Application Filed By TDS Metrocom, LLC Pursuant To Section 52.15(g)(3) of the Commission's Rules"
+    ],
+    "has_supplements": false,
+    "recent_activity": true
+  },
+  "parsed_from_docs": {
+    "address": null,
+    "city": null,
+    "state": null,
+    "zip_code": null,
+    "phone": null,
+    "email": null,
+    "key_personnel": [
+      {
+        "name": "Network Operations",
+        "title": "President"
+      }
+    ],
+    "founding_date": null,
+    "service_description": "providers, as well\nas TDS Metrocom\u2019s ability to provide VoIP service by interconnecting with the PSTN."
+  },
+  "web_search_results": [
+    {
+      "title": "TDS Telecom - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/TDS_Telecom",
+      "snippet": "TDS Metrocom is TDS Telecom ' s local phone business, providing customers with phone, data, and Internet services in a five-state area in the midwestern United States. Its central office is located at 3416 University Ave in Madison, Wisconsin."
+    },
+    {
+      "title": "Company Profile - TDS",
+      "url": "https://tdstelecom.com/about/company-information/company-profile.html",
+      "snippet": "TDS Telecom , headquartered in Madison, Wis., employs 3,400 people and is a subsidiary of Telephone and Data Systems, Inc. [NYSE: TDS]. Telephone and Data Systems, Inc. (TDS) provides broadband, video and voice through its TDS Telecom business."
+    },
+    {
+      "title": "Re: TDS Metrocom, LLC\u2019s Notice of Discontinuance Case Docket ...",
+      "url": "https://mi-psc.my.site.com/sfc/servlet.shepherd/version/download/0688y000002nSzMAAU",
+      "snippet": "TDS Metrocom , LLC \u2019s Notice of Discontinuance Case Docket No. U-21236 l of its proposed discontinuance, or August 31, 2022, whichever is sooner. Exchanges in which the voice and data services will be discontinued include: Battle Creek, Dutto"
+    },
+    {
+      "title": "Business Internet, Voice and TV Services | TDS Business",
+      "url": "https://tdsbusiness.com/",
+      "snippet": "Choose from our high-speed Internet, rock-solid phone service, powerful VoIP solutions, entertaining TV packages, and strong cybersecurity products. At TDS, we're looking to the future, expanding our advanced fiber network every day and strengthening it with built-in redundancies."
+    },
+    {
+      "title": "TDS METROCOM, LLC Company Profile | Vernon Hills, IL ...",
+      "url": "https://www.dnb.com/business-directory/company-profiles.tds_metrocom_llc.66d5b4195c28f0a33221fb45c0befcfc.html",
+      "snippet": "Find company research, competitor information, contact details & financial data for TDS METROCOM , LLC of Vernon Hills, IL. Get the latest business insights from Dun & Bradstreet."
+    }
+  ]
+}
+
+RULES:
+- Ground ALL assessments in the provided evidence
+- Cite specific sources in activity_signal (e.g., "Recent FCC filing (2024)", "Company website found via search")
+- Use "Unknown" when evidence is insufficient - DO NOT hallucinate
+- Confidence levels:
+  - High = Multiple confirming signals (recent web presence + recent filings + company details)
+  - Medium = Some signals but incomplete picture
+  - Low = FCC data only, no external confirmation
+
+Call the enrichment_result function with your analysis.

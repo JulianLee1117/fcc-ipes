@@ -1,0 +1,35 @@
+{
+  "id": "msg_01MwYQLmF8BQoBJLuC8wrHmi",
+  "content": [
+    {
+      "id": "toolu_01A5VMLGZzvcdkU2o4QNVtvh",
+      "input": {
+        "is_active": true,
+        "activity_signal": "FCC numbering authorization granted in August 2023 (DA-23-676) for docket 21-65, active company website at mashtelecom.com found via search results showing current business services, and Canadian business registration showing incorporation date of Nov 25, 2016 with Montreal address matching FCC filing location",
+        "industry_segment": "UCaaS",
+        "product_summary": "MASH Telecom provides enterprise-level IT and communication services including VoIP phone systems, Cisco solutions, and unified communications with specialization in performance-based routing and fraud prevention for contact centers.",
+        "market_position": "Enterprise",
+        "enrichment_confidence": "High"
+      },
+      "name": "enrichment_result",
+      "type": "tool_use"
+    }
+  ],
+  "model": "claude-sonnet-4-20250514",
+  "role": "assistant",
+  "stop_reason": "tool_use",
+  "stop_sequence": null,
+  "type": "message",
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0,
+    "input_tokens": 2257,
+    "output_tokens": 243,
+    "server_tool_use": null,
+    "service_tier": "standard"
+  }
+}

@@ -1,0 +1,83 @@
+You are analyzing an IPES (Interconnected VoIP Provider) company that filed for numbering authorization with the FCC.
+
+Based ONLY on the evidence provided below, determine:
+1. Whether the company is likely still active
+2. Their industry segment (UCaaS, CCaaS, CPaaS, Carrier, Reseller, Enterprise IT, or Other)
+3. A brief product summary
+4. Their market position (Enterprise, Mid-Market, SMB, Startup, or Unknown)
+5. Your confidence level based on evidence quality
+
+EVIDENCE PACK:
+{
+  "company_name": "Porting.com, LLC",
+  "aliases": [
+    "Porting.com, LLC"
+  ],
+  "fcc_filing": {
+    "first_filing_date": "2024-06-24",
+    "latest_filing_date": "2024-06-24",
+    "total_filings": 1,
+    "docket_numbers": [
+      "24-217"
+    ],
+    "proceeding_types": [
+      "Interconnected VoIP Numbering Authorization Application Filed By Porting.com, LLC Pursuant To Section 52.15(g)(3) Of The Commission's Rules"
+    ],
+    "has_supplements": false,
+    "recent_activity": true
+  },
+  "parsed_from_docs": {
+    "address": null,
+    "city": null,
+    "state": "TH",
+    "zip_code": null,
+    "phone": null,
+    "email": "intagree@centurylink.com",
+    "key_personnel": [
+      {
+        "name": "and CEO",
+        "title": "President"
+      }
+    ],
+    "founding_date": "1982",
+    "service_description": null
+  },
+  "web_search_results": [
+    {
+      "title": "Business VoIP Telephones - Greens Telecom LLC Dubai",
+      "url": "https://www.avayaippbxdubai.com/category/telephone/",
+      "snippet": "Redefining audio conferencing, the GAC\u2019s 6 lines, WiFi and Bluetooth compatibility, HD Audio, Gigabit network ports and Android operating system ..."
+    },
+    {
+      "title": "Why VoIP Is Where You Should Be | IT Managed Services | Tampa",
+      "url": "https://mettec.net/why-voip-technology-is-where-you-should-be/",
+      "snippet": "As you can see, the cost savings, portability, and great features make a VoIP system a great solution for any company \u2019 s telecommunication ..."
+    },
+    {
+      "title": "VoIP Providers USA - VoIP-Info",
+      "url": "https://www.voip-info.org/voip-providers-usa/",
+      "snippet": "CHECKBOX, VoIP Carrier, Wholesale A-Z, CALL CENTER CARRIER \u2013 We provide VoIP connection specially for CALL CENTERS / MARKETING COMPANIES who ..."
+    },
+    {
+      "title": "US5999965A - Automatic call distribution server for computer",
+      "url": "https://patents.google.com/patent/US5999965A/en",
+      "snippet": "2005-09-12 Assigned to VOIP TECHNOLOGY HOLDINGS, LLC reassignment VOIP TECHNOLOGY HOLDINGS, LLC ASSIGNMENT OF ASSIGNORS INTEREST (SEE DOCUMENT FOR ..."
+    },
+    {
+      "title": "US9544429B2 - Solutions for voice over internet protocol (VoIP)",
+      "url": "https://patents.google.com/patent/US9544429B2/en",
+      "snippet": "COMTECH EF DATA CORP., COMTECH MOBILE DATACOM CORPORATION, COMTECH PST CORP., COMTECH SYSTEMS INTERNATIONAL, INC., COMTECH SYSTEMS, INC., COMTECH ..."
+    }
+  ]
+}
+
+RULES:
+- Ground ALL assessments in the provided evidence
+- Cite specific sources in activity_signal (e.g., "Recent FCC filing (2024)", "Company website found via search")
+- Use "Unknown" when evidence is insufficient - DO NOT hallucinate
+- Confidence levels:
+  - High = Multiple confirming signals (recent web presence + recent filings + company details)
+  - Medium = Some signals but incomplete picture
+  - Low = FCC data only, no external confirmation
+
+Call the enrichment_result function with your analysis.

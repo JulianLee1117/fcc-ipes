@@ -1,0 +1,78 @@
+You are analyzing an IPES (Interconnected VoIP Provider) company that filed for numbering authorization with the FCC.
+
+Based ONLY on the evidence provided below, determine:
+1. Whether the company is likely still active
+2. Their industry segment (UCaaS, CCaaS, CPaaS, Carrier, Reseller, Enterprise IT, or Other)
+3. A brief product summary
+4. Their market position (Enterprise, Mid-Market, SMB, Startup, or Unknown)
+5. Your confidence level based on evidence quality
+
+EVIDENCE PACK:
+{
+  "company_name": "Voxtell LLC",
+  "aliases": [
+    "Voxtell LLC"
+  ],
+  "fcc_filing": {
+    "first_filing_date": "2021-02-17",
+    "latest_filing_date": "2021-02-17",
+    "total_filings": 3,
+    "docket_numbers": [
+      "21-58"
+    ],
+    "proceeding_types": [
+      "Interconnected VoIP Numbering Authorization Application Filed By Voxtell, LLC Pursuant To Section 52.15(g)(3) Of The Commission's Rules"
+    ],
+    "has_supplements": true,
+    "recent_activity": false
+  },
+  "parsed_from_docs": {
+    "address": null,
+    "city": null,
+    "state": null,
+    "zip_code": null,
+    "phone": null,
+    "email": null,
+    "key_personnel": [],
+    "founding_date": null,
+    "service_description": null
+  },
+  "web_search_results": [
+    {
+      "title": "Terms of Service | Voxtell",
+      "url": "https://www.voxtell.com/legal/terms-of-service",
+      "snippet": "... high-speed internet connection you are using is outside the United States and/or your ISP places restrictions on the usage of VoIP services, Voxtell ..."
+    },
+    {
+      "title": "VoIP Landline Providers UK & Ireland from \u00a30.98 per week",
+      "url": "https://iconoffices.co.uk/uk-ireland-business-virtual-phone-lines-voip.php",
+      "snippet": "Icon Voip is a leading telephony service that allows any business or individual anywhere in the world, to make or receive calls from a UK or Irish ..."
+    },
+    {
+      "title": "List of VoIP Service Providers in Africa",
+      "url": "https://www.voip-info.org/voip-service-providers-business-africa/",
+      "snippet": "A RED Herring\u2019s 2012 Top 100 Global Winner, REVE serves more than 3000 VoIP and telecommunication service providers in over 78 countries."
+    },
+    {
+      "title": "NENA Company Search",
+      "url": "https://cid.nena.org/index.php?&page=107",
+      "snippet": "Voxbeam Telecommunications Inc. ... Cable Digital CLEC Reseller Internet Protocol Relay Provider VoIP Reseller VoIP Provider"
+    },
+    {
+      "title": "NENA Company Search",
+      "url": "https://cid.nena.org/index.php?&page=106",
+      "snippet": "9-1-1 Admin-CPE ALI (9-1-1 Jurisdiction/PSAP ONLY) CLEC Facility CLEC Reseller PBX/PS911/Shared Tenant VoIP Reseller"
+    }
+  ]
+}
+
+RULES:
+- Ground ALL assessments in the provided evidence
+- Cite specific sources in activity_signal (e.g., "Recent FCC filing (2024)", "Company website found via search")
+- Use "Unknown" when evidence is insufficient - DO NOT hallucinate
+- Confidence levels:
+  - High = Multiple confirming signals (recent web presence + recent filings + company details)
+  - Medium = Some signals but incomplete picture
+  - Low = FCC data only, no external confirmation
+
+Call the enrichment_result function with your analysis.

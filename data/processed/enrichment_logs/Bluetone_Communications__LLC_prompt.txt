@@ -1,0 +1,91 @@
+You are analyzing an IPES (Interconnected VoIP Provider) company that filed for numbering authorization with the FCC.
+
+Based ONLY on the evidence provided below, determine:
+1. Whether the company is likely still active
+2. Their industry segment (UCaaS, CCaaS, CPaaS, Carrier, Reseller, Enterprise IT, or Other)
+3. A brief product summary
+4. Their market position (Enterprise, Mid-Market, SMB, Startup, or Unknown)
+5. Your confidence level based on evidence quality
+
+EVIDENCE PACK:
+{
+  "company_name": "Bluetone Communications, LLC",
+  "aliases": [
+    "Bluetone Communications, LLC"
+  ],
+  "fcc_filing": {
+    "first_filing_date": "2020-10-19",
+    "latest_filing_date": "2020-10-19",
+    "total_filings": 2,
+    "docket_numbers": [
+      "20-346"
+    ],
+    "proceeding_types": [
+      "Interconnected VoIP Numbering Authorization Application Filed By Bluetone Communications, LLC Pursuant To Section 52.15(g)(3) Of The Commission's Rules"
+    ],
+    "has_supplements": false,
+    "recent_activity": false
+  },
+  "parsed_from_docs": {
+    "address": "1163 Pittsford-Victor Rd",
+    "city": "Pittsford",
+    "state": "NE",
+    "zip_code": "14534",
+    "phone": "8662603765",
+    "email": null,
+    "key_personnel": [
+      {
+        "name": "OmarLuna\nVice",
+        "title": "CEO"
+      },
+      {
+        "name": "Jackie Smith",
+        "title": "CEO"
+      },
+      {
+        "name": "of Billing",
+        "title": "President"
+      }
+    ],
+    "founding_date": null,
+    "service_description": "provide interconnected VoiP services initially in the state of Texas."
+  },
+  "web_search_results": [
+    {
+      "title": "FTC Warns Nine VoIP Service Providers and Other Companies against...",
+      "url": "https://www.ftc.gov/news-events/news/press-releases/2020/03/ftc-warns-nine-voip-service-providers-other-companies-against-assisting-facilitating-illegal",
+      "snippet": "Federal Trade Commission staff sent letters to nine Voice over Internet Protocol ( VoIP ) service providers and other companies warning them that \u201cassisting."
+    },
+    {
+      "title": "AS26278 BLUEMILE- VOICE - Bluetone Communications , LLC ., US",
+      "url": "https://whois.ipip.net/AS26278",
+      "snippet": "OrgName: Bluetone Communications , LLC . OrgId: BCL-378 Address: 144 Fairport Village Landing #297 City: Fairport StateProv: NY PostalCode: 14450 Country: US RegDate: 2019-03-19 Updated: 2024-11-25 Ref: https://rdap.arin.net/registry/entity/BCL-378."
+    },
+    {
+      "title": "FTC warns VoIP service providers against \u201cassisting and...\u201d - USA Herald",
+      "url": "https://usaherald.com/ftc-warns-voip-service-providers-assisting-facilitating-coronavirus-related-robocalls/",
+      "snippet": "The Federal Trade Commission (FTC) sent letters to Voice over Internet Protocol ( VoIP ) service providers and other companies warning them against \u201cassisting and facilitating\u201d unlawful telemarketing or robocalls related to the novel coronavirus (COVID-19) pandemic."
+    },
+    {
+      "title": "FTC Warns VoIP Providers to Stop Facilitating Coronavirus Scams",
+      "url": "https://www.bleepingcomputer.com/news/security/ftc-warns-voip-providers-to-stop-facilitating-coronavirus-scams/",
+      "snippet": "VoIP providers under scrutiny. FTC's legal staff sent letters to the following companies: Bluetone Communications LLC , Comet Media Inc, iFly Communications, J2 Web Services Inc, SipJoin Holding Corp, Third Rock Telecom , VoIPMax, VoIPTerminator Inc, and Voxbone US LLC."
+    },
+    {
+      "title": "FTC calls out VoIP providers over coronavirus robocalls | TechTarget",
+      "url": "https://www.techtarget.com/searchsecurity/news/252480955/FTC-calls-out-VoIP-providers-over-coronavirus-robocalls",
+      "snippet": "The VoIP companies who received the letter include: VoIPMax, SipJoin Holding Corp, iFly Communications, Third Rock Telecom , Bluetone Communications , LLC , VoIP Terminator, INC (also known as BLMarketing), J2 Web Services, INC..."
+    }
+  ]
+}
+
+RULES:
+- Ground ALL assessments in the provided evidence
+- Cite specific sources in activity_signal (e.g., "Recent FCC filing (2024)", "Company website found via search")
+- Use "Unknown" when evidence is insufficient - DO NOT hallucinate
+- Confidence levels:
+  - High = Multiple confirming signals (recent web presence + recent filings + company details)
+  - Medium = Some signals but incomplete picture
+  - Low = FCC data only, no external confirmation
+
+Call the enrichment_result function with your analysis.

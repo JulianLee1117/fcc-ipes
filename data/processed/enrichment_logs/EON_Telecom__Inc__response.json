@@ -1,0 +1,35 @@
+{
+  "id": "msg_01TzUwdpE7wBWx934KHzmunr",
+  "content": [
+    {
+      "id": "toolu_01CzssGDpPa1mj1Ps9ZURXTK",
+      "input": {
+        "is_active": true,
+        "activity_signal": "Strong evidence of current activity: Active company website (eontelecom.us) describes current operations as \"National IPES provider in USA\" with facilities in 30+ states; FCC Form 499 database shows 2024 filing with current business description; Second website (eontelecom.com) promotes fiber internet and streaming services; Multiple web search results show active online presence",
+        "industry_segment": "Carrier",
+        "product_summary": "EON Telecom is a national IPES provider offering wholesale, enterprise, and retail telecommunications services including VoIP, fiber internet, streaming services, and toll-free number management with real-time provisioning capabilities.",
+        "market_position": "Enterprise",
+        "enrichment_confidence": "High"
+      },
+      "name": "enrichment_result",
+      "type": "tool_use"
+    }
+  ],
+  "model": "claude-sonnet-4-20250514",
+  "role": "assistant",
+  "stop_reason": "tool_use",
+  "stop_sequence": null,
+  "type": "message",
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0,
+    "input_tokens": 2097,
+    "output_tokens": 256,
+    "server_tool_use": null,
+    "service_tier": "standard"
+  }
+}

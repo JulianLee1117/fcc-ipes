@@ -1,0 +1,35 @@
+{
+  "id": "msg_01YLXm5zrM43kd7HJMCdwMA7",
+  "content": [
+    {
+      "id": "toolu_012Uf7XvnvFGg9WmoQY3zBhz",
+      "input": {
+        "is_active": false,
+        "activity_signal": "Single FCC filing from 2021-12-30 with no recent activity. Web search results show no specific mentions of \"Number Sentry, LLC\" - only generic references to other \"Sentry\" companies in VoIP/telecom space. No company website, social media, or business listings found. Email domain \"aprlaprofsvcs.com\" suggests potential professional services affiliation rather than active telecom operations.",
+        "industry_segment": "Carrier",
+        "product_summary": "Filed for interconnected VoIP numbering authorization with the FCC, suggesting intent to provide VoIP carrier services, though no specific service description was provided in filing.",
+        "market_position": "Unknown",
+        "enrichment_confidence": "Low"
+      },
+      "name": "enrichment_result",
+      "type": "tool_use"
+    }
+  ],
+  "model": "claude-sonnet-4-20250514",
+  "role": "assistant",
+  "stop_reason": "tool_use",
+  "stop_sequence": null,
+  "type": "message",
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0,
+    "input_tokens": 1690,
+    "output_tokens": 254,
+    "server_tool_use": null,
+    "service_tier": "standard"
+  }
+}

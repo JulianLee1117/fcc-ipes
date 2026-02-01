@@ -1,0 +1,35 @@
+{
+  "id": "msg_01VDez1qgqttE3gww6KgAoSV",
+  "content": [
+    {
+      "id": "toolu_01KixqmbDaaXhH4ucgQK9xCY",
+      "input": {
+        "is_active": true,
+        "activity_signal": "NENA database listing shows company DBA as 'Smart Carrier' (https://cid.nena.org/view.php?searchCID=TILTX), recent robocall monitoring data from 2024 shows active call traffic from Technology Innovation Lab LLC (rraptor.org), and Smart Carrier AUP document indicates ongoing service operations (s3.amazonaws.com/cdn.smartcarrier.io). ASTRICON speaker listing shows founder Orlando with 26+ years telecom experience and VoIP software development since 2002.",
+        "industry_segment": "Carrier",
+        "product_summary": "Technology Innovation Lab LLC operates as Smart Carrier, providing VoIP services with over 26 years of telecom industry experience and specializing in high-volume VoIP software development since 2002.",
+        "market_position": "Unknown",
+        "enrichment_confidence": "Medium"
+      },
+      "name": "enrichment_result",
+      "type": "tool_use"
+    }
+  ],
+  "model": "claude-sonnet-4-20250514",
+  "role": "assistant",
+  "stop_reason": "tool_use",
+  "stop_sequence": null,
+  "type": "message",
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0,
+    "input_tokens": 1664,
+    "output_tokens": 294,
+    "server_tool_use": null,
+    "service_tier": "standard"
+  }
+}

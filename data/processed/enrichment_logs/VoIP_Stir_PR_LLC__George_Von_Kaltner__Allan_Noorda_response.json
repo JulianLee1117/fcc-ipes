@@ -1,0 +1,35 @@
+{
+  "id": "msg_01WoVAquog69qa4SZtxgPKNK",
+  "content": [
+    {
+      "id": "toolu_01BNNqqPErfq6qE5eYE5x78H",
+      "input": {
+        "is_active": true,
+        "activity_signal": "Recent FCC filing on 2023-11-17 for Interconnected VoIP Numbering Authorization (Docket 23-409), indicating company was actively seeking regulatory authorization to provide VoIP services. Service description shows intent to \"provide VoIP services in the United States through its own facilities and those of its CLEC partner(s)\".",
+        "industry_segment": "UCaaS",
+        "product_summary": "VoIP Stir PR LLC provides VoIP telecommunication services in the United States through its own facilities and partnerships with CLEC providers for routing traffic to the PSTN.",
+        "market_position": "Unknown",
+        "enrichment_confidence": "Low"
+      },
+      "name": "enrichment_result",
+      "type": "tool_use"
+    }
+  ],
+  "model": "claude-sonnet-4-20250514",
+  "role": "assistant",
+  "stop_reason": "tool_use",
+  "stop_sequence": null,
+  "type": "message",
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0,
+    "input_tokens": 2904,
+    "output_tokens": 246,
+    "server_tool_use": null,
+    "service_tier": "standard"
+  }
+}

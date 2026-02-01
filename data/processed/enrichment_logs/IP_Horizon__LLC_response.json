@@ -1,0 +1,35 @@
+{
+  "id": "msg_01GutS61NPZGLPZuoikaSqKq",
+  "content": [
+    {
+      "id": "toolu_019JP7H5neF9eaUfwzFqcDoX",
+      "input": {
+        "is_active": true,
+        "activity_signal": "Company shows active status in Washington (incorporated 8/11/2020) and New York (incorporated 8/21/2020) state records per web search results. BBB business profile found showing VoIP business operations. Recent TikTok content mentioning company calls and business communication solutions (updated 2025-10-13).",
+        "industry_segment": "UCaaS",
+        "product_summary": "IP Horizon provides interconnected VoIP services and business communication solutions, operating in the competitive VoIP sector with multiple state registrations.",
+        "market_position": "Unknown",
+        "enrichment_confidence": "Medium"
+      },
+      "name": "enrichment_result",
+      "type": "tool_use"
+    }
+  ],
+  "model": "claude-sonnet-4-20250514",
+  "role": "assistant",
+  "stop_reason": "tool_use",
+  "stop_sequence": null,
+  "type": "message",
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0,
+    "input_tokens": 1808,
+    "output_tokens": 231,
+    "server_tool_use": null,
+    "service_tier": "standard"
+  }
+}

@@ -1,0 +1,78 @@
+You are analyzing an IPES (Interconnected VoIP Provider) company that filed for numbering authorization with the FCC.
+
+Based ONLY on the evidence provided below, determine:
+1. Whether the company is likely still active
+2. Their industry segment (UCaaS, CCaaS, CPaaS, Carrier, Reseller, Enterprise IT, or Other)
+3. A brief product summary
+4. Their market position (Enterprise, Mid-Market, SMB, Startup, or Unknown)
+5. Your confidence level based on evidence quality
+
+EVIDENCE PACK:
+{
+  "company_name": "HDC Beta, LLC",
+  "aliases": [
+    "HDC Beta, LLC"
+  ],
+  "fcc_filing": {
+    "first_filing_date": "2019-10-08",
+    "latest_filing_date": "2019-10-08",
+    "total_filings": 1,
+    "docket_numbers": [
+      "19-314"
+    ],
+    "proceeding_types": [
+      "In the Matter of  HDC Beta, LLC"
+    ],
+    "has_supplements": false,
+    "recent_activity": false
+  },
+  "parsed_from_docs": {
+    "address": "170 S. Green ValleyPkwy.",
+    "city": "Henderson",
+    "state": "NE",
+    "zip_code": "89012",
+    "phone": "8448525555",
+    "email": "intagree@centurylink.com",
+    "key_personnel": [],
+    "founding_date": null,
+    "service_description": "provide interconnectedVoIP services initiallyinWA."
+  },
+  "web_search_results": [
+    {
+      "title": "Hdc Beta, LLC in Henderson NV - Company Profile",
+      "url": "https://www.corporationwiki.com/p/36zl25/hdc-beta-llc",
+      "snippet": "View company leaders and background information for Hdc Beta , LLC . Search our database of over 100 million company and executive profiles."
+    },
+    {
+      "title": "HDC BETA, LLC in Long Beach, CA | Company Info & Reviews",
+      "url": "https://www.bizapedia.com/ca/hdc-beta-llc.html",
+      "snippet": "Jun 12, 2024 \u00b7 Discover Company Info on HDC BETA , LLC in Long Beach, CA, such as Contacts, Addresses, Reviews, and Registered Agent."
+    },
+    {
+      "title": "202010910096 - HDC BETA, LLC - City-Data.com",
+      "url": "https://www.city-data.com/business-entities/CA/HDC-BETA-LLC-202010910096-CA.html",
+      "snippet": "All Cities Nevada, NV smaller cities, NV small cities Henderson, NV main city page Business entities in Nevada Business entities in Henderson, NV HDC BETA , LLC"
+    },
+    {
+      "title": "USAC RFP: Redundant Telecom Services & VOIP - IT-26-014",
+      "url": "https://www.mysetaside.com/contract-search/usac-rfp-redundant-telecom-services-voip/it-26-014",
+      "snippet": "4 days ago \u00b7 USAC RFP: Redundant Telecom Services & VOIP Posted Date: Jan 28, 2026 Due Date: Mar 02, 2026 Awarded Date: No Awarded Date"
+    },
+    {
+      "title": "FCC Form 499 Filer Database Detailed Information",
+      "url": "https://apps.fcc.gov/cgb/form499/499detail.cfm?FilerNum=833333",
+      "snippet": "499 Filer ID Number: 833333 Registration Current as of: 4/1/2024 Legal Name of Reporting Entity: HDC Beta , LLC Doing Business As: Principal Communications Type: Interconnected VoIP Universal Service Fund Contributor: No (Contact USAC at 888-641-8722 if this is not correct.)"
+    }
+  ]
+}
+
+RULES:
+- Ground ALL assessments in the provided evidence
+- Cite specific sources in activity_signal (e.g., "Recent FCC filing (2024)", "Company website found via search")
+- Use "Unknown" when evidence is insufficient - DO NOT hallucinate
+- Confidence levels:
+  - High = Multiple confirming signals (recent web presence + recent filings + company details)
+  - Medium = Some signals but incomplete picture
+  - Low = FCC data only, no external confirmation
+
+Call the enrichment_result function with your analysis.

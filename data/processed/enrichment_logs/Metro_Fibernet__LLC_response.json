@@ -1,0 +1,35 @@
+{
+  "id": "msg_01Mv5vXtgDKCHbnjfR4PjU8D",
+  "content": [
+    {
+      "id": "toolu_01BfwQ6Wsb2bJvaVYqUL8VjZ",
+      "input": {
+        "is_active": false,
+        "activity_signal": "FCC filing only from 2019-04-12 with no recent activity. Web search results show no specific matches for Metro Fibernet, LLC - only unrelated companies with similar names. Email domain (metronetinc.com) suggests possible connection to MetroNet, but no current evidence of Metro Fibernet operations. Founding date of 2012 with only one filing date in 2019 suggests limited or ceased operations.",
+        "industry_segment": "Carrier",
+        "product_summary": "Based on FCC VoIP numbering authorization filing and company name containing \"Fibernet,\" appears to be a fiber-based telecommunications carrier providing interconnected VoIP services.",
+        "market_position": "Unknown",
+        "enrichment_confidence": "Low"
+      },
+      "name": "enrichment_result",
+      "type": "tool_use"
+    }
+  ],
+  "model": "claude-sonnet-4-20250514",
+  "role": "assistant",
+  "stop_reason": "tool_use",
+  "stop_sequence": null,
+  "type": "message",
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0,
+    "input_tokens": 2224,
+    "output_tokens": 260,
+    "server_tool_use": null,
+    "service_tier": "standard"
+  }
+}

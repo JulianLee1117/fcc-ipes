@@ -1,0 +1,35 @@
+{
+  "id": "msg_01Snxjrftb9hmiD5Ne3YLcCn",
+  "content": [
+    {
+      "id": "toolu_01AyWiJbnVpQbpo3MN8ZWQaH",
+      "input": {
+        "is_active": true,
+        "activity_signal": "Recent FCC filing (2024-06-24) for Interconnected VoIP Numbering Authorization Application under docket 24-217, indicating current regulatory compliance activity.",
+        "industry_segment": "Carrier",
+        "product_summary": "Appears to be a VoIP carrier service provider based on the company name \"Porting.com\" which suggests specialization in number porting services for telecommunications.",
+        "market_position": "Unknown",
+        "enrichment_confidence": "Low"
+      },
+      "name": "enrichment_result",
+      "type": "tool_use"
+    }
+  ],
+  "model": "claude-sonnet-4-20250514",
+  "role": "assistant",
+  "stop_reason": "tool_use",
+  "stop_sequence": null,
+  "type": "message",
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0,
+    "input_tokens": 1727,
+    "output_tokens": 201,
+    "server_tool_use": null,
+    "service_tier": "standard"
+  }
+}

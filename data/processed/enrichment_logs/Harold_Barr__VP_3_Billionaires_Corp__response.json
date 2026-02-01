@@ -1,0 +1,35 @@
+{
+  "id": "msg_01LZPtU9FcX3aoyYkZkjDWk8",
+  "content": [
+    {
+      "id": "toolu_01SgcipTBd5AuspLLLYCTFoH",
+      "input": {
+        "is_active": false,
+        "activity_signal": "Single FCC filing from 2020-04-13 with no subsequent activity. Web search results show only generic VoIP industry information with no specific mentions of \"3 Billionaires Corp\" or \"Harold Barr\". No company website, social media presence, or recent business activity found in search results. Four-year gap since filing with no evidence of ongoing operations.",
+        "industry_segment": "Carrier",
+        "product_summary": "Filed to provide interconnected VoIP services initially in New York state, indicating intent to operate as a telecommunications carrier offering voice services over internet protocol.",
+        "market_position": "Unknown",
+        "enrichment_confidence": "Low"
+      },
+      "name": "enrichment_result",
+      "type": "tool_use"
+    }
+  ],
+  "model": "claude-sonnet-4-20250514",
+  "role": "assistant",
+  "stop_reason": "tool_use",
+  "stop_sequence": null,
+  "type": "message",
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0,
+    "input_tokens": 1745,
+    "output_tokens": 238,
+    "server_tool_use": null,
+    "service_tier": "standard"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "msg_015iD8Q2EExwhQ4dHu8o5Pav",
+  "content": [
+    {
+      "id": "toolu_01So57RLQ2pZBgrq6aZqvzG1",
+      "input": {
+        "is_active": true,
+        "activity_signal": "Multiple recent web search results from 2024 (\"2 weeks ago\" timestamps on Wikipedia and Trustpilot reviews), customer testimonial from 2011 showing ongoing service use, and comprehensive product documentation found online. While FCC filing is from 2019, the strong web presence and recent customer activity indicate continued operations.",
+        "industry_segment": "UCaaS",
+        "product_summary": "8x8 provides cloud-based unified communications services including VoIP, team messaging, SMS, video conferencing, and collaboration tools, primarily targeting small-to-mid-market businesses using existing internet connections.",
+        "market_position": "SMB",
+        "enrichment_confidence": "High"
+      },
+      "name": "enrichment_result",
+      "type": "tool_use"
+    }
+  ],
+  "model": "claude-sonnet-4-20250514",
+  "role": "assistant",
+  "stop_reason": "tool_use",
+  "stop_sequence": null,
+  "type": "message",
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0,
+    "input_tokens": 2154,
+    "output_tokens": 243,
+    "server_tool_use": null,
+    "service_tier": "standard"
+  }
+}

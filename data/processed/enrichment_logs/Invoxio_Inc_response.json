@@ -1,0 +1,35 @@
+{
+  "id": "msg_01RNriCFA4DbYK3UziHMPGH2",
+  "content": [
+    {
+      "id": "toolu_012rioqCuGrf9EB9UCCtWVVF",
+      "input": {
+        "is_active": true,
+        "activity_signal": "Company website found via search (https://invoxio.com/) shows active business operations with tagline \"The Phone Company for Developers\" and mentions \"Join thousands of developers and businesses building with Invoxio\". Website includes active login portal and contact pages, indicating ongoing operations despite single FCC filing from 2017.",
+        "industry_segment": "CPaaS",
+        "product_summary": "Invoxio provides carrier-grade voice, messaging, and data APIs built in the cloud for developers, positioning itself as \"The Phone Company for Developers\" with services powered by telco.dev, talk.dev, sms.dev platforms.",
+        "market_position": "Startup",
+        "enrichment_confidence": "Medium"
+      },
+      "name": "enrichment_result",
+      "type": "tool_use"
+    }
+  ],
+  "model": "claude-sonnet-4-20250514",
+  "role": "assistant",
+  "stop_reason": "tool_use",
+  "stop_sequence": null,
+  "type": "message",
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0,
+    "input_tokens": 1614,
+    "output_tokens": 249,
+    "server_tool_use": null,
+    "service_tier": "standard"
+  }
+}

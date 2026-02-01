@@ -1,0 +1,35 @@
+{
+  "id": "msg_01HuBhFN9sStBcBVA6Xvx5C8",
+  "content": [
+    {
+      "id": "toolu_01GwNipyQroC6mM8SN23eb52",
+      "input": {
+        "is_active": false,
+        "activity_signal": "Single FCC filing from 2017-09-15 with no recent activity. Web search results contain no relevant information about Andrew Metcalfe or Red Spectrum Communications, LLC - only generic VoIP/telecom content. Email domain appears to be tribal government (.gov), suggesting possible temporary or project-specific entity. No evidence of ongoing operations since 2017.",
+        "industry_segment": "Carrier",
+        "product_summary": "Filed for interconnected VoIP numbering authorization in 2017, likely to provide voice telecommunications services, but no specific service details available in evidence.",
+        "market_position": "Unknown",
+        "enrichment_confidence": "Low"
+      },
+      "name": "enrichment_result",
+      "type": "tool_use"
+    }
+  ],
+  "model": "claude-sonnet-4-20250514",
+  "role": "assistant",
+  "stop_reason": "tool_use",
+  "stop_sequence": null,
+  "type": "message",
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0,
+    "input_tokens": 1666,
+    "output_tokens": 238,
+    "server_tool_use": null,
+    "service_tier": "standard"
+  }
+}

@@ -1,0 +1,111 @@
+You are analyzing an IPES (Interconnected VoIP Provider) company that filed for numbering authorization with the FCC.
+
+Based ONLY on the evidence provided below, determine:
+1. Whether the company is likely still active
+2. Their industry segment (UCaaS, CCaaS, CPaaS, Carrier, Reseller, Enterprise IT, or Other)
+3. A brief product summary
+4. Their market position (Enterprise, Mid-Market, SMB, Startup, or Unknown)
+5. Your confidence level based on evidence quality
+
+EVIDENCE PACK:
+{
+  "company_name": "IPtelX, LLC",
+  "aliases": [
+    "IPtelX, LLC"
+  ],
+  "fcc_filing": {
+    "first_filing_date": "2018-02-14",
+    "latest_filing_date": "2018-02-14",
+    "total_filings": 2,
+    "docket_numbers": [
+      "18-58"
+    ],
+    "proceeding_types": [
+      "INTERCONNECTED VOIP NUMBERING AUTHORIZATION APPLICATION FILED BY IPTELX, LLC PURSUANT TO SECTION 52.15(g)(3) OF THE COMMISSION&#146;S RULES"
+    ],
+    "has_supplements": false,
+    "recent_activity": false
+  },
+  "parsed_from_docs": {
+    "address": null,
+    "city": null,
+    "state": null,
+    "zip_code": null,
+    "phone": null,
+    "email": "jordan.dice@iptelx.net",
+    "key_personnel": [
+      {
+        "name": "and CEO",
+        "title": "President"
+      },
+      {
+        "name": "and founder",
+        "title": "CEO"
+      },
+      {
+        "name": "of IPtelX",
+        "title": "CEO"
+      },
+      {
+        "name": "and CEO",
+        "title": "President"
+      },
+      {
+        "name": "and founder",
+        "title": "CEO"
+      },
+      {
+        "name": "of IPtelX",
+        "title": "CEO"
+      },
+      {
+        "name": "Dice\nClifford Dice",
+        "title": "CEO"
+      },
+      {
+        "name": "Dice\nClifford Dice",
+        "title": "CEO"
+      }
+    ],
+    "founding_date": null,
+    "service_description": null
+  },
+  "web_search_results": [
+    {
+      "title": "Bluebird Network to Acquire Illinois Network Alliance LLC -",
+      "url": "https://telecomnewsroom.com/bluebird-network-to-acquire-illinois-network-alliance-llc/",
+      "snippet": "COLUMBIA, MISSOURI \u2013 December 10, 2019 \u2013 Bluebird Network LLC , a Midwest telecommunications company, is excited to announce the signing of a ..."
+    },
+    {
+      "title": "FiberLight, LLC Texas Expansion Project Nears Completion -",
+      "url": "https://telecomnewsroom.com/fiberlight-llc-texas-expansion-project-nears-completion/",
+      "snippet": "Industry-leading provider of high- performance fiber optic network solutions, FiberLight, LLC , announced this week that it is nearing the completion ..."
+    },
+    {
+      "title": "New Continuum and 20C, LLC, Create N2Open Labs in Support of",
+      "url": "https://telecomnewsroom.com/new-continuum-and-20c-llc-create-n2open-labs-in-support-of-new-technology/",
+      "snippet": "New Continuum and 20C, LLC ... The project was created in partnership with 20C, LLC , a developer of network and infrastructure management code."
+    },
+    {
+      "title": "D\u0101STOR LLC Launches To Provide Colocation, Disaster Recovery",
+      "url": "https://telecomnewsroom.com/four-data-centers-to-offer-upscale-enterprise-class-colocation-disaster-recovery-and-hybrid-cloud-connectivity-solutions/",
+      "snippet": "This accelerated growth has paved the way for new expansions and opportunities in the market, with D\u0101STOR LLC as a prime example."
+    },
+    {
+      "title": "Authorized Providers | Authenticate",
+      "url": "https://authenticate.iconectiv.com/authorized-service-providers-authenticate",
+      "snippet": "Business Automation Technologies Business Telecommunications Services, Inc C&T TELECOMMUNICATION POWER SOLUTIONS C2C VoIP , LLC CaberLink ..."
+    }
+  ]
+}
+
+RULES:
+- Ground ALL assessments in the provided evidence
+- Cite specific sources in activity_signal (e.g., "Recent FCC filing (2024)", "Company website found via search")
+- Use "Unknown" when evidence is insufficient - DO NOT hallucinate
+- Confidence levels:
+  - High = Multiple confirming signals (recent web presence + recent filings + company details)
+  - Medium = Some signals but incomplete picture
+  - Low = FCC data only, no external confirmation
+
+Call the enrichment_result function with your analysis.

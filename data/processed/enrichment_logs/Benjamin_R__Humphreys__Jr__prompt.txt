@@ -1,0 +1,68 @@
+You are analyzing an IPES (Interconnected VoIP Provider) company that filed for numbering authorization with the FCC.
+
+Based ONLY on the evidence provided below, determine:
+1. Whether the company is likely still active
+2. Their industry segment (UCaaS, CCaaS, CPaaS, Carrier, Reseller, Enterprise IT, or Other)
+3. A brief product summary
+4. Their market position (Enterprise, Mid-Market, SMB, Startup, or Unknown)
+5. Your confidence level based on evidence quality
+
+EVIDENCE PACK:
+{
+  "company_name": "Benjamin R. Humphreys, Jr.",
+  "aliases": [
+    "Benjamin R. Humphreys, Jr."
+  ],
+  "fcc_filing": {
+    "first_filing_date": "2020-10-08",
+    "latest_filing_date": "2020-10-08",
+    "total_filings": 1,
+    "docket_numbers": [
+      "20-336"
+    ],
+    "proceeding_types": [
+      "Interconnected VoIP Numbering Authorization Application Filed By Comtel Managed Solutions, LLC Pursuant To Section 52.15(g)(3) Of The Commission's Rules"
+    ],
+    "has_supplements": false,
+    "recent_activity": false
+  },
+  "parsed_from_docs": {},
+  "web_search_results": [
+    {
+      "title": "Ben Humphreys",
+      "url": "https://www.simplicityvoip.net/biographies",
+      "snippet": "Benjamin R . Humphreys , Jr .Benjamin Humphreys , Jr . is the President and CEO of Comtel Communications and Simplicity VoIP . Ben founded Comtel Communications in 1991 as a regional agency focused on voice and data services."
+    },
+    {
+      "title": "Humphreys - Address, Phone Number, Public... | Names and Facts",
+      "url": "https://namesandfacts.com/h/humphreys",
+      "snippet": "Find Humphreys 's address, phone number, email, photos, and social media accounts. Run a full background check on Humphreys ."
+    },
+    {
+      "title": "Benjamin R . Humphreys , Jr . Elected to Bay Trust's Board of Directors",
+      "url": "https://www.prnewswire.com/news-releases/benjamin-r-humphreys-jr-elected-to-bay-trusts-board-of-directors-300301548.html",
+      "snippet": "Humphreys is President/Chief Executive Officer of Comtel Communications, a Richmond, Virginia-based direct-technology consulting agency servicing the entire mid-Atlantic. Humphreys is also founding partner and owner of Simplicity VoIP ..."
+    },
+    {
+      "title": "Junior humphreys jlb-services.fr Fappening Celebrity Photos",
+      "url": "https://jlb-services.fr/junior+humphreys",
+      "snippet": "Benjamin C. Lemon Jr ., the senior enlisted advisor for United States Army Garrison Humphreys , jokes with community members during a leadership dunk tank Ex-Alabama stars Bobby Humphrey and E.J. Junior on 2017 CFB Hall of Fame Ballot - Touchdown Alabama..."
+    },
+    {
+      "title": "VCB Financial Group Inc - Company Profile and... - Bloomberg Markets",
+      "url": "https://www.bloomberg.com/profile/company/1270147D:US",
+      "snippet": "Benjamin R Humphreys Jr \"Ben\". Bay Trust Co."
+    }
+  ]
+}
+
+RULES:
+- Ground ALL assessments in the provided evidence
+- Cite specific sources in activity_signal (e.g., "Recent FCC filing (2024)", "Company website found via search")
+- Use "Unknown" when evidence is insufficient - DO NOT hallucinate
+- Confidence levels:
+  - High = Multiple confirming signals (recent web presence + recent filings + company details)
+  - Medium = Some signals but incomplete picture
+  - Low = FCC data only, no external confirmation
+
+Call the enrichment_result function with your analysis.

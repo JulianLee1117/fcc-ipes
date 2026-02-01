@@ -1,0 +1,87 @@
+You are analyzing an IPES (Interconnected VoIP Provider) company that filed for numbering authorization with the FCC.
+
+Based ONLY on the evidence provided below, determine:
+1. Whether the company is likely still active
+2. Their industry segment (UCaaS, CCaaS, CPaaS, Carrier, Reseller, Enterprise IT, or Other)
+3. A brief product summary
+4. Their market position (Enterprise, Mid-Market, SMB, Startup, or Unknown)
+5. Your confidence level based on evidence quality
+
+EVIDENCE PACK:
+{
+  "company_name": "Vonage Holdings Corp.",
+  "aliases": [
+    "Vonage Holdings Corp."
+  ],
+  "fcc_filing": {
+    "first_filing_date": "2016-02-18",
+    "latest_filing_date": "2016-02-18",
+    "total_filings": 2,
+    "docket_numbers": [
+      "16-49"
+    ],
+    "proceeding_types": [
+      "VOIP NUMBERING AUTHORIZATION APPLICATION FILED BY VONAGE HOLDINGS CORP."
+    ],
+    "has_supplements": false,
+    "recent_activity": false
+  },
+  "parsed_from_docs": {
+    "address": "23 Main St., Holmdel, NJ 07733",
+    "city": null,
+    "state": null,
+    "zip_code": null,
+    "phone": "7324442216",
+    "email": null,
+    "key_personnel": [
+      {
+        "name": "Carrier Operations",
+        "title": "President"
+      },
+      {
+        "name": "and Deputy",
+        "title": "President"
+      }
+    ],
+    "founding_date": null,
+    "service_description": null
+  },
+  "web_search_results": [
+    {
+      "title": "Vonage - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Vonage",
+      "snippet": "On June 19, 2006, Verizon filed a lawsuit alleging that Vonage infringed on five of Verizon's patents related to its VoIP service."
+    },
+    {
+      "title": "Vonage Holdings Corp. Reports Second Quarter 2012 Results - All",
+      "url": "http://www.allvoipnews.com/vonage-holdings-corp-reports-second-quarter-2012.html",
+      "snippet": "Vonage Holdings Corp ., a leading provider of communications services connecting people through cloud-connected devices worldwide, announced results ..."
+    },
+    {
+      "title": "Vonage Holdings Corp. Reports Q2 2013 Financials, More Features",
+      "url": "https://www.trutower.com/2013/07/31/vonage-2nd-quarter-2013-financial-results/",
+      "snippet": "Vonage Holdings Corp . ... He has worked in the telecommunications industry since 2003 and specializes in GSM based technology."
+    },
+    {
+      "title": "Vonage Raises $250 Million - VoIP Monitor",
+      "url": "http://www.voipmonitor.net/2005/12/19/Vonage+Raises+250+Million.aspx",
+      "snippet": "Vonage Holdings Corp , a leading provider of broadband phone service, announced that it has raised $250 million in convertible debt funding with a ..."
+    },
+    {
+      "title": "VoIP Providers - Compare and Start Saving",
+      "url": "http://www.voipmonitor.net/CategoryView,category,Hardware.aspx?page=23",
+      "snippet": "Vonage America Inc., a subsidiary of Vonage Holdings Corp ., a leading Internet telephony provider in North America, and Motorola Inc."
+    }
+  ]
+}
+
+RULES:
+- Ground ALL assessments in the provided evidence
+- Cite specific sources in activity_signal (e.g., "Recent FCC filing (2024)", "Company website found via search")
+- Use "Unknown" when evidence is insufficient - DO NOT hallucinate
+- Confidence levels:
+  - High = Multiple confirming signals (recent web presence + recent filings + company details)
+  - Medium = Some signals but incomplete picture
+  - Low = FCC data only, no external confirmation
+
+Call the enrichment_result function with your analysis.

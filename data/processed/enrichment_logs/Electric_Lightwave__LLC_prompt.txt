@@ -1,0 +1,91 @@
+You are analyzing an IPES (Interconnected VoIP Provider) company that filed for numbering authorization with the FCC.
+
+Based ONLY on the evidence provided below, determine:
+1. Whether the company is likely still active
+2. Their industry segment (UCaaS, CCaaS, CPaaS, Carrier, Reseller, Enterprise IT, or Other)
+3. A brief product summary
+4. Their market position (Enterprise, Mid-Market, SMB, Startup, or Unknown)
+5. Your confidence level based on evidence quality
+
+EVIDENCE PACK:
+{
+  "company_name": "Electric Lightwave, LLC",
+  "aliases": [
+    "Electric Lightwave, LLC"
+  ],
+  "fcc_filing": {
+    "first_filing_date": "2018-05-29",
+    "latest_filing_date": "2018-05-29",
+    "total_filings": 2,
+    "docket_numbers": [
+      "18-206"
+    ],
+    "proceeding_types": [
+      "INTERCONNECTED VOIP NUMBERING AUTHORIZATION APPLICATION FILED BY ELECTRIC LIGHTWAVE, LLC PURSUANT TO SECTION 52.15(g)(3) OF THE COMMISSION'S RULES"
+    ],
+    "has_supplements": false,
+    "recent_activity": false
+  },
+  "parsed_from_docs": {
+    "address": "18110 SE 34th St., Building One, Suite 100, Vancouver, WA 98683",
+    "city": null,
+    "state": null,
+    "zip_code": null,
+    "phone": "1866468347",
+    "email": null,
+    "key_personnel": [
+      {
+        "name": "Cost and",
+        "title": "President"
+      },
+      {
+        "name": "Chief Operating Officer",
+        "title": "Michael Strople"
+      },
+      {
+        "name": "Dan Vucinic",
+        "title": "President"
+      }
+    ],
+    "founding_date": null,
+    "service_description": "provides additional documents showing proof of\nfacilities readiness; the states in which Allstream will offer VoIP service, and the information regarding the\npercentage of foreign ownership."
+  },
+  "web_search_results": [
+    {
+      "title": "Electric Lightwave Renton WA, 98057 \u2013 Manta.com",
+      "url": "https://www.manta.com/c/mmywvbn/electric-lightwave-llc",
+      "snippet": "Get information, directions, products, services, phone numbers, and reviews on Electric Lightwave in Renton, undefined Discover more Telephone Communications, Except Radiotelephone companies in Renton on Manta.com."
+    },
+    {
+      "title": "Electric Lightwave , LLC ITC-T/C-20190614-00122 International...",
+      "url": "https://fcc.report/IBFS/ITC-T-C-20190614-00122",
+      "snippet": "Filing: ITC. International Telecommunications .N. Applicant. Electric Lightwave , LLC 6160 Golden Hills Dr Golden Valley, MN 554161020 USA. Contact."
+    },
+    {
+      "title": "Electric Lightwave , LLC dba Allstream | BBB Business Profile",
+      "url": "https://www.bbb.org/us/mn/saint-cloud/profile/telephones/electric-lightwave-llc-dba-allstream-0704-96106647",
+      "snippet": "BBB Accreditation & Rating. Electric Lightwave , LLC dba Allstream is NOT a BBB Accredited Business.1/1/1945. Type of Entity: Limited Liability Company (LLC). Related Businesses: formerly known as Integra Telecom ."
+    },
+    {
+      "title": "Electric Lightwave LLC - Salt Lake City - (801) 924-3000",
+      "url": "https://et.cybo.com/US-biz/electric-lightwave-llc_1W",
+      "snippet": "Electric Lightwave LLC ei tegutse valdkondades Elektroonika kauplused, Telekommunikatsioon. Ettev\u00f5ttega saate \u00fchendust numbril (801) 924-3000. Lisateavet Electric Lightwave LLC kohta leiate veebisaidilt www.eli.net."
+    },
+    {
+      "title": "Electric Lightwave , LLV Franchise Agreement Extension (2020)",
+      "url": "https://www.clarkcountynv.gov/adobe/assets/urn:aaid:aem:1c2a3ca5-a768-47cd-af07-648dab763915/original/as/electric-lightwave-llc-franchise-agreement-extension-2020.pdf",
+      "snippet": "Electric lightwave , LLC d/b/a integra telecom extension of the telecommunications utility system.WHEREAS, Zayo Group, LLC acquired Electric Lightwave , LLC on March 1, 2017 and is the successor-in-interest; and."
+    }
+  ]
+}
+
+RULES:
+- Ground ALL assessments in the provided evidence
+- Cite specific sources in activity_signal (e.g., "Recent FCC filing (2024)", "Company website found via search")
+- Use "Unknown" when evidence is insufficient - DO NOT hallucinate
+- Confidence levels:
+  - High = Multiple confirming signals (recent web presence + recent filings + company details)
+  - Medium = Some signals but incomplete picture
+  - Low = FCC data only, no external confirmation
+
+Call the enrichment_result function with your analysis.

@@ -1,0 +1,78 @@
+You are analyzing an IPES (Interconnected VoIP Provider) company that filed for numbering authorization with the FCC.
+
+Based ONLY on the evidence provided below, determine:
+1. Whether the company is likely still active
+2. Their industry segment (UCaaS, CCaaS, CPaaS, Carrier, Reseller, Enterprise IT, or Other)
+3. A brief product summary
+4. Their market position (Enterprise, Mid-Market, SMB, Startup, or Unknown)
+5. Your confidence level based on evidence quality
+
+EVIDENCE PACK:
+{
+  "company_name": "The Voice Application Network, LLC",
+  "aliases": [
+    "The Voice Application Network, LLC"
+  ],
+  "fcc_filing": {
+    "first_filing_date": "2019-06-25",
+    "latest_filing_date": "2019-06-25",
+    "total_filings": 1,
+    "docket_numbers": [
+      "19-189"
+    ],
+    "proceeding_types": [
+      "INTERCONNECTED VOIP NUMBERING AUTHORIZATION APPLICATION FILED  BY THE VOICE APPLICATION NETWORK LLC PURSUANT TO SECTION 52.15(g)(3) OF THE COMMISSION'S RULES"
+    ],
+    "has_supplements": false,
+    "recent_activity": false
+  },
+  "parsed_from_docs": {
+    "address": "2150 ParkPlace",
+    "city": "EISegundo",
+    "state": "CA",
+    "zip_code": "90245",
+    "phone": "7025533007",
+    "email": "intagree@centurylink.com",
+    "key_personnel": [],
+    "founding_date": null,
+    "service_description": null
+  },
+  "web_search_results": [
+    {
+      "title": "US20030128692A1 - Voice over internet protocol (VoIP) network",
+      "url": "https://patents.google.com/patent/US20030128692A1/en",
+      "snippet": "H04L69/00 \u2014 Network arrangements, protocols or services independent of the application payload and not provided for in the other groups of this ..."
+    },
+    {
+      "title": "US9544429B2 - Solutions for voice over internet protocol (VoIP)",
+      "url": "https://patents.google.com/patent/US9544429B2/en",
+      "snippet": "... TELECOMMUNICATIONS CORP., COMTECH TOLT TECHNOLOGIES, INC., COMTECH XICOM TECHNOLOGY, INC., MAPLE ACQUISITION LLC , MICRODATA GIS, INC., MICRODATA, LLC , ..."
+    },
+    {
+      "title": "US6850525B2 - Voice over internet protocol (VoIP) network",
+      "url": "https://patents.google.com/patent/US6850525B2/en",
+      "snippet": "H04L69/00 \u2014 Network arrangements, protocols or services independent of the application payload and not provided for in the other groups of this ..."
+    },
+    {
+      "title": "US20070092070A1 - Voice over Internet protocol (VoIP) location",
+      "url": "https://patents.google.com/patent/US20070092070A1/en",
+      "snippet": "VoIP phone calls are routed to a VoIP voice gateway, from which they are passed on to their destination. ... VoIP voice gateway or soft switch is a ..."
+    },
+    {
+      "title": "US20070115942A1 - DEPLOYABLE VOICE OVER INTERNET PROTOCOL",
+      "url": "https://patents.google.com/patent/US20070115942A1/en",
+      "snippet": "VoIP technology allows voice and facsimile communications to take place over the Internet or other network protocols both within the same network and ..."
+    }
+  ]
+}
+
+RULES:
+- Ground ALL assessments in the provided evidence
+- Cite specific sources in activity_signal (e.g., "Recent FCC filing (2024)", "Company website found via search")
+- Use "Unknown" when evidence is insufficient - DO NOT hallucinate
+- Confidence levels:
+  - High = Multiple confirming signals (recent web presence + recent filings + company details)
+  - Medium = Some signals but incomplete picture
+  - Low = FCC data only, no external confirmation
+
+Call the enrichment_result function with your analysis.

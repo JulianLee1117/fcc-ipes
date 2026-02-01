@@ -1,0 +1,83 @@
+You are analyzing an IPES (Interconnected VoIP Provider) company that filed for numbering authorization with the FCC.
+
+Based ONLY on the evidence provided below, determine:
+1. Whether the company is likely still active
+2. Their industry segment (UCaaS, CCaaS, CPaaS, Carrier, Reseller, Enterprise IT, or Other)
+3. A brief product summary
+4. Their market position (Enterprise, Mid-Market, SMB, Startup, or Unknown)
+5. Your confidence level based on evidence quality
+
+EVIDENCE PACK:
+{
+  "company_name": "IP Networked Services, Inc.",
+  "aliases": [
+    "IP Networked Services, Inc."
+  ],
+  "fcc_filing": {
+    "first_filing_date": "2020-09-09",
+    "latest_filing_date": "2020-09-09",
+    "total_filings": 1,
+    "docket_numbers": [
+      "20-297"
+    ],
+    "proceeding_types": [
+      "Interconnected VoIP Numbering Authorization Application Filed By IP Networked Services, Inc. Pursuant To Section 52.15(g)(3) Of The Commission's Rules"
+    ],
+    "has_supplements": false,
+    "recent_activity": false
+  },
+  "parsed_from_docs": {
+    "address": "1950 Hassell Road",
+    "city": "Hoffman",
+    "state": "IL",
+    "zip_code": "60169",
+    "phone": "8474854686",
+    "email": null,
+    "key_personnel": [
+      {
+        "name": "and Chief",
+        "title": "President"
+      }
+    ],
+    "founding_date": null,
+    "service_description": null
+  },
+  "web_search_results": [
+    {
+      "title": "Ip Networked Services Inc . - 1 Adp Blvd - Cybo",
+      "url": "https://et.cybo.com/US-biz/ip-networked-services-inc_1e",
+      "snippet": "Ip Networked Services Inc . Roseland sihtnumber 07068. Vt selle ettev\u00f5tte 4 suhtlusv\u00f5rgustiku lehek\u00fclge, sh Facebook ja Twitter, Telefon, Veebisait jm. 2.5 Cybo Score. Cymbo \u00fclevaade."
+    },
+    {
+      "title": "AS18441 IP Networked Services Inc . - bgp.tools",
+      "url": "https://bgp.tools/as/18441",
+      "snippet": "IP Networked Services Inc . (AS18441) is a small BGP network that is peering with 0 other networks and has 0 upstream carriers."
+    },
+    {
+      "title": "AS40227 IPNS-LAB - IP Networked Services Inc ., US | IPIP.NET",
+      "url": "https://whois.ipip.net/AS40227",
+      "snippet": "OrgName: IP Networked Services Inc . OrgId: INS-65 Address: 1950 Hassell Road City: Hoffman Estates StateProv: IL PostalCode: 60169 Country: US RegDate: 2007-03-13 Updated: 2023-11-30 Ref: https://rdap.arin.net/registry/entity/INS-65. OrgAbuseHandle: TECHN1109-ARIN..."
+    },
+    {
+      "title": "IP NETWORKED SERVICES , INC .... | Nevada-register.com",
+      "url": "https://www.nevada-register.com/906670-ip-networked-services-inc",
+      "snippet": "The company IP NETWORKED SERVICES , INC . is managed by 12 persons in total. The persons responsible for business activities are LEE J BRUNZ with the seat at 1950 HASSELL ROAD, HOFFMAN ESTATES, 60169, IL as President..."
+    },
+    {
+      "title": "IP NETWORKED SERVICES INC . / Kinzer James Brooks",
+      "url": "https://florida.intercreditreport.com/company/ip-networked-services-inc-f09000000512",
+      "snippet": "IP NETWORKED SERVICES INC . From Hoffman Estates Reviews. Director is James Brooks Kinzer, Director is Joseph A Tautges, Director is Lee James Brunz. IP NETWORKED SERVICES INC . has been set up 2/4/2009 in state DE. The current status of the business is Active."
+    }
+  ]
+}
+
+RULES:
+- Ground ALL assessments in the provided evidence
+- Cite specific sources in activity_signal (e.g., "Recent FCC filing (2024)", "Company website found via search")
+- Use "Unknown" when evidence is insufficient - DO NOT hallucinate
+- Confidence levels:
+  - High = Multiple confirming signals (recent web presence + recent filings + company details)
+  - Medium = Some signals but incomplete picture
+  - Low = FCC data only, no external confirmation
+
+Call the enrichment_result function with your analysis.

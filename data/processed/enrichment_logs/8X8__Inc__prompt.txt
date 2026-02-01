@@ -1,0 +1,128 @@
+You are analyzing an IPES (Interconnected VoIP Provider) company that filed for numbering authorization with the FCC.
+
+Based ONLY on the evidence provided below, determine:
+1. Whether the company is likely still active
+2. Their industry segment (UCaaS, CCaaS, CPaaS, Carrier, Reseller, Enterprise IT, or Other)
+3. A brief product summary
+4. Their market position (Enterprise, Mid-Market, SMB, Startup, or Unknown)
+5. Your confidence level based on evidence quality
+
+EVIDENCE PACK:
+{
+  "company_name": "8X8, Inc.",
+  "aliases": [
+    "8X8, Inc.",
+    "8x8, Inc."
+  ],
+  "fcc_filing": {
+    "first_filing_date": "2019-12-20",
+    "latest_filing_date": "2019-12-20",
+    "total_filings": 7,
+    "docket_numbers": [
+      "20-19"
+    ],
+    "proceeding_types": [
+      "Interconnected VoIP Numbering Authorization Application Filed By 8x8, Inc. Pursuant to Section 52.15(g)(3) of the Commission's Rules"
+    ],
+    "has_supplements": true,
+    "recent_activity": false
+  },
+  "parsed_from_docs": {
+    "address": "2125 O\u2019Nel Dr.,",
+    "city": null,
+    "state": null,
+    "zip_code": null,
+    "phone": "6467517323",
+    "email": "brendan.kasper@8x8.com",
+    "key_personnel": [
+      {
+        "name": "Vik Verma",
+        "title": "CEO"
+      },
+      {
+        "name": "of Strategic",
+        "title": "President"
+      },
+      {
+        "name": "of the",
+        "title": "President"
+      },
+      {
+        "name": "of Savi",
+        "title": "CEO"
+      },
+      {
+        "name": "Bryan Martin",
+        "title": "CTO"
+      },
+      {
+        "name": "from its",
+        "title": "CEO"
+      },
+      {
+        "name": "Chief Technical Officer",
+        "title": "and Senior"
+      },
+      {
+        "name": "responsible for",
+        "title": "CFO"
+      },
+      {
+        "name": "at high",
+        "title": "CFO"
+      },
+      {
+        "name": "at Rapid",
+        "title": "CFO"
+      },
+      {
+        "name": "of publicly",
+        "title": "CFO"
+      },
+      {
+        "name": "of Network",
+        "title": "President"
+      }
+    ],
+    "founding_date": null,
+    "service_description": "provider currently offering interconnected\nVoIP service to end user customers, files this application with the Federal Communications\nCommission (\u201cCommission\u201d) for authorization to acquire telephone numbers directly from the\nNorth American Numbering Plan Administrator and the Pooling Administrator (\u201cNumbering\nAdministrators\u201d) pursuant to Section 52."
+  },
+  "web_search_results": [
+    {
+      "title": "8x8 - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/8x8",
+      "snippet": "2 weeks ago - In March 2000, 8x8 relaunched itself as a VoIP service provider under the name Netergy Networks. The company changed its name back to 8x8 in July 2001. 8x8 began trading on the Nasdaq SmallCap Market on 26 July 2002."
+    },
+    {
+      "title": "8x8 - 72 Reviews | voipreview.org",
+      "url": "https://www.voipreview.org/reviews/8x8",
+      "snippet": "November 7, 2009 - 8x8, Inc. delivers small-to-mid-market businesses reliable cloud-based communication solutions that use existing high speed internet connections . 8x8 also offers VoIP features and quality phone service at a competitive cost."
+    },
+    {
+      "title": "8x8 Inc. Reviews 2026: Likes, Dislikes, Plans, Features",
+      "url": "https://getvoip.com/reviews/8x8-inc/",
+      "snippet": "8x8\u2019s Work is a UCaaS plan that includes VoIP, team messaging, SMS, video conferencing, collaboration, routing, analytics, and more ."
+    },
+    {
+      "title": "8x8 Reviews | Read Customer Service Reviews of 8x8.com",
+      "url": "https://www.trustpilot.com/review/8x8.com",
+      "snippet": "2 weeks ago - I have been using 8x8 since 2011 for my office phone line and VOIP fax capability The system also handles business related SMS text communications. I receive and make calls over my desk phone, my PC o..."
+    },
+    {
+      "title": "8x8 Contact Center Technical Requirements for Agents\u2014VOIP requirements",
+      "url": "https://docs.8x8.com/8x8WebHelp/VCC/technical-requirements/Content/TechnicalRequirements/AgentVoIPReqs.htm",
+      "snippet": "8x8 Contact Center supports the following types of VoIP telephone equipment: Software-based such as eyeBeam and hardware-based such as Cisco ."
+    }
+  ]
+}
+
+RULES:
+- Ground ALL assessments in the provided evidence
+- Cite specific sources in activity_signal (e.g., "Recent FCC filing (2024)", "Company website found via search")
+- Use "Unknown" when evidence is insufficient - DO NOT hallucinate
+- Confidence levels:
+  - High = Multiple confirming signals (recent web presence + recent filings + company details)
+  - Medium = Some signals but incomplete picture
+  - Low = FCC data only, no external confirmation
+
+Call the enrichment_result function with your analysis.

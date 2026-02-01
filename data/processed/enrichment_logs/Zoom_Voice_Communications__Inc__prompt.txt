@@ -1,0 +1,78 @@
+You are analyzing an IPES (Interconnected VoIP Provider) company that filed for numbering authorization with the FCC.
+
+Based ONLY on the evidence provided below, determine:
+1. Whether the company is likely still active
+2. Their industry segment (UCaaS, CCaaS, CPaaS, Carrier, Reseller, Enterprise IT, or Other)
+3. A brief product summary
+4. Their market position (Enterprise, Mid-Market, SMB, Startup, or Unknown)
+5. Your confidence level based on evidence quality
+
+EVIDENCE PACK:
+{
+  "company_name": "Zoom Voice Communications, Inc.",
+  "aliases": [
+    "Zoom Voice Communications, Inc."
+  ],
+  "fcc_filing": {
+    "first_filing_date": "2020-12-09",
+    "latest_filing_date": "2020-12-09",
+    "total_filings": 3,
+    "docket_numbers": [
+      "20-419"
+    ],
+    "proceeding_types": [
+      "Interconnected VoIP Numbering Authorization Application Filed By Zoom Voice Communications, Inc. Pursuant To Section 52.15(g)(3) Of The Commission's Rules"
+    ],
+    "has_supplements": false,
+    "recent_activity": false
+  },
+  "parsed_from_docs": {
+    "address": "55 Almaden Boulevard, 6th Floor",
+    "city": null,
+    "state": null,
+    "zip_code": null,
+    "phone": "8052503707",
+    "email": "kari.zeni@zoom.us",
+    "key_personnel": [],
+    "founding_date": null,
+    "service_description": "provider of VoIP services in an attempt to evade its intercarrier compensation\nobligations,\u201d leading to \u201ccall blocking and congestion."
+  },
+  "web_search_results": [
+    {
+      "title": "Zoom Phone: VoIP Phone Service | Zoom",
+      "url": "https://www.zoom.com/en/products/voip-phone/",
+      "snippet": "Try Zoom Phone for a VoIP phone system with unlimited domestic calls, SMS messaging, voicemail transcription, call recording, and seamless app integrations."
+    },
+    {
+      "title": "Plans & Pricing for Zoom Phone | Zoom",
+      "url": "https://zoom.us/pricing/zoom-phone",
+      "snippet": "Enjoy seamless setup, enhanced performance, and reliable Zoom -certified hardware. Enhanced call queue analytics and historical insights for call center teams. Enhance your phone plan with additional local, toll-free, or international premium numbers. *Numbers can be purchased at checkout."
+    },
+    {
+      "title": "Zoom Voice Communications, Inc. San Jose, CA - filing information",
+      "url": "https://www.bizprofile.net/ca/san-jose/zoom-voice-communications-inc",
+      "snippet": "Sep 4, 2019 \u00b7 Zoom Voice Communications , Inc ., a Stock Corporation, is a business entity located in San Jose, CA. Officially filed on September 4, 2019, this corporation is recognized under the document number 4314395."
+    },
+    {
+      "title": "Zoom Voice Communications, Inc. in San Jose CA - Company Profile",
+      "url": "https://www.corporationwiki.com/p/35d48m/zoom-voice-communications-inc",
+      "snippet": "View company leaders and background information for Zoom Voice Communications , Inc . Search our database of over 100 million company and executive profiles."
+    },
+    {
+      "title": "Zoom Voice Communications, Inc. - My Fiber Options",
+      "url": "https://myfiberoptions.com/providers/zoom-voice-communications",
+      "snippet": "With a focus on clear audio and seamless connectivity, Zoom Voice helps companies improve their communication efficiency and productivity. The company offers a range of services including VoIP , conference calling, and virtual phone systems."
+    }
+  ]
+}
+
+RULES:
+- Ground ALL assessments in the provided evidence
+- Cite specific sources in activity_signal (e.g., "Recent FCC filing (2024)", "Company website found via search")
+- Use "Unknown" when evidence is insufficient - DO NOT hallucinate
+- Confidence levels:
+  - High = Multiple confirming signals (recent web presence + recent filings + company details)
+  - Medium = Some signals but incomplete picture
+  - Low = FCC data only, no external confirmation
+
+Call the enrichment_result function with your analysis.

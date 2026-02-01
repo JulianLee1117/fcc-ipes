@@ -1,0 +1,123 @@
+You are analyzing an IPES (Interconnected VoIP Provider) company that filed for numbering authorization with the FCC.
+
+Based ONLY on the evidence provided below, determine:
+1. Whether the company is likely still active
+2. Their industry segment (UCaaS, CCaaS, CPaaS, Carrier, Reseller, Enterprise IT, or Other)
+3. A brief product summary
+4. Their market position (Enterprise, Mid-Market, SMB, Startup, or Unknown)
+5. Your confidence level based on evidence quality
+
+EVIDENCE PACK:
+{
+  "company_name": "SKYE TELECOM, LLC",
+  "aliases": [
+    "SKYE TELECOM, LLC"
+  ],
+  "fcc_filing": {
+    "first_filing_date": "2020-09-16",
+    "latest_filing_date": "2020-09-16",
+    "total_filings": 1,
+    "docket_numbers": [
+      "20-312"
+    ],
+    "proceeding_types": [
+      "Interconnected VoIP Numbering Authorization Application Filed By Skye Telecom, LLC Pursuant To Section 52.15(g)(3) Of The Commission's Rules"
+    ],
+    "has_supplements": false,
+    "recent_activity": false
+  },
+  "parsed_from_docs": {
+    "address": "915 Broadway St #100",
+    "city": null,
+    "state": null,
+    "zip_code": null,
+    "phone": "3606000000",
+    "email": "chris@skyetel.com",
+    "key_personnel": [
+      {
+        "name": "Christopher Bardos",
+        "title": "CEO"
+      },
+      {
+        "name": "Contact for",
+        "title": "CEO"
+      },
+      {
+        "name": "and Associate",
+        "title": "President"
+      },
+      {
+        "name": "Chief Technical Officer",
+        "title": "Neutral Tandem"
+      },
+      {
+        "name": "Chief Technical Officer",
+        "title": "Neutral Tandem"
+      },
+      {
+        "name": "and General",
+        "title": "President"
+      },
+      {
+        "name": "and Chief",
+        "title": "President"
+      },
+      {
+        "name": "Interconnection Services",
+        "title": "President"
+      },
+      {
+        "name": "Interconnection Services",
+        "title": "President"
+      },
+      {
+        "name": "Interconnection Services",
+        "title": "President"
+      },
+      {
+        "name": "Wholesale Markets",
+        "title": "President"
+      }
+    ],
+    "founding_date": null,
+    "service_description": "provides VoIP services in Washington, Oregon, California, New York, Texas,\nHawaii, and Florida through its own facilities and those of its CLEC partners with which it has\narrangements in place for routing traffic to and from the PSTN."
+  },
+  "web_search_results": [
+    {
+      "title": "Federal Vendor Profile for Skye Telecom LLC",
+      "url": "https://govtribe.com/vendors/skye-telecom-llc-0saq0",
+      "snippet": "Federal Vendor Profile for Skye Telecom LLC . Skye Telecom LLC . UEI PN5QPDSUU679. Overview."
+    },
+    {
+      "title": "HFA Holdings LLC Completes It's Acquisition of Skyetel ( Skye ...)",
+      "url": "https://www.prweb.com/releases/hfa-holdings-llc-completes-it-s-acquisition-of-skyetel-skye-telecom-llc--807227041.html",
+      "snippet": "\u201cThis acquisition is a perfect fit for HFA, enabling us to acquire additional telecom and CPAAS-related service offerings by bringing the large scale carrier offering to the impressive and powerful Skyetel ecosystem.\u201d"
+    },
+    {
+      "title": "Acceptable Use Policy - Skyetel",
+      "url": "https://www.skyetel.com/acceptable-use-policy",
+      "snippet": "Skye Telecom LLC CPNI Policy.Types of Customer PI Skye Telecom Collects and How it is Used. Customer PI is certain customer information obtained by a telecommunications provider during the course of providing telecommunications services to a customer."
+    },
+    {
+      "title": "Skye Telecom LLC - 7258606 - Pensilv\u0101nija",
+      "url": "https://b2bhint.com/lv/company/us-pa/skye-telecom-llc--7258606",
+      "snippet": "Skye Telecom LLC undefined uz\u0146\u0113mums, Uz\u0146\u0113muma numurs: 7258606, Dibin\u0101\u0161anas datums 2021 m. baland\u017eio 13 d.;, Adrese: Corporation Service Company."
+    },
+    {
+      "title": "Basic International Telecommunications Services (BITS)... | CRTC",
+      "url": "https://crtc.gc.ca/PartVII/eng/2019/8190/8190_19.htm",
+      "snippet": "8190-C1-201912361 Cochrane Telecom Services of the Town Cochrane. Approved.8190-E86-201904441 Energy N Telecom Consulting Limited. Revoked Approved."
+    }
+  ]
+}
+
+RULES:
+- Ground ALL assessments in the provided evidence
+- Cite specific sources in activity_signal (e.g., "Recent FCC filing (2024)", "Company website found via search")
+- Use "Unknown" when evidence is insufficient - DO NOT hallucinate
+- Confidence levels:
+  - High = Multiple confirming signals (recent web presence + recent filings + company details)
+  - Medium = Some signals but incomplete picture
+  - Low = FCC data only, no external confirmation
+
+Call the enrichment_result function with your analysis.

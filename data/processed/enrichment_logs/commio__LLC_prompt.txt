@@ -1,0 +1,79 @@
+You are analyzing an IPES (Interconnected VoIP Provider) company that filed for numbering authorization with the FCC.
+
+Based ONLY on the evidence provided below, determine:
+1. Whether the company is likely still active
+2. Their industry segment (UCaaS, CCaaS, CPaaS, Carrier, Reseller, Enterprise IT, or Other)
+3. A brief product summary
+4. Their market position (Enterprise, Mid-Market, SMB, Startup, or Unknown)
+5. Your confidence level based on evidence quality
+
+EVIDENCE PACK:
+{
+  "company_name": "commio, LLC",
+  "aliases": [
+    "commio, LLC"
+  ],
+  "fcc_filing": {
+    "first_filing_date": "2016-04-25",
+    "latest_filing_date": "2016-04-25",
+    "total_filings": 5,
+    "docket_numbers": [
+      "16-196"
+    ],
+    "proceeding_types": [
+      "Interconnected VoIP Numbering Authorization Application Filed By Commio, Llc. Pursuant To Section 52.15(G)(3) Of The Commission's Rules",
+      "Interconnected VoIP Numbering Authorization Application Filed By Commio, Llc. Pursuant To Section 52.15(G)(3) Of The Commission?s Rules"
+    ],
+    "has_supplements": false,
+    "recent_activity": false
+  },
+  "parsed_from_docs": {
+    "address": "11320 Hwy 620 N, Suite: A031",
+    "city": null,
+    "state": null,
+    "zip_code": null,
+    "phone": "9292666467",
+    "email": null,
+    "key_personnel": [],
+    "founding_date": null,
+    "service_description": "provide interconnected VoIP service to\nrevenue-generating end-user customers or have broadband connections in service to an end user,\ntherefore commio currently is not required to file Form 477 at this time."
+  },
+  "web_search_results": [
+    {
+      "title": "Commio - Ownership and Business Overview | Mergr",
+      "url": "https://mergr.com/company/commio",
+      "snippet": "Who owns Commio ? Commio is owned by thinQ. It was acquired on February 1, 2021.What sector is Commio in? Commio is an internet software and services company. When was Commio founded?"
+    },
+    {
+      "title": "Commio VoIP Numbering Authorization Application Pleading Cycle",
+      "url": "https://www.fcc.gov/document/commio-voip-numbering-authorization-application-pleading-cycle",
+      "snippet": "Interconnected VoIP Numbering Authorization Application Filed By Commio , LLC Pursuant To Section 52.15(g)(3) Of The Commission's Rules."
+    },
+    {
+      "title": "Commio - Crunchbase Company Profile & Funding",
+      "url": "https://www.crunchbase.com/organization/commio",
+      "snippet": "Commio 's smart, reliable voice and SMS/MMS solutions are easy to implement and scale with you. Get a demo today."
+    },
+    {
+      "title": "Commio | BBB Complaints | Better Business Bureau",
+      "url": "https://www.bbb.org/us/nc/raleigh/profile/telecommunications/commio-0593-90357094/complaints",
+      "snippet": "Business Profile. Telecommunications . Commio .Who is Commio ? Commio does not make any calls or send texts to consumers. Instead, we provide a network interconnection bridge between a calling or texting partys telecom provider and a called or texted partys telecom provider."
+    },
+    {
+      "title": "Why is CommIO LLC calling me, Reddit? - GB Times",
+      "url": "https://gbtimes.com/why-is-commio-llc-calling-me-reddit/",
+      "snippet": "Make and receive phone calls ( Voice over Internet Protocol or VoIP ): Ditching traditional phone lines in favor of internet-based calling."
+    }
+  ]
+}
+
+RULES:
+- Ground ALL assessments in the provided evidence
+- Cite specific sources in activity_signal (e.g., "Recent FCC filing (2024)", "Company website found via search")
+- Use "Unknown" when evidence is insufficient - DO NOT hallucinate
+- Confidence levels:
+  - High = Multiple confirming signals (recent web presence + recent filings + company details)
+  - Medium = Some signals but incomplete picture
+  - Low = FCC data only, no external confirmation
+
+Call the enrichment_result function with your analysis.

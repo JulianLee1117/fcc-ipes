@@ -1,0 +1,35 @@
+{
+  "id": "msg_01AXeZMppbvDh6WpiEy9ELbG",
+  "content": [
+    {
+      "id": "toolu_01PBHw2r7LTm2gMhzaNEpp6i",
+      "input": {
+        "is_active": true,
+        "activity_signal": "Company appears active based on: 1) Web search results showing IDT Express platform with terms and conditions referencing \"IDT Domestic Telecom, Inc.\", 2) Parent company IDT Corporation website (idt.net) describes itself as \"global provider of various telecommunication, payment and other\" services and mentions being \"recognized as a pioneer in VoIP\", 3) Company listed in current telecom provider directories for Guam and American Samoa regions via TeraCodes",
+        "industry_segment": "Carrier",
+        "product_summary": "IDT Domestic Telecom provides interconnected VoIP services as part of IDT Corporation's telecommunications portfolio, operating as a carrier in the competitive VoIP business sector with presence in US territories.",
+        "market_position": "Unknown",
+        "enrichment_confidence": "Medium"
+      },
+      "name": "enrichment_result",
+      "type": "tool_use"
+    }
+  ],
+  "model": "claude-sonnet-4-20250514",
+  "role": "assistant",
+  "stop_reason": "tool_use",
+  "stop_sequence": null,
+  "type": "message",
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0,
+    "input_tokens": 1779,
+    "output_tokens": 274,
+    "server_tool_use": null,
+    "service_tier": "standard"
+  }
+}

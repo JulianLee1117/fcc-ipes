@@ -1,0 +1,112 @@
+You are analyzing an IPES (Interconnected VoIP Provider) company that filed for numbering authorization with the FCC.
+
+Based ONLY on the evidence provided below, determine:
+1. Whether the company is likely still active
+2. Their industry segment (UCaaS, CCaaS, CPaaS, Carrier, Reseller, Enterprise IT, or Other)
+3. A brief product summary
+4. Their market position (Enterprise, Mid-Market, SMB, Startup, or Unknown)
+5. Your confidence level based on evidence quality
+
+EVIDENCE PACK:
+{
+  "company_name": "RGTN USA, Inc.",
+  "aliases": [
+    "RGTN USA Inc.",
+    "RGTN USA, Inc."
+  ],
+  "fcc_filing": {
+    "first_filing_date": "2023-09-21",
+    "latest_filing_date": "2023-09-21",
+    "total_filings": 7,
+    "docket_numbers": [
+      "23-335"
+    ],
+    "proceeding_types": [
+      "Interconnected VoIP Numbering Authorization Application Filed By RGTN USA, Inc. Pursuant To Section 52.15(g)(3) Of The Commission's Rules"
+    ],
+    "has_supplements": false,
+    "recent_activity": false
+  },
+  "parsed_from_docs": {
+    "address": "244 Fifth Avenue, Suite L220, New York, N.Y. 10001",
+    "city": null,
+    "state": null,
+    "zip_code": null,
+    "phone": "8889777486",
+    "email": "l.herps@rgtn.com",
+    "key_personnel": [
+      {
+        "name": "Chief Technology Officer",
+        "title": "for several"
+      },
+      {
+        "name": "RGTN USA",
+        "title": "CEO"
+      },
+      {
+        "name": "Chief Technology Officer",
+        "title": "for several"
+      },
+      {
+        "name": "RGTN USA",
+        "title": "CEO"
+      },
+      {
+        "name": "Chief Technology Officer",
+        "title": "for several"
+      },
+      {
+        "name": "Prior to serving",
+        "title": "CEO"
+      },
+      {
+        "name": "Prior to serving",
+        "title": "CEO"
+      },
+      {
+        "name": "Prior to serving",
+        "title": "CEO"
+      }
+    ],
+    "founding_date": null,
+    "service_description": "provide interconnected\nVoIP service\u2013including that the service \u201c[p]ermits users generally to receive calls that originate\non the public switched telephone network and to terminate calls to the public switched telephone\nnetwork\u201dwithin 60 days of numbering resource activation date."
+  },
+  "web_search_results": [
+    {
+      "title": "Your Trusted Telecom Partner | RGTN",
+      "url": "https://www.rgtn.com/",
+      "snippet": "RGTN connects you to the world with reliable, high-quality telecom solutions. Whether you need robust infrastructure or seamless connectivity, we\u2019re here to simplify your telecom needs. Power your telecom services with ease. We help you transform connectivity challenges into opportunities."
+    },
+    {
+      "title": "RGTN - RGTN USA, Inc. Trademark Registration RGTN FCC Direct Number Authorization Request Under Review: DOJ Microsoft Word - RGTN VoIP 30 Day Notice NY docs.cpuc.ca.gov Federal Communications Commission",
+      "url": "https://uspto.report/TM/98260036",
+      "snippet": "Nov 8, 2023 \u00b7 Mark For: RGTN\u2122 trademark registration is intended to cover the categories of arranging subscriptions to telecommunication services for others; Management of telephone call centers for others; Telephone switchboard services. Jan 5, 2024 \u00b7 The Committee for the Assessment of Foreign Participation in the U. S . Telecommunications Services Sector is reviewing RGTN USA ' s direct number access authorization request, said a DOJ letter to the FCC posted Wednesday in docket 23-335. An interconnected VoIP provider, RGTN \u2026 By this Public Notice, the Wireline Competition Bureau (Bureau) grants an application filed by RGTN USA , Inc ., ( RGTN ), pursuant to section 52.15(g)(3) of the Commission\u2019s rules, seeking authorization to obtain North American Numbering Plan telephone numbers directly from the Numbering Administrator.1 I lead a multinational telecommunications group specializing in wholesale voice and SMS services. Since 2019, I have guided the company in defining its vision and mission, setting strategic goals, and capitalizing on expansion opportunities while navigating the competitive market landscape. On January 2, 2024, the Committee for the Assessment of Foreign Participation in the United States Telecommunications Services Sector (Committee) notified the Commission that it was reviewing the Application for any national security and law enforcement concerns that may be raised by the foreign ownership and requested that the Commission defer ..."
+    },
+    {
+      "title": "RGTN FCC Direct Number Authorization Request Under Review: DOJ",
+      "url": "https://communicationsdaily.com/article/2024/01/05/rgtn-fcc-direct-number-authorization-request-under-review-doj-2401040062",
+      "snippet": "Jan 5, 2024 \u00b7 The Committee for the Assessment of Foreign Participation in the U. S . Telecommunications Services Sector is reviewing RGTN USA ' s direct number access authorization request, said a DOJ letter to the FCC posted Wednesday in docket 23-335. An interconnected VoIP provider, RGTN \u2026"
+    },
+    {
+      "title": "Microsoft Word - RGTN VoIP 30 Day Notice NY",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={10DC4691-0000-CE1E-A37B-F95D4A8A3C63}",
+      "snippet": "By this Public Notice, the Wireline Competition Bureau (Bureau) grants an application filed by RGTN USA , Inc ., ( RGTN ), pursuant to section 52.15(g)(3) of the Commission\u2019s rules, seeking authorization to obtain North American Numbering Plan telephone numbers directly from the Numbering Administrator.1"
+    },
+    {
+      "title": "PUBLIC NOTICE - Federal Communications Commission",
+      "url": "https://docs.fcc.gov/public/attachments/DA-24-739A1.pdf",
+      "snippet": "By this Public Notice, the Wireline Competition Bureau (Bureau) grants an application filed by RGTN USA , Inc ., ( RGTN ), pursuant to section 52.15(g)(3) of the Commission\u2019s rules, seeking authorization to obtain North American Numbering Plan telephone numbers directly from the Numbering Administrator.1 Due to the foreign ownership of the ..."
+    }
+  ]
+}
+
+RULES:
+- Ground ALL assessments in the provided evidence
+- Cite specific sources in activity_signal (e.g., "Recent FCC filing (2024)", "Company website found via search")
+- Use "Unknown" when evidence is insufficient - DO NOT hallucinate
+- Confidence levels:
+  - High = Multiple confirming signals (recent web presence + recent filings + company details)
+  - Medium = Some signals but incomplete picture
+  - Low = FCC data only, no external confirmation
+
+Call the enrichment_result function with your analysis.

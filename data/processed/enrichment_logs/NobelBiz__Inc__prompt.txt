@@ -1,0 +1,115 @@
+You are analyzing an IPES (Interconnected VoIP Provider) company that filed for numbering authorization with the FCC.
+
+Based ONLY on the evidence provided below, determine:
+1. Whether the company is likely still active
+2. Their industry segment (UCaaS, CCaaS, CPaaS, Carrier, Reseller, Enterprise IT, or Other)
+3. A brief product summary
+4. Their market position (Enterprise, Mid-Market, SMB, Startup, or Unknown)
+5. Your confidence level based on evidence quality
+
+EVIDENCE PACK:
+{
+  "company_name": "NobelBiz, Inc.",
+  "aliases": [
+    "NobelBiz, Inc."
+  ],
+  "fcc_filing": {
+    "first_filing_date": "2020-11-10",
+    "latest_filing_date": "2020-11-10",
+    "total_filings": 3,
+    "docket_numbers": [
+      "20-385"
+    ],
+    "proceeding_types": [
+      "Interconnected VoIP Numbering Authorization Application Filed By NobelBiz, Inc. Pursuant To Section 52.15(g)(3) Of The Commission's Rules"
+    ],
+    "has_supplements": true,
+    "recent_activity": false
+  },
+  "parsed_from_docs": {
+    "address": "1545 Faraday Avenue",
+    "city": null,
+    "state": null,
+    "zip_code": null,
+    "phone": "7604050105",
+    "email": "wbrantl@kelleydrye.com",
+    "key_personnel": [
+      {
+        "name": "Steven Bederman",
+        "title": "President"
+      },
+      {
+        "name": "Colleen Guffey",
+        "title": "President"
+      },
+      {
+        "name": "Chief Operating Officer",
+        "title": "George Seroukas"
+      },
+      {
+        "name": "Kelley Drye",
+        "title": "President"
+      },
+      {
+        "name": "Steven Bederman",
+        "title": "President"
+      },
+      {
+        "name": "and CEO",
+        "title": "President"
+      },
+      {
+        "name": "Colleen Guffey",
+        "title": "President"
+      },
+      {
+        "name": "Chief Operating Officer",
+        "title": "George Seroukas"
+      },
+      {
+        "name": "Steven Bederman",
+        "title": "President"
+      }
+    ],
+    "founding_date": null,
+    "service_description": "offers\ninterconnected VoIP service to end user customers and will continue to be able to provide service\nwithin sixty (60) days of the numbering resources activation date as required by 47 C."
+  },
+  "web_search_results": [
+    {
+      "title": "NobelBiz: Leading Software and Telco Services for Contact Centers",
+      "url": "https://nobelbiz.com/",
+      "snippet": "The NobelBiz Voice Carrier Network is one of the best VoIP Interconnected Providers in the industry, with multiple worldwide redundancies for uninterrupted uptime, delivering the best possible voice quality at a fair price."
+    },
+    {
+      "title": "NobelBiz\u00ae - LinkedIn",
+      "url": "https://www.linkedin.com/company/nobelbiz-inc-",
+      "snippet": "NobelBiz is the only call center-focused telecom carrier in the industry. We are dead-set on empowering call centers conversations all day, everyday. NobelBiz transforms Contact Centers into..."
+    },
+    {
+      "title": "NobelBiz\u00ae Information - RocketReach NobelBiz Company Profile - Office Locations, Competitors ... NobelBiz : Leading Software and Telco Services for Contact Centers NobelBiz : Leading Software and Telco Services for Contact Centers NobelBiz : Leading Software and Telco Services for Contact Centers NobelBiz : Leading Software and Telco Services for Contact Centers Who is NobelBiz? - NobelBiz",
+      "url": "https://rocketreach.co/nobelbizr-profile_b5f53bf7f42d2bd3",
+      "snippet": "NobelBiz\u00ae is a Telecommunications , Content & Collaboration Software, and Compliance Solutions company located in Cheyenne, Wyoming with $8.5 million in revenue and 44 employees. NobelBiz is a company that provides voice carrier network services for the contact center industry. It offers caller ID management, local number routing, dashboard reporting and analytics, inbound and outbound calls, omnichannel cloud contact centers solutions, etc. What is nobelbiz voice carrier network? Request a demo! The NobelBiz Voice Carrier Network is one of the best VoIP Interconnected Providers in the industry, with multiple worldwide redundancies for uninterrupted uptime, delivering the best possible voice quality at a fair price. What is nobelbiz CCaaS? The NobelBiz CCaaS products and services are dedicated to every contact center business or department . Designed to power any inbound, outbound, or blended operations, our software and telecom products can be deployed for a broad spectrum of big and small contact centers across multiple industries. Where are nobelbiz data centers located? Nobelbiz provides redundant data centers in one Wilshire in Los Angeles, CA, and 60 Hudson, NY . These demarcation points are the most resilient locations on the planet for working with the PSTN network. What is nobelbiz Omni+? NobelBiz OMNI+ is the only software you will ever need to run virtually any type of contact center activity . Following all the omnichannel principles, this cloud contact center platform is built to accommodate and easily manage almost any communication channel. Request a demo! His tenure as CEO and President of multiple global enterprises, including NobelBiz and TouchStar, showcases his ability to drive exponential growth and introduce groundbreaking telecom and software solutions."
+    },
+    {
+      "title": "NobelBiz Company Profile - Office Locations, Competitors ...",
+      "url": "https://craft.co/nobelbiz",
+      "snippet": "NobelBiz is a company that provides voice carrier network services for the contact center industry. It offers caller ID management, local number routing, dashboard reporting and analytics, inbound and outbound calls, omnichannel cloud contact centers solutions, etc."
+    },
+    {
+      "title": "Who is NobelBiz? - NobelBiz",
+      "url": "https://nobelbiz.com/about/",
+      "snippet": "His tenure as CEO and President of multiple global enterprises, including NobelBiz and TouchStar, showcases his ability to drive exponential growth and introduce groundbreaking telecom and software solutions."
+    }
+  ]
+}
+
+RULES:
+- Ground ALL assessments in the provided evidence
+- Cite specific sources in activity_signal (e.g., "Recent FCC filing (2024)", "Company website found via search")
+- Use "Unknown" when evidence is insufficient - DO NOT hallucinate
+- Confidence levels:
+  - High = Multiple confirming signals (recent web presence + recent filings + company details)
+  - Medium = Some signals but incomplete picture
+  - Low = FCC data only, no external confirmation
+
+Call the enrichment_result function with your analysis.

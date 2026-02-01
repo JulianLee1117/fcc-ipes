@@ -1,0 +1,35 @@
+{
+  "id": "msg_017GFPgQ7kzEveePYrNQkKZM",
+  "content": [
+    {
+      "id": "toolu_012pEKB3yhPzpvpoVc2ED5Gd",
+      "input": {
+        "is_active": false,
+        "activity_signal": "Single FCC filing from 2021-06-17 with no recent activity (recent_activity: false). Web search results show only generic telecom directory listings with no specific mentions of TPx Communications or U.S. TelePacific Corp. No company website, current contact information, or recent business activity found.",
+        "industry_segment": "Carrier",
+        "product_summary": "Telecommunications carrier that filed for interconnected VoIP numbering authorization with the FCC, likely providing voice communication services.",
+        "market_position": "Unknown",
+        "enrichment_confidence": "Low"
+      },
+      "name": "enrichment_result",
+      "type": "tool_use"
+    }
+  ],
+  "model": "claude-sonnet-4-20250514",
+  "role": "assistant",
+  "stop_reason": "tool_use",
+  "stop_sequence": null,
+  "type": "message",
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0,
+    "input_tokens": 1639,
+    "output_tokens": 221,
+    "server_tool_use": null,
+    "service_tier": "standard"
+  }
+}

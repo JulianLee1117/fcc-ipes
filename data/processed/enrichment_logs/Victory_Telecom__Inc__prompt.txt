@@ -1,0 +1,137 @@
+You are analyzing an IPES (Interconnected VoIP Provider) company that filed for numbering authorization with the FCC.
+
+Based ONLY on the evidence provided below, determine:
+1. Whether the company is likely still active
+2. Their industry segment (UCaaS, CCaaS, CPaaS, Carrier, Reseller, Enterprise IT, or Other)
+3. A brief product summary
+4. Their market position (Enterprise, Mid-Market, SMB, Startup, or Unknown)
+5. Your confidence level based on evidence quality
+
+EVIDENCE PACK:
+{
+  "company_name": "Victory Telecom, Inc.",
+  "aliases": [
+    "Victory Telecom, Inc."
+  ],
+  "fcc_filing": {
+    "first_filing_date": "2020-08-28",
+    "latest_filing_date": "2020-08-28",
+    "total_filings": 2,
+    "docket_numbers": [
+      "20-130",
+      "21-235"
+    ],
+    "proceeding_types": [
+      "Interconnected VoIP Numbering Authorization Application Filed  By Ooma, Inc Pursuant To Section 52.15(g)(3) Of The Commission's Rules",
+      "Interconnected VoIP Numbering Authorization Application Filed By Victory Telecom, Inc. Pursuant To Section 52.15(g)(3) Of The Commission's Rules"
+    ],
+    "has_supplements": false,
+    "recent_activity": false
+  },
+  "parsed_from_docs": {
+    "address": "AT&T Address: Initial Deposit Amount Required:",
+    "city": null,
+    "state": null,
+    "zip_code": null,
+    "phone": "7702329200",
+    "email": "info@telecomcounsel.com",
+    "key_personnel": [
+      {
+        "name": "Chief Financial Officer",
+        "title": "John received"
+      },
+      {
+        "name": "of Sales",
+        "title": "President"
+      },
+      {
+        "name": "of Sales",
+        "title": "President"
+      },
+      {
+        "name": "of Operations",
+        "title": "President"
+      },
+      {
+        "name": "of Operations",
+        "title": "President"
+      },
+      {
+        "name": "and Richard",
+        "title": "President"
+      },
+      {
+        "name": "CUSTOMER Address",
+        "title": "CEO"
+      },
+      {
+        "name": "Chief Financial Officer",
+        "title": "John received"
+      },
+      {
+        "name": "of Sales",
+        "title": "President"
+      },
+      {
+        "name": "of Sales",
+        "title": "President"
+      },
+      {
+        "name": "of Operations",
+        "title": "President"
+      },
+      {
+        "name": "of Operations",
+        "title": "President"
+      },
+      {
+        "name": "and Richard",
+        "title": "President"
+      },
+      {
+        "name": "CUSTOMER Address",
+        "title": "CEO"
+      }
+    ],
+    "founding_date": "2011",
+    "service_description": "provide interconnected VoIP services, initially in Colorado."
+  },
+  "web_search_results": [
+    {
+      "title": "About Us - Dallas, Austin, Fort Worth | Victory Cloud Solutions",
+      "url": "https://www.victoryc.com/about-us/",
+      "snippet": "Whether you\u2019re looking for smart cloud storage, expanded mobile access points, secure data backup, or competitive rates on call center services, Victory Telecom , Inc . evaluates your needs and provides the customized solution that works for your business."
+    },
+    {
+      "title": "Victory Telecom - Crunchbase Company Profile & Funding FCC Form 499 Filer Database Detailed Information Victory Telecom, Inc. Company Profile | Chelsea, MA ... VICTORY TELECOM, INC. - bestcompanytexas.com VICTORY TELECOM, INC. in Mansfield, TX | Company Info & Reviews Victory Telecom - Overview, News & Similar companies ...",
+      "url": "https://www.crunchbase.com/organization/victory-telecom",
+      "snippet": "Victory Telecom offers dealer technologies, PBX call center, VoIP solutions virtualized servers, virtualized desktops, backup and disaster recovery, network security, office 365, logistics services, long distance, toll-free, LCR and internet. Apr 1, 2021 \u00b7 FCC site map . 499 Filer ID Number: 826388 Registration Current as of: Apr 1 2021 12:00AM Legal Name of Reporting Entity: Victory Telecom , Inc . Doing Business As: Victory Telecom , Inc . Principal Communications Type: Interconnected VoIP Universal Service Fund Contributor: Yes (Contact USAC at 888-641-8722 if this is not correct.) Find company research, competitor information, contact details & financial data for Victory Telecom , Inc . of Chelsea, MA. Get the latest business insights from Dun & Bradstreet. Information about VICTORY TELECOM , INC . - Arlington. Check VICTORY TELECOM , INC . contact data, address, mailing address, company on map, GPS Coordinates, reviews, company agent, similar companies etc. 3 days ago \u00b7 Discover Company Info on VICTORY TELECOM , INC . in Mansfield, TX, such as Contacts, Addresses, Reviews, and Registered Agent. Who is Victory Telecom Victory Telecom Inc is a company that operates in the Telecommunications industry. It employs 6-10 people and has $1M-$5M of revenue. The company is headquartered in Dallas, Texas. Read More Victory Telecom 's Social Media"
+    },
+    {
+      "title": "Victory Telecom, Inc. Company Profile | Chelsea, MA ... VICTORY TELECOM, INC. - bestcompanytexas.com VICTORY TELECOM, INC. in Mansfield, TX | Company Info & Reviews Victory Telecom - Overview, News & Similar companies ...",
+      "url": "https://www.dnb.com/business-directory/company-profiles.victory_telecom_inc.79c5a21915bf340692d967338fb0e438.html",
+      "snippet": "Find company research, competitor information, contact details & financial data for Victory Telecom , Inc . of Chelsea, MA. Get the latest business insights from Dun & Bradstreet. Information about VICTORY TELECOM , INC . - Arlington. Check VICTORY TELECOM , INC . contact data, address, mailing address, company on map, GPS Coordinates, reviews, company agent, similar companies etc. 3 days ago \u00b7 Discover Company Info on VICTORY TELECOM , INC . in Mansfield, TX, such as Contacts, Addresses, Reviews, and Registered Agent. Who is Victory Telecom Victory Telecom Inc is a company that operates in the Telecommunications industry. It employs 6-10 people and has $1M-$5M of revenue. The company is headquartered in Dallas, Texas. Read More Victory Telecom 's Social Media"
+    },
+    {
+      "title": "VICTORY TELECOM, INC. - bestcompanytexas.com",
+      "url": "https://bestcompanytexas.com/company/32012158583/victory-telecom-inc.html",
+      "snippet": "Information about VICTORY TELECOM , INC . - Arlington. Check VICTORY TELECOM , INC . contact data, address, mailing address, company on map, GPS Coordinates, reviews, company agent, similar companies etc."
+    },
+    {
+      "title": "VICTORY TELECOM, INC. in Mansfield, TX | Company Info & Reviews",
+      "url": "https://www.bizapedia.com/tx/victory-telecom-inc.html",
+      "snippet": "3 days ago \u00b7 Discover Company Info on VICTORY TELECOM , INC . in Mansfield, TX, such as Contacts, Addresses, Reviews, and Registered Agent."
+    }
+  ]
+}
+
+RULES:
+- Ground ALL assessments in the provided evidence
+- Cite specific sources in activity_signal (e.g., "Recent FCC filing (2024)", "Company website found via search")
+- Use "Unknown" when evidence is insufficient - DO NOT hallucinate
+- Confidence levels:
+  - High = Multiple confirming signals (recent web presence + recent filings + company details)
+  - Medium = Some signals but incomplete picture
+  - Low = FCC data only, no external confirmation
+
+Call the enrichment_result function with your analysis.

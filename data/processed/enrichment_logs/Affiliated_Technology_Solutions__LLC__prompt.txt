@@ -1,0 +1,79 @@
+You are analyzing an IPES (Interconnected VoIP Provider) company that filed for numbering authorization with the FCC.
+
+Based ONLY on the evidence provided below, determine:
+1. Whether the company is likely still active
+2. Their industry segment (UCaaS, CCaaS, CPaaS, Carrier, Reseller, Enterprise IT, or Other)
+3. A brief product summary
+4. Their market position (Enterprise, Mid-Market, SMB, Startup, or Unknown)
+5. Your confidence level based on evidence quality
+
+EVIDENCE PACK:
+{
+  "company_name": "Affiliated Technology Solutions, LLC.",
+  "aliases": [
+    "Affiliated Technology Solutions, LLC",
+    "Affiliated Technology Solutions, LLC."
+  ],
+  "fcc_filing": {
+    "first_filing_date": "2021-03-05",
+    "latest_filing_date": "2021-03-05",
+    "total_filings": 3,
+    "docket_numbers": [
+      "21-81"
+    ],
+    "proceeding_types": [
+      "Interconnected VoIP Numbering Authorization Application Filed By Affiliated Technology Solutions, LLC Pursuant To Section 52.15(g)(3) Of The Commission's Rules"
+    ],
+    "has_supplements": true,
+    "recent_activity": false
+  },
+  "parsed_from_docs": {
+    "address": null,
+    "city": null,
+    "state": null,
+    "zip_code": null,
+    "phone": null,
+    "email": null,
+    "key_personnel": [],
+    "founding_date": null,
+    "service_description": null
+  },
+  "web_search_results": [
+    {
+      "title": "Affiliated Technology Solutions , LLC | Customer Interface",
+      "url": "https://dialer.atscall.me/",
+      "snippet": "Powered by Affiliated Technology Solutions , LLC ."
+    },
+    {
+      "title": "Affiliated Technology Solutions - Edison - (732) 225-3099",
+      "url": "https://lv.cybo.com/US-biz/affiliated-technology-solutions_1n",
+      "snippet": "Affiliated Technology Solutions Edison pasta indekss 08817. Skatiet 10 soci\u0101l\u0101s lapas, ieskaitot Facebook un Twitter, Stundas, T\u0101lrunis, Faksi, Epasts un s\u012bk\u0101ku inform\u0101ciju par \u0161o biznesu."
+    },
+    {
+      "title": "AffiliatedTech.com - AboutUs",
+      "url": "https://aboutus.com/AffiliatedTech.com",
+      "snippet": "Title. Affiliated Technology Solutions , LLC : Providing Technology Solutions for Businesses since 1986; Edison, NJ. Description. Excerpted from the website"
+    },
+    {
+      "title": "Affiliated Technology Solutions , LLC Agile Business... | Glassdoor",
+      "url": "https://www.glassdoor.com/job-listing/agile-business-project-analyst-affiliated-technology-solutions-JV_KO0,30_KE31,62.htm?jl=1008915605166",
+      "snippet": "Affiliated Technology Solutions , LLC is now hiring a Agile Business Project Analyst in Remote. View job listing details and apply now."
+    },
+    {
+      "title": "David A. Pereira - Technical Manager - Affiliated Technology ...",
+      "url": "https://www.linkedin.com/in/david-a-pereira-2b127413",
+      "snippet": "David A. Pereira. Technical Manager at Affiliated Technology Solutions , LLC . Edison, New Jersey, United States. 108 followers 105 connections."
+    }
+  ]
+}
+
+RULES:
+- Ground ALL assessments in the provided evidence
+- Cite specific sources in activity_signal (e.g., "Recent FCC filing (2024)", "Company website found via search")
+- Use "Unknown" when evidence is insufficient - DO NOT hallucinate
+- Confidence levels:
+  - High = Multiple confirming signals (recent web presence + recent filings + company details)
+  - Medium = Some signals but incomplete picture
+  - Low = FCC data only, no external confirmation
+
+Call the enrichment_result function with your analysis.

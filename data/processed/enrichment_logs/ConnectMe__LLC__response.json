@@ -1,0 +1,35 @@
+{
+  "id": "msg_01RCnjKscb2C5XKzHxxFKVXa",
+  "content": [
+    {
+      "id": "toolu_01CZSCBQR2P6LrQCaQm5bz7g",
+      "input": {
+        "is_active": true,
+        "activity_signal": "Multiple web search results from 2025 show active business profiles on BBB, Salary.com, and Bizapedia. LinkedIn company page exists for ConnectMeVoice. However, FCC filing activity was limited to 2021 with no recent regulatory filings.",
+        "industry_segment": "UCaaS",
+        "product_summary": "ConnectMeVoice provides channel-centric hosted VoIP and unified communications solutions, supporting managed services firms, telecommunications providers, and small businesses with flexible hosted VoIP plans.",
+        "market_position": "SMB",
+        "enrichment_confidence": "Medium"
+      },
+      "name": "enrichment_result",
+      "type": "tool_use"
+    }
+  ],
+  "model": "claude-sonnet-4-20250514",
+  "role": "assistant",
+  "stop_reason": "tool_use",
+  "stop_sequence": null,
+  "type": "message",
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0,
+    "input_tokens": 1774,
+    "output_tokens": 231,
+    "server_tool_use": null,
+    "service_tier": "standard"
+  }
+}

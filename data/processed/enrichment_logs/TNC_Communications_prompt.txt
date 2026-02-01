@@ -1,0 +1,95 @@
+You are analyzing an IPES (Interconnected VoIP Provider) company that filed for numbering authorization with the FCC.
+
+Based ONLY on the evidence provided below, determine:
+1. Whether the company is likely still active
+2. Their industry segment (UCaaS, CCaaS, CPaaS, Carrier, Reseller, Enterprise IT, or Other)
+3. A brief product summary
+4. Their market position (Enterprise, Mid-Market, SMB, Startup, or Unknown)
+5. Your confidence level based on evidence quality
+
+EVIDENCE PACK:
+{
+  "company_name": "TNC Communications",
+  "aliases": [
+    "TNC Communications"
+  ],
+  "fcc_filing": {
+    "first_filing_date": "2020-07-09",
+    "latest_filing_date": "2020-07-09",
+    "total_filings": 2,
+    "docket_numbers": [
+      "20-231"
+    ],
+    "proceeding_types": [
+      "Interconnected VoIP Numbering Authorization Application Filed By TNC Communications, Inc. Pursuant To Section 52.15(g)(3) Of The Commission's Rules"
+    ],
+    "has_supplements": true,
+    "recent_activity": false
+  },
+  "parsed_from_docs": {
+    "address": "624 Holly Springs Road, Suite 409",
+    "city": null,
+    "state": null,
+    "zip_code": null,
+    "phone": "9192755172",
+    "email": null,
+    "key_personnel": [
+      {
+        "name": "Chief Executive Officer",
+        "title": "Addam Holdorf"
+      },
+      {
+        "name": "of Operations",
+        "title": "President"
+      },
+      {
+        "name": "for TNC",
+        "title": "CEO"
+      },
+      {
+        "name": "of TNC",
+        "title": "CEO"
+      }
+    ],
+    "founding_date": null,
+    "service_description": null
+  },
+  "web_search_results": [
+    {
+      "title": "AX.25 - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/AX.25",
+      "snippet": "AX.25 is often used with a TNC that implements the KISS[7] framing as a low-cost alternative to using expensive and uncommon HDLC controller cards. The KISS framing is not part of the AX.25 protocol itself nor is it sent over the air."
+    },
+    {
+      "title": "TNC Communications \u2013 Your Technology Solutions Provider!",
+      "url": "https://site.tncconnected.com/",
+      "snippet": "TNC Communications provides a turnkey experience under one roof with our industry leading products for properties and markets of all shapes and sizes. TNC provides the highest level in entertainment television, internet and VoIP , Security..."
+    },
+    {
+      "title": "TNC Communications (@TNC_Comm) / Twitter",
+      "url": "https://twitter.com/tnc_comm",
+      "snippet": "Get the Best in HD and Sports for your house and Business from TNC and DIRECTV! Ask us about great internet and mobility offers for your house and business too! TNC Communications \u2019s Tweets. Pinned Tweet."
+    },
+    {
+      "title": "TNC Communications | LinkedIn",
+      "url": "https://www.linkedin.com/company/tnc-communications",
+      "snippet": "TNC Communications . Telecommunications . TNC Communications provides Single-Source solutions in Television, Internet , Phone, and Managed IT Services for the residential, commercial, free-to-guest, and multi-family markets."
+    },
+    {
+      "title": "AS396855 - TNC COMMUNICATIONS - PeeringDB",
+      "url": "https://www.peeringdb.com/asn/396855",
+      "snippet": "Organization. Tnc communications , inc. Also Known As. TNC Communications . Long Name."
+    }
+  ]
+}
+
+RULES:
+- Ground ALL assessments in the provided evidence
+- Cite specific sources in activity_signal (e.g., "Recent FCC filing (2024)", "Company website found via search")
+- Use "Unknown" when evidence is insufficient - DO NOT hallucinate
+- Confidence levels:
+  - High = Multiple confirming signals (recent web presence + recent filings + company details)
+  - Medium = Some signals but incomplete picture
+  - Low = FCC data only, no external confirmation
+
+Call the enrichment_result function with your analysis.

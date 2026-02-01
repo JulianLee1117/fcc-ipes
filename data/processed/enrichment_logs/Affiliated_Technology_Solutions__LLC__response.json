@@ -1,0 +1,35 @@
+{
+  "id": "msg_016LVLH7kmVgw2PyW2x398Fm",
+  "content": [
+    {
+      "id": "toolu_01UtUf74yCiqqnL4p5HJFfqC",
+      "input": {
+        "is_active": true,
+        "activity_signal": "Active web presence via company dialer platform at dialer.atscall.me, LinkedIn profile showing current Technical Manager David A. Pereira, recent Glassdoor job posting for Agile Business Project Analyst position, and business listing on Cybo indicating current operations in Edison, NJ",
+        "industry_segment": "Enterprise IT",
+        "product_summary": "Technology solutions provider operating since 1986 with VoIP capabilities, offering business technology solutions including what appears to be dialer/calling platform services based on their web presence.",
+        "market_position": "SMB",
+        "enrichment_confidence": "Medium"
+      },
+      "name": "enrichment_result",
+      "type": "tool_use"
+    }
+  ],
+  "model": "claude-sonnet-4-20250514",
+  "role": "assistant",
+  "stop_reason": "tool_use",
+  "stop_sequence": null,
+  "type": "message",
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0,
+    "input_tokens": 1686,
+    "output_tokens": 229,
+    "server_tool_use": null,
+    "service_tier": "standard"
+  }
+}

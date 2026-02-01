@@ -1,0 +1,167 @@
+You are analyzing an IPES (Interconnected VoIP Provider) company that filed for numbering authorization with the FCC.
+
+Based ONLY on the evidence provided below, determine:
+1. Whether the company is likely still active
+2. Their industry segment (UCaaS, CCaaS, CPaaS, Carrier, Reseller, Enterprise IT, or Other)
+3. A brief product summary
+4. Their market position (Enterprise, Mid-Market, SMB, Startup, or Unknown)
+5. Your confidence level based on evidence quality
+
+EVIDENCE PACK:
+{
+  "company_name": "RCLEC, Inc.",
+  "aliases": [
+    "RCLEC, Inc."
+  ],
+  "fcc_filing": {
+    "first_filing_date": "2017-08-28",
+    "latest_filing_date": "2017-08-28",
+    "total_filings": 2,
+    "docket_numbers": [
+      "17-271"
+    ],
+    "proceeding_types": [
+      "INTERCONNECTED VOIP NUMBERING AUTHORIZATION APPLICATION FILED BY RCLEC, INC. PURSUANT TO SECTION 52.15(g)(3) OF THE COMMISSION&#146;S RULES"
+    ],
+    "has_supplements": false,
+    "recent_activity": false
+  },
+  "parsed_from_docs": {
+    "address": "20 Davis Drive, Belmont, CA 94002",
+    "city": null,
+    "state": null,
+    "zip_code": null,
+    "phone": "4159644933",
+    "email": "rachel.petty@ringcentral.com",
+    "key_personnel": [
+      {
+        "name": "Chief Executive Officer",
+        "title": "of RCLEC"
+      },
+      {
+        "name": "Chief Executive Officer",
+        "title": "of RCLEC"
+      },
+      {
+        "name": "of\nCorporate",
+        "title": "President"
+      },
+      {
+        "name": "Chief Executive Officer",
+        "title": "of RCLEC"
+      },
+      {
+        "name": "of Broadvox",
+        "title": "President"
+      },
+      {
+        "name": "of Business",
+        "title": "President"
+      },
+      {
+        "name": "ofCedar Valley",
+        "title": "President"
+      },
+      {
+        "name": "ofJTek Systems",
+        "title": "President"
+      },
+      {
+        "name": "Chief\nOperating Officer",
+        "title": "of TotalTel"
+      },
+      {
+        "name": "of\nOperations",
+        "title": "President"
+      },
+      {
+        "name": "ofCenter Operations",
+        "title": "President"
+      },
+      {
+        "name": "Chief Executive Officer",
+        "title": "of RCLEC"
+      },
+      {
+        "name": "Chief Executive Officer",
+        "title": "of RCLEC"
+      },
+      {
+        "name": "of\nCorporate",
+        "title": "President"
+      },
+      {
+        "name": "Chief Executive Officer",
+        "title": "of RCLEC"
+      },
+      {
+        "name": "of Broadvox",
+        "title": "President"
+      },
+      {
+        "name": "of Business",
+        "title": "President"
+      },
+      {
+        "name": "ofCedar Valley",
+        "title": "President"
+      },
+      {
+        "name": "ofJTek Systems",
+        "title": "President"
+      },
+      {
+        "name": "Chief\nOperating Officer",
+        "title": "of TotalTel"
+      },
+      {
+        "name": "of\nOperations",
+        "title": "President"
+      },
+      {
+        "name": "ofCenter Operations",
+        "title": "President"
+      }
+    ],
+    "founding_date": null,
+    "service_description": null
+  },
+  "web_search_results": [
+    {
+      "title": "616 Area Code Phone Numbers | Historiann Reverse Phone Lookup",
+      "url": "https://historiann.com/phone-search/616",
+      "snippet": "123.Net Inc , Acd Telecom, Bandwidth.com, Centurylink, Charter Fiberlink, Long Distance Of Michigan, Telnet Worldwide, Twilio International"
+    },
+    {
+      "title": "Candy Galloway Found - Phone Numbers, Addresses & Possible",
+      "url": "https://www.ussearch.com/people-search/candy-galloway/",
+      "snippet": "Candy has been found in 14 states including Arkansas ... bellsouth telecommunications inc dba south central bell telephone (at&t southeast)"
+    },
+    {
+      "title": "The 469 Area Code in Texas: City Locations and Coverage Map",
+      "url": "https://expresslegalfunding.com/469-area-code/",
+      "snippet": "Telecommunication companies like Ooma that offer VOIP business phone numbers make the ability to have a Dallas local phone number a major selling ..."
+    },
+    {
+      "title": "Heidi Mcdougall Address, Phone number, Email Address, Public",
+      "url": "https://www.instantcheckmate.com/people/heidi-mcdougall/",
+      "snippet": "Uncover more about Heidi s career path, including roles like: minister of pastoral care at University Circle United Methodist Church; Certified Grief ..."
+    },
+    {
+      "title": "BOSTON,MA, ZIP Code 02111 - Database - BOSTON Massachusetts MA",
+      "url": "https://www.area-codes.com/zip-code/zip-code-02111.asp",
+      "snippet": "Only online source to include ZIP Code info, provider company listings, and landline ... Includes inputs from the major telecommunications providers."
+    }
+  ]
+}
+
+RULES:
+- Ground ALL assessments in the provided evidence
+- Cite specific sources in activity_signal (e.g., "Recent FCC filing (2024)", "Company website found via search")
+- Use "Unknown" when evidence is insufficient - DO NOT hallucinate
+- Confidence levels:
+  - High = Multiple confirming signals (recent web presence + recent filings + company details)
+  - Medium = Some signals but incomplete picture
+  - Low = FCC data only, no external confirmation
+
+Call the enrichment_result function with your analysis.

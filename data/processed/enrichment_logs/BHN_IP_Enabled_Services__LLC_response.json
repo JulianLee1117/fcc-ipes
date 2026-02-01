@@ -1,0 +1,35 @@
+{
+  "id": "msg_01Ve956W4HgP9RdwPrtWCjK4",
+  "content": [
+    {
+      "id": "toolu_01HDY8bVseXt1bP3QSq9c2So",
+      "input": {
+        "is_active": true,
+        "activity_signal": "Recent FCC filing (March 14, 2024) for VoIP numbering authorization; California CPUC application filed February 28, 2025 for telecommunications certificate; Indiana regulatory filing (September 24, 2024) for Certificate of Territorial Authority; Multiple recent regulatory filings across jurisdictions indicate active business operations",
+        "industry_segment": "Carrier",
+        "product_summary": "BHN IP Enabled Services provides interconnected Voice over Internet Protocol (VoIP) services and telecommunications services, seeking regulatory authorization to obtain telephone numbers directly and provide communications services across multiple states.",
+        "market_position": "Unknown",
+        "enrichment_confidence": "Medium"
+      },
+      "name": "enrichment_result",
+      "type": "tool_use"
+    }
+  ],
+  "model": "claude-sonnet-4-20250514",
+  "role": "assistant",
+  "stop_reason": "tool_use",
+  "stop_sequence": null,
+  "type": "message",
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0,
+    "input_tokens": 1973,
+    "output_tokens": 239,
+    "server_tool_use": null,
+    "service_tier": "standard"
+  }
+}

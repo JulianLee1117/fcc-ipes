@@ -1,0 +1,35 @@
+{
+  "id": "msg_01V7U7jna6UHnhXaXTRAmwzu",
+  "content": [
+    {
+      "id": "toolu_018zXWWAKMAFkHiDZVri1TqJ",
+      "input": {
+        "is_active": true,
+        "activity_signal": "Company website found via search (exiantcommunications.com) with multiple active pages including LNP operations and legal pages. Website describes \"seamless phone numbers and calling solutions\" and shows operational telecommunications services.",
+        "industry_segment": "Carrier",
+        "product_summary": "Exiant provides telecommunications solutions including phone numbers, calling services, and VoIP operations with LNP (Local Number Portability) capabilities for business customers.",
+        "market_position": "Unknown",
+        "enrichment_confidence": "Medium"
+      },
+      "name": "enrichment_result",
+      "type": "tool_use"
+    }
+  ],
+  "model": "claude-sonnet-4-20250514",
+  "role": "assistant",
+  "stop_reason": "tool_use",
+  "stop_sequence": null,
+  "type": "message",
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0,
+    "input_tokens": 1624,
+    "output_tokens": 206,
+    "server_tool_use": null,
+    "service_tier": "standard"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "msg_01VXh5tu8aVdJj52fEK8yDXM",
+  "content": [
+    {
+      "id": "toolu_01PCu74e2xhWeBLb1LdrqMrM",
+      "input": {
+        "is_active": true,
+        "activity_signal": "Recent FCC VoIP numbering authorization filing (2023-09-29). Active mobile app \"VoIP Business\" on Google Play Store with 500+ downloads, developed by Arif Gul. LinkedIn profile shows VoIP expertise with SIP and CCIE certification.",
+        "industry_segment": "UCaaS",
+        "product_summary": "Develops VoIP Business mobile application that provides high-quality audio and video calls for business communication needs.",
+        "market_position": "SMB",
+        "enrichment_confidence": "Medium"
+      },
+      "name": "enrichment_result",
+      "type": "tool_use"
+    }
+  ],
+  "model": "claude-sonnet-4-20250514",
+  "role": "assistant",
+  "stop_reason": "tool_use",
+  "stop_sequence": null,
+  "type": "message",
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0,
+    "input_tokens": 1704,
+    "output_tokens": 214,
+    "server_tool_use": null,
+    "service_tier": "standard"
+  }
+}

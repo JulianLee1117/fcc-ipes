@@ -1,0 +1,35 @@
+{
+  "id": "msg_01SnoHXsXDgDGEHKqBhuVBma",
+  "content": [
+    {
+      "id": "toolu_01MncysEvtxGCBuLJdbcyUeF",
+      "input": {
+        "is_active": true,
+        "activity_signal": "Company website (nobelbiz.com) found via search showing active business operations. LinkedIn profile indicates current operations with 44 employees and $8.5 million in revenue. Company describes itself as \"the only call center-focused telecom carrier in the industry\" and offers current services including VoIP carrier network and CCaaS solutions.",
+        "industry_segment": "CCaaS",
+        "product_summary": "NobelBiz provides voice carrier network services and cloud contact center solutions specifically for the contact center industry, offering caller ID management, routing, omnichannel platforms, and VoIP services.",
+        "market_position": "Mid-Market",
+        "enrichment_confidence": "High"
+      },
+      "name": "enrichment_result",
+      "type": "tool_use"
+    }
+  ],
+  "model": "claude-sonnet-4-20250514",
+  "role": "assistant",
+  "stop_reason": "tool_use",
+  "stop_sequence": null,
+  "type": "message",
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0,
+    "input_tokens": 2404,
+    "output_tokens": 242,
+    "server_tool_use": null,
+    "service_tier": "standard"
+  }
+}

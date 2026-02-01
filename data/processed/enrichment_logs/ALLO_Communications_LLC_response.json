@@ -1,0 +1,35 @@
+{
+  "id": "msg_01X82VR6dSyv5sbhSeo1wNrD",
+  "content": [
+    {
+      "id": "toolu_01WHR5PfLZ3FXCAgpyG4Ss2u",
+      "input": {
+        "is_active": true,
+        "activity_signal": "Recent FCC filing (2024-04-30) for interconnected VoIP numbering authorization. Active company website found (allocommunications.com) showing current services. Web search results indicate ongoing operations with fiber services across 50+ locations in multiple states (Nebraska, Colorado, Arizona, Missouri) serving over 1.4 million population. Company founded in 2003 with 20+ years of operations and received SDC Capital Partners investment in 2020.",
+        "industry_segment": "Carrier",
+        "product_summary": "ALLO Communications is a telecommunications company providing high-speed fiber internet, television, and phone services to residential and business customers across Nebraska, Colorado, Arizona, and Missouri, serving 53+ cities with 100% direct fiber infrastructure.",
+        "market_position": "Mid-Market",
+        "enrichment_confidence": "High"
+      },
+      "name": "enrichment_result",
+      "type": "tool_use"
+    }
+  ],
+  "model": "claude-sonnet-4-20250514",
+  "role": "assistant",
+  "stop_reason": "tool_use",
+  "stop_sequence": null,
+  "type": "message",
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0,
+    "input_tokens": 3265,
+    "output_tokens": 277,
+    "server_tool_use": null,
+    "service_tier": "standard"
+  }
+}

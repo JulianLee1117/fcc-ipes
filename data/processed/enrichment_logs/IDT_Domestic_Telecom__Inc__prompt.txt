@@ -1,0 +1,100 @@
+You are analyzing an IPES (Interconnected VoIP Provider) company that filed for numbering authorization with the FCC.
+
+Based ONLY on the evidence provided below, determine:
+1. Whether the company is likely still active
+2. Their industry segment (UCaaS, CCaaS, CPaaS, Carrier, Reseller, Enterprise IT, or Other)
+3. A brief product summary
+4. Their market position (Enterprise, Mid-Market, SMB, Startup, or Unknown)
+5. Your confidence level based on evidence quality
+
+EVIDENCE PACK:
+{
+  "company_name": "IDT Domestic Telecom, Inc.",
+  "aliases": [
+    "IDT Domestic Telecom, Inc.",
+    "IDT Domestic Telecom, inc."
+  ],
+  "fcc_filing": {
+    "first_filing_date": "2021-12-06",
+    "latest_filing_date": "2021-12-06",
+    "total_filings": 3,
+    "docket_numbers": [
+      "21-470"
+    ],
+    "proceeding_types": [
+      "Interconnected VoIP Numbering Authorization Application Filed By IDT Domestic Telecom, Inc. Pursuant To Section 52.15(g)(3) Of The Commission's Rules"
+    ],
+    "has_supplements": true,
+    "recent_activity": false
+  },
+  "parsed_from_docs": {
+    "address": "520 Broad Street",
+    "city": "Newark",
+    "state": "NE",
+    "zip_code": "07102",
+    "phone": "9734384854",
+    "email": null,
+    "key_personnel": [
+      {
+        "name": "Chief Executive Officer",
+        "title": "Bill Pereira"
+      },
+      {
+        "name": "David Wartell",
+        "title": "President"
+      },
+      {
+        "name": "Chief Technical Officer",
+        "title": "Marcelo Fischer"
+      },
+      {
+        "name": "Chief Financial Officer",
+        "title": "Yona Katz"
+      },
+      {
+        "name": "Chief Operating Officer",
+        "title": "Carl Billek"
+      }
+    ],
+    "founding_date": null,
+    "service_description": "providers to compromise IDT Domestic Telecom's position in the highly\ncompetitive interconnected VoiP business sector."
+  },
+  "web_search_results": [
+    {
+      "title": "IDT Express",
+      "url": "https://secure.idtexpress.com/terms_and_conditions",
+      "snippet": "IDT Domestic Telecom , Inc . ... The clauses below set forth the terms and conditions (\"Agreement\") upon which IDT Domestic Telecom , Inc ."
+    },
+    {
+      "title": "Guam Telecoms List 2025 | TeraCodes",
+      "url": "https://www.teracodes.com/telecoms/guam/",
+      "snippet": "List of all the telecom service providers operating in the state/region of Guam. ... Telecommunications Cooperative Network, Inc ."
+    },
+    {
+      "title": "American Samoa Telecoms List 2025 | TeraCodes",
+      "url": "https://www.teracodes.com/telecoms/american-samoa/",
+      "snippet": "List of all the telecom service providers operating in the state/region of American Samoa. ... IDT Domestic Telecom , Inc ."
+    },
+    {
+      "title": "IDT Corporation: Communications and Payments Services",
+      "url": "https://www.idt.net/",
+      "snippet": "After launching net2phone, IDT becomes recognized as a pioneer in VoIP as it evolves into the technology of choice for voice services."
+    },
+    {
+      "title": "IDT Privacy Policy - IDT Corp",
+      "url": "https://www.idt.net/privacy-policy/",
+      "snippet": "IDT Corporation, including its corporate affiliates (collectively \u201c IDT \u201d), is a global provider of various telecommunication , payment and other ..."
+    }
+  ]
+}
+
+RULES:
+- Ground ALL assessments in the provided evidence
+- Cite specific sources in activity_signal (e.g., "Recent FCC filing (2024)", "Company website found via search")
+- Use "Unknown" when evidence is insufficient - DO NOT hallucinate
+- Confidence levels:
+  - High = Multiple confirming signals (recent web presence + recent filings + company details)
+  - Medium = Some signals but incomplete picture
+  - Low = FCC data only, no external confirmation
+
+Call the enrichment_result function with your analysis.

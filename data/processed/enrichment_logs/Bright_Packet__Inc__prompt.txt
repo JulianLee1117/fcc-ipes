@@ -1,0 +1,87 @@
+You are analyzing an IPES (Interconnected VoIP Provider) company that filed for numbering authorization with the FCC.
+
+Based ONLY on the evidence provided below, determine:
+1. Whether the company is likely still active
+2. Their industry segment (UCaaS, CCaaS, CPaaS, Carrier, Reseller, Enterprise IT, or Other)
+3. A brief product summary
+4. Their market position (Enterprise, Mid-Market, SMB, Startup, or Unknown)
+5. Your confidence level based on evidence quality
+
+EVIDENCE PACK:
+{
+  "company_name": "Bright Packet, Inc.",
+  "aliases": [
+    "Bright Packet, Inc."
+  ],
+  "fcc_filing": {
+    "first_filing_date": "2018-09-25",
+    "latest_filing_date": "2018-09-25",
+    "total_filings": 1,
+    "docket_numbers": [
+      "18-299"
+    ],
+    "proceeding_types": [
+      "INTERCONNECTED VOIP NUMBERING AUTHORIZATION APPLICATION FILED BY BRIGHT PACKET, INC. PURSUANT TO SECTION 52.15(g)(3) OF THE COMMISSION'S RULES"
+    ],
+    "has_supplements": false,
+    "recent_activity": false
+  },
+  "parsed_from_docs": {
+    "address": "800 S. Hope St., Ste 120",
+    "city": null,
+    "state": null,
+    "zip_code": null,
+    "phone": "2132260848",
+    "email": "jong@brightpacket.com",
+    "key_personnel": [
+      {
+        "name": "Chief Operating Officer",
+        "title": "and the"
+      },
+      {
+        "name": "and Deputy",
+        "title": "President"
+      }
+    ],
+    "founding_date": "2010",
+    "service_description": null
+  },
+  "web_search_results": [
+    {
+      "title": "Bright Packet",
+      "url": "http://www.brightpacket.com/",
+      "snippet": "Bright Packet is a telecommunications provider that offers high-quality and flexible IP communication services. Our broad range of exceptional offerings includes voice services, network services, and cloud services."
+    },
+    {
+      "title": "Bright Packet 2025 Company Profile: Valuation, Funding ...",
+      "url": "https://pitchbook.com/profiles/company/455603-59",
+      "snippet": "Information on valuation, funding, cap tables, investors, and executives for Bright Packet . Use the PitchBook Platform to explore the full profile."
+    },
+    {
+      "title": "Bright Packet | BBB Business Profile | Better Business Bureau",
+      "url": "https://www.bbb.org/us/ca/buena-park/profile/telecommunications/bright-packet-1126-1000057219",
+      "snippet": "Telecommunications in Buena Park, CA. See BBB rating, reviews, complaints, and more."
+    },
+    {
+      "title": "Bright Packet, Inc. Company Profile | Artesia, CA ... Bright Packet, Inc. Details PUBLIC NOTICE - docs.fcc.gov Bright Packet, Inc. FCC Filings",
+      "url": "https://www.dnb.com/business-directory/company-profiles.bright_packet_inc.8bb39c67cb0a366509080f7a4f1402ba.html",
+      "snippet": "Find company research, competitor information, contact details & financial data for Bright Packet , Inc . of Artesia, CA. Get the latest business insights from Dun & Bradstreet. The company specializes in telecommunications and internet infrastructure services for federal government agencies, primarily focusing on providing local telecommunications , internet, Wi-Fi, and voice services to military and defense installations. In its application, Bright Packet , an interconnected Voice over Internet Protocol ( VoIP ) provider, included the contact information and acknowledgements required by section 52.15(g)(3)(i) of the Commission\u2019s rules.5 In addition, Bright Packet provided evidence that it will be capable of providing service within 60 days of the numbering ... This page includes all of Bright Packet , Inc . FCC ID, IBFS, and ELS filed by Bright Packet , Inc .."
+    },
+    {
+      "title": "Bright Packet, Inc. Details",
+      "url": "https://govtribe.com/vendors/bright-packet-inc-dot",
+      "snippet": "The company specializes in telecommunications and internet infrastructure services for federal government agencies, primarily focusing on providing local telecommunications , internet, Wi-Fi, and voice services to military and defense installations."
+    }
+  ]
+}
+
+RULES:
+- Ground ALL assessments in the provided evidence
+- Cite specific sources in activity_signal (e.g., "Recent FCC filing (2024)", "Company website found via search")
+- Use "Unknown" when evidence is insufficient - DO NOT hallucinate
+- Confidence levels:
+  - High = Multiple confirming signals (recent web presence + recent filings + company details)
+  - Medium = Some signals but incomplete picture
+  - Low = FCC data only, no external confirmation
+
+Call the enrichment_result function with your analysis.

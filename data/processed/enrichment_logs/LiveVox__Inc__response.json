@@ -1,0 +1,35 @@
+{
+  "id": "msg_01KBny3NA2og2mFAG7zuxcjr",
+  "content": [
+    {
+      "id": "toolu_012cizQZZDd7iAAkdKZhabpm",
+      "input": {
+        "is_active": false,
+        "activity_signal": "NICE acquired LiveVox in 2023 (Business Wire article from Oct 4, 2023 stating \"NICE has entered a definitive agreement to acquire LiveVox\"). Web search results indicate \"Upon completion of the transaction, LiveVox will no longer be publicly listed or traded on Nasdaq\" and that the transaction was \"expected to be cash flow positive...during 2024\", suggesting the acquisition completed. No recent FCC activity (last filing 2020-10-26) or independent company operations evident.",
+        "industry_segment": "CCaaS",
+        "product_summary": "LiveVox was a cloud-based contact-center-as-a-service (CCaaS) platform providing omnichannel customer engagement, CRM integrations, agent scheduling, and workforce management solutions to enterprises, business process outsourcers, and collections agencies.",
+        "market_position": "Enterprise",
+        "enrichment_confidence": "High"
+      },
+      "name": "enrichment_result",
+      "type": "tool_use"
+    }
+  ],
+  "model": "claude-sonnet-4-20250514",
+  "role": "assistant",
+  "stop_reason": "tool_use",
+  "stop_sequence": null,
+  "type": "message",
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0,
+    "input_tokens": 3155,
+    "output_tokens": 296,
+    "server_tool_use": null,
+    "service_tier": "standard"
+  }
+}

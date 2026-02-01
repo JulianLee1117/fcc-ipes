@@ -1,0 +1,78 @@
+You are analyzing an IPES (Interconnected VoIP Provider) company that filed for numbering authorization with the FCC.
+
+Based ONLY on the evidence provided below, determine:
+1. Whether the company is likely still active
+2. Their industry segment (UCaaS, CCaaS, CPaaS, Carrier, Reseller, Enterprise IT, or Other)
+3. A brief product summary
+4. Their market position (Enterprise, Mid-Market, SMB, Startup, or Unknown)
+5. Your confidence level based on evidence quality
+
+EVIDENCE PACK:
+{
+  "company_name": "MASH Telecom Inc.",
+  "aliases": [
+    "MASH Telecom Inc."
+  ],
+  "fcc_filing": {
+    "first_filing_date": "2021-02-23",
+    "latest_filing_date": "2021-02-23",
+    "total_filings": 1,
+    "docket_numbers": [
+      "21-65"
+    ],
+    "proceeding_types": [
+      "Interconnected VoIP Numbering Authorization Application Filed By MASH Telecom Inc. Pursuant To Section 52.15(g)(3) Of The Commission's Rules"
+    ],
+    "has_supplements": false,
+    "recent_activity": false
+  },
+  "parsed_from_docs": {
+    "address": "1085 Rue Smith, Suite 1005",
+    "city": "Montreal",
+    "state": null,
+    "zip_code": null,
+    "phone": null,
+    "email": null,
+    "key_personnel": [],
+    "founding_date": null,
+    "service_description": "provide interconnected VoiP services initially in the state of Texas."
+  },
+  "web_search_results": [
+    {
+      "title": "MASH TELECOM INC . - 9998039 - Kan\u0101da Feder\u0101lie uz\u0146\u0113mumi",
+      "url": "https://b2bhint.com/lv/company/ca-fd/mash-telecom-inc--9998039",
+      "snippet": "MASH TELECOM INC . undefined uz\u0146\u0113mums, Uz\u0146\u0113muma numurs: 9998039, Dibin\u0101\u0161anas datums Nov 25, 2016;, Adrese: 4538, RUE DE LORIMIER, MONTR\u00c9AL, Quebec, H2H 2B5, Canada."
+    },
+    {
+      "title": "MASH Telecom | IT & Communications Services | Montreal Quebec",
+      "url": "https://www.mashtelecom.com/",
+      "snippet": "MASH Telecom provides IT & communication services at an enterprise level. From Cisco solutions to all inclusive data sets see how MASH Telecom can help you today!"
+    },
+    {
+      "title": "Mash Telecom Inc Company Profile | Montr\u00e9al, QUEBEC ... Notice of Interconnected VoIP Numbering Authorization Granted Enterprise VoIP Phone Systems | Business Services | MASH Telecom About MASH Telecom | Enterprise IT Professionals | Montreal ... Contact MASH Telecom | Communications & IT Solutions ...",
+      "url": "https://www.dnb.com/business-directory/company-profiles.mash_telecom_inc.033be0f6bd5c1091ad5470f5bac266ea.html",
+      "snippet": "Find company research, competitor information, contact details & financial data for Mash Telecom Inc of Montr\u00e9al, QUEBEC. Get the latest business insights from Dun & Bradstreet. Aug 10, 2023 \u00b7 Full Title: Notice of Interconnected VoIP Numbering Authorization Granted to MASH Telecom , Inc . Document Type: Public Notice Bureau (s): Wireline Competition Description Notice of Interconnected VoIP Numbering Authorization Granted DA/FCC #: DA-23-676 Docket No: 21-65 FCC Record Citation: 38 FCC Rcd 7273 (9) FCC Record: DA-23-676A1_Rcd.pdf Ready to work with MASH Telecom ? Curious as to what VoIP phone system is best for your enterprise sized business? If so, MASH Telecom can work with you to determine what is necessary. Call today! MASH Telecom is the only deliverability-centric IT and telecom solutions provider that specializes in performance-based routing, predictive routing, and fraud prevention, solving the resource and reliability challenges associated with contact centers, VOIP , and unified communications. Looking for seasoned IT professionals to help configure Cisco products or set up VoIP phone systems for your enterprise business? If so, contact MASH Telecom today!"
+    },
+    {
+      "title": "Notice of Interconnected VoIP Numbering Authorization Granted",
+      "url": "https://www.fcc.gov/document/notice-interconnected-voip-numbering-authorization-granted-99",
+      "snippet": "Aug 10, 2023 \u00b7 Full Title: Notice of Interconnected VoIP Numbering Authorization Granted to MASH Telecom , Inc . Document Type: Public Notice Bureau (s): Wireline Competition Description Notice of Interconnected VoIP Numbering Authorization Granted DA/FCC #: DA-23-676 Docket No: 21-65 FCC Record Citation: 38 FCC Rcd 7273 (9) FCC Record: DA-23-676A1_Rcd.pdf"
+    },
+    {
+      "title": "Enterprise VoIP Phone Systems | Business Services | MASH Telecom",
+      "url": "https://www.mashtelecom.com/business-services",
+      "snippet": "Ready to work with MASH Telecom ? Curious as to what VoIP phone system is best for your enterprise sized business? If so, MASH Telecom can work with you to determine what is necessary. Call today!"
+    }
+  ]
+}
+
+RULES:
+- Ground ALL assessments in the provided evidence
+- Cite specific sources in activity_signal (e.g., "Recent FCC filing (2024)", "Company website found via search")
+- Use "Unknown" when evidence is insufficient - DO NOT hallucinate
+- Confidence levels:
+  - High = Multiple confirming signals (recent web presence + recent filings + company details)
+  - Medium = Some signals but incomplete picture
+  - Low = FCC data only, no external confirmation
+
+Call the enrichment_result function with your analysis.

@@ -1,0 +1,78 @@
+You are analyzing an IPES (Interconnected VoIP Provider) company that filed for numbering authorization with the FCC.
+
+Based ONLY on the evidence provided below, determine:
+1. Whether the company is likely still active
+2. Their industry segment (UCaaS, CCaaS, CPaaS, Carrier, Reseller, Enterprise IT, or Other)
+3. A brief product summary
+4. Their market position (Enterprise, Mid-Market, SMB, Startup, or Unknown)
+5. Your confidence level based on evidence quality
+
+EVIDENCE PACK:
+{
+  "company_name": "GetGo Communications LLC",
+  "aliases": [
+    "GetGo Communications LLC"
+  ],
+  "fcc_filing": {
+    "first_filing_date": "2017-10-20",
+    "latest_filing_date": "2017-10-20",
+    "total_filings": 2,
+    "docket_numbers": [
+      "17-291"
+    ],
+    "proceeding_types": [
+      "INTERCONNECTED VOIP NUMBERING AUTHORIZATION APPLICATION FILED BY GETGO COMMUNICATIONS, LLC PURSUANT TO SECTION 52.15(g)(3) OF THE COMMISSION&#146;S RULES"
+    ],
+    "has_supplements": false,
+    "recent_activity": false
+  },
+  "parsed_from_docs": {
+    "address": "10 Exchange Place, Suite 1710",
+    "city": null,
+    "state": null,
+    "zip_code": null,
+    "phone": "8556732532",
+    "email": "kari.zeni@logmein.com",
+    "key_personnel": [],
+    "founding_date": null,
+    "service_description": null
+  },
+  "web_search_results": [
+    {
+      "title": "US20100262656A1 - Systems and methods for computer and voice",
+      "url": "https://patents.google.com/patent/US20100262656A1/en",
+      "snippet": "... server, which connects numerous endpoint devices ( VoIP devices or PSTN telephones) associated with the participants using appropriate communication ..."
+    },
+    {
+      "title": "US9591392B2 - Headset-derived real-time presence and",
+      "url": "https://patents.google.com/patent/US9591392B2/en",
+      "snippet": "prior art presence aware IM systems and other presence aware real-time communication systems (e.g., voice over Internet protocol ( VoIP )) are that ..."
+    },
+    {
+      "title": "US8954505B2 - Systems and methods for computer and voice",
+      "url": "https://patents.google.com/patent/US8954505B2/en",
+      "snippet": "... server, which connects numerous endpoint devices ( VoIP devices or PSTN telephones) associated with the participants using appropriate communication ..."
+    },
+    {
+      "title": "346 Area Code - Location, Map, Current Time, Prefixes",
+      "url": "https://areacodes.net/346",
+      "snippet": "Caprock Telecommunications Corp. ... Aerial Communications , Inc. ... Level 3 Communications , LLC - AK"
+    },
+    {
+      "title": "AT&T Supplier Portal",
+      "url": "https://clec.att.com/clec_cms/clec/clec1.html",
+      "snippet": "American Cellular Corporation and Dobson Communications Corp. ... AT& Communications of Indiana, LLC AT& Communications of Texas, LLC AT& Corp."
+    }
+  ]
+}
+
+RULES:
+- Ground ALL assessments in the provided evidence
+- Cite specific sources in activity_signal (e.g., "Recent FCC filing (2024)", "Company website found via search")
+- Use "Unknown" when evidence is insufficient - DO NOT hallucinate
+- Confidence levels:
+  - High = Multiple confirming signals (recent web presence + recent filings + company details)
+  - Medium = Some signals but incomplete picture
+  - Low = FCC data only, no external confirmation
+
+Call the enrichment_result function with your analysis.

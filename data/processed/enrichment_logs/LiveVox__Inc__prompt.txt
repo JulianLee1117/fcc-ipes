@@ -1,0 +1,83 @@
+You are analyzing an IPES (Interconnected VoIP Provider) company that filed for numbering authorization with the FCC.
+
+Based ONLY on the evidence provided below, determine:
+1. Whether the company is likely still active
+2. Their industry segment (UCaaS, CCaaS, CPaaS, Carrier, Reseller, Enterprise IT, or Other)
+3. A brief product summary
+4. Their market position (Enterprise, Mid-Market, SMB, Startup, or Unknown)
+5. Your confidence level based on evidence quality
+
+EVIDENCE PACK:
+{
+  "company_name": "LiveVox, Inc.",
+  "aliases": [
+    "LiveVox, Inc."
+  ],
+  "fcc_filing": {
+    "first_filing_date": "2020-10-26",
+    "latest_filing_date": "2020-10-26",
+    "total_filings": 2,
+    "docket_numbers": [
+      "20-350"
+    ],
+    "proceeding_types": [
+      "Interconnected VoIP Numbering Authorization Application Filed By LiveVox, Inc. Pursuant To Section 52.15(g)(3) Of The Commission's Rules"
+    ],
+    "has_supplements": true,
+    "recent_activity": false
+  },
+  "parsed_from_docs": {
+    "address": "655 Montgomery Street",
+    "city": "San",
+    "state": "CA",
+    "zip_code": "94111",
+    "phone": "4156716000",
+    "email": null,
+    "key_personnel": [
+      {
+        "name": "Louis Summe",
+        "title": "CEO"
+      }
+    ],
+    "founding_date": null,
+    "service_description": "provide interconnected\nVoIP services initially in Texas, as supported by the Interconnection Agreement with their CLEC Partner,\nsubmitted as Exhibit A with the original application."
+  },
+  "web_search_results": [
+    {
+      "title": "LiveVox - 2025 Company Profile & Team - Tracxn LiveVox - businessabc.net LiveVox | LinkedIn NICE to Acquire LiveVox, Revolutionizing How Organizations ... LiveVox 2026 Company Profile: Valuation, Investors ... LiveVox Company Profile - Office Locations, Competitors ... LVOX - LiveVox Holding, Inc. Company Profile - StockInvest.us LiveVox | LinkedIn LiveVox | LinkedIn NICE to Acquire LiveVox , Revolutionizing How ... - Business Wire NICE to Acquire LiveVox , Revolutionizing How ... - Business Wire",
+      "url": "https://tracxn.com/d/companies/livevox/__xNpi2P4lGkdK6CV9tBxNtMcDR6rgvuvq1OPo3C2g6L4",
+      "snippet": "Aug 6, 2025 \u00b7 Provider of cloud based omnichannel contact center for providing customer service. The solutions enable customer service teams to engage and provide realtime support to customers across multiple communication channels including messaging and voice. Feb 25, 2025 \u00b7 LiveVox was founded in 2002 by Louisa Muscara, who had previously worked in the telecommunications industry. The company grew steadily and experienced rapid expansion throughout the mid-2000s, culminating in its listing on the New York Stock Exchange in 2010. Decision-makers use LiveVox to improve customer experience, boost agent productivity, empower their managers, and enhance their system orchestration capabilities. Oct 4, 2023 \u00b7 HOBOKEN, N.J.-- (BUSINESS WIRE)-- NICE (NASDAQ: NICE) and LiveVox (NASDAQ: LVOX) today announced that NICE has entered a definitive agreement to acquire LiveVox , a leading AI-driven proactive... LiveVox Holdings Inc is a next-generation cloud contact-center-as-a-service (or CCaaS) platform providing service to enterprises, business process outsourcers, and collections agencies. It offers omnichannel engagement, CRM integrations, ticketing, customer journey analytics, agent scheduling, workforce engagement, and other solutions. The company caters to the financial, healthcare, telecom , teleservices, and other sectors. LiveVox $136.03 m in annual revenue in FY 2022. LiveVox, Inc . was formerly known as Tools For Health, Inc. and changed its name to LiveVox, Inc . in June 2006. The company was incorporated in 1998 and is based in San Francisco, California. What is livevox (lvox)? LiveVox (Nasdaq: LVOX) is a proven cloud CCaaS platform that helps business leaders redefine customer engagement and transform their contact center\u2019s performance. Decision-makers use LiveVox to improve customer experience, boost agent productivity, empower their managers, and enhance their system orchestration capabilities. Where is livevox based? For more than 20 years, clients of all sizes and industries have trusted LiveVox\u2019s scalable and reliable cloud platform to power billions of omnichannel interactions every year. LiveVox is headquartered in San Francisco , with international offices in Medellin, Colombia and Bangalore, India. Is livevox a publicly traded company? Upon completion of the transaction, LiveVox will no longer be publicly listed or traded on Nasdaq. The transaction is expected to be cash flow positive and accretive to NICE\u2019s operating income, operating margin and non-GAAP EPS during 2024. Who is the financial advisor for livevox? Jefferies LLC is serving as exclusive financial advisor to LiveVox, and Kirkland & Ellis LLP is acting as legal counsel to LiveVox. With NICE (Nasdaq: NICE), it\u2019s never been easier for organizations of all sizes around the globe to create extraordinary customer experiences while meeting key business metrics."
+    },
+    {
+      "title": "LiveVox - businessabc.net",
+      "url": "https://businessabc.net/wiki/livevox",
+      "snippet": "Feb 25, 2025 \u00b7 LiveVox was founded in 2002 by Louisa Muscara, who had previously worked in the telecommunications industry. The company grew steadily and experienced rapid expansion throughout the mid-2000s, culminating in its listing on the New York Stock Exchange in 2010."
+    },
+    {
+      "title": "LiveVox | LinkedIn",
+      "url": "https://in.linkedin.com/company/livevox",
+      "snippet": "Decision-makers use LiveVox to improve customer experience, boost agent productivity, empower their managers, and enhance their system orchestration capabilities."
+    },
+    {
+      "title": "NICE to Acquire LiveVox, Revolutionizing How Organizations ...",
+      "url": "https://www.businesswire.com/news/home/20231004142500/en/NICE-to-Acquire-LiveVox-Revolutionizing-How-Organizations-Manage-Proactive-Outreach-With-the-Power-of-Conversational-AI-at-Scale",
+      "snippet": "Oct 4, 2023 \u00b7 HOBOKEN, N.J.-- (BUSINESS WIRE)-- NICE (NASDAQ: NICE) and LiveVox (NASDAQ: LVOX) today announced that NICE has entered a definitive agreement to acquire LiveVox , a leading AI-driven proactive..."
+    },
+    {
+      "title": "LiveVox 2026 Company Profile: Valuation, Investors ... LiveVox Company Profile - Office Locations, Competitors ... LVOX - LiveVox Holding, Inc. Company Profile - StockInvest.us LiveVox | LinkedIn LiveVox | LinkedIn NICE to Acquire LiveVox , Revolutionizing How ... - Business Wire NICE to Acquire LiveVox , Revolutionizing How ... - Business Wire",
+      "url": "https://pitchbook.com/profiles/company/53625-88",
+      "snippet": "LiveVox Holdings Inc is a next-generation cloud contact-center-as-a-service (or CCaaS) platform providing service to enterprises, business process outsourcers, and collections agencies. It offers omnichannel engagement, CRM integrations, ticketing, customer journey analytics, agent scheduling, workforce engagement, and other solutions. The company caters to the financial, healthcare, telecom , teleservices, and other sectors. LiveVox $136.03 m in annual revenue in FY 2022. LiveVox, Inc . was formerly known as Tools For Health, Inc. and changed its name to LiveVox, Inc . in June 2006. The company was incorporated in 1998 and is based in San Francisco, California. What is livevox (lvox)? LiveVox (Nasdaq: LVOX) is a proven cloud CCaaS platform that helps business leaders redefine customer engagement and transform their contact center\u2019s performance. Decision-makers use LiveVox to improve customer experience, boost agent productivity, empower their managers, and enhance their system orchestration capabilities. Where is livevox based? For more than 20 years, clients of all sizes and industries have trusted LiveVox\u2019s scalable and reliable cloud platform to power billions of omnichannel interactions every year. LiveVox is headquartered in San Francisco , with international offices in Medellin, Colombia and Bangalore, India. Is livevox a publicly traded company? Upon completion of the transaction, LiveVox will no longer be publicly listed or traded on Nasdaq. The transaction is expected to be cash flow positive and accretive to NICE\u2019s operating income, operating margin and non-GAAP EPS during 2024. Who is the financial advisor for livevox? Jefferies LLC is serving as exclusive financial advisor to LiveVox, and Kirkland & Ellis LLP is acting as legal counsel to LiveVox. With NICE (Nasdaq: NICE), it\u2019s never been easier for organizations of all sizes around the globe to create extraordinary customer experiences while meeting key business metrics."
+    }
+  ]
+}
+
+RULES:
+- Ground ALL assessments in the provided evidence
+- Cite specific sources in activity_signal (e.g., "Recent FCC filing (2024)", "Company website found via search")
+- Use "Unknown" when evidence is insufficient - DO NOT hallucinate
+- Confidence levels:
+  - High = Multiple confirming signals (recent web presence + recent filings + company details)
+  - Medium = Some signals but incomplete picture
+  - Low = FCC data only, no external confirmation
+
+Call the enrichment_result function with your analysis.

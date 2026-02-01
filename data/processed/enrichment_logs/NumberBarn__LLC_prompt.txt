@@ -1,0 +1,103 @@
+You are analyzing an IPES (Interconnected VoIP Provider) company that filed for numbering authorization with the FCC.
+
+Based ONLY on the evidence provided below, determine:
+1. Whether the company is likely still active
+2. Their industry segment (UCaaS, CCaaS, CPaaS, Carrier, Reseller, Enterprise IT, or Other)
+3. A brief product summary
+4. Their market position (Enterprise, Mid-Market, SMB, Startup, or Unknown)
+5. Your confidence level based on evidence quality
+
+EVIDENCE PACK:
+{
+  "company_name": "NumberBarn, LLC",
+  "aliases": [
+    "NumberBarn, LLC"
+  ],
+  "fcc_filing": {
+    "first_filing_date": "2019-04-10",
+    "latest_filing_date": "2019-04-10",
+    "total_filings": 10,
+    "docket_numbers": [
+      "19-99"
+    ],
+    "proceeding_types": [
+      "Interconnected VoIP Numbering Authorization Application Filed by NumberBarn, LLC Pursuant To Section 52.15(g)(3) of The Commission's Rules"
+    ],
+    "has_supplements": true,
+    "recent_activity": false
+  },
+  "parsed_from_docs": {
+    "address": "2510 S. Escondido Blvd.",
+    "city": null,
+    "state": null,
+    "zip_code": null,
+    "phone": null,
+    "email": null,
+    "key_personnel": [
+      {
+        "name": "false or",
+        "title": "cto"
+      },
+      {
+        "name": "National Association",
+        "title": "President"
+      },
+      {
+        "name": "and CTO",
+        "title": "CEO"
+      },
+      {
+        "name": "of NumberBarn",
+        "title": "CEO"
+      },
+      {
+        "name": "Chief Operating Officer",
+        "title": "and the"
+      },
+      {
+        "name": "of NumberBarn",
+        "title": "CTO"
+      }
+    ],
+    "founding_date": "2014",
+    "service_description": "provided IVoIP services\nfor a decade and has been connecting calls to the public switched network via agreements with\ncarriers who have interconnection agreements."
+  },
+  "web_search_results": [
+    {
+      "title": "About NumberBarn | Number porting, parking and forwarding",
+      "url": "https://www.numberbarn.com/about",
+      "snippet": "NumberBarn is a phone number service providing toll-free, local numbers, number porting, parking and call forwarding services."
+    },
+    {
+      "title": "NumberBarn Company Profile | Management and Employees List",
+      "url": "https://www.datanyze.com/companies/numberbarn/374240380",
+      "snippet": "Find contact information for NumberBarn. Learn about their Telephony & Wireless, Telecommunications market share, competitors, and NumberBarn's email format."
+    },
+    {
+      "title": "NumberBarn - Crunchbase Company Profile & Funding",
+      "url": "https://www.crunchbase.com/organization/numberbarn",
+      "snippet": "NumberBarn is a telecommunication company that offers phone number parking, call forwarding, local and vanity phone number services."
+    },
+    {
+      "title": "FAQs | NumberBarn",
+      "url": "https://www.numberbarn.com/faqs",
+      "snippet": "Toll free numbers can only be ported to a landline or VoIP carrier. How do I port a number away from NumberBarn? When you purchase a number, your NumberBarn account will have the information you will need to port the phone number to your new carrier. You will need to provide this account information to the new carrier to port to their service."
+    },
+    {
+      "title": "PUBLIC NOTICE - docs.fcc.gov",
+      "url": "https://docs.fcc.gov/public/attachments/DA-24-984A1.pdf",
+      "snippet": "NumberBarn, LLC (NumberBarn or Applicant), an interconnected Voice over Internet Protocol ( VoIP ) provider, filed a Numbering Authorization Application (Application) pursuant to section 52.15(g)(3) of the Federal Communications Commission\u2019s rules, seeking authorization to obtain North American Numbering Plan telephone numbers directly from the ..."
+    }
+  ]
+}
+
+RULES:
+- Ground ALL assessments in the provided evidence
+- Cite specific sources in activity_signal (e.g., "Recent FCC filing (2024)", "Company website found via search")
+- Use "Unknown" when evidence is insufficient - DO NOT hallucinate
+- Confidence levels:
+  - High = Multiple confirming signals (recent web presence + recent filings + company details)
+  - Medium = Some signals but incomplete picture
+  - Low = FCC data only, no external confirmation
+
+Call the enrichment_result function with your analysis.

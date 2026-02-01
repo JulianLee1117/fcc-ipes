@@ -1,0 +1,87 @@
+You are analyzing an IPES (Interconnected VoIP Provider) company that filed for numbering authorization with the FCC.
+
+Based ONLY on the evidence provided below, determine:
+1. Whether the company is likely still active
+2. Their industry segment (UCaaS, CCaaS, CPaaS, Carrier, Reseller, Enterprise IT, or Other)
+3. A brief product summary
+4. Their market position (Enterprise, Mid-Market, SMB, Startup, or Unknown)
+5. Your confidence level based on evidence quality
+
+EVIDENCE PACK:
+{
+  "company_name": "ULEC, LLC",
+  "aliases": [
+    "ULEC, LLC"
+  ],
+  "fcc_filing": {
+    "first_filing_date": "2025-07-03",
+    "latest_filing_date": "2025-07-03",
+    "total_filings": 1,
+    "docket_numbers": [
+      "25-226"
+    ],
+    "proceeding_types": [
+      "Interconnected VoIP Numbering Authorization Application Filed By ULEC, LLC Pursuant To Section 52.15(g)(3) of the Commission's Rules"
+    ],
+    "has_supplements": false,
+    "recent_activity": true
+  },
+  "parsed_from_docs": {
+    "address": "8310 South Valley Highway, Suite 3060",
+    "city": "Centennial",
+    "state": "CO",
+    "zip_code": "80223",
+    "phone": "4045194096",
+    "email": "Kim@ulec.com",
+    "key_personnel": [
+      {
+        "name": "Kim Cupps",
+        "title": "President"
+      },
+      {
+        "name": "Contact Business",
+        "title": "President"
+      }
+    ],
+    "founding_date": null,
+    "service_description": "provider\u2019s database\n\u2022 Real-time location updates and emergency call routing based on registered customer\nlocation at provider level\nCUSTOMER LOCATION REGISTRATION REQUIREMENTS\nNomadic VoIP Service Compliance\nULEC provides nomadic VoIP services requiring mandatory location registration to ensure\nE911 compliance and emergency services accessibility."
+  },
+  "web_search_results": [
+    {
+      "title": "Indiana Areacode: 219 - Area Code | Long-distance Call VoIP |",
+      "url": "https://en.chahaoba.com/001219",
+      "snippet": "Mcleodusa Telecommunications Services- In ... Network Services LLC (tsr) ... Acme Communications - Ulec"
+    },
+    {
+      "title": "219 Area Code - Map, Phone Lookup, Time Zone | Wirefly",
+      "url": "https://www.wirefly.com/area-codes/219",
+      "snippet": "E.com Technologies, Llc - In ... Bandwidth.com Clec, Llc - Il ... Broadvox-clec, Llc - In"
+    },
+    {
+      "title": "580 Area Code - Map, Phone Lookup, Time Zone | Wirefly",
+      "url": "https://www.wirefly.com/area-codes/580",
+      "snippet": "Chickasaw Telecommunications Services, Inc. ... Cebridge Telecom Ok, Llc Dba Suddenlink Comms - Ok ... Bandwidth.com Clec, Llc - Ok"
+    },
+    {
+      "title": "US7945034B2 - Process for determining characteristics of a",
+      "url": "https://patents.google.com/patent/US7945034B2/en",
+      "snippet": "VOIP telephone numbers wherein a person in Nigeria could answer to an area code \u201c310\u201d number otherwise associated with telephones in Los Angeles ..."
+    },
+    {
+      "title": "US8411831B2 - Call center mapping system and method - Google",
+      "url": "https://patents.google.com/patent/US8411831B2/en",
+      "snippet": "Assignors: TIME WARNER CABLE INFORMATION SERVICES (NORTH CAROLINA), LLC , ADCAST NORTH CAROLINA CABLE ADVERTISING, LLC , ALABANZA LLC , AMERICAN CABLE ..."
+    }
+  ]
+}
+
+RULES:
+- Ground ALL assessments in the provided evidence
+- Cite specific sources in activity_signal (e.g., "Recent FCC filing (2024)", "Company website found via search")
+- Use "Unknown" when evidence is insufficient - DO NOT hallucinate
+- Confidence levels:
+  - High = Multiple confirming signals (recent web presence + recent filings + company details)
+  - Medium = Some signals but incomplete picture
+  - Low = FCC data only, no external confirmation
+
+Call the enrichment_result function with your analysis.

@@ -1,0 +1,35 @@
+{
+  "id": "msg_015sLqzG7mmUYNEuNQyfKQAR",
+  "content": [
+    {
+      "id": "toolu_014R9R7Z63CcVxz6F4qmEdFA",
+      "input": {
+        "is_active": true,
+        "activity_signal": "Company website (telnyx.com) found via web search showing current Voice AI and telecommunications services. BBB business profile indicates active telecommunications operations. Recent 2025 FCC regulatory activity with proposed $4.5 million fine for robocall violations suggests ongoing business operations and regulatory engagement.",
+        "industry_segment": "CPaaS",
+        "product_summary": "Telnyx provides Voice AI agents and telecommunications infrastructure services over a private global network, including conversational AI agents, speech-to-text transcription, and text-to-speech capabilities.",
+        "market_position": "Enterprise",
+        "enrichment_confidence": "High"
+      },
+      "name": "enrichment_result",
+      "type": "tool_use"
+    }
+  ],
+  "model": "claude-sonnet-4-20250514",
+  "role": "assistant",
+  "stop_reason": "tool_use",
+  "stop_sequence": null,
+  "type": "message",
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0,
+    "input_tokens": 1961,
+    "output_tokens": 230,
+    "server_tool_use": null,
+    "service_tier": "standard"
+  }
+}

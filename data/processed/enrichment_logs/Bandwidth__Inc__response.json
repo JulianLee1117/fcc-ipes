@@ -1,0 +1,35 @@
+{
+  "id": "msg_01CBS8mbW4M1jJ4fKYgepZJW",
+  "content": [
+    {
+      "id": "toolu_01Dm7bsdpiviT5vjtDAPp7XW",
+      "input": {
+        "is_active": true,
+        "activity_signal": "Recent FCC filing (2024-04-16), active LinkedIn profile with 110,251 followers, publicly traded on NYSE (ticker: BAND), multiple recent web search results including company profile and market analysis mentions",
+        "industry_segment": "CPaaS",
+        "product_summary": "Bandwidth provides cloud communications platform-as-a-service (CPaaS) solutions enabling enterprises to deliver voice, messaging, and emergency services through APIs and software tools, described as a \"universal communications platform.\"",
+        "market_position": "Enterprise",
+        "enrichment_confidence": "High"
+      },
+      "name": "enrichment_result",
+      "type": "tool_use"
+    }
+  ],
+  "model": "claude-sonnet-4-20250514",
+  "role": "assistant",
+  "stop_reason": "tool_use",
+  "stop_sequence": null,
+  "type": "message",
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0,
+    "input_tokens": 1769,
+    "output_tokens": 219,
+    "server_tool_use": null,
+    "service_tier": "standard"
+  }
+}

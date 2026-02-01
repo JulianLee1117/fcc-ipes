@@ -1,0 +1,35 @@
+{
+  "id": "msg_014LKoP2p5r9YMLFfiaCb3Sr",
+  "content": [
+    {
+      "id": "toolu_01HrM3AfsmF4M9PZGqojNp2R",
+      "input": {
+        "is_active": true,
+        "activity_signal": "Company was acquired by HFA Holdings LLC (web search result from PR Newswire). Active website with acceptable use policy found at skyetel.com. Email domain skyetel.com from FCC filing matches active website. Federal vendor profile exists on GovTribe platform.",
+        "industry_segment": "CPaaS",
+        "product_summary": "Provides VoIP services across multiple states (Washington, Oregon, California, New York, Texas, Hawaii, Florida) through own facilities and CLEC partnerships for PSTN routing. Operates as Skyetel brand offering telecom and CPaaS services.",
+        "market_position": "Unknown",
+        "enrichment_confidence": "Medium"
+      },
+      "name": "enrichment_result",
+      "type": "tool_use"
+    }
+  ],
+  "model": "claude-sonnet-4-20250514",
+  "role": "assistant",
+  "stop_reason": "tool_use",
+  "stop_sequence": null,
+  "type": "message",
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0,
+    "input_tokens": 2145,
+    "output_tokens": 244,
+    "server_tool_use": null,
+    "service_tier": "standard"
+  }
+}

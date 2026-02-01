@@ -1,0 +1,68 @@
+You are analyzing an IPES (Interconnected VoIP Provider) company that filed for numbering authorization with the FCC.
+
+Based ONLY on the evidence provided below, determine:
+1. Whether the company is likely still active
+2. Their industry segment (UCaaS, CCaaS, CPaaS, Carrier, Reseller, Enterprise IT, or Other)
+3. A brief product summary
+4. Their market position (Enterprise, Mid-Market, SMB, Startup, or Unknown)
+5. Your confidence level based on evidence quality
+
+EVIDENCE PACK:
+{
+  "company_name": "UComTel, Inc.",
+  "aliases": [
+    "UComTel, Inc."
+  ],
+  "fcc_filing": {
+    "first_filing_date": "2020-07-20",
+    "latest_filing_date": "2020-07-20",
+    "total_filings": 1,
+    "docket_numbers": [
+      "20-243"
+    ],
+    "proceeding_types": [
+      "Interconnected VoIP Numbering Authorization Application Filed By UComTel, Inc. Pursuant To Section 52.15(g)(3) Of The Commission's Rules"
+    ],
+    "has_supplements": false,
+    "recent_activity": false
+  },
+  "parsed_from_docs": {},
+  "web_search_results": [
+    {
+      "title": "Interconnected VoIP Numbering Authorization Application Filed",
+      "url": "https://www.fcc.gov/document/interconnected-voip-numbering-authorization-application-filed-34",
+      "snippet": "Interconnected VoIP Numbering Authorization Application Filed. Full Title: Interconnected VoIP Numbering Authorization Application Filed By UComTel , Inc . Pursuant To Section 52.15(g)(3) Of The Commission's Rules."
+    },
+    {
+      "title": "AS397562 Ucomtel INC details | Ipregistry",
+      "url": "https://ipregistry.co/AS397562",
+      "snippet": "Ucomtel INC \u2014 ucomtel.com. 00 Summary. 01 IP Ranges.Status. 69.28.218.0/24. Woodmere Assett Management INC."
+    },
+    {
+      "title": "AS399463 UComtel Inc - bgp.tools",
+      "url": "https://bgp.tools/as/399463",
+      "snippet": "UComtel Inc (AS399463) is a small BGP network that is peering with 1 other networks and has 1 upstream carriers.Upstreams. AS15830 - Equinix, Inc. Locations of Operation. United States."
+    },
+    {
+      "title": "AS397562 UCOMTEL-01 - UComtel Inc , US | IPIP.NET",
+      "url": "https://whois.ipip.net/AS397562",
+      "snippet": "United States. IP Address Ranges.CLOUDFLARENET - Cloudflare, Inc ., US. 1,334,272."
+    },
+    {
+      "title": "Autonomous System Number 399463 : UCOMTEL -02... - IPSHU",
+      "url": "https://en.ipshu.com/asn/399463",
+      "snippet": "Autonomous System (AS) number AS399463 is managed by UCOMTEL -02, an organization based in United States of America. Specific details about this AS are provided below. This data was last updated on: 2025-10-11T00:46:40."
+    }
+  ]
+}
+
+RULES:
+- Ground ALL assessments in the provided evidence
+- Cite specific sources in activity_signal (e.g., "Recent FCC filing (2024)", "Company website found via search")
+- Use "Unknown" when evidence is insufficient - DO NOT hallucinate
+- Confidence levels:
+  - High = Multiple confirming signals (recent web presence + recent filings + company details)
+  - Medium = Some signals but incomplete picture
+  - Low = FCC data only, no external confirmation
+
+Call the enrichment_result function with your analysis.

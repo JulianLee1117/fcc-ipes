@@ -1,0 +1,35 @@
+{
+  "id": "msg_01AZqrfBx5Y7yhuR1aVuCei9",
+  "content": [
+    {
+      "id": "toolu_01VvJ6VNkNvUYSKMLsE4JuaG",
+      "input": {
+        "is_active": false,
+        "activity_signal": "No evidence of current activity. Single FCC filing from 2017-09-07 with no recent activity. Web search results show no direct company presence - only generic VoIP industry content and unrelated hardware listings. No current website, social media, or business operations found.",
+        "industry_segment": "UCaaS",
+        "product_summary": "VoIP numbering authorization applicant under M5 Networks LLC, appears to have been a cloud-based business communications provider based on the \"ShoreTel Sky\" branding which typically indicates hosted VoIP services.",
+        "market_position": "Unknown",
+        "enrichment_confidence": "Low"
+      },
+      "name": "enrichment_result",
+      "type": "tool_use"
+    }
+  ],
+  "model": "claude-sonnet-4-20250514",
+  "role": "assistant",
+  "stop_reason": "tool_use",
+  "stop_sequence": null,
+  "type": "message",
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0,
+    "input_tokens": 2380,
+    "output_tokens": 234,
+    "server_tool_use": null,
+    "service_tier": "standard"
+  }
+}

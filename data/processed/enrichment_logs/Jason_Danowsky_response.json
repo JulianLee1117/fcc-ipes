@@ -1,0 +1,35 @@
+{
+  "id": "msg_01CPVpVdvPTNvMrKJJ5pRbDY",
+  "content": [
+    {
+      "id": "toolu_01P68FUmeMutixxT3nUwPAfM",
+      "input": {
+        "is_active": false,
+        "activity_signal": "Jason Danowsky appears to be an individual attorney, not an active IPES company. Web search results show he is a telecommunications attorney at FosterDanowsky in Austin, TX, who represents companies for FCC matters. FCC filings ended in 2019 with no recent activity. The parsed company data appears to be aggregated from multiple different companies' filings that this attorney likely represented, not a single operating entity.",
+        "industry_segment": "Other",
+        "product_summary": "Jason Danowsky appears to be a telecommunications attorney who files FCC applications on behalf of VoIP companies, not an operating telecommunications company itself.",
+        "market_position": "Unknown",
+        "enrichment_confidence": "Medium"
+      },
+      "name": "enrichment_result",
+      "type": "tool_use"
+    }
+  ],
+  "model": "claude-sonnet-4-20250514",
+  "role": "assistant",
+  "stop_reason": "tool_use",
+  "stop_sequence": null,
+  "type": "message",
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0,
+    "input_tokens": 2578,
+    "output_tokens": 250,
+    "server_tool_use": null,
+    "service_tier": "standard"
+  }
+}

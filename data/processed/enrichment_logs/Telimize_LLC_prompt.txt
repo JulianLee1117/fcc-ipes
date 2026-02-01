@@ -1,0 +1,103 @@
+You are analyzing an IPES (Interconnected VoIP Provider) company that filed for numbering authorization with the FCC.
+
+Based ONLY on the evidence provided below, determine:
+1. Whether the company is likely still active
+2. Their industry segment (UCaaS, CCaaS, CPaaS, Carrier, Reseller, Enterprise IT, or Other)
+3. A brief product summary
+4. Their market position (Enterprise, Mid-Market, SMB, Startup, or Unknown)
+5. Your confidence level based on evidence quality
+
+EVIDENCE PACK:
+{
+  "company_name": "Telimize LLC",
+  "aliases": [
+    "Telimize LLC"
+  ],
+  "fcc_filing": {
+    "first_filing_date": "2024-11-26",
+    "latest_filing_date": "2024-11-26",
+    "total_filings": 3,
+    "docket_numbers": [
+      "24-656"
+    ],
+    "proceeding_types": [
+      "Interconnected VoIP Numbering Authorization Application Filed By Telimize, LLC Pursuant To Section 52.15(g)(3) Of The Commission's Rules"
+    ],
+    "has_supplements": true,
+    "recent_activity": true
+  },
+  "parsed_from_docs": {
+    "address": "212 E 22nd Street, Suite 1003, Cheyenne, WY 82001",
+    "city": "Sheridan",
+    "state": "WY",
+    "zip_code": "82801",
+    "phone": "7073716927",
+    "email": "grantham@telimize.com",
+    "key_personnel": [
+      {
+        "name": "Grantham Hamm",
+        "title": "CEO"
+      },
+      {
+        "name": "Chief Executive Officer",
+        "title": "for Telimize"
+      },
+      {
+        "name": "Chief Executive Officer",
+        "title": "Grantham Hamm"
+      },
+      {
+        "name": "Chief Technology Officer",
+        "title": "with experience"
+      },
+      {
+        "name": "Chief Technology Officer",
+        "title": "Telimize LLC"
+      },
+      {
+        "name": "Chief Executive Officer",
+        "title": "for Telimize"
+      }
+    ],
+    "founding_date": null,
+    "service_description": "provide emergency services would become publicly known, which would not only cause competitive\nharm to Telimize, but could undermine Telimize\u2019s ability to provide safe and secure VoIP services to its\nend users."
+  },
+  "web_search_results": [
+    {
+      "title": "Telimize - Business Cloud Communications Platform",
+      "url": "https://telimize.com/",
+      "snippet": "Telimize is a leading provider of UCaaS, SIP Trunking & Cloud communication solutions helping businesses connect through calls, messages, meetings, and events.Experience cost-effective and scalable voice services that leverage the power of Voice over IP ( VoIP ) technology."
+    },
+    {
+      "title": "Telimize LLC - Services & Company Info",
+      "url": "https://clutch.co/profile/telimize",
+      "snippet": "Telimize LLC . Not yet reviewed. Visit Website.Telimize delivers scalable cloud communications with carrier-level voice , messaging and WhatsApp APIs, enabling global connectivity and advanced integration for businesses."
+    },
+    {
+      "title": "Telimize - Crunchbase Company Profile & Funding",
+      "url": "https://www.crunchbase.com/organization/telimize",
+      "snippet": "Information Technology. Telecommunications . VoIP . Headquarters Regions.Company Type. For Profit. Contact Email. sales@ telimize .com. Phone Number. 707-371-6927."
+    },
+    {
+      "title": "Page 2 | Best Unified Communication VARs Providers: User Reviews...",
+      "url": "https://www.g2.com/categories/unified-communication-vars?order=popular&page=2",
+      "snippet": "Read TELAIR Reviews. Telimize LLC . Service Provider.Telimize is a leading provider of VoIP , cost-effective UCaaS, Cloud communication solutions and APIs. Experience carrier-class VPLS network infrastructure through hybrid platform."
+    },
+    {
+      "title": "e164 Numbering Plan | Updates",
+      "url": "https://www.e164.com/updates.html",
+      "snippet": "CSC Voice, LLC is an interconnected VoIP provider that was granted FCC authorization for direct access to numbers. The company provides Voice over Internet Protocol telecommunications services in the United States and is registered with the National Emergency Number..."
+    }
+  ]
+}
+
+RULES:
+- Ground ALL assessments in the provided evidence
+- Cite specific sources in activity_signal (e.g., "Recent FCC filing (2024)", "Company website found via search")
+- Use "Unknown" when evidence is insufficient - DO NOT hallucinate
+- Confidence levels:
+  - High = Multiple confirming signals (recent web presence + recent filings + company details)
+  - Medium = Some signals but incomplete picture
+  - Low = FCC data only, no external confirmation
+
+Call the enrichment_result function with your analysis.

@@ -1,0 +1,35 @@
+{
+  "id": "msg_019J2UtBVh8JuDC3rRDgL6Hn",
+  "content": [
+    {
+      "id": "toolu_01XAmAoaichnf16Et3jpUXsG",
+      "input": {
+        "is_active": false,
+        "activity_signal": "Company appears inactive based on: 1) Single FCC filing from 2019-05-21 with no recent activity, 2) Email contact using @logmein.com domain suggesting acquisition/integration, 3) Web search results show Jive services being offered through reseller (RQ Communications) rather than direct company presence, 4) No direct company website found in search results",
+        "industry_segment": "UCaaS",
+        "product_summary": "Jive Communications provided hosted VoIP and unified communications services to business customers, offering cloud-based voice solutions since 2006.",
+        "market_position": "Unknown",
+        "enrichment_confidence": "Medium"
+      },
+      "name": "enrichment_result",
+      "type": "tool_use"
+    }
+  ],
+  "model": "claude-sonnet-4-20250514",
+  "role": "assistant",
+  "stop_reason": "tool_use",
+  "stop_sequence": null,
+  "type": "message",
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0,
+    "input_tokens": 1677,
+    "output_tokens": 241,
+    "server_tool_use": null,
+    "service_tier": "standard"
+  }
+}

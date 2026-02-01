@@ -1,0 +1,91 @@
+You are analyzing an IPES (Interconnected VoIP Provider) company that filed for numbering authorization with the FCC.
+
+Based ONLY on the evidence provided below, determine:
+1. Whether the company is likely still active
+2. Their industry segment (UCaaS, CCaaS, CPaaS, Carrier, Reseller, Enterprise IT, or Other)
+3. A brief product summary
+4. Their market position (Enterprise, Mid-Market, SMB, Startup, or Unknown)
+5. Your confidence level based on evidence quality
+
+EVIDENCE PACK:
+{
+  "company_name": "T3 Communications. Inc.",
+  "aliases": [
+    "T3 Communications. Inc."
+  ],
+  "fcc_filing": {
+    "first_filing_date": "2021-04-12",
+    "latest_filing_date": "2021-04-12",
+    "total_filings": 1,
+    "docket_numbers": [
+      "21-165"
+    ],
+    "proceeding_types": [
+      "Interconnected VoIP Numbering Authorization Application Filed By T3 Communications. Inc. Pursuant To Section 52.15(g)(3) Of The Commission's Rules"
+    ],
+    "has_supplements": false,
+    "recent_activity": false
+  },
+  "parsed_from_docs": {
+    "address": null,
+    "city": null,
+    "state": null,
+    "zip_code": null,
+    "phone": null,
+    "email": "k.ryon@t3com.net",
+    "key_personnel": [
+      {
+        "name": "of the",
+        "title": "President"
+      },
+      {
+        "name": "Chief Financial Officer",
+        "title": "Antonio is"
+      },
+      {
+        "name": "of Finance",
+        "title": "President"
+      }
+    ],
+    "founding_date": "2002",
+    "service_description": "provide interconnected VoIP services in the\nfollowing states: Texas and Florida2 primarily and additionally Alabama, Arkansas,\nArizona, California, Colorado, Connecticut, Delaware, District of Columbia, Georgia,\nHawaii, Idaho, Illinois, Indiana, Iowa, Kentucky, Louisiana, Maine, Maryland,\nMassachusetts, Michigan, Minnesota, Missouri, Mississippi, Montana, North Carolina,\nNew Jersey, Nevada, New York, Ohio, Oklahoma, Oregon, Pennsylvania, South\nCarolina, Tennessee, Utah, Virginia, U."
+  },
+  "web_search_results": [
+    {
+      "title": "T 3 Communications | LinkedIn",
+      "url": "https://sa.linkedin.com/company/t3-communications",
+      "snippet": "T 3 Communications Inc . was founded on a vision, which was, to meet the needs of a growing business community enabling them to communicate and compete in the global market from the local level. In 2002 a group of local..."
+    },
+    {
+      "title": "T 3 Communications , Inc . - Services & Company Info",
+      "url": "https://clutch.co/profile/t3-communications",
+      "snippet": "T 3 Communications Inc . offers commercial cabling and networking services to the Hampton Roads, VA area. In addition to entire data cabinet installation, cellular signal boosting, network testing and more. Since 2011, our infrastructure has met the data and phone needs of our customers."
+    },
+    {
+      "title": "T 3 Communications , Inc . | BBB Business Profile | Better Business...",
+      "url": "https://www.bbb.org/us/fl/fort-myers/profile/internet-service/t3-communications-inc-0653-90091238",
+      "snippet": "T 3 Communications , Inc . 2401 First St Suite 300. Fort Myers, FL 33901. Get Directions. BBB Accreditation & Rating. T 3 Communications , Inc . is NOT a BBB Accredited Business."
+    },
+    {
+      "title": "Aggregation Report: Aggregation using AS PATH",
+      "url": "https://bgp.potaroo.net/v6/as6447-old/bgp-aspath-aggregation.txt.html",
+      "snippet": "Netflix Streaming Services Inc . 14 8 3 9 5 35.71% AS4608 APNIC-SERVICES Asia Pacific Network Info 8 6 1 3 5 62.50% AS4826 VOCUS-BACKBONE-AS Vocus Connect Internat 6 5 0 1 5 83.33% AS5518 TELIALATVIJA Telia Latvija SIA,LV 6 5 0 1 5 83.33% AS7543 PI-AU Pacific..."
+    },
+    {
+      "title": "Networks of United States - bgp.he.net",
+      "url": "https://bgp.he.net/country/US?&sa=U&ei=FLEPVPnVBs7uaPXwgZAC&ved=0CDwQFjAI&usg=AFQjCNHs8QD-gXcdnGlVNL_UdVQMk1_qCQ",
+      "snippet": "Zoom Video Communications , Inc . 258. 250.Layer 3 Communications . 5."
+    }
+  ]
+}
+
+RULES:
+- Ground ALL assessments in the provided evidence
+- Cite specific sources in activity_signal (e.g., "Recent FCC filing (2024)", "Company website found via search")
+- Use "Unknown" when evidence is insufficient - DO NOT hallucinate
+- Confidence levels:
+  - High = Multiple confirming signals (recent web presence + recent filings + company details)
+  - Medium = Some signals but incomplete picture
+  - Low = FCC data only, no external confirmation
+
+Call the enrichment_result function with your analysis.

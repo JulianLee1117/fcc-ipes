@@ -1,0 +1,35 @@
+{
+  "id": "msg_01KU5NCyez7yMpU42JqnEPXi",
+  "content": [
+    {
+      "id": "toolu_012CoQQpPpv9uT2UCoMeo2KN",
+      "input": {
+        "is_active": true,
+        "activity_signal": "Company website found via search results showing active content including hosted VoIP services, hosted PBX solutions, and current terms of service/privacy policy pages. Website domain (trueipsolutions.com) is operational and contains business-focused content about VoIP and unified communications solutions.",
+        "industry_segment": "UCaaS",
+        "product_summary": "True IP Solutions provides hosted VoIP and unified communications services, including hosted PBX solutions and VoIP technology for business telecommunications.",
+        "market_position": "Unknown",
+        "enrichment_confidence": "Medium"
+      },
+      "name": "enrichment_result",
+      "type": "tool_use"
+    }
+  ],
+  "model": "claude-sonnet-4-20250514",
+  "role": "assistant",
+  "stop_reason": "tool_use",
+  "stop_sequence": null,
+  "type": "message",
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0,
+    "input_tokens": 1576,
+    "output_tokens": 216,
+    "server_tool_use": null,
+    "service_tier": "standard"
+  }
+}

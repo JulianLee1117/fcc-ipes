@@ -1,0 +1,95 @@
+You are analyzing an IPES (Interconnected VoIP Provider) company that filed for numbering authorization with the FCC.
+
+Based ONLY on the evidence provided below, determine:
+1. Whether the company is likely still active
+2. Their industry segment (UCaaS, CCaaS, CPaaS, Carrier, Reseller, Enterprise IT, or Other)
+3. A brief product summary
+4. Their market position (Enterprise, Mid-Market, SMB, Startup, or Unknown)
+5. Your confidence level based on evidence quality
+
+EVIDENCE PACK:
+{
+  "company_name": "Backbone Communications Inc.",
+  "aliases": [
+    "Backbone Communications Inc."
+  ],
+  "fcc_filing": {
+    "first_filing_date": "2016-10-11",
+    "latest_filing_date": "2016-10-11",
+    "total_filings": 1,
+    "docket_numbers": [
+      "16-361"
+    ],
+    "proceeding_types": [
+      "INTERCONNECTED VOIP NUMBERING AUTHORIZATION APPLICATION FILED BY BACKBONE COMMUNICATIONS INC. PURSUANT TO SECTION 52.15(g)(3) OF THE COMMISSION&#146;S RULES"
+    ],
+    "has_supplements": false,
+    "recent_activity": false
+  },
+  "parsed_from_docs": {
+    "address": null,
+    "city": null,
+    "state": null,
+    "zip_code": null,
+    "phone": null,
+    "email": null,
+    "key_personnel": [
+      {
+        "name": "Robert Bral",
+        "title": "CTO"
+      },
+      {
+        "name": "Lisa Derme",
+        "title": "COO"
+      },
+      {
+        "name": "Joel Buenviaje",
+        "title": "CFO"
+      },
+      {
+        "name": "BBCOM\nIderme",
+        "title": "coo"
+      }
+    ],
+    "founding_date": "2007",
+    "service_description": null
+  },
+  "web_search_results": [
+    {
+      "title": "AS33891 CORE-BACKBONE - Core-Backbone GmbH, DE | IPInsight.io",
+      "url": "https://whois.ipinsight.io/AS33891",
+      "snippet": "Etisalat-AS - EMIRATES TELECOMMUNICATIONS GROUP COMPANY (ETISALAT GROUP) PJSC, AE ... GTT- BACKBONE - GTT Communications Inc ., US"
+    },
+    {
+      "title": "VoIP Inc.'s Rodriguez Discusses State of Telephony",
+      "url": "https://www.technewsworld.com/story/voip-inc-s-rodriguez-discusses-state-of-telephony-42976.html",
+      "snippet": "... of VoIP to ensure that the technology is properly incubated and continues to deliver on the mandate to foster competition in the telecommunications ..."
+    },
+    {
+      "title": "\u1405 My VoIP Store \u203a Telecommunications Services VoIP",
+      "url": "http://sitebook.org/s-business-89088-my",
+      "snippet": "29 TDB Communications Telecommunications company Telecommunications company specializing in site engineering, service requirements, product ..."
+    },
+    {
+      "title": "\u1405 Super Technologies, Inc \u203a Telecommunications",
+      "url": "http://sitebook.org/s-business-89076-super",
+      "snippet": "29 TDB Communications Telecommunications company Telecommunications company specializing in site engineering, service requirements, product ..."
+    },
+    {
+      "title": "VoIP Providers USA - VoIP-Info",
+      "url": "https://www.voip-info.org/voip-providers-usa/",
+      "snippet": "Lantelligence is an International provider of Business Communications solutions that include IP Phone Systems, Call Centers, Video and Web ..."
+    }
+  ]
+}
+
+RULES:
+- Ground ALL assessments in the provided evidence
+- Cite specific sources in activity_signal (e.g., "Recent FCC filing (2024)", "Company website found via search")
+- Use "Unknown" when evidence is insufficient - DO NOT hallucinate
+- Confidence levels:
+  - High = Multiple confirming signals (recent web presence + recent filings + company details)
+  - Medium = Some signals but incomplete picture
+  - Low = FCC data only, no external confirmation
+
+Call the enrichment_result function with your analysis.

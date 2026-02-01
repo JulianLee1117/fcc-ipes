@@ -1,0 +1,99 @@
+You are analyzing an IPES (Interconnected VoIP Provider) company that filed for numbering authorization with the FCC.
+
+Based ONLY on the evidence provided below, determine:
+1. Whether the company is likely still active
+2. Their industry segment (UCaaS, CCaaS, CPaaS, Carrier, Reseller, Enterprise IT, or Other)
+3. A brief product summary
+4. Their market position (Enterprise, Mid-Market, SMB, Startup, or Unknown)
+5. Your confidence level based on evidence quality
+
+EVIDENCE PACK:
+{
+  "company_name": "Low Latency Communications LLC",
+  "aliases": [
+    "Low Latency Communications LLC"
+  ],
+  "fcc_filing": {
+    "first_filing_date": "2020-11-12",
+    "latest_filing_date": "2020-11-12",
+    "total_filings": 1,
+    "docket_numbers": [
+      "20-391"
+    ],
+    "proceeding_types": [
+      "Interconnected VoIP Numbering Authorization Application Filed By Low Latency Communications, LLC Pursuant To Section 52.15(g)(3) Of The Commission's Rules"
+    ],
+    "has_supplements": false,
+    "recent_activity": false
+  },
+  "parsed_from_docs": {
+    "address": "241 Applegate Trace",
+    "city": "Pelham",
+    "state": "AL",
+    "zip_code": "35124",
+    "phone": "2057453970",
+    "email": null,
+    "key_personnel": [
+      {
+        "name": "Chief Executive Officer",
+        "title": "Daryl Russo"
+      },
+      {
+        "name": "Matthew Hardeman",
+        "title": "President"
+      },
+      {
+        "name": "Larry Paul",
+        "title": "President"
+      },
+      {
+        "name": "Matthew Hardeman",
+        "title": "President"
+      },
+      {
+        "name": "Low Latency",
+        "title": "President"
+      }
+    ],
+    "founding_date": null,
+    "service_description": "provide interconnected VoiP services initially in the state of Texas."
+  },
+  "web_search_results": [
+    {
+      "title": "WO2009067494A1 - Low latency handover between wireless",
+      "url": "https://patents.google.com/patent/WO2009067494A1/en",
+      "snippet": "WO2009067494A1 - Low latency handover between wireless communication networks using different radio access technologies - Google Patents"
+    },
+    {
+      "title": "Why Low Latency | Low Latency Communications",
+      "url": "https://lowlatencycomm.com/business-voip-phone-service-provider-birmingham-alabama/",
+      "snippet": "... Low Latency Communications ... Low Latency Communications is committed to providing best in class hosted PBX and VoIP solutions to businesses."
+    },
+    {
+      "title": "Why Low Latency | Low Latency Communications",
+      "url": "http://lowlatencycomm.com/business-voip-phone-service-provider-birmingham-alabama/",
+      "snippet": "... Low Latency Communications ... Low Latency Communications is committed to providing best in class hosted PBX and VoIP solutions to businesses."
+    },
+    {
+      "title": "Low Latency Communication Windows 8 downloads - Free Download",
+      "url": "https://www.windows8downloads.com/win8-low-latency-communication.html",
+      "snippet": "Low - latency , high-quality voice communication for gamers. ... The software is optimized for low - latency communication , providing seamless ..."
+    },
+    {
+      "title": "VoIP \u2013 Wirevolution.com",
+      "url": "https://wirevolution.com/category/voip/",
+      "snippet": "According to Harbor Ridge Capital LLC , which did an overview of trends and mergers acquisitions activity of the VoIP market in early 2012, there are ..."
+    }
+  ]
+}
+
+RULES:
+- Ground ALL assessments in the provided evidence
+- Cite specific sources in activity_signal (e.g., "Recent FCC filing (2024)", "Company website found via search")
+- Use "Unknown" when evidence is insufficient - DO NOT hallucinate
+- Confidence levels:
+  - High = Multiple confirming signals (recent web presence + recent filings + company details)
+  - Medium = Some signals but incomplete picture
+  - Low = FCC data only, no external confirmation
+
+Call the enrichment_result function with your analysis.

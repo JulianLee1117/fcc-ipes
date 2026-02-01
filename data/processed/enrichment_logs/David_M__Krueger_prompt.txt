@@ -1,0 +1,83 @@
+You are analyzing an IPES (Interconnected VoIP Provider) company that filed for numbering authorization with the FCC.
+
+Based ONLY on the evidence provided below, determine:
+1. Whether the company is likely still active
+2. Their industry segment (UCaaS, CCaaS, CPaaS, Carrier, Reseller, Enterprise IT, or Other)
+3. A brief product summary
+4. Their market position (Enterprise, Mid-Market, SMB, Startup, or Unknown)
+5. Your confidence level based on evidence quality
+
+EVIDENCE PACK:
+{
+  "company_name": "David M. Krueger",
+  "aliases": [
+    "David M. Krueger"
+  ],
+  "fcc_filing": {
+    "first_filing_date": "2021-03-10",
+    "latest_filing_date": "2021-03-10",
+    "total_filings": 1,
+    "docket_numbers": [
+      "21-86"
+    ],
+    "proceeding_types": [
+      "Interconnected VoIP Numbering Authorization Application Filed By CallShaper, LLC Pursuant To Section 52.15(g)(3) Of The Commission's Rules"
+    ],
+    "has_supplements": false,
+    "recent_activity": false
+  },
+  "parsed_from_docs": {
+    "address": null,
+    "city": null,
+    "state": null,
+    "zip_code": null,
+    "phone": "2163634500",
+    "email": "dkrueger@beneschlaw.com",
+    "key_personnel": [
+      {
+        "name": "Chief Technology Officer",
+        "title": "of CallShaper"
+      }
+    ],
+    "founding_date": "2014",
+    "service_description": "provide interconnected VoIP services initially in Maryland; however, the Company anticipates\nthat it may provide interconnected VoIP service nationwide, and accordingly, will request\nnumbers from the other states as well."
+  },
+  "web_search_results": [
+    {
+      "title": "Streaming Tunes Tuesday: David Bowie | TDS Connect",
+      "url": "https://blog.tdstelecom.com/online-life/streaming-tunes-tuesday-david-bowie/",
+      "snippet": "At this point going by his stage name David Bowie, he got connected with a manager that felt his talent should be highlighted."
+    },
+    {
+      "title": "Streaming Tunes Tuesday: Jefferson Starship | TDS Connect",
+      "url": "https://blog.tdstelecom.com/online-life/streaming-tunes-tuesday-jefferson-starship/",
+      "snippet": "It was a concept album and featured a group of ad hoc musicians, including David Crosby and Graham Nash (CSNY) and then Jerry Garcia (Grateful Dead)."
+    },
+    {
+      "title": "Streaming Tunes Tuesday: Shovels and Rope | TDS Connect",
+      "url": "https://blog.tdstelecom.com/online-life/streaming-tunes-tuesday-shovels-and-rope/",
+      "snippet": "TDS Telecommunications delivers high-speed internet, TV entertainment, and phone services to a mix of rural and suburban communities throughout the U ..."
+    },
+    {
+      "title": "Streaming Tunes Tuesday: Rocky Horror Picture Show | TDS Connect",
+      "url": "https://blog.tdstelecom.com/online-life/streaming-tunes-tuesday-rocky-horror-picture-show/",
+      "snippet": "TDS Telecommunications delivers high-speed internet, TV entertainment, and phone services to a mix of rural and suburban communities throughout the U ..."
+    },
+    {
+      "title": "C Worthington Found - Phone Numbers, Addresses & Possible",
+      "url": "https://www.zabasearch.com/people/c-worthington/",
+      "snippet": "If searching city, a state must be selected. ... bellsouth telecommunications inc dba southern bell telephone & telegraph (at&t southeast)"
+    }
+  ]
+}
+
+RULES:
+- Ground ALL assessments in the provided evidence
+- Cite specific sources in activity_signal (e.g., "Recent FCC filing (2024)", "Company website found via search")
+- Use "Unknown" when evidence is insufficient - DO NOT hallucinate
+- Confidence levels:
+  - High = Multiple confirming signals (recent web presence + recent filings + company details)
+  - Medium = Some signals but incomplete picture
+  - Low = FCC data only, no external confirmation
+
+Call the enrichment_result function with your analysis.

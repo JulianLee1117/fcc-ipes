@@ -1,0 +1,83 @@
+You are analyzing an IPES (Interconnected VoIP Provider) company that filed for numbering authorization with the FCC.
+
+Based ONLY on the evidence provided below, determine:
+1. Whether the company is likely still active
+2. Their industry segment (UCaaS, CCaaS, CPaaS, Carrier, Reseller, Enterprise IT, or Other)
+3. A brief product summary
+4. Their market position (Enterprise, Mid-Market, SMB, Startup, or Unknown)
+5. Your confidence level based on evidence quality
+
+EVIDENCE PACK:
+{
+  "company_name": "Bandwidth, Inc.",
+  "aliases": [
+    "Bandwidth, Inc."
+  ],
+  "fcc_filing": {
+    "first_filing_date": "2024-04-16",
+    "latest_filing_date": "2024-04-16",
+    "total_filings": 1,
+    "docket_numbers": [
+      "24-127"
+    ],
+    "proceeding_types": [
+      "Interconnected VoIP Numbering Authorization Application Filed By Bandwidth Inc. Pursuant To Section 52.15(g)(3) Of The Commission's Rules"
+    ],
+    "has_supplements": false,
+    "recent_activity": true
+  },
+  "parsed_from_docs": {
+    "address": null,
+    "city": null,
+    "state": null,
+    "zip_code": null,
+    "phone": null,
+    "email": null,
+    "key_personnel": [
+      {
+        "name": "sswwiittcchheess oonn",
+        "title": "COO"
+      }
+    ],
+    "founding_date": null,
+    "service_description": null
+  },
+  "web_search_results": [
+    {
+      "title": "Bandwidth Inc . | LinkedIn",
+      "url": "https://es.linkedin.com/company/bandwidth-inc",
+      "snippet": "Bandwidth Inc . | 110.251 seguidores en LinkedIn.Bandwidth is the universal communications platform that simplifies how businesses deliver integrated global experiences. It's flexible and ready to integrate with your entire communications stack."
+    },
+    {
+      "title": "Bandwidth Inc . Stock Overview \u2014 BAND UW Summary... \u2014 Roic AI",
+      "url": "https://www.roic.ai/quote/BAND:UW",
+      "snippet": "Bandwidth Inc . (NYSE: BAND) provides cloud communications platform-as-a-service (CPaaS) solutions that enable enterprises to deliver voice , messaging, and emergency services through APIs and software tools."
+    },
+    {
+      "title": "General Bandwidth appoints new Vice President of World-Wide Sales...",
+      "url": "https://ribboncommunications.com/company/media-center/press-releases/general-bandwidth-appoints-new-vice-president-world-wide-sales-and-vice-president-marketing",
+      "snippet": "General Bandwidth , a leading Voice Over IP ( VoIP ) telecommunications equipment manufacturer, today announced the appointment of Robert Vrij as Senior Vice President of Worldwide Sales and Jody Bennett as Vice President of Marketing."
+    },
+    {
+      "title": "Bandwidth .com | Golden",
+      "url": "https://wiki.golden.com/wiki/Bandwidth.com-6AAWZM",
+      "snippet": "Bandwidth .com is a North Carolina-based software company specializing in developing business-grade communications platforms and products.Available tools through Bandwidth include communication APIs, cloud services, and VoIP origination."
+    },
+    {
+      "title": "Voip Services Market Size, Share, Trends and In-depth Insights 2032",
+      "url": "https://hackerattacks.einnews.com/pr_news/786039508/voip-services-market-size-share-trends-and-in-depth-insights-2032-8x8-inc-at-t-inc-avaya-inc-bandwidth-inc",
+      "snippet": "The VoIP Services Market is estimated at USD 205.98 billion in 2025 and is projected to reach approximately USD 3,139.54 billion by 2032."
+    }
+  ]
+}
+
+RULES:
+- Ground ALL assessments in the provided evidence
+- Cite specific sources in activity_signal (e.g., "Recent FCC filing (2024)", "Company website found via search")
+- Use "Unknown" when evidence is insufficient - DO NOT hallucinate
+- Confidence levels:
+  - High = Multiple confirming signals (recent web presence + recent filings + company details)
+  - Medium = Some signals but incomplete picture
+  - Low = FCC data only, no external confirmation
+
+Call the enrichment_result function with your analysis.

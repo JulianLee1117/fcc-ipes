@@ -1,0 +1,123 @@
+You are analyzing an IPES (Interconnected VoIP Provider) company that filed for numbering authorization with the FCC.
+
+Based ONLY on the evidence provided below, determine:
+1. Whether the company is likely still active
+2. Their industry segment (UCaaS, CCaaS, CPaaS, Carrier, Reseller, Enterprise IT, or Other)
+3. A brief product summary
+4. Their market position (Enterprise, Mid-Market, SMB, Startup, or Unknown)
+5. Your confidence level based on evidence quality
+
+EVIDENCE PACK:
+{
+  "company_name": "PanTerra Networks, Inc.",
+  "aliases": [
+    "PanTerra Networks, Inc."
+  ],
+  "fcc_filing": {
+    "first_filing_date": "2020-12-09",
+    "latest_filing_date": "2020-12-09",
+    "total_filings": 1,
+    "docket_numbers": [
+      "20-418"
+    ],
+    "proceeding_types": [
+      "Interconnected VoIP Numbering Authorization Application Filed By Panterra Networks, Inc. Pursuant To Section 52.15(g)(3) Of The Commission's Rules"
+    ],
+    "has_supplements": false,
+    "recent_activity": false
+  },
+  "parsed_from_docs": {
+    "address": "1350 Old Bayshore Hwy, #920, Burlingame, CA 94010",
+    "city": null,
+    "state": null,
+    "zip_code": null,
+    "phone": "2022043005",
+    "email": null,
+    "key_personnel": [
+      {
+        "name": "Chief Financial Officer",
+        "title": "PanTerra Networks"
+      },
+      {
+        "name": "and CEO",
+        "title": "President"
+      },
+      {
+        "name": "of Cradle",
+        "title": "CEO"
+      },
+      {
+        "name": "of Finance",
+        "title": "President"
+      },
+      {
+        "name": "of SunRocket",
+        "title": "COO"
+      },
+      {
+        "name": "of\nXpedite",
+        "title": "President"
+      },
+      {
+        "name": "and Managing",
+        "title": "president"
+      },
+      {
+        "name": "of Sales",
+        "title": "President"
+      },
+      {
+        "name": "of Development",
+        "title": "President"
+      },
+      {
+        "name": "of Customer",
+        "title": "President"
+      },
+      {
+        "name": "European business",
+        "title": "president"
+      }
+    ],
+    "founding_date": "2000",
+    "service_description": "providers to compromise\nPanTerra\u2019s position in the highly competitive interconnected VoIP sector."
+  },
+  "web_search_results": [
+    {
+      "title": "PanTerra Networks | LinkedIn",
+      "url": "https://br.linkedin.com/company/panterra-networks",
+      "snippet": "PanTerra Networks em: Mundialmente. Expandir pesquisa. PanTerra Networks . Telecomunica\u00e7\u00f5es. Santa Clara, CA 2.757 seguidores."
+    },
+    {
+      "title": "Voip Provider PanTerra Networks Inc .",
+      "url": "https://www.voipproviderslist.com/country/voip-usa/voip-providers-usa/panterra-networks-inc",
+      "snippet": "Home USA PanTerra Networks Inc . PanTerra Networks Inc .PanTerra's WorldSmart delivers cloud-based unified communications to businesses around the world, integrating business VoIP , web and desktop collaboration, digital fax, instant messaging, presence, mixed medium group..."
+    },
+    {
+      "title": "PanTerra Networks - YouTube",
+      "url": "https://www.youtube.com/channel/UCifSKDGqSa-fHJYSeBFQ1BA",
+      "snippet": "PanTerra Networks , Inc . is the premier service provider of Streams, a unified cloud communication service that provides a flexible and powerful communication infrastructure for businesses of any size that will increase productivity and competitiveness at lower costs."
+    },
+    {
+      "title": "PanTerra Networks , Inc . \u2013 4655 Old Ironsides Drive - Cybo",
+      "url": "https://xn--telefonknyga-quc.cybo.com/US-biz/panterra-networks-inc_3y",
+      "snippet": "\u012emon\u0117s PanTerra Networks , Inc . veiklos vieta: Santa Klara (Kalifornija). PanTerra Networks , Inc . dirba \u0161iose srityse: Kompiuteri\u0173 programavimas, puslapi\u0173 k\u016brimas, Elektronikos parduotuv\u0117s, Telekomunikacijos. Galite susisiekti su \u012fmone telefono numeriu (800) 805-0558."
+    },
+    {
+      "title": "PanTerra Networks Inc . Adds Seasoned Communications Leader",
+      "url": "https://www.globenewswire.com/news-release/2009/07/14/1001347/0/en/PanTerra-Networks-Inc-Adds-Seasoned-Communications-Leader-to-Management-Team.html",
+      "snippet": "Prior to joining PanTerra Networks , Immethun was the Sr. Director of Sales and Director of Product marketing at 8x8 Inc ., a business Voice over IP service ( VoIP ) provider. Mr. Immethun was responsible for all sales of Packet8 branded Virtual Office Hosted PBX, Mixed Media..."
+    }
+  ]
+}
+
+RULES:
+- Ground ALL assessments in the provided evidence
+- Cite specific sources in activity_signal (e.g., "Recent FCC filing (2024)", "Company website found via search")
+- Use "Unknown" when evidence is insufficient - DO NOT hallucinate
+- Confidence levels:
+  - High = Multiple confirming signals (recent web presence + recent filings + company details)
+  - Medium = Some signals but incomplete picture
+  - Low = FCC data only, no external confirmation
+
+Call the enrichment_result function with your analysis.

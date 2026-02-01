@@ -1,0 +1,103 @@
+You are analyzing an IPES (Interconnected VoIP Provider) company that filed for numbering authorization with the FCC.
+
+Based ONLY on the evidence provided below, determine:
+1. Whether the company is likely still active
+2. Their industry segment (UCaaS, CCaaS, CPaaS, Carrier, Reseller, Enterprise IT, or Other)
+3. A brief product summary
+4. Their market position (Enterprise, Mid-Market, SMB, Startup, or Unknown)
+5. Your confidence level based on evidence quality
+
+EVIDENCE PACK:
+{
+  "company_name": "MetTel",
+  "aliases": [
+    "MetTel"
+  ],
+  "fcc_filing": {
+    "first_filing_date": "2016-04-12",
+    "latest_filing_date": "2016-04-12",
+    "total_filings": 3,
+    "docket_numbers": [
+      "16-134"
+    ],
+    "proceeding_types": [
+      "Interconnected VoIP Numbering Authorization Application Filed By Manhattan Telecommunications Corporation Pursuant To Section 52.15(g)(3) Of The Commission?s Rules"
+    ],
+    "has_supplements": false,
+    "recent_activity": false
+  },
+  "parsed_from_docs": {
+    "address": "ss WRtcr Strtct, 32. . Floor",
+    "city": null,
+    "state": null,
+    "zip_code": null,
+    "phone": null,
+    "email": null,
+    "key_personnel": [
+      {
+        "name": "Chief Executive Officer",
+        "title": "David Aronow"
+      },
+      {
+        "name": "Ed Fox",
+        "title": "President"
+      },
+      {
+        "name": "of Network",
+        "title": "President"
+      },
+      {
+        "name": "Chief Executive Officer",
+        "title": "David Aronow"
+      },
+      {
+        "name": "Ed Fox",
+        "title": "President"
+      },
+      {
+        "name": "of Network",
+        "title": "President"
+      }
+    ],
+    "founding_date": "1996",
+    "service_description": "provides both\nfacilities-based and non-facilities based services as well as a being an Interconnected VoIP\nProvider."
+  },
+  "web_search_results": [
+    {
+      "title": "MetTel | Business Telecom Voice, Network & Mobility Services",
+      "url": "https://www.mettel.net/",
+      "snippet": "MetTel is a leading provider of integrated voice, data, network, cloud, and mobility IT solutions for businesses and government nationwide."
+    },
+    {
+      "title": "MetTel Communications Voip Provider",
+      "url": "https://businessvoipexperts.com/voipproviders/mettelcommunications.html",
+      "snippet": "MetTel is a cutting-edge telecom service provider delivering software and telecom services to enterprise companies nationwide. MetTel create next-generation systems to meet the challenge of today\u2019s business climate while setting new standards for the telecom industry."
+    },
+    {
+      "title": "MetTel - MetTel Communications | Clarus Communications",
+      "url": "https://houston.clarusco.com/portfolio/mettel/",
+      "snippet": "By converging all communications over a proprietary network, MetTel enables enterprise companies to easily deploy and manage technology-driven voice , data, wireless and cloud solutions nationwide."
+    },
+    {
+      "title": "MetTel - AVANT",
+      "url": "https://goavant.net/providers/mettel/",
+      "snippet": "MetTel is a global communications solutions provider for business and government agencies. We design and deploy tailored connectivity and networking solutions for voice , data, mobility, and IoT by leveraging our global private network and the industry\u2019s broadest portfolio of innovative technology."
+    },
+    {
+      "title": "MetTel - LinkedIn",
+      "url": "https://www.linkedin.com/company/mettel",
+      "snippet": "MetTel is a global communications solutions provider for businesses and government agencies. We design and deploy tailored connectivity and networking solutions for voice , data, mobility, and..."
+    }
+  ]
+}
+
+RULES:
+- Ground ALL assessments in the provided evidence
+- Cite specific sources in activity_signal (e.g., "Recent FCC filing (2024)", "Company website found via search")
+- Use "Unknown" when evidence is insufficient - DO NOT hallucinate
+- Confidence levels:
+  - High = Multiple confirming signals (recent web presence + recent filings + company details)
+  - Medium = Some signals but incomplete picture
+  - Low = FCC data only, no external confirmation
+
+Call the enrichment_result function with your analysis.

@@ -1,0 +1,139 @@
+You are analyzing an IPES (Interconnected VoIP Provider) company that filed for numbering authorization with the FCC.
+
+Based ONLY on the evidence provided below, determine:
+1. Whether the company is likely still active
+2. Their industry segment (UCaaS, CCaaS, CPaaS, Carrier, Reseller, Enterprise IT, or Other)
+3. A brief product summary
+4. Their market position (Enterprise, Mid-Market, SMB, Startup, or Unknown)
+5. Your confidence level based on evidence quality
+
+EVIDENCE PACK:
+{
+  "company_name": "Verification Technologies, LLC",
+  "aliases": [
+    "Verification Technologies, LLC"
+  ],
+  "fcc_filing": {
+    "first_filing_date": "2024-04-19",
+    "latest_filing_date": "2024-04-19",
+    "total_filings": 1,
+    "docket_numbers": [
+      "24-132"
+    ],
+    "proceeding_types": [
+      "Interconnected VoIP Numbering Authorization Application Filed By Verification Technologies, LLC Pursuant To Section 52.15(g)(3) Of The Commission's Rules"
+    ],
+    "has_supplements": false,
+    "recent_activity": true
+  },
+  "parsed_from_docs": {
+    "address": null,
+    "city": "Henderson",
+    "state": "NV",
+    "zip_code": "89014",
+    "phone": "4045194096",
+    "email": "rongrob@apelaprofsvcs.com",
+    "key_personnel": [
+      {
+        "name": "Daniel McKeehan",
+        "title": "CTO"
+      },
+      {
+        "name": "Mathew Beucler",
+        "title": "CEO"
+      },
+      {
+        "name": "Daniel McKeehan",
+        "title": "CTO"
+      },
+      {
+        "name": "Chief Technology Officer",
+        "title": "Verification Technologies"
+      },
+      {
+        "name": "Chief Executive Officer",
+        "title": "Matthew Beucler"
+      },
+      {
+        "name": "of Verification",
+        "title": "CEO"
+      },
+      {
+        "name": "Chief Technology Officer",
+        "title": "Daniel McKeehan"
+      },
+      {
+        "name": "of Verification",
+        "title": "CTO"
+      },
+      {
+        "name": "of Verification",
+        "title": "CTO"
+      },
+      {
+        "name": "of\nDMC",
+        "title": "CEO"
+      },
+      {
+        "name": "and General",
+        "title": "CFO"
+      },
+      {
+        "name": "and General",
+        "title": "CFO"
+      },
+      {
+        "name": "his\ncurrent role",
+        "title": "CTO"
+      },
+      {
+        "name": "he served",
+        "title": "CEO"
+      },
+      {
+        "name": "to his role",
+        "title": "CFO"
+      }
+    ],
+    "founding_date": null,
+    "service_description": null
+  },
+  "web_search_results": [
+    {
+      "title": "VERIFICATION TECHNOLOGIES, LLC in Las Vegas, NV | Company Info",
+      "url": "https://www.bizapedia.com/nv/verification-technologies-llc.html",
+      "snippet": "Jan 15, 2026 \u00b7 Discover Company Info on VERIFICATION TECHNOLOGIES , LLC in Las Vegas, NV, such as Contacts, Addresses, Reviews, and Registered Agent."
+    },
+    {
+      "title": "VoIP Numbering Authorization Grants | Federal Communications ...",
+      "url": "https://www.fcc.gov/wireline-competition/voip-numbering-authorization-grants",
+      "snippet": "Jun 18, 2025 \u00b7 The Wireline Competition Bureau has granted the applications listed below pursuant to the Commission\u2019s streamlined procedures for interconnected VoIP numbering authorization applications."
+    },
+    {
+      "title": "USAC RFP: Redundant Telecom Services & VOIP - IT-26-014",
+      "url": "https://www.mysetaside.com/contract-search/usac-rfp-redundant-telecom-services-voip/it-26-014",
+      "snippet": "4 days ago \u00b7 USAC RFP: Redundant Telecom Services & VOIP Posted Date: Jan 28, 2026 Due Date: Mar 02, 2026 Awarded Date: No Awarded Date"
+    },
+    {
+      "title": "Verification Technologies",
+      "url": "https://www.verificationtechnologies.ai/",
+      "snippet": "Seamless, compliant carrier products to simplify connectivity and modernize your distributed infrastructure. Connective solutions to help your business connect with customers, collaborate with colleagues, and manage networks of devices."
+    },
+    {
+      "title": "PUBLIC NOTICE - Federal Communications Commission",
+      "url": "https://docs.fcc.gov/public/attachments/DA-24-833A1.pdf",
+      "snippet": "The Wireline Competition Bureau has granted the application listed in this notice pursuant to the Commission\u2019s streamlined procedures for interconnected VoIP numbering authorization applications.1"
+    }
+  ]
+}
+
+RULES:
+- Ground ALL assessments in the provided evidence
+- Cite specific sources in activity_signal (e.g., "Recent FCC filing (2024)", "Company website found via search")
+- Use "Unknown" when evidence is insufficient - DO NOT hallucinate
+- Confidence levels:
+  - High = Multiple confirming signals (recent web presence + recent filings + company details)
+  - Medium = Some signals but incomplete picture
+  - Low = FCC data only, no external confirmation
+
+Call the enrichment_result function with your analysis.

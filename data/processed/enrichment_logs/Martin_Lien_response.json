@@ -1,0 +1,35 @@
+{
+  "id": "msg_01ULoH5SU83rVhA4xTwMse1m",
+  "content": [
+    {
+      "id": "toolu_01QBbDHJxxPxnEMAwPuxNbes",
+      "input": {
+        "is_active": false,
+        "activity_signal": "No evidence of active operations. Single FCC filing from 2021-11-23 with no recent activity. Web search results only return generic patent documents mentioning \"lien\" as a legal term, not company-specific content. No company website, social media, or business listings found.",
+        "industry_segment": "Unknown",
+        "product_summary": "Unable to determine products or services - no service description in FCC filing and no company-specific information found in web searches.",
+        "market_position": "Unknown",
+        "enrichment_confidence": "Low"
+      },
+      "name": "enrichment_result",
+      "type": "tool_use"
+    }
+  ],
+  "model": "claude-sonnet-4-20250514",
+  "role": "assistant",
+  "stop_reason": "tool_use",
+  "stop_sequence": null,
+  "type": "message",
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0,
+    "input_tokens": 1593,
+    "output_tokens": 213,
+    "server_tool_use": null,
+    "service_tier": "standard"
+  }
+}

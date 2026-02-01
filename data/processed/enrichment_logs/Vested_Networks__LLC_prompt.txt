@@ -1,0 +1,79 @@
+You are analyzing an IPES (Interconnected VoIP Provider) company that filed for numbering authorization with the FCC.
+
+Based ONLY on the evidence provided below, determine:
+1. Whether the company is likely still active
+2. Their industry segment (UCaaS, CCaaS, CPaaS, Carrier, Reseller, Enterprise IT, or Other)
+3. A brief product summary
+4. Their market position (Enterprise, Mid-Market, SMB, Startup, or Unknown)
+5. Your confidence level based on evidence quality
+
+EVIDENCE PACK:
+{
+  "company_name": "Vested Networks, LLC",
+  "aliases": [
+    "Vested Networks LLC",
+    "Vested Networks, LLC"
+  ],
+  "fcc_filing": {
+    "first_filing_date": "2022-10-11",
+    "latest_filing_date": "2022-10-11",
+    "total_filings": 3,
+    "docket_numbers": [
+      "22-358"
+    ],
+    "proceeding_types": [
+      "Interconnected VoIP Numbering Authorization Application Filed By Vested Networks, LLC Pursuant To Section 52.15(g)(3) Of The Commission's Rules"
+    ],
+    "has_supplements": true,
+    "recent_activity": false
+  },
+  "parsed_from_docs": {
+    "address": "809 Office Park Circle, Suite 100",
+    "city": "Lewisville",
+    "state": "TE",
+    "zip_code": "75057",
+    "phone": "9729240324",
+    "email": null,
+    "key_personnel": [],
+    "founding_date": null,
+    "service_description": null
+  },
+  "web_search_results": [
+    {
+      "title": "Vested Networks | Business Phones | Lewisville, TX",
+      "url": "https://www.vestednetworks.com/",
+      "snippet": "Upgrade your office phone system with our VoIP business phone solutions and award-winning customer service. Discover reliable communication tools designed to elevate your business."
+    },
+    {
+      "title": "Vested Networks - LinkedIn",
+      "url": "https://www.linkedin.com/company/vested-networks/",
+      "snippet": "Vested Networks specializes in seamless migration to modern, reliable VOIP solutions that ensure your business continuity. We help you move off copper without the headache. Don't let your..."
+    },
+    {
+      "title": "VESTED NETWORKS - Updated January 2026 - 11 Photos - 809 ... Vested Networks | Lewisville TX - Facebook Vested Networks Company Profile | Management and Employees List PUBLIC NOTICE - docs.fcc.gov Vested Networks Company Profile -Sales, Contacts, Competitors ...",
+      "url": "https://www.yelp.com/biz/vested-networks-lewisville",
+      "snippet": "Vested Networks is a hosted VoIP phone system provider. We serve small to medium size businesses with cost effective communication services, and ongoing support for the service. You get a phone system that is custom tailored to your business needs.\u2026 Hosted VoIP phone service. Changing the telecommunication industry from the inside out. Vested Networks provides VoIP business phone solutions aimed at enhancing office communication with a focus on customer service excellence. The company specializes in offering a range of products from simple business phones to customizable Unified Communications as a Service (UCaaS) solutions. Vested Networks , LLC (Vested Networks ), an interconnected Voice over Internet Protocol ( VoIP ) provider, filed a Numbering Authorization Application (Application) pursuant to section 52.15(g)(3) of the Federal Communications Commission\u2019s rules, seeking authorization to obtain North American Numbering Plan telephone numbers directly from the ... Vested Networks is in the Telecommunications Consultant industry within the Engineering, Accounting, Research, and Management Services sector and has been in business for approximately 9 years."
+    },
+    {
+      "title": "Vested Networks | Lewisville TX - Facebook Vested Networks Company Profile | Management and Employees List PUBLIC NOTICE - docs.fcc.gov Vested Networks Company Profile -Sales, Contacts, Competitors ...",
+      "url": "https://www.facebook.com/vestednetworks/",
+      "snippet": "Hosted VoIP phone service. Changing the telecommunication industry from the inside out. Vested Networks provides VoIP business phone solutions aimed at enhancing office communication with a focus on customer service excellence. The company specializes in offering a range of products from simple business phones to customizable Unified Communications as a Service (UCaaS) solutions. Vested Networks , LLC (Vested Networks ), an interconnected Voice over Internet Protocol ( VoIP ) provider, filed a Numbering Authorization Application (Application) pursuant to section 52.15(g)(3) of the Federal Communications Commission\u2019s rules, seeking authorization to obtain North American Numbering Plan telephone numbers directly from the ... Vested Networks is in the Telecommunications Consultant industry within the Engineering, Accounting, Research, and Management Services sector and has been in business for approximately 9 years."
+    },
+    {
+      "title": "Vested Networks Company Profile | Management and Employees List",
+      "url": "https://www.datanyze.com/companies/vested-networks/456939117",
+      "snippet": "Vested Networks provides VoIP business phone solutions aimed at enhancing office communication with a focus on customer service excellence. The company specializes in offering a range of products from simple business phones to customizable Unified Communications as a Service (UCaaS) solutions."
+    }
+  ]
+}
+
+RULES:
+- Ground ALL assessments in the provided evidence
+- Cite specific sources in activity_signal (e.g., "Recent FCC filing (2024)", "Company website found via search")
+- Use "Unknown" when evidence is insufficient - DO NOT hallucinate
+- Confidence levels:
+  - High = Multiple confirming signals (recent web presence + recent filings + company details)
+  - Medium = Some signals but incomplete picture
+  - Low = FCC data only, no external confirmation
+
+Call the enrichment_result function with your analysis.

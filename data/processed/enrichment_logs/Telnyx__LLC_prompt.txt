@@ -1,0 +1,96 @@
+You are analyzing an IPES (Interconnected VoIP Provider) company that filed for numbering authorization with the FCC.
+
+Based ONLY on the evidence provided below, determine:
+1. Whether the company is likely still active
+2. Their industry segment (UCaaS, CCaaS, CPaaS, Carrier, Reseller, Enterprise IT, or Other)
+3. A brief product summary
+4. Their market position (Enterprise, Mid-Market, SMB, Startup, or Unknown)
+5. Your confidence level based on evidence quality
+
+EVIDENCE PACK:
+{
+  "company_name": "Telnyx, LLC",
+  "aliases": [
+    "Telnyx LLC",
+    "Telnyx, LLC"
+  ],
+  "fcc_filing": {
+    "first_filing_date": "2016-05-16",
+    "latest_filing_date": "2016-05-16",
+    "total_filings": 6,
+    "docket_numbers": [
+      "16-172"
+    ],
+    "proceeding_types": [
+      "INTERCONNECTED VOIP NUMBERING AUTHORIZATION APPLICATION FILED BY TELNYX, LLC. PURSUANT TO SECTION 52.15(g)(3) OF THE COMMISSION?S RULES"
+    ],
+    "has_supplements": false,
+    "recent_activity": false
+  },
+  "parsed_from_docs": {
+    "address": "212 West Superior St., Suite 200,",
+    "city": null,
+    "state": null,
+    "zip_code": null,
+    "phone": null,
+    "email": null,
+    "key_personnel": [
+      {
+        "name": "Chief Technical\nOfficer",
+        "title": "Ian Reither"
+      },
+      {
+        "name": "Chief Technology Officer",
+        "title": "Ian Reither"
+      },
+      {
+        "name": "Chief Operating Officer",
+        "title": "Rogelio Perez"
+      },
+      {
+        "name": "Chief Executive Officer",
+        "title": "Law Office"
+      }
+    ],
+    "founding_date": "2009",
+    "service_description": "provider of interconnected VoIP services in the above\ncaptioned proceeding."
+  },
+  "web_search_results": [
+    {
+      "title": "Telnyx\u2014Voice AI Agents with Built-In Global Telco Infrastructure",
+      "url": "https://telnyx.com/",
+      "snippet": "Deploy Voice AI Agents over Telnyx 's private global network for unmatched latency, uptime, and call quality. Private IP backbone for crystal-clear calls and lightning-fast responses."
+    },
+    {
+      "title": "Telnyx LLC | BBB Business Profile | Better Business Bureau",
+      "url": "https://www.bbb.org/us/tx/austin/profile/telecommunications/telnyx-llc-0825-1000240125",
+      "snippet": "Telnyx provides voice AI and telecommunications services, including conversational AI agents, speech-to-text transcription, and text-to-speech capabilities. The company assists clients with..."
+    },
+    {
+      "title": "TELNYX- New Comment Reminds FCC It Has Yet To Be Proven Guilty",
+      "url": "https://natlawreview.com/article/telnyx-tells-fcc-back-new-comment-reminds-fcc-nobody-has-determined-it-did-anything",
+      "snippet": "Dec 8, 2025 \u00b7 One of my favorite stories of 2025 is the saga of the Telnyx FCC robocall scam. Although that\u2019s probably a pretty bad name for it because Telnyx claims it had nothing to do with it."
+    },
+    {
+      "title": "FCC Proposes $4.5 Million Fine Against Telnyx LLC for Alleged ...",
+      "url": "https://www.consumerfinancialserviceslawmonitor.com/2025/02/fcc-proposes-4-5-million-fine-against-telnyx-llc-for-alleged-robocall-violations/",
+      "snippet": "Feb 7, 2025 \u00b7 On February 4, the Federal Communications Commission (FCC) proposed a $4,492,500 fine against Telnyx LLC for allegedly allowing illegal robocalls on its network."
+    },
+    {
+      "title": "What is Telnyx? | Telnyx Help Center",
+      "url": "https://support.telnyx.com/en/articles/1130637-what-is-telnyx",
+      "snippet": "The platform is ideal for enterprises looking to scale rapidly while managing call volumes and quality without being constrained by traditional telecom limitations. Telnyx VoIP is particularly beneficial for call centers, customer support services, and unified communication platforms."
+    }
+  ]
+}
+
+RULES:
+- Ground ALL assessments in the provided evidence
+- Cite specific sources in activity_signal (e.g., "Recent FCC filing (2024)", "Company website found via search")
+- Use "Unknown" when evidence is insufficient - DO NOT hallucinate
+- Confidence levels:
+  - High = Multiple confirming signals (recent web presence + recent filings + company details)
+  - Medium = Some signals but incomplete picture
+  - Low = FCC data only, no external confirmation
+
+Call the enrichment_result function with your analysis.

@@ -1,0 +1,87 @@
+You are analyzing an IPES (Interconnected VoIP Provider) company that filed for numbering authorization with the FCC.
+
+Based ONLY on the evidence provided below, determine:
+1. Whether the company is likely still active
+2. Their industry segment (UCaaS, CCaaS, CPaaS, Carrier, Reseller, Enterprise IT, or Other)
+3. A brief product summary
+4. Their market position (Enterprise, Mid-Market, SMB, Startup, or Unknown)
+5. Your confidence level based on evidence quality
+
+EVIDENCE PACK:
+{
+  "company_name": "Andrew Metcalfe",
+  "aliases": [
+    "Andrew Metcalfe"
+  ],
+  "fcc_filing": {
+    "first_filing_date": "2017-09-15",
+    "latest_filing_date": "2017-09-15",
+    "total_filings": 1,
+    "docket_numbers": [
+      "17-366"
+    ],
+    "proceeding_types": [
+      "INTERCONNECTED VOIP NUMBERING AUTHORIZATION APPLICATION FILED BY RED SPECTRUM COMMUNICATIONS, LLC PURSUANT TO SECTION 52.15(g)(3) OF THE COMMISSION&#146;S RULES"
+    ],
+    "has_supplements": false,
+    "recent_activity": false
+  },
+  "parsed_from_docs": {
+    "address": "Red Spectrum Communications, LLC",
+    "city": null,
+    "state": null,
+    "zip_code": null,
+    "phone": null,
+    "email": "twilliams@cdatribe-nsn.gov",
+    "key_personnel": [
+      {
+        "name": "and CEO",
+        "title": "President"
+      },
+      {
+        "name": "Shawn Smith",
+        "title": "CFO"
+      }
+    ],
+    "founding_date": null,
+    "service_description": null
+  },
+  "web_search_results": [
+    {
+      "title": "MyNetFone - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/MyNetFone",
+      "snippet": "... VoIP phone plan Business Voice Communications Residential DSL Internet Plans Business Boardband Phone Hardware Virtual BPX Business Phone Systems NBN ..."
+    },
+    {
+      "title": "Bullitt Group - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Bullitt_Group",
+      "snippet": "Telecommunications ... Telecommunications industry in the United Kingdom ... European Conference of Postal and Telecommunications Administrations"
+    },
+    {
+      "title": "FedEx and ZapMail\u2026 | Ian Andrew Bell",
+      "url": "https://ianbell.com/2003/01/08/fedex-and-zapmail/",
+      "snippet": "Customer-owned Networks: ZapMail and the Telecommunications Industry First published January 7, 2003 on the \u2018 Networks, Economics, and Culture ..."
+    },
+    {
+      "title": "US20060221940A1 - Generic provisioning of Voice Over Internet",
+      "url": "https://patents.google.com/patent/US20060221940A1/en",
+      "snippet": "VoIP services comprise an emerging market that capitalizes on the pervasive nature of our existing data services and the Internet."
+    },
+    {
+      "title": "US8134999B2 - Generic provisioning of voice over internet",
+      "url": "https://patents.google.com/patent/US8134999B2/en",
+      "snippet": "Internet 102 is world-wide, and can encompass all forms of electronic telecommunications through one or more adapter units, such as terminal adapter ..."
+    }
+  ]
+}
+
+RULES:
+- Ground ALL assessments in the provided evidence
+- Cite specific sources in activity_signal (e.g., "Recent FCC filing (2024)", "Company website found via search")
+- Use "Unknown" when evidence is insufficient - DO NOT hallucinate
+- Confidence levels:
+  - High = Multiple confirming signals (recent web presence + recent filings + company details)
+  - Medium = Some signals but incomplete picture
+  - Low = FCC data only, no external confirmation
+
+Call the enrichment_result function with your analysis.

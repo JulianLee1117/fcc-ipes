@@ -1,0 +1,81 @@
+You are analyzing an IPES (Interconnected VoIP Provider) company that filed for numbering authorization with the FCC.
+
+Based ONLY on the evidence provided below, determine:
+1. Whether the company is likely still active
+2. Their industry segment (UCaaS, CCaaS, CPaaS, Carrier, Reseller, Enterprise IT, or Other)
+3. A brief product summary
+4. Their market position (Enterprise, Mid-Market, SMB, Startup, or Unknown)
+5. Your confidence level based on evidence quality
+
+EVIDENCE PACK:
+{
+  "company_name": "AireSpring, Inc.",
+  "aliases": [
+    "AireSpring, Inc.",
+    "Airespring, Inc."
+  ],
+  "fcc_filing": {
+    "first_filing_date": "2016-07-27",
+    "latest_filing_date": "2016-07-27",
+    "total_filings": 3,
+    "docket_numbers": [
+      "16-198",
+      "16-248"
+    ],
+    "proceeding_types": [
+      "Interconnected VoIP Numbering Authorization Application Filed By Local Access, LLC Pursuant to Section 52.15(g)(3) of The Commission's Rules.",
+      "Title: Interconnected VoIP Numbering Authorization Application Filed By AireSpring, Inc. Pursuant To Section 52.15(g)(3) Of The Commission&#146;s Rules"
+    ],
+    "has_supplements": false,
+    "recent_activity": false
+  },
+  "parsed_from_docs": {
+    "address": null,
+    "city": null,
+    "state": null,
+    "zip_code": null,
+    "phone": null,
+    "email": null,
+    "key_personnel": [],
+    "founding_date": null,
+    "service_description": null
+  },
+  "web_search_results": [
+    {
+      "title": "AireSpring | Managed Solutions. Personalized Service.",
+      "url": "https://airespring.com/",
+      "snippet": "AireSpring is a Global managed services provider, MSSP, MCSP, next-generation aggregator specializing in Managed IT, Network Services, Security and Unified Communications for multi-location enterprises."
+    },
+    {
+      "title": "About Us | AireSpring Wireless",
+      "url": "https://airespringwireless.com/about-us/",
+      "snippet": "AireSpring Wireless is a division of AireSpring , a Global Managed Services Provider and next generation aggregator specializing in Managed IT, Network Services and Unified Communications, as well as Mobile and IoT."
+    },
+    {
+      "title": "AireSpring - caissontechnologies.com AireSpring Voip Provider AIRESPRING INC - Global Providers Directory AireSpring - EverybodyWiki Bios & Wiki AireSpring - LinkedIn About Us | AireSpring Wireless About Us | AireSpring Wireless About Us | AireSpring Wireless AireSpring | Managed Solutions. Personalized Service",
+      "url": "https://www.caissontechnologies.com/airespring",
+      "snippet": "AireSpring is a privately held, diversified, debt free, and full service communications company which offers a broad range of innovative services at competitive prices. Speak with a Business VoIP Experts consultant today for more information about your company's specific requirements and customized quotes on AireSpring Telecommunications Services. AireSpring Inc has grown and evolved over the years to become a leading provider of voice, data, and cloud communications solutions. The company prides itself on delivering high-quality services that meet the needs of businesses of all sizes. Since then, AireSpring has expanded its portfolio to include local phone service, dedicated internet, ethernet, MPLS VPN, SD-WAN, Cloud Connectivity, Managed Security (firewalls, DDoS mitigation) and VoIP /SIP trunking services. Global provider of Managed SASE, SD-WAN, UCaaS, Security, and Connectivity to global, multi-location enterprises. AireSpring empowers global enterprises with fully managed, best-of-breed IT and... Does AireSpring partner with AT&T? AireSpring currently partners with AT&T , a mobile operator providing wholesale talk, text, and data offerings to resellers. AireSpring is a leading Communications Services Provider focusing on managed services to enterprise clients and offering a full range of services in the North American market and globally. What is AireSpring MVNO? AireSpring offers a Light MVNO model, a next-gen version of MVNOs with faster deployment and easier management of mobility network services. AireSpring Wireless\u2019 Mobile Virtual Network Operator (MVNO), Internet of Things (IoT) and Broadband solutions make it easy for enterprises to connect their teams along with their devices. What is AireSpring wireless? AireSpring Wireless is a Virtual Network Enabler (VNE). We enable and support Mobile and IoT and Wireless Broadband Virtual Network Operators (VNOs). Typically, our MVNO services are offered in two ways: Full MVNO and Light MVNO. Understanding the difference between a Full and Light VNO is important. Who is AireSpring? No Problem! AireSpring is known for its global expertise. In 2001, we were founded to solve the unique communications challenges of multi-site businesses by aggregating and delivering multicarrier services with consolidated billing and customer support. Today, we extend that founding principle across the full tech stack."
+    },
+    {
+      "title": "AireSpring Voip Provider",
+      "url": "https://businessvoipexperts.com/voipproviders/airespring.html",
+      "snippet": "Speak with a Business VoIP Experts consultant today for more information about your company's specific requirements and customized quotes on AireSpring Telecommunications Services."
+    },
+    {
+      "title": "AIRESPRING INC - Global Providers Directory",
+      "url": "https://www.connectbase.com/network-service-provider/airespring-inc/",
+      "snippet": "AireSpring Inc has grown and evolved over the years to become a leading provider of voice, data, and cloud communications solutions. The company prides itself on delivering high-quality services that meet the needs of businesses of all sizes."
+    }
+  ]
+}
+
+RULES:
+- Ground ALL assessments in the provided evidence
+- Cite specific sources in activity_signal (e.g., "Recent FCC filing (2024)", "Company website found via search")
+- Use "Unknown" when evidence is insufficient - DO NOT hallucinate
+- Confidence levels:
+  - High = Multiple confirming signals (recent web presence + recent filings + company details)
+  - Medium = Some signals but incomplete picture
+  - Low = FCC data only, no external confirmation
+
+Call the enrichment_result function with your analysis.

@@ -1,0 +1,91 @@
+You are analyzing an IPES (Interconnected VoIP Provider) company that filed for numbering authorization with the FCC.
+
+Based ONLY on the evidence provided below, determine:
+1. Whether the company is likely still active
+2. Their industry segment (UCaaS, CCaaS, CPaaS, Carrier, Reseller, Enterprise IT, or Other)
+3. A brief product summary
+4. Their market position (Enterprise, Mid-Market, SMB, Startup, or Unknown)
+5. Your confidence level based on evidence quality
+
+EVIDENCE PACK:
+{
+  "company_name": "E. Ritter Communications, LLC DBA Ritter Communications and DBA RightFiber",
+  "aliases": [
+    "E. Ritter Communications, LLC DBA Ritter Communications and DBA RightFiber"
+  ],
+  "fcc_filing": {
+    "first_filing_date": "2025-03-21",
+    "latest_filing_date": "2025-03-21",
+    "total_filings": 4,
+    "docket_numbers": [
+      "25-154"
+    ],
+    "proceeding_types": [
+      "Interconnected VoIP Numbering Authorization Application Filed By E. Ritter Communications, LLC DBA Ritter Communications and DBA RightFiber Pursuant To Section 52.15(g)(3) Of The Commission's Rules"
+    ],
+    "has_supplements": true,
+    "recent_activity": true
+  },
+  "parsed_from_docs": {
+    "address": "2400 Ritter Drive",
+    "city": "Jonesboro",
+    "state": "AR",
+    "zip_code": "72401",
+    "phone": "8883364466",
+    "email": null,
+    "key_personnel": [
+      {
+        "name": "Chief Executive Officer",
+        "title": "Kyle Keith"
+      },
+      {
+        "name": "Chief Operating Officer",
+        "title": "Lexanne Horton"
+      },
+      {
+        "name": "Chief Revenue Officer",
+        "title": "Victor Esposito"
+      }
+    ],
+    "founding_date": "1982",
+    "service_description": "providers to compromise Ritter Communications\u2019\nposition in the highly competitive interconnected VoIP business sector."
+  },
+  "web_search_results": [
+    {
+      "title": "Home | E. Ritter & Company",
+      "url": "https://eritter.com/",
+      "snippet": "Home | ...portfolio of businesses in agriculture, telecommunications , fire and life safety, and information technology services totaling 1,000 employees..."
+    },
+    {
+      "title": "About Us | Ritter Communications",
+      "url": "https://www.rittercommunications.com/about",
+      "snippet": "Learn more about Ritter Communications , who we are, where we serve and our vision."
+    },
+    {
+      "title": "About Ritter Business | Ritter Communications",
+      "url": "https://www.ritterbusiness.com/about",
+      "snippet": "Founded in 1906 and headquartered in Jonesboro, Arkansas, Ritter Communications is committed to growing and evolving to meet the demands of today\u2019s ever-connected world."
+    },
+    {
+      "title": "Interconnected VoIP Numbering Authorization Application Filed",
+      "url": "https://www.fcc.gov/document/interconnected-voip-numbering-authorization-application-filed-115",
+      "snippet": "Aug 25, 2025 \u00b7 Interconnected VoIP Numbering Authorization Application Filed By E . Ritter Communications, LLC DBA Ritter Communications and DBA RightFiber Pursuant To Section 52.15 (g) (3) Of The Commission's Rules"
+    },
+    {
+      "title": "E. Ritter Communications, LLC Company Profile | Jonesboro ... E. Ritter Communications Holdings, LLC \u00b7 2400 Ritter Drive ... Ritter Communications - About Ritter Business Ritter Communications Availability Map - HighSpeedInternet.com Ritter Communications - About Ritter Business About Us | Ritter Communications E. Ritter Communications Company Profile -Sales, Contacts ...",
+      "url": "https://www.dnb.com/business-directory/company-profiles.e_ritter_communications_llc.c2fc6566c93bb5eb8138e2473aef75ab.html",
+      "snippet": "Find company research, competitor information, contact details & financial data for E . Ritter Communications, LLC of Jonesboro, Arkansas. Get the latest business insights from Dun & Bradstreet. E . Ritter Communications Holdings, LLC (LEI# 254900WU6SLIPGCQT351) is a legal entity registered with Bloomberg Finance L.P.. The address is 2400 Ritter Drive, Jonesboro, US-AR, 72401, US. Who is Ritter Communications? Founded in 1906 and headquartered in Jonesboro, Arkansas, Ritter Communications is committed to growing and evolving to meet the demands of today\u2019s ever-connected world. Is Ritter Communications a good cable provider? Ritter Communications offers bundle options that make budgeting easier for those considering their TV services . Their TV services specialize in local programming, providing access to local events, school programs, and news channels. On the other hand, they also cater to businesses. Who is a small business sales representative at Ritter Communications? Trevor joined Ritter Communications in 2018 as a Small Business Sales Representative. Trevor was then promoted to Small Business Sales Manager, building out a team of representatives to establish new relationships with businesses throughout Ritter \u2019s expanding fiber footprint. How many states does Ritter Communications serve? With Advanced, Affordable Technology. * Ritter Communications serves 6 states in network and 11 states out of network including our partner's networks. Learn more about Ritter Communications, who we are, where we serve and our vision. E . Ritter Communications , LLC (trade name Ritter Communications ) is in the Cellular Telephone Services business. View competitors, revenue, employees, website and phone number."
+    }
+  ]
+}
+
+RULES:
+- Ground ALL assessments in the provided evidence
+- Cite specific sources in activity_signal (e.g., "Recent FCC filing (2024)", "Company website found via search")
+- Use "Unknown" when evidence is insufficient - DO NOT hallucinate
+- Confidence levels:
+  - High = Multiple confirming signals (recent web presence + recent filings + company details)
+  - Medium = Some signals but incomplete picture
+  - Low = FCC data only, no external confirmation
+
+Call the enrichment_result function with your analysis.

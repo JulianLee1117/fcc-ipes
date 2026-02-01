@@ -1,0 +1,35 @@
+{
+  "id": "msg_015HNU2AiBFXQWJhkYffk1RN",
+  "content": [
+    {
+      "id": "toolu_018UjSkVduqXq5BRiyV2bvAt",
+      "input": {
+        "is_active": true,
+        "activity_signal": "Recent FCC filing (2025-03-07) for VoIP numbering authorization shows current regulatory activity. Web search results confirm active business operations with services described across multiple platforms including CBInsights, LinkedIn, and BBB accreditation. Company claims \"For more than 25 years\" of operation and recent investment from Linx Partners indicates ongoing business activity.",
+        "industry_segment": "UCaaS",
+        "product_summary": "Clear Rate Communications provides unified communications and telecommunications solutions including fiber internet, hosted voice systems, managed IT services, and cloud servers primarily for business customers across 20+ states.",
+        "market_position": "Enterprise",
+        "enrichment_confidence": "High"
+      },
+      "name": "enrichment_result",
+      "type": "tool_use"
+    }
+  ],
+  "model": "claude-sonnet-4-20250514",
+  "role": "assistant",
+  "stop_reason": "tool_use",
+  "stop_sequence": null,
+  "type": "message",
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0,
+    "input_tokens": 2273,
+    "output_tokens": 240,
+    "server_tool_use": null,
+    "service_tier": "standard"
+  }
+}

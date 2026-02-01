@@ -1,0 +1,35 @@
+{
+  "id": "msg_019MZjcxX5SF7UUQNsGfDQou",
+  "content": [
+    {
+      "id": "toolu_01AiwLMFQ2pfVvJXsDCi2HkG",
+      "input": {
+        "is_active": false,
+        "activity_signal": "No evidence of current activity. Only FCC filing from 2018-03-29 with no recent activity. FCC Form 499 registration last current as of April 1, 2020. Web searches show corporate registrations but no active business website or recent business activity. The edgetel.com.au website appears to be a different Australian company offering hosted PBX services, not the same entity.",
+        "industry_segment": "Carrier",
+        "product_summary": "EdgeTel provides VoIP services in multiple states (DC, MD, MA, NJ, NY, PA, RI, VA) through its own facilities and CLEC partner arrangements for routing traffic to the PSTN.",
+        "market_position": "Unknown",
+        "enrichment_confidence": "Medium"
+      },
+      "name": "enrichment_result",
+      "type": "tool_use"
+    }
+  ],
+  "model": "claude-sonnet-4-20250514",
+  "role": "assistant",
+  "stop_reason": "tool_use",
+  "stop_sequence": null,
+  "type": "message",
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0,
+    "input_tokens": 2051,
+    "output_tokens": 264,
+    "server_tool_use": null,
+    "service_tier": "standard"
+  }
+}

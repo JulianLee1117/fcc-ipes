@@ -1,0 +1,35 @@
+{
+  "id": "msg_01VULga2iq1T7ASAutpuB3iV",
+  "content": [
+    {
+      "id": "toolu_01HkByMiAX9vxMd2qwoeetLu",
+      "input": {
+        "is_active": false,
+        "activity_signal": "No recent activity signals found. FCC filing was single occurrence in 2019 with no supplements or recent activity. Web search results show only historical references to FCC filings from 2019-2021 and basic corporate registration data. No active website, current business operations, or recent regulatory activity identified.",
+        "industry_segment": "UCaaS",
+        "product_summary": "HDC Epsilon, LLC was intended to provide interconnected VoIP services initially in California, seeking numbering authorization from the FCC to obtain telephone numbers directly from Numbering Administrators.",
+        "market_position": "Unknown",
+        "enrichment_confidence": "Medium"
+      },
+      "name": "enrichment_result",
+      "type": "tool_use"
+    }
+  ],
+  "model": "claude-sonnet-4-20250514",
+  "role": "assistant",
+  "stop_reason": "tool_use",
+  "stop_sequence": null,
+  "type": "message",
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0,
+    "input_tokens": 2258,
+    "output_tokens": 233,
+    "server_tool_use": null,
+    "service_tier": "standard"
+  }
+}

@@ -1,0 +1,107 @@
+You are analyzing an IPES (Interconnected VoIP Provider) company that filed for numbering authorization with the FCC.
+
+Based ONLY on the evidence provided below, determine:
+1. Whether the company is likely still active
+2. Their industry segment (UCaaS, CCaaS, CPaaS, Carrier, Reseller, Enterprise IT, or Other)
+3. A brief product summary
+4. Their market position (Enterprise, Mid-Market, SMB, Startup, or Unknown)
+5. Your confidence level based on evidence quality
+
+EVIDENCE PACK:
+{
+  "company_name": "Five9, Inc.",
+  "aliases": [
+    "Five9, Inc."
+  ],
+  "fcc_filing": {
+    "first_filing_date": "2020-09-16",
+    "latest_filing_date": "2020-09-16",
+    "total_filings": 3,
+    "docket_numbers": [
+      "20-309"
+    ],
+    "proceeding_types": [
+      "Interconnected VoIP Numbering Authorization Application Filed By Five9, Inc Pursuant To Section 52.15(g)(3) Of The Commission's Rules"
+    ],
+    "has_supplements": false,
+    "recent_activity": false
+  },
+  "parsed_from_docs": {
+    "address": "4000 Executive Parkway",
+    "city": null,
+    "state": null,
+    "zip_code": null,
+    "phone": null,
+    "email": "Melinda.Bas@five9.com",
+    "key_personnel": [
+      {
+        "name": "Chief Technology Officer",
+        "title": "Contact for"
+      },
+      {
+        "name": "Chief Compliance Officer",
+        "title": "at\nFive"
+      },
+      {
+        "name": "Chief Legal Officer",
+        "title": "and Corporate"
+      },
+      {
+        "name": "positions at",
+        "title": "President"
+      },
+      {
+        "name": "Chief Technology Officer",
+        "title": "and head"
+      },
+      {
+        "name": "for the",
+        "title": "CTO"
+      },
+      {
+        "name": "Chief Compliance Officer",
+        "title": "in her"
+      }
+    ],
+    "founding_date": null,
+    "service_description": "provides VoIP services in all fifty states and in a number of foreign\ncountries using its own facilities and those of its wholesale carrier partners that route its traffic to\nthe PSTN."
+  },
+  "web_search_results": [
+    {
+      "title": "Five9 - 2026 Company Profile & Team - Tracxn Five9 | Leading IT Solutions for 99.999% Availability Five9 Inc Company Profile - Five9 Inc Overview - GlobalData Five9 - LinkedIn FCC Form 499 Filer Database Detailed Information Five9 - 2025 Company Profile & Team - Tracxn Contact Center Platform - Contact Center Providers - What Is Five9 Five9 Inc Company Profile - Five9 Inc Overview - GlobalData Five9 2026 Company Profile: Stock Performance & Earnings | PitchBook Five9 2026 Company Profile: Stock Performance & Earnings ...",
+      "url": "https://tracxn.com/d/companies/five9/__JXk3Ofvz2iMoaQ068o4v9gQMlRyt3g1efkvfUSFHxUU",
+      "snippet": "Jan 14, 2026 \u00b7 Five9 is an acquired company based in San Ramon (United States), founded in 2001 by Gus Laredo. It operates as a Provider of AI and cloud based contact center suite solutions. Five9 has raised $84.1M in funding from investors like Adams Street Partners, Mosaic Capital Partners and HWVP. Founded in 2014, Five 9 is driven by a commitment to providing unmatched availability for mission-critical applications. Inspired by \" Five Nines \"\u201499.999% Availability\u2014we empower clients across industries to achieve optimal IT performance and resiliency. Five9 Inc ( Five9 ) is a technology company that provides cloud contact center software. The company provides interactive voice response (IVR), real-time and historical dashboards, reporting, intelligent virtual assistant (IVA), analytics, workforce optimization and workflow automation. Transformed by AI, Powered by Five9 . Five9 provides a comprehensive suite of CX solutions, powered by Five9 Genius AI, to elevate customer experiences that deliver better business outcomes in... Apr 1, 2025 \u00b7 Legal Name of Reporting Entity: Five9 , Inc . Doing Business As: Five9 Principal Communications Type: Interconnected VoIP Universal Service Fund Contributor: Yes (Contact USAC at 888-641-8722 if this is not correct.) Holding Company: Five9 , Inc . Registration Number (CORESID): 0022289409 Who owns Five9? Five9 is an acquired company based in San Ramon (United States), founded in 2001 by Gus Laredo . It operates as a Provider of AI and cloud based contact center suite solutions. Five9 has raised $84.1M in funding from investors like Adams Street Partners, Mosaic Capital Partners and HWVP. Who is Five9 contact center? Five9 is one of the leading contact center providers . We are driven by a passion to transform contact centers into customer engagement centers of excellence, coupled with a deep understanding of the cost and complexity involved in running a contact center. Learn more about Five9's contact center platform customers can depends on. What does Five9 stand for? Five9 Inc ( Five9 ) is a technology company that provides cloud contact center software. The company provides interactive voice response (IVR), real-time and historical dashboards, reporting, intelligent virtual assistant (IVA), analytics, workforce optimization and workflow automation. Does Five9 offer cloud-native contact center software? Five9 offers cloud-native contact center software enabling digital customer service, sales, and marketing engagement. The company's Virtual Contact Center platform combines core telephony functionality, omnichannel engagement, and various modules into a unified cloud contact-center-as-a-service, or CCaaS, platform. Five9 offers cloud-native contact center software enabling digital customer service, sales, and marketing engagement. Th. PitchBook\u2019s comparison feature gives you a side-by-side look at key metrics for similar companies. Personalize which data points you want to see and create visualizations instantly."
+    },
+    {
+      "title": "Five9 Inc Company Profile - Five9 Inc Overview - GlobalData",
+      "url": "https://www.globaldata.com/company-profile/five9-inc/",
+      "snippet": "Five9 Inc ( Five9 ) is a technology company that provides cloud contact center software. The company provides interactive voice response (IVR), real-time and historical dashboards, reporting, intelligent virtual assistant (IVA), analytics, workforce optimization and workflow automation."
+    },
+    {
+      "title": "Five9 - LinkedIn",
+      "url": "https://www.linkedin.com/company/five9",
+      "snippet": "Transformed by AI, Powered by Five9 . Five9 provides a comprehensive suite of CX solutions, powered by Five9 Genius AI, to elevate customer experiences that deliver better business outcomes in..."
+    },
+    {
+      "title": "Five9 2026 Company Profile: Stock Performance & Earnings ...",
+      "url": "https://pitchbook.com/profiles/company/51497-56",
+      "snippet": "Five9 offers cloud-native contact center software enabling digital customer service, sales, and marketing engagement. Th. PitchBook\u2019s comparison feature gives you a side-by-side look at key metrics for similar companies. Personalize which data points you want to see and create visualizations instantly."
+    },
+    {
+      "title": "Five9 | Leading IT Solutions for 99.999% Availability",
+      "url": "https://five9.co/",
+      "snippet": "Founded in 2014, Five 9 is driven by a commitment to providing unmatched availability for mission-critical applications. Inspired by \" Five Nines \"\u201499.999% Availability\u2014we empower clients across industries to achieve optimal IT performance and resiliency."
+    }
+  ]
+}
+
+RULES:
+- Ground ALL assessments in the provided evidence
+- Cite specific sources in activity_signal (e.g., "Recent FCC filing (2024)", "Company website found via search")
+- Use "Unknown" when evidence is insufficient - DO NOT hallucinate
+- Confidence levels:
+  - High = Multiple confirming signals (recent web presence + recent filings + company details)
+  - Medium = Some signals but incomplete picture
+  - Low = FCC data only, no external confirmation
+
+Call the enrichment_result function with your analysis.

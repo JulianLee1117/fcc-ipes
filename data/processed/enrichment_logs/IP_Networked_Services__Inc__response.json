@@ -1,0 +1,35 @@
+{
+  "id": "msg_013w2SKVbbFTqWmfsZzY17kZ",
+  "content": [
+    {
+      "id": "toolu_019NxW38jCzSQBy39ZKNLqyo",
+      "input": {
+        "is_active": true,
+        "activity_signal": "Company shows active status in Florida business records (intercreditreport.com), updated ARIN registry entry as recent as 2023-11-30, and maintains BGP network operations (AS18441, AS40227). Multiple business directory listings confirm ongoing presence.",
+        "industry_segment": "Carrier",
+        "product_summary": "Network infrastructure provider operating BGP networks and IP services, likely providing connectivity and network services to other organizations.",
+        "market_position": "Unknown",
+        "enrichment_confidence": "Medium"
+      },
+      "name": "enrichment_result",
+      "type": "tool_use"
+    }
+  ],
+  "model": "claude-sonnet-4-20250514",
+  "role": "assistant",
+  "stop_reason": "tool_use",
+  "stop_sequence": null,
+  "type": "message",
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0,
+    "input_tokens": 1907,
+    "output_tokens": 205,
+    "server_tool_use": null,
+    "service_tier": "standard"
+  }
+}

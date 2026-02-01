@@ -1,0 +1,78 @@
+You are analyzing an IPES (Interconnected VoIP Provider) company that filed for numbering authorization with the FCC.
+
+Based ONLY on the evidence provided below, determine:
+1. Whether the company is likely still active
+2. Their industry segment (UCaaS, CCaaS, CPaaS, Carrier, Reseller, Enterprise IT, or Other)
+3. A brief product summary
+4. Their market position (Enterprise, Mid-Market, SMB, Startup, or Unknown)
+5. Your confidence level based on evidence quality
+
+EVIDENCE PACK:
+{
+  "company_name": "Leap Telecom, LLC",
+  "aliases": [
+    "Leap Telecom, LLC"
+  ],
+  "fcc_filing": {
+    "first_filing_date": "2020-09-04",
+    "latest_filing_date": "2020-09-04",
+    "total_filings": 1,
+    "docket_numbers": [
+      "20-308"
+    ],
+    "proceeding_types": [
+      "Interconnected VoIP Numbering Authorization Application Filed By Leap Telecom, LLC Pursuant To Section 52.15(g)(3) Of The Commission's Rules"
+    ],
+    "has_supplements": false,
+    "recent_activity": false
+  },
+  "parsed_from_docs": {
+    "address": "2150 W 29th Ave",
+    "city": "Denver",
+    "state": "CO",
+    "zip_code": "80211",
+    "phone": "8335327835",
+    "email": "intagree@qwest.com",
+    "key_personnel": [],
+    "founding_date": null,
+    "service_description": "provide interconnected VoIP services initially in Colorado,\nhowevertheCompanyanticipatesthatitwillprovideVoIPservicesnationwide,andaccordingly,willrequest\nnumbers from other states in tum after its initial request in Colorado."
+  },
+  "web_search_results": [
+    {
+      "title": "Teliax, Leap Telecom and Toll-Free Exchange Rebrand as Ringer",
+      "url": "https://ringer.tel/blog/teliax-leap-telecom-and-toll-free-exchange-rebrand-as-ringer",
+      "snippet": "Apr 30, 2025 \u00b7 By combining expertise in telecom , cloud communications, mobility, and enterprise voice with proprietary, ultra-flexible infrastructure, Ringer can solve the most complex communication challenges."
+    },
+    {
+      "title": "LEAP TELECOM, LLC | Telecommunications Resellers in Denver, CO",
+      "url": "https://naicslist.com/company-profile/leap-telecom-llc-denver-co-80211",
+      "snippet": "Leap Telecom , LLC is a specialized Telecommunications Resellers firm based in Denver, CO (80211). Functioning as a Limited Liability Company (llc), they have been operating for over 2 years and maintain a team of approximately 3 employees."
+    },
+    {
+      "title": "Leap Telecom Information - RocketReach Leap Telecom - Overview, News & Similar companies - ZoomInfo Leap Telecom, LLC - Denver, CO - Alignable Leap Telecom - Products, Competitors, Financials, Employees ...",
+      "url": "https://rocketreach.co/leap-telecom-profile_b45f5692fc692554",
+      "snippet": "Leap Telecom is a software company focused on business communications IP. We began helping clients in 2004 under Teliax, Inc, a wholesale telecommunications company that services the biggest names in the telecommunications industry. Compare insights from companies similar to Leap Telecom , focusing on performance, financial data, growth rates, and unique benchmarks to identify key industry trends and opportunities. Our products include phone service that includes us providing a new phone (Hosted IP PBX), services where the customer has their own handsets (SIP/ VoIP Handsets), Contact Center Software Platform software, Conferencing Services, as well as Toll-Free services. Their offerings include hosted PBX, SIP trunking, Microsoft Teams integration, and toll-free services. Leap Telecom serves a variety of customers, from small businesses to enterprise-level contact centers. It was founded in 2004 and is based in Denver, Colorado."
+    },
+    {
+      "title": "Leap Telecom - Overview, News & Similar companies - ZoomInfo",
+      "url": "https://www.zoominfo.com/c/leap-telecom-llc/461497385",
+      "snippet": "Compare insights from companies similar to Leap Telecom , focusing on performance, financial data, growth rates, and unique benchmarks to identify key industry trends and opportunities."
+    },
+    {
+      "title": "Leap Telecom, LLC - Denver, CO - Alignable",
+      "url": "https://www.alignable.com/denver-co/leap-telecom-llc",
+      "snippet": "Our products include phone service that includes us providing a new phone (Hosted IP PBX), services where the customer has their own handsets (SIP/ VoIP Handsets), Contact Center Software Platform software, Conferencing Services, as well as Toll-Free services."
+    }
+  ]
+}
+
+RULES:
+- Ground ALL assessments in the provided evidence
+- Cite specific sources in activity_signal (e.g., "Recent FCC filing (2024)", "Company website found via search")
+- Use "Unknown" when evidence is insufficient - DO NOT hallucinate
+- Confidence levels:
+  - High = Multiple confirming signals (recent web presence + recent filings + company details)
+  - Medium = Some signals but incomplete picture
+  - Low = FCC data only, no external confirmation
+
+Call the enrichment_result function with your analysis.

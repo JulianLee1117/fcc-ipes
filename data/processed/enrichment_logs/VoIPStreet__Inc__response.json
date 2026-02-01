@@ -1,0 +1,35 @@
+{
+  "id": "msg_01Rvd81Sg5j4VbWpaa9t6zcK",
+  "content": [
+    {
+      "id": "toolu_01D1d9tUwDqJzfbZH2F4BZyZ",
+      "input": {
+        "is_active": false,
+        "activity_signal": "Company appears inactive based on: 1) Latest FCC filing from 2016-10-31 with no recent activity, 2) FTC warning letter listed on government site suggests regulatory issues, 3) Email contact shows 'legal@sangoma.com' indicating potential acquisition/merger, 4) Web search results show limited current presence with mainly historical/archived information",
+        "industry_segment": "UCaaS",
+        "product_summary": "VoIPStreet was a VoIP telecommunications provider offering both retail and wholesale VoIP services, operating as part of an \"all-in-one VoIP solutions provider\" with network services and private label offerings.",
+        "market_position": "Unknown",
+        "enrichment_confidence": "Medium"
+      },
+      "name": "enrichment_result",
+      "type": "tool_use"
+    }
+  ],
+  "model": "claude-sonnet-4-20250514",
+  "role": "assistant",
+  "stop_reason": "tool_use",
+  "stop_sequence": null,
+  "type": "message",
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0,
+    "input_tokens": 2217,
+    "output_tokens": 256,
+    "server_tool_use": null,
+    "service_tier": "standard"
+  }
+}

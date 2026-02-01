@@ -1,0 +1,35 @@
+{
+  "id": "msg_01KXXcvdvGynLLWAABdz1PB3",
+  "content": [
+    {
+      "id": "toolu_0172uEbNp1uEbvqo3VjHpMGA",
+      "input": {
+        "is_active": true,
+        "activity_signal": "Recent FCC filing (2024-11-26) with 3 filings for numbering authorization. Active company website found via search (telimize.com) describing current services. Listed on business platforms like Clutch.co and Crunchbase with active contact information (sales@telimize.com, 707-371-6927). CEO Grantham Hamm identified in FCC documents.",
+        "industry_segment": "UCaaS",
+        "product_summary": "Telimize provides cloud communication solutions including UCaaS, SIP trunking, VoIP services, messaging APIs, and WhatsApp APIs for business connectivity through calls, messages, meetings, and events.",
+        "market_position": "SMB",
+        "enrichment_confidence": "High"
+      },
+      "name": "enrichment_result",
+      "type": "tool_use"
+    }
+  ],
+  "model": "claude-sonnet-4-20250514",
+  "role": "assistant",
+  "stop_reason": "tool_use",
+  "stop_sequence": null,
+  "type": "message",
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0,
+    "input_tokens": 1931,
+    "output_tokens": 265,
+    "server_tool_use": null,
+    "service_tier": "standard"
+  }
+}

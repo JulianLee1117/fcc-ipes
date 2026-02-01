@@ -1,0 +1,96 @@
+You are analyzing an IPES (Interconnected VoIP Provider) company that filed for numbering authorization with the FCC.
+
+Based ONLY on the evidence provided below, determine:
+1. Whether the company is likely still active
+2. Their industry segment (UCaaS, CCaaS, CPaaS, Carrier, Reseller, Enterprise IT, or Other)
+3. A brief product summary
+4. Their market position (Enterprise, Mid-Market, SMB, Startup, or Unknown)
+5. Your confidence level based on evidence quality
+
+EVIDENCE PACK:
+{
+  "company_name": "3 Com, LLC.",
+  "aliases": [
+    "3 Com, LLC",
+    "3 Com, LLC."
+  ],
+  "fcc_filing": {
+    "first_filing_date": "2023-03-08",
+    "latest_filing_date": "2023-03-08",
+    "total_filings": 2,
+    "docket_numbers": [
+      "23-130"
+    ],
+    "proceeding_types": [
+      "Interconnected VoIP Numbering Authorization Application Filed By 3 Com, LLC. Pursuant To Section 52.15(g)(3) Of The Commission's Rules"
+    ],
+    "has_supplements": false,
+    "recent_activity": false
+  },
+  "parsed_from_docs": {
+    "address": "525 Cleveland Massillion Road",
+    "city": null,
+    "state": null,
+    "zip_code": null,
+    "phone": null,
+    "email": "david@3com.tel",
+    "key_personnel": [
+      {
+        "name": "Company Website",
+        "title": "President"
+      },
+      {
+        "name": "Company Website",
+        "title": "President"
+      },
+      {
+        "name": "telecommunications\nindustry and",
+        "title": "President"
+      },
+      {
+        "name": "telecommunications\nindustry and",
+        "title": "President"
+      }
+    ],
+    "founding_date": null,
+    "service_description": "provide VoIP services in the New York\nState and New Jersey through its own facilities and those of its CLEC partner with which it has\narrangements in place for routing traffic to the PSTN."
+  },
+  "web_search_results": [
+    {
+      "title": "Why Is Level 3 Communications, LLC Calling Me? - Is It Scam?",
+      "url": "https://www.thisisguernsey.com/why-is-level-3-communications-llc-calling-me/",
+      "snippet": "... is Level 3 communications, LLC calling me? This short post will tell you all the basic info you need to wrap your head around when it comes to VoIP ..."
+    },
+    {
+      "title": "VoiP Telephones \u2013 Power3 Communications",
+      "url": "https://power3comm.com/tag/voip-telephones-2/",
+      "snippet": "Power 3 was recently awarded a contract for an integrated telecommunications system for a town in Massachusetts. ... Power 3 Communications, LLC ."
+    },
+    {
+      "title": "Hosted VoIP, Considerations and Comments \u2013 Power3",
+      "url": "https://power3comm.com/hosted-voip-considerations-comments/",
+      "snippet": "They all happen to be providers of hosted VoIP phone systems and have many things in common that should be of interest to anyone considering a new ..."
+    },
+    {
+      "title": "Business VoIP Telephones - Greens Telecom LLC Dubai",
+      "url": "https://www.avayaippbxdubai.com/category/telephone/",
+      "snippet": "Our GXP1600 series of Basic IP phones deliver interactive communications to a desktop for the user who needs access to VoIP but does not require ..."
+    },
+    {
+      "title": "Business \u00bb Telecommunications (index)3: ABC Directory",
+      "url": "https://www.abc-directory.com/category/74/index3.html",
+      "snippet": "Covertel Telecomunications Group (Popularity: ) http://www.covertel. com .au/ Covertel Telecommunications Group specialize in providing ..."
+    }
+  ]
+}
+
+RULES:
+- Ground ALL assessments in the provided evidence
+- Cite specific sources in activity_signal (e.g., "Recent FCC filing (2024)", "Company website found via search")
+- Use "Unknown" when evidence is insufficient - DO NOT hallucinate
+- Confidence levels:
+  - High = Multiple confirming signals (recent web presence + recent filings + company details)
+  - Medium = Some signals but incomplete picture
+  - Low = FCC data only, no external confirmation
+
+Call the enrichment_result function with your analysis.

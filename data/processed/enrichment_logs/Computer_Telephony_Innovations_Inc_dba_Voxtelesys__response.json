@@ -1,0 +1,35 @@
+{
+  "id": "msg_01LkLcsgfqzC7CLTdbKFeUvi",
+  "content": [
+    {
+      "id": "toolu_01Ed3A1xSQmAttqd6VbSoBe7",
+      "input": {
+        "is_active": false,
+        "activity_signal": "No recent activity evidence found. FCC filing from 2020-04-24 with no recent filings (recent_activity: false). Web search results show generic VoIP providers (voip.ms, SpectrumVoIP, Cytracom, Clarity Voice) but no specific results for Voxtelesys.com or Computer Telephony Innovations Inc, suggesting no current web presence.",
+        "industry_segment": "UCaaS",
+        "product_summary": "VoIP telecommunications service provider based on company name \"Voxtelesys.com\" and FCC filing for Interconnected VoIP Numbering Authorization, though specific service details are unknown.",
+        "market_position": "Unknown",
+        "enrichment_confidence": "Low"
+      },
+      "name": "enrichment_result",
+      "type": "tool_use"
+    }
+  ],
+  "model": "claude-sonnet-4-20250514",
+  "role": "assistant",
+  "stop_reason": "tool_use",
+  "stop_sequence": null,
+  "type": "message",
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0,
+    "input_tokens": 1620,
+    "output_tokens": 262,
+    "server_tool_use": null,
+    "service_tier": "standard"
+  }
+}

@@ -1,0 +1,68 @@
+You are analyzing an IPES (Interconnected VoIP Provider) company that filed for numbering authorization with the FCC.
+
+Based ONLY on the evidence provided below, determine:
+1. Whether the company is likely still active
+2. Their industry segment (UCaaS, CCaaS, CPaaS, Carrier, Reseller, Enterprise IT, or Other)
+3. A brief product summary
+4. Their market position (Enterprise, Mid-Market, SMB, Startup, or Unknown)
+5. Your confidence level based on evidence quality
+
+EVIDENCE PACK:
+{
+  "company_name": "Red Spectrum Communications",
+  "aliases": [
+    "Red Spectrum Communications"
+  ],
+  "fcc_filing": {
+    "first_filing_date": "2018-02-13",
+    "latest_filing_date": "2018-02-13",
+    "total_filings": 1,
+    "docket_numbers": [
+      "17-366"
+    ],
+    "proceeding_types": [
+      "INTERCONNECTED VOIP NUMBERING AUTHORIZATION APPLICATION FILED BY RED SPECTRUM COMMUNICATIONS, LLC PURSUANT TO SECTION 52.15(g)(3) OF THE COMMISSION&#146;S RULES"
+    ],
+    "has_supplements": false,
+    "recent_activity": false
+  },
+  "parsed_from_docs": {},
+  "web_search_results": [
+    {
+      "title": "Red-Spectrum",
+      "url": "https://www.red-spectrum.com/",
+      "snippet": "Three High-Speed Prepaid plans to choose from. Stream Movies, Music, and TV Shows. Fixed Wireless requires line of site to the nearest tower. Use the service map to see a rough estimate of covered locations. Fiber Optic is available along existing fiber lines."
+    },
+    {
+      "title": "RED-SPECTRUM COMMUNICATIONS - Global Providers Directory",
+      "url": "https://www.connectbase.com/provider/red-spectrum-communications/",
+      "snippet": "Overall, RED - SPECTRUM COMMUNICATIONS is a trusted and reliable telecommunications provider in the USA, offering top-quality communication solutions to meet the diverse needs of its customers."
+    },
+    {
+      "title": "Red-Spectrum Communications | BBB Business Profile | Better ... Red-Spectrum Communications LLC Company Profile | Plummer, ID ... Red-Spectrum Communications - LinkedIn RED-SPECTRUM COMMUNICATIONS - Updated January 2026 - Yelp FCC Form 499 Filer Database Detailed Information",
+      "url": "https://www.bbb.org/us/id/plummer/profile/internet-service/red-spectrum-communications-1296-1000157201",
+      "snippet": "Internet Services in Plummer, ID. See BBB rating, reviews, complaints, and more. Find company research, competitor information, contact details & financial data for Red - Spectrum Communications LLC of Plummer, ID. Get the latest business insights from Dun & Bradstreet. Red - Spectrum Communications is an Internet Service Provider and technology center located in North Idaho. We offer several plans to meet the needs of our customers along with telephone and... About the Business Red - Spectrum Communications provides high speed internet up to 100 Mbps for residential customers, and up to 1 Gigabit for Enterprise and business customers.\u2026 499 Filer ID Number: 832068 Registration Current as of: 4/1/2022 Legal Name of Reporting Entity: Red Spectrum Communications LLC Doing Business As: Red Spectrum Communications LLC Principal Communications Type: Interconnected VoIP Universal Service Fund Contributor: Yes (Contact USAC at 888-641-8722 if this is not correct.)"
+    },
+    {
+      "title": "Red-Spectrum Communications LLC Company Profile | Plummer, ID ...",
+      "url": "https://www.dnb.com/business-directory/company-profiles.red-spectrum_communications_llc.de9495354641198a80993fb4f5ec12b1.html",
+      "snippet": "Find company research, competitor information, contact details & financial data for Red - Spectrum Communications LLC of Plummer, ID. Get the latest business insights from Dun & Bradstreet."
+    },
+    {
+      "title": "Red-Spectrum Communications - LinkedIn",
+      "url": "https://www.linkedin.com/company/red-spectrum",
+      "snippet": "Red - Spectrum Communications is an Internet Service Provider and technology center located in North Idaho. We offer several plans to meet the needs of our customers along with telephone and..."
+    }
+  ]
+}
+
+RULES:
+- Ground ALL assessments in the provided evidence
+- Cite specific sources in activity_signal (e.g., "Recent FCC filing (2024)", "Company website found via search")
+- Use "Unknown" when evidence is insufficient - DO NOT hallucinate
+- Confidence levels:
+  - High = Multiple confirming signals (recent web presence + recent filings + company details)
+  - Medium = Some signals but incomplete picture
+  - Low = FCC data only, no external confirmation
+
+Call the enrichment_result function with your analysis.

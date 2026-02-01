@@ -1,0 +1,35 @@
+{
+  "id": "msg_01VgZ7tGX5ZeNzofxjLuQJ4X",
+  "content": [
+    {
+      "id": "toolu_01WZ5tXjc6gRGuq6RCRUBpEV",
+      "input": {
+        "is_active": false,
+        "activity_signal": "Company was acquired by EarthLink in July 2023 according to multiple press releases (PR Newswire, EarthLink official press release, TMCNet). While the company website is still active (oneringnetworks.com), acquisition typically means the original entity is no longer operating independently. FCC filings show no recent activity since 2017.",
+        "industry_segment": "Carrier",
+        "product_summary": "One Ring Networks was a telecommunications service provider offering business internet solutions including fixed wireless, fiber, hosted PBX, VoIP telephony, and managed services across multiple states (CA, GA, TX, MD, AZ).",
+        "market_position": "SMB",
+        "enrichment_confidence": "High"
+      },
+      "name": "enrichment_result",
+      "type": "tool_use"
+    }
+  ],
+  "model": "claude-sonnet-4-20250514",
+  "role": "assistant",
+  "stop_reason": "tool_use",
+  "stop_sequence": null,
+  "type": "message",
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0,
+    "input_tokens": 2073,
+    "output_tokens": 253,
+    "server_tool_use": null,
+    "service_tier": "standard"
+  }
+}

@@ -1,0 +1,91 @@
+You are analyzing an IPES (Interconnected VoIP Provider) company that filed for numbering authorization with the FCC.
+
+Based ONLY on the evidence provided below, determine:
+1. Whether the company is likely still active
+2. Their industry segment (UCaaS, CCaaS, CPaaS, Carrier, Reseller, Enterprise IT, or Other)
+3. A brief product summary
+4. Their market position (Enterprise, Mid-Market, SMB, Startup, or Unknown)
+5. Your confidence level based on evidence quality
+
+EVIDENCE PACK:
+{
+  "company_name": "DOCOMO Pacific (Saipan), Inc.",
+  "aliases": [
+    "DOCOMO Pacific (Saipan), Inc."
+  ],
+  "fcc_filing": {
+    "first_filing_date": "2017-03-07",
+    "latest_filing_date": "2017-03-07",
+    "total_filings": 1,
+    "docket_numbers": [
+      "17-70"
+    ],
+    "proceeding_types": [
+      "INTERCONNECTED VOIP NUMBERING AUTHORIZATION APPLICATION FILED BY DOCOMO PACIFIC (SAIPAN), INC. PURSUANT TO SECTION 52.15(g)(3) OF THE COMMISSION&#146;S RULES"
+    ],
+    "has_supplements": false,
+    "recent_activity": false
+  },
+  "parsed_from_docs": {
+    "address": "219 S. Marine Corps Drive, Ste. 206, Tamuning, Guam 96913",
+    "city": null,
+    "state": null,
+    "zip_code": null,
+    "phone": "6716882355",
+    "email": null,
+    "key_personnel": [
+      {
+        "name": "Masafumi Masuda",
+        "title": "CEO"
+      },
+      {
+        "name": "Chief Legal Officer",
+        "title": "Willis Cannon"
+      },
+      {
+        "name": "Chief Legal Officer",
+        "title": "DOCOMO PACIFIC"
+      }
+    ],
+    "founding_date": null,
+    "service_description": "provide service within this 60-day period is based on: (1) its position as an established service\nprovider in the CNMI; (2) its existing network that will be used to provide interconnected Voice\nover Internet Protocol (\"VoIP\") services; and (3) the established network operations and business\nprocesses of its affiliate that has been providing interconnected VoIP services in Guam for more\nthan seven years."
+  },
+  "web_search_results": [
+    {
+      "title": "Docomo Pacific - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Docomo_Pacific",
+      "snippet": "Docomo Pacific is a wholly owned subsidiary of Japanese mobile phone operator NTT Docomo headquartered in Tamuning, Guam. It is the largest provider of mobile, television, internet and telephone services to the United States territories of Guam and the Northern Mariana Islands."
+    },
+    {
+      "title": "DOCOMO PACIFIC Guam",
+      "url": "https://www.docomopacific.com/",
+      "snippet": "DOCOMO PACIFIC is Guam's total telecom and entertainment services provider. Experience the best in TV, mobile, online, phone and business solutions on the widest network in the Marianas."
+    },
+    {
+      "title": "Docomo Pacific (Saipan), Inc. Details - govtribe.com",
+      "url": "https://govtribe.com/vendors/docomo-pacific-saipan-inc-dot-125v0",
+      "snippet": "DOCOMO PACIFIC is Guam's leading total telecom and entertainment services provider, offering TV, mobile, online, phone, and business solutions on the widest network in the Marianas."
+    },
+    {
+      "title": "About DOCOMO PACIFIC | DOCOMO PACIFIC Newsroom",
+      "url": "https://aboutus.docomopacific.com/about/",
+      "snippet": "Learn what we are all about. DOCOMO PACIFIC , the largest quad-play provider in the Marianas, is a wholly owned subsidiary of NTT DOCOMO, Japan\u2019s leading mobile operator. We offer award-winning Mobile, Online, Entertainment, and Telephone services, including multi-gig Fiber Internet speeds of up to 5 Gig symmetrical, 5G LTE, and the dTV+ app."
+    },
+    {
+      "title": "Docomo Pacific strengthens commitment to CNMI with new Saipan ...",
+      "url": "https://www.mvariety.com/business/docomo-pacific-strengthens-commitment-to-cnmi-with-new-saipan-call-center/article_7f1fcb42-6b33-11ef-a2fc-93f819a27d59.html/",
+      "snippet": "Sep 6, 2024 \u00b7 Docomo Pacific , the largest quad-play provider in the Marianas, is a wholly owned subsidiary of NTT Docomo, Japan\u2019s leading mobile operator. We offer award-winning Mobile, Online, Entertainment, and Telephone services, including up to 300 Mbps internet speeds, 5G LTE, and the dTV+ app."
+    }
+  ]
+}
+
+RULES:
+- Ground ALL assessments in the provided evidence
+- Cite specific sources in activity_signal (e.g., "Recent FCC filing (2024)", "Company website found via search")
+- Use "Unknown" when evidence is insufficient - DO NOT hallucinate
+- Confidence levels:
+  - High = Multiple confirming signals (recent web presence + recent filings + company details)
+  - Medium = Some signals but incomplete picture
+  - Low = FCC data only, no external confirmation
+
+Call the enrichment_result function with your analysis.

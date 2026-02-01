@@ -1,0 +1,159 @@
+You are analyzing an IPES (Interconnected VoIP Provider) company that filed for numbering authorization with the FCC.
+
+Based ONLY on the evidence provided below, determine:
+1. Whether the company is likely still active
+2. Their industry segment (UCaaS, CCaaS, CPaaS, Carrier, Reseller, Enterprise IT, or Other)
+3. A brief product summary
+4. Their market position (Enterprise, Mid-Market, SMB, Startup, or Unknown)
+5. Your confidence level based on evidence quality
+
+EVIDENCE PACK:
+{
+  "company_name": "TDS Broadband Service, LLC",
+  "aliases": [
+    "TDS Broadband Service, LLC"
+  ],
+  "fcc_filing": {
+    "first_filing_date": "2024-05-17",
+    "latest_filing_date": "2024-05-17",
+    "total_filings": 2,
+    "docket_numbers": [
+      "24-156"
+    ],
+    "proceeding_types": [
+      "Interconnected VoIP Numbering Authorization Application Filed By TDS Broadband Service, LLC Pursuant To Section 52.15(g)(3) Of The Commission's Rules"
+    ],
+    "has_supplements": true,
+    "recent_activity": true
+  },
+  "parsed_from_docs": {
+    "address": "525 Junction Road",
+    "city": "Madison",
+    "state": "WI",
+    "zip_code": "53717",
+    "phone": "1844322883",
+    "email": "Form499@usac.org",
+    "key_personnel": [
+      {
+        "name": "and Chief",
+        "title": "President"
+      },
+      {
+        "name": "and CEO",
+        "title": "President"
+      },
+      {
+        "name": "and CEO",
+        "title": "president"
+      },
+      {
+        "name": "Chief\nOperating Officer",
+        "title": "and Group"
+      },
+      {
+        "name": "of Marketing",
+        "title": "President"
+      },
+      {
+        "name": "Chief Operating Officer",
+        "title": "in January"
+      },
+      {
+        "name": "of Network",
+        "title": "President"
+      },
+      {
+        "name": "of Marketing",
+        "title": "President"
+      },
+      {
+        "name": "Chief Financial Officer",
+        "title": "Michelle was"
+      },
+      {
+        "name": "of Finance",
+        "title": "President"
+      },
+      {
+        "name": "Chief Financial Officer",
+        "title": "in February"
+      },
+      {
+        "name": "of Financial",
+        "title": "President"
+      },
+      {
+        "name": "of Human",
+        "title": "President"
+      },
+      {
+        "name": "of Human",
+        "title": "President"
+      },
+      {
+        "name": "of Information",
+        "title": "President"
+      },
+      {
+        "name": "Chief Technology\nOfficer",
+        "title": "Ken was"
+      },
+      {
+        "name": "of Marketing",
+        "title": "President"
+      },
+      {
+        "name": "of Corporate",
+        "title": "President"
+      },
+      {
+        "name": "of the",
+        "title": "president"
+      },
+      {
+        "name": "of the",
+        "title": "president"
+      }
+    ],
+    "founding_date": "1996",
+    "service_description": "provide VoIP service by interconnecting with the PSTN, and thus \u201cconcerns a service\nsubject to competition."
+  },
+  "web_search_results": [
+    {
+      "title": "TDS Telecom - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/TDS_Telecom",
+      "snippet": "With headquarters in Madison, TDS Telecom operates TDS Broadband LLC , and BendBroadband , and TDS Metrocom, LLC . ... services are offered by TDS ..."
+    },
+    {
+      "title": "Business Internet, Voice & TV Service | TDS Business",
+      "url": "https://hellotds.com/business.html?error=WelcomeDismiss",
+      "snippet": "TDS Broadband Service LLC is a subsidiary of Telephone and Data Systems, Inc. ... Copyright \u00a9 2025, TDS Telecommunications LLC , All Rights Reserved."
+    },
+    {
+      "title": "Why TDS | Discover TDS Business",
+      "url": "https://hellotds.com/business/why-tds.html",
+      "snippet": "TDS Telecommunications LLC ( TDS Telecom/ TDS \u00ae ) is a wholly owned ... TDS Broadband Service LLC is a subsidiary of Telephone and Data Systems, Inc."
+    },
+    {
+      "title": "Business VoIP Phone Service | TDS Business",
+      "url": "https://hellotds.com/business/phone.html",
+      "snippet": "... years, TDS has been providing customers with exceptional services . ... TDS Broadband Service LLC is a subsidiary of Telephone and Data Systems, Inc."
+    },
+    {
+      "title": "TDS to expand, improve broadband in Colorado | TDS Connect",
+      "url": "https://blog.tdstelecom.com/network-upgrades/western-colorado-upgrade/",
+      "snippet": "... TDS Telecom operates OneNeck IT Solutions LLC and BendBroadband, ... Cellular, TDS Telecom, OneNeck IT Solutions LLC , and TDS Broadband Service LLC ."
+    }
+  ]
+}
+
+RULES:
+- Ground ALL assessments in the provided evidence
+- Cite specific sources in activity_signal (e.g., "Recent FCC filing (2024)", "Company website found via search")
+- Use "Unknown" when evidence is insufficient - DO NOT hallucinate
+- Confidence levels:
+  - High = Multiple confirming signals (recent web presence + recent filings + company details)
+  - Medium = Some signals but incomplete picture
+  - Low = FCC data only, no external confirmation
+
+Call the enrichment_result function with your analysis.

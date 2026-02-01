@@ -1,0 +1,35 @@
+{
+  "id": "msg_01WSsRn5emEFhvoLjfjghXD1",
+  "content": [
+    {
+      "id": "toolu_01ES6GYkFtiNeSLqr6CPefws",
+      "input": {
+        "is_active": true,
+        "activity_signal": "Nevada business registry shows company status as \"Active\" (nevada-register.com search result), and legal activity evident through 2020 lawsuit against AT&T in California Central District Court (Justia docket filing). Company is also registered as VoIP provider with Connecticut PURA regulatory body.",
+        "industry_segment": "Carrier",
+        "product_summary": "HD Carrier is a VoIP carrier providing interconnected Voice over Internet Protocol services, initially serving California and New York markets.",
+        "market_position": "Unknown",
+        "enrichment_confidence": "Medium"
+      },
+      "name": "enrichment_result",
+      "type": "tool_use"
+    }
+  ],
+  "model": "claude-sonnet-4-20250514",
+  "role": "assistant",
+  "stop_reason": "tool_use",
+  "stop_sequence": null,
+  "type": "message",
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0,
+    "input_tokens": 1809,
+    "output_tokens": 217,
+    "server_tool_use": null,
+    "service_tier": "standard"
+  }
+}

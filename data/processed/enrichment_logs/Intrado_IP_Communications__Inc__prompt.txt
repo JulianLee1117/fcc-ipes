@@ -1,0 +1,83 @@
+You are analyzing an IPES (Interconnected VoIP Provider) company that filed for numbering authorization with the FCC.
+
+Based ONLY on the evidence provided below, determine:
+1. Whether the company is likely still active
+2. Their industry segment (UCaaS, CCaaS, CPaaS, Carrier, Reseller, Enterprise IT, or Other)
+3. A brief product summary
+4. Their market position (Enterprise, Mid-Market, SMB, Startup, or Unknown)
+5. Your confidence level based on evidence quality
+
+EVIDENCE PACK:
+{
+  "company_name": "Intrado IP Communications, Inc.",
+  "aliases": [
+    "Intrado IP Communications, Inc."
+  ],
+  "fcc_filing": {
+    "first_filing_date": "2021-04-15",
+    "latest_filing_date": "2021-04-15",
+    "total_filings": 3,
+    "docket_numbers": [
+      "21-179"
+    ],
+    "proceeding_types": [
+      "Interconnected VoIP Numbering Authorization Application Filed By Intrado IP Communications, Inc. Pursuant To Section 52.15(g)(3) Of The Commission's Rules"
+    ],
+    "has_supplements": true,
+    "recent_activity": false
+  },
+  "parsed_from_docs": {
+    "address": "401 South 4th Street, Suite 200",
+    "city": null,
+    "state": null,
+    "zip_code": null,
+    "phone": "7208645510",
+    "email": "sward@intrado.com",
+    "key_personnel": [
+      {
+        "name": "and Senior",
+        "title": "President"
+      }
+    ],
+    "founding_date": null,
+    "service_description": "provider currently offering interconnected VoIP service to business\ncustomers, files this application with the Federal Communications Commission (\u201cCommission\u201d)\nfor authorization to acquire telephone numbers directly from the North American Numbering Plan\nAdministrator and the Pooling Administrator (\u201cNumbering Administrators\u201d) pursuant to Section\n52."
+  },
+  "web_search_results": [
+    {
+      "title": "Intrado Expands VoIP E911 Solution - VoIP Monitor",
+      "url": "http://www.voipmonitor.net/2006/01/31/Intrado+Expands+VoIP+E911+Solution.aspx",
+      "snippet": "... Intrado 's extensive experience in emergency communications for VoIP users with this new, single-source solution for enterprises that use multi-line ..."
+    },
+    {
+      "title": "VoIP Providers - Compare and Start Saving",
+      "url": "http://www.voipmonitor.net/CategoryView,category,E911.aspx?page=7",
+      "snippet": "... Inc ., a leading supplier of service provider voice over IP ( VoIP ) infrastructure solutions, announced that Intrado Inc ., a global provider of ..."
+    },
+    {
+      "title": "Intrado Teams with Vendors for VoIP E911 Delivery - VoIP Monitor",
+      "url": "http://www.voipmonitor.net/2006/02/28/Intrado+Teams+With+Vendors+For+VoIP+E911+Delivery.aspx",
+      "snippet": "... VoIP moves towards fixed mobile convergence, location determination will become a fundamental component within the IP -enabled communications market,\" ..."
+    },
+    {
+      "title": "Next-Generation 911 Services Announced by Intrado - VoIP Monitor",
+      "url": "http://www.voipmonitor.net/2006/01/18/NextGeneration+911+Services+Announced+By+Intrado.aspx",
+      "snippet": "Intrado ALI Management, 9-1-1 Routing and The Application Framework are part of the Intrado Intelligent Emergency Network, Intrado 's next-generation, ..."
+    },
+    {
+      "title": "Intrado and XTEND Enter into VoIP E911 Joint Venture - VoIP",
+      "url": "http://www.voipmonitor.net/2006/02/01/Intrado+And+XTEND+Enter+Into+VoIP+E911+Joint+Venture.aspx",
+      "snippet": "... Communications will market Intrado V9-1-1 for Enterprise to large businesses that operate and support their own Internet Protocol Private Branch ..."
+    }
+  ]
+}
+
+RULES:
+- Ground ALL assessments in the provided evidence
+- Cite specific sources in activity_signal (e.g., "Recent FCC filing (2024)", "Company website found via search")
+- Use "Unknown" when evidence is insufficient - DO NOT hallucinate
+- Confidence levels:
+  - High = Multiple confirming signals (recent web presence + recent filings + company details)
+  - Medium = Some signals but incomplete picture
+  - Low = FCC data only, no external confirmation
+
+Call the enrichment_result function with your analysis.

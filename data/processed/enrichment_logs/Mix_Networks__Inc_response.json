@@ -1,0 +1,35 @@
+{
+  "id": "msg_017G5s97UeZDMyyxFEU7u2tn",
+  "content": [
+    {
+      "id": "toolu_01B6bTWYZWc2a6Wu8n9NGASY",
+      "input": {
+        "is_active": true,
+        "activity_signal": "Company website found via search (mixnetworks.com with recent VoIP content), active LinkedIn company page with 709 followers, multiple business directory listings, and integration partnerships (Stayntouch). Website content discusses current VoIP vs POTS solutions indicating ongoing business operations.",
+        "industry_segment": "UCaaS",
+        "product_summary": "Mix Networks is a unified communications solutions provider offering VoIP, SIP trunking, and network services with both retail and wholesale divisions serving different customer segments.",
+        "market_position": "Mid-Market",
+        "enrichment_confidence": "Medium"
+      },
+      "name": "enrichment_result",
+      "type": "tool_use"
+    }
+  ],
+  "model": "claude-sonnet-4-20250514",
+  "role": "assistant",
+  "stop_reason": "tool_use",
+  "stop_sequence": null,
+  "type": "message",
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0,
+    "input_tokens": 1765,
+    "output_tokens": 224,
+    "server_tool_use": null,
+    "service_tier": "standard"
+  }
+}

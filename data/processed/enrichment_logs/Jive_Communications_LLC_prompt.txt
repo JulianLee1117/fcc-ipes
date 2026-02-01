@@ -1,0 +1,87 @@
+You are analyzing an IPES (Interconnected VoIP Provider) company that filed for numbering authorization with the FCC.
+
+Based ONLY on the evidence provided below, determine:
+1. Whether the company is likely still active
+2. Their industry segment (UCaaS, CCaaS, CPaaS, Carrier, Reseller, Enterprise IT, or Other)
+3. A brief product summary
+4. Their market position (Enterprise, Mid-Market, SMB, Startup, or Unknown)
+5. Your confidence level based on evidence quality
+
+EVIDENCE PACK:
+{
+  "company_name": "Jive Communications LLC",
+  "aliases": [
+    "Jive Communications LLC"
+  ],
+  "fcc_filing": {
+    "first_filing_date": "2019-05-21",
+    "latest_filing_date": "2019-05-21",
+    "total_filings": 1,
+    "docket_numbers": [
+      "19-154"
+    ],
+    "proceeding_types": [
+      "Interconnected VoIP Numbering Authorization Application Filed  by Jive Communication, Inc Pursuant to Section 52.15(g)(3) of The Commission's Rules"
+    ],
+    "has_supplements": false,
+    "recent_activity": false
+  },
+  "parsed_from_docs": {
+    "address": "2750 W 600 North",
+    "city": null,
+    "state": null,
+    "zip_code": null,
+    "phone": "7818501583",
+    "email": "val.ilchenko@logmein.com",
+    "key_personnel": [
+      {
+        "name": "John Pope",
+        "title": "President"
+      },
+      {
+        "name": "Michael Sharp",
+        "title": "President"
+      }
+    ],
+    "founding_date": null,
+    "service_description": "provider currently offering interconnected VoIP service to\nend user customers."
+  },
+  "web_search_results": [
+    {
+      "title": "Jive - Hosted VoIP Cloud Based Solutions Provider - RQ",
+      "url": "https://rqcommunications.com/jive/",
+      "snippet": "Jive Voice offers unlimited Hosted VoIP and Unified Communications features to help your organization communicate better."
+    },
+    {
+      "title": "Cloud Hosted VoIP for Business | Jive",
+      "url": "https://rqcommunications.com/voip/jive/",
+      "snippet": "... Jive \u2013 Hosted VoIP Cloud Based Solutions Provider \u201d font_container= \u201d tag:h1|text_align:left \u201d use_theme_fonts= \u201d yes ..."
+    },
+    {
+      "title": "Top VOIP Providers Archives - RQ Communications",
+      "url": "https://rqcommunications.com/category/top-voip-providers/",
+      "snippet": "Jive Voice offers unlimited Hosted VoIP and Unified Communications features to help your organization communicate better."
+    },
+    {
+      "title": "VoIP Provider Reviews & Info | YouReviewIt",
+      "url": "https://www.youreviewit.com/voip/",
+      "snippet": "Jive communications has been providing businesses with VoIP services since 2006 with the goal of helping companies improve their communications with ..."
+    },
+    {
+      "title": "Business VoIP Providers | YouReviewIt",
+      "url": "https://www.youreviewit.com/voip/business/",
+      "snippet": "Jive communications has been providing businesses with VoIP services since 2006 with the goal of helping companies improve their communications with ..."
+    }
+  ]
+}
+
+RULES:
+- Ground ALL assessments in the provided evidence
+- Cite specific sources in activity_signal (e.g., "Recent FCC filing (2024)", "Company website found via search")
+- Use "Unknown" when evidence is insufficient - DO NOT hallucinate
+- Confidence levels:
+  - High = Multiple confirming signals (recent web presence + recent filings + company details)
+  - Medium = Some signals but incomplete picture
+  - Low = FCC data only, no external confirmation
+
+Call the enrichment_result function with your analysis.

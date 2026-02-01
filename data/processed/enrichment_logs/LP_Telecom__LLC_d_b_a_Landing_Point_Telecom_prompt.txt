@@ -1,0 +1,95 @@
+You are analyzing an IPES (Interconnected VoIP Provider) company that filed for numbering authorization with the FCC.
+
+Based ONLY on the evidence provided below, determine:
+1. Whether the company is likely still active
+2. Their industry segment (UCaaS, CCaaS, CPaaS, Carrier, Reseller, Enterprise IT, or Other)
+3. A brief product summary
+4. Their market position (Enterprise, Mid-Market, SMB, Startup, or Unknown)
+5. Your confidence level based on evidence quality
+
+EVIDENCE PACK:
+{
+  "company_name": "LP Telecom, LLC d/b/a Landing Point Telecom",
+  "aliases": [
+    "LP Telecom, LLC d/b/a Landing Point Telecom"
+  ],
+  "fcc_filing": {
+    "first_filing_date": "2020-11-03",
+    "latest_filing_date": "2020-11-03",
+    "total_filings": 1,
+    "docket_numbers": [
+      "20-368"
+    ],
+    "proceeding_types": [
+      "Interconnected VoIP Numbering Authorization Application Filed By LP Telecom, LLC d/b/a Landing Point Telecom Pursuant To Section 52.15(g)(3) Of The Commission's Rules"
+    ],
+    "has_supplements": false,
+    "recent_activity": false
+  },
+  "parsed_from_docs": {
+    "address": "1332 Teasley Lane, Suite IOOC",
+    "city": "Denton",
+    "state": "TE",
+    "zip_code": "76205",
+    "phone": "9408002800",
+    "email": null,
+    "key_personnel": [
+      {
+        "name": "Chief Executive Officer",
+        "title": "Ronn Waller"
+      },
+      {
+        "name": "Chief Strategy Officer",
+        "title": "OmarLuna Chief"
+      },
+      {
+        "name": "LP Telecom",
+        "title": "CEO"
+      },
+      {
+        "name": "of Billing",
+        "title": "President"
+      }
+    ],
+    "founding_date": null,
+    "service_description": "provide interconnected VoiP services initially in the state of Texas."
+  },
+  "web_search_results": [
+    {
+      "title": "The Most Feature-Rich VoIP Provider for Businesses",
+      "url": "https://voip.ms/",
+      "snippet": "State-of-the-Art VoIP Service Provider As a Telecommunications Service Provider, we are devoted to providing quality local and international connections to our customers around the world."
+    },
+    {
+      "title": "Voice over IP (VoIP) & Landline Phone Services | Verizon",
+      "url": "https://www.verizon.com/business/products/voice-collaboration/voip/",
+      "snippet": "Unified communications Our Voice over IP ( VoIP) and phone services help support mobile workforces and hybrid-working environments and include advanced features that help improve employee productivity, enhance customer experiences and more."
+    },
+    {
+      "title": "Top Small VoIP companies in Iowa - Sioux City - January, 2026",
+      "url": "https://www.zoominfo.com/top-lists/top-voip-companies-in-US--iowa--sioux-city-size-small",
+      "snippet": "Top Small VoIP companies in Iowa - Sioux City - January, 2026 Listed below are the top small companies in Iowa - Sioux City by revenue as of January 2026. With $4.9M in revenue, scjTiX is ranked first on the list, followed by BRIC Media Marketing Agency with $2.5M in revenue and Optimum Internet Solutions with $2.4M in revenue. Find additional information about small companies in Iowa - Sioux ..."
+    },
+    {
+      "title": "Enhance Business Communications With SpectrumVoIP",
+      "url": "https://www.spectrumvoip.com/",
+      "snippet": "Discover custom VoIP solutions with SpectrumVoIP in N.A. Transform communications , optimize networks, and build your package today!"
+    },
+    {
+      "title": "John Bryant, candidate for Texas State Representative",
+      "url": "https://www.dallasnews.com/voter-guide/2022-may-primary-runoffs/candidate/1780/john-bryant/",
+      "snippet": "972.643.8802. Occupation/main source of income: CEO, LP Telecom , LLC , d / b / a Landing Point Telecom (landingpointtele.com). Education (include all degrees): Graduate of Brazosport Senior High School, Freeport, Texas."
+    }
+  ]
+}
+
+RULES:
+- Ground ALL assessments in the provided evidence
+- Cite specific sources in activity_signal (e.g., "Recent FCC filing (2024)", "Company website found via search")
+- Use "Unknown" when evidence is insufficient - DO NOT hallucinate
+- Confidence levels:
+  - High = Multiple confirming signals (recent web presence + recent filings + company details)
+  - Medium = Some signals but incomplete picture
+  - Low = FCC data only, no external confirmation
+
+Call the enrichment_result function with your analysis.

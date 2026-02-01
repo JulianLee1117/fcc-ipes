@@ -1,0 +1,144 @@
+You are analyzing an IPES (Interconnected VoIP Provider) company that filed for numbering authorization with the FCC.
+
+Based ONLY on the evidence provided below, determine:
+1. Whether the company is likely still active
+2. Their industry segment (UCaaS, CCaaS, CPaaS, Carrier, Reseller, Enterprise IT, or Other)
+3. A brief product summary
+4. Their market position (Enterprise, Mid-Market, SMB, Startup, or Unknown)
+5. Your confidence level based on evidence quality
+
+EVIDENCE PACK:
+{
+  "company_name": "X-Nets Inc.",
+  "aliases": [
+    "X-NETS INC",
+    "X-Nets Inc."
+  ],
+  "fcc_filing": {
+    "first_filing_date": "2025-03-28",
+    "latest_filing_date": "2025-03-28",
+    "total_filings": 3,
+    "docket_numbers": [
+      "25-258"
+    ],
+    "proceeding_types": [
+      "Interconnected VoIP Numbering Authorization Application Filed By X-Nets, Inc. Pursuant To Section 52.15(g)(3) of the Commission's Rules"
+    ],
+    "has_supplements": false,
+    "recent_activity": true
+  },
+  "parsed_from_docs": {
+    "address": "1625 The Alameda, Suite 700",
+    "city": "San",
+    "state": "CA",
+    "zip_code": "95126",
+    "phone": "9253830904",
+    "email": "majdi.abdulqader@x-nets.com",
+    "key_personnel": [
+      {
+        "name": "Chief Technical Officer",
+        "title": "Sam Nassar"
+      },
+      {
+        "name": "Chief Operating Officer",
+        "title": "Minchul Ho"
+      },
+      {
+        "name": "Chief Revenue Officer",
+        "title": "Ghada Samir"
+      },
+      {
+        "name": "Chief Financial Officer",
+        "title": "Attached as"
+      },
+      {
+        "name": "Chief Technical Officer",
+        "title": "With dual"
+      },
+      {
+        "name": "Chief Operation Officer",
+        "title": "IT Executive"
+      },
+      {
+        "name": "Chief Revenue Officer",
+        "title": "Minchul is"
+      },
+      {
+        "name": "Chief Finance Officer",
+        "title": "Ghada is"
+      },
+      {
+        "name": "Majdi Abdulqader",
+        "title": "President"
+      },
+      {
+        "name": "or Secretary",
+        "title": "President"
+      },
+      {
+        "name": "Chief Technical Officer",
+        "title": "Sam Nassar"
+      },
+      {
+        "name": "Chief Strategy Officer",
+        "title": "Minchul Ho"
+      },
+      {
+        "name": "Chief Revenue Officer",
+        "title": "Bassam Hatahet"
+      },
+      {
+        "name": "Chief Technical Officer",
+        "title": "Sam Nassar"
+      },
+      {
+        "name": "Chief Strategy Officer",
+        "title": "Minchul Ho"
+      },
+      {
+        "name": "Chief Revenue Officer",
+        "title": "Bassam Hatahet"
+      }
+    ],
+    "founding_date": null,
+    "service_description": "provide interconnected VoIP\nservices initially in the state of California, although X-Nets ultimately intends to\nprovide such service in all states."
+  },
+  "web_search_results": [
+    {
+      "title": "AS4474 TCT West, Inc. - bgp.he.net",
+      "url": "https://bgp.he.net/AS4474",
+      "snippet": "TeraSwitch Networks Inc . ... TeraGo Networks Inc . ... Netflix Streaming Services Inc ."
+    },
+    {
+      "title": "AS19551 Incapsula Inc - bgp.he.net",
+      "url": "https://bgp.he.net/AS19551",
+      "snippet": "AS19551 Incapsula Inc Network Information ... Network Tools App ... NTT America, Inc . ... GTT Communications Inc ."
+    },
+    {
+      "title": "VOIP and SIP News: VoIP Cheers Britons",
+      "url": "http://www.voipsipnews.org/2010/11/voip-cheers-britons.html",
+      "snippet": "VoIP provider Skype is using the UK Internet week festival (which started on November 8) to offer free access to its low-cost call service for as ..."
+    },
+    {
+      "title": "VoIP Engineer with Telecommunications, LAN/WAN and Skype",
+      "url": "https://innosoul.com/voip-engineer-with-telecommunications-lan-wan-and-skype-business-experience/",
+      "snippet": "... as a Telecommunications Analyst or related technical field 4Voice over Internet Protocol ( VoIP ) 4Local and Wide Area Networking 3Skype for Business"
+    },
+    {
+      "title": "Voip Phone Systems | Voip Phone System | Birns.net",
+      "url": "https://birns.net/voip-phone-systems/",
+      "snippet": "Featuring innovative VoIP communication solutions, ADTRAN VoIP Phone Systems are designed to resolve complicated network assessments and operational ..."
+    }
+  ]
+}
+
+RULES:
+- Ground ALL assessments in the provided evidence
+- Cite specific sources in activity_signal (e.g., "Recent FCC filing (2024)", "Company website found via search")
+- Use "Unknown" when evidence is insufficient - DO NOT hallucinate
+- Confidence levels:
+  - High = Multiple confirming signals (recent web presence + recent filings + company details)
+  - Medium = Some signals but incomplete picture
+  - Low = FCC data only, no external confirmation
+
+Call the enrichment_result function with your analysis.

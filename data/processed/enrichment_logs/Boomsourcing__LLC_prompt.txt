@@ -1,0 +1,81 @@
+You are analyzing an IPES (Interconnected VoIP Provider) company that filed for numbering authorization with the FCC.
+
+Based ONLY on the evidence provided below, determine:
+1. Whether the company is likely still active
+2. Their industry segment (UCaaS, CCaaS, CPaaS, Carrier, Reseller, Enterprise IT, or Other)
+3. A brief product summary
+4. Their market position (Enterprise, Mid-Market, SMB, Startup, or Unknown)
+5. Your confidence level based on evidence quality
+
+EVIDENCE PACK:
+{
+  "company_name": "Boomsourcing, LLC",
+  "aliases": [
+    "Boomsourcing, LLC"
+  ],
+  "fcc_filing": {
+    "first_filing_date": "2021-05-07",
+    "latest_filing_date": "2021-05-07",
+    "total_filings": 2,
+    "docket_numbers": [],
+    "proceeding_types": [
+      "VoIP Numbering Authorization Application"
+    ],
+    "has_supplements": false,
+    "recent_activity": false
+  },
+  "parsed_from_docs": {
+    "address": null,
+    "city": null,
+    "state": null,
+    "zip_code": null,
+    "phone": "8018054600",
+    "email": "jacob@boomsourcing.com",
+    "key_personnel": [
+      {
+        "name": "and CEO",
+        "title": "President"
+      }
+    ],
+    "founding_date": null,
+    "service_description": "provide interconnected VoIP services\ninitially in Utah, however the Company anticipates that it will provide interconnected VoIP service\nnationwide, and accordingly, will request numbers from the other states in turn after its initial request\nin Utah."
+  },
+  "web_search_results": [
+    {
+      "title": "Boomsourcing\u2122 - LinkedIn",
+      "url": "https://www.linkedin.com/company/boomsourcing.com",
+      "snippet": "Boomsourcing (A Fusion CX Company) is a call center established in 2007. We leverage artificial intelligence, proprietary QA technology, and a global call center network to support company growth..."
+    },
+    {
+      "title": "Fusion Acquires Boomsourcing - Headquartered In Utah Boomsourcing - 2025 Company Profile & Team - Tracxn Boomsourcing LLC - Company Profile and News - Bloomberg Markets Boomsourcing, LLC \u00b7 3451 NORTH TRIUMPH BLVD STE 203, Lehi, US ... Boomsourcing - Crunchbase Company Profile & Funding",
+      "url": "https://www.fusioncx.com/news-room/fusion-acquires-boomsourcing-a-call-center-services-outsourcing-company-headquartered-in-utah/",
+      "snippet": "May 31, 2022 \u00b7 Boomsourcing is a comprehensive outsourcing solution provider based in Lehi, Utah, USA. Founded in 2007, Boomsourcing excels in simplifying scalability and cost-efficiency with its onshore, nearshore, and offshore resources in the USA, Mexico, and Philippines. Jun 25, 2025 \u00b7 Boomsourcing provides outsourcing services using Perfect Pitch Technology. Jun 2, 2016 \u00b7 Boomsourcing LLC operates as a full-service outsourcing solution provider. The Company specializes in offering voice and non-voice customer engagement and data marketing services. Boomsourcing, LLC (LEI# 984500CAKE5D77FE4551) is a legal entity registered with Ubisecure Oy. The address is 3451 NORTH TRIUMPH BLVD STE 203, Lehi, US-UT, 84043, US. Boomsourcing provides perfect pitch technology, a patented hosted call center suite that integrate scripted audio into live agent conversations. The company was founded by Jacob Munns in 2007 and is headquartered in Lehi, Utah. Service that identifies, nurtures, and delivers qualified leads aligned with business goals to improve sales outcomes."
+    },
+    {
+      "title": "Boomsourcing - 2025 Company Profile & Team - Tracxn Boomsourcing LLC - Company Profile and News - Bloomberg Markets Boomsourcing, LLC \u00b7 3451 NORTH TRIUMPH BLVD STE 203, Lehi, US ... Boomsourcing - Crunchbase Company Profile & Funding",
+      "url": "https://tracxn.com/d/companies/boomsourcing/__pHvT5PyX_f7Xowmk76J-ajw7TUadruLRCbgCaLCwzbw",
+      "snippet": "Jun 25, 2025 \u00b7 Boomsourcing provides outsourcing services using Perfect Pitch Technology. Jun 2, 2016 \u00b7 Boomsourcing LLC operates as a full-service outsourcing solution provider. The Company specializes in offering voice and non-voice customer engagement and data marketing services. Boomsourcing, LLC (LEI# 984500CAKE5D77FE4551) is a legal entity registered with Ubisecure Oy. The address is 3451 NORTH TRIUMPH BLVD STE 203, Lehi, US-UT, 84043, US. Boomsourcing provides perfect pitch technology, a patented hosted call center suite that integrate scripted audio into live agent conversations. The company was founded by Jacob Munns in 2007 and is headquartered in Lehi, Utah. Service that identifies, nurtures, and delivers qualified leads aligned with business goals to improve sales outcomes."
+    },
+    {
+      "title": "Boomsourcing LLC - Company Profile and News - Bloomberg Markets",
+      "url": "https://www.bloomberg.com/profile/company/2069939D:US",
+      "snippet": "Jun 2, 2016 \u00b7 Boomsourcing LLC operates as a full-service outsourcing solution provider. The Company specializes in offering voice and non-voice customer engagement and data marketing services."
+    },
+    {
+      "title": "Boomsourcing, LLC \u00b7 3451 NORTH TRIUMPH BLVD STE 203, Lehi, US ...",
+      "url": "https://opencorpdata.com/lei/984500CAKE5D77FE4551",
+      "snippet": "Boomsourcing, LLC (LEI# 984500CAKE5D77FE4551) is a legal entity registered with Ubisecure Oy. The address is 3451 NORTH TRIUMPH BLVD STE 203, Lehi, US-UT, 84043, US."
+    }
+  ]
+}
+
+RULES:
+- Ground ALL assessments in the provided evidence
+- Cite specific sources in activity_signal (e.g., "Recent FCC filing (2024)", "Company website found via search")
+- Use "Unknown" when evidence is insufficient - DO NOT hallucinate
+- Confidence levels:
+  - High = Multiple confirming signals (recent web presence + recent filings + company details)
+  - Medium = Some signals but incomplete picture
+  - Low = FCC data only, no external confirmation
+
+Call the enrichment_result function with your analysis.

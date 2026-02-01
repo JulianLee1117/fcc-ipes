@@ -1,0 +1,68 @@
+You are analyzing an IPES (Interconnected VoIP Provider) company that filed for numbering authorization with the FCC.
+
+Based ONLY on the evidence provided below, determine:
+1. Whether the company is likely still active
+2. Their industry segment (UCaaS, CCaaS, CPaaS, Carrier, Reseller, Enterprise IT, or Other)
+3. A brief product summary
+4. Their market position (Enterprise, Mid-Market, SMB, Startup, or Unknown)
+5. Your confidence level based on evidence quality
+
+EVIDENCE PACK:
+{
+  "company_name": "ECG, Inc. a Division of NG Telecom, Inc.",
+  "aliases": [
+    "ECG, Inc. a Division of NG Telecom, Inc."
+  ],
+  "fcc_filing": {
+    "first_filing_date": "2021-03-29",
+    "latest_filing_date": "2021-03-29",
+    "total_filings": 1,
+    "docket_numbers": [
+      "21-198"
+    ],
+    "proceeding_types": [
+      "Interconnected VoIP Numbering Authorization Application Filed By ECG, Inc. Pursuant To Section 52.15(g)(3) Of The Commission's Rules"
+    ],
+    "has_supplements": false,
+    "recent_activity": false
+  },
+  "parsed_from_docs": {},
+  "web_search_results": [
+    {
+      "title": "Wi-Fi - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Wi-Fi",
+      "snippet": "These are the most widely used computer networks, used globally in home and small office networks to link devices and to provide Internet access with ..."
+    },
+    {
+      "title": "Wi-Fi | Ultimate Pop Culture Wiki | Fandom",
+      "url": "https://ultimatepopculture.fandom.com/wiki/Wi-Fi",
+      "snippet": "... and Michel Fattouche invented wideband orthogonal frequency- division multiplexing (WOFDM), the basis for wideband wireless communication applications ..."
+    },
+    {
+      "title": "US9197414B1 - Cryptographic protocol for portable devices -",
+      "url": "https://patents.google.com/patent/US9197414B1/en",
+      "snippet": "... cryptographic arrangements for secret or secure communications; Network security protocols including means for verifying the identity or authority of ..."
+    },
+    {
+      "title": "US20180206100A1 - Method and system for locating a network",
+      "url": "https://patents.google.com/patent/US20180206100A1/en",
+      "snippet": "H04M1/72421 \u2014 User interfaces specially adapted for cordless or mobile telephones with means for local support of applications that increase ..."
+    },
+    {
+      "title": "Programme - EENA Conference",
+      "url": "https://eenaconference.org/programme-2/",
+      "snippet": "He is EENA\u2019s liaison with the institutions of the European Union as well as other stakeholders, and works on increasing the awareness of the ..."
+    }
+  ]
+}
+
+RULES:
+- Ground ALL assessments in the provided evidence
+- Cite specific sources in activity_signal (e.g., "Recent FCC filing (2024)", "Company website found via search")
+- Use "Unknown" when evidence is insufficient - DO NOT hallucinate
+- Confidence levels:
+  - High = Multiple confirming signals (recent web presence + recent filings + company details)
+  - Medium = Some signals but incomplete picture
+  - Low = FCC data only, no external confirmation
+
+Call the enrichment_result function with your analysis.

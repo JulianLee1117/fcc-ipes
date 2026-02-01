@@ -1,0 +1,35 @@
+{
+  "id": "msg_01SwkXCGQ3qC4VFcE6hNoSxH",
+  "content": [
+    {
+      "id": "toolu_014zwXLA2yPm188D1vdU8r5a",
+      "input": {
+        "is_active": true,
+        "activity_signal": "Recent FCC filing (2025-06-17) for Interconnected VoIP Numbering Authorization by ActionVox, Inc. where Allan Noorda is listed as CTO. Web search results show Allan Noorda currently active as President at multiple telecom companies including ActionVox Inc. and Talk4All LLC, with experience at VoIP companies like Ytel and Veriswitch.",
+        "industry_segment": "UCaaS",
+        "product_summary": "ActionVox appears to be an interconnected VoIP service provider, likely offering unified communications services given the VoIP numbering authorization filing and Allan Noorda's background with multiple VoIP and telecom companies.",
+        "market_position": "Unknown",
+        "enrichment_confidence": "Medium"
+      },
+      "name": "enrichment_result",
+      "type": "tool_use"
+    }
+  ],
+  "model": "claude-sonnet-4-20250514",
+  "role": "assistant",
+  "stop_reason": "tool_use",
+  "stop_sequence": null,
+  "type": "message",
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0,
+    "input_tokens": 2174,
+    "output_tokens": 263,
+    "server_tool_use": null,
+    "service_tier": "standard"
+  }
+}

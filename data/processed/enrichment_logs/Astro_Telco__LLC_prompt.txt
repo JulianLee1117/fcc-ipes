@@ -1,0 +1,108 @@
+You are analyzing an IPES (Interconnected VoIP Provider) company that filed for numbering authorization with the FCC.
+
+Based ONLY on the evidence provided below, determine:
+1. Whether the company is likely still active
+2. Their industry segment (UCaaS, CCaaS, CPaaS, Carrier, Reseller, Enterprise IT, or Other)
+3. A brief product summary
+4. Their market position (Enterprise, Mid-Market, SMB, Startup, or Unknown)
+5. Your confidence level based on evidence quality
+
+EVIDENCE PACK:
+{
+  "company_name": "Astro Telco, LLC",
+  "aliases": [
+    "Astro Telco, LLC",
+    "Astro Telco,LLC"
+  ],
+  "fcc_filing": {
+    "first_filing_date": "2020-07-28",
+    "latest_filing_date": "2020-07-28",
+    "total_filings": 2,
+    "docket_numbers": [
+      "20-248"
+    ],
+    "proceeding_types": [
+      "Interconnected VoIP Numbering Authorization Application Filed By Astro Telco, LLC Pursuant To Section 52.15(g)(3) Of The Commission's Rules"
+    ],
+    "has_supplements": false,
+    "recent_activity": false
+  },
+  "parsed_from_docs": {
+    "address": "2501 N Harwood St, 20th floor, suite 2001",
+    "city": "Dallas",
+    "state": "TE",
+    "zip_code": "75201",
+    "phone": "4045194096",
+    "email": "jet@astrotelco.com",
+    "key_personnel": [
+      {
+        "name": "and CEO",
+        "title": "President"
+      },
+      {
+        "name": "and treasurer",
+        "title": "CFO"
+      },
+      {
+        "name": "position at",
+        "title": "CFO"
+      },
+      {
+        "name": "and Senior",
+        "title": "CFO"
+      },
+      {
+        "name": "at Pacific",
+        "title": "President"
+      },
+      {
+        "name": "Chief Operating Officer",
+        "title": "GTE SOUTHWEST"
+      },
+      {
+        "name": "Services\nPN",
+        "title": "President"
+      }
+    ],
+    "founding_date": null,
+    "service_description": null
+  },
+  "web_search_results": [
+    {
+      "title": "Breakup of the Bell System - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Breakup_of_the_Bell_System",
+      "snippet": "Regulatory changes brought about by the Telecommunications Act of 1996 allowed the Baby Bells to merge with each other or with non-Bell companies."
+    },
+    {
+      "title": "\u1405 Telecommunications \u203a Reviews & Experience",
+      "url": "http://sitebook.org/web-telecommunications",
+      "snippet": "10 Telecommunications Management Consulting Group, LLC Provider of Provider of systems integration skills to the telecommunications industry."
+    },
+    {
+      "title": "Astro Bug - Axiros Launches New Release of their QoE Monitoring",
+      "url": "https://astrobug.com/dab/axiros-launches-new-release-of-their-qoe-monitoring-solution-axtract-3-50-astrobug-10275050",
+      "snippet": "MUNICH - AstroBug -- Axiros , a leader in TR-069 / TR-369 , Unified Device Management, and zero-touch customer experience solutions, has announced ..."
+    },
+    {
+      "title": "psc.ky.gov - /tariffs/xtra info/inactive or non-jurisdictional",
+      "url": "https://psc.ky.gov:443/tariffs/xtra+info/inactive+or+non-jurisdictional+utilities/Telecommunications/",
+      "snippet": "... Telcom, Inc 1/20/2012 8:14 AM Advanced Telcom Group, Inc 12/14/2012 7:12 AM Affordable Phone Services, Inc 1/20/2012 8:14 ..."
+    },
+    {
+      "title": "Breakup of the Bell System \u2014 Wikipedia Republished //",
+      "url": "https://wiki2.org/en/Breakup_of_the_Bell_System",
+      "snippet": "Regulatory changes brought about by the Telecommunications Act of 1996 allowed the Baby Bells to merge with each other or with non-Bell companies."
+    }
+  ]
+}
+
+RULES:
+- Ground ALL assessments in the provided evidence
+- Cite specific sources in activity_signal (e.g., "Recent FCC filing (2024)", "Company website found via search")
+- Use "Unknown" when evidence is insufficient - DO NOT hallucinate
+- Confidence levels:
+  - High = Multiple confirming signals (recent web presence + recent filings + company details)
+  - Medium = Some signals but incomplete picture
+  - Low = FCC data only, no external confirmation
+
+Call the enrichment_result function with your analysis.

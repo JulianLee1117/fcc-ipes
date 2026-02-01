@@ -1,0 +1,83 @@
+You are analyzing an IPES (Interconnected VoIP Provider) company that filed for numbering authorization with the FCC.
+
+Based ONLY on the evidence provided below, determine:
+1. Whether the company is likely still active
+2. Their industry segment (UCaaS, CCaaS, CPaaS, Carrier, Reseller, Enterprise IT, or Other)
+3. A brief product summary
+4. Their market position (Enterprise, Mid-Market, SMB, Startup, or Unknown)
+5. Your confidence level based on evidence quality
+
+EVIDENCE PACK:
+{
+  "company_name": "NUSO, LLC",
+  "aliases": [
+    "NUSO, LLC"
+  ],
+  "fcc_filing": {
+    "first_filing_date": "2020-10-19",
+    "latest_filing_date": "2020-10-19",
+    "total_filings": 1,
+    "docket_numbers": [
+      "20-345"
+    ],
+    "proceeding_types": [
+      "Interconnected VoIP Numbering Authorization Application Filed By NUSO, LLC Pursuant To Section 52.15(g)(3) Of The Commission's Rules"
+    ],
+    "has_supplements": false,
+    "recent_activity": false
+  },
+  "parsed_from_docs": {
+    "address": "6677 Delmar Blvd, Suite 300",
+    "city": "University",
+    "state": "MI",
+    "zip_code": "63130",
+    "phone": "8444386876",
+    "email": null,
+    "key_personnel": [
+      {
+        "name": "of Billing",
+        "title": "President"
+      }
+    ],
+    "founding_date": null,
+    "service_description": "provide interconnected VoiP services initially in the state ofTexas."
+  },
+  "web_search_results": [
+    {
+      "title": "NUSO Communications: Scalable Business Solutions",
+      "url": "https://www.nuso.cloud/",
+      "snippet": "\"Before we became a NUSO Partner we had the opportunity to install a number of different hosted cloud provider VoIP platforms. Without any reservation, NUSO has been the best fit for us, and our customers."
+    },
+    {
+      "title": "Nuso LLC Phone Carrier: A Comprehensive Review and Analysis",
+      "url": "https://bertanam.com/nuso-llc-phone-carrier-a-comprehensive-review-and-analysis/",
+      "snippet": "Jan 8, 2026 \u00b7 Nuso LLC has invested in technology to provide a reliable communication experience. The carrier uses a combination of LTE and VoIP technology, ensuring that users can maintain clear calls and fast data speeds."
+    },
+    {
+      "title": "NUSO Brightlink a NUSO company | LinkedIn",
+      "url": "https://www.linkedin.com/company/brightlink-communications",
+      "snippet": "NUSO (formerly Brightlink) delivers complex cloud communication solutions in real-time through our Authorized Partner community. A full-stack service provider reliably delivering UCaaS, CPaaS and..."
+    },
+    {
+      "title": "NUSO Resource Page - The ChannelPro Network",
+      "url": "https://www.channelpronetwork.com/2025/04/01/nuso-resource-page/",
+      "snippet": "Apr 1, 2025 \u00b7 NUSO\u2019 s services include Unified Communications, Hosted VoIP , SIP Trunking, Collaboration, Contact Center, SMS Text Messaging, Advanced Auto-Attendants (IVR), and CRM Integration."
+    },
+    {
+      "title": "Nuso Company Profile | Management and Employees List - Datanyze",
+      "url": "https://www.datanyze.com/companies/nuso/465430750",
+      "snippet": "NUSO Communications offers scalable business communication solutions, including contact center services, unified communications, and platform services, designed for small businesses, enterprises, and service providers across over 30 countries."
+    }
+  ]
+}
+
+RULES:
+- Ground ALL assessments in the provided evidence
+- Cite specific sources in activity_signal (e.g., "Recent FCC filing (2024)", "Company website found via search")
+- Use "Unknown" when evidence is insufficient - DO NOT hallucinate
+- Confidence levels:
+  - High = Multiple confirming signals (recent web presence + recent filings + company details)
+  - Medium = Some signals but incomplete picture
+  - Low = FCC data only, no external confirmation
+
+Call the enrichment_result function with your analysis.

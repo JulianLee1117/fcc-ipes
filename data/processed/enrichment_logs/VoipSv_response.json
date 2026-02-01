@@ -1,0 +1,35 @@
+{
+  "id": "msg_01NnPWNbX5ZY6yDCBzCLZiZ6",
+  "content": [
+    {
+      "id": "toolu_01Uve4tcZtgerZCNHCwup3VD",
+      "input": {
+        "is_active": true,
+        "activity_signal": "Recent FCC filing from November 2023 for VoIP numbering authorization. Web search shows active Telegram channel with 239 subscribers discussing \"platinum route\" services, and ipaddress.com describes VOIPSV as \"a telecommunications service provider specializing in Voice over Internet Protocol (VoIP) solutions.\"",
+        "industry_segment": "CPaaS",
+        "product_summary": "VoipSv appears to provide VoIP routing and telecommunications services, with references to premium routing options and spoof-related services based on their Telegram presence.",
+        "market_position": "Unknown",
+        "enrichment_confidence": "Low"
+      },
+      "name": "enrichment_result",
+      "type": "tool_use"
+    }
+  ],
+  "model": "claude-sonnet-4-20250514",
+  "role": "assistant",
+  "stop_reason": "tool_use",
+  "stop_sequence": null,
+  "type": "message",
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0,
+    "input_tokens": 1522,
+    "output_tokens": 233,
+    "server_tool_use": null,
+    "service_tier": "standard"
+  }
+}

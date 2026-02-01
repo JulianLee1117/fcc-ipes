@@ -1,0 +1,35 @@
+{
+  "id": "msg_015e3x15KboVhQvncrCgEbUr",
+  "content": [
+    {
+      "id": "toolu_01L9WKdetz1mExSukAVQcWwr",
+      "input": {
+        "is_active": true,
+        "activity_signal": "Company maintains active official website (att.com) found via web search showing current services and customer support. Web search results indicate AT&T continues as \"a major force in telecommunications\" and provides current services including wireless, internet, and fiber plans with active customer guarantees. Service description from FCC docs states company \"continues to provide those services currently.\"",
+        "industry_segment": "Carrier",
+        "product_summary": "AT&T Services is a major telecommunications carrier providing wireless, internet, fiber, and VoIP services including AT&T Phone (U-verse Voice) delivered over their IP network.",
+        "market_position": "Enterprise",
+        "enrichment_confidence": "High"
+      },
+      "name": "enrichment_result",
+      "type": "tool_use"
+    }
+  ],
+  "model": "claude-sonnet-4-20250514",
+  "role": "assistant",
+  "stop_reason": "tool_use",
+  "stop_sequence": null,
+  "type": "message",
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0,
+    "input_tokens": 1968,
+    "output_tokens": 238,
+    "server_tool_use": null,
+    "service_tier": "standard"
+  }
+}

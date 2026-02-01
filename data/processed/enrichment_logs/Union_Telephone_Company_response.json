@@ -1,0 +1,35 @@
+{
+  "id": "msg_011nf9hUR5mTzMHNzFAXBsyx",
+  "content": [
+    {
+      "id": "toolu_016WALViGzCVEMiJkrguHtk9",
+      "input": {
+        "is_active": true,
+        "activity_signal": "Company has active website (uniontel.net) found in web search showing current services. Recent FCC filing from September 2023 seeking VoIP authorization. Multiple current business profiles on BBB and Datanyze. Tracxn profile updated as recently as October 2025 showing active operations.",
+        "industry_segment": "Carrier",
+        "product_summary": "Union Telephone is a traditional telecommunications carrier providing local exchange, wireless, phone, internet, and television services, seeking to expand into interconnected VoIP services within their existing service areas.",
+        "market_position": "SMB",
+        "enrichment_confidence": "High"
+      },
+      "name": "enrichment_result",
+      "type": "tool_use"
+    }
+  ],
+  "model": "claude-sonnet-4-20250514",
+  "role": "assistant",
+  "stop_reason": "tool_use",
+  "stop_sequence": null,
+  "type": "message",
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0,
+    "input_tokens": 2386,
+    "output_tokens": 232,
+    "server_tool_use": null,
+    "service_tier": "standard"
+  }
+}

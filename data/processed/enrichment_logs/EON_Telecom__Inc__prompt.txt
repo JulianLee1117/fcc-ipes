@@ -1,0 +1,111 @@
+You are analyzing an IPES (Interconnected VoIP Provider) company that filed for numbering authorization with the FCC.
+
+Based ONLY on the evidence provided below, determine:
+1. Whether the company is likely still active
+2. Their industry segment (UCaaS, CCaaS, CPaaS, Carrier, Reseller, Enterprise IT, or Other)
+3. A brief product summary
+4. Their market position (Enterprise, Mid-Market, SMB, Startup, or Unknown)
+5. Your confidence level based on evidence quality
+
+EVIDENCE PACK:
+{
+  "company_name": "EON Telecom, Inc.",
+  "aliases": [
+    "EON Telecom, Inc."
+  ],
+  "fcc_filing": {
+    "first_filing_date": "2021-04-13",
+    "latest_filing_date": "2021-04-13",
+    "total_filings": 1,
+    "docket_numbers": [
+      "21-199"
+    ],
+    "proceeding_types": [
+      "Interconnected VoIP Numbering Authorization Application Filed By EON Telecom, Inc. Pursuant To Section 52.15(g)(3) Of The Commission's Rules"
+    ],
+    "has_supplements": false,
+    "recent_activity": false
+  },
+  "parsed_from_docs": {
+    "address": "1329 North State Street, Suite 308",
+    "city": "Bellingham",
+    "state": "WA",
+    "zip_code": "98225",
+    "phone": "4045194096",
+    "email": null,
+    "key_personnel": [
+      {
+        "name": "As the",
+        "title": "CEO"
+      },
+      {
+        "name": "Of Nationwide",
+        "title": "President"
+      },
+      {
+        "name": "As the",
+        "title": "CEO"
+      },
+      {
+        "name": "Of Proud",
+        "title": "President"
+      },
+      {
+        "name": "As the",
+        "title": "CEO"
+      },
+      {
+        "name": "Of Tele",
+        "title": "President"
+      },
+      {
+        "name": "Designed and",
+        "title": "CFO"
+      },
+      {
+        "name": "Designed and",
+        "title": "CEO"
+      }
+    ],
+    "founding_date": null,
+    "service_description": null
+  },
+  "web_search_results": [
+    {
+      "title": "EON TELECOM INC.",
+      "url": "https://eontelecom.us/",
+      "snippet": "EON Telecom Inc . is a National IPES provider in USA. We currently have facilities and number resources in more than 30 States, servicing wholesale, Enterprise and Retail customers."
+    },
+    {
+      "title": "EON Telecom",
+      "url": "https://eontelecom.com/",
+      "snippet": "EON Global delivers crystal-clear, reliable, and high quality bandwidth to support your IP Phones. Experience fast, reliable Connectivity - at home or at your business on our 100% fiber internet network. Enjoy premium internet at great pricing with transparent offers and no hidden fees."
+    },
+    {
+      "title": "FCC Form 499 Filer Database Detailed Information About Us \u2013 EON Telecom Enterprise - eontelecom.us Contacts Us",
+      "url": "https://apps.fcc.gov/cgb/form499/499detail.cfm?FilerNum=834352",
+      "snippet": "Apr 1, 2024 \u00b7 Legal Name of Reporting Entity: EON TELECOM INC Doing Business As: EON TELECOM Principal Communications Type: Interconnected VoIP Universal Service Fund Contributor: No (Contact USAC at 888-641-8722 if this is not correct.) Holding Company: Registration Number (CORESID): 0030836464 EON Global Telecom is a customer-focused company providing cutting-edge fiber optic telecommunication services such as high-speed Fiber Internet, Streaming Services, and full feature of Internet Services. Our portal grants clients real-time provisioning capabilities for all our phone numbers, ensuring efficient and immediate access. Our Toll-Free Phone Numbers and Inbound Service stand out as a competitive and dependable solution for managing inbound traffic. If you have any questions, just fill in the contact form, and we will answer you shortly. Choose a telecom provider that values your peace of mind, ensuring that you have a reliable partner to assist you whenever you need help or have inquiries about your communication services. \u00a9 2025 EON Telecom Inc.. All rights reserved. Privacy Policy."
+    },
+    {
+      "title": "About Us \u2013 EON Telecom",
+      "url": "https://eontelecom.com/about-us/",
+      "snippet": "EON Global Telecom is a customer-focused company providing cutting-edge fiber optic telecommunication services such as high-speed Fiber Internet, Streaming Services, and full feature of Internet Services."
+    },
+    {
+      "title": "Enterprise - eontelecom.us",
+      "url": "https://eontelecom.us/enterprise.html",
+      "snippet": "Our portal grants clients real-time provisioning capabilities for all our phone numbers, ensuring efficient and immediate access. Our Toll-Free Phone Numbers and Inbound Service stand out as a competitive and dependable solution for managing inbound traffic."
+    }
+  ]
+}
+
+RULES:
+- Ground ALL assessments in the provided evidence
+- Cite specific sources in activity_signal (e.g., "Recent FCC filing (2024)", "Company website found via search")
+- Use "Unknown" when evidence is insufficient - DO NOT hallucinate
+- Confidence levels:
+  - High = Multiple confirming signals (recent web presence + recent filings + company details)
+  - Medium = Some signals but incomplete picture
+  - Low = FCC data only, no external confirmation
+
+Call the enrichment_result function with your analysis.

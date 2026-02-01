@@ -1,0 +1,35 @@
+{
+  "id": "msg_01Vi6VhMZHewHXJdXKvAn2Af",
+  "content": [
+    {
+      "id": "toolu_01AiBVLoiqJnLePKqRtJqEU4",
+      "input": {
+        "is_active": false,
+        "activity_signal": "No recent activity signals found. Single FCC filing from 2021-03-10 with no supplements or recent activity. Web search results contain no relevant information about David M. Krueger or CallShaper LLC - only unrelated content about music streaming and general telecom services. Email domain (beneschlaw.com) suggests legal representation rather than operational company contact.",
+        "industry_segment": "UCaaS",
+        "product_summary": "CallShaper LLC planned to provide interconnected VoIP services initially in Maryland with plans to expand nationwide, as described in their 2021 FCC numbering authorization application.",
+        "market_position": "Unknown",
+        "enrichment_confidence": "Low"
+      },
+      "name": "enrichment_result",
+      "type": "tool_use"
+    }
+  ],
+  "model": "claude-sonnet-4-20250514",
+  "role": "assistant",
+  "stop_reason": "tool_use",
+  "stop_sequence": null,
+  "type": "message",
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0,
+    "input_tokens": 1739,
+    "output_tokens": 243,
+    "server_tool_use": null,
+    "service_tier": "standard"
+  }
+}

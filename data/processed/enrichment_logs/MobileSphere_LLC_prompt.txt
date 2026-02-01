@@ -1,0 +1,123 @@
+You are analyzing an IPES (Interconnected VoIP Provider) company that filed for numbering authorization with the FCC.
+
+Based ONLY on the evidence provided below, determine:
+1. Whether the company is likely still active
+2. Their industry segment (UCaaS, CCaaS, CPaaS, Carrier, Reseller, Enterprise IT, or Other)
+3. A brief product summary
+4. Their market position (Enterprise, Mid-Market, SMB, Startup, or Unknown)
+5. Your confidence level based on evidence quality
+
+EVIDENCE PACK:
+{
+  "company_name": "MobileSphere LLC",
+  "aliases": [
+    "MobileSphere LLC"
+  ],
+  "fcc_filing": {
+    "first_filing_date": "2020-08-07",
+    "latest_filing_date": "2020-08-07",
+    "total_filings": 5,
+    "docket_numbers": [
+      "20-262"
+    ],
+    "proceeding_types": [
+      "Interconnected VoIP Numbering Authorization Application Filed By MobileSphere, LLC Pursuant To Section 52.15(g)(3) Of The Commission's Rules"
+    ],
+    "has_supplements": false,
+    "recent_activity": false
+  },
+  "parsed_from_docs": {
+    "address": "7 Faneuil Hall Marketplace",
+    "city": "Boston",
+    "state": "MA",
+    "zip_code": "02109",
+    "phone": "6173999980",
+    "email": "toufic@mobile-sphere.com",
+    "key_personnel": [
+      {
+        "name": "of MobileSphere",
+        "title": "President"
+      },
+      {
+        "name": "of ConeXus",
+        "title": "president"
+      },
+      {
+        "name": "Chief Technology Officer",
+        "title": "and has"
+      },
+      {
+        "name": "of MobileSphere",
+        "title": "President"
+      },
+      {
+        "name": "of ConeXus",
+        "title": "president"
+      },
+      {
+        "name": "Chief Technology Officer",
+        "title": "and has"
+      },
+      {
+        "name": "of MobileSphere",
+        "title": "President"
+      },
+      {
+        "name": "of ConeXus",
+        "title": "president"
+      },
+      {
+        "name": "Chief Technology Officer",
+        "title": "and has"
+      },
+      {
+        "name": "and Associate",
+        "title": "President"
+      },
+      {
+        "name": "clarify its",
+        "title": "Cto"
+      }
+    ],
+    "founding_date": "2003",
+    "service_description": "provide\ninterconnected VoIP services initially in Massachusetts."
+  },
+  "web_search_results": [
+    {
+      "title": "US7848314B2 - VOIP barge-in support for half-duplex DSR client",
+      "url": "https://patents.google.com/patent/US7848314B2/en",
+      "snippet": "Data processing systems useful for providing VOIP barge-in support for a half-duplex DSR client on a full-duplex network may include additional ..."
+    },
+    {
+      "title": "US20070274296A1 - Voip barge-in support for half-duplex dsr",
+      "url": "https://patents.google.com/patent/US20070274296A1/en",
+      "snippet": "Data processing systems useful for providing VOIP barge-in support for a half-duplex DSR client on a full-duplex network may include additional ..."
+    },
+    {
+      "title": "Ringless Voicemail Drops - Voicemail Messaging | Slybroadcast",
+      "url": "https://www.slybroadcast.com/",
+      "snippet": "Reach mobiles, and select landlines and VoIP phones & or ... However, ringless voicemail, like any other telecommunication service, is regulated."
+    },
+    {
+      "title": "Authorized Providers | Authenticate",
+      "url": "https://authenticate.iconectiv.com/authorized-service-providers-authenticate",
+      "snippet": "Business Automation Technologies Business Telecommunications Services, Inc C&T TELECOMMUNICATION POWER SOLUTIONS C2C VoIP , LLC CaberLink ..."
+    },
+    {
+      "title": "U.S. Telecom Listings - Prepaid Card Providers | TeraCodes",
+      "url": "https://www.teracodes.com/telecoms/prepaid-card-providers/",
+      "snippet": "Telecommunications Resources, Inc. ... TS Telecommunications , Inc. ... Voip Alliance, LLC ."
+    }
+  ]
+}
+
+RULES:
+- Ground ALL assessments in the provided evidence
+- Cite specific sources in activity_signal (e.g., "Recent FCC filing (2024)", "Company website found via search")
+- Use "Unknown" when evidence is insufficient - DO NOT hallucinate
+- Confidence levels:
+  - High = Multiple confirming signals (recent web presence + recent filings + company details)
+  - Medium = Some signals but incomplete picture
+  - Low = FCC data only, no external confirmation
+
+Call the enrichment_result function with your analysis.

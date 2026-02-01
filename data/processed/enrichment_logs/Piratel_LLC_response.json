@@ -1,0 +1,35 @@
+{
+  "id": "msg_014iY4aMfLzcYD5VWTQfkbEe",
+  "content": [
+    {
+      "id": "toolu_019UJdJ1N6PGpBSV34WRpMf3",
+      "input": {
+        "is_active": false,
+        "activity_signal": "No recent activity signals found. FCC filing is from 2020-01-14 with no recent filings (recent_activity: false). Web search results show company website at piratel.com and LinkedIn profile, but no timestamps or recent content to confirm current operations. Press release about LRN dipping services appears dated but no recent date provided.",
+        "industry_segment": "Carrier",
+        "product_summary": "Piratel LLC is a facilities-based telecommunications carrier specializing in wholesale VoIP services, call center solutions, toll-free services, SIP trunking, DID origination, and LRN dipping services for high-volume call traffic.",
+        "market_position": "Enterprise",
+        "enrichment_confidence": "Medium"
+      },
+      "name": "enrichment_result",
+      "type": "tool_use"
+    }
+  ],
+  "model": "claude-sonnet-4-20250514",
+  "role": "assistant",
+  "stop_reason": "tool_use",
+  "stop_sequence": null,
+  "type": "message",
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0,
+    "input_tokens": 1972,
+    "output_tokens": 256,
+    "server_tool_use": null,
+    "service_tier": "standard"
+  }
+}

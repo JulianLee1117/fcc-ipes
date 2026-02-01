@@ -1,0 +1,119 @@
+You are analyzing an IPES (Interconnected VoIP Provider) company that filed for numbering authorization with the FCC.
+
+Based ONLY on the evidence provided below, determine:
+1. Whether the company is likely still active
+2. Their industry segment (UCaaS, CCaaS, CPaaS, Carrier, Reseller, Enterprise IT, or Other)
+3. A brief product summary
+4. Their market position (Enterprise, Mid-Market, SMB, Startup, or Unknown)
+5. Your confidence level based on evidence quality
+
+EVIDENCE PACK:
+{
+  "company_name": "Phone.com, Inc.",
+  "aliases": [
+    "Phone.com, Inc."
+  ],
+  "fcc_filing": {
+    "first_filing_date": "2021-01-28",
+    "latest_filing_date": "2021-01-28",
+    "total_filings": 1,
+    "docket_numbers": [
+      "21-33"
+    ],
+    "proceeding_types": [
+      "Interconnected VoIP Numbering Authorization Application Filed By Phone.com, Inc. Pursuant To Section 52.15(g)(3) Of The Commission's Rules"
+    ],
+    "has_supplements": false,
+    "recent_activity": false
+  },
+  "parsed_from_docs": {
+    "address": null,
+    "city": null,
+    "state": null,
+    "zip_code": null,
+    "phone": "8777466310",
+    "email": null,
+    "key_personnel": [
+      {
+        "name": "Ari Rabban",
+        "title": "CEO"
+      },
+      {
+        "name": "of corporate",
+        "title": "president"
+      },
+      {
+        "name": "of two",
+        "title": "president"
+      },
+      {
+        "name": "and Chief",
+        "title": "President"
+      },
+      {
+        "name": "Alon Cohen",
+        "title": "CTO"
+      },
+      {
+        "name": "of Sales",
+        "title": "President"
+      },
+      {
+        "name": "of Corporate",
+        "title": "President"
+      },
+      {
+        "name": "at Fusion",
+        "title": "CTO"
+      },
+      {
+        "name": "Chief Executive Officer",
+        "title": "of Phone"
+      },
+      {
+        "name": "VocalTec he served",
+        "title": "president"
+      }
+    ],
+    "founding_date": null,
+    "service_description": "provide interconnected VoIP\nservices initially in California, and ultimately nationwide."
+  },
+  "web_search_results": [
+    {
+      "title": "VOIP Business Phone Service & Business Phone Systems",
+      "url": "https://www.phone.com/",
+      "snippet": "Phone.com uses the internet to make and receive calls instead of traditional phone lines. You can use it on your existing IP phones, computer, or mobile devices, allowing for flexibility and mobility in your business communications ."
+    },
+    {
+      "title": "Phone.com | Inc.com",
+      "url": "https://www.inc.com/profile/phonecom",
+      "snippet": "Phone.com: Provides A VoIP , cloud and API-based phone services for small to very small businesses."
+    },
+    {
+      "title": "Phone.com Review 2025: Affordable VoIP & Powerful Features",
+      "url": "https://www.voipreviews.com/blogs/phone-com-review-2025/",
+      "snippet": "Apr 24, 2025 \u00b7 This comprehensive Phone . com review examines Phone . com \u2019s offerings, analyzing its strengths, weaknesses, pricing structure, and suitability for different business needs in 2025."
+    },
+    {
+      "title": "Phone.com VoIP Review (2025): Prices, Plans and Features",
+      "url": "https://umatechnology.org/phone-com-voip-review-2025-prices-plans-and-features/",
+      "snippet": "Founded in 2007, Phone.com is based in New Jersey and has developed a robust reputation for providing user-friendly VoIP services tailored to the needs of small businesses."
+    },
+    {
+      "title": "Phone.com, Inc. | BBB Business Profile | Better Business Bureau About Us - Phone.com Warm Transfer vs Blind Transfer: What\u2019s the Difference? What Is a VoIP Phone & How Does it Work? - RingCentral The Legal Implications of Using VoIP | BestCompany. com VOIP Business Phone Service & Business Phone Systems Phone.com VoIP Services Review | Possibly",
+      "url": "https://www.bbb.org/us/nj/livingston/profile/voip-phone/phonecom-inc-0221-90041395",
+      "snippet": "Phone . com is a cloud-based communications provider offering a comprehensive suite of UCaaS solutions for small businesses. The service includes voice, video meetings, mobile solutions, text... Phone . com is a modern cloud-based communications platform that delivers the features of a full-scale business phone system without the cost or complexity. What is a VoIP business phone service? Businesses that are using VoIP business phone service ( voice over internet protocol ) are able to transfer callers quickly and efficiently. VoIP services make it easier for both the receptionist and the call recipient to view customer data in real time in the business CRM database. What is a VoIP phone? A Voice over IP phone\u2014sometimes also known as an IP phone or internet-based phone\u2014is any device that uses IP technology to transmit calls . That\u2019s likely a broader VoIP phone meaning than you may have expected. There are, in fact, two main types of VoIP phones: Is VoIP considered a telecommunication service? In some states, VoIP providers are considered telecommunication services and are required to register accordingly, making them subject to the same regulations, taxes, and surcharges. Who uses phone com? Phone . com has customers in almost every industry you can name. We are popular with healthcare providers, lawyers, real estate agents, local governments, recruiters, home improvement professionals, accountants, teachers, retailers, and more. If your business relies on phone calls, Phone . com is right for you. Phone.com is a U.S-based telecommunications company with a cloud-based platform that offers businesses and entrepreneurs a wide range of Voice-over-IP ( VoIP ) services."
+    }
+  ]
+}
+
+RULES:
+- Ground ALL assessments in the provided evidence
+- Cite specific sources in activity_signal (e.g., "Recent FCC filing (2024)", "Company website found via search")
+- Use "Unknown" when evidence is insufficient - DO NOT hallucinate
+- Confidence levels:
+  - High = Multiple confirming signals (recent web presence + recent filings + company details)
+  - Medium = Some signals but incomplete picture
+  - Low = FCC data only, no external confirmation
+
+Call the enrichment_result function with your analysis.

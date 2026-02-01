@@ -1,0 +1,78 @@
+You are analyzing an IPES (Interconnected VoIP Provider) company that filed for numbering authorization with the FCC.
+
+Based ONLY on the evidence provided below, determine:
+1. Whether the company is likely still active
+2. Their industry segment (UCaaS, CCaaS, CPaaS, Carrier, Reseller, Enterprise IT, or Other)
+3. A brief product summary
+4. Their market position (Enterprise, Mid-Market, SMB, Startup, or Unknown)
+5. Your confidence level based on evidence quality
+
+EVIDENCE PACK:
+{
+  "company_name": "Telesmart",
+  "aliases": [
+    "Telesmart"
+  ],
+  "fcc_filing": {
+    "first_filing_date": "2017-05-09",
+    "latest_filing_date": "2017-05-09",
+    "total_filings": 1,
+    "docket_numbers": [
+      "17-125"
+    ],
+    "proceeding_types": [
+      "INTERCONNECTED VOIP NUMBERING AUTHORIZATION APPLICATION FILED BY TELESMART, INC. PURSUANT TO SECTION 52.15(g)(3) OF THE COMMISSION&#146;S RULES"
+    ],
+    "has_supplements": false,
+    "recent_activity": false
+  },
+  "parsed_from_docs": {
+    "address": "14870 NW Pioneer Rd",
+    "city": null,
+    "state": null,
+    "zip_code": null,
+    "phone": "9716341859",
+    "email": "legal@bandwidth.com",
+    "key_personnel": [],
+    "founding_date": "RFC 3261",
+    "service_description": null
+  },
+  "web_search_results": [
+    {
+      "title": "Telesmart | Automated Global Number Operations for Carriers ...",
+      "url": "https://www.telesmart.io/",
+      "snippet": "A pan-regional network operator implemented Telesmart to centralise number lifecycle management across multiple countries while addressing diverse regulatory and operational requirements."
+    },
+    {
+      "title": "Telephony - Telesmart",
+      "url": "https://telesmart.co.nz/solutions/telephony/",
+      "snippet": "Use text, email, chat, VoIP , PBX, virtual meetings and video conferencing to make sure you stay up to date with your entire business operation at the touch of a button, using a single vendor to streamline the entire process."
+    },
+    {
+      "title": "Telesmart - clerk.chat",
+      "url": "https://clerk.chat/carriers/telesmart/",
+      "snippet": "Telesmart is used for providing cloud-based virtual phone numbers and messaging services. It enables businesses to manage and operate telecommunications services like voice and SMS over the internet, allowing for easier scalability, flexibility, and integration with various business applications."
+    },
+    {
+      "title": "Telesmart.io - Products, Competitors, Financials, Employees ...",
+      "url": "https://www.cbinsights.com/company/telesmartio",
+      "snippet": "Telesmart .io specializes in global number and messaging services within the telecommunications sector. The company offers an API-driven, white-label platform that automates the supply chain for voice and messaging services, including inventory management, porting, routing, and switching."
+    },
+    {
+      "title": "TeleSmart - 2025 Company Profile & Competitors - Tracxn",
+      "url": "https://tracxn.com/d/companies/telesmart/__23afgawxACb4s8nAJeMP7yL8KNcnlkAGUx8fLq-F2hs",
+      "snippet": "May 12, 2025 \u00b7 TeleSmart - Provider of voip services for business. TeleSmart has 3176 competitors."
+    }
+  ]
+}
+
+RULES:
+- Ground ALL assessments in the provided evidence
+- Cite specific sources in activity_signal (e.g., "Recent FCC filing (2024)", "Company website found via search")
+- Use "Unknown" when evidence is insufficient - DO NOT hallucinate
+- Confidence levels:
+  - High = Multiple confirming signals (recent web presence + recent filings + company details)
+  - Medium = Some signals but incomplete picture
+  - Low = FCC data only, no external confirmation
+
+Call the enrichment_result function with your analysis.

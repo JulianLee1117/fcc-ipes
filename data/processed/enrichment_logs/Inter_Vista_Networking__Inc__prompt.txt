@@ -1,0 +1,132 @@
+You are analyzing an IPES (Interconnected VoIP Provider) company that filed for numbering authorization with the FCC.
+
+Based ONLY on the evidence provided below, determine:
+1. Whether the company is likely still active
+2. Their industry segment (UCaaS, CCaaS, CPaaS, Carrier, Reseller, Enterprise IT, or Other)
+3. A brief product summary
+4. Their market position (Enterprise, Mid-Market, SMB, Startup, or Unknown)
+5. Your confidence level based on evidence quality
+
+EVIDENCE PACK:
+{
+  "company_name": "Inter Vista Networking, Inc.",
+  "aliases": [
+    "Inter Vista Networking Inc.",
+    "Inter Vista Networking, Inc."
+  ],
+  "fcc_filing": {
+    "first_filing_date": "2017-02-02",
+    "latest_filing_date": "2017-02-02",
+    "total_filings": 3,
+    "docket_numbers": [
+      "17-44"
+    ],
+    "proceeding_types": [
+      "INTERCONNECTED VOIP NUMBERING AUTHORIZATION APPLICATION FILED BY INTER VISTA NETWORKING, INC. PURSUANT TO SECTION 52.15(g)(3)"
+    ],
+    "has_supplements": false,
+    "recent_activity": false
+  },
+  "parsed_from_docs": {
+    "address": "525 Market Street, #1944 GRC-LEC URF-Carrier Other",
+    "city": null,
+    "state": null,
+    "zip_code": null,
+    "phone": null,
+    "email": null,
+    "key_personnel": [
+      {
+        "name": "of chuck",
+        "title": "President"
+      },
+      {
+        "name": "Communications Suite",
+        "title": "President"
+      },
+      {
+        "name": "Freeway Dallas",
+        "title": "CEO"
+      },
+      {
+        "name": "Talk America",
+        "title": "President"
+      },
+      {
+        "name": "Circle West",
+        "title": "President"
+      },
+      {
+        "name": "Corporate Development",
+        "title": "President"
+      },
+      {
+        "name": "of Operations",
+        "title": "President"
+      },
+      {
+        "name": "of Operations",
+        "title": "President"
+      },
+      {
+        "name": "and CEO",
+        "title": "President"
+      },
+      {
+        "name": "Law and",
+        "title": "President"
+      },
+      {
+        "name": "of Operations",
+        "title": "President"
+      },
+      {
+        "name": "Law and",
+        "title": "President"
+      },
+      {
+        "name": "and CEO",
+        "title": "President"
+      }
+    ],
+    "founding_date": null,
+    "service_description": null
+  },
+  "web_search_results": [
+    {
+      "title": "Interconnected VoIP Numbering Authorization Application Filed",
+      "url": "https://www.fcc.gov/document/interconnected-voip-numbering-authorization-application-filed",
+      "snippet": "May 23, 2017 \u00b7 Full Title: Interconnected VoIP Numbering Authorization Application Filed By Inter Vista Networking , Inc . Pursuant To Section 52.15 (g) (3) Document Type: Public Notice Bureau (s): Wireline Competition Description Streamlined Pleading Cycle Established DA/FCC #: DA-17-503 Docket No: 17-44 FCC Record Citation: 32 FCC Rcd 4112 (5) FCC Record: DA ..."
+    },
+    {
+      "title": "Inter Vista Networking, Inc. in Sacramento CA - Company Profile",
+      "url": "https://www.corporationwiki.com/California/Sacramento/inter-vista-networking-inc/43675030.aspx",
+      "snippet": "View company leaders and background information for Inter Vista Networking , Inc . Search our database of over 100 million company and executive profiles."
+    },
+    {
+      "title": "Vistanet Telecommunications | Business Phone Systems & VoIP ...",
+      "url": "https://www.vistanet.co/",
+      "snippet": "Discover Vistanet \u2019s Hosted PBX and VoIP solutions tailored for businesses of all sizes. Enjoy human-to-human support, advanced phone features, and customized telecom services for legal, healthcare, retail, and more."
+    },
+    {
+      "title": "INTER VISTA NETWORKING INC Rancho Cordova CA, 95742 - Company ...",
+      "url": "https://start.cortera.com/company/research/m3o0ozk4k/inter-vista-networking-inc/",
+      "snippet": "Free Business profile for INTER VISTA NETWORKING INC at 2865 Sunrise Blvd, Rancho Cordova, CA, 95742-6105, US."
+    },
+    {
+      "title": "Vistanet Telecommunications, Inc. | BBB Business Profile ...",
+      "url": "https://www.bbb.org/us/nc/asheville/profile/voip-phone/vistanet-telecommunications-inc-0473-92032032",
+      "snippet": "VoIP Phones in Asheville, NC. See BBB rating, reviews, complaints, get a quote and more."
+    }
+  ]
+}
+
+RULES:
+- Ground ALL assessments in the provided evidence
+- Cite specific sources in activity_signal (e.g., "Recent FCC filing (2024)", "Company website found via search")
+- Use "Unknown" when evidence is insufficient - DO NOT hallucinate
+- Confidence levels:
+  - High = Multiple confirming signals (recent web presence + recent filings + company details)
+  - Medium = Some signals but incomplete picture
+  - Low = FCC data only, no external confirmation
+
+Call the enrichment_result function with your analysis.

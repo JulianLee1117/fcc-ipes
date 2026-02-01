@@ -1,0 +1,108 @@
+You are analyzing an IPES (Interconnected VoIP Provider) company that filed for numbering authorization with the FCC.
+
+Based ONLY on the evidence provided below, determine:
+1. Whether the company is likely still active
+2. Their industry segment (UCaaS, CCaaS, CPaaS, Carrier, Reseller, Enterprise IT, or Other)
+3. A brief product summary
+4. Their market position (Enterprise, Mid-Market, SMB, Startup, or Unknown)
+5. Your confidence level based on evidence quality
+
+EVIDENCE PACK:
+{
+  "company_name": "Quality Voice & Data, Inc.",
+  "aliases": [
+    "Quality Voice & Data Inc.",
+    "Quality Voice & Data, Inc."
+  ],
+  "fcc_filing": {
+    "first_filing_date": "2020-02-06",
+    "latest_filing_date": "2020-02-06",
+    "total_filings": 2,
+    "docket_numbers": [
+      "20-42"
+    ],
+    "proceeding_types": [
+      "INTERCONNECTED VOIP NUMBERING AUTHORIZATION APPLICATION FILED  BY QUALITY VOICE & DATA INC. PURSUANT TO SECTION 52.15(g)(3) OF THE"
+    ],
+    "has_supplements": false,
+    "recent_activity": false
+  },
+  "parsed_from_docs": {
+    "address": "102 Grant Street, Aurora, NE 68818",
+    "city": "Aurora",
+    "state": "NE",
+    "zip_code": "68818",
+    "phone": "2027926422",
+    "email": null,
+    "key_personnel": [
+      {
+        "name": "Joseph Scarpelli",
+        "title": "President"
+      },
+      {
+        "name": "Dean Garfinkel",
+        "title": "President"
+      },
+      {
+        "name": "Percentage of",
+        "title": "President"
+      },
+      {
+        "name": "of QVD",
+        "title": "President"
+      },
+      {
+        "name": "of Quality",
+        "title": "President"
+      },
+      {
+        "name": "Joe Scarpelli",
+        "title": "President"
+      },
+      {
+        "name": "GARFINKEL\nDean Garfinkel",
+        "title": "President"
+      }
+    ],
+    "founding_date": null,
+    "service_description": "providers to compromise\nQuality Voice\u2019s position in the highly competitive interconnected VoIP sector."
+  },
+  "web_search_results": [
+    {
+      "title": "Stop Showing Up As Spam Likely | Quality Voice & Data",
+      "url": "https://qualityvoicedata.com/",
+      "snippet": "Expert advice from industry leaders with a combined 60+ years of Telecom experience. Quality Voice & Data was founded by Dean & Angela Garfinkel."
+    },
+    {
+      "title": "Quality Voice & Data, Inc. | LinkedIn",
+      "url": "https://www.linkedin.com/company/quality-voice-&-data",
+      "snippet": "Get the tools you need to successfully execute outbound calling campaigns with Quality Voice & Data a SHAKEN service provider. We offer a suite of calling solutions dedicated to maximizing..."
+    },
+    {
+      "title": "Quality Voice & Data, Inc. Information - RocketReach",
+      "url": "https://rocketreach.co/quality-voice-data-inc-profile_b4516dc7fc71c908",
+      "snippet": "Quality Voice & Data , Inc . is a Telecommunications , Customer Service, and Telecommunications General company_reader located in Aurora, Nebraska with $3 million in revenue and 11 employees."
+    },
+    {
+      "title": "Quality Voice & Data - Overview, News & Competitors ...",
+      "url": "https://www.zoominfo.com/c/quality-voice--data/368263896",
+      "snippet": "Founded in 2010, Quality Voice & Data , Inc . offers secure and reliable cloud-based telecom switching and VoIP services for customers nationally. This includes local Caller ID numbers, IVR, PBX, SMS & MMS messaging, Conference Calling, Compliance Phone, Monitoring & Remediation services, and SIP trunking with Shaken Attestation."
+    },
+    {
+      "title": "Bridging the Communication Gap: Quality Voice & Data\u2019s ...",
+      "url": "https://thechicagojournal.com/bridging-the-communication-gap-quality-voice-datas-journey-to-excellence/",
+      "snippet": "Sep 7, 2023 \u00b7 Enter Quality Voice & Data (QVD) \u2013 an industry titan with a proven track record spanning over three decades. This telecom giant stands tall with a remarkable collection of over 100 industry accolades, underscoring its undisputed expertise in the realm of telecommunication ."
+    }
+  ]
+}
+
+RULES:
+- Ground ALL assessments in the provided evidence
+- Cite specific sources in activity_signal (e.g., "Recent FCC filing (2024)", "Company website found via search")
+- Use "Unknown" when evidence is insufficient - DO NOT hallucinate
+- Confidence levels:
+  - High = Multiple confirming signals (recent web presence + recent filings + company details)
+  - Medium = Some signals but incomplete picture
+  - Low = FCC data only, no external confirmation
+
+Call the enrichment_result function with your analysis.

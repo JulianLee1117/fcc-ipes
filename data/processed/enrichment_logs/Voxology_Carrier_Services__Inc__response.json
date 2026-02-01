@@ -1,0 +1,35 @@
+{
+  "id": "msg_01WFLiMWLLZbgviGm9rqDUyz",
+  "content": [
+    {
+      "id": "toolu_016DqwjDw3vV647YQFhsBD6f",
+      "input": {
+        "is_active": true,
+        "activity_signal": "Recent FCC filing (2023-01-30), active company website (voxologycarrier.com) found via search, AS40165 network infrastructure listed on BGP tools and IPinfo.io, and inclusion in CoreSite's carrier list indicating ongoing telecommunications operations",
+        "industry_segment": "Carrier",
+        "product_summary": "Wholesale voice, SMS, and data provider serving primarily other carriers, with retail VoIP services offered through Binfone Telecom subsidiary.",
+        "market_position": "Enterprise",
+        "enrichment_confidence": "High"
+      },
+      "name": "enrichment_result",
+      "type": "tool_use"
+    }
+  ],
+  "model": "claude-sonnet-4-20250514",
+  "role": "assistant",
+  "stop_reason": "tool_use",
+  "stop_sequence": null,
+  "type": "message",
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0,
+    "input_tokens": 1771,
+    "output_tokens": 218,
+    "server_tool_use": null,
+    "service_tier": "standard"
+  }
+}

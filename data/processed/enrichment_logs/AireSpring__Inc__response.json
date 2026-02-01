@@ -1,0 +1,35 @@
+{
+  "id": "msg_01939TgXXZA8MSmBKtUnDX9t",
+  "content": [
+    {
+      "id": "toolu_016AHjWvCumqM4JVYRs3ihKq",
+      "input": {
+        "is_active": true,
+        "activity_signal": "Active company website found at airespring.com with current business operations described. Web search results show comprehensive service offerings including \"Managed IT, Network Services, Security and Unified Communications for multi-location enterprises\" and references to current partnerships with AT&T. Multiple current web presence indicators across business directories and service provider listings.",
+        "industry_segment": "UCaaS",
+        "product_summary": "AireSpring is a global managed services provider specializing in Unified Communications, managed IT, network services, and security solutions for multi-location enterprises, offering VoIP, SIP trunking, SD-WAN, and cloud communications services.",
+        "market_position": "Enterprise",
+        "enrichment_confidence": "Medium"
+      },
+      "name": "enrichment_result",
+      "type": "tool_use"
+    }
+  ],
+  "model": "claude-sonnet-4-20250514",
+  "role": "assistant",
+  "stop_reason": "tool_use",
+  "stop_sequence": null,
+  "type": "message",
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0,
+    "input_tokens": 2280,
+    "output_tokens": 248,
+    "server_tool_use": null,
+    "service_tier": "standard"
+  }
+}

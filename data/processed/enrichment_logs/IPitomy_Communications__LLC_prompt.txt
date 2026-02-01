@@ -1,0 +1,87 @@
+You are analyzing an IPES (Interconnected VoIP Provider) company that filed for numbering authorization with the FCC.
+
+Based ONLY on the evidence provided below, determine:
+1. Whether the company is likely still active
+2. Their industry segment (UCaaS, CCaaS, CPaaS, Carrier, Reseller, Enterprise IT, or Other)
+3. A brief product summary
+4. Their market position (Enterprise, Mid-Market, SMB, Startup, or Unknown)
+5. Your confidence level based on evidence quality
+
+EVIDENCE PACK:
+{
+  "company_name": "IPitomy Communications, LLC",
+  "aliases": [
+    "IPitomy Communications, LLC"
+  ],
+  "fcc_filing": {
+    "first_filing_date": "2021-03-10",
+    "latest_filing_date": "2021-03-10",
+    "total_filings": 2,
+    "docket_numbers": [
+      "21-85"
+    ],
+    "proceeding_types": [
+      "Interconnected VoIP Numbering Authorization Application Filed By IPitomy Communications, LLC Pursuant To Section 52.15(g)(3) Of The Commission's Rules"
+    ],
+    "has_supplements": false,
+    "recent_activity": false
+  },
+  "parsed_from_docs": {
+    "address": null,
+    "city": null,
+    "state": null,
+    "zip_code": null,
+    "phone": "9413062200",
+    "email": "nbranica@ipitomy.com",
+    "key_personnel": [
+      {
+        "name": "of Comdial",
+        "title": "CEO"
+      },
+      {
+        "name": "and CEO",
+        "title": "President"
+      }
+    ],
+    "founding_date": "1996",
+    "service_description": "provide interconnected VoIP services initially in\nFlorida, however the Company anticipates that it will provide interconnected VoIP service nationwide,\nand accordingly, will request numbers from the other states in turn after its initial request in Florida."
+  },
+  "web_search_results": [
+    {
+      "title": "IPitomy IP5000-XL",
+      "url": "https://www.ipitomy.com/index.php/products/ip-pbx-systems/ip5000",
+      "snippet": "A Pure IP PBX for up to 500 Users The IPitomy IP5000-XL is a powerful business communications platform. ... IPitomy is the smart choice for business ..."
+    },
+    {
+      "title": "IPitomy IP1200-XL",
+      "url": "https://www.ipitomy.com/index.php/products/ip-pbx-systems/ipitomy-ip1200",
+      "snippet": "IPitomy \u2019 s high performance unified communications system is capable of providing quality of service technology as well as inclusion of state ..."
+    },
+    {
+      "title": "IPitomy Reviews",
+      "url": "https://www.aerocominc.com/company-profile/ipitomy",
+      "snippet": "IPitomy is a premier VoIP provider featuring ... As a VoIP Service Provider, IPitomy maintains a highly resilient VoIP telecommunications network."
+    },
+    {
+      "title": "IPitomy Phone Systems : IPitomy IP 1500",
+      "url": "http://srqphones.com/1500.php",
+      "snippet": "Easy connection to VoIP over your existing data connection or the IPitomy IP1500 can be linked up to the IP400 for easy connection to PSTN lines."
+    },
+    {
+      "title": "IPitomy Phone Systems : IPitomy IP 1200",
+      "url": "http://srqphones.com/1200.php",
+      "snippet": "IPitomy \u2019s high performance unified communications system is capable of providing quality of service technology as well as inclusion of state of the ..."
+    }
+  ]
+}
+
+RULES:
+- Ground ALL assessments in the provided evidence
+- Cite specific sources in activity_signal (e.g., "Recent FCC filing (2024)", "Company website found via search")
+- Use "Unknown" when evidence is insufficient - DO NOT hallucinate
+- Confidence levels:
+  - High = Multiple confirming signals (recent web presence + recent filings + company details)
+  - Medium = Some signals but incomplete picture
+  - Low = FCC data only, no external confirmation
+
+Call the enrichment_result function with your analysis.

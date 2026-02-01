@@ -1,0 +1,87 @@
+You are analyzing an IPES (Interconnected VoIP Provider) company that filed for numbering authorization with the FCC.
+
+Based ONLY on the evidence provided below, determine:
+1. Whether the company is likely still active
+2. Their industry segment (UCaaS, CCaaS, CPaaS, Carrier, Reseller, Enterprise IT, or Other)
+3. A brief product summary
+4. Their market position (Enterprise, Mid-Market, SMB, Startup, or Unknown)
+5. Your confidence level based on evidence quality
+
+EVIDENCE PACK:
+{
+  "company_name": "Voyce Telecom LLC",
+  "aliases": [
+    "Voyce Telecom LLC"
+  ],
+  "fcc_filing": {
+    "first_filing_date": "2023-05-31",
+    "latest_filing_date": "2023-05-31",
+    "total_filings": 1,
+    "docket_numbers": [
+      "23-200"
+    ],
+    "proceeding_types": [
+      "Interconnected VoIP Numbering Authorization Application Filed By Voyce Telecom LLC Pursuant To Section 52.15(g)(3) Of The Commission's Rules"
+    ],
+    "has_supplements": false,
+    "recent_activity": false
+  },
+  "parsed_from_docs": {
+    "address": "8200 Greensboro Drive, Suite 820",
+    "city": null,
+    "state": null,
+    "zip_code": null,
+    "phone": "8669486923",
+    "email": "rebecca.barkhuizen@voycetel.com",
+    "key_personnel": [
+      {
+        "name": "of Operations",
+        "title": "President"
+      },
+      {
+        "name": "Chief Strategy Officer",
+        "title": "where he"
+      }
+    ],
+    "founding_date": "2012",
+    "service_description": "provide interconnected VoIP services to end users initially in Florida,\nVirginia, and New York through its own facilities and those of its CLEC and voice service\nprovider partners with which it has arrangements in place for routing traffic to the PSTN."
+  },
+  "web_search_results": [
+    {
+      "title": "Residential VOIP Service Providers: Asia & Asia Pacific -",
+      "url": "https://www.voip-info.org/residential-voip-service-providers-asia/",
+      "snippet": "Inaani was founded in 2006, has been working as one of the leading VoIP service Provider in the telecommunication industry and dealing with a web of ..."
+    },
+    {
+      "title": "Residential VOIP Service Providers in Africa - VoIP-Info",
+      "url": "https://www.voip-info.org/residential-voip-service-providers-africa/",
+      "snippet": "Inaani was founded in 2006, has been working as one of the leading VoIP service provider in the telecommunication industry and dealing with a web of ..."
+    },
+    {
+      "title": "VoIP Wholesale Market - VoIP-Info",
+      "url": "https://www.voip-info.org/voip-wholesale/",
+      "snippet": "There is no doubt today that VoIP is taking over the telecom market, and every month increases penetration into services and industries."
+    },
+    {
+      "title": "Residential VOIP Service Providers in South America - VoIP-Info",
+      "url": "https://www.voip-info.org/residential-voip-service-providers-south-america/",
+      "snippet": "It has been working as one of the leading VoIP Providers in the telecommunication industry and creating milestones of success in VoIP business all ..."
+    },
+    {
+      "title": "Small Business VoIP - VoIP-Info",
+      "url": "https://www.voip-info.org/small-business-voip/",
+      "snippet": "Small business VoIP service can provide a host of benefits for small businesses that are interested in saving on costs and upgrading their business ..."
+    }
+  ]
+}
+
+RULES:
+- Ground ALL assessments in the provided evidence
+- Cite specific sources in activity_signal (e.g., "Recent FCC filing (2024)", "Company website found via search")
+- Use "Unknown" when evidence is insufficient - DO NOT hallucinate
+- Confidence levels:
+  - High = Multiple confirming signals (recent web presence + recent filings + company details)
+  - Medium = Some signals but incomplete picture
+  - Low = FCC data only, no external confirmation
+
+Call the enrichment_result function with your analysis.

@@ -1,0 +1,35 @@
+{
+  "id": "msg_0131TBxsszTaz6be9zrZ2C1L",
+  "content": [
+    {
+      "id": "toolu_013FvGSqY2yx8vWV7zmick1S",
+      "input": {
+        "is_active": false,
+        "activity_signal": "FCC filing from 2021-03-31 with no recent activity since then. Web search results show only historical public notices from 2020 regarding certificate applications, with no current web presence or recent business activity found. The most recent evidence of activity is over 3 years old.",
+        "industry_segment": "Carrier",
+        "product_summary": "Telecommunications carrier providing facilities-based and non-facilities-based competitive local exchange services and intra-state inter-exchange telecommunications services throughout West Virginia.",
+        "market_position": "Unknown",
+        "enrichment_confidence": "Medium"
+      },
+      "name": "enrichment_result",
+      "type": "tool_use"
+    }
+  ],
+  "model": "claude-sonnet-4-20250514",
+  "role": "assistant",
+  "stop_reason": "tool_use",
+  "stop_sequence": null,
+  "type": "message",
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0,
+    "input_tokens": 1935,
+    "output_tokens": 220,
+    "server_tool_use": null,
+    "service_tier": "standard"
+  }
+}

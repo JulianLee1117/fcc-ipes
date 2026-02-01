@@ -1,0 +1,167 @@
+You are analyzing an IPES (Interconnected VoIP Provider) company that filed for numbering authorization with the FCC.
+
+Based ONLY on the evidence provided below, determine:
+1. Whether the company is likely still active
+2. Their industry segment (UCaaS, CCaaS, CPaaS, Carrier, Reseller, Enterprise IT, or Other)
+3. A brief product summary
+4. Their market position (Enterprise, Mid-Market, SMB, Startup, or Unknown)
+5. Your confidence level based on evidence quality
+
+EVIDENCE PACK:
+{
+  "company_name": "Metro Fibernet, LLC",
+  "aliases": [
+    "Metro Fibernet, LLC"
+  ],
+  "fcc_filing": {
+    "first_filing_date": "2019-04-12",
+    "latest_filing_date": "2019-04-12",
+    "total_filings": 2,
+    "docket_numbers": [
+      "19-100"
+    ],
+    "proceeding_types": [
+      "Interconnected VoIP Numbering Authorization Application Filed by Metro Fibernet, LLC Pursuant To Section 52.15(g)(3) of The Commission's Rules"
+    ],
+    "has_supplements": false,
+    "recent_activity": false
+  },
+  "parsed_from_docs": {
+    "address": "3701 Communications Way, Evansville, IN 47715",
+    "city": null,
+    "state": null,
+    "zip_code": null,
+    "phone": "8127597807",
+    "email": "randy.kiesel@metronetinc.com",
+    "key_personnel": [
+      {
+        "name": "OF CONSTRUCTION",
+        "title": "PRESIDENT"
+      },
+      {
+        "name": "OF NETWORK",
+        "title": "PRESIDENT"
+      },
+      {
+        "name": "and General",
+        "title": "President"
+      },
+      {
+        "name": "of MetroNet",
+        "title": "President"
+      },
+      {
+        "name": "of Norlight",
+        "title": "President"
+      },
+      {
+        "name": "of Kentucky",
+        "title": "CFO"
+      },
+      {
+        "name": "of MetroNet",
+        "title": "CFO"
+      },
+      {
+        "name": "AND GENERAL",
+        "title": "PRESIDENT"
+      },
+      {
+        "name": "of Marketing",
+        "title": "President"
+      },
+      {
+        "name": "OF CONSTRUCTION",
+        "title": "PRESIDENT"
+      },
+      {
+        "name": "of Kentucky",
+        "title": "President"
+      },
+      {
+        "name": "OF NETWORK",
+        "title": "PRESIDENT"
+      },
+      {
+        "name": "of Network",
+        "title": "President"
+      },
+      {
+        "name": "Chief Operating Officer",
+        "title": "of nGenX"
+      },
+      {
+        "name": "of Operations",
+        "title": "President"
+      },
+      {
+        "name": "Currently\nhe",
+        "title": "President"
+      },
+      {
+        "name": "Cinelli served",
+        "title": "President"
+      },
+      {
+        "name": "He also served",
+        "title": "President"
+      },
+      {
+        "name": "Weber previously served",
+        "title": "CFO"
+      },
+      {
+        "name": "He also served",
+        "title": "CFO"
+      },
+      {
+        "name": "Weber\ncurrently serves",
+        "title": "CFO"
+      },
+      {
+        "name": "Greenbank served",
+        "title": "President"
+      }
+    ],
+    "founding_date": "2012",
+    "service_description": null
+  },
+  "web_search_results": [
+    {
+      "title": "AS19151 BroadbandONE, LLC details - IPinfo.io",
+      "url": "https://ipinfo.io/AS19151",
+      "snippet": "Tele Express Telecommunications XII Corp. ... Atlantic Metro Communications II, Inc. ... Broadcast Networks, LLC ."
+    },
+    {
+      "title": "Zayo Group, LLC Reports Financial Results for the Third Fiscal",
+      "url": "https://newswire.telecomramblings.com/2012/05/zayo-group-llc-reports-financial-results-for-the-third-fiscal-quarter-ended-march-31-2012/",
+      "snippet": "The acquisition added 930 new route miles to Zayo \u2019 s national footprint, including 400 miles of metro networks in Lansing and Ann Arbor ..."
+    },
+    {
+      "title": "AS53597 Hoyos Consulting LLC - bgp.he.net",
+      "url": "https://bgp.he.net/AS53597",
+      "snippet": "Atlantic Metro Communications II, Inc. ... Metro Communications Company, Inc. ... FiberNet Communications L.C."
+    },
+    {
+      "title": "Peers - GPIEX | Global Peering Managed ServicesGPIEX | Global",
+      "url": "https://gpiex.net/peers/",
+      "snippet": "Peers - GPIEX | Global Peering Managed Services | ... Beanfield Metroconnect, Inc. ... ISPrime, LLC . ... Linode, LLC ."
+    },
+    {
+      "title": "telecommletters Library",
+      "url": "http://psc.ky.gov/Home/Library?type=telecommletters",
+      "snippet": "ACC Telecommunications , LLC dba Adelphia 2004-09-23.pdf ... American Broadband and Telecommunications Company 2019-12-16.pdf"
+    }
+  ]
+}
+
+RULES:
+- Ground ALL assessments in the provided evidence
+- Cite specific sources in activity_signal (e.g., "Recent FCC filing (2024)", "Company website found via search")
+- Use "Unknown" when evidence is insufficient - DO NOT hallucinate
+- Confidence levels:
+  - High = Multiple confirming signals (recent web presence + recent filings + company details)
+  - Medium = Some signals but incomplete picture
+  - Low = FCC data only, no external confirmation
+
+Call the enrichment_result function with your analysis.

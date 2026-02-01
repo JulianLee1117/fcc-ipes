@@ -1,0 +1,35 @@
+{
+  "id": "msg_01UXiqAMHkdQdazLx7YDHkkV",
+  "content": [
+    {
+      "id": "toolu_01MWxiw2ydZuU2ykGYgDVwKE",
+      "input": {
+        "is_active": true,
+        "activity_signal": "Multiple confirming signals indicate active operations: Company website found via search at mettel.net describing current services, LinkedIn company page active, third-party telecommunications directory listings showing MetTel as an active provider, and consistent references to ongoing business operations across multiple web sources.",
+        "industry_segment": "Carrier",
+        "product_summary": "MetTel is a global communications solutions provider offering integrated voice, data, network, cloud, and mobility services to enterprise companies and government agencies through their proprietary network infrastructure.",
+        "market_position": "Enterprise",
+        "enrichment_confidence": "High"
+      },
+      "name": "enrichment_result",
+      "type": "tool_use"
+    }
+  ],
+  "model": "claude-sonnet-4-20250514",
+  "role": "assistant",
+  "stop_reason": "tool_use",
+  "stop_sequence": null,
+  "type": "message",
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0,
+    "input_tokens": 1805,
+    "output_tokens": 217,
+    "server_tool_use": null,
+    "service_tier": "standard"
+  }
+}

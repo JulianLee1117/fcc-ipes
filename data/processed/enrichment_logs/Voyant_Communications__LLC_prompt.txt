@@ -1,0 +1,83 @@
+You are analyzing an IPES (Interconnected VoIP Provider) company that filed for numbering authorization with the FCC.
+
+Based ONLY on the evidence provided below, determine:
+1. Whether the company is likely still active
+2. Their industry segment (UCaaS, CCaaS, CPaaS, Carrier, Reseller, Enterprise IT, or Other)
+3. A brief product summary
+4. Their market position (Enterprise, Mid-Market, SMB, Startup, or Unknown)
+5. Your confidence level based on evidence quality
+
+EVIDENCE PACK:
+{
+  "company_name": "Voyant Communications, LLC",
+  "aliases": [
+    "Voyant Communications, LLC"
+  ],
+  "fcc_filing": {
+    "first_filing_date": "2020-05-22",
+    "latest_filing_date": "2020-05-22",
+    "total_filings": 1,
+    "docket_numbers": [
+      "20-156"
+    ],
+    "proceeding_types": [
+      "Interconnected VoIP Numbering Authorization Application Filed By Voyant Communications, LLC Pursuant To Section 52.15(g)(3) Of The Commission's Rules"
+    ],
+    "has_supplements": false,
+    "recent_activity": false
+  },
+  "parsed_from_docs": {
+    "address": "550 West Adams St",
+    "city": "Chicago",
+    "state": "IL",
+    "zip_code": "60661",
+    "phone": "8554044768",
+    "email": null,
+    "key_personnel": [
+      {
+        "name": "Voyant Communications",
+        "title": "COO"
+      }
+    ],
+    "founding_date": null,
+    "service_description": "provide interconnected VoIP services initially in the states of New York and California."
+  },
+  "web_search_results": [
+    {
+      "title": "Voyant Communications LLC - Company... - Bloomberg Markets",
+      "url": "https://www.bloomberg.com/profile/company/0148081D:US",
+      "snippet": "Voyant Communications , LLC provides communication services. The Company offers sip trunking, unified communications, fax, sd wan, messaging api. Voyant Communications serves customers in the United States. SECTOR. Communications. INDUSTRY. Telecommunications ."
+    },
+    {
+      "title": "Voyant Communications - YouTube",
+      "url": "https://www.youtube.com/channel/UCfJhqrdbymmfUV4pqh87LFQ",
+      "snippet": "Voyant Communications . @VoyantCommunications. \u2022 211 subscribers \u2022 154 videos. The official YouTube channel of Voyant Communications LLC (Voyant)."
+    },
+    {
+      "title": "Voyant - Crunchbase Company Profile & Funding",
+      "url": "https://www.crunchbase.com/organization/voyant-communications",
+      "snippet": "Voyant, Voyant Communications , LLC .Voyant offers a broad portfolio of API-enabled business communication services including unified communications, SIP trunking, messaging, fax and SD-WAN data services on top of our carrier network that serves 10,500 on-net rate."
+    },
+    {
+      "title": "Voyant Communications - M&A Summary and Business... | Mergr",
+      "url": "https://mergr.com/company/voyant-communications",
+      "snippet": "Voyant Communications is an internet software and services company. When was Voyant Communications founded? Voyant Communications LLC . 3905 Annapolis Lane, Suite 195, Plymouth, Minnesota 55447 United States, (866) 629-8200 www.voyant.com."
+    },
+    {
+      "title": "Voyant Communications , LLC Technologies Stack and Company...",
+      "url": "https://enlyft.com/tech/company/zayoenterprisenetworks.com",
+      "snippet": "Voyant Communications , LLC uses 35 different technologies from 10 different vendors. They have above average use of several technologies including Zoom, Proofpoint and Salesforce.com CRM."
+    }
+  ]
+}
+
+RULES:
+- Ground ALL assessments in the provided evidence
+- Cite specific sources in activity_signal (e.g., "Recent FCC filing (2024)", "Company website found via search")
+- Use "Unknown" when evidence is insufficient - DO NOT hallucinate
+- Confidence levels:
+  - High = Multiple confirming signals (recent web presence + recent filings + company details)
+  - Medium = Some signals but incomplete picture
+  - Low = FCC data only, no external confirmation
+
+Call the enrichment_result function with your analysis.

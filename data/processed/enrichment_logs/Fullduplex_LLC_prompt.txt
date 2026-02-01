@@ -1,0 +1,76 @@
+You are analyzing an IPES (Interconnected VoIP Provider) company that filed for numbering authorization with the FCC.
+
+Based ONLY on the evidence provided below, determine:
+1. Whether the company is likely still active
+2. Their industry segment (UCaaS, CCaaS, CPaaS, Carrier, Reseller, Enterprise IT, or Other)
+3. A brief product summary
+4. Their market position (Enterprise, Mid-Market, SMB, Startup, or Unknown)
+5. Your confidence level based on evidence quality
+
+EVIDENCE PACK:
+{
+  "company_name": "Fullduplex LLC",
+  "aliases": [
+    "Fullduplex LLC"
+  ],
+  "fcc_filing": {
+    "first_filing_date": "2023-09-18",
+    "latest_filing_date": "2023-09-18",
+    "total_filings": 1,
+    "docket_numbers": [],
+    "proceeding_types": [
+      "VoIP Numbering Authorization Application (Fee Required)"
+    ],
+    "has_supplements": false,
+    "recent_activity": false
+  },
+  "parsed_from_docs": {
+    "address": null,
+    "city": null,
+    "state": null,
+    "zip_code": null,
+    "phone": null,
+    "email": null,
+    "key_personnel": [],
+    "founding_date": null,
+    "service_description": null
+  },
+  "web_search_results": [
+    {
+      "title": "IX-Denver (Interconnection Exchange Denver)",
+      "url": "https://ixpdb.euro-ix.net/en/explore/ixp/650/pops/",
+      "snippet": "Rural Telecommunications of America (was Fusion Network) (40000 Mb/s) ... Twin City VoIP ; D/B/A: Minnesota VoIP (30000 Mb/s)"
+    },
+    {
+      "title": "IX-Denver Portal",
+      "url": "https://portal.ix-denver.org/customer/details",
+      "snippet": "... FULLDUPLEX ... Joes Datacenter, LLC ... Rural Telecommunications of America"
+    },
+    {
+      "title": "AU680917B2 - Apparatus and method for remotely initiating",
+      "url": "https://patents.google.com/patent/AU680917B2/en",
+      "snippet": "Typically, the provider of services on the cellular telecommunications network pays a commission to its distribution channels for finding a customer ..."
+    },
+    {
+      "title": "TW201424319A - Full duplex single channel communications -",
+      "url": "https://patents.google.com/patent/TW201424319A/en",
+      "snippet": "2012\u5e748\u670828\u65e5\u63d0\u4ea4\u7684\u540d\u7a31\u70ba\u201c FullDuplex Single Channel Communications\u201d\u7684\u7f8e\u570b\u81e8\u6642\u5c08\u5229\u7533\u8acbNo.61/694,094\u30012013\u5e744\u670820 ..."
+    },
+    {
+      "title": "Digital Mobile Radio Association | Members of the Association",
+      "url": "https://dmrassociation.org/dmra-members.html",
+      "snippet": "... in the design, development, supply and support of ultra low-power analogue, digital and mixed-signal semiconductors for global telecommunications ..."
+    }
+  ]
+}
+
+RULES:
+- Ground ALL assessments in the provided evidence
+- Cite specific sources in activity_signal (e.g., "Recent FCC filing (2024)", "Company website found via search")
+- Use "Unknown" when evidence is insufficient - DO NOT hallucinate
+- Confidence levels:
+  - High = Multiple confirming signals (recent web presence + recent filings + company details)
+  - Medium = Some signals but incomplete picture
+  - Low = FCC data only, no external confirmation
+
+Call the enrichment_result function with your analysis.

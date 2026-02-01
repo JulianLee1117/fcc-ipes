@@ -1,0 +1,139 @@
+You are analyzing an IPES (Interconnected VoIP Provider) company that filed for numbering authorization with the FCC.
+
+Based ONLY on the evidence provided below, determine:
+1. Whether the company is likely still active
+2. Their industry segment (UCaaS, CCaaS, CPaaS, Carrier, Reseller, Enterprise IT, or Other)
+3. A brief product summary
+4. Their market position (Enterprise, Mid-Market, SMB, Startup, or Unknown)
+5. Your confidence level based on evidence quality
+
+EVIDENCE PACK:
+{
+  "company_name": "ALLO Communications LLC",
+  "aliases": [
+    "ALLO Communications LLC"
+  ],
+  "fcc_filing": {
+    "first_filing_date": "2024-04-30",
+    "latest_filing_date": "2024-04-30",
+    "total_filings": 7,
+    "docket_numbers": [
+      "24-135"
+    ],
+    "proceeding_types": [
+      "Interconnected VoIP Numbering Authorization Application Filed By ALLO Communications, LLC Pursuant To Section 52.15(g)(3) Of The Commission's Rules"
+    ],
+    "has_supplements": true,
+    "recent_activity": true
+  },
+  "parsed_from_docs": {
+    "address": "330 S 21st ST",
+    "city": "Lincoln",
+    "state": "NE",
+    "zip_code": "68510",
+    "phone": "8445602556",
+    "email": "intagree@qwest.com",
+    "key_personnel": [
+      {
+        "name": "Chief Executive Officer",
+        "title": "Don Schoening"
+      },
+      {
+        "name": "Chief Experience Officer",
+        "title": "Todd Heyne"
+      },
+      {
+        "name": "Chief Executive Officer",
+        "title": "Bradley Moline"
+      },
+      {
+        "name": "or Other",
+        "title": "President"
+      },
+      {
+        "name": "Chief Executive Officer",
+        "title": "Don Schoening"
+      },
+      {
+        "name": "Chief Experience Officer",
+        "title": "Todd Heyne"
+      },
+      {
+        "name": "Chief Executive Officer",
+        "title": "Bradley Moline"
+      },
+      {
+        "name": "or Other",
+        "title": "President"
+      },
+      {
+        "name": "Chief Executive Officer",
+        "title": "Bradley Moline"
+      },
+      {
+        "name": "or Other",
+        "title": "President"
+      },
+      {
+        "name": "Contact Name",
+        "title": "President"
+      },
+      {
+        "name": "Chief Executive Officer",
+        "title": "Don Schoening"
+      },
+      {
+        "name": "Chief Experience Officer",
+        "title": "Todd Heyne"
+      },
+      {
+        "name": "ALLO Communications",
+        "title": "CEO"
+      },
+      {
+        "name": "level employee",
+        "title": "president"
+      }
+    ],
+    "founding_date": null,
+    "service_description": "providers to compromise ALLO Communications\u2019 position in the highly\ncompetitive interconnected VoIP business sector."
+  },
+  "web_search_results": [
+    {
+      "title": "High-Speed Fiber Home Internet, TV & Phone | ALLO Fiber",
+      "url": "https://www.allocommunications.com/",
+      "snippet": "With mobile from ALLO you can stay connected wherever life takes you \u2014 with affordable plans and no contracts. At ALLO , we deliver 100% direct fiber to every address we serve \u2013 meaning symmetrical gigabit speeds, zero buffering, and rock-solid reliability that cable and DSL can\u2019t match."
+    },
+    {
+      "title": "ALLO Communications - 2026 Company Profile & Team - Tracxn ALLO Communications, LLC - My Fiber Options Allo Communications LLC - Company Profile and News About ALLO - Proudly Serving Fiber Services Across 50+ Locations About ALLO - Proudly Serving Fiber Services Across 50+ Locations Allo Communications Speed Test [100% Accurate] | Check My Speed About ALLO - Proudly Serving Fiber Services Across 50+ Locations About ALLO - Proudly Serving Fiber Services Across 50+ Locations Affordable Phone Plans & Unlimited Nationwide Coverage",
+      "url": "https://tracxn.com/d/companies/allo-communications/__OPj30wMo-zRn_egkUykSOYo7yYB5l3CF7OpWnluRV7Y",
+      "snippet": "Jan 5, 2026 \u00b7 ALLO Communications has raised $8.13M in funding. The company has 4797 active competitors, including 99 funded and 683 that have exited. Its top competitor s include companies like KPN, ACT and Ciena. Allo Communication is a company offering internet, TV and phone services to customers in Nebraska. Fiber based internet provides speeds up to 1Gbps. Allo Communications LLC is a telecommunications company that provides high-speed internet, television, and phone services to residential and business customers in select areas of the United States. Company profile page for Allo Communications LLC including stock price, company news, executives, board members, and contact information Founded in Nebraska in 2003, ALLO brings high-speed fiber to homes across Nebraska, Colorado & Arizona. Learn about our mission and exceptional service. Who is ALLO Communications? ALLO Communications is a telecommunications company offering fiber telephone, long-distance, broadband, internet, and television to residents and businesses. ALLO currently provides communications services to 53 cities across Nebraska, Colorado, Arizona, and Missouri totaling over 1.4 Million in population. What is ALLO Communications Network service provider? Allo Communications is a renowned broadband service provider . With Allo Communications, you can enjoy a reliable, high-speed network . Allo Communications offers high-speed network connection to its customers, allowing them to stream high-quality videos, play games, or work on their devices without interruption. What makes Allo a great telecommunications company? ALLO \u2019s history provides a solid foundation for a future of continued, innovative growth as a local telecommunications company. Founded in Nebraska in 2003, ALLO brings high-speed fiber to homes across Nebraska, Colorado & Arizona. Learn about our mission and exceptional service. Is Allo a private company? ALLO is a privately funded company . SDC Capital Partners, LLC, headquartered in New York, is a private investment firm focused on IT and communications infrastructure. SDC invested in ALLO in 2020. Leveraging deep operational expertise and providing world-class technology through diversification is SDC\u2019s focus. ALLO has been creating, connecting, and serving Gigabit communities since 2003. That\u2019s over 20 years of disrupting the telecom game, supporting businesses, and future-proofing communities. Choose from our diverse range of flexible and affordable plans that cater to your unique needs."
+    },
+    {
+      "title": "ALLO Communications, LLC - My Fiber Options",
+      "url": "https://myfiberoptions.com/providers/allo-communications-llc",
+      "snippet": "Allo Communications LLC is a telecommunications company that provides high-speed internet, television, and phone services to residential and business customers in select areas of the United States."
+    },
+    {
+      "title": "Allo Communications LLC - Company Profile and News About ALLO - Proudly Serving Fiber Services Across 50+ Locations About ALLO - Proudly Serving Fiber Services Across 50+ Locations Allo Communications Speed Test [100% Accurate] | Check My Speed About ALLO - Proudly Serving Fiber Services Across 50+ Locations About ALLO - Proudly Serving Fiber Services Across 50+ Locations Affordable Phone Plans & Unlimited Nationwide Coverage",
+      "url": "https://www.bloomberg.com/profile/company/0860375D:US",
+      "snippet": "Company profile page for Allo Communications LLC including stock price, company news, executives, board members, and contact information Founded in Nebraska in 2003, ALLO brings high-speed fiber to homes across Nebraska, Colorado & Arizona. Learn about our mission and exceptional service. Who is ALLO Communications? ALLO Communications is a telecommunications company offering fiber telephone, long-distance, broadband, internet, and television to residents and businesses. ALLO currently provides communications services to 53 cities across Nebraska, Colorado, Arizona, and Missouri totaling over 1.4 Million in population. What is ALLO Communications Network service provider? Allo Communications is a renowned broadband service provider . With Allo Communications, you can enjoy a reliable, high-speed network . Allo Communications offers high-speed network connection to its customers, allowing them to stream high-quality videos, play games, or work on their devices without interruption. What makes Allo a great telecommunications company? ALLO \u2019s history provides a solid foundation for a future of continued, innovative growth as a local telecommunications company. Founded in Nebraska in 2003, ALLO brings high-speed fiber to homes across Nebraska, Colorado & Arizona. Learn about our mission and exceptional service. Is Allo a private company? ALLO is a privately funded company . SDC Capital Partners, LLC, headquartered in New York, is a private investment firm focused on IT and communications infrastructure. SDC invested in ALLO in 2020. Leveraging deep operational expertise and providing world-class technology through diversification is SDC\u2019s focus. ALLO has been creating, connecting, and serving Gigabit communities since 2003. That\u2019s over 20 years of disrupting the telecom game, supporting businesses, and future-proofing communities. Choose from our diverse range of flexible and affordable plans that cater to your unique needs."
+    },
+    {
+      "title": "About ALLO - Proudly Serving Fiber Services Across 50+ Locations",
+      "url": "https://www.allocommunications.com/about/",
+      "snippet": "Founded in Nebraska in 2003, ALLO brings high-speed fiber to homes across Nebraska, Colorado & Arizona. Learn about our mission and exceptional service."
+    }
+  ]
+}
+
+RULES:
+- Ground ALL assessments in the provided evidence
+- Cite specific sources in activity_signal (e.g., "Recent FCC filing (2024)", "Company website found via search")
+- Use "Unknown" when evidence is insufficient - DO NOT hallucinate
+- Confidence levels:
+  - High = Multiple confirming signals (recent web presence + recent filings + company details)
+  - Medium = Some signals but incomplete picture
+  - Low = FCC data only, no external confirmation
+
+Call the enrichment_result function with your analysis.

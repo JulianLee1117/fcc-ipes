@@ -1,0 +1,35 @@
+{
+  "id": "msg_01B3YLtXkssfB5WFeVQgAnoi",
+  "content": [
+    {
+      "id": "toolu_0183EJVBFwjgBNU7hMDACafE",
+      "input": {
+        "is_active": false,
+        "activity_signal": "No recent activity signals found. FCC filing was from 2020-11-23 with no recent activity flag set to false. Web search results show only historical FCC filing information and basic directory listings with no current business activity indicators. Company uses Peerless Network email (regulatory@peerlessnetwork.com) suggesting potential subsidiary or partnership relationship rather than independent operation.",
+        "industry_segment": "Carrier",
+        "product_summary": "WaveNation provides PSTN Control Service for Interconnected VoIP services, operating in partnership with Peerless Network to facilitate VoIP telecommunications infrastructure.",
+        "market_position": "Unknown",
+        "enrichment_confidence": "Low"
+      },
+      "name": "enrichment_result",
+      "type": "tool_use"
+    }
+  ],
+  "model": "claude-sonnet-4-20250514",
+  "role": "assistant",
+  "stop_reason": "tool_use",
+  "stop_sequence": null,
+  "type": "message",
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0,
+    "input_tokens": 2022,
+    "output_tokens": 243,
+    "server_tool_use": null,
+    "service_tier": "standard"
+  }
+}

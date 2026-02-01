@@ -1,0 +1,83 @@
+You are analyzing an IPES (Interconnected VoIP Provider) company that filed for numbering authorization with the FCC.
+
+Based ONLY on the evidence provided below, determine:
+1. Whether the company is likely still active
+2. Their industry segment (UCaaS, CCaaS, CPaaS, Carrier, Reseller, Enterprise IT, or Other)
+3. A brief product summary
+4. Their market position (Enterprise, Mid-Market, SMB, Startup, or Unknown)
+5. Your confidence level based on evidence quality
+
+EVIDENCE PACK:
+{
+  "company_name": "WOW! Internet, Cable and Phone",
+  "aliases": [
+    "WOW! Internet, Cable and Phone"
+  ],
+  "fcc_filing": {
+    "first_filing_date": "2021-06-15",
+    "latest_filing_date": "2021-06-15",
+    "total_filings": 1,
+    "docket_numbers": [
+      "21-307"
+    ],
+    "proceeding_types": [
+      "Interconnected VoIP Numbering Authorization Application Filed By WOW! Internet, Cable and Phone Pursuant To Section 52.15(g)(3) Of The Commission's Rules"
+    ],
+    "has_supplements": false,
+    "recent_activity": false
+  },
+  "parsed_from_docs": {
+    "address": "6600 Hank Avenue",
+    "city": "Evansville",
+    "state": null,
+    "zip_code": null,
+    "phone": "8664969669",
+    "email": null,
+    "key_personnel": [
+      {
+        "name": "Ryan Mitchell",
+        "title": "CTO"
+      }
+    ],
+    "founding_date": null,
+    "service_description": "providers providing service in the areas in which\nWOW! intends to provide VoIP service using its IPES OCN."
+  },
+  "web_search_results": [
+    {
+      "title": "Wave Broadband - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Wave_Broadband",
+      "snippet": "... LLC , doing business as Wave Broadband , is an American provider of residential, business, and enterprise class cable TV , broadband Internet , and ..."
+    },
+    {
+      "title": "Wide Open West - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Wide_Open_West",
+      "snippet": "In June 2014, WOW ! sold its cable , Internet and phone systems in the South Dakota markets to Clarity Telecom. ... WOW ! Closes Acquisition of NuLink to ..."
+    },
+    {
+      "title": "WOW!'s Wireless Offering with Reach Mobile Now Available",
+      "url": "https://www.prnewswire.com/news-releases/wows-wireless-offering-with-reach-mobile-now-available-enterprise-wide-301590892.html",
+      "snippet": "... results will appear and be automatically updated as you type. ... WOW ! mobile powered by Reach provides even more choice and flexibility to customers"
+    },
+    {
+      "title": "Fast Internet Websites - CuteStat",
+      "url": "https://www.cutestat.com/tag/fast-internet",
+      "snippet": "... WOW ! Internet , Cable TV and Home Phone ... WOW ! is your best cable company for high-speed wireless Internet , home phone service and Cable TV service."
+    },
+    {
+      "title": "Chitra Kumar Found - Phone Numbers, Addresses & Possible",
+      "url": "https://www.zabasearch.com/people/chitra-kumar/",
+      "snippet": "wow ! internet cable and phone ( wow ! internet - cable - phone ) ... Homes, rental properties, businesses, apartments, condos and /or other real estate ..."
+    }
+  ]
+}
+
+RULES:
+- Ground ALL assessments in the provided evidence
+- Cite specific sources in activity_signal (e.g., "Recent FCC filing (2024)", "Company website found via search")
+- Use "Unknown" when evidence is insufficient - DO NOT hallucinate
+- Confidence levels:
+  - High = Multiple confirming signals (recent web presence + recent filings + company details)
+  - Medium = Some signals but incomplete picture
+  - Low = FCC data only, no external confirmation
+
+Call the enrichment_result function with your analysis.

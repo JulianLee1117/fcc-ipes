@@ -1,0 +1,79 @@
+You are analyzing an IPES (Interconnected VoIP Provider) company that filed for numbering authorization with the FCC.
+
+Based ONLY on the evidence provided below, determine:
+1. Whether the company is likely still active
+2. Their industry segment (UCaaS, CCaaS, CPaaS, Carrier, Reseller, Enterprise IT, or Other)
+3. A brief product summary
+4. Their market position (Enterprise, Mid-Market, SMB, Startup, or Unknown)
+5. Your confidence level based on evidence quality
+
+EVIDENCE PACK:
+{
+  "company_name": "Edge Communications Solutions, LLC",
+  "aliases": [
+    "Edge Communications Solutions, LLC"
+  ],
+  "fcc_filing": {
+    "first_filing_date": "2016-07-01",
+    "latest_filing_date": "2016-07-01",
+    "total_filings": 2,
+    "docket_numbers": [
+      "16-220"
+    ],
+    "proceeding_types": [
+      "Title: Interconnected VoIP Numbering Authorization Application Filed By Edge Communications Solutions, Llc Pursuant To Section 52.15(g)(3) of The Commission's Rules",
+      "Title: Interconnected VoIP Numbering Authorization Application Filed By Edge Communications Solutions, Llc Pursuant To Section 52.15(g)(3) of The Commission\u2019s Rules"
+    ],
+    "has_supplements": false,
+    "recent_activity": false
+  },
+  "parsed_from_docs": {
+    "address": null,
+    "city": null,
+    "state": null,
+    "zip_code": null,
+    "phone": null,
+    "email": null,
+    "key_personnel": [],
+    "founding_date": null,
+    "service_description": null
+  },
+  "web_search_results": [
+    {
+      "title": "Edge Communications",
+      "url": "https://www.edgecommunications.com/",
+      "snippet": "Edge Communications simplifies IT decision-making and operations by providing systems, services, and skills for businesses. Trusted for innovative technology solutions in cybersecurity, IT support, and network management."
+    },
+    {
+      "title": "Edge Communications - LinkedIn",
+      "url": "https://www.linkedin.com/company/edge-communications",
+      "snippet": "Edge delivers all of the service and systems components required for turnkey fully managed end-to-end telecom and PCI-compliant IT networks for medium businesses including PBX, networking,..."
+    },
+    {
+      "title": "Edge Communications: Contact Details and Business Profile",
+      "url": "https://rocketreach.co/edge-communications-profile_b5e94fc7f42e824d",
+      "snippet": "Edge Communications is a Telecommunications , IT Services and IT Consulting, and IT Consulting and Outsourcing company located in Plano, Texas with $73.00 Million in revenue and 179 employees."
+    },
+    {
+      "title": "Edge Communications Solutions LLC in Plano, TX - (800) 885-3343",
+      "url": "https://www.buzzfile.com/business/Edge-Communications-Solutions-LLC-800-885-3343",
+      "snippet": "Edge Communications Solutions LLC is in the Data Communication Services business. View competitors, revenue, employees, website and phone number."
+    },
+    {
+      "title": "Edge Communications Solutions LLC - Dun & Bradstreet",
+      "url": "https://www.dnb.com/business-directory/company-profiles.edge_communications_solutions_llc.d6c051be377f4cf1187827275c2d8cc3.html",
+      "snippet": "Find company research, competitor information, contact details & financial data for Edge Communications Solutions LLC of Plano, TX. Get the latest business insights from Dun & Bradstreet."
+    }
+  ]
+}
+
+RULES:
+- Ground ALL assessments in the provided evidence
+- Cite specific sources in activity_signal (e.g., "Recent FCC filing (2024)", "Company website found via search")
+- Use "Unknown" when evidence is insufficient - DO NOT hallucinate
+- Confidence levels:
+  - High = Multiple confirming signals (recent web presence + recent filings + company details)
+  - Medium = Some signals but incomplete picture
+  - Low = FCC data only, no external confirmation
+
+Call the enrichment_result function with your analysis.

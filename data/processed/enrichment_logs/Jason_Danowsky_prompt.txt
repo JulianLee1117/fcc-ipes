@@ -1,0 +1,183 @@
+You are analyzing an IPES (Interconnected VoIP Provider) company that filed for numbering authorization with the FCC.
+
+Based ONLY on the evidence provided below, determine:
+1. Whether the company is likely still active
+2. Their industry segment (UCaaS, CCaaS, CPaaS, Carrier, Reseller, Enterprise IT, or Other)
+3. A brief product summary
+4. Their market position (Enterprise, Mid-Market, SMB, Startup, or Unknown)
+5. Your confidence level based on evidence quality
+
+EVIDENCE PACK:
+{
+  "company_name": "Jason Danowsky",
+  "aliases": [
+    "Jason Danowsky"
+  ],
+  "fcc_filing": {
+    "first_filing_date": "2018-09-13",
+    "latest_filing_date": "2019-02-19",
+    "total_filings": 8,
+    "docket_numbers": [
+      "18-293",
+      "19-96",
+      "20-132",
+      "21-218"
+    ],
+    "proceeding_types": [
+      "INTERCONNECTED VOIP NUMBERING AUTHORIZATION APPLICATION FILED BY HADLO TECHNOLOGIES, LLC PURSUANT TO SECTION 52.15(g)(3) OF THE COMMISSION'S RULES",
+      "Interconnected VoIP Numbering Authorization Application Filed  By TRUSTID, Inc. Pursuant To Section 52.15(g)(3) Of The Commission's Rules",
+      "Interconnected VoIP Numbering Authorization Application Filed By Boomsourcing, LLC Pursuant To Section 52.15(g)(3) Of The Commission's Rules",
+      "Interconnected VoIP Numbering Authorization Application Filed By IP Link Telecom, Inc. Pursuant To Section 52.15(g)(3) Of The Commission's Rules",
+      "Interconnected VoIP Numbering Authorization Application Filed by Simwood Inc. Pursuant to Section 52.15(g)(3) of The Commission's Rules",
+      "MISCELLANEOUS"
+    ],
+    "has_supplements": false,
+    "recent_activity": false
+  },
+  "parsed_from_docs": {
+    "address": "305 N 1st Ave.",
+    "city": "Hillsboro",
+    "state": "OR",
+    "zip_code": "97124",
+    "phone": "1844464754",
+    "email": "kevin.hughes@team.neustar",
+    "key_personnel": [
+      {
+        "name": "Thomas Hadden",
+        "title": "President"
+      },
+      {
+        "name": "to CTO",
+        "title": "CFO"
+      },
+      {
+        "name": "Chief Operating Officer",
+        "title": "The IP"
+      },
+      {
+        "name": "Chief Executive Officer",
+        "title": "NGL Communications"
+      },
+      {
+        "name": "Chief Executive Officer",
+        "title": "Xtelus operated"
+      },
+      {
+        "name": "Chief Executive Officer",
+        "title": "Telaris was"
+      },
+      {
+        "name": "IP Link",
+        "title": "COO"
+      },
+      {
+        "name": "and General",
+        "title": "President"
+      },
+      {
+        "name": "of TRUSTID",
+        "title": "CEO"
+      },
+      {
+        "name": "from its",
+        "title": "CEO"
+      },
+      {
+        "name": "from its",
+        "title": "CEO"
+      },
+      {
+        "name": "and architect",
+        "title": "CEO"
+      },
+      {
+        "name": "Chief Network Officer",
+        "title": "for\nUniversal"
+      },
+      {
+        "name": "of Vaultline",
+        "title": "President"
+      },
+      {
+        "name": "and CEO",
+        "title": "President"
+      },
+      {
+        "name": "of Hadlo",
+        "title": "president"
+      },
+      {
+        "name": "for Tandem",
+        "title": "CEO"
+      },
+      {
+        "name": "Chief Network officer",
+        "title": "for Universal"
+      },
+      {
+        "name": "of Vaultline",
+        "title": "President"
+      },
+      {
+        "name": "and architect",
+        "title": "CEO"
+      },
+      {
+        "name": "Chief Network Officer",
+        "title": "for\nUniversal"
+      },
+      {
+        "name": "of Vaultline",
+        "title": "President"
+      },
+      {
+        "name": "led the company",
+        "title": "CEO"
+      },
+      {
+        "name": "President and CEO",
+        "title": "president"
+      }
+    ],
+    "founding_date": "1996",
+    "service_description": "offers VoIP services to long distance carriers, broadband phone\ncompanies, VoIP service providers, wireless providers and other communication companies\nand end-users."
+  },
+  "web_search_results": [
+    {
+      "title": "Attorneys | FosterDanowsky, Austin, Texas",
+      "url": "https://fosterdanowsky.com/attorneys/",
+      "snippet": "Jason Danowsky .designation as eligible telecommunications carriers. Jason also represents individuals before Texas licensing boards that regulate professionals such as engineers, nurses, accountants, pharmacists, counselors, electricians, alarm installers, and loan originators."
+    },
+    {
+      "title": "Jason Danowsky - Lawyer in Austin, TX - Avvo",
+      "url": "https://www.avvo.com/attorneys/78701-tx-jason-danowsky-4640160.html",
+      "snippet": "Find Texas attorney Jason Danowsky in their Austin office. Practices Telecommunications , Licensing. Find reviews, educational history and legal experience."
+    },
+    {
+      "title": "FosterDanowsky, LLP | LinkedIn",
+      "url": "https://www.linkedin.com/company/fosterdanowsky",
+      "snippet": "Henry Simmons. Attorney. Click here to view Jason Danowsky \u2019s profile. Jason Danowsky . Partner at FosterDanowsky. See all employees."
+    },
+    {
+      "title": "Texas agency revokes massage therapist licenses over decades-old...",
+      "url": "https://www.houstonchronicle.com/politics/texas/article/Texas-agency-revokes-massage-therapist-licenses-17187657.php",
+      "snippet": "Jason Danowsky , an Austin attorney who has researched the issue, said it appeared the agency had exercised some extralegal discretion for deserving candidates who had overcome their pasts."
+    },
+    {
+      "title": "Homepage - Maryland Public Service Commission",
+      "url": "https://webpscxb.psc.state.md.us/dms/search-public-comments",
+      "snippet": "Stevens Jason Tanko jaswinder sangha Javier Castillo Jay Dillavou Jay Driskell Jay Ford Jay Smith Jay Weinrich Jayant Gondalia jayda smith Jean Balick Jean Bell Hessenauer Jean Marie Perez Jean Miller Jean Parker Jean Pierre Bassi Bikai Jean R GERMAIN Jean Salvatore Jean..."
+    }
+  ]
+}
+
+RULES:
+- Ground ALL assessments in the provided evidence
+- Cite specific sources in activity_signal (e.g., "Recent FCC filing (2024)", "Company website found via search")
+- Use "Unknown" when evidence is insufficient - DO NOT hallucinate
+- Confidence levels:
+  - High = Multiple confirming signals (recent web presence + recent filings + company details)
+  - Medium = Some signals but incomplete picture
+  - Low = FCC data only, no external confirmation
+
+Call the enrichment_result function with your analysis.

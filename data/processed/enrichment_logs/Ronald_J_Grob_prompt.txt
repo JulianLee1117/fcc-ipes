@@ -1,0 +1,109 @@
+You are analyzing an IPES (Interconnected VoIP Provider) company that filed for numbering authorization with the FCC.
+
+Based ONLY on the evidence provided below, determine:
+1. Whether the company is likely still active
+2. Their industry segment (UCaaS, CCaaS, CPaaS, Carrier, Reseller, Enterprise IT, or Other)
+3. A brief product summary
+4. Their market position (Enterprise, Mid-Market, SMB, Startup, or Unknown)
+5. Your confidence level based on evidence quality
+
+EVIDENCE PACK:
+{
+  "company_name": "Ronald J Grob",
+  "aliases": [
+    "Ronald J Grob"
+  ],
+  "fcc_filing": {
+    "first_filing_date": "2019-04-17",
+    "latest_filing_date": "2019-04-17",
+    "total_filings": 2,
+    "docket_numbers": [
+      "19-142",
+      "23-7"
+    ],
+    "proceeding_types": [
+      "Interconnected VoIP Numbering Authorization Application Filed  by CallWorks Corporation Pursuant to Section 52.15(g)(3) of The Commission's Rules",
+      "Interconnected VoIP Numbering Authorization Application Filed By Versatel, LLC /dba/ 46 Labs CommunicationsPursuant To Section 52.15(g)(3) Of The Commission's Rules"
+    ],
+    "has_supplements": false,
+    "recent_activity": false
+  },
+  "parsed_from_docs": {
+    "address": "1503 E. 19th St.",
+    "city": "Edmond",
+    "state": "OK",
+    "zip_code": "73013",
+    "phone": "4045194096",
+    "email": "rongrob@apelaprofsvcs.com",
+    "key_personnel": [
+      {
+        "name": "of Sales",
+        "title": "President"
+      },
+      {
+        "name": "services to",
+        "title": "CFO"
+      },
+      {
+        "name": "and CEO",
+        "title": "President"
+      },
+      {
+        "name": "and Principle",
+        "title": "CEO"
+      },
+      {
+        "name": "and Partner",
+        "title": "CTO"
+      },
+      {
+        "name": "Consultant \n\nProvide",
+        "title": "President"
+      },
+      {
+        "name": "he also served",
+        "title": "CFO"
+      }
+    ],
+    "founding_date": null,
+    "service_description": null
+  },
+  "web_search_results": [
+    {
+      "title": "Ronald J Grob, 86 - Loveland, CO - Reputation & Contact Details",
+      "url": "https://www.mylife.com/ronald-grob/e127882402278",
+      "snippet": "Ronald also answers to Ron Grob Company, Ron Grob , Ron Grob Co and Ronald J Grob , and perhaps a couple of other names. Ronald 's ethnicity is Caucasian, whose political affiliation is currently a registered Republican; and religious views are listed as Christian. Currently, Ronald is married."
+    },
+    {
+      "title": "(303) 665-9341 Phone number Owner Ronald J Grob, Age 81 in ...",
+      "url": "https://www.intelius.com/phone/1-303-665-9341/",
+      "snippet": "Ronald J Grob , 81 years old, living in Denver, CO with the phone number (303) 665-9341. Click to run a detailed reverse phone lookup on (303) 665-9341."
+    },
+    {
+      "title": "Ronald Grob (12 matches): Phone Number, Email, Address - Spokeo",
+      "url": "https://www.spokeo.com/Ronald-Grob",
+      "snippet": "Find Ronald Grob \u2019 s phone number, address, and email on Spokeo, the leading online directory for contact information."
+    },
+    {
+      "title": "Ronald Grob Address & Phone Number | Whitepages People Search",
+      "url": "https://www.whitepages.com/name/Ronald-Grob",
+      "snippet": "There are 214 people named Ronald Grob in the United States. Find current address, phone number, and email contact information for Ronald Grob ' s across 3 states, including FL, IA, and GA. Popular cities include Buford, GA, Cascade, IA, and Ocala, FL."
+    },
+    {
+      "title": "Ronald Grob Profiles in Buford GA, Johnstown CO, and Loveland CO",
+      "url": "https://www.bizapedia.com/people/ronald-grob.html",
+      "snippet": "There are 7 individuals that go by the name of Ronald Grob . These individuals collectively are associated with 6 companies in Buford GA, Johnstown CO, and Loveland CO."
+    }
+  ]
+}
+
+RULES:
+- Ground ALL assessments in the provided evidence
+- Cite specific sources in activity_signal (e.g., "Recent FCC filing (2024)", "Company website found via search")
+- Use "Unknown" when evidence is insufficient - DO NOT hallucinate
+- Confidence levels:
+  - High = Multiple confirming signals (recent web presence + recent filings + company details)
+  - Medium = Some signals but incomplete picture
+  - Low = FCC data only, no external confirmation
+
+Call the enrichment_result function with your analysis.

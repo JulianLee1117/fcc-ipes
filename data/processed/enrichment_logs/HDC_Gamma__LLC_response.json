@@ -1,0 +1,35 @@
+{
+  "id": "msg_01RiUH7iypTCztLzXx7rfj7K",
+  "content": [
+    {
+      "id": "toolu_01SfKPE2r9LfYgRKdMnnw8bx",
+      "input": {
+        "is_active": false,
+        "activity_signal": "No recent activity signals found. FCC filing was single occurrence in 2019 with no supplements or recent activity. Web search results show only historical/directory entries with no active business presence or recent updates.",
+        "industry_segment": "Carrier",
+        "product_summary": "Applied to provide interconnected VoIP services initially in NY, suggesting a telecommunications carrier focused on VoIP infrastructure and numbering services.",
+        "market_position": "Unknown",
+        "enrichment_confidence": "Low"
+      },
+      "name": "enrichment_result",
+      "type": "tool_use"
+    }
+  ],
+  "model": "claude-sonnet-4-20250514",
+  "role": "assistant",
+  "stop_reason": "tool_use",
+  "stop_sequence": null,
+  "type": "message",
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0,
+    "input_tokens": 1779,
+    "output_tokens": 198,
+    "server_tool_use": null,
+    "service_tier": "standard"
+  }
+}

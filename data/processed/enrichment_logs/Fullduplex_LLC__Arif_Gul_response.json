@@ -1,0 +1,35 @@
+{
+  "id": "msg_0163fJCXioWSSJjrrwYViiB2",
+  "content": [
+    {
+      "id": "toolu_0137Mmqh8r3YjETLDuSzh9i3",
+      "input": {
+        "is_active": true,
+        "activity_signal": "Recent FCC filing (November 15, 2023) for VoIP Numbering Authorization Application. Web search results show Fullduplex Limited incorporated in 2006 and classified as \"other telecommunications activities\" with Arif Gul as primary contact and IT Manager with over a decade of experience in Full Stack development and systems integration.",
+        "industry_segment": "Other",
+        "product_summary": "Fullduplex Limited provides managed IT and cloud application services, with telecommunications activities and systems integration capabilities, led by an experienced IT professional.",
+        "market_position": "Unknown",
+        "enrichment_confidence": "Medium"
+      },
+      "name": "enrichment_result",
+      "type": "tool_use"
+    }
+  ],
+  "model": "claude-sonnet-4-20250514",
+  "role": "assistant",
+  "stop_reason": "tool_use",
+  "stop_sequence": null,
+  "type": "message",
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0,
+    "input_tokens": 1994,
+    "output_tokens": 230,
+    "server_tool_use": null,
+    "service_tier": "standard"
+  }
+}

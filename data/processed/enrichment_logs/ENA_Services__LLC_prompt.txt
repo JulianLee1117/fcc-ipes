@@ -1,0 +1,91 @@
+You are analyzing an IPES (Interconnected VoIP Provider) company that filed for numbering authorization with the FCC.
+
+Based ONLY on the evidence provided below, determine:
+1. Whether the company is likely still active
+2. Their industry segment (UCaaS, CCaaS, CPaaS, Carrier, Reseller, Enterprise IT, or Other)
+3. A brief product summary
+4. Their market position (Enterprise, Mid-Market, SMB, Startup, or Unknown)
+5. Your confidence level based on evidence quality
+
+EVIDENCE PACK:
+{
+  "company_name": "ENA Services, LLC",
+  "aliases": [
+    "ENA Services, LLC"
+  ],
+  "fcc_filing": {
+    "first_filing_date": "2020-12-17",
+    "latest_filing_date": "2020-12-17",
+    "total_filings": 2,
+    "docket_numbers": [
+      "21-1"
+    ],
+    "proceeding_types": [
+      "Interconnected VoIP Numbering Authorization Application Filed By ENA Services, LLC Pursuant To Section 52.15(g)(3) Of The Commission's Rules"
+    ],
+    "has_supplements": true,
+    "recent_activity": false
+  },
+  "parsed_from_docs": {
+    "address": "http://www.interconnection.bellsouth.com/guides/html/unes.html",
+    "city": null,
+    "state": null,
+    "zip_code": null,
+    "phone": null,
+    "email": null,
+    "key_personnel": [
+      {
+        "name": "Chief Executive Officer",
+        "title": "Stebbins Chandor"
+      },
+      {
+        "name": "Chief Financial Officer",
+        "title": "Matthew Turner"
+      },
+      {
+        "name": "Chief Technology Officer",
+        "title": "Jackie Staudacher"
+      }
+    ],
+    "founding_date": null,
+    "service_description": "offer interconnected VoIP services post-\nauthorization, and evidence that the agreement by and between ENA and its Carrier Partner\nincluded in the Application (\u201cCarrier Partner Agreement\u201d) remains in effect."
+  },
+  "web_search_results": [
+    {
+      "title": "Office of Purchasing and Supply Services Facilities ...",
+      "url": "https://offices.pgcps.org/uploadedFiles/Offices/Purchasing/Awards/037-13+ENA+Services,+LLC+-+VOIP+for+Local+and+Land+-+Exp.+6-30-16(1).pdf",
+      "snippet": "Contact Name: Mr. Robert Collie IFB 037-I3 ERate HoSted VOIP for Local and Land Service ENA Services has been selected as the vendor to provide services in accordance with the above-mentioned rider RFP. This contract sets-forth the terms and conditions and is provided for your review and acceptance."
+    },
+    {
+      "title": "Telecommunications Services For Network, Voice And Data ...",
+      "url": "https://www.withpavilion.com/solicitations/919045a7-0548-4280-adf8-4d6326272d49/contracts/state-of-utah_ma4580_zayo-group-llc?tuid=3259302273541502&tsid=6069523576133050",
+      "snippet": "ENA SERVICES LLC offers \"Network monitoring\", \" SIP trunking\", \"Managed IT services\", and more. Zayo provides innovative network solutions including fiber and transport services, network connectivity, and managed services."
+    },
+    {
+      "title": "ENA SERVICES LLC Nashville TN, 37211 - Company Profile - Cortera",
+      "url": "https://start.cortera.com/company/research/l8k1pxo3j/ena-services-llc/",
+      "snippet": "Free Business profile for ENA SERVICES LLC at 618 Grassmere Park, Nashville, TN, 37211-3643, US. ENA SERVICES LLC specializes in: Telephone Communications , Except Radiotelephone."
+    },
+    {
+      "title": "PUBLIC NOTICE - Federal Communications Commission",
+      "url": "https://docs.fcc.gov/public/attachments/DA-21-278A1.pdf",
+      "snippet": "ENA Services , LLC ( ENA Services ) is an interconnected Voice of Internet Protocol ( VoIP ) provider and filed an application pursuant to section 52.15(g)(3) of the Commission\u2019s rules, seeking authorization to obtain North American Numbering Plan telephone numbers directly from the Numbering Administrators.2 In its Application, ENA Services ..."
+    },
+    {
+      "title": "Alabama Community College System",
+      "url": "https://www.accs.edu/wp-content/uploads/2022/04/ENA.pdf",
+      "snippet": "ENA SmartVoice is our cloud-based, carrier-grade VoIP solution that can lower your total cost of ownership and ensure a seamless path to future growth\u2014all while streamlining your communications and better preparing your campuses for emergencies."
+    }
+  ]
+}
+
+RULES:
+- Ground ALL assessments in the provided evidence
+- Cite specific sources in activity_signal (e.g., "Recent FCC filing (2024)", "Company website found via search")
+- Use "Unknown" when evidence is insufficient - DO NOT hallucinate
+- Confidence levels:
+  - High = Multiple confirming signals (recent web presence + recent filings + company details)
+  - Medium = Some signals but incomplete picture
+  - Low = FCC data only, no external confirmation
+
+Call the enrichment_result function with your analysis.

@@ -1,0 +1,35 @@
+{
+  "id": "msg_01AkzhZakP3Zm2jDawnLhMcU",
+  "content": [
+    {
+      "id": "toolu_01Xx7bg6iYSTUBgtJJSmPFRg",
+      "input": {
+        "is_active": true,
+        "activity_signal": "Company website found via search (brightpacket.com shows current services), BBB profile listing active, PitchBook profile indicates ongoing business tracking, and D&B business directory listing shows current operations specializing in telecommunications for federal government agencies",
+        "industry_segment": "Carrier",
+        "product_summary": "Bright Packet is a telecommunications provider offering IP communication services including voice, network, and cloud services, with specialization in telecommunications and internet infrastructure for federal government agencies and military installations.",
+        "market_position": "Enterprise",
+        "enrichment_confidence": "Medium"
+      },
+      "name": "enrichment_result",
+      "type": "tool_use"
+    }
+  ],
+  "model": "claude-sonnet-4-20250514",
+  "role": "assistant",
+  "stop_reason": "tool_use",
+  "stop_sequence": null,
+  "type": "message",
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0,
+    "input_tokens": 1903,
+    "output_tokens": 215,
+    "server_tool_use": null,
+    "service_tier": "standard"
+  }
+}

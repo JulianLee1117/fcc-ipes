@@ -1,0 +1,66 @@
+You are analyzing an IPES (Interconnected VoIP Provider) company that filed for numbering authorization with the FCC.
+
+Based ONLY on the evidence provided below, determine:
+1. Whether the company is likely still active
+2. Their industry segment (UCaaS, CCaaS, CPaaS, Carrier, Reseller, Enterprise IT, or Other)
+3. A brief product summary
+4. Their market position (Enterprise, Mid-Market, SMB, Startup, or Unknown)
+5. Your confidence level based on evidence quality
+
+EVIDENCE PACK:
+{
+  "company_name": "Bart Mueller",
+  "aliases": [
+    "Bart Mueller"
+  ],
+  "fcc_filing": {
+    "first_filing_date": "2021-03-16",
+    "latest_filing_date": "2021-03-16",
+    "total_filings": 1,
+    "docket_numbers": [],
+    "proceeding_types": [
+      "VoIP Numbering Authorization Application"
+    ],
+    "has_supplements": false,
+    "recent_activity": false
+  },
+  "parsed_from_docs": {},
+  "web_search_results": [
+    {
+      "title": "Stoker (film) - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Stoker_(film)",
+      "snippet": "Stoker is a 2013 Southern Gothic coming-of-age psychological thriller film directed by Park Chan-wook, in his English-language debut, and written by Wentworth Miller."
+    },
+    {
+      "title": "Bart Mueller - Director VoIP Operations - SinglePoint Global | LinkedIn",
+      "url": "https://www.linkedin.com/in/bart-mueller-192704",
+      "snippet": "View Bart Mueller \u2019s profile on LinkedIn, the world\u2019s largest professional community. Bart has 3 jobs listed on their profile.I managed ip network for hosted voip phone services and moved into more of a web development role."
+    },
+    {
+      "title": "Bart Mueller MBA - Senior Director | Operations & Systems... | LinkedIn",
+      "url": "https://www.linkedin.com/in/bart-mueller-mba-192704",
+      "snippet": "My background spans software development, VoIP architecture, and customer success, with a strong emphasis on lifecycle management, SLA performance, and cross-department collaboration.View Bart Mueller MBA\u2019s profile on LinkedIn, a professional community of 1 billion members."
+    },
+    {
+      "title": "Amore Bella Ciao \u2014 \u043c\u0443\u0437\u044b\u043a\u0430\u043b\u044c\u043d\u043e\u0435 \u0432\u0438\u0434\u0435\u043e \u043e\u0442 Bart M\u00fcller \u2014 Shazam",
+      "url": "https://www.shazam.com/ru-ru/song/1834951663/amore-bella-ciao/music-video",
+      "snippet": "\u0421\u043c\u043e\u0442\u0440\u0438 \u043c\u0443\u0437\u044b\u043a\u0430\u043b\u044c\u043d\u043e\u0435 \u0432\u0438\u0434\u0435\u043e Amore Bella Ciao \u043e\u0442 Bart M\u00fcller , \u0432\u044b\u043f\u0443\u0449\u0435\u043d\u043d\u043e\u0435 11 \u0441\u0435\u043d\u0442\u044f\u0431\u0440\u044f 2025 \u0433. \u0418\u043d\u0444\u043e\u0440\u043c\u0430\u0446\u0438\u044f \u043e \u043f\u0435\u0441\u043d\u0435."
+    },
+    {
+      "title": "Amore Bella Ciao - Song by Bart M\u00fcller - Apple Music",
+      "url": "https://music.apple.com/us/song/amore-bella-ciao/1834951663",
+      "snippet": "Listen to Amore Bella Ciao by Bart M\u00fcller on Apple Music. 2025. Duration: 2:39."
+    }
+  ]
+}
+
+RULES:
+- Ground ALL assessments in the provided evidence
+- Cite specific sources in activity_signal (e.g., "Recent FCC filing (2024)", "Company website found via search")
+- Use "Unknown" when evidence is insufficient - DO NOT hallucinate
+- Confidence levels:
+  - High = Multiple confirming signals (recent web presence + recent filings + company details)
+  - Medium = Some signals but incomplete picture
+  - Low = FCC data only, no external confirmation
+
+Call the enrichment_result function with your analysis.

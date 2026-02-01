@@ -1,0 +1,35 @@
+{
+  "id": "msg_0113C6u9RCBdvhD9M1cDW2wc",
+  "content": [
+    {
+      "id": "toolu_0179x8XjTorzSA4jj3uhGHAe",
+      "input": {
+        "is_active": true,
+        "activity_signal": "Recent FCC filing (2024-11-08) for VoIP numbering authorization, active web presence with multiple recent search results including company reviews and job postings, operational address in South Jordan, UT with complete executive team including President William Rubio and other C-level executives",
+        "industry_segment": "UCaaS",
+        "product_summary": "CallTower provides hosted enterprise-class Unified Communications solutions including VoIP service, mobile applications, email hosting, unified messaging, audio/web/video conferencing, collaboration tools, and contact center services for businesses nationwide.",
+        "market_position": "Enterprise",
+        "enrichment_confidence": "High"
+      },
+      "name": "enrichment_result",
+      "type": "tool_use"
+    }
+  ],
+  "model": "claude-sonnet-4-20250514",
+  "role": "assistant",
+  "stop_reason": "tool_use",
+  "stop_sequence": null,
+  "type": "message",
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0,
+    "input_tokens": 2179,
+    "output_tokens": 236,
+    "server_tool_use": null,
+    "service_tier": "standard"
+  }
+}

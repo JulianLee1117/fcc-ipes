@@ -1,0 +1,76 @@
+You are analyzing an IPES (Interconnected VoIP Provider) company that filed for numbering authorization with the FCC.
+
+Based ONLY on the evidence provided below, determine:
+1. Whether the company is likely still active
+2. Their industry segment (UCaaS, CCaaS, CPaaS, Carrier, Reseller, Enterprise IT, or Other)
+3. A brief product summary
+4. Their market position (Enterprise, Mid-Market, SMB, Startup, or Unknown)
+5. Your confidence level based on evidence quality
+
+EVIDENCE PACK:
+{
+  "company_name": "Martin Lien",
+  "aliases": [
+    "Martin Lien"
+  ],
+  "fcc_filing": {
+    "first_filing_date": "2021-11-23",
+    "latest_filing_date": "2021-11-23",
+    "total_filings": 1,
+    "docket_numbers": [],
+    "proceeding_types": [
+      "VoIP Numbering Authorization Application"
+    ],
+    "has_supplements": false,
+    "recent_activity": false
+  },
+  "parsed_from_docs": {
+    "address": "100 S Cincinnati Ave Fl 5, Suite 527",
+    "city": "Tulsa",
+    "state": "OK",
+    "zip_code": "74103",
+    "phone": "2146811845",
+    "email": null,
+    "key_personnel": [],
+    "founding_date": null,
+    "service_description": null
+  },
+  "web_search_results": [
+    {
+      "title": "US20150036678A1 - Voip client control via in-band video",
+      "url": "https://patents.google.com/patent/US20150036678A1/en",
+      "snippet": "... RPX CORPORATION RELEASE OF LIEN ... the present document relates to the provision of network interaction services within a telecommunication network."
+    },
+    {
+      "title": "US7936705B1 - Multiplexing VoIP streams for conferencing and",
+      "url": "https://patents.google.com/patent/US7936705B1/en",
+      "snippet": "BANKRUPTCY COURT ORDER RELEASING ALL LIENS INCLUDING THE SECURITY INTEREST RECORDED AT REEL/FRAME 029608/0256 Assignors: THE BANK OF NEW YORK MELLON ..."
+    },
+    {
+      "title": "US9559888B2 - VoIP client control via in-band video signalling",
+      "url": "https://patents.google.com/patent/US9559888B2/en",
+      "snippet": "... RPX CORPORATION RELEASE OF LIEN ... the present document relates to the provision of network interaction services within a telecommunication network."
+    },
+    {
+      "title": "US6681001B1 - Computer integrated telecommunications systems",
+      "url": "https://patents.google.com/patent/US6681001B1/en",
+      "snippet": "This allows the telephony enabled application to have direct access and control over the integrated telecommunications equipment."
+    },
+    {
+      "title": "ippi - VoIP SIP trunk provider",
+      "url": "https://www.ippi.com/?lang=fr",
+      "snippet": "Founded in 2006, Yeastar has established itself as a global leader in the telecommunications industry with a global partner network and over 100,000 ..."
+    }
+  ]
+}
+
+RULES:
+- Ground ALL assessments in the provided evidence
+- Cite specific sources in activity_signal (e.g., "Recent FCC filing (2024)", "Company website found via search")
+- Use "Unknown" when evidence is insufficient - DO NOT hallucinate
+- Confidence levels:
+  - High = Multiple confirming signals (recent web presence + recent filings + company details)
+  - Medium = Some signals but incomplete picture
+  - Low = FCC data only, no external confirmation
+
+Call the enrichment_result function with your analysis.

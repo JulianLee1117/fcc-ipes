@@ -1,0 +1,78 @@
+You are analyzing an IPES (Interconnected VoIP Provider) company that filed for numbering authorization with the FCC.
+
+Based ONLY on the evidence provided below, determine:
+1. Whether the company is likely still active
+2. Their industry segment (UCaaS, CCaaS, CPaaS, Carrier, Reseller, Enterprise IT, or Other)
+3. A brief product summary
+4. Their market position (Enterprise, Mid-Market, SMB, Startup, or Unknown)
+5. Your confidence level based on evidence quality
+
+EVIDENCE PACK:
+{
+  "company_name": "HDC Gamma, LLC",
+  "aliases": [
+    "HDC Gamma, LLC"
+  ],
+  "fcc_filing": {
+    "first_filing_date": "2019-10-08",
+    "latest_filing_date": "2019-10-08",
+    "total_filings": 1,
+    "docket_numbers": [
+      "19-317"
+    ],
+    "proceeding_types": [
+      "In the Matter of  HDC Gamma, LLC"
+    ],
+    "has_supplements": false,
+    "recent_activity": false
+  },
+  "parsed_from_docs": {
+    "address": "170 S. Green ValleyPkwy.",
+    "city": "Henderson",
+    "state": "NE",
+    "zip_code": "89012",
+    "phone": "8448532222",
+    "email": null,
+    "key_personnel": [],
+    "founding_date": null,
+    "service_description": "provide interconnectedVoIP services initiallyinNY."
+  },
+  "web_search_results": [
+    {
+      "title": "Interconnected VoIP Numbering Authorization Application Filed",
+      "url": "https://www.fcc.gov/document/interconnected-voip-numbering-authorization-application-filed-44",
+      "snippet": "Jan 6, 2021 \u00b7 Full Title: Interconnected VoIP Numbering Authorization Application Filed By HDC Gamma , LLC Pursuant To Section 52.15 (g) (3) Of The Commission's Rules Document Type: Public Notice Bureau (s): Wireline Competition DA/FCC #: DA-21-17 Docket No: 19-317 FCC Record Citation: 36 FCC Rcd 69 (1) FCC Record: DA-21-17A1_Rcd.pdf"
+    },
+    {
+      "title": "Protective Order issued in the matter of HDC Applications (5)",
+      "url": "https://www.fcc.gov/document/protective-order-issued-matter-hdc-applications-5",
+      "snippet": "Protective Order issued in the matter of Applications for HDC Alpha, LLC; HDC Beta, LLC; HDC Gamma , LLC ; HDC Delta, LLC; HDC Epsilon, LLC for iVoip Authorization Pursuant to Section 52.15(g)(3) of the Commission's Rules."
+    },
+    {
+      "title": "HDC GAMMA, LLC in Carson City, NV | Company Info & Reviews",
+      "url": "https://www.bizapedia.com/nv/hdc-gamma-llc.html",
+      "snippet": "Jun 27, 2025 \u00b7 Discover Company Info on HDC GAMMA , LLC in Carson City, NV, such as Contacts, Addresses, Reviews, and Registered Agent."
+    },
+    {
+      "title": "Hdc Gamma, LLC in Henderson NV - Company Profile",
+      "url": "https://www.corporationwiki.com/p/36zl2g/hdc-gamma-llc",
+      "snippet": "View company leaders and background information for Hdc Gamma , LLC . Search our database of over 100 million company and executive profiles."
+    },
+    {
+      "title": "HDC GAMMA, LLC :: California (US) :: OpenCorporates",
+      "url": "https://opencorporates.com/companies/us_ca/202010910099",
+      "snippet": "Free and open company data on California (US) company HDC GAMMA , LLC (company number 202010910099)"
+    }
+  ]
+}
+
+RULES:
+- Ground ALL assessments in the provided evidence
+- Cite specific sources in activity_signal (e.g., "Recent FCC filing (2024)", "Company website found via search")
+- Use "Unknown" when evidence is insufficient - DO NOT hallucinate
+- Confidence levels:
+  - High = Multiple confirming signals (recent web presence + recent filings + company details)
+  - Medium = Some signals but incomplete picture
+  - Low = FCC data only, no external confirmation
+
+Call the enrichment_result function with your analysis.

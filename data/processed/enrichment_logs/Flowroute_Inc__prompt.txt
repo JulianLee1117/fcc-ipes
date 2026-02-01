@@ -1,0 +1,92 @@
+You are analyzing an IPES (Interconnected VoIP Provider) company that filed for numbering authorization with the FCC.
+
+Based ONLY on the evidence provided below, determine:
+1. Whether the company is likely still active
+2. Their industry segment (UCaaS, CCaaS, CPaaS, Carrier, Reseller, Enterprise IT, or Other)
+3. A brief product summary
+4. Their market position (Enterprise, Mid-Market, SMB, Startup, or Unknown)
+5. Your confidence level based on evidence quality
+
+EVIDENCE PACK:
+{
+  "company_name": "Flowroute Inc.",
+  "aliases": [
+    "Flowroute Inc."
+  ],
+  "fcc_filing": {
+    "first_filing_date": "2016-08-15",
+    "latest_filing_date": "2016-08-15",
+    "total_filings": 5,
+    "docket_numbers": [
+      "16-265"
+    ],
+    "proceeding_types": [
+      "Interconnected VoIP Numbering Authorization Application Filed By Flowroute, Inc. Pursuant To Section 52.15(g)(3) of The Commission's Rules",
+      "Interconnected VoIP Numbering Authorization Application Filed By Flowroute, Inc. Pursuant To Section 52.15(g)(3) of The Commission\u2019s Rules"
+    ],
+    "has_supplements": true,
+    "recent_activity": false
+  },
+  "parsed_from_docs": {
+    "address": null,
+    "city": null,
+    "state": null,
+    "zip_code": null,
+    "phone": null,
+    "email": null,
+    "key_personnel": [
+      {
+        "name": "Chief Executive Officer",
+        "title": "Eric Harber"
+      },
+      {
+        "name": "Chief Operating Officer",
+        "title": "Justin Grow"
+      },
+      {
+        "name": "of Engineering",
+        "title": "President"
+      }
+    ],
+    "founding_date": null,
+    "service_description": null
+  },
+  "web_search_results": [
+    {
+      "title": "Contact Us | Flowroute - SIP Trunking, VoIP , and Messaging",
+      "url": "https://flowroute.com/contact-us/",
+      "snippet": "Flowroute Operational Status. Check out our Status Page for any issues in your area, and for scheduled maintenance that may affect your provided services.Wish to speak with one of our Sales agents? Visit our Contact Sales page to learn what Flowroute can do for you."
+    },
+    {
+      "title": "Flowroute \u00ae - Login",
+      "url": "https://manage.flowroute.com/",
+      "snippet": "Set up your Flowroute account to start calling and texting now."
+    },
+    {
+      "title": "Flowroute Inc - Company Profile and News - Bloomberg Markets",
+      "url": "https://www.bloomberg.com/profile/company/1631764D:US",
+      "snippet": "Company profile page for Flowroute Inc including stock price, company news, executives, board members, and contact information."
+    },
+    {
+      "title": "Flowroute Inc Careers and Employment | Indeed.com",
+      "url": "https://www.indeed.com/cmp/Flowroute-Inc",
+      "snippet": "Find out what works well at Flowroute Inc from the people who know best. Get the inside scoop on jobs, salaries, top office locations, and CEO insights. Compare pay for popular roles and read about the team\u2019s work-life balance. Uncover why Flowroute Inc is the best company for you."
+    },
+    {
+      "title": "Flowroute Vs Flowroute (Oct 2024) | ITQlick",
+      "url": "https://www.itqlick.com/compare/flowroute/flowroute",
+      "snippet": "Flowroute Inc .: Flowroute Inc . is a software company based in Seattle, Washington.Flowroute is a growing cloud-based VoIP software, it is designed to support small and medium size business. Flowroute received a rating of 4.6 from ITQlick team."
+    }
+  ]
+}
+
+RULES:
+- Ground ALL assessments in the provided evidence
+- Cite specific sources in activity_signal (e.g., "Recent FCC filing (2024)", "Company website found via search")
+- Use "Unknown" when evidence is insufficient - DO NOT hallucinate
+- Confidence levels:
+  - High = Multiple confirming signals (recent web presence + recent filings + company details)
+  - Medium = Some signals but incomplete picture
+  - Low = FCC data only, no external confirmation
+
+Call the enrichment_result function with your analysis.

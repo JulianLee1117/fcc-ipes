@@ -1,0 +1,91 @@
+You are analyzing an IPES (Interconnected VoIP Provider) company that filed for numbering authorization with the FCC.
+
+Based ONLY on the evidence provided below, determine:
+1. Whether the company is likely still active
+2. Their industry segment (UCaaS, CCaaS, CPaaS, Carrier, Reseller, Enterprise IT, or Other)
+3. A brief product summary
+4. Their market position (Enterprise, Mid-Market, SMB, Startup, or Unknown)
+5. Your confidence level based on evidence quality
+
+EVIDENCE PACK:
+{
+  "company_name": "Comcast IP Phone, LLC",
+  "aliases": [
+    "Comcast IP Phone, LLC"
+  ],
+  "fcc_filing": {
+    "first_filing_date": "2018-09-17",
+    "latest_filing_date": "2018-09-17",
+    "total_filings": 1,
+    "docket_numbers": [
+      "18-298"
+    ],
+    "proceeding_types": [
+      "INTERCONNECTED VOIP NUMBERING AUTHORIZATION APPLICATION FILED BY COMCAST IP PHONE, LLC PURSUANT TO SECTION 52.15(g)(3) OF THE COMMISSION'S RULES"
+    ],
+    "has_supplements": false,
+    "recent_activity": false
+  },
+  "parsed_from_docs": {
+    "address": "AT&T Southeast",
+    "city": null,
+    "state": null,
+    "zip_code": null,
+    "phone": null,
+    "email": "Beth_Choroser@comcast.com",
+    "key_personnel": [
+      {
+        "name": "Chief Network Officer",
+        "title": "Jan Hofmeyr"
+      },
+      {
+        "name": "and General",
+        "title": "President"
+      },
+      {
+        "name": "and Senior",
+        "title": "President"
+      }
+    ],
+    "founding_date": null,
+    "service_description": null
+  },
+  "web_search_results": [
+    {
+      "title": "Business Phone and Voice Solutions | Comcast Business",
+      "url": "https://business.comcast.com/learn/phone",
+      "snippet": "Comcast Business provides business phone and Voice over IP ( VoIP ) services to meet company\u2019s needs, from small businesses to enterprise corporations"
+    },
+    {
+      "title": "Comcast IP Phone, LLC Company Profile | Philadelphia ...",
+      "url": "https://www.dnb.com/business-directory/company-profiles.comcast_ip_phone_llc.55770f772d302174a16f7d35e9c276e8.html",
+      "snippet": "Find company research, competitor information, contact details & financial data for Comcast IP Phone, LLC of Philadelphia, Pennsylvania. Get the latest business insights from Dun & Bradstreet."
+    },
+    {
+      "title": "What is Voice Over Internet Protocol (VoIP)? - Xfinity Support",
+      "url": "https://www.xfinity.com/support/articles/voice-over-internet-protocol",
+      "snippet": "VoIP is a technology used to transmit voice and related calls over a data network. Most VoIP service providers use the public Internet to transmit your calls, but we transmit your calls over our own advanced network."
+    },
+    {
+      "title": "COMCAST IP PHONE, LLC - New Hampshire Company Directory",
+      "url": "https://www.nhcompanyregistry.com/companies/comcast-ip-phone-llc/",
+      "snippet": "Provide information about COMCAST IP PHONE , LLC , includes incorporation date, status, type, directors, address, contacts information & more."
+    },
+    {
+      "title": "Comcast Ip Phone, LLC in Philadelphia PA - Company Profile",
+      "url": "https://www.corporationwiki.com/Pennsylvania/Philadelphia/comcast-ip-phone-llc-3635288.aspx",
+      "snippet": "Dec 22, 2005 \u00b7 View company leaders and background information for Comcast Ip Phone , LLC . Search our database of over 100 million company and executive profiles."
+    }
+  ]
+}
+
+RULES:
+- Ground ALL assessments in the provided evidence
+- Cite specific sources in activity_signal (e.g., "Recent FCC filing (2024)", "Company website found via search")
+- Use "Unknown" when evidence is insufficient - DO NOT hallucinate
+- Confidence levels:
+  - High = Multiple confirming signals (recent web presence + recent filings + company details)
+  - Medium = Some signals but incomplete picture
+  - Low = FCC data only, no external confirmation
+
+Call the enrichment_result function with your analysis.

@@ -1,0 +1,35 @@
+{
+  "id": "msg_017ZmsDsyAVUdzyJSiLzKQuj",
+  "content": [
+    {
+      "id": "toolu_011X7wvP4L7bpb135tBeuNJC",
+      "input": {
+        "is_active": true,
+        "activity_signal": "Recent FCC filing (2024-10-11) for VoIP numbering authorization. Web search confirms TDS Metrocom is part of active TDS Telecom subsidiary providing phone, data, and Internet services. TDS Business website shows current VoIP solutions offerings. Parent company TDS Telecom employs 3,400 people and is publicly traded (NYSE: TDS).",
+        "industry_segment": "Carrier",
+        "product_summary": "TDS Metrocom is a local phone service provider offering voice, data, and Internet services in the midwestern United States, operating as part of TDS Telecom's telecommunications infrastructure with VoIP capabilities through PSTN interconnection.",
+        "market_position": "Enterprise",
+        "enrichment_confidence": "High"
+      },
+      "name": "enrichment_result",
+      "type": "tool_use"
+    }
+  ],
+  "model": "claude-sonnet-4-20250514",
+  "role": "assistant",
+  "stop_reason": "tool_use",
+  "stop_sequence": null,
+  "type": "message",
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0,
+    "input_tokens": 1851,
+    "output_tokens": 265,
+    "server_tool_use": null,
+    "service_tier": "standard"
+  }
+}

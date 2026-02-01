@@ -1,0 +1,93 @@
+You are analyzing an IPES (Interconnected VoIP Provider) company that filed for numbering authorization with the FCC.
+
+Based ONLY on the evidence provided below, determine:
+1. Whether the company is likely still active
+2. Their industry segment (UCaaS, CCaaS, CPaaS, Carrier, Reseller, Enterprise IT, or Other)
+3. A brief product summary
+4. Their market position (Enterprise, Mid-Market, SMB, Startup, or Unknown)
+5. Your confidence level based on evidence quality
+
+EVIDENCE PACK:
+{
+  "company_name": "Invoxio",
+  "aliases": [
+    "Invoxio"
+  ],
+  "fcc_filing": {
+    "first_filing_date": "2017-03-08",
+    "latest_filing_date": "2017-03-08",
+    "total_filings": 4,
+    "docket_numbers": [
+      "17-217",
+      "17-44"
+    ],
+    "proceeding_types": [
+      "INTERCONNECTED VOIP NUMBERING AUTHORIZATION APPLICATION FILED BY INTER VISTA NETWORKING, INC. PURSUANT TO SECTION 52.15(g)(3)",
+      "INTERCONNECTED VOIP NUMBERING AUTHORIZATION APPLICATION FILED BY INVOXIO, INC. PURSUANT TO SECTION 52.15(g)(3) OF THE COMMISSION&#146;S RULES"
+    ],
+    "has_supplements": false,
+    "recent_activity": false
+  },
+  "parsed_from_docs": {
+    "address": "4310 Metro Parkway Ste 110",
+    "city": null,
+    "state": null,
+    "zip_code": null,
+    "phone": "5619900000",
+    "email": null,
+    "key_personnel": [
+      {
+        "name": "Donovan Osbourne",
+        "title": "CTO"
+      },
+      {
+        "name": "Donovan Osbourne",
+        "title": "CTO"
+      },
+      {
+        "name": "Donovan Osbourne",
+        "title": "CTO"
+      }
+    ],
+    "founding_date": null,
+    "service_description": null
+  },
+  "web_search_results": [
+    {
+      "title": "Invoxio - The Phone Company for Developers",
+      "url": "https://invoxio.com/",
+      "snippet": "Ship voice and messaging features in minutes. Turnkey phone systems and enterprise solutions. From small teams to large call centers, we scale with your business. Ready to get started? Join thousands of developers and businesses building with Invoxio . invoxio \u00a9 2026 Invoxio Inc. All rights reserved. Carrier-grade voice, messaging, and data APIs."
+    },
+    {
+      "title": "Invoxio Incorporated | BBB Business Profile | Better Business ... INVOXIO INCORPORATED - Global Providers Directory Invoxio - LinkedIn Invoxio - Overview, News & Similar companies | ZoomInfo.com Invoxio Incorporated Company Profile -Sales, Contacts ... Invoxio Incorporated | (561) 990-0000 | Fort Myers, Florida",
+      "url": "https://www.bbb.org/us/fl/fort-myers/profile/telecommunications/invoxio-incorporated-0653-90349303",
+      "snippet": "Telecommunications in Fort Myers, FL. See BBB rating, reviews, complaints, and more. INVOXIO INCORPORATED offers a range of services designed to streamline communication processes and improve efficiency. From virtual phone systems to advanced messaging solutions, their products are designed to meet the needs of businesses of all sizes. Invoxio | 22 followers on LinkedIn. We believe you should communicate. Ask us how. | Sometimes you find yourself in a group of people who are really good at what they do. View Invoxio (www. invoxio .com) location in Florida, United States , revenue, industry and description. Find related and similar companies as well as employees by title and much more. Invoxio Incorporated is located in Fort Myers, Florida. This organization primarily operates in the Custom Computer Programming Services business / industry within the Business Services sector. This organization has been operating for approximately 10 years. Timothy Meade is the primary contact at Invoxio Incorporated. Invoxio Incorporated generates approximately USD 4,000,000 in revenue annually, and employs around 12 people at this location."
+    },
+    {
+      "title": "INVOXIO INCORPORATED - Global Providers Directory",
+      "url": "https://www.connectbase.com/provider/invoxio-incorporated/",
+      "snippet": "INVOXIO INCORPORATED offers a range of services designed to streamline communication processes and improve efficiency. From virtual phone systems to advanced messaging solutions, their products are designed to meet the needs of businesses of all sizes."
+    },
+    {
+      "title": "Invoxio - LinkedIn",
+      "url": "https://www.linkedin.com/company/invoxio",
+      "snippet": "Invoxio | 22 followers on LinkedIn. We believe you should communicate. Ask us how. | Sometimes you find yourself in a group of people who are really good at what they do."
+    },
+    {
+      "title": "Invoxio - Overview, News & Similar companies | ZoomInfo.com",
+      "url": "https://www.zoominfo.com/c/invoxio/454543248",
+      "snippet": "View Invoxio (www. invoxio .com) location in Florida, United States , revenue, industry and description. Find related and similar companies as well as employees by title and much more."
+    }
+  ]
+}
+
+RULES:
+- Ground ALL assessments in the provided evidence
+- Cite specific sources in activity_signal (e.g., "Recent FCC filing (2024)", "Company website found via search")
+- Use "Unknown" when evidence is insufficient - DO NOT hallucinate
+- Confidence levels:
+  - High = Multiple confirming signals (recent web presence + recent filings + company details)
+  - Medium = Some signals but incomplete picture
+  - Low = FCC data only, no external confirmation
+
+Call the enrichment_result function with your analysis.

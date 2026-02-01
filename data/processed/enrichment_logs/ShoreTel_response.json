@@ -1,0 +1,35 @@
+{
+  "id": "msg_01SHM4PhXzs3equkEguULQDV",
+  "content": [
+    {
+      "id": "toolu_01HrGNQ3sQPWrPWsokHjtMPD",
+      "input": {
+        "is_active": false,
+        "activity_signal": "ShoreTel was acquired by Mitel, as evidenced by web search results showing \"ShoreTel Product Evolution and Integration Insights | Mitel\" and references to \"ShoreTel/Mitel\" branding. The FCC filing is from 2017 with no recent activity. Web search results primarily show legacy product information and reseller pages for discontinued ShoreTel systems, indicating the company no longer operates independently.",
+        "industry_segment": "UCaaS",
+        "product_summary": "ShoreTel provided unified communications systems including VoIP telephony, instant messaging, video conferencing, mobility, and collaboration capabilities for businesses of all sizes.",
+        "market_position": "Enterprise",
+        "enrichment_confidence": "Medium"
+      },
+      "name": "enrichment_result",
+      "type": "tool_use"
+    }
+  ],
+  "model": "claude-sonnet-4-20250514",
+  "role": "assistant",
+  "stop_reason": "tool_use",
+  "stop_sequence": null,
+  "type": "message",
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0,
+    "input_tokens": 2491,
+    "output_tokens": 256,
+    "server_tool_use": null,
+    "service_tier": "standard"
+  }
+}

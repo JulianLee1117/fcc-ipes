@@ -1,0 +1,119 @@
+You are analyzing an IPES (Interconnected VoIP Provider) company that filed for numbering authorization with the FCC.
+
+Based ONLY on the evidence provided below, determine:
+1. Whether the company is likely still active
+2. Their industry segment (UCaaS, CCaaS, CPaaS, Carrier, Reseller, Enterprise IT, or Other)
+3. A brief product summary
+4. Their market position (Enterprise, Mid-Market, SMB, Startup, or Unknown)
+5. Your confidence level based on evidence quality
+
+EVIDENCE PACK:
+{
+  "company_name": "Star2Star Communications, LLC",
+  "aliases": [
+    "Star2Star Communications, LLC"
+  ],
+  "fcc_filing": {
+    "first_filing_date": "2020-06-08",
+    "latest_filing_date": "2020-06-08",
+    "total_filings": 3,
+    "docket_numbers": [
+      "20-165"
+    ],
+    "proceeding_types": [
+      "Interconnected VoIP Numbering Authorization Application Filed By Star2Star Communications, LLC Pursuant To Section 52.15(g)(3) Of The Commission's Rules"
+    ],
+    "has_supplements": true,
+    "recent_activity": false
+  },
+  "parsed_from_docs": {
+    "address": null,
+    "city": null,
+    "state": null,
+    "zip_code": null,
+    "phone": "2027926422",
+    "email": null,
+    "key_personnel": [
+      {
+        "name": "Chief Executive Officer",
+        "title": "and Executive"
+      },
+      {
+        "name": "and Chief",
+        "title": "President"
+      },
+      {
+        "name": "and Chief",
+        "title": "President"
+      },
+      {
+        "name": "Chief Technology Officer",
+        "title": "Sergey Galchenko"
+      },
+      {
+        "name": "at Broadvox",
+        "title": "CTO"
+      },
+      {
+        "name": "Chief Product Officer",
+        "title": "Bobby is"
+      },
+      {
+        "name": "Chief Legal Officer",
+        "title": "Bruce Illes"
+      },
+      {
+        "name": "and CEO",
+        "title": "President"
+      },
+      {
+        "name": "Chief Legal Officer",
+        "title": "of Star"
+      },
+      {
+        "name": "Chief Revenue Officer",
+        "title": "President"
+      }
+    ],
+    "founding_date": "1997",
+    "service_description": "providers to\ncompromise Star2Star\u2019s position in the highly competitive interconnected VoIP sector."
+  },
+  "web_search_results": [
+    {
+      "title": "Star2Star - LinkedIn",
+      "url": "https://www.linkedin.com/company/star2star-communications-llc",
+      "snippet": "Star2Star unifies customers' voice, video, fax, instant messaging and presence management into a single, easy-to-use system. The company has one of the highest long-term customer retention rates..."
+    },
+    {
+      "title": "Star2Star Communications, LLC - Better Business Bureau Star2Star Communications Company Profile | Management and ... (}s1 Complete Broadband Solutions. 151 Southhall Lane, Ste ... Star2Star Communications, LLC - Company Profile & Staff ... MISSOURI PUBLIC SERVICE COMMISSION Star2Star Communications ... Star2Star Reviews | WhichVoIP Star2Star Communications - Sarasota, FL - Inc.com Star Communications LLC - Weyauwega, WI Star2Star Communications | Inc.com",
+      "url": "https://www.bbb.org/us/fl/sarasota/profile/telephones/star2star-communications-llc-0653-90059376",
+      "snippet": "Products and Services This company provides telecommunications equipment and VOIP service. Star2Star Communications is an organization that offers a variety of VoIP solutions, deal registration and protection, sales and discovery support, concierge marketing programs, pre-sales engineering, and implementation and installation services. Please accept this letter submitted on behalf of Star2Star Communications , LLC (\u201cCompany\u201d) as notice to the Commission that Star2Star is ceasing to exist as a VoIP provider and respectfully requests the cancellation of its Registration effective immediately. The company was also named by IHS as a Top 10 Hosted Business VoIP /UC Provider, as well as in the Gartner Magic Quadrant for Unified Communications as a Service, Worldwide. Star2Star is ceasing to exist as a VoIP provider and respectfully requests the cancellation of its authority as granted in DA-2018-0246 effective January 1, 2025. Is Star2Star Communications a good VoIP company? As one of the newer companies in the VoIP market, Star2Star Communications has shown a very respectable level of growth since the company was first founded in 2006. Headquartered in Sarasota, FL, the company primarily serves the Southeast US, though they have a variety of clients throughout the country. What does Star2Star do? Star2Star specializes in innovative business VoIP solutions that help businesses of all sizes in any industry stay connected to what matters. Our Full Spectrum Communications Solution offers end-to-end support for voice, video, mobile, chat, fax, presence management, and more. Who is Star Communications LLC? Star Communications LLC is Wisconsin's best fixed wireless broadband internet service provider . Star2Star specializes in innovative business VoIP solutions that help businesses of all sizes in any industry stay connected to what matters. Our Full Spectrum Communications Solution offers..."
+    },
+    {
+      "title": "Star2Star Communications Company Profile | Management and ...",
+      "url": "https://www.datanyze.com/companies/star2star-communications/216432818",
+      "snippet": "Star2Star Communications is an organization that offers a variety of VoIP solutions, deal registration and protection, sales and discovery support, concierge marketing programs, pre-sales engineering, and implementation and installation services."
+    },
+    {
+      "title": "Star2Star Communications, LLC - Company Profile & Staff ...",
+      "url": "https://contactout.com/company/Star2Star-Communications-LLC-24521",
+      "snippet": "The company was also named by IHS as a Top 10 Hosted Business VoIP /UC Provider, as well as in the Gartner Magic Quadrant for Unified Communications as a Service, Worldwide."
+    },
+    {
+      "title": "MISSOURI PUBLIC SERVICE COMMISSION Star2Star Communications ...",
+      "url": "https://www.efis.psc.mo.gov/Document/Display/807305",
+      "snippet": "Star2Star is ceasing to exist as a VoIP provider and respectfully requests the cancellation of its authority as granted in DA-2018-0246 effective January 1, 2025."
+    }
+  ]
+}
+
+RULES:
+- Ground ALL assessments in the provided evidence
+- Cite specific sources in activity_signal (e.g., "Recent FCC filing (2024)", "Company website found via search")
+- Use "Unknown" when evidence is insufficient - DO NOT hallucinate
+- Confidence levels:
+  - High = Multiple confirming signals (recent web presence + recent filings + company details)
+  - Medium = Some signals but incomplete picture
+  - Low = FCC data only, no external confirmation
+
+Call the enrichment_result function with your analysis.

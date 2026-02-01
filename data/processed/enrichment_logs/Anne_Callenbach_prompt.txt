@@ -1,0 +1,68 @@
+You are analyzing an IPES (Interconnected VoIP Provider) company that filed for numbering authorization with the FCC.
+
+Based ONLY on the evidence provided below, determine:
+1. Whether the company is likely still active
+2. Their industry segment (UCaaS, CCaaS, CPaaS, Carrier, Reseller, Enterprise IT, or Other)
+3. A brief product summary
+4. Their market position (Enterprise, Mid-Market, SMB, Startup, or Unknown)
+5. Your confidence level based on evidence quality
+
+EVIDENCE PACK:
+{
+  "company_name": "Anne Callenbach",
+  "aliases": [
+    "Anne Callenbach"
+  ],
+  "fcc_filing": {
+    "first_filing_date": "2018-12-11",
+    "latest_filing_date": "2018-12-11",
+    "total_filings": 1,
+    "docket_numbers": [
+      "19-17"
+    ],
+    "proceeding_types": [
+      "INTERCONNECTED VOIP NUMBERING AUTHORIZATION APPLICATION FILED BY BRIGHTLINK COMMUNICATIONS, LLC PURSUANT TO SECTION 52.15(g)(3) OF THE COMMISSION'S RULES"
+    ],
+    "has_supplements": false,
+    "recent_activity": false
+  },
+  "parsed_from_docs": {},
+  "web_search_results": [
+    {
+      "title": "Anne E. Callenbach Shareholder Polsinelli law firm",
+      "url": "https://natlawreview.com/author/anne-e-callenbach",
+      "snippet": "Anne Callenbach , Shareholder at Polsinelli, advises her energy clients on a diverse range of regulatory, business, and legislative matters."
+    },
+    {
+      "title": "Anne E. Callenbach | Energy Lawyer | Polsinelli",
+      "url": "https://www.polsinelli.com/anne-e-callenbach",
+      "snippet": "With a focus on emerging energy, regulatory and administrative rate and tariff issues, Anne Callenbach has devoted her career to offering her energy clients insight and guidance on a diverse range of regulatory, business and legislative matters."
+    },
+    {
+      "title": "Anne Callenbach (annebos44) \u2014 \u043f\u0440\u043e\u0444\u0438\u043b\u044c | Pinterest",
+      "url": "https://ru.pinterest.com/annebos44/",
+      "snippet": "\u041f\u043e\u0441\u043c\u043e\u0442\u0440\u0438\u0442\u0435, \u0447\u0442\u043e \u043d\u0430\u0448\u0435\u043b \u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u0442\u0435\u043b\u044c Anne Callenbach (annebos44) \u043d\u0430 Pinterest \u2014 \u0441\u0430\u043c\u043e\u0439 \u0431\u043e\u043b\u044c\u0448\u043e\u0439 \u0432 \u043c\u0438\u0440\u0435 \u043a\u043e\u043b\u043b\u0435\u043a\u0446\u0438\u0438 \u0438\u0434\u0435\u0439."
+    },
+    {
+      "title": "Callenbach / (Kinder-) boeken / Boeken / Onze collectie | Behoudvanoud",
+      "url": "https://www.stichtingbehoudvanoud.nl/onze-collectie/boeken/kinder-boeken/callenbach",
+      "snippet": "De Nederlandse uitgeverij Callenbach werd in 1854 in Nijkerk opgericht door George Frans Callenbach (10 januari 1833 - 21 april 1916), zoon van de predikant C.C. Callenbach , de \"profeet van de Veluwe\". ."
+    },
+    {
+      "title": "Renewable News - Spring 2013 | Polsinelli - JDSupra",
+      "url": "https://www.jdsupra.com/legalnews/renewable-news-spring-2013-37495/",
+      "snippet": "aanderson@polsinelli.com. Anne E. Callenbach ."
+    }
+  ]
+}
+
+RULES:
+- Ground ALL assessments in the provided evidence
+- Cite specific sources in activity_signal (e.g., "Recent FCC filing (2024)", "Company website found via search")
+- Use "Unknown" when evidence is insufficient - DO NOT hallucinate
+- Confidence levels:
+  - High = Multiple confirming signals (recent web presence + recent filings + company details)
+  - Medium = Some signals but incomplete picture
+  - Low = FCC data only, no external confirmation
+
+Call the enrichment_result function with your analysis.

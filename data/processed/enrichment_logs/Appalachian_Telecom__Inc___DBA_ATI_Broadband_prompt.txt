@@ -1,0 +1,91 @@
+You are analyzing an IPES (Interconnected VoIP Provider) company that filed for numbering authorization with the FCC.
+
+Based ONLY on the evidence provided below, determine:
+1. Whether the company is likely still active
+2. Their industry segment (UCaaS, CCaaS, CPaaS, Carrier, Reseller, Enterprise IT, or Other)
+3. A brief product summary
+4. Their market position (Enterprise, Mid-Market, SMB, Startup, or Unknown)
+5. Your confidence level based on evidence quality
+
+EVIDENCE PACK:
+{
+  "company_name": "Appalachian Telecom, Inc., DBA ATI Broadband",
+  "aliases": [
+    "Appalachian Telecom, Inc., DBA ATI Broadband"
+  ],
+  "fcc_filing": {
+    "first_filing_date": "2021-03-31",
+    "latest_filing_date": "2021-03-31",
+    "total_filings": 2,
+    "docket_numbers": [
+      "21-133"
+    ],
+    "proceeding_types": [
+      "Interconnected VoIP Numbering Authorization Application Filed By Appalachian Telecom, Inc., DBA ATI Broadband Pursuant To Section 52.15(g)(3) Of The Commission's Rules"
+    ],
+    "has_supplements": false,
+    "recent_activity": false
+  },
+  "parsed_from_docs": {
+    "address": "809 Henry Street",
+    "city": "Ravenswood",
+    "state": "WE",
+    "zip_code": "26164",
+    "phone": "1304699457",
+    "email": null,
+    "key_personnel": [
+      {
+        "name": "David Gilbert",
+        "title": "President"
+      },
+      {
+        "name": "Appalachian Telecom",
+        "title": "President"
+      },
+      {
+        "name": "Appalachian Telecom",
+        "title": "President"
+      }
+    ],
+    "founding_date": null,
+    "service_description": null
+  },
+  "web_search_results": [
+    {
+      "title": "Appalachian Telecom, Inc. | Ati Broadband - CAGE.report",
+      "url": "https://cage.report/SAM/8D4N1",
+      "snippet": "SAM commercial entity registration and contact information for APPALACHIAN TELECOM , INC .. Federal contractor registration details, location, website, and products offered."
+    },
+    {
+      "title": "Public Notice \u2013 West Virginia Legals",
+      "url": "https://wvlegals.com/public-notice-4986/",
+      "snippet": "May 11, 2020 \u00b7 On May 5, 2020, Appalachian Telcom , Inc ., dba ATI Broadband filed an application for a certificate of public convenience and necessity to provide facilities-based and non-facilities-based competitive local exchange telecommunications services and intra-state inter-exchange telecommunications services throughout the State of West Virginia."
+    },
+    {
+      "title": "Bluefield Daily Telegraph | Classifieds | Public Notices ...",
+      "url": "https://marketplace.bdtonline.com/bluefield-wv/public-notices/public-service-commission-of-w/AC1E047B16390284BFGwDW94E462",
+      "snippet": "Case No. 20-0373-T-CN APPALACHIAN TELECOM , Inc ., dba ATI Broadband Application for a certificate of public convenience and necessity to provide facilities based and non-facilities-based..."
+    },
+    {
+      "title": "PUBLIC SERVICE COMMISSION OF W... - The Register Herald",
+      "url": "https://marketplace.register-herald.com/beckley-wv/public-notices/public-service-commission-of-w/AC1E047B16390254FER3cU52864C",
+      "snippet": "Case No. 20-0373-T-CN APPALACHIAN TELECOM , Inc ., dba ATI Broadband Application for a certificate of public convenience and necessity to provide facilities based and non-facilities-based..."
+    },
+    {
+      "title": "Times West Virginian | Classifieds | Public Notices | PUBLIC ...",
+      "url": "https://marketplace.timeswv.com/fairmont-wv/public-notices/public-service-commission-of-w/AC1E047B16390286A1VJPN4FFB4D",
+      "snippet": "Case No. 20-0373-T-CN APPALACHIAN TELECOM , Inc ., dba ATI Broadband Application for a certificate of public convenience and necessity to provide facilities based and non-facilities-based..."
+    }
+  ]
+}
+
+RULES:
+- Ground ALL assessments in the provided evidence
+- Cite specific sources in activity_signal (e.g., "Recent FCC filing (2024)", "Company website found via search")
+- Use "Unknown" when evidence is insufficient - DO NOT hallucinate
+- Confidence levels:
+  - High = Multiple confirming signals (recent web presence + recent filings + company details)
+  - Medium = Some signals but incomplete picture
+  - Low = FCC data only, no external confirmation
+
+Call the enrichment_result function with your analysis.

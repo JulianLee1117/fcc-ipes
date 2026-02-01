@@ -1,0 +1,107 @@
+You are analyzing an IPES (Interconnected VoIP Provider) company that filed for numbering authorization with the FCC.
+
+Based ONLY on the evidence provided below, determine:
+1. Whether the company is likely still active
+2. Their industry segment (UCaaS, CCaaS, CPaaS, Carrier, Reseller, Enterprise IT, or Other)
+3. A brief product summary
+4. Their market position (Enterprise, Mid-Market, SMB, Startup, or Unknown)
+5. Your confidence level based on evidence quality
+
+EVIDENCE PACK:
+{
+  "company_name": "Wiretap Telecom, LLC.",
+  "aliases": [
+    "Wiretap Telecom, LLC."
+  ],
+  "fcc_filing": {
+    "first_filing_date": "2021-03-09",
+    "latest_filing_date": "2021-03-09",
+    "total_filings": 2,
+    "docket_numbers": [
+      "21-84"
+    ],
+    "proceeding_types": [
+      "Interconnected VoIP Numbering Authorization Application Filed By Wiretap Telecom, LLC Pursuant To Section 52.15(g)(3) Of The Commission's Rules"
+    ],
+    "has_supplements": false,
+    "recent_activity": false
+  },
+  "parsed_from_docs": {
+    "address": "5929 North May Avenue, Suite 208, Oklahoma City, OK 73112",
+    "city": null,
+    "state": null,
+    "zip_code": null,
+    "phone": "4054718000",
+    "email": "cody.schilke@wiretaptelecom.com",
+    "key_personnel": [
+      {
+        "name": "Wiretap Telecom",
+        "title": "CEO"
+      },
+      {
+        "name": "Chief Executive\nOfficer",
+        "title": "for Wiretap"
+      },
+      {
+        "name": "for Wiretap",
+        "title": "CEO"
+      },
+      {
+        "name": "of Software",
+        "title": "President"
+      },
+      {
+        "name": "of Information",
+        "title": "President"
+      },
+      {
+        "name": "of Network",
+        "title": "President"
+      },
+      {
+        "name": "Prior to serving",
+        "title": "CEO"
+      }
+    ],
+    "founding_date": "2013",
+    "service_description": null
+  },
+  "web_search_results": [
+    {
+      "title": "Wiretap Telecom (@WiretapTelecom) / Twitter",
+      "url": "https://twitter.com/wiretaptelecom",
+      "snippet": "Interested in following Wiretap Telecom , LLC ? Our official Twitter handle is."
+    },
+    {
+      "title": "Wiretap Telecom",
+      "url": "https://portal.wiretaptelecom.com/",
+      "snippet": "Wiretap Telecom . Wiretap Telecom . Client Portal. Username."
+    },
+    {
+      "title": "AS46972 Wiretap Telecom LLC - bgp.tools",
+      "url": "https://bgp.tools/as/46972",
+      "snippet": "Wiretap Telecom LLC (AS46972) is a small BGP network that is peering with 3 other networks and has 2 upstream carriers.Upstreams. AS174 - Cogent Communications, LLC. AS7018 - AT&T Enterprises, LLC. Locations of Operation. United States."
+    },
+    {
+      "title": "Wiretap Telecom - Oklahoma City - (877) 471-3603",
+      "url": "https://et.cybo.com/US-biz/wiretap-telecom",
+      "snippet": "Umbes. Wiretap Telecom asub kohas Oklahoma City. Wiretap Telecom ei tegutse valdkondades \u00c4riteenused, Telekommunikatsioon. Ettev\u00f5ttega saate \u00fchendust numbril (877) 471-3603. Lisateavet Wiretap Telecom kohta leiate veebisaidilt www.wiretaptelecom.com."
+    },
+    {
+      "title": "AS46972 WIRETAPTELECOM-ATL1 - Wiretap Telecom LLC , US",
+      "url": "https://whois.ipip.net/AS46972",
+      "snippet": "United States. IP Address Ranges.AS46971 - FIBXTERNALIP - First Interstate Bank, US. AS46973 - REALOGY-WEBSERVICES - Realogy Group LLC , US."
+    }
+  ]
+}
+
+RULES:
+- Ground ALL assessments in the provided evidence
+- Cite specific sources in activity_signal (e.g., "Recent FCC filing (2024)", "Company website found via search")
+- Use "Unknown" when evidence is insufficient - DO NOT hallucinate
+- Confidence levels:
+  - High = Multiple confirming signals (recent web presence + recent filings + company details)
+  - Medium = Some signals but incomplete picture
+  - Low = FCC data only, no external confirmation
+
+Call the enrichment_result function with your analysis.

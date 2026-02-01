@@ -1,0 +1,78 @@
+You are analyzing an IPES (Interconnected VoIP Provider) company that filed for numbering authorization with the FCC.
+
+Based ONLY on the evidence provided below, determine:
+1. Whether the company is likely still active
+2. Their industry segment (UCaaS, CCaaS, CPaaS, Carrier, Reseller, Enterprise IT, or Other)
+3. A brief product summary
+4. Their market position (Enterprise, Mid-Market, SMB, Startup, or Unknown)
+5. Your confidence level based on evidence quality
+
+EVIDENCE PACK:
+{
+  "company_name": "WhiteSky Communications, LLC",
+  "aliases": [
+    "WhiteSky Communications, LLC"
+  ],
+  "fcc_filing": {
+    "first_filing_date": "2020-05-29",
+    "latest_filing_date": "2020-05-29",
+    "total_filings": 2,
+    "docket_numbers": [
+      "20-160"
+    ],
+    "proceeding_types": [
+      "Interconnected VoIP Numbering Authorization Application Filed By WhiteSky Communications, LLC Pursuant To Section 52.15(g)(3) Of The Commission's Rules"
+    ],
+    "has_supplements": false,
+    "recent_activity": false
+  },
+  "parsed_from_docs": {
+    "address": null,
+    "city": null,
+    "state": null,
+    "zip_code": null,
+    "phone": null,
+    "email": null,
+    "key_personnel": [],
+    "founding_date": null,
+    "service_description": null
+  },
+  "web_search_results": [
+    {
+      "title": "Whitesky - Corporate",
+      "url": "https://www.whitesky.us/",
+      "snippet": "Whitesky partners with student housing, luxury apartments, hotels, adult living, and assisted living/hospitals to provide bulk Internet, Cable, and Voice services. We deliver optimal telecommunication experience for residences and businesses. Hundreds of realized properties speak for us."
+    },
+    {
+      "title": "RealPage \u00ae Acquires WhiteSky Communications - Business Wire",
+      "url": "https://www.businesswire.com/news/home/20210104005190/en/RealPage\u00ae-Acquires-WhiteSky-Communications",
+      "snippet": "Jan 4, 2021 \u00b7 WhiteSky provides managed communications services, enabling multifamily, student and other properties to provide managed bulk Internet, video, voice -over-internet protocol ( VOIP ) phone, and..."
+    },
+    {
+      "title": "WHITESKY COMMUNICATIONS - LinkedIn",
+      "url": "https://www.linkedin.com/company/whiteskycommunications",
+      "snippet": "WHITESKY COMMUNICATIONS | 646 followers on LinkedIn. WhiteSky Communications , LLC is an innovative managed services and telecommunications company that was established in 2005."
+    },
+    {
+      "title": "WhiteSky Communications - Crunchbase Company Profile & Funding FCC Form 499 Filer Database Detailed Information WHITESKY COMMUNICATIONS - Company Profile & Staff Directory ... RealPage\u00ae Acquires WhiteSky Communications | Business Wire Whitesky - Corporate RealPage\u00ae Acquires WhiteSky Communications | Business Wire RealPage\u00ae Acquires WhiteSky Communications | Business Wire Whitesky Communications LLC Company Profile | Torrance, CA ...",
+      "url": "https://www.crunchbase.com/organization/whitesky-communications",
+      "snippet": "Legal Name WhiteSky Communications , LLC . WhiteSky Communications provides managed communications services, enabling multifamily, student and other properties to provide managed bulk Internet, video, voice -over-internet protocol ( VOIP ) phone, and Wi-Fi services. Apr 1, 2025 \u00b7 Legal Name of Reporting Entity: Whitesky Communications LLC Doing Business As: Whitesky Communications Principal Communications Type: Interconnected VoIP Universal Service Fund Contributor: Yes (Contact USAC at 888-641-8722 if this is not correct.) Holding Company: How can I contact WHITESKY COMMUNICATIONS ? You can contact WHITESKY COMMUNICATIONS by calling 866.755.8593. WHITESKY COMMUNICATIONS is a Telecommunications company located in Los Angeles, California, USA with 63 employees. Who is WhiteSky communications? WhiteSky Communications is an up-and-coming communications company that was established in 2005 as an Alabama-based ISP/MSO. Originally focusing on perfecting Internet in the multi-dwelling unit space, WhiteSky now offers voice-over-internet protocol (VOIP), video, and Internet services for MDU housing developments and businesses across the nation. What services does WhiteSky provide? Whitesky partners with student housing, luxury apartments, hotels, adult living, and assisted living/hospitals to provide bulk Internet, Cable, and Voice services . We deliver optimal telecommunication experience for residences and businesses. Hundreds of realized properties speak for us Is WhiteSky a good internet provider? WhiteSky is widely regarded for its ability to deliver highly-reliable managed bulk Internet service quickly and at a low cost with speeds up to 1GB. The company scales through its nationwide network and teams of support and installation technicians. How many properties does WhiteSky serve? At the end of 2020, WhiteSky served hundreds of properties totaling 48,000 units and 150,000 beds. Company annual revenue growth has been approximately 50% in recent years. Find company research, competitor information, contact details & financial data for Whitesky Communications LLC of Torrance, CA. Get the latest business insights from Dun & Bradstreet."
+    },
+    {
+      "title": "WHITESKY COMMUNICATIONS - Company Profile & Staff Directory ...",
+      "url": "https://contactout.com/company/WHITESKY-COMMUNICATIONS-33403",
+      "snippet": "How can I contact WHITESKY COMMUNICATIONS ? You can contact WHITESKY COMMUNICATIONS by calling 866.755.8593. WHITESKY COMMUNICATIONS is a Telecommunications company located in Los Angeles, California, USA with 63 employees."
+    }
+  ]
+}
+
+RULES:
+- Ground ALL assessments in the provided evidence
+- Cite specific sources in activity_signal (e.g., "Recent FCC filing (2024)", "Company website found via search")
+- Use "Unknown" when evidence is insufficient - DO NOT hallucinate
+- Confidence levels:
+  - High = Multiple confirming signals (recent web presence + recent filings + company details)
+  - Medium = Some signals but incomplete picture
+  - Low = FCC data only, no external confirmation
+
+Call the enrichment_result function with your analysis.

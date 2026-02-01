@@ -1,0 +1,35 @@
+{
+  "id": "msg_01FyWrN23BQ2Gvo2rFsV63D4",
+  "content": [
+    {
+      "id": "toolu_01TncWxmYUQK21RsFCQNYskZ",
+      "input": {
+        "is_active": true,
+        "activity_signal": "Company website active at victoryc.com showing current cloud services (web search results). FCC registration current as of April 1, 2021 showing active Universal Service Fund contributor status. Multiple business directory listings found in recent searches (Crunchbase, D&B, Bizapedia) indicating ongoing business presence.",
+        "industry_segment": "UCaaS",
+        "product_summary": "Victory Telecom provides interconnected VoIP services, cloud storage, mobile access points, data backup, and call center services, with origins in Colorado expanding to serve business customers with customized telecommunications solutions.",
+        "market_position": "SMB",
+        "enrichment_confidence": "Medium"
+      },
+      "name": "enrichment_result",
+      "type": "tool_use"
+    }
+  ],
+  "model": "claude-sonnet-4-20250514",
+  "role": "assistant",
+  "stop_reason": "tool_use",
+  "stop_sequence": null,
+  "type": "message",
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0,
+    "input_tokens": 2748,
+    "output_tokens": 240,
+    "server_tool_use": null,
+    "service_tier": "standard"
+  }
+}

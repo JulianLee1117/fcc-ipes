@@ -1,0 +1,35 @@
+{
+  "id": "msg_01T9M68ugeG9Tx784Phf7Mw9",
+  "content": [
+    {
+      "id": "toolu_01Da8hCrnqP7SkUAWzH89RTp",
+      "input": {
+        "is_active": true,
+        "activity_signal": "Company website found via search (www.telnetww.com) with recent blog posts and copyright 2025, indicating active web presence. Multiple search results show ongoing business operations including hosted VoIP services and partner relationships.",
+        "industry_segment": "UCaaS",
+        "product_summary": "TelNet Worldwide provides hosted VoIP services and telecommunications solutions, operating as an interconnected VoIP provider with FCC-endorsed anti-spoofing certification.",
+        "market_position": "Unknown",
+        "enrichment_confidence": "Medium"
+      },
+      "name": "enrichment_result",
+      "type": "tool_use"
+    }
+  ],
+  "model": "claude-sonnet-4-20250514",
+  "role": "assistant",
+  "stop_reason": "tool_use",
+  "stop_sequence": null,
+  "type": "message",
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0,
+    "input_tokens": 1775,
+    "output_tokens": 212,
+    "server_tool_use": null,
+    "service_tier": "standard"
+  }
+}

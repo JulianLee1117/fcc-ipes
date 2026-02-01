@@ -1,0 +1,91 @@
+You are analyzing an IPES (Interconnected VoIP Provider) company that filed for numbering authorization with the FCC.
+
+Based ONLY on the evidence provided below, determine:
+1. Whether the company is likely still active
+2. Their industry segment (UCaaS, CCaaS, CPaaS, Carrier, Reseller, Enterprise IT, or Other)
+3. A brief product summary
+4. Their market position (Enterprise, Mid-Market, SMB, Startup, or Unknown)
+5. Your confidence level based on evidence quality
+
+EVIDENCE PACK:
+{
+  "company_name": "Telcentris, Inc.",
+  "aliases": [
+    "Telcentris, Inc."
+  ],
+  "fcc_filing": {
+    "first_filing_date": "2020-05-28",
+    "latest_filing_date": "2020-05-28",
+    "total_filings": 1,
+    "docket_numbers": [
+      "20-157"
+    ],
+    "proceeding_types": [
+      "Interconnected VoIP Numbering Authorization Application Filed By Telcentris, Inc. Pursuant To Section 52.15(g)(3) Of The Commission's Rules"
+    ],
+    "has_supplements": false,
+    "recent_activity": false
+  },
+  "parsed_from_docs": {
+    "address": "5825 Oberlin Drive, Suite 5",
+    "city": "San",
+    "state": "CA",
+    "zip_code": "92121",
+    "phone": "6199009000",
+    "email": "kristin@voxox.com",
+    "key_personnel": [
+      {
+        "name": "Bryan is",
+        "title": "CEO"
+      },
+      {
+        "name": "Kevin is",
+        "title": "CTO"
+      },
+      {
+        "name": "Bob is",
+        "title": "CFO"
+      }
+    ],
+    "founding_date": "2006",
+    "service_description": "provide\ninterconnected VoIP services initially in the following states: California, New York, Texas,\nPennsylvania, and Illinois."
+  },
+  "web_search_results": [
+    {
+      "title": "TelCentris: Telecom services for individuals, businesses, and",
+      "url": "https://www.enterprisenetworkingplanet.com/unified-communications/telcentris-telecom-services-for-individuals-businesses-and-other-telecom-providers/",
+      "snippet": "TelCentris , Inc ., headquartered in San Diego, California, is an innovative unified communications and telecommunications provider developing advanced ..."
+    },
+    {
+      "title": "Multi-State Robocall Task Force Issues Warning To VoIP",
+      "url": "https://www.metrodetroittoday.com/news/crime-and-police/multi-state-robocall-task-force-issues-warning-to-voip-providers",
+      "snippet": "The nationwide Task Force is comprised of 50 attorneys general and was formed to investigate and take legal action against the telecommunications ..."
+    },
+    {
+      "title": "AG Task Force Issues Warning to VoIP Providers to Avoid",
+      "url": "https://www.stateagreport.com/news/ag-task-force-issues-warning-to-voip-providers-to-avoid-transmitting-illegal-robocalls/",
+      "snippet": "The Task Force cautions the VoIP providers to cease transmitting suspected illegal call traffic, and warns of enforcement actions if they do not ..."
+    },
+    {
+      "title": "Business Internet Phone System apps iOS Phone System",
+      "url": "https://ios.lisisoft.com/s/business-internet-phone-system.html",
+      "snippet": "Cloud Phone - Mobile Business Phone System By TelCentris Inc ( Free ) The Voxox Cloud Phone mobile app is a business phone system in your pocket with ..."
+    },
+    {
+      "title": "Comptel Plus",
+      "url": "https://www.comptelplus.org/content_pl_5_contentid_255.html",
+      "snippet": "NO INDEX ... InComm, Inc . ... Telcentris , Inc . ... Vyaza Inc ."
+    }
+  ]
+}
+
+RULES:
+- Ground ALL assessments in the provided evidence
+- Cite specific sources in activity_signal (e.g., "Recent FCC filing (2024)", "Company website found via search")
+- Use "Unknown" when evidence is insufficient - DO NOT hallucinate
+- Confidence levels:
+  - High = Multiple confirming signals (recent web presence + recent filings + company details)
+  - Medium = Some signals but incomplete picture
+  - Low = FCC data only, no external confirmation
+
+Call the enrichment_result function with your analysis.

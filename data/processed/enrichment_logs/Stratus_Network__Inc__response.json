@@ -1,0 +1,35 @@
+{
+  "id": "msg_015U1Mr4jg7HWppzN81zMFKX",
+  "content": [
+    {
+      "id": "toolu_01MHvD5iBVvtxpn362aY8Qmp",
+      "input": {
+        "is_active": true,
+        "activity_signal": "Active StratusDial website (stratusdial.com) found via web search showing \"fully licensed countrywide VoIP service provider\" currently serving communities. Additional 2021 FCC Section 214 application mentioned in legal blog indicates recent regulatory activity beyond the 2019 numbering authorization filing.",
+        "industry_segment": "UCaaS",
+        "product_summary": "StratusDial operates as a fully licensed countrywide VoIP service provider offering business phone system services to local and nationwide communities from their Central Virginia base.",
+        "market_position": "SMB",
+        "enrichment_confidence": "Medium"
+      },
+      "name": "enrichment_result",
+      "type": "tool_use"
+    }
+  ],
+  "model": "claude-sonnet-4-20250514",
+  "role": "assistant",
+  "stop_reason": "tool_use",
+  "stop_sequence": null,
+  "type": "message",
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0,
+    "input_tokens": 1582,
+    "output_tokens": 231,
+    "server_tool_use": null,
+    "service_tier": "standard"
+  }
+}

@@ -1,0 +1,87 @@
+You are analyzing an IPES (Interconnected VoIP Provider) company that filed for numbering authorization with the FCC.
+
+Based ONLY on the evidence provided below, determine:
+1. Whether the company is likely still active
+2. Their industry segment (UCaaS, CCaaS, CPaaS, Carrier, Reseller, Enterprise IT, or Other)
+3. A brief product summary
+4. Their market position (Enterprise, Mid-Market, SMB, Startup, or Unknown)
+5. Your confidence level based on evidence quality
+
+EVIDENCE PACK:
+{
+  "company_name": "Digital Network Access Communications, Inc.",
+  "aliases": [
+    "Digital Network Access Communications, Inc."
+  ],
+  "fcc_filing": {
+    "first_filing_date": "2021-07-30",
+    "latest_filing_date": "2021-07-30",
+    "total_filings": 1,
+    "docket_numbers": [
+      "21-317"
+    ],
+    "proceeding_types": [
+      "Interconnected VoIP Numbering Authorization Application Filed By Digital Network Access Communications, Inc. Pursuant To Section 52.15(g)(3) Of The Commission's Rules"
+    ],
+    "has_supplements": false,
+    "recent_activity": false
+  },
+  "parsed_from_docs": {
+    "address": "601 1st Avenue",
+    "city": "Rochelle",
+    "state": "IL",
+    "zip_code": "61068",
+    "phone": "8155624290",
+    "email": "amkamel@dna-communications.com",
+    "key_personnel": [
+      {
+        "name": "of the",
+        "title": "President"
+      },
+      {
+        "name": "leading the",
+        "title": "CTO"
+      }
+    ],
+    "founding_date": "2015",
+    "service_description": "provide interconnected VoIP services initially in neighboring states outside of its existing\n2\n\ncompetitive local exchange carrier geographic area in northern Illinois."
+  },
+  "web_search_results": [
+    {
+      "title": "US20100284284A1 - VOICE OVER INTERNET PROTOCOL (VoIP) ACCESS",
+      "url": "https://patents.google.com/patent/US20100284284A1/en",
+      "snippet": "Communications networks can include, for example, two types of networks : (i) circuit-switched networks , where information (either voice or data) is ..."
+    },
+    {
+      "title": "US9544429B2 - Solutions for voice over internet protocol (VoIP)",
+      "url": "https://patents.google.com/patent/US9544429B2/en",
+      "snippet": "... INC ., COMTECH SYSTEMS, INC ., COMTECH TELECOMMUNICATIONS CORP., COMTECH TOLT TECHNOLOGIES, INC ., COMTECH XICOM TECHNOLOGY, INC ., MAPLE ACQUISITION LLC, ..."
+    },
+    {
+      "title": "All VoIP (Voice over Internet Protocol) News and Press Releases",
+      "url": "https://www.prnewswire.com/news-releases/telecommunications-latest-news/voip-list/",
+      "snippet": "VoIP (Voice over Internet Protocol) ... Diversity, Equity & Inclusion ... Various stories on VoIP are featured here, with special"
+    },
+    {
+      "title": "VoIP - INTERNET TELEPHONY Feature Articles",
+      "url": "https://www.tmcnet.com/voip/features/",
+      "snippet": "Today, there is a variety of digital communication , including email, phone calls, video conferencing, and many types of instant messaging like SMS ..."
+    },
+    {
+      "title": "\u1405 World On IP \u203a Telecommunications Services VoIP",
+      "url": "http://sitebook.org/s-business-89087-world",
+      "snippet": "Italy-based B2B VoIP provider offering hardware to set-up wireless VoIP networks . ... Digital Network Telecommunications Subscriber Line Relay ..."
+    }
+  ]
+}
+
+RULES:
+- Ground ALL assessments in the provided evidence
+- Cite specific sources in activity_signal (e.g., "Recent FCC filing (2024)", "Company website found via search")
+- Use "Unknown" when evidence is insufficient - DO NOT hallucinate
+- Confidence levels:
+  - High = Multiple confirming signals (recent web presence + recent filings + company details)
+  - Medium = Some signals but incomplete picture
+  - Low = FCC data only, no external confirmation
+
+Call the enrichment_result function with your analysis.

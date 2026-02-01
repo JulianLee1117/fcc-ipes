@@ -1,0 +1,78 @@
+You are analyzing an IPES (Interconnected VoIP Provider) company that filed for numbering authorization with the FCC.
+
+Based ONLY on the evidence provided below, determine:
+1. Whether the company is likely still active
+2. Their industry segment (UCaaS, CCaaS, CPaaS, Carrier, Reseller, Enterprise IT, or Other)
+3. A brief product summary
+4. Their market position (Enterprise, Mid-Market, SMB, Startup, or Unknown)
+5. Your confidence level based on evidence quality
+
+EVIDENCE PACK:
+{
+  "company_name": "Google LLC",
+  "aliases": [
+    "Google LLC"
+  ],
+  "fcc_filing": {
+    "first_filing_date": "2020-03-07",
+    "latest_filing_date": "2020-03-07",
+    "total_filings": 1,
+    "docket_numbers": [
+      "20-72"
+    ],
+    "proceeding_types": [
+      "Interconnected VoIP Numbering Authorization Application Filed  By Google Voice Inc. Pursuant To Section 52.15(g)(3) Of The Commission's Rules"
+    ],
+    "has_supplements": false,
+    "recent_activity": false
+  },
+  "parsed_from_docs": {
+    "address": "1600 Amphitheatre Parkway, Mountain View, CA 94043",
+    "city": null,
+    "state": null,
+    "zip_code": null,
+    "phone": "6502530000",
+    "email": "devinmorris@google.com",
+    "key_personnel": [],
+    "founding_date": null,
+    "service_description": null
+  },
+  "web_search_results": [
+    {
+      "title": "Google Duo - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Google_Duo",
+      "snippet": "Google Duo was a proprietary voice over IP ( VoIP ) and videotelephony service released in 2016 by Google and merged into its Google Meet product in ..."
+    },
+    {
+      "title": "US8843999B1 - VOIP identification systems and methods - Google",
+      "url": "https://patents.google.com/patent/US8843999B1/en",
+      "snippet": "... wide area network (WAN), an intranet, the Internet, or another type of network that is capable of transmitting telecommunications traffic (e.g., VoIP ..."
+    },
+    {
+      "title": "US10341929B2 - PSTN / VoIP communication system and method -",
+      "url": "https://patents.google.com/patent/US10341929B2/en",
+      "snippet": "Bluetooth is a telecommunications industry specification that allows e.g., mobile phones, computers, and personal digital assistants to be ..."
+    },
+    {
+      "title": "US9007934B1 - Control signaling between VoIP phone and",
+      "url": "https://patents.google.com/patent/US9007934B1/en",
+      "snippet": "US9007934B1 - Control signaling between VoIP phone and computing device - Google Patents ... VoIP control signaling can include any type of ..."
+    },
+    {
+      "title": "US8238526B1 - Voicemail outbox - Google Patents",
+      "url": "https://patents.google.com/patent/US8238526B1/en",
+      "snippet": "Google has not performed a legal analysis ... 2017-10-02 Assigned to GOOGLE LLC reassignment GOOGLE LLC CHANGE OF NAME (SEE DOCUMENT FOR DETAILS)."
+    }
+  ]
+}
+
+RULES:
+- Ground ALL assessments in the provided evidence
+- Cite specific sources in activity_signal (e.g., "Recent FCC filing (2024)", "Company website found via search")
+- Use "Unknown" when evidence is insufficient - DO NOT hallucinate
+- Confidence levels:
+  - High = Multiple confirming signals (recent web presence + recent filings + company details)
+  - Medium = Some signals but incomplete picture
+  - Low = FCC data only, no external confirmation
+
+Call the enrichment_result function with your analysis.

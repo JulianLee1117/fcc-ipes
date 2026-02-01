@@ -1,0 +1,103 @@
+You are analyzing an IPES (Interconnected VoIP Provider) company that filed for numbering authorization with the FCC.
+
+Based ONLY on the evidence provided below, determine:
+1. Whether the company is likely still active
+2. Their industry segment (UCaaS, CCaaS, CPaaS, Carrier, Reseller, Enterprise IT, or Other)
+3. A brief product summary
+4. Their market position (Enterprise, Mid-Market, SMB, Startup, or Unknown)
+5. Your confidence level based on evidence quality
+
+EVIDENCE PACK:
+{
+  "company_name": "Terry Williamson",
+  "aliases": [
+    "Terry Williamson"
+  ],
+  "fcc_filing": {
+    "first_filing_date": "2021-04-08",
+    "latest_filing_date": "2021-04-08",
+    "total_filings": 1,
+    "docket_numbers": [
+      "21-164"
+    ],
+    "proceeding_types": [
+      "Interconnected VoIP Numbering Authorization Application Filed By Dovetel Communications, LLC Pursuant To Section 52.15(g)(3) Of The Commission's Rules"
+    ],
+    "has_supplements": false,
+    "recent_activity": false
+  },
+  "parsed_from_docs": {
+    "address": "1090A Pacific Avenue, Bremen, Georgia, 30110.",
+    "city": null,
+    "state": null,
+    "zip_code": null,
+    "phone": "6788211120",
+    "email": "terry_williamson@syncglobal.net",
+    "key_personnel": [
+      {
+        "name": "Kyle Williamson",
+        "title": "CEO"
+      },
+      {
+        "name": "of Sales",
+        "title": "President"
+      },
+      {
+        "name": "Todd Holdridge",
+        "title": "CFO"
+      },
+      {
+        "name": "Kevin Turner",
+        "title": "COO"
+      },
+      {
+        "name": "which he\nalso",
+        "title": "CEO"
+      },
+      {
+        "name": "joined SyncGlobal Telecom",
+        "title": "CFO"
+      }
+    ],
+    "founding_date": "2003",
+    "service_description": "provided telecommunications and interconnected VoIP services for over 20\nyears."
+  },
+  "web_search_results": [
+    {
+      "title": "\u1405 Williamson Antennas \u203a Telecommunications",
+      "url": "http://sitebook.org/s-business-91140-williamson",
+      "snippet": "26 Terry -Durin Co.- Electrical and Electrical and telecommunications materials primarily to the contractor, industrial, telecommunications and ..."
+    },
+    {
+      "title": "Find Business Broadband Internet T1, DS-3, PRI and VoIP in My",
+      "url": "https://t1wizard.com/tx/",
+      "snippet": "A telecommunications broker that keeps up with the latest industry trends can advise on the ideal services obtainable from numerous industry souces ..."
+    },
+    {
+      "title": "Find Business Broadband Internet T1, DS-3, PRI and VoIP in My",
+      "url": "http://t1wizard.com/tx/",
+      "snippet": "A telecommunications broker that keeps up with the latest industry trends can advise on the ideal services obtainable from numerous industry souces ..."
+    },
+    {
+      "title": "Tina Williamson Found - Phone Numbers, Addresses & Possible",
+      "url": "https://www.ussearch.com/people-search/tina-williamson/",
+      "snippet": "... Williamson ranging in age from ... Homes, rental properties, businesses, apartments, condos and/or other real estate associated with Tina Williamson ."
+    },
+    {
+      "title": "Terry Pippin Found - Phone Numbers, Addresses & Possible",
+      "url": "https://www.zabasearch.com/people/terry-pippin/",
+      "snippet": "citizens telecommunications ... Homes, rental properties, businesses, apartments, condos and/or other real estate associated with Terry Pippin."
+    }
+  ]
+}
+
+RULES:
+- Ground ALL assessments in the provided evidence
+- Cite specific sources in activity_signal (e.g., "Recent FCC filing (2024)", "Company website found via search")
+- Use "Unknown" when evidence is insufficient - DO NOT hallucinate
+- Confidence levels:
+  - High = Multiple confirming signals (recent web presence + recent filings + company details)
+  - Medium = Some signals but incomplete picture
+  - Low = FCC data only, no external confirmation
+
+Call the enrichment_result function with your analysis.

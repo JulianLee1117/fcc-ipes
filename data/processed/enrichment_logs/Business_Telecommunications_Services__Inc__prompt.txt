@@ -1,0 +1,99 @@
+You are analyzing an IPES (Interconnected VoIP Provider) company that filed for numbering authorization with the FCC.
+
+Based ONLY on the evidence provided below, determine:
+1. Whether the company is likely still active
+2. Their industry segment (UCaaS, CCaaS, CPaaS, Carrier, Reseller, Enterprise IT, or Other)
+3. A brief product summary
+4. Their market position (Enterprise, Mid-Market, SMB, Startup, or Unknown)
+5. Your confidence level based on evidence quality
+
+EVIDENCE PACK:
+{
+  "company_name": "Business Telecommunications Services, Inc.",
+  "aliases": [
+    "Business Telecommunications Services, Inc."
+  ],
+  "fcc_filing": {
+    "first_filing_date": "2020-06-12",
+    "latest_filing_date": "2020-06-12",
+    "total_filings": 3,
+    "docket_numbers": [
+      "20-166"
+    ],
+    "proceeding_types": [
+      "Interconnected VoIP Numbering Authorization Application Filed By Business Telecommunications Services, Inc. Pursuant To Section 52.15(g)(3) Of The Commission's Rules"
+    ],
+    "has_supplements": true,
+    "recent_activity": false
+  },
+  "parsed_from_docs": {
+    "address": null,
+    "city": null,
+    "state": null,
+    "zip_code": null,
+    "phone": null,
+    "email": "aproano@bts.io",
+    "key_personnel": [
+      {
+        "name": "magazine included",
+        "title": "CEO"
+      },
+      {
+        "name": "Chief Financial Officer",
+        "title": "and Executive"
+      },
+      {
+        "name": "chief financial officer",
+        "title": "and executive"
+      },
+      {
+        "name": "of BTS",
+        "title": "president"
+      },
+      {
+        "name": "of BTS",
+        "title": "CTO"
+      }
+    ],
+    "founding_date": "1993",
+    "service_description": "provider of interconnected\nVoIP services, to directly obtain numbering resources from the North American Numbering Plan\nAdministrator and the Pooling Administrator."
+  },
+  "web_search_results": [
+    {
+      "title": "BTS 1981 | Serving our community since 1981",
+      "url": "https://www.bts1981.com/",
+      "snippet": "BTS is family owned + operated. Serving our community and surrounding area\u2019s since 1981. Solving Today\u2019s Business & Technology Challenges. We design, install, and support end-to-end Voice and IT solutions that connect businesses and public sector organizations \u2014 locally and nationwide. support@bts1981.com To open a case via email."
+    },
+    {
+      "title": "Cease and Desist Letter to Business Telecommunications ...",
+      "url": "https://www.ftc.gov/system/files/ftc_gov/pdf/pointofnoentry-businesstelecomceasedesistletterfinaljms.pdf",
+      "snippet": "Mar 17, 2023 \u00b7 In addition to FTC regulations and the FTC\u2019s actions against providers of VoIP services , you should also be aware that the United States Department of Justice (DOJ), state attorneys general, and other agencies have brought civil actions against VoIP companies and their owners."
+    },
+    {
+      "title": "Business Telecommunications Services, Inc. | BBB Business ... Business Telecommunication Systems - LinkedIn BTS \u2013 Business Telecommunications Services - Membership Business Telecommunications Services Company | Aplusvoip",
+      "url": "https://www.bbb.org/us/fl/miami/profile/telephones/business-telecommunications-services-inc-0633-92010982",
+      "snippet": "Business Telecommunications Services , Inc . is NOT a BBB Accredited Business. To become accredited, a business must agree to BBB Standards for Trust and pass BBB's vetting process. Serving All Your Voice And Data Needs Since 1981! Business Telecommunication Systems (BTS) started business in 1981 to provide business class telephone systems, paging systems, and voice and... BTS powers 18+ billion voice minutes annually, enables the delivery of 500M+ messages worldwide, and provides extensive cloud numbers coverage in 90+ hard-to-reach markets, ensuring seamless and secure global communications . Aplusvoip is your trusted partner for enhancing business communications with reliable, cost-effective, and scalable solutions. Backed by CTS, we fully understand how internet communication disruptions can impact business operations and customer satisfaction, and we are here to minimize that risk."
+    },
+    {
+      "title": "Business Telecommunication Systems - LinkedIn",
+      "url": "https://www.linkedin.com/company/business-telecommunications-systems",
+      "snippet": "Serving All Your Voice And Data Needs Since 1981! Business Telecommunication Systems (BTS) started business in 1981 to provide business class telephone systems, paging systems, and voice and..."
+    },
+    {
+      "title": "Business Telecommunications Services Company | Aplusvoip",
+      "url": "https://www.aplusvoip.com/",
+      "snippet": "Aplusvoip is your trusted partner for enhancing business communications with reliable, cost-effective, and scalable solutions. Backed by CTS, we fully understand how internet communication disruptions can impact business operations and customer satisfaction, and we are here to minimize that risk."
+    }
+  ]
+}
+
+RULES:
+- Ground ALL assessments in the provided evidence
+- Cite specific sources in activity_signal (e.g., "Recent FCC filing (2024)", "Company website found via search")
+- Use "Unknown" when evidence is insufficient - DO NOT hallucinate
+- Confidence levels:
+  - High = Multiple confirming signals (recent web presence + recent filings + company details)
+  - Medium = Some signals but incomplete picture
+  - Low = FCC data only, no external confirmation
+
+Call the enrichment_result function with your analysis.

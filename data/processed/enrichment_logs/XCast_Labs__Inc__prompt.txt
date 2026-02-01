@@ -1,0 +1,78 @@
+You are analyzing an IPES (Interconnected VoIP Provider) company that filed for numbering authorization with the FCC.
+
+Based ONLY on the evidence provided below, determine:
+1. Whether the company is likely still active
+2. Their industry segment (UCaaS, CCaaS, CPaaS, Carrier, Reseller, Enterprise IT, or Other)
+3. A brief product summary
+4. Their market position (Enterprise, Mid-Market, SMB, Startup, or Unknown)
+5. Your confidence level based on evidence quality
+
+EVIDENCE PACK:
+{
+  "company_name": "XCast Labs, Inc.",
+  "aliases": [
+    "XCast Labs, Inc."
+  ],
+  "fcc_filing": {
+    "first_filing_date": "2021-04-30",
+    "latest_filing_date": "2021-04-30",
+    "total_filings": 2,
+    "docket_numbers": [
+      "21-187"
+    ],
+    "proceeding_types": [
+      "Interconnected VoIP Numbering Authorization Application Filed By XCast Labs, Inc. Pursuant To Section 52.15(g)(3) Of The Commission's Rules"
+    ],
+    "has_supplements": false,
+    "recent_activity": false
+  },
+  "parsed_from_docs": {
+    "address": null,
+    "city": null,
+    "state": null,
+    "zip_code": null,
+    "phone": "7702329200",
+    "email": "lsteinhart@telecomcounsel.com",
+    "key_personnel": [],
+    "founding_date": null,
+    "service_description": null
+  },
+  "web_search_results": [
+    {
+      "title": "XCast - Business Enterprise Solutions | ClearlyIP",
+      "url": "https://clearlyip.com/products/xcast/",
+      "snippet": "XCastLabs was a pioneering company in the field of Voice over Internet Protocol ( VoIP ) and unified communications, known for its innovative approach to telecommunications technology."
+    },
+    {
+      "title": "XCast Labs Will Be Banned from Supporting Illegal ...",
+      "url": "https://www.ftc.gov/news-events/news/press-releases/2024/01/xcast-labs-will-be-banned-supporting-illegal-telemarketing-practices-settle-ftc-charges-it-assisted",
+      "snippet": "Jan 2, 2024 \u00b7 Voice over Internet Protocol ( VoIP ) provider XCast Labs , Inc., agreed to settle Federal Trade Commission charges that it funneled hundreds of millions of illegal robocalls through its network, even after receiving multiple warnings about the unlawful conduct."
+    },
+    {
+      "title": "United States Settles Suit Against Telecommunications Service ...",
+      "url": "https://www.justice.gov/opa/pr/united-states-settles-suit-against-telecommunications-service-provider-assisting-and",
+      "snippet": "Jan 2, 2024 \u00b7 Voice over Internet Protocol ( VoIP ) service provider XCast Labs Inc. (XCast) has agreed to a court order resolving allegations that it violated the Telemarketing Sales Rule (TSR) by assisting and facilitating illegal telemarketing campaigns."
+    },
+    {
+      "title": "XCast Labs, Inc: America\u2019s First in VoIP Communications",
+      "url": "https://thesiliconreview.com/magazine/profile/xcast-labs-inc-usas-first-voip-firm",
+      "snippet": "XCastLabs offers the full suite of Hosted PBX and SIP trunking services to small and midsized business. We also offer a highly intelligent wholesale platform that supports dozens of American carriers as well as call centers serving numerous vertical markets, predominantly in the United States."
+    },
+    {
+      "title": "XCast Labs, Inc - LinkedIn",
+      "url": "https://www.linkedin.com/company/xcast-labs-inc",
+      "snippet": "XCast is the First, and still the Best in VoIP communication ! | We provide wholesale, reseller, and agent partners the widest array of Hosted VoIP and Video VoIP products and services and..."
+    }
+  ]
+}
+
+RULES:
+- Ground ALL assessments in the provided evidence
+- Cite specific sources in activity_signal (e.g., "Recent FCC filing (2024)", "Company website found via search")
+- Use "Unknown" when evidence is insufficient - DO NOT hallucinate
+- Confidence levels:
+  - High = Multiple confirming signals (recent web presence + recent filings + company details)
+  - Medium = Some signals but incomplete picture
+  - Low = FCC data only, no external confirmation
+
+Call the enrichment_result function with your analysis.

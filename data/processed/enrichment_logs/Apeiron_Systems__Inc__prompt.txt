@@ -1,0 +1,127 @@
+You are analyzing an IPES (Interconnected VoIP Provider) company that filed for numbering authorization with the FCC.
+
+Based ONLY on the evidence provided below, determine:
+1. Whether the company is likely still active
+2. Their industry segment (UCaaS, CCaaS, CPaaS, Carrier, Reseller, Enterprise IT, or Other)
+3. A brief product summary
+4. Their market position (Enterprise, Mid-Market, SMB, Startup, or Unknown)
+5. Your confidence level based on evidence quality
+
+EVIDENCE PACK:
+{
+  "company_name": "Apeiron Systems, Inc.",
+  "aliases": [
+    "Apeiron Systems, Inc."
+  ],
+  "fcc_filing": {
+    "first_filing_date": "2017-07-28",
+    "latest_filing_date": "2017-07-28",
+    "total_filings": 2,
+    "docket_numbers": [
+      "17-218"
+    ],
+    "proceeding_types": [
+      "INTERCONNECTED VOIP NUMBERING AUTHORIZATION APPLICATION FILED BY APEIRON SYSTEMS, INC. PURSUANT TO SECTION 52.15(g)(3) OF THE COMMISSION&#146;S RULES"
+    ],
+    "has_supplements": false,
+    "recent_activity": false
+  },
+  "parsed_from_docs": {
+    "address": "2629 Manhattan Ave. #166",
+    "city": "Hermosa",
+    "state": "CA",
+    "zip_code": "90254",
+    "phone": "8882734766",
+    "email": "jp@apeironsys.com",
+    "key_personnel": [
+      {
+        "name": "Josh Ploude",
+        "title": "President"
+      },
+      {
+        "name": "and CEO",
+        "title": "President"
+      },
+      {
+        "name": "and CEO",
+        "title": "President"
+      },
+      {
+        "name": "of PCS",
+        "title": "CTO"
+      },
+      {
+        "name": "of Ethos",
+        "title": "CEO"
+      },
+      {
+        "name": "of TNCI",
+        "title": "CTO"
+      },
+      {
+        "name": "of Apeiron",
+        "title": "President"
+      },
+      {
+        "name": "of Apeiron",
+        "title": "CTO"
+      },
+      {
+        "name": "of Killer",
+        "title": "President"
+      },
+      {
+        "name": "of OneCubicle",
+        "title": "CTO"
+      },
+      {
+        "name": "Ploude\nJosh Ploude",
+        "title": "President"
+      },
+      {
+        "name": "Slava Yanson",
+        "title": "CTO"
+      }
+    ],
+    "founding_date": "2001",
+    "service_description": "provide\ninterconnected VoIP services initially in California, New York, Texas, Virginia and Indiana."
+  },
+  "web_search_results": [
+    {
+      "title": "Apeiron",
+      "url": "https://apeiron.io/",
+      "snippet": "The Apeiron Platform delivers useful communications products that can be used by businesses of all types. We deliver reliable pay-per-use services supported by intuitive GUI interfaces, great APIs and amazing customer support. Scale and control for both your voice platform and OpEx. Robust messaging support for applications, businesses and people."
+    },
+    {
+      "title": "Apeiron Systems",
+      "url": "https://apeiron-systems.com/",
+      "snippet": "With expertise in OT/IoT, Secure Collaboration, Networking, and Data Privacy, we turn complex challenges into actionable solutions\u2014driven by security, reliability, and agility. Apeiron Systems provides practical, results-driven IT consultancy."
+    },
+    {
+      "title": "Apeiron Systems, Inc. - LinkedIn",
+      "url": "https://www.linkedin.com/company/apeiron-systems",
+      "snippet": "Products include VoIP , SMS, WebRTC and other technologies and features that enable more effective and affordable business comms."
+    },
+    {
+      "title": "Apeiron Systems - Crunchbase Company Profile & Funding FCC Form 499 Filer Database Detailed Information Apeiron Systems - Products, Competitors, Financials ... Apeiron Systems Inc Company Profile | Hermosa Beach, CA ...",
+      "url": "https://www.crunchbase.com/organization/apeiron-systems",
+      "snippet": "View contacts for Apeiron Systems to access new leads and connect with decision-makers. Apeiron Systems operates a platform that provides voice and messaging communications to businesses. It began operation in 2013, with its headquarters in Hermosa Beach in California as a subsidiary of KonaTel since December 31, 2018. Apr 3, 2023 \u00b7 Doing Business As: Apeiron Systems , Inc . . Principal Communications Type: Interconnected VoIP . Universal Service Fund Contributor: Yes . (Contact USAC at 888-641-8722 if this is not correct.) Holding Company: Konatel, Inc. . Registration Number (CORESID): 0022854970 . Apeiron Systems is a provider of real-time voice/data business communications services, including cloud-based Communications Platform as a Service (CPaaS) and Internet of Things (IoT) services. Use the CB Insights Platform to explore Apeiron Systems 's full profile. Find company research, competitor information, contact details & financial data for Apeiron Systems Inc of Hermosa Beach, CA. Get the latest business insights from Dun & Bradstreet."
+    },
+    {
+      "title": "FCC Form 499 Filer Database Detailed Information Apeiron Systems - Products, Competitors, Financials ... Apeiron Systems Inc Company Profile | Hermosa Beach, CA ...",
+      "url": "https://apps.fcc.gov/cgb/form499/499detail.cfm?FilerNum=829896",
+      "snippet": "Apr 3, 2023 \u00b7 Doing Business As: Apeiron Systems , Inc . . Principal Communications Type: Interconnected VoIP . Universal Service Fund Contributor: Yes . (Contact USAC at 888-641-8722 if this is not correct.) Holding Company: Konatel, Inc. . Registration Number (CORESID): 0022854970 . Apeiron Systems is a provider of real-time voice/data business communications services, including cloud-based Communications Platform as a Service (CPaaS) and Internet of Things (IoT) services. Use the CB Insights Platform to explore Apeiron Systems 's full profile. Find company research, competitor information, contact details & financial data for Apeiron Systems Inc of Hermosa Beach, CA. Get the latest business insights from Dun & Bradstreet."
+    }
+  ]
+}
+
+RULES:
+- Ground ALL assessments in the provided evidence
+- Cite specific sources in activity_signal (e.g., "Recent FCC filing (2024)", "Company website found via search")
+- Use "Unknown" when evidence is insufficient - DO NOT hallucinate
+- Confidence levels:
+  - High = Multiple confirming signals (recent web presence + recent filings + company details)
+  - Medium = Some signals but incomplete picture
+  - Low = FCC data only, no external confirmation
+
+Call the enrichment_result function with your analysis.

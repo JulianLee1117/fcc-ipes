@@ -1,0 +1,35 @@
+{
+  "id": "msg_01DRV9uDjSu3TnAZairhAmK6",
+  "content": [
+    {
+      "id": "toolu_01QfqMqy9DRDZdghLR4e4pmg",
+      "input": {
+        "is_active": false,
+        "activity_signal": "Single FCC filing from 2021-04-08 with no recent activity. Web search results show no relevant company presence - only unrelated individuals and telecommunications brokers. Email domain syncglobal.net suggests potential carrier affiliation but no current web presence found.",
+        "industry_segment": "Carrier",
+        "product_summary": "Telecommunications and interconnected VoIP services provider operating since 2003, filing for numbering authorization through what appears to be a carrier relationship with SyncGlobal Telecom.",
+        "market_position": "Unknown",
+        "enrichment_confidence": "Low"
+      },
+      "name": "enrichment_result",
+      "type": "tool_use"
+    }
+  ],
+  "model": "claude-sonnet-4-20250514",
+  "role": "assistant",
+  "stop_reason": "tool_use",
+  "stop_sequence": null,
+  "type": "message",
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0,
+    "input_tokens": 1800,
+    "output_tokens": 223,
+    "server_tool_use": null,
+    "service_tier": "standard"
+  }
+}

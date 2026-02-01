@@ -1,0 +1,78 @@
+You are analyzing an IPES (Interconnected VoIP Provider) company that filed for numbering authorization with the FCC.
+
+Based ONLY on the evidence provided below, determine:
+1. Whether the company is likely still active
+2. Their industry segment (UCaaS, CCaaS, CPaaS, Carrier, Reseller, Enterprise IT, or Other)
+3. A brief product summary
+4. Their market position (Enterprise, Mid-Market, SMB, Startup, or Unknown)
+5. Your confidence level based on evidence quality
+
+EVIDENCE PACK:
+{
+  "company_name": "FracTel, LLC",
+  "aliases": [
+    "FracTel, LLC"
+  ],
+  "fcc_filing": {
+    "first_filing_date": "2016-08-22",
+    "latest_filing_date": "2016-08-22",
+    "total_filings": 2,
+    "docket_numbers": [
+      "16-282"
+    ],
+    "proceeding_types": [
+      "INTERCONNECTED VOIP NUMBERING AUTHORIZATION APPLICATION FILED BY FRACTEL, LLC. PURSUANT TO SECTION 52.15(g)(3) OF THE COMMISSION\u2019S RULES"
+    ],
+    "has_supplements": false,
+    "recent_activity": false
+  },
+  "parsed_from_docs": {
+    "address": null,
+    "city": null,
+    "state": null,
+    "zip_code": null,
+    "phone": null,
+    "email": null,
+    "key_personnel": [],
+    "founding_date": null,
+    "service_description": null
+  },
+  "web_search_results": [
+    {
+      "title": "Security and Privacy Policy | FracTEL",
+      "url": "https://ww2.fractel.net/privacy-policy/",
+      "snippet": "... telecommunications and interconnected voice-over-Internet-protocol ( \u201c interconnected VoIP \u201d ) services to its users and customers, ..."
+    },
+    {
+      "title": "Security and Privacy \u2013 FracTEL",
+      "url": "https://fractel.com/privacy-policy/",
+      "snippet": "... telecommunications and interconnected voice-over-Internet-protocol (\u201cinterconnected VoIP \u201d) services to its users and customers, Fractel , LLC ..."
+    },
+    {
+      "title": "Local calling guide: Switch",
+      "url": "https://www.localcallingguide.com/lca_switch.php?switch=YNTWOH78",
+      "snippet": "024E ARMSTRONG TELECOMMUNICATIONS , INC. ... 965H FRACTEL , LLC ... Sponsored by: Callcentric - VoIP Internet phone service"
+    },
+    {
+      "title": "2020 Informational Filings",
+      "url": "https://puc.sd.gov/Dockets/Telecom/2020/Informational/default.aspx",
+      "snippet": "2020 Info TC49 - FracTel , LLC \u2019 s 30-day State Notification for Interconnected VoIP Providers Pursuant to FCC 15-70 Order Date Filed: 03/12/20"
+    },
+    {
+      "title": "US9191503B1 - Feature-based software system for a business PBX",
+      "url": "https://patents.google.com/patent/US9191503B1/en",
+      "snippet": "2015-01-26 Assigned to FRACTEL , LLC reassignment FRACTEL , LLC ASSIGNMENT OF ASSIGNORS INTEREST (SEE DOCUMENT FOR DETAILS)."
+    }
+  ]
+}
+
+RULES:
+- Ground ALL assessments in the provided evidence
+- Cite specific sources in activity_signal (e.g., "Recent FCC filing (2024)", "Company website found via search")
+- Use "Unknown" when evidence is insufficient - DO NOT hallucinate
+- Confidence levels:
+  - High = Multiple confirming signals (recent web presence + recent filings + company details)
+  - Medium = Some signals but incomplete picture
+  - Low = FCC data only, no external confirmation
+
+Call the enrichment_result function with your analysis.

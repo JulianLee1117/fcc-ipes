@@ -1,0 +1,35 @@
+{
+  "id": "msg_01LZezEKtua1qoXHCyeqrD7p",
+  "content": [
+    {
+      "id": "toolu_018g2TAdfDtLxiRSeWfTGNbA",
+      "input": {
+        "is_active": true,
+        "activity_signal": "Recent FCC filing for VoIP Numbering Authorization (September 18, 2023) and presence listed in IX-Denver portal as \"FULLDUPLEX\" indicating active network infrastructure participation",
+        "industry_segment": "Carrier",
+        "product_summary": "Telecommunications infrastructure provider with network interconnection services, likely providing VoIP and data connectivity through internet exchange participation.",
+        "market_position": "Unknown",
+        "enrichment_confidence": "Low"
+      },
+      "name": "enrichment_result",
+      "type": "tool_use"
+    }
+  ],
+  "model": "claude-sonnet-4-20250514",
+  "role": "assistant",
+  "stop_reason": "tool_use",
+  "stop_sequence": null,
+  "type": "message",
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0,
+    "input_tokens": 1639,
+    "output_tokens": 194,
+    "server_tool_use": null,
+    "service_tier": "standard"
+  }
+}

@@ -1,0 +1,76 @@
+You are analyzing an IPES (Interconnected VoIP Provider) company that filed for numbering authorization with the FCC.
+
+Based ONLY on the evidence provided below, determine:
+1. Whether the company is likely still active
+2. Their industry segment (UCaaS, CCaaS, CPaaS, Carrier, Reseller, Enterprise IT, or Other)
+3. A brief product summary
+4. Their market position (Enterprise, Mid-Market, SMB, Startup, or Unknown)
+5. Your confidence level based on evidence quality
+
+EVIDENCE PACK:
+{
+  "company_name": "Technology Innovation Lab, LLC",
+  "aliases": [
+    "Technology Innovation Lab, LLC"
+  ],
+  "fcc_filing": {
+    "first_filing_date": "2020-06-23",
+    "latest_filing_date": "2020-06-23",
+    "total_filings": 1,
+    "docket_numbers": [],
+    "proceeding_types": [
+      "VoIP Numbering Authorization Application"
+    ],
+    "has_supplements": false,
+    "recent_activity": false
+  },
+  "parsed_from_docs": {
+    "address": null,
+    "city": null,
+    "state": null,
+    "zip_code": null,
+    "phone": null,
+    "email": null,
+    "key_personnel": [],
+    "founding_date": null,
+    "service_description": null
+  },
+  "web_search_results": [
+    {
+      "title": "TECHNOLOGY HANDY MAN SERVICES LLC - New York Company",
+      "url": "https://newyork-company.com/co/technology-handy-man-services-llc",
+      "snippet": "5974798. Current Entity Name: Technology handy man services LLC . Incorpration Date"
+    },
+    {
+      "title": "NENA Company Search",
+      "url": "https://cid.nena.org/view.php?searchCID=TILTX",
+      "snippet": "Home. Results Found 1. Technology Innovation Lab LLC DBA Smart Carrier. Company. ID: TILTX."
+    },
+    {
+      "title": "ASTRICON Speaker Schedule",
+      "url": "https://www.itexpo.com/east/astricon-speaker.aspx",
+      "snippet": "Founder, Technology Innovation Lab , LLC . Technology Innovation Lab , LLC . With over 26 years of telecom industry experience, Orlando is a seasoned IT professional.Orlando has been a pioneer in developing high-volume VoIP software since 2002."
+    },
+    {
+      "title": "Robocall Radar 3: Short & Silent Calls - Legal Calls Only",
+      "url": "https://rraptor.org/home/robocall-radar-3/",
+      "snippet": "Technology Innovation Lab LLC . 1564.It\u2019s hard to imagine that this is intentional on the part of the caller, so something is apparently malfunctioning at their end. Somewhat similarly, 91% of the 1,564 calls signed by Technology Innovation Lab LLC were short, and 85% of 4530 calls..."
+    },
+    {
+      "title": "AUP v2.docx",
+      "url": "https://s3.amazonaws.com/cdn.smartcarrier.io/Smart+Carrier+PDFs/AUP+v2.docx.pdf",
+      "snippet": "This acceptable use policy (\u201cAUP\u201d) is applicable to customer\u2019s use of the services provided by technology innovation lab , LLC D/b/a smart carrier (\u201cSmart carrier\u201d), and is a material part of the terms of service."
+    }
+  ]
+}
+
+RULES:
+- Ground ALL assessments in the provided evidence
+- Cite specific sources in activity_signal (e.g., "Recent FCC filing (2024)", "Company website found via search")
+- Use "Unknown" when evidence is insufficient - DO NOT hallucinate
+- Confidence levels:
+  - High = Multiple confirming signals (recent web presence + recent filings + company details)
+  - Medium = Some signals but incomplete picture
+  - Low = FCC data only, no external confirmation
+
+Call the enrichment_result function with your analysis.

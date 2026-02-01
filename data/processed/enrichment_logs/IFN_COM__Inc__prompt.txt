@@ -1,0 +1,87 @@
+You are analyzing an IPES (Interconnected VoIP Provider) company that filed for numbering authorization with the FCC.
+
+Based ONLY on the evidence provided below, determine:
+1. Whether the company is likely still active
+2. Their industry segment (UCaaS, CCaaS, CPaaS, Carrier, Reseller, Enterprise IT, or Other)
+3. A brief product summary
+4. Their market position (Enterprise, Mid-Market, SMB, Startup, or Unknown)
+5. Your confidence level based on evidence quality
+
+EVIDENCE PACK:
+{
+  "company_name": "IFN.COM, Inc.",
+  "aliases": [
+    "IFN.COM, Inc."
+  ],
+  "fcc_filing": {
+    "first_filing_date": "2021-02-22",
+    "latest_filing_date": "2021-02-22",
+    "total_filings": 1,
+    "docket_numbers": [
+      "21-64"
+    ],
+    "proceeding_types": [
+      "Interconnected VoIP Numbering Authorization Application Filed By IFN.COM, Inc. Pursuant To Section 52.15(g)(3) Of The Commission's Rules"
+    ],
+    "has_supplements": false,
+    "recent_activity": false
+  },
+  "parsed_from_docs": {
+    "address": null,
+    "city": null,
+    "state": null,
+    "zip_code": null,
+    "phone": "8884521505",
+    "email": "tm@tollfreeforwarding.com",
+    "key_personnel": [
+      {
+        "name": "of IT",
+        "title": "President"
+      },
+      {
+        "name": "and CEO",
+        "title": "President"
+      }
+    ],
+    "founding_date": null,
+    "service_description": "provide interconnected VoIP services initially in\nCalifornia, however the Company anticipates that it will provide interconnected VoIP service\nnationwide, and accordingly, will request numbers from the other states in turn after its initial request\nin California."
+  },
+  "web_search_results": [
+    {
+      "title": "PUBLIC NOTICE - Federal Communications Commission",
+      "url": "https://docs.fcc.gov/public/attachments/DA-21-335A1.pdf",
+      "snippet": "INTERCONNECTED VOIP NUMBERING AUTHORIZATION APPLICATION FILED BY IFN . COM , INC . PURSUANT TO SECTION 52.15(g)(3) OF THE COMMISSION\u2019S RULES. We assign WC Docket No. 21-64 for this application and all related filings by the applicant and interested parties."
+    },
+    {
+      "title": "IFN.com Inc. Company Profile | Cerritos, CA | Competitors ... Interconnected VoIP Numbering Authorization Application Filed docs.fcc.gov CNI and Independents Fiber Network (IFN) Unite to Keep Your ... Ifn.com Inc. dba TollFreeForwarding.com - Los Angeles, CA ... IFN.COM INC. in Cerritos, CA | Company Information & Reviews",
+      "url": "https://www.dnb.com/business-directory/company-profiles.ifncom_inc.f738989ecef0be1860be8d2a07dd6673.html",
+      "snippet": "Find company research, competitor information, contact details & financial data for IFN . com Inc . of Cerritos, CA. Get the latest business insights from Dun & Bradstreet. Mar 19, 2021 \u00b7 Interconnected VoIP Numbering Authorization Application Filed By IFN . COM , Inc . Pursuant To Section 52.15 (g) (3) Of The Commission's Rules Document Type: Public Notice Bureau (s): Wireline Competition Description STREAMLINED PLEADING CYCLE ESTABLISHED DA/FCC #: DA-21-335 Docket No: 21-64 FCC Record Citation: 36 FCC Rcd 5678 (9) FCC Record: DA ... IFN further certifies that none of its key management and technical personnel are being or have been investigated by the Federal Communications Commission, or any law enforcement or regulatory agency, for failure to comply with any law, rule, or order. Having been a telecom industry leader for more than 30 years, our comprehensive portfolio of services is designed to ensure companies remain online, all the time. From customizable fiber internet to 24/7 call center support, our solutions are tailored to address the diverse telecom needs of businesses regardless of their size or industry. Founded in 2002, TollFreeForwarding.com is an international telecommunications provider based in Los Angeles, California. We are a privately held company bringing businesses around the world instant access to new and existing customers via our immense inventory of international phone numbers. Jan 25, 2026 \u00b7 Discover Company Info on IFN . COM INC . in Cerritos, CA, such as Contacts, Addresses, Reviews, and Registered Agent."
+    },
+    {
+      "title": "Interconnected VoIP Numbering Authorization Application Filed",
+      "url": "https://www.fcc.gov/document/interconnected-voip-numbering-authorization-application-filed-63",
+      "snippet": "Mar 19, 2021 \u00b7 Interconnected VoIP Numbering Authorization Application Filed By IFN . COM , Inc . Pursuant To Section 52.15 (g) (3) Of The Commission's Rules Document Type: Public Notice Bureau (s): Wireline Competition Description STREAMLINED PLEADING CYCLE ESTABLISHED DA/FCC #: DA-21-335 Docket No: 21-64 FCC Record Citation: 36 FCC Rcd 5678 (9) FCC Record: DA ..."
+    },
+    {
+      "title": "CNI and Independents Fiber Network (IFN) Unite to Keep Your ...",
+      "url": "https://cniteam.com/meet-the-new-cni/",
+      "snippet": "Having been a telecom industry leader for more than 30 years, our comprehensive portfolio of services is designed to ensure companies remain online, all the time. From customizable fiber internet to 24/7 call center support, our solutions are tailored to address the diverse telecom needs of businesses regardless of their size or industry."
+    },
+    {
+      "title": "Ifn.com Inc. dba TollFreeForwarding.com - Los Angeles, CA ...",
+      "url": "https://b1-assets.dandb.com/businessdirectory/ifn.cominc.dbatollfreeforwarding.com-losangeles-ca-9970256.html",
+      "snippet": "Founded in 2002, TollFreeForwarding.com is an international telecommunications provider based in Los Angeles, California. We are a privately held company bringing businesses around the world instant access to new and existing customers via our immense inventory of international phone numbers."
+    }
+  ]
+}
+
+RULES:
+- Ground ALL assessments in the provided evidence
+- Cite specific sources in activity_signal (e.g., "Recent FCC filing (2024)", "Company website found via search")
+- Use "Unknown" when evidence is insufficient - DO NOT hallucinate
+- Confidence levels:
+  - High = Multiple confirming signals (recent web presence + recent filings + company details)
+  - Medium = Some signals but incomplete picture
+  - Low = FCC data only, no external confirmation
+
+Call the enrichment_result function with your analysis.

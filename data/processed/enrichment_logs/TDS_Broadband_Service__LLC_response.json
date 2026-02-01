@@ -1,0 +1,35 @@
+{
+  "id": "msg_013uroRSY7CUDFWSmwSkshhU",
+  "content": [
+    {
+      "id": "toolu_01L8b9xLKkK5viCnstQEqcjj",
+      "input": {
+        "is_active": true,
+        "activity_signal": "Recent FCC filing (2024-05-17) for VoIP numbering authorization, active company website with current business services (hellotds.com/business.html), and web search results showing TDS Broadband Service LLC as an active subsidiary of Telephone and Data Systems, Inc. with copyright notice showing 2025.",
+        "industry_segment": "Carrier",
+        "product_summary": "TDS Broadband Service LLC is a telecommunications subsidiary that provides broadband internet, VoIP phone service, and business communications services to customers, operating as part of the larger TDS Telecom organization.",
+        "market_position": "Enterprise",
+        "enrichment_confidence": "High"
+      },
+      "name": "enrichment_result",
+      "type": "tool_use"
+    }
+  ],
+  "model": "claude-sonnet-4-20250514",
+  "role": "assistant",
+  "stop_reason": "tool_use",
+  "stop_sequence": null,
+  "type": "message",
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0,
+    "input_tokens": 2173,
+    "output_tokens": 242,
+    "server_tool_use": null,
+    "service_tier": "standard"
+  }
+}

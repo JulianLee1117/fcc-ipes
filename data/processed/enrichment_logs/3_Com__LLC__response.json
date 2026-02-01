@@ -1,0 +1,35 @@
+{
+  "id": "msg_01DPAkeFqgMRdR1E23LVNFBY",
+  "content": [
+    {
+      "id": "toolu_01KtTeLxTm4o1u4y2Cz62hP8",
+      "input": {
+        "is_active": true,
+        "activity_signal": "FCC filing dated 2023-03-08 for VoIP numbering authorization shows recent regulatory activity. Company has active email contact (david@3com.tel) and specific service plans to provide VoIP services in New York State and New Jersey.",
+        "industry_segment": "Carrier",
+        "product_summary": "VoIP service provider offering telecommunications services in New York State and New Jersey through own facilities and CLEC partnerships for PSTN traffic routing.",
+        "market_position": "Unknown",
+        "enrichment_confidence": "Low"
+      },
+      "name": "enrichment_result",
+      "type": "tool_use"
+    }
+  ],
+  "model": "claude-sonnet-4-20250514",
+  "role": "assistant",
+  "stop_reason": "tool_use",
+  "stop_sequence": null,
+  "type": "message",
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0,
+    "input_tokens": 1811,
+    "output_tokens": 213,
+    "server_tool_use": null,
+    "service_tier": "standard"
+  }
+}

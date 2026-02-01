@@ -1,0 +1,96 @@
+You are analyzing an IPES (Interconnected VoIP Provider) company that filed for numbering authorization with the FCC.
+
+Based ONLY on the evidence provided below, determine:
+1. Whether the company is likely still active
+2. Their industry segment (UCaaS, CCaaS, CPaaS, Carrier, Reseller, Enterprise IT, or Other)
+3. A brief product summary
+4. Their market position (Enterprise, Mid-Market, SMB, Startup, or Unknown)
+5. Your confidence level based on evidence quality
+
+EVIDENCE PACK:
+{
+  "company_name": "Barr Tell USA, Inc.",
+  "aliases": [
+    "Barr Tell USA, Inc.",
+    "bARR tELL usa, iNC."
+  ],
+  "fcc_filing": {
+    "first_filing_date": "2016-08-02",
+    "latest_filing_date": "2016-08-02",
+    "total_filings": 2,
+    "docket_numbers": [
+      "16-252"
+    ],
+    "proceeding_types": [
+      "Interconnected VoIP Numbering Authorization Application Filed By Barr Tell USA, Inc. Pursuant To Section 52.15(g)(3) of The Commission\u2019s Rules"
+    ],
+    "has_supplements": false,
+    "recent_activity": false
+  },
+  "parsed_from_docs": {
+    "address": null,
+    "city": null,
+    "state": null,
+    "zip_code": null,
+    "phone": null,
+    "email": null,
+    "key_personnel": [
+      {
+        "name": "Yisrael Spitz",
+        "title": "CEO"
+      },
+      {
+        "name": "Chief Technology Officer",
+        "title": "Mayer Rosenbaum"
+      },
+      {
+        "name": "Harold Barr",
+        "title": "President"
+      },
+      {
+        "name": "Direct Tel",
+        "title": "President"
+      }
+    ],
+    "founding_date": null,
+    "service_description": "provides interconnected VOIP services to retail businesses it\nwill easily be able to comply within the sixty (60) days of any new numbering resource\nactivation dates (in accordance with 47 CFR \u00a7 52."
+  },
+  "web_search_results": [
+    {
+      "title": "New Jersey Areacode: 201 - Area Code | Long-distance Call VoIP",
+      "url": "https://en.chahaoba.com/001201",
+      "snippet": "201 is the areacode of New Jersey, United States. ... Usage ... Usa Mobility Wireless"
+    },
+    {
+      "title": "ApprovedTariffs - IPUC",
+      "url": "https://puc.idaho.gov:443/PublicDocs/ApprovedTariffs/4",
+      "snippet": "Barr Tell USA , Inc . ... McLeodUSA Telecommunications Services, Inc . ... Metropolitan Telecommunications of Idaho, Inc ."
+    },
+    {
+      "title": "AT&T Supplier Portal",
+      "url": "https://clec.att.com/clec_cms/clec/clec1.html",
+      "snippet": "AT&T Supplier Portal ... Al-Call, Inc . ... Armstrong Telecommunications , Inc . ... Barr Tell USA , Inc ."
+    },
+    {
+      "title": "Danielle Walker Found - Phone Numbers, Addresses & Possible",
+      "url": "https://www.zabasearch.com/people/danielle-walker/",
+      "snippet": "bellsouth telecommunications inc dba south central bell telephone (at&t southeast) ... Mindsight (Formerly Tympani, Inc .) Marketing Technical ..."
+    },
+    {
+      "title": "Authorized Providers | Authenticate",
+      "url": "https://authenticate.iconectiv.com/authorized-service-providers-authenticate",
+      "snippet": "... Telephone Company Bandwidth.com CLEC, LLC Baraga Telephone Company Barcks Corp BareTelecom Barnesville Municipal Telephone Barr Tell USA , Inc Barry ..."
+    }
+  ]
+}
+
+RULES:
+- Ground ALL assessments in the provided evidence
+- Cite specific sources in activity_signal (e.g., "Recent FCC filing (2024)", "Company website found via search")
+- Use "Unknown" when evidence is insufficient - DO NOT hallucinate
+- Confidence levels:
+  - High = Multiple confirming signals (recent web presence + recent filings + company details)
+  - Medium = Some signals but incomplete picture
+  - Low = FCC data only, no external confirmation
+
+Call the enrichment_result function with your analysis.

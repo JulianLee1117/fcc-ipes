@@ -1,0 +1,35 @@
+{
+  "id": "msg_01Gs4ZdoxXgJvUwYunZ8c99S",
+  "content": [
+    {
+      "id": "toolu_019MVGzPvwWQwqWFGCS5PPVd",
+      "input": {
+        "is_active": true,
+        "activity_signal": "Web search results show active company presence with Crunchbase profile stating \"Get a demo today\" and BBB profile describing current operations. Mergr indicates acquisition by thinQ on February 1, 2021, suggesting continued operations under new ownership. Multiple search results reference current services and capabilities.",
+        "industry_segment": "CPaaS",
+        "product_summary": "Commio provides voice and SMS/MMS communication solutions via API, serving as a network interconnection bridge between telecom providers for VoIP calling and messaging services.",
+        "market_position": "Unknown",
+        "enrichment_confidence": "Medium"
+      },
+      "name": "enrichment_result",
+      "type": "tool_use"
+    }
+  ],
+  "model": "claude-sonnet-4-20250514",
+  "role": "assistant",
+  "stop_reason": "tool_use",
+  "stop_sequence": null,
+  "type": "message",
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0,
+    "input_tokens": 1786,
+    "output_tokens": 226,
+    "server_tool_use": null,
+    "service_tier": "standard"
+  }
+}

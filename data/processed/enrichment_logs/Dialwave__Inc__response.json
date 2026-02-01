@@ -1,0 +1,35 @@
+{
+  "id": "msg_01P8wnyjuLkUdsAboV2T739p",
+  "content": [
+    {
+      "id": "toolu_018GQtno5iGRAi2KGFBP4TcK",
+      "input": {
+        "is_active": true,
+        "activity_signal": "Recent FCC filing (June 24, 2025) for interconnected VoIP numbering authorization with supplements and recent activity noted. Active company website found via web search (dialwave.com) describing cloud-based voice and wireless communication products. Recent Tracxn profile from September 10, 2025, and trademark registration with 31 West 34th Street address matching FCC filing documentation.",
+        "industry_segment": "UCaaS",
+        "product_summary": "Dialwave provides cloud-based voice and wireless communication products for businesses worldwide, leveraging AI to revolutionize telephony and offering infrastructure for clients to deploy voice, data, and mobile services.",
+        "market_position": "Unknown",
+        "enrichment_confidence": "High"
+      },
+      "name": "enrichment_result",
+      "type": "tool_use"
+    }
+  ],
+  "model": "claude-sonnet-4-20250514",
+  "role": "assistant",
+  "stop_reason": "tool_use",
+  "stop_sequence": null,
+  "type": "message",
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0,
+    "input_tokens": 2085,
+    "output_tokens": 255,
+    "server_tool_use": null,
+    "service_tier": "standard"
+  }
+}

@@ -1,0 +1,87 @@
+You are analyzing an IPES (Interconnected VoIP Provider) company that filed for numbering authorization with the FCC.
+
+Based ONLY on the evidence provided below, determine:
+1. Whether the company is likely still active
+2. Their industry segment (UCaaS, CCaaS, CPaaS, Carrier, Reseller, Enterprise IT, or Other)
+3. A brief product summary
+4. Their market position (Enterprise, Mid-Market, SMB, Startup, or Unknown)
+5. Your confidence level based on evidence quality
+
+EVIDENCE PACK:
+{
+  "company_name": "Tychron Corporation",
+  "aliases": [
+    "Tychron Corporation"
+  ],
+  "fcc_filing": {
+    "first_filing_date": "2020-11-17",
+    "latest_filing_date": "2020-11-17",
+    "total_filings": 1,
+    "docket_numbers": [
+      "20-393"
+    ],
+    "proceeding_types": [
+      "Interconnected VoIP Numbering Authorization Application Filed By Tychron Corporation Pursuant To Section 52.15(g)(3) Of The Commission's Rules"
+    ],
+    "has_supplements": false,
+    "recent_activity": false
+  },
+  "parsed_from_docs": {
+    "address": "1201 N. Orange Street",
+    "city": "Wilmington",
+    "state": "DE",
+    "zip_code": "19801-1186",
+    "phone": "8448924766",
+    "email": null,
+    "key_personnel": [
+      {
+        "name": "Mike Burlingame",
+        "title": "CEO"
+      },
+      {
+        "name": "Heather Burlingame",
+        "title": "COO"
+      }
+    ],
+    "founding_date": null,
+    "service_description": "providers to compromise Tychron\u2019s position in the highly competitive\ninterconnected VoIP business sector."
+  },
+  "web_search_results": [
+    {
+      "title": "Tychron | Voice & Messaging tools for businesses",
+      "url": "https://www.tychron.com/",
+      "snippet": "Tychron is a communication platform that helps you redefine the way you interact with your customer. Our network is built with GlobalCast, an infrastructure design that uses anycast technology to ensure the fastest and most secure connection for every engagement."
+    },
+    {
+      "title": "Tychron - LinkedIn",
+      "url": "https://www.linkedin.com/company/tychron",
+      "snippet": "Tychron Corporation specializes in delivering innovative and secure communication solutions, including advanced text messaging, voice, and informational services."
+    },
+    {
+      "title": "Tychron - Crunchbase Company Profile & Funding Tychron Documentation TYCHRON CORPORATION Company Profile - Dun & Bradstreet Tychron Corporation in Wilmington, DE - (844) 892-4766 - Profile",
+      "url": "https://www.crunchbase.com/organization/tychron",
+      "snippet": "Tychron enables businesses to elevate how they communicate with powerful Voice & Messaging tools. From one-on-one personal interactions to making millions of connections around the globe, Tychron \u2019s GlobalCast network revolutionizes conversation. Capture your audience, convert the lead and broadcast your business to the world in an instant. Send and recieve text messages for quick and simple direct communication. Deliver media rich content directly for a better customer experience. Cut down on scam callers and know who's really on the other end of the line. Gather key information on your phone traffic for better control. Find company research, competitor information, contact details & financial data for TYCHRON CORPORATION of Wilmington, DE. Get the latest business insights from Dun & Bradstreet. Tychron Corporation is located in Wilmington, Delaware. This organization primarily operates in the Telephone Communication, except Radio business / industry within the Communications sector."
+    },
+    {
+      "title": "TYCHRON CORPORATION Company Profile - Dun & Bradstreet",
+      "url": "https://www.dnb.com/business-directory/company-profiles.tychron_corporation.01389ad5a9a53755a05985cc67c65396.html",
+      "snippet": "Find company research, competitor information, contact details & financial data for TYCHRON CORPORATION of Wilmington, DE. Get the latest business insights from Dun & Bradstreet."
+    },
+    {
+      "title": "Tychron Corporation in Wilmington, DE - (844) 892-4766 - Profile",
+      "url": "https://www.buzzfile.com/business/Tychron-Corporation-844-892-4766",
+      "snippet": "Tychron Corporation is located in Wilmington, Delaware. This organization primarily operates in the Telephone Communication, except Radio business / industry within the Communications sector."
+    }
+  ]
+}
+
+RULES:
+- Ground ALL assessments in the provided evidence
+- Cite specific sources in activity_signal (e.g., "Recent FCC filing (2024)", "Company website found via search")
+- Use "Unknown" when evidence is insufficient - DO NOT hallucinate
+- Confidence levels:
+  - High = Multiple confirming signals (recent web presence + recent filings + company details)
+  - Medium = Some signals but incomplete picture
+  - Low = FCC data only, no external confirmation
+
+Call the enrichment_result function with your analysis.

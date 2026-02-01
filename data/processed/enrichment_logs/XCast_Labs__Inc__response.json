@@ -1,0 +1,35 @@
+{
+  "id": "msg_01XCEZ22CzW5hdMTwTdvrAKm",
+  "content": [
+    {
+      "id": "toolu_01AE14WdnirpUWpHz3itpTju",
+      "input": {
+        "is_active": false,
+        "activity_signal": "FTC press release (Jan 2, 2024) states XCast Labs \"agreed to settle Federal Trade Commission charges\" and \"will be banned from supporting illegal telemarketing practices.\" DOJ press release (Jan 2, 2024) confirms settlement with court order. No FCC activity since 2021. LinkedIn and promotional content suggest past operations but regulatory actions indicate cessation of business.",
+        "industry_segment": "Carrier",
+        "product_summary": "XCast Labs was a VoIP service provider offering wholesale platform services, SIP trunking, and Hosted PBX services to carriers and businesses before being banned for facilitating illegal robocalls.",
+        "market_position": "Mid-Market",
+        "enrichment_confidence": "High"
+      },
+      "name": "enrichment_result",
+      "type": "tool_use"
+    }
+  ],
+  "model": "claude-sonnet-4-20250514",
+  "role": "assistant",
+  "stop_reason": "tool_use",
+  "stop_sequence": null,
+  "type": "message",
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0,
+    "input_tokens": 1798,
+    "output_tokens": 258,
+    "server_tool_use": null,
+    "service_tier": "standard"
+  }
+}

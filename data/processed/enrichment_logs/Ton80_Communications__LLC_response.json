@@ -1,0 +1,35 @@
+{
+  "id": "msg_014HDzqPiTVbfxnHebax7Y5h",
+  "content": [
+    {
+      "id": "toolu_01ErhNJgxU8npSnbjRkcb52R",
+      "input": {
+        "is_active": false,
+        "activity_signal": "Company appears inactive based on: 1) Single FCC filing from 2019-08-27 with no recent activity, 2) Web search results only show directory listings and area code databases with no active company website or business operations, 3) No recent business activity or communications presence found beyond legacy directory entries",
+        "industry_segment": "UCaaS",
+        "product_summary": "VoIP communications provider that planned to offer interconnected VoIP services in Illinois, Nevada, and Texas, but appears to have ceased operations shortly after initial FCC authorization filing.",
+        "market_position": "Unknown",
+        "enrichment_confidence": "Medium"
+      },
+      "name": "enrichment_result",
+      "type": "tool_use"
+    }
+  ],
+  "model": "claude-sonnet-4-20250514",
+  "role": "assistant",
+  "stop_reason": "tool_use",
+  "stop_sequence": null,
+  "type": "message",
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0,
+    "input_tokens": 1743,
+    "output_tokens": 232,
+    "server_tool_use": null,
+    "service_tier": "standard"
+  }
+}

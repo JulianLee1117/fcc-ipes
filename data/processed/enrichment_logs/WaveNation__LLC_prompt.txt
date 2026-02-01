@@ -1,0 +1,119 @@
+You are analyzing an IPES (Interconnected VoIP Provider) company that filed for numbering authorization with the FCC.
+
+Based ONLY on the evidence provided below, determine:
+1. Whether the company is likely still active
+2. Their industry segment (UCaaS, CCaaS, CPaaS, Carrier, Reseller, Enterprise IT, or Other)
+3. A brief product summary
+4. Their market position (Enterprise, Mid-Market, SMB, Startup, or Unknown)
+5. Your confidence level based on evidence quality
+
+EVIDENCE PACK:
+{
+  "company_name": "WaveNation, LLC",
+  "aliases": [
+    "WaveNation, LLC"
+  ],
+  "fcc_filing": {
+    "first_filing_date": "2020-11-23",
+    "latest_filing_date": "2020-11-23",
+    "total_filings": 2,
+    "docket_numbers": [
+      "20-402"
+    ],
+    "proceeding_types": [
+      "Interconnected VoIP Numbering Authorization Application Filed By WaveNation, LLC Pursuant To Section 52.15(g)(3) Of The Commission's Rules"
+    ],
+    "has_supplements": true,
+    "recent_activity": false
+  },
+  "parsed_from_docs": {
+    "address": "222 South Riverside Plaza, Suite 1900, Chicago, IL 60606",
+    "city": null,
+    "state": null,
+    "zip_code": null,
+    "phone": "3128784137",
+    "email": "regulatory@peerlessnetwork.com",
+    "key_personnel": [
+      {
+        "name": "and Chief",
+        "title": "President"
+      },
+      {
+        "name": "and Chief",
+        "title": "President"
+      },
+      {
+        "name": "and Chief",
+        "title": "President"
+      },
+      {
+        "name": "and Chief",
+        "title": "President"
+      },
+      {
+        "name": "position at",
+        "title": "CFO"
+      },
+      {
+        "name": "of Sales",
+        "title": "President"
+      },
+      {
+        "name": "of Sales",
+        "title": "President"
+      },
+      {
+        "name": "Operations and",
+        "title": "President"
+      },
+      {
+        "name": "of Regulatory",
+        "title": "President"
+      },
+      {
+        "name": "of Regulatory",
+        "title": "President"
+      }
+    ],
+    "founding_date": null,
+    "service_description": "provides the Service Order \u2013 PSTN Control Service \u2013 Interconnected VoIP\nbetween WaveNation and Peerless Network."
+  },
+  "web_search_results": [
+    {
+      "title": "Interconnected VoIP Numbering Authorization Application Filed",
+      "url": "https://www.fcc.gov/document/interconnected-voip-numbering-authorization-application-filed-52",
+      "snippet": "Interconnected VoIP Numbering Authorization Application Filed. Full Title: Interconnected VoIP Numbering Authorization Application Filed By WaveNation , LLC Pursuant To Section 52.15(g)(3) Of The Commission's Rules."
+    },
+    {
+      "title": "VOIP Providers registered with pura",
+      "url": "https://portal.ct.gov/-/media/pura/telcom/registered-voip-providers---pura-rev-2-17-22.pdf",
+      "snippet": "3 4 Voice , LLC .Nextgen Voip Solutions LLC 107 nexVortex, Inc. 108 Noble Systems Communications, LLC . North American Telecommunications Corporation 109 NTT America, Inc. NuAccess Networks, Inc. 110 Nuso, LLC 111 OIT, LLC ."
+    },
+    {
+      "title": "Wavenation , LLC - Chicago",
+      "url": "https://et.cybo.com/US-biz/wavenation-llc",
+      "snippet": "Wavenation , LLC Chicago sihtnumber 60606. Aadress: 222 S Riverside Plz. Ste 2730 Chicago, Il 60606. 2.0 Cybo Score. Cymbo \u00fclevaade."
+    },
+    {
+      "title": "Voip | World News",
+      "url": "https://wn.com/Voip",
+      "snippet": "Voip on WN Network delivers the latest Videos and Editable pages for News & Events, including Entertainment, Music, Sports, Science and more, Sign up and share your playlists."
+    },
+    {
+      "title": "WAVENATION LLC - Delaware Company",
+      "url": "https://delaware-company.com/co/wavenation-llc",
+      "snippet": "Business Details of WAVENATION LLC in Delaware. WAVENATION LLC (License Number: 2015601173) was incorporated on 03/01/2015 in Delaware."
+    }
+  ]
+}
+
+RULES:
+- Ground ALL assessments in the provided evidence
+- Cite specific sources in activity_signal (e.g., "Recent FCC filing (2024)", "Company website found via search")
+- Use "Unknown" when evidence is insufficient - DO NOT hallucinate
+- Confidence levels:
+  - High = Multiple confirming signals (recent web presence + recent filings + company details)
+  - Medium = Some signals but incomplete picture
+  - Low = FCC data only, no external confirmation
+
+Call the enrichment_result function with your analysis.

@@ -1,0 +1,91 @@
+You are analyzing an IPES (Interconnected VoIP Provider) company that filed for numbering authorization with the FCC.
+
+Based ONLY on the evidence provided below, determine:
+1. Whether the company is likely still active
+2. Their industry segment (UCaaS, CCaaS, CPaaS, Carrier, Reseller, Enterprise IT, or Other)
+3. A brief product summary
+4. Their market position (Enterprise, Mid-Market, SMB, Startup, or Unknown)
+5. Your confidence level based on evidence quality
+
+EVIDENCE PACK:
+{
+  "company_name": "ShoreTel",
+  "aliases": [
+    "ShoreTel"
+  ],
+  "fcc_filing": {
+    "first_filing_date": "2017-06-07",
+    "latest_filing_date": "2017-06-07",
+    "total_filings": 1,
+    "docket_numbers": [
+      "16-172"
+    ],
+    "proceeding_types": [
+      "INTERCONNECTED VOIP NUMBERING AUTHORIZATION APPLICATION FILED BY TELNYX, LLC. PURSUANT TO SECTION 52.15(g)(3) OF THE COMMISSION?S RULES"
+    ],
+    "has_supplements": false,
+    "recent_activity": false
+  },
+  "parsed_from_docs": {
+    "address": "1385 Broadway FL 7",
+    "city": null,
+    "state": null,
+    "zip_code": null,
+    "phone": "8447467383",
+    "email": null,
+    "key_personnel": [
+      {
+        "name": "and CEO",
+        "title": "President"
+      },
+      {
+        "name": "and Chief",
+        "title": "President"
+      },
+      {
+        "name": "Chief Information Officer",
+        "title": "Mark Roberts"
+      }
+    ],
+    "founding_date": "2007",
+    "service_description": null
+  },
+  "web_search_results": [
+    {
+      "title": "ShoreTel Product Evolution and Integration Insights | Mitel",
+      "url": "https://www.mitel.com/articles/what-happened-shoretel-products",
+      "snippet": "Gain insights on ShoreTel's product evolution and integration strategies to enhance your communications infrastructure and drive operational efficiency."
+    },
+    {
+      "title": "ShoreTel - Delta Intellicom",
+      "url": "https://deltaintellicom.com/sales/small-to-medium-size-business-phone-systems/shoretel/",
+      "snippet": "A ShoreTel IP phone system allows users to use VoIP phones, mobile phones, or any phone connected to the public phone network as if it were their own extension, enabling them to work when, where, and how they want."
+    },
+    {
+      "title": "ShoreTel IP Phone System - Telephone Magic Inc.",
+      "url": "https://www.telephonemagic.com/shoretel-ip-phone-system/shoretel-ip-phone-system.htm",
+      "snippet": "Built on our brilliantly simple business VoIP phone system, ShoreTel brings together VoIP telephony , instant messaging, video conferencing, mobility, presence, and collaboration capabilities into a seamless business environment."
+    },
+    {
+      "title": "ShoreTel phone system: Product overview - TechTarget ShoreTel/Mitel - Gaynor Telesystems, Inc Images ShoreTel Service & Support | Business Phone Systems ... ShoreTel Phone Systems Overview - Workgroup",
+      "url": "https://www.techtarget.com/searchunifiedcommunications/feature/ShoreTel-phone-system-Product-overview",
+      "snippet": "Oct 14, 2015 \u00b7 The ShoreTel phone system has an extensive range of IP phones with several features for ease of use. All the phones support Power over Ethernet and have Fast Ethernet (10/100 Mbps) or gigabit Ethernet ports, depending on the model. MiVoice Communicator is a powerful unified communications (UC) application for users across an organization, whether an operator, a contact center agent, a knowledge worker or a road warrior. Available on multiple operating systems, ShoreTel Communicator makes it easy for people to communicate any way they choose: by video, voice (wired or wireless... See full list on gaynortelesys.com IT groups are under constant pressure to provide technology solutions that drive new business initiatives, help boost productivity and meet tight budgets. Yet introducing new systems often increases complexity and results in rising maintenance costs. The ShoreTel Unified Communications (UC) system was designed to streamline IP communication managem... See full list on gaynortelesys.com ShoreTel Voice Switches are key building blocks of the ShoreTel Unified Communications (UC) system and deliver UC to organizations of every size \u2014from large enterprises to small and medium businesses. Highly reliable and intelligent, these switches unify communications across multiple enterprise locations, supporting IP phones, analog devices, and ... See full list on gaynortelesys.com View all ShoreTel IP Phones offer all the advanced features and quality that users demand, and are preconfigured to match the ShoreTel Unified Communications (UC) system for quick and easy installation. For the best VoIP business communications solution\u2014you need to start with a solid platform. ShoreTel builds business phone systems with unified communications so your company can achieve maximum productivity."
+    },
+    {
+      "title": "ShoreTel/Mitel - Gaynor Telesystems, Inc Images ShoreTel Service & Support | Business Phone Systems ... ShoreTel Phone Systems Overview - Workgroup",
+      "url": "https://www.gaynortelesys.com/shoretel/",
+      "snippet": "MiVoice Communicator is a powerful unified communications (UC) application for users across an organization, whether an operator, a contact center agent, a knowledge worker or a road warrior. Available on multiple operating systems, ShoreTel Communicator makes it easy for people to communicate any way they choose: by video, voice (wired or wireless... See full list on gaynortelesys.com IT groups are under constant pressure to provide technology solutions that drive new business initiatives, help boost productivity and meet tight budgets. Yet introducing new systems often increases complexity and results in rising maintenance costs. The ShoreTel Unified Communications (UC) system was designed to streamline IP communication managem... See full list on gaynortelesys.com ShoreTel Voice Switches are key building blocks of the ShoreTel Unified Communications (UC) system and deliver UC to organizations of every size \u2014from large enterprises to small and medium businesses. Highly reliable and intelligent, these switches unify communications across multiple enterprise locations, supporting IP phones, analog devices, and ... See full list on gaynortelesys.com View all ShoreTel IP Phones offer all the advanced features and quality that users demand, and are preconfigured to match the ShoreTel Unified Communications (UC) system for quick and easy installation. For the best VoIP business communications solution\u2014you need to start with a solid platform. ShoreTel builds business phone systems with unified communications so your company can achieve maximum productivity."
+    }
+  ]
+}
+
+RULES:
+- Ground ALL assessments in the provided evidence
+- Cite specific sources in activity_signal (e.g., "Recent FCC filing (2024)", "Company website found via search")
+- Use "Unknown" when evidence is insufficient - DO NOT hallucinate
+- Confidence levels:
+  - High = Multiple confirming signals (recent web presence + recent filings + company details)
+  - Medium = Some signals but incomplete picture
+  - Low = FCC data only, no external confirmation
+
+Call the enrichment_result function with your analysis.

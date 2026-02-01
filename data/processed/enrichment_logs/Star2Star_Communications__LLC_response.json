@@ -1,0 +1,35 @@
+{
+  "id": "msg_01FdBK2bQTXLabZxx2d7yHc6",
+  "content": [
+    {
+      "id": "toolu_01Dib68ayFbJZP6wcWueC5QL",
+      "input": {
+        "is_active": false,
+        "activity_signal": "Missouri Public Service Commission document shows Star2Star formally requesting \"cancellation of its authority as granted in DA-2018-0246 effective January 1, 2025\" and stating they are \"ceasing to exist as a VoIP provider.\" FCC filing was from 2020 with no recent activity since then.",
+        "industry_segment": "UCaaS",
+        "product_summary": "Star2Star provided unified communications solutions including voice, video, fax, instant messaging and presence management for businesses of all sizes, with recognition as a Top 10 Hosted Business VoIP/UC Provider by IHS and inclusion in Gartner Magic Quadrant for UCaaS.",
+        "market_position": "Enterprise",
+        "enrichment_confidence": "High"
+      },
+      "name": "enrichment_result",
+      "type": "tool_use"
+    }
+  ],
+  "model": "claude-sonnet-4-20250514",
+  "role": "assistant",
+  "stop_reason": "tool_use",
+  "stop_sequence": null,
+  "type": "message",
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0,
+    "input_tokens": 2431,
+    "output_tokens": 260,
+    "server_tool_use": null,
+    "service_tier": "standard"
+  }
+}

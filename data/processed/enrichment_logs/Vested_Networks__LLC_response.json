@@ -1,0 +1,35 @@
+{
+  "id": "msg_01MzvdfTHpuhkLj3GYUZhKsL",
+  "content": [
+    {
+      "id": "toolu_011shTkamhgaA7rjHbYATxkw",
+      "input": {
+        "is_active": true,
+        "activity_signal": "Active company website found via search (www.vestednetworks.com) advertising VoIP business phone solutions, LinkedIn company profile exists, Facebook business page exists, and multiple business directory listings found. FCC filing from 2022-10-11 for VoIP numbering authorization supports operational status.",
+        "industry_segment": "UCaaS",
+        "product_summary": "Vested Networks provides hosted VoIP business phone systems and Unified Communications as a Service (UCaaS) solutions, specializing in seamless migration from traditional copper-based systems to modern VoIP solutions for businesses.",
+        "market_position": "SMB",
+        "enrichment_confidence": "High"
+      },
+      "name": "enrichment_result",
+      "type": "tool_use"
+    }
+  ],
+  "model": "claude-sonnet-4-20250514",
+  "role": "assistant",
+  "stop_reason": "tool_use",
+  "stop_sequence": null,
+  "type": "message",
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0,
+    "input_tokens": 2106,
+    "output_tokens": 241,
+    "server_tool_use": null,
+    "service_tier": "standard"
+  }
+}

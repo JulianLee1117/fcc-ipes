@@ -1,0 +1,35 @@
+{
+  "id": "msg_01GfMKh86LwKcKseSj1WaZJd",
+  "content": [
+    {
+      "id": "toolu_01FwjzPGRnjkZyExAfu4bvJd",
+      "input": {
+        "is_active": false,
+        "activity_signal": "No recent activity indicators. FCC filing from 2021-04-15 with no recent activity flag set to false. Web search results are all from 2006 showing historical E911/VoIP services but no current company presence or recent activity found.",
+        "industry_segment": "Carrier",
+        "product_summary": "Provides interconnected VoIP services to business customers and specializes in VoIP E911 emergency communications solutions for enterprises.",
+        "market_position": "Enterprise",
+        "enrichment_confidence": "Medium"
+      },
+      "name": "enrichment_result",
+      "type": "tool_use"
+    }
+  ],
+  "model": "claude-sonnet-4-20250514",
+  "role": "assistant",
+  "stop_reason": "tool_use",
+  "stop_sequence": null,
+  "type": "message",
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0,
+    "input_tokens": 1874,
+    "output_tokens": 210,
+    "server_tool_use": null,
+    "service_tier": "standard"
+  }
+}

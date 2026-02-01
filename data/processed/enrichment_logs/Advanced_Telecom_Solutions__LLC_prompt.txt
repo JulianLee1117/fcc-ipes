@@ -1,0 +1,107 @@
+You are analyzing an IPES (Interconnected VoIP Provider) company that filed for numbering authorization with the FCC.
+
+Based ONLY on the evidence provided below, determine:
+1. Whether the company is likely still active
+2. Their industry segment (UCaaS, CCaaS, CPaaS, Carrier, Reseller, Enterprise IT, or Other)
+3. A brief product summary
+4. Their market position (Enterprise, Mid-Market, SMB, Startup, or Unknown)
+5. Your confidence level based on evidence quality
+
+EVIDENCE PACK:
+{
+  "company_name": "Advanced Telecom Solutions, LLC",
+  "aliases": [
+    "Advanced Telecom Solutions, LLC"
+  ],
+  "fcc_filing": {
+    "first_filing_date": "2017-11-01",
+    "latest_filing_date": "2017-11-01",
+    "total_filings": 7,
+    "docket_numbers": [
+      "17-342"
+    ],
+    "proceeding_types": [
+      "INTERCONNECTED VOIP NUMBERING AUTHORIZATION APPLICATION FILED BY ADVANCED TELECOM SOLUTIONS, LLC PURSUANT TO SECTION 52.15(g)(3) OF THE COMMISSION&#146;S RULES"
+    ],
+    "has_supplements": true,
+    "recent_activity": false
+  },
+  "parsed_from_docs": {
+    "address": "4905 Del Ray Avenue Suite 300, Bethesda, MD 20814",
+    "city": null,
+    "state": null,
+    "zip_code": null,
+    "phone": "2408470500",
+    "email": "rshpount@turbobridge.com",
+    "key_personnel": [
+      {
+        "name": "for Telurix",
+        "title": "CTO"
+      },
+      {
+        "name": "of Software",
+        "title": "President"
+      },
+      {
+        "name": "Chief Operating Officer",
+        "title": "for Telurix"
+      },
+      {
+        "name": "Chief Executive Officer",
+        "title": "and Chairmen"
+      },
+      {
+        "name": "Chief Marketing Officer",
+        "title": "in SunRocket"
+      },
+      {
+        "name": "Chief Strategy Officer",
+        "title": "for Giant"
+      },
+      {
+        "name": "of\naTelo",
+        "title": "President"
+      }
+    ],
+    "founding_date": null,
+    "service_description": "provider of \"Interconnected VoIP Service\" as that term is defined in the\nCommission's rules."
+  },
+  "web_search_results": [
+    {
+      "title": "VoIP International | Advanced Business Phone Solutions",
+      "url": "https://voip-int.com/",
+      "snippet": "VoIP International provides tailored, user-friendly solutions designed to address your specific telecommunication requirements."
+    },
+    {
+      "title": "Business Phone Systems | VoIP Phone Systems | Modern Telecom",
+      "url": "https://modcom.us/solutions/",
+      "snippet": "We vet service providers and bring you combinations of effective business telecommunications solutions at competitive rates."
+    },
+    {
+      "title": "Business VoIP Telephones - Greens Telecom LLC Dubai",
+      "url": "https://www.avayaippbxdubai.com/category/telephone/",
+      "snippet": "Business VoIP Telephones is a Voice over Internet Protocol ( VoIP ) is a blessing to telecommunications , with its ability to transmit voice over a data ..."
+    },
+    {
+      "title": "US9544429B2 - Solutions for voice over internet protocol (VoIP)",
+      "url": "https://patents.google.com/patent/US9544429B2/en",
+      "snippet": "... TELECOMMUNICATIONS CORP., COMTECH TOLT TECHNOLOGIES, INC., COMTECH XICOM TECHNOLOGY, INC., MAPLE ACQUISITION LLC , MICRODATA GIS, INC., MICRODATA, LLC , ..."
+    },
+    {
+      "title": "Progressive Telecom LLC - Accelerate Growth in the VoIP and SMS",
+      "url": "https://www.prlog.org/12984452-progressive-telecom-llc-accelerate-growth-in-the-voip-and-sms-whol.html",
+      "snippet": "Since its incorporation in 2010, Progressive Telecom LLC has consistently delivered top-notch VoIP and SMS wholesale solutions and services to ..."
+    }
+  ]
+}
+
+RULES:
+- Ground ALL assessments in the provided evidence
+- Cite specific sources in activity_signal (e.g., "Recent FCC filing (2024)", "Company website found via search")
+- Use "Unknown" when evidence is insufficient - DO NOT hallucinate
+- Confidence levels:
+  - High = Multiple confirming signals (recent web presence + recent filings + company details)
+  - Medium = Some signals but incomplete picture
+  - Low = FCC data only, no external confirmation
+
+Call the enrichment_result function with your analysis.

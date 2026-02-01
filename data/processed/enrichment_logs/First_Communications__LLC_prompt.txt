@@ -1,0 +1,91 @@
+You are analyzing an IPES (Interconnected VoIP Provider) company that filed for numbering authorization with the FCC.
+
+Based ONLY on the evidence provided below, determine:
+1. Whether the company is likely still active
+2. Their industry segment (UCaaS, CCaaS, CPaaS, Carrier, Reseller, Enterprise IT, or Other)
+3. A brief product summary
+4. Their market position (Enterprise, Mid-Market, SMB, Startup, or Unknown)
+5. Your confidence level based on evidence quality
+
+EVIDENCE PACK:
+{
+  "company_name": "First Communications, LLC",
+  "aliases": [
+    "First Communications, LLC"
+  ],
+  "fcc_filing": {
+    "first_filing_date": "2022-12-12",
+    "latest_filing_date": "2022-12-12",
+    "total_filings": 1,
+    "docket_numbers": [
+      "22-445"
+    ],
+    "proceeding_types": [
+      "Interconnected VoIP Numbering Authorization Application Filed By First Communications, LLC Pursuant To Section 52.15(g)(3) Of The Commission's Rules"
+    ],
+    "has_supplements": false,
+    "recent_activity": false
+  },
+  "parsed_from_docs": {
+    "address": "3340 West Market Street",
+    "city": "Akron",
+    "state": "OH",
+    "zip_code": "44333",
+    "phone": "8008601261",
+    "email": null,
+    "key_personnel": [
+      {
+        "name": "and Consultant",
+        "title": "President"
+      },
+      {
+        "name": "Mark Wons",
+        "title": "President"
+      },
+      {
+        "name": "of Engineering",
+        "title": "President"
+      }
+    ],
+    "founding_date": null,
+    "service_description": "providers to compromise First Communications\u2019 position in the highly\ncompetitive interconnected VoIP business sector."
+  },
+  "web_search_results": [
+    {
+      "title": "FirstComm - Business Communications Solutions | Unified ...",
+      "url": "https://www.firstcomm.com/",
+      "snippet": "Future-ready voice , collaboration, and connectivity built for reliability, security, and scale. With FirstComm, businesses get one trusted provider, one predictable bill, and U.S.-based experts who support you 24/7/365. We modernize your infrastructure and support you every step of the way."
+    },
+    {
+      "title": "First Communications, LLC | BBB Business Profile | Better ... Telecom Service Providers | First Communications First Communications LLC - Company Profile Report | IBISWorld First Communications - Company Profile - Data Center Map New Orleans Business Phone Systems - First Communications Working at First Communications | Glassdoor FirstComm | VoIP & Unified Communications Solutions FirstComm | VoIP & Unified Communications Solutions FirstComm | VoIP & Unified Communications Solutions First Communications - 2025 Company Profile - Tracxn",
+      "url": "https://www.bbb.org/us/il/chicago/profile/telephones/first-communications-llc-0654-38006816",
+      "snippet": "First Communications , LLC is NOT a BBB Accredited Business. To become accredited, a business must agree to BBB Standards for Trust and pass BBB's vetting process. Headquartered in Akron, Ohio, First Communications has a strong Midwest presence and provides voice and networking solutions that increase your businesses' efficiency. Dec 31, 2022 \u00b7 Access a detailed company profile for First Communications LLC . Includes financial data, executive team, industry roles, and service providers. Download your report instantly. Details on First Communications , a data center industry player headquartered in Chicago, USA. Find data center locations, services, networks and much more. First Communications has been in the telephone equipment and computer telephone integration business for over 40 years. If your business needs 5 phones or 250 phones, First Communications Company has the right solution for you. What is First Communications LLC? First Communications LLC is a Voice, Data and Managed Service provider serving businesses in the Midwest. They offer services such as Voice Solutions, Dedicated Internet Access, SIP Trunking, Ethernet, MPLS and VPLS, Managed Services, and Data Center Services. What is firstcomm? FirstComm updates, news, events, and expert tips delivered right to your inbox. FirstComm powers businesses with voice services, data connectivity, managed IT, and secure data center solutions. Why should you choose firstcomm? FirstComm simplifies telecom with one trusted provider, one predictable bill, and no chatbots . Our future-ready VoIP and unified communications solutions are designed to keep your teams connected, productive, and supported by experts every step of the way. What are future-ready VoIP and unified communications solutions? Our future-ready VoIP and unified communications solutions are designed to keep your teams connected, productive, and supported by experts every step of the way . From Unified Communications (UCaaS) to SD-WAN, SIP Trunking, and Managed Network Security, we provide the tools to connect teams, enhance customer experience, and scale more efficiently. Jul 12, 2025 \u00b7 It provides broadband internet access (fiber-optic, cable, fixed wireless) with data speeds up to 1 Gbps, MPLS/VPLS, point-to-point, and point-to-multipoint connectivity, SIP trunking, VoIP telephony with hosted PBX, managed services, and SD-WAN services."
+    },
+    {
+      "title": "Telecom Service Providers | First Communications",
+      "url": "https://www.convergedsystems.com/first-communications.html",
+      "snippet": "Headquartered in Akron, Ohio, First Communications has a strong Midwest presence and provides voice and networking solutions that increase your businesses' efficiency."
+    },
+    {
+      "title": "First Communications LLC - Company Profile Report | IBISWorld",
+      "url": "https://www.ibisworld.com/united-states/company/first-communications-llc/426824/",
+      "snippet": "Dec 31, 2022 \u00b7 Access a detailed company profile for First Communications LLC . Includes financial data, executive team, industry roles, and service providers. Download your report instantly."
+    },
+    {
+      "title": "First Communications - Company Profile - Data Center Map",
+      "url": "https://www.datacentermap.com/c/first-communications/",
+      "snippet": "Details on First Communications , a data center industry player headquartered in Chicago, USA. Find data center locations, services, networks and much more."
+    }
+  ]
+}
+
+RULES:
+- Ground ALL assessments in the provided evidence
+- Cite specific sources in activity_signal (e.g., "Recent FCC filing (2024)", "Company website found via search")
+- Use "Unknown" when evidence is insufficient - DO NOT hallucinate
+- Confidence levels:
+  - High = Multiple confirming signals (recent web presence + recent filings + company details)
+  - Medium = Some signals but incomplete picture
+  - Low = FCC data only, no external confirmation
+
+Call the enrichment_result function with your analysis.

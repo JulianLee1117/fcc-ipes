@@ -1,0 +1,35 @@
+{
+  "id": "msg_01UZwYz7aDxLxXLkTvAKpvru",
+  "content": [
+    {
+      "id": "toolu_017zuft5bars6T6TwCUeAHRd",
+      "input": {
+        "is_active": true,
+        "activity_signal": "Company website found via search (https://www.ewarttechnologies.com/) shows active web presence. PeeringDB entry shows active AS20388 network operations. Multiple IP tracking services confirm active autonomous system registration. However, FCC filing is from 2020 with no recent activity.",
+        "industry_segment": "Carrier",
+        "product_summary": "Ewart Technologies is a cloud services provider and ISP offering web hosting, hosted email, virtual servers, data backup, and security services, operating their own autonomous system network (AS20388).",
+        "market_position": "SMB",
+        "enrichment_confidence": "Medium"
+      },
+      "name": "enrichment_result",
+      "type": "tool_use"
+    }
+  ],
+  "model": "claude-sonnet-4-20250514",
+  "role": "assistant",
+  "stop_reason": "tool_use",
+  "stop_sequence": null,
+  "type": "message",
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0,
+    "input_tokens": 1831,
+    "output_tokens": 233,
+    "server_tool_use": null,
+    "service_tier": "standard"
+  }
+}

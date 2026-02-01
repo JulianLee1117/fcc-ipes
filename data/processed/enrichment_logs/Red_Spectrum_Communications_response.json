@@ -1,0 +1,35 @@
+{
+  "id": "msg_01BnQhrUyV2vJXzufdgCcqjt",
+  "content": [
+    {
+      "id": "toolu_01SVW9Ak4wWRFSe5wHEyrikq",
+      "input": {
+        "is_active": true,
+        "activity_signal": "Active company website found (red-spectrum.com) offering current service plans, FCC Form 499 registration current as of 4/1/2022, BBB business profile listing, LinkedIn company page presence, and Dun & Bradstreet business directory listing all indicate ongoing operations",
+        "industry_segment": "Carrier",
+        "product_summary": "Red Spectrum Communications is an Internet Service Provider located in North Idaho that offers high-speed internet services (up to 100 Mbps residential, up to 1 Gigabit for business), telephone services, and fixed wireless/fiber optic connectivity solutions.",
+        "market_position": "SMB",
+        "enrichment_confidence": "High"
+      },
+      "name": "enrichment_result",
+      "type": "tool_use"
+    }
+  ],
+  "model": "claude-sonnet-4-20250514",
+  "role": "assistant",
+  "stop_reason": "tool_use",
+  "stop_sequence": null,
+  "type": "message",
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0,
+    "input_tokens": 1835,
+    "output_tokens": 247,
+    "server_tool_use": null,
+    "service_tier": "standard"
+  }
+}

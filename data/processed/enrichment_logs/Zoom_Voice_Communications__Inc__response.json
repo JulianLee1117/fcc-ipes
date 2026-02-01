@@ -1,0 +1,35 @@
+{
+  "id": "msg_01Bp9sNBZZyzrsVoFE2k6zKh",
+  "content": [
+    {
+      "id": "toolu_01Ru9RyNcZb1wWUALD5d8zFH",
+      "input": {
+        "is_active": true,
+        "activity_signal": "Company website found via search shows active Zoom Phone VoIP services (zoom.com/products/voip-phone) with current pricing and features. Business entity incorporated September 4, 2019 according to CA filing records. Email contact uses @zoom.us domain indicating connection to active Zoom platform.",
+        "industry_segment": "UCaaS",
+        "product_summary": "Provides VoIP phone services including unlimited domestic calls, SMS messaging, voicemail transcription, call recording, and app integrations as part of Zoom's unified communications platform.",
+        "market_position": "Enterprise",
+        "enrichment_confidence": "High"
+      },
+      "name": "enrichment_result",
+      "type": "tool_use"
+    }
+  ],
+  "model": "claude-sonnet-4-20250514",
+  "role": "assistant",
+  "stop_reason": "tool_use",
+  "stop_sequence": null,
+  "type": "message",
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0,
+    "input_tokens": 1729,
+    "output_tokens": 232,
+    "server_tool_use": null,
+    "service_tier": "standard"
+  }
+}

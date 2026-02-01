@@ -1,0 +1,35 @@
+{
+  "id": "msg_01FpdNm4seFvFfj7xPSBFw64",
+  "content": [
+    {
+      "id": "toolu_01W9Toy1hV5vcffDCSKoxdGs",
+      "input": {
+        "is_active": false,
+        "activity_signal": "No recent activity detected. Latest FCC filing was in 2018 (March 19, 2018) with no recent filings marked as false. Web search results show no relevant company information - only generic telecom directory pages and unrelated people search results. No company website, social media, or business listings found through web search.",
+        "industry_segment": "Carrier",
+        "product_summary": "Terra Nova Telecom operated as a Competitive Access Provider (CAP), Competitive Local Exchange Carrier (CLEC), and Interconnected VoIP operator, providing telecommunications services across multiple service categories.",
+        "market_position": "Unknown",
+        "enrichment_confidence": "Low"
+      },
+      "name": "enrichment_result",
+      "type": "tool_use"
+    }
+  ],
+  "model": "claude-sonnet-4-20250514",
+  "role": "assistant",
+  "stop_reason": "tool_use",
+  "stop_sequence": null,
+  "type": "message",
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0,
+    "input_tokens": 1786,
+    "output_tokens": 242,
+    "server_tool_use": null,
+    "service_tier": "standard"
+  }
+}

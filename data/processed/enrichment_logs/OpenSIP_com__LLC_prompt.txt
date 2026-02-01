@@ -1,0 +1,84 @@
+You are analyzing an IPES (Interconnected VoIP Provider) company that filed for numbering authorization with the FCC.
+
+Based ONLY on the evidence provided below, determine:
+1. Whether the company is likely still active
+2. Their industry segment (UCaaS, CCaaS, CPaaS, Carrier, Reseller, Enterprise IT, or Other)
+3. A brief product summary
+4. Their market position (Enterprise, Mid-Market, SMB, Startup, or Unknown)
+5. Your confidence level based on evidence quality
+
+EVIDENCE PACK:
+{
+  "company_name": "OpenSIP.com, LLC",
+  "aliases": [
+    "OpenSIP.com LLC",
+    "OpenSIP.com, LLC"
+  ],
+  "fcc_filing": {
+    "first_filing_date": "2017-03-08",
+    "latest_filing_date": "2017-03-08",
+    "total_filings": 5,
+    "docket_numbers": [
+      "17-89"
+    ],
+    "proceeding_types": [
+      "INTERCONNECTED VOIP NUMBERING AUTHORIZATION APPLICATION FILED BY OPENSIP.COM, LLC PURSUANT TO SECTION 52.15(g)(3)"
+    ],
+    "has_supplements": false,
+    "recent_activity": false
+  },
+  "parsed_from_docs": {
+    "address": "3700 Santa Fe Ave., Suite 200",
+    "city": null,
+    "state": null,
+    "zip_code": null,
+    "phone": "8442505000",
+    "email": null,
+    "key_personnel": [
+      {
+        "name": "Mohamed Elbruki",
+        "title": "CEO"
+      }
+    ],
+    "founding_date": "2006",
+    "service_description": null
+  },
+  "web_search_results": [
+    {
+      "title": "OpenSIP Interconnected VoIP Numbering Authorization Application",
+      "url": "https://www.fcc.gov/document/opensip-interconnected-voip-numbering-authorization-application",
+      "snippet": "OpenSIP Interconnected VoIP Numbering Authorization Application. Full Title : Interconnected VoIP Numbering Authorization Application Filed By Opensip . Com , LLC Pursuant To Section 52.15(g)(3)."
+    },
+    {
+      "title": "VOIP Consultants - VoIP-Info",
+      "url": "https://www.voip-info.org/voip-consultants/",
+      "snippet": "Azuralis develops market leading telecommuncation software and services for telecom companies, service providers, organizations and companies."
+    },
+    {
+      "title": "Residential VOIP Service Providers in North America - VoIP-Info",
+      "url": "https://www.voip-info.org/residential-voip-service-providers-north-america/",
+      "snippet": "Inaani was founded in 2006, has been working as one of the leading VoIP service provider in the telecommunication industry and dealing with a web of ..."
+    },
+    {
+      "title": "Softswitch Development for VoIP Service Providers",
+      "url": "https://blog.vindaloosofttech.com/class-4-softswitch-development-for-voip-service-providers-worldwide/",
+      "snippet": "We, Vindaloo VoIP , are one of the best companies that offer the best class 4 softswitch development to the VoIP service providers worldwide."
+    },
+    {
+      "title": "OpenSIPs Development Benefits - Boost Your Communication",
+      "url": "https://blog.vindaloosofttech.com/opensips-development-benefits/",
+      "snippet": "This makes VoIP -based communication solutions made using OpenSIPs , have a competitive edge over speed, portability, scalability, flexibility, and the ..."
+    }
+  ]
+}
+
+RULES:
+- Ground ALL assessments in the provided evidence
+- Cite specific sources in activity_signal (e.g., "Recent FCC filing (2024)", "Company website found via search")
+- Use "Unknown" when evidence is insufficient - DO NOT hallucinate
+- Confidence levels:
+  - High = Multiple confirming signals (recent web presence + recent filings + company details)
+  - Medium = Some signals but incomplete picture
+  - Low = FCC data only, no external confirmation
+
+Call the enrichment_result function with your analysis.

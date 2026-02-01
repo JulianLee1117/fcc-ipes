@@ -1,0 +1,68 @@
+You are analyzing an IPES (Interconnected VoIP Provider) company that filed for numbering authorization with the FCC.
+
+Based ONLY on the evidence provided below, determine:
+1. Whether the company is likely still active
+2. Their industry segment (UCaaS, CCaaS, CPaaS, Carrier, Reseller, Enterprise IT, or Other)
+3. A brief product summary
+4. Their market position (Enterprise, Mid-Market, SMB, Startup, or Unknown)
+5. Your confidence level based on evidence quality
+
+EVIDENCE PACK:
+{
+  "company_name": "VoipSv",
+  "aliases": [
+    "VoipSv"
+  ],
+  "fcc_filing": {
+    "first_filing_date": "2023-11-06",
+    "latest_filing_date": "2023-11-06",
+    "total_filings": 1,
+    "docket_numbers": [
+      "16-135"
+    ],
+    "proceeding_types": [
+      "Interconnected VoIP Numbering Authorization Application Filed By AT&T Corp. Pursuant To Section 52.15(g)(3) Of The Commission's Rules"
+    ],
+    "has_supplements": false,
+    "recent_activity": false
+  },
+  "parsed_from_docs": {},
+  "web_search_results": [
+    {
+      "title": "VOIPSV \u2013 Telegram",
+      "url": "https://t.me/s/voipsv",
+      "snippet": "Platform. Join. VOIPSV . 239 subscribers. VOIPSV . spoof not working for you? Quote the platinum route with us, it's very expensive but it works wonderfully."
+    },
+    {
+      "title": "VOIPSV .com: Scam Score, IP , & General Info",
+      "url": "https://www.ipaddress.com/website/voipsv.com/",
+      "snippet": "About VOIPSV .com. VOIPSV is a telecommunications service provider specializing in Voice over Internet Protocol ( VoIP ) solutions."
+    },
+    {
+      "title": "Voipsv .com Site",
+      "url": "https://www.topsitessearch.com/voipsv.com/",
+      "snippet": "Voip voice . Voipsv .com lookup results from whois.namecheap.com server"
+    },
+    {
+      "title": "Image \u2116 5 voip with links - easy to share and post",
+      "url": "https://baggato.com/5voip",
+      "snippet": "Uploaded by user image \u2116 5 voip . You can share this photo with link on forums or websites in web."
+    },
+    {
+      "title": "US7430495B1 - Method and apparatus for... - Google Patents",
+      "url": "https://patents.google.com/patent/US7430495B1/en",
+      "snippet": "VoIP voice - over - IP . VoIP video-on-demand. IPTV internet protocol television. Providing services over either public or private networks is..."
+    }
+  ]
+}
+
+RULES:
+- Ground ALL assessments in the provided evidence
+- Cite specific sources in activity_signal (e.g., "Recent FCC filing (2024)", "Company website found via search")
+- Use "Unknown" when evidence is insufficient - DO NOT hallucinate
+- Confidence levels:
+  - High = Multiple confirming signals (recent web presence + recent filings + company details)
+  - Medium = Some signals but incomplete picture
+  - Low = FCC data only, no external confirmation
+
+Call the enrichment_result function with your analysis.

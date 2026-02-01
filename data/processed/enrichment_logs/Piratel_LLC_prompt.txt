@@ -1,0 +1,87 @@
+You are analyzing an IPES (Interconnected VoIP Provider) company that filed for numbering authorization with the FCC.
+
+Based ONLY on the evidence provided below, determine:
+1. Whether the company is likely still active
+2. Their industry segment (UCaaS, CCaaS, CPaaS, Carrier, Reseller, Enterprise IT, or Other)
+3. A brief product summary
+4. Their market position (Enterprise, Mid-Market, SMB, Startup, or Unknown)
+5. Your confidence level based on evidence quality
+
+EVIDENCE PACK:
+{
+  "company_name": "Piratel LLC",
+  "aliases": [
+    "Piratel LLC"
+  ],
+  "fcc_filing": {
+    "first_filing_date": "2020-01-14",
+    "latest_filing_date": "2020-01-14",
+    "total_filings": 3,
+    "docket_numbers": [
+      "20-23"
+    ],
+    "proceeding_types": [
+      "INTERCONNECTED VOIP NUMBERING AUTHORIZATION APPLICATION FILED  BY PIRATEL, LLC. PURSUANT TO SECTION 52.15(g)(3) OF THE COMMISSION'S RULES"
+    ],
+    "has_supplements": false,
+    "recent_activity": false
+  },
+  "parsed_from_docs": {
+    "address": "10572 Calle Lee, Suite 123",
+    "city": "Los",
+    "state": "CA",
+    "zip_code": "90720",
+    "phone": "5622573131",
+    "email": null,
+    "key_personnel": [
+      {
+        "name": "and Managing",
+        "title": "President"
+      },
+      {
+        "name": "Chief Technical Officer",
+        "title": "and\nManaging"
+      }
+    ],
+    "founding_date": null,
+    "service_description": "offering TN interconnected VoIP services\n\nCalifornia\n\n---\n\n\n\n---\n\nBefore t he\nFEDERAL COMMUNICATIONS COMMISSI ON\nWashington, D."
+  },
+  "web_search_results": [
+    {
+      "title": "Piratel , Wholesale VoIP",
+      "url": "https://www.piratel.com/index.php",
+      "snippet": "Choose Piratel for all your carrier requirements. We deal in high-capacity, high-volume call traffic. Customer service is the backbone of our business. VoIP . Toll Free. Call Centers."
+    },
+    {
+      "title": "Piratel LLC | LinkedIn",
+      "url": "https://www.linkedin.com/company/piratel-llc",
+      "snippet": "Piratel LLC . Telecommunications . Los Alamitos, Ca 54 followers.Piratel is a facilities based carrier specializing in call center and short duration products, high quality inbound toll-free services, NPAC certified LRN Dipping, SIP trunking, DID origination and customized routing."
+    },
+    {
+      "title": "Piratel Llc - 10572 Calle Lee, Los Alamitos, CA 90720, USA - Cybo",
+      "url": "https://et.cybo.com/US-biz/piratel-llc",
+      "snippet": "Piratel Llc Los Alamitos sihtnumber 90720. Vt selle ettev\u00f5tte 3 suhtlusv\u00f5rgustiku lehek\u00fclge, sh Facebook ja Google, Telefon, E-kiri, Veebisait jm. 3.0 Cybo Score. Piratel Llc ei tegutse valdkondades Ettev\u00f5tte juhtimine, Telekommunikatsioon. Cymbo \u00fclevaade."
+    },
+    {
+      "title": "Piratel Now Offering LRN Dipping Services",
+      "url": "https://www.prweb.com/releases/piratel_now_offering_lrn_dipping_services/prweb11049885.htm",
+      "snippet": "Piratel Llc .All voice service providers (including VoIP and TDM carriers) should make sure they have access to an LRN query (Local Routing Number) dipping service. LRN is a technique for providing LNP (Local Number Portability)."
+    },
+    {
+      "title": "Interconnected VoIP Numbering Authorization Application Filed",
+      "url": "https://www.fcc.gov/document/interconnected-voip-numbering-authorization-application-filed-25",
+      "snippet": "Interconnected VoIP Numbering Authorization Application Filed. Full Title: Interconnected VoIP Numbering Authorization Application Filed By Piratel , LLC Pursuant To Section 52.15(g)(3) Of The Commission's Rules."
+    }
+  ]
+}
+
+RULES:
+- Ground ALL assessments in the provided evidence
+- Cite specific sources in activity_signal (e.g., "Recent FCC filing (2024)", "Company website found via search")
+- Use "Unknown" when evidence is insufficient - DO NOT hallucinate
+- Confidence levels:
+  - High = Multiple confirming signals (recent web presence + recent filings + company details)
+  - Medium = Some signals but incomplete picture
+  - Low = FCC data only, no external confirmation
+
+Call the enrichment_result function with your analysis.

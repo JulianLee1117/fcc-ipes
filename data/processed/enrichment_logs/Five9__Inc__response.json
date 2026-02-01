@@ -1,0 +1,35 @@
+{
+  "id": "msg_01L9d7frvA2DsD5fhMAvxa6i",
+  "content": [
+    {
+      "id": "toolu_01G1wYCGnS9to1QzwhggsJgW",
+      "input": {
+        "is_active": true,
+        "activity_signal": "Multiple recent web search results from 2025-2026 showing active company operations (Tracxn profile from Jan 2026, PitchBook 2026 profile, GlobalData profile), LinkedIn company page active, and FCC Form 499 database listing showing current VoIP provider status. Company described as providing cloud contact center software with AI-powered solutions.",
+        "industry_segment": "CCaaS",
+        "product_summary": "Five9 provides cloud-native contact center software and AI-powered customer experience solutions, including IVR, analytics, workforce optimization, and omnichannel engagement capabilities delivered as a CCaaS platform.",
+        "market_position": "Enterprise",
+        "enrichment_confidence": "High"
+      },
+      "name": "enrichment_result",
+      "type": "tool_use"
+    }
+  ],
+  "model": "claude-sonnet-4-20250514",
+  "role": "assistant",
+  "stop_reason": "tool_use",
+  "stop_sequence": null,
+  "type": "message",
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0,
+    "input_tokens": 2763,
+    "output_tokens": 251,
+    "server_tool_use": null,
+    "service_tier": "standard"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "msg_01N7jpghmP1Aeff8WT6cVRB4",
+  "content": [
+    {
+      "id": "toolu_018bAd56sp7A9Cvu3rTTDsQX",
+      "input": {
+        "is_active": false,
+        "activity_signal": "No recent activity signals found. FCC filing was only from 2017 with no subsequent filings or supplements. NENA Company Search shows status as \"CANCELLED\" for Vision CTS LLC. LinkedIn profile exists but shows minimal activity (10 followers). No recent web presence or business activity indicators found in search results.",
+        "industry_segment": "UCaaS",
+        "product_summary": "Vision CTS provided interconnected VoIP services in Ohio, including dial tone services (VoIP/SIP trunk and PRI) and UCaaS hosted/cloud PBX voice services.",
+        "market_position": "SMB",
+        "enrichment_confidence": "Medium"
+      },
+      "name": "enrichment_result",
+      "type": "tool_use"
+    }
+  ],
+  "model": "claude-sonnet-4-20250514",
+  "role": "assistant",
+  "stop_reason": "tool_use",
+  "stop_sequence": null,
+  "type": "message",
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0,
+    "input_tokens": 1783,
+    "output_tokens": 239,
+    "server_tool_use": null,
+    "service_tier": "standard"
+  }
+}

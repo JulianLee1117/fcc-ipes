@@ -1,0 +1,99 @@
+You are analyzing an IPES (Interconnected VoIP Provider) company that filed for numbering authorization with the FCC.
+
+Based ONLY on the evidence provided below, determine:
+1. Whether the company is likely still active
+2. Their industry segment (UCaaS, CCaaS, CPaaS, Carrier, Reseller, Enterprise IT, or Other)
+3. A brief product summary
+4. Their market position (Enterprise, Mid-Market, SMB, Startup, or Unknown)
+5. Your confidence level based on evidence quality
+
+EVIDENCE PACK:
+{
+  "company_name": "Allan Noorda",
+  "aliases": [
+    "Allan Noorda"
+  ],
+  "fcc_filing": {
+    "first_filing_date": "2025-06-17",
+    "latest_filing_date": "2025-06-17",
+    "total_filings": 1,
+    "docket_numbers": [
+      "25-203"
+    ],
+    "proceeding_types": [
+      "Interconnected VoIP Numbering Authorization Application Filed By ActionVox, Inc. Pursuant To Section 52.15(g)(3) of the Commission's Rules"
+    ],
+    "has_supplements": false,
+    "recent_activity": true
+  },
+  "parsed_from_docs": {
+    "address": "304 S. Jones Rd. Suite 3708 Las Vegas, NV 89107",
+    "city": null,
+    "state": "10",
+    "zip_code": null,
+    "phone": "5412802588",
+    "email": "allan.noorda@action-vox.com",
+    "key_personnel": [
+      {
+        "name": "Allan Noorda",
+        "title": "CTO"
+      },
+      {
+        "name": "Chief Executive Officer",
+        "title": "of Fractel"
+      },
+      {
+        "name": "Joshua Keim",
+        "title": "CFO"
+      },
+      {
+        "name": "Contracts ActionVox",
+        "title": "President"
+      },
+      {
+        "name": "of Operations",
+        "title": "President"
+      }
+    ],
+    "founding_date": null,
+    "service_description": null
+  },
+  "web_search_results": [
+    {
+      "title": "Allan Noorda - Consultant @ Noorda Group LLC | President ... Allan Noorda Email & Phone Number | Vice President, Business ... FCC Form 499 Filer Database Detailed Information Allan Noorda Email & Phone Number | Talk4All LLC. President ... Allan Noorda Profiles in FL, NV, and OR - Bizapedia Allan Noorda's Email & Phone - Veriswitch - ContactOut Allan Noorda - Previous Manager for Intelegence Telecom, LLC",
+      "url": "https://www.linkedin.com/in/allannoorda",
+      "snippet": "Consultant @ Noorda Group LLC | President @ ActionVox | President @ Talk4All \u00b7 Work with suppliers and customers to foster and develop beneficial business relationships. Manage products and... Get the details of Allan Noorda ' s business profile including email address, phone number, work history and more. 499 Filer ID Number: 837011 Registration Current as of: 4/1/2024 Legal Name of Reporting Entity: VoIP BPO LLC Doing Business As: VoIP BPO Principal Communications Type: Interconnected VoIP Universal Service Fund Contributor: No (Contact USAC at 888-641-8722 if this is not correct.) Allan Noorda , based in Bend, OR, US, is currently a President at Talk4All LLC.. Allan Noorda brings experience from previous roles at ActionVox Inc.,, Noorda Group LLC, NWMAP and Ytel. Allan Noorda is associated with 7 companies in Bend OR, Eugene OR, Fort Myers FL, Ft. Myers FL, Las Vegas NV, and Portland OR Allan Noorda \u2019 s Personal Email Address, Business Email, and Phone Number are curated by ContactOut on this page. View Allan Noorda ' s profile for company associations, background information, and partnerships. Search our database of over 100 million company and executive profiles."
+    },
+    {
+      "title": "Allan Noorda Email & Phone Number | Vice President, Business ...",
+      "url": "https://www.zoominfo.com/p/Allan-Noorda/11292561238",
+      "snippet": "Get the details of Allan Noorda ' s business profile including email address, phone number, work history and more."
+    },
+    {
+      "title": "Allan Noorda Email & Phone Number | Talk4All LLC. President ...",
+      "url": "https://rocketreach.co/allan-noorda-email_53914873",
+      "snippet": "Allan Noorda , based in Bend, OR, US, is currently a President at Talk4All LLC.. Allan Noorda brings experience from previous roles at ActionVox Inc.,, Noorda Group LLC, NWMAP and Ytel."
+    },
+    {
+      "title": "Allan Noorda Profiles in FL, NV, and OR - Bizapedia",
+      "url": "https://www.bizapedia.com/people/allan-noorda.html",
+      "snippet": "Allan Noorda is associated with 7 companies in Bend OR, Eugene OR, Fort Myers FL, Ft. Myers FL, Las Vegas NV, and Portland OR"
+    },
+    {
+      "title": "Allan Noorda's Email & Phone - Veriswitch - ContactOut",
+      "url": "https://contactout.com/Allan-Noorda-15589118",
+      "snippet": "Allan Noorda \u2019 s Personal Email Address, Business Email, and Phone Number are curated by ContactOut on this page."
+    }
+  ]
+}
+
+RULES:
+- Ground ALL assessments in the provided evidence
+- Cite specific sources in activity_signal (e.g., "Recent FCC filing (2024)", "Company website found via search")
+- Use "Unknown" when evidence is insufficient - DO NOT hallucinate
+- Confidence levels:
+  - High = Multiple confirming signals (recent web presence + recent filings + company details)
+  - Medium = Some signals but incomplete picture
+  - Low = FCC data only, no external confirmation
+
+Call the enrichment_result function with your analysis.

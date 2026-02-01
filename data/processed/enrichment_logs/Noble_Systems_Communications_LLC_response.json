@@ -1,0 +1,35 @@
+{
+  "id": "msg_017XWmN9TWdtVwyrMKTcptAh",
+  "content": [
+    {
+      "id": "toolu_01UZvJG3VAukgdb6caYTUnPX",
+      "input": {
+        "is_active": false,
+        "activity_signal": "FCC filing from 2020-05-28 with no recent activity since then. Patent records show Noble Systems Corporation assigned patents to Wells Fargo Capital Finance LLC in 2015, suggesting potential financial distress or acquisition. Web search yielded no current company website or recent business activity - only historical patent assignments and unrelated telecom industry mentions.",
+        "industry_segment": "CCaaS",
+        "product_summary": "Noble Systems appears to have been a call center technology company based on patent records for \"call processing\" and \"learning management system for call center agents\" systems.",
+        "market_position": "Unknown",
+        "enrichment_confidence": "Low"
+      },
+      "name": "enrichment_result",
+      "type": "tool_use"
+    }
+  ],
+  "model": "claude-sonnet-4-20250514",
+  "role": "assistant",
+  "stop_reason": "tool_use",
+  "stop_sequence": null,
+  "type": "message",
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0,
+    "input_tokens": 1822,
+    "output_tokens": 234,
+    "server_tool_use": null,
+    "service_tier": "standard"
+  }
+}

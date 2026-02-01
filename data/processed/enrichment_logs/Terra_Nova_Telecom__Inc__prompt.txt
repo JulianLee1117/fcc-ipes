@@ -1,0 +1,83 @@
+You are analyzing an IPES (Interconnected VoIP Provider) company that filed for numbering authorization with the FCC.
+
+Based ONLY on the evidence provided below, determine:
+1. Whether the company is likely still active
+2. Their industry segment (UCaaS, CCaaS, CPaaS, Carrier, Reseller, Enterprise IT, or Other)
+3. A brief product summary
+4. Their market position (Enterprise, Mid-Market, SMB, Startup, or Unknown)
+5. Your confidence level based on evidence quality
+
+EVIDENCE PACK:
+{
+  "company_name": "Terra Nova Telecom, Inc.",
+  "aliases": [
+    "Terra Nova Telecom, Inc",
+    "Terra Nova Telecom, Inc."
+  ],
+  "fcc_filing": {
+    "first_filing_date": "2018-03-19",
+    "latest_filing_date": "2018-03-19",
+    "total_filings": 2,
+    "docket_numbers": [
+      "13-97",
+      "17-97",
+      "18-124"
+    ],
+    "proceeding_types": [
+      "Call Authentication Trust Anchor",
+      "INTERCONNECTED VOIP NUMBERING AUTHORIZATION APPLICATION FILED BY TERRA NOVA TELECOM, INC PURSUANT TO SECTION 52.15(g)(3) OF THE COMMISSION&#146;S RULES",
+      "Numbering Policies for Modern Communications"
+    ],
+    "has_supplements": false,
+    "recent_activity": false
+  },
+  "parsed_from_docs": {
+    "address": "City/State/Zip Code/Telephone Number (s)]: (General Order No. R-31891, dated March 11, 2014, Section",
+    "city": "Click",
+    "state": "CL",
+    "zip_code": null,
+    "phone": null,
+    "email": null,
+    "key_personnel": [],
+    "founding_date": null,
+    "service_description": "Provider (\u201cCAP\u201d), a Competitive\nLocal Exchange Carrier (\u201cCLEC\u201d), and an Interconnected VoIP operator (\u201cI-VoIP\u201d)."
+  },
+  "web_search_results": [
+    {
+      "title": "2024 Informational Filings",
+      "url": "https://puc.sd.gov/Dockets/Telecom/2024/Informational/default.aspx",
+      "snippet": "2024 Info TC19 - Midstate Telecom Inc .'s FCC Form 555 - Annual Lifeline Eligible Telecommunications Carrier Certification Form (SA 399011) Date ..."
+    },
+    {
+      "title": "863 Area Code - Map, Phone Lookup, Time Zone | Wirefly",
+      "url": "https://www.wirefly.com/area-codes/863",
+      "snippet": "Find 863 area code details including city, time zone, and map. Lookup area code 863 phone number, name, and location."
+    },
+    {
+      "title": "Clifton Mcknuckles Found - Phone Numbers, Addresses &",
+      "url": "https://www.zabasearch.com/people/clifton-mcknuckles/",
+      "snippet": "NOTICE: ZabaSearch powered by Intelius offers free people search and reverse phone number lookup directory tools that include, when available, basic ..."
+    },
+    {
+      "title": "Monica Wilks Found - Phone Numbers, Addresses & Possible",
+      "url": "https://www.zabasearch.com/people/monica+wilks/",
+      "snippet": "Discover contact details for Monica Wilks including phone numbers, addresses, and potential relatives, on Zabasearch. Find the information you need ..."
+    },
+    {
+      "title": "Bill Pewitt Found - Phone Numbers, Addresses & Possible",
+      "url": "https://www.ussearch.com/people-search/bill-pewitt/",
+      "snippet": "Bill has been found in 11 states including Alabama, Arizona, California, Florida and Indiana. ... The information below may also include images ..."
+    }
+  ]
+}
+
+RULES:
+- Ground ALL assessments in the provided evidence
+- Cite specific sources in activity_signal (e.g., "Recent FCC filing (2024)", "Company website found via search")
+- Use "Unknown" when evidence is insufficient - DO NOT hallucinate
+- Confidence levels:
+  - High = Multiple confirming signals (recent web presence + recent filings + company details)
+  - Medium = Some signals but incomplete picture
+  - Low = FCC data only, no external confirmation
+
+Call the enrichment_result function with your analysis.

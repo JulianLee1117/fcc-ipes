@@ -1,0 +1,87 @@
+You are analyzing an IPES (Interconnected VoIP Provider) company that filed for numbering authorization with the FCC.
+
+Based ONLY on the evidence provided below, determine:
+1. Whether the company is likely still active
+2. Their industry segment (UCaaS, CCaaS, CPaaS, Carrier, Reseller, Enterprise IT, or Other)
+3. A brief product summary
+4. Their market position (Enterprise, Mid-Market, SMB, Startup, or Unknown)
+5. Your confidence level based on evidence quality
+
+EVIDENCE PACK:
+{
+  "company_name": "Jive Communications, Inc.",
+  "aliases": [
+    "Jive Communications, Inc."
+  ],
+  "fcc_filing": {
+    "first_filing_date": "2019-05-23",
+    "latest_filing_date": "2019-05-23",
+    "total_filings": 3,
+    "docket_numbers": [
+      "19-154"
+    ],
+    "proceeding_types": [
+      "Interconnected VoIP Numbering Authorization Application Filed  by Jive Communication, Inc Pursuant to Section 52.15(g)(3) of The Commission's Rules"
+    ],
+    "has_supplements": true,
+    "recent_activity": false
+  },
+  "parsed_from_docs": {
+    "address": "2750 W 600 North",
+    "city": null,
+    "state": null,
+    "zip_code": null,
+    "phone": "7818501583",
+    "email": "val.ilchenko@logmein.com",
+    "key_personnel": [
+      {
+        "name": "John Pope",
+        "title": "President"
+      },
+      {
+        "name": "Michael Sharp",
+        "title": "President"
+      }
+    ],
+    "founding_date": null,
+    "service_description": "provider currently offering interconnected VoIP service to\nend user customers."
+  },
+  "web_search_results": [
+    {
+      "title": "Jive's Virtual Phone Solution is Now Officially GoTo Connect",
+      "url": "https://www.goto.com/blog/jive-is-now-officially-gotoconnect",
+      "snippet": "Jun 16, 2020 \u00b7 GoTo Connect users can seamlessly switch between different modes of communication in one easy-to-manage and intuitive app, from VoIP calling and meeting to chatting, texting and more."
+    },
+    {
+      "title": "Jive Communications, Inc. - EverybodyWiki Bios & Wiki",
+      "url": "https://en.everybodywiki.com/Jive_Communications",
+      "snippet": "Jive Communications , Inc . is a cloud-based hosted VoIP unified communications company that provides enterprise-grade hosted VoIP and Unified Communications to businesses and institutions in the United States and Canada. Jive Communications was founded in Orem, UT in 2006."
+    },
+    {
+      "title": "Jive Communications - Crunchbase Company Profile & Funding",
+      "url": "https://www.crunchbase.com/organization/jive-communications",
+      "snippet": "Jive Communications provides enterprise-grade Hosted VoIP and Unified Communications services to businesses and organizations worldwide."
+    },
+    {
+      "title": "Jive Communications - 2025 Company Profile & Team - Tracxn Jive Communications, Inc Information - RocketReach Jive Communications - Products, Competitors, Financials ... Jive Phone Pricing & Reviews: Rated for 2022 | TheVoIPHub Jive Phone Pricing & Reviews: Rated for 2022 | TheVoIPHub Jive Phone Pricing & Reviews: Rated for 2022 | TheVoIPHub Jive Hosted VoIP Review | PCMag Jive Communications Review and Customer Ratings, Reviews",
+      "url": "https://tracxn.com/d/companies/jive-communications/__ajuheh3BwvYv8mfhCPxi9GbfnzBJSx9f44wDx_HBRfU",
+      "snippet": "Sep 11, 2025 \u00b7 Allows users to customize dial plans, create conferences, record calls and listen to voicemail via email. Additional features include free call recording, virtual fax, call analytics and queues. Acquired hosted VoIP vendors Vocalnet and Comvoice. Jive Communications , Inc is a Telecommunications , VoIP , and Telephony & Wireless company located in Lindon, Utah with $134 million in revenue and 288 employees. Jive Communications provides enterprise-grade Hosted VoIP and Unified Communications to businesses and institutions. Jive is rapidly becoming the standard for business communications worldwide. Jive's hosted services run on Jive Cloud, its service delivery platform based on open standards. What is Jive Communications? Jive Communications is a company founded in 2006 by six software entrepreneurs who were frustrated with the expensive and complicated phone systems businesses were using at the time. They focused on building their own hosted VoIP solution, similar to Nextiva. What is Jive phone system? Jive is a cloud-based VoIP (Voice over Internet Protocol) service that functions as a virtual phone system suite for businesses. It can help improve communication efforts and meet the demands of today\u2019s business environment. Jive communications was founded in 2006. What is Jive VoIP and how does it work? Jive VoIP is a cloud-based service offered by Jive that simplifies how businesses handle phone and conferencing setup . Founded in 2006, Jive Communications was created by six software entrepreneurs who were frustrated with the expensive and complicated phone systems in use at the time. How much does Jive hosted VoIP cost? Jive Hosted VoIP has several product offerings when it comes to pricing. Jive Voice, which includes all primary calling and VoIP features, starts at $19.95 per user per month . This compares with RingCentral's price of $24.99 per user per month for its entry level Standard plan. Jul 27, 2024 \u00b7 Review of Jive Communications ' virtual phone system with ratings submitted by users of the service. Discover if this is the VoIP provider you should use."
+    },
+    {
+      "title": "Jive Communications, Inc Information - RocketReach Jive Communications - Products, Competitors, Financials ... Jive Phone Pricing & Reviews: Rated for 2022 | TheVoIPHub Jive Phone Pricing & Reviews: Rated for 2022 | TheVoIPHub Jive Phone Pricing & Reviews: Rated for 2022 | TheVoIPHub Jive Hosted VoIP Review | PCMag Jive Communications Review and Customer Ratings, Reviews",
+      "url": "https://rocketreach.co/jive-communications-inc-profile_b5c71d60f42e0d24",
+      "snippet": "Jive Communications , Inc is a Telecommunications , VoIP , and Telephony & Wireless company located in Lindon, Utah with $134 million in revenue and 288 employees. Jive Communications provides enterprise-grade Hosted VoIP and Unified Communications to businesses and institutions. Jive is rapidly becoming the standard for business communications worldwide. Jive's hosted services run on Jive Cloud, its service delivery platform based on open standards. What is Jive Communications? Jive Communications is a company founded in 2006 by six software entrepreneurs who were frustrated with the expensive and complicated phone systems businesses were using at the time. They focused on building their own hosted VoIP solution, similar to Nextiva. What is Jive phone system? Jive is a cloud-based VoIP (Voice over Internet Protocol) service that functions as a virtual phone system suite for businesses. It can help improve communication efforts and meet the demands of today\u2019s business environment. Jive communications was founded in 2006. What is Jive VoIP and how does it work? Jive VoIP is a cloud-based service offered by Jive that simplifies how businesses handle phone and conferencing setup . Founded in 2006, Jive Communications was created by six software entrepreneurs who were frustrated with the expensive and complicated phone systems in use at the time. How much does Jive hosted VoIP cost? Jive Hosted VoIP has several product offerings when it comes to pricing. Jive Voice, which includes all primary calling and VoIP features, starts at $19.95 per user per month . This compares with RingCentral's price of $24.99 per user per month for its entry level Standard plan. Jul 27, 2024 \u00b7 Review of Jive Communications ' virtual phone system with ratings submitted by users of the service. Discover if this is the VoIP provider you should use."
+    }
+  ]
+}
+
+RULES:
+- Ground ALL assessments in the provided evidence
+- Cite specific sources in activity_signal (e.g., "Recent FCC filing (2024)", "Company website found via search")
+- Use "Unknown" when evidence is insufficient - DO NOT hallucinate
+- Confidence levels:
+  - High = Multiple confirming signals (recent web presence + recent filings + company details)
+  - Medium = Some signals but incomplete picture
+  - Low = FCC data only, no external confirmation
+
+Call the enrichment_result function with your analysis.

@@ -1,0 +1,78 @@
+You are analyzing an IPES (Interconnected VoIP Provider) company that filed for numbering authorization with the FCC.
+
+Based ONLY on the evidence provided below, determine:
+1. Whether the company is likely still active
+2. Their industry segment (UCaaS, CCaaS, CPaaS, Carrier, Reseller, Enterprise IT, or Other)
+3. A brief product summary
+4. Their market position (Enterprise, Mid-Market, SMB, Startup, or Unknown)
+5. Your confidence level based on evidence quality
+
+EVIDENCE PACK:
+{
+  "company_name": "Ton80 Communications, LLC",
+  "aliases": [
+    "Ton80 Communications, LLC"
+  ],
+  "fcc_filing": {
+    "first_filing_date": "2019-08-27",
+    "latest_filing_date": "2019-08-27",
+    "total_filings": 1,
+    "docket_numbers": [
+      "19-278"
+    ],
+    "proceeding_types": [
+      "INTERCONNECTED VOIP NUMBERING AUTHORIZATION APPLICATION FILED BY TON80 COMMUNICATIONS, LLC PURSUANT TO SECTION 52.15(g)(3) OF THE COMMISSION'S RULES"
+    ],
+    "has_supplements": false,
+    "recent_activity": false
+  },
+  "parsed_from_docs": {
+    "address": "213 South Main Street",
+    "city": "Anderson",
+    "state": "SO",
+    "zip_code": "29642",
+    "phone": "8642253212",
+    "email": null,
+    "key_personnel": [],
+    "founding_date": null,
+    "service_description": "provide interconnected VoiP services initially\nin the states oflllinois, Nevada and Texas."
+  },
+  "web_search_results": [
+    {
+      "title": "Ton 80 Communications LLC , 213 S Main St, Anderson... - MapQuest",
+      "url": "https://www.mapquest.com/us/south-carolina/ton-80-communications-llc-427537588",
+      "snippet": "Get more information for Ton 80 Communications LLC in Anderson, SC. See reviews, map, get the address, and find directions."
+    },
+    {
+      "title": "Ton 80 Communications LLC , 2214 Old Emmorton Rd... - MapQuest",
+      "url": "https://www.mapquest.com/us/maryland/ton80-communications-llc-430644738",
+      "snippet": "Get more information for Ton 80 Communications LLC in Bel Air, MD. See reviews, map, get the address, and find directions."
+    },
+    {
+      "title": "Ton 80 Communications , LLC - 6954233 - Pensilv\u0101nija",
+      "url": "https://b2bhint.com/lv/company/us-pa/ton80-communications-llc--6954233",
+      "snippet": "Ton 80 Communications , LLC undefined uz\u0146\u0113mums, Uz\u0146\u0113muma numurs: 6954233, Dibin\u0101\u0161anas datums 27 Eyl 2019;, Adrese: CT Corporation System.Kopsavilkums. NosaukumsTon 80 Communications , LLC . Statuss. Active."
+    },
+    {
+      "title": "Area Code 551 - Call Explore",
+      "url": "https://www.callexplore.com/551/3",
+      "snippet": "Ton 80 Communications , Llc .551-998. Jersey City, NJ. Omnipoint Communications, Inc. - Nj."
+    },
+    {
+      "title": "769 Area Code - Location, Map, Current Time, Prefixes",
+      "url": "https://areacodes.net/769",
+      "snippet": "Unknown. Taylorsville. Ton 80 Communications , LLC ."
+    }
+  ]
+}
+
+RULES:
+- Ground ALL assessments in the provided evidence
+- Cite specific sources in activity_signal (e.g., "Recent FCC filing (2024)", "Company website found via search")
+- Use "Unknown" when evidence is insufficient - DO NOT hallucinate
+- Confidence levels:
+  - High = Multiple confirming signals (recent web presence + recent filings + company details)
+  - Medium = Some signals but incomplete picture
+  - Low = FCC data only, no external confirmation
+
+Call the enrichment_result function with your analysis.

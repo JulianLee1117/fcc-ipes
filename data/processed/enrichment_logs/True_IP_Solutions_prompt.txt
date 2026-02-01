@@ -1,0 +1,78 @@
+You are analyzing an IPES (Interconnected VoIP Provider) company that filed for numbering authorization with the FCC.
+
+Based ONLY on the evidence provided below, determine:
+1. Whether the company is likely still active
+2. Their industry segment (UCaaS, CCaaS, CPaaS, Carrier, Reseller, Enterprise IT, or Other)
+3. A brief product summary
+4. Their market position (Enterprise, Mid-Market, SMB, Startup, or Unknown)
+5. Your confidence level based on evidence quality
+
+EVIDENCE PACK:
+{
+  "company_name": "True IP Solutions",
+  "aliases": [
+    "True IP Solutions"
+  ],
+  "fcc_filing": {
+    "first_filing_date": "2021-03-18",
+    "latest_filing_date": "2021-03-18",
+    "total_filings": 1,
+    "docket_numbers": [
+      "21-105"
+    ],
+    "proceeding_types": [
+      "Interconnected VoIP Numbering Authorization Application Filed By True IP Solutions, LLC Pursuant To Section 52.15(g)(3) Of The Commission's Rules"
+    ],
+    "has_supplements": false,
+    "recent_activity": false
+  },
+  "parsed_from_docs": {
+    "address": null,
+    "city": null,
+    "state": null,
+    "zip_code": null,
+    "phone": null,
+    "email": null,
+    "key_personnel": [],
+    "founding_date": null,
+    "service_description": null
+  },
+  "web_search_results": [
+    {
+      "title": "The Complete Guide to Modern Business Communications - True IP",
+      "url": "https://trueipsolutions.com/the-complete-guide-to-modern-business-communications/",
+      "snippet": "... VoIP , Security, and Unified Solutions ... With hosted VoIP solutions , you don \u2019 t have to deal with all the infrastructure and other pieces."
+    },
+    {
+      "title": "Hosted PBX - True IP Solutions",
+      "url": "https://trueipsolutions.com/hosted-pbx/",
+      "snippet": "While Voice over IP ( VoIP ) technology has been around since the 90\u2019s, adoption of the technology by businesses has only begun to ramp up relatively ..."
+    },
+    {
+      "title": "Terms Of Service - True IP Solutions",
+      "url": "https://trueipsolutions.com/terms-of-service/",
+      "snippet": "TRUE IP SOLUTIONS TERMS OF SERVICE (REV. ... These Terms of Service constitute the agreement (\u2018Agreement\u2019) between True IP Solutions ."
+    },
+    {
+      "title": "Privacy Policy - True IP Solutions",
+      "url": "https://trueipsolutions.com/privacy-policy/",
+      "snippet": "True IP Solutions is dedicated to the use of Voice over Internet Protocol ( VoIP ) and related technologies to improve the telecommunications industry ..."
+    },
+    {
+      "title": "TIPS Privacy Policy \u2013 True IP Solutions",
+      "url": "https://trueipsolutions.com/TIPS_Privacy_Policy.html",
+      "snippet": "True IP Solutions is dedicated to the use of Voice over Internet Protocol ( VoIP ) and related technologies to improve the telecommunications industry ..."
+    }
+  ]
+}
+
+RULES:
+- Ground ALL assessments in the provided evidence
+- Cite specific sources in activity_signal (e.g., "Recent FCC filing (2024)", "Company website found via search")
+- Use "Unknown" when evidence is insufficient - DO NOT hallucinate
+- Confidence levels:
+  - High = Multiple confirming signals (recent web presence + recent filings + company details)
+  - Medium = Some signals but incomplete picture
+  - Low = FCC data only, no external confirmation
+
+Call the enrichment_result function with your analysis.

@@ -1,0 +1,35 @@
+{
+  "id": "msg_01AT4hij5bCgBvPRGHwnSoWb",
+  "content": [
+    {
+      "id": "toolu_017usm5dd5anvSagFmYc9RFk",
+      "input": {
+        "is_active": false,
+        "activity_signal": "Single FCC filing from 2021-03-16 with no recent activity. LinkedIn profiles show Bart Mueller working as Director VoIP Operations at SinglePoint Global and later as Senior Director at another company, suggesting this was likely an individual filing rather than an active business entity. No company website or business presence found in web search results.",
+        "industry_segment": "Unknown",
+        "product_summary": "Individual VoIP numbering authorization filing with no clear business entity or product offering identified.",
+        "market_position": "Unknown",
+        "enrichment_confidence": "Low"
+      },
+      "name": "enrichment_result",
+      "type": "tool_use"
+    }
+  ],
+  "model": "claude-sonnet-4-20250514",
+  "role": "assistant",
+  "stop_reason": "tool_use",
+  "stop_sequence": null,
+  "type": "message",
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0,
+    "input_tokens": 1893,
+    "output_tokens": 215,
+    "server_tool_use": null,
+    "service_tier": "standard"
+  }
+}

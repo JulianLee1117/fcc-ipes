@@ -1,0 +1,35 @@
+{
+  "id": "msg_01UXPj5HYmbbyrwU7tb7c2DJ",
+  "content": [
+    {
+      "id": "toolu_01KxuhMgJuefttNudSvnztqr",
+      "input": {
+        "is_active": false,
+        "activity_signal": "No recent activity signals found. FCC filings from 2017 only (first filing 2017-08-10, latest 2017-07-12) with no recent filings indicated. Web search results show no direct matches for TeleSmart Inc - only generic telecom industry references and unrelated companies. Email domain (bandwidth.com) suggests possible acquisition or service provider relationship rather than independent operation.",
+        "industry_segment": "Carrier",
+        "product_summary": "Applied for interconnected VoIP numbering authorization with the FCC in 2017, indicating telecommunications carrier services, though specific service details are not available in the evidence.",
+        "market_position": "Unknown",
+        "enrichment_confidence": "Low"
+      },
+      "name": "enrichment_result",
+      "type": "tool_use"
+    }
+  ],
+  "model": "claude-sonnet-4-20250514",
+  "role": "assistant",
+  "stop_reason": "tool_use",
+  "stop_sequence": null,
+  "type": "message",
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0,
+    "input_tokens": 1658,
+    "output_tokens": 250,
+    "server_tool_use": null,
+    "service_tier": "standard"
+  }
+}

@@ -1,0 +1,78 @@
+You are analyzing an IPES (Interconnected VoIP Provider) company that filed for numbering authorization with the FCC.
+
+Based ONLY on the evidence provided below, determine:
+1. Whether the company is likely still active
+2. Their industry segment (UCaaS, CCaaS, CPaaS, Carrier, Reseller, Enterprise IT, or Other)
+3. A brief product summary
+4. Their market position (Enterprise, Mid-Market, SMB, Startup, or Unknown)
+5. Your confidence level based on evidence quality
+
+EVIDENCE PACK:
+{
+  "company_name": "Alaska Communications Internet, LLC",
+  "aliases": [
+    "Alaska Communications Internet, LLC"
+  ],
+  "fcc_filing": {
+    "first_filing_date": "2017-12-07",
+    "latest_filing_date": "2017-12-07",
+    "total_filings": 2,
+    "docket_numbers": [
+      "19-117"
+    ],
+    "proceeding_types": [
+      "INTERCONNECTED VOIP NUMBERING AUTHORIZATION APPLICATION FILED  BY ALASKA COMMUNICATIONS INTERNET, LLC. PURSUANT TO SECTION 52.15(g)(3)  OF THE COMMISSION'S RULES"
+    ],
+    "has_supplements": false,
+    "recent_activity": false
+  },
+  "parsed_from_docs": {
+    "address": null,
+    "city": null,
+    "state": null,
+    "zip_code": null,
+    "phone": null,
+    "email": null,
+    "key_personnel": [],
+    "founding_date": null,
+    "service_description": "offers i-VoIP services by accessing the facilities of its\ncorporate affiliates serving the Anchorage rate center under the terms of an intra-corporate\ninterconnection agreement."
+  },
+  "web_search_results": [
+    {
+      "title": "Interconnected VoIP Numbering Authorization Application Filed",
+      "url": "https://www.fcc.gov/document/interconnected-voip-numbering-authorization-application-filed-13",
+      "snippet": "Federal Communications Commission logo. Browse by. category."
+    },
+    {
+      "title": "Alaska Communications Internet , LLC \u2013 748 Gaffney Rd - Cybo",
+      "url": "https://xn--telefonknyga-quc.cybo.com/US-biz/alaska-communications-internet-llc",
+      "snippet": "Alaska Communications Internet , LLC , Fairbanks, pa\u0161to kodas 99701. Alaska Communications Internet , LLC dirba \u0161iose srityse: Informacini\u0173 paslaug\u0173 veikla. Galite susisiekti su \u012fmone telefono numeriu (907) 455-4638."
+    },
+    {
+      "title": "Alaska communications internet , LLC - 603105477...",
+      "url": "https://b2bhint.com/lt/company/us-wa/alaska-communications-internet-llc--603105477",
+      "snippet": "ALASKA COMMUNICATIONS INTERNET , LLC buvo \u012fkurta 2011."
+    },
+    {
+      "title": "Public Notice of Decision to Issue... - Alaska Mental Health Trust",
+      "url": "https://alaskamentalhealthtrust.org/news/public-notice-of-decision-to-issue-a-ground-lease-ester-dome-acs-rural-internet-project-mht-9400732/",
+      "snippet": "ACS Rural Internet Project.If you have any questions concerning this action, please contact the Trust Land Office at (907) 269-8658. In compliance with the Americans with Disabilities Act, the Alaska Mental Health Trust is prepared to accommodate individuals with disabilities."
+    },
+    {
+      "title": "FCC Registered Cell Phone and Antenna Towers in Sterling, Alaska",
+      "url": "https://www.city-data.com/towers/cell-Sterling-Alaska.html",
+      "snippet": "Alissa Haynes, Corner Of Helmsman Ave And Cork Line Drive (Lat: 60.509139 , Lon: -151.273194), Type: 47.2, Structure height: 02122 m, Overall height: 47.2 m, Registrant: Alaska Communications Internet , LLC , Alissa.Haynes@acsalaska.Com, Ms #60, Ancho-rage, Phone: (907)..."
+    }
+  ]
+}
+
+RULES:
+- Ground ALL assessments in the provided evidence
+- Cite specific sources in activity_signal (e.g., "Recent FCC filing (2024)", "Company website found via search")
+- Use "Unknown" when evidence is insufficient - DO NOT hallucinate
+- Confidence levels:
+  - High = Multiple confirming signals (recent web presence + recent filings + company details)
+  - Medium = Some signals but incomplete picture
+  - Low = FCC data only, no external confirmation
+
+Call the enrichment_result function with your analysis.

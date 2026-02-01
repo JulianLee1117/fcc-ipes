@@ -1,0 +1,35 @@
+{
+  "id": "msg_01QRtF6XMCjozgCgoZv7uAtT",
+  "content": [
+    {
+      "id": "toolu_01TirAmRMyHgvVS1etz8ic2M",
+      "input": {
+        "is_active": false,
+        "activity_signal": "Single FCC filing from March 29, 2021 with no recent activity. Web search results returned only generic Wikipedia and patent pages unrelated to the company, with no company website or business presence found. No evidence of current operations or recent business activity.",
+        "industry_segment": "Carrier",
+        "product_summary": "Applied for interconnected VoIP numbering authorization as a division of NG Telecom, suggesting telecommunications carrier services, though specific service details are unknown.",
+        "market_position": "Unknown",
+        "enrichment_confidence": "Low"
+      },
+      "name": "enrichment_result",
+      "type": "tool_use"
+    }
+  ],
+  "model": "claude-sonnet-4-20250514",
+  "role": "assistant",
+  "stop_reason": "tool_use",
+  "stop_sequence": null,
+  "type": "message",
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0,
+    "input_tokens": 1531,
+    "output_tokens": 213,
+    "server_tool_use": null,
+    "service_tier": "standard"
+  }
+}

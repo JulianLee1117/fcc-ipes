@@ -1,0 +1,95 @@
+You are analyzing an IPES (Interconnected VoIP Provider) company that filed for numbering authorization with the FCC.
+
+Based ONLY on the evidence provided below, determine:
+1. Whether the company is likely still active
+2. Their industry segment (UCaaS, CCaaS, CPaaS, Carrier, Reseller, Enterprise IT, or Other)
+3. A brief product summary
+4. Their market position (Enterprise, Mid-Market, SMB, Startup, or Unknown)
+5. Your confidence level based on evidence quality
+
+EVIDENCE PACK:
+{
+  "company_name": "Vision CTS, LLC",
+  "aliases": [
+    "Vision CTS, LLC"
+  ],
+  "fcc_filing": {
+    "first_filing_date": "2017-10-18",
+    "latest_filing_date": "2017-10-18",
+    "total_filings": 4,
+    "docket_numbers": [
+      "17-288"
+    ],
+    "proceeding_types": [
+      "INTERCONNECTED VOIP NUMBERING AUTHORIZATION APPLICATION FILED BY VISION CTS, LLC PURSUANT TO SECTION 52.15(g)(3) OF THE COMMISSION&#146;S RULES"
+    ],
+    "has_supplements": false,
+    "recent_activity": false
+  },
+  "parsed_from_docs": {
+    "address": null,
+    "city": null,
+    "state": null,
+    "zip_code": null,
+    "phone": null,
+    "email": null,
+    "key_personnel": [
+      {
+        "name": "of Chamber",
+        "title": "President"
+      },
+      {
+        "name": "of Chamber",
+        "title": "President"
+      },
+      {
+        "name": "of his\ncommunity",
+        "title": "President"
+      },
+      {
+        "name": "of his\ncommunity",
+        "title": "President"
+      }
+    ],
+    "founding_date": "2015",
+    "service_description": "provide interconnected VoIP services in the State of Ohio."
+  },
+  "web_search_results": [
+    {
+      "title": "Vision CTS , LLC | LinkedIn",
+      "url": "https://www.linkedin.com/company/visioncts",
+      "snippet": "Vision CTS , LLC . Utilities. Sunbury, Ohio 10 followers. Voice services include dial tone ( VoIP /SIP trunk and PRI) and UCaaS (hosted/cloud PBX) for voice services."
+    },
+    {
+      "title": "NENA Company Search",
+      "url": "https://cid.nena.org/index.php?&page=107&page=106",
+      "snippet": "VSNT. Vision Net Inc. - CANCELLED. VoIP Reseller. Vision CTS LLC . CLEC Facility CLEC Reseller CLEC UNE VoIP Provider. A."
+    },
+    {
+      "title": "CSPs | Campaign Registry",
+      "url": "https://www.campaignregistry.com/participating-companies/csps/",
+      "snippet": "1 Voice Tech LLC . 1Wire Fiber. 214 Enterprise Communications LLC . 24Seven Receptionists, LLC . 2600Hz, Inc.Total Security Vision . Total.Care Holdings, LLC . TotalBC, Inc."
+    },
+    {
+      "title": "Location Data Sheet 2.20.2024 v (OBD 12.2024) Below 25/3 Mbps...",
+      "url": "https://mn.gov/deed/assets/location-data-sheet-template_tcm1045-613333.xlsx",
+      "snippet": "Vision Voice and Data Systems LLC . 490062. Vision Wifi Inc. 300171. Visionary Communications, Inc."
+    },
+    {
+      "title": "Prefix 380-215 - Call Explore",
+      "url": "https://www.callexplore.com/380-215",
+      "snippet": "The telco provider for 380-215 is Vision Cts , Llc . Choose a phone number from the list below to browse user reports for 380-215."
+    }
+  ]
+}
+
+RULES:
+- Ground ALL assessments in the provided evidence
+- Cite specific sources in activity_signal (e.g., "Recent FCC filing (2024)", "Company website found via search")
+- Use "Unknown" when evidence is insufficient - DO NOT hallucinate
+- Confidence levels:
+  - High = Multiple confirming signals (recent web presence + recent filings + company details)
+  - Medium = Some signals but incomplete picture
+  - Low = FCC data only, no external confirmation
+
+Call the enrichment_result function with your analysis.

@@ -1,0 +1,78 @@
+You are analyzing an IPES (Interconnected VoIP Provider) company that filed for numbering authorization with the FCC.
+
+Based ONLY on the evidence provided below, determine:
+1. Whether the company is likely still active
+2. Their industry segment (UCaaS, CCaaS, CPaaS, Carrier, Reseller, Enterprise IT, or Other)
+3. A brief product summary
+4. Their market position (Enterprise, Mid-Market, SMB, Startup, or Unknown)
+5. Your confidence level based on evidence quality
+
+EVIDENCE PACK:
+{
+  "company_name": "Number Access, LLC",
+  "aliases": [
+    "Number Access, LLC"
+  ],
+  "fcc_filing": {
+    "first_filing_date": "2018-03-05",
+    "latest_filing_date": "2018-03-05",
+    "total_filings": 1,
+    "docket_numbers": [
+      "18-137"
+    ],
+    "proceeding_types": [
+      "INTERCONNECTED VOIP NUMBERING AUTHORIZATION APPLICATION FILED BY NUMBER ACCESS, LLC PURSUANT TO SECTION 52.15(g)(3) OF THE COMMISSION&#146;S RULES"
+    ],
+    "has_supplements": false,
+    "recent_activity": false
+  },
+  "parsed_from_docs": {
+    "address": "2701 Devils Glen Road, Suite 200",
+    "city": "Bettendorf",
+    "state": "IA",
+    "zip_code": "52722",
+    "phone": "2022043005",
+    "email": null,
+    "key_personnel": [],
+    "founding_date": null,
+    "service_description": "providers to compromise\nNumber Access\u2019s position in the highly competitive interconnected VoIP sector."
+  },
+  "web_search_results": [
+    {
+      "title": "US8036366B2 - Intelligent formatting of VoIP telephone numbers",
+      "url": "https://patents.google.com/patent/US8036366B2/en",
+      "snippet": "Consequently, existing global VoIP service providers require users to enter fully formatted E.164 telephone numbers ."
+    },
+    {
+      "title": "US9838439B2 - Telephone number simplification for VoIP networks",
+      "url": "https://patents.google.com/patent/US9838439B2/en",
+      "snippet": "conventional systems route VoIP calls through telecommunication networks based upon the VoIP telephone number itself, i.e., the ten digit phone ..."
+    },
+    {
+      "title": "Terms of Service - Business VoIP Telephone",
+      "url": "https://voipco.com/terms-of-service/",
+      "snippet": "For each phone number that you use for the Service, you must register with VoIPco, LLC the physical location where you will be using the Service with ..."
+    },
+    {
+      "title": "phone numbers | Telecom Informer",
+      "url": "http://www.telecominformer.com/tag/phone-numbers/",
+      "snippet": "If you asked me in 1999 what I thought would be the most game-changing innovation in telecommunications , I would have said VoIP ."
+    },
+    {
+      "title": "Business VoIP Telephones - Greens Telecom LLC Dubai",
+      "url": "https://www.avayaippbxdubai.com/category/telephone/",
+      "snippet": "Business VoIP Telephones is a Voice over Internet Protocol ( VoIP ) is a blessing to telecommunications , with its ability to transmit voice over a data ..."
+    }
+  ]
+}
+
+RULES:
+- Ground ALL assessments in the provided evidence
+- Cite specific sources in activity_signal (e.g., "Recent FCC filing (2024)", "Company website found via search")
+- Use "Unknown" when evidence is insufficient - DO NOT hallucinate
+- Confidence levels:
+  - High = Multiple confirming signals (recent web presence + recent filings + company details)
+  - Medium = Some signals but incomplete picture
+  - Low = FCC data only, no external confirmation
+
+Call the enrichment_result function with your analysis.

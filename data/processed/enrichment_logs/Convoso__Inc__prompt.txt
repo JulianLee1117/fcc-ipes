@@ -1,0 +1,83 @@
+You are analyzing an IPES (Interconnected VoIP Provider) company that filed for numbering authorization with the FCC.
+
+Based ONLY on the evidence provided below, determine:
+1. Whether the company is likely still active
+2. Their industry segment (UCaaS, CCaaS, CPaaS, Carrier, Reseller, Enterprise IT, or Other)
+3. A brief product summary
+4. Their market position (Enterprise, Mid-Market, SMB, Startup, or Unknown)
+5. Your confidence level based on evidence quality
+
+EVIDENCE PACK:
+{
+  "company_name": "Convoso, Inc.",
+  "aliases": [
+    "Convoso, Inc."
+  ],
+  "fcc_filing": {
+    "first_filing_date": "2020-11-09",
+    "latest_filing_date": "2020-11-09",
+    "total_filings": 2,
+    "docket_numbers": [
+      "20-400"
+    ],
+    "proceeding_types": [
+      "Interconnected VoIP Numbering Authorization Application Filed By Convoso, Inc. Pursuant To Section 52.15(g)(3) Of The Commission's Rules"
+    ],
+    "has_supplements": false,
+    "recent_activity": false
+  },
+  "parsed_from_docs": {
+    "address": null,
+    "city": null,
+    "state": null,
+    "zip_code": null,
+    "phone": "8667870157",
+    "email": "carriers@convoso.com",
+    "key_personnel": [
+      {
+        "name": "and CEO",
+        "title": "President"
+      }
+    ],
+    "founding_date": null,
+    "service_description": "provide interconnected VoIP services initially in\nCalifornia."
+  },
+  "web_search_results": [
+    {
+      "title": "Convoso Reviews from Verified Users - Capterra Ireland 2025",
+      "url": "https://www.capterra.ie/reviews/76768/cloud-predictive-dialer",
+      "snippet": "My overall expereince with Convoso has been amazing, with over 12 years experience in the BPO industry this is one of the best softwares I ever used."
+    },
+    {
+      "title": "Convoso Pricing, Reviews & Features - Capterra Canada 2025",
+      "url": "https://www.capterra.ca/software/76768/cloud-predictive-dialer",
+      "snippet": "With seamlessly automated workflows, experience a remarkable 300% increase in contact rates upon switching to Convoso ."
+    },
+    {
+      "title": "Convoso Reviews from Verified Users - Capterra Canada 2025",
+      "url": "https://www.capterra.ca/reviews/76768/cloud-predictive-dialer",
+      "snippet": "While I prefer convoso over Many other dialers, I don t like the fact that the call backs gets wiped out after the time has passed."
+    },
+    {
+      "title": "Convoso Price, Features, Reviews & Ratings - Capterra India",
+      "url": "https://www.capterra.in/software/76768/cloud-predictive-dialer",
+      "snippet": "With seamlessly automated workflows, experience a remarkable 3-4X increase in contact rates upon switching to Convoso ."
+    },
+    {
+      "title": "Convoso Reviews from Verified Users - Capterra New Zealand 2025",
+      "url": "https://www.capterra.co.nz/reviews/76768/cloud-predictive-dialer",
+      "snippet": "Convoso is the AI predictive dialer for 20+ seat teams\u2014driving 35% more contacts and 41% fewer dials with smarter AI optimization."
+    }
+  ]
+}
+
+RULES:
+- Ground ALL assessments in the provided evidence
+- Cite specific sources in activity_signal (e.g., "Recent FCC filing (2024)", "Company website found via search")
+- Use "Unknown" when evidence is insufficient - DO NOT hallucinate
+- Confidence levels:
+  - High = Multiple confirming signals (recent web presence + recent filings + company details)
+  - Medium = Some signals but incomplete picture
+  - Low = FCC data only, no external confirmation
+
+Call the enrichment_result function with your analysis.

@@ -1,0 +1,95 @@
+You are analyzing an IPES (Interconnected VoIP Provider) company that filed for numbering authorization with the FCC.
+
+Based ONLY on the evidence provided below, determine:
+1. Whether the company is likely still active
+2. Their industry segment (UCaaS, CCaaS, CPaaS, Carrier, Reseller, Enterprise IT, or Other)
+3. A brief product summary
+4. Their market position (Enterprise, Mid-Market, SMB, Startup, or Unknown)
+5. Your confidence level based on evidence quality
+
+EVIDENCE PACK:
+{
+  "company_name": "Consolidated Communications Enterprise Services, Inc.",
+  "aliases": [
+    "Consolidated Communications Enterprise Services, Inc."
+  ],
+  "fcc_filing": {
+    "first_filing_date": "2022-12-19",
+    "latest_filing_date": "2022-12-19",
+    "total_filings": 3,
+    "docket_numbers": [
+      "23-6"
+    ],
+    "proceeding_types": [
+      "Interconnected VoIP Numbering Authorization Application Filed By Consolidated Communications Enterprise Services, Inc. Pursuant To Section 52.15(g)(3) Of The Commission's Rules"
+    ],
+    "has_supplements": true,
+    "recent_activity": false
+  },
+  "parsed_from_docs": {
+    "address": "Consolidated Communications Enterprise Services, Inc.",
+    "city": null,
+    "state": null,
+    "zip_code": null,
+    "phone": null,
+    "email": null,
+    "key_personnel": [
+      {
+        "name": "of\nRegulatory",
+        "title": "President"
+      },
+      {
+        "name": "Chief Technology Officer",
+        "title": "Thomas White"
+      },
+      {
+        "name": "of Operations",
+        "title": "President"
+      },
+      {
+        "name": "Chief Financial\nOfficer",
+        "title": "Fred Graffam"
+      }
+    ],
+    "founding_date": "2015",
+    "service_description": "providers (including other interconnected VOIP providers), and wireless\nservice providers."
+  },
+  "web_search_results": [
+    {
+      "title": "Consolidated Communications - Internet, TV, Phone Services",
+      "url": "https://www.consolidated.com/",
+      "snippet": "High-Speed Internet, streaming TV, VoIP phone, and security for your home. Plans to fit every budget. Data, cloud and voice services for small and large business. Industry solutions and wholesale services. We are actively monitoring winter storms forecasted to impact customers in our service areas."
+    },
+    {
+      "title": "Consolidated Communications Enterprise Services, Inc. Details",
+      "url": "https://govtribe.com/vendors/consolidated-communications-enterprise-services-inc-dot-champaign-telephone-company-3qpn8",
+      "snippet": "Consolidated Communications Enterprise Services is a subsidiary of Consolidated Communications Holdings, Inc., a major telecommunications provider that has been awarded numerous federal contracts across various agencies to deliver services such as telephone, internet, cable TV, and WiFi connectivity."
+    },
+    {
+      "title": "CONSOLIDATED COMMUNICATIONS ENTERPRISE SERVICES, INC ...",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={C38B5C7D-1D48-40FE-92E8-1698B9D7C296}",
+      "snippet": "Jun 29, 2021 \u00b7 ge carrier (\u201cILEC\u201d). These voice service totals include local and long-distance service packages. Consolidated also provides Voice over Internet Protocol (\u201c VoIP \u201d) phone services for business and residen al customers, which includes soft switching technology, IP business telephones, and unified messaging. T"
+    },
+    {
+      "title": "Consolidated Communications Enterprise Services, Inc.",
+      "url": "https://www.dnb.com/business-directory/company-profiles.consolidated_communications_enterprise_services_inc.82ee73251bfe3afbdab057711aedacb0.html",
+      "snippet": "Find company research, competitor information, contact details & financial data for Consolidated Communications Enterprise Services, Inc . of Gibsonia, Pennsylvania. Get the latest business insights from Dun & Bradstreet."
+    },
+    {
+      "title": "CONSOLIDATED COMMUNICATIONS ENTERPRISE SERVICES, INC. OF ...",
+      "url": "https://docs.cpuc.ca.gov/PublishedDocs/Published/G000/M541/K705/541705292.PDF",
+      "snippet": "Sep 30, 2024 \u00b7 In D.14-08-040 dated August 14, 2014, Consolidated - Enterprise was registered as a non-dominant interexchange carrier (NDIEC) and was granted corporate identification number (U7261C) to operate as a switchless reseller to provide voice and data telecommunications service in California."
+    }
+  ]
+}
+
+RULES:
+- Ground ALL assessments in the provided evidence
+- Cite specific sources in activity_signal (e.g., "Recent FCC filing (2024)", "Company website found via search")
+- Use "Unknown" when evidence is insufficient - DO NOT hallucinate
+- Confidence levels:
+  - High = Multiple confirming signals (recent web presence + recent filings + company details)
+  - Medium = Some signals but incomplete picture
+  - Low = FCC data only, no external confirmation
+
+Call the enrichment_result function with your analysis.

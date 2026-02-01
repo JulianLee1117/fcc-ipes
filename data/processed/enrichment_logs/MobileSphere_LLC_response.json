@@ -1,0 +1,35 @@
+{
+  "id": "msg_01VkJ17skwyGGPd3F1auShAD",
+  "content": [
+    {
+      "id": "toolu_01WjwGSBmZB2Kou2b8YuKmEe",
+      "input": {
+        "is_active": false,
+        "activity_signal": "No recent activity found. FCC filing is from 2020-08-07 with no recent filings (recent_activity: false). Web search results contain only generic VoIP patents and industry listings with no specific mention of MobileSphere LLC. No current web presence, social media, or business activity detected.",
+        "industry_segment": "UCaaS",
+        "product_summary": "MobileSphere LLC was a VoIP service provider founded in 2003 that intended to provide interconnected VoIP services initially in Massachusetts, based on their FCC filing.",
+        "market_position": "Unknown",
+        "enrichment_confidence": "Low"
+      },
+      "name": "enrichment_result",
+      "type": "tool_use"
+    }
+  ],
+  "model": "claude-sonnet-4-20250514",
+  "role": "assistant",
+  "stop_reason": "tool_use",
+  "stop_sequence": null,
+  "type": "message",
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0,
+    "input_tokens": 1957,
+    "output_tokens": 235,
+    "server_tool_use": null,
+    "service_tier": "standard"
+  }
+}

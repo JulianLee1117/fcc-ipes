@@ -1,0 +1,35 @@
+{
+  "id": "msg_01EE73tbTXp48M6wSCr2wVhB",
+  "content": [
+    {
+      "id": "toolu_01KUv4f6p7z2PERG7pwaQArM",
+      "input": {
+        "is_active": false,
+        "activity_signal": "No recent activity signals. Last FCC filing was 2016-02-18 with no recent activity flagged. Web search results only show historical content from 2005-2013 with no current company website or recent business updates found.",
+        "industry_segment": "UCaaS",
+        "product_summary": "Vonage was a leading provider of VoIP/broadband phone services and cloud-connected communications devices, operating as an Internet telephony provider primarily in North America.",
+        "market_position": "Enterprise",
+        "enrichment_confidence": "Medium"
+      },
+      "name": "enrichment_result",
+      "type": "tool_use"
+    }
+  ],
+  "model": "claude-sonnet-4-20250514",
+  "role": "assistant",
+  "stop_reason": "tool_use",
+  "stop_sequence": null,
+  "type": "message",
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0,
+    "input_tokens": 1691,
+    "output_tokens": 215,
+    "server_tool_use": null,
+    "service_tier": "standard"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "msg_01Jysi5gZmVfm9npV6kK67YB",
+  "content": [
+    {
+      "id": "toolu_018gzEfMFGyWJUcTrgLyKVgM",
+      "input": {
+        "is_active": true,
+        "activity_signal": "Company website found via web search (advancecommunications.com) showing active 24-hour answering service operations. Multiple business profile listings found on RocketReach, BBB, and Datanyze indicating ongoing business presence. Tampa, FL location mentioned in akama.com listing matches FCC filing address.",
+        "industry_segment": "UCaaS",
+        "product_summary": "Advanced Communications is a telecommunications firm providing IP phone systems, VoIP services, structured cabling, data networking, and cloud services primarily to small and mid-size businesses.",
+        "market_position": "SMB",
+        "enrichment_confidence": "Medium"
+      },
+      "name": "enrichment_result",
+      "type": "tool_use"
+    }
+  ],
+  "model": "claude-sonnet-4-20250514",
+  "role": "assistant",
+  "stop_reason": "tool_use",
+  "stop_sequence": null,
+  "type": "message",
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0,
+    "input_tokens": 1971,
+    "output_tokens": 232,
+    "server_tool_use": null,
+    "service_tier": "standard"
+  }
+}

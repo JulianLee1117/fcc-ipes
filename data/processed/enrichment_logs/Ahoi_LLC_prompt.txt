@@ -1,0 +1,99 @@
+You are analyzing an IPES (Interconnected VoIP Provider) company that filed for numbering authorization with the FCC.
+
+Based ONLY on the evidence provided below, determine:
+1. Whether the company is likely still active
+2. Their industry segment (UCaaS, CCaaS, CPaaS, Carrier, Reseller, Enterprise IT, or Other)
+3. A brief product summary
+4. Their market position (Enterprise, Mid-Market, SMB, Startup, or Unknown)
+5. Your confidence level based on evidence quality
+
+EVIDENCE PACK:
+{
+  "company_name": "Ahoi LLC",
+  "aliases": [
+    "Ahoi LLC"
+  ],
+  "fcc_filing": {
+    "first_filing_date": "2025-01-14",
+    "latest_filing_date": "2025-01-14",
+    "total_filings": 5,
+    "docket_numbers": [
+      "25-12"
+    ],
+    "proceeding_types": [
+      "Interconnected VoIP Numbering Authorization Application Filed By Ahoi LLC Pursuant To Section 52.15(g)(3) of the Commission's Rules"
+    ],
+    "has_supplements": true,
+    "recent_activity": true
+  },
+  "parsed_from_docs": {
+    "address": "8 The Green Ste. A",
+    "city": "Dover",
+    "state": "DE",
+    "zip_code": "19901",
+    "phone": "1888900246",
+    "email": "legal@ahoi.net",
+    "key_personnel": [
+      {
+        "name": "Contact Name",
+        "title": "CEO"
+      },
+      {
+        "name": "Chief Executive Officer",
+        "title": "Brian Ford"
+      },
+      {
+        "name": "or Other",
+        "title": "President"
+      },
+      {
+        "name": "of Messaging",
+        "title": "President"
+      },
+      {
+        "name": "of Operations",
+        "title": "President"
+      }
+    ],
+    "founding_date": null,
+    "service_description": null
+  },
+  "web_search_results": [
+    {
+      "title": "ahoi - Crunchbase Company Profile & Funding",
+      "url": "https://www.crunchbase.com/organization/ahoi",
+      "snippet": "As a company deeply rooted in the telecommunications industry, Ahoi provides cutting-edge solutions designed to meet the needs of modern businesses. From SMS messaging and VoIP to web call APIs and even fax services, our platform empowers."
+    },
+    {
+      "title": "Ahoi, LLC - LinkedIn",
+      "url": "https://www.linkedin.com/company/helloahoi",
+      "snippet": "Ahoi is designed for speed, agility, and simplicity. Whether you need Voice bots, API- and portal-driven advanced call flows, AI-powered campaign registration, or turnkey White Label..."
+    },
+    {
+      "title": "AHOI - ahoi llc Trademark Registration",
+      "url": "https://uspto.report/TM/98740795",
+      "snippet": "Mark For: AHOI\u2122 trademark registration is intended to cover the categories of telecommunication services, namely, electronic transmission of multimedia messages (MMS) and short messages (SMS) telecommunication services, namely, telephone number porting services, direct inward dialing (DID), voice over internet protocol (VOIP) services, and ..."
+    },
+    {
+      "title": "About us - AHOI",
+      "url": "https://www.ahoi.net/about",
+      "snippet": "Inspired by the merging of the Internet and telephone technology, the founders of Ahoi developed the first communication APIs in the early 2000s. Their pioneering work laid the foundation for modern communication tools, and they went on to hold leadership roles at major companies in the industry."
+    },
+    {
+      "title": "AHOI",
+      "url": "https://www.ahoi.net/",
+      "snippet": "We specialize in cutting-edge communication services, delivering tailored telecommunication solutions to meet our clients' needs. Empower your business with scalable Messaging Services designed for marketing, transactional SMS, and real-time customer communication across any platform."
+    }
+  ]
+}
+
+RULES:
+- Ground ALL assessments in the provided evidence
+- Cite specific sources in activity_signal (e.g., "Recent FCC filing (2024)", "Company website found via search")
+- Use "Unknown" when evidence is insufficient - DO NOT hallucinate
+- Confidence levels:
+  - High = Multiple confirming signals (recent web presence + recent filings + company details)
+  - Medium = Some signals but incomplete picture
+  - Low = FCC data only, no external confirmation
+
+Call the enrichment_result function with your analysis.

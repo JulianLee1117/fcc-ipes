@@ -1,0 +1,35 @@
+{
+  "id": "msg_01FhDfWP5cpNJ88Wwjj5jXyu",
+  "content": [
+    {
+      "id": "toolu_01PK3mzqkwZpgWgJGk9fDCCp",
+      "input": {
+        "is_active": false,
+        "activity_signal": "FCC filing from 2023-05-31 with no recent activity (recent_activity: false). Web searches return only generic VoIP industry pages with no specific results for Voyce Telecom LLC, suggesting limited or no current web presence. No company website or recent business activity found.",
+        "industry_segment": "Carrier",
+        "product_summary": "Provides interconnected VoIP services to end users through own facilities and CLEC/voice service provider partnerships for PSTN routing, initially targeting Florida, Virginia, and New York markets.",
+        "market_position": "Unknown",
+        "enrichment_confidence": "Low"
+      },
+      "name": "enrichment_result",
+      "type": "tool_use"
+    }
+  ],
+  "model": "claude-sonnet-4-20250514",
+  "role": "assistant",
+  "stop_reason": "tool_use",
+  "stop_sequence": null,
+  "type": "message",
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0,
+    "input_tokens": 1766,
+    "output_tokens": 231,
+    "server_tool_use": null,
+    "service_tier": "standard"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "msg_01DgoWCEHrMiSw5EJjMj6EjM",
+  "content": [
+    {
+      "id": "toolu_01Xa1BQSUHVacCqUzybTBoUT",
+      "input": {
+        "is_active": true,
+        "activity_signal": "Active company website found via search (invoxio.com) showing \"The Phone Company for Developers\" with current copyright \"\u00a9 2026 Invoxio Inc.\" LinkedIn profile with 22 followers indicating ongoing presence. BBB business profile and ZoomInfo listing showing Fort Myers, FL location with ~$4M revenue and 12 employees.",
+        "industry_segment": "CPaaS",
+        "product_summary": "Invoxio provides carrier-grade voice, messaging, and data APIs for developers, offering turnkey phone systems and enterprise solutions that scale from small teams to large call centers.",
+        "market_position": "Mid-Market",
+        "enrichment_confidence": "High"
+      },
+      "name": "enrichment_result",
+      "type": "tool_use"
+    }
+  ],
+  "model": "claude-sonnet-4-20250514",
+  "role": "assistant",
+  "stop_reason": "tool_use",
+  "stop_sequence": null,
+  "type": "message",
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0,
+    "input_tokens": 2114,
+    "output_tokens": 242,
+    "server_tool_use": null,
+    "service_tier": "standard"
+  }
+}

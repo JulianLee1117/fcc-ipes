@@ -1,0 +1,35 @@
+{
+  "id": "msg_01URXUM3aoYpAj3i89pmFd4w",
+  "content": [
+    {
+      "id": "toolu_01PYgVyZ1RNzuegAXbnqNHMU",
+      "input": {
+        "is_active": true,
+        "activity_signal": "Active company website found via web search (flowroute.com/contact-us showing operational status page and active services), login portal accessible (manage.flowroute.com), Bloomberg company profile page exists, Indeed careers page shows current employment opportunities, and ITQlick rating from 2024 indicating ongoing business operations",
+        "industry_segment": "CPaaS",
+        "product_summary": "Flowroute provides cloud-based VoIP services including SIP trunking, voice calling, and messaging services through APIs and communication platforms.",
+        "market_position": "SMB",
+        "enrichment_confidence": "High"
+      },
+      "name": "enrichment_result",
+      "type": "tool_use"
+    }
+  ],
+  "model": "claude-sonnet-4-20250514",
+  "role": "assistant",
+  "stop_reason": "tool_use",
+  "stop_sequence": null,
+  "type": "message",
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0,
+    "input_tokens": 1808,
+    "output_tokens": 228,
+    "server_tool_use": null,
+    "service_tier": "standard"
+  }
+}

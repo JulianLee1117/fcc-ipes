@@ -1,0 +1,211 @@
+You are analyzing an IPES (Interconnected VoIP Provider) company that filed for numbering authorization with the FCC.
+
+Based ONLY on the evidence provided below, determine:
+1. Whether the company is likely still active
+2. Their industry segment (UCaaS, CCaaS, CPaaS, Carrier, Reseller, Enterprise IT, or Other)
+3. A brief product summary
+4. Their market position (Enterprise, Mid-Market, SMB, Startup, or Unknown)
+5. Your confidence level based on evidence quality
+
+EVIDENCE PACK:
+{
+  "company_name": "AM Communication Labs Inc.",
+  "aliases": [
+    "AM Communication Labs Inc."
+  ],
+  "fcc_filing": {
+    "first_filing_date": "2024-10-30",
+    "latest_filing_date": "2024-10-30",
+    "total_filings": 3,
+    "docket_numbers": [
+      "24-628"
+    ],
+    "proceeding_types": [
+      "Interconnected VoIP Numbering Authorization Application Filed By AM Communication Labs Inc. Pursuant To Section 52.15(g)(3) Of The Commission's Rules"
+    ],
+    "has_supplements": true,
+    "recent_activity": true
+  },
+  "parsed_from_docs": {
+    "address": "11335 NE 122nd Way, Suite 105",
+    "city": null,
+    "state": null,
+    "zip_code": null,
+    "phone": "1800687753",
+    "email": "jason@amcomlabs.io",
+    "key_personnel": [
+      {
+        "name": "Jason Jantz",
+        "title": "CEO"
+      },
+      {
+        "name": "Jason Jantz",
+        "title": "CEO"
+      },
+      {
+        "name": "of AM",
+        "title": "CEO"
+      },
+      {
+        "name": "AM Communication",
+        "title": "CEO"
+      },
+      {
+        "name": "Jason Jantz",
+        "title": "CEO"
+      },
+      {
+        "name": "Imed Yahmadi",
+        "title": "CTO"
+      },
+      {
+        "name": "of AM",
+        "title": "CEO"
+      },
+      {
+        "name": "AM Communication",
+        "title": "CEO"
+      },
+      {
+        "name": "of AM",
+        "title": "CEO"
+      },
+      {
+        "name": "Contract Management",
+        "title": "President"
+      },
+      {
+        "name": "Interconnection Services",
+        "title": "President"
+      },
+      {
+        "name": "Interconnection Services",
+        "title": "President"
+      },
+      {
+        "name": "Interconnection Services",
+        "title": "President"
+      },
+      {
+        "name": "Interconnection Services",
+        "title": "President"
+      },
+      {
+        "name": "Interconnection Services",
+        "title": "President"
+      },
+      {
+        "name": "and Associate",
+        "title": "President"
+      },
+      {
+        "name": "Interconnection Services",
+        "title": "President"
+      },
+      {
+        "name": "Number Button",
+        "title": "cto"
+      },
+      {
+        "name": "the US",
+        "title": "Cto"
+      },
+      {
+        "name": "use the",
+        "title": "Cto"
+      },
+      {
+        "name": "Regulatory and",
+        "title": "President"
+      },
+      {
+        "name": "and Associate",
+        "title": "President"
+      },
+      {
+        "name": "ascertain whether",
+        "title": "Cto"
+      },
+      {
+        "name": "provide accurate",
+        "title": "Cto"
+      },
+      {
+        "name": "the extent",
+        "title": "Cto"
+      },
+      {
+        "name": "use Verizon",
+        "title": "Cto"
+      },
+      {
+        "name": "provide such",
+        "title": "Cto"
+      },
+      {
+        "name": "access\nLoops",
+        "title": "Cto"
+      },
+      {
+        "name": "collocate equipment",
+        "title": "Cto"
+      },
+      {
+        "name": "pay the",
+        "title": "Cto"
+      },
+      {
+        "name": "transport signaling",
+        "title": "Cto"
+      },
+      {
+        "name": "Jason Jantz",
+        "title": "CEO"
+      },
+      {
+        "name": "Imed Yahmadi",
+        "title": "CTO"
+      }
+    ],
+    "founding_date": null,
+    "service_description": "provide reliable numbering and\nrelated VoIP services."
+  },
+  "web_search_results": [
+    {
+      "title": "Amcomlabs \u2013 amcomlabs",
+      "url": "https://amcomlabs.io/",
+      "snippet": "AM Communication Labs is a single-source provider of managed speech, carrier, and unified communication solutions. AM Communication Labs is a cloud-based, unified communication platform packed with features to engage with customers remotely, on any device."
+    },
+    {
+      "title": "AM Communication Labs | LinkedIn",
+      "url": "https://www.linkedin.com/company/advanced-mode-communications",
+      "snippet": "AM Communication Labs is a single-source provider of managed speech, carrier, and unified communication solutions."
+    },
+    {
+      "title": "AM Communication Labs Inc. Company Profile | Kirkland ... AM Communication Labs Inc. - My Fiber Options Terms and Conditions - Readymode\u00ae DA 25-263 Released: March 25, 2025 INTERCONNECTED VOIP ...",
+      "url": "https://www.dnb.com/business-directory/company-profiles.am_communication_labs_inc.f37f2e14aca95297f642d463654cd0c8.html",
+      "snippet": "Find company research, competitor information, contact details & financial data for AM Communication Labs Inc . of Kirkland, Washington. Get the latest business insights from Dun & Bradstreet. AM Communication Labs Inc . is a leading provider of communication solutions for businesses. Specializing in innovative technologies, AM Communication Labs Inc . offers a range of services including voice , data, and video communication systems. Sep 25, 2025 \u00b7 Absent separate written agreement with Readymode, Services provided by AM Comm are typically provisioned as non-interconnected VoIP services, and therefore do not permit the dialing of \u201c911\u201d or any other emergency telephone numbers. Filings can be sent by commercial overnight courier or by first-class or overnight U.S. Postal Service mail. All filings must be addressed to the Commission\u2019s Secretary, Office of the Secretary, Federal Communications Commission."
+    },
+    {
+      "title": "AM Communication Labs Inc. - My Fiber Options",
+      "url": "https://myfiberoptions.com/providers/am-communication-labs",
+      "snippet": "AM Communication Labs Inc . is a leading provider of communication solutions for businesses. Specializing in innovative technologies, AM Communication Labs Inc . offers a range of services including voice , data, and video communication systems."
+    },
+    {
+      "title": "DA 25-263 Released: March 25, 2025 INTERCONNECTED VOIP ...",
+      "url": "https://docs.fcc.gov/public/attachments/DA-25-263A1_Rcd.pdf",
+      "snippet": "Filings can be sent by commercial overnight courier or by first-class or overnight U.S. Postal Service mail. All filings must be addressed to the Commission\u2019s Secretary, Office of the Secretary, Federal Communications Commission."
+    }
+  ]
+}
+
+RULES:
+- Ground ALL assessments in the provided evidence
+- Cite specific sources in activity_signal (e.g., "Recent FCC filing (2024)", "Company website found via search")
+- Use "Unknown" when evidence is insufficient - DO NOT hallucinate
+- Confidence levels:
+  - High = Multiple confirming signals (recent web presence + recent filings + company details)
+  - Medium = Some signals but incomplete picture
+  - Low = FCC data only, no external confirmation
+
+Call the enrichment_result function with your analysis.

@@ -1,0 +1,91 @@
+You are analyzing an IPES (Interconnected VoIP Provider) company that filed for numbering authorization with the FCC.
+
+Based ONLY on the evidence provided below, determine:
+1. Whether the company is likely still active
+2. Their industry segment (UCaaS, CCaaS, CPaaS, Carrier, Reseller, Enterprise IT, or Other)
+3. A brief product summary
+4. Their market position (Enterprise, Mid-Market, SMB, Startup, or Unknown)
+5. Your confidence level based on evidence quality
+
+EVIDENCE PACK:
+{
+  "company_name": "Mix Networks, Inc",
+  "aliases": [
+    "Mix Networks, Inc"
+  ],
+  "fcc_filing": {
+    "first_filing_date": "2016-03-25",
+    "latest_filing_date": "2016-03-25",
+    "total_filings": 1,
+    "docket_numbers": [
+      "16-108"
+    ],
+    "proceeding_types": [
+      "Interconnected VoIP Numbering Authorization Application Filed By Mix Networks, Inc. Pursuant To Section 52.15(g)(3) Of The Commission's Rules"
+    ],
+    "has_supplements": false,
+    "recent_activity": false
+  },
+  "parsed_from_docs": {
+    "address": "CUSTOMER Address:",
+    "city": null,
+    "state": null,
+    "zip_code": null,
+    "phone": null,
+    "email": null,
+    "key_personnel": [
+      {
+        "name": "Printed Signatory",
+        "title": "coo"
+      },
+      {
+        "name": "and CEO",
+        "title": "President"
+      },
+      {
+        "name": "MIX Networks",
+        "title": "CEO"
+      }
+    ],
+    "founding_date": null,
+    "service_description": null
+  },
+  "web_search_results": [
+    {
+      "title": "MIX Networks , Inc . | LinkedIn",
+      "url": "https://www.linkedin.com/company/mix-networks",
+      "snippet": "MIX Networks , Inc . Telecommunications . Lakeland, FL 709 followers. MIX Networks is a Unified Solutions Provider based in Lakeland, FL. and has been in business since 2004. We have both Retail and Wholesale divisions to serve different parts of our Customer Base."
+    },
+    {
+      "title": "Mix Networks Inc \u2013 Stayntouch",
+      "url": "https://www.stayntouch.com/snt-integrations-new/mix-networks-inc/",
+      "snippet": "Mix Networks provides advanced telecom solutions, including VoIP , SIP trunking, and network services, to enhance communication and operational efficiency."
+    },
+    {
+      "title": "MIX Networks , Inc . | The Org",
+      "url": "https://theorg.com/org/mix-networks",
+      "snippet": "MIX Networks is a Unified Solutions Provider based in Lakeland, FL. and has been in business since 2004. We have both Retail and Wholesale divisions to serve different parts of our Customer Base."
+    },
+    {
+      "title": "MIX Networks \u00ae - POTS Lines Vs. VoIP : The Battle of a Lifetime",
+      "url": "https://mixnetworks.com/pots-vs-voip-the-battle-of-a-lifetime/",
+      "snippet": "It's been the battle of the century for VoIP and POTS Lines, but a winner has been named.The good news, however, is that there are solutions to enabling the older analog phones, fax machines, alarm systems, and more to being able to function over the newer digital solutions."
+    },
+    {
+      "title": "Mix Networks Inc . - Lakeland, FL - Alignable",
+      "url": "https://www.alignable.com/lakeland-fl/mix-networks-inc",
+      "snippet": "Do local business owners recommend Mix Networks Inc .? Visit this page to learn about the business and what locals in Lakeland have to say."
+    }
+  ]
+}
+
+RULES:
+- Ground ALL assessments in the provided evidence
+- Cite specific sources in activity_signal (e.g., "Recent FCC filing (2024)", "Company website found via search")
+- Use "Unknown" when evidence is insufficient - DO NOT hallucinate
+- Confidence levels:
+  - High = Multiple confirming signals (recent web presence + recent filings + company details)
+  - Medium = Some signals but incomplete picture
+  - Low = FCC data only, no external confirmation
+
+Call the enrichment_result function with your analysis.

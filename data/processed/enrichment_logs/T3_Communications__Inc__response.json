@@ -1,0 +1,35 @@
+{
+  "id": "msg_01SU5Y5HtQ6eVygThVEPdfcR",
+  "content": [
+    {
+      "id": "toolu_01QKGi2fCyAGAbV25SThUbm6",
+      "input": {
+        "is_active": false,
+        "activity_signal": "Single FCC filing from 2021-04-12 with no recent activity. Web search results show mixed signals - LinkedIn profile mentions founding in 2002, BBB listing shows Fort Myers FL address, but Clutch.co profile describes different services (cabling/networking since 2011 in Hampton Roads VA) suggesting possible name confusion. No recent web presence or activity indicators found.",
+        "industry_segment": "Carrier",
+        "product_summary": "Filed to provide interconnected VoIP services across multiple states including Texas, Florida, and over 30 other states, indicating a multi-state VoIP carrier operation.",
+        "market_position": "Unknown",
+        "enrichment_confidence": "Low"
+      },
+      "name": "enrichment_result",
+      "type": "tool_use"
+    }
+  ],
+  "model": "claude-sonnet-4-20250514",
+  "role": "assistant",
+  "stop_reason": "tool_use",
+  "stop_sequence": null,
+  "type": "message",
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0,
+    "input_tokens": 2053,
+    "output_tokens": 246,
+    "server_tool_use": null,
+    "service_tier": "standard"
+  }
+}

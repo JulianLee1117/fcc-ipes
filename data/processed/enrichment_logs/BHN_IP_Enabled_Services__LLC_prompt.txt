@@ -1,0 +1,87 @@
+You are analyzing an IPES (Interconnected VoIP Provider) company that filed for numbering authorization with the FCC.
+
+Based ONLY on the evidence provided below, determine:
+1. Whether the company is likely still active
+2. Their industry segment (UCaaS, CCaaS, CPaaS, Carrier, Reseller, Enterprise IT, or Other)
+3. A brief product summary
+4. Their market position (Enterprise, Mid-Market, SMB, Startup, or Unknown)
+5. Your confidence level based on evidence quality
+
+EVIDENCE PACK:
+{
+  "company_name": "BHN IP Enabled Services, LLC",
+  "aliases": [
+    "BHN IP Enabled Services, LLC"
+  ],
+  "fcc_filing": {
+    "first_filing_date": "2024-03-14",
+    "latest_filing_date": "2024-03-14",
+    "total_filings": 1,
+    "docket_numbers": [
+      "24-218"
+    ],
+    "proceeding_types": [
+      "Interconnected VoIP Numbering Authorization Application Filed By BHN IP Enabled Services, LLC Pursuant To Section 52.15(g)(3) Of The Commission's Rules"
+    ],
+    "has_supplements": false,
+    "recent_activity": true
+  },
+  "parsed_from_docs": {
+    "address": null,
+    "city": null,
+    "state": null,
+    "zip_code": null,
+    "phone": null,
+    "email": "Michael.Moore@charter.com",
+    "key_personnel": [
+      {
+        "name": "and Chief",
+        "title": "President"
+      },
+      {
+        "name": "Chief Financial Officer",
+        "title": "Jessica Fischer"
+      }
+    ],
+    "founding_date": null,
+    "service_description": null
+  },
+  "web_search_results": [
+    {
+      "title": "Interconnected VoIP Numbering Authorization Application Filed",
+      "url": "https://www.fcc.gov/document/interconnected-voip-numbering-authorization-application-filed-106",
+      "snippet": "Aug 13, 2024 \u00b7 Interconnected VoIP Numbering Authorization Application Filed Full Title: Interconnected VoIP Numbering Authorization Application Filed By BHN IP Enabled Services , LLC Pursuant To Section 52.15 (g) (3) Of The Commission's Rules Document Type: Public Notice Bureau (s):"
+    },
+    {
+      "title": "MOTION OF BHN IP ENABLED SERVICES, LLP TO CONSOLIDATE A.25-02 ...",
+      "url": "https://docs.cpuc.ca.gov/PublishedDocs/Efile/G000/M566/K347/566347758.PDF",
+      "snippet": "BEFORE THE PUBLIC UTILITIES COMMISSION OF THE STATE OF CALIFORNIA 1013 Registration of BHN IP Enabled Services , LLC for a Certificate of Public Convenience and Necessity. Application 25-02-018"
+    },
+    {
+      "title": "PUBLIC NOTICE - docs.fcc.gov",
+      "url": "https://docs.fcc.gov/public/attachments/DA-24-803A1.pdf",
+      "snippet": "BHN IP Enabled Services , LLC ( BHN or Applicant, an interconnected Voice over Internet Protocol ( VoIP ) provider, filed a Numbering Authorization Application (Application) pursuant to section 52.15(g)(3) of the Federal Communications Commission\u2019s rules, seeking authorization to obtain North American Numbering Plan telephone numbers directly ..."
+    },
+    {
+      "title": "ADMINISTRATIVE LAW JUDGE\u2019S RULING CONSOLIDATING PROCEEDIN",
+      "url": "https://docs.cpuc.ca.gov/PublishedDocs/Efile/G000/M567/K932/567932857.PDF",
+      "snippet": "On February 28, 2025, Charter IP Enabled Services , LLC (Charter) and BHN IP Enabled Services , LLC ( BHN ) (collectively Applicants) each filed an individual Application with the Commission seeking Certificates of Public Necessity (CPCN) to provide telecommunications services pursuant to Public Utilities (Pub. Util.) Code Section 1013."
+    },
+    {
+      "title": "STATE OF INDIANA - IN.gov",
+      "url": "https://www.in.gov/iurc/files/ord_46130_112024.pdf",
+      "snippet": "On September 24, 2024, BHN IP Enabled Services , LLC (\u201cApplicant\u201d) filed with the Indiana Utility Regulatory Commission (\u201cCommission\u201d) its Application for a Certificate of Territorial Authority (\u201cCTA\u201d) to provide communications services, specifically information services as defined in 47 U.S.C. \u00a7 153 and described in the Application ..."
+    }
+  ]
+}
+
+RULES:
+- Ground ALL assessments in the provided evidence
+- Cite specific sources in activity_signal (e.g., "Recent FCC filing (2024)", "Company website found via search")
+- Use "Unknown" when evidence is insufficient - DO NOT hallucinate
+- Confidence levels:
+  - High = Multiple confirming signals (recent web presence + recent filings + company details)
+  - Medium = Some signals but incomplete picture
+  - Low = FCC data only, no external confirmation
+
+Call the enrichment_result function with your analysis.

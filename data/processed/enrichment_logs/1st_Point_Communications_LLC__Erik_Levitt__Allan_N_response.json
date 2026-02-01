@@ -1,0 +1,35 @@
+{
+  "id": "msg_01RR4rpkxZU451qmSQRj9vEY",
+  "content": [
+    {
+      "id": "toolu_01Lwr53W95Ckh4tdWTSVAZqA",
+      "input": {
+        "is_active": true,
+        "activity_signal": "Recent FCC filing for VoIP Numbering Authorization on 2023-11-17, which indicates active regulatory compliance. Company founded in 2014 with established email domain (elevitt@1pcom.com) and key personnel including CEO Erik Levitt and COO Kristen Vasicek.",
+        "industry_segment": "Carrier",
+        "product_summary": "1st Point Communications provides VoIP services in the United States through its own CLEC facilities and partnerships with CLEC and LEC providers for PSTN traffic routing.",
+        "market_position": "Unknown",
+        "enrichment_confidence": "Medium"
+      },
+      "name": "enrichment_result",
+      "type": "tool_use"
+    }
+  ],
+  "model": "claude-sonnet-4-20250514",
+  "role": "assistant",
+  "stop_reason": "tool_use",
+  "stop_sequence": null,
+  "type": "message",
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0,
+    "input_tokens": 2089,
+    "output_tokens": 233,
+    "server_tool_use": null,
+    "service_tier": "standard"
+  }
+}

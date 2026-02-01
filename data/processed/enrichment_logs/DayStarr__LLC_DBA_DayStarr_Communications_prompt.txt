@@ -1,0 +1,91 @@
+You are analyzing an IPES (Interconnected VoIP Provider) company that filed for numbering authorization with the FCC.
+
+Based ONLY on the evidence provided below, determine:
+1. Whether the company is likely still active
+2. Their industry segment (UCaaS, CCaaS, CPaaS, Carrier, Reseller, Enterprise IT, or Other)
+3. A brief product summary
+4. Their market position (Enterprise, Mid-Market, SMB, Startup, or Unknown)
+5. Your confidence level based on evidence quality
+
+EVIDENCE PACK:
+{
+  "company_name": "DayStarr, LLC DBA DayStarr Communications",
+  "aliases": [
+    "DayStarr, LLC DBA DayStarr Communications"
+  ],
+  "fcc_filing": {
+    "first_filing_date": "2025-02-28",
+    "latest_filing_date": "2025-02-28",
+    "total_filings": 3,
+    "docket_numbers": [
+      "25-118"
+    ],
+    "proceeding_types": [
+      "Interconnected VoIP Numbering Authorization Application Filed By DayStarr, LLC DBA DayStarr Communications Pursuant To Section 52.15(g)(3) Of The Commission's Rules"
+    ],
+    "has_supplements": true,
+    "recent_activity": true
+  },
+  "parsed_from_docs": {
+    "address": "307 North Ball St PO Box 698",
+    "city": null,
+    "state": null,
+    "zip_code": null,
+    "phone": "9897206000",
+    "email": null,
+    "key_personnel": [
+      {
+        "name": "Tom Kerns",
+        "title": "President"
+      },
+      {
+        "name": "Tom Kerns",
+        "title": "President"
+      },
+      {
+        "name": "Exhibits\nExhibit",
+        "title": "President"
+      }
+    ],
+    "founding_date": "2001",
+    "service_description": null
+  },
+  "web_search_results": [
+    {
+      "title": "DayStarr Communications Home",
+      "url": "https://daystarr.net/",
+      "snippet": "Join a network that\u2019s about more than fast, reliable internet. It\u2019s a commitment to hassle-free, enjoyable experiences powered by a local team that puts you first. About Daystarr ."
+    },
+    {
+      "title": "DA 25-1001 Released: December 2, 2025 INTERCONNECTED VOIP ...",
+      "url": "https://docs.fcc.gov/public/attachments/DA-25-1001A1.pdf",
+      "snippet": "DayStarr , LLC DBA DayStarr Communications ( DayStarr or Applicant), an interconnected Voice over Internet Protocol ( VoIP ) provider, filed a Numbering Authorization Application (Application) pursuant to section 52.15(g)(3) of the Federal Communications Commission\u2019s (FCC or Commission) rules, seeking authorization to obtain North American ..."
+    },
+    {
+      "title": "DayStarr Communications - LinkedIn",
+      "url": "https://www.linkedin.com/company/daystarr-communications",
+      "snippet": "DayStarr is a full service telecommunications and Internet service provider operating in Shiawassee County, Michigan. DayStarr ' s has created a fiber optic network to deliver advanced..."
+    },
+    {
+      "title": "Daystarr Communications, LLC Availability Map | Daystarr ... Daystarr LLC Company Profile | Owosso, MI - Dun & Bradstreet Daystarr Communications | Business Internet Service DayStarr Communications - Products, Competitors, Financials ...",
+      "url": "https://www.highspeedinternet.com/providers/daystarr-communications",
+      "snippet": "Your best chance of finding Daystarr Communications, LLC service is in Michigan, their largest coverage area. You can also find Daystarr Communications, LLC in and many others. It is a DSL provider, which means they deliver service through your traditional phone lines. Find company research, competitor information, contact details & financial data for Daystarr LLC of Owosso, MI. Get the latest business insights from Dun & Bradstreet. Jan 15, 2026 \u00b7 See Daystarr Communications' s latest deals and use this detailed availability map to see if you live in one of the 9 cities and towns across Michigan where DayStarr has Fiber internet service. Jul 22, 2025 \u00b7 Daystarr Communications is a telecommunications and Internet service provider specializing in fiber optic network solutions. The company provides internet and phone services to residential and commercial customers, focusing on connectivity."
+    },
+    {
+      "title": "Daystarr LLC Company Profile | Owosso, MI - Dun & Bradstreet Daystarr Communications | Business Internet Service DayStarr Communications - Products, Competitors, Financials ...",
+      "url": "https://www.dnb.com/business-directory/company-profiles.daystarr_llc.1ea07dc615806e006adb1ba4902f5a2f.html",
+      "snippet": "Find company research, competitor information, contact details & financial data for Daystarr LLC of Owosso, MI. Get the latest business insights from Dun & Bradstreet. Jan 15, 2026 \u00b7 See Daystarr Communications' s latest deals and use this detailed availability map to see if you live in one of the 9 cities and towns across Michigan where DayStarr has Fiber internet service. Jul 22, 2025 \u00b7 Daystarr Communications is a telecommunications and Internet service provider specializing in fiber optic network solutions. The company provides internet and phone services to residential and commercial customers, focusing on connectivity."
+    }
+  ]
+}
+
+RULES:
+- Ground ALL assessments in the provided evidence
+- Cite specific sources in activity_signal (e.g., "Recent FCC filing (2024)", "Company website found via search")
+- Use "Unknown" when evidence is insufficient - DO NOT hallucinate
+- Confidence levels:
+  - High = Multiple confirming signals (recent web presence + recent filings + company details)
+  - Medium = Some signals but incomplete picture
+  - Low = FCC data only, no external confirmation
+
+Call the enrichment_result function with your analysis.

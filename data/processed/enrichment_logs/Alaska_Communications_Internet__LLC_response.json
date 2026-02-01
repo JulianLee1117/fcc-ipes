@@ -1,0 +1,35 @@
+{
+  "id": "msg_01DobtbnqkFDRVSAAf8peVcG",
+  "content": [
+    {
+      "id": "toolu_01WG9xHQCxY3JeNBFuc2Myfo",
+      "input": {
+        "is_active": false,
+        "activity_signal": "No recent activity since 2017 FCC filing (2017-12-07). Web search results show only directory listings and historical references with no current business activity or website. FCC filing shows 'recent_activity: false'.",
+        "industry_segment": "Carrier",
+        "product_summary": "Provided interconnected VoIP services by accessing facilities of corporate affiliates serving the Anchorage rate center under intra-corporate interconnection agreements.",
+        "market_position": "Unknown",
+        "enrichment_confidence": "Medium"
+      },
+      "name": "enrichment_result",
+      "type": "tool_use"
+    }
+  ],
+  "model": "claude-sonnet-4-20250514",
+  "role": "assistant",
+  "stop_reason": "tool_use",
+  "stop_sequence": null,
+  "type": "message",
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0,
+    "input_tokens": 1848,
+    "output_tokens": 210,
+    "server_tool_use": null,
+    "service_tier": "standard"
+  }
+}

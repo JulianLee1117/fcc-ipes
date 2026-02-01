@@ -1,0 +1,78 @@
+You are analyzing an IPES (Interconnected VoIP Provider) company that filed for numbering authorization with the FCC.
+
+Based ONLY on the evidence provided below, determine:
+1. Whether the company is likely still active
+2. Their industry segment (UCaaS, CCaaS, CPaaS, Carrier, Reseller, Enterprise IT, or Other)
+3. A brief product summary
+4. Their market position (Enterprise, Mid-Market, SMB, Startup, or Unknown)
+5. Your confidence level based on evidence quality
+
+EVIDENCE PACK:
+{
+  "company_name": "Opentact Inc",
+  "aliases": [
+    "Opentact Inc"
+  ],
+  "fcc_filing": {
+    "first_filing_date": "2021-07-16",
+    "latest_filing_date": "2021-07-16",
+    "total_filings": 1,
+    "docket_numbers": [
+      "21-305"
+    ],
+    "proceeding_types": [
+      "Interconnected VoIP Numbering Authorization Application Filed By Opentact, Inc. Pursuant To Section 52.15(g)(3) Of The Commission's Rules"
+    ],
+    "has_supplements": false,
+    "recent_activity": false
+  },
+  "parsed_from_docs": {
+    "address": null,
+    "city": null,
+    "state": null,
+    "zip_code": null,
+    "phone": null,
+    "email": null,
+    "key_personnel": [],
+    "founding_date": null,
+    "service_description": null
+  },
+  "web_search_results": [
+    {
+      "title": "Opentact Inc - Innovative VoIP Telecommunications Solutions",
+      "url": "https://opentct.net/",
+      "snippet": "Ready to elevate your telecommunications experience? Get in touch with Opentact Inc . for innovative VoIP solutions, including phone numbers, SMS messaging, and VoIP termination. Our team is eager to help you streamline your communication needs."
+    },
+    {
+      "title": "Interconnected VoIP Numbering Authorization Application Filed",
+      "url": "https://www.fcc.gov/document/interconnected-voip-numbering-authorization-application-filed-84",
+      "snippet": "Interconnected VoIP Numbering Authorization Application Filed. Full Title: Interconnected VoIP Numbering Authorization Application Filed By Opentact , Inc . Pursuant To Section 52.15(g)(3) Of The Commission's Rules. Document Type(s): Public Notice. Bureau(s): Wireline Competition."
+    },
+    {
+      "title": "Opentact",
+      "url": "https://opentact.blogspot.com/",
+      "snippet": "Voice AI, Simplified: How Opentact Lets You Build Intelligent Voice Systems Without the Heavy Lifting. Opentact .org - Your all-in-one communication platform. It integrates VoIP , SMS, phone number services, media servers, PBX solutions, call tracking, and AI-powered call centers."
+    },
+    {
+      "title": "Roamilo eSIM:Travel & Internet - Google Play'de Uygulamalar",
+      "url": "https://play.google.com/store/apps/details?id=com.denovolab.roamilo&hl=tr",
+      "snippet": "Roamilo eSIM:Travel & Internet . Opentact . 100+. \u0130ndirme."
+    },
+    {
+      "title": "2023 Informational Filings",
+      "url": "https://puc.sd.gov/Dockets/Telecom/2023/Informational/default.aspx",
+      "snippet": "2023 Info TC10 - Opentact Inc .'s 30-day State Notification for Interconnected VoIP Providers Pursuant to FCC 15-70 Order Date Filed: 01/10/23"
+    }
+  ]
+}
+
+RULES:
+- Ground ALL assessments in the provided evidence
+- Cite specific sources in activity_signal (e.g., "Recent FCC filing (2024)", "Company website found via search")
+- Use "Unknown" when evidence is insufficient - DO NOT hallucinate
+- Confidence levels:
+  - High = Multiple confirming signals (recent web presence + recent filings + company details)
+  - Medium = Some signals but incomplete picture
+  - Low = FCC data only, no external confirmation
+
+Call the enrichment_result function with your analysis.

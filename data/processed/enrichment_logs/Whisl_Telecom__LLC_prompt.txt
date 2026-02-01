@@ -1,0 +1,87 @@
+You are analyzing an IPES (Interconnected VoIP Provider) company that filed for numbering authorization with the FCC.
+
+Based ONLY on the evidence provided below, determine:
+1. Whether the company is likely still active
+2. Their industry segment (UCaaS, CCaaS, CPaaS, Carrier, Reseller, Enterprise IT, or Other)
+3. A brief product summary
+4. Their market position (Enterprise, Mid-Market, SMB, Startup, or Unknown)
+5. Your confidence level based on evidence quality
+
+EVIDENCE PACK:
+{
+  "company_name": "Whisl Telecom, LLC",
+  "aliases": [
+    "Whisl Telecom, LLC"
+  ],
+  "fcc_filing": {
+    "first_filing_date": "2020-07-23",
+    "latest_filing_date": "2020-07-23",
+    "total_filings": 1,
+    "docket_numbers": [
+      "20-247"
+    ],
+    "proceeding_types": [
+      "Interconnected VoIP Numbering Authorization Application Filed By Whisl Telecom, LLC Pursuant To Section 52.15(g)(3) Of The Commission's Rules"
+    ],
+    "has_supplements": false,
+    "recent_activity": false
+  },
+  "parsed_from_docs": {
+    "address": "5435 N. GarlandAve, Suite 140-507",
+    "city": "Garland",
+    "state": "TE",
+    "zip_code": "75040",
+    "phone": "9729149604",
+    "email": null,
+    "key_personnel": [
+      {
+        "name": "Whisl Telecom",
+        "title": "President"
+      },
+      {
+        "name": "of Billing",
+        "title": "President"
+      }
+    ],
+    "founding_date": null,
+    "service_description": "provide interconnectedVoIP services initially in the stateofTexas."
+  },
+  "web_search_results": [
+    {
+      "title": "Privacy Policy | Whisl",
+      "url": "https://www.whisl.com/privacy-policy",
+      "snippet": "Whisl Telecom , LLC ( \u201c Whisl Telecom , \u201d \u201c we, \u201d \u201c our, \u201d or \u201c us \u201d ) respects your privacy and is ..."
+    },
+    {
+      "title": "Idaho attorney general joins multi-state crackdown on illegal",
+      "url": "https://idahocapitalsun.com/briefs/idaho-attorney-general-joins-multi-state-crackdown-on-illegal-robocalls/",
+      "snippet": "We \u2019 re putting these telecommunications providers on notice that they must follow federal rules immediately."
+    },
+    {
+      "title": "AG Labrador \u2013 Operation Robocall Roundup - MAGIC VALLEY NEWS",
+      "url": "https://magicvalleyba.org/2025/08/22/ag-labrador-operation-robocall-roundup/",
+      "snippet": "We \u2019 re putting these telecommunications providers on notice that they must follow federal rules immediately."
+    },
+    {
+      "title": "Attorney General Labrador Launches \u201cOperation Robocall",
+      "url": "https://www.ag.idaho.gov/newsroom/attorney-general-labrador-launches-operation-robocall-roundup-to-protect-idahoans-from-illegal-robocalls/",
+      "snippet": "We \u2019 re putting these telecommunications providers on notice that they must ... Whisl Telecom , LLC / Telconus / Telcon US / Telcon Voice"
+    },
+    {
+      "title": "Robocallers Face Nationwide Legal Blitz to End Frauds, Scams, a",
+      "url": "https://www.thenyindependent.com/law/1706924/robocallers-face-nationwide-legal-blitz-to-end-frauds-scams-a-1-2-billion-business/",
+      "snippet": "Together with a bipartisan coalition of attorneys general, my office sent warnings to 37 telecommunications companies demanding that they immediately ..."
+    }
+  ]
+}
+
+RULES:
+- Ground ALL assessments in the provided evidence
+- Cite specific sources in activity_signal (e.g., "Recent FCC filing (2024)", "Company website found via search")
+- Use "Unknown" when evidence is insufficient - DO NOT hallucinate
+- Confidence levels:
+  - High = Multiple confirming signals (recent web presence + recent filings + company details)
+  - Medium = Some signals but incomplete picture
+  - Low = FCC data only, no external confirmation
+
+Call the enrichment_result function with your analysis.

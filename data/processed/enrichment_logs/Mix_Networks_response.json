@@ -1,0 +1,35 @@
+{
+  "id": "msg_01Me2f587HnxQ6AAtrWPhCMb",
+  "content": [
+    {
+      "id": "toolu_017DDaMt9yKQt16569MkueVQ",
+      "input": {
+        "is_active": false,
+        "activity_signal": "Company appears inactive based on: 1) FCC filing only from 2016 with no recent activity, 2) LinkedIn company page exists but no recent activity indicators, 3) Company website (mixnetworks.com) found in search results suggests some web presence but no timestamps indicating recent activity, 4) No recent filings or supplements since 2016 initial application",
+        "industry_segment": "UCaaS",
+        "product_summary": "Mix Networks provides VoIP solutions including SIP trunking, IP telephony, and unified communications services for both residential and business customers, with a focus on specialty solutions and scalable telecommunications services.",
+        "market_position": "SMB",
+        "enrichment_confidence": "Medium"
+      },
+      "name": "enrichment_result",
+      "type": "tool_use"
+    }
+  ],
+  "model": "claude-sonnet-4-20250514",
+  "role": "assistant",
+  "stop_reason": "tool_use",
+  "stop_sequence": null,
+  "type": "message",
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0,
+    "input_tokens": 1748,
+    "output_tokens": 251,
+    "server_tool_use": null,
+    "service_tier": "standard"
+  }
+}

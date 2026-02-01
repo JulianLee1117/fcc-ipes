@@ -1,0 +1,83 @@
+You are analyzing an IPES (Interconnected VoIP Provider) company that filed for numbering authorization with the FCC.
+
+Based ONLY on the evidence provided below, determine:
+1. Whether the company is likely still active
+2. Their industry segment (UCaaS, CCaaS, CPaaS, Carrier, Reseller, Enterprise IT, or Other)
+3. A brief product summary
+4. Their market position (Enterprise, Mid-Market, SMB, Startup, or Unknown)
+5. Your confidence level based on evidence quality
+
+EVIDENCE PACK:
+{
+  "company_name": "Union Telephone Company",
+  "aliases": [
+    "Union Telephone Company"
+  ],
+  "fcc_filing": {
+    "first_filing_date": "2023-09-11",
+    "latest_filing_date": "2023-09-11",
+    "total_filings": 2,
+    "docket_numbers": [
+      "23-310"
+    ],
+    "proceeding_types": [
+      "Interconnected VoIP Numbering Authorization Application Filed By Union Telephone Company Pursuant To Section 52.15(g)(3) Of The Commission's Rules"
+    ],
+    "has_supplements": true,
+    "recent_activity": false
+  },
+  "parsed_from_docs": {
+    "address": "850 N. Highway 414",
+    "city": null,
+    "state": null,
+    "zip_code": null,
+    "phone": "3077826131",
+    "email": "ewoody@unionwireless.com",
+    "key_personnel": [
+      {
+        "name": "Chief Executive Officer",
+        "title": "Brian Woody"
+      }
+    ],
+    "founding_date": "1997",
+    "service_description": "provides both local exchange and wireless telecommunications services and who is seeking to expand\nits service offerings by providing interconnected VoIP service within its current wireless, CAF-II, and\nACAM service areas, hereby requests the Commission grant it that authorization."
+  },
+  "web_search_results": [
+    {
+      "title": "Union Telephone | Phone - Internet - Television | Plainfield, WI",
+      "url": "https://uniontel.net/",
+      "snippet": "Union Telephone is a member of Amherst Communications Company. Union Telephone is a sister company to Unitel. A communications partner since 1900, Union Telephone provides the best services at a fair price, using modern technology with unparalleled customer service."
+    },
+    {
+      "title": "Union Telephone Company Profile | Management and ... - Datanyze",
+      "url": "https://www.datanyze.com/companies/union-telephone/353960478",
+      "snippet": "Union Telephone is a communications provider based in Plainfield, WI, offering phone, internet, and television services since 1900. The company focuses on delivering modern technology and unparalleled customer service at fair prices to both residential and business clients."
+    },
+    {
+      "title": "Union Telephone Company | BBB Business Profile | Better ... Union Telephone - 2025 Company Profile & Competitors - Tracxn Union Telephone Company | Business Internet Provider Union Telephone | Phone - Internet - Television | Plainfield, WI Union Wireless. Wyoming Phone & Broadband Company : High-Speed\u2026 Union Wireless. Wyoming Phone & Broadband Company : High-Speed\u2026 Union Wireless. Wyoming Phone & Broadband Company : High-Speed\u2026 Union Wireless. Wyoming Phone & Broadband Company: High-Speed ...",
+      "url": "https://www.bbb.org/us/wi/plainfield/profile/telecommunications/union-telephone-company-0694-13002847",
+      "snippet": "Satellite Systems, a division of Union Telephone Company , is located at the same address and offers satellite dish sales and services. Oct 17, 2025 \u00b7 Union Telephone is an acquired company based in Plainfield (United States), founded in 1996. It operates as a Central Wisconsin telecommunications provider offering internet, television, and phone services. The company has 3239 active competitors, including 74 funded and 544 that have exited. 4 days ago \u00b7 See Union Telephone Company ' s latest deals and use this detailed availability map to see if you live in one of the 9 cities and towns across Wisconsin and Wisconsin where Union Telephone Company has Fiber or DSL internet service. Who is union telephone? Union Telephone has been your homegrown communications partner since 1900. Dedicated to bringing the best in communications services at a fair price, we believe in using modern technology and up-to-date services with unparalleled customer service and local support to enhance your quality of life and achieve success. What services does Union Telephone Company offer? Union Telephone Company offers a full line of telecommunication services , including Interstate Toll, Intrastate Toll, Plain Old Telephone Service, Cellular Telephone Service, Data Transport, Data Application Solutions, Equipment Sales, and Equipment Rental. How will the Union Telephone Company become a major telecommunications provider? To become a major telecommunications provider in its area, the Union Telephone Company must focus on customers and their perception of value . It will become the provider of choice for telecommunication services in areas immediately adjacent to and within its current service area. Who is Union Wireless? As a leading phone and broadband company in Wyoming , Union Wireless is the company to turn to for high-speed, fiber-optic internet & more! The Union Telephone Company ' s mission is to become the premier telecommunications provider in the Rocky Mountain region. The Union Telephone Company will become the provider of choice for telecommunication services in those areas that are immediately adjacent to and within the current service area."
+    },
+    {
+      "title": "Union Telephone - 2025 Company Profile & Competitors - Tracxn",
+      "url": "https://tracxn.com/d/companies/union-telephone/__qF67-y6sQKH2zpyBf0_CA3HZ-ffw-EU7-3FWXeMwicc",
+      "snippet": "Oct 17, 2025 \u00b7 Union Telephone is an acquired company based in Plainfield (United States), founded in 1996. It operates as a Central Wisconsin telecommunications provider offering internet, television, and phone services. The company has 3239 active competitors, including 74 funded and 544 that have exited."
+    },
+    {
+      "title": "Union Telephone Company | Business Internet Provider",
+      "url": "https://broadbandnow.com/Union-Telephone-Company",
+      "snippet": "4 days ago \u00b7 See Union Telephone Company ' s latest deals and use this detailed availability map to see if you live in one of the 9 cities and towns across Wisconsin and Wisconsin where Union Telephone Company has Fiber or DSL internet service."
+    }
+  ]
+}
+
+RULES:
+- Ground ALL assessments in the provided evidence
+- Cite specific sources in activity_signal (e.g., "Recent FCC filing (2024)", "Company website found via search")
+- Use "Unknown" when evidence is insufficient - DO NOT hallucinate
+- Confidence levels:
+  - High = Multiple confirming signals (recent web presence + recent filings + company details)
+  - Medium = Some signals but incomplete picture
+  - Low = FCC data only, no external confirmation
+
+Call the enrichment_result function with your analysis.

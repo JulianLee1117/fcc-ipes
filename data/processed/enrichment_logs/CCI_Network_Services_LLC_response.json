@@ -1,0 +1,35 @@
+{
+  "id": "msg_01A9ehoD5n1D8iZijUkeR2ta",
+  "content": [
+    {
+      "id": "toolu_01NKsT3EiJRNRzP2Sfj9qjtr",
+      "input": {
+        "is_active": false,
+        "activity_signal": "No recent activity indicators found. FCC filing from 2021-02-26 with no recent filings (recent_activity: false). FTC warning letter found in search results suggests regulatory issues. Bloomberg and Mergr profiles exist but lack recent activity indicators. No current web presence or recent business activity documented.",
+        "industry_segment": "Carrier",
+        "product_summary": "Provider of diversified telecom services including voice, data and cloud solutions for enterprise customers and small to medium-sized businesses, based on Mergr profile description.",
+        "market_position": "SMB",
+        "enrichment_confidence": "Medium"
+      },
+      "name": "enrichment_result",
+      "type": "tool_use"
+    }
+  ],
+  "model": "claude-sonnet-4-20250514",
+  "role": "assistant",
+  "stop_reason": "tool_use",
+  "stop_sequence": null,
+  "type": "message",
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0,
+    "input_tokens": 1706,
+    "output_tokens": 227,
+    "server_tool_use": null,
+    "service_tier": "standard"
+  }
+}

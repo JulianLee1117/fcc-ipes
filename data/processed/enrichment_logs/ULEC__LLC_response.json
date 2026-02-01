@@ -1,0 +1,35 @@
+{
+  "id": "msg_01LJwJLzkrtP3RZbJ4RqKowS",
+  "content": [
+    {
+      "id": "toolu_011F8JAkdMaC9FEuhuKrDaeT",
+      "input": {
+        "is_active": true,
+        "activity_signal": "Recent FCC filing (2025-07-03) for Interconnected VoIP Numbering Authorization with complete company contact information including active email (Kim@ulec.com) and phone number, indicating current business operations",
+        "industry_segment": "UCaaS",
+        "product_summary": "ULEC provides nomadic VoIP services with mandatory location registration for E911 compliance, offering real-time location updates and emergency call routing capabilities.",
+        "market_position": "Unknown",
+        "enrichment_confidence": "Low"
+      },
+      "name": "enrichment_result",
+      "type": "tool_use"
+    }
+  ],
+  "model": "claude-sonnet-4-20250514",
+  "role": "assistant",
+  "stop_reason": "tool_use",
+  "stop_sequence": null,
+  "type": "message",
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0,
+    "input_tokens": 1806,
+    "output_tokens": 209,
+    "server_tool_use": null,
+    "service_tier": "standard"
+  }
+}

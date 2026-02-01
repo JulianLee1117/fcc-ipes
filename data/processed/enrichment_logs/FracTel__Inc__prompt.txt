@@ -1,0 +1,78 @@
+You are analyzing an IPES (Interconnected VoIP Provider) company that filed for numbering authorization with the FCC.
+
+Based ONLY on the evidence provided below, determine:
+1. Whether the company is likely still active
+2. Their industry segment (UCaaS, CCaaS, CPaaS, Carrier, Reseller, Enterprise IT, or Other)
+3. A brief product summary
+4. Their market position (Enterprise, Mid-Market, SMB, Startup, or Unknown)
+5. Your confidence level based on evidence quality
+
+EVIDENCE PACK:
+{
+  "company_name": "FracTel, Inc.",
+  "aliases": [
+    "FracTel, Inc."
+  ],
+  "fcc_filing": {
+    "first_filing_date": "2016-08-22",
+    "latest_filing_date": "2016-08-22",
+    "total_filings": 1,
+    "docket_numbers": [
+      "16-282"
+    ],
+    "proceeding_types": [
+      "INTERCONNECTED VOIP NUMBERING AUTHORIZATION APPLICATION FILED BY FRACTEL, LLC. PURSUANT TO SECTION 52.15(g)(3) OF THE COMMISSION\u2019S RULES"
+    ],
+    "has_supplements": false,
+    "recent_activity": false
+  },
+  "parsed_from_docs": {
+    "address": null,
+    "city": null,
+    "state": null,
+    "zip_code": null,
+    "phone": null,
+    "email": null,
+    "key_personnel": [],
+    "founding_date": null,
+    "service_description": null
+  },
+  "web_search_results": [
+    {
+      "title": "FracTEL \u2013 Telecom Perfected",
+      "url": "https://fractel.com/",
+      "snippet": "For over a decade, FracTEL has delivered a full-stack of communication solutions that help our partners rapidly innovate, expand & profit. It's simple. Get a stress free business phone system & save money. Drag, drop & deploy business-critical applications without risky development. Rapidly develop powerful communication-centered applications."
+    },
+    {
+      "title": "UCaaS and Business VoIP service provider in USA and Canada",
+      "url": "https://ww2.fractel.net/",
+      "snippet": "Fractel offers UCaaS and Business VoIP service in USA and Canada featuring international, toll free, and SMS/MMS services. 100% uptime is guaranteed."
+    },
+    {
+      "title": "Fractel, LLC - LinkedIn",
+      "url": "https://www.linkedin.com/company/fractel-llc",
+      "snippet": "Fractel is the premier cloud communications solution for the enterprise that requires superior voice quality and maximum reliability. Fractel offers all the features modern businesses require,..."
+    },
+    {
+      "title": "FracTEL Company Profile - Office Locations, Competitors ... Fractel Company Profile | Management and Employees List FracTEL - Crunchbase Company Profile & Funding FracTEL Company Profile - Office Locations, Competitors ... - Craft FracTEL \u2013 Telecom Perfected FracTEL - UCaaS and Business VoIP service provider in USA and Can\u2026 FracTEL Company Profile - Office Locations, Competitors ... - Craft About FracTEL: Our Mission and Leadership",
+      "url": "https://craft.co/fractel",
+      "snippet": "FracTEL is a company that designs and develops cloud communications solutions for carriers, service providers, and enterprises. FracTEL provides a comprehensive suite of communication solutions tailored for small businesses looking to enhance their communication capabilities. Their offerings include Cloud Voice, No-Code Automation, Cloud API, and Carrier Services, all designed to optimize productivity and reduce costs. Based in Indialantic, FL, FracTEL is the pioneering provider of next-generation cloud-based telecommunications systems that are transforming businesses by, for the first time, fully integrating telecommunications with information technology. What is fractel & how does it work? FracTEL is a company that designs and develops cloud communications solutions for carriers, service providers, and enterprises. Why should you choose fractel? With FracTEL you can deliver big communication solutions with small business resources. We connect people & accelerate business. For over a decade, FracTEL has delivered a full-stack of communication solutions that help our partners rapidly innovate, expand & profit. It's simple. Get a stress free business phone system & save money. Does fractel offer all-inclusive pricing? FracTEL offers all-inclusive pricing that covers every feature of our phone service, collaboration tool suite, mobile applications and U.S. based support. We are the only company to offer this because we know any downtime is bad for business. No need to upgrade your existing network. Simply plug-in your new phones and start making more money. How much money does fractel have? The company also specializes in carrier solutions. FracTEL has 5 employees across 2 locations and $500 k in total funding,. See insights on FracTEL including office locations, competitors, revenue, financials, executives, subsidiaries and more at Craft. Since 2007, FracTEL has provided business class IP telecommunication services to carriers, service providers and businesses that require the very highest level of quality, reliability and support."
+    },
+    {
+      "title": "Fractel Company Profile | Management and Employees List",
+      "url": "https://www.datanyze.com/companies/fractel/356049068",
+      "snippet": "FracTEL provides a comprehensive suite of communication solutions tailored for small businesses looking to enhance their communication capabilities. Their offerings include Cloud Voice, No-Code Automation, Cloud API, and Carrier Services, all designed to optimize productivity and reduce costs."
+    }
+  ]
+}
+
+RULES:
+- Ground ALL assessments in the provided evidence
+- Cite specific sources in activity_signal (e.g., "Recent FCC filing (2024)", "Company website found via search")
+- Use "Unknown" when evidence is insufficient - DO NOT hallucinate
+- Confidence levels:
+  - High = Multiple confirming signals (recent web presence + recent filings + company details)
+  - Medium = Some signals but incomplete picture
+  - Low = FCC data only, no external confirmation
+
+Call the enrichment_result function with your analysis.

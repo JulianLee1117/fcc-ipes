@@ -1,0 +1,78 @@
+You are analyzing an IPES (Interconnected VoIP Provider) company that filed for numbering authorization with the FCC.
+
+Based ONLY on the evidence provided below, determine:
+1. Whether the company is likely still active
+2. Their industry segment (UCaaS, CCaaS, CPaaS, Carrier, Reseller, Enterprise IT, or Other)
+3. A brief product summary
+4. Their market position (Enterprise, Mid-Market, SMB, Startup, or Unknown)
+5. Your confidence level based on evidence quality
+
+EVIDENCE PACK:
+{
+  "company_name": "Computer Telephony Innovations Inc dba Voxtelesys.com",
+  "aliases": [
+    "Computer Telephony Innovations Inc dba Voxtelesys.com"
+  ],
+  "fcc_filing": {
+    "first_filing_date": "2020-04-24",
+    "latest_filing_date": "2020-04-24",
+    "total_filings": 2,
+    "docket_numbers": [
+      "20-131"
+    ],
+    "proceeding_types": [
+      "Interconnected VoIP Numbering Authorization Application Filed  By Computer Telephony Innovations, Inc. dba Voxtelesys Pursuant To Section 52.15(g)(3) Of The Commission's Rules"
+    ],
+    "has_supplements": false,
+    "recent_activity": false
+  },
+  "parsed_from_docs": {
+    "address": null,
+    "city": null,
+    "state": null,
+    "zip_code": null,
+    "phone": null,
+    "email": null,
+    "key_personnel": [],
+    "founding_date": null,
+    "service_description": null
+  },
+  "web_search_results": [
+    {
+      "title": "The Most Feature-Rich VoIP Provider for Businesses",
+      "url": "https://voip.ms/",
+      "snippet": "State-of-the-Art VoIP Service Provider As a Telecommunications Service Provider, we are devoted to providing quality local and international connections to our customers around the world."
+    },
+    {
+      "title": "Top Small VoIP companies in Iowa - Sioux City - January, 2026",
+      "url": "https://www.zoominfo.com/top-lists/top-voip-companies-in-US--iowa--sioux-city-size-small",
+      "snippet": "Explore the Top Small VoIP companies in Iowa - Sioux City based on key metrics and discover additional information>>"
+    },
+    {
+      "title": "Enhance Business Communications With SpectrumVoIP",
+      "url": "https://www.spectrumvoip.com/",
+      "snippet": "Discover custom VoIP solutions with SpectrumVoIP in N.A. Transform communications , optimize networks, and build your package today!"
+    },
+    {
+      "title": "Cytracom - Software Defined Networking & Security, Voice and ...",
+      "url": "https://www.cytracom.com/",
+      "snippet": "Voice and Text for Business Stay connected with comprehensive Unified Communications solutions including VoIP , business text messaging, desktop and mobile apps."
+    },
+    {
+      "title": "The Leading VoIP Business Services - Clarity Voice",
+      "url": "https://clarityvoice.com/",
+      "snippet": "Get the leading VoIP business services with Clarity Voice. Trustworthy and affordable business VoIP services. Contact us today. Click here to learn more."
+    }
+  ]
+}
+
+RULES:
+- Ground ALL assessments in the provided evidence
+- Cite specific sources in activity_signal (e.g., "Recent FCC filing (2024)", "Company website found via search")
+- Use "Unknown" when evidence is insufficient - DO NOT hallucinate
+- Confidence levels:
+  - High = Multiple confirming signals (recent web presence + recent filings + company details)
+  - Medium = Some signals but incomplete picture
+  - Low = FCC data only, no external confirmation
+
+Call the enrichment_result function with your analysis.

@@ -1,0 +1,78 @@
+You are analyzing an IPES (Interconnected VoIP Provider) company that filed for numbering authorization with the FCC.
+
+Based ONLY on the evidence provided below, determine:
+1. Whether the company is likely still active
+2. Their industry segment (UCaaS, CCaaS, CPaaS, Carrier, Reseller, Enterprise IT, or Other)
+3. A brief product summary
+4. Their market position (Enterprise, Mid-Market, SMB, Startup, or Unknown)
+5. Your confidence level based on evidence quality
+
+EVIDENCE PACK:
+{
+  "company_name": "Cristina Chou",
+  "aliases": [
+    "Cristina Chou"
+  ],
+  "fcc_filing": {
+    "first_filing_date": "2022-06-09",
+    "latest_filing_date": "2022-06-09",
+    "total_filings": 1,
+    "docket_numbers": [
+      "22-330"
+    ],
+    "proceeding_types": [
+      "Interconnected VoIP Numbering Authorization Application Filed By CSC Voice, LLC Pursuant To Section 52.15(g)(3) Of The Commission's Rules"
+    ],
+    "has_supplements": false,
+    "recent_activity": false
+  },
+  "parsed_from_docs": {
+    "address": "c/o Altice USA, Inc.",
+    "city": null,
+    "state": null,
+    "zip_code": null,
+    "phone": null,
+    "email": "Cristina.Chou@AlticeUSA.com",
+    "key_personnel": [],
+    "founding_date": null,
+    "service_description": "offering interconnected VoIP service, files this application\nwith the Federal Communications Commission for authorization to acquire telephone numbers\ndirectly from the North American Numbering Plan Administrator and the Pooling Administrator\n(\u201cNumbering Administrators\u201d) pursuant to Section 52."
+  },
+  "web_search_results": [
+    {
+      "title": "Cristina Chou",
+      "url": "https://www.pli.edu/faculty/cristina-chou-i1529092",
+      "snippet": "Cristina Chou is Vice President, Federal Affairs for Altice USA, one of the largest broadband communications and video services providers in the U.S. Based in Washington, D.C., Cristina represents the company on federal regulatory and legislative issues before the FCC..."
+    },
+    {
+      "title": "Cristina Chou - Vice President, Federal Affairs at Altice USA | LinkedIn",
+      "url": "https://www.linkedin.com/in/cristina-chou-708ab714",
+      "snippet": "View Cristina Chou \u2019s profile on LinkedIn, a professional community of 1 billion members.See who you know in common. Get introduced. Contact Cristina directly. Join to view full profile."
+    },
+    {
+      "title": "Cristina Chou - Davis Wright Tremaine LLP - Experts - Lexology",
+      "url": "https://www.lexology.com/firms/davis-wright-tremaine-llp/cristina_chou",
+      "snippet": "Popular. Cristina Chou . Cristina Chou . Davis Wright Tremaine LLP."
+    },
+    {
+      "title": "Pin by Cristina Chou on Tattoo | Wrist tattoos for women, Word tattoos...",
+      "url": "https://www.pinterest.com/pin/inspiration--8373949291645544/",
+      "snippet": "This Pin was discovered by Cristina Chou .Unique Tattoo Inspiration For Travelers. Cristina Chou ."
+    },
+    {
+      "title": "Cristina Chou | Benton Institute for Broadband & Society",
+      "url": "https://www.benton.org/author/cristina-chou",
+      "snippet": "Cristina Chou . In letter to FCC, Altice USA says it will not deploy broadband in some Louisiana Rural Digital Opportunity Fund areas."
+    }
+  ]
+}
+
+RULES:
+- Ground ALL assessments in the provided evidence
+- Cite specific sources in activity_signal (e.g., "Recent FCC filing (2024)", "Company website found via search")
+- Use "Unknown" when evidence is insufficient - DO NOT hallucinate
+- Confidence levels:
+  - High = Multiple confirming signals (recent web presence + recent filings + company details)
+  - Medium = Some signals but incomplete picture
+  - Low = FCC data only, no external confirmation
+
+Call the enrichment_result function with your analysis.

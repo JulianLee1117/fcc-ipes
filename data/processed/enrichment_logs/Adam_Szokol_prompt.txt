@@ -1,0 +1,76 @@
+You are analyzing an IPES (Interconnected VoIP Provider) company that filed for numbering authorization with the FCC.
+
+Based ONLY on the evidence provided below, determine:
+1. Whether the company is likely still active
+2. Their industry segment (UCaaS, CCaaS, CPaaS, Carrier, Reseller, Enterprise IT, or Other)
+3. A brief product summary
+4. Their market position (Enterprise, Mid-Market, SMB, Startup, or Unknown)
+5. Your confidence level based on evidence quality
+
+EVIDENCE PACK:
+{
+  "company_name": "Adam Szokol",
+  "aliases": [
+    "Adam Szokol"
+  ],
+  "fcc_filing": {
+    "first_filing_date": "2025-02-10",
+    "latest_filing_date": "2025-02-10",
+    "total_filings": 1,
+    "docket_numbers": [],
+    "proceeding_types": [
+      "VoIP Numbering Authorization Application (Fee Required)"
+    ],
+    "has_supplements": false,
+    "recent_activity": true
+  },
+  "parsed_from_docs": {
+    "address": "2300RockSpringsDr,Apt1145,LasVegas,NV89128",
+    "city": null,
+    "state": null,
+    "zip_code": null,
+    "phone": "8457930554",
+    "email": "adam@adamszokol.com",
+    "key_personnel": [],
+    "founding_date": null,
+    "service_description": null
+  },
+  "web_search_results": [
+    {
+      "title": "Adam Szokol Company Profile | Las Vegas, NV | Competitors ...",
+      "url": "https://www.dnb.com/business-directory/company-profiles.adam_szokol.3348bad843e586e29e225c431be2fb05.html",
+      "snippet": "Find company research, competitor information, contact details & financial data for Adam Szokol of Las Vegas, NV. Get the latest business insights from Dun & Bradstreet."
+    },
+    {
+      "title": "Adam Sokol - Fiber Sales Executive | LinkedIn Adam Szokol - Facebook Services \u2013 Adam Szokol Adam Sokol Phone Number | Fiber Sales Executive at At & T ... Adam Szokol \u2013 Code, Freedom, and an Open Internet Adam Szokol - Facebook",
+      "url": "https://www.linkedin.com/in/adam-sokol-5a28a2107",
+      "snippet": "\u2022 Represent AT&T fiber optic solutions to business customers in pre-lit buildings. ATT fiber services include: Ethernet based internet access, VoIP , MPLS, IPVPN and Metro Ethernet services Dec 4, 2025 \u00b7 Adam Szokol . 2 likes. Hi! It's my official Facebook-page. Explore opinions and let's go together on this adventure. I provide two distinct paths of professional engagement: Foundational Architecture for new ventures, and Technical Asset Management for established online businesses. Select the path that fits your current needs. Dec 3, 2023 \u00b7 Adam Sokol works for At & T as Fiber Sales Executive What is Adam Sokol\u2019s role in At & T? What is Adam Sokol\u2019s direct phone number? What is Adam Sokol\u2019s work phone number? Adam Sokol\u2019s headquarters phone number is (330) 725-5262 What is Adam Sokol\u2019s latest job experience? I\u2019m Adam , a technical developer who builds fast, reliable, and secure WordPress assets. No page builders, no shortcuts\u2014just professional code for serious businesses. Explore My Solutions Why Hire an Independent Developer? Join Facebook to connect with Adam Szokol and others you may know. Facebook gives people the power to share and makes the..."
+    },
+    {
+      "title": "Adam Szokol - Facebook",
+      "url": "https://www.facebook.com/szokoladamofficial/",
+      "snippet": "Dec 4, 2025 \u00b7 Adam Szokol . 2 likes. Hi! It's my official Facebook-page. Explore opinions and let's go together on this adventure."
+    },
+    {
+      "title": "Adam Sokol Phone Number | Fiber Sales Executive at At & T ...",
+      "url": "https://www.zoominfo.com/p/Adam-Sokol/2359762832",
+      "snippet": "Dec 3, 2023 \u00b7 Adam Sokol works for At & T as Fiber Sales Executive What is Adam Sokol\u2019s role in At & T? What is Adam Sokol\u2019s direct phone number? What is Adam Sokol\u2019s work phone number? Adam Sokol\u2019s headquarters phone number is (330) 725-5262 What is Adam Sokol\u2019s latest job experience?"
+    },
+    {
+      "title": "Adam Szokol \u2013 Code, Freedom, and an Open Internet",
+      "url": "http://adamszokol.com/",
+      "snippet": "I\u2019m Adam , a technical developer who builds fast, reliable, and secure WordPress assets. No page builders, no shortcuts\u2014just professional code for serious businesses. Explore My Solutions Why Hire an Independent Developer?"
+    }
+  ]
+}
+
+RULES:
+- Ground ALL assessments in the provided evidence
+- Cite specific sources in activity_signal (e.g., "Recent FCC filing (2024)", "Company website found via search")
+- Use "Unknown" when evidence is insufficient - DO NOT hallucinate
+- Confidence levels:
+  - High = Multiple confirming signals (recent web presence + recent filings + company details)
+  - Medium = Some signals but incomplete picture
+  - Low = FCC data only, no external confirmation
+
+Call the enrichment_result function with your analysis.

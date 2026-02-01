@@ -1,0 +1,35 @@
+{
+  "id": "msg_01MBoU62GGdQUm1UWsyPbyKs",
+  "content": [
+    {
+      "id": "toolu_016YBJZJEqNJ4sSSqKJYTfJB",
+      "input": {
+        "is_active": true,
+        "activity_signal": "Company website found via search (qualityvoicedata.com) with current services, LinkedIn company profile showing active presence, ZoomInfo profile with revenue data ($3 million, 11 employees), and Chicago Journal article from September 2023 describing the company as \"an industry titan\" with \"over three decades\" of experience and \"100 industry accolades\"",
+        "industry_segment": "CPaaS",
+        "product_summary": "Quality Voice & Data provides cloud-based VoIP and telecom switching services including caller ID, IVR, PBX, SMS/MMS messaging, conference calling, compliance monitoring, and SIP trunking with SHAKEN attestation for outbound calling campaigns.",
+        "market_position": "SMB",
+        "enrichment_confidence": "High"
+      },
+      "name": "enrichment_result",
+      "type": "tool_use"
+    }
+  ],
+  "model": "claude-sonnet-4-20250514",
+  "role": "assistant",
+  "stop_reason": "tool_use",
+  "stop_sequence": null,
+  "type": "message",
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0,
+    "input_tokens": 1977,
+    "output_tokens": 267,
+    "server_tool_use": null,
+    "service_tier": "standard"
+  }
+}

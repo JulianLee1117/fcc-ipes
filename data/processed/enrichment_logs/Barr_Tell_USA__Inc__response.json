@@ -1,0 +1,35 @@
+{
+  "id": "msg_01GVUM5SRRrqH3o9KxW9mX8Z",
+  "content": [
+    {
+      "id": "toolu_01JQhyRExw4aHPMVMbhM9zQL",
+      "input": {
+        "is_active": false,
+        "activity_signal": "No recent activity signals found. FCC filing from 2016 with no subsequent filings (last filing 2016-08-02). Web search results only show the company listed in historical telecom directories (Idaho PUC tariffs, AT&T supplier portal, Iconectiv authorized providers) but no active website or recent business activity found.",
+        "industry_segment": "Carrier",
+        "product_summary": "Provides interconnected VoIP services to retail businesses, seeking numbering authorization to operate as a telecommunications carrier.",
+        "market_position": "SMB",
+        "enrichment_confidence": "Medium"
+      },
+      "name": "enrichment_result",
+      "type": "tool_use"
+    }
+  ],
+  "model": "claude-sonnet-4-20250514",
+  "role": "assistant",
+  "stop_reason": "tool_use",
+  "stop_sequence": null,
+  "type": "message",
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0,
+    "input_tokens": 1792,
+    "output_tokens": 226,
+    "server_tool_use": null,
+    "service_tier": "standard"
+  }
+}

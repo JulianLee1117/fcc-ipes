@@ -1,0 +1,35 @@
+{
+  "id": "msg_01C4oEntDg37VsC7b5THEnCT",
+  "content": [
+    {
+      "id": "toolu_0183ojnCVfWChfJsK5L2YHfV",
+      "input": {
+        "is_active": true,
+        "activity_signal": "Recent FCC filing (2025-02-26) with 6 total filings under docket 25-112. Multiple recent web search results showing Aram Ter-Martirosyan as CIO of ConnectTo Communications, including March 2025 LA Executive Awards recognition highlighting achievements over past 24 months in AI and telecommunications development.",
+        "industry_segment": "Carrier",
+        "product_summary": "ConnectTo Communications provides interconnected VoIP services across all US states, with AI-driven software and telecommunications solutions including CRM and infrastructure services.",
+        "market_position": "Unknown",
+        "enrichment_confidence": "High"
+      },
+      "name": "enrichment_result",
+      "type": "tool_use"
+    }
+  ],
+  "model": "claude-sonnet-4-20250514",
+  "role": "assistant",
+  "stop_reason": "tool_use",
+  "stop_sequence": null,
+  "type": "message",
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0,
+    "input_tokens": 2492,
+    "output_tokens": 236,
+    "server_tool_use": null,
+    "service_tier": "standard"
+  }
+}

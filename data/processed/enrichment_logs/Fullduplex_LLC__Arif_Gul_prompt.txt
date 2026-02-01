@@ -1,0 +1,76 @@
+You are analyzing an IPES (Interconnected VoIP Provider) company that filed for numbering authorization with the FCC.
+
+Based ONLY on the evidence provided below, determine:
+1. Whether the company is likely still active
+2. Their industry segment (UCaaS, CCaaS, CPaaS, Carrier, Reseller, Enterprise IT, or Other)
+3. A brief product summary
+4. Their market position (Enterprise, Mid-Market, SMB, Startup, or Unknown)
+5. Your confidence level based on evidence quality
+
+EVIDENCE PACK:
+{
+  "company_name": "Fullduplex LLC, Arif Gul",
+  "aliases": [
+    "Fullduplex LLC, Arif Gul"
+  ],
+  "fcc_filing": {
+    "first_filing_date": "2023-11-15",
+    "latest_filing_date": "2023-11-15",
+    "total_filings": 1,
+    "docket_numbers": [],
+    "proceeding_types": [
+      "VoIP Numbering Authorization Application (Fee Required)"
+    ],
+    "has_supplements": false,
+    "recent_activity": false
+  },
+  "parsed_from_docs": {
+    "address": null,
+    "city": null,
+    "state": null,
+    "zip_code": null,
+    "phone": null,
+    "email": null,
+    "key_personnel": [],
+    "founding_date": null,
+    "service_description": null
+  },
+  "web_search_results": [
+    {
+      "title": "FULLDUPLEX LIMITED Company Profile - Dun & Bradstreet",
+      "url": "https://www.dnb.com/business-directory/company-profiles.fullduplex_limited.c5156aae26630db6e09370ac96140243.html",
+      "snippet": "Key Principal: Arif Gul See more contacts Industry: All Other Telecommunications , Telecommunications , Information , Communication services, nec"
+    },
+    {
+      "title": "Arif Gul - IT Manager | LinkedIn Arif GUL personal appointments - Find and update company ... Fullduplex Limited. Head office in Ilford. Check Director. Full Duplex | Managed IT & Cloud Application Services Fullduplex Limited | London | Arif Gul - BizSeek",
+      "url": "https://uk.linkedin.com/in/arif-gul-b215b51b",
+      "snippet": "I am a senior developer with more than a decade's experience in Full Stack, SQL and Web server technologies. I also help out in web design & development, systems integration, IT systems and also... Feb 24, 2020 \u00b7 We use some essential cookies to make our services work. We'd also like to use analytics cookies so we can understand how you use our services and to make improvements. Situated at 329 Ley Street, Ilford IG1 4AA, the above-mentioned 19 years old company was incorporated on 2006-06-08 and is classified as \"other telecommunications activities\" (Standard Industrial Classification code: 61900). FullDuplex is your partner for IT Services from infrastructure to cloud to security. We design, implement and manage your IT infrastructure\u2026 So you can focus on your business. Free your business from the cost and burden of IT infrastructure management. Award winning cloud connectivity and networking expertise. Arif Gul is the primary contact at Fullduplex Limited. Fullduplex Limited is located at 17 Ensign House Admirals Way, London, England."
+    },
+    {
+      "title": "Fullduplex Limited. Head office in Ilford. Check Director.",
+      "url": "https://www.checkdirector.co.uk/company/fullduplex-limited-05841014/",
+      "snippet": "Situated at 329 Ley Street, Ilford IG1 4AA, the above-mentioned 19 years old company was incorporated on 2006-06-08 and is classified as \"other telecommunications activities\" (Standard Industrial Classification code: 61900)."
+    },
+    {
+      "title": "Fullduplex Limited | London | Arif Gul - BizSeek",
+      "url": "https://www.bizseek.co.uk/fullduplex-limited",
+      "snippet": "Arif Gul is the primary contact at Fullduplex Limited. Fullduplex Limited is located at 17 Ensign House Admirals Way, London, England."
+    },
+    {
+      "title": "Arif GUL personal appointments - Find and update company ...",
+      "url": "https://find-and-update.company-information.service.gov.uk/officers/yFCvJyRQIr-jxhc3eshc5ovS5lI/appointments",
+      "snippet": "Feb 24, 2020 \u00b7 We use some essential cookies to make our services work. We'd also like to use analytics cookies so we can understand how you use our services and to make improvements."
+    }
+  ]
+}
+
+RULES:
+- Ground ALL assessments in the provided evidence
+- Cite specific sources in activity_signal (e.g., "Recent FCC filing (2024)", "Company website found via search")
+- Use "Unknown" when evidence is insufficient - DO NOT hallucinate
+- Confidence levels:
+  - High = Multiple confirming signals (recent web presence + recent filings + company details)
+  - Medium = Some signals but incomplete picture
+  - Low = FCC data only, no external confirmation
+
+Call the enrichment_result function with your analysis.

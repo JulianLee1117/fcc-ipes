@@ -1,0 +1,99 @@
+You are analyzing an IPES (Interconnected VoIP Provider) company that filed for numbering authorization with the FCC.
+
+Based ONLY on the evidence provided below, determine:
+1. Whether the company is likely still active
+2. Their industry segment (UCaaS, CCaaS, CPaaS, Carrier, Reseller, Enterprise IT, or Other)
+3. A brief product summary
+4. Their market position (Enterprise, Mid-Market, SMB, Startup, or Unknown)
+5. Your confidence level based on evidence quality
+
+EVIDENCE PACK:
+{
+  "company_name": "Noble Systems Communications LLC",
+  "aliases": [
+    "Noble Systems Communications LLC"
+  ],
+  "fcc_filing": {
+    "first_filing_date": "2020-05-28",
+    "latest_filing_date": "2020-05-28",
+    "total_filings": 2,
+    "docket_numbers": [
+      "20-159"
+    ],
+    "proceeding_types": [
+      "Interconnected VoIP Numbering Authorization Application Filed By Noble Systems Communications, LLC Pursuant To Section 52.15(g)(3) Of The Commission's Rules"
+    ],
+    "has_supplements": true,
+    "recent_activity": false
+  },
+  "parsed_from_docs": {
+    "address": null,
+    "city": null,
+    "state": null,
+    "zip_code": null,
+    "phone": "2027926422",
+    "email": null,
+    "key_personnel": [
+      {
+        "name": "Noble Systems",
+        "title": "President"
+      },
+      {
+        "name": "of\nNoble",
+        "title": "President"
+      },
+      {
+        "name": "of Noble",
+        "title": "President"
+      },
+      {
+        "name": "Noble Systems",
+        "title": "President"
+      },
+      {
+        "name": "years and",
+        "title": "President"
+      }
+    ],
+    "founding_date": null,
+    "service_description": "providers to compromise\nNoble\u2019s position in the highly competitive interconnected VoIP sector."
+  },
+  "web_search_results": [
+    {
+      "title": "US20070121894A1 - Systems and methods for managing call",
+      "url": "https://patents.google.com/patent/US20070121894A1/en",
+      "snippet": "... to JEFFERIES FINANCE LLC reassignment JEFFERIES FINANCE LLC FIRST LIEN PATENT SECURITY AGREEMENT Assignors: ASPECT SOFTWARE, INC., NOBLE SYSTEMS ..."
+    },
+    {
+      "title": "US8233609B2 - Systems and methods for managing call processing",
+      "url": "https://patents.google.com/patent/US8233609B2/en",
+      "snippet": "... to JEFFERIES FINANCE LLC reassignment JEFFERIES FINANCE LLC FIRST LIEN PATENT SECURITY AGREEMENT Assignors: ASPECT SOFTWARE, INC., NOBLE SYSTEMS ..."
+    },
+    {
+      "title": "Recent Mergers & Acquisitions In The Telecommunications",
+      "url": "https://anthonyveachlaw.com/blog/2023/11/20/recent-mergers-amp-acquisitions-in-the-telecommunications-industry",
+      "snippet": "CableSouth, a Tennessee LLC , primarily provides broadband, video, and interconnected VoIP services to residential customers throughout the ..."
+    },
+    {
+      "title": "Delivering Tailored Telecommunications Solutions to Meet the",
+      "url": "https://www.prlog.org/13050744-delivering-tailored-telecommunications-solutions-to-meet-the-unique-needs-of-australian-businesses.html",
+      "snippet": "... Telecommunications Solutions Peninsula Telecom's services are designed to support businesses across industries, offering business mobile plans, VoIP ..."
+    },
+    {
+      "title": "US8535059B1 - Learning management system for call center agents",
+      "url": "https://patents.google.com/patent/US8535059B1/en",
+      "snippet": "2015-06-02 Assigned to WELLS FARGO CAPITAL FINANCE, LLC reassignment WELLS FARGO CAPITAL FINANCE, LLC AMENDMENT Assignors: NOBLE SYSTEMS CORPORATION"
+    }
+  ]
+}
+
+RULES:
+- Ground ALL assessments in the provided evidence
+- Cite specific sources in activity_signal (e.g., "Recent FCC filing (2024)", "Company website found via search")
+- Use "Unknown" when evidence is insufficient - DO NOT hallucinate
+- Confidence levels:
+  - High = Multiple confirming signals (recent web presence + recent filings + company details)
+  - Medium = Some signals but incomplete picture
+  - Low = FCC data only, no external confirmation
+
+Call the enrichment_result function with your analysis.

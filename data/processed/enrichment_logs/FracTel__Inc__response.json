@@ -1,0 +1,35 @@
+{
+  "id": "msg_01LJD7z57VG1LSNCBayNYZ6r",
+  "content": [
+    {
+      "id": "toolu_01L28RpGMr3GcL7jbZuNKXyb",
+      "input": {
+        "is_active": true,
+        "activity_signal": "Active company website found at fractel.com and ww2.fractel.net showing current UCaaS/VoIP services, active LinkedIn company profile, and multiple business directory listings (Craft.co, Datanyze) indicating ongoing operations. Website claims \"For over a decade, FracTEL has delivered a full-stack of communication solutions.\"",
+        "industry_segment": "UCaaS",
+        "product_summary": "FracTEL provides cloud-based business communications solutions including UCaaS, VoIP services, SMS/MMS, Cloud Voice, No-Code Automation, and Cloud API services for carriers, service providers, and enterprises in USA and Canada.",
+        "market_position": "SMB",
+        "enrichment_confidence": "Medium"
+      },
+      "name": "enrichment_result",
+      "type": "tool_use"
+    }
+  ],
+  "model": "claude-sonnet-4-20250514",
+  "role": "assistant",
+  "stop_reason": "tool_use",
+  "stop_sequence": null,
+  "type": "message",
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0,
+    "input_tokens": 2154,
+    "output_tokens": 261,
+    "server_tool_use": null,
+    "service_tier": "standard"
+  }
+}

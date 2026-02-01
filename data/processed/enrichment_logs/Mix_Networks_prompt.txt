@@ -1,0 +1,78 @@
+You are analyzing an IPES (Interconnected VoIP Provider) company that filed for numbering authorization with the FCC.
+
+Based ONLY on the evidence provided below, determine:
+1. Whether the company is likely still active
+2. Their industry segment (UCaaS, CCaaS, CPaaS, Carrier, Reseller, Enterprise IT, or Other)
+3. A brief product summary
+4. Their market position (Enterprise, Mid-Market, SMB, Startup, or Unknown)
+5. Your confidence level based on evidence quality
+
+EVIDENCE PACK:
+{
+  "company_name": "Mix Networks",
+  "aliases": [
+    "Mix Networks"
+  ],
+  "fcc_filing": {
+    "first_filing_date": "2016-04-29",
+    "latest_filing_date": "2016-04-29",
+    "total_filings": 2,
+    "docket_numbers": [
+      "16-108"
+    ],
+    "proceeding_types": [
+      "Interconnected VoIP Numbering Authorization Application Filed By Mix Networks, Inc. Pursuant To Section 52.15(g)(3) Of The Commission's Rules"
+    ],
+    "has_supplements": false,
+    "recent_activity": false
+  },
+  "parsed_from_docs": {
+    "address": null,
+    "city": null,
+    "state": null,
+    "zip_code": null,
+    "phone": null,
+    "email": null,
+    "key_personnel": [],
+    "founding_date": null,
+    "service_description": null
+  },
+  "web_search_results": [
+    {
+      "title": "MIX Networks , Inc. | LinkedIn",
+      "url": "https://www.linkedin.com/company/mix-networks",
+      "snippet": "MIX Networks is a little different from other VoIP Providers in our ability to think outside the box and craft specialty solutions as customer needs dictate. VOIP , SIP Trunking, Telecommunications , IP Telephony, and Unified Solutions."
+    },
+    {
+      "title": "MIX Networks \u00ae - POTS Lines Vs. VoIP : The Battle of a Lifetime",
+      "url": "https://mixnetworks.com/pots-vs-voip-the-battle-of-a-lifetime/",
+      "snippet": "It all started in 1876 when Alexander Graham Bell uttered \u201cMr. Watson, Come here.\u201d For over a century, what became known as the telephone, dominated the communications industry as the de facto method of communications among businesses, families, and countries. POTS vs VOIP ."
+    },
+    {
+      "title": "Mix Networks has Reviews on MyVoipProvider",
+      "url": "https://www.myvoipprovider.com/reviews/mix-networks",
+      "snippet": "Mix Networks is an enhanced telephony service provider offering a full spectrum of VoIP solutions for Residential and Business users. Our VoIP services are scalable and can be tailored to your specific home or office telecommunications needs. The Mix VoIP Network is strongly built."
+    },
+    {
+      "title": "MIX Networks VoIP Numbering Authorization Application Pleading Cycle",
+      "url": "https://www.fcc.gov/document/mix-networks-voip-numbering-authorization-application-pleading-cycle",
+      "snippet": "Interconnected Voip Numbering Authorization Application Filed By Mix Networks , Inc. Pursuant To Section 52.15(G)(3) Of The Commission's Rules."
+    },
+    {
+      "title": "Hidden VoIP calling records from networking intermediaries | Principles...",
+      "url": "https://dl.acm.org/doi/10.1145/1941530.1941533",
+      "snippet": "Closed-circuit unobservable Voice over IP .Finding \"who is talking to whom\" in VoIP networks via progressive stream clustering. In Proceedings of the Sixth International Conference on Data Mining (ICDM '06), pages 667--677, Washington, DC, USA, 2006."
+    }
+  ]
+}
+
+RULES:
+- Ground ALL assessments in the provided evidence
+- Cite specific sources in activity_signal (e.g., "Recent FCC filing (2024)", "Company website found via search")
+- Use "Unknown" when evidence is insufficient - DO NOT hallucinate
+- Confidence levels:
+  - High = Multiple confirming signals (recent web presence + recent filings + company details)
+  - Medium = Some signals but incomplete picture
+  - Low = FCC data only, no external confirmation
+
+Call the enrichment_result function with your analysis.

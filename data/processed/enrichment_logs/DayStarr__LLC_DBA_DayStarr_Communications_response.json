@@ -1,0 +1,35 @@
+{
+  "id": "msg_01Eh7zZhWqLMto4wLVP53rec",
+  "content": [
+    {
+      "id": "toolu_01TApfN2oDvzyztjKUGGmEJ6",
+      "input": {
+        "is_active": true,
+        "activity_signal": "Recent FCC filing (2025-02-28) for VoIP numbering authorization; Active company website (daystarr.net) found in search results; LinkedIn company profile exists; Recent web mentions from 2025-2026 including business directory listings and service availability maps",
+        "industry_segment": "Carrier",
+        "product_summary": "DayStarr Communications is a full-service telecommunications and Internet service provider operating in Michigan, specializing in fiber optic network solutions for residential and commercial customers.",
+        "market_position": "SMB",
+        "enrichment_confidence": "High"
+      },
+      "name": "enrichment_result",
+      "type": "tool_use"
+    }
+  ],
+  "model": "claude-sonnet-4-20250514",
+  "role": "assistant",
+  "stop_reason": "tool_use",
+  "stop_sequence": null,
+  "type": "message",
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0,
+    "input_tokens": 2215,
+    "output_tokens": 223,
+    "server_tool_use": null,
+    "service_tier": "standard"
+  }
+}

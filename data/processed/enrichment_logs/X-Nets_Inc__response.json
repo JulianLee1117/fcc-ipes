@@ -1,0 +1,35 @@
+{
+  "id": "msg_01WiSkGn2L77rozqi2k1tae1",
+  "content": [
+    {
+      "id": "toolu_018tn98sxKiRvSWHXTVNg8Pz",
+      "input": {
+        "is_active": true,
+        "activity_signal": "Recent FCC filing dated 2025-03-28 for Interconnected VoIP Numbering Authorization Application, with complete corporate structure including President Majdi Abdulqader and C-suite executives (CTO Sam Nassar, COO Minchul Ho, CRO Ghada Samir/Bassam Hatahet). Email contact provided: majdi.abdulqader@x-nets.com. Company has established San Jose, CA office address.",
+        "industry_segment": "UCaaS",
+        "product_summary": "X-Nets Inc. is an interconnected VoIP service provider that plans to initially offer VoIP services in California with intentions to expand nationwide across all states.",
+        "market_position": "Unknown",
+        "enrichment_confidence": "Low"
+      },
+      "name": "enrichment_result",
+      "type": "tool_use"
+    }
+  ],
+  "model": "claude-sonnet-4-20250514",
+  "role": "assistant",
+  "stop_reason": "tool_use",
+  "stop_sequence": null,
+  "type": "message",
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0,
+    "input_tokens": 2141,
+    "output_tokens": 271,
+    "server_tool_use": null,
+    "service_tier": "standard"
+  }
+}

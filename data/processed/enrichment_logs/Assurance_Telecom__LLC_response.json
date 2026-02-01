@@ -1,0 +1,35 @@
+{
+  "id": "msg_01HGPyQSyZNkNbcKPRghdhWH",
+  "content": [
+    {
+      "id": "toolu_012TepjtspUFkuynUpu6dGLC",
+      "input": {
+        "is_active": true,
+        "activity_signal": "Georgia state records show \"Status: Active/Compliance\" as of 2021 annual registration (City-Data.com). FCC Form 499 database shows active registration as \"Interconnected VoIP\" provider with CORESID 0028895829 (accessed Jan 4, 2024). Multiple business directory listings remain active on Bizapedia and Georgia Company Registry.",
+        "industry_segment": "Reseller",
+        "product_summary": "Assurance Telecom is an interconnected VoIP service provider that appears to operate as a telecommunications reseller, providing voice services through VoIP technology.",
+        "market_position": "Unknown",
+        "enrichment_confidence": "Medium"
+      },
+      "name": "enrichment_result",
+      "type": "tool_use"
+    }
+  ],
+  "model": "claude-sonnet-4-20250514",
+  "role": "assistant",
+  "stop_reason": "tool_use",
+  "stop_sequence": null,
+  "type": "message",
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0,
+    "input_tokens": 2257,
+    "output_tokens": 247,
+    "server_tool_use": null,
+    "service_tier": "standard"
+  }
+}

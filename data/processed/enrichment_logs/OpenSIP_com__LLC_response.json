@@ -1,0 +1,35 @@
+{
+  "id": "msg_01V8ZCbJd2FmkWe45EdC6FUN",
+  "content": [
+    {
+      "id": "toolu_013BKgEQePDLLCuyFrkv1Vn2",
+      "input": {
+        "is_active": false,
+        "activity_signal": "No evidence of current activity - FCC filing was only in 2017 (7 years ago) with no recent filings or supplements. Web search results show only the original FCC filing document and generic VoIP industry content, with no specific company website or recent mentions of OpenSIP.com LLC found.",
+        "industry_segment": "Carrier",
+        "product_summary": "VoIP service provider that filed for interconnected VoIP numbering authorization with the FCC, indicating they intended to provide voice services requiring telephone number assignments.",
+        "market_position": "Unknown",
+        "enrichment_confidence": "Low"
+      },
+      "name": "enrichment_result",
+      "type": "tool_use"
+    }
+  ],
+  "model": "claude-sonnet-4-20250514",
+  "role": "assistant",
+  "stop_reason": "tool_use",
+  "stop_sequence": null,
+  "type": "message",
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0,
+    "input_tokens": 1713,
+    "output_tokens": 227,
+    "server_tool_use": null,
+    "service_tier": "standard"
+  }
+}

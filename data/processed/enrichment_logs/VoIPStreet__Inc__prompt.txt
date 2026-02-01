@@ -1,0 +1,105 @@
+You are analyzing an IPES (Interconnected VoIP Provider) company that filed for numbering authorization with the FCC.
+
+Based ONLY on the evidence provided below, determine:
+1. Whether the company is likely still active
+2. Their industry segment (UCaaS, CCaaS, CPaaS, Carrier, Reseller, Enterprise IT, or Other)
+3. A brief product summary
+4. Their market position (Enterprise, Mid-Market, SMB, Startup, or Unknown)
+5. Your confidence level based on evidence quality
+
+EVIDENCE PACK:
+{
+  "company_name": "VoIPStreet, Inc.",
+  "aliases": [
+    "VoIPStreet, Inc."
+  ],
+  "fcc_filing": {
+    "first_filing_date": "2016-10-31",
+    "latest_filing_date": "2016-10-31",
+    "total_filings": 4,
+    "docket_numbers": [
+      "16-365",
+      "17-189"
+    ],
+    "proceeding_types": [
+      "INTERCONNECTED VOIP NUMBERING AUTHORIZATION APPLICATION FILED BY VOIPSTREET, INC. PURSUANT TO SECTION 52.15(g)(3) OF THE COMMISSION&#146;S RULES",
+      "WIRELINE COMPETITION BUREAU COPPER RETIREMENT NETWORK CHANGE NOTIFICATION FILED BY BLUFFTON TELEPHONE COMPANY, INC."
+    ],
+    "has_supplements": false,
+    "recent_activity": false
+  },
+  "parsed_from_docs": {
+    "address": "301 N. Cattlemen Road, Suite 300",
+    "city": "Pittsburgh",
+    "state": "PA",
+    "zip_code": "15276",
+    "phone": "4077408575",
+    "email": "legal@sangoma.com",
+    "key_personnel": [
+      {
+        "name": "Luis Gibb\nDire",
+        "title": "cto"
+      },
+      {
+        "name": "Luis Gibb\nDire",
+        "title": "cto"
+      },
+      {
+        "name": "Jason Tapolci",
+        "title": "President"
+      },
+      {
+        "name": "Jason Tapolci",
+        "title": "President"
+      },
+      {
+        "name": "the public",
+        "title": "Cto"
+      },
+      {
+        "name": "Which The",
+        "title": "cto"
+      }
+    ],
+    "founding_date": null,
+    "service_description": "PROVIDED BY\nVoIP Innovations \uf0ab\nMar 15, 2010, 08:30 ET\nPITTSBURGH, March 15 /PRNewswire/ -- Two Pittsburgh-based VoIP providers, VoIPstreet and VoIP\nInnovations, have come together to create an all-in-one VoIP solutions provider that offers both retail and\nwholesale VoIP services and boasts one of the nation's largest networks."
+  },
+  "web_search_results": [
+    {
+      "title": "VoIPstreet - Crunchbase Company Profile & Funding",
+      "url": "https://www.crunchbase.com/organization/voipstreet",
+      "snippet": "VoIPstreet offers telecommunication , network services, and private label services.Home Services. Telecommunications . VoIP . Headquarters Regions. Great Lakes , Northeastern US."
+    },
+    {
+      "title": "VOIP Companies | Federal Trade Commission",
+      "url": "https://www.ftc.gov/legal-library/browse/frequently-requested-foia-records/voip-companies",
+      "snippet": "The official website of the Federal Trade Commission, protecting America\u2019s consumers for over 100 years. VoIPStreet Inc Warning Letter (6.22 MB)."
+    },
+    {
+      "title": "VoIPStreet Interconnected VoIP Numbering Authorization Application",
+      "url": "https://www.fcc.gov/document/voipstreet-interconnected-voip-numbering-authorization-application",
+      "snippet": "Interconnected VoIP Numbering Authorization Application Filed By VoIPStreet , Inc . DBA VoIP Innovations Pursuant to Section 52.15(g)(3).Tags: Voice over Internet Protocol ."
+    },
+    {
+      "title": "VOIPSTREET , INC . - F17349427 - Arizona",
+      "url": "https://b2bhint.com/lv/company/us-az/voipstreet-inc--F17349427",
+      "snippet": "VOIPSTREET , INC . undefined uz\u0146\u0113mums, Uz\u0146\u0113muma numurs: F17349427, Dibin\u0101\u0161anas datums 2012 m. sausio 26 d.;, Adrese: 8825 N 23rd Avenue, Suite 100, PHOENIX, AZ, 85021, USA.Uzziniet visu inform\u0101ciju par VOIPSTREET , INC . ieg\u016bstot pilnu piek\u013cuvi. Uzzini vair\u0101k."
+    },
+    {
+      "title": "Jason Tapolci - Prezidents at Voipstreet , Inc .",
+      "url": "https://lv.cybo.com/US-kontakts/voipstreet-inc/Jason+Tapolci",
+      "snippet": "Uz\u0146\u0113muma inform\u0101cija. Voipstreet , Inc . Eight Penn Center West Suite 101, Pittsburgh, PA, 15276, United States \u00b7 Pitsburga. Voipstreet , Inc . Kontakti. Lisa Quattrocchi."
+    }
+  ]
+}
+
+RULES:
+- Ground ALL assessments in the provided evidence
+- Cite specific sources in activity_signal (e.g., "Recent FCC filing (2024)", "Company website found via search")
+- Use "Unknown" when evidence is insufficient - DO NOT hallucinate
+- Confidence levels:
+  - High = Multiple confirming signals (recent web presence + recent filings + company details)
+  - Medium = Some signals but incomplete picture
+  - Low = FCC data only, no external confirmation
+
+Call the enrichment_result function with your analysis.

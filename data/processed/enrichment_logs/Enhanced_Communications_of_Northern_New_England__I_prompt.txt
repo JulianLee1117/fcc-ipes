@@ -1,0 +1,107 @@
+You are analyzing an IPES (Interconnected VoIP Provider) company that filed for numbering authorization with the FCC.
+
+Based ONLY on the evidence provided below, determine:
+1. Whether the company is likely still active
+2. Their industry segment (UCaaS, CCaaS, CPaaS, Carrier, Reseller, Enterprise IT, or Other)
+3. A brief product summary
+4. Their market position (Enterprise, Mid-Market, SMB, Startup, or Unknown)
+5. Your confidence level based on evidence quality
+
+EVIDENCE PACK:
+{
+  "company_name": "Enhanced Communications of Northern New England, Inc. d/b/a Consolidated Long Distance",
+  "aliases": [
+    "Enhanced Communications of Northern New England, Inc. d/b/a Consolidated Long Distance"
+  ],
+  "fcc_filing": {
+    "first_filing_date": "2018-04-24",
+    "latest_filing_date": "2018-04-24",
+    "total_filings": 2,
+    "docket_numbers": [
+      "18-204"
+    ],
+    "proceeding_types": [
+      "INTERCONNECTED VOIP NUMBERING AUTHORIZATION APPLICATION FILED BY ENHANCED COMMUNICATIONS OF NORTHERN NEW ENGLAND, INC. D/B/A CONSOLIDATED LONG DISTANCE PURSUANT TO SECTION 52.15(g)(3) OF THE COMMISSION'S RULES"
+    ],
+    "has_supplements": false,
+    "recent_activity": false
+  },
+  "parsed_from_docs": {
+    "address": "Enhanced Communications of Northern New England, Inc.",
+    "city": null,
+    "state": null,
+    "zip_code": null,
+    "phone": null,
+    "email": "BrianRankin@comcast.com",
+    "key_personnel": [
+      {
+        "name": "of regulatory",
+        "title": "president"
+      },
+      {
+        "name": "Chief Technology\nOfficer",
+        "title": "Thomas White"
+      },
+      {
+        "name": "of Operations",
+        "title": "President"
+      },
+      {
+        "name": "level or",
+        "title": "president"
+      },
+      {
+        "name": "Chief Technology Officer",
+        "title": "Thomas White"
+      },
+      {
+        "name": "of Operations",
+        "title": "President"
+      },
+      {
+        "name": "of Regulatory",
+        "title": "President"
+      }
+    ],
+    "founding_date": null,
+    "service_description": "provider\nof interconnected VoIP services for the purpose of gaining direct access to telephone numbering\nresources from the North American Numbering Plan Administrator."
+  },
+  "web_search_results": [
+    {
+      "title": "Sprint Corporation - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Sprint_Corporation",
+      "snippet": "... business and spun those assets off into a new company named Embarq , which later became a part of Lumen Technologies under the CenturyLink brand, ..."
+    },
+    {
+      "title": "FairPoint Communications Reports 2016 Fourth Quarter and",
+      "url": "https://www.globenewswire.com/news-release/2017/03/06/931741/0/en/FairPoint-Communications-Reports-2016-Fourth-Quarter-and-Full-Year-Results.html",
+      "snippet": "Data and Internet services revenue increased $1.6 million driven by higher broadband revenue due to rate increases and speed upgrades partially offset ..."
+    },
+    {
+      "title": "Breakup of the Bell System \u2014 Wikipedia Republished //",
+      "url": "https://wiki2.org/en/Breakup_of_the_Bell_System",
+      "snippet": "... of Western Electric, Yellow Pages , the Bell ... Long - distance rates, meanwhile, fell both due to the end of this subsidy and increased competition."
+    },
+    {
+      "title": "sec.gov/Archives/edgar/data/784681/000104746903011274/a2106000z10-k.htm",
+      "url": "https://www.sec.gov/Archives/edgar/data/784681/000104746903011274/a2106000z10-k.htm",
+      "snippet": "Documents incorporated by reference The Registrants intend to file with the Securities and Exchange Commission, not later than 120 days after the ..."
+    },
+    {
+      "title": "Portions of Verizon's Annual Report to Shareowners",
+      "url": "https://www.sec.gov/Archives/edgar/data/732712/000119312509036349/dex13.htm",
+      "snippet": "... business provides communications services, including voice, broadband data and video services, network access, nationwide long - distance and other ..."
+    }
+  ]
+}
+
+RULES:
+- Ground ALL assessments in the provided evidence
+- Cite specific sources in activity_signal (e.g., "Recent FCC filing (2024)", "Company website found via search")
+- Use "Unknown" when evidence is insufficient - DO NOT hallucinate
+- Confidence levels:
+  - High = Multiple confirming signals (recent web presence + recent filings + company details)
+  - Medium = Some signals but incomplete picture
+  - Low = FCC data only, no external confirmation
+
+Call the enrichment_result function with your analysis.

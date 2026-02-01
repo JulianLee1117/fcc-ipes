@@ -1,0 +1,78 @@
+You are analyzing an IPES (Interconnected VoIP Provider) company that filed for numbering authorization with the FCC.
+
+Based ONLY on the evidence provided below, determine:
+1. Whether the company is likely still active
+2. Their industry segment (UCaaS, CCaaS, CPaaS, Carrier, Reseller, Enterprise IT, or Other)
+3. A brief product summary
+4. Their market position (Enterprise, Mid-Market, SMB, Startup, or Unknown)
+5. Your confidence level based on evidence quality
+
+EVIDENCE PACK:
+{
+  "company_name": "HDC Delta, LLC",
+  "aliases": [
+    "HDC Delta, LLC"
+  ],
+  "fcc_filing": {
+    "first_filing_date": "2019-10-08",
+    "latest_filing_date": "2019-10-08",
+    "total_filings": 1,
+    "docket_numbers": [
+      "19-315"
+    ],
+    "proceeding_types": [
+      "In the Matter of  HDC Delta, LLC"
+    ],
+    "has_supplements": false,
+    "recent_activity": false
+  },
+  "parsed_from_docs": {
+    "address": "170 S. Green ValleyPkwy.",
+    "city": "Henderson",
+    "state": "NE",
+    "zip_code": "89012",
+    "phone": "8448534444",
+    "email": null,
+    "key_personnel": [],
+    "founding_date": null,
+    "service_description": "provide interconnectedVoIP services initiallyin MA."
+  },
+  "web_search_results": [
+    {
+      "title": "Hdc Delta, LLC in Henderson NV - Company Profile",
+      "url": "https://www.corporationwiki.com/p/36zl27/hdc-delta-llc",
+      "snippet": "View company leaders and background information for Hdc Delta , LLC . Search our database of over 100 million company and executive profiles."
+    },
+    {
+      "title": "HDC DELTA, LLC :: California (US) :: OpenCorporates",
+      "url": "https://opencorporates.com/companies/us_ca/202010910002",
+      "snippet": "Free and open company data on California (US) company HDC DELTA , LLC (company number 202010910002)"
+    },
+    {
+      "title": "HDC DELTA, LLC in Long Beach, CA | Company Info & Reviews",
+      "url": "https://www.bizapedia.com/ca/hdc-delta-llc.html",
+      "snippet": "Jul 18, 2024 \u00b7 Discover Company Info on HDC DELTA , LLC in Long Beach, CA, such as Contacts, Addresses, Reviews, and Registered Agent."
+    },
+    {
+      "title": "HDC DELTA LLC Henderson NV, 89012 - Company Profile - Cortera",
+      "url": "https://start.cortera.com/company/research/m3q3mzm1m/hdc-delta-llc/",
+      "snippet": "Free Business profile for HDC DELTA LLC at 170 S Green Valley Pkwy, Henderson, NV, 89012-3145, US."
+    },
+    {
+      "title": "202010910002 - HDC DELTA, LLC - City-Data.com",
+      "url": "https://www.city-data.com/business-entities/CA/HDC-DELTA-LLC-202010910002-CA.html",
+      "snippet": "All Cities Nevada, NV smaller cities, NV small cities Henderson, NV main city page Business entities in Nevada Business entities in Henderson, NV HDC DELTA , LLC"
+    }
+  ]
+}
+
+RULES:
+- Ground ALL assessments in the provided evidence
+- Cite specific sources in activity_signal (e.g., "Recent FCC filing (2024)", "Company website found via search")
+- Use "Unknown" when evidence is insufficient - DO NOT hallucinate
+- Confidence levels:
+  - High = Multiple confirming signals (recent web presence + recent filings + company details)
+  - Medium = Some signals but incomplete picture
+  - Low = FCC data only, no external confirmation
+
+Call the enrichment_result function with your analysis.

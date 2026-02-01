@@ -1,0 +1,87 @@
+You are analyzing an IPES (Interconnected VoIP Provider) company that filed for numbering authorization with the FCC.
+
+Based ONLY on the evidence provided below, determine:
+1. Whether the company is likely still active
+2. Their industry segment (UCaaS, CCaaS, CPaaS, Carrier, Reseller, Enterprise IT, or Other)
+3. A brief product summary
+4. Their market position (Enterprise, Mid-Market, SMB, Startup, or Unknown)
+5. Your confidence level based on evidence quality
+
+EVIDENCE PACK:
+{
+  "company_name": "Bare Telecom LLC",
+  "aliases": [
+    "Bare Telecom LLC"
+  ],
+  "fcc_filing": {
+    "first_filing_date": "2021-11-16",
+    "latest_filing_date": "2021-11-16",
+    "total_filings": 1,
+    "docket_numbers": [
+      "21-454"
+    ],
+    "proceeding_types": [
+      "Interconnected VoIP Numbering Authorization Application Filed By Bare Telecom, LLC Pursuant To Section 52.15(g)(3) Of The Commission's Rules"
+    ],
+    "has_supplements": false,
+    "recent_activity": false
+  },
+  "parsed_from_docs": {
+    "address": "444 W. Ocean Blvd, 8th Floor",
+    "city": "Long",
+    "state": "CA",
+    "zip_code": "90802",
+    "phone": "9512944547",
+    "email": null,
+    "key_personnel": [
+      {
+        "name": "of Bare",
+        "title": "President"
+      },
+      {
+        "name": "Bare Telecom",
+        "title": "President"
+      }
+    ],
+    "founding_date": null,
+    "service_description": "provide interconnected VoIP services initially in California, however the\nCompany anticipates that it will provide VoIP services nationwide, and accordingly, will request\nnumbers from other states in turn after its initial request in California."
+  },
+  "web_search_results": [
+    {
+      "title": "Bare Telecom , Premium Server Rental and VoIP - BareTelecom",
+      "url": "https://baretelecom.com/",
+      "snippet": "Bare Telecom delivers crystal clear VOIP communication at the lowest bandwidths. Termination, Origination and hassle free billing! Make Bare Telecom your primary carrier today. Softphones, or Hard Lines, we also have PBX and Dialer services. Sign up today!"
+    },
+    {
+      "title": "Bare Telecom LLC Logo & Brand Assets (SVG, PNG and... - Brandfetch",
+      "url": "https://brandfetch.com/baretechs.com",
+      "snippet": "Find the Bare Telecom LLC style guide with brand assets such as logos, colors, fonts, and more.Our services include VoIP termination, origination, VIcidial, PBX, CRM, and data, all aimed at delivering crystal clear communication at the lowest bandwidths."
+    },
+    {
+      "title": "Bare Telecom - Crunchbase Company Profile & Funding",
+      "url": "https://www.crunchbase.com/organization/bare-telecom",
+      "snippet": "Bare Telecom specializes in VOIP communication, termination, origination, predictive dialer, hard-line phone, and support services.View contacts for Bare Telecom to access new leads and connect with decision-makers."
+    },
+    {
+      "title": "FCC Form 499 Filer Database Search Results",
+      "url": "https://apps.fcc.gov/cgb/form499/499results.cfm?R1=and&XML=FALSE&comm_type=Any+Type&operational=1&state=Any+State",
+      "snippet": "AI TELECOM , LLC . 833934. AIC TRIAD Consulting. Bare Telecom LLC . 835575. Bark technologies, inc."
+    },
+    {
+      "title": "CSPs | Campaign Registry",
+      "url": "https://www.campaignregistry.com/participating-companies/csps/",
+      "snippet": "Bare Telecom LLC . BatchLeads.Penny Tone Telecom LLC . People\u2019s Action. Peoples Telephone Cooperative."
+    }
+  ]
+}
+
+RULES:
+- Ground ALL assessments in the provided evidence
+- Cite specific sources in activity_signal (e.g., "Recent FCC filing (2024)", "Company website found via search")
+- Use "Unknown" when evidence is insufficient - DO NOT hallucinate
+- Confidence levels:
+  - High = Multiple confirming signals (recent web presence + recent filings + company details)
+  - Medium = Some signals but incomplete picture
+  - Low = FCC data only, no external confirmation
+
+Call the enrichment_result function with your analysis.

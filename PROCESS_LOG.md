@@ -1,6 +1,6 @@
 # Process Log
 
-> Running log of design decisions and reasoning. For future context.
+> Human-readable log of design decisions, reasoning, and "why" behind each step. Focus on thought process, not metrics. For future context and onboarding.
 
 ---
 
@@ -87,9 +87,31 @@ The actual company name often appears in `proceeding_types`. Kept as-is — AI e
 
 **200 unique IPES companies** from 896 filtered filings. 166 clearly corporate, 34 individual filers.
 
+### Why Exactly 200?
+
+Not artificial — verified the count:
+
+```
+896 filtered filings
+ │
+ ├─► 364 unique filer names
+ │    │
+ │    ├─► 4 government entities (FCC bureaus, DOJ) → excluded
+ │    │
+ │    └─► 360 remaining
+ │         │
+ │         └─► 334 after name normalization (merging variations)
+ │              │
+ │              ├─► 200 filed an APPLICATION → companies.json ✓
+ │              │
+ │              └─► 134 never filed APPLICATION → excluded
+```
+
+The 134 excluded filers were commenters, attorneys filing amendments, petitioners — not actual IPES applicants.
+
 ---
 
-## 2026-02-01 02:02 — Phase 4: Document Downloads
+## 2026-01-31 18:02 — Phase 4: Document Downloads
 
 ### FCC Server Quirks
 
@@ -173,3 +195,255 @@ Tested `ddgs` (DuckDuckGo search) on 3 sample companies:
 | 200 Networks LLC | D&B profile, breach article |
 
 **Decision:** Use `ddgs` — free, no API key, effective results. Add 1s delay between requests.
+
+---
+
+## 2026-01-31 18:58 — Phase 5: Enrichment Execution
+
+### Pipeline (4 steps)
+
+| Step | Action | API Calls | Result |
+|------|--------|-----------|--------|
+| 1 | Parse FCC docs (regex) | 0 | 29 companies with structured fields |
+| 2 | Compute filing signals | 0 | 200 companies |
+| 3 | Web search (ddgs) | 200 | 200/200 returned results |
+| 4 | LLM synthesis (Claude Sonnet) | 200 | All succeeded |
+
+### Result
+
+| Metric | Value |
+|--------|-------|
+| Total companies | **200** |
+| Determined active | 125 (63%) |
+| Confidence: High | 42 |
+| Confidence: Medium | 89 |
+| Confidence: Low | 69 |
+
+### Industry Breakdown
+
+| Segment | Count |
+|---------|-------|
+| Carrier | 94 |
+| UCaaS | 66 |
+| CPaaS | 19 |
+| CCaaS | 6 |
+| Reseller | 4 |
+| Unknown | 7 |
+| Other/Enterprise | 4 |
+
+### Key Insight (Initial Run)
+
+Document parsing only hit 29 companies due to filename mismatch bug. Activity determination still reliable — LLM used filing signals + web search effectively.
+
+---
+
+## 2026-01-31 19:22 — Document Parsing Fix
+
+### The Bug
+
+Download script sanitizes filenames (spaces→underscores, collapse multiple underscores, truncate to 100 chars). But `get_document_text()` used original API filenames.
+
+```python
+# Before (broken):
+base_name = Path(filename).stem
+
+# After (fixed):
+sanitized = sanitize_filename(filename)  # Match download script logic
+base_name = Path(sanitized).stem
+```
+
+### Result After Fix
+
+| Metric | Before | After |
+|--------|--------|-------|
+| Documents matched | 29 | **507/512** (99%) |
+| Companies with docs | 29 | **188/200** (94%) |
+| With address | ? | 135 |
+| With phone | ? | 121 |
+| With email | ? | 83 |
+| With key personnel | ? | 132 |
+
+The 5 unmatched documents are edge cases (format issues, API metadata mismatches). All 200 companies have at least one document from related filings.
+
+### Output Files
+
+- `companies_enriched.json` (645 KB)
+- `companies_enriched.csv` (124 KB, 201 rows)
+- `enrichment_logs/` (400 prompt/response pairs)
+
+---
+
+## 2026-01-31 19:39 — Final Enrichment Run (Post-Fix)
+
+Re-ran full enrichment pipeline with document parsing fix in place.
+
+### Pipeline Results
+
+| Step | Action | Result |
+|------|--------|--------|
+| 1 | Parse FCC docs | **188 companies** (vs 29 before) |
+| 2 | Compute filing signals | 200 companies |
+| 3 | Web search (ddgs) | 200/200 returned results |
+| 4 | LLM synthesis (Claude Sonnet) | All succeeded |
+
+### Improvement Summary
+
+| Metric | Before Fix | After Fix | Change |
+|--------|------------|-----------|--------|
+| Parsed docs | 29 | **188** | +6.5x |
+| High confidence | 42 | **54** | +12 |
+| Medium confidence | 89 | 87 | -2 |
+| Low confidence | 69 | **59** | -10 |
+| Active companies | 125 | 115 | -10 |
+
+The decrease in "active" determination with more document data indicates more accurate (conservative) assessments with better evidence.
+
+### Parsed Data Coverage
+
+| Field | Count | Coverage |
+|-------|-------|----------|
+| Address | 135 | 68% |
+| City | 66 | 33% |
+| State | 69 | 34% |
+| Phone | 121 | 60% |
+| Email | 83 | 42% |
+| Key personnel | 132 | 66% |
+
+### Industry Breakdown (Final)
+
+| Segment | Count |
+|---------|-------|
+| Carrier | 87 |
+| UCaaS | 76 |
+| CPaaS | 19 |
+| CCaaS | 7 |
+| Unknown | 4 |
+| Other | 3 |
+| Enterprise IT | 3 |
+| Reseller | 1 |
+
+### Spot-Check Validation
+
+| Company | Active | Segment | Market | Confidence | Notes |
+|---------|--------|---------|--------|------------|-------|
+| 8x8, Inc. | ✓ | UCaaS | SMB | High | Correct |
+| Bandwidth, Inc. | ✓ | CPaaS | Enterprise | High | Correct |
+| Twilio International | ✓ | CPaaS | Enterprise | Medium | Correct |
+| Vonage Holdings | ✗ | UCaaS | Enterprise | Medium | Correct (acquired by Ericsson 2022) |
+
+### Output Files (Final)
+
+- `companies_enriched.json` (710 KB)
+- `companies_enriched.csv` (129 KB, 201 rows)
+- `enrichment_logs/` (400 prompt/response pairs)
+
+---
+
+## 2026-01-31 20:15 — Post-Enrichment Quality Analysis
+
+### What I Found
+
+Reviewed the enriched data and spotted three fixable issues:
+
+1. **Wrong company names:** 21 records have person names (attorneys/officers filing on behalf of companies). But the real company name is sitting right there in `proceeding_types`: `"FILED BY FREEWAY COMMUNICATIONS, LLC PURSUANT..."`. We just didn't extract it during structuring.
+
+2. **Key personnel garbage:** The regex grabbed bio fragments like `"Company Website"`, `"Erik brings"`, `"experience and"`. Obviously not names — easy to filter out.
+
+3. **Too many "Unknown" market positions:** LLM punted to "Unknown" for half the companies. But we already have signals that could help — industry segment, filing frequency, founding dates. Rules-based inference could fill gaps without more API calls.
+
+### Why a Post-Processing Script?
+
+Re-running the full LLM pipeline would cost ~$0.60 and 20 minutes. But most fixes are just regex/rules — no LLM needed. So: create `improve_enrichment.py` that does cheap fixes first (regex), expensive fixes last (optional targeted LLM).
+
+See: [ENRICHMENT_IMPROVEMENT.md](./ENRICHMENT_IMPROVEMENT.md)
+
+---
+
+## 2026-01-31 20:16 — Post-Enrichment Improvements Applied
+
+Ran `src/improve_enrichment.py` — three phases of cleanup without re-running LLM.
+
+### Phase 1: Person Names → Company Names
+
+Agent investigated 6 unfixable records by searching documents:
+
+| Filer | Resolution |
+|-------|------------|
+| Jeremy Mcpherson | → IGEM Communications LLC DBA Globalgig |
+| Martin Lien | → Volt Labs Inc. |
+| Arif Gul | → Fullduplex Limited |
+| Valstarr Asia | Already a company (false positive) |
+| Adam Szokol, Bart Mueller | Confirmed individuals |
+
+**Result:** 15 fixed total, 2 individuals, 0 unknowns.
+
+### Phase 2: Key Personnel Cleanup
+
+Filtered noise (titles, fragments, company names). **734 → 109 entries.**
+
+### Phase 3: Market Position Inference
+
+Rules: UCaaS/CCaaS/CPaaS → SMB, high activity → Mid-Market. **Unknown: 50% → 29.5%**
+
+### Final Metrics
+
+| Metric | Before | After |
+|--------|--------|-------|
+| Market position unknown | 50% | **29.5%** |
+| Person names as companies | 17 | **0** |
+| Clean key personnel | 109 | **109** |
+
+---
+
+## 2026-01-31 20:43 — Contact Data Gap Fill (D&B Search)
+
+### Problem
+
+Parsed contact fields (city, state) had 33% coverage — data existed in FCC docs for some companies but not all.
+
+### Solution
+
+Created `src/fill_contact_gaps.py` — searches D&B via DuckDuckGo for companies with missing contact data, extracts city/state from result snippets.
+
+**Pattern:** D&B snippets contain `"of City, State"` format (e.g., `"of Campbell, California"`).
+
+### Results
+
+| Field | Before | After | Change |
+|-------|--------|-------|--------|
+| City | 66 (33%) | **162 (81%)** | +96 |
+| State | 69 (34%) | **162 (81%)** | +93 |
+| Phone | 121 (60%) | 121 (60%) | — |
+| Email | 83 (41%) | 83 (41%) | — |
+
+Phone/email not in D&B snippets — kept existing FCC-parsed values.
+
+### Notes
+
+- 176 companies searched, 98 updated
+- Some SSL errors (~15) due to rate limiting — acceptable loss
+- Non-US locations returned for a few companies (international HQs) — kept as-is
+
+---
+
+## 2026-01-31 20:52 — Schema Normalization (market_position)
+
+### Problem
+
+Inconsistent schema: `market_position_inferred` (boolean) + `market_position_reason` only existed on 41 records where rules-based inference was applied. Other records had neither field.
+
+### Solution
+
+Replaced with consistent `market_position_source` enum on all records:
+
+| Value | Count | Meaning |
+|-------|-------|---------|
+| `llm` | 100 | Claude determined directly |
+| `rules` | 41 | Inferred from industry_segment/filing patterns |
+| `undetermined` | 59 | Neither could determine (stays "Unknown") |
+
+`market_position_reason` retained only for `source="rules"` (documents which rule fired).
+
+### Result
+
+Every record now has `market_position_source`. Schema is self-documenting without needing to read code.

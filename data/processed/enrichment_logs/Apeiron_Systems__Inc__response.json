@@ -1,0 +1,35 @@
+{
+  "id": "msg_01AubhpULGkQaeHHQCZc7YtB",
+  "content": [
+    {
+      "id": "toolu_013ynJQ9asovuocDMqSnRdqQ",
+      "input": {
+        "is_active": true,
+        "activity_signal": "Multiple strong signals: Active website found at apeiron.io describing current platform services, LinkedIn company page showing VoIP/SMS products, FCC Form 499 filing from April 2023 indicating active interconnected VoIP services and USF contributions, subsidiary relationship with KonaTel Inc as of December 2018",
+        "industry_segment": "CPaaS",
+        "product_summary": "Apeiron provides a communications platform delivering VoIP, SMS, WebRTC and messaging services to businesses through pay-per-use APIs and GUI interfaces, positioned as a Communications Platform as a Service (CPaaS) provider.",
+        "market_position": "SMB",
+        "enrichment_confidence": "High"
+      },
+      "name": "enrichment_result",
+      "type": "tool_use"
+    }
+  ],
+  "model": "claude-sonnet-4-20250514",
+  "role": "assistant",
+  "stop_reason": "tool_use",
+  "stop_sequence": null,
+  "type": "message",
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0,
+    "input_tokens": 2482,
+    "output_tokens": 249,
+    "server_tool_use": null,
+    "service_tier": "standard"
+  }
+}

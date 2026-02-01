@@ -1,0 +1,83 @@
+You are analyzing an IPES (Interconnected VoIP Provider) company that filed for numbering authorization with the FCC.
+
+Based ONLY on the evidence provided below, determine:
+1. Whether the company is likely still active
+2. Their industry segment (UCaaS, CCaaS, CPaaS, Carrier, Reseller, Enterprise IT, or Other)
+3. A brief product summary
+4. Their market position (Enterprise, Mid-Market, SMB, Startup, or Unknown)
+5. Your confidence level based on evidence quality
+
+EVIDENCE PACK:
+{
+  "company_name": "Voxology Carrier Services, Inc.",
+  "aliases": [
+    "Voxology Carrier Services, Inc."
+  ],
+  "fcc_filing": {
+    "first_filing_date": "2023-01-30",
+    "latest_filing_date": "2023-01-30",
+    "total_filings": 1,
+    "docket_numbers": [
+      "23-125"
+    ],
+    "proceeding_types": [
+      "Interconnected VoIP Numbering Authorization Application Filed By Voxology Carrier Services, Inc. Pursuant To Section 52.15(g)(3) Of The Commission's Rules"
+    ],
+    "has_supplements": false,
+    "recent_activity": false
+  },
+  "parsed_from_docs": {
+    "address": "1 Illinois Bell Telephone Company (previously referred to as \u201cIllinois Bell\u201d or \u201cSBC Illinois\u201d) now operates under the name \u201cAT&T Illinois\u201d",
+    "city": null,
+    "state": null,
+    "zip_code": null,
+    "phone": null,
+    "email": null,
+    "key_personnel": [
+      {
+        "name": "and CEO",
+        "title": "President"
+      }
+    ],
+    "founding_date": "2014",
+    "service_description": "provide interconnected VoIP services, initially in Illinois."
+  },
+  "web_search_results": [
+    {
+      "title": "Voxology Carrier Services , Inc .",
+      "url": "http://voxologycarrier.com/",
+      "snippet": "Voxology Carrier Services , Inc . (formerly Voiceinc.com Corporation) is a wholesale voice , SMS, and data provider, serving primarily carriers.For voice applications, or emergency notifications, visit Shoutpoint. VCS also offers retail VoIP service through Binfone Telecom ."
+    },
+    {
+      "title": "AS40165 Voxology Carrier Services , Inc . - bgp.tools",
+      "url": "https://bgp.tools/as/40165",
+      "snippet": "Voxology Carrier Services , Inc . AS Number 40165 Website http://voxologycarrier.com/. Overview."
+    },
+    {
+      "title": "Carrier List - CoreSite",
+      "url": "https://www.coresite.com/carrier-list",
+      "snippet": "PTGI International Carrier Services Inc . Public service telephone company. Voxology Carrier Services Inc . Vyve Broadband."
+    },
+    {
+      "title": "AS40165 Voxology Carrier Services , Inc . details - IPinfo.io",
+      "url": "https://ipinfo.io/AS40165",
+      "snippet": "Voxology Carrier Services , Inc . \u00b7 voxologycarrier.com. United States.Get this data and more with IPinfo's powerful IP Ranges API - quickly and easily identify company-owned IP ranges."
+    },
+    {
+      "title": "Interconnected VoIP Numbering Authorization Application Filed",
+      "url": "https://www.fcc.gov/document/interconnected-voip-numbering-authorization-application-filed-95",
+      "snippet": "Interconnected VoIP Numbering Authorization Application Filed. Full Title: Interconnected VoIP Numbering Authorization Application Filed By Voxology Carrier Services , Inc . Pursuant To Section 52.15(g)(3) Of The Commission's Rules."
+    }
+  ]
+}
+
+RULES:
+- Ground ALL assessments in the provided evidence
+- Cite specific sources in activity_signal (e.g., "Recent FCC filing (2024)", "Company website found via search")
+- Use "Unknown" when evidence is insufficient - DO NOT hallucinate
+- Confidence levels:
+  - High = Multiple confirming signals (recent web presence + recent filings + company details)
+  - Medium = Some signals but incomplete picture
+  - Low = FCC data only, no external confirmation
+
+Call the enrichment_result function with your analysis.

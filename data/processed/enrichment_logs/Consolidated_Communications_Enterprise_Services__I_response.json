@@ -1,0 +1,35 @@
+{
+  "id": "msg_012F4pt8m3fkn7gjM2N52hbJ",
+  "content": [
+    {
+      "id": "toolu_01NZGeLWhMJepD61etinmrmu",
+      "input": {
+        "is_active": true,
+        "activity_signal": "Multiple activity signals indicate the company is active: 1) Active company website (consolidated.com) showing current services and monitoring winter storm impacts, 2) Recent regulatory filings including California CPUC registration as recently as September 2024, 3) Company operates as subsidiary of Consolidated Communications Holdings Inc. with ongoing federal contracts per GovTribe, 4) DNB business directory listing shows current business profile",
+        "industry_segment": "Carrier",
+        "product_summary": "Consolidated Communications Enterprise Services is a telecommunications carrier subsidiary that provides voice, data, and VoIP services to business and residential customers, operating as both an incumbent local exchange carrier (ILEC) and non-dominant interexchange carrier with wholesale services.",
+        "market_position": "Enterprise",
+        "enrichment_confidence": "High"
+      },
+      "name": "enrichment_result",
+      "type": "tool_use"
+    }
+  ],
+  "model": "claude-sonnet-4-20250514",
+  "role": "assistant",
+  "stop_reason": "tool_use",
+  "stop_sequence": null,
+  "type": "message",
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0,
+    "input_tokens": 1980,
+    "output_tokens": 267,
+    "server_tool_use": null,
+    "service_tier": "standard"
+  }
+}

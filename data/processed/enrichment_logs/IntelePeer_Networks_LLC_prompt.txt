@@ -1,0 +1,159 @@
+You are analyzing an IPES (Interconnected VoIP Provider) company that filed for numbering authorization with the FCC.
+
+Based ONLY on the evidence provided below, determine:
+1. Whether the company is likely still active
+2. Their industry segment (UCaaS, CCaaS, CPaaS, Carrier, Reseller, Enterprise IT, or Other)
+3. A brief product summary
+4. Their market position (Enterprise, Mid-Market, SMB, Startup, or Unknown)
+5. Your confidence level based on evidence quality
+
+EVIDENCE PACK:
+{
+  "company_name": "IntelePeer Networks LLC",
+  "aliases": [
+    "IntelePeer Networks LLC"
+  ],
+  "fcc_filing": {
+    "first_filing_date": "2020-10-30",
+    "latest_filing_date": "2020-10-30",
+    "total_filings": 2,
+    "docket_numbers": [
+      "20-356"
+    ],
+    "proceeding_types": [
+      "Interconnected VoIP Numbering Authorization Application Filed By IntelePeer Networks, LLC Pursuant To Section 52.15(g)(3) Of The Commission's Rules"
+    ],
+    "has_supplements": false,
+    "recent_activity": false
+  },
+  "parsed_from_docs": {
+    "address": null,
+    "city": null,
+    "state": null,
+    "zip_code": null,
+    "phone": "2027926422",
+    "email": null,
+    "key_personnel": [
+      {
+        "name": "Frank is",
+        "title": "CEO"
+      },
+      {
+        "name": "and Chief",
+        "title": "President"
+      },
+      {
+        "name": "CHIEF FINANCIAL OFFICER",
+        "title": "Andre has"
+      },
+      {
+        "name": "Chief Financial Officer",
+        "title": "for over"
+      },
+      {
+        "name": "Chief Financial Officer",
+        "title": "since February"
+      },
+      {
+        "name": "of Dimatix",
+        "title": "CFO"
+      },
+      {
+        "name": "of SAP",
+        "title": "CFO"
+      },
+      {
+        "name": "CHIEF EXPERIENCE OFFICER",
+        "title": "Matt serves"
+      },
+      {
+        "name": "CHIEF MARKETING OFFICER",
+        "title": "As the"
+      },
+      {
+        "name": "CHIEF COMMERCIAL OFFICER",
+        "title": "Jeremy is"
+      },
+      {
+        "name": "Chief Commercial Officer",
+        "title": "at IntelePeer"
+      },
+      {
+        "name": "CHIEF TECHNOLOGY OFFICER",
+        "title": "John serves"
+      },
+      {
+        "name": "Chief Technology Officer",
+        "title": "and leads"
+      },
+      {
+        "name": "CHIEF LEGAL OFFICER",
+        "title": "Kristin Manwarren"
+      },
+      {
+        "name": "Chief Legal Officer",
+        "title": "at IntelePeer"
+      },
+      {
+        "name": "Chief Legal Officer",
+        "title": "of IntelePeer"
+      },
+      {
+        "name": "Chief Legal Officer",
+        "title": "IntelePeer Networks"
+      },
+      {
+        "name": "CEO\nFrank",
+        "title": "President"
+      },
+      {
+        "name": "Andre served",
+        "title": "CFO"
+      },
+      {
+        "name": "he served",
+        "title": "CFO"
+      }
+    ],
+    "founding_date": null,
+    "service_description": "providers to compromise\nIntelePeer\u2019s position in the highly competitive interconnected VoIP sector."
+  },
+  "web_search_results": [
+    {
+      "title": "IntelePeer Networks, LLC Company Profile | San Mateo ... IntelePeer Secures $140 Million Strategic Growth Investment ... PUBLIC NOTICE - Federal Communications Commission Intelepeer Networks LLC San Mateo, CA - filing information Intelepeer Networks Company Profile -Sales, Contacts ... Intelepeer Networks San Mateo CA, 94402 \u2013 Manta.com IntelePeer Networks, LLC :: Texas (US) :: OpenCorporates",
+      "url": "https://www.dnb.com/business-directory/company-profiles.intelepeer_networks_llc.ec1f52ac77b43f52596cef69a6ad646d.html",
+      "snippet": "Find company research, competitor information, contact details & financial data for IntelePeer Networks , LLC of San Mateo, California. Get the latest business insights from Dun & Bradstreet. Jul 25, 2024 \u00b7 IntelePeer \u2019 s enterprise-grade, easy-to-deploy solutions help businesses quickly implement AI-powered omnichannel communications that securely automate customer interactions. IntelePeer Networks , LLC , (IntelePeer) is an interconnected Voice over Internet Protocol ( VoIP ) provider and filed an application, pursuant to section 52.15(g)(3) of the Commission\u2019s rules, seeking authorization to obtain North American Numbering Plan telephone numbers directly from the Numbering Administrators.2 In its Application ... Intelepeer Networks LLC is a business entity based in San Mateo, CA. Established recently on August 6, 2020, this Limited Liability Company is recognized under the document number 202022311176. Governed by the California Secretary of State, the Company is listed in Active status in state records. How many people work at Intelepeer Networks ? Intelepeer Networks has approximately 10 employees at this location. Is Chad Stachowicz the only contact you have for Intelepeer Networks , LLC ? U.S. San Mateo, CA Cable and Telecom Services Communications Services, NEC Communications Free and open company data on Texas (US) company IntelePeer Networks , LLC (company number 0803772002), 155 BOVET RD STE 405, San Mateo, CA, 94402"
+    },
+    {
+      "title": "IntelePeer Secures $140 Million Strategic Growth Investment ...",
+      "url": "https://intelepeer.ai/news-press/intelepeer-secures-140-million-strategic-growth-investment-to-drive-the-development-of-ai-agents-for-improved-customer-experiences",
+      "snippet": "Jul 25, 2024 \u00b7 IntelePeer \u2019 s enterprise-grade, easy-to-deploy solutions help businesses quickly implement AI-powered omnichannel communications that securely automate customer interactions."
+    },
+    {
+      "title": "Intelepeer Networks LLC San Mateo, CA - filing information",
+      "url": "https://www.bizprofile.net/ca/san-mateo/intelepeer-networks-llc",
+      "snippet": "Intelepeer Networks LLC is a business entity based in San Mateo, CA. Established recently on August 6, 2020, this Limited Liability Company is recognized under the document number 202022311176. Governed by the California Secretary of State, the Company is listed in Active status in state records."
+    },
+    {
+      "title": "Intelepeer Networks Company Profile -Sales, Contacts ...",
+      "url": "https://www.buzzfile.com/business/Intelepeer-Networks,-LLC-650-525-9200",
+      "snippet": "How many people work at Intelepeer Networks ? Intelepeer Networks has approximately 10 employees at this location. Is Chad Stachowicz the only contact you have for Intelepeer Networks , LLC ?"
+    },
+    {
+      "title": "IntelePeer Networks, LLC :: Texas (US) :: OpenCorporates",
+      "url": "https://opencorporates.com/companies/us_tx/0803772002",
+      "snippet": "Free and open company data on Texas (US) company IntelePeer Networks , LLC (company number 0803772002), 155 BOVET RD STE 405, San Mateo, CA, 94402"
+    }
+  ]
+}
+
+RULES:
+- Ground ALL assessments in the provided evidence
+- Cite specific sources in activity_signal (e.g., "Recent FCC filing (2024)", "Company website found via search")
+- Use "Unknown" when evidence is insufficient - DO NOT hallucinate
+- Confidence levels:
+  - High = Multiple confirming signals (recent web presence + recent filings + company details)
+  - Medium = Some signals but incomplete picture
+  - Low = FCC data only, no external confirmation
+
+Call the enrichment_result function with your analysis.

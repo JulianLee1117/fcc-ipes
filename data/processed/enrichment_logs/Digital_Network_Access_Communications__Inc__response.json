@@ -1,0 +1,35 @@
+{
+  "id": "msg_01WQSx6zkB8m7qPsGTLUg6oK",
+  "content": [
+    {
+      "id": "toolu_01Sfsg1xZkixJPNbfJ7XVorw",
+      "input": {
+        "is_active": false,
+        "activity_signal": "Single FCC filing from 2021-07-30 with no subsequent activity or supplements. Web searches return only generic VoIP patent and industry articles with no specific results for Digital Network Access Communications. No company website, social media presence, or recent business activity found despite having a founding date of 2015.",
+        "industry_segment": "Carrier",
+        "product_summary": "Digital Network Access Communications was a competitive local exchange carrier from northern Illinois that sought to expand interconnected VoIP services to neighboring states outside their existing geographic area.",
+        "market_position": "Unknown",
+        "enrichment_confidence": "Low"
+      },
+      "name": "enrichment_result",
+      "type": "tool_use"
+    }
+  ],
+  "model": "claude-sonnet-4-20250514",
+  "role": "assistant",
+  "stop_reason": "tool_use",
+  "stop_sequence": null,
+  "type": "message",
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0,
+    "input_tokens": 1762,
+    "output_tokens": 225,
+    "server_tool_use": null,
+    "service_tier": "standard"
+  }
+}

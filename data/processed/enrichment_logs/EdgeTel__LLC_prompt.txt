@@ -1,0 +1,115 @@
+You are analyzing an IPES (Interconnected VoIP Provider) company that filed for numbering authorization with the FCC.
+
+Based ONLY on the evidence provided below, determine:
+1. Whether the company is likely still active
+2. Their industry segment (UCaaS, CCaaS, CPaaS, Carrier, Reseller, Enterprise IT, or Other)
+3. A brief product summary
+4. Their market position (Enterprise, Mid-Market, SMB, Startup, or Unknown)
+5. Your confidence level based on evidence quality
+
+EVIDENCE PACK:
+{
+  "company_name": "EdgeTel, LLC",
+  "aliases": [
+    "EdgeTel, LLC"
+  ],
+  "fcc_filing": {
+    "first_filing_date": "2018-03-29",
+    "latest_filing_date": "2018-03-29",
+    "total_filings": 1,
+    "docket_numbers": [
+      "18-138"
+    ],
+    "proceeding_types": [
+      "INTERCONNECTED VOIP NUMBERING AUTHORIZATION APPLICATION FILED BY EDGETEL, LLC PURSUANT TO SECTION 52.15(g)(3) OF THE COMMISSION&#146;S RULES"
+    ],
+    "has_supplements": false,
+    "recent_activity": false
+  },
+  "parsed_from_docs": {
+    "address": "1501 35th Avenue West",
+    "city": null,
+    "state": null,
+    "zip_code": null,
+    "phone": "8556172530",
+    "email": "kellie@edgetelecom.com",
+    "key_personnel": [
+      {
+        "name": "Kellie Beneke",
+        "title": "President"
+      },
+      {
+        "name": "John Hass",
+        "title": "President"
+      },
+      {
+        "name": "Chief Technology Officer",
+        "title": "Stevin Dahl"
+      },
+      {
+        "name": "John Hass",
+        "title": "President"
+      },
+      {
+        "name": "Chief Technology Officer",
+        "title": "Stevin Dahl"
+      },
+      {
+        "name": "Wide Voice",
+        "title": "President"
+      },
+      {
+        "name": "of EdgeTel",
+        "title": "President"
+      },
+      {
+        "name": "Chief Technology Officer",
+        "title": "and lead"
+      },
+      {
+        "name": "Kellie Beneke",
+        "title": "President"
+      }
+    ],
+    "founding_date": null,
+    "service_description": "provide VoIP services in the District of Columbia, Maryland,\nMassachusetts, New Jersey, New York, Pennsylvania, Rhode Island, and Virginia through its\nown facilities and those of its CLEC partner with which it has arrangements in place for routing\ntraffic to the PSTN."
+  },
+  "web_search_results": [
+    {
+      "title": "EdgeTel, LLC :: Texas (US) :: OpenCorporates",
+      "url": "https://opencorporates.com/companies/us_tx/0803470768",
+      "snippet": "Free and open company data on Texas (US) company EdgeTel , LLC (company number 0803470768), 1501 35th Ave. W, Spencer, IA, 51301"
+    },
+    {
+      "title": "EDGETEL, LLC in Austin, TX | Company Information & Reviews",
+      "url": "https://www.bizapedia.com/tx/edgetel-llc.html",
+      "snippet": "Oct 14, 2025 \u00b7 Discover Company Info on EDGETEL , LLC in Austin, TX, such as Contacts, Addresses, Reviews, and Registered Agent."
+    },
+    {
+      "title": "EdgeTel Hosted PBX",
+      "url": "https://www.edgetel.com.au/",
+      "snippet": "Make and receive office calls in your favourite apps, compatible with PC, Mac, Android and iOS. Ready to get started?"
+    },
+    {
+      "title": "FCC Form 499 Filer Database Detailed Information",
+      "url": "https://apps.fcc.gov/cgb/form499/499detail.cfm?FilerNum=832158",
+      "snippet": "499 Filer ID Number: 832158 Registration Current as of: Apr 1 2020 12:00AM Legal Name of Reporting Entity: EdgeTel , LLC Doing Business As: EdgeTel Principal Communications Type: Interconnected VoIP Universal Service Fund Contributor: No (Contact USAC at 888-641-8722 if this is not correct.)"
+    },
+    {
+      "title": "PUBLIC NOTICE - docs.fcc.gov",
+      "url": "https://docs.fcc.gov/public/attachments/DA-18-590A1.pdf",
+      "snippet": "On March 29, 2018, EdgeTel , LLC ( EdgeTel ) filed an application,2 pursuant to section 52.15(g)(3) of the Commission\u2019s rules,3 seeking authorization to obtain North American Numbering Plan telephone numbers directly from the Numbering Administrators.4"
+    }
+  ]
+}
+
+RULES:
+- Ground ALL assessments in the provided evidence
+- Cite specific sources in activity_signal (e.g., "Recent FCC filing (2024)", "Company website found via search")
+- Use "Unknown" when evidence is insufficient - DO NOT hallucinate
+- Confidence levels:
+  - High = Multiple confirming signals (recent web presence + recent filings + company details)
+  - Medium = Some signals but incomplete picture
+  - Low = FCC data only, no external confirmation
+
+Call the enrichment_result function with your analysis.

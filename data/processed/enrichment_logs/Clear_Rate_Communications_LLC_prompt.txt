@@ -1,0 +1,91 @@
+You are analyzing an IPES (Interconnected VoIP Provider) company that filed for numbering authorization with the FCC.
+
+Based ONLY on the evidence provided below, determine:
+1. Whether the company is likely still active
+2. Their industry segment (UCaaS, CCaaS, CPaaS, Carrier, Reseller, Enterprise IT, or Other)
+3. A brief product summary
+4. Their market position (Enterprise, Mid-Market, SMB, Startup, or Unknown)
+5. Your confidence level based on evidence quality
+
+EVIDENCE PACK:
+{
+  "company_name": "Clear Rate Communications LLC",
+  "aliases": [
+    "Clear Rate Communications LLC"
+  ],
+  "fcc_filing": {
+    "first_filing_date": "2025-03-07",
+    "latest_filing_date": "2025-03-07",
+    "total_filings": 3,
+    "docket_numbers": [
+      "25-128"
+    ],
+    "proceeding_types": [
+      "Interconnected VoIP Numbering Authorization Application Filed By Clear Rate Communications, Inc. Pursuant To Section 52.15(g)(3) Of The Commission's Rules"
+    ],
+    "has_supplements": true,
+    "recent_activity": true
+  },
+  "parsed_from_docs": {
+    "address": "2600 W Big Beaver Rd. - Suite 450",
+    "city": "Troy",
+    "state": "MI",
+    "zip_code": "48084",
+    "phone": "8778770661",
+    "email": "Form499@usac.org",
+    "key_personnel": [
+      {
+        "name": "Chief Executive Officer",
+        "title": "Doug Black"
+      },
+      {
+        "name": "Sam Namy",
+        "title": "President"
+      },
+      {
+        "name": "or Secretary",
+        "title": "President"
+      }
+    ],
+    "founding_date": "1982",
+    "service_description": "providers to compromise Clear Rate\nCommunications\u2019 position in the highly competitive interconnected VoIP business sector."
+  },
+  "web_search_results": [
+    {
+      "title": "INTERCONNECTED VOIP NUMBERING AUTHORIZATION APPLICATION FILED ...",
+      "url": "https://docs.fcc.gov/public/attachments/DA-25-776A1.pdf",
+      "snippet": "Commencement Date and Process for Interconnected VoIP Providers to File Applications for Authorization to Obtain Telephone Numbers, P Communications LLC dba Clear Rate Communications Inc. for Authorization to Obtain Numbering Resources, WC Docket No. 25-128 (filed Jun. 25, 2025),"
+    },
+    {
+      "title": "Clear Rate Communications - Products, Competitors, Financials ...",
+      "url": "https://www.cbinsights.com/company/clear-rate-communications",
+      "snippet": "Clear Rate Communications provides telecommunications solutions for business and residential sectors. The company includes services such as fiber internet, hosted voice, and managed IT solutions."
+    },
+    {
+      "title": "Clear Rate Communications - Company Profile ... - ContactOut Clear Rate - LinkedIn Clear Rate CLEAR RATE COMMUNICATIONS - Updated April 2025 - Yelp Clear Rate Clear Rate Communications , Inc. - Better Business Bureau Clear Rate Communications - Linx Partners",
+      "url": "https://contactout.com/company/Clear-Rate-84054",
+      "snippet": "CR is well positioned to grow and expand with recent investment from Linx partners and a newly hired, leadership team made up of experts from across the telecommunications industry. Clear Rate Communications simplifies business connectivity with the Power of One\u2014one bill, one point of contact, and one trusted partner. For more than 25 years, Clear Rate has helped... Who is clear rate telecommunications? Clear Rate Telecommunications Service for Business and Residential. Clear Rate Telecommunications offers powerful Internet, Phone, Managed Information Technology (IT), and security. We are a single service provider dedicated to simplifying your communication needs with clear, easy-to-understand services backed by 24/7 live support. What services does clear rate communications offer? \u201c We utilize both internet and voice services. \u201d in 2 reviews \u201c UPDATE TO ORIGINAL RATING It's now April 29, 2019 and at 3pm my landline phone rang...... \u201d in 2 reviews Phone Systems, Fiber, Telephone, High-Speed Internet, IT Services and Wireless provider.\u2026 Yelp users haven\u2019t asked any questions yet about Clear Rate Communications . Who is clear rate? We are a single service provider dedicated to simplifying your communication needs with clear, easy-to-understand services backed by 24/7 live support. Clear Rate provides phone, internet, security, and managed IT. We are communications experts with easy-to-understand services backed by 24/7 live support. Is telecommunications clear rate communications a BBB Accredited Business? Telecommunications Clear Rate Communications, Inc. is BBB Accredited . This business has committed to upholding the BBB Standards for Trust. Why choose a BBB Accredited Business? Sep 30, 2021 \u00b7 Clear Rate , headquartered in Troy, Michigan, provides enterprises and consumers with a wide array of telecommunications solutions in over 20 states. The Company\u2019s enterprise-focused services include fiber internet, hosted phone systems, cloud servers, managed IT, and additional services."
+    },
+    {
+      "title": "Clear Rate - LinkedIn",
+      "url": "https://www.linkedin.com/company/clear-rate-communications-inc-",
+      "snippet": "Clear Rate Communications simplifies business connectivity with the Power of One\u2014one bill, one point of contact, and one trusted partner. For more than 25 years, Clear Rate has helped..."
+    },
+    {
+      "title": "Clear Rate Communications - Linx Partners",
+      "url": "https://linxpartners.com/portfolio/clear-rate-communications/",
+      "snippet": "Sep 30, 2021 \u00b7 Clear Rate , headquartered in Troy, Michigan, provides enterprises and consumers with a wide array of telecommunications solutions in over 20 states. The Company\u2019s enterprise-focused services include fiber internet, hosted phone systems, cloud servers, managed IT, and additional services."
+    }
+  ]
+}
+
+RULES:
+- Ground ALL assessments in the provided evidence
+- Cite specific sources in activity_signal (e.g., "Recent FCC filing (2024)", "Company website found via search")
+- Use "Unknown" when evidence is insufficient - DO NOT hallucinate
+- Confidence levels:
+  - High = Multiple confirming signals (recent web presence + recent filings + company details)
+  - Medium = Some signals but incomplete picture
+  - Low = FCC data only, no external confirmation
+
+Call the enrichment_result function with your analysis.

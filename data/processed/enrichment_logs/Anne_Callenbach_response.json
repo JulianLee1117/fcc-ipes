@@ -1,0 +1,35 @@
+{
+  "id": "msg_01Lc3NyNu5WYgtkU2SMpYuQJ",
+  "content": [
+    {
+      "id": "toolu_013kaNLiKsiEJq2RpmPwg56x",
+      "input": {
+        "is_active": false,
+        "activity_signal": "No evidence of active VoIP business operations. Single FCC filing from 2018 with no recent activity. Web search results show Anne Callenbach as an energy lawyer at Polsinelli law firm, not operating a telecommunications company. No corporate website or business presence found for VoIP services.",
+        "industry_segment": "Unknown",
+        "product_summary": "No evidence of VoIP products or services. Individual appears to be a lawyer specializing in energy law rather than operating a telecommunications business.",
+        "market_position": "Unknown",
+        "enrichment_confidence": "Low"
+      },
+      "name": "enrichment_result",
+      "type": "tool_use"
+    }
+  ],
+  "model": "claude-sonnet-4-20250514",
+  "role": "assistant",
+  "stop_reason": "tool_use",
+  "stop_sequence": null,
+  "type": "message",
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0,
+    "input_tokens": 1898,
+    "output_tokens": 219,
+    "server_tool_use": null,
+    "service_tier": "standard"
+  }
+}

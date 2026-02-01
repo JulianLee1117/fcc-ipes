@@ -1,0 +1,68 @@
+You are analyzing an IPES (Interconnected VoIP Provider) company that filed for numbering authorization with the FCC.
+
+Based ONLY on the evidence provided below, determine:
+1. Whether the company is likely still active
+2. Their industry segment (UCaaS, CCaaS, CPaaS, Carrier, Reseller, Enterprise IT, or Other)
+3. A brief product summary
+4. Their market position (Enterprise, Mid-Market, SMB, Startup, or Unknown)
+5. Your confidence level based on evidence quality
+
+EVIDENCE PACK:
+{
+  "company_name": "Compatel LLC",
+  "aliases": [
+    "Compatel LLC"
+  ],
+  "fcc_filing": {
+    "first_filing_date": "2018-05-07",
+    "latest_filing_date": "2018-05-07",
+    "total_filings": 1,
+    "docket_numbers": [
+      "18-222"
+    ],
+    "proceeding_types": [
+      "INTERCONNECTED VOIP NUMBERING AUTHORIZATION APPLICATION FILED BY COMPATEL, LLC PURSUANT TO SECTION 52.15(g)(3) OF THE COMMISSION'S RULES"
+    ],
+    "has_supplements": false,
+    "recent_activity": false
+  },
+  "parsed_from_docs": {},
+  "web_search_results": [
+    {
+      "title": "Royaume-Uni - Code R\u00e9gional | VoIP Appel Longue Distance |",
+      "url": "https://fr.chahaoba.com/Royaume-Uni",
+      "snippet": "C'est la page de num\u00e9rotation de zone pour Royaume-Uni. Le d\u00e9tail est comme ci-dessous. ... Num\u00e9rotation d'entreprise et VoIP"
+    },
+    {
+      "title": "Regno Unito \ud83c\uddec\ud83c\udde7 - Area Code | Long-Distance Call VoIP |",
+      "url": "https://it.chahaoba.com/Regno_Unito",
+      "snippet": "Area Code, Long-Distance Call VoIP , Mobile / Cellular Locator e numero di telefono di Regno Unito. ... Numerazione aziendale e VoIP"
+    },
+    {
+      "title": "Carrier Name List | United Kingdom Area Code Database \ud83d\udcde",
+      "url": "https://gbr.areacodebase.com/carrier_name_list",
+      "snippet": "Aloha Telecommunications Limited ... Citrus Telecommunications Ltd ... Core Telecommunications International Limited (Ireland)"
+    },
+    {
+      "title": "Reino Unido \ud83c\uddec\ud83c\udde7 - C\u00f3digo de \u00c1rea | Longa Dist\u00e2ncia",
+      "url": "https://pt.chahaoba.com/Reino_Unido",
+      "snippet": "C\u00f3digo de \u00c1rea de longa dist\u00e2ncia chamada VoIP , Mobile / Cellular localizador e n\u00famero de telefone Reino Unido."
+    },
+    {
+      "title": "Reino Unido \ud83c\uddec\ud83c\udde7 - C\u00f3digo de \u00c1rea | Long-Distance Call",
+      "url": "https://es.chahaoba.com/Reino_Unido",
+      "snippet": "C\u00f3digo de \u00e1rea, de larga distancia de llamadas VoIP , m\u00f3vil / celular localizador y n\u00famero de tel\u00e9fono de Reino Unido."
+    }
+  ]
+}
+
+RULES:
+- Ground ALL assessments in the provided evidence
+- Cite specific sources in activity_signal (e.g., "Recent FCC filing (2024)", "Company website found via search")
+- Use "Unknown" when evidence is insufficient - DO NOT hallucinate
+- Confidence levels:
+  - High = Multiple confirming signals (recent web presence + recent filings + company details)
+  - Medium = Some signals but incomplete picture
+  - Low = FCC data only, no external confirmation
+
+Call the enrichment_result function with your analysis.

@@ -1,0 +1,35 @@
+{
+  "id": "msg_016dcMRNpvX8vbFzxbd96ySp",
+  "content": [
+    {
+      "id": "toolu_01Q3tBUadeKYQf1HqWg5fttb",
+      "input": {
+        "is_active": false,
+        "activity_signal": "No recent activity signals found. FCC filing only from 2017-10-20 with no recent filings (recent_activity: false). Email domain @logmein.com suggests potential acquisition or integration. Web search results show only generic VoIP patents and area code information with no specific company presence.",
+        "industry_segment": "UCaaS",
+        "product_summary": "VoIP service provider that filed for interconnected VoIP numbering authorization, likely providing voice communication services over internet protocol.",
+        "market_position": "Unknown",
+        "enrichment_confidence": "Low"
+      },
+      "name": "enrichment_result",
+      "type": "tool_use"
+    }
+  ],
+  "model": "claude-sonnet-4-20250514",
+  "role": "assistant",
+  "stop_reason": "tool_use",
+  "stop_sequence": null,
+  "type": "message",
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0,
+    "input_tokens": 1623,
+    "output_tokens": 220,
+    "server_tool_use": null,
+    "service_tier": "standard"
+  }
+}

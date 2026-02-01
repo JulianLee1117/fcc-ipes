@@ -1,0 +1,83 @@
+You are analyzing an IPES (Interconnected VoIP Provider) company that filed for numbering authorization with the FCC.
+
+Based ONLY on the evidence provided below, determine:
+1. Whether the company is likely still active
+2. Their industry segment (UCaaS, CCaaS, CPaaS, Carrier, Reseller, Enterprise IT, or Other)
+3. A brief product summary
+4. Their market position (Enterprise, Mid-Market, SMB, Startup, or Unknown)
+5. Your confidence level based on evidence quality
+
+EVIDENCE PACK:
+{
+  "company_name": "Exiant Communications LLC",
+  "aliases": [
+    "Exiant Communications LLC"
+  ],
+  "fcc_filing": {
+    "first_filing_date": "2017-07-18",
+    "latest_filing_date": "2017-07-18",
+    "total_filings": 1,
+    "docket_numbers": [
+      "17-202"
+    ],
+    "proceeding_types": [
+      "INTERCONNECTED VOIP NUMBERING AUTHORIZATION APPLICATION FILED BY EXIANT COMMUNICATIONS, LLC PURSUANT TO SECTION 52.15(g)(3) OF THE COMMISSION&#146;S RULES"
+    ],
+    "has_supplements": false,
+    "recent_activity": false
+  },
+  "parsed_from_docs": {
+    "address": "1213-J Liberty Rd, #216",
+    "city": "Eldersburg",
+    "state": "MD",
+    "zip_code": "21784",
+    "phone": "2022043005",
+    "email": null,
+    "key_personnel": [
+      {
+        "name": "Jim Finneran",
+        "title": "President"
+      }
+    ],
+    "founding_date": null,
+    "service_description": "providers to compromise\nExiant\u2019s position in the highly competitive interconnected VoIP sector."
+  },
+  "web_search_results": [
+    {
+      "title": "Exiant",
+      "url": "https://exiantcommunications.com/",
+      "snippet": "... telecommunications solutions deliver ... Exiant revolutionizes telecommunications by providing seamless phone numbers and calling solutions."
+    },
+    {
+      "title": "Exiant",
+      "url": "https://exiantcommunications.com/lnp.html",
+      "snippet": "The business rules outlined herein provide operational guidance governing the relationship between Exiant Communications LLC (\" Exiant \") and the New ..."
+    },
+    {
+      "title": "Exiant",
+      "url": "https://exiantcommunications.com/legal.html",
+      "snippet": "Exiant Communications is committed to telecommunications integrity and security. ... agencies seeking information from Exiant Communications LLC ..."
+    },
+    {
+      "title": "WASHINGTON,DC, ZIP Code 20015 - Database - WASHINGTON District",
+      "url": "https://www.area-codes.com/zip-code/zip-code-20015.asp",
+      "snippet": "OMNIPOINT COMMUNICATIONS CAP OPERATIONS, LLC ... EXIANT COMMUNICATIONS LLC ... Includes inputs from the major telecommunications providers."
+    },
+    {
+      "title": "WASHINGTON,DC, ZIP Code 20007 - Database - WASHINGTON District",
+      "url": "https://www.area-codes.com/zip-code/zip-code-20007.asp",
+      "snippet": "OMNIPOINT COMMUNICATIONS CAP OPERATIONS, LLC ... EXIANT COMMUNICATIONS LLC ... CTC COMMUNICATIONS CORP."
+    }
+  ]
+}
+
+RULES:
+- Ground ALL assessments in the provided evidence
+- Cite specific sources in activity_signal (e.g., "Recent FCC filing (2024)", "Company website found via search")
+- Use "Unknown" when evidence is insufficient - DO NOT hallucinate
+- Confidence levels:
+  - High = Multiple confirming signals (recent web presence + recent filings + company details)
+  - Medium = Some signals but incomplete picture
+  - Low = FCC data only, no external confirmation
+
+Call the enrichment_result function with your analysis.

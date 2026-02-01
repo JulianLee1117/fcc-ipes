@@ -1,0 +1,35 @@
+{
+  "id": "msg_01RbgNiFnEkXgZXv8Knaqh96",
+  "content": [
+    {
+      "id": "toolu_011ovJHaUsQcsgLR7WXB8rhm",
+      "input": {
+        "is_active": true,
+        "activity_signal": "Recent FCC filing (2025-09-19) for VoIP numbering authorization. Web search confirms Comcast Phone of California LLC is an active subsidiary providing VoIP services, with regulatory filings and settlement agreements through 2024. Comcast California website shows 5,000 employees serving 3.4 million customers statewide.",
+        "industry_segment": "UCaaS",
+        "product_summary": "Comcast subsidiary providing VoIP (Voice over Internet Protocol) services including text messaging, call forwarding, voicemail, and local/international calling as part of Comcast's Xfinity service offerings to California customers.",
+        "market_position": "Enterprise",
+        "enrichment_confidence": "High"
+      },
+      "name": "enrichment_result",
+      "type": "tool_use"
+    }
+  ],
+  "model": "claude-sonnet-4-20250514",
+  "role": "assistant",
+  "stop_reason": "tool_use",
+  "stop_sequence": null,
+  "type": "message",
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0,
+    "input_tokens": 2569,
+    "output_tokens": 254,
+    "server_tool_use": null,
+    "service_tier": "standard"
+  }
+}

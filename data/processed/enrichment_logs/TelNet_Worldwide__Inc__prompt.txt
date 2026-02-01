@@ -1,0 +1,78 @@
+You are analyzing an IPES (Interconnected VoIP Provider) company that filed for numbering authorization with the FCC.
+
+Based ONLY on the evidence provided below, determine:
+1. Whether the company is likely still active
+2. Their industry segment (UCaaS, CCaaS, CPaaS, Carrier, Reseller, Enterprise IT, or Other)
+3. A brief product summary
+4. Their market position (Enterprise, Mid-Market, SMB, Startup, or Unknown)
+5. Your confidence level based on evidence quality
+
+EVIDENCE PACK:
+{
+  "company_name": "TelNet Worldwide, Inc.",
+  "aliases": [
+    "TelNet Worldwide, Inc."
+  ],
+  "fcc_filing": {
+    "first_filing_date": "2021-03-30",
+    "latest_filing_date": "2021-03-30",
+    "total_filings": 1,
+    "docket_numbers": [
+      "21-116"
+    ],
+    "proceeding_types": [
+      "Interconnected VoIP Numbering Authorization Application Filed By TelNet Worldwide, Inc. Pursuant To Section 52.15(g)(3) Of The Commission's Rules"
+    ],
+    "has_supplements": false,
+    "recent_activity": false
+  },
+  "parsed_from_docs": {
+    "address": "31700 Research Park Drive",
+    "city": "Madison",
+    "state": "MI",
+    "zip_code": "48071",
+    "phone": "8005081254",
+    "email": null,
+    "key_personnel": [],
+    "founding_date": null,
+    "service_description": "providers to compromise TeiNet's position in the highly competitive\ninterconnected VoiP business sector."
+  },
+  "web_search_results": [
+    {
+      "title": "TelNet Worldwide of Michigan awarded stringent spoof-proof",
+      "url": "https://www.telnetww.com/blog/news/telnet-worldwide-of-michigan-awarded-stringent-spoof-proof-phone-certification/",
+      "snippet": "Michigan-based telecommunication provider TelNet Worldwide (www.telnetww.com) has attained an FCC-endorsed certification that helps prevent spoofing ..."
+    },
+    {
+      "title": "Partner Spotlight: TelNet Group | TelNet Worldwide",
+      "url": "https://www.telnetww.com/blog/partners/partner-spotlight-telnet-group/",
+      "snippet": "From hosted VoIP services through TelNet Worldwide to video surveillance solutions and IP paging services, TNG caters to the diverse needs of its ..."
+    },
+    {
+      "title": "What Is a T1 and Why Are Costs Increasing Significantly? |",
+      "url": "https://www.telnetww.com/blog/voice/why-t1-is-becoming-more-expensive/",
+      "snippet": "Discover how TelNet Worldwide has helped ... Corporate Office : 21005 Lahser Rd., Southfield, MI 48033 Copyright \u00a9 2025 TelNet Worldwide , Inc ."
+    },
+    {
+      "title": "SIP Session vs. SIP Trunk: What's the Difference? | TelNet",
+      "url": "https://www.telnetww.com/blog/voice/sip-session-vs-sip-trunk/",
+      "snippet": "Discover how TelNet Worldwide has helped ... Corporate Office : 21005 Lahser Rd., Southfield, MI 48033 Copyright \u00a9 2025 TelNet Worldwide , Inc ."
+    },
+    {
+      "title": "TelNet Worldwide - Telecommunications - Michigan - Oakland",
+      "url": "http://www.uscounties.com/biz/1042215656.html",
+      "snippet": "TelNet Worldwide 1017 Naughton Drive Troy, MI 48083 248-485-1000 E-mail: Mark Swope http://www.telnetww.com ... TelNet Worldwide , Inc ."
+    }
+  ]
+}
+
+RULES:
+- Ground ALL assessments in the provided evidence
+- Cite specific sources in activity_signal (e.g., "Recent FCC filing (2024)", "Company website found via search")
+- Use "Unknown" when evidence is insufficient - DO NOT hallucinate
+- Confidence levels:
+  - High = Multiple confirming signals (recent web presence + recent filings + company details)
+  - Medium = Some signals but incomplete picture
+  - Low = FCC data only, no external confirmation
+
+Call the enrichment_result function with your analysis.

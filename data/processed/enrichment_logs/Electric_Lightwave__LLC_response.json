@@ -1,0 +1,35 @@
+{
+  "id": "msg_011CSEQnXekotDZKSmFYvycK",
+  "content": [
+    {
+      "id": "toolu_01TXh72F1q7R6EkYR5VmUUUQ",
+      "input": {
+        "is_active": false,
+        "activity_signal": "FCC filing from 2018 only with no recent activity. Web search shows company was acquired by Zayo Group LLC on March 1, 2017 according to Clark County NV franchise agreement extension (2020). BBB profile indicates company was \"formerly known as Integra Telecom\" suggesting brand consolidation or discontinuation. No evidence of current independent operations.",
+        "industry_segment": "Carrier",
+        "product_summary": "Electric Lightwave was a telecommunications carrier that provided VoIP services and operated telecommunications infrastructure before being acquired by Zayo Group in 2017.",
+        "market_position": "Enterprise",
+        "enrichment_confidence": "Medium"
+      },
+      "name": "enrichment_result",
+      "type": "tool_use"
+    }
+  ],
+  "model": "claude-sonnet-4-20250514",
+  "role": "assistant",
+  "stop_reason": "tool_use",
+  "stop_sequence": null,
+  "type": "message",
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0,
+    "input_tokens": 2018,
+    "output_tokens": 239,
+    "server_tool_use": null,
+    "service_tier": "standard"
+  }
+}

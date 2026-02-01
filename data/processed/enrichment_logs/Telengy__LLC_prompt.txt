@@ -1,0 +1,78 @@
+You are analyzing an IPES (Interconnected VoIP Provider) company that filed for numbering authorization with the FCC.
+
+Based ONLY on the evidence provided below, determine:
+1. Whether the company is likely still active
+2. Their industry segment (UCaaS, CCaaS, CPaaS, Carrier, Reseller, Enterprise IT, or Other)
+3. A brief product summary
+4. Their market position (Enterprise, Mid-Market, SMB, Startup, or Unknown)
+5. Your confidence level based on evidence quality
+
+EVIDENCE PACK:
+{
+  "company_name": "Telengy, LLC",
+  "aliases": [
+    "Telengy, LLC"
+  ],
+  "fcc_filing": {
+    "first_filing_date": "2016-09-21",
+    "latest_filing_date": "2016-09-21",
+    "total_filings": 3,
+    "docket_numbers": [
+      "16-297"
+    ],
+    "proceeding_types": [
+      "INTERCONNECTED VOIP NUMBERING AUTHORIZATION APPLICATION FILED BY TELENGY, LLC PURSUANT TO SECTION 52.15(g)(3) OF THE COMMISSION&#146;S RULES"
+    ],
+    "has_supplements": false,
+    "recent_activity": false
+  },
+  "parsed_from_docs": {
+    "address": null,
+    "city": null,
+    "state": null,
+    "zip_code": null,
+    "phone": null,
+    "email": null,
+    "key_personnel": [],
+    "founding_date": null,
+    "service_description": null
+  },
+  "web_search_results": [
+    {
+      "title": "TELENGY",
+      "url": "https://www.telengy.net/",
+      "snippet": "Telengy was formed in 2001 to provide TDM and VoIP wholesale services to carriers worldwide. Today, Telengy provides VoIP and IP services to targeted enterprise customers and carrier partners in the United States and other countries."
+    },
+    {
+      "title": "Telengy L.L.C Information - RocketReach Telengy - Crunchbase Company Profile & Funding Telengy - Overview, News & Similar companies | ZoomInfo.com TELENGY, L.L.C. Company Profile | New York, New York ... Telengy, L.L.C. New York, NY - filing information TELENGY LLC - Global Providers Directory",
+      "url": "https://rocketreach.co/telengy-llc-profile_b46a34c1fc5c8e3b",
+      "snippet": "Telengy provides its partners with the required expertise, technology, financial resources and market access to introduce and develop new communication services tailored to the local operating environment. Telengy LLC specializes in providing VoIP and IP services , catering primarily to enterprise clients and carriers globally. Initially established to offer TDM and VoIP wholesale services, the company has expanded its portfolio to include a range of telecommunications solutions. Through our partnership approach we have gained experience operating with a diverse range of carriers in the emerging telecommunication markets of Europe, Africa, Asia and the Middle East. Find company research, competitor information, contact details & financial data for TELENGY , L . L . C . of New York, New York. Get the latest business insights from Dun & Bradstreet. Sep 4, 2001 \u00b7 Telengy , L . L . C . is a business entity based in New York, NY. Established recently on September 4, 2001, this Limited Liability Company is recognized under the document number 2677341. Governed by the New York Department of State, the company is listed in active status in state records. TELENGY LLC is a provider based in the USA that specializes in offering a wide range of services to its clients. With a focus on providing innovative solutions, TELENGY LLC has established itself as a reliable and trusted partner in the industry."
+    },
+    {
+      "title": "Telengy - Crunchbase Company Profile & Funding Telengy - Overview, News & Similar companies | ZoomInfo.com TELENGY, L.L.C. Company Profile | New York, New York ... Telengy, L.L.C. New York, NY - filing information TELENGY LLC - Global Providers Directory",
+      "url": "https://www.crunchbase.com/organization/telengy",
+      "snippet": "Telengy LLC specializes in providing VoIP and IP services , catering primarily to enterprise clients and carriers globally. Initially established to offer TDM and VoIP wholesale services, the company has expanded its portfolio to include a range of telecommunications solutions. Through our partnership approach we have gained experience operating with a diverse range of carriers in the emerging telecommunication markets of Europe, Africa, Asia and the Middle East. Find company research, competitor information, contact details & financial data for TELENGY , L . L . C . of New York, New York. Get the latest business insights from Dun & Bradstreet. Sep 4, 2001 \u00b7 Telengy , L . L . C . is a business entity based in New York, NY. Established recently on September 4, 2001, this Limited Liability Company is recognized under the document number 2677341. Governed by the New York Department of State, the company is listed in active status in state records. TELENGY LLC is a provider based in the USA that specializes in offering a wide range of services to its clients. With a focus on providing innovative solutions, TELENGY LLC has established itself as a reliable and trusted partner in the industry."
+    },
+    {
+      "title": "TELENGY, L.L.C. Company Profile | New York, New York ... Telengy, L.L.C. New York, NY - filing information TELENGY LLC - Global Providers Directory",
+      "url": "https://www.dnb.com/business-directory/company-profiles.telengy_llc.e11ca7efde6cf2c086f75745e311a409.html",
+      "snippet": "Find company research, competitor information, contact details & financial data for TELENGY , L . L . C . of New York, New York. Get the latest business insights from Dun & Bradstreet. Sep 4, 2001 \u00b7 Telengy , L . L . C . is a business entity based in New York, NY. Established recently on September 4, 2001, this Limited Liability Company is recognized under the document number 2677341. Governed by the New York Department of State, the company is listed in active status in state records. TELENGY LLC is a provider based in the USA that specializes in offering a wide range of services to its clients. With a focus on providing innovative solutions, TELENGY LLC has established itself as a reliable and trusted partner in the industry."
+    },
+    {
+      "title": "Telengy, L.L.C. New York, NY - filing information",
+      "url": "https://www.bizprofile.net/ny/new-york/telengy-l-l-c",
+      "snippet": "Sep 4, 2001 \u00b7 Telengy , L . L . C . is a business entity based in New York, NY. Established recently on September 4, 2001, this Limited Liability Company is recognized under the document number 2677341. Governed by the New York Department of State, the company is listed in active status in state records."
+    }
+  ]
+}
+
+RULES:
+- Ground ALL assessments in the provided evidence
+- Cite specific sources in activity_signal (e.g., "Recent FCC filing (2024)", "Company website found via search")
+- Use "Unknown" when evidence is insufficient - DO NOT hallucinate
+- Confidence levels:
+  - High = Multiple confirming signals (recent web presence + recent filings + company details)
+  - Medium = Some signals but incomplete picture
+  - Low = FCC data only, no external confirmation
+
+Call the enrichment_result function with your analysis.

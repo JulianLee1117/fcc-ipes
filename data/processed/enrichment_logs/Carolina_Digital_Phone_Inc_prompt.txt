@@ -1,0 +1,99 @@
+You are analyzing an IPES (Interconnected VoIP Provider) company that filed for numbering authorization with the FCC.
+
+Based ONLY on the evidence provided below, determine:
+1. Whether the company is likely still active
+2. Their industry segment (UCaaS, CCaaS, CPaaS, Carrier, Reseller, Enterprise IT, or Other)
+3. A brief product summary
+4. Their market position (Enterprise, Mid-Market, SMB, Startup, or Unknown)
+5. Your confidence level based on evidence quality
+
+EVIDENCE PACK:
+{
+  "company_name": "Carolina Digital Phone Inc",
+  "aliases": [
+    "Carolina Digital Phone Inc"
+  ],
+  "fcc_filing": {
+    "first_filing_date": "2020-09-26",
+    "latest_filing_date": "2020-09-26",
+    "total_filings": 1,
+    "docket_numbers": [
+      "20-315"
+    ],
+    "proceeding_types": [
+      "Interconnected VoIP Numbering Authorization Application Filed By Carolina Digital Phone, Inc. Pursuant To Section 52.15(g)(3) Of The Commission's Rules"
+    ],
+    "has_supplements": false,
+    "recent_activity": false
+  },
+  "parsed_from_docs": {
+    "address": "301 S. Elm Street, Suite 601",
+    "city": null,
+    "state": null,
+    "zip_code": null,
+    "phone": "3365444000",
+    "email": null,
+    "key_personnel": [
+      {
+        "name": "Nicky Smith",
+        "title": "President"
+      },
+      {
+        "name": "of Carolina",
+        "title": "President"
+      },
+      {
+        "name": "and CEO",
+        "title": "President"
+      },
+      {
+        "name": "Carolina Digital",
+        "title": "CEO"
+      },
+      {
+        "name": "SMITH\nNicky Smith",
+        "title": "President"
+      }
+    ],
+    "founding_date": null,
+    "service_description": "provide interconnected VoIP services initially in North\nCarolina, however the Company anticipates that it will provide interconnected VoIP service nationwide,\nand accordingly, will request numbers from other states in turn after its initial request in North Carolina."
+  },
+  "web_search_results": [
+    {
+      "title": "Carolina Digital Phone Celebrates 20 Years of Providing",
+      "url": "https://www.todayineducation.com/article/510439889-carolina-digital-phone-celebrates-20-years-of-providing-cloud-based-telecommunications-solutions/",
+      "snippet": "Commented Nicky Smith, Carolina Digital Phone s Founder and CEO: \u201cWhen we first opened our doors, cloud-based telecommunication solutions were ..."
+    },
+    {
+      "title": "About Us - Carolina Digital Phone",
+      "url": "https://carolinadigitalphone.com/about-us/",
+      "snippet": "Common VoIP Challenges The Common VoIP Challenges section of the Carolina Digital Phone Learning Hub addresses frequent issues and troubleshooting ..."
+    },
+    {
+      "title": "Business Phone - Carolina Digital Phone",
+      "url": "https://carolinadigitalphone.com/inquiry/",
+      "snippet": "Common VoIP Challenges The Common VoIP Challenges section of the Carolina Digital Phone Learning Hub addresses frequent issues and troubleshooting ..."
+    },
+    {
+      "title": "Top VoIP Providers in North Carolina - 2025 Reviews | Goodfirms",
+      "url": "https://www.goodfirms.co/it-services/voip/north-carolina",
+      "snippet": "Based in North Carolina , Insight is a full-service technology solution provider specializing in telecommunication , VoIP network, Internet, telephone ..."
+    },
+    {
+      "title": "5 Ways Accounting Firms Benefit from Cloud Based Phones -",
+      "url": "https://roanokevoip.com/5-ways-accounting-firms-benefit-from-cloud-based-phones/",
+      "snippet": "Most VoIP providers like Carolina Digital Phone will give you access via your mobile phone or a virtual phone on your laptop or desktop computer."
+    }
+  ]
+}
+
+RULES:
+- Ground ALL assessments in the provided evidence
+- Cite specific sources in activity_signal (e.g., "Recent FCC filing (2024)", "Company website found via search")
+- Use "Unknown" when evidence is insufficient - DO NOT hallucinate
+- Confidence levels:
+  - High = Multiple confirming signals (recent web presence + recent filings + company details)
+  - Medium = Some signals but incomplete picture
+  - Low = FCC data only, no external confirmation
+
+Call the enrichment_result function with your analysis.

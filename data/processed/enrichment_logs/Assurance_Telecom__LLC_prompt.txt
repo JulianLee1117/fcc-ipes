@@ -1,0 +1,87 @@
+You are analyzing an IPES (Interconnected VoIP Provider) company that filed for numbering authorization with the FCC.
+
+Based ONLY on the evidence provided below, determine:
+1. Whether the company is likely still active
+2. Their industry segment (UCaaS, CCaaS, CPaaS, Carrier, Reseller, Enterprise IT, or Other)
+3. A brief product summary
+4. Their market position (Enterprise, Mid-Market, SMB, Startup, or Unknown)
+5. Your confidence level based on evidence quality
+
+EVIDENCE PACK:
+{
+  "company_name": "Assurance Telecom, LLC",
+  "aliases": [
+    "Assurance Telecom, LLC"
+  ],
+  "fcc_filing": {
+    "first_filing_date": "2019-09-19",
+    "latest_filing_date": "2019-09-19",
+    "total_filings": 1,
+    "docket_numbers": [
+      "19-335"
+    ],
+    "proceeding_types": [
+      "In the Matter of Assurance Telecom, LLC For Authorization to Obtain Numbering Resources Pursuant to Section 52.15(g) of The Commission's Rules"
+    ],
+    "has_supplements": false,
+    "recent_activity": false
+  },
+  "parsed_from_docs": {
+    "address": "730 Peachtree Street NE, Suite 470",
+    "city": "Atlanta",
+    "state": "GA",
+    "zip_code": "30308",
+    "phone": "4045266060",
+    "email": null,
+    "key_personnel": [
+      {
+        "name": "Chief\nExecutive Officer",
+        "title": "and Managing"
+      },
+      {
+        "name": "and\nManaging",
+        "title": "President"
+      }
+    ],
+    "founding_date": null,
+    "service_description": null
+  },
+  "web_search_results": [
+    {
+      "title": "FCC Form 499 Filer Database Detailed Information Assurance Telecom LLC - Georgia Company Directory ASSURANCE TELECOM LLC in Atlanta, GA | Company Info & Reviews 19103482 - Assurance Telecom, LLC - City-Data.com Interconnected VoIP Numbering Authorization Application Filed PUBLIC NOTICE - docs.fcc.gov PUBLIC NOTICE - docs.fcc.gov",
+      "url": "https://apps.fcc.gov/cgb/form499/499detail.cfm?FilerNum=833346",
+      "snippet": "Jan 4, 2024 \u00b7 Legal Name of Reporting Entity: Assurance Telecom , LLC Doing Business As: Principal Communications Type: Interconnected VoIP Universal Service Fund Contributor: No (Contact USAC at 888-641-8722 if this is not correct.) Holding Company: Registration Number (CORESID): 0028895829 Information about Assurance Telecom LLC , includes incorporation date, status, type, directors, address, contacts information & more. Jul 27, 2025 \u00b7 Discover Company Info on ASSURANCE TELECOM LLC in Atlanta, GA, such as Contacts, Addresses, Reviews, and Registered Agent. Entity Id: 19103482 Type: Domestic Limited Liability Company Status: Active/Compliance Registration date: 2019 Jul 30 Last Annual Registration Year: 2021 NAICS Code: Information NAICS Sub Code: Telecommunications Resellers Jan 13, 2020 \u00b7 Interconnected VoIP Numbering Authorization Application Filed By Assurance Telecom , LLC Pursuant To Section 52.15 (g) (3) Of The Commission's Rules Document Type: The Commission reserves the right to return any interconnected VoIP Numbering Authorization Application if, upon further examination, it is determined to be defective and not in conformance with the Commission\u2019s rules and policies. Interconnected VoIP Numbering Authorization Application Filed by Assurance Telecom , LLC Pursuant to Section 52.15(g)(3) of the Commission\u2019s Rules, WC Docket No. 19-335 (September 19, 2019), Public Notice, DA 20-50 (WCB January 13, 2020)."
+    },
+    {
+      "title": "Assurance Telecom LLC - Georgia Company Directory",
+      "url": "https://www.georgiacompanyregistry.com/companies/assurance-telecom-llc/",
+      "snippet": "Information about Assurance Telecom LLC , includes incorporation date, status, type, directors, address, contacts information & more."
+    },
+    {
+      "title": "ASSURANCE TELECOM LLC in Atlanta, GA | Company Info & Reviews",
+      "url": "https://www.bizapedia.com/ga/assurance-telecom-llc.html",
+      "snippet": "Jul 27, 2025 \u00b7 Discover Company Info on ASSURANCE TELECOM LLC in Atlanta, GA, such as Contacts, Addresses, Reviews, and Registered Agent."
+    },
+    {
+      "title": "19103482 - Assurance Telecom, LLC - City-Data.com",
+      "url": "https://www.city-data.com/business-entities/GA/Assurance-Telecom-LLC-19103482-GA.html",
+      "snippet": "Entity Id: 19103482 Type: Domestic Limited Liability Company Status: Active/Compliance Registration date: 2019 Jul 30 Last Annual Registration Year: 2021 NAICS Code: Information NAICS Sub Code: Telecommunications Resellers"
+    },
+    {
+      "title": "Interconnected VoIP Numbering Authorization Application Filed",
+      "url": "https://www.fcc.gov/document/interconnected-voip-numbering-authorization-application-filed-20",
+      "snippet": "Jan 13, 2020 \u00b7 Interconnected VoIP Numbering Authorization Application Filed By Assurance Telecom , LLC Pursuant To Section 52.15 (g) (3) Of The Commission's Rules Document Type:"
+    }
+  ]
+}
+
+RULES:
+- Ground ALL assessments in the provided evidence
+- Cite specific sources in activity_signal (e.g., "Recent FCC filing (2024)", "Company website found via search")
+- Use "Unknown" when evidence is insufficient - DO NOT hallucinate
+- Confidence levels:
+  - High = Multiple confirming signals (recent web presence + recent filings + company details)
+  - Medium = Some signals but incomplete picture
+  - Low = FCC data only, no external confirmation
+
+Call the enrichment_result function with your analysis.

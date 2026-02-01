@@ -1,0 +1,79 @@
+You are analyzing an IPES (Interconnected VoIP Provider) company that filed for numbering authorization with the FCC.
+
+Based ONLY on the evidence provided below, determine:
+1. Whether the company is likely still active
+2. Their industry segment (UCaaS, CCaaS, CPaaS, Carrier, Reseller, Enterprise IT, or Other)
+3. A brief product summary
+4. Their market position (Enterprise, Mid-Market, SMB, Startup, or Unknown)
+5. Your confidence level based on evidence quality
+
+EVIDENCE PACK:
+{
+  "company_name": "SimpleVoIP, LLC",
+  "aliases": [
+    "SimpleVoIP LLC",
+    "SimpleVoIP, LLC"
+  ],
+  "fcc_filing": {
+    "first_filing_date": "2023-11-10",
+    "latest_filing_date": "2023-11-10",
+    "total_filings": 2,
+    "docket_numbers": [
+      "23-408"
+    ],
+    "proceeding_types": [
+      "Interconnected VoIP Numbering Authorization Application Filed By SimpleVoip, LLC Pursuant To Section 52.15(g)(3) of the Commission's Rules"
+    ],
+    "has_supplements": true,
+    "recent_activity": false
+  },
+  "parsed_from_docs": {
+    "address": "9450 SW Gemini Dr #72108",
+    "city": "Beaverton",
+    "state": "OR",
+    "zip_code": "97008-7105",
+    "phone": "4077943510",
+    "email": null,
+    "key_personnel": [],
+    "founding_date": null,
+    "service_description": null
+  },
+  "web_search_results": [
+    {
+      "title": "SimpleVoIP LLC | BBB Business Profile | Better Business Bureau",
+      "url": "https://www.bbb.org/us/ca/san-clemente/profile/voip-phone/simplevoip-llc-1126-1000082406",
+      "snippet": "Business Profile. VoIP Phone. SimpleVoIP LLC .3/29/2016. Type of Entity: Limited Liability Company (LLC). Business Management: Mr. Josh Robbins, CEO."
+    },
+    {
+      "title": "SimpleVoIP - Crunchbase Company Profile & Funding",
+      "url": "https://www.crunchbase.com/organization/simplevoip",
+      "snippet": "SimpleVoIP is a telecommunications company that offers unified communication solutions to businesses with a major focus on VoIP .Company Type. For Profit. Contact Email. info@ simplevoip .com. Phone Number. +1 855-899-8647."
+    },
+    {
+      "title": "SimpleVoIP LLC Status",
+      "url": "https://status.simplevoip.us/",
+      "snippet": "Welcome to SimpleVoIP LLC 's home for real-time and historical data on system performance.All Systems Operational. About This Site. Welcome to the SimpleVoIP status page. Uptime over the past 90 days."
+    },
+    {
+      "title": "SimpleVoIP Mobile App - App Store",
+      "url": "https://apps.apple.com/us/app/simplevoip-mobile/id1504733970",
+      "snippet": "Download SimpleVoIP Mobile by SimpleVoIP LLC on the App Store. See screenshots, ratings and reviews, user tips, and more games like SimpleVoIP Mobile."
+    },
+    {
+      "title": "Customer Billing Portal and Paying Your Bill \u2013 SimpleVoIP",
+      "url": "https://support.simplevoip.com/hc/en-us/articles/360046561414-Customer-Billing-Portal-and-Paying-Your-Bill",
+      "snippet": "SimpleVoIP Partner Agent Portal. Customer Billing Portal and Paying Your Bill. Contact Us.Great! Just add SimpleVoIP LLC as a vendor and use support@simplevoip.com as the email and you'll be able to send us payments electronically. No need to enter banking information."
+    }
+  ]
+}
+
+RULES:
+- Ground ALL assessments in the provided evidence
+- Cite specific sources in activity_signal (e.g., "Recent FCC filing (2024)", "Company website found via search")
+- Use "Unknown" when evidence is insufficient - DO NOT hallucinate
+- Confidence levels:
+  - High = Multiple confirming signals (recent web presence + recent filings + company details)
+  - Medium = Some signals but incomplete picture
+  - Low = FCC data only, no external confirmation
+
+Call the enrichment_result function with your analysis.

@@ -1,0 +1,78 @@
+You are analyzing an IPES (Interconnected VoIP Provider) company that filed for numbering authorization with the FCC.
+
+Based ONLY on the evidence provided below, determine:
+1. Whether the company is likely still active
+2. Their industry segment (UCaaS, CCaaS, CPaaS, Carrier, Reseller, Enterprise IT, or Other)
+3. A brief product summary
+4. Their market position (Enterprise, Mid-Market, SMB, Startup, or Unknown)
+5. Your confidence level based on evidence quality
+
+EVIDENCE PACK:
+{
+  "company_name": "WTC Technologies, Inc.",
+  "aliases": [
+    "WTC Technologies, Inc."
+  ],
+  "fcc_filing": {
+    "first_filing_date": "2017-02-03",
+    "latest_filing_date": "2017-02-03",
+    "total_filings": 3,
+    "docket_numbers": [
+      "17-43"
+    ],
+    "proceeding_types": [
+      "INTERCONNECTED VOIP NUMBERING AUTHORIZATION APPLICATION FILED BY WTC TECHNOLOGIES, INC. PURSUANT TO SECTION 52.15(g)(3)"
+    ],
+    "has_supplements": true,
+    "recent_activity": false
+  },
+  "parsed_from_docs": {
+    "address": "1009 Lincoln Avenue",
+    "city": null,
+    "state": null,
+    "zip_code": null,
+    "phone": "7854561000",
+    "email": "jwick@wtcks.com",
+    "key_personnel": [],
+    "founding_date": "1912",
+    "service_description": "provider currently providing VoIP services in rural Kansas\nthrough its own facilities."
+  },
+  "web_search_results": [
+    {
+      "title": "FCC Form 499 Filer Database Detailed Information The Most Feature-Rich VoIP Provider for Businesses IVOIP NUMBERING AUTHORIZATION APPLICATION FILED BY WTC PUBLIC NOTICE - docs.fcc.gov 0 1. -,,, ,2 2 Microsoft Word - 167217 Microsoft Word - 167912",
+      "url": "https://apps.fcc.gov/cgb/form499/499detail.cfm?FilerNum=831932",
+      "snippet": "Apr 1, 2021 \u00b7 Legal Name of Reporting Entity: WTC Technologies , Inc . Doing Business As: WTC Technologies , Inc . Principal Communications Type: Interconnected VoIP Universal Service Fund Contributor: Yes (Contact USAC at 888-641-8722 if this is not correct.) Holding Company: WAMEGO TELEPHONE COMPANY INC State-of-the-Art VoIP Service Provider As a Telecommunications Service Provider, we are devoted to providing quality local and international connections to our customers around the world. May 5, 2017 \u00b7 Interconnected VoIP Numbering Authorization Application Filed by WTC Technologies , Inc . Pursuant to Section 52.15 (g) (3) of The Commission's Rules Document Type: GENERAL INFORMATION application. The Commission reserves the right to return any VoIP Numbering Authorization Application if, upon further examination, it is determined to be defective and not in conformance with the Commission\u2019s rules Interconnected VoIP Numbering Authorization Application Filed by WTC Technologies , Inc . Pursuant to Section 52.15(g)(3) of the Commission\u2019s Rules, WC Docket No. 17-43 (February 3, 2017), Public Notice, DA 17-429 (WCB May 5, 2017). On February 3, 2017, WTC Technologies , Inc . ( WTC ) filed an application,2 pursuant to Section 52.15(g)(3) of the Commission\u2019s rules,3 seeking authorization to obtain North American Numbering Plan telephone numbers directly from the Numbering Administrators.4 Interconnected VoIP Numbering Authorization Application Filed by WTC Technologies , Inc . Pursuant to Section 52.15(g)(3) of the Commission\u2019s Rules, WC Docket No. 17-43 (February 3, 2017), Public Notice, DA 17-429 (WCB May 5, 2017)."
+    },
+    {
+      "title": "The Most Feature-Rich VoIP Provider for Businesses",
+      "url": "https://voip.ms/",
+      "snippet": "State-of-the-Art VoIP Service Provider As a Telecommunications Service Provider, we are devoted to providing quality local and international connections to our customers around the world."
+    },
+    {
+      "title": "IVOIP NUMBERING AUTHORIZATION APPLICATION FILED BY WTC",
+      "url": "https://www.fcc.gov/document/ivoip-numbering-authorization-application-filed-wtc",
+      "snippet": "May 5, 2017 \u00b7 Interconnected VoIP Numbering Authorization Application Filed by WTC Technologies , Inc . Pursuant to Section 52.15 (g) (3) of The Commission's Rules Document Type:"
+    },
+    {
+      "title": "PUBLIC NOTICE - docs.fcc.gov",
+      "url": "https://docs.fcc.gov/public/attachments/DA-17-429A1_Rcd.pdf",
+      "snippet": "GENERAL INFORMATION application. The Commission reserves the right to return any VoIP Numbering Authorization Application if, upon further examination, it is determined to be defective and not in conformance with the Commission\u2019s rules"
+    },
+    {
+      "title": "0 1. -,,, ,2 2",
+      "url": "https://docs.fcc.gov/public/attachments/DA-17-544A1_Rcd.pdf",
+      "snippet": "Interconnected VoIP Numbering Authorization Application Filed by WTC Technologies , Inc . Pursuant to Section 52.15(g)(3) of the Commission\u2019s Rules, WC Docket No. 17-43 (February 3, 2017), Public Notice, DA 17-429 (WCB May 5, 2017)."
+    }
+  ]
+}
+
+RULES:
+- Ground ALL assessments in the provided evidence
+- Cite specific sources in activity_signal (e.g., "Recent FCC filing (2024)", "Company website found via search")
+- Use "Unknown" when evidence is insufficient - DO NOT hallucinate
+- Confidence levels:
+  - High = Multiple confirming signals (recent web presence + recent filings + company details)
+  - Medium = Some signals but incomplete picture
+  - Low = FCC data only, no external confirmation
+
+Call the enrichment_result function with your analysis.

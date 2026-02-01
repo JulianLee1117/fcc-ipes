@@ -1,0 +1,79 @@
+You are analyzing an IPES (Interconnected VoIP Provider) company that filed for numbering authorization with the FCC.
+
+Based ONLY on the evidence provided below, determine:
+1. Whether the company is likely still active
+2. Their industry segment (UCaaS, CCaaS, CPaaS, Carrier, Reseller, Enterprise IT, or Other)
+3. A brief product summary
+4. Their market position (Enterprise, Mid-Market, SMB, Startup, or Unknown)
+5. Your confidence level based on evidence quality
+
+EVIDENCE PACK:
+{
+  "company_name": "Advanced Communications, L.L.C.",
+  "aliases": [
+    "Advanced Communications, L.L.C.",
+    "Advanced Communications, LLC."
+  ],
+  "fcc_filing": {
+    "first_filing_date": "2021-03-31",
+    "latest_filing_date": "2021-03-31",
+    "total_filings": 2,
+    "docket_numbers": [
+      "21-132"
+    ],
+    "proceeding_types": [
+      "Interconnected VoIP Numbering Authorization Application Filed By Advanced Communications, L.L.C. Pursuant To Section 52.15(g)(3) Of The Commission's Rules"
+    ],
+    "has_supplements": true,
+    "recent_activity": false
+  },
+  "parsed_from_docs": {
+    "address": "2211 E. 7th Avenue",
+    "city": "Tampa",
+    "state": "FL",
+    "zip_code": "33605",
+    "phone": "8138058963",
+    "email": null,
+    "key_personnel": [],
+    "founding_date": null,
+    "service_description": null
+  },
+  "web_search_results": [
+    {
+      "title": "Advanced Communications LLC Information - RocketReach",
+      "url": "https://rocketreach.co/advanced-communications-llc-profile_b46e05aafc5c6123",
+      "snippet": "We focus on small to mid-size businesses and offer a total solution for any of your telecom needs including, structured cabling, IP phone systems, Voice and data service, VoIP service, and Data Networking."
+    },
+    {
+      "title": "Advanced Communications, LLC | BBB Business Profile | Better ... Advanced Communications Company Profile | Management and ... Advance Communications Advanced Communications, LLC (Headquarters) - akama.com Advanced Communications Dallas TX, 75204 \u2013 Manta.com ACI \u2014 Advanced Communications, Inc. | ACI is an AT&T ...",
+      "url": "https://www.bbb.org/us/tx/dallas/profile/network-computer/advanced-communications-llc-0875-90391647",
+      "snippet": "Telephone System Dealers in Dallas, TX. See BBB rating, reviews, complaints, and more. We focus on small to mid-size businesses and offer a total solution for any of your telecom needs including, structured cabling, IP phone systems, Voice and data service, VoIP service, and Data Networking. As a dedicated 24-hour answering service and call center, Advance Communications take pride in providing reliable and professional phone coverage, ensuring that you never miss a call, no matter the time of day. Advanced Communications is a full service, telecommunications firm, with one of our bases in Tampa, Florida. We are a company that provides business phone systems, data networking, VOIP services, phone and high speed internet service, Cloud services and surveillance systems. Advanced Communications LLC is telecommunicaitons consulting firm specializing in IP based phone systems and Voice and data networks. With over 30 years of experience in telecommunications \u2014and nearly two decades working with AT&T\u2014Advanced Communications , Inc. (ACI) is uniquely positioned to provide best-in-class telecom solutions as well as critical business services."
+    },
+    {
+      "title": "Advanced Communications Company Profile | Management and ...",
+      "url": "https://www.datanyze.com/companies/advanced-communications/353581266",
+      "snippet": "We focus on small to mid-size businesses and offer a total solution for any of your telecom needs including, structured cabling, IP phone systems, Voice and data service, VoIP service, and Data Networking."
+    },
+    {
+      "title": "Advance Communications",
+      "url": "https://advancecommunications.com/",
+      "snippet": "As a dedicated 24-hour answering service and call center, Advance Communications take pride in providing reliable and professional phone coverage, ensuring that you never miss a call, no matter the time of day."
+    },
+    {
+      "title": "Advanced Communications, LLC (Headquarters) - akama.com",
+      "url": "https://akama.com/company/Advanced_Communications_LLC_Headquarters_ad28b3675435.html",
+      "snippet": "Advanced Communications is a full service, telecommunications firm, with one of our bases in Tampa, Florida. We are a company that provides business phone systems, data networking, VOIP services, phone and high speed internet service, Cloud services and surveillance systems."
+    }
+  ]
+}
+
+RULES:
+- Ground ALL assessments in the provided evidence
+- Cite specific sources in activity_signal (e.g., "Recent FCC filing (2024)", "Company website found via search")
+- Use "Unknown" when evidence is insufficient - DO NOT hallucinate
+- Confidence levels:
+  - High = Multiple confirming signals (recent web presence + recent filings + company details)
+  - Medium = Some signals but incomplete picture
+  - Low = FCC data only, no external confirmation
+
+Call the enrichment_result function with your analysis.

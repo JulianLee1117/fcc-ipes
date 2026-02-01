@@ -1,0 +1,35 @@
+{
+  "id": "msg_01UEkFd93cCMqZgx6zxTnwsK",
+  "content": [
+    {
+      "id": "toolu_01BpFu8GADkE8v9YHMc4aA8w",
+      "input": {
+        "is_active": false,
+        "activity_signal": "No recent activity signals found. FCC filing from 2020-07-28 with no subsequent filings (recent_activity: false). Web search results contain no relevant information about Astro Telco, LLC - only unrelated telecommunications industry content. No company website or recent business presence detected.",
+        "industry_segment": "Carrier",
+        "product_summary": "Applied for FCC interconnected VoIP numbering authorization in 2020, indicating intent to provide VoIP telecommunications services, but no evidence of actual service launch or operations.",
+        "market_position": "Unknown",
+        "enrichment_confidence": "Low"
+      },
+      "name": "enrichment_result",
+      "type": "tool_use"
+    }
+  ],
+  "model": "claude-sonnet-4-20250514",
+  "role": "assistant",
+  "stop_reason": "tool_use",
+  "stop_sequence": null,
+  "type": "message",
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0,
+    "input_tokens": 1913,
+    "output_tokens": 228,
+    "server_tool_use": null,
+    "service_tier": "standard"
+  }
+}

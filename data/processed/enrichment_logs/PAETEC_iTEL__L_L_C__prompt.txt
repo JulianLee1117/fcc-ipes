@@ -1,0 +1,108 @@
+You are analyzing an IPES (Interconnected VoIP Provider) company that filed for numbering authorization with the FCC.
+
+Based ONLY on the evidence provided below, determine:
+1. Whether the company is likely still active
+2. Their industry segment (UCaaS, CCaaS, CPaaS, Carrier, Reseller, Enterprise IT, or Other)
+3. A brief product summary
+4. Their market position (Enterprise, Mid-Market, SMB, Startup, or Unknown)
+5. Your confidence level based on evidence quality
+
+EVIDENCE PACK:
+{
+  "company_name": "PAETEC iTEL, L.L.C.",
+  "aliases": [
+    "PAETEC iTEL, L.L.C.",
+    "PAETEC iTEL, LLC"
+  ],
+  "fcc_filing": {
+    "first_filing_date": "2020-10-01",
+    "latest_filing_date": "2020-10-01",
+    "total_filings": 5,
+    "docket_numbers": [
+      "20-416"
+    ],
+    "proceeding_types": [
+      "Interconnected VoIP Numbering Authorization Application Filed By PAETEC iTEL, LLC Pursuant To Section 52.15(g)(3) Of The Commission's Rules"
+    ],
+    "has_supplements": true,
+    "recent_activity": false
+  },
+  "parsed_from_docs": {
+    "address": "4001 N. Rodney Parham Road, Little Rock, AR 72212",
+    "city": null,
+    "state": null,
+    "zip_code": null,
+    "phone": null,
+    "email": "Nicole.Winters@windstream.com",
+    "key_personnel": [
+      {
+        "name": "Stephen Farkouh",
+        "title": "President"
+      },
+      {
+        "name": "Chief Information Officer",
+        "title": "None of"
+      },
+      {
+        "name": "Stephen Farkouh",
+        "title": "President"
+      },
+      {
+        "name": "Chief Information Officer",
+        "title": "None of"
+      },
+      {
+        "name": "Chief Executive Officer",
+        "title": "Layne Levine"
+      },
+      {
+        "name": "Chief Network Officer",
+        "title": "Stephen Farkouh"
+      },
+      {
+        "name": "Chief Information Officer",
+        "title": "None of"
+      }
+    ],
+    "founding_date": null,
+    "service_description": "provide this supplemental\ninformation relevant to the Restated Application for Interconnected VoIP Numbering\nAuthorization (\u201cRestated Application\u201d) filed by Windstream IPES in the abovementioned\ndocket."
+  },
+  "web_search_results": [
+    {
+      "title": "2024 Informational Filings",
+      "url": "https://puc.sd.gov/Dockets/Telecom/2024/Informational/default.aspx",
+      "snippet": "2024 Info TC4 - James Valley Wireless LLC's FCC Form 555 - Annual Lifeline Eligible Telecommunications Carrier Certification Form (SA 399014 ..."
+    },
+    {
+      "title": "Angela Addesso in York, ME - Age 54 Years Old (Record Found)",
+      "url": "https://www.truthfinder.com/people-search/angela-addesso/maine/",
+      "snippet": "... Corp, an assistant store manager at ... 731) 423-4624 voip , bellsouth telecommunications inc dba south central bell telephone (at&t southeast)"
+    },
+    {
+      "title": "Robert Day Found - Phone Numbers, Addresses & Possible",
+      "url": "https://www.zabasearch.com/people/robert+day/",
+      "snippet": "Living Waters Community Church Executive Pastor Administration at \\ Living Waters Community Church (Since 2009) ... businesses, apartments, condos ..."
+    },
+    {
+      "title": "Edgardo Suarez Found - Phone Numbers, Addresses & Possible",
+      "url": "https://www.zabasearch.com/people/edgardo-suarez/",
+      "snippet": "Dluxe - Luxury Club [The Luxury Business Network] Business Development Manager at Dluxe - Luxury Club [The Luxury Business Network] (Since 2009)"
+    },
+    {
+      "title": "Annie Hollingsworth Found - Phone Numbers, Addresses &",
+      "url": "https://www.zabasearch.com/people/annie-hollingsworth/",
+      "snippet": "Post- Master S Certificate of Educational Leadership and Administration, Educational Leadership and Administration, General from the George ..."
+    }
+  ]
+}
+
+RULES:
+- Ground ALL assessments in the provided evidence
+- Cite specific sources in activity_signal (e.g., "Recent FCC filing (2024)", "Company website found via search")
+- Use "Unknown" when evidence is insufficient - DO NOT hallucinate
+- Confidence levels:
+  - High = Multiple confirming signals (recent web presence + recent filings + company details)
+  - Medium = Some signals but incomplete picture
+  - Low = FCC data only, no external confirmation
+
+Call the enrichment_result function with your analysis.

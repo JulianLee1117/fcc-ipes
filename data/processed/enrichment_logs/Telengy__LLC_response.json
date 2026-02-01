@@ -1,0 +1,35 @@
+{
+  "id": "msg_015NFMkNJN8F55G8hWrt7zkq",
+  "content": [
+    {
+      "id": "toolu_01XgCFjZxqDALpvvsSBD2uH3",
+      "input": {
+        "is_active": true,
+        "activity_signal": "Company website found via search (telengy.net), multiple business directory listings showing \"active status in state records\" (NY Department of State), and company described as having \"established itself as a reliable and trusted partner\" suggesting current operations",
+        "industry_segment": "Carrier",
+        "product_summary": "Telengy provides VoIP and IP services to enterprise customers and carrier partners globally, originally established in 2001 to offer TDM and VoIP wholesale services to carriers worldwide.",
+        "market_position": "Enterprise",
+        "enrichment_confidence": "Medium"
+      },
+      "name": "enrichment_result",
+      "type": "tool_use"
+    }
+  ],
+  "model": "claude-sonnet-4-20250514",
+  "role": "assistant",
+  "stop_reason": "tool_use",
+  "stop_sequence": null,
+  "type": "message",
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0,
+    "input_tokens": 2556,
+    "output_tokens": 218,
+    "server_tool_use": null,
+    "service_tier": "standard"
+  }
+}

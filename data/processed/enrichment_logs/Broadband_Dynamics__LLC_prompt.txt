@@ -1,0 +1,76 @@
+You are analyzing an IPES (Interconnected VoIP Provider) company that filed for numbering authorization with the FCC.
+
+Based ONLY on the evidence provided below, determine:
+1. Whether the company is likely still active
+2. Their industry segment (UCaaS, CCaaS, CPaaS, Carrier, Reseller, Enterprise IT, or Other)
+3. A brief product summary
+4. Their market position (Enterprise, Mid-Market, SMB, Startup, or Unknown)
+5. Your confidence level based on evidence quality
+
+EVIDENCE PACK:
+{
+  "company_name": "Broadband Dynamics, LLC",
+  "aliases": [
+    "Broadband Dynamics, LLC"
+  ],
+  "fcc_filing": {
+    "first_filing_date": "2026-01-27",
+    "latest_filing_date": "2026-01-27",
+    "total_filings": 1,
+    "docket_numbers": [],
+    "proceeding_types": [
+      "VoIP Numbering Authorization Application (Fee Required)"
+    ],
+    "has_supplements": false,
+    "recent_activity": true
+  },
+  "parsed_from_docs": {
+    "address": null,
+    "city": null,
+    "state": null,
+    "zip_code": null,
+    "phone": null,
+    "email": null,
+    "key_personnel": [],
+    "founding_date": null,
+    "service_description": null
+  },
+  "web_search_results": [
+    {
+      "title": "VoIP - INTERNET TELEPHONY Feature Articles",
+      "url": "https://www.tmcnet.com/voip/features/",
+      "snippet": "TDM has served air traffic controllers well for some time, but due to telecommunications carriers cutting service offerings, it may be time for the ..."
+    },
+    {
+      "title": "Broadband : TelecomMediaTech Law Blog : Washington DC Lawyer",
+      "url": "http://www.telecommediatechlaw.com/broadband/",
+      "snippet": "The rules define a VoIP service as \u201c interconnected \u201d if it (1) enables realtime, two-way voice communications; (2) requires a broadband ..."
+    },
+    {
+      "title": "Top VOIP Providers Archives - RQ Communications",
+      "url": "https://rqcommunications.com/category/top-voip-providers/",
+      "snippet": "Verizon\u2019s Business Digital Voice is a VoIP (Voice over Internet Protocol) phone service provided by broadband . ... are your Telecommunications ..."
+    },
+    {
+      "title": "VoIP Phone Suppliers @ ProcessRegister.com",
+      "url": "https://www.processregister.com/VoIP_Phone/Suppliers/pid12871.htm",
+      "snippet": "... 576-1158 High Speed Telecom, LLC specializes in providing, servicing, and maintaining business telephone systems & voice over IP ( VoIP ) solutions."
+    },
+    {
+      "title": "US8194640B2 - Voice over IP (VoIP) network infrastructure",
+      "url": "https://patents.google.com/patent/US8194640B2/en",
+      "snippet": "F/K/A GENBAND US LLC AND SONUS NETWORKS, INC.) reassignment RIBBON COMMUNICATIONS OPERATING COMPANY, INC. ... F/K/A GENBAND US LLC AND SONUS NETWORKS ..."
+    }
+  ]
+}
+
+RULES:
+- Ground ALL assessments in the provided evidence
+- Cite specific sources in activity_signal (e.g., "Recent FCC filing (2024)", "Company website found via search")
+- Use "Unknown" when evidence is insufficient - DO NOT hallucinate
+- Confidence levels:
+  - High = Multiple confirming signals (recent web presence + recent filings + company details)
+  - Medium = Some signals but incomplete picture
+  - Low = FCC data only, no external confirmation
+
+Call the enrichment_result function with your analysis.

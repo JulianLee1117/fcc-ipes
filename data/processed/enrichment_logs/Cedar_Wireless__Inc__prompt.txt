@@ -1,0 +1,78 @@
+You are analyzing an IPES (Interconnected VoIP Provider) company that filed for numbering authorization with the FCC.
+
+Based ONLY on the evidence provided below, determine:
+1. Whether the company is likely still active
+2. Their industry segment (UCaaS, CCaaS, CPaaS, Carrier, Reseller, Enterprise IT, or Other)
+3. A brief product summary
+4. Their market position (Enterprise, Mid-Market, SMB, Startup, or Unknown)
+5. Your confidence level based on evidence quality
+
+EVIDENCE PACK:
+{
+  "company_name": "Cedar Wireless, Inc.",
+  "aliases": [
+    "Cedar Wireless, Inc."
+  ],
+  "fcc_filing": {
+    "first_filing_date": "2021-03-31",
+    "latest_filing_date": "2021-03-31",
+    "total_filings": 1,
+    "docket_numbers": [
+      "21-117"
+    ],
+    "proceeding_types": [
+      "Interconnected VoIP Numbering Authorization Application Filed By Cedar Wireless, Inc. Pursuant To Section 52.15(g)(3) Of The Commission's Rules"
+    ],
+    "has_supplements": false,
+    "recent_activity": false
+  },
+  "parsed_from_docs": {
+    "address": null,
+    "city": null,
+    "state": null,
+    "zip_code": null,
+    "phone": null,
+    "email": null,
+    "key_personnel": [],
+    "founding_date": null,
+    "service_description": null
+  },
+  "web_search_results": [
+    {
+      "title": "AS55243 CEDARNET - Cedar Wireless , Inc ., US | IPIP.NET",
+      "url": "https://whois.ipip.net/AS55243",
+      "snippet": "United States. IP Address Ranges.OrgName: Cedar Wireless , Inc . OrgId: CW-108 Address: 1042 N. Mountain Ave."
+    },
+    {
+      "title": "AS55243 Cedar Wireless Inc - Information and... - NetworksDB.io",
+      "url": "https://networksdb.io/autonomous-system/AS55243",
+      "snippet": "AS55243 - Cedar Wireless Inc . AS Number: 55243 AS Name: CEDARNET Organisation: Cedar Wireless , Inc Location: United States United States. IPv4 IPv6."
+    },
+    {
+      "title": "AS55243 Cedar Wireless , Inc . \u2014 ditatompel.com",
+      "url": "https://www.ditatompel.com/asn/55243",
+      "snippet": "ISP company Autonomous System Number (ASN) information of AS55243 Cedar Wireless , Inc . (CEDARNET)."
+    },
+    {
+      "title": "cedar - wireless - inc .10gigabitethernet22.switch1.lax3.he.net - dns.ninja",
+      "url": "https://dns.ninja/dnsip/cedar-wireless-inc.10gigabitethernet22.switch1.lax3.he.net",
+      "snippet": "IP /hostname.shn:uclon130096 cfcaller:172.68.139.85:26576 description:dns info about cedar - wireless - inc .10gigabitethernet22.switch1.lax3.he.net robots: dinfo:ir:loading skeleton:??? content: cedar - wireless - inc .10gigabitethernet22.switch1.lax3.he.net checked at."
+    },
+    {
+      "title": "AS55243 - Cedar Wireless , Inc . - Informasi Jaringan",
+      "url": "https://www.proxydocker.com/id/AS55243",
+      "snippet": "Rentang Alamat IP dan Detail Whois.AS55243 is an autonomous system number managed by ARIN, owned by Cedar Wireless , Inc . and located in United States proxy United States, North America."
+    }
+  ]
+}
+
+RULES:
+- Ground ALL assessments in the provided evidence
+- Cite specific sources in activity_signal (e.g., "Recent FCC filing (2024)", "Company website found via search")
+- Use "Unknown" when evidence is insufficient - DO NOT hallucinate
+- Confidence levels:
+  - High = Multiple confirming signals (recent web presence + recent filings + company details)
+  - Medium = Some signals but incomplete picture
+  - Low = FCC data only, no external confirmation
+
+Call the enrichment_result function with your analysis.

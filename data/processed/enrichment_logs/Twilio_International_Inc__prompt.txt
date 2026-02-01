@@ -1,0 +1,119 @@
+You are analyzing an IPES (Interconnected VoIP Provider) company that filed for numbering authorization with the FCC.
+
+Based ONLY on the evidence provided below, determine:
+1. Whether the company is likely still active
+2. Their industry segment (UCaaS, CCaaS, CPaaS, Carrier, Reseller, Enterprise IT, or Other)
+3. A brief product summary
+4. Their market position (Enterprise, Mid-Market, SMB, Startup, or Unknown)
+5. Your confidence level based on evidence quality
+
+EVIDENCE PACK:
+{
+  "company_name": "Twilio International Inc.",
+  "aliases": [
+    "Twilio International Inc."
+  ],
+  "fcc_filing": {
+    "first_filing_date": "2019-09-13",
+    "latest_filing_date": "2019-09-13",
+    "total_filings": 1,
+    "docket_numbers": [
+      "19-353"
+    ],
+    "proceeding_types": [
+      "Interconnected VoIP Numbering Authorization Application Filed  By Twilio International Inc. Pursuant To Section 52.15(g)(3) Of The Commission's Rules"
+    ],
+    "has_supplements": false,
+    "recent_activity": false
+  },
+  "parsed_from_docs": {
+    "address": "375 Beale St.",
+    "city": null,
+    "state": null,
+    "zip_code": null,
+    "phone": "2025506054",
+    "email": "rthompson@twilio.com",
+    "key_personnel": [
+      {
+        "name": "Chief Financial Officer",
+        "title": "Khozema Shipchandler"
+      },
+      {
+        "name": "Chief Product Officer",
+        "title": "Chee Chew"
+      },
+      {
+        "name": "Chief Technology Officer",
+        "title": "Ott Kaukver"
+      },
+      {
+        "name": "Chief Product Officer",
+        "title": "Chee Chew"
+      },
+      {
+        "name": "Chief Technology Officer",
+        "title": "Ott serves"
+      },
+      {
+        "name": "Chief Financial Officer",
+        "title": "Khozema brings"
+      },
+      {
+        "name": "chief financial officer",
+        "title": "and EVP"
+      },
+      {
+        "name": "of corporate",
+        "title": "president"
+      },
+      {
+        "name": "and Deputy",
+        "title": "President"
+      },
+      {
+        "name": "to his role",
+        "title": "CFO"
+      }
+    ],
+    "founding_date": null,
+    "service_description": "offer interconnected VoIP service to end user customers and\nwill be capable of providing service within sixty (60) days of the numbering resources\nactivation date as required by 47 C."
+  },
+  "web_search_results": [
+    {
+      "title": "Twilio Competitors And Alternatives 2025 | SEOAves",
+      "url": "https://seoaves.com/twilio-competitors-and-alternatives/",
+      "snippet": "Vonage is regarded as one of the sector \u2019 s most formidable rivals to Twilio due to its fiscal year 2018 revenues and net income of 1.05 ..."
+    },
+    {
+      "title": "Top 15 Twilio Competitors & Alternatives | Business",
+      "url": "https://bstrategyhub.com/twilio-competitors-alternatives/",
+      "snippet": "... increases the quality of its services ... The acquisition increases their competitive edge and can now challenge Twilio \u2019s dominance of the sector."
+    },
+    {
+      "title": "Cloud comms company Twilio is preparing itself for an IPO, but",
+      "url": "https://siliconangle.com/2015/02/20/cloud-comms-company-twilio-is-preparing-itself-for-an-ipo-but-is-in-no-rush/",
+      "snippet": "Founded in 2007 Twilio offers sells an API which enables developers to voice, VoIP and SMS apps via simple code. ... Twilio might not be a household ..."
+    },
+    {
+      "title": "Local calling guide: Switch",
+      "url": "https://www.localcallingguide.com/lca_switch.php?switch=YNTWOH78",
+      "snippet": "024E ARMSTRONG TELECOMMUNICATIONS , INC . ... 506J TWILIO INTERNATIONAL , INC . ... Sponsored by: Callcentric - VoIP Internet phone service"
+    },
+    {
+      "title": "St. George, Utah Area Codes - Map, Current Time, Prefixes",
+      "url": "https://areacodes.net/utah/st-george",
+      "snippet": "Xo Utah, Inc . ... T-mobile USA, Inc . ... Mcleodusa Telecommunication Services, Inc ."
+    }
+  ]
+}
+
+RULES:
+- Ground ALL assessments in the provided evidence
+- Cite specific sources in activity_signal (e.g., "Recent FCC filing (2024)", "Company website found via search")
+- Use "Unknown" when evidence is insufficient - DO NOT hallucinate
+- Confidence levels:
+  - High = Multiple confirming signals (recent web presence + recent filings + company details)
+  - Medium = Some signals but incomplete picture
+  - Low = FCC data only, no external confirmation
+
+Call the enrichment_result function with your analysis.

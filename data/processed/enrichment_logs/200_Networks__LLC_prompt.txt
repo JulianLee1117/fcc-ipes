@@ -1,0 +1,78 @@
+You are analyzing an IPES (Interconnected VoIP Provider) company that filed for numbering authorization with the FCC.
+
+Based ONLY on the evidence provided below, determine:
+1. Whether the company is likely still active
+2. Their industry segment (UCaaS, CCaaS, CPaaS, Carrier, Reseller, Enterprise IT, or Other)
+3. A brief product summary
+4. Their market position (Enterprise, Mid-Market, SMB, Startup, or Unknown)
+5. Your confidence level based on evidence quality
+
+EVIDENCE PACK:
+{
+  "company_name": "200 Networks, LLC",
+  "aliases": [
+    "200 Networks, LLC"
+  ],
+  "fcc_filing": {
+    "first_filing_date": "2020-07-23",
+    "latest_filing_date": "2020-07-23",
+    "total_filings": 1,
+    "docket_numbers": [
+      "20-244"
+    ],
+    "proceeding_types": [
+      "Interconnected VoIP Numbering Authorization Application Filed By 200 Networks, LLC Pursuant To Section 52.15(g)(3) Of The Commission's Rules"
+    ],
+    "has_supplements": false,
+    "recent_activity": false
+  },
+  "parsed_from_docs": {
+    "address": "10580 N McCarranBlvd 115-302",
+    "city": "Reno",
+    "state": "NE",
+    "zip_code": "89503",
+    "phone": "8553788007",
+    "email": null,
+    "key_personnel": [],
+    "founding_date": null,
+    "service_description": "provide interconnectedVoIP services initially inthe states ofFloridaandTexas."
+  },
+  "web_search_results": [
+    {
+      "title": "200 Networks LLC Company Profile | Fayetteville, Arkansas ... Report: Call Center Provider Exposed Robocall Database 200 Networks LLC in Fayetteville, AR - (479) 387-5325 - Profile Call Center Provider Experiences Major Data Leak Call center data leak. Gun owner database possibly exposed ... BreachExchange: Call Center Provider Experiences Major Data Leak Professional Telephone Solutions Scottsdale | Professional ...",
+      "url": "https://www.dnb.com/business-directory/company-profiles.200_networks_llc.945d4a155119bec2c0a9368fa80c9890.html",
+      "snippet": "Find company research, competitor information, contact details & financial data for 200 Networks LLC of Fayetteville, Arkansas. Mar 25, 2021 \u00b7 The database and records belonged to a company called 200 Networks , LLC based in Reno, Nevada. We immediately sent a responsible disclosure notice of our findings and 200 Networks restricted public access shortly after. 200 Networks LLC is in the Voice Telephone Communications business. View competitors, revenue, employees, website and phone number. Mar 29, 2021 \u00b7 The database belonged to 200 Networks , LLC , a company based in Reno, Nevada. The security researchers informed the company of their findings and 200 Networks restricted public access shortly after. See full list on thecyberwire.com Website Planet explainsthat a recent data exposure from a robocall center sheds light on the practice of autodialing. Last October, researchers at Website Planet discovered an unsecured database of phone call records from 200 Networks , LLC , a robocall service provider based in the US state of Nevada. Once notified, the company secured the database ... See full list on thecyberwire.com An anonymous hacker has leaked a large cache of files that he alleges were stolen from online firearm peddler Guns.com, Gizmodo reports. Published on popular underground website Raid Forums, the data included customer login credentials, full names, email addresses, phone numbers, and most notably, full physical addresses. The dump also revealed det... See full list on thecyberwire.com Further evidence that cybercriminals will continue to target the healthcare sector this year, the threat groups Conti, Babuk, and Avaddon have published data allegedly stolen from five US and UK healthcare institutions, HealthITSecurity reports. Avaddon leaked approximately 2.09GB of data they claim belongs to Bridgeway Senior Healthcare, and has p... See full list on thecyberwire.com The US Federal Bureau of Investigation (FBI) has released a statement warning US organizations of increased attacks from the Mamba ransomware group, The Record by Recorded Future reports. First detected in 2016, Mamba ransomware is notorious for its ability to first encrypt data, then rewrite the system\u2019s Master Boot Record MBR, which prevents the ... See full list on thecyberwire.com Information Security Magazine reports that US insurance giant CNA Financial, one of the country's largest commercial property and casualty insurance companies, was the victim of a cyberattack that has forced the company to completely shut down its network. CNA\u2019s official statement called the attack \u201csophisticated\u201d and revealed that corporate email ... See full list on thecyberwire.com Zimperium reportsfinding a new strain of Android malware circulating in the wild. It pretends to be a system update app, and it carries with it an impressive array of privacy-compromising capabilities: 1. \"Stealing instant messenger messages; 2. \"Stealing instant messenger database files (if root is available); 3. \"Inspecting the default browser\u2019s ... See full list on thecyberwire.com CISA warned, yesterday, of a vulnerability in the Phillips Gemini PET/CT family of devices, whose software saves patient data to a removable device. CISA cites Phillips's guidance and mitigations: 1. Users should operate all Philips deployed and supported Gemini PET/CT systems within Philips authorized specifications, including Philips approved sof... See full list on thecyberwire.com Criminal-on-criminal crime hit the Carding Mafia, an underworld forum in which paycard data are sold, shared, and traded, Vice reports. Accordingto Have I Been Pwned, the stolen records included email addresses, IP addresses, usernames, and hashed passwords for nearly 300,000 people. We received commend on the incident from ImmuniWeb's Ilia Koloche... See full list on thecyberwire.com We describedthe Fat Face breach yesterday, and the company's unusual request (unusual even for a lifestyle retailer) that those affected by the breach keep it quiet. Saryu Nayyar, CEO of Gurucul, also found this aspect of the response odd: \u201cThe breach of UK clothing retailer Fat Face is interesting more for their response than the incident itself. ... See full list on thecyberwire.com Mar 30, 2021 \u00b7 The database belonged to 200 Networks , LLC , a company based in Reno, Nevada. The security researchers informed the company of their findings and 200 Networks restricted public access shortly after. Customer Service : 855.55-FD360 (3.3360) Tech Support : 480.809.6328. Address: Scottsdale, Arizona."
+    },
+    {
+      "title": "200 Networks LLC in Fayetteville, AR - (479) 387-5325 - Profile",
+      "url": "https://www.buzzfile.com/business/200-Networks-LLC-479-387-5325",
+      "snippet": "200 Networks LLC is in the Voice Telephone Communications business. View competitors, revenue, employees, website and phone number."
+    },
+    {
+      "title": "Report: Call Center Provider Exposed Robocall Database",
+      "url": "https://www.websiteplanet.com/blog/robocall-leak-report/",
+      "snippet": "Mar 25, 2021 \u00b7 The database and records belonged to a company called 200 Networks , LLC based in Reno, Nevada. We immediately sent a responsible disclosure notice of our findings and 200 Networks restricted public access shortly after."
+    },
+    {
+      "title": "Call Center Provider Experiences Major Data Leak",
+      "url": "https://hackread.com/call-center-provider-experiences-data-leak/",
+      "snippet": "Mar 29, 2021 \u00b7 The database belonged to 200 Networks , LLC , a company based in Reno, Nevada. The security researchers informed the company of their findings and 200 Networks restricted public access shortly after."
+    },
+    {
+      "title": "Call center data leak. Gun owner database possibly exposed ... BreachExchange: Call Center Provider Experiences Major Data Leak Professional Telephone Solutions Scottsdale | Professional ...",
+      "url": "https://thecyberwire.com/newsletters/privacy-briefing/3/58",
+      "snippet": "See full list on thecyberwire.com Website Planet explainsthat a recent data exposure from a robocall center sheds light on the practice of autodialing. Last October, researchers at Website Planet discovered an unsecured database of phone call records from 200 Networks , LLC , a robocall service provider based in the US state of Nevada. Once notified, the company secured the database ... See full list on thecyberwire.com An anonymous hacker has leaked a large cache of files that he alleges were stolen from online firearm peddler Guns.com, Gizmodo reports. Published on popular underground website Raid Forums, the data included customer login credentials, full names, email addresses, phone numbers, and most notably, full physical addresses. The dump also revealed det... See full list on thecyberwire.com Further evidence that cybercriminals will continue to target the healthcare sector this year, the threat groups Conti, Babuk, and Avaddon have published data allegedly stolen from five US and UK healthcare institutions, HealthITSecurity reports. Avaddon leaked approximately 2.09GB of data they claim belongs to Bridgeway Senior Healthcare, and has p... See full list on thecyberwire.com The US Federal Bureau of Investigation (FBI) has released a statement warning US organizations of increased attacks from the Mamba ransomware group, The Record by Recorded Future reports. First detected in 2016, Mamba ransomware is notorious for its ability to first encrypt data, then rewrite the system\u2019s Master Boot Record MBR, which prevents the ... See full list on thecyberwire.com Information Security Magazine reports that US insurance giant CNA Financial, one of the country's largest commercial property and casualty insurance companies, was the victim of a cyberattack that has forced the company to completely shut down its network. CNA\u2019s official statement called the attack \u201csophisticated\u201d and revealed that corporate email ... See full list on thecyberwire.com Zimperium reportsfinding a new strain of Android malware circulating in the wild. It pretends to be a system update app, and it carries with it an impressive array of privacy-compromising capabilities: 1. \"Stealing instant messenger messages; 2. \"Stealing instant messenger database files (if root is available); 3. \"Inspecting the default browser\u2019s ... See full list on thecyberwire.com CISA warned, yesterday, of a vulnerability in the Phillips Gemini PET/CT family of devices, whose software saves patient data to a removable device. CISA cites Phillips's guidance and mitigations: 1. Users should operate all Philips deployed and supported Gemini PET/CT systems within Philips authorized specifications, including Philips approved sof... See full list on thecyberwire.com Criminal-on-criminal crime hit the Carding Mafia, an underworld forum in which paycard data are sold, shared, and traded, Vice reports. Accordingto Have I Been Pwned, the stolen records included email addresses, IP addresses, usernames, and hashed passwords for nearly 300,000 people. We received commend on the incident from ImmuniWeb's Ilia Koloche... See full list on thecyberwire.com We describedthe Fat Face breach yesterday, and the company's unusual request (unusual even for a lifestyle retailer) that those affected by the breach keep it quiet. Saryu Nayyar, CEO of Gurucul, also found this aspect of the response odd: \u201cThe breach of UK clothing retailer Fat Face is interesting more for their response than the incident itself. ... See full list on thecyberwire.com Mar 30, 2021 \u00b7 The database belonged to 200 Networks , LLC , a company based in Reno, Nevada. The security researchers informed the company of their findings and 200 Networks restricted public access shortly after. Customer Service : 855.55-FD360 (3.3360) Tech Support : 480.809.6328. Address: Scottsdale, Arizona."
+    }
+  ]
+}
+
+RULES:
+- Ground ALL assessments in the provided evidence
+- Cite specific sources in activity_signal (e.g., "Recent FCC filing (2024)", "Company website found via search")
+- Use "Unknown" when evidence is insufficient - DO NOT hallucinate
+- Confidence levels:
+  - High = Multiple confirming signals (recent web presence + recent filings + company details)
+  - Medium = Some signals but incomplete picture
+  - Low = FCC data only, no external confirmation
+
+Call the enrichment_result function with your analysis.

@@ -1,0 +1,35 @@
+{
+  "id": "msg_014ee5tpJhNeXBjSqEWHT7zY",
+  "content": [
+    {
+      "id": "toolu_01SFxCSMacrjqDESRrZKF5Gh",
+      "input": {
+        "is_active": false,
+        "activity_signal": "Company appears inactive based on: 1) Only single FCC filing from 2020-07-23 with no recent activity, 2) Privacy policy page found at whisl.com suggests past web presence, 3) Most significantly, multiple 2024-2025 news articles show Whisl Telecom, LLC being targeted in \"Operation Robocall Roundup\" by attorneys general for illegal robocall activities, indicating regulatory enforcement action against the company",
+        "industry_segment": "Carrier",
+        "product_summary": "Whisl Telecom provided interconnected VoIP services initially in Texas, but appears to have been involved in illegal robocall operations that led to regulatory enforcement actions.",
+        "market_position": "Unknown",
+        "enrichment_confidence": "Medium"
+      },
+      "name": "enrichment_result",
+      "type": "tool_use"
+    }
+  ],
+  "model": "claude-sonnet-4-20250514",
+  "role": "assistant",
+  "stop_reason": "tool_use",
+  "stop_sequence": null,
+  "type": "message",
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0,
+    "input_tokens": 1825,
+    "output_tokens": 265,
+    "server_tool_use": null,
+    "service_tier": "standard"
+  }
+}

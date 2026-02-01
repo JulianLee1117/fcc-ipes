@@ -1,0 +1,103 @@
+You are analyzing an IPES (Interconnected VoIP Provider) company that filed for numbering authorization with the FCC.
+
+Based ONLY on the evidence provided below, determine:
+1. Whether the company is likely still active
+2. Their industry segment (UCaaS, CCaaS, CPaaS, Carrier, Reseller, Enterprise IT, or Other)
+3. A brief product summary
+4. Their market position (Enterprise, Mid-Market, SMB, Startup, or Unknown)
+5. Your confidence level based on evidence quality
+
+EVIDENCE PACK:
+{
+  "company_name": "One Ring Networks, Inc.",
+  "aliases": [
+    "One Ring Networks, Inc."
+  ],
+  "fcc_filing": {
+    "first_filing_date": "2017-08-10",
+    "latest_filing_date": "2017-08-10",
+    "total_filings": 5,
+    "docket_numbers": [
+      "17-219"
+    ],
+    "proceeding_types": [
+      "INTERCONNECTED VOIP NUMBERING AUTHORIZATION APPLICATION FILED BY ONE RING NETWORKS, INC. PURSUANT TO SECTION 52.15(g)(3) OF THE COMMISSION&#146;S RULES"
+    ],
+    "has_supplements": true,
+    "recent_activity": false
+  },
+  "parsed_from_docs": {
+    "address": "411 E Clinton Avenue,",
+    "city": null,
+    "state": "10",
+    "zip_code": null,
+    "phone": "2143829900",
+    "email": null,
+    "key_personnel": [
+      {
+        "name": "Chief Executive Officer",
+        "title": "John Jenkins"
+      },
+      {
+        "name": "of Operations",
+        "title": "President"
+      },
+      {
+        "name": "of Operations",
+        "title": "President"
+      },
+      {
+        "name": "Chief Executive Officer",
+        "title": "John Jenkins"
+      },
+      {
+        "name": "of Operations",
+        "title": "President"
+      },
+      {
+        "name": "of Operations",
+        "title": "President"
+      }
+    ],
+    "founding_date": "1982",
+    "service_description": "Provider\u201d or \u201cIVP\u201d as used in this Agreement is the entity set forth in the Preamble and that provides\ninterconnected VoIP service as that term is defined in 47 U."
+  },
+  "web_search_results": [
+    {
+      "title": "One Ring Networks Business Internet Solutions - CA, GA, TX ...",
+      "url": "https://oneringnetworks.com/",
+      "snippet": "One Ring Networks offers internet solutions including fixed wireless, fiber, hosted PBX and managed services. Available in California, Georgia, Texas, Maryland, and Arizona."
+    },
+    {
+      "title": "One Ring Networks - 2025 Company Profile & Team - Tracxn",
+      "url": "https://tracxn.com/d/companies/one-ring-networks/__JK13DcyAk7RebkBS72uGOozqmtXmvElA7U77L-rGlrA",
+      "snippet": "Sep 10, 2025 \u00b7 One Ring Networks is a telecom service provider which caters to business customers. It offers broadband internet access (fixed wireless, fiber-optic, 4G LTE) with data speeds up to 10 Gbps, multiple speed based internet plans, dedicated internet access, Ethernet, MPLS IP -VPN, local and long distance VoIP telephony with hosted PBX, unified ..."
+    },
+    {
+      "title": "EarthLink\u00ae Acquires One Ring Networks, Inc. Expanding Its ...",
+      "url": "https://www.prnewswire.com/news-releases/earthlink-acquires-one-ring-networks-inc-expanding-its-reach-to-bring-business-customers-best-in-class-products-and-services-301884522.html",
+      "snippet": "Jul 25, 2023 \u00b7 One Ring Networks , Inc ., with its boutique-type services, holds a significant market share across Arizona, California, Georgia, Maryland, and Texas, delivering high-speed, fixed wireless..."
+    },
+    {
+      "title": "EarthLink Acquires One Ring Networks",
+      "url": "https://www.earthlink.net/media/press-releases/earthlink-acquires-one-ring-networks/",
+      "snippet": "One Ring Networks is an industry-leading provider of voice and data services across Arizona, California, Georgia, Maryland, and Texas. It offers a variety of services including fixed wireless internet service and other communications services to businesses and consumers."
+    },
+    {
+      "title": "EarthLink Expands Business Reach with Acquisition of One Ring ...",
+      "url": "https://www.tmcnet.com/voip/news/articles/456635-earthlink-expands-business-reach-with-acquisition-one-ring.htm",
+      "snippet": "Jul 28, 2023 \u00b7 EarthLink delivers reliable and efficient internet access to residential customers and small businesses. With the addition of One Ring Networks , a notable player in the telecommunications industry, EarthLink is poised to extend its reach and capabilities in the business market."
+    }
+  ]
+}
+
+RULES:
+- Ground ALL assessments in the provided evidence
+- Cite specific sources in activity_signal (e.g., "Recent FCC filing (2024)", "Company website found via search")
+- Use "Unknown" when evidence is insufficient - DO NOT hallucinate
+- Confidence levels:
+  - High = Multiple confirming signals (recent web presence + recent filings + company details)
+  - Medium = Some signals but incomplete picture
+  - Low = FCC data only, no external confirmation
+
+Call the enrichment_result function with your analysis.

@@ -1,0 +1,107 @@
+You are analyzing an IPES (Interconnected VoIP Provider) company that filed for numbering authorization with the FCC.
+
+Based ONLY on the evidence provided below, determine:
+1. Whether the company is likely still active
+2. Their industry segment (UCaaS, CCaaS, CPaaS, Carrier, Reseller, Enterprise IT, or Other)
+3. A brief product summary
+4. Their market position (Enterprise, Mid-Market, SMB, Startup, or Unknown)
+5. Your confidence level based on evidence quality
+
+EVIDENCE PACK:
+{
+  "company_name": "VoIP Stir PR LLC, George Von Kaltner, Allan Noorda",
+  "aliases": [
+    "VoIP Stir PR LLC, George Von Kaltner, Allan Noorda"
+  ],
+  "fcc_filing": {
+    "first_filing_date": "2023-11-17",
+    "latest_filing_date": "2023-11-17",
+    "total_filings": 1,
+    "docket_numbers": [
+      "23-409"
+    ],
+    "proceeding_types": [
+      "Interconnected VoIP Numbering Authorization Application Filed By VoIP Stir PR, LLC Pursuant To Section 52.15(g)(3) of the Commission's Rules"
+    ],
+    "has_supplements": false,
+    "recent_activity": false
+  },
+  "parsed_from_docs": {
+    "address": "1607 Poince De Leon Avenue, Suite GM8",
+    "city": null,
+    "state": null,
+    "zip_code": null,
+    "phone": null,
+    "email": null,
+    "key_personnel": [
+      {
+        "name": "Company Website",
+        "title": "CEO"
+      },
+      {
+        "name": "Maxim Doumkine",
+        "title": "CEO"
+      },
+      {
+        "name": "George brings",
+        "title": "CEO"
+      },
+      {
+        "name": "experience and",
+        "title": "CEO"
+      },
+      {
+        "name": "Maxim is",
+        "title": "CTO"
+      },
+      {
+        "name": "of VoIP",
+        "title": "CTO"
+      },
+      {
+        "name": "His presence",
+        "title": "CTO"
+      }
+    ],
+    "founding_date": null,
+    "service_description": "provide VoIP services in the\nUnited States through its own facilities and those of its CLEC partner(s) with which it has\narrangements in place for routing traffic to the PSTN."
+  },
+  "web_search_results": [
+    {
+      "title": "The Most Feature-Rich VoIP Provider for Businesses",
+      "url": "https://voip.ms/",
+      "snippet": "State-of-the-Art VoIP Service Provider As a Telecommunications Service Provider, we are devoted to providing quality local and international connections to our customers around the world."
+    },
+    {
+      "title": "Phone Validator | Check Line Type & Lookup Carrier - IPQS eTaskPro and Grandstream Announce Integration of RAI VoIP ... Top VoIP companies in Colorado - Colorado Springs - January, 2026 Best VoIP Phone System for Large Businesses | Enterprise ... Tierra Moultry Found - Phone Numbers, Addresses & Possible ... VoIP Telecom Specialist in Various Locations within the City ...",
+      "url": "https://www.ipqualityscore.com/phone-number-validator",
+      "snippet": "Validating phone numbers for registrations, payments, marketing lists, and overall user verification (such as AML/KYC) is an industry best practice to ensure your user data is accurate and up to date. Phone number verification also has an added benefit of limiting abusive behavior such as fake duplicate accounts and abuse from credit card chargebac... See full list on ipqualityscore.com Upon searching with the phone number validator tool above, IPQS will automatically lookup the number against the country's number routing rules. A quick syntax check is performed to ensure the phone number is properly formatted and then matched against active line types. Once a match is found, the carrier details are retrieved and further analysis ... See full list on ipqualityscore.com Using either the phone verification API or bulk phone number validation processing will return the number's associated country, dialing code, carrier name, line type, prepaid status, risk score, and overall validity as true or false. This makes validating phone numbers an easy process which can identify invalid or disconnected phone numbersthat lik... See full list on ipqualityscore.com Validating phone numbers also includes line type detectionand carrier lookup details. IPQS phone number verification provides insight into the true quality of the user by detecting invalid phone numbers and the subscriber status. Some carriers, especially among ported numbers or prepaid plans, can represent higher risk. The IPQS phone validator too... See full list on ipqualityscore.com For most advanced telecom and voice users that want to verify phone numbers, we recommend our HLR lookup service & LRN phone data that can provide direct carrier details for number routing. Roaming status, carrier lookups, and line type checks, even for ported numbers, are fully available for most countries. Carrier lookups can provide important in... See full list on ipqualityscore.com Active phone numbers and phone number reputation can play an important role in identity verification. To check if a phone number is real or active in service, use the phone number lookup tool above. The phone number validatorwill use real-time carrier data with support for over 150 countries, to ping the carrier and check if the subscriber is activ... See full list on ipqualityscore.com 2 days ago \u00b7 The RAI VoIP Billing Application simplifies and automates telecom billing for organizations of all sizes. Designed for accuracy, scalability, and control, it enables businesses to monitor call usage, automate invoicing, manage budgets, and generate real-time reports with ease. Top VoIP companies in Colorado - Colorado Springs - January, 2026 Listed below are the top companies in Colorado - Colorado Springs by revenue as of January 2026. With $10.8M in revenue, City Moms Blog Network is ranked first on the list, followed by Qlink with $9M in revenue and North American Internet with $8.4M in revenue. Find additional information about companies in Colorado - Colorado ... Clear Clouds by SE Telecom \u2013 Enterprise Cloud VoIP Built for Scale Clear Clouds is increasingly selected as a VoIP phone system for large businesses by organizations seeking predictable pricing, strong governance, and scalable cloud communications without long-term lock-ins. (440) 278-4335 voip time warner cable information services (ohio) llc - oh (tw telecom ) First Reported June 26, 2023 3 days ago \u00b7 Apply for VoIP Telecom Specialist position in Various Locations within the City of El Paso, TX through GovernmentJobs.com. Join our team and become a part of City of El Paso community."
+    },
+    {
+      "title": "eTaskPro and Grandstream Announce Integration of RAI VoIP ...",
+      "url": "https://telecomreseller.com/2026/01/30/etaskpro-and-grandstream-announce-integration-of-rai-voip-billing-application-with-grandstreams-ucm-series-solutions/",
+      "snippet": "2 days ago \u00b7 The RAI VoIP Billing Application simplifies and automates telecom billing for organizations of all sizes. Designed for accuracy, scalability, and control, it enables businesses to monitor call usage, automate invoicing, manage budgets, and generate real-time reports with ease."
+    },
+    {
+      "title": "Top VoIP companies in Colorado - Colorado Springs - January, 2026",
+      "url": "https://www.zoominfo.com/top-lists/top-voip-companies-in-US--colorado--colorado-springs",
+      "snippet": "Top VoIP companies in Colorado - Colorado Springs - January, 2026 Listed below are the top companies in Colorado - Colorado Springs by revenue as of January 2026. With $10.8M in revenue, City Moms Blog Network is ranked first on the list, followed by Qlink with $9M in revenue and North American Internet with $8.4M in revenue. Find additional information about companies in Colorado - Colorado ..."
+    },
+    {
+      "title": "Best VoIP Phone System for Large Businesses | Enterprise ...",
+      "url": "https://setelecom.ca/voip-phone-system-for-large-businesses/",
+      "snippet": "Clear Clouds by SE Telecom \u2013 Enterprise Cloud VoIP Built for Scale Clear Clouds is increasingly selected as a VoIP phone system for large businesses by organizations seeking predictable pricing, strong governance, and scalable cloud communications without long-term lock-ins."
+    }
+  ]
+}
+
+RULES:
+- Ground ALL assessments in the provided evidence
+- Cite specific sources in activity_signal (e.g., "Recent FCC filing (2024)", "Company website found via search")
+- Use "Unknown" when evidence is insufficient - DO NOT hallucinate
+- Confidence levels:
+  - High = Multiple confirming signals (recent web presence + recent filings + company details)
+  - Medium = Some signals but incomplete picture
+  - Low = FCC data only, no external confirmation
+
+Call the enrichment_result function with your analysis.
