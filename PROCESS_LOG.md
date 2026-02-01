@@ -39,3 +39,50 @@ Pulled sample descriptions, filtered for APPLICATIONs not matching known pattern
 ## Result
 
 **240 IPES applications** captured. Zero missed. 15 noise filings filtered out.
+
+---
+
+## 2026-01-31 17:45 — Phase 3: Data Modeling Decisions
+
+### Why Company-Centric Structure?
+
+The raw data is **filing-centric** (one record per submission). But the business question is **company-centric**: "Who are the IPES players?"
+
+Same company appears multiple times:
+- Initial APPLICATION
+- SUPPLEMENTs (additional docs)
+- AMENDMENTs (corrections)
+- Sometimes multiple APPLICATION attempts
+
+**Decision:** Group by normalized company name → one record per company with all filings linked.
+
+### Why These Fields?
+
+| Field | Why |
+|-------|-----|
+| `company_name` | Primary identifier for enrichment/analysis |
+| `docket_numbers` | Links to official FCC proceeding (e.g., "WC 20-244") |
+| `first_filing_date` | When they entered the IPES market |
+| `documents[]` | URLs needed for Phase 4 downloads |
+| `contacts` / `attorneys` | Potential enrichment signals |
+| `proceeding_types` | Confirms it's actually an IPES application |
+
+### Name Normalization
+
+Companies file with inconsistent names:
+- "RGTN USA, Inc." vs "RGTN USA Inc."
+- "Mix Networks, Inc" vs "Mix Networks"
+
+**Solution:** Normalize (lowercase, standardize suffixes), but preserve original variations in `name_variations[]`.
+
+### Edge Cases Accepted
+
+~34 records are individuals (not corporate names). Investigation showed these are:
+- Attorneys filing on behalf of companies
+- Officers/founders filing personally
+
+The actual company name often appears in `proceeding_types`. Kept as-is — AI enrichment (Phase 5) can resolve.
+
+### Result
+
+**200 unique IPES companies** from 896 filtered filings. 166 clearly corporate, 34 individual filers.
